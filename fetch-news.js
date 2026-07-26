@@ -54,6 +54,7 @@ const SOURCES = [
     id: "reuters",
     name: "Reuters",
     homepage: "https://www.reuters.com/",
+    translate: true,
     feeds: [
       "https://reutersbest.com/topic/politics-general/feed/",
       "https://reutersbest.com/topic/business-finance/feed/",
@@ -65,16 +66,24 @@ const SOURCES = [
     id: "cnn",
     name: "CNN",
     homepage: "https://edition.cnn.com/",
+    translate: true,
+    /*
+      Stari naslov rss.cnn.com/rss/edition.rss se se vedno odziva,
+      a ga CNN ne polni vec redno - vracal je clanke izpred let.
+      Zato gre zdaj najprej prek Google News, kar se je pri
+      Reutersu izkazalo za zanesljivo.
+    */
     feeds: [
-      "http://rss.cnn.com/rss/edition.rss",
-      "https://rss.cnn.com/rss/edition.rss",
-      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+      "http://rss.cnn.com/rss/edition.rss"
     ]
   },
   {
     id: "bbc",
     name: "BBC",
     homepage: "https://www.bbc.com/news",
+    translate: true,
     feeds: [
       "https://feeds.bbci.co.uk/news/rss.xml",
       "https://news.google.com/rss/search?q=site%3Abbc.com%2Fnews%20when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen"
@@ -84,6 +93,7 @@ const SOURCES = [
     id: "aljazeera",
     name: "Al Jazeera",
     homepage: "https://www.aljazeera.com/",
+    translate: true,
     feeds: [
       "https://www.aljazeera.com/xml/rss/all.xml",
       "https://news.google.com/rss/search?q=site%3Aaljazeera.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
@@ -266,6 +276,264 @@ function parseFeed(xml, source) {
   return items.slice(0, COUNT);
 }
 
+/* ---------------- prevajanje v slovenscino ---------------- */
+
+/*
+  Prevajamo SAMO nove naslove. Ze prevedene preberemo iz prejsnjega
+  news.json in jih uporabimo znova. Brez tega bi ob prozitvi vsaki
+  2 minuti prislo do ~17.000 prevodov na dan, kar noben brezplacen
+  servis ne prenese. Tako jih je realno 100-200 na dan.
+*/
+
+function readPreviousTranslations() {
+  const map = new Map();
+  try {
+    const target = path.resolve(process.cwd(), OUT_FILE);
+    if (!fs.existsSync(target)) return map;
+
+    const old = JSON.parse(fs.readFileSync(target, "utf8"));
+    for (const items of Object.values(old.sources || {})) {
+      for (const item of items) {
+        if (item && item.title && item.titleSl) {
+          map.set(item.title, item.titleSl);
+        }
+      }
+    }
+  } catch (_) {}
+  return map;
+}
+
+async function translateOne(text) {
+  /* 1) Google (neuraden naslov, brez kljuca) */
+  try {
+    const url =
+      "https://translate.googleapis.com/translate_a/single" +
+      "?client=gtx&sl=auto&tl=sl&dt=t&q=" +
+      encodeURIComponent(text);
+    const raw = await get(url, 12000);
+    const data = JSON.parse(raw);
+    if (Array.isArray(data) && Array.isArray(data[0])) {
+      const out = data[0]
+        .map(part => (part && part[0] ? part[0] : ""))
+        .join("")
+        .trim();
+      if (out) return out;
+    }
+  } catch (_) {}
+
+  /* 2) MyMemory (rezerva, prav tako brez kljuca) */
+  try {
+    const url =
+      "https://api.mymemory.translated.net/get?langpair=en|sl&q=" +
+      encodeURIComponent(text);
+    const raw = await get(url, 12000);
+    const data = JSON.parse(raw);
+    const out = data && data.responseData && data.responseData.translatedText;
+    if (out && !/MYMEMORY WARNING|QUERY LENGTH LIMIT/i.test(out)) {
+      return String(out).trim();
+    }
+  } catch (_) {}
+
+  return "";
+}
+
+async function translateItems(source, items, cache) {
+  let fresh = 0;
+  let reused = 0;
+
+  for (const item of items) {
+    const known = cache.get(item.title);
+    if (known) {
+      item.titleSl = known;
+      reused++;
+      continue;
+    }
+
+    const translated = await translateOne(item.title);
+    if (translated && translated !== item.title) {
+      item.titleSl = translated;
+      cache.set(item.title, translated);
+      fresh++;
+      /* Kratek premor, da servisa ne obremenjujemo v rafalu. */
+      await new Promise(r => setTimeout(r, 250));
+    }
+  }
+
+  const missing = items.filter(x => !x.titleSl).length;
+  console.log(
+    `    prevod: ${fresh} novih, ${reused} iz pomnilnika` +
+      (missing ? `, ${missing} neuspesnih` : "")
+  );
+}
+
+/* ---------------- na danasnji dan ---------------- */
+
+/*
+  Vir: dnevna stran slovenske Wikipedije, npr. "27. julij".
+  Prednost pred Wikimedijinim onthisday API-jem: ta podpira le nekaj
+  jezikov, slovenscine ne. Dnevna stran pa je ze v slovenscini in
+  po naravi vsebuje vec slovenskih dogodkov.
+*/
+
+const SL_MESECI = [
+  "januar", "februar", "marec", "april", "maj", "junij",
+  "julij", "avgust", "september", "oktober", "november", "december"
+];
+
+/* Kljucne besede, po katerih slovenske dogodke potisnemo naprej. */
+const SL_KLJUCNE = /(sloven|ljubljan|maribor|celje|kranj|koper|ptuj|novo mesto|velenje|jugoslavij|prešern|trubar|plečnik|cankar|triglav|primorsk|štajersk|gorenjsk|dolenjsk|prekmurj|korošk|istr|soč|posoč|bled|piran|obala)/i;
+
+function cleanWikitext(input) {
+  let t = String(input || "");
+
+  t = t.replace(/<ref[^>]*\/>/gi, "");
+  t = t.replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, "");
+  t = t.replace(/<!--[\s\S]*?-->/g, "");
+
+  /* Predloge lahko gnezdijo - odstranjujemo od znotraj navzven. */
+  for (let i = 0; i < 5; i++) {
+    const before = t;
+    t = t.replace(/\{\{[^{}]*\}\}/g, "");
+    if (t === before) break;
+  }
+
+  t = t.replace(/\[\[[^\]|]*\|([^\]]*)\]\]/g, "$1");
+  t = t.replace(/\[\[([^\]]*)\]\]/g, "$1");
+  t = t.replace(/\[https?:\/\/\S+\s+([^\]]*)\]/g, "$1");
+  t = t.replace(/'''/g, "").replace(/''/g, "");
+  t = t.replace(/<[^>]+>/g, "");
+  t = t.replace(/&nbsp;/g, " ");
+  t = t.replace(/&amp;/g, "&");
+  t = t.replace(/\s+/g, " ").trim();
+
+  return t;
+}
+
+function extractWikiSection(wikitext, names) {
+  const lines = String(wikitext || "").split("\n");
+  const out = [];
+  let inside = false;
+
+  for (const line of lines) {
+    const heading = line.match(/^\s*(={2,})\s*(.+?)\s*\1\s*$/);
+    if (heading) {
+      const title = cleanWikitext(heading[2]).toLowerCase();
+      inside = names.some(n => title === n || title.startsWith(n));
+      continue;
+    }
+    if (inside) out.push(line);
+  }
+
+  return out;
+}
+
+function parseWikiEvents(lines, type) {
+  const items = [];
+
+  for (const raw of lines) {
+    if (!/^\s*\*/.test(raw)) continue;
+
+    const line = cleanWikitext(raw.replace(/^\s*\*+\s*/, ""));
+    if (!line) continue;
+
+    /* Oblika: "1214 – opis"  ali  "44 pr. n. št. – opis" */
+    const m = line.match(
+      /^(\d{1,4}\s*(?:pr\.\s*n\.\s*št\.)?)\s*[–—-]\s*(.+)$/
+    );
+    if (!m) continue;
+
+    const year = m[1].replace(/\s+/g, " ").trim();
+    let text = m[2].trim();
+    if (text.length < 8) continue;
+
+    text = text.charAt(0).toUpperCase() + text.slice(1);
+    items.push({ year, text, type });
+  }
+
+  return items;
+}
+
+async function loadOnThisDay(previous) {
+  const now = new Date();
+  const dayKey =
+    String(now.getDate()).padStart(2, "0") +
+    "." +
+    String(now.getMonth() + 1).padStart(2, "0");
+
+  /* Vsebina se spremeni enkrat na dan - prejsnjo uporabimo znova. */
+  if (
+    previous &&
+    previous.date === dayKey &&
+    Array.isArray(previous.items) &&
+    previous.items.length
+  ) {
+    console.log(`  · Na današnji dan: iz pomnilnika (${previous.items.length})`);
+    return previous;
+  }
+
+  const pageTitle = `${now.getDate()}._${SL_MESECI[now.getMonth()]}`;
+  const url =
+    "https://sl.wikipedia.org/w/api.php?action=parse&format=json" +
+    "&formatversion=2&redirects=1&prop=wikitext&page=" +
+    encodeURIComponent(pageTitle);
+
+  try {
+    const raw = await get(url, 20000);
+    const data = JSON.parse(raw);
+    const wikitext = data && data.parse && data.parse.wikitext;
+    if (!wikitext) throw new Error("stran brez vsebine");
+
+    const events = parseWikiEvents(
+      extractWikiSection(wikitext, ["dogodki"]),
+      "dogodek"
+    );
+    const births = parseWikiEvents(
+      extractWikiSection(wikitext, ["rojstva"]),
+      "rojstvo"
+    );
+    const deaths = parseWikiEvents(
+      extractWikiSection(wikitext, ["smrti"]),
+      "smrt"
+    );
+
+    /*
+      Slovenski dogodki gredo naprej, znotraj skupine pa novejsi
+      pred starejse - ti so obicajno bolj prepoznavni.
+    */
+    const rank = it => (SL_KLJUCNE.test(it.text) ? 0 : 1);
+    const yearNum = it => {
+      const n = parseInt(it.year, 10);
+      return /pr\./i.test(it.year) ? -n : n;
+    };
+
+    const ordered = [...events, ...births, ...deaths].sort((a, b) => {
+      const r = rank(a) - rank(b);
+      if (r !== 0) return r;
+      const typeOrder = { dogodek: 0, rojstvo: 1, smrt: 2 };
+      const t = typeOrder[a.type] - typeOrder[b.type];
+      if (t !== 0) return t;
+      return yearNum(b) - yearNum(a);
+    });
+
+    const items = ordered.slice(0, 20);
+    const slCount = items.filter(x => SL_KLJUCNE.test(x.text)).length;
+
+    console.log(
+      `  ✓ Na današnji dan: ${items.length} zapisov iz "${pageTitle.replace("_", " ")}"` +
+        ` (slovenskih: ${slCount})`
+    );
+
+    return {
+      date: dayKey,
+      pageUrl: "https://sl.wikipedia.org/wiki/" + encodeURIComponent(pageTitle),
+      items
+    };
+  } catch (err) {
+    console.log(`  ✗ Na današnji dan: ${err.message}`);
+    return previous && previous.items ? previous : { date: dayKey, items: [] };
+  }
+}
+
 /* ---------------- glavni tok ---------------- */
 
 async function loadSource(source) {
@@ -328,8 +596,26 @@ async function resolveGoogleLinks(items) {
   }
 }
 
+function readPreviousFile() {
+  try {
+    const target = path.resolve(process.cwd(), OUT_FILE);
+    if (!fs.existsSync(target)) return null;
+    return JSON.parse(fs.readFileSync(target, "utf8"));
+  } catch (_) {
+    return null;
+  }
+}
+
 async function main() {
   console.log("Zbiram novice ...\n");
+
+  const previousFile = readPreviousFile();
+
+  /* Prevode iz prejsnjega zagona preberemo, preden datoteko prepisemo. */
+  const translationCache = readPreviousTranslations();
+  if (translationCache.size) {
+    console.log(`(v pomnilniku ${translationCache.size} prevodov)\n`);
+  }
 
   const out = {
     generatedAt: new Date().toISOString(),
@@ -341,6 +627,11 @@ async function main() {
       const items = await loadSource(source);
       await resolveGoogleLinks(items);
       await enrichImages(source, items);
+
+      if (source.translate) {
+        await translateItems(source, items, translationCache);
+      }
+
       out.sources[source.id] = items;
     } catch (err) {
       console.log(`  ✗ ${source.name}: ${err.message}`);
@@ -348,16 +639,24 @@ async function main() {
     }
   }
 
+  out.onThisDay = await loadOnThisDay(
+    previousFile ? previousFile.onThisDay : null
+  );
+
   const target = path.resolve(process.cwd(), OUT_FILE);
   fs.writeFileSync(target, JSON.stringify(out, null, 1), "utf8");
 
-  const total = Object.values(out.sources).reduce((a, b) => a + b.length, 0);
-  const withImg = Object.values(out.sources)
-    .flat()
-    .filter(x => x.image).length;
+  const all = Object.values(out.sources).flat();
+  const total = all.length;
+  const withImg = all.filter(x => x.image).length;
+  const withSl = all.filter(x => x.titleSl).length;
+  const needSl = SOURCES.filter(s => s.translate)
+    .reduce((sum, s) => sum + (out.sources[s.id] || []).length, 0);
 
   console.log(`\nZapisano: ${target}`);
   console.log(`Skupaj novic: ${total}, s sliko: ${withImg}`);
+  console.log(`Prevedenih naslovov: ${withSl}/${needSl}`);
+  console.log(`Na današnji dan: ${(out.onThisDay.items || []).length} zapisov`);
 }
 
 main().catch(err => {
