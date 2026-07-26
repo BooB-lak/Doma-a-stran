@@ -2,12 +2,16 @@ name: Osveži novice
 
 on:
   schedule:
-    # Vsakih 10 minut. Opomba: GitHub cron ni natančen na minuto -
-    # ob veliki obremenitvi zna zamuditi 5-20 minut. To je GitHubova
-    # omejitev, ne napaka v nastavitvi.
-    - cron: "*/10 * * * *"
+    # REZERVA, ne glavni urnik.
+    # Glavno prozilo je zunanji urnik (cron-job.org), ki klice
+    # workflow_dispatch prek API-ja - ta pot obide GitHubovo pocasno
+    # cron vrsto in se zazene skoraj takoj.
+    # Ta vnos ostane samo za primer, da zunanji urnik odpove.
+    # Minuti 13 in 43 sta izbrani namenoma: zagoni ob polni in
+    # polovicni uri padejo v val, ki ga GitHub obdeluje z zamikom.
+    - cron: "13,43 * * * *"
 
-  # Omogoča ročni zagon iz zavihka "Actions" (gumb "Run workflow").
+  # To je vstopna tocka za zunanji urnik (in za gumb "Run workflow").
   workflow_dispatch:
 
   # Ob vsakem pushu osveži takoj, da lahko preverjaš spremembe.
@@ -18,10 +22,13 @@ on:
 permissions:
   contents: write
 
-# Če se prejšnji zagon še ni končal, ga ne podvajaj.
+# Zagoni naj se ne prekrivajo. Prej je bilo "cancel-in-progress: true",
+# kar je starejsi zagon PREKINILO - in prekinjen zagon se pokaze kot
+# rdeci krizec, ceprav ni slo nic narobe. Zagon traja ~25 s, zato je
+# bolje, da nov pocaka na prejsnjega.
 concurrency:
   group: novice
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   zberi-novice:
