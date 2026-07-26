@@ -68,15 +68,16 @@ const SOURCES = [
     homepage: "https://edition.cnn.com/",
     translate: true,
     /*
-      Stari naslov rss.cnn.com/rss/edition.rss se se vedno odziva,
-      a ga CNN ne polni vec redno - vracal je clanke izpred let.
-      Zato gre zdaj najprej prek Google News, kar se je pri
-      Reutersu izkazalo za zanesljivo.
+      Neposredni CNN naslovi gredo prvi, ker dajo prave slike ze v RSS.
+      Ce so zastareli (kot je bil rss/edition.rss), jih zaznavanje
+      starosti samodejno preskoci in gremo na Google News.
     */
     feeds: [
+      "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "http://rss.cnn.com/rss/cnn_world.rss",
+      "http://rss.cnn.com/rss/edition_world.rss",
       "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "http://rss.cnn.com/rss/edition.rss"
+      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
     ]
   },
   {
@@ -152,6 +153,23 @@ function looksLikeImage(u) {
   return /(image|images|img|photo|photos|thumb|thumbnail|cdn|ichef|media)/i.test(s);
 }
 
+/*
+  Slike, ki niso slika clanka, ampak logotip posrednika.
+  Google News na svojih straneh ponuja og:image s svojim logotipom -
+  brez tega filtra bi vsi clanki dobili isto Googlovo ikono.
+  Raje prazen okvir kot napacna slika.
+*/
+function isRejectedImage(u) {
+  const s = String(u || "").toLowerCase();
+  return (
+    /news\.google\.com/.test(s) ||
+    /gstatic\.com/.test(s) ||
+    /googleusercontent\.com/.test(s) ||
+    /google\.com\/(?:images|logos)/.test(s) ||
+    /\/(?:logo|logos|placeholder|default|fallback)[-_.]?/.test(s)
+  );
+}
+
 async function get(url, timeoutMs = 20000, asText = true) {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), timeoutMs);
@@ -182,14 +200,14 @@ function imageFromItemBlock(block, base) {
   let m;
   while ((m = attrRx.exec(block)) !== null) {
     const u = absoluteUrl(decodeEntities(m[1]), base);
-    if (u && looksLikeImage(u)) return u;
+    if (u && looksLikeImage(u) && !isRejectedImage(u)) return u;
   }
 
   // <image><url>...</url></image>
   const inner = block.match(/<image\b[^>]*>[\s\S]*?<url>([\s\S]*?)<\/url>/i);
   if (inner) {
     const u = absoluteUrl(decodeEntities(stripCdata(inner[1])), base);
-    if (u) return u;
+    if (u && !isRejectedImage(u)) return u;
   }
 
   // <img src> znotraj description / content:encoded
@@ -200,7 +218,7 @@ function imageFromItemBlock(block, base) {
   const img = html.match(/<img[^>]+src\s*=\s*["']([^"']+)["']/i);
   if (img) {
     const u = absoluteUrl(img[1], base);
-    if (u) return u;
+    if (u && !isRejectedImage(u)) return u;
   }
 
   return "";
@@ -219,7 +237,7 @@ function imageFromArticleHtml(html, base) {
     const m = html.match(rx);
     if (m) {
       const u = absoluteUrl(decodeEntities(m[1]), base);
-      if (u) return u;
+      if (u && !isRejectedImage(u)) return u;
     }
   }
   return "";
@@ -536,6 +554,20 @@ async function loadOnThisDay(previous) {
 
 /* ---------------- glavni tok ---------------- */
 
+/*
+  Nekateri stari RSS naslovi se odzivajo, a jih medij ne polni vec
+  (npr. rss.cnn.com je vracal clanke izpred let). Napake ni, zato
+  se brez te preverbe zastarela vsebina tiho prikaze kot novica.
+*/
+const MAX_FEED_AGE_DAYS = 3;
+
+function feedAgeDays(items) {
+  const dated = items.filter(x => x.date > 0);
+  if (!dated.length) return null; /* brez datumov ne moremo soditi */
+  const newest = Math.max(...dated.map(x => x.date));
+  return (Date.now() - newest) / 86400000;
+}
+
 async function loadSource(source) {
   let lastErr = null;
 
@@ -543,30 +575,56 @@ async function loadSource(source) {
     try {
       const xml = await get(feed);
       const items = parseFeed(xml, source);
-      if (items.length) {
-        console.log(`  ✓ ${source.name}: ${items.length} novic iz ${feed}`);
-        return items;
+
+      if (!items.length) {
+        console.log(`  · ${source.name}: ${feed} brez uporabnih novic`);
+        continue;
       }
-      console.log(`  · ${source.name}: ${feed} brez uporabnih novic`);
+
+      const age = feedAgeDays(items);
+      if (age !== null && age > MAX_FEED_AGE_DAYS) {
+        console.log(
+          `  · ${source.name}: ${feed} je ZASTAREL ` +
+            `(najnovejša novica stara ${age.toFixed(1)} dni) - preskakujem`
+        );
+        continue;
+      }
+
+      console.log(`  ✓ ${source.name}: ${items.length} novic iz ${feed}`);
+      return items;
     } catch (err) {
       lastErr = err;
       console.log(`  · ${source.name}: ${feed} -> ${err.message}`);
     }
   }
 
-  throw lastErr || new Error("ni novic");
+  throw lastErr || new Error("ni svežih novic");
 }
 
 async function enrichImages(source, items) {
-  const missing = items.filter(x => !x.image);
-  if (!missing.length) return;
+  /*
+    Ce povezave ni bilo mogoce razresiti in ostaja na news.google.com,
+    slike NE iscemo - dobili bi Googlov logotip za vse clanke.
+  */
+  const missing = items.filter(
+    x => !x.image && !/news\.google\.com/i.test(x.link)
+  );
+  const skipped = items.filter(
+    x => !x.image && /news\.google\.com/i.test(x.link)
+  ).length;
+
+  if (!missing.length) {
+    if (skipped) {
+      console.log(`    slike: ${skipped} preskočenih (nerazrešen Google News)`);
+    }
+    return;
+  }
 
   let i = 0;
   async function worker() {
     while (i < missing.length) {
       const item = missing[i++];
       try {
-        // Sledi preusmeritvi (npr. news.google.com -> reuters.com)
         const html = await get(item.link, 18000);
         const img = imageFromArticleHtml(html, item.link);
         if (img) item.image = img;
@@ -575,25 +633,66 @@ async function enrichImages(source, items) {
   }
   await Promise.all([worker(), worker(), worker()]);
 
-  const still = items.filter(x => !x.image).length;
+  const withImg = items.filter(x => x.image).length;
   console.log(
-    `    slike: ${items.length - still}/${items.length} razrešenih`
+    `    slike: ${withImg}/${items.length} razrešenih` +
+      (skipped ? `, ${skipped} preskočenih (nerazrešen Google News)` : "")
   );
 }
 
-/* Google News povezave razreši v pravi naslov članka. */
+/*
+  Google News povezavo razresimo v pravi naslov clanka.
+  Dve poti:
+   1) preusmeritev HTTP (deluje pri starejsih povezavah)
+   2) dekodiranje - v naslovu "/articles/CBMi..." je base64 blok,
+      v katerem je pravi naslov pogosto berljiv kot navaden niz
+*/
+function decodeGoogleNewsUrl(link) {
+  const m = String(link).match(/\/articles\/([A-Za-z0-9_-]+)/);
+  if (!m) return "";
+
+  try {
+    let b64 = m[1].replace(/-/g, "+").replace(/_/g, "/");
+    while (b64.length % 4) b64 += "=";
+    const raw = Buffer.from(b64, "base64").toString("latin1");
+    const found = raw.match(/https?:\/\/[^\x00-\x20"'\\<>]+/);
+    if (found) {
+      const u = absoluteUrl(found[0]);
+      if (u && !/news\.google\.com/i.test(u)) return u;
+    }
+  } catch (_) {}
+
+  return "";
+}
+
 async function resolveGoogleLinks(items) {
   const google = items.filter(x => /news\.google\.com/i.test(x.link));
   if (!google.length) return;
 
+  let resolved = 0;
+
   for (const item of google) {
+    /* 1) preusmeritev */
     try {
       const res = await get(item.link, 18000, false);
       if (res.url && !/news\.google\.com/i.test(res.url)) {
         item.link = res.url;
+        resolved++;
+        continue;
       }
     } catch (_) {}
+
+    /* 2) dekodiranje naslova */
+    const decoded = decodeGoogleNewsUrl(item.link);
+    if (decoded) {
+      item.link = decoded;
+      resolved++;
+    }
   }
+
+  console.log(
+    `    povezave: ${resolved}/${google.length} razrešenih iz Google News`
+  );
 }
 
 function readPreviousFile() {

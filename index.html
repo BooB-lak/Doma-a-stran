@@ -1775,12 +1775,25 @@ body.settings-open .dashboard-layout{
   align-items:flex-end;
   gap:7px;
 }
-.top-col-right .settings-inline{
+
+/* Iskalnik in gumb Nastavitve v isti vrstici. */
+.search-row{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+}
+.search-row .settings-inline{
   position:static;
+  flex:none;
+  white-space:nowrap;
+}
+.search-row .search-shell{
+  flex:1 1 auto;
+  max-width:880px;
 }
 
-/* Zavihki in iskalnik ostanejo ožji in na sredini. */
-.top-search-zone .search-shell,
+/* Namig pod iskalnikom ostane poravnan s poljem. */
 .top-search-zone .img-search-hint{
   max-width:880px;
   margin-left:auto;
@@ -1829,7 +1842,7 @@ body.light-theme .clock-date:hover{background:#eef2f6}
 
 /* ---------- NA DANAŠNJI DAN ---------- */
 .otd-box{
-  width:270px;
+  width:340px;
   border:1px solid var(--line);
   border-radius:12px;
   background:var(--panel);
@@ -1845,7 +1858,7 @@ body.light-theme .otd-box{
   align-items:center;
   justify-content:space-between;
   gap:8px;
-  padding:6px 10px;
+  padding:7px 12px;
   border-bottom:1px solid var(--line);
 }
 .otd-title{
@@ -1866,12 +1879,12 @@ body.light-theme .otd-box{
   width:100%;
   border:0;
   background:transparent;
-  padding:8px 10px 10px;
+  padding:10px 12px 12px;
   text-align:left;
   color:var(--text);
-  font-size:12.5px;
-  line-height:1.42;
-  min-height:74px;
+  font-size:13px;
+  line-height:1.48;
+  min-height:118px;
 }
 .otd-item:hover{background:rgba(125,150,180,.12)}
 body.light-theme .otd-item:hover{background:#f2f5f8}
@@ -2247,8 +2260,6 @@ body.light-theme .search-suggest-item.active{
           </a>
 
           <div class="top-col top-col-right">
-            <button id="settingsBtn" class="settings-inline">⚙ Nastavitve</button>
-
             <div id="otdBox" class="otd-box hidden">
               <div class="otd-head">
                 <span class="otd-title">Na današnji dan</span>
@@ -2266,18 +2277,22 @@ body.light-theme .search-suggest-item.active{
           <button data-mode="videos">videi</button>
         </div>
 
-        <div class="search-shell">
-          <form id="searchForm" class="searchbar">
-            <span class="sb-ico" aria-hidden="true">⌕</span>
-            <input id="searchInput"
-                   placeholder="Iskanje po Googlu ali vnos naslova"
-                   autocomplete="off"
-                   spellcheck="false">
-            <button type="button" id="imgSearchBtn"
-                    class="sb-camera" title="Iskanje po sliki (naloži fotografijo)">📷</button>
-            <button type="submit" class="sb-go" title="Išči">Išči</button>
-          </form>
-          <div id="searchSuggest" class="search-suggest hidden"></div>
+        <div class="search-row">
+          <div class="search-shell">
+            <form id="searchForm" class="searchbar">
+              <span class="sb-ico" aria-hidden="true">⌕</span>
+              <input id="searchInput"
+                     placeholder="Iskanje po Googlu ali vnos naslova"
+                     autocomplete="off"
+                     spellcheck="false">
+              <button type="button" id="imgSearchBtn"
+                      class="sb-camera" title="Iskanje po sliki (naloži fotografijo)">📷</button>
+              <button type="submit" class="sb-go" title="Išči">Išči</button>
+            </form>
+            <div id="searchSuggest" class="search-suggest hidden"></div>
+          </div>
+
+          <button id="settingsBtn" class="settings-inline">⚙ Nastavitve</button>
         </div>
 
         <!-- Iskanje po naloženi sliki: pošlje se neposredno Googlu. -->
