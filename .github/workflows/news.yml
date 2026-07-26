@@ -45,12 +45,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet -- news.json; then
+          # Najprej dodamo v pripravo (staging).
+          # Pozor: "git diff" sam po sebi NE vidi novih datotek,
+          # zato je nujno najprej "git add", nato "--cached".
+          git add news.json
+
+          if git diff --cached --quiet; then
             echo "Ni sprememb v novicah."
             exit 0
           fi
 
-          git add news.json
           git commit -m "Samodejna osvežitev novic"
 
           # Če je medtem nekdo drug potisnil spremembo, poskusi znova.
