@@ -1,0 +1,4078 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Moja začetna stran — v42</title>
+<style>
+/* ===== Osnovna pravila ===== */
+:root{
+  --bg:#171817;
+  --panel:#1d1f1f;
+  --panel2:#232626;
+  --line:#3a3d3d;
+  --text:#e7e7e3;
+  --muted:#a8aaa6;
+  --blue:#3d9cff;
+  --blue2:#0b67b7;
+  --danger:#ef6b6b;
+  --ok:#7dcf8b;
+  --radius:10px;
+}
+*{
+  box-sizing:border-box;
+}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+}
+button,input,select{
+  font:inherit;
+}
+button{
+  cursor:pointer;
+}
+.wrap{
+  max-width:none!important;
+  margin:auto;
+  padding:18px 16px 36px!important;
+  width:100%!important;
+}
+.hidden{
+  display:none!important;
+}
+.settings-fab{
+  position:fixed;
+  right:16px;
+  top:12px;
+  z-index:50;
+  border:1px solid var(--line);
+  background:#242727;
+  color:#fff;
+  border-radius:8px;
+  padding:8px 11px;
+}
+.settings-panel{
+  position:fixed;
+  right:18px!important;
+  top:58px!important;
+  z-index:49;
+  width:310px;
+  background:#202222;
+  border:1px solid var(--line);
+  border-radius:12px;
+  padding:14px;
+  box-shadow:0 14px 50px #0008;
+}
+.settings-panel h3{
+  margin:0 0 12px;
+  font-size:15px;
+}
+.setting-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  padding:9px 0;
+  border-top:1px solid #303333;
+}
+.setting-row:first-of-type{
+  border-top:0;
+}
+.switch{
+  position:relative;
+  width:42px;
+  height:24px;
+  flex:none;
+}
+.switch input{
+  display:none;
+}
+.slider{
+  position:absolute;
+  inset:0;
+  background:#555;
+  border-radius:99px;
+}
+.slider:before{
+  content:"";
+  position:absolute;
+  width:18px;
+  height:18px;
+  left:3px;
+  top:3px;
+  background:#fff;
+  border-radius:50%;
+  transition:.2s;
+}
+.switch input:checked + .slider{
+  background:var(--blue2);
+}
+.switch input:checked + .slider:before{
+  transform:translateX(18px);
+}
+.top{
+  display:grid;
+  grid-template-columns:auto 250px auto!important;
+  gap:22px;
+  align-items:start;
+  min-height:92px!important;
+  padding:4px 0 8px;
+  justify-content:center!important;
+  column-gap:42px!important;
+}
+.block-title{
+  font-size:13px;
+  font-weight:700;
+  color:#c6c7c4;
+  margin-bottom:6px;
+}
+.forecast-row{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(52px,1fr));
+  gap:8px;
+}
+.forecast-item{
+  text-align:left;
+  min-width:0;
+}
+.forecast-item .day,.hour-item .time{
+  color:#9fa19e;
+  font-size:12px;
+}
+.wx-icon{
+  font-size:19px;
+  line-height:1.15;
+  margin:1px 0!important;
+}
+.temp-hi{
+  font-size:16px;
+  font-weight:700;
+}
+.temp-lo{
+  font-size:11px;
+  color:#999;
+}
+.place{
+  text-align:center;
+  width:250px!important;
+}
+.pin{
+  font-size:22px;
+  color:#aaa;
+  margin-bottom:5px;
+}
+.place label{
+  display:block;
+  color:#999;
+  font-size:12px;
+  margin-bottom:4px;
+}
+.place-entry{
+  display:flex;
+  justify-content:center;
+  gap:6px;
+}
+.place-entry input{
+  width:170px;
+  background:#222;
+  border:1px solid #555;
+  border-radius:8px;
+  color:#fff;
+  padding:8px 10px;
+  font-weight:600;
+}
+.place-entry button{
+  background:#252929;
+  border:1px solid #555;
+  color:#ddd;
+  border-radius:8px;
+  padding:0 9px;
+}
+.hourly .forecast-row{
+  grid-template-columns:repeat(5,58px)!important;
+  gap:4px!important;
+  justify-content:start!important;
+}
+.hour-item{
+  text-align:center;
+}
+.hour-item .precip{
+  font-size:11px;
+  color:#999;
+}
+.search-zone{
+  max-width:680px;
+  margin:-2px auto 24px;
+}
+.search-tabs{
+  display:flex;
+  justify-content:center;
+  gap:8px;
+  margin-bottom:8px;
+  margin:0!important;
+}
+.search-tabs button{
+  background:#1b1c1c;
+  color:#bdbfbd;
+  border:1px solid #3a3c3c;
+  border-radius:8px;
+  padding:6px 17px;
+}
+.search-tabs button.active{
+  background:#073e70;
+  color:#8fc8ff;
+  border-color:#073e70;
+}
+.searchbar{
+  display:flex;
+  border:1px solid #555;
+  border-radius:22px;
+  overflow:hidden;
+  background:#1b1c1c;
+  width:100%;
+}
+.searchbar input{
+  flex:1;
+  border:0;
+  outline:0;
+  background:transparent;
+  color:#ddd;
+  padding:10px 16px;
+}
+.searchbar button{
+  border:0;
+  background:transparent;
+  color:#aaa;
+  padding:0 16px;
+}
+.section{
+  margin-top:22px;
+}
+.section-head{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom:10px;
+  width:100%;
+}
+.section-head h2{
+  margin:0;
+  font-size:15px;
+  letter-spacing:.03em;
+}
+.toolbar{
+  display:flex;
+  gap:7px;
+  flex-wrap:wrap;
+}
+.toolbar button{
+  background:#242727;
+  border:1px solid #454949;
+  color:#ddd;
+  border-radius:8px;
+  padding:7px 10px;
+}
+.cards{
+  display:grid!important;
+  grid-template-columns:repeat(6, max-content)!important;
+  grid-auto-rows:4px;
+  gap:6px!important;
+  align-items:start;
+  column-gap:4px!important;
+  row-gap:4px!important;
+  grid-auto-flow:row!important;
+  justify-content:center!important;
+  align-content:start!important;
+  width:max-content!important;
+  max-width:100%!important;
+  margin-left:auto!important;
+  margin-right:auto!important;
+}
+.card{
+  position:relative;
+  background:#131c30;
+  border:1px solid #34425f;
+  border-radius:7px;
+  padding:3px 6px 7px!important;
+  min-height:110px;
+  resize:both;
+  overflow:auto;
+  min-width:170px;
+  max-width:100%;
+  box-shadow:0 2px 8px #0003;
+  margin:0!important;
+  justify-self:start!important;
+  align-self:start!important;
+}
+.card.dragging{
+  opacity:.45;
+}
+.card.drag-over{
+  outline:2px dashed var(--blue);
+}
+.card-head{
+  display:flex;
+  align-items:flex-start!important;
+  gap:4px!important;
+  margin-bottom:4px!important;
+  min-height:16px!important;
+  margin:0 0 1px 0!important;
+  padding:0!important;
+  line-height:1!important;
+}
+.card-title{
+  font-weight:800;
+  flex:1;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  font-size:14px;
+  line-height:1!important;
+  margin:0!important;
+  padding:0!important;
+  transform:translateY(-1px);
+  position:relative;
+  top:-2px;
+}
+.grip{
+  color:#8c96a8;
+  cursor:grab;
+  font-size:16px;
+  user-select:none;
+}
+.card-menu{
+  border:0;
+  background:transparent;
+  color:#aaa;
+  font-size:18px;
+  padding:0 2px;
+}
+.card-actions{
+  display:flex;
+  gap:5px;
+  margin-top:3px!important;
+}
+.card-actions button,.link-actions button{
+  background:#202b43;
+  border:1px solid #425474;
+  color:#dce6f7;
+  border-radius:6px;
+  padding:3px 6px!important;
+  font-size:11px;
+}
+.links{
+  margin:0;
+  padding:0;
+  list-style:none;
+  margin-top:1px!important;
+}
+.link-row{
+  display:flex;
+  align-items:center;
+  gap:5px!important;
+  padding:0 1px!important;
+  border-radius:6px;
+  color:#aebbd1;
+  line-height:1.05!important;
+  min-height:16px!important;
+  transition:transform .08s ease, background .08s ease;
+}
+.link-row:hover{
+  background:#1b2740;
+}
+.link-row a{
+  color:#aebbd1;
+  text-decoration:none;
+  flex:1;
+  min-width:0;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-size:12.5px;
+  line-height:1.05!important;
+}
+.link-row .drag-link{
+  cursor:grab;
+  color:#75829a;
+  font-size:12px;
+}
+.link-row.dragging{
+  opacity:.22!important;
+}
+.link-row.drag-over{
+  outline:1px dashed #6faef2;
+}
+.link-actions{
+  display:none;
+  gap:3px;
+}
+.edit-mode .link-actions{
+  display:flex;
+}
+.edit-mode .card-actions{
+  display:flex;
+}
+body:not(.edit-mode) .card-actions{
+  display:none;
+}
+body:not(.edit-mode) .grip, body:not(.edit-mode) .drag-link{
+  display:none;
+}
+body:not(.resize-mode) .card{
+  resize:none;
+}
+.empty{
+  border:1px dashed #4a4d4d;
+  border-radius:10px;
+  color:#8f928f;
+  padding:22px;
+  text-align:center;
+}
+.news-grid{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:12px;
+}
+.news-card{
+  background:#1d1f1f;
+  border:1px solid #343737;
+  border-radius:10px;
+  padding:12px;
+  min-height:210px;
+}
+.news-card h3{
+  margin:0 0 10px;
+  font-size:13px;
+}
+.news-item{
+  display:flex;
+  gap:8px;
+  padding:8px 0;
+  border-top:1px solid #2d3030;
+}
+.news-item:first-of-type{
+  border-top:0;
+}
+.news-thumb{
+  width:52px;
+  height:38px;
+  border-radius:5px;
+  background:#2e3232;
+  object-fit:cover;
+}
+.news-item a{
+  color:#ddd;
+  text-decoration:none;
+  font-size:12px;
+  line-height:1.3;
+}
+.news-muted{
+  color:#858986;
+  font-size:12px;
+}
+.modal-backdrop{
+  position:fixed;
+  inset:0;
+  background:#0009;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  z-index:100;
+}
+.modal{
+  width:min(460px,92vw);
+  background:#222525;
+  border:1px solid #4b4f4f;
+  border-radius:12px;
+  padding:16px;
+}
+.modal h3{
+  margin:0 0 12px;
+}
+.modal label{
+  display:block;
+  color:#aaa;
+  font-size:12px;
+  margin:9px 0 4px;
+}
+.modal input{
+  width:100%;
+  background:#181a1a;
+  border:1px solid #4d5050;
+  color:#fff;
+  border-radius:7px;
+  padding:9px;
+}
+.modal-actions{
+  display:flex;
+  justify-content:flex-end;
+  gap:8px;
+  margin-top:14px;
+}
+.modal-actions button{
+  padding:7px 11px;
+  border-radius:7px;
+  border:1px solid #4b4f4f;
+  background:#2b2e2e;
+  color:#fff;
+}
+.modal-actions .primary{
+  background:#0b5fa5;
+  border-color:#0b5fa5;
+}
+.modal-actions .danger{
+  background:#6a2828;
+  border-color:#8a3535;
+}
+.icon-field-wrap{
+  position:relative;
+}
+.icon-picker-btn{
+  width:100%;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  background:#181a1a;
+  border:1px solid #4d5050;
+  color:#fff;
+  border-radius:7px;
+  padding:9px 10px;
+  text-align:left;
+}
+.icon-picker-btn:hover{
+  border-color:#6a7070;
+}
+.icon-picker-btn .chosen-icon{
+  font-size:20px;
+  min-width:28px;
+  text-align:center;
+}
+.icon-picker-btn .chosen-label{
+  flex:1;
+  color:#c9ccca;
+}
+.icon-picker{
+  margin-top:8px;
+  background:#181a1a;
+  border:1px solid #4b5050;
+  border-radius:10px;
+  padding:10px;
+  max-height:390px;
+  overflow:auto;
+}
+.icon-picker-top{
+  display:flex;
+  gap:7px;
+  margin-bottom:8px;
+  position:sticky;
+  top:-10px;
+  background:#181a1a;
+  padding:0 0 8px;
+  z-index:2;
+}
+.icon-picker-top input{
+  flex:1!important;
+  margin:0!important;
+  background:#111313!important;
+  border:1px solid #484d4d!important;
+  padding:8px 9px!important;
+}
+.icon-clear{
+  border:1px solid #484d4d;
+  background:#262929;
+  color:#ddd;
+  border-radius:7px;
+  padding:6px 9px;
+}
+.icon-category{
+  margin:10px 0 5px;
+  color:#8fc8ff;
+  font-size:11px;
+  font-weight:800;
+  text-transform:uppercase;
+  letter-spacing:.06em;
+}
+.icon-grid{
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:6px;
+}
+.icon-option{
+  border:1px solid #353a3a;
+  background:#202323;
+  color:#e5e5e5;
+  border-radius:8px;
+  min-height:70px;
+  padding:7px 5px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  gap:4px;
+}
+.icon-option:hover{
+  background:#293030;
+  border-color:#5b6666;
+}
+.icon-option.selected{
+  outline:2px solid #1684d8;
+  background:#12334c;
+}
+.icon-option .emoji{
+  font-size:24px;
+  line-height:1;
+}
+.icon-option .meaning{
+  font-size:9.5px;
+  color:#aeb2af;
+  line-height:1.15;
+}
+.icon-picker-note{
+  font-size:10px;
+  color:#828784;
+  margin:7px 1px 0;
+}
+body.light-theme{
+  --bg:#f3f5f7;
+  --panel:#ffffff;
+  --panel2:#f2f4f6;
+  --line:#cfd5db;
+  --text:#1c232b;
+  --muted:#66717d;
+  --blue:#1976d2;
+  --blue2:#0d5ea6;
+  --danger:#c84343;
+  --ok:#3f9c58;
+  background:#f3f5f7;
+  color:var(--text);
+}
+body.light-theme .settings-fab{
+  background:#ffffff;
+  color:#1d242b;
+  border-color:#cfd5db;
+  box-shadow:0 2px 10px #0001;
+}
+body.light-theme .settings-panel,
+body.light-theme .modal{
+  background:#ffffff;
+  color:#1d242b;
+  border-color:#cfd5db;
+  box-shadow:0 16px 50px #0002;
+}
+body.light-theme .setting-row{
+  border-color:#e3e7ea;
+}
+body.light-theme .place-entry input,
+body.light-theme .place-entry button,
+body.light-theme .search-tabs button,
+body.light-theme .searchbar,
+body.light-theme .toolbar button,
+body.light-theme .modal input,
+body.light-theme .icon-picker-btn,
+body.light-theme .icon-picker,
+body.light-theme .icon-picker-top,
+body.light-theme .icon-picker-top input,
+body.light-theme .icon-clear{
+  background:#ffffff;
+  color:#1f262d;
+  border-color:#c8d0d7;
+}
+body.light-theme .search-tabs button.active{
+  background:#d9ecff;
+  color:#095b9e;
+  border-color:#8fc6f3;
+}
+body.light-theme .searchbar input{
+  color:#1f262d;
+}
+body.light-theme .card{
+  background:#ffffff;
+  border-color:#cbd4df;
+  box-shadow:0 2px 10px #0001;
+}
+body.light-theme .card-title{
+  color:#202833;
+}
+body.light-theme .link-row a{
+  color:#51627a;
+}
+body.light-theme .link-row:hover{
+  background:#f2f6fb;
+}
+body.light-theme .card-actions button,
+body.light-theme .link-actions button{
+  background:#eef5fc;
+  border-color:#b9cce0;
+  color:#23445f;
+}
+body.light-theme .news-card{
+  background:#ffffff;
+  border-color:#d5dade;
+}
+body.light-theme .news-item{
+  border-color:#e6eaed;
+}
+body.light-theme .news-thumb{
+  background:#eef1f3;
+}
+body.light-theme .empty{
+  border-color:#cbd1d6;
+  color:#7a8288;
+  background:#ffffff;
+}
+body.light-theme .block-title{
+  color:#4f5962;
+}
+body.light-theme .forecast-item .day,
+body.light-theme .hour-item .time,
+body.light-theme .place label,
+body.light-theme .temp-lo,
+body.light-theme .hour-item .precip,
+body.light-theme .news-muted{
+  color:#6f777e;
+}
+body.light-theme .modal-backdrop{
+  background:#0005;
+}
+body.light-theme .icon-option{
+  background:#f7f9fa;
+  color:#20262b;
+  border-color:#d4dadd;
+}
+body.light-theme .icon-option:hover{
+  background:#edf3f7;
+}
+body.light-theme .icon-option .meaning{
+  color:#6b747b;
+}
+body.light-theme .icon-option.selected{
+  background:#dcefff;
+}
+body.light-theme .slider{
+  background:#aeb5bb;
+}
+.theme-choice{
+  display:flex;
+  gap:7px;
+}
+.theme-choice button{
+  min-width:86px;
+  border:1px solid #4a4f4f;
+  background:#2a2d2d;
+  color:#ddd;
+  border-radius:8px;
+  padding:7px 10px;
+}
+.theme-choice button.active{
+  background:#0b5fa5;
+  border-color:#0b5fa5;
+  color:#fff;
+}
+body.light-theme .theme-choice button{
+  background:#f4f6f7;
+  color:#273039;
+  border-color:#ccd3d8;
+}
+body.light-theme .theme-choice button.active{
+  background:#1976d2;
+  color:#fff;
+  border-color:#1976d2;
+}
+.drag-link{
+  line-height:1;
+}
+body.hide-card-borders .card{
+  border-color:transparent!important;
+  box-shadow:none!important;
+}
+body.light-theme.hide-card-borders .card{
+  border-color:transparent!important;
+  box-shadow:none!important;
+}
+.grip,
+.card-menu{
+  line-height:1!important;
+  margin-top:-1px!important;
+}
+.card-head > span:not(.grip){
+  line-height:1!important;
+  margin-top:-1px!important;
+}
+.grip,.card-menu,.card-head > span{
+  position:relative;
+  top:-2px;
+}
+#cards{
+  position:relative!important;
+  display:grid!important;
+  width:max-content!important;
+  max-width:calc(100vw - 60px)!important;
+  min-height:0!important;
+  margin:0 auto!important;
+  overflow:visible!important;
+  grid-template-columns:repeat(6, max-content)!important;
+  gap:4px!important;
+  height:auto!important;
+  align-items:start!important;
+  justify-content:center!important;
+  column-gap:4px!important;
+  margin-left:auto!important;
+  margin-right:auto!important;
+}
+#cards .card{
+  position:relative!important;
+  margin:0!important;
+  justify-self:auto!important;
+  align-self:auto!important;
+  z-index:auto!important;
+  left:auto!important;
+  top:auto!important;
+  width:auto!important;
+  max-width:520px!important;
+  flex:none;
+  min-width:120px!important;
+  height:auto!important;
+  min-height:0!important;
+  overflow:visible!important;
+  resize:none!important;
+  padding-bottom:5px!important;
+}
+#cards .card.dragging{
+  z-index:20;
+  opacity:.45;
+}
+body.edit-mode #cards .card-head{
+  cursor:grab!important;
+  user-select:none;
+  touch-action:none;
+}
+.card-column{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  min-height:180px!important;
+  width:auto!important;
+  padding:0;
+  border-radius:8px;
+  position:relative;
+  padding-bottom:34px;
+  min-width:120px;
+  max-width:none;
+}
+body.edit-mode .card-column.column-over{
+  outline:2px dashed #72aee6;
+  outline-offset:2px;
+}
+body.edit-mode #cards .card-head:active{
+  cursor:grabbing!important;
+}
+.card-drop-marker{
+  height:4px;
+  border-radius:4px;
+  background:#65aef0;
+  margin:0 2px;
+}
+body.resize-mode #cards .card{
+  resize:vertical!important;
+  overflow:auto!important;
+}
+.card-column::after{
+  content:"";
+  display:block;
+  height:28px;
+  margin-top:4px;
+  border-radius:6px;
+}
+body.edit-mode .card-column.column-over::after{
+  content:"spusti sem";
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:#4c8dc4;
+  font-size:10px;
+  border:1px dashed #78afe0;
+  background:rgba(100,170,230,.08);
+}
+body.edit-mode.dragging-card .card-column{
+  background:rgba(70,130,180,.025);
+}
+.card.drop-before{
+  box-shadow:0 -4px 0 #5aa6e8!important;
+}
+.card.drop-after{
+  box-shadow:0 4px 0 #5aa6e8!important;
+}
+body.card-pointer-drag .card-column{
+  outline:1px dashed rgba(90,150,205,.28);
+  outline-offset:1px;
+}
+body.card-pointer-drag .card-column.pointer-target{
+  outline:3px solid #5ca7e8!important;
+  outline-offset:2px;
+  background:rgba(92,167,232,.07);
+}
+.pointer-insert-line{
+  height:4px;
+  background:#4d9fe5;
+  border-radius:4px;
+  margin:0 2px;
+  flex:none;
+}
+.card-drag-ghost{
+  position:fixed!important;
+  z-index:9999!important;
+  pointer-events:none!important;
+  opacity:.90;
+  box-shadow:0 12px 34px rgba(0,0,0,.28)!important;
+  transform:rotate(.2deg);
+}
+#cards .card.pointer-source{
+  opacity:.22!important;
+}
+body:not(.edit-mode) #cards .card{
+  height:auto!important;
+  min-height:0!important;
+  overflow:visible!important;
+  resize:none!important;
+  padding-bottom:6px!important;
+}
+body:not(.edit-mode) .card-column{
+  min-height:0!important;
+  padding-bottom:0!important;
+}
+body:not(.edit-mode) #cards .card-head{
+  margin-bottom:3px!important;
+}
+body:not(.edit-mode) #cards .links{
+  margin-bottom:0!important;
+}
+body:not(.edit-mode) .link-row{
+  min-height:19px!important;
+  line-height:1.22!important;
+  padding:1px 1px 2px!important;
+}
+body:not(.edit-mode) .link-row a{
+  line-height:1.22!important;
+  overflow:visible!important;
+}
+body.light-theme #cards .card-title{
+  color:#c62828!important;
+}
+body:not(.light-theme) #cards .card-title{
+  color:#ffd54f!important;
+}
+body.edit-mode .link-row{
+  cursor:grab;
+  user-select:none;
+}
+body.edit-mode .link-row:active{
+  cursor:grabbing;
+}
+.card.link-drop-target{
+  outline:2px dashed rgba(47,143,219,.65)!important;
+  outline-offset:1px;
+}
+.card.link-drop-target .links{
+  background:rgba(77,159,229,.06);
+  border-radius:6px;
+}
+.link-context-menu{
+  position:fixed;
+  z-index:10000;
+  min-width:135px;
+  padding:5px;
+  background:#202323;
+  color:#fff;
+  border:1px solid #444a4a;
+  border-radius:8px;
+  box-shadow:0 8px 26px rgba(0,0,0,.28);
+}
+.link-context-menu button{
+  display:block;
+  width:100%;
+  border:0;
+  background:transparent;
+  color:inherit;
+  text-align:left;
+  padding:8px 10px;
+  border-radius:6px;
+}
+.link-context-menu button:hover{
+  background:#303535;
+}
+body.light-theme .link-context-menu{
+  background:#fff;
+  color:#1f262d;
+  border-color:#cbd2d7;
+  box-shadow:0 8px 26px rgba(0,0,0,.18);
+}
+body.light-theme .link-context-menu button:hover{
+  background:#eef2f5;
+}
+.add-link-head{
+  width:20px!important;
+  height:20px!important;
+  min-width:20px!important;
+  padding:0!important;
+  margin:0 1px 0 4px!important;
+  border:1px solid #b9cce0;
+  border-radius:5px;
+  background:#eef5fc;
+  color:#23445f;
+  font-size:15px!important;
+  line-height:18px!important;
+  font-weight:700;
+  text-align:center;
+}
+.add-link-head:hover{
+  background:#dfeefb;
+}
+body:not(.light-theme) .add-link-head{
+  background:#202b43;
+  border-color:#425474;
+  color:#dce6f7;
+}
+body:not(.light-theme) .add-link-head:hover{
+  background:#2b3956;
+}
+.top > div:first-child{
+  width:auto!important;
+}
+.top > div:first-child .forecast-row{
+  grid-template-columns:repeat(5,58px)!important;
+  gap:4px!important;
+  justify-content:start!important;
+}
+.hourly{
+  width:auto!important;
+}
+.forecast-item,
+.hour-item{
+  min-width:0!important;
+  padding-left:2px!important;
+  padding-right:4px!important;
+}
+.forecast-item .day,
+.hour-item .time{
+  margin-bottom:1px!important;
+}
+.top > div:first-child .forecast-item,
+.hourly .hour-item{
+  position:relative;
+  padding-right:4px;
+}
+.top > div:first-child .forecast-item:not(:last-child)::after,
+.hourly .hour-item:not(:last-child)::after{
+  content:"";
+  position:absolute;
+  top:2px;
+  right:0;
+  width:1px;
+  height:56px;
+  background:rgba(120,130,140,.22);
+}
+body.light-theme .top > div:first-child .forecast-item:not(:last-child)::after,
+body.light-theme .hourly .hour-item:not(:last-child)::after{
+  background:rgba(90,100,110,.18);
+}
+.dashboard-layout{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) 305px!important;
+  gap:14px;
+  align-items:start;
+  width:100%;
+}
+.dashboard-main{
+  min-width:0;
+  padding-right:2px;
+}
+.top-search-zone{
+  width:min(880px,86%)!important;
+  max-width:880px!important;
+  margin:4px auto 56px!important;
+  margin-bottom:-18px!important;
+}
+.search-topline{
+  position:relative;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:46px;
+  margin-bottom:6px;
+}
+.settings-inline{
+  position:absolute;
+  right:0;
+  top:0;
+  border:1px solid var(--line);
+  background:var(--panel);
+  color:var(--text);
+  border-radius:8px;
+  padding:9px 12px;
+  box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+.settings-inline:hover{
+  border-color:#8aa0b2;
+}
+.links-section{
+  margin-top:-6px!important;
+  margin-bottom:0!important;
+}
+.links-section .section-head{
+  margin-bottom:2px!important;
+  min-height:42px;
+  margin-top:0!important;
+}
+.links-section .toolbar{
+  margin-left:auto;
+}
+.weather-sidebar{
+  position:sticky;
+  top:8px;
+  width:305px!important;
+  border-left:1px solid rgba(120,130,140,.22);
+  background:var(--bg);
+  min-height:640px;
+  overflow:hidden!important;
+  max-width:305px!important;
+  min-width:305px!important;
+}
+.weather-place,
+.weather-side-block,
+.radar-block{
+  padding:12px 12px;
+  border-bottom:1px solid rgba(120,130,140,.24);
+  width:100%!important;
+  box-sizing:border-box!important;
+  padding-left:7px!important;
+  padding-right:7px!important;
+}
+.weather-place{
+  padding-top:10px!important;
+  padding-bottom:12px!important;
+  text-align:center;
+}
+.weather-place .pin{
+  margin-bottom:2px;
+}
+.weather-place label{
+  display:block;
+  color:var(--muted);
+  font-size:12px;
+  margin-bottom:5px;
+}
+.weather-place .place-entry{
+  display:flex;
+  justify-content:center;
+  gap:6px;
+}
+.weather-place .place-entry input{
+  width:175px!important;
+}
+.weather-side-block .block-title,
+.radar-block .block-title{
+  margin-bottom:9px;
+  font-size:13px;
+  font-weight:800;
+  color:var(--text);
+}
+.weather-sidebar .forecast-row{
+  display:grid!important;
+  grid-template-columns:repeat(5,1fr)!important;
+  gap:0!important;
+  width:100%;
+}
+.weather-sidebar .forecast-item,
+.weather-sidebar .hour-item{
+  text-align:left;
+  padding:1px 6px 1px 7px!important;
+  min-width:0;
+  position:relative;
+  padding-left:3px!important;
+  padding-right:3px!important;
+}
+.weather-sidebar .hour-item{
+  text-align:center;
+}
+.weather-sidebar .forecast-item:not(:last-child)::after,
+.weather-sidebar .hour-item:not(:last-child)::after{
+  content:"";
+  position:absolute;
+  top:2px;
+  right:0;
+  width:1px;
+  height:63px;
+  background:rgba(120,130,140,.20);
+}
+.weather-sidebar .forecast-item .day,
+.weather-sidebar .hour-item .time{
+  font-size:11px!important;
+}
+.weather-sidebar .wx-icon{
+  font-size:19px;
+  margin:2px 0!important;
+}
+.weather-sidebar .temp-hi{
+  font-size:15px!important;
+}
+.weather-sidebar .temp-lo,
+.weather-sidebar .hour-item .precip{
+  font-size:10px!important;
+}
+.radar-block{
+  padding-bottom:10px;
+  padding:10px 10px 8px!important;
+}
+.radar-title-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+}
+#radarRefresh{
+  width:27px;
+  height:27px;
+  padding:0;
+  border-radius:6px;
+  border:1px solid var(--line);
+  background:var(--panel);
+  color:var(--text);
+}
+.radar-link{
+  display:block!important;
+  width:100%!important;
+  border-radius:7px!important;
+  overflow:hidden!important;
+  border:1px solid var(--line);
+  background:#111;
+  max-width:100%!important;
+}
+#radarImg{
+  display:block!important;
+  width:100%!important;
+  height:225px!important;
+  aspect-ratio:4/3;
+  object-fit:cover!important;
+  max-width:100%!important;
+  max-height:225px!important;
+  object-position:center!important;
+}
+.radar-source{
+  margin-top:5px;
+  font-size:10px;
+  color:var(--text-dim);
+  text-align:right;
+}
+body.light-theme .weather-sidebar{
+  background:#f3f5f7;
+  border-left-color:#d2d8de;
+}
+body.light-theme .weather-place,
+body.light-theme .weather-side-block,
+body.light-theme .radar-block{
+  border-bottom-color:#d5dbe0;
+}
+body.light-theme .settings-inline,
+body.light-theme #radarRefresh{
+  background:#fff;
+  color:#1f262d;
+  border-color:#cbd2d7;
+}
+.weather-side-block{
+  padding-top:10px!important;
+  padding-bottom:10px!important;
+}
+body.settings-open .weather-sidebar > *{
+  display:none!important;
+}
+body.settings-open .weather-sidebar{
+  min-height:520px;
+  overflow:visible!important;
+}
+body.settings-open .settings-panel{
+  position:fixed!important;
+  top:28px!important;
+  right:18px!important;
+  width:305px!important;
+  max-width:305px!important;
+  max-height:calc(100vh - 56px);
+  overflow:auto;
+  z-index:80;
+}
+body.settings-open .dashboard-layout{
+  grid-template-columns:minmax(0,1fr) 305px!important;
+}
+body.edit-mode #cards{
+  column-gap:3px!important;
+}
+body.edit-mode #cards .card{
+  max-width:185px!important;
+  height:auto!important;
+  min-height:0!important;
+}
+#cards .card-head{
+  margin-bottom:3px!important;
+}
+#cards .links{
+  margin-bottom:0!important;
+}
+#cards .link-row:last-child{
+  margin-bottom:0!important;
+}
+#cards .card:has(.links:empty){
+  padding-bottom:4px!important;
+}
+body.weather-hidden .weather-sidebar{
+  display:none!important;
+}
+body.weather-hidden .dashboard-layout{
+  grid-template-columns:1fr!important;
+}
+body.weather-hidden .dashboard-main{
+  width:100%!important;
+}
+body.weather-hidden.settings-open .dashboard-layout{
+  grid-template-columns:1fr!important;
+}
+body.weather-hidden.settings-open .settings-panel{
+  right:18px!important;
+}
+.link-insert-line{
+  height:3px;
+  background:#2f8fdb;
+  border-radius:3px;
+  margin:1px 2px;
+  pointer-events:none;
+}
+.link-row.link-drop-before{
+  box-shadow:0 -3px 0 #2f8fdb inset;
+}
+.link-row.link-drop-after{
+  box-shadow:0 3px 0 #2f8fdb inset;
+}
+.link-placeholder{
+  box-sizing:border-box;
+  border:1px dashed #2f8fdb;
+  border-radius:5px;
+  background:rgba(47,143,219,.10);
+  margin:1px 0;
+  transition:height .08s ease, margin .08s ease;
+}
+body:not(.light-theme) .link-placeholder{
+  background:rgba(85,170,235,.12);
+  border-color:#58aeea;
+}
+.lower-section-divider{
+  width:100%;
+  height:4px;
+  margin:20px 0 0;
+  border:0;
+  border-radius:999px;
+  background:rgba(170,178,184,.22);
+}
+body.light-theme .lower-section-divider{
+  background:rgba(85,95,105,.18);
+}
+.quick-news-section{
+  width:100%;
+  margin:24px 0 0;
+  padding:0 22px 10px;
+}
+.quick-news-source{
+  margin:0 0 34px;
+}
+.quick-news-source:last-child{
+  margin-bottom:6px;
+}
+.quick-news-source-head{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  margin:0 0 12px;
+}
+.quick-news-source-title{
+  margin:0;
+  font-size:20px;
+  line-height:1.2;
+  font-weight:800;
+  color:var(--text);
+}
+.quick-news-source-title a{
+  color:inherit;
+  text-decoration:none;
+}
+.quick-news-source-title a:hover{
+  color:var(--blue);
+}
+.quick-news-source-status{
+  min-height:16px;
+  color:var(--muted);
+  font-size:10.5px;
+  text-align:right;
+}
+.quick-news-grid{
+  display:grid;
+  grid-template-columns:repeat(6,minmax(0,1fr));
+  gap:16px;
+  align-items:start;
+}
+.quick-news-card{
+  min-width:0;
+}
+.quick-news-card a{
+  display:block;
+  color:var(--text);
+  text-decoration:none;
+}
+.quick-news-image-wrap{
+  position:relative;
+  width:100%;
+  aspect-ratio:16/10;
+  overflow:hidden;
+  border-radius:6px;
+  background:#242626;
+  border:1px solid rgba(125,135,145,.16);
+}
+.quick-news-image{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+  transition:transform .16s ease, opacity .16s ease;
+}
+.quick-news-card a:hover .quick-news-image{
+  transform:scale(1.015);
+}
+.quick-news-title{
+  margin-top:9px;
+  color:var(--text);
+  font-size:13.5px;
+  line-height:1.42;
+  font-weight:500;
+  overflow-wrap:anywhere;
+}
+.quick-news-card a:hover .quick-news-title{
+  color:var(--blue);
+}
+.quick-news-placeholder{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  height:100%;
+  padding:12px;
+  text-align:center;
+  color:#aeb3b5;
+  background:linear-gradient(135deg,rgba(255,255,255,.035),rgba(255,255,255,.005)),
+    #242626;
+  font-size:13px;
+  font-weight:800;
+  letter-spacing:.02em;
+}
+.quick-news-loading .quick-news-image-wrap,
+.quick-news-loading .quick-news-title-line{
+  position:relative;
+  overflow:hidden;
+  background:#252828;
+}
+.quick-news-loading .quick-news-image-wrap::after,
+.quick-news-loading .quick-news-title-line::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  transform:translateX(-100%);
+  background:linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.055),
+    transparent
+  );
+  animation:quickNewsShimmer 1.35s infinite;
+}
+.quick-news-title-line{
+  height:11px;
+  margin-top:9px;
+  border-radius:4px;
+}
+.quick-news-title-line.short{
+  width:72%;
+  margin-top:6px;
+}
+.quick-news-error{
+  grid-column:1/-1;
+  padding:15px 16px;
+  border:1px dashed var(--line);
+  border-radius:8px;
+  color:var(--muted);
+  font-size:12px;
+}
+.quick-news-error a{
+  display:inline;
+  color:var(--blue);
+}
+body.light-theme .quick-news-image-wrap{
+  background:#e7ebee;
+  border-color:#d5dade;
+}
+body.light-theme .quick-news-placeholder{
+  color:#64707a;
+  background:linear-gradient(135deg,rgba(0,0,0,.025),rgba(0,0,0,.005)),
+    #e9edf0;
+}
+body.light-theme .quick-news-loading .quick-news-image-wrap,
+body.light-theme .quick-news-loading .quick-news-title-line{
+  background:#e1e6e9;
+}
+body.light-theme .quick-news-loading .quick-news-image-wrap::after,
+body.light-theme .quick-news-loading .quick-news-title-line::after{
+  background:linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.58),
+    transparent
+  );
+}
+
+@media(max-width:1200px){
+.cards{
+  grid-template-columns:repeat(4,max-content)!important;
+}
+.news-grid{
+  grid-template-columns:repeat(3,1fr);
+}
+}
+
+@media(max-width:850px){
+.top{
+  grid-template-columns:1fr;
+}
+.place{
+  order:-1;
+}
+.cards{
+  grid-template-columns:repeat(2,max-content)!important;
+}
+.news-grid{
+  grid-template-columns:1fr 1fr;
+}
+#cards{
+  width:calc(100vw - 24px)!important;
+}
+}
+
+@media(max-width:520px){
+.cards,.news-grid{
+  grid-template-columns:1fr;
+}
+.wrap{
+  padding-left:10px;
+  padding-right:10px;
+}
+.icon-grid{
+  grid-template-columns:repeat(3,minmax(0,1fr));
+}
+.cards{
+  grid-template-columns:max-content!important;
+}
+}
+
+@media(min-width:1201px){
+.cards{
+  width:max-content!important;
+  max-width:calc(100vw - 80px)!important;
+}
+}
+
+@media(max-width:1450px){
+#cards{
+  grid-template-columns:repeat(6, 205px)!important;
+}
+.card-column,#cards .card{
+  width:205px;
+  max-width:205px;
+}
+body.edit-mode #cards .card{
+  max-width:175px!important;
+}
+}
+
+@media(max-width:1250px){
+#cards{
+  grid-template-columns:repeat(4, 220px)!important;
+}
+body.settings-open .settings-panel{
+  width:285px!important;
+  max-width:285px!important;
+}
+body.settings-open .dashboard-layout{
+  grid-template-columns:minmax(0,1fr) 285px!important;
+}
+}
+
+@media(max-width:950px){
+#cards{
+  grid-template-columns:repeat(3, 220px)!important;
+}
+}
+
+@media(max-width:720px){
+#cards{
+  grid-template-columns:repeat(2, 220px)!important;
+}
+}
+
+@media(max-width:500px){
+#cards{
+  grid-template-columns:220px!important;
+}
+}
+
+@media(min-width:1251px){
+#cards{
+  grid-template-columns:repeat(6,max-content)!important;
+}
+}
+
+@media(max-width:1100px){
+.top{
+  grid-template-columns:1fr!important;
+  row-gap:14px!important;
+}
+.top > div:first-child .forecast-row,
+  .hourly .forecast-row{
+  justify-content:center!important;
+}
+.place{
+  width:auto!important;
+}
+}
+
+@media(max-width:1180px){
+.dashboard-layout{
+  grid-template-columns:1fr;
+}
+.weather-sidebar{
+  position:relative;
+  top:auto;
+  width:min(100%,305px)!important;
+  margin:18px auto 0;
+  border-left:0;
+  border-top:1px solid var(--line);
+  max-width:305px!important;
+  min-width:0!important;
+}
+.top-search-zone{
+  margin-bottom:28px!important;
+}
+body.settings-open .weather-sidebar > *{
+  display:block!important;
+}
+body.settings-open .settings-panel{
+  position:fixed!important;
+  right:16px!important;
+  top:58px!important;
+  width:310px!important;
+  max-width:calc(100vw - 32px)!important;
+}
+body.settings-open .dashboard-layout{
+  grid-template-columns:1fr!important;
+}
+}
+
+@media(max-width:680px){
+.top-search-zone{
+  width:100%!important;
+}
+.search-topline{
+  justify-content:flex-start;
+}
+.settings-inline{
+  position:static;
+  margin-left:auto;
+}
+.weather-sidebar{
+  width:100%;
+}
+.weather-place .place-entry input{
+  width:min(220px,70vw);
+}
+}
+
+@media(max-width:1350px){
+.quick-news-grid{
+  grid-template-columns:repeat(3,minmax(0,1fr));
+}
+}
+
+@media(max-width:760px){
+.quick-news-section{
+  padding-left:4px;
+  padding-right:4px;
+}
+.quick-news-grid{
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px 10px;
+}
+}
+
+@media(max-width:480px){
+.quick-news-grid{
+  grid-template-columns:1fr;
+}
+}
+
+@keyframes quickNewsShimmer{
+  100%{transform:translateX(100%)}
+}
+
+/* ---------- SVEŽE NOVICE (zaznana sprememba) ---------- */
+.quick-news-card.quick-news-fresh .quick-news-image-wrap{
+  outline:2px solid var(--blue);
+  outline-offset:1px;
+}
+
+.quick-news-card.quick-news-fresh .quick-news-title{
+  color:var(--blue);
+  font-weight:700;
+}
+
+.quick-news-card.quick-news-fresh{
+  animation:quickNewsFreshIn .5s ease;
+}
+
+@keyframes quickNewsFreshIn{
+  from{opacity:.25;transform:translateY(-4px)}
+  to{opacity:1;transform:none}
+}
+
+/* ---------- GOOGLE PREDLOGI POD ISKALNIKOM ---------- */
+.search-engine-label{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:7px;
+  margin:0 0 7px;
+  color:var(--muted);
+  font-size:12.5px;
+  letter-spacing:.02em;
+}
+
+.search-engine-label b{
+  color:var(--text);
+  font-weight:800;
+  letter-spacing:.01em;
+}
+
+.search-google-g{
+  font-weight:800;
+  font-size:15px;
+  letter-spacing:-.5px;
+}
+.search-google-g i:nth-child(1){color:#4285f4;font-style:normal}
+.search-google-g i:nth-child(2){color:#ea4335;font-style:normal}
+.search-google-g i:nth-child(3){color:#fbbc05;font-style:normal}
+.search-google-g i:nth-child(4){color:#4285f4;font-style:normal}
+.search-google-g i:nth-child(5){color:#34a853;font-style:normal}
+.search-google-g i:nth-child(6){color:#ea4335;font-style:normal}
+
+.search-shell{
+  position:relative;
+}
+
+.search-suggest{
+  position:absolute;
+  left:0;
+  right:0;
+  top:calc(100% + 4px);
+  z-index:60;
+  padding:5px 0;
+  border:1px solid var(--line);
+  border-radius:14px;
+  background:var(--panel);
+  box-shadow:0 12px 34px rgba(0,0,0,.30);
+  overflow:hidden;
+}
+
+body.light-theme .search-suggest{
+  background:#fff;
+  border-color:#cfd5db;
+  box-shadow:0 12px 34px rgba(0,0,0,.14);
+}
+
+.search-suggest-item{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  width:100%;
+  padding:8px 17px;
+  border:0;
+  background:transparent;
+  color:var(--text);
+  text-align:left;
+  font-size:14px;
+  line-height:1.3;
+}
+
+.search-suggest-item .sg-ico{
+  color:var(--muted);
+  font-size:13px;
+  flex:none;
+}
+
+.search-suggest-item:hover,
+.search-suggest-item.active{
+  background:rgba(125,150,180,.16);
+}
+
+body.light-theme .search-suggest-item:hover,
+body.light-theme .search-suggest-item.active{
+  background:#eef2f6;
+}
+
+.search-suggest-item b{
+  font-weight:700;
+}
+</style>
+</head>
+<body>
+<div id="settingsPanel" class="settings-panel hidden">
+  <h3>Začasne nastavitve</h3>
+  <div class="setting-row">
+    <span>Videz strani</span>
+    <div class="theme-choice">
+      <button type="button" id="themeDark">🌙 Temno</button>
+      <button type="button" id="themeLight">☀️ Svetlo</button>
+    </div>
+  </div>
+  <div class="setting-row"><span>Prikaži orodja za urejanje</span><label class="switch"><input id="sEdit" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span>Dovoli dodajanje okenc</span><label class="switch"><input id="sAddCards" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span>Dovoli dodajanje povezav</span><label class="switch"><input id="sAddLinks" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span>Dovoli premikanje okenc/povezav</span><label class="switch"><input id="sDrag" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span>Dovoli spreminjanje velikosti</span><label class="switch"><input id="sResize" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span>Prikaži robove okenc</span><label class="switch"><input id="sBorders" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span>Prikaži vreme na desni</span><label class="switch"><input id="sWeather" type="checkbox" checked><span class="slider"></span></label></div>
+  
+</div>
+
+<div class="wrap">
+
+  <div class="dashboard-layout">
+
+    <main class="dashboard-main">
+      <section class="search-zone top-search-zone">
+        <div class="search-topline">
+          <div class="search-tabs">
+            <button class="active" data-mode="web">splet</button>
+            <button data-mode="images">slike</button>
+            <button data-mode="videos">videi</button>
+          </div>
+          <button id="settingsBtn" class="settings-inline">⚙ Nastavitve</button>
+        </div>
+
+        <div class="search-engine-label">
+          <span class="search-google-g" aria-hidden="true">
+            <i>G</i><i>o</i><i>o</i><i>g</i><i>l</i><i>e</i>
+          </span>
+          <span>iskanje &mdash; rezultati se odprejo v <b>Google</b> iskalniku</span>
+        </div>
+
+        <div class="search-shell">
+          <form id="searchForm" class="searchbar">
+            <input id="searchInput"
+                   placeholder="⌕   iskanje po Googlu ..."
+                   autocomplete="off"
+                   spellcheck="false">
+            <button type="submit">⌕</button>
+          </form>
+          <div id="searchSuggest" class="search-suggest hidden"></div>
+        </div>
+      </section>
+
+      <section class="section links-section">
+        <div class="section-head">
+          <span></span>
+          <div id="linksToolbar" class="toolbar">
+            <button id="addCardBtn">＋ Dodaj okence</button>
+            <button id="exportBtn">Izvozi nastavitve</button>
+            <button id="importBtn">Uvozi nastavitve</button>
+            <input id="importFile" class="hidden" type="file" accept="application/json">
+          </div>
+        </div>
+
+        <div id="cards" class="cards"></div>
+        <div id="emptyCards" class="empty hidden">
+          Ni še nobenega okenca. Klikni <b>Dodaj okence</b>, ko ga želiš ustvariti.
+        </div>
+      </section>
+    </main>
+
+    <aside class="weather-sidebar">
+      <section class="weather-place">
+        <div class="pin">⌾</div>
+        <label>kraj vremena</label>
+        <div class="place-entry">
+          <input id="placeInput" value="Ormož" placeholder="Vnesi kraj">
+          <button id="weatherBtn" title="Prikaži vreme">↻</button>
+        </div>
+      </section>
+
+      <section class="weather-side-block">
+        <div class="block-title">5-dnevna napoved</div>
+        <div id="daily" class="forecast-row"></div>
+      </section>
+
+      <section class="weather-side-block">
+        <div class="block-title">naslednjih 5 ur</div>
+        <div id="hourly" class="forecast-row hourly-side-row"></div>
+      </section>
+
+      <section class="radar-block">
+        <div class="radar-title-row">
+          <div class="block-title">radarska slika padavin</div>
+          <button id="radarRefresh" type="button" title="Osveži radar">↻</button>
+        </div>
+        <a class="radar-link"
+           href="https://meteo.arso.gov.si/met/sl/weather/observ/radar/"
+           target="_blank"
+           rel="noopener noreferrer"
+           title="Odpri radar ARSO">
+          <img id="radarImg"
+               src="https://meteo.arso.gov.si/uploads/probase/www/observ/radar/si0-rm.gif"
+               alt="Aktualna radarska slika padavin ARSO">
+        </a>
+        <div class="radar-source">Vir: ARSO · klik na sliko odpre radarski prikaz</div>
+      </section>
+    </aside>
+
+  </div>
+
+  <div class="lower-section-divider" aria-hidden="true"></div>
+
+  <section id="quickNewsSection" class="quick-news-section" aria-label="Hitre novice">
+    <div id="quickNewsSources"></div>
+  </section>
+</div>
+
+<div id="modalHost"></div>
+
+<script>
+const STORE="moja_zacetna_stran_v30_blic";
+const SETTINGS="moja_zacetna_stran_settings_v3";
+
+let state = JSON.parse(localStorage.getItem(STORE) || "{\"cards\":[{\"id\":\"e2b71d63-573c-490e-8931-57f7940039a4\",\"title\":\"Info & uporabno\",\"icon\":\"\u2139\ufe0f\",\"links\":[{\"id\":\"0a996791-196f-49df-8a2c-0971800b9e35\",\"name\":\"Zemljevid Najdi.si\",\"url\":\"https://zemljevid.najdi.si\"},{\"id\":\"1751c230-f423-452b-bc14-86e27fa2c635\",\"name\":\"Zemljevid Google\",\"url\":\"https://maps.google.com\"},{\"id\":\"67cb0e36-e368-42a1-ad08-b42197fa9d12\",\"name\":\"Wikipedia\",\"url\":\"https://sl.wikipedia.org\"},{\"id\":\"acd3943e-810b-4555-b871-0327690a97e1\",\"name\":\"Med.Over.Net\",\"url\":\"https://med.over.net\"},{\"id\":\"80df8727-c6bb-47bf-8431-66c8b2385c79\",\"name\":\"Telefonski imenik\",\"url\":\"https://itis.siol.net\"},{\"id\":\"1681663f-1f7e-42bd-9c86-43cb29fefd96\",\"name\":\"Spin - SOS112\",\"url\":\"https://spin3.sos112.si\"},{\"id\":\"52569434-80cb-4d92-9fe8-afccf2f4e7e5\",\"name\":\"LPP\",\"url\":\"https://www.lpp.si\"},{\"id\":\"482dd32b-bcfd-4b36-bc50-e5c2a41e26fb\",\"name\":\"Vlak - vozni red\",\"url\":\"https://potniski.sz.si\"},{\"id\":\"4b182832-fc0e-4958-87a2-30e20a0507ff\",\"name\":\"Avtobus - vozni red\",\"url\":\"https://www.ap-ljubljana.si\"},{\"id\":\"abb3bfca-d228-4d4b-a8a1-315f851d04f2\",\"name\":\"Aerodrom Brnik\",\"url\":\"https://www.lju-airport.si\"},{\"id\":\"0032b0f7-4a5c-4f7f-907a-ce635ee9b76c\",\"name\":\"Promet.si\",\"url\":\"https://promet.si\"},{\"id\":\"9f19190e-b424-4102-a31b-21c2aca4261d\",\"name\":\"Prevoz.org\",\"url\":\"https://prevoz.org\"}],\"col\":0,\"order\":0,\"w\":190,\"h\":284},{\"id\":\"491a8886-b4d2-44ba-ae64-226d32634d44\",\"title\":\"Dr\u017eavni organi\",\"icon\":\"\ud83c\udfdb\ufe0f\",\"links\":[{\"id\":\"d0bae8ca-c556-44c1-a6ad-022e9dde9906\",\"name\":\"Ajpes\",\"url\":\"https://www.ajpes.si\"},{\"id\":\"996962c5-3987-4487-9dc1-821d98613160\",\"name\":\"FURS\",\"url\":\"https://www.fu.gov.si\"},{\"id\":\"690a9bbf-de08-4f24-9575-a7480d9e5b19\",\"name\":\"Spot\",\"url\":\"https://spot.gov.si\"},{\"id\":\"93f31e2d-6998-4023-b068-aa8a616d7524\",\"name\":\"e-Davki\",\"url\":\"https://edavki.durs.si\"},{\"id\":\"a2f08b9a-fa50-4b87-856e-673f11c517ea\",\"name\":\"e-Uprava\",\"url\":\"https://e-uprava.gov.si\"}],\"col\":1,\"order\":0,\"w\":190,\"h\":144},{\"id\":\"b092a0f8-1a41-4121-9fd2-616966d974b8\",\"title\":\"Zaposlitev\",\"icon\":\"\ud83d\udcbc\",\"links\":[{\"id\":\"d19c0042-2fd0-4fd5-9d6e-1d38b0f16922\",\"name\":\"Zavod za zaposlovanje\",\"url\":\"https://www.ess.gov.si\"},{\"id\":\"d566f860-55e8-481f-bfc4-848630473d81\",\"name\":\"MojeDelo.com\",\"url\":\"https://www.mojedelo.com\"},{\"id\":\"8780c210-e1c5-4b6d-9063-66edb8491b64\",\"name\":\"Deloglasnik\",\"url\":\"https://www.deloglasnik.si\"}],\"col\":2,\"order\":0,\"w\":190,\"h\":120},{\"id\":\"acd7ef88-df76-4c7f-9160-adec978d9788\",\"title\":\"Gospodarstvo\",\"icon\":\"\ud83d\udcca\",\"links\":[{\"id\":\"53d856b8-bf27-42b6-9022-608d90414cd9\",\"name\":\"Finance.si\",\"url\":\"https://www.finance.si\"},{\"id\":\"ae93e3aa-fd21-49f3-83d4-3dda98d31932\",\"name\":\"Bizi.si - poslovni imenik\",\"url\":\"https://www.bizi.si\"},{\"id\":\"a3af0d22-34ab-4a6f-9e40-73253eece4ff\",\"name\":\"Delo gospodarstvo\",\"url\":\"https://www.delo.si\"},{\"id\":\"e997562a-5b9b-4aa5-93ad-05c288032dad\",\"name\":\"24ur gospodarstvo\",\"url\":\"https://www.24ur.com\"},{\"id\":\"d128d46d-2fc0-47d0-9bf9-acad2952a1d3\",\"name\":\"Vzajemci.com\",\"url\":\"https://www.vzajemci.com\"},{\"id\":\"c244992f-a5c7-4644-a259-17d604e8cf90\",\"name\":\"LJ Borza\",\"url\":\"https://www.ljse.si\"},{\"id\":\"710aa205-3648-4f0c-af74-cfafc0419124\",\"name\":\"ZG Borza\",\"url\":\"https://zse.hr\"},{\"id\":\"d064e7d6-c98b-42fb-89a9-67760ec63208\",\"name\":\"BG Borza\",\"url\":\"https://www.belex.rs\"},{\"id\":\"b6b7e9b4-146f-4538-9622-a385ad431c49\",\"name\":\"BiH Borza\",\"url\":\"https://www.sase.ba\"},{\"id\":\"5ff19a42-02a3-4868-aa37-466f0ecf40d9\",\"name\":\"MK Borza\",\"url\":\"https://www.mse.mk\"}],\"col\":3,\"order\":0,\"w\":190,\"h\":244},{\"id\":\"d3a5af03-e989-4d1b-bc6c-3aada7959ac2\",\"title\":\"Novice svet\",\"icon\":\"\ud83c\udf0d\",\"links\":[{\"id\":\"3bb824a0-882d-4ecf-9aeb-bf165781e547\",\"name\":\"CNN.com\",\"url\":\"https://edition.cnn.com\"},{\"id\":\"79ecdf6e-08cd-4367-91fd-18a497880a72\",\"name\":\"BBC.com\",\"url\":\"https://www.bbc.com\"},{\"id\":\"1e7ba8a3-80d9-40e6-8ce2-a57779c47e66\",\"name\":\"Aljazeera\",\"url\":\"https://www.aljazeera.com\"}],\"col\":4,\"order\":0,\"w\":190,\"h\":120},{\"id\":\"f6dbc77c-5f2a-4281-8059-c0d9ceae3105\",\"title\":\"Novice ex-YU\",\"icon\":\"\ud83d\udcf0\",\"links\":[{\"id\":\"06d887cb-b8dc-4fd6-a60d-7786511ecaa2\",\"name\":\"Jutarnji list\",\"url\":\"https://www.jutarnji.hr\"},{\"id\":\"3aed554b-7bb4-4b61-a4ee-7e2effad3e08\",\"name\":\"Ve\u010dernji list\",\"url\":\"https://www.vecernji.hr\"},{\"id\":\"88c2db03-c197-4118-866e-b858184622b5\",\"name\":\"Dnevnik.hr\",\"url\":\"https://www.dnevnik.hr\"},{\"id\":\"d55f29fa-74ed-4120-b788-bb8649fff3e2\",\"name\":\"24sata.hr\",\"url\":\"https://www.24sata.hr\"},{\"id\":\"ab1848f8-e25d-483a-8efb-e3823105f818\",\"name\":\"Index.hr\",\"url\":\"https://www.index.hr\"},{\"id\":\"df21fb14-3131-487a-a707-0a02b885d5c5\",\"name\":\"24sata.ba\",\"url\":\"https://www.24sata.ba\"},{\"id\":\"cde142a3-68e0-4569-a99d-089b4c964011\",\"name\":\"Informer.rs\",\"url\":\"https://informer.rs\"},{\"id\":\"52b185dd-9b79-44e5-ad77-4d0de9c52f8a\",\"name\":\"Kurir.rs\",\"url\":\"https://www.kurir.rs\"},{\"id\":\"4fbf12f8-a197-4ab3-9029-3528a4125002\",\"name\":\"Alo!\",\"url\":\"https://www.alo.rs\"},{\"id\":\"697996ec-55e1-4cf2-8cc0-201cf12aa4ff\",\"name\":\"Blic.rs\",\"url\":\"https://www.blic.rs\"},{\"id\":\"eff98abf-9885-4815-b754-a575fa8785dc\",\"name\":\"B92\",\"url\":\"https://www.b92.net\"}],\"col\":5,\"order\":0,\"w\":190,\"h\":264},{\"id\":\"a9341878-84ce-4230-86b8-cc59f395bc9a\",\"title\":\"Novice\",\"icon\":\"\ud83d\uddde\ufe0f\",\"links\":[{\"id\":\"3bda97df-d068-49ae-93f7-9c6f21cef737\",\"name\":\"SIOL\",\"url\":\"https://siol.net\"},{\"id\":\"7f0b5fdb-9ebe-48bd-8631-bcebdfd2ddb2\",\"name\":\"24 UR\",\"url\":\"https://www.24ur.com\"},{\"id\":\"bc9904dc-48f5-4ac7-a7d9-e6fdfdc3e42a\",\"name\":\"RTV Slo\",\"url\":\"https://www.rtvslo.si\"},{\"id\":\"cd6c85e8-3369-4780-a48d-634888f53e46\",\"name\":\"N1 info\",\"url\":\"https://n1info.si\"},{\"id\":\"f1e2a346-f724-4186-9a51-77610d5906b1\",\"name\":\"\u017durnal 24\",\"url\":\"https://www.zurnal24.si\"},{\"id\":\"19e90f32-7bf1-43e7-b54a-6f5f441cbc62\",\"name\":\"Delo.si\",\"url\":\"https://www.delo.si\"},{\"id\":\"79cbcbcc-1a5c-492d-850c-00ca33740c47\",\"name\":\"Ve\u010der\",\"url\":\"https://vecer.com\"},{\"id\":\"be4b0140-aeff-4ff5-837f-8d1b3ceb40ca\",\"name\":\"Dnevnik.si\",\"url\":\"https://www.dnevnik.si\"},{\"id\":\"768f992c-43f6-4522-abd7-f432a1de007e\",\"name\":\"Po\u017ear Report\",\"url\":\"https://pozareport.si\"},{\"id\":\"34132d71-9652-4b2a-8f41-a5790d7676e1\",\"name\":\"Info360\",\"url\":\"https://www.info360.si\"},{\"id\":\"2235d22d-1c62-4e1d-be52-43c41743354a\",\"name\":\"Primorske novice\",\"url\":\"https://primorske.svet24.si\"},{\"id\":\"23dd22e4-c01f-4c85-ae55-bdcf46518640\",\"name\":\"Slovenske novice\",\"url\":\"https://www.slovenskenovice.si\"},{\"id\":\"2d794116-0375-4d36-a08f-e80f2cf1329a\",\"name\":\"Reporter\",\"url\":\"https://reporter.si\"},{\"id\":\"cc031d6b-fbda-4d5e-84c7-3da498ba3bfb\",\"name\":\"Mladina\",\"url\":\"https://www.mladina.si\"},{\"id\":\"625cb444-fc7e-4509-8aa8-bb5ab7df7b50\",\"name\":\"Svet 24\",\"url\":\"https://svet24.si\"},{\"id\":\"9c537983-9757-4f69-9c67-8a731b6b1df5\",\"name\":\"Nova24\",\"url\":\"https://nova24tv.si\"},{\"id\":\"0cd9a878-b072-457f-bcfb-d3cdccb621d7\",\"name\":\"Telex\",\"url\":\"https://www.telex.si\"}],\"col\":2,\"order\":1,\"w\":190,\"h\":330},{\"id\":\"be14cb03-00cd-4219-9d77-2cc6d5850ac2\",\"title\":\"\u0160port\",\"icon\":\"\u26bd\",\"links\":[{\"id\":\"7c30c40b-b1ed-4a81-a042-9fb61242c7f9\",\"name\":\"Sportal Siol.net\",\"url\":\"https://siol.net/sportal\"},{\"id\":\"ad822ea6-9bc0-46e9-acf6-5189c3becdb0\",\"name\":\"\u0160port RTV\",\"url\":\"https://www.rtvslo.si/sport\"},{\"id\":\"458f2072-16f3-45ca-88a9-a61083f8e86c\",\"name\":\"Nogomania\",\"url\":\"https://www.nogomania.com\"},{\"id\":\"5ea65ada-06af-426d-8014-4c894246c5a0\",\"name\":\"Ekipa\",\"url\":\"https://ekipa.svet24.si\"},{\"id\":\"142ea028-f13d-4851-b41c-257161083396\",\"name\":\"E-stave\",\"url\":\"https://www.e-stave.com\"}],\"col\":4,\"order\":1,\"w\":190,\"h\":144},{\"id\":\"eed54e4b-ff73-40c2-8d59-3ce7b5f38172\",\"title\":\"E-mail\",\"icon\":\"\u2709\ufe0f\",\"links\":[{\"id\":\"4a7c8077-519e-4da8-aaf0-2780f6919b15\",\"name\":\"Gmail\",\"url\":\"https://www.gmail.com\"},{\"id\":\"fbefe2b4-fe1f-4e4d-ac90-8209bf47242c\",\"name\":\"Siol e-mail\",\"url\":\"https://posta.siol.net\"},{\"id\":\"a1152d1f-dff1-4c16-bfa0-d3e4a651f238\",\"name\":\"Yahoo e-mail\",\"url\":\"https://mail.yahoo.com\"},{\"id\":\"1fa86e3c-5a96-4970-98df-f91d4c8600cb\",\"name\":\"Hotmail\",\"url\":\"https://www.hotmail.com\"},{\"id\":\"80065e03-0faf-4e29-80d9-cc53b697d64c\",\"name\":\"Outlook\",\"url\":\"https://outlook.live.com\"},{\"id\":\"aa69fcf8-bc69-4900-be89-8ccb6c4a2d3f\",\"name\":\"T2 webmail\",\"url\":\"https://webmail.t-2.net\"},{\"id\":\"dff5bbda-2414-452a-8cc4-1772bf917252\",\"name\":\"Telemach e-po\u0161ta\",\"url\":\"https://posta.telemach.net\"}],\"col\":1,\"order\":1,\"w\":190,\"h\":184},{\"id\":\"4a4aeafe-97d6-49be-80d5-8f8b4c89a1ae\",\"title\":\"Glasba, filmi, mp3\",\"icon\":\"\ud83c\udfac\",\"links\":[{\"id\":\"4f7ad776-693f-44e8-bd61-2bdb24a9d13f\",\"name\":\"Pirate bay\",\"url\":\"https://thepiratebay.org\"},{\"id\":\"824d19f0-c103-4770-8713-ab6b1ab3e6fa\",\"name\":\"Moj blink\",\"url\":\"https://mojblink.si\"},{\"id\":\"e94023ee-b683-4dbb-9acb-3dc5badb8800\",\"name\":\"Infire.si\",\"url\":\"https://infire.si\"},{\"id\":\"e2df2ae5-8dd7-4d14-9276-239330360e2b\",\"name\":\"IMDb\",\"url\":\"https://www.imdb.com\"},{\"id\":\"f2c6d770-185d-439b-a28e-8f7a893e1fd6\",\"name\":\"Podnapisi.net\",\"url\":\"https://www.podnapisi.net\"},{\"id\":\"9947e04b-b385-4d4d-ba64-e4ee265df5c9\",\"name\":\"Soundcloud\",\"url\":\"https://soundcloud.com\"},{\"id\":\"0f4afa63-d993-432b-aa60-abd5b92c71d4\",\"name\":\"TuneIn\",\"url\":\"https://tunein.com\"},{\"id\":\"a196013c-cf4d-41f9-b303-387f22fd7021\",\"name\":\"YouTube\",\"url\":\"https://www.youtube.com\"}],\"col\":3,\"order\":1,\"w\":190,\"h\":204},{\"id\":\"ecb53fab-c722-4ed1-afbb-5b9684e91e60\",\"title\":\"Igre\",\"icon\":\"\ud83c\udfae\",\"links\":[{\"id\":\"78ea81ce-2323-497d-87b0-9552ca743afc\",\"name\":\"Igre123\",\"url\":\"https://www.igre123.com\"},{\"id\":\"e19e42ec-1a91-4b19-a496-785d725e9de2\",\"name\":\"Zulu.si\",\"url\":\"https://www.zulu.si\"}],\"col\":5,\"order\":1,\"w\":190,\"h\":120},{\"id\":\"f088b472-7428-4fdd-a381-2288586449e6\",\"title\":\"Napovednik\",\"icon\":\"\ud83d\udcc5\",\"links\":[{\"id\":\"d23a86ca-1fde-41a8-9d1c-1f6c4d567680\",\"name\":\"Vreme bo\",\"url\":\"https://vremebo.com\"},{\"id\":\"92b72ae9-6643-4c26-a2f4-cb8636de4a6e\",\"name\":\"Radarska slika\",\"url\":\"https://vremebo.com\"},{\"id\":\"84d1199b-7dd0-4bfb-9d3c-89d00a365c19\",\"name\":\"Vreme.si\",\"url\":\"https://www.vreme.si\"},{\"id\":\"066a9207-aad1-4d2a-b07f-aab147222bc4\",\"name\":\"TV spored Siol.net\",\"url\":\"https://tv-spored.siol.net\"},{\"id\":\"87f5fa77-cb05-462c-99bb-9b06099d0016\",\"name\":\"Spored.tv\",\"url\":\"https://www.spored.tv\"},{\"id\":\"a1dcc68b-ad7f-41c8-918f-6f783fac65c0\",\"name\":\"Eventim.si\",\"url\":\"https://www.eventim.si\"},{\"id\":\"c31f96ef-d2c5-45cb-9918-6ef559e897a1\",\"name\":\"Napovednik.com\",\"url\":\"https://napovednik.com\"},{\"id\":\"d26deac1-4b25-40cb-bc54-b19a355010ff\",\"name\":\"Cineplexx\",\"url\":\"https://www.cineplexx.si\"}],\"col\":4,\"order\":2,\"w\":190,\"h\":204},{\"id\":\"d080c81f-61d0-4d3f-b172-d4b0f39e5626\",\"title\":\"Turizem\",\"icon\":\"\ud83e\uddf3\",\"links\":[{\"id\":\"99f14bd4-b5a8-4d53-9b6a-c40d0e0d6ae1\",\"name\":\"Hribi.net\",\"url\":\"https://www.hribi.net\"},{\"id\":\"2d9813ca-aed3-4459-8e80-346eed4032bd\",\"name\":\"Booking.com\",\"url\":\"https://www.booking.com\"},{\"id\":\"1989edab-6537-4014-bb10-1ea2c02ec4b4\",\"name\":\"Smu\u010di\u0161\u010da\",\"url\":\"https://www.skiresort.info\"},{\"id\":\"a3223c00-22db-4e13-af20-a67654eac2ae\",\"name\":\"Slovenia.info\",\"url\":\"https://www.slovenia.info\"},{\"id\":\"b0c082f0-5f6e-4a8f-896f-a34f1bb4329f\",\"name\":\"Kompas Holidays\",\"url\":\"https://www.kompas.si\"},{\"id\":\"6657fda4-4951-4129-869c-eaacc419532b\",\"name\":\"Tripadvisor\",\"url\":\"https://www.tripadvisor.com\"},{\"id\":\"21852549-0859-4cad-b0db-d1413bf5f632\",\"name\":\"Skyscanner\",\"url\":\"https://www.skyscanner.net\"},{\"id\":\"1c5a81b2-42cc-466e-8c99-89a6f46c5e33\",\"name\":\"Airbnb\",\"url\":\"https://www.airbnb.com\"}],\"col\":0,\"order\":1,\"w\":190,\"h\":204},{\"id\":\"5f1ea7f1-65b3-47f2-8d96-7d7699d31c7c\",\"title\":\"Hrana\",\"icon\":\"\ud83c\udf7d\ufe0f\",\"links\":[{\"id\":\"341a71b8-8735-4664-989d-213d70f225bf\",\"name\":\"Kulinarika.net\",\"url\":\"https://www.kulinarika.net\"},{\"id\":\"eec61162-91e7-411e-bd50-ed79e3fee301\",\"name\":\"Moja Gostilna\",\"url\":\"https://www.mojagostilna.com\"},{\"id\":\"d5687e7c-03b3-4712-a67c-d536a0c521da\",\"name\":\"Okusno je\",\"url\":\"https://okusno.je\"}],\"col\":1,\"order\":2,\"w\":190,\"h\":120},{\"id\":\"bbf610d9-ebcc-4200-bece-d476cb264232\",\"title\":\"Socialno\",\"icon\":\"\ud83d\udcac\",\"links\":[{\"id\":\"21b3958d-a260-4bcd-8f3b-831bb40806cc\",\"name\":\"Facebook\",\"url\":\"https://www.facebook.com\"},{\"id\":\"81c5efef-c727-4f8e-9eb7-87447fbe3473\",\"name\":\"Omre\u017eje X\",\"url\":\"https://x.com\"},{\"id\":\"579a15f9-e950-46cc-a6a4-0fc9a2705e56\",\"name\":\"Instagram\",\"url\":\"https://www.instagram.com\"},{\"id\":\"2b980e21-7f3f-49ea-8c5e-abe12c9e72b7\",\"name\":\"Pinterest\",\"url\":\"https://www.pinterest.com\"},{\"id\":\"2199265a-287d-480b-a0ac-11be99cd9d60\",\"name\":\"Linkedin\",\"url\":\"https://www.linkedin.com\"},{\"id\":\"c813485f-4f77-4489-8347-3417f64214fc\",\"name\":\"Tinder\",\"url\":\"https://tinder.com\"},{\"id\":\"b8325aca-fc37-4de4-8d5e-bf9e43e18d86\",\"name\":\"Ona-On\",\"url\":\"https://www.ona-on.com\"}],\"col\":5,\"order\":2,\"w\":190,\"h\":184},{\"id\":\"525d1915-12ba-49ef-a0c6-b78ffb3b5120\",\"title\":\"Video - TV\",\"icon\":\"\ud83d\udcfa\",\"links\":[{\"id\":\"bf5b07dc-64a6-4633-aff5-fd991e01a534\",\"name\":\"You Tube\",\"url\":\"https://www.youtube.com\"},{\"id\":\"80263a79-ca5d-4c23-8550-43cdbdf0bbaf\",\"name\":\"RTV 365\",\"url\":\"https://365.rtvslo.si\"},{\"id\":\"5fc7533f-d494-4d7c-be94-34648d6b6f8e\",\"name\":\"Voyo.si\",\"url\":\"https://voyo.si\"},{\"id\":\"b5e3a9e9-0d7f-4bb2-a872-c62264e38f5a\",\"name\":\"Live TV sport\",\"url\":\"https://livetv.sx\"},{\"id\":\"cdecfb42-7776-49c3-8a85-c62295c72a99\",\"name\":\"Neo.io\",\"url\":\"https://www.neo.io\"}],\"col\":3,\"order\":2,\"w\":190,\"h\":144},{\"id\":\"2b18749a-c222-4f7e-8308-86b7a0746616\",\"title\":\"Zabava in portali\",\"icon\":\"\ud83c\udfad\",\"links\":[{\"id\":\"89cfefe5-95d3-4a99-b41d-50aafaea7aff\",\"name\":\"Govori.se\",\"url\":\"https://govorise.metropolitan.si\"},{\"id\":\"ce70f057-f790-4e3d-99ea-7d8f1af6cfa0\",\"name\":\"\u017denska.si\",\"url\":\"https://zenska.hudo.com\"},{\"id\":\"87aca1ba-75a9-4766-b6e2-fa8373a96f43\",\"name\":\"Diva.si\",\"url\":\"https://www.diva.si\"},{\"id\":\"8ab85c4c-2066-489c-9d2b-9f058ba9d20d\",\"name\":\"Mo\u0161ki svet\",\"url\":\"https://www.moskisvet.com\"},{\"id\":\"86bb5eb1-2e36-4e60-95f2-4f6bd2981b45\",\"name\":\"To\u010dnoto.si\",\"url\":\"https://www.tocnoto.si\"},{\"id\":\"adabdc4b-6259-400d-8f4a-7900871af162\",\"name\":\"Zadovoljna.si\",\"url\":\"https://www.zadovoljna.si\"},{\"id\":\"294ac58c-d7fc-4ff3-b497-1803cd7186a0\",\"name\":\"Dom in vrt\",\"url\":\"https://www.dominvrt.si\"}],\"col\":2,\"order\":2,\"w\":190,\"h\":184},{\"id\":\"542bd007-b9ed-44ac-b884-61675a346d92\",\"title\":\"Online trgovine\",\"icon\":\"\ud83d\uded2\",\"links\":[{\"id\":\"cdd7aa73-cd81-48ec-9944-f1ea39a13888\",\"name\":\"Temu\",\"url\":\"https://www.temu.com\"},{\"id\":\"c10908ce-96d4-4bf3-818b-dfb1670bf687\",\"name\":\"Aboutyou\",\"url\":\"https://www.aboutyou.si\"},{\"id\":\"e08bfb61-a416-4efe-81f0-434c89980e8e\",\"name\":\"Lelosi\",\"url\":\"https://lelosi.si\"},{\"id\":\"5d01d359-8c49-45f4-a261-a2d3aadadb10\",\"name\":\"Mimovrste\",\"url\":\"https://www.mimovrste.com\"},{\"id\":\"c289da34-b3a7-4188-b39c-31ee9b55b668\",\"name\":\"Bigbang\",\"url\":\"https://www.bigbang.si\"},{\"id\":\"a06fd753-6b4d-4ced-ab6e-a67fed9c20a4\",\"name\":\"Merkur\",\"url\":\"https://www.merkur.si\"},{\"id\":\"98cc824f-86d2-4e9c-ab6d-348b3039ff35\",\"name\":\"EnaA\",\"url\":\"https://www.enaa.com\"},{\"id\":\"52c6211f-5c01-4f79-93cd-119e176d8c2e\",\"name\":\"Ceneje.si\",\"url\":\"https://www.ceneje.si\"},{\"id\":\"d4cb50c0-be20-4e10-8a2b-f1a1bcee7dad\",\"name\":\"e-Bay\",\"url\":\"https://www.ebay.com\"},{\"id\":\"7debf1b4-02af-4d09-91af-344ff4a49a5f\",\"name\":\"AliExpress\",\"url\":\"https://www.aliexpress.com\"},{\"id\":\"02e61158-3eee-4ba4-9268-d2f97deba3f6\",\"name\":\"Amazon\",\"url\":\"https://www.amazon.de\"}],\"col\":1,\"order\":3,\"w\":190,\"h\":264},{\"id\":\"6b23f7ac-b134-485e-8e52-7530159a34ad\",\"title\":\"Oglasniki\",\"icon\":\"\ud83c\udff7\ufe0f\",\"links\":[{\"id\":\"ca18c2a0-2064-4211-bf8e-7f011ebacad4\",\"name\":\"Avto.net\",\"url\":\"https://www.avto.net\"},{\"id\":\"b8d78b3e-37d2-4761-b893-4acecdefbc52\",\"name\":\"Bolha.com\",\"url\":\"https://www.bolha.com\"},{\"id\":\"5e3d864e-079f-4a86-8f58-2870639e0bbf\",\"name\":\"Nepremi\u010dnine.net\",\"url\":\"https://www.nepremicnine.net\"},{\"id\":\"89de8254-debf-4d3b-bf77-47335533861f\",\"name\":\"Mobile.de\",\"url\":\"https://www.mobile.de\"},{\"id\":\"ceb1ac21-ff8e-4680-a318-532e0698a7ec\",\"name\":\"DoberAvto.si\",\"url\":\"https://www.doberavto.si\"},{\"id\":\"62b36739-d45b-4edd-816e-ac0a36035552\",\"name\":\"Drazba.net\",\"url\":\"https://www.drazba.net\"},{\"id\":\"a275f6d0-f8aa-41d9-baf0-8240f9f9f3bc\",\"name\":\"Drazbe123\",\"url\":\"https://www.drazbe123.com\"},{\"id\":\"63bb202f-5bdd-4f11-b9c0-e13ffdfe125c\",\"name\":\"Salomonov oglasnik\",\"url\":\"https://oglasi.svet24.si\"},{\"id\":\"22313e79-cb5a-4844-9cbe-b20b0c173de6\",\"name\":\"Novogradnje.com\",\"url\":\"https://www.novogradnje.com\"}],\"col\":4,\"order\":3,\"w\":190,\"h\":224}],\"news\":[],\"place\":\"Kora\u010dice\"}");
+let settings = Object.assign({
+  theme:"dark", edit:true, addCards:true, addLinks:true, drag:true, resize:true, borders:true, weather:true
+}, JSON.parse(localStorage.getItem(SETTINGS)||"{}"));
+
+const qs=s=>document.querySelector(s), qsa=s=>[...document.querySelectorAll(s)];
+function save(){localStorage.setItem(STORE,JSON.stringify(state))}
+function saveSettings(){localStorage.setItem(SETTINGS,JSON.stringify(settings))}
+function id(){return crypto.randomUUID ? crypto.randomUUID() : Date.now()+"_"+Math.random().toString(16).slice(2)}
+function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
+function normalizeUrl(u){u=(u||"").trim(); if(!u)return ""; if(!/^https?:\/\//i.test(u))u="https://"+u; return u}
+
+/* settings */
+function applySettings(){
+  document.body.classList.toggle("light-theme",settings.theme==="light");
+  document.body.classList.toggle("hide-card-borders",!settings.borders);
+  document.body.classList.toggle("weather-hidden",!settings.weather);
+  document.body.classList.toggle("edit-mode",settings.edit);
+  document.body.classList.toggle("resize-mode",settings.resize && settings.edit);
+  qs("#linksToolbar").classList.toggle("hidden",!settings.edit);
+  qs("#addCardBtn").classList.toggle("hidden",!(settings.edit&&settings.addCards));
+  qs("#themeDark")?.classList.toggle("active",settings.theme==="dark");
+  qs("#themeLight")?.classList.toggle("active",settings.theme==="light");
+  ["sEdit","sAddCards","sAddLinks","sDrag","sResize","sBorders","sWeather"].forEach(x=>qs("#"+x).checked=settings[{
+    sEdit:"edit",sAddCards:"addCards",sAddLinks:"addLinks",sDrag:"drag",sResize:"resize",sBorders:"borders",sWeather:"weather"}[x]]);
+  renderCards();
+}
+qs("#themeDark").onclick=()=>{settings.theme="dark";saveSettings();applySettings()};
+qs("#themeLight").onclick=()=>{settings.theme="light";saveSettings();applySettings()};
+qs("#settingsBtn").onclick=()=>{
+  const panel=qs("#settingsPanel");
+  panel.classList.toggle("hidden");
+  document.body.classList.toggle("settings-open",!panel.classList.contains("hidden"));
+};
+
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape"){
+    const panel=qs("#settingsPanel");
+    if(panel && !panel.classList.contains("hidden")){
+      panel.classList.add("hidden");
+      document.body.classList.remove("settings-open");
+    }
+  }
+});
+
+[
+  ["sEdit","edit"],["sAddCards","addCards"],["sAddLinks","addLinks"],["sDrag","drag"],
+  ["sResize","resize"],["sBorders","borders"],["sWeather","weather"]
+].forEach(([el,key])=>qs("#"+el).addEventListener("change",e=>{settings[key]=e.target.checked;saveSettings();applySettings()}));
+
+/* modal */
+function modal(title,fields,onSave,onDelete){
+  const host=qs("#modalHost");
+  host.innerHTML=`<div class="modal-backdrop"><div class="modal">
+    <h3>${esc(title)}</h3>
+    ${fields.map(f=>`<label>${esc(f.label)}</label><input id="m_${f.key}" value="${esc(f.value||"")}" placeholder="${esc(f.placeholder||"")}">`).join("")}
+    <div class="modal-actions">
+      ${onDelete?'<button id="mDelete" class="danger">🗑 Izbriši okence</button>':""}
+      <button id="mCancel">Prekliči</button><button id="mSave" class="primary">Shrani</button>
+    </div></div></div>`;
+  qs("#mCancel").onclick=()=>host.innerHTML="";
+  qs(".modal-backdrop").onclick=e=>{if(e.target.classList.contains("modal-backdrop"))host.innerHTML=""};
+  qs("#mSave").onclick=()=>{
+    const vals={}; fields.forEach(f=>vals[f.key]=qs("#m_"+f.key).value.trim());
+    onSave(vals);host.innerHTML="";
+  };
+  if(onDelete) qs("#mDelete").onclick=()=>{if(confirm("Res želiš izbrisati?")){onDelete();host.innerHTML=""}};
+}
+
+
+/* Ikone: velik, iskalni izbor z razlago pomena.
+   Unicode vsebuje na tisoče emoji/simbolov, zato je tukaj praktičen izbor za začetno stran,
+   poleg tega pa lahko še vedno vneseš poljuben emoji/simbol ročno. */
+const ICON_CATALOG = [
+  ["Novice in informacije",[
+    ["📰","novice, časopis"],["🗞️","časopis, članki"],["📺","televizija"],["📻","radio"],
+    ["📢","obvestila"],["🔔","opozorila"],["ℹ️","informacije"],["❓","pomoč, vprašanja"],
+    ["📚","knjige, znanje"],["📖","branje"],["🧭","vodnik, navigacija"],["🔎","iskanje"]
+  ]],
+  ["Splet in komunikacija",[
+    ["🌐","splet, internet"],["💬","klepet"],["🗨️","pogovor"],["✉️","e-pošta"],
+    ["📧","e-pošta"],["📨","prejeta pošta"],["📱","telefon, mobilno"],["☎️","telefon"],
+    ["👥","skupnost, ljudje"],["🤝","sodelovanje"],["📡","povezava, signal"],["🔗","povezave"]
+  ]],
+  ["Video, glasba in zabava",[
+    ["🎬","film, video"],["🎥","video, kamera"],["📹","videoposnetki"],["▶️","predvajanje"],
+    ["🎵","glasba"],["🎶","glasba"],["🎧","avdio, glasba"],["🎤","petje, podcast"],
+    ["🎮","igre"],["🕹️","igre"],["🎲","zabava, igre"],["🍿","filmi, kino"]
+  ]],
+  ["Delo, posel in finance",[
+    ["💼","delo, služba"],["🏢","podjetje"],["📊","statistika, poslovanje"],["📈","rast, trg"],
+    ["📉","padec, trg"],["💶","denar, evri"],["💳","plačila"],["🏦","banka"],
+    ["🧾","računi"],["📑","dokumenti"],["🗂️","organizacija"],["📅","koledar"]
+  ]],
+  ["Nakupovanje",[
+    ["🛒","nakupovanje"],["🛍️","trgovine"],["🏷️","cene, popusti"],["🎁","darila"],
+    ["📦","paketi, dostava"],["🚚","dostava"],["👕","oblačila"],["👟","obutev"],
+    ["💻","računalniki"],["📷","fotografija"],["📱","elektronika"],["🏠","dom"]
+  ]],
+  ["Država, pravo in javne storitve",[
+    ["🏛️","država, uradi"],["⚖️","pravo, sodišča"],["🗳️","volitve"],["🪪","identiteta, dokumenti"],
+    ["📜","uradni dokumenti"],["👮","policija"],["🚒","gasilci"],["🚑","nujna pomoč"],
+    ["🏥","zdravstvo"],["🎓","izobraževanje"],["🏫","šola"],["🧑‍⚕️","zdravje"]
+  ]],
+  ["Znanost in tehnologija",[
+    ["🔬","znanost, laboratorij"],["🧪","laboratorij, kemija"],["🧬","biologija, genetika"],["🧫","mikrobiologija"],
+    ["⚛️","fizika, znanost"],["🧠","znanje, umetna inteligenca"],["🤖","AI, robotika"],["💻","računalništvo"],
+    ["🖥️","računalnik"],["⌨️","programiranje"],["🛠️","orodja"],["⚙️","nastavitve"]
+  ]],
+  ["Narava in vreme",[
+    ["☀️","sonce, vreme"],["🌤️","delno jasno"],["☁️","oblaki"],["🌧️","dež"],
+    ["⛈️","nevihta"],["❄️","sneg, zima"],["🌨️","sneženje"],["🌡️","temperatura"],
+    ["🌍","svet, Zemlja"],["🌲","gozd, narava"],["🏔️","gore"],["🌊","morje, voda"]
+  ]],
+  ["Potovanja in promet",[
+    ["✈️","letalstvo, potovanja"],["🚗","avto"],["🚙","vozila"],["🚌","avtobus"],
+    ["🚆","vlak"],["🚲","kolo"],["🚢","ladje"],["🗺️","zemljevidi"],
+    ["📍","lokacija"],["🧳","potovanja"],["🏨","hotel"],["⛽","gorivo"]
+  ]],
+  ["Šport",[
+    ["⚽","nogomet"],["🏀","košarka"],["🏈","ameriški nogomet"],["⚾","baseball"],
+    ["🎾","tenis"],["🏐","odbojka"],["🏒","hokej"],["🥊","boks"],
+    ["🏎️","motošport"],["🚴","kolesarstvo"],["⛷️","smučanje"],["🏆","šport, rezultati"]
+  ]],
+  ["Hrana in prosti čas",[
+    ["🍽️","hrana, restavracije"],["☕","kava"],["🍕","hrana"],["🍔","hrana"],
+    ["🥗","zdrava hrana"],["🍰","sladice"],["🌳","prosti čas, narava"],["🏕️","kampiranje"],
+    ["🥾","pohodništvo"],["📸","fotografija"],["🎨","ustvarjanje"],["🧩","hobi"]
+  ]],
+  ["Splošni simboli",[
+    ["⭐","priljubljeno"],["❤️","najljubše"],["📌","pomembno, pripeto"],["✅","opravljeno, preverjeno"],
+    ["➕","dodaj"],["⚡","hitro"],["🔥","priljubljeno, vroče"],["💡","ideje"],
+    ["🔒","varnost"],["🔑","gesla, dostop"],["🧰","orodja"],["📁","mapa, zbirka"]
+  ]]
+];
+
+function iconPickerHtml(selected=""){
+  let body = `
+    <div class="icon-field-wrap">
+      <button type="button" id="iconPickerBtn" class="icon-picker-btn">
+        <span class="chosen-icon">${esc(selected || "▣")}</span>
+        <span class="chosen-label">${selected ? "Izbrana ikona – klikni za spremembo" : "Klikni in izberi ikono"}</span>
+        <span>⌄</span>
+      </button>
+      <input type="hidden" id="m_icon" value="${esc(selected)}">
+      <div id="iconPicker" class="icon-picker hidden">
+        <div class="icon-picker-top">
+          <input id="iconSearch" placeholder="Išči: novice, video, vreme, služba ...">
+          <button type="button" id="iconClear" class="icon-clear">Brez ikone</button>
+        </div>
+        <div id="iconPickerBody"></div>
+        <div class="icon-picker-note">Ne najdeš želene? Spodaj lahko vpišeš ali prilepiš katerikoli emoji oziroma Unicode simbol.</div>
+      </div>
+      <label>Poljubna ikona ali simbol</label>
+      <input id="iconManual" value="${esc(selected)}" placeholder="npr. 📰, 🌍, ★, ▶">
+    </div>`;
+  return body;
+}
+function renderIconPicker(filter=""){
+  const target=qs("#iconPickerBody"); if(!target)return;
+  const needle=filter.trim().toLowerCase();
+  const selected=qs("#m_icon")?.value || "";
+  let out="";
+  ICON_CATALOG.forEach(([cat,items])=>{
+    const matches=items.filter(([ico,meaning])=>!needle || ico.includes(needle) || meaning.toLowerCase().includes(needle) || cat.toLowerCase().includes(needle));
+    if(!matches.length)return;
+    out+=`<div class="icon-category">${esc(cat)}</div><div class="icon-grid">`;
+    out+=matches.map(([ico,meaning])=>`<button type="button" class="icon-option ${selected===ico?"selected":""}" data-icon="${esc(ico)}" title="${esc(meaning)}">
+      <span class="emoji">${esc(ico)}</span><span class="meaning">${esc(meaning)}</span></button>`).join("");
+    out+="</div>";
+  });
+  target.innerHTML=out || `<div class="news-muted">Ni zadetkov. Poskusi drug izraz ali spodaj vnesi poljuben emoji.</div>`;
+  qsa(".icon-option").forEach(btn=>btn.onclick=()=>{
+    const ico=btn.dataset.icon;
+    qs("#m_icon").value=ico; qs("#iconManual").value=ico;
+    qs("#iconPickerBtn .chosen-icon").textContent=ico;
+    qs("#iconPickerBtn .chosen-label").textContent="Izbrana ikona – klikni za spremembo";
+    renderIconPicker(qs("#iconSearch").value);
+  });
+}
+function setupIconPicker(){
+  qs("#iconPickerBtn")?.addEventListener("click",()=>{
+    qs("#iconPicker").classList.toggle("hidden");
+    if(!qs("#iconPicker").classList.contains("hidden")){
+      renderIconPicker(qs("#iconSearch").value);
+      setTimeout(()=>qs("#iconSearch").focus(),0);
+    }
+  });
+  qs("#iconSearch")?.addEventListener("input",e=>renderIconPicker(e.target.value));
+  qs("#iconClear")?.addEventListener("click",()=>{
+    qs("#m_icon").value=""; qs("#iconManual").value="";
+    qs("#iconPickerBtn .chosen-icon").textContent="▣";
+    qs("#iconPickerBtn .chosen-label").textContent="Brez ikone";
+    renderIconPicker(qs("#iconSearch").value);
+  });
+  qs("#iconManual")?.addEventListener("input",e=>{
+    const ico=e.target.value.trim();
+    qs("#m_icon").value=ico;
+    qs("#iconPickerBtn .chosen-icon").textContent=ico||"▣";
+    qs("#iconPickerBtn .chosen-label").textContent=ico?"Ročno vnesena ikona":"Brez ikone";
+    renderIconPicker(qs("#iconSearch")?.value||"");
+  });
+}
+
+function cardModal(title,card,onSave,onDelete){
+  const host=qs("#modalHost");
+  host.innerHTML=`<div class="modal-backdrop"><div class="modal">
+    <h3>${esc(title)}</h3>
+    <label>Ime okenca</label>
+    <input id="m_title" value="${esc(card?.title||"")}" placeholder="npr. Novice Slovenija">
+    <label>Ikona ali simbol</label>
+    ${iconPickerHtml(card?.icon||"")}
+    <div class="modal-actions">
+      ${onDelete?'<button id="mDelete" class="danger">Izbriši</button>':""}
+      <button id="mCancel">Prekliči</button><button id="mSave" class="primary">Shrani</button>
+    </div></div></div>`;
+  setupIconPicker();
+  qs("#mCancel").onclick=()=>host.innerHTML="";
+  qs(".modal-backdrop").onclick=e=>{if(e.target.classList.contains("modal-backdrop"))host.innerHTML=""};
+  qs("#mSave").onclick=()=>{
+    onSave({title:qs("#m_title").value.trim(),icon:qs("#m_icon").value.trim()});
+    host.innerHTML="";
+  };
+  if(onDelete) qs("#mDelete").onclick=()=>{if(confirm("Res želiš izbrisati?")){onDelete();host.innerHTML=""}};
+}
+
+
+
+/* ============================================================
+   POSTAVITEV PO STOLPCIH
+   - 6 stolpcev
+   - okence vedno ostane v izbranem stolpcu
+   - sprememba višine premakne samo okenca pod njim v istem stolpcu
+   - z vlečenjem sam določiš stolpec in vrstni red
+   ============================================================ */
+
+const CARD_COLUMNS = 6;
+let draggedCardInfo = null;
+
+function normalizeCardColumns(){
+  // Za stare shranjene podatke: razporedi obstoječa okenca po 6 stolpcih.
+  const perColumnCount = Array(CARD_COLUMNS).fill(0);
+
+  state.cards.forEach((card, i)=>{
+    if(!Number.isInteger(card.col) || card.col < 0 || card.col >= CARD_COLUMNS){
+      card.col = i % CARD_COLUMNS;
+    }
+    if(!Number.isFinite(card.order)){
+      card.order = perColumnCount[card.col]++;
+    }else{
+      perColumnCount[card.col] = Math.max(perColumnCount[card.col], card.order + 1);
+    }
+
+    // Položaj x/y ni več potreben; širina in višina pa se shranita.
+    delete card.x;
+    delete card.y;
+    if(!card.w) card.w = 190;
+    if(!card.h) card.h = 165;
+  });
+
+  // Uredi order znotraj vsakega stolpca na 0,1,2...
+  for(let col=0; col<CARD_COLUMNS; col++){
+    state.cards
+      .filter(c=>c.col===col)
+      .sort((a,b)=>(a.order||0)-(b.order||0))
+      .forEach((c,i)=>c.order=i);
+  }
+}
+
+function cardsInColumn(col){
+  return state.cards
+    .filter(c=>c.col===col)
+    .sort((a,b)=>(a.order||0)-(b.order||0));
+}
+
+function reindexColumn(col){
+  cardsInColumn(col).forEach((c,i)=>c.order=i);
+}
+
+function moveCardToColumn(cardId, targetCol, targetIndex){
+  const card = state.cards.find(c=>c.id===cardId);
+  if(!card) return;
+
+  const oldCol = card.col;
+  const oldList = cardsInColumn(oldCol).filter(c=>c.id!==cardId);
+  oldList.forEach((c,i)=>c.order=i);
+
+  const targetList = cardsInColumn(targetCol).filter(c=>c.id!==cardId);
+  targetIndex = Math.max(0, Math.min(targetIndex, targetList.length));
+
+  card.col = targetCol;
+  targetList.splice(targetIndex, 0, card);
+  targetList.forEach((c,i)=>c.order=i);
+
+  // Ker sta seznama v state po referencah, so order vrednosti že zapisane.
+  save();
+  renderCards();
+}
+
+function buildCardColumns(container){
+  container.innerHTML="";
+  const cols=[];
+
+  // Vedno obstaja natančno 6 logičnih stolpcev.
+  for(let i=0;i<CARD_COLUMNS;i++){
+    const col=document.createElement("div");
+    col.className="card-column";
+    col.dataset.col=i;
+    container.appendChild(col);
+    cols.push(col);
+  }
+  return cols;
+}
+
+function attachColumnCardDnD(el, card){
+  // Okenca ne uporabljajo več HTML5 drag&drop, ampak pointer premik.
+  el.draggable=false;
+
+  const handle=el.querySelector(".card-head");
+  if(!handle) return;
+
+  let active=false;
+  let ghost=null;
+  let startX=0, startY=0;
+  let offsetX=0, offsetY=0;
+  let targetCol=null;
+  let targetIndex=0;
+
+  function clearPointerUI(){
+    document.body.classList.remove("card-pointer-drag");
+    el.classList.remove("pointer-source");
+    qsa(".card-column").forEach(c=>c.classList.remove("pointer-target"));
+    qsa(".pointer-insert-line").forEach(x=>x.remove());
+    if(ghost){ ghost.remove(); ghost=null; }
+  }
+
+  function findTarget(clientX,clientY){
+    const cols=qsa("#cards .card-column");
+    if(!cols.length) return null;
+
+    // Izberi stolpec po X koordinati. Če je kazalec med dvema,
+    // izberi najbližjega.
+    let bestCol=cols[0], bestDist=Infinity;
+    cols.forEach(col=>{
+      const r=col.getBoundingClientRect();
+      const cx=Math.max(r.left,Math.min(clientX,r.right));
+      const dist=Math.abs(clientX-cx);
+      if(dist<bestDist){bestDist=dist;bestCol=col;}
+    });
+
+    const colNo=Number(bestCol.dataset.col);
+    const cards=[...bestCol.querySelectorAll(".card:not(.pointer-source)")];
+
+    let idx=cards.length;
+    for(let i=0;i<cards.length;i++){
+      const r=cards[i].getBoundingClientRect();
+      if(clientY < r.top + r.height/2){
+        idx=i;
+        break;
+      }
+    }
+    return {colEl:bestCol,colNo,index:idx,cards};
+  }
+
+  function showTarget(t){
+    qsa(".card-column").forEach(c=>c.classList.remove("pointer-target"));
+    qsa(".pointer-insert-line").forEach(x=>x.remove());
+    if(!t) return;
+
+    t.colEl.classList.add("pointer-target");
+    const line=document.createElement("div");
+    line.className="pointer-insert-line";
+
+    if(t.index>=t.cards.length){
+      // Na konec stolpca.
+      t.colEl.appendChild(line);
+    }else{
+      t.colEl.insertBefore(line,t.cards[t.index]);
+    }
+  }
+
+  function onMove(e){
+    if(!active) return;
+
+    if(ghost){
+      ghost.style.left=(e.clientX-offsetX)+"px";
+      ghost.style.top=(e.clientY-offsetY)+"px";
+    }
+
+    const t=findTarget(e.clientX,e.clientY);
+    if(t){
+      targetCol=t.colNo;
+      targetIndex=t.index;
+      showTarget(t);
+    }
+    e.preventDefault();
+  }
+
+  function onUp(e){
+    if(!active) return;
+    active=false;
+
+    try{handle.releasePointerCapture(e.pointerId)}catch(_){}
+
+    document.removeEventListener("pointermove",onMove);
+    document.removeEventListener("pointerup",onUp);
+
+    const finalCol=targetCol;
+    const finalIndex=targetIndex;
+    clearPointerUI();
+
+    if(Number.isInteger(finalCol)){
+      moveCardToColumn(card.id,finalCol,finalIndex);
+    }
+  }
+
+  handle.addEventListener("pointerdown",e=>{
+    if(!(settings.edit&&settings.drag)) return;
+
+    // Meni ⋮ in drugi gumbi ne začnejo premikanja.
+    if(e.target.closest("button,a,input")) return;
+
+    const rect=el.getBoundingClientRect();
+    active=true;
+    targetCol=card.col;
+    targetIndex=card.order||0;
+
+    startX=e.clientX;
+    startY=e.clientY;
+    offsetX=e.clientX-rect.left;
+    offsetY=e.clientY-rect.top;
+
+    ghost=el.cloneNode(true);
+    ghost.classList.add("card-drag-ghost");
+    ghost.style.width=rect.width+"px";
+    ghost.style.height=rect.height+"px";
+    ghost.style.left=rect.left+"px";
+    ghost.style.top=rect.top+"px";
+    document.body.appendChild(ghost);
+
+    el.classList.add("pointer-source");
+    document.body.classList.add("card-pointer-drag");
+
+    try{handle.setPointerCapture(e.pointerId)}catch(_){}
+
+    document.addEventListener("pointermove",onMove,{passive:false});
+    document.addEventListener("pointerup",onUp,{passive:false});
+    e.preventDefault();
+  });
+}
+
+/* cards */
+
+function moveLinkModal(sourceCardId, linkId){
+  const source=state.cards.find(c=>c.id===sourceCardId);
+  const link=source?.links?.find(l=>l.id===linkId);
+  if(!source || !link) return;
+
+  const destinations=state.cards.filter(c=>c.id!==sourceCardId);
+  if(!destinations.length){
+    alert("Ni drugega okenca, kamor bi lahko premaknil povezavo.");
+    return;
+  }
+
+  const host=qs("#modalHost");
+  host.innerHTML=`<div class="modal-backdrop"><div class="modal">
+    <h3>Premakni povezavo</h3>
+    <div style="margin-bottom:10px;color:#8b9190;font-size:12px;">Povezava</div>
+    <div style="font-weight:700;margin-bottom:14px;">${esc(link.name)}</div>
+    <label>Premakni v okence</label>
+    <select id="moveLinkTarget" class="move-link-select">
+      ${destinations.map(c=>`<option value="${esc(c.id)}">${esc(c.icon ? c.icon+" " : "")}${esc(c.title||"Novo okence")}</option>`).join("")}
+    </select>
+    <div class="modal-actions">
+      <button id="moveLinkCancel">Prekliči</button>
+      <button id="moveLinkSave" class="primary">Premakni</button>
+    </div>
+  </div></div>`;
+
+  qs("#moveLinkCancel").onclick=()=>host.innerHTML="";
+  qs(".modal-backdrop").onclick=e=>{
+    if(e.target.classList.contains("modal-backdrop")) host.innerHTML="";
+  };
+
+  qs("#moveLinkSave").onclick=()=>{
+    const targetId=qs("#moveLinkTarget").value;
+    const target=state.cards.find(c=>c.id===targetId);
+    const src=state.cards.find(c=>c.id===sourceCardId);
+    if(!target || !src) return;
+
+    const idx=src.links.findIndex(l=>l.id===linkId);
+    if(idx<0) return;
+
+    const [moved]=src.links.splice(idx,1);
+    target.links.push(moved);
+
+    save();
+    host.innerHTML="";
+    renderCards();
+  };
+}
+
+
+let activeLinkContextMenu=null;
+
+function closeLinkContextMenu(){
+  if(activeLinkContextMenu){
+    activeLinkContextMenu.remove();
+    activeLinkContextMenu=null;
+  }
+}
+
+function openLinkContextMenu(x,y,cardId,linkId){
+  closeLinkContextMenu();
+
+  const menu=document.createElement("div");
+  menu.className="link-context-menu";
+  menu.innerHTML='<button type="button" class="ctx-edit-link">✎ Uredi</button>';
+
+  document.body.appendChild(menu);
+
+  // Keep menu inside the viewport.
+  const r=menu.getBoundingClientRect();
+  const left=Math.min(x,window.innerWidth-r.width-8);
+  const top=Math.min(y,window.innerHeight-r.height-8);
+  menu.style.left=Math.max(8,left)+"px";
+  menu.style.top=Math.max(8,top)+"px";
+
+  menu.querySelector(".ctx-edit-link").onclick=()=>{
+    closeLinkContextMenu();
+    editLink(cardId,linkId);
+  };
+
+  activeLinkContextMenu=menu;
+}
+
+document.addEventListener("click",e=>{
+  if(activeLinkContextMenu && !e.target.closest(".link-context-menu")){
+    closeLinkContextMenu();
+  }
+});
+document.addEventListener("scroll",closeLinkContextMenu,true);
+window.addEventListener("resize",closeLinkContextMenu);
+
+function renderCards(){
+  normalizeCardColumns();
+  const box=qs("#cards");
+  const cols=buildCardColumns(box);
+
+  qs("#emptyCards").classList.toggle("hidden",state.cards.length>0);
+
+  for(let col=0; col<CARD_COLUMNS; col++){
+    cardsInColumn(col).forEach(card=>{
+      const el=document.createElement("article");
+      el.className="card";
+      el.dataset.card=card.id;
+      if(card.w) el.style.width=card.w+"px";
+      el.style.height="auto";
+
+      el.innerHTML=`
+        <div class="card-head">
+          <span class="grip">⠿</span>
+          ${card.icon ? `<span>${esc(card.icon)}</span>` : ""}
+          <div class="card-title">${esc(card.title||"Novo okence")}</div>
+          ${settings.edit&&settings.addLinks?'<button class="add-link add-link-head" title="Dodaj povezavo">+</button>':""}
+          ${settings.edit?'<button class="card-menu" title="Uredi okence">⋮</button>':""}
+        </div>
+        <ul class="links"></ul>`;
+
+      const ul=el.querySelector(".links");
+      (card.links||[]).forEach(ln=>{
+        const row=document.createElement("li");
+        row.className="link-row";
+        row.dataset.link=ln.id;
+        row.draggable=false;
+        row.innerHTML=`<span class="drag-link">⠿</span><a href="${esc(ln.url)}" target="_blank" rel="noopener">${esc(ln.name)}</a>`;
+
+        row.addEventListener("contextmenu",e=>{
+          if(!settings.edit) return;
+          e.preventDefault();
+          e.stopPropagation();
+          openLinkContextMenu(e.clientX,e.clientY,card.id,ln.id);
+        });
+
+        attachLinkDnD(row,card.id,ln.id);
+        ul.appendChild(row);
+      });
+
+      el.querySelector(".card-menu")?.addEventListener("click",()=>editCard(card.id));
+      el.querySelector(".add-link")?.addEventListener("click",()=>addLink(card.id));
+      attachColumnCardDnD(el,card);
+
+      if("ResizeObserver" in window){
+        const ro=new ResizeObserver(()=>{});
+        ro.observe(el);
+      }
+
+      cols[col].appendChild(el);
+    });
+  }
+
+  /* V39: po vsakem izrisu preveri, kje se konča najnižje okence. */
+  scheduleLowerDividerPosition();
+}
+function addCard(){
+  cardModal("Dodaj okence",null,
+    v=>{
+      normalizeCardColumns();
+
+      // Izberi stolpec z najmanjšo skupno višino okenc.
+      let targetCol=0;
+      let minHeight=Infinity;
+
+      for(let c=0;c<CARD_COLUMNS;c++){
+        const total=cardsInColumn(c).reduce((sum,card)=>sum+(card.h||165)+4,0);
+        if(total<minHeight){
+          minHeight=total;
+          targetCol=c;
+        }
+      }
+
+      const c={
+        id:id(),
+        title:v.title||"Novo okence",
+        icon:v.icon||"",
+        links:[],
+        col:targetCol,
+        order:cardsInColumn(targetCol).length,
+        w:190,
+        h:165
+      };
+
+      state.cards.push(c);
+      save();
+      renderCards();
+    }
+  );
+}
+function editCard(cid){
+  const c=state.cards.find(x=>x.id===cid);
+  cardModal("Uredi okence",c,
+    v=>{c.title=v.title||c.title;c.icon=v.icon||"";save();renderCards()},
+    ()=>{
+      const old=state.cards.find(x=>x.id===cid);
+      const oldCol=old?.col;
+      state.cards=state.cards.filter(x=>x.id!==cid);
+      if(Number.isInteger(oldCol)) reindexColumn(oldCol);
+      save();
+      renderCards();
+    }
+  );
+}
+function addLink(cid){
+  modal("Dodaj povezavo",[
+    {key:"name",label:"Ime povezave",placeholder:"npr. YouTube"},
+    {key:"url",label:"Spletni naslov",placeholder:"https://youtube.com"}
+  ],v=>{const c=state.cards.find(x=>x.id===cid);c.links.push({id:id(),name:v.name||v.url,url:normalizeUrl(v.url)});save();renderCards()});
+}
+function editLink(cid,lid){
+  const c=state.cards.find(x=>x.id===cid), l=c.links.find(x=>x.id===lid);
+  modal("Uredi povezavo",[
+    {key:"name",label:"Ime povezave",value:l.name},
+    {key:"url",label:"Spletni naslov",value:l.url}
+  ],v=>{l.name=v.name||l.name;l.url=normalizeUrl(v.url);save();renderCards()},
+  ()=>{c.links=c.links.filter(x=>x.id!==lid);save();renderCards()});
+}
+qs("#addCardBtn").onclick=addCard;
+
+/* card DnD */
+let draggedCard=null, draggedLink=null;
+function attachCardDnD(el,cid){
+  el.addEventListener("dragstart",e=>{
+    if(!settings.drag || draggedLink) return;
+    draggedCard=cid;el.classList.add("dragging");e.dataTransfer.effectAllowed="move";
+  });
+  el.addEventListener("dragend",()=>{draggedCard=null;el.classList.remove("dragging");qsa(".card").forEach(x=>x.classList.remove("drag-over"))});
+  el.addEventListener("dragover",e=>{if(draggedCard&&draggedCard!==cid){e.preventDefault();el.classList.add("drag-over")}});
+  el.addEventListener("dragleave",()=>el.classList.remove("drag-over"));
+  el.addEventListener("drop",e=>{
+    if(!draggedCard||draggedCard===cid)return;
+    e.preventDefault();
+    const from=state.cards.findIndex(x=>x.id===draggedCard), to=state.cards.findIndex(x=>x.id===cid);
+    const [x]=state.cards.splice(from,1);state.cards.splice(to,0,x);save();renderCards();
+  });
+}
+function attachLinkDnD(row,cid,lid){
+  row.draggable=false;
+
+  let active=false;
+  let ghost=null;
+  let placeholder=null;
+  let sourceCardId=cid;
+  let targetCardId=null;
+  let targetIndex=null;
+  let offsetX=0,offsetY=0;
+  let originalParent=null;
+  let originalNextSibling=null;
+
+  function cleanupVisuals(){
+    qsa("#cards .card").forEach(c=>c.classList.remove("link-drop-target"));
+    if(placeholder){
+      placeholder.remove();
+      placeholder=null;
+    }
+    if(ghost){
+      ghost.remove();
+      ghost=null;
+    }
+    row.classList.remove("dragging");
+    row.style.display="";
+  }
+
+  function cleanupListeners(){
+    document.removeEventListener("pointermove",onMove);
+    document.removeEventListener("pointerup",onUp);
+  }
+
+  function cardUnderPointer(clientX,clientY){
+    const cards=qsa("#cards .card");
+    for(const cardEl of cards){
+      const r=cardEl.getBoundingClientRect();
+      if(clientX>=r.left && clientX<=r.right && clientY>=r.top && clientY<=r.bottom){
+        return cardEl;
+      }
+    }
+    return null;
+  }
+
+  function getInsertion(clientX,clientY){
+    const cardEl=cardUnderPointer(clientX,clientY);
+    if(!cardEl) return null;
+
+    const cardId=cardEl.dataset.card;
+    const list=cardEl.querySelector(".links");
+    if(!list) return null;
+
+    const rows=[...list.querySelectorAll(".link-row")].filter(x=>x!==row);
+
+    let index=rows.length;
+    let beforeNode=null;
+
+    for(let i=0;i<rows.length;i++){
+      const rr=rows[i].getBoundingClientRect();
+      if(clientY < rr.top + rr.height/2){
+        index=i;
+        beforeNode=rows[i];
+        break;
+      }
+    }
+
+    return {cardEl,cardId,list,index,beforeNode};
+  }
+
+  function movePlaceholder(t){
+    qsa("#cards .card").forEach(c=>c.classList.remove("link-drop-target"));
+    if(!t){
+      if(placeholder) placeholder.remove();
+      targetCardId=null;
+      targetIndex=null;
+      return;
+    }
+
+    t.cardEl.classList.add("link-drop-target");
+    targetCardId=t.cardId;
+    targetIndex=t.index;
+
+    if(!placeholder){
+      placeholder=document.createElement("li");
+      placeholder.className="link-placeholder";
+      placeholder.style.height=Math.max(18,row.getBoundingClientRect().height)+"px";
+    }
+
+    if(t.beforeNode){
+      if(placeholder.parentNode!==t.list || placeholder.nextSibling!==t.beforeNode){
+        t.list.insertBefore(placeholder,t.beforeNode);
+      }
+    }else{
+      if(placeholder.parentNode!==t.list || placeholder!==t.list.lastElementChild){
+        t.list.appendChild(placeholder);
+      }
+    }
+  }
+
+  function onMove(e){
+    if(!active) return;
+
+    if(ghost){
+      ghost.style.left=(e.clientX-offsetX)+"px";
+      ghost.style.top=(e.clientY-offsetY)+"px";
+    }
+
+    const t=getInsertion(e.clientX,e.clientY);
+    movePlaceholder(t);
+
+    e.preventDefault();
+  }
+
+  function onUp(){
+    if(!active) return;
+    active=false;
+
+    const src=state.cards.find(c=>c.id===sourceCardId);
+    const dst=state.cards.find(c=>c.id===targetCardId);
+    const sourceIndex=src?.links?.findIndex(l=>l.id===lid) ?? -1;
+    let finalIndex=targetIndex;
+
+    cleanupListeners();
+    cleanupVisuals();
+
+    if(!src || !dst || sourceIndex<0 || !Number.isInteger(finalIndex)){
+      // Ni bilo veljavnega cilja - samo povrni pogled.
+      return;
+    }
+
+    const [link]=src.links.splice(sourceIndex,1);
+
+    // Pri premiku znotraj istega okenca se po odstranitvi indeksi za eno mesto zmanjšajo.
+    if(src.id===dst.id && sourceIndex<finalIndex){
+      finalIndex--;
+    }
+
+    finalIndex=Math.max(0,Math.min(finalIndex,dst.links.length));
+    dst.links.splice(finalIndex,0,link);
+
+    save();
+    renderCards();
+  }
+
+  row.addEventListener("pointerdown",e=>{
+    if(!(settings.edit&&settings.drag)) return;
+    if(e.button!==0) return;
+    if(e.target.closest("button")) return;
+
+    const rect=row.getBoundingClientRect();
+    active=true;
+    sourceCardId=cid;
+    originalParent=row.parentNode;
+    originalNextSibling=row.nextSibling;
+
+    const src=state.cards.find(c=>c.id===cid);
+    targetCardId=cid;
+    targetIndex=src?.links?.findIndex(l=>l.id===lid) ?? 0;
+
+    offsetX=e.clientX-rect.left;
+    offsetY=e.clientY-rect.top;
+
+    // Plavajoča kopija linka, ki sledi miški.
+    ghost=row.cloneNode(true);
+    ghost.style.position="fixed";
+    ghost.style.zIndex="9999";
+    ghost.style.pointerEvents="none";
+    ghost.style.width=rect.width+"px";
+    ghost.style.left=rect.left+"px";
+    ghost.style.top=rect.top+"px";
+    ghost.style.background=document.body.classList.contains("light-theme")
+      ? "rgba(255,255,255,.97)"
+      : "rgba(32,35,35,.97)";
+    ghost.style.border="1px solid #6f9ec6";
+    ghost.style.borderRadius="6px";
+    ghost.style.padding="1px 3px";
+    ghost.style.boxShadow="0 5px 16px rgba(0,0,0,.18)";
+    document.body.appendChild(ghost);
+
+    // Na izvirnem mestu takoj naredimo prostor iste višine.
+    placeholder=document.createElement("li");
+    placeholder.className="link-placeholder";
+    placeholder.style.height=Math.max(18,rect.height)+"px";
+    row.insertAdjacentElement("afterend",placeholder);
+
+    // Izvirni link skrijemo iz normalnega toka.
+    // Ostali linki se zato takoj prerazporedijo okoli placeholderja.
+    row.classList.add("dragging");
+    row.style.display="none";
+
+    try{row.setPointerCapture(e.pointerId)}catch(_){}
+
+    document.addEventListener("pointermove",onMove,{passive:false});
+    document.addEventListener("pointerup",onUp,{passive:false});
+
+    e.preventDefault();
+  });
+}
+
+
+/* ============================================================
+   V39: SAMODEJNA POZICIJA SPODNJE LOČILNE ČRTE
+
+   Nekatera okenca lahko zaradi starejših pravil postavitve vizualno
+   segajo nižje od višine, ki jo izračuna .dashboard-layout.
+   Zato črto vedno postavimo pod dejansko najnižji vidni element:
+   - najnižje okence z linki,
+   - vremenski stolpec / radar,
+   - oziroma samo postavitev, če je ta že višja.
+
+   Tako črta nikoli ne gre čez dolgo okence.
+   ============================================================ */
+const LOWER_DIVIDER_BASE_MARGIN = 20;
+const LOWER_DIVIDER_GAP = 14;
+let lowerDividerFrame = 0;
+let lowerDividerResizeObserver = null;
+
+function isActuallyVisible(el){
+  if(!el) return false;
+  const cs=getComputedStyle(el);
+  return cs.display!=="none" && cs.visibility!=="hidden";
+}
+
+function scheduleLowerDividerPosition(){
+  cancelAnimationFrame(lowerDividerFrame);
+  lowerDividerFrame=requestAnimationFrame(()=>{
+    const divider=qs(".lower-section-divider");
+    if(!divider) return;
+
+    /* Najprej vedno izmerimo iz iste osnovne pozicije. */
+    divider.style.marginTop=LOWER_DIVIDER_BASE_MARGIN+"px";
+
+    lowerDividerFrame=requestAnimationFrame(()=>{
+      const dashboard=qs(".dashboard-layout");
+      const dividerRect=divider.getBoundingClientRect();
+
+      let lowestBottom=dashboard
+        ? dashboard.getBoundingClientRect().bottom
+        : dividerRect.top-LOWER_DIVIDER_BASE_MARGIN;
+
+      /* Dejanske spodnje meje vseh okenc. */
+      qsa("#cards .card").forEach(card=>{
+        if(!isActuallyVisible(card) || card.classList.contains("card-drag-ghost")) return;
+        lowestBottom=Math.max(lowestBottom,card.getBoundingClientRect().bottom);
+      });
+
+      /* Vreme/radar upoštevaj samo, ko je vremenski stolpec viden. */
+      const weather=qs(".weather-sidebar");
+      if(isActuallyVisible(weather)){
+        lowestBottom=Math.max(lowestBottom,weather.getBoundingClientRect().bottom);
+      }
+
+      const extra=Math.max(0,lowestBottom+LOWER_DIVIDER_GAP-dividerRect.top);
+      divider.style.marginTop=Math.ceil(LOWER_DIVIDER_BASE_MARGIN+extra)+"px";
+    });
+  });
+}
+
+function observeLowerDividerTargets(){
+  if(!("ResizeObserver" in window)) return;
+
+  lowerDividerResizeObserver?.disconnect();
+  lowerDividerResizeObserver=new ResizeObserver(scheduleLowerDividerPosition);
+
+  const dashboard=qs(".dashboard-layout");
+  const cards=qs("#cards");
+  const weather=qs(".weather-sidebar");
+
+  if(dashboard) lowerDividerResizeObserver.observe(dashboard);
+  if(cards) lowerDividerResizeObserver.observe(cards);
+  if(weather) lowerDividerResizeObserver.observe(weather);
+
+  qsa("#cards .card").forEach(card=>lowerDividerResizeObserver.observe(card));
+}
+
+function initLowerDividerTracking(){
+  observeLowerDividerTargets();
+  scheduleLowerDividerPosition();
+
+  const cards=qs("#cards");
+  if(cards && "MutationObserver" in window){
+    const mo=new MutationObserver(()=>{
+      observeLowerDividerTargets();
+      scheduleLowerDividerPosition();
+    });
+    mo.observe(cards,{childList:true,subtree:true});
+  }
+
+  window.addEventListener("resize",scheduleLowerDividerPosition);
+}
+
+
+/* ============================================================
+   V42: HITRE NOVICE
+
+   Vrstni red:
+   1. Siol.net
+   2. 24ur
+   3. RTV Slo
+   4. Žurnal
+   5. Reuters
+   6. CNN
+   7. BBC
+   8. Al Jazeera
+
+   Vsak vir prikaže največ 6 najnovejših objav.
+   Najprej poskusimo neposreden RSS/Atom. Ker se stran pogosto
+   odpira kot lokalna file:// datoteka in mediji večinoma ne
+   dovolijo CORS, je drugi poskus javni AllOrigins posrednik.
+   Kot zadnja rezerva je uporabljen RSS2JSON.
+   ============================================================ */
+
+const QUICK_NEWS_COUNT = 6;
+const QUICK_NEWS_REFRESH_MS = 60 * 1000;
+const QUICK_NEWS_PROXY = "https://api.allorigins.win/raw?url=";
+const QUICK_NEWS_PROXY2 = "https://api.codetabs.com/v1/proxy/?quest=";
+const QUICK_NEWS_RSS2JSON = "https://api.rss2json.com/v1/api.json?rss_url=";
+
+const QUICK_NEWS_SOURCES = [
+  {
+    id:"siol",
+    name:"Siol.net",
+    homepage:"https://siol.net/",
+    feeds:[
+      "https://siol.net/feeds/latest2"
+    ]
+  },
+  {
+    id:"24ur",
+    name:"24ur",
+    homepage:"https://www.24ur.com/",
+    feeds:[
+      "https://www.24ur.com/rss"
+    ]
+  },
+  {
+    id:"rtvslo",
+    name:"RTV Slo",
+    homepage:"https://www.rtvslo.si/",
+    feeds:[
+      "https://img.rtvslo.si/feeds/00.xml",
+      "https://openrss.org/img.rtvslo.si/feeds/00.xml",
+      "https://www.rtvslo.si/feeds/00.xml"
+    ]
+  },
+  {
+    id:"zurnal",
+    name:"Žurnal",
+    homepage:"https://www.zurnal24.si/",
+    feeds:[
+      "https://www.zurnal24.si/feeds/latest",
+      "https://openrss.org/www.zurnal24.si/feeds/latest"
+    ]
+  },
+  {
+    id:"reuters",
+    name:"Reuters",
+    homepage:"https://www.reuters.com/",
+    feeds:[
+      /*
+        reuters.com uradnega javnega RSS-ja ne ponuja več, njihov
+        RSS zdaj teče prek reutersbest.com (Thomson Reuters). To je
+        pravi, živ vir z dejanskimi članki in slikami v vsebini.
+      */
+      "https://reutersbest.com/topic/politics-general/feed/",
+      "https://reutersbest.com/topic/business-finance/feed/",
+      "https://openrss.org/reuters.com/world",
+      "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+      "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    ]
+  },
+  {
+    id:"cnn",
+    name:"CNN",
+    homepage:"https://edition.cnn.com/",
+    feeds:[
+      "https://openrss.org/www.cnn.com",
+      "https://rss.cnn.com/rss/edition.rss",
+      "http://rss.cnn.com/rss/edition.rss",
+      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    ]
+  },
+  {
+    id:"bbc",
+    name:"BBC",
+    homepage:"https://www.bbc.com/news",
+    feeds:[
+      "https://feeds.bbci.co.uk/news/rss.xml",
+      "https://news.google.com/rss/search?q=site%3Abbc.com%2Fnews%20when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen"
+    ]
+  },
+  {
+    id:"aljazeera",
+    name:"Al Jazeera",
+    homepage:"https://www.aljazeera.com/",
+    feeds:[
+      "https://www.aljazeera.com/xml/rss/all.xml",
+      "https://openrss.org/www.aljazeera.com",
+      "https://news.google.com/rss/search?q=site%3Aaljazeera.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    ]
+  }
+];
+
+function quickNewsSafeUrl(value){
+  try{
+    const u=new URL(String(value||"").trim(),location.href);
+    if(u.protocol==="http:" || u.protocol==="https:") return u.href;
+  }catch(_){}
+  return "";
+}
+
+function quickNewsAbsoluteUrl(value,base){
+  if(!value) return "";
+  try{
+    const u=new URL(String(value).trim(),base||location.href);
+    if(u.protocol==="http:" || u.protocol==="https:") return u.href;
+  }catch(_){}
+  return "";
+}
+
+function quickNewsCleanTitle(title,sourceName){
+  let t=String(title||"").replace(/\s+/g," ").trim();
+
+  /* Google News pogosto na konec doda " - Reuters", " - CNN" ... */
+  const endings=[
+    sourceName,
+    sourceName==="Žurnal" ? "Žurnal24" : "",
+    sourceName==="RTV Slo" ? "RTV Slovenija" : ""
+  ].filter(Boolean);
+
+  endings.forEach(name=>{
+    const rx=new RegExp("\\s+[\\-–—]\\s*"+name.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\s*$","i");
+    t=t.replace(rx,"").trim();
+  });
+
+  return t;
+}
+
+function quickNewsNodeText(node,names){
+  for(const name of names){
+    const el=node.getElementsByTagName(name)[0];
+    if(el){
+      const v=(el.textContent||"").trim();
+      if(v) return v;
+    }
+  }
+  return "";
+}
+
+function quickNewsImageFromHtml(html,baseUrl){
+  if(!html) return "";
+  try{
+    const doc=new DOMParser().parseFromString(String(html),"text/html");
+
+    const meta=
+      doc.querySelector('meta[property="og:image:secure_url"]')
+      || doc.querySelector('meta[property="og:image"]')
+      || doc.querySelector('meta[name="twitter:image"]')
+      || doc.querySelector('meta[name="twitter:image:src"]')
+      || doc.querySelector('link[rel="image_src"]');
+
+    const metaSrc=
+      meta?.getAttribute("content")
+      || meta?.getAttribute("href")
+      || "";
+
+    const metaUrl=quickNewsAbsoluteUrl(metaSrc,baseUrl);
+    if(metaUrl) return metaUrl;
+
+    const img=doc.querySelector(
+      "img[src],img[data-src],img[data-original],img[data-lazy-src]"
+    );
+
+    const src=img?.getAttribute("src")
+      || img?.getAttribute("data-src")
+      || img?.getAttribute("data-original")
+      || img?.getAttribute("data-lazy-src")
+      || "";
+
+    return quickNewsAbsoluteUrl(src,baseUrl);
+  }catch(_){
+    return "";
+  }
+}
+
+function quickNewsLooksLikeImageUrl(value){
+  const u=String(value||"").toLowerCase();
+  return (
+    /\.(?:jpe?g|png|webp|gif|avif)(?:[?#]|$)/i.test(u)
+    || /(?:image|images|img|photo|photos|thumbnail|thumb|cdn|ichef|cloudfront)/i.test(u)
+  );
+}
+
+function quickNewsExtractImage(item,articleUrl){
+  /*
+    Pomembno: media:thumbnail / media:content sta XML namespace elementa.
+    querySelector("media\\:thumbnail") v nekaterih brskalnikih in RSS-jih
+    ni zanesljiv, zato tukaj pregledamo localName + namespaceURI.
+  */
+  const all=[...item.getElementsByTagName("*")];
+
+  for(const node of all){
+    const local=String(node.localName||node.nodeName||"").toLowerCase();
+    const ns=String(node.namespaceURI||"").toLowerCase();
+    const type=String(node.getAttribute?.("type")||"").toLowerCase();
+
+    const isMediaNamespace =
+      ns.includes("search.yahoo.com/mrss")
+      || ns.includes("media");
+
+    const isImageNode =
+      local==="thumbnail"
+      || local==="image"
+      || local==="enclosure"
+      || (local==="content" && isMediaNamespace)
+      || type.startsWith("image/");
+
+    if(!isImageNode) continue;
+
+    const candidates=[
+      node.getAttribute?.("url"),
+      node.getAttribute?.("src"),
+      node.getAttribute?.("href"),
+      node.getAttribute?.("resource")
+    ].filter(Boolean);
+
+    /* Pri <image><url>...</url></image> je URL lahko v besedilu. */
+    const textCandidate=(node.textContent||"").trim();
+    if(/^https?:\/\//i.test(textCandidate) && textCandidate.length<2000){
+      candidates.push(textCandidate);
+    }
+
+    for(const candidate of candidates){
+      const url=quickNewsAbsoluteUrl(candidate,articleUrl);
+      if(url && (isImageNode || quickNewsLooksLikeImageUrl(url))){
+        return url;
+      }
+    }
+  }
+
+  /*
+    Rezerva: poišči katerikoli XML atribut z zelo verjetnim slikovnim URL-jem.
+    To pokrije nestandardne RSS vire.
+  */
+  for(const node of all){
+    for(const attr of [...(node.attributes||[])]){
+      const url=quickNewsAbsoluteUrl(attr.value,articleUrl);
+      if(url && quickNewsLooksLikeImageUrl(url)) return url;
+    }
+  }
+
+  const htmlParts=[
+    quickNewsNodeText(item,["description"]),
+    quickNewsNodeText(item,["content:encoded"]),
+    quickNewsNodeText(item,["encoded"]),
+    quickNewsNodeText(item,["content"]),
+    quickNewsNodeText(item,["summary"])
+  ];
+
+  for(const html of htmlParts){
+    const image=quickNewsImageFromHtml(html,articleUrl);
+    if(image) return image;
+  }
+
+  return "";
+}
+
+const QUICK_NEWS_IMAGE_PROXY_IDS=new Set([
+  "rtvslo","zurnal","reuters","cnn","bbc","aljazeera"
+]);
+
+function quickNewsDisplayImageUrl(imageUrl,source){
+  const original=quickNewsSafeUrl(imageUrl);
+  if(!original) return "";
+
+  if(!QUICK_NEWS_IMAGE_PROXY_IDS.has(source.id)){
+    return original;
+  }
+
+  /*
+    Slike nekaterih medijev zavračajo neposreden hotlink iz file:// strani.
+    wsrv.nl jih naloži kot običajno sliko, predpomni in vrne brskalniku.
+  */
+  return "https://wsrv.nl/?url="+encodeURIComponent(original)
+    +"&w=720&h=450&fit=cover&output=webp&q=84";
+}
+
+const quickNewsArticleImageCache=new Map();
+
+async function quickNewsFindArticleImage(articleUrl){
+  const safe=quickNewsSafeUrl(articleUrl);
+  if(!safe) return "";
+
+  if(quickNewsArticleImageCache.has(safe)){
+    return quickNewsArticleImageCache.get(safe);
+  }
+
+  /*
+    Google News povezava ni članek, ampak preusmeritev nanj.
+    Neposreden fetch na news.google.com vedno pade na CORS, zato ga
+    pri teh povezavah preskočimo. Posrednika (AllOrigins / CodeTabs)
+    pa preusmeritvi SLEDITA in vrneta HTML pravega članka (npr. na
+    reuters.com), iz katerega lahko preberemo og:image.
+  */
+  const isGoogleNews=/news\.google\.com/i.test(safe);
+
+  const job=(async()=>{
+    const attempts=isGoogleNews
+      ? [
+          QUICK_NEWS_PROXY+encodeURIComponent(safe)+"&_="+Date.now(),
+          QUICK_NEWS_PROXY2+encodeURIComponent(safe)
+        ]
+      : [
+          safe,
+          QUICK_NEWS_PROXY+encodeURIComponent(safe)+"&_="+Date.now(),
+          QUICK_NEWS_PROXY2+encodeURIComponent(safe)
+        ];
+
+    for(let i=0;i<attempts.length;i++){
+      try{
+        const isDirect=!isGoogleNews && i===0;
+        const response=await quickNewsFetch(attempts[i],isDirect?9000:15000);
+        const html=await response.text();
+
+        if(!/<html|<meta|<img/i.test(html)) continue;
+
+        const image=quickNewsImageFromHtml(html,safe);
+        if(image) return image;
+      }catch(_){}
+    }
+
+    return "";
+  })();
+
+  quickNewsArticleImageCache.set(safe,job);
+  return job;
+}
+
+async function quickNewsEnrichMissingImages(source,items){
+  /*
+    Tudi Google News povezave zdaj vključimo: posrednik sledi
+    preusmeritvi do pravega članka, kjer je og:image.
+    To je edini način, da ima Reuters prek Googla tudi slike.
+  */
+  const missing=items
+    .map((item,index)=>({item,index}))
+    .filter(x=>!x.item.image);
+
+  if(!missing.length) return false;
+
+  let changed=false;
+  let cursor=0;
+
+  /* Največ 3 članki hkrati, da ne zasujemo proxyja ali medija. */
+  async function worker(){
+    while(cursor<missing.length){
+      const current=missing[cursor++];
+      try{
+        const image=await quickNewsFindArticleImage(current.item.link);
+        if(image){
+          current.item.image=image;
+          changed=true;
+        }
+      }catch(_){}
+    }
+  }
+
+  await Promise.all([worker(),worker(),worker()]);
+  return changed;
+}
+
+function quickNewsParseXml(xmlText,source){
+  const doc=new DOMParser().parseFromString(xmlText,"application/xml");
+  if(doc.querySelector("parsererror")) throw new Error("Neveljaven RSS/XML.");
+
+  let nodes=[...doc.querySelectorAll("item")];
+  if(!nodes.length) nodes=[...doc.querySelectorAll("entry")];
+
+  const items=nodes.map(node=>{
+    let link="";
+
+    const linkEl=node.querySelector("link");
+    if(linkEl){
+      link=linkEl.getAttribute("href") || (linkEl.textContent||"").trim();
+    }
+
+    if(!link){
+      link=quickNewsNodeText(node,["guid","id"]);
+    }
+
+    link=quickNewsAbsoluteUrl(link,source.homepage);
+
+    const title=quickNewsCleanTitle(
+      quickNewsNodeText(node,["title"]),
+      source.name
+    );
+
+    const rawDate=quickNewsNodeText(
+      node,
+      ["pubDate","published","updated","dc:date"]
+    );
+    const dateValue=rawDate ? Date.parse(rawDate) : NaN;
+
+    return {
+      title,
+      link,
+      image:quickNewsExtractImage(node,link||source.homepage),
+      date:Number.isFinite(dateValue) ? dateValue : 0
+    };
+  }).filter(x=>x.title && x.link);
+
+  const seen=new Set();
+  const unique=[];
+  for(const item of items){
+    const key=item.title.toLocaleLowerCase();
+    if(seen.has(key)) continue;
+    seen.add(key);
+    unique.push(item);
+  }
+
+  /* Če ima vir uporabne datume, zagotovimo res najnovejši vrstni red. */
+  if(unique.some(x=>x.date>0)){
+    unique.sort((a,b)=>b.date-a.date);
+  }
+
+  return unique.slice(0,QUICK_NEWS_COUNT);
+}
+
+function quickNewsParseRss2Json(data,source){
+  if(!data || data.status!=="ok" || !Array.isArray(data.items)){
+    throw new Error(data?.message || "RSS2JSON ni vrnil novic.");
+  }
+
+  const items=data.items.map(item=>{
+    const link=quickNewsAbsoluteUrl(item.link||item.guid||"",source.homepage);
+
+    let image=quickNewsAbsoluteUrl(
+      item.thumbnail
+      || item.image
+      || item.image_url
+      || "",
+      link||source.homepage
+    );
+
+    const rawEnclosure=item.enclosure;
+    const enclosures=Array.isArray(rawEnclosure)
+      ? rawEnclosure
+      : rawEnclosure
+        ? [rawEnclosure]
+        : [];
+
+    if(!image){
+      for(const enc of enclosures){
+        const candidate=quickNewsAbsoluteUrl(
+          enc?.link || enc?.url || enc?.href || "",
+          link||source.homepage
+        );
+        const type=String(enc?.type||"").toLowerCase();
+
+        if(candidate && (
+          type.startsWith("image/")
+          || quickNewsLooksLikeImageUrl(candidate)
+        )){
+          image=candidate;
+          break;
+        }
+      }
+    }
+
+    if(!image){
+      image=quickNewsImageFromHtml(
+        item.description
+        || item.content
+        || item.content_encoded
+        || "",
+        link||source.homepage
+      );
+    }
+
+    const rawDate=item.pubDate||item.published||item.updated||"";
+    const dateValue=rawDate ? Date.parse(rawDate) : NaN;
+
+    return {
+      title:quickNewsCleanTitle(item.title||"",source.name),
+      link,
+      image,
+      date:Number.isFinite(dateValue) ? dateValue : 0
+    };
+  }).filter(x=>x.title && x.link);
+
+  const seen=new Set();
+  const unique=[];
+  for(const item of items){
+    const key=item.title.toLocaleLowerCase();
+    if(seen.has(key)) continue;
+    seen.add(key);
+    unique.push(item);
+  }
+
+  if(unique.some(x=>x.date>0)){
+    unique.sort((a,b)=>b.date-a.date);
+  }
+
+  return unique.slice(0,QUICK_NEWS_COUNT);
+}
+
+async function quickNewsFetch(url,timeoutMs=13000){
+  const controller=new AbortController();
+  const timer=setTimeout(()=>controller.abort(),timeoutMs);
+
+  try{
+    const response=await fetch(url,{
+      cache:"no-store",
+      signal:controller.signal,
+      headers:{Accept:"application/rss+xml, application/xml, text/xml, application/json, text/plain, */*"}
+    });
+    if(!response.ok) throw new Error("HTTP "+response.status);
+    return response;
+  }finally{
+    clearTimeout(timer);
+  }
+}
+
+/*
+  Vse možne poti do enega RSS naslova:
+  0 = neposredno, 1 = AllOrigins, 2 = CodeTabs, 3 = RSS2JSON.
+  CodeTabs je neodvisen posrednik in priskoči, kadar je AllOrigins
+  preobremenjen (to se rado zgodi pri večjih virih, npr. Al Jazeera).
+*/
+function quickNewsAttempts(feedUrl,source){
+  return [
+    async()=>{
+      const response=await quickNewsFetch(feedUrl);
+      return quickNewsParseXml(await response.text(),source);
+    },
+    async()=>{
+      const proxyUrl=QUICK_NEWS_PROXY+encodeURIComponent(feedUrl)+"&_="+Date.now();
+      const response=await quickNewsFetch(proxyUrl,16000);
+      return quickNewsParseXml(await response.text(),source);
+    },
+    async()=>{
+      const proxyUrl=QUICK_NEWS_PROXY2+encodeURIComponent(feedUrl);
+      const response=await quickNewsFetch(proxyUrl,16000);
+      return quickNewsParseXml(await response.text(),source);
+    },
+    async()=>{
+      const apiUrl=QUICK_NEWS_RSS2JSON+encodeURIComponent(feedUrl);
+      const response=await quickNewsFetch(apiUrl,16000);
+      return quickNewsParseRss2Json(await response.json(),source);
+    }
+  ];
+}
+
+/*
+  Zapomnimo si, katera kombinacija (naslov vira + pot) je nazadnje
+  delovala. Pri osveževanju vsako minuto gremo najprej po njej, zato
+  naredimo običajno le en sam zahtevek na vir namesto več deset.
+  Brez tega bi brezplačni posredniki hitro vrnili "rate limit".
+*/
+const quickNewsWorkingRoute=new Map();
+
+async function quickNewsLoadFeedUrl(feedUrl,source,preferredIndex){
+  const attempts=quickNewsAttempts(feedUrl,source);
+  const allIndexes=attempts.map((_,i)=>i);
+
+  const order=Number.isInteger(preferredIndex)
+    ? [preferredIndex,...allIndexes.filter(i=>i!==preferredIndex)]
+    : allIndexes;
+
+  let lastError=null;
+  for(const i of order){
+    try{
+      const items=await attempts[i]();
+      if(items.length) return {items,attemptIndex:i};
+    }catch(err){
+      lastError=err;
+    }
+  }
+
+  throw lastError || new Error("Vir ni vrnil novic.");
+}
+
+async function quickNewsLoadSource(source){
+  const known=quickNewsWorkingRoute.get(source.id);
+
+  if(known){
+    try{
+      const result=await quickNewsLoadFeedUrl(
+        known.feedUrl,source,known.attemptIndex
+      );
+      quickNewsWorkingRoute.set(source.id,{
+        feedUrl:known.feedUrl,
+        attemptIndex:result.attemptIndex
+      });
+      return result.items;
+    }catch(_){
+      /* Znana pot je odpovedala - spodaj poskusimo vse od začetka. */
+    }
+  }
+
+  let lastError=null;
+  for(const feedUrl of source.feeds){
+    if(known && feedUrl===known.feedUrl) continue;
+    try{
+      const result=await quickNewsLoadFeedUrl(feedUrl,source);
+      if(result.items.length){
+        quickNewsWorkingRoute.set(source.id,{
+          feedUrl,
+          attemptIndex:result.attemptIndex
+        });
+        return result.items;
+      }
+    }catch(err){
+      lastError=err;
+    }
+  }
+
+  quickNewsWorkingRoute.delete(source.id);
+  throw lastError || new Error("Novic ni bilo mogoče pridobiti.");
+}
+
+function quickNewsLoadingCards(){
+  return Array.from({length:QUICK_NEWS_COUNT},()=>`
+    <article class="quick-news-card quick-news-loading" aria-hidden="true">
+      <div class="quick-news-image-wrap"></div>
+      <div class="quick-news-title-line"></div>
+      <div class="quick-news-title-line short"></div>
+    </article>
+  `).join("");
+}
+
+function quickNewsBuildShell(){
+  const host=qs("#quickNewsSources");
+  if(!host) return;
+
+  host.innerHTML=QUICK_NEWS_SOURCES.map(source=>`
+    <section class="quick-news-source" data-news-source="${esc(source.id)}">
+      <div class="quick-news-source-head">
+        <h2 class="quick-news-source-title">
+          <a href="${esc(source.homepage)}" target="_blank" rel="noopener noreferrer">${esc(source.name)}</a>
+        </h2>
+        <div class="quick-news-source-status" id="quick-news-status-${esc(source.id)}"></div>
+      </div>
+      <div class="quick-news-grid" id="quick-news-grid-${esc(source.id)}">
+        ${quickNewsLoadingCards()}
+      </div>
+    </section>
+  `).join("");
+}
+
+function quickNewsCardHtml(item,source,index){
+  const link=quickNewsSafeUrl(item.link) || source.homepage;
+  const originalImage=quickNewsSafeUrl(item.image);
+  const displayImage=quickNewsDisplayImageUrl(item.image,source);
+
+  const visual=displayImage
+    ? `<img class="quick-news-image"
+            src="${esc(displayImage)}"
+            data-original-image="${esc(originalImage)}"
+            alt=""
+            loading="${index<2?"eager":"lazy"}">`
+    : `<div class="quick-news-placeholder">${esc(source.name)}</div>`;
+
+  return `
+    <article class="quick-news-card">
+      <a href="${esc(link)}" target="_blank" rel="noopener noreferrer" title="${esc(item.title)}">
+        <div class="quick-news-image-wrap">${visual}</div>
+        <div class="quick-news-title">${esc(item.title)}</div>
+      </a>
+    </article>
+  `;
+}
+
+function quickNewsRenderSource(source,items,newLinks){
+  const grid=qs("#quick-news-grid-"+source.id);
+  const status=qs("#quick-news-status-"+source.id);
+  if(!grid) return;
+
+  grid.innerHTML=items.slice(0,QUICK_NEWS_COUNT)
+    .map((item,index)=>quickNewsCardHtml(item,source,index))
+    .join("");
+
+  /* Sveže prispele novice na kratko označi, da jih je lažje opaziti. */
+  if(newLinks && newLinks.size){
+    const cards=[...grid.querySelectorAll(".quick-news-card")];
+    items.slice(0,QUICK_NEWS_COUNT).forEach((item,i)=>{
+      if(cards[i] && newLinks.has(item.link)){
+        cards[i].classList.add("quick-news-fresh");
+      }
+    });
+  }
+
+  grid.querySelectorAll("img.quick-news-image").forEach(img=>{
+    let originalTried=false;
+
+    img.addEventListener("error",()=>{
+      const original=img.dataset.originalImage||"";
+
+      /*
+        Če image proxy ne uspe, še enkrat poskusi neposredni original.
+        Nato šele pokaži nevtralni placeholder.
+      */
+      if(!originalTried && original && img.src!==original){
+        originalTried=true;
+        img.src=original;
+        return;
+      }
+
+      const wrap=img.closest(".quick-news-image-wrap");
+      if(wrap){
+        wrap.innerHTML=`<div class="quick-news-placeholder">${esc(source.name)}</div>`;
+      }
+    });
+  });
+
+  if(status){
+    const now=new Date();
+    status.textContent="osveženo "
+      +String(now.getHours()).padStart(2,"0")
+      +":"
+      +String(now.getMinutes()).padStart(2,"0");
+  }
+}
+
+function quickNewsRenderError(source){
+  const grid=qs("#quick-news-grid-"+source.id);
+  const status=qs("#quick-news-status-"+source.id);
+  if(!grid) return;
+
+  grid.innerHTML=`
+    <div class="quick-news-error">
+      Novic trenutno ni mogoče samodejno naložiti.
+      <a href="${esc(source.homepage)}" target="_blank" rel="noopener noreferrer">Odpri ${esc(source.name)}</a>
+    </div>
+  `;
+
+  if(status) status.textContent="vir trenutno ni dosegljiv";
+}
+
+let quickNewsLoadRunning=false;
+
+/* Zadnje prikazane povezave po viru - za zaznavanje sprememb. */
+const quickNewsLastLinks=new Map();
+
+function quickNewsUpdateStatus(source,text){
+  const status=qs("#quick-news-status-"+source.id);
+  if(status) status.textContent=text;
+}
+
+function quickNewsTimeLabel(){
+  const now=new Date();
+  return String(now.getHours()).padStart(2,"0")
+    +":"+String(now.getMinutes()).padStart(2,"0");
+}
+
+async function loadQuickNews(){
+  if(quickNewsLoadRunning) return;
+  quickNewsLoadRunning=true;
+
+  try{
+    await Promise.allSettled(
+      QUICK_NEWS_SOURCES.map(async source=>{
+        try{
+          const items=await quickNewsLoadSource(source);
+
+          const previous=quickNewsLastLinks.get(source.id);
+          const currentLinks=new Set(
+            items.slice(0,QUICK_NEWS_COUNT).map(x=>x.link)
+          );
+
+          /* Prvi prikaz: še ni ničesar za primerjavo. */
+          const isFirstRun=!previous;
+
+          /* Katere povezave so res nove glede na prejšnji krog? */
+          const freshLinks=isFirstRun
+            ? new Set()
+            : new Set([...currentLinks].filter(link=>!previous.has(link)));
+
+          const somethingChanged=
+            isFirstRun
+            || freshLinks.size>0
+            || currentLinks.size!==previous.size;
+
+          /*
+            Če se ni nič spremenilo, seznama ne izrisujemo znova.
+            Tako med branjem ne "poskoči" in slike se ne nalagajo po nepotrebnem.
+          */
+          if(!somethingChanged){
+            quickNewsUpdateStatus(source,"preverjeno "+quickNewsTimeLabel());
+            return;
+          }
+
+          quickNewsLastLinks.set(source.id,currentLinks);
+          quickNewsRenderSource(source,items,freshLinks);
+
+          if(freshLinks.size){
+            quickNewsUpdateStatus(
+              source,
+              "novo ("+freshLinks.size+") ob "+quickNewsTimeLabel()
+            );
+          }
+
+          /*
+            Če RSS nima slike, jo v ozadju poišči v og:image/twitter:image
+            na dejanskem članku in nato osveži samo to vrstico.
+          */
+          const imagesChanged=await quickNewsEnrichMissingImages(source,items);
+          if(imagesChanged){
+            quickNewsRenderSource(source,items,freshLinks);
+            if(freshLinks.size){
+              quickNewsUpdateStatus(
+                source,
+                "novo ("+freshLinks.size+") ob "+quickNewsTimeLabel()
+              );
+            }
+          }
+        }catch(err){
+          console.warn("Hitre novice:",source.name,err);
+          quickNewsRenderError(source);
+        }
+      })
+    );
+  }finally{
+    quickNewsLoadRunning=false;
+  }
+}
+
+function initQuickNews(){
+  quickNewsBuildShell();
+  loadQuickNews();
+
+  /*
+    Preverjanje vsako minuto. Ker si zapomnimo delujočo pot in
+    izrisujemo samo ob dejanski spremembi, je to za posrednike
+    še vedno zmerna obremenitev.
+  */
+  setInterval(loadQuickNews,QUICK_NEWS_REFRESH_MS);
+
+  /* Po vrnitvi na zavihek takoj preveri, ali je kaj novega. */
+  document.addEventListener("visibilitychange",()=>{
+    if(!document.hidden) loadQuickNews();
+  });
+}
+
+
+/* Search */
+let searchMode="web";
+qsa(".search-tabs button").forEach(b=>b.onclick=()=>{
+  qsa(".search-tabs button").forEach(x=>x.classList.remove("active"));b.classList.add("active");searchMode=b.dataset.mode;
+});
+
+function googleSearchUrl(q){
+  const suffix=searchMode==="images"?"&tbm=isch":searchMode==="videos"?"&tbm=vid":"";
+  return "https://www.google.com/search?q="+encodeURIComponent(q)+suffix;
+}
+
+function runSearch(q){
+  const query=(q||"").trim();
+  if(!query) return;
+  hideSuggest();
+  window.open(googleSearchUrl(query),"_blank","noopener");
+}
+
+qs("#searchForm").onsubmit=e=>{
+  e.preventDefault();
+  const active=suggestItems[suggestIndex];
+  runSearch(active!=null ? active : qs("#searchInput").value);
+};
+
+
+/* ============================================================
+   GOOGLE PREDLOGI MED TIPKANJEM
+
+   Google ponuja javni "suggest" naslov, ki vrne polja predlogov:
+     ["vnos",["predlog 1","predlog 2", ...]]
+   Ta naslov ne pošilja CORS glav, zato gre zahtevek prek istih
+   posrednikov kot novice. Zahtevke zamaknemo (debounce), da ob
+   vsaki črki ne sprožimo novega klica.
+   ============================================================ */
+
+const SUGGEST_ENDPOINT =
+  "https://suggestqueries.google.com/complete/search?client=firefox&hl=sl&q=";
+
+let suggestItems=[];
+let suggestIndex=-1;
+let suggestTimer=null;
+let suggestSeq=0;
+
+const suggestBox=qs("#searchSuggest");
+const searchInputEl=qs("#searchInput");
+
+function hideSuggest(){
+  suggestItems=[];
+  suggestIndex=-1;
+  if(suggestBox){
+    suggestBox.innerHTML="";
+    suggestBox.classList.add("hidden");
+  }
+}
+
+function highlightSuggest(text,query){
+  /*
+    Google odebeli tisti del predloga, ki ga uporabnik še ni natipkal.
+    Enako naredimo tukaj: ujemajoči začetek ostane navaden.
+  */
+  const safeText=esc(text);
+  const q=(query||"").trim();
+  if(!q) return safeText;
+
+  const lowerText=text.toLocaleLowerCase();
+  const lowerQuery=q.toLocaleLowerCase();
+
+  if(!lowerText.startsWith(lowerQuery)) return "<b>"+safeText+"</b>";
+
+  return esc(text.slice(0,q.length))+"<b>"+esc(text.slice(q.length))+"</b>";
+}
+
+function renderSuggest(list,query){
+  if(!suggestBox) return;
+
+  suggestItems=list.slice(0,8);
+  suggestIndex=-1;
+
+  if(!suggestItems.length){
+    hideSuggest();
+    return;
+  }
+
+  suggestBox.innerHTML=suggestItems.map((text,i)=>`
+    <button type="button" class="search-suggest-item" data-i="${i}">
+      <span class="sg-ico">⌕</span>
+      <span>${highlightSuggest(text,query)}</span>
+    </button>
+  `).join("");
+
+  suggestBox.classList.remove("hidden");
+
+  suggestBox.querySelectorAll(".search-suggest-item").forEach(btn=>{
+    btn.addEventListener("mousedown",e=>{
+      /* mousedown, da se ne sproži blur pred klikom. */
+      e.preventDefault();
+      const text=suggestItems[Number(btn.dataset.i)];
+      if(searchInputEl) searchInputEl.value=text;
+      runSearch(text);
+    });
+  });
+}
+
+function markActiveSuggest(){
+  if(!suggestBox) return;
+  suggestBox.querySelectorAll(".search-suggest-item").forEach((btn,i)=>{
+    btn.classList.toggle("active",i===suggestIndex);
+  });
+}
+
+async function fetchSuggest(query){
+  const target=SUGGEST_ENDPOINT+encodeURIComponent(query);
+
+  const routes=[
+    QUICK_NEWS_PROXY+encodeURIComponent(target)+"&_="+Date.now(),
+    QUICK_NEWS_PROXY2+encodeURIComponent(target)
+  ];
+
+  for(const url of routes){
+    try{
+      const response=await fetch(url,{cache:"no-store"});
+      if(!response.ok) continue;
+
+      const text=await response.text();
+      const data=JSON.parse(text);
+
+      if(Array.isArray(data) && Array.isArray(data[1])){
+        return data[1].filter(x=>typeof x==="string");
+      }
+    }catch(_){}
+  }
+
+  return [];
+}
+
+if(searchInputEl){
+  searchInputEl.addEventListener("input",()=>{
+    const query=searchInputEl.value.trim();
+
+    clearTimeout(suggestTimer);
+
+    if(query.length<2){
+      hideSuggest();
+      return;
+    }
+
+    /* Zamik, da ne sprožimo klica ob vsakem posameznem znaku. */
+    suggestTimer=setTimeout(async()=>{
+      const mySeq=++suggestSeq;
+      const list=await fetchSuggest(query);
+
+      /* Če je uporabnik medtem tipkal naprej, ta rezultat zavržemo. */
+      if(mySeq!==suggestSeq) return;
+      if(searchInputEl.value.trim()!==query) return;
+
+      renderSuggest(list,query);
+    },180);
+  });
+
+  searchInputEl.addEventListener("keydown",e=>{
+    if(suggestBox && suggestBox.classList.contains("hidden")) return;
+    if(!suggestItems.length) return;
+
+    if(e.key==="ArrowDown"){
+      e.preventDefault();
+      suggestIndex=(suggestIndex+1)%suggestItems.length;
+      searchInputEl.value=suggestItems[suggestIndex];
+      markActiveSuggest();
+    }else if(e.key==="ArrowUp"){
+      e.preventDefault();
+      suggestIndex=suggestIndex<=0 ? suggestItems.length-1 : suggestIndex-1;
+      searchInputEl.value=suggestItems[suggestIndex];
+      markActiveSuggest();
+    }else if(e.key==="Escape"){
+      hideSuggest();
+    }
+  });
+
+  searchInputEl.addEventListener("blur",()=>{
+    /* Kratka zakasnitev, da klik na predlog še uspe. */
+    setTimeout(hideSuggest,120);
+  });
+
+  searchInputEl.addEventListener("focus",()=>{
+    if(suggestItems.length && suggestBox){
+      suggestBox.classList.remove("hidden");
+    }
+  });
+}
+
+document.addEventListener("click",e=>{
+  if(!e.target.closest(".search-shell")) hideSuggest();
+});
+
+/* Weather - Open-Meteo geocoding + forecast */
+const wxIcon=code=>({
+  0:"☀️",1:"🌤️",2:"⛅",3:"☁️",45:"🌫️",48:"🌫️",51:"🌦️",53:"🌦️",55:"🌧️",
+  61:"🌦️",63:"🌧️",65:"🌧️",71:"🌨️",73:"🌨️",75:"❄️",80:"🌦️",81:"🌧️",82:"⛈️",
+  95:"⛈️",96:"⛈️",99:"⛈️"}[code]||"◌");
+const dayShort=d=>["ned","pon","tor","sre","čet","pet","sob"][d.getDay()];
+async function loadWeather(){
+  const name=qs("#placeInput").value.trim()||"Ormož";state.place=name;save();
+  qs("#daily").innerHTML="<span class='news-muted'>nalagam …</span>";
+  qs("#hourly").innerHTML="<span class='news-muted'>nalagam …</span>";
+  try{
+    const g=await fetch("https://geocoding-api.open-meteo.com/v1/search?name="+encodeURIComponent(name)+"&count=1&language=sl&format=json").then(r=>r.json());
+    if(!g.results?.length)throw new Error("Kraj ni najden.");
+    const p=g.results[0];
+    const url="https://api.open-meteo.com/v1/forecast?latitude="+p.latitude+"&longitude="+p.longitude+
+      "&timezone=auto&forecast_days=5&daily=weather_code,temperature_2m_max,temperature_2m_min"+
+      "&hourly=temperature_2m,weather_code,precipitation_probability";
+    const w=await fetch(url).then(r=>r.json());
+    qs("#placeInput").value=p.name;
+    qs("#daily").innerHTML=w.daily.time.slice(0,5).map((t,i)=>`<div class="forecast-item">
+      <div class="day">${i===0?"danes":dayShort(new Date(t+"T12:00"))}</div>
+      <div class="wx-icon">${wxIcon(w.daily.weather_code[i])}</div>
+      <div class="temp-hi">${Math.round(w.daily.temperature_2m_max[i])}°</div>
+      <div class="temp-lo">${Math.round(w.daily.temperature_2m_min[i])}°</div></div>`).join("");
+    const now=new Date(); let idx=w.hourly.time.findIndex(t=>new Date(t)>=now); if(idx<0)idx=0;
+    qs("#hourly").innerHTML=w.hourly.time.slice(idx,idx+5).map((t,j)=>{
+      const i=idx+j,d=new Date(t);return `<div class="hour-item">
+      <div class="time">${String(d.getHours()).padStart(2,"0")}:00</div>
+      <div class="wx-icon">${wxIcon(w.hourly.weather_code[i])}</div>
+      <div class="temp-hi">${Math.round(w.hourly.temperature_2m[i])}°</div>
+      <div class="precip">${w.hourly.precipitation_probability[i]??0}%</div></div>`}).join("");
+  }catch(err){
+    qs("#daily").innerHTML="<span class='news-muted'>Vreme ni na voljo.</span>";
+    qs("#hourly").innerHTML="<span class='news-muted'>"+esc(err.message)+"</span>";
+  }finally{
+    scheduleLowerDividerPosition();
+  }
+}
+qs("#weatherBtn").onclick=loadWeather;
+qs("#placeInput").addEventListener("keydown",e=>{if(e.key==="Enter")loadWeather()});
+
+/* import/export */
+qs("#exportBtn").onclick=()=>{
+  const blob=new Blob([JSON.stringify({state,settings},null,2)],{type:"application/json"});
+  const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="moja-zacetna-stran-nastavitve.json";a.click();URL.revokeObjectURL(a.href);
+};
+qs("#importBtn").onclick=()=>qs("#importFile").click();
+qs("#importFile").onchange=async e=>{
+  try{
+    const x=JSON.parse(await e.target.files[0].text()); if(x.state)state=x.state;if(x.settings)settings=Object.assign(settings,x.settings);
+    save();saveSettings();qs("#placeInput").value=state.place||"Ormož";applySettings();loadWeather();
+  }catch{alert("Datoteke ni bilo mogoče uvoziti.")}
+};
+
+
+/* ============================================================
+   ARSO RADAR
+   ARSO objavlja sestavljeno radarsko sliko padavin za Slovenijo.
+   Dodamo cache-buster, da brskalnik ne obdrži stare GIF slike.
+   ============================================================ */
+const ARSO_RADAR_URL = "https://meteo.arso.gov.si/uploads/probase/www/observ/radar/si0-rm.gif";
+
+function refreshRadar(){
+  const img=qs("#radarImg");
+  if(!img) return;
+  img.src=ARSO_RADAR_URL+"?t="+Date.now();
+}
+
+qs("#radarRefresh")?.addEventListener("click",refreshRadar);
+
+/* ARSO radar se meri pogosto; osvežimo prikaz vsakih 5 minut. */
+setInterval(refreshRadar,5*60*1000);
+
+/* startup */
+
+qs("#placeInput").value=state.place||"Ormož";
+normalizeCardColumns();
+save();
+applySettings();
+initLowerDividerTracking();
+initQuickNews();
+loadWeather();
+</script>
+</body>
+</html>
