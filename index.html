@@ -1827,6 +1827,14 @@ body.settings-open .dashboard-layout{
   max-width:1180px!important;
 }
 
+/* ---------- SEZONSKI UČINEK OB MIŠKI ---------- */
+.season-canvas{
+  position:fixed;
+  inset:0;
+  z-index:300;
+  pointer-events:none;
+}
+
 /* ---------- TRIDNEVNI KOLEDAR ---------- */
 .day-strip{
   display:grid;
@@ -2473,6 +2481,7 @@ body.light-theme .search-suggest-item.active{
   <div class="setting-row"><span>Dovoli spreminjanje velikosti</span><label class="switch"><input id="sResize" type="checkbox" checked><span class="slider"></span></label></div>
   <div class="setting-row"><span>Prikaži robove okenc</span><label class="switch"><input id="sBorders" type="checkbox" checked><span class="slider"></span></label></div>
   <div class="setting-row"><span>Prikaži vreme na desni</span><label class="switch"><input id="sWeather" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span>Sezonski učinek ob miški</span><label class="switch"><input id="sSeason" type="checkbox" checked><span class="slider"></span></label></div>
   
 </div>
 
@@ -2620,6 +2629,8 @@ body.light-theme .search-suggest-item.active{
 
 <div id="modalHost"></div>
 
+<canvas id="seasonCanvas" class="season-canvas" aria-hidden="true"></canvas>
+
 <div id="miniPopup" class="mini-popup-overlay hidden">
   <div class="mini-popup" role="dialog" aria-modal="true">
     <div class="mini-popup-head">
@@ -2636,7 +2647,7 @@ const SETTINGS="moja_zacetna_stran_settings_v3";
 
 let state = JSON.parse(localStorage.getItem(STORE) || "{\"cards\":[{\"id\":\"e2b71d63-573c-490e-8931-57f7940039a4\",\"title\":\"Info & uporabno\",\"icon\":\"\u2139\ufe0f\",\"links\":[{\"id\":\"0a996791-196f-49df-8a2c-0971800b9e35\",\"name\":\"Zemljevid Najdi.si\",\"url\":\"https://zemljevid.najdi.si\"},{\"id\":\"1751c230-f423-452b-bc14-86e27fa2c635\",\"name\":\"Zemljevid Google\",\"url\":\"https://maps.google.com\"},{\"id\":\"67cb0e36-e368-42a1-ad08-b42197fa9d12\",\"name\":\"Wikipedia\",\"url\":\"https://sl.wikipedia.org\"},{\"id\":\"acd3943e-810b-4555-b871-0327690a97e1\",\"name\":\"Med.Over.Net\",\"url\":\"https://med.over.net\"},{\"id\":\"80df8727-c6bb-47bf-8431-66c8b2385c79\",\"name\":\"Telefonski imenik\",\"url\":\"https://itis.siol.net\"},{\"id\":\"1681663f-1f7e-42bd-9c86-43cb29fefd96\",\"name\":\"Spin - SOS112\",\"url\":\"https://spin3.sos112.si\"},{\"id\":\"52569434-80cb-4d92-9fe8-afccf2f4e7e5\",\"name\":\"LPP\",\"url\":\"https://www.lpp.si\"},{\"id\":\"482dd32b-bcfd-4b36-bc50-e5c2a41e26fb\",\"name\":\"Vlak - vozni red\",\"url\":\"https://potniski.sz.si\"},{\"id\":\"4b182832-fc0e-4958-87a2-30e20a0507ff\",\"name\":\"Avtobus - vozni red\",\"url\":\"https://www.ap-ljubljana.si\"},{\"id\":\"abb3bfca-d228-4d4b-a8a1-315f851d04f2\",\"name\":\"Aerodrom Brnik\",\"url\":\"https://www.lju-airport.si\"},{\"id\":\"0032b0f7-4a5c-4f7f-907a-ce635ee9b76c\",\"name\":\"Promet.si\",\"url\":\"https://promet.si\"},{\"id\":\"9f19190e-b424-4102-a31b-21c2aca4261d\",\"name\":\"Prevoz.org\",\"url\":\"https://prevoz.org\"}],\"col\":0,\"order\":0,\"w\":190,\"h\":284},{\"id\":\"491a8886-b4d2-44ba-ae64-226d32634d44\",\"title\":\"Dr\u017eavni organi\",\"icon\":\"\ud83c\udfdb\ufe0f\",\"links\":[{\"id\":\"d0bae8ca-c556-44c1-a6ad-022e9dde9906\",\"name\":\"Ajpes\",\"url\":\"https://www.ajpes.si\"},{\"id\":\"996962c5-3987-4487-9dc1-821d98613160\",\"name\":\"FURS\",\"url\":\"https://www.fu.gov.si\"},{\"id\":\"690a9bbf-de08-4f24-9575-a7480d9e5b19\",\"name\":\"Spot\",\"url\":\"https://spot.gov.si\"},{\"id\":\"93f31e2d-6998-4023-b068-aa8a616d7524\",\"name\":\"e-Davki\",\"url\":\"https://edavki.durs.si\"},{\"id\":\"a2f08b9a-fa50-4b87-856e-673f11c517ea\",\"name\":\"e-Uprava\",\"url\":\"https://e-uprava.gov.si\"}],\"col\":1,\"order\":0,\"w\":190,\"h\":144},{\"id\":\"b092a0f8-1a41-4121-9fd2-616966d974b8\",\"title\":\"Zaposlitev\",\"icon\":\"\ud83d\udcbc\",\"links\":[{\"id\":\"d19c0042-2fd0-4fd5-9d6e-1d38b0f16922\",\"name\":\"Zavod za zaposlovanje\",\"url\":\"https://www.ess.gov.si\"},{\"id\":\"d566f860-55e8-481f-bfc4-848630473d81\",\"name\":\"MojeDelo.com\",\"url\":\"https://www.mojedelo.com\"},{\"id\":\"8780c210-e1c5-4b6d-9063-66edb8491b64\",\"name\":\"Deloglasnik\",\"url\":\"https://www.deloglasnik.si\"}],\"col\":2,\"order\":0,\"w\":190,\"h\":120},{\"id\":\"acd7ef88-df76-4c7f-9160-adec978d9788\",\"title\":\"Gospodarstvo\",\"icon\":\"\ud83d\udcca\",\"links\":[{\"id\":\"53d856b8-bf27-42b6-9022-608d90414cd9\",\"name\":\"Finance.si\",\"url\":\"https://www.finance.si\"},{\"id\":\"ae93e3aa-fd21-49f3-83d4-3dda98d31932\",\"name\":\"Bizi.si - poslovni imenik\",\"url\":\"https://www.bizi.si\"},{\"id\":\"a3af0d22-34ab-4a6f-9e40-73253eece4ff\",\"name\":\"Delo gospodarstvo\",\"url\":\"https://www.delo.si\"},{\"id\":\"e997562a-5b9b-4aa5-93ad-05c288032dad\",\"name\":\"24ur gospodarstvo\",\"url\":\"https://www.24ur.com\"},{\"id\":\"d128d46d-2fc0-47d0-9bf9-acad2952a1d3\",\"name\":\"Vzajemci.com\",\"url\":\"https://www.vzajemci.com\"},{\"id\":\"c244992f-a5c7-4644-a259-17d604e8cf90\",\"name\":\"LJ Borza\",\"url\":\"https://www.ljse.si\"},{\"id\":\"710aa205-3648-4f0c-af74-cfafc0419124\",\"name\":\"ZG Borza\",\"url\":\"https://zse.hr\"},{\"id\":\"d064e7d6-c98b-42fb-89a9-67760ec63208\",\"name\":\"BG Borza\",\"url\":\"https://www.belex.rs\"},{\"id\":\"b6b7e9b4-146f-4538-9622-a385ad431c49\",\"name\":\"BiH Borza\",\"url\":\"https://www.sase.ba\"},{\"id\":\"5ff19a42-02a3-4868-aa37-466f0ecf40d9\",\"name\":\"MK Borza\",\"url\":\"https://www.mse.mk\"}],\"col\":3,\"order\":0,\"w\":190,\"h\":244},{\"id\":\"d3a5af03-e989-4d1b-bc6c-3aada7959ac2\",\"title\":\"Novice svet\",\"icon\":\"\ud83c\udf0d\",\"links\":[{\"id\":\"3bb824a0-882d-4ecf-9aeb-bf165781e547\",\"name\":\"CNN.com\",\"url\":\"https://edition.cnn.com\"},{\"id\":\"79ecdf6e-08cd-4367-91fd-18a497880a72\",\"name\":\"BBC.com\",\"url\":\"https://www.bbc.com\"},{\"id\":\"1e7ba8a3-80d9-40e6-8ce2-a57779c47e66\",\"name\":\"Aljazeera\",\"url\":\"https://www.aljazeera.com\"}],\"col\":4,\"order\":0,\"w\":190,\"h\":120},{\"id\":\"f6dbc77c-5f2a-4281-8059-c0d9ceae3105\",\"title\":\"Novice ex-YU\",\"icon\":\"\ud83d\udcf0\",\"links\":[{\"id\":\"06d887cb-b8dc-4fd6-a60d-7786511ecaa2\",\"name\":\"Jutarnji list\",\"url\":\"https://www.jutarnji.hr\"},{\"id\":\"3aed554b-7bb4-4b61-a4ee-7e2effad3e08\",\"name\":\"Ve\u010dernji list\",\"url\":\"https://www.vecernji.hr\"},{\"id\":\"88c2db03-c197-4118-866e-b858184622b5\",\"name\":\"Dnevnik.hr\",\"url\":\"https://www.dnevnik.hr\"},{\"id\":\"d55f29fa-74ed-4120-b788-bb8649fff3e2\",\"name\":\"24sata.hr\",\"url\":\"https://www.24sata.hr\"},{\"id\":\"ab1848f8-e25d-483a-8efb-e3823105f818\",\"name\":\"Index.hr\",\"url\":\"https://www.index.hr\"},{\"id\":\"df21fb14-3131-487a-a707-0a02b885d5c5\",\"name\":\"24sata.ba\",\"url\":\"https://www.24sata.ba\"},{\"id\":\"cde142a3-68e0-4569-a99d-089b4c964011\",\"name\":\"Informer.rs\",\"url\":\"https://informer.rs\"},{\"id\":\"52b185dd-9b79-44e5-ad77-4d0de9c52f8a\",\"name\":\"Kurir.rs\",\"url\":\"https://www.kurir.rs\"},{\"id\":\"4fbf12f8-a197-4ab3-9029-3528a4125002\",\"name\":\"Alo!\",\"url\":\"https://www.alo.rs\"},{\"id\":\"697996ec-55e1-4cf2-8cc0-201cf12aa4ff\",\"name\":\"Blic.rs\",\"url\":\"https://www.blic.rs\"},{\"id\":\"eff98abf-9885-4815-b754-a575fa8785dc\",\"name\":\"B92\",\"url\":\"https://www.b92.net\"}],\"col\":5,\"order\":0,\"w\":190,\"h\":264},{\"id\":\"a9341878-84ce-4230-86b8-cc59f395bc9a\",\"title\":\"Novice\",\"icon\":\"\ud83d\uddde\ufe0f\",\"links\":[{\"id\":\"3bda97df-d068-49ae-93f7-9c6f21cef737\",\"name\":\"SIOL\",\"url\":\"https://siol.net\"},{\"id\":\"7f0b5fdb-9ebe-48bd-8631-bcebdfd2ddb2\",\"name\":\"24 UR\",\"url\":\"https://www.24ur.com\"},{\"id\":\"bc9904dc-48f5-4ac7-a7d9-e6fdfdc3e42a\",\"name\":\"RTV Slo\",\"url\":\"https://www.rtvslo.si\"},{\"id\":\"cd6c85e8-3369-4780-a48d-634888f53e46\",\"name\":\"N1 info\",\"url\":\"https://n1info.si\"},{\"id\":\"f1e2a346-f724-4186-9a51-77610d5906b1\",\"name\":\"\u017durnal 24\",\"url\":\"https://www.zurnal24.si\"},{\"id\":\"19e90f32-7bf1-43e7-b54a-6f5f441cbc62\",\"name\":\"Delo.si\",\"url\":\"https://www.delo.si\"},{\"id\":\"79cbcbcc-1a5c-492d-850c-00ca33740c47\",\"name\":\"Ve\u010der\",\"url\":\"https://vecer.com\"},{\"id\":\"be4b0140-aeff-4ff5-837f-8d1b3ceb40ca\",\"name\":\"Dnevnik.si\",\"url\":\"https://www.dnevnik.si\"},{\"id\":\"768f992c-43f6-4522-abd7-f432a1de007e\",\"name\":\"Po\u017ear Report\",\"url\":\"https://pozareport.si\"},{\"id\":\"34132d71-9652-4b2a-8f41-a5790d7676e1\",\"name\":\"Info360\",\"url\":\"https://www.info360.si\"},{\"id\":\"2235d22d-1c62-4e1d-be52-43c41743354a\",\"name\":\"Primorske novice\",\"url\":\"https://primorske.svet24.si\"},{\"id\":\"23dd22e4-c01f-4c85-ae55-bdcf46518640\",\"name\":\"Slovenske novice\",\"url\":\"https://www.slovenskenovice.si\"},{\"id\":\"2d794116-0375-4d36-a08f-e80f2cf1329a\",\"name\":\"Reporter\",\"url\":\"https://reporter.si\"},{\"id\":\"cc031d6b-fbda-4d5e-84c7-3da498ba3bfb\",\"name\":\"Mladina\",\"url\":\"https://www.mladina.si\"},{\"id\":\"625cb444-fc7e-4509-8aa8-bb5ab7df7b50\",\"name\":\"Svet 24\",\"url\":\"https://svet24.si\"},{\"id\":\"9c537983-9757-4f69-9c67-8a731b6b1df5\",\"name\":\"Nova24\",\"url\":\"https://nova24tv.si\"},{\"id\":\"0cd9a878-b072-457f-bcfb-d3cdccb621d7\",\"name\":\"Telex\",\"url\":\"https://www.telex.si\"}],\"col\":2,\"order\":1,\"w\":190,\"h\":330},{\"id\":\"be14cb03-00cd-4219-9d77-2cc6d5850ac2\",\"title\":\"\u0160port\",\"icon\":\"\u26bd\",\"links\":[{\"id\":\"7c30c40b-b1ed-4a81-a042-9fb61242c7f9\",\"name\":\"Sportal Siol.net\",\"url\":\"https://siol.net/sportal\"},{\"id\":\"ad822ea6-9bc0-46e9-acf6-5189c3becdb0\",\"name\":\"\u0160port RTV\",\"url\":\"https://www.rtvslo.si/sport\"},{\"id\":\"458f2072-16f3-45ca-88a9-a61083f8e86c\",\"name\":\"Nogomania\",\"url\":\"https://www.nogomania.com\"},{\"id\":\"5ea65ada-06af-426d-8014-4c894246c5a0\",\"name\":\"Ekipa\",\"url\":\"https://ekipa.svet24.si\"},{\"id\":\"142ea028-f13d-4851-b41c-257161083396\",\"name\":\"E-stave\",\"url\":\"https://www.e-stave.com\"}],\"col\":4,\"order\":1,\"w\":190,\"h\":144},{\"id\":\"eed54e4b-ff73-40c2-8d59-3ce7b5f38172\",\"title\":\"E-mail\",\"icon\":\"\u2709\ufe0f\",\"links\":[{\"id\":\"4a7c8077-519e-4da8-aaf0-2780f6919b15\",\"name\":\"Gmail\",\"url\":\"https://www.gmail.com\"},{\"id\":\"fbefe2b4-fe1f-4e4d-ac90-8209bf47242c\",\"name\":\"Siol e-mail\",\"url\":\"https://posta.siol.net\"},{\"id\":\"a1152d1f-dff1-4c16-bfa0-d3e4a651f238\",\"name\":\"Yahoo e-mail\",\"url\":\"https://mail.yahoo.com\"},{\"id\":\"1fa86e3c-5a96-4970-98df-f91d4c8600cb\",\"name\":\"Hotmail\",\"url\":\"https://www.hotmail.com\"},{\"id\":\"80065e03-0faf-4e29-80d9-cc53b697d64c\",\"name\":\"Outlook\",\"url\":\"https://outlook.live.com\"},{\"id\":\"aa69fcf8-bc69-4900-be89-8ccb6c4a2d3f\",\"name\":\"T2 webmail\",\"url\":\"https://webmail.t-2.net\"},{\"id\":\"dff5bbda-2414-452a-8cc4-1772bf917252\",\"name\":\"Telemach e-po\u0161ta\",\"url\":\"https://posta.telemach.net\"}],\"col\":1,\"order\":1,\"w\":190,\"h\":184},{\"id\":\"4a4aeafe-97d6-49be-80d5-8f8b4c89a1ae\",\"title\":\"Glasba, filmi, mp3\",\"icon\":\"\ud83c\udfac\",\"links\":[{\"id\":\"4f7ad776-693f-44e8-bd61-2bdb24a9d13f\",\"name\":\"Pirate bay\",\"url\":\"https://thepiratebay.org\"},{\"id\":\"824d19f0-c103-4770-8713-ab6b1ab3e6fa\",\"name\":\"Moj blink\",\"url\":\"https://mojblink.si\"},{\"id\":\"e94023ee-b683-4dbb-9acb-3dc5badb8800\",\"name\":\"Infire.si\",\"url\":\"https://infire.si\"},{\"id\":\"e2df2ae5-8dd7-4d14-9276-239330360e2b\",\"name\":\"IMDb\",\"url\":\"https://www.imdb.com\"},{\"id\":\"f2c6d770-185d-439b-a28e-8f7a893e1fd6\",\"name\":\"Podnapisi.net\",\"url\":\"https://www.podnapisi.net\"},{\"id\":\"9947e04b-b385-4d4d-ba64-e4ee265df5c9\",\"name\":\"Soundcloud\",\"url\":\"https://soundcloud.com\"},{\"id\":\"0f4afa63-d993-432b-aa60-abd5b92c71d4\",\"name\":\"TuneIn\",\"url\":\"https://tunein.com\"},{\"id\":\"a196013c-cf4d-41f9-b303-387f22fd7021\",\"name\":\"YouTube\",\"url\":\"https://www.youtube.com\"}],\"col\":3,\"order\":1,\"w\":190,\"h\":204},{\"id\":\"ecb53fab-c722-4ed1-afbb-5b9684e91e60\",\"title\":\"Igre\",\"icon\":\"\ud83c\udfae\",\"links\":[{\"id\":\"78ea81ce-2323-497d-87b0-9552ca743afc\",\"name\":\"Igre123\",\"url\":\"https://www.igre123.com\"},{\"id\":\"e19e42ec-1a91-4b19-a496-785d725e9de2\",\"name\":\"Zulu.si\",\"url\":\"https://www.zulu.si\"}],\"col\":5,\"order\":1,\"w\":190,\"h\":120},{\"id\":\"f088b472-7428-4fdd-a381-2288586449e6\",\"title\":\"Napovednik\",\"icon\":\"\ud83d\udcc5\",\"links\":[{\"id\":\"d23a86ca-1fde-41a8-9d1c-1f6c4d567680\",\"name\":\"Vreme bo\",\"url\":\"https://vremebo.com\"},{\"id\":\"92b72ae9-6643-4c26-a2f4-cb8636de4a6e\",\"name\":\"Radarska slika\",\"url\":\"https://vremebo.com\"},{\"id\":\"84d1199b-7dd0-4bfb-9d3c-89d00a365c19\",\"name\":\"Vreme.si\",\"url\":\"https://www.vreme.si\"},{\"id\":\"066a9207-aad1-4d2a-b07f-aab147222bc4\",\"name\":\"TV spored Siol.net\",\"url\":\"https://tv-spored.siol.net\"},{\"id\":\"87f5fa77-cb05-462c-99bb-9b06099d0016\",\"name\":\"Spored.tv\",\"url\":\"https://www.spored.tv\"},{\"id\":\"a1dcc68b-ad7f-41c8-918f-6f783fac65c0\",\"name\":\"Eventim.si\",\"url\":\"https://www.eventim.si\"},{\"id\":\"c31f96ef-d2c5-45cb-9918-6ef559e897a1\",\"name\":\"Napovednik.com\",\"url\":\"https://napovednik.com\"},{\"id\":\"d26deac1-4b25-40cb-bc54-b19a355010ff\",\"name\":\"Cineplexx\",\"url\":\"https://www.cineplexx.si\"}],\"col\":4,\"order\":2,\"w\":190,\"h\":204},{\"id\":\"d080c81f-61d0-4d3f-b172-d4b0f39e5626\",\"title\":\"Turizem\",\"icon\":\"\ud83e\uddf3\",\"links\":[{\"id\":\"99f14bd4-b5a8-4d53-9b6a-c40d0e0d6ae1\",\"name\":\"Hribi.net\",\"url\":\"https://www.hribi.net\"},{\"id\":\"2d9813ca-aed3-4459-8e80-346eed4032bd\",\"name\":\"Booking.com\",\"url\":\"https://www.booking.com\"},{\"id\":\"1989edab-6537-4014-bb10-1ea2c02ec4b4\",\"name\":\"Smu\u010di\u0161\u010da\",\"url\":\"https://www.skiresort.info\"},{\"id\":\"a3223c00-22db-4e13-af20-a67654eac2ae\",\"name\":\"Slovenia.info\",\"url\":\"https://www.slovenia.info\"},{\"id\":\"b0c082f0-5f6e-4a8f-896f-a34f1bb4329f\",\"name\":\"Kompas Holidays\",\"url\":\"https://www.kompas.si\"},{\"id\":\"6657fda4-4951-4129-869c-eaacc419532b\",\"name\":\"Tripadvisor\",\"url\":\"https://www.tripadvisor.com\"},{\"id\":\"21852549-0859-4cad-b0db-d1413bf5f632\",\"name\":\"Skyscanner\",\"url\":\"https://www.skyscanner.net\"},{\"id\":\"1c5a81b2-42cc-466e-8c99-89a6f46c5e33\",\"name\":\"Airbnb\",\"url\":\"https://www.airbnb.com\"}],\"col\":0,\"order\":1,\"w\":190,\"h\":204},{\"id\":\"5f1ea7f1-65b3-47f2-8d96-7d7699d31c7c\",\"title\":\"Hrana\",\"icon\":\"\ud83c\udf7d\ufe0f\",\"links\":[{\"id\":\"341a71b8-8735-4664-989d-213d70f225bf\",\"name\":\"Kulinarika.net\",\"url\":\"https://www.kulinarika.net\"},{\"id\":\"eec61162-91e7-411e-bd50-ed79e3fee301\",\"name\":\"Moja Gostilna\",\"url\":\"https://www.mojagostilna.com\"},{\"id\":\"d5687e7c-03b3-4712-a67c-d536a0c521da\",\"name\":\"Okusno je\",\"url\":\"https://okusno.je\"}],\"col\":1,\"order\":2,\"w\":190,\"h\":120},{\"id\":\"bbf610d9-ebcc-4200-bece-d476cb264232\",\"title\":\"Socialno\",\"icon\":\"\ud83d\udcac\",\"links\":[{\"id\":\"21b3958d-a260-4bcd-8f3b-831bb40806cc\",\"name\":\"Facebook\",\"url\":\"https://www.facebook.com\"},{\"id\":\"81c5efef-c727-4f8e-9eb7-87447fbe3473\",\"name\":\"Omre\u017eje X\",\"url\":\"https://x.com\"},{\"id\":\"579a15f9-e950-46cc-a6a4-0fc9a2705e56\",\"name\":\"Instagram\",\"url\":\"https://www.instagram.com\"},{\"id\":\"2b980e21-7f3f-49ea-8c5e-abe12c9e72b7\",\"name\":\"Pinterest\",\"url\":\"https://www.pinterest.com\"},{\"id\":\"2199265a-287d-480b-a0ac-11be99cd9d60\",\"name\":\"Linkedin\",\"url\":\"https://www.linkedin.com\"},{\"id\":\"c813485f-4f77-4489-8347-3417f64214fc\",\"name\":\"Tinder\",\"url\":\"https://tinder.com\"},{\"id\":\"b8325aca-fc37-4de4-8d5e-bf9e43e18d86\",\"name\":\"Ona-On\",\"url\":\"https://www.ona-on.com\"}],\"col\":5,\"order\":2,\"w\":190,\"h\":184},{\"id\":\"525d1915-12ba-49ef-a0c6-b78ffb3b5120\",\"title\":\"Video - TV\",\"icon\":\"\ud83d\udcfa\",\"links\":[{\"id\":\"bf5b07dc-64a6-4633-aff5-fd991e01a534\",\"name\":\"You Tube\",\"url\":\"https://www.youtube.com\"},{\"id\":\"80263a79-ca5d-4c23-8550-43cdbdf0bbaf\",\"name\":\"RTV 365\",\"url\":\"https://365.rtvslo.si\"},{\"id\":\"5fc7533f-d494-4d7c-be94-34648d6b6f8e\",\"name\":\"Voyo.si\",\"url\":\"https://voyo.si\"},{\"id\":\"b5e3a9e9-0d7f-4bb2-a872-c62264e38f5a\",\"name\":\"Live TV sport\",\"url\":\"https://livetv.sx\"},{\"id\":\"cdecfb42-7776-49c3-8a85-c62295c72a99\",\"name\":\"Neo.io\",\"url\":\"https://www.neo.io\"}],\"col\":3,\"order\":2,\"w\":190,\"h\":144},{\"id\":\"2b18749a-c222-4f7e-8308-86b7a0746616\",\"title\":\"Zabava in portali\",\"icon\":\"\ud83c\udfad\",\"links\":[{\"id\":\"89cfefe5-95d3-4a99-b41d-50aafaea7aff\",\"name\":\"Govori.se\",\"url\":\"https://govorise.metropolitan.si\"},{\"id\":\"ce70f057-f790-4e3d-99ea-7d8f1af6cfa0\",\"name\":\"\u017denska.si\",\"url\":\"https://zenska.hudo.com\"},{\"id\":\"87aca1ba-75a9-4766-b6e2-fa8373a96f43\",\"name\":\"Diva.si\",\"url\":\"https://www.diva.si\"},{\"id\":\"8ab85c4c-2066-489c-9d2b-9f058ba9d20d\",\"name\":\"Mo\u0161ki svet\",\"url\":\"https://www.moskisvet.com\"},{\"id\":\"86bb5eb1-2e36-4e60-95f2-4f6bd2981b45\",\"name\":\"To\u010dnoto.si\",\"url\":\"https://www.tocnoto.si\"},{\"id\":\"adabdc4b-6259-400d-8f4a-7900871af162\",\"name\":\"Zadovoljna.si\",\"url\":\"https://www.zadovoljna.si\"},{\"id\":\"294ac58c-d7fc-4ff3-b497-1803cd7186a0\",\"name\":\"Dom in vrt\",\"url\":\"https://www.dominvrt.si\"}],\"col\":2,\"order\":2,\"w\":190,\"h\":184},{\"id\":\"542bd007-b9ed-44ac-b884-61675a346d92\",\"title\":\"Online trgovine\",\"icon\":\"\ud83d\uded2\",\"links\":[{\"id\":\"cdd7aa73-cd81-48ec-9944-f1ea39a13888\",\"name\":\"Temu\",\"url\":\"https://www.temu.com\"},{\"id\":\"c10908ce-96d4-4bf3-818b-dfb1670bf687\",\"name\":\"Aboutyou\",\"url\":\"https://www.aboutyou.si\"},{\"id\":\"e08bfb61-a416-4efe-81f0-434c89980e8e\",\"name\":\"Lelosi\",\"url\":\"https://lelosi.si\"},{\"id\":\"5d01d359-8c49-45f4-a261-a2d3aadadb10\",\"name\":\"Mimovrste\",\"url\":\"https://www.mimovrste.com\"},{\"id\":\"c289da34-b3a7-4188-b39c-31ee9b55b668\",\"name\":\"Bigbang\",\"url\":\"https://www.bigbang.si\"},{\"id\":\"a06fd753-6b4d-4ced-ab6e-a67fed9c20a4\",\"name\":\"Merkur\",\"url\":\"https://www.merkur.si\"},{\"id\":\"98cc824f-86d2-4e9c-ab6d-348b3039ff35\",\"name\":\"EnaA\",\"url\":\"https://www.enaa.com\"},{\"id\":\"52c6211f-5c01-4f79-93cd-119e176d8c2e\",\"name\":\"Ceneje.si\",\"url\":\"https://www.ceneje.si\"},{\"id\":\"d4cb50c0-be20-4e10-8a2b-f1a1bcee7dad\",\"name\":\"e-Bay\",\"url\":\"https://www.ebay.com\"},{\"id\":\"7debf1b4-02af-4d09-91af-344ff4a49a5f\",\"name\":\"AliExpress\",\"url\":\"https://www.aliexpress.com\"},{\"id\":\"02e61158-3eee-4ba4-9268-d2f97deba3f6\",\"name\":\"Amazon\",\"url\":\"https://www.amazon.de\"}],\"col\":1,\"order\":3,\"w\":190,\"h\":264},{\"id\":\"6b23f7ac-b134-485e-8e52-7530159a34ad\",\"title\":\"Oglasniki\",\"icon\":\"\ud83c\udff7\ufe0f\",\"links\":[{\"id\":\"ca18c2a0-2064-4211-bf8e-7f011ebacad4\",\"name\":\"Avto.net\",\"url\":\"https://www.avto.net\"},{\"id\":\"b8d78b3e-37d2-4761-b893-4acecdefbc52\",\"name\":\"Bolha.com\",\"url\":\"https://www.bolha.com\"},{\"id\":\"5e3d864e-079f-4a86-8f58-2870639e0bbf\",\"name\":\"Nepremi\u010dnine.net\",\"url\":\"https://www.nepremicnine.net\"},{\"id\":\"89de8254-debf-4d3b-bf77-47335533861f\",\"name\":\"Mobile.de\",\"url\":\"https://www.mobile.de\"},{\"id\":\"ceb1ac21-ff8e-4680-a318-532e0698a7ec\",\"name\":\"DoberAvto.si\",\"url\":\"https://www.doberavto.si\"},{\"id\":\"62b36739-d45b-4edd-816e-ac0a36035552\",\"name\":\"Drazba.net\",\"url\":\"https://www.drazba.net\"},{\"id\":\"a275f6d0-f8aa-41d9-baf0-8240f9f9f3bc\",\"name\":\"Drazbe123\",\"url\":\"https://www.drazbe123.com\"},{\"id\":\"63bb202f-5bdd-4f11-b9c0-e13ffdfe125c\",\"name\":\"Salomonov oglasnik\",\"url\":\"https://oglasi.svet24.si\"},{\"id\":\"22313e79-cb5a-4844-9cbe-b20b0c173de6\",\"name\":\"Novogradnje.com\",\"url\":\"https://www.novogradnje.com\"}],\"col\":4,\"order\":3,\"w\":190,\"h\":224}],\"news\":[],\"place\":\"Kora\u010dice\"}");
 let settings = Object.assign({
-  theme:"dark", edit:true, addCards:true, addLinks:true, drag:true, resize:true, borders:true, weather:true
+  theme:"dark", edit:true, addCards:true, addLinks:true, drag:true, resize:true, borders:true, weather:true, season:true
 }, JSON.parse(localStorage.getItem(SETTINGS)||"{}"));
 
 const qs=s=>document.querySelector(s), qsa=s=>[...document.querySelectorAll(s)];
@@ -2657,8 +2668,12 @@ function applySettings(){
   qs("#addCardBtn").classList.toggle("hidden",!(settings.edit&&settings.addCards));
   qs("#themeDark")?.classList.toggle("active",settings.theme==="dark");
   qs("#themeLight")?.classList.toggle("active",settings.theme==="light");
-  ["sEdit","sAddCards","sAddLinks","sDrag","sResize","sBorders","sWeather"].forEach(x=>qs("#"+x).checked=settings[{
-    sEdit:"edit",sAddCards:"addCards",sAddLinks:"addLinks",sDrag:"drag",sResize:"resize",sBorders:"borders",sWeather:"weather"}[x]]);
+  ["sEdit","sAddCards","sAddLinks","sDrag","sResize","sBorders","sWeather","sSeason"].forEach(x=>{
+    const el=qs("#"+x); if(el) el.checked=settings[{
+      sEdit:"edit",sAddCards:"addCards",sAddLinks:"addLinks",sDrag:"drag",
+      sResize:"resize",sBorders:"borders",sWeather:"weather",sSeason:"season"}[x]];
+  });
+  if(typeof setSeasonEnabled==="function") setSeasonEnabled(settings.season!==false);
   renderCards();
 }
 qs("#themeDark").onclick=()=>{settings.theme="dark";saveSettings();applySettings()};
@@ -2681,7 +2696,7 @@ document.addEventListener("keydown",e=>{
 
 [
   ["sEdit","edit"],["sAddCards","addCards"],["sAddLinks","addLinks"],["sDrag","drag"],
-  ["sResize","resize"],["sBorders","borders"],["sWeather","weather"]
+  ["sResize","resize"],["sBorders","borders"],["sWeather","weather"],["sSeason","season"]
 ].forEach(([el,key])=>qs("#"+el).addEventListener("change",e=>{settings[key]=e.target.checked;saveSettings();applySettings()}));
 
 /* modal */
@@ -5025,11 +5040,268 @@ function applyThreeDays(data){
   });
 }
 
+/* ============================================================
+   SEZONSKI UČINEK OB MIŠKI
+
+   Ob premiku kazalca nastajajo delci, ki se razlikujejo po
+   letnem casu. Risemo na eno samo platno (canvas), ker je to
+   bistveno hitreje od ustvarjanja elementov v DOM.
+
+   jesen  - listje, ki se vrti in niha med padanjem
+   zima   - snezinke, pocasne in rahlo nihajoce
+   pomlad - cvetni listi
+   poletje- topli iskrivi delci, ki se dvigajo (kot kresnicke)
+   ============================================================ */
+
+const SEASON_MAX = 140;          /* najvec delcev hkrati */
+const SEASON_SPAWN_MS = 38;      /* najmanjsi razmik med nastanki */
+const SEASON_MIN_MOVE = 6;       /* najmanjsi premik miske v pikslih */
+
+const SEASONS = {
+  jesen: {
+    ime: "jesen",
+    barve: ["#c9642a","#d98b2b","#b23a2a","#8a9c3a","#e0a83c","#7d4a1e"],
+    velikost: [5,10],
+    hitrost: [0.5,1.3],
+    nihaj: [0.6,1.6],
+    vrtenje: [0.02,0.09],
+    zivljenje: [90,150],
+    oblika: "list"
+  },
+  zima: {
+    ime: "zima",
+    barve: ["#ffffff","#dcecff","#c3dcf7"],
+    velikost: [2.5,5.5],
+    hitrost: [0.35,0.9],
+    nihaj: [0.4,1.1],
+    vrtenje: [0.01,0.04],
+    zivljenje: [110,190],
+    oblika: "snezinka"
+  },
+  pomlad: {
+    ime: "pomlad",
+    barve: ["#f7c6da","#ffffff","#f3a8c4","#ffd9e6","#e8c7f0"],
+    velikost: [3.5,7],
+    hitrost: [0.4,1.0],
+    nihaj: [0.7,1.7],
+    vrtenje: [0.02,0.07],
+    zivljenje: [100,160],
+    oblika: "cvet"
+  },
+  poletje: {
+    ime: "poletje",
+    barve: ["#ffe27a","#ffd24a","#fff3b8","#ffc93c"],
+    velikost: [1.8,3.6],
+    hitrost: [-0.7,-0.2],   /* negativno = dviga se */
+    nihaj: [0.5,1.3],
+    vrtenje: [0,0],
+    zivljenje: [70,120],
+    oblika: "iskra"
+  }
+};
+
+function trenutnaSezona(d){
+  const m = (d || new Date()).getMonth();          /* 0 = januar */
+  if(m >= 2 && m <= 4)  return SEASONS.pomlad;     /* marec-maj */
+  if(m >= 5 && m <= 7)  return SEASONS.poletje;    /* junij-avgust */
+  if(m >= 8 && m <= 10) return SEASONS.jesen;      /* september-november */
+  return SEASONS.zima;                             /* december-februar */
+}
+
+let seasonCanvas = null;
+let seasonCtx = null;
+let seasonParticles = [];
+let seasonRaf = null;
+let seasonOn = true;
+let seasonLastSpawn = 0;
+let seasonLastX = null;
+let seasonLastY = null;
+
+const nakljucno = (a,b) => a + Math.random()*(b-a);
+
+function seasonResize(){
+  if(!seasonCanvas) return;
+  const dpr = Math.min(window.devicePixelRatio || 1, 2);
+  seasonCanvas.width  = Math.floor(window.innerWidth  * dpr);
+  seasonCanvas.height = Math.floor(window.innerHeight * dpr);
+  seasonCanvas.style.width  = window.innerWidth + "px";
+  seasonCanvas.style.height = window.innerHeight + "px";
+  if(seasonCtx) seasonCtx.setTransform(dpr,0,0,dpr,0,0);
+}
+
+function ustvariDelec(x,y){
+  const s = trenutnaSezona();
+
+  seasonParticles.push({
+    x, y,
+    r: nakljucno(s.velikost[0], s.velikost[1]),
+    vx: nakljucno(-0.5,0.5),
+    vy: nakljucno(s.hitrost[0], s.hitrost[1]),
+    faza: Math.random()*Math.PI*2,
+    nihaj: nakljucno(s.nihaj[0], s.nihaj[1]),
+    kot: Math.random()*Math.PI*2,
+    vkot: nakljucno(s.vrtenje[0], s.vrtenje[1]) * (Math.random()<0.5?-1:1),
+    doba: 0,
+    maxDoba: nakljucno(s.zivljenje[0], s.zivljenje[1]),
+    barva: s.barve[Math.floor(Math.random()*s.barve.length)],
+    oblika: s.oblika
+  });
+
+  if(seasonParticles.length > SEASON_MAX){
+    seasonParticles.splice(0, seasonParticles.length - SEASON_MAX);
+  }
+}
+
+function narisiList(ctx,p){
+  ctx.beginPath();
+  ctx.moveTo(0,-p.r);
+  ctx.quadraticCurveTo( p.r, -p.r*0.2,  0, p.r);
+  ctx.quadraticCurveTo(-p.r, -p.r*0.2,  0,-p.r);
+  ctx.fill();
+
+  /* srednja zila */
+  ctx.beginPath();
+  ctx.strokeStyle = "rgba(0,0,0,.22)";
+  ctx.lineWidth = Math.max(0.6, p.r*0.10);
+  ctx.moveTo(0,-p.r*0.85);
+  ctx.lineTo(0, p.r*0.85);
+  ctx.stroke();
+}
+
+function narisiSnezinko(ctx,p){
+  ctx.lineWidth = Math.max(0.7, p.r*0.28);
+  ctx.strokeStyle = ctx.fillStyle;
+  ctx.lineCap = "round";
+  for(let i=0;i<3;i++){
+    const a = (Math.PI/3)*i;
+    ctx.beginPath();
+    ctx.moveTo(-Math.cos(a)*p.r, -Math.sin(a)*p.r);
+    ctx.lineTo( Math.cos(a)*p.r,  Math.sin(a)*p.r);
+    ctx.stroke();
+  }
+}
+
+function narisiCvet(ctx,p){
+  for(let i=0;i<5;i++){
+    ctx.beginPath();
+    ctx.ellipse(0,-p.r*0.55, p.r*0.34, p.r*0.62, (Math.PI*2/5)*i, 0, Math.PI*2);
+    ctx.fill();
+  }
+}
+
+function narisiIskro(ctx,p){
+  ctx.beginPath();
+  ctx.arc(0,0,p.r,0,Math.PI*2);
+  ctx.fill();
+}
+
+function seasonFrame(){
+  if(!seasonCtx){ seasonRaf = null; return; }
+
+  seasonCtx.clearRect(0,0,window.innerWidth,window.innerHeight);
+
+  for(let i=seasonParticles.length-1;i>=0;i--){
+    const p = seasonParticles[i];
+    p.doba++;
+
+    if(p.doba > p.maxDoba){
+      seasonParticles.splice(i,1);
+      continue;
+    }
+
+    p.faza += 0.05;
+    p.x += p.vx + Math.sin(p.faza) * p.nihaj * 0.6;
+    p.y += p.vy;
+    p.kot += p.vkot;
+
+    /* Zbledi proti koncu zivljenja. */
+    const delez = p.doba / p.maxDoba;
+    const alfa = delez < 0.75 ? 1 : 1 - (delez-0.75)/0.25;
+
+    seasonCtx.save();
+    seasonCtx.globalAlpha = Math.max(0, alfa) * 0.92;
+    seasonCtx.translate(p.x, p.y);
+    seasonCtx.rotate(p.kot);
+    seasonCtx.fillStyle = p.barva;
+
+    if(p.oblika === "list")           narisiList(seasonCtx,p);
+    else if(p.oblika === "snezinka")  narisiSnezinko(seasonCtx,p);
+    else if(p.oblika === "cvet")      narisiCvet(seasonCtx,p);
+    else                              narisiIskro(seasonCtx,p);
+
+    seasonCtx.restore();
+  }
+
+  if(seasonParticles.length){
+    seasonRaf = requestAnimationFrame(seasonFrame);
+  }else{
+    seasonRaf = null;
+  }
+}
+
+function seasonZagon(){
+  if(seasonRaf === null) seasonRaf = requestAnimationFrame(seasonFrame);
+}
+
+function setSeasonEnabled(vklopljeno){
+  seasonOn = !!vklopljeno;
+  if(!seasonOn){
+    seasonParticles = [];
+    if(seasonCtx) seasonCtx.clearRect(0,0,window.innerWidth,window.innerHeight);
+    if(seasonRaf){ cancelAnimationFrame(seasonRaf); seasonRaf = null; }
+  }
+}
+
+function initSeason(){
+  seasonCanvas = qs("#seasonCanvas");
+  if(!seasonCanvas) return;
+
+  seasonCtx = seasonCanvas.getContext("2d");
+  seasonResize();
+  window.addEventListener("resize", seasonResize);
+
+  /* Kdor ima izklopljene animacije, jih ne dobi. */
+  const brezAnimacij = window.matchMedia &&
+    window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(brezAnimacij) seasonOn = false;
+
+  document.addEventListener("mousemove", e=>{
+    if(!seasonOn || document.hidden) return;
+
+    const zdaj = performance.now();
+    if(zdaj - seasonLastSpawn < SEASON_SPAWN_MS) return;
+
+    if(seasonLastX !== null){
+      const dx = e.clientX - seasonLastX;
+      const dy = e.clientY - seasonLastY;
+      if(Math.hypot(dx,dy) < SEASON_MIN_MOVE) return;
+    }
+
+    seasonLastX = e.clientX;
+    seasonLastY = e.clientY;
+    seasonLastSpawn = zdaj;
+
+    ustvariDelec(e.clientX, e.clientY);
+    seasonZagon();
+  }, { passive:true });
+
+  /* Ko zavihek ni viden, ne racunamo po nepotrebnem. */
+  document.addEventListener("visibilitychange", ()=>{
+    if(document.hidden){
+      seasonParticles = [];
+      if(seasonRaf){ cancelAnimationFrame(seasonRaf); seasonRaf = null; }
+    }
+  });
+}
+
 /* ---------- povezovanje ---------- */
 
 function initClockAndOtd(){
   tickClock();
   setInterval(tickClock,1000);
+
+  initSeason();
+  setSeasonEnabled(settings.season !== false);
 
   qs("#clockDate")?.addEventListener("click",openCalendar);
   qs("#clockTime")?.addEventListener("click",openWorldClock);

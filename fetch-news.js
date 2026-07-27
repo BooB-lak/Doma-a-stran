@@ -339,6 +339,41 @@ function imageFromArticleHtml(html, base) {
       if (u && !isRejectedImage(u)) return u;
     }
   }
+
+  /*
+    Zadnja moznost: prva prava slika v clanku.
+    Nekateri mediji og:image sploh ne postavijo. Izpuscamo ikone,
+    logotipe, avatarje in sledilne piksle - te niso slika clanka.
+  */
+  const smeti = /(sprite|icon|logo|avatar|badge|placeholder|pixel|1x1|blank|spacer|share|social)/i;
+
+  const imgRx = /<img\b[^>]*>/gi;
+  let tag;
+  while ((tag = imgRx.exec(html)) !== null) {
+    const kos = tag[0];
+
+    /* Nekateri nalozijo sliko sele naknadno, prek data- atributa. */
+    const src = kos.match(
+      /\b(?:data-srcset|data-src|data-original|srcset|src)\s*=\s*["']([^"']+)["']/i
+    );
+    if (!src) continue;
+
+    /* Pri srcset vzamemo prvi naslov. */
+    const prvi = src[1].split(",")[0].trim().split(/\s+/)[0];
+    const u = absoluteUrl(decodeEntities(prvi), base);
+
+    if (!u || isRejectedImage(u) || smeti.test(u)) continue;
+    if (!looksLikeImage(u)) continue;
+
+    /* Ce so navedene mere, zavrnemo ocitno majhne slicice. */
+    const w = kos.match(/\bwidth\s*=\s*["']?(\d+)/i);
+    const h = kos.match(/\bheight\s*=\s*["']?(\d+)/i);
+    if (w && Number(w[1]) > 0 && Number(w[1]) < 200) continue;
+    if (h && Number(h[1]) > 0 && Number(h[1]) < 120) continue;
+
+    return u;
+  }
+
   return "";
 }
 
