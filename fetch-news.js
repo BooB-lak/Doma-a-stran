@@ -100,9 +100,102 @@ const SOURCES = [
     name: "Al Jazeera",
     homepage: "https://www.aljazeera.com/",
     translate: true,
+    lang: "EN",
     feeds: [
       "https://www.aljazeera.com/xml/rss/all.xml",
       "https://news.google.com/rss/search?q=site%3Aaljazeera.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    ]
+  },
+
+  /*
+    Dodatni evropski viri. Za vsakega je navedenih vec naslovov:
+    ce prvi odpove ali je zastarel, gre samodejno na naslednjega.
+    Polje "lang" pove prevajalniku izvorni jezik.
+  */
+  {
+    id: "guardian",
+    name: "The Guardian",
+    homepage: "https://www.theguardian.com/",
+    translate: true,
+    lang: "EN",
+    feeds: [
+      "https://www.theguardian.com/world/rss",
+      "https://www.theguardian.com/international/rss"
+    ]
+  },
+  {
+    id: "spiegel",
+    name: "Der Spiegel",
+    homepage: "https://www.spiegel.de/",
+    translate: true,
+    lang: "DE",
+    feeds: [
+      "https://www.spiegel.de/schlagzeilen/tops/index.rss",
+      "https://www.spiegel.de/schlagzeilen/index.rss",
+      "https://www.spiegel.de/international/index.rss"
+    ]
+  },
+  {
+    id: "bild",
+    name: "Bild",
+    homepage: "https://www.bild.de/",
+    translate: true,
+    lang: "DE",
+    feeds: [
+      "https://www.bild.de/feed/alles.xml",
+      "https://www.bild.de/rssfeeds/vw-newsticker/vw-newsticker-17052052,view=rss2.bild.xml",
+      "https://openrss.org/www.bild.de",
+      "https://news.google.com/rss/search?q=site%3Abild.de%20when%3A1d&hl=de&gl=DE&ceid=DE%3Ade"
+    ]
+  },
+  {
+    id: "krone",
+    name: "Kronen Zeitung",
+    homepage: "https://www.krone.at/",
+    translate: true,
+    lang: "DE",
+    feeds: [
+      "https://www.krone.at/nachrichten/rss",
+      "https://www.krone.at/rss",
+      "https://openrss.org/www.krone.at",
+      "https://news.google.com/rss/search?q=site%3Akrone.at%20when%3A1d&hl=de&gl=AT&ceid=AT%3Ade"
+    ]
+  },
+  {
+    id: "rainews",
+    name: "RAI News",
+    homepage: "https://www.rainews.it/",
+    translate: true,
+    lang: "IT",
+    feeds: [
+      "https://www.rainews.it/rss/tutti",
+      "https://www.rainews.it/rss/mondo",
+      "https://openrss.org/www.rainews.it",
+      "https://news.google.com/rss/search?q=site%3Arainews.it%20when%3A1d&hl=it&gl=IT&ceid=IT%3Ait"
+    ]
+  },
+  {
+    id: "lemonde",
+    name: "Le Monde",
+    homepage: "https://www.lemonde.fr/",
+    translate: true,
+    lang: "FR",
+    feeds: [
+      "https://www.lemonde.fr/rss/une.xml",
+      "https://www.lemonde.fr/international/rss_full.xml",
+      "https://news.google.com/rss/search?q=site%3Alemonde.fr%20when%3A1d&hl=fr&gl=FR&ceid=FR%3Afr"
+    ]
+  },
+  {
+    id: "elpais",
+    name: "El País",
+    homepage: "https://elpais.com/",
+    translate: true,
+    lang: "ES",
+    feeds: [
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
+      "https://news.google.com/rss/search?q=site%3Aelpais.com%20when%3A1d&hl=es&gl=ES&ceid=ES%3Aes"
     ]
   }
 ];
