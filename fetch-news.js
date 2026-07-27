@@ -630,7 +630,8 @@ async function loadOnThisDay(previous) {
       return yearNum(b) - yearNum(a);
     });
 
-    const items = ordered.slice(0, 20);
+    /* Vzamemo VSE zapise z dnevne strani, ne le prvih nekaj. */
+    const items = ordered;
     const slCount = items.filter(x => SL_KLJUCNE.test(x.text)).length;
 
     console.log(
@@ -647,6 +648,200 @@ async function loadOnThisDay(previous) {
     console.log(`  ✗ Na današnji dan: ${err.message}`);
     return previous && previous.items ? previous : { date: dayKey, items: [] };
   }
+}
+
+/* ---------------- prazniki in svetovni dnevi ---------------- */
+
+/*
+  Slovenski prazniki so dolocheni z zakonom in se ne spreminjajo,
+  zato so tukaj zapisani neposredno - to je zanesljiveje od strganja
+  spletne strani. Preverjeno po gov.si in Wikipediji:
+  21 praznicnih dni, 15 dela prostih, 6 delovnih.
+
+  vrsta:
+    "prost"  - drzavni praznik in dela prost dan
+    "delovni"- drzavni praznik, ki NI dela prost
+    "verski" - verski praznik z dela prostim dnem (ni drzavni praznik)
+*/
+const SI_PRAZNIKI_FIKSNI = [
+  { md: "01-01", ime: "novo leto", vrsta: "prost" },
+  { md: "01-02", ime: "novo leto", vrsta: "prost" },
+  { md: "02-08", ime: "Prešernov dan, slovenski kulturni praznik", vrsta: "prost" },
+  { md: "04-27", ime: "dan upora proti okupatorju", vrsta: "prost" },
+  { md: "05-01", ime: "praznik dela", vrsta: "prost" },
+  { md: "05-02", ime: "praznik dela", vrsta: "prost" },
+  { md: "06-08", ime: "dan Primoža Trubarja", vrsta: "delovni" },
+  { md: "06-25", ime: "dan državnosti", vrsta: "prost" },
+  { md: "08-15", ime: "Marijino vnebovzetje", vrsta: "verski" },
+  { md: "08-17", ime: "dan združitve prekmurskih Slovencev z matičnim narodom", vrsta: "delovni" },
+  { md: "09-15", ime: "dan vrnitve Primorske k matični domovini", vrsta: "delovni" },
+  { md: "09-23", ime: "dan slovenskega športa", vrsta: "delovni" },
+  { md: "10-25", ime: "dan suverenosti", vrsta: "delovni" },
+  { md: "10-31", ime: "dan reformacije", vrsta: "prost" },
+  { md: "11-01", ime: "dan spomina na mrtve", vrsta: "prost" },
+  { md: "11-23", ime: "dan Rudolfa Maistra", vrsta: "delovni" },
+  { md: "12-25", ime: "božič", vrsta: "verski" },
+  { md: "12-26", ime: "dan samostojnosti in enotnosti", vrsta: "prost" }
+];
+
+/* Velika noc po gregorijanskem izracunu (Meeus/Butcher). */
+function velikaNoc(leto) {
+  const a = leto % 19;
+  const b = Math.floor(leto / 100);
+  const c = leto % 100;
+  const d = Math.floor(b / 4);
+  const e = b % 4;
+  const f = Math.floor((b + 8) / 25);
+  const g = Math.floor((b - f + 1) / 3);
+  const h = (19 * a + b - d - g + 15) % 30;
+  const i = Math.floor(c / 4);
+  const k = c % 4;
+  const l = (32 + 2 * e + 2 * i - h - k) % 7;
+  const m = Math.floor((a + 11 * h + 22 * l) / 451);
+  const mesec = Math.floor((h + l - 7 * m + 114) / 31);
+  const dan = ((h + l - 7 * m + 114) % 31) + 1;
+  return new Date(leto, mesec - 1, dan);
+}
+
+function mdKljuc(d) {
+  return String(d.getMonth() + 1).padStart(2, "0") + "-" +
+         String(d.getDate()).padStart(2, "0");
+}
+
+/* Premicni prazniki za doloceno leto. */
+function premicniPrazniki(leto) {
+  const vn = velikaNoc(leto);
+
+  const ponedeljek = new Date(vn);
+  ponedeljek.setDate(vn.getDate() + 1);
+
+  /* Binkosti so 49 dni po veliki noci. */
+  const binkosti = new Date(vn);
+  binkosti.setDate(vn.getDate() + 49);
+
+  return [
+    { md: mdKljuc(vn), ime: "velikonočna nedelja", vrsta: "verski" },
+    { md: mdKljuc(ponedeljek), ime: "velikonočni ponedeljek", vrsta: "verski" },
+    { md: mdKljuc(binkosti), ime: "binkoštna nedelja", vrsta: "verski" }
+  ];
+}
+
+function prazinikiZaLeto(leto) {
+  return [...SI_PRAZNIKI_FIKSNI, ...premicniPrazniki(leto)];
+}
+
+/*
+  Svetovni dnevi s slovenske Wikipedije.
+  Strani ne poznam vnaprej, zato je razclenjevalnik namenoma
+  prizanesljiv: iscemo datum ("15. september") in ob njem ime dneva.
+*/
+const SL_MESEC_STEVILKA = {
+  januar: 1, februar: 2, marec: 3, april: 4, maj: 5, junij: 6,
+  julij: 7, avgust: 8, september: 9, oktober: 10, november: 11, december: 12
+};
+
+async function loadSvetovniDnevi() {
+  const url =
+    "https://sl.wikipedia.org/w/api.php?action=parse&format=json" +
+    "&formatversion=2&redirects=1&prop=wikitext&page=" +
+    encodeURIComponent("Seznam praznikov z oznako Svetovni dan");
+
+  const zemljevid = {};
+
+  try {
+    const raw = await get(url, 20000);
+    const data = JSON.parse(raw);
+    const wikitext = (data && data.parse && data.parse.wikitext) || "";
+    if (!wikitext) throw new Error("stran brez vsebine");
+
+    for (const vrstica of wikitext.split("\n")) {
+      if (!/^[*|]/.test(vrstica.trim())) continue;
+
+      const cista = cleanWikitext(vrstica.replace(/^[*|!]+\s*/, ""));
+      if (!cista) continue;
+
+      const m = cista.match(
+        /(\d{1,2})\.\s*(januar|februar|marec|april|maj|junij|julij|avgust|september|oktober|november|december)/i
+      );
+      if (!m) continue;
+
+      const dan = parseInt(m[1], 10);
+      const mesec = SL_MESEC_STEVILKA[m[2].toLowerCase()];
+      if (!dan || !mesec) continue;
+
+      /* Ime je tisto, kar ostane za datumom. */
+      let ime = cista.slice(m.index + m[0].length)
+        .replace(/^[\s–—:,-]+/, "")
+        .trim();
+
+      if (ime.length < 5) continue;
+
+      /* Povezava na clanek, ce obstaja - za pojasnilo ob kliku. */
+      const povezava = vrstica.match(/\[\[([^\]|]+)(?:\|[^\]]*)?\]\]\s*$/);
+      const naslov = povezava ? povezava[1].trim() : ime;
+
+      const kljuc = String(mesec).padStart(2, "0") + "-" +
+                    String(dan).padStart(2, "0");
+
+      if (!zemljevid[kljuc]) zemljevid[kljuc] = [];
+      if (zemljevid[kljuc].length < 6) {
+        zemljevid[kljuc].push({
+          ime,
+          url: "https://sl.wikipedia.org/wiki/" +
+               encodeURIComponent(naslov.replace(/ /g, "_"))
+        });
+      }
+    }
+
+    const skupaj = Object.values(zemljevid).reduce((a, b) => a + b.length, 0);
+    console.log(`  ✓ Svetovni dnevi: ${skupaj} zapisov za ${Object.keys(zemljevid).length} datumov`);
+  } catch (err) {
+    console.log(`  ✗ Svetovni dnevi: ${err.message}`);
+  }
+
+  return zemljevid;
+}
+
+const SL_DNEVI_IME = ["nedelja", "ponedeljek", "torek", "sreda",
+                      "četrtek", "petek", "sobota"];
+
+async function loadTriDni(previous) {
+  const zdaj = new Date();
+  const dayKey = mdKljuc(zdaj);
+
+  if (previous && previous.date === dayKey && Array.isArray(previous.days)) {
+    console.log(`  · Trije dnevi: iz pomnilnika`);
+    return previous;
+  }
+
+  const svetovni = await loadSvetovniDnevi();
+  const prazniki = prazinikiZaLeto(zdaj.getFullYear());
+
+  const days = [];
+
+  for (let odmik = 0; odmik < 3; odmik++) {
+    const d = new Date(zdaj);
+    d.setDate(zdaj.getDate() + odmik);
+
+    const kljuc = mdKljuc(d);
+    const praznik = prazniki.find(p => p.md === kljuc) || null;
+
+    days.push({
+      dan: d.getDate(),
+      mesec: d.getMonth() + 1,
+      mesecIme: SL_MESECI[d.getMonth()],
+      danIme: SL_DNEVI_IME[d.getDay()],
+      praznik: praznik
+        ? { ime: praznik.ime, vrsta: praznik.vrsta }
+        : null,
+      svetovni: svetovni[kljuc] || []
+    });
+  }
+
+  const skupaj = days.reduce((a, d) => a + d.svetovni.length + (d.praznik ? 1 : 0), 0);
+  console.log(`  ✓ Trije dnevi: ${skupaj} oznak skupaj`);
+
+  return { date: dayKey, days };
 }
 
 /* ---------------- glavni tok ---------------- */
@@ -829,6 +1024,10 @@ async function main() {
 
   out.onThisDay = await loadOnThisDay(
     previousFile ? previousFile.onThisDay : null
+  );
+
+  out.threeDays = await loadTriDni(
+    previousFile ? previousFile.threeDays : null
   );
 
   const target = path.resolve(process.cwd(), OUT_FILE);

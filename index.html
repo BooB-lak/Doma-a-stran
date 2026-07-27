@@ -1083,11 +1083,54 @@ body.light-theme .hourly .hour-item:not(:last-child)::after{
 }
 .dashboard-layout{
   display:grid;
-  grid-template-columns:minmax(0,1fr) 305px!important;
+  grid-template-columns:330px minmax(0,1fr) 305px!important;
   gap:14px;
   align-items:start;
   width:100%;
 }
+
+/*
+  Levi stolpec - zaenkrat prazen, rezerviran za nove funkcije.
+  Zgrajen je enako kot vremenski desno: lepi se ob vrh in sega
+  enako globoko, da sta stran levo in desno uravnotezeni.
+*/
+.tools-sidebar{
+  position:sticky;
+  top:8px;
+  width:330px!important;
+  min-width:330px!important;
+  max-width:330px!important;
+  min-height:640px;
+  padding:10px 12px 10px 2px;
+  border-right:1px solid rgba(120,130,140,.22);
+  background:var(--bg);
+  overflow:hidden!important;
+}
+
+.tools-placeholder{
+  border:1px dashed var(--line);
+  border-radius:12px;
+  padding:14px 13px;
+  color:var(--muted);
+}
+.tools-ph-title{
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:.03em;
+  text-transform:uppercase;
+  color:var(--muted);
+  margin-bottom:6px;
+}
+.tools-placeholder p{
+  margin:0;
+  font-size:12px;
+  line-height:1.5;
+}
+
+body.light-theme .tools-sidebar{
+  border-right-color:#d7dde3;
+}
+
 .dashboard-main{
   min-width:0;
   padding-right:2px;
@@ -1306,7 +1349,7 @@ body.settings-open .settings-panel{
   z-index:80;
 }
 body.settings-open .dashboard-layout{
-  grid-template-columns:minmax(0,1fr) 305px!important;
+  grid-template-columns:330px minmax(0,1fr) 305px!important;
 }
 body.edit-mode #cards{
   column-gap:3px!important;
@@ -1332,13 +1375,13 @@ body.weather-hidden .weather-sidebar{
   display:none!important;
 }
 body.weather-hidden .dashboard-layout{
-  grid-template-columns:1fr!important;
+  grid-template-columns:330px minmax(0,1fr)!important;
 }
 body.weather-hidden .dashboard-main{
   width:100%!important;
 }
 body.weather-hidden.settings-open .dashboard-layout{
-  grid-template-columns:1fr!important;
+  grid-template-columns:330px minmax(0,1fr)!important;
 }
 body.weather-hidden.settings-open .settings-panel{
   right:18px!important;
@@ -1657,7 +1700,31 @@ body.settings-open .dashboard-layout{
 
 @media(max-width:1180px){
 .dashboard-layout{
-  grid-template-columns:1fr;
+  grid-template-columns:1fr!important;
+}
+
+/*
+  Ta pravila imajo visjo specificnost kot zgornje, zato jih je
+  treba tukaj izrecno prepisati - sicer bi na ozkem zaslonu
+  postavitev ostala vecstolpcna in bi se sredina stisnila.
+*/
+body.settings-open .dashboard-layout,
+body.weather-hidden .dashboard-layout,
+body.weather-hidden.settings-open .dashboard-layout{
+  grid-template-columns:1fr!important;
+}
+
+/* Na ozkem zaslonu levi stolpec ne jemlje prostora. */
+.tools-sidebar{
+  position:relative;
+  top:auto;
+  width:min(100%,340px)!important;
+  min-width:0!important;
+  max-width:340px!important;
+  min-height:0;
+  margin:0 auto 14px;
+  padding:0;
+  border-right:0;
 }
 .weather-sidebar{
   position:relative;
@@ -1760,33 +1827,206 @@ body.settings-open .dashboard-layout{
   max-width:1180px!important;
 }
 
-.top-row{
+/* ---------- TRIDNEVNI KOLEDAR ---------- */
+.day-strip{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:6px;
+  margin-bottom:12px;
+}
+
+.day-box{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  padding:7px 6px 8px;
+  border:1px solid var(--line);
+  border-radius:10px;
+  background:var(--panel);
+  color:var(--text);
+  text-align:left;
+  min-height:96px;
+}
+body.light-theme .day-box{
+  background:#fff;
+  border-color:#d7dde3;
+}
+.day-box:hover{
+  border-color:var(--blue);
+}
+
+.day-box.is-today{
+  border-color:var(--blue);
+  box-shadow:inset 0 0 0 1px var(--blue);
+}
+
+.day-head{
+  display:flex;
+  align-items:baseline;
+  gap:4px;
+}
+.day-num{
+  font-size:17px;
+  font-weight:800;
+  line-height:1;
+  font-variant-numeric:tabular-nums;
+}
+.day-mon{
+  font-size:9.5px;
+  color:var(--muted);
+}
+.day-dow{
+  font-size:9px;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.04em;
+  margin-top:-2px;
+}
+
+/* Barvne oznake. Namenoma blage, da ne kricijo. */
+.day-tag{
+  border-radius:6px;
+  padding:3px 5px;
+  line-height:1.25;
+}
+.day-tag-kind{
+  display:block;
+  font-size:8.5px;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:.03em;
+  opacity:.85;
+}
+.day-tag-name{
+  display:block;
+  font-size:10px;
+  overflow:hidden;
+  display:-webkit-box;
+  -webkit-line-clamp:3;
+  -webkit-box-orient:vertical;
+}
+
+/* zelena - svetovni dan */
+.day-tag.t-world{
+  background:rgba(64,168,96,.20);
+  color:#8ee0aa;
+}
+body.light-theme .day-tag.t-world{
+  background:#dff3e4;
+  color:#1e6b38;
+}
+
+/* modra - drzavni praznik, ki je delovni dan */
+.day-tag.t-state{
+  background:rgba(70,130,215,.20);
+  color:#9cc4f2;
+}
+body.light-theme .day-tag.t-state{
+  background:#dbe8fa;
+  color:#1a4f8f;
+}
+
+/* rdeca - dela prost dan (blago, ne krici) */
+.day-tag.t-free{
+  background:rgba(205,80,80,.20);
+  color:#f0a3a3;
+}
+body.light-theme .day-tag.t-free{
+  background:#fadedd;
+  color:#8f2a2a;
+}
+
+.day-more{
+  font-size:9px;
+  color:var(--muted);
+}
+
+/* --- vsebina pojavnega okna za dan --- */
+.dayinfo-h{
+  font-size:13.5px;
+  font-weight:700;
+  margin:0 0 10px;
+  color:var(--text);
+}
+.dayinfo-item{
+  padding:9px 10px;
+  border-radius:9px;
+  margin-bottom:8px;
+}
+.dayinfo-kind{
+  display:block;
+  font-size:10px;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:.04em;
+  margin-bottom:3px;
+  opacity:.9;
+}
+.dayinfo-name{
+  font-size:14px;
+  line-height:1.4;
+}
+.dayinfo-item a{
+  display:inline-block;
+  margin-top:6px;
+  font-size:11.5px;
+  color:var(--blue);
+}
+.dayinfo-empty{
+  color:var(--muted);
+  font-size:13px;
+}
+.dayinfo-note{
+  margin-top:10px;
+  font-size:11px;
+  color:var(--muted);
+  line-height:1.5;
+}
+
+/* ---------- LEVI STOLPEC: ura + Na današnji dan ---------- */
+.tools-sidebar .clock-widget{
+  align-items:flex-start;
+  margin-bottom:12px;
+}
+
+.tools-sidebar .otd-box{
+  width:100%;
+  max-width:100%;
+}
+
+/* Okence sme rasti po visini, ker ni vec omejeno z zgornjo vrsto. */
+.tools-sidebar .otd-item{
+  min-height:132px;
+}
+
+/* ---------- VRSTICA Z ZAVIHKI IN NASTAVITVAMI ---------- */
+/*
+  Zavihki ostanejo natanko na sredini pod Google napisom,
+  gumb Nastavitve pa gre skrajno desno, da je jasno loceno
+  in ga ni mogoce zamenjati za cetrti zavihek.
+*/
+.search-tabs-row{
   display:grid;
   grid-template-columns:1fr auto 1fr;
   align-items:center;
-  gap:14px;
-  margin-bottom:10px;
+  margin:0 0 12px;
 }
-.top-col-left{justify-self:start}
-.top-col-right{
+.search-tabs-row .search-tabs{
+  grid-column:2;
+  margin:0!important;
+}
+.search-tabs-row .settings-inline{
+  grid-column:3;
   justify-self:end;
-  display:flex;
-  flex-direction:column;
-  align-items:flex-end;
-  gap:7px;
+  position:static;
+  white-space:nowrap;
 }
 
-/* Iskalnik in gumb Nastavitve v isti vrstici. */
 .search-row{
   display:flex;
   align-items:center;
   justify-content:center;
   gap:10px;
-}
-.search-row .settings-inline{
-  position:static;
-  flex:none;
-  white-space:nowrap;
 }
 .search-row .search-shell{
   flex:1 1 auto;
@@ -2239,42 +2479,44 @@ body.light-theme .search-suggest-item.active{
 
   <div class="dashboard-layout">
 
+    <aside class="tools-sidebar" id="toolsSidebar">
+      <div class="clock-widget">
+        <button type="button" id="clockTime" class="clock-time"
+                title="Klikni za čase po svetu">--:--:--</button>
+        <button type="button" id="clockDate" class="clock-date"
+                title="Klikni za koledar">&nbsp;</button>
+      </div>
+
+      <div id="dayStrip" class="day-strip hidden"></div>
+
+      <div id="otdBox" class="otd-box hidden">
+        <div class="otd-head">
+          <span class="otd-title">Na današnji dan</span>
+          <span id="otdCounter" class="otd-counter"></span>
+        </div>
+        <button type="button" id="otdItem" class="otd-item"
+                title="Klikni za celoten seznam"></button>
+      </div>
+    </aside>
+
     <main class="dashboard-main">
       <section class="search-zone top-search-zone">
-        <div class="top-row">
-          <div class="top-col top-col-left">
-            <div class="clock-widget">
-              <button type="button" id="clockTime" class="clock-time"
-                      title="Klikni za čase po svetu">--:--:--</button>
-              <button type="button" id="clockDate" class="clock-date"
-                      title="Klikni za koledar">&nbsp;</button>
-            </div>
+        <a class="google-logo"
+           href="https://www.google.com/webhp?hl=sl"
+           target="_blank"
+           rel="noopener noreferrer"
+           title="Odpri Google v slovenščini">
+          <i>G</i><i>o</i><i>o</i><i>g</i><i>l</i><i>e</i>
+        </a>
+
+        <div class="search-tabs-row">
+          <div class="search-tabs">
+            <button class="active" data-mode="web">splet</button>
+            <button data-mode="images">slike</button>
+            <button data-mode="videos">videi</button>
           </div>
 
-          <a class="google-logo"
-             href="https://www.google.com/webhp?hl=sl"
-             target="_blank"
-             rel="noopener noreferrer"
-             title="Odpri Google v slovenščini">
-            <i>G</i><i>o</i><i>o</i><i>g</i><i>l</i><i>e</i>
-          </a>
-
-          <div class="top-col top-col-right">
-            <div id="otdBox" class="otd-box hidden">
-              <div class="otd-head">
-                <span class="otd-title">Na današnji dan</span>
-                <span id="otdCounter" class="otd-counter"></span>
-              </div>
-              <button type="button" id="otdItem" class="otd-item"
-                      title="Klikni za celoten seznam"></button>
-            </div>
-          </div>
-        </div>
-
-        <div class="search-tabs">
-          <button class="active" data-mode="web">splet</button>
-          <button data-mode="images">slike</button>
-          <button data-mode="videos">videi</button>
+          <button id="settingsBtn" class="settings-inline">⚙ Nastavitve</button>
         </div>
 
         <div class="search-row">
@@ -2291,8 +2533,6 @@ body.light-theme .search-suggest-item.active{
             </form>
             <div id="searchSuggest" class="search-suggest hidden"></div>
           </div>
-
-          <button id="settingsBtn" class="settings-inline">⚙ Nastavitve</button>
         </div>
 
         <!-- Iskanje po naloženi sliki: pošlje se neposredno Googlu. -->
@@ -4207,6 +4447,7 @@ async function loadPrebuiltNews(){
 
     /* Dogodki "Na današnji dan" pridejo iz iste datoteke. */
     if(data.onThisDay) applyOnThisDay(data.onThisDay);
+    if(data.threeDays) applyThreeDays(data.threeDays);
 
     const builtAt=data.generatedAt ? new Date(data.generatedAt) : null;
     const label=builtAt && !isNaN(builtAt)
@@ -4560,6 +4801,128 @@ function applyOnThisDay(data){
   box.classList.remove("hidden");
   renderOtdCurrent();
   startOtdRotation();
+}
+
+/* ---------- tridnevni koledar s prazniki ---------- */
+
+let dayStripData = [];
+
+/*
+  "Svetovni dan miotonične distrofije" -> oznaka "Svetovni dan",
+  ime pa samo "miotonične distrofije". Uporabnik noce podvajanja.
+*/
+function razdeliImeDneva(ime){
+  const m = String(ime||"").match(
+    /^\s*((?:svetovni|mednarodni|evropski|nacionalni|slovenski)\s+dan(?:ovi)?)\s+(.+)$/i
+  );
+  if(m){
+    const oznaka = m[1].charAt(0).toUpperCase() + m[1].slice(1).toLowerCase();
+    return { oznaka, ime: m[2].trim() };
+  }
+  return { oznaka:"Svetovni dan", ime:String(ime||"").trim() };
+}
+
+function oznakaPraznika(vrsta){
+  if(vrsta === "prost")   return { kind:"Dela prost dan", css:"t-free" };
+  if(vrsta === "verski")  return { kind:"Dela prost dan", css:"t-free" };
+  return { kind:"Državni praznik", css:"t-state" };
+}
+
+function dayBoxHtml(d, index){
+  const razred = ["day-box"];
+  if(index === 0) razred.push("is-today");
+
+  let oznake = "";
+
+  if(d.praznik){
+    const o = oznakaPraznika(d.praznik.vrsta);
+    oznake += `
+      <span class="day-tag ${o.css}">
+        <span class="day-tag-kind">${esc(o.kind)}</span>
+        <span class="day-tag-name">${esc(d.praznik.ime)}</span>
+      </span>`;
+  }
+
+  const svetovni = Array.isArray(d.svetovni) ? d.svetovni : [];
+  if(svetovni.length){
+    const prvi = razdeliImeDneva(svetovni[0].ime);
+    oznake += `
+      <span class="day-tag t-world">
+        <span class="day-tag-kind">${esc(prvi.oznaka)}</span>
+        <span class="day-tag-name">${esc(prvi.ime)}</span>
+      </span>`;
+
+    if(svetovni.length > 1){
+      oznake += `<span class="day-more">+${svetovni.length-1} še</span>`;
+    }
+  }
+
+  return `
+    <button type="button" class="${razred.join(" ")}" data-day="${index}">
+      <span class="day-head">
+        <span class="day-num">${d.dan}.</span>
+        <span class="day-mon">${esc(d.mesecIme || "")}</span>
+      </span>
+      <span class="day-dow">${esc(d.danIme || "")}</span>
+      ${oznake}
+    </button>
+  `;
+}
+
+function odpriDanInfo(index){
+  const d = dayStripData[index];
+  if(!d) return;
+
+  let telo = `<div class="dayinfo-h">${d.dan}. ${esc(d.mesecIme||"")} · ${esc(d.danIme||"")}</div>`;
+
+  if(d.praznik){
+    const o = oznakaPraznika(d.praznik.vrsta);
+    telo += `
+      <div class="dayinfo-item ${o.css}">
+        <span class="dayinfo-kind">${esc(o.kind)}</span>
+        <span class="dayinfo-name">${esc(d.praznik.ime)}</span>
+      </div>`;
+  }
+
+  const svetovni = Array.isArray(d.svetovni) ? d.svetovni : [];
+  for(const s of svetovni){
+    const r = razdeliImeDneva(s.ime);
+    const povezava = quickNewsSafeUrl(s.url);
+    telo += `
+      <div class="dayinfo-item t-world">
+        <span class="dayinfo-kind">${esc(r.oznaka)}</span>
+        <span class="dayinfo-name">${esc(r.ime)}</span>
+        ${povezava ? `<a href="${esc(povezava)}" target="_blank" rel="noopener noreferrer">Zakaj ta dan? Odpri razlago &rsaquo;</a>` : ""}
+      </div>`;
+  }
+
+  if(!d.praznik && !svetovni.length){
+    telo += `<div class="dayinfo-empty">Za ta dan ni zabeleženega praznika ali svetovnega dneva.</div>`;
+  }
+
+  telo += `<div class="dayinfo-note">Prazniki po Zakonu o praznikih in dela prostih dnevih.
+           Svetovni dnevi s slovenske Wikipedije.</div>`;
+
+  openPopup("Koledar", telo);
+}
+
+function applyThreeDays(data){
+  const strip = qs("#dayStrip");
+  if(!strip) return;
+
+  const days = data && Array.isArray(data.days) ? data.days : [];
+  if(!days.length){
+    strip.classList.add("hidden");
+    return;
+  }
+
+  dayStripData = days;
+  strip.innerHTML = days.map((d,i)=>dayBoxHtml(d,i)).join("");
+  strip.classList.remove("hidden");
+
+  strip.querySelectorAll(".day-box").forEach(btn=>{
+    btn.addEventListener("click",()=>odpriDanInfo(Number(btn.dataset.day)));
+  });
 }
 
 /* ---------- povezovanje ---------- */
