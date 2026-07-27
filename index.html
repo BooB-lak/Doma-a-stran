@@ -2139,6 +2139,7 @@ body.light-theme .otd-item:hover{background:#f2f5f8}
   font-weight:700;
   font-size:11.5px;
   font-variant-numeric:tabular-nums;
+  white-space:nowrap;
 }
 body.light-theme .otd-year{background:#e8edf2}
 
@@ -4732,11 +4733,23 @@ let otdIndex = 0;
 let otdTimer = null;
 let otdPageUrl = "";
 
+/*
+  Vrsta zapisa je zdaj vpisana kar v oznako z letnico:
+  "Dogodek 1950", "Rojstvo 1667", "Smrt 1947".
+  Namenoma brez glagola ("je umrl"), ker slovenscina zahteva
+  ujemanje po spolu, tega pa iz Wikipedije ne moremo zanesljivo
+  razbrati - "Smrt 1947" je pravilno za oba spola.
+*/
 const OTD_KIND = {
-  dogodek:"dogodek",
-  rojstvo:"rojstvo",
-  smrt:"smrt"
+  dogodek:"Dogodek",
+  rojstvo:"Rojstvo",
+  smrt:"Smrt"
 };
+
+function otdOznaka(item){
+  const vrsta = OTD_KIND[item.type] || "";
+  return (vrsta ? vrsta+" " : "") + item.year;
+}
 
 function renderOtdCurrent(){
   const box = qs("#otdBox");
@@ -4749,8 +4762,7 @@ function renderOtdCurrent(){
   if(counter) counter.textContent = (otdIndex+1)+"/"+otdItems.length;
   if(body){
     body.innerHTML =
-      `<span class="otd-year">${esc(item.year)}</span>${esc(item.text)}`
-      + `<span class="otd-kind">${esc(OTD_KIND[item.type]||"")}</span>`;
+      `<span class="otd-year">${esc(otdOznaka(item))}</span>${esc(item.text)}`;
   }
 }
 
@@ -4768,8 +4780,8 @@ function openOtdList(){
 
   const list = otdItems.map((x,i)=>`
     <div class="otd-list-item">
-      <span class="otd-year">${esc(x.year)}</span>${esc(x.text)}
-      <span class="otd-kind">${esc(OTD_KIND[x.type]||"")} · ${i+1}/${otdItems.length}</span>
+      <span class="otd-year">${esc(otdOznaka(x))}</span>${esc(x.text)}
+      <span class="otd-kind">${i+1}/${otdItems.length}</span>
     </div>
   `).join("");
 
@@ -4784,6 +4796,13 @@ function openOtdList(){
   );
 }
 
+/*
+  Podpis trenutnih dogodkov. Stran vsako minuto znova prebere
+  news.json; brez te primerjave bi se vrtenje ob vsakem branju
+  ponastavilo na prvi dogodek in videli bi samo prve stiri.
+*/
+let otdSignature = "";
+
 function applyOnThisDay(data){
   const box = qs("#otdBox");
   if(!box) return;
@@ -4794,6 +4813,14 @@ function applyOnThisDay(data){
     return;
   }
 
+  const signature = items.map(x=>x.year+"|"+x.text).join("\n");
+
+  /* Enaka vsebina kot prej - pustimo vrtenje pri miru. */
+  if(signature === otdSignature && otdItems.length){
+    return;
+  }
+
+  otdSignature = signature;
   otdItems = items;
   otdPageUrl = (data && data.pageUrl) || "";
   otdIndex = 0;
@@ -4906,6 +4933,8 @@ function odpriDanInfo(index){
   openPopup("Koledar", telo);
 }
 
+let dayStripSignature = "";
+
 function applyThreeDays(data){
   const strip = qs("#dayStrip");
   if(!strip) return;
@@ -4915,6 +4944,10 @@ function applyThreeDays(data){
     strip.classList.add("hidden");
     return;
   }
+
+  const signature = JSON.stringify(days);
+  if(signature === dayStripSignature && dayStripData.length) return;
+  dayStripSignature = signature;
 
   dayStripData = days;
   strip.innerHTML = days.map((d,i)=>dayBoxHtml(d,i)).join("");
