@@ -965,8 +965,18 @@ body.light-theme #cards .card-title{
   color:#c62828!important;
 }
 body:not(.light-theme) #cards .card-title{
-  color:#ffd54f!important;
+  color:#ff4d4d!important;
 }
+/*
+  V temni temi naj okenca nimajo svojega ozadja, ampak se zlijejo
+  s stranjo. Rob ostane, da je meja okenca se vedno razvidna;
+  kdor ga ne mara, ga izklopi v nastavitvah.
+*/
+body:not(.light-theme) .card{
+  background:transparent!important;
+  box-shadow:none!important;
+}
+
 body.edit-mode .link-row{
   cursor:grab;
   user-select:none;
@@ -1827,6 +1837,40 @@ body.settings-open .dashboard-layout{
   max-width:1180px!important;
 }
 
+/* ---------- IZBIRNIK LETNEGA ČASA ---------- */
+.season-pick-row{
+  flex-direction:column;
+  align-items:flex-start!important;
+  gap:7px;
+}
+.season-pick-row small{
+  color:var(--muted);
+  font-weight:400;
+}
+.season-pick{
+  display:flex;
+  flex-wrap:wrap;
+  gap:5px;
+}
+.season-pick button{
+  border:1px solid var(--line);
+  background:transparent;
+  color:var(--muted);
+  border-radius:7px;
+  padding:4px 9px;
+  font-size:11.5px;
+}
+.season-pick button:hover{
+  color:var(--text);
+  border-color:var(--blue);
+}
+.season-pick button.active{
+  background:var(--blue);
+  border-color:var(--blue);
+  color:#fff;
+  font-weight:600;
+}
+
 /* ---------- SEZONSKI UČINEK OB MIŠKI ---------- */
 .season-canvas{
   position:fixed;
@@ -2482,6 +2526,17 @@ body.light-theme .search-suggest-item.active{
   <div class="setting-row"><span>Prikaži robove okenc</span><label class="switch"><input id="sBorders" type="checkbox" checked><span class="slider"></span></label></div>
   <div class="setting-row"><span>Prikaži vreme na desni</span><label class="switch"><input id="sWeather" type="checkbox" checked><span class="slider"></span></label></div>
   <div class="setting-row"><span>Sezonski učinek ob miški</span><label class="switch"><input id="sSeason" type="checkbox" checked><span class="slider"></span></label></div>
+
+  <div class="setting-row season-pick-row">
+    <span>Letni čas <small>(za preizkus)</small></span>
+    <div class="season-pick">
+      <button type="button" data-season="auto" class="active">Samodejno</button>
+      <button type="button" data-season="pomlad">Pomlad</button>
+      <button type="button" data-season="poletje">Poletje</button>
+      <button type="button" data-season="jesen">Jesen</button>
+      <button type="button" data-season="zima">Zima</button>
+    </div>
+  </div>
   
 </div>
 
@@ -3765,7 +3820,8 @@ const QUICK_NEWS_SOURCES = [
     name:"Kronen Zeitung",
     homepage:"https://www.krone.at/",
     feeds:[
-      "https://www.krone.at/nachrichten/rss",
+      "https://api.krone.at/v1/rss/rssfeed-nachrichten",
+      "https://api.krone.at/v1/rss/rssfeed-krone",
       "https://openrss.org/www.krone.at",
       "https://news.google.com/rss/search?q=site%3Akrone.at%20when%3A1d&hl=de&gl=AT&ceid=AT%3Ade"
     ]
@@ -5100,12 +5156,35 @@ const SEASONS = {
   }
 };
 
+/*
+  Rocna izbira letnega casa za preizkusanje.
+  Privzeto je "auto" - takrat se doloca po datumu.
+*/
+let seasonOverride = "auto";
+
 function trenutnaSezona(d){
+  if(seasonOverride !== "auto" && SEASONS[seasonOverride]){
+    return SEASONS[seasonOverride];
+  }
   const m = (d || new Date()).getMonth();          /* 0 = januar */
   if(m >= 2 && m <= 4)  return SEASONS.pomlad;     /* marec-maj */
   if(m >= 5 && m <= 7)  return SEASONS.poletje;    /* junij-avgust */
   if(m >= 8 && m <= 10) return SEASONS.jesen;      /* september-november */
   return SEASONS.zima;                             /* december-februar */
+}
+
+function setSeasonOverride(vrednost){
+  seasonOverride = vrednost || "auto";
+  settings.seasonPick = seasonOverride;
+  saveSettings();
+
+  /* Ob preklopu pocistimo stare delce, da je razlika takoj vidna. */
+  seasonParticles = [];
+  if(seasonCtx) seasonCtx.clearRect(0,0,window.innerWidth,window.innerHeight);
+
+  qsa(".season-pick button").forEach(b=>{
+    b.classList.toggle("active", b.dataset.season === seasonOverride);
+  });
 }
 
 let seasonCanvas = null;
@@ -5292,6 +5371,12 @@ function initSeason(){
       if(seasonRaf){ cancelAnimationFrame(seasonRaf); seasonRaf = null; }
     }
   });
+
+  /* Gumbi za rocno izbiro letnega casa. */
+  qsa(".season-pick button").forEach(b=>{
+    b.addEventListener("click",()=>setSeasonOverride(b.dataset.season));
+  });
+  setSeasonOverride(settings.seasonPick || "auto");
 }
 
 /* ---------- povezovanje ---------- */

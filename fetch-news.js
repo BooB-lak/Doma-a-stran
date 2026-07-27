@@ -154,9 +154,16 @@ const SOURCES = [
     homepage: "https://www.krone.at/",
     translate: true,
     lang: "DE",
+    /*
+      Krone RSS ne tece na krone.at, ampak na api.krone.at -
+      zato so prejsnji trije naslovi odpovedali in vir je padel
+      na Google News, kjer povezav ni mogoce razresiti (nova
+      oblika "AU_yqL..." se ne da dekodirati) in zato ni slik.
+    */
     feeds: [
-      "https://www.krone.at/nachrichten/rss",
-      "https://www.krone.at/rss",
+      "https://api.krone.at/v1/rss/rssfeed-nachrichten",
+      "https://api.krone.at/v1/rss/rssfeed-krone",
+      "https://api.krone.at/v1/rss/rssfeed-oesterreich",
       "https://openrss.org/www.krone.at",
       "https://news.google.com/rss/search?q=site%3Akrone.at%20when%3A1d&hl=de&gl=AT&ceid=AT%3Ade"
     ]
