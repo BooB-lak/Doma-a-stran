@@ -46,6 +46,11 @@ jobs:
 
       - name: Zberi novice in slike
         run: node fetch-news.js
+        env:
+          # Neobvezno. Ce je Secret nastavljen, prevajanje tece prek
+          # DeepL (bistveno boljsa slovenscina). Ce ni, se samodejno
+          # uporabi Google - vse deluje enako, le prevod je slabsi.
+          DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
 
       - name: Shrani news.json, če se je spremenil
         run: |
