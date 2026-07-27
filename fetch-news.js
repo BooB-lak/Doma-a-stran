@@ -157,16 +157,17 @@ function looksLikeImage(u) {
   Slike, ki niso slika clanka, ampak logotip posrednika.
   Google News na svojih straneh ponuja og:image s svojim logotipom -
   brez tega filtra bi vsi clanki dobili isto Googlovo ikono.
-  Raje prazen okvir kot napacna slika.
+  Vzorci so namenoma ozki: prejsnja razlicica je z "/default" in
+  "/fallback" lahko zavrnila tudi povsem veljavne slike.
 */
 function isRejectedImage(u) {
   const s = String(u || "").toLowerCase();
   return (
     /news\.google\.com/.test(s) ||
-    /gstatic\.com/.test(s) ||
-    /googleusercontent\.com/.test(s) ||
-    /google\.com\/(?:images|logos)/.test(s) ||
-    /\/(?:logo|logos|placeholder|default|fallback)[-_.]?/.test(s)
+    /\bgstatic\.com/.test(s) ||
+    /lh\d+\.googleusercontent\.com/.test(s) ||
+    /google\.com\/(?:images|logos)\//.test(s) ||
+    /\/(?:google-?news|gnews)[-_.]/.test(s)
   );
 }
 
@@ -273,7 +274,13 @@ function parseFeed(xml, source) {
     link = absoluteUrl(link, source.homepage);
 
     const title = cleanTitle(tagText(block, ["title"]), source.name);
+
+    /*
+      Google News ima obcasno vnos, katerega naslov je le ime vira.
+      Po ciscenju ostane npr. "-" ali "CNN" - tak vnos zavrzemo.
+    */
     if (!title || !link) continue;
+    if (title.replace(/[^\p{L}\p{N}]/gu, "").length < 10) continue;
 
     const key = title.toLowerCase();
     if (seen.has(key)) continue;
@@ -558,8 +565,12 @@ async function loadOnThisDay(previous) {
   Nekateri stari RSS naslovi se odzivajo, a jih medij ne polni vec
   (npr. rss.cnn.com je vracal clanke izpred let). Napake ni, zato
   se brez te preverbe zastarela vsebina tiho prikaze kot novica.
+
+  Prag je namenoma velikodusen: loviti hocemo MRTVE vire (leta stare),
+  ne pa pocasnejsih tematskih virov. Pri 3 dneh je bil prag prestrog
+  in je zavrnil delujoc reutersbest.com.
 */
-const MAX_FEED_AGE_DAYS = 3;
+const MAX_FEED_AGE_DAYS = 14;
 
 function feedAgeDays(items) {
   const dated = items.filter(x => x.date > 0);
@@ -603,22 +614,13 @@ async function loadSource(source) {
 
 async function enrichImages(source, items) {
   /*
-    Ce povezave ni bilo mogoce razresiti in ostaja na news.google.com,
-    slike NE iscemo - dobili bi Googlov logotip za vse clanke.
+    Tudi pri nerazresenih Google News povezavah slike POSKUSIMO
+    poiskati. Ce zahtevek pristane na pravem clanku, dobimo sliko;
+    ce pristane na Googlu, jo zavrne isRejectedImage. Prej sem te
+    povezave preskakoval in Reuters je zato ostal brez slik.
   */
-  const missing = items.filter(
-    x => !x.image && !/news\.google\.com/i.test(x.link)
-  );
-  const skipped = items.filter(
-    x => !x.image && /news\.google\.com/i.test(x.link)
-  ).length;
-
-  if (!missing.length) {
-    if (skipped) {
-      console.log(`    slike: ${skipped} preskočenih (nerazrešen Google News)`);
-    }
-    return;
-  }
+  const missing = items.filter(x => !x.image);
+  if (!missing.length) return;
 
   let i = 0;
   async function worker() {
@@ -634,10 +636,7 @@ async function enrichImages(source, items) {
   await Promise.all([worker(), worker(), worker()]);
 
   const withImg = items.filter(x => x.image).length;
-  console.log(
-    `    slike: ${withImg}/${items.length} razrešenih` +
-      (skipped ? `, ${skipped} preskočenih (nerazrešen Google News)` : "")
-  );
+  console.log(`    slike: ${withImg}/${items.length} razrešenih`);
 }
 
 /*
