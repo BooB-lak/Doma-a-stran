@@ -5110,7 +5110,6 @@ function applyThreeDays(data){
    ============================================================ */
 
 const SEASON_MAX = 140;          /* najvec delcev hkrati */
-const SEASON_SPAWN_MS = 38;      /* najmanjsi razmik med nastanki */
 const SEASON_MIN_MOVE = 6;       /* najmanjsi premik miske v pikslih */
 
 const SEASONS = {
@@ -5122,37 +5121,45 @@ const SEASONS = {
     nihaj: [0.6,1.6],
     vrtenje: [0.02,0.09],
     zivljenje: [90,150],
-    oblika: "list"
+    oblika: "list",
+    variante: 1,
+    razmik: 72          /* redkeje kot ostali - listov je bilo prevec */
   },
   zima: {
     ime: "zima",
     barve: ["#ffffff","#dcecff","#c3dcf7"],
-    velikost: [2.5,5.5],
+    velikost: [3,6.5],
     hitrost: [0.35,0.9],
     nihaj: [0.4,1.1],
     vrtenje: [0.01,0.04],
     zivljenje: [110,190],
-    oblika: "snezinka"
+    oblika: "snezinka",
+    variante: 4,        /* stiri razlicne oblike snezink */
+    razmik: 42
   },
   pomlad: {
     ime: "pomlad",
-    barve: ["#f7c6da","#ffffff","#f3a8c4","#ffd9e6","#e8c7f0"],
-    velikost: [3.5,7],
-    hitrost: [0.4,1.0],
-    nihaj: [0.7,1.7],
-    vrtenje: [0.02,0.07],
-    zivljenje: [100,160],
-    oblika: "cvet"
+    barve: ["#f7c6da","#ffffff","#f3a8c4","#ffd9e6","#e8c7f0","#fbb8cf"],
+    velikost: [6,11],   /* vecji, sicer se cvetni list zlije v piko */
+    hitrost: [0.35,0.9],
+    nihaj: [0.9,2.0],
+    vrtenje: [0.03,0.10],
+    zivljenje: [110,175],
+    oblika: "cvet",
+    variante: 1,
+    razmik: 48
   },
   poletje: {
     ime: "poletje",
     barve: ["#ffe27a","#ffd24a","#fff3b8","#ffc93c"],
-    velikost: [1.8,3.6],
+    velikost: [3.5,6.5],
     hitrost: [-0.7,-0.2],   /* negativno = dviga se */
     nihaj: [0.5,1.3],
-    vrtenje: [0,0],
-    zivljenje: [70,120],
-    oblika: "iskra"
+    vrtenje: [0.004,0.02],
+    zivljenje: [80,130],
+    oblika: "sonce",
+    variante: 1,
+    razmik: 46
   }
 };
 
@@ -5223,7 +5230,8 @@ function ustvariDelec(x,y){
     doba: 0,
     maxDoba: nakljucno(s.zivljenje[0], s.zivljenje[1]),
     barva: s.barve[Math.floor(Math.random()*s.barve.length)],
-    oblika: s.oblika
+    oblika: s.oblika,
+    varianta: Math.floor(Math.random() * (s.variante || 1))
   });
 
   if(seasonParticles.length > SEASON_MAX){
@@ -5248,29 +5256,128 @@ function narisiList(ctx,p){
 }
 
 function narisiSnezinko(ctx,p){
-  ctx.lineWidth = Math.max(0.7, p.r*0.28);
+  const r = p.r;
   ctx.strokeStyle = ctx.fillStyle;
   ctx.lineCap = "round";
-  for(let i=0;i<3;i++){
-    const a = (Math.PI/3)*i;
+  ctx.lineJoin = "round";
+  ctx.lineWidth = Math.max(0.7, r*0.20);
+
+  /* 0 = vejnata (dendritna) - najbolj znacilna oblika */
+  if(p.varianta === 0){
+    for(let i=0;i<6;i++){
+      const a = (Math.PI/3)*i;
+      ctx.beginPath();
+      ctx.moveTo(0,0);
+      ctx.lineTo(Math.cos(a)*r, Math.sin(a)*r);
+      ctx.stroke();
+
+      /* stranske vejice na dveh visinah */
+      for(const t of [0.45,0.72]){
+        const bx = Math.cos(a)*r*t;
+        const by = Math.sin(a)*r*t;
+        const dolzina = r * (t === 0.45 ? 0.36 : 0.24);
+        for(const smer of [-1,1]){
+          const va = a + smer*0.72;
+          ctx.beginPath();
+          ctx.moveTo(bx,by);
+          ctx.lineTo(bx + Math.cos(va)*dolzina, by + Math.sin(va)*dolzina);
+          ctx.stroke();
+        }
+      }
+    }
+    return;
+  }
+
+  /* 1 = preprosta sesterokraka zvezda */
+  if(p.varianta === 1){
+    for(let i=0;i<3;i++){
+      const a = (Math.PI/3)*i;
+      ctx.beginPath();
+      ctx.moveTo(-Math.cos(a)*r, -Math.sin(a)*r);
+      ctx.lineTo( Math.cos(a)*r,  Math.sin(a)*r);
+      ctx.stroke();
+    }
+    /* drobno jedro */
     ctx.beginPath();
-    ctx.moveTo(-Math.cos(a)*p.r, -Math.sin(a)*p.r);
-    ctx.lineTo( Math.cos(a)*p.r,  Math.sin(a)*p.r);
+    ctx.arc(0,0,r*0.16,0,Math.PI*2);
+    ctx.fill();
+    return;
+  }
+
+  /* 2 = sesterokotna ploscica */
+  if(p.varianta === 2){
+    ctx.beginPath();
+    for(let i=0;i<6;i++){
+      const a = (Math.PI/3)*i;
+      const x = Math.cos(a)*r*0.9;
+      const y = Math.sin(a)*r*0.9;
+      if(i) ctx.lineTo(x,y); else ctx.moveTo(x,y);
+    }
+    ctx.closePath();
+    ctx.stroke();
+
+    ctx.save();
+    ctx.globalAlpha *= 0.42;
+    ctx.fill();
+    ctx.restore();
+
+    /* notranji sestrokrak */
+    ctx.lineWidth = Math.max(0.5, r*0.12);
+    for(let i=0;i<3;i++){
+      const a = (Math.PI/3)*i;
+      ctx.beginPath();
+      ctx.moveTo(-Math.cos(a)*r*0.55, -Math.sin(a)*r*0.55);
+      ctx.lineTo( Math.cos(a)*r*0.55,  Math.sin(a)*r*0.55);
+      ctx.stroke();
+    }
+    return;
+  }
+
+  /* 3 = drobno zrno snega */
+  ctx.beginPath();
+  ctx.arc(0,0,r*0.42,0,Math.PI*2);
+  ctx.fill();
+}
+
+/* Posamezen cvetni list, ne cel cvet - pri padanju je to naravneje. */
+function narisiCvet(ctx,p){
+  const r = p.r;
+
+  ctx.beginPath();
+  ctx.moveTo(0, r*0.95);                                  /* konica */
+  ctx.bezierCurveTo(-r*0.98, r*0.30, -r*0.72, -r*0.88, 0, -r);
+  ctx.bezierCurveTo( r*0.72, -r*0.88,  r*0.98, r*0.30, 0, r*0.95);
+  ctx.fill();
+
+  /* rahla zila po sredini, da ni videti kot pika */
+  ctx.strokeStyle = "rgba(150,90,120,.30)";
+  ctx.lineWidth = Math.max(0.5, r*0.09);
+  ctx.beginPath();
+  ctx.moveTo(0, r*0.75);
+  ctx.lineTo(0,-r*0.75);
+  ctx.stroke();
+}
+
+function narisiSonce(ctx,p){
+  const r = p.r;
+
+  ctx.strokeStyle = ctx.fillStyle;
+  ctx.lineCap = "round";
+  ctx.lineWidth = Math.max(0.8, r*0.17);
+
+  /* zarki - izmenicno dolgi in kratki */
+  for(let i=0;i<8;i++){
+    const a = (Math.PI*2/8)*i;
+    const dolzina = (i % 2 === 0) ? 1.55 : 1.22;
+    ctx.beginPath();
+    ctx.moveTo(Math.cos(a)*r*0.82, Math.sin(a)*r*0.82);
+    ctx.lineTo(Math.cos(a)*r*dolzina, Math.sin(a)*r*dolzina);
     ctx.stroke();
   }
-}
 
-function narisiCvet(ctx,p){
-  for(let i=0;i<5;i++){
-    ctx.beginPath();
-    ctx.ellipse(0,-p.r*0.55, p.r*0.34, p.r*0.62, (Math.PI*2/5)*i, 0, Math.PI*2);
-    ctx.fill();
-  }
-}
-
-function narisiIskro(ctx,p){
+  /* sredica */
   ctx.beginPath();
-  ctx.arc(0,0,p.r,0,Math.PI*2);
+  ctx.arc(0,0,r*0.62,0,Math.PI*2);
   ctx.fill();
 }
 
@@ -5306,7 +5413,7 @@ function seasonFrame(){
     if(p.oblika === "list")           narisiList(seasonCtx,p);
     else if(p.oblika === "snezinka")  narisiSnezinko(seasonCtx,p);
     else if(p.oblika === "cvet")      narisiCvet(seasonCtx,p);
-    else                              narisiIskro(seasonCtx,p);
+    else                              narisiSonce(seasonCtx,p);
 
     seasonCtx.restore();
   }
@@ -5348,7 +5455,8 @@ function initSeason(){
     if(!seasonOn || document.hidden) return;
 
     const zdaj = performance.now();
-    if(zdaj - seasonLastSpawn < SEASON_SPAWN_MS) return;
+    const razmik = trenutnaSezona().razmik || 40;
+    if(zdaj - seasonLastSpawn < razmik) return;
 
     if(seasonLastX !== null){
       const dx = e.clientX - seasonLastX;
