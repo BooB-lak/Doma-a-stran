@@ -3449,15 +3449,12 @@ const QUICK_NEWS_SOURCES = [
     ]
   },
   {
-    id:"cnn",
-    name:"CNN",
-    homepage:"https://edition.cnn.com/",
+    id:"nyt",
+    name:"New York Times",
+    homepage:"https://www.nytimes.com/",
     feeds:[
-      "https://openrss.org/www.cnn.com",
-      "https://rss.cnn.com/rss/edition.rss",
-      "http://rss.cnn.com/rss/edition.rss",
-      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
-      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+      "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
     ]
   },
   {
@@ -3646,7 +3643,7 @@ function quickNewsExtractImage(item,articleUrl){
 }
 
 const QUICK_NEWS_IMAGE_PROXY_IDS=new Set([
-  "rtvslo","zurnal","reuters","cnn","bbc","aljazeera"
+  "rtvslo","zurnal","reuters","nyt","bbc","aljazeera"
 ]);
 
 function quickNewsDisplayImageUrl(imageUrl,source){

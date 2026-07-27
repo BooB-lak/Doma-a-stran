@@ -63,21 +63,26 @@ const SOURCES = [
     ]
   },
   {
-    id: "cnn",
-    name: "CNN",
-    homepage: "https://edition.cnn.com/",
+    id: "nyt",
+    name: "New York Times",
+    homepage: "https://www.nytimes.com/",
     translate: true,
+    lang: "EN",
     /*
-      Neposredni CNN naslovi gredo prvi, ker dajo prave slike ze v RSS.
-      Ce so zastareli (kot je bil rss/edition.rss), jih zaznavanje
-      starosti samodejno preskoci in gremo na Google News.
+      CNN je bil odstranjen: svojih RSS virov ne vzdrzuje vec,
+      stari naslovi vracajo clanke izpred let, prek Google News
+      pa ni mogoce priti do slik.
+      NYT ima delujoc, aktivno vzdrzevan vir s slikami v RSS-u.
+
+      Ce bi kdaj raje nemski Bild, zadostuje zamenjava tega bloka:
+        id:"bild", name:"Bild", homepage:"https://www.bild.de/",
+        translate:true, lang:"DE",
+        feeds:["https://www.bild.de/feed/alles.xml"]
+      Prevajanje samodejno upostevata polje "lang".
     */
     feeds: [
-      "http://rss.cnn.com/rss/cnn_topstories.rss",
-      "http://rss.cnn.com/rss/cnn_world.rss",
-      "http://rss.cnn.com/rss/edition_world.rss",
-      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-      "https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+      "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
     ]
   },
   {
@@ -328,6 +333,58 @@ function readPreviousTranslations() {
   return map;
 }
 
+/*
+  Kakovost prevoda.
+
+  Brezplacni Google brez kljuca je pri kratkih, telegrafskih naslovih
+  slab - "cycling great" prevede kot "kolesarsko kolesarjenje".
+  DeepL je za angleščino-slovenščino bistveno boljsi, zato ga
+  uporabimo, ce je na voljo kljuc v okoljski spremenljivki DEEPL_KEY
+  (v GitHubu se nastavi kot Secret). Brez kljuca vse deluje kot doslej.
+*/
+const DEEPL_KEY = (process.env.DEEPL_KEY || "").trim();
+
+async function translateBatchDeepL(texts, sourceLang) {
+  if (!DEEPL_KEY || !texts.length) return null;
+
+  /* Kljuci brezplacnega paketa se koncajo na ":fx". */
+  const host = DEEPL_KEY.endsWith(":fx")
+    ? "https://api-free.deepl.com"
+    : "https://api.deepl.com";
+
+  const params = new URLSearchParams();
+  for (const t of texts) params.append("text", t);
+  params.append("source_lang", sourceLang || "EN");
+  params.append("target_lang", "SL");
+  /* Novinarski naslovi niso formalno pisanje. */
+  params.append("formality", "prefer_less");
+
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 25000);
+
+  try {
+    const res = await fetch(host + "/v2/translate", {
+      method: "POST",
+      signal: ctrl.signal,
+      headers: {
+        Authorization: "DeepL-Auth-Key " + DEEPL_KEY,
+        "Content-Type": "application/x-www-form-urlencoded",
+        "User-Agent": UA
+      },
+      body: params.toString()
+    });
+
+    if (!res.ok) throw new Error("HTTP " + res.status);
+
+    const data = await res.json();
+    if (!data || !Array.isArray(data.translations)) return null;
+
+    return data.translations.map(t => String(t.text || "").trim());
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 async function translateOne(text) {
   /* 1) Google (neuraden naslov, brez kljuca) */
   try {
@@ -363,30 +420,63 @@ async function translateOne(text) {
 }
 
 async function translateItems(source, items, cache) {
-  let fresh = 0;
   let reused = 0;
 
+  /* Najprej iz pomnilnika - teh ni treba prevajati. */
+  const todo = [];
   for (const item of items) {
     const known = cache.get(item.title);
     if (known) {
       item.titleSl = known;
       reused++;
-      continue;
+    } else {
+      todo.push(item);
+    }
+  }
+
+  let fresh = 0;
+  let via = "";
+
+  if (todo.length) {
+    /* 1) DeepL v enem samem zahtevku za vse nove naslove. */
+    try {
+      const out = await translateBatchDeepL(
+        todo.map(x => x.title),
+        source.lang
+      );
+      if (out && out.length === todo.length) {
+        todo.forEach((item, i) => {
+          const t = out[i];
+          if (t && t !== item.title) {
+            item.titleSl = t;
+            cache.set(item.title, t);
+            fresh++;
+          }
+        });
+        via = " (DeepL)";
+      }
+    } catch (err) {
+      console.log(`    DeepL ni uspel: ${err.message} - uporabljam rezervo`);
     }
 
-    const translated = await translateOne(item.title);
-    if (translated && translated !== item.title) {
-      item.titleSl = translated;
-      cache.set(item.title, translated);
-      fresh++;
-      /* Kratek premor, da servisa ne obremenjujemo v rafalu. */
+    /* 2) Kar je ostalo, prevedemo po enem prek Googla / MyMemory. */
+    for (const item of todo) {
+      if (item.titleSl) continue;
+
+      const translated = await translateOne(item.title);
+      if (translated && translated !== item.title) {
+        item.titleSl = translated;
+        cache.set(item.title, translated);
+        fresh++;
+        if (!via) via = " (Google)";
+      }
       await new Promise(r => setTimeout(r, 250));
     }
   }
 
   const missing = items.filter(x => !x.titleSl).length;
   console.log(
-    `    prevod: ${fresh} novih, ${reused} iz pomnilnika` +
+    `    prevod${via}: ${fresh} novih, ${reused} iz pomnilnika` +
       (missing ? `, ${missing} neuspesnih` : "")
   );
 }
