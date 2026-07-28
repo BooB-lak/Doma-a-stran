@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T06:56:26.809Z",
+ "generatedAt": "2026-07-28T06:58:32.567Z",
  "sources": {
   "siol": [
    {
@@ -117,7 +117,13 @@
   ],
   "zurnal": [
    {
-    "title": "Novo: Pretresljive podrobnosti nesreče na poti na Triglav",
+    "title": "Huda nesreča: Tovornjak pešca stisnil ob steber",
+    "link": "https://www.zurnal24.si/slovenija/huda-nesreca-tovornjak-pesca-stisnil-ob-steber-462819",
+    "image": "https://www.zurnal24.si/media/img/01/46/e41e4793cab9d7551290.jpeg",
+    "date": 1785221820000
+   },
+   {
+    "title": "Novo: Pretresljive podrobnosti smrtne nesreče na poti na Triglav",
     "link": "https://www.zurnal24.si/slovenija/zelel-posneti-fotografijo-pri-tem-omahnil-v-smrt-462817",
     "image": "https://www.zurnal24.si/media/img/12/18/2de6137dc43cc167e4e1.jpeg",
     "date": 1785221040000
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/hci-metke-albreht-je-podedovala-mamine-gene-462811",
     "image": "https://www.zurnal24.si/media/img/b1/52/785693b31933f8881a5c.jpeg",
     "date": 1785216300000
-   },
-   {
-    "title": "Tragedija na poti na Triglav, umrl planinec",
-    "link": "https://www.zurnal24.si/slovenija/tragedija-na-poti-na-triglav-umrl-planinec-462809",
-    "image": "https://www.zurnal24.si/media/img/de/88/52e9540da83fd6682261.jpeg",
-    "date": 1785215640000
    }
   ],
   "reuters": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Live-Ticker - Jetzt brennt es auch noch in Portugal",
+    "link": "https://www.bild.de/news/ausland/spanien-ruft-nationalen-notstand-aus-waldbraende-in-europa-voellig-ausser-kontrolle-6a62a8feefccf0c0d5537505",
+    "image": "https://images.bild.de/6a62a8feefccf0c0d5537505/6ac6758eef8212eae833077ec460cd6c,ddac3e94?w=1280",
+    "date": 0,
+    "titleSl": "Live ticker - Zdaj je požar tudi na Portugalskem"
+   },
+   {
     "title": "Leiche wird niemals geborgen - Dahlmeiers Mutter erklärt, warum Laura im Berg bleibt",
     "link": "https://www.bild.de/sport/mehr-sport/laura-dahlmeier-leiche-wird-niemals-geborgen-mutter-erklaert-warum-ihre-laura-im-berg-bleibt-6a684a1a1ff9bc89d88113e2",
     "image": "https://images.bild.de/6a684a1a1ff9bc89d88113e2/935715bfc4ee541e25315a66c364bb81,df5724d9?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a683ffac435b807339bcb9f/8def4d9289c8efc6644bb6076fa4cd7d,bafa375d?w=1280",
     "date": 0,
     "titleSl": "Huda nesreča - v Rusiji umrl košarkarski trener (44)."
-   },
-   {
-    "title": "Treffpunkt ++ Trainer-Team ++ Kimmich-Rolle - Das wird unter Klopp ALLES NEU",
-    "link": "https://www.bild.de/sport/fussball/juergen-klopp-das-wird-beim-dfb-team-jetzt-alles-neu-6a6483bf413df7c047eea4a0",
-    "image": "https://images.bild.de/6a6483bf413df7c047eea4a0/11be2d53cfb7e95875286c049788dde6,48c303e?w=1280",
-    "date": 0,
-    "titleSl": "Zbirno mesto ++ Trenerska ekipa ++ Kimmichova vloga - pod Kloppom bo VSE NOVO"
    }
   ],
   "krone": [
@@ -507,18 +507,25 @@
   ],
   "rainews": [
    {
+    "title": "Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un&#x27;azione forte\"",
+    "link": "https://www.rainews.it/maratona/2026/07/guerre-medio-oriente-usa-iran-trump-colloqui-ma-pronti-azione-forte-oggi-netanyahu-casa-bianca-cisgiordania-violenze-coloni-376dfed9-5821-4ba2-9fd2-331757b449b3.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/28/1785196562905_CB.jpg",
+    "date": 1785221760000,
+    "titleSl": "Iran, 60 smrti v 12 dneh. Trump: \"Pogovori potekajo, a pripravljeni na odločne ukrepe\""
+   },
+   {
+    "title": "Il presidente ucraino Zelensky arriva negli Stati Uniti in vista dell&#x27;incontro con Trump",
+    "link": "https://www.rainews.it/video/2026/07/il-presidente-ucraino-zelensky-arriva-negli-stati-uniti-in-vista-dellincontro-con-trump-1837e95c-51ae-48d4-9ff0-86f9434e8455.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/28/1785221604421_TZLOPRPRTRMADPBASEIMAGEXUSATRUMPZELENSKIYARRIVAL_.JPG",
+    "date": 1785221520000,
+    "titleSl": "Ukrajinski predsednik Zelenski prispe v ZDA pred srečanjem s Trumpom"
+   },
+   {
     "title": "Grosso incendio nel milanese, a fuoco isola ecologica",
     "link": "https://www.rainews.it/video/2026/07/grosso-incendio-nel-milanese-a-fuoco-isola-ecologica-75bdcc55-afcb-486d-9839-d27a597a035b.html",
     "image": "https://www.rainews.it/dl/img/2026/07/28/1785221386516_Cattura.PNG",
     "date": 1785221160000,
     "titleSl": "Velik požar na območju Milana, gori ekološki otok"
-   },
-   {
-    "title": "Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un&#x27;azione forte\"",
-    "link": "https://www.rainews.it/maratona/2026/07/guerre-medio-oriente-usa-iran-trump-colloqui-ma-pronti-azione-forte-oggi-netanyahu-casa-bianca-cisgiordania-violenze-coloni-376dfed9-5821-4ba2-9fd2-331757b449b3.html",
-    "image": "https://www.rainews.it/dl/img/2026/07/28/1785196562905_CB.jpg",
-    "date": 1785220500000,
-    "titleSl": "Iran, 60 smrti v 12 dneh. Trump: \"Pogovori potekajo, a pripravljeni na odločne ukrepe\""
    },
    {
     "title": "Maxi incendio alle porte di Milano, brucia la ricicleria di rifiuti",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/07/28/1785217724728_incendio_novate.jpg",
     "date": 1785217620000,
     "titleSl": "Ekološka platforma Novate Milanese gori, zelo visok stolpec črnega dima"
-   },
-   {
-    "title": "Corsa pazza dello scoiattolo fuori controllo: l&#x27;inseguimento vano dell&#x27;intera squadra di baseball",
-    "link": "https://www.rainews.it/video/2026/07/corsa-pazza-dello-scoiattolo-fuori-controllo-linseguimento-vano-dellintera-squadra-di-baseball-video-cf93c62e-10ad-49e1-8ee3-a02b6d4ca113.html",
-    "image": "https://www.rainews.it/dl/img/2026/07/28/1785218038464_TZLOPRPRTRMADPBASEIMAGEXBASEBALLMLBDETBALMOMENT.JPG",
-    "date": 1785217080000,
-    "titleSl": "Nora dirka veverice brez nadzora: zaman lov celotne bejzbolske ekipe"
    }
   ],
   "lemonde": [
