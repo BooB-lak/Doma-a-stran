@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-07-28T07:36:31.593Z",
+ "generatedAt": "2026-07-28T07:38:23.102Z",
  "sources": {
   "siol": [
+   {
+    "title": "Po incidentu s svinjskimi polovicami na avtocesti izrekli štiri opozorila pred odpovedjo",
+    "link": "https://siol.net/novice/slovenija/po-incidentu-s-svinjskimi-polovicami-na-avtocesti-izrekli-stiri-opozorila-pred-odpovedjo-697651",
+    "image": "https://siol.net/media/img/ae/67/3e4442df9156cc2f270a.jpeg",
+    "date": 1785224160000
+   },
    {
     "title": "Požar blizu Bordeauxa se ponoči ni razširil",
     "link": "https://siol.net/novice/svet/pozar-blizu-bordeauxa-se-ponoci-ni-razsiril-697650",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/zvezde-in-slavni/hci-toma-cruisa-pretrgala-vse-vezi-z-njim-in-si-spremenila-priimek-697645",
     "image": "https://siol.net/media/img/4a/8c/cbe62a42243219ff1384.jpeg",
     "date": 1785221040000
-   },
-   {
-    "title": "Velik večer za Celje in slovenski nogomet: že danes na mizi velika nagrada",
-    "link": "https://siol.net/sportal/nogomet/kvalifikacije-za-ligo-prvakov-2-krog-povratne-tekme-697638",
-    "image": "https://siol.net/media/img/05/ag/ab4239fe3bbbd6facbf3.jpeg",
-    "date": 1785218880000
    }
   ],
   "24ur": [
@@ -331,10 +331,17 @@
   ],
   "guardian": [
    {
+    "title": "Firefighters hasten efforts to contain massive wildfires in France and Spain ahead of heatwave – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/0a9e9215db0d5cb73f1f7174fa707da3ce22c261/541_0_5995_4798/master/5995.jpg?width=140&quality=85&auto=format&fit=max&s=3727f4ff1dfb7b94d400e1ffc2709e1a",
+    "date": 1785223920000,
+    "titleSl": "Gasilci pospešeno zajezijo ogromne požare v Franciji in Španiji pred vročinskim valom – Evropa v živo"
+   },
+   {
     "title": "Australia news live: new Victorian premier Ben Carroll says ‘I will do things differently’; two pedestrians in critical condition after Sydney crash",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/893dbce5cc211a50fd93308f186bf08ca9ab2e8a/743_114_5190_4152/master/5190.jpg?width=140&quality=85&auto=format&fit=max&s=ede165950c1c54b0418f537964aa9c9c",
-    "date": 1785223021000,
+    "date": 1785223295000,
     "titleSl": "Avstralske novice v živo: novi viktorijanski premier Ben Carroll pravi: \"Stvari bom naredil drugače\"; dva pešca v kritičnem stanju po nesreči v Sydneyju"
    },
    {
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/f379c2b04bb66cddde5b073f13ca3c0657976c62/2086_1103_2057_1646/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=c19ed3fc56b9f55e840ea82189b2e0c0",
     "date": 1785215475000,
     "titleSl": "Ben Carroll napoveduje, da bo kraljevo delo v gradbenem sektorju prvo dejanje kot novi premier Viktorije"
-   },
-   {
-    "title": "Blow to NHS as Royal Mail raises prices for bulk users by a third",
-    "link": "https://www.theguardian.com/business/2026/jul/28/nhs-royal-mail-price-rises-bulk-users-mail",
-    "image": "https://i.guim.co.uk/img/media/c538159a77f9008d7d355812ee2ebb678021fe0a/72_0_2457_1966/master/2457.jpg?width=140&quality=85&auto=format&fit=max&s=1bb28aead7dc85f442ca507ef0b51cc5",
-    "date": 1785214830000,
-    "titleSl": "Udarec za NHS, saj je Royal Mail zvišal cene za množične uporabnike za tretjino"
    }
   ],
   "spiegel": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Es geht ums Stadion auf der Waldau - VfB-Spitze gegen die Stuttgarter Kickers",
+    "link": "https://www.bild.de/sport/fussball/es-geht-ums-stadion-auf-der-waldau-vfb-spitze-gegen-die-stuttgarter-kickers-6a673d6ebb6206a67263e0a7",
+    "image": "https://images.bild.de/6a673d6ebb6206a67263e0a7/bac0fd50b1c2d78820b66cca1dc5da35,5108e40?w=1280",
+    "date": 0,
+    "titleSl": "Gre za stadion na vrhu Waldau - VfB proti Stuttgarter Kickers"
+   },
+   {
     "title": "15. Streich von Arabi - Förster füllt Fortunas Zehner-Lücke",
     "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-philipp-foerster-fuellt-zehner-luecke-von-samir-arabi-6a685472a17ee9f1dfd811ec",
     "image": "https://images.bild.de/6a685472a17ee9f1dfd811ec/0401562710396e8cf416eb5aaafb10cb,b3c49b00?w=1280",
@@ -452,22 +459,29 @@
     "image": "https://images.bild.de/6a670d43dc2b0bab191a7b9c/5e7efdc3d2e7df5778e1e80eed34a7e0,76a42c8e?w=1280",
     "date": 0,
     "titleSl": "Prestopna oznaka - Ta prestop Bayerna je prava nogometna pravljica!"
-   },
-   {
-    "title": "Argentinien profitierte von Fehlentscheidung - Regelhüter geben schwere WM-Panne zu!",
-    "link": "https://www.bild.de/sport/fussball/regelhueter-geben-schwere-wm-panne-zu-embolo-haette-nicht-gelb-rot-sehen-duerfen-6a684c971ff9bc89d8811400",
-    "image": "https://images.bild.de/6a684c971ff9bc89d8811400/91086f956241f614e291850192e82dc0,c332be07?w=1280",
-    "date": 0,
-    "titleSl": "Argentini je koristila napačna odločitev - varuhi pravil priznali resno nesrečo na svetovnem prvenstvu!"
    }
   ],
   "krone": [
+   {
+    "title": "Drei Verletzte in Graz - Polizeiauto kollidierte auf Kreuzung mit Pkw",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52SVV0c0I4QTFUUEw3VzhYck1JNzM0Tl9JaFVyb0x3X1hHTkN1UWdsam5YaFZoZDFrcE1WV2I4TDVuUQ?oc=5",
+    "image": "",
+    "date": 1785223740000,
+    "titleSl": "V Gradcu trije poškodovani - policijski avto v križišču trčil v avto"
+   },
    {
     "title": "„Schlecht verhandelt“ - „Herr der Ringe“-Star musste sein Haus verkaufen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00bDV3X21PZ0lULUJvNEEyU1RGZklybVZQWS1hYzlIT2Z0STlBX2tVUnJRX3VQdDluamJmQlVYZHBiZw?oc=5",
     "image": "",
     "date": 1785223500000,
     "titleSl": "\"Slabo pogajanje\" - zvezda \"Gospodarja prstanov\" je morala prodati svojo hišo"
+   },
+   {
+    "title": "Beim 75er-Challenger - Joel Schwärzler schlägt in Liberec auf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2VU8tTXVwdnotRGhHUHlnM19BU0hKbE0yQTl1MksyUVlqcEVYQkJsQ1dSZTRzbnU1NDBmc3oyUlVUZw?oc=5",
+    "image": "",
+    "date": 1785223500000,
+    "titleSl": "Na 75 Challengerju - Joel Schwärzler bo v Liberecu"
    },
    {
     "title": "Transit-Kampf gegen EU - Tiroler Grüne fordern Landtagssitzung auf Autobahn",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1785222060000,
     "titleSl": "Okoli 20 kamer - vse na prvi pogled: cerkvena operativna ekipa"
-   },
-   {
-    "title": "„50 Stellen weg und Aufnahmestopp in Verwaltung“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CVm1HVTJ3V2xKWWE5Y2QzY3lPcXB6b1B6UEZ5OVI2UE5QRVJSVVVnd0dnYUhXTHpQbFY5WVZCd3FUQQ?oc=5",
-    "image": "",
-    "date": 1785222000000,
-    "titleSl": "\"50 izgubljenih služb in ustavljen sprejem v administraciji\""
-   },
-   {
-    "title": "Auf Waldspielplatz - Brennender Baumstamm sorgte für Großeinsatz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KUUYyeGRVaVRBdHRJVHRMaWNqWi1NU1ZSSnE0RTlweW5BbXI0MW5kVUxkNlE1Z1pmbkFBYnVJQmlhUQ?oc=5",
-    "image": "",
-    "date": 1785222000000,
-    "titleSl": "Na gozdnem igrišču - goreče deblo je povzročilo veliko razburjenja"
    }
   ],
   "rainews": [
