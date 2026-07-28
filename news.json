@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T20:52:34.129Z",
+ "generatedAt": "2026-07-28T20:54:23.803Z",
  "sources": {
   "siol": [
    {
@@ -199,20 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "Gov. Sherrill in the Hot Seat After U.S. Demand for Noncitizens’ Names",
-    "link": "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html",
-    "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28met-nj-sherrill-qpmf/28met-nj-sherrill-qpmf-mediumSquareAt3X.jpg",
-    "date": 1785271809000,
-    "titleSl": "Guvernerka Sherrill na vročem sedežu po zahtevi ZDA po imenih nedržavljanov"
-   },
-   {
-    "title": "Who Wins (and Who Loses) in the Democrats’ New 2028 Primary Calendar?",
-    "link": "https://www.nytimes.com/2026/07/28/us/politics/democrats-2028-primary-calendar.html",
-    "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28pol-2028-calendar-01-hpqv/28pol-2028-calendar-01-hpqv-mediumSquareAt3X.jpg",
-    "date": 1785270974000,
-    "titleSl": "Kdo zmaga (in kdo izgubi) v novem predizbornem koledarju demokratov za leto 2028?"
-   },
-   {
     "title": "Senators Forge a Deal on Graham’s Bill to Advance Russia Sanctions",
     "link": "https://www.nytimes.com/2026/07/28/us/politics/senators-russia-sanctions-bill-graham.html",
     "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28graham-funeral-sanctions-tbwg/28graham-funeral-sanctions-tbwg-mediumSquareAt3X.jpg",
@@ -239,6 +225,20 @@
     "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28dc-graham-doc-gqlk/28dc-graham-doc-gqlk-mediumSquareAt3X.jpg",
     "date": 1785269301000,
     "titleSl": "Graham in Netanyahu sta sodelovala pri obsodbi Mednarodnega kazenskega sodišča"
+   },
+   {
+    "title": "Obama to Headline Democratic Redistricting Fund-Raiser",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/obama-fund-raiser-marthas-vineyard-redistricting.html",
+    "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28pol-obama-redistricting-cbgj/28pol-obama-redistricting-cbgj-mediumSquareAt3X.jpg",
+    "date": 1785269130000,
+    "titleSl": "Obama bo vodil zbiranje sredstev za demokratično prerazporejanje"
+   },
+   {
+    "title": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+    "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html",
+    "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-dissidents-1-jvcf/28int-iran-dissidents-1-jvcf-mediumSquareAt3X.jpg",
+    "date": 1785268746000,
+    "titleSl": "Iran obeša protestnike, medtem ko število usmrtitev narašča, pravijo skupine za človekove pravice"
    }
   ],
   "bbc": [
@@ -331,11 +331,25 @@
   ],
   "guardian": [
    {
-    "title": "Apple becomes second ever $5tn company as investors flee AI stocks",
+    "title": "Australia news live: Jacinta Allan was subjected to ‘vile sexism’ as premier, Julia Gillard says",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/5fed2f5d6f85b34d5dffcf45efdc6051ceb181d1/1189_0_5926_4743/master/5926.jpg?width=140&quality=85&auto=format&fit=max&s=7d714a23408ecac745182cae78897b14",
+    "date": 1785271696000,
+    "titleSl": "Avstralske novice v živo: Jacinta Allan je bila kot premierka izpostavljena \"podlemu seksizmu\", pravi Julia Gillard"
+   },
+   {
+    "title": "Trump touts ‘strong and steadfast’ Lindsey Graham in eulogy at Washington DC funeral service – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/c76369b8f0f0509ac6a8a768d9dca9368f6eef45/83_0_3093_2475/master/3093.jpg?width=140&quality=85&auto=format&fit=max&s=b23def327bb480d7dc04841365ec14f0",
+    "date": 1785270980000,
+    "titleSl": "Trump v hvalnici na pogrebni slovesnosti v Washingtonu DC hvali \"močno in neomajno\" Lindsey Graham - v živo"
+   },
+   {
+    "title": "Apple becomes second $5tn company as investors flee AI stocks",
     "link": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
     "image": "https://i.guim.co.uk/img/media/16f725106781e4a9f75422731c886be80c8894aa/1152_0_5758_4606/master/5758.jpg?width=140&quality=85&auto=format&fit=max&s=7b2663ccbd666c5f308e132e6ca04655",
     "date": 1785270794000,
-    "titleSl": "Apple postane drugo podjetje v zgodovini s 5 bilijoni dolarjev, saj vlagatelji bežijo od delnic umetne inteligence"
+    "titleSl": "Apple postane drugo podjetje s 5 bilijoni dolarjev, saj vlagatelji bežijo od delnic umetne inteligence"
    },
    {
     "title": "Lindsey Graham remembered as ‘true American original’ at Capitol memorial",
@@ -352,25 +366,11 @@
     "titleSl": "Ženska iz Utaha je dan pred poroko zažgala cerkev, pravijo oblasti"
    },
    {
-    "title": "Trump touts ‘strong and steadfast’ Lindsey Graham in eulogy at Washington DC funeral service – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/c76369b8f0f0509ac6a8a768d9dca9368f6eef45/83_0_3093_2475/master/3093.jpg?width=140&quality=85&auto=format&fit=max&s=b23def327bb480d7dc04841365ec14f0",
-    "date": 1785267516000,
-    "titleSl": "Trump v hvalnici na pogrebni slovesnosti v Washingtonu DC hvali \"močno in neomajno\" Lindsey Graham - v živo"
-   },
-   {
     "title": "Trump reportedly pushing RFK Jr to cut vaccines more aggressively",
     "link": "https://www.theguardian.com/us-news/2026/jul/28/trump-rfk-jr-cutting-vaccines",
     "image": "https://i.guim.co.uk/img/media/0feee1d3a9e29b9ab004a6f0c9f34beda3b3ce54/57_0_2698_2159/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=27e541e8f6f3b7a6aa8cef7106556452",
     "date": 1785264882000,
     "titleSl": "Trump naj bi RFK mlajšega spodbujal k bolj agresivnemu zmanjšanju cepiv"
-   },
-   {
-    "title": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/3e7cb28fbd87f15e320c8f85d4eff8aea0cc2788/333_0_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=0174ffcd77687fe7ead801d2df4043f8",
-    "date": 1785263999000,
-    "titleSl": "Strah smrti, potem ko je po potresu \"veliko ljudi\" ujetih v japonskem nakupovalnem središču - kot se je zgodilo"
    }
   ],
   "spiegel": [
@@ -595,13 +595,6 @@
   ],
   "elpais": [
    {
-    "title": "Holaluz alega ante Transición que no tiene deuda con las distribuidoras",
-    "link": "https://cincodias.elpais.com/economia/2026-07-28/holaluz-alega-ante-transicion-que-no-tiene-deuda-con-las-distribuidoras.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6I4ML6A4ZJF37PPPV6MOHOZRKQ.jpg?auth=78e360ab5b62a136383e8f4bce9496f88656d8f8e5809d3e8f31e0c3099cbdec",
-    "date": 1785271060000,
-    "titleSl": "Holaluz pred Tranzicijo trdi, da nima dolgov do distributerjev"
-   },
-   {
     "title": "Última hora de los incendios forestales, en directo | Marlaska anuncia que en las últimas 24 horas “no ha habido ningún avance del fuego” en el incendio de Ávila y Madrid",
     "link": "https://elpais.com/espana/2026-07-28/ultima-hora-de-los-incendios-forestales-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/KTRTHPL7DFA2JJPI5YFERPHBH4.jpg?auth=6440a545ef48800d6a47f870582d93c2752268852f725da22fa35619d1a3bb2f",
@@ -623,18 +616,25 @@
     "titleSl": "Moški ubije svojega partnerja v svoji hiši v Barceloni in pobegne"
    },
    {
-    "title": "Los padres de Bernarda Vera, la chilena dada por desaparecida en la dictadura de Pinochet y hallada en Argentina, murieron sin saber que estaba viva",
-    "link": "https://elpais.com/chile/2026-07-28/los-padres-de-bernarda-vera-la-chilena-dada-por-desaparecida-en-la-dictadura-de-pinochet-y-hallada-en-argentina-murieron-sin-saber-que-estaba-viva.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/LX3NYIEDLRBTHHTZZBB5LMRCGM.jpeg?auth=321d0376d5a29f1d225b05e3d7179a1d2a68555bc84d82cd882254d1947c399a",
-    "date": 1785265731000,
-    "titleSl": "Starša Bernarde Vere, Čilenke, ki je bila pogrešana med Pinochetovo diktaturo in najdena v Argentini, sta umrla, ne da bi vedela, da je živa."
-   },
-   {
     "title": "Muere el expresidente de La Caixa Josep Vilarasau, el financiero que hizo crecer la caja",
     "link": "https://elpais.com/espana/catalunya/2026-07-28/muere-el-expresidente-de-la-caixa-josep-vilarasau.html",
     "image": "https://imagenes.elpais.com/resizer/v2/CRL3AC3J5NC7ZEOPS3423LPLNI.jpg?auth=9911ce8a344da7073830fa7f33a25df7483e2554b1e1339ad7c22e8f211d50e8",
     "date": 1785265636000,
     "titleSl": "Umrl nekdanji predsednik La Caixe, Josep Vilarasau, finančnik, ki je poskrbel za rast škatle"
+   },
+   {
+    "title": "Laporta se recupera de una arritmia",
+    "link": "https://elpais.com/deportes/futbol/2026-07-28/laporta-se-recupera-de-una-arritmia.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/CRCSER56NFCTTHMRGE65WUUMYA.jpg?auth=1a7965a5c2b6949eb031d44be7f42196c6df2bc27bfec58f74869b6012c2ab6b",
+    "date": 1785264940000,
+    "titleSl": "Laporta si opomore od aritmije"
+   },
+   {
+    "title": "Ceniza, barcos calcinados y agua negra en el Pantano de San Juan tras el paso de las llamas",
+    "link": "https://elpais.com/espana/2026-07-28/ceniza-barcos-calcinados-y-agua-negra-en-el-pantano-de-san-juan-tras-el-paso-de-las-llamas.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260728/1199746_164922_video_1800.mp4",
+    "date": 1785264041000,
+    "titleSl": "Pepel, zogleneli čolni in črna voda v rezervoarju San Juan po prehodu plamenov"
    }
   ]
  },
