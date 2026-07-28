@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T12:18:32.953Z",
+ "generatedAt": "2026-07-28T12:20:35.158Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Opozicija predlaga razrešitev Stevanovića s čela DZ",
+    "link": "https://www.24ur.com/novice/slovenija/opozicija-bo-vlozila-predlog-za-razresitev-predsednika-dz-stevanovica.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/9c1f0b810564ae19f3ff_63623992.jpg?v=b1aa&fop=fp:0.72:0.29",
+    "date": 1785241094000
+   },
+   {
     "title": "Je to moški, ki naj bi zanetil požar in oskrunil Marijin kip?",
     "link": "https://www.24ur.com/novice/tujina/je-to-moski-ki-naj-bi-zanetil-pozar-in-oskrunil-marijin-kip.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/b26f3ee8f516bfbb87f9_63623942.jpg?v=5b0e&fop=fp:0.53:0.35",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/novice/tujina/pretresljivi-prizori-iz-medzugorja-vandali-oskrunili-sveto-mesto.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/583c0a37b7449ad4cb92_63623956.jpg?v=40b5&fop=fp:0.41:0.31",
     "date": 1785240814000
-   },
-   {
-    "title": "Opozicija predlaga razrešitev Stevanovića s čela DZ",
-    "link": "https://www.24ur.com/novice/slovenija/opozicija-bo-vlozila-predlog-za-razresitev-predsednika-dz-stevanovica.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/9c1f0b810564ae19f3ff_63623992.jpg?v=b1aa&fop=fp:0.72:0.29",
-    "date": 1785240484000
    },
    {
     "title": "Potres na Japonskem: v nakupovalnem središču naj bi umrlo več ljudi",
@@ -246,7 +246,7 @@
     "title": "Mum and boyfriend guilty of girl's murder",
     "link": "https://www.bbc.co.uk/news/articles/cvg9lv27v69o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e750/live/4c2e6410-8507-11f1-aa7a-11be4e3a8eab.jpg",
-    "date": 1785240885000,
+    "date": 1785241158000,
     "titleSl": "Mama in fant sta kriva za umor dekleta"
    },
    {
@@ -419,18 +419,25 @@
   ],
   "bild": [
    {
-    "title": "CSD-Terrorist Abdul Ballout - Polizei findet auf seinem Handy IS-Bekennervideo",
-    "link": "https://www.bild.de/regional/berlin/er-filmte-es-am-tag-der-tat-polizei-findet-is-bekennervideo-auf-handy-des-csd-terroristen-6a6863e0a17ee9f1dfd8132c",
-    "image": "https://images.bild.de/6a6863e0a17ee9f1dfd8132c/fb97a07848cbde7c1e65eea2879c39f9,8d8673ff?w=1280",
-    "date": 0,
-    "titleSl": "CSD terorist Abdul Ballout - policija najde video priznanja IS na njegovem mobilnem telefonu"
-   },
-   {
     "title": "Klartext von Bayern-Boss Dreesen - Für Siege braucht Klopp Bayern-Spieler!",
     "link": "https://www.bild.de/sport/fussball/michael-olise-bayern-boss-dreesen-erteilt-real-geruechten-absage-6a6888d2a17ee9f1dfd817d7",
     "image": "https://images.bild.de/6a6888d2a17ee9f1dfd817d7/6b5ea0c405e05dd1a26297b70815f986-landscape,df9b4481?w=1280",
     "date": 0,
     "titleSl": "Navadno besedilo šefa Bayerna Dreesena - Klopp potrebuje igralce Bayerna za zmago!"
+   },
+   {
+    "title": "Ikene muss zahlen - Premiere als Erfurt-Kapitän wird teuer",
+    "link": "https://www.bild.de/sport/fussball/fc-rot-weiss-erfurt-ikene-muss-zahlen-premiere-als-rwe-kapitaen-wird-teuer-6a687f3ece0aac7f44e40bd4",
+    "image": "https://images.bild.de/6a687f3ece0aac7f44e40bd4/e04b198c6287aabe67fefc8bb3af79b4,a4061e6?w=1280",
+    "date": 0,
+    "titleSl": "Ikene mora plačati - njegov debi kot kapetan Erfurta bo drag"
+   },
+   {
+    "title": "CSD-Terrorist Abdul Ballout - Polizei findet auf seinem Handy IS-Bekennervideo",
+    "link": "https://www.bild.de/regional/berlin/er-filmte-es-am-tag-der-tat-polizei-findet-is-bekennervideo-auf-handy-des-csd-terroristen-6a6863e0a17ee9f1dfd8132c",
+    "image": "https://images.bild.de/6a6863e0a17ee9f1dfd8132c/fb97a07848cbde7c1e65eea2879c39f9,8d8673ff?w=1280",
+    "date": 0,
+    "titleSl": "CSD terorist Abdul Ballout - policija najde video priznanja IS na njegovem mobilnem telefonu"
    },
    {
     "title": "Chaos bei der Trainersuche - ER soll jetzt Italien retten",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a6873dace0aac7f44e40a82/d4be350937430e14ee529f321299bf34,5d0483fb?w=1280",
     "date": 0,
     "titleSl": "Vroče ali smeti - preverjanje govoric pri Werderju"
-   },
-   {
-    "title": "Nach Wechsel-Knaller - LeBron will‘s wie Jens Lehmann machen",
-    "link": "https://www.bild.de/sport/mehr-sport/nba-nach-wechsel-knaller-lebron-james-wills-wie-jens-lehmann-machen-6a685db0c435b807339bcdaf",
-    "image": "https://images.bild.de/6a685db0c435b807339bcdaf/acd2b20196089848715836ffab274e6e,21da46cc?w=1280",
-    "date": 0,
-    "titleSl": "Po odlični zamenjavi – LeBron želi narediti tako kot Jens Lehmann"
    }
   ],
   "krone": [
@@ -507,10 +507,17 @@
   ],
   "rainews": [
    {
+    "title": "Media, attacco ucraino a Mosca con oltre 300 droni. Zelensky oggi da Trump: \"La guerra finirà\"",
+    "link": "https://www.rainews.it/maratona/2026/07/ucraina-guerra-russia-zelensky-oggi-da-trump-la-guerra-finira-con-una-pace-dignitosa-a1949049-d9b1-4ae4-b1da-49d860fe8902.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/28/1785196711568_CBFE.jpg",
+    "date": 1785241140000,
+    "titleSl": "Mediji, ukrajinski napad na Moskvo z več kot 300 droni. Zelenski danes od Trumpa: \"Vojna se bo končala\""
+   },
+   {
     "title": "Nazionale, Malagò: \"Sto parlando con Mancini per la panchina azzurra\"",
     "link": "https://www.rainews.it/maratona/2026/07/calcio-figc-consiglio-federale-malago-punta-al-nuovo-ct-della-nazionale-azzurri-pirlo-maldini-52e33685-82f2-4a95-9e17-2a5b432589a1.html",
     "image": "https://www.rainews.it/dl/img/2026/07/28/1785234391808_large.jpg",
-    "date": 1785240900000,
+    "date": 1785241140000,
     "titleSl": "Reprezentanca, Malagò: \"Z Mancinijem se pogovarjam o klopi Azzurrov\""
    },
    {
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/07/28/1785239509098_.png",
     "date": 1785239400000,
     "titleSl": "Francija, trupla 5 novorojenčkov, najdenih v nekaj škatlah v domu para"
-   },
-   {
-    "title": "Ex Ilva, Corte d&#x27;Appello di Milano: 90 giorni per chiudere l&#x27;area a caldo, il cuore della produzione",
-    "link": "https://www.rainews.it/video/2026/07/ex-ilva-la-corte-appello-di-milano-90-giorni-per-chiudere-area-a-caldo-sentenza-produzione-acciaio-d37a9a05-2b14-48e2-83aa-e9f9b942a023.html",
-    "image": "https://www.rainews.it/dl/img/2026/07/28/1785237164258_.png",
-    "date": 1785239100000,
-    "titleSl": "Ex Ilva, prizivno sodišče v Milanu: 90 dni za zaprtje vročega območja, jedra proizvodnje"
    }
   ],
   "lemonde": [
