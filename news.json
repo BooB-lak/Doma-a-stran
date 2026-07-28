@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T12:46:39.056Z",
+ "generatedAt": "2026-07-28T12:48:26.384Z",
  "sources": {
   "siol": [
    {
@@ -47,6 +47,12 @@
     "date": 1785242425000
    },
    {
+    "title": "Tehnične okvare na dirkalniku Russella v ospredju skrbi Mercedesa",
+    "link": "https://www.24ur.com/sport/formula1/tezavam-z-dirkalnikom-russella-ni-videti-konca.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2026/f5e1738a0fe919b081c9_63609526.jpg?v=f005&fop=fp:0.41:0.43",
+    "date": 1785241024000
+   },
+   {
     "title": "Je to moški, ki naj bi zanetil požar in oskrunil Marijin kip?",
     "link": "https://www.24ur.com/novice/tujina/je-to-moski-ki-naj-bi-zanetil-pozar-in-oskrunil-marijin-kip.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/b26f3ee8f516bfbb87f9_63623942.jpg?v=5b0e&fop=fp:0.53:0.35",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/koca-na-golici-v-tezavah-pretrgala-se-je-nosilna-zajla-tovorne-zicnice.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/dbeb4f3557e14e5d97ae_63623983.jpg?v=f574&fop=fp:0.43:0.32",
     "date": 1785239443000
-   },
-   {
-    "title": "'Vstopnina' v Benetke: trenutno brezplačno, želijo drastičen dvig",
-    "link": "https://www.24ur.com/novice/tujina/vstopnina-v-benetke-trenutno-brezplacno-zelijo-drasticen-dvig.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2020/e735a3b15f22e4d60d29_62441646.jpg?v=e3bd&fop=fp:0.37:0.53",
-    "date": 1785239393000
    }
   ],
   "rtvslo": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "US walks out on France at UN over North Korea, Russia comparison",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785241854.jpg?resize=1920%2C1080&quality=80",
-    "date": 1785241875000,
-    "titleSl": "ZDA odstopajo od Francije v ZN zaradi primerjave Severne Koreje in Rusije"
-   },
-   {
-    "title": "Why has Iran’s economy not collapsed under US war pressure?",
-    "link": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-20T141718Z_1099693971_RC2KHMAW3PLX_RTRMADP_3_IRAN-CRISIS-1785237839.jpg?resize=1920%2C1440",
-    "date": 1785241818000,
-    "titleSl": "Zakaj iransko gospodarstvo ni propadlo pod pritiskom ZDA?"
-   },
-   {
     "title": "Fatal Shooting in ICE Operations",
     "link": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785238708.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785237979.jpg?resize=1920%2C1080&quality=80",
     "date": 1785238028000,
     "titleSl": "Napad izraelskih naseljencev na at-Tuwani"
+   },
+   {
+    "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
+    "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5bd83c-1784404028.jpg?resize=1920%2C1440",
+    "date": 1785237267000,
+    "titleSl": "Zakaj želi londonski Hackney Council razveljaviti svoj status \"dvojčka\" s Haifo"
+   },
+   {
+    "title": "Several dead in Japan after magnitude 7.1 earthquake causes blast at mall",
+    "link": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-28T103821Z_1577542721_RC2YMMAH5B5J_RTRMADP_3_JAPAN-QUAKE-1785241221.jpg?resize=1920%2C1440",
+    "date": 1785236523000,
+    "titleSl": "Več mrtvih na Japonskem po potresu z magnitudo 7,1, ki je povzročil eksplozijo v nakupovalnem središču"
    }
   ],
   "guardian": [
@@ -410,14 +410,21 @@
     "titleSl": "Gozdni požari v Franciji: Kako škodljiv je dim za vaše zdravje"
    },
    {
-    "title": "Sean Astin: Herr der Ringe-Schauspieler hatte trotz Film-Erfolg finanzielle Probleme",
+    "title": "Herr der Ringe: Sean Astin hatte trotz des großen Erfolgs finanzielle Probleme",
     "link": "https://www.spiegel.de/panorama/leute/sean-astin-herr-der-ringe-schauspieler-hatte-trotz-film-erfolg-finanzielle-probleme-a-79f90a22-6af7-497f-8ee7-f10daad32087#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/51393e30-dc9f-4318-971e-9dd283e9ed6d_w520_r2.08_fpx42.55_fpy50.jpg",
     "date": 1785237060000,
-    "titleSl": "Sean Astin: Igralec Gospodarja prstanov je imel finančne težave kljub uspehu filma"
+    "titleSl": "Gospodar prstanov: Sean Astin je imel kljub velikemu uspehu finančne težave"
    }
   ],
   "bild": [
+   {
+    "title": "Neuer Abschiebeflug nach Kabul - Das sind die Gewalttäter im Afghanistan-Flieger",
+    "link": "https://www.bild.de/politik/inland/abschiebeflug-nach-afghanistan-das-sind-die-brutalen-taeter-aus-dem-flieger-6a6885cea17ee9f1dfd81782",
+    "image": "https://images.bild.de/6a6885cea17ee9f1dfd81782/bda4f424c1ad193b52bf036d333dabcd,be7b8cae?w=1280",
+    "date": 0,
+    "titleSl": "Nov deportacijski let v Kabul - To so nasilniki na afganistanskem letalu"
+   },
    {
     "title": "Unfassbare Kommentare - Boy George erntet Hass für Israel-Song",
     "link": "https://www.bild.de/unterhaltung/musik/boy-george-erntet-hass-fuer-israel-song-muellmusik-von-einem-muellmenschen-6a68413da17ee9f1dfd8109b",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a68516a1ff9bc89d8811444/677882d027661ae582be9495682e6514,3b54eb68?w=1280",
     "date": 0,
     "titleSl": "\"V mislih imam samo en stavek ...\" - Bundesligaški vratar upa na Kloppov klic!"
-   },
-   {
-    "title": "Geldsegen für Gläubige - Millionär zahlt 500 Euro Prämie für katholische Taufe",
-    "link": "https://www.bild.de/news/inland/millionaer-zahlt-500-euro-praemie-fuer-taufe-6a6489c7fe2765826e0fcd98",
-    "image": "https://images.bild.de/6a6489c7fe2765826e0fcd98/2b18135c0804b868f656f2d281b4c453,5bde978a?w=1280",
-    "date": 0,
-    "titleSl": "Denarni blagoslov za vernike - milijonar plačal 500 evrov bonusa za katoliški krst"
    }
   ],
   "krone": [
@@ -514,6 +514,13 @@
     "titleSl": "Reprezentanca, Malagò: \"Z Mancinijem se pogovarjam o klopi Azzurrov\""
    },
    {
+    "title": "Atto vandalico a Medjugorje, sfregiate le statue della Madonna e appiccato un incendio",
+    "link": "https://www.rainews.it/articoli/2026/07/atto-vandalico-a-medjugorje-sfregiate-le-statue-della-madonna-e-appiccato-un-incendio-f1b79ea5-501f-4c5a-a2ab-57d472bb54e2.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/28/1785237782525_Medjugorie_.jpg",
+    "date": 1785242700000,
+    "titleSl": "Vandalizem v Medžugorju, razmazani kipi Madone in podtaknjen požar"
+   },
+   {
     "title": "Tg2 Medicina 33 del 28/07/2026",
     "link": "https://www.rainews.it/rubriche/tg2medicina33/video/2026/07/Tg2-Medicina-33-del-28072026-2a08f303-4832-440a-befd-a2044dc5c6f7.html",
     "image": "https://www.rainews.it/dl/img/2025/11/05/1762340114039_Tg2_Medicina_33_2048x1152.jpg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/07/28/1785196711568_CBFE.jpg",
     "date": 1785241140000,
     "titleSl": "Mediji, ukrajinski napad na Moskvo z več kot 300 droni. Zelenski danes od Trumpa: \"Vojna se bo končala\""
-   },
-   {
-    "title": "Sisma 7.1 nel sud del Giappone. Media: \"Diverse vittime nel centro commerciale danneggiato\"",
-    "link": "https://www.rainews.it/articoli/2026/07/terremoto-di-magnitudo-71-nel-sud-del-giappone-e-allerta-tsunami-7bc376b2-f45c-40a5-9cde-5dc749c057ff.html",
-    "image": "https://www.rainews.it/dl/img/2026/07/28/1785236629691_vlcsnaphms.png",
-    "date": 1785240060000,
-    "titleSl": "Potres z magnitudo 7,1 na jugu Japonske. Mediji: \"Več žrtev v poškodovanem trgovskem centru\""
    }
   ],
   "lemonde": [
@@ -595,18 +595,39 @@
   ],
   "elpais": [
    {
-    "title": "Carrera contra el fuego en Ávila y Madrid: 24 horas clave antes de la ola de calor",
-    "link": "https://elpais.com/espana/2026-07-28/carrera-contra-el-fuego-en-avila-y-madrid-24-horas-criticas-antes-de-la-ola-de-calor.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ROTWO2TS5FEQZMASDAOV274FQY.JPG?auth=e64aab8a663cbcdba04fcae0f2eba5c1ad58d54e7297450f1bca0be97068b2ab",
-    "date": 1785242098000,
-    "titleSl": "Dirka proti ognju v Ávili in Madridu: 24 ključnih ur pred vročinskim valom"
+    "title": "Última hora de los incendios forestales, en directo | Los incendios dan una tregua horas antes de la ola de calor y 15.000 desalojados vuelven a sus casas",
+    "link": "https://elpais.com/espana/2026-07-28/ultima-hora-de-los-incendios-forestales-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/KTRTHPL7DFA2JJPI5YFERPHBH4.jpg?auth=6440a545ef48800d6a47f870582d93c2752268852f725da22fa35619d1a3bb2f",
+    "date": 1785242696000,
+    "titleSl": "Zadnje novice o gozdnih požarih, v živo | Požari ugasnejo nekaj ur pred vročinskim valom in 15.000 deložiranih ljudi se vrne na svoje domove"
    },
    {
     "title": "Varias personas quedan atrapadas en la explosión de un centro comercial tras un fuerte terremoto en Japón",
     "link": "https://elpais.com/internacional/2026-07-28/japon-registra-un-fuerte-terremoto-de-magnitud-71-y-emite-una-alerta-por-tsunami.html",
     "image": "https://imagenes.elpais.com/resizer/v2/N4CIN3RNJNGKTNYJ3VQ44WXPHY.jpg?auth=6f29f6b5fc6f96e65ddf6834714e4f87bc8a257372f6ed8b7fb7dd928854ca03",
-    "date": 1785241741000,
+    "date": 1785242570000,
     "titleSl": "Več ljudi je ujetih v eksploziji nakupovalnega centra po močnem potresu na Japonskem"
+   },
+   {
+    "title": "Carrera contra el fuego en Ávila y Madrid: 24 horas clave antes de la ola de calor",
+    "link": "https://elpais.com/espana/2026-07-28/carrera-contra-el-fuego-en-avila-y-madrid-24-horas-criticas-antes-de-la-ola-de-calor.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ROTWO2TS5FEQZMASDAOV274FQY.JPG?auth=e64aab8a663cbcdba04fcae0f2eba5c1ad58d54e7297450f1bca0be97068b2ab",
+    "date": 1785242461000,
+    "titleSl": "Dirka proti ognju v Ávili in Madridu: 24 ključnih ur pred vročinskim valom"
+   },
+   {
+    "title": "El Real Madrid supera los 1.400 millones de gasto en la remodelación del Santiago Bernabéu",
+    "link": "https://elpais.com/economia/2026-07-28/el-real-madrid-supera-los-1400-millones-de-gasto-en-la-remodelacion-del-santiago-bernabeu.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VTQ5MWABBRDORBB2WUTOJCC5H4.jpg?auth=4d156ea89e60fd2178fbd2cb8e18fe1f4aad3d4a1c080bb7a0f9f0f9601cc707",
+    "date": 1785242211000,
+    "titleSl": "Real Madrid porabi več kot 1,4 milijarde za prenovo Santiago Bernabéu"
+   },
+   {
+    "title": "“Dolor y rabia”: el regreso de los vecinos de La Vall d’Uixó a sus casas en un monte calcinado",
+    "link": "https://elpais.com/espana/2026-07-28/dolor-y-rabia-el-regreso-de-los-vecinos-de-la-vall-duixo-a-sus-casas-en-un-monte-calcinado.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/G37ALVDMZNM5BCPFBUDX66TLQQ.jpg?auth=5301b4facaa815f33428e1d699ff475c5412d71e1d488d748587763c5e74c7bd",
+    "date": 1785241913000,
+    "titleSl": "\"Bolečina in bes\": vrnitev prebivalcev La Vall d'Uixó na svoje domove na zogleneli gori"
    },
    {
     "title": "El Poder Judicial envía al TSJ de Madrid dos investigaciones al juez Peinado por dos posibles faltas de desconsideración y retraso",
@@ -614,27 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/4CX6JLEPINBIHOAA6YG4KOSWVQ.jpg?auth=24130066beb9a35503e2106cf9ef41b3be6f241f8cd8b07926516c8e5b78451e",
     "date": 1785240864000,
     "titleSl": "Sodstvo pošlje dve preiskavi sodniku Peinadu na TSJ v Madridu zaradi dveh možnih kršitev nepremišljenosti in zamude."
-   },
-   {
-    "title": "Hacienda aplaza la reunión sobre financiación autonómica a petición de las comunidades del Partido Popular",
-    "link": "https://elpais.com/economia/2026-07-28/hacienda-aplaza-la-reunion-sobre-financiacion-autonomica-a-peticion-de-las-comunidades-del-partido-popular.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZO2D7BU7NVKX3O5H53TKIP2OCE.jpg?auth=829172b6932091b15bce52b8f7c8faba8d7ff24b66327dfcb697db2f6fcbd019",
-    "date": 1785240715000,
-    "titleSl": "Ministrstvo za finance preloži sestanek o regionalnem financiranju na zahtevo skupnosti Ljudske stranke"
-   },
-   {
-    "title": "El Banco de España advierte: “Un futuro sin efectivo es un escenario de alto riesgo”",
-    "link": "https://cincodias.elpais.com/mercados-financieros/2026-07-28/el-banco-de-espana-advierte-un-futuro-sin-efectivo-es-un-escenario-de-alto-riesgo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/JB4BHRKCY7TQCVVKFTPYHF6TKQ.jpg?auth=e9874ca78c48055826d2f445cf9b4f67911138c6adebed9ca27df7f966da5670",
-    "date": 1785240614000,
-    "titleSl": "Banka Španije opozarja: \"Prihodnost brez gotovine je scenarij z visokim tveganjem\""
-   },
-   {
-    "title": "Roberto Mancini vuelve al banquillo de Italia tras el caos por Pirlo y los rechazos de Guardiola y Ancelotti",
-    "link": "https://elpais.com/deportes/futbol/2026-07-28/roberto-mancini-vuelve-al-banquillo-de-italia-tras-el-caos-por-pirlo-y-los-rechazos-de-guardiola-y-ancelotti.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/7OA4YKRTEVD26V6P3MLBW636NM.jpg?auth=d620670bff79690cdce8b94afa89ee014a624ab2806ce3afe31c7e9cc572858f",
-    "date": 1785240291000,
-    "titleSl": "Roberto Mancini se po kaosu zaradi Pirla ter zavrnitvah Guardiole in Ancelottija vrača na italijansko klop"
    }
   ]
  },
