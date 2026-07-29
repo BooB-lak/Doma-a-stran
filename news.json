@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29T14:52:26.257Z",
+ "generatedAt": "2026-07-29T14:54:25.898Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Umrl je znani francoski didžej Kavinsky",
+    "link": "https://www.24ur.com/popin/glasba/umrl-je-znani-francoski-didzej-kavinsky.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/a234cec05ec458189872_63624468.jpg?v=8f68&fop=fp:0.45:0.26",
+    "date": 1785336716000
+   },
+   {
     "title": "Slavko Vinčić se po zgodovinskem finalu poslavlja od sojenja",
     "link": "https://www.24ur.com/sport/nogomet/vincic-se-zadnjic-kot-sodnik.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/8b44f8c5d3e9020bd6ba_63624565.jpg?v=07d8&fop=fp:0.59:0.46",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/glasba/v-nesreci-z-motorjem-umrl-z-oskarjem-nagrajeni-igralec-in-glasbenik-glen-hansard.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/1e53af2f5ca9e61f1677_63624528.jpg?v=1ef9&fop=fp:0.36:0.23",
     "date": 1785334695000
-   },
-   {
-    "title": "Grozljiv prekršek na tekmi v Braziliji terjal hud davek",
-    "link": "https://www.24ur.com/sport/nogomet/branilec-z-grdim-prekrskom-nasportniku-zlomil-nogo.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/7c5050446e8ea756f666_63624552.jpg?v=62a6&fop=fp:0.46:0.42",
-    "date": 1785334061000
    }
   ],
   "rtvslo": [
@@ -199,11 +199,25 @@
   ],
   "nyt": [
    {
+    "title": "Can This Man Stop the Mamdani Agenda?",
+    "link": "https://www.nytimes.com/2026/07/29/nyregion/mamdani-manhattan-institute-affordability.html",
+    "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29met-manhattan-institute-promo-jwml/29met-manhattan-institute-promo-jwml-mediumSquareAt3X.jpg",
+    "date": 1785336590000,
+    "titleSl": "Ali lahko ta človek ustavi Mamdanijevo agendo?"
+   },
+   {
     "title": "Can Anyone Spare a Buck For Texas?",
     "link": "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html",
     "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29pol-texas-money-paxton-tkgl/29pol-texas-money-paxton-tkgl-mediumSquareAt3X.jpg",
     "date": 1785336462000,
     "titleSl": "Lahko kdo prihrani denar za Texas?"
+   },
+   {
+    "title": "As Trump Squeezes Cuba, He Plans to Send Cuban Deportees to Uruguay",
+    "link": "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html",
+    "image": "https://static01.nyt.com/images/2026/07/27/multimedia/00dc-cuba-deportations-02-cjbk/00dc-cuba-deportations-02-cjbk-mediumSquareAt3X.jpg",
+    "date": 1785336312000,
+    "titleSl": "Medtem ko Trump stiska Kubo, namerava kubanske deportirane osebe poslati v Urugvaj"
    },
    {
     "title": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29int-europe-heat-moment-01-qgwb/29int-europe-heat-moment-01-qgwb-mediumSquareAt3X.jpg",
     "date": 1785334012000,
     "titleSl": "Poletje vročine, požarov in neviht je obračun za Evropo glede podnebja"
-   },
-   {
-    "title": "Glen Hansard, Frontman of Irish Band the Frames, Dies at 56",
-    "link": "https://www.nytimes.com/2026/07/29/obituaries/glen-hansard-dead.html",
-    "image": "https://static01.nyt.com/images/2026/07/29/multimedia/-29obit-hansard-hjbl/-29obit-hansard-hjbl-mediumSquareAt3X.jpg",
-    "date": 1785333370000,
-    "titleSl": "Glen Hansard, frontman irske skupine The Frames, je umrl pri 56 letih"
-   },
-   {
-    "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-    "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-    "image": "https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg",
-    "date": 1785332789000,
-    "titleSl": "Rusija ustanovitelja Telegrama Pavla Durova obtožuje omogočanja terorizma"
    }
   ],
   "bbc": [
@@ -331,25 +331,39 @@
   ],
   "guardian": [
    {
-    "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
-    "link": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/95aaa36271e29748803235ed48d74c4fc42f582b/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=61e0cf9a31288104065f6cf5fd432d20",
-    "date": 1785335253000,
-    "titleSl": "Reševalne ekipe se soočajo s \"tekmo s časom\" pri iskanju ujetih preživelih, saj se število smrtnih žrtev na Japonskem dvigne na najmanj 13 - posodobitve v živo"
+    "title": "Anthony Fauci invokes fifth amendment in Covid origins hearing, repeatedly declining to answer questions – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/07ceea4b6481774593d8ce90346d746a86a1ee4c/170_0_4093_3275/master/4093.jpg?width=140&quality=85&auto=format&fit=max&s=d11812c4d1eb038f23bbbd21b67ee009",
+    "date": 1785336535000,
+    "titleSl": "Anthony Fauci se sklicuje na peti amandma na zaslišanju o izvoru Covida in večkrat zavrača odgovarjanje na vprašanja – v živo"
    },
    {
     "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/e2af04a787db17b71c6f95e1a67d57cc2baa2133/3069_933_6849_5478/master/6849.jpg?width=140&quality=85&auto=format&fit=max&s=8d58b173216d81a85251d760746c5d46",
-    "date": 1785335047000,
+    "date": 1785336500000,
     "titleSl": "Španija se sooča s \"zapletenimi\" tremi dnevi s tveganjem vročinskega vala in močnega vetra, ki ponovno zaneti nekaj požarov - Evropa v živo"
    },
    {
-    "title": "Anthony Fauci invokes fifth amendment right not to answer questions in Senate hearing on Covid-19 – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/07ceea4b6481774593d8ce90346d746a86a1ee4c/170_0_4093_3275/master/4093.jpg?width=140&quality=85&auto=format&fit=max&s=d11812c4d1eb038f23bbbd21b67ee009",
-    "date": 1785334761000,
-    "titleSl": "Anthony Fauci se sklicuje na peti amandma, da ne odgovarja na vprašanja na senatnem zaslišanju o Covid-19 – v živo"
+    "title": "‘It’s just not cricket’: seaside town reacts to ‘Clickgate’ cheating row",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/29/cricket-seaside-town-reacts-to-clickgate-cheating-saltburn",
+    "image": "https://i.guim.co.uk/img/media/f85aa24c2bb9e7fef8c69220c40eea05a8a0557c/1478_172_6612_5292/master/6612.jpg?width=140&quality=85&auto=format&fit=max&s=b54ceb749c1cfd208c3d1b2ff8d65195",
+    "date": 1785336106000,
+    "titleSl": "\"To preprosto ni kriket\": obmorsko mesto se odzove na spor o goljufanju \"Clickgate\""
+   },
+   {
+    "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
+    "link": "https://www.theguardian.com/world/2026/jul/29/a-decade-on-the-iberian-frontline-has-shown-me-that-europes-climate-emergency-is-impossible-to-deny",
+    "image": "https://i.guim.co.uk/img/media/7c81244c2fede386d08d6d40a46b9cf675de4ae5/447_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=d493cb89aa579ad051b22d479c7cae13",
+    "date": 1785335735000,
+    "titleSl": "​Desetletje na iberski ​frontni liniji​ mi je pokazalo, da je ​nemogoče ​zanikati​ ​Evropsko ​podnebno ​krizo​​"
+   },
+   {
+    "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/95aaa36271e29748803235ed48d74c4fc42f582b/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=61e0cf9a31288104065f6cf5fd432d20",
+    "date": 1785335253000,
+    "titleSl": "Reševalne ekipe se soočajo s \"tekmo s časom\" pri iskanju ujetih preživelih, saj se število smrtnih žrtev na Japonskem dvigne na najmanj 13 - kot se je zgodilo"
    },
    {
     "title": "Next 12 hours ‘decisive’ for wildfire near Madrid, says Spanish PM",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/f98c3a7a01805b89f888cbc603fde6f6ee1dc314/17_0_4665_3732/master/4665.jpg?width=140&quality=85&auto=format&fit=max&s=97f3bff259b6df01c93937b450ea01de",
     "date": 1785334673000,
     "titleSl": "Naslednjih 12 ur je \"odločilnih\" za požar v bližini Madrida, pravi španski premier"
-   },
-   {
-    "title": "Burnham does not rule out tax rises for social care reform as he fast-tracks Louise Casey’s review – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
-    "image": "https://i.guim.co.uk/img/media/c246186fa0af17731ddc39d83aa5731ac3f075da/424_0_4256_3404/master/4256.jpg?width=140&quality=85&auto=format&fit=max&s=39d2084b4f17ea42ca39400af63c7373",
-    "date": 1785334512000,
-    "titleSl": "Burnham ne izključuje zvišanja davkov za reformo socialnega varstva, ko hitro sledi pregledu Louise Casey – britanska politika v živo"
-   },
-   {
-    "title": "Triple killer who dismembered bodies of two friends given whole-life jail sentence",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/29/triple-killer-who-dismembered-bodies-of-two-friends-given-whole-life-jail-sentence",
-    "image": "https://i.guim.co.uk/img/media/f670cde34448256993c32460aba52a73de7efa8e/0_138_1080_864/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=77d93130fb9c1b717f64bbf0f6fd6091",
-    "date": 1785334354000,
-    "titleSl": "Trojni morilec, ki je razkosal trupli dveh prijateljev, obsojen na dosmrtno ječo"
    }
   ],
   "spiegel": [
@@ -463,6 +463,13 @@
   ],
   "krone": [
    {
+    "title": "„Können nirgends hin“ - Formel 1: Europa wäre bei Absagen letzte Hoffnung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RSkY5RlNZRUJBbXU0MXNkV3ZzUFhMV0VSTkQtLWdXU0toaHoxcHI5cG1mbEJMZi14cVprS2p6WTB4Zw?oc=5",
+    "image": "",
+    "date": 1785335700000,
+    "titleSl": "\"Nikamor iti\" - Formula 1: Evropa bi bila zadnje upanje, če bi bila odpovedana"
+   },
+   {
     "title": "Neueste Analyse - Wieder mehr Bewegung in Salzburgs Immobilienmarkt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKR0RHbkdSdFktaE53dlF6RkNaMm5mWFo2ODlYc2VTRml6V3lNRGZCMWhNdFVBWGVVZHp2YXFzRU9udw?oc=5",
     "image": "",
@@ -484,13 +491,6 @@
     "titleSl": "Sonce namesto gradu! - Kraljevski bikini pozdrav s poletnih počitnic ob morju"
    },
    {
-    "title": "Aus der Serie A - Nach Europa-Gala: Sturm holt weitere Verstärkung",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yOHlwcE9CeFo0a3FqSFBaNV90WV9xRlZKR2s5UUZ6OHVBYS1tcnVyTWx3QjhMMVhTTVNlZ0NtZEZKQQ?oc=5",
-    "image": "",
-    "date": 1785333600000,
-    "titleSl": "Iz Serie A - Po evropski gala: Sturm prinaša nove okrepitve"
-   },
-   {
     "title": "Mobiles Wetterradar - Gerüstet sein für extreme Wetterereignisse",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8weGhNU3ZIY2FFS2h4aVRVVEh5Z0F4WW9icnF2eDZ1emh4LXhLakZtcXhHSzIzbkxPWjZjd0lkYnlfdw?oc=5",
     "image": "",
@@ -498,14 +498,21 @@
     "titleSl": "Mobilni vremenski radar – Bodite pripravljeni na ekstremne vremenske dogodke"
    },
    {
-    "title": "„Biblische Plage“ - Schädling wütet: Winzer rufen Notstand aus",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9STF9UeHdxNi1kaFhmcU5VbERhaFZlQ2xmTW5tbmt3Y2Vkc1piR1ZfTzBOcmp0Z1dzVFRjVk0wbzIwZw?oc=5",
+    "title": "Aus der Serie A - Nach Europa-Gala: Sturm holt weitere Verstärkung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yOHlwcE9CeFo0a3FqSFBaNV90WV9xRlZKR2s5UUZ6OHVBYS1tcnVyTWx3QjhMMVhTTVNlZ0NtZEZKQQ?oc=5",
     "image": "",
     "date": 1785333600000,
-    "titleSl": "“Biblična kuga” - divja škodljivec: vinogradniki razglasili izredne razmere"
+    "titleSl": "Iz Serie A - Po evropski gala: Sturm prinaša nove okrepitve"
    }
   ],
   "rainews": [
+   {
+    "title": "Il ministro della Difesa libanese Menassa: \"Disarmeremo Hezbollah e Israele lascerà il Paese\"",
+    "link": "https://www.rainews.it/video/2026/07/il-ministro-della-difesa-libanese-menassa-disarmeremo-hezbollah-e-israele-lascera-il-paese-348ea844-e53f-42fe-aaf6-a5d3e1941061.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/290726-205_Michel_Menassa.jpeg",
+    "date": 1785336720000,
+    "titleSl": "Libanonski obrambni minister Menassa: \"Razorožili bomo Hezbolah in Izrael bo zapustil državo\""
+   },
    {
     "title": "Il dj Kavinsky trovato morto in casa a Parigi, firmò la colonna sonora del film \"Drive\"",
     "link": "https://www.rainews.it/articoli/2026/07/il-dj-kavinsky-trovato-morto-in-casa-a-parigi-firmo-la-colonna-sonora-del-film-drive-canzone-hit-nightcall-6d125d67-aef6-426a-9e16-7b5cad525f30.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/07/29/1785302614051_CCPLY.jpg",
     "date": 1785333840000,
     "titleSl": "Francija, trupla 5 novorojenčkov v škatlah in vrečah. Par se je ustavil"
-   },
-   {
-    "title": "Muore in un incidente in moto l&#x27;attore e cantante Glen Hansard, Oscar per \"Once\"",
-    "link": "https://www.rainews.it/articoli/2026/07/muore-in-incidente-moto-attore-e-cantante-glen-hansard-oscar-per-once-852f8326-5234-4121-b741-d0a2944a213b.html",
-    "image": "https://www.rainews.it/dl/img/2026/07/29/1785332477465_rainewsTECNAVIAPHOTOGENERALE.jpg",
-    "date": 1785332940000,
-    "titleSl": "Igralec in pevec Glen Hansard, oskar za film Once, je umrl v nesreči z motorjem"
    }
   ],
   "lemonde": [
@@ -595,18 +595,18 @@
   ],
   "elpais": [
    {
+    "title": "Última hora de los incendios forestales, en directo | Interior da por estabilizado el incendio en Madrid, pero preocupa uno en Zamora de nivel 2",
+    "link": "https://elpais.com/espana/2026-07-29/ultima-hora-de-los-incendios-forestales-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/RREMWPEFUZDSZCSNHXZEXGY7T4.JPG?auth=f5ce52ff6fd6d928aad98fd16a749f4227b7b53edd6b3fbe97637bde8987861f",
+    "date": 1785336586000,
+    "titleSl": "Zadnje novice o gozdnih požarih, v živo | Notranje ministrstvo meni, da je požar v Madridu stabiliziran, vendar obstaja zaskrbljenost zaradi požara 2. stopnje v Zamori"
+   },
+   {
     "title": "El petróleo vuelve a los 90 dólares por el temor a una nueva escalada en Oriente Próximo",
     "link": "https://cincodias.elpais.com/mercados-financieros/2026-07-29/la-bolsa-y-el-ibex-35.html",
     "image": "https://imagenes.elpais.com/resizer/v2/V7MOCCKPWVJ5ZPSYTMXLTLDAQM.jpg?auth=5c1a65f8464779b3669cb6e4f014df21fbdb1d1cf4c64a5fefa0013ad08dcc6e",
     "date": 1785335350000,
     "titleSl": "Nafta se zaradi strahu pred novim zaostrovanjem na Bližnjem vzhodu vrača na 90 dolarjev"
-   },
-   {
-    "title": "Última hora de los incendios forestales, en directo | Marlaska da por estabilizados técnicamente los incendios de Madrid y Ávila y levanta nuevas evacuaciones",
-    "link": "https://elpais.com/espana/2026-07-29/ultima-hora-de-los-incendios-forestales-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/RREMWPEFUZDSZCSNHXZEXGY7T4.JPG?auth=f5ce52ff6fd6d928aad98fd16a749f4227b7b53edd6b3fbe97637bde8987861f",
-    "date": 1785335170000,
-    "titleSl": "Zadnje novice o gozdnih požarih, v živo | Marlaska meni, da sta požara v Madridu in Ávili tehnično stabilizirana in ukinja nove evakuacije"
    },
    {
     "title": "La Comunidad de Madrid denuncia al Rayo por impedir el acceso al Estadio de Vallecas para iniciar las obras",
