@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29T17:06:31.033Z",
+ "generatedAt": "2026-07-29T17:08:29.457Z",
  "sources": {
   "siol": [
    {
@@ -79,7 +79,13 @@
   ],
   "rtvslo": [
    {
-    "title": "Prenova loretanske kapele na Mariborskem gradu poteka v skladu z načrti, na ogled bodo kamniti kipi",
+    "title": "Ukrajina se je pritožila športnem arbitražnem sodišču",
+    "link": "https://www.rtvslo.si/sport/preostali-sporti/ukrajina-se-je-pritozila-sportnem-arbitraznem-sodiscu/789473",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/07/29/67064544.jpg",
+    "date": 1785344267000
+   },
+   {
+    "title": "Prenova Loretanske kapele na Mariborskem gradu poteka v skladu z načrti, na ogled bodo kamniti kipi",
     "link": "https://www.rtvslo.si/kultura/prenova-loretanske-kapele-na-mariborskem-gradu-poteka-v-skladu-z-nacrti-na-ogled-bodo-kamniti-kipi/789471",
     "image": "https://img.rtvcdn.si/_up/upload/2026/07/29/67064523.jpg",
     "date": 1785343089000
@@ -91,8 +97,8 @@
     "date": 1785342866000
    },
    {
-    "title": "Fauci na senatnem zaslišanju ni želel odgovarjati na vprašanja o izvoru covida",
-    "link": "https://www.rtvslo.si/svet/s-in-j-amerika/fauci-na-senatnem-zaslisanju-ni-zelel-odgovarjati-na-vprasanja-o-izvoru-covida/789472",
+    "title": "Fauci na senatnem zaslišanju zavračal odgovore na vprašanja o izvoru covida",
+    "link": "https://www.rtvslo.si/svet/s-in-j-amerika/fauci-na-senatnem-zaslisanju-zavracal-odgovore-na-vprasanja-o-izvoru-covida/789472",
     "image": "https://img.rtvcdn.si/_up/upload/2026/07/29/67064543.jpg",
     "date": 1785342688000
    },
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/nogomet/neymar-koncal-reprezentancno-pot/789468",
     "image": "https://img.rtvcdn.si/_up/upload/2026/06/25/67056210.jpg",
     "date": 1785341552000
-   },
-   {
-    "title": "Vinčić: Z VAR-om je breme za sodnika dosti manjše in nujni sestavni del igre",
-    "link": "https://www.rtvslo.si/sport/nogomet/vincic-z-var-om-je-breme-za-sodnika-dosti-manjse-in-nujni-sestavni-del-igre/789463",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/29/67064519.jpg",
-    "date": 1785340779000
    }
   ],
   "zurnal": [
@@ -220,6 +220,13 @@
     "titleSl": "Kanadski odgovor na Trumpove tarife: Več energetskih poslov z Evropo"
    },
    {
+    "title": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
+    "link": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
+    "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29cli-datacenters-01b-fzhm/29cli-datacenters-01b-fzhm-mediumSquareAt3X.jpg",
+    "date": 1785343720000,
+    "titleSl": "Trumpova administracija preuredi zvezno deželo za AI Podatkovni centri"
+   },
+   {
     "title": "Why Republicans Aren’t Funding the Texas Senate Race Yet",
     "link": "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html",
     "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29pol-texas-money-paxton-tkgl/29pol-texas-money-paxton-tkgl-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/07/28/multimedia/dc-fund-btvh/dc-fund-btvh-mediumSquareAt3X.jpg",
     "date": 1785342103000,
     "titleSl": "Ker je na kocki imenovanje Blanche, se izplačila Trumpovim zaveznikom nadaljujejo"
-   },
-   {
-    "title": "Could Jettisoning CNN Save the Paramount Merger?",
-    "link": "https://www.nytimes.com/2026/07/29/opinion/cnn-paramount-warner-bros-merger-ellison.html",
-    "image": "https://static01.nyt.com/images/2026/07/29/opinion/29waxman-image/29waxman-image-mediumSquareAt3X.jpg",
-    "date": 1785342011000,
-    "titleSl": "Bi lahko zavrnitev CNN rešila najpomembnejšo združitev?"
    }
   ],
   "bbc": [
@@ -273,7 +273,7 @@
    {
     "title": "France fire crews face searing heat in battle to contain flames",
     "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa92/live/15521b20-8b6b-11f1-b8ee-9b3c26ad07bb.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab26/live/db3636b0-8b6f-11f1-9c48-75e854e5573d.jpg",
     "date": 1785343781000,
     "titleSl": "Francoske gasilske ekipe se v boju za omejitev ognja soočajo z žgočo vročino"
    },
@@ -461,7 +461,50 @@
     "titleSl": "23 lokacij v Nemčiji - prašičerejski velikan vloži zahtevo za stečaj"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Na Mahlzeit! - Feuerwehr bewahrte Kröte vor dem Schlangen-Tod",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05WklESTk0SWdGLXRJYkp1X2p5WWlHazhlZjFfSUE0ZXVyTjlxTjNRQkkxS2Q1NXM2cGNPTUZiN2tqUQ?oc=5",
+    "image": "",
+    "date": 1785344400000,
+    "titleSl": "No, obrok! - Gasilci so rešili krastačo pred kačjo smrtjo"
+   },
+   {
+    "title": "IOC hebt Sperre auf - Ukraine klagt wegen Wiederzulassung von Russland",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBlN1NWbzN6cE5CdFFnWEJYc2dPRmNxQm5La3hTTkx4WXBIMmk0cmpveGJLYWs5ZGVXZi1aNmNuRzlsUQ?oc=5",
+    "image": "",
+    "date": 1785343920000,
+    "titleSl": "MOK odpravil prepoved – Ukrajina toži zaradi ponovnega sprejema Rusije"
+   },
+   {
+    "title": "Kleinkind erkrankt - Babynahrung verunreinigt? Familie klagt Nestlé",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kWTJ1LW1jNzd3VWhWQW9lSDJMcU9sVDF6S0N0RUQyd2xlX1l3RjE3UHRTSVZoYWJ6aU9TVUsyd25oQQ?oc=5",
+    "image": "",
+    "date": 1785343441000,
+    "titleSl": "Malček bolan – otroška hrana okužena? Družina toži Nestlé"
+   },
+   {
+    "title": "Comeback der Kelly Family? Das sagt Angelo dazu",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hM2tHQ1VoZEpuQmVxM1RNOWlUbVFaMUtfSDZrYkd3cnhPYjVsc1lrbE5RVGI0X1dNYnFNeWNlc2k2UQ?oc=5",
+    "image": "",
+    "date": 1785343343000,
+    "titleSl": "Vrnitev družine Kelly? To je tisto, kar Angelo pravi o tem"
+   },
+   {
+    "title": "„Gegenüber manchen wird viel zu harsch geschossen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qQWNzaE9qNDU1THN1VXRRQi1rSEdtaE1CY3JPMmNqSlFTSG9na0dIWWVOV1RneldkSzg5MWtmYzRpUQ?oc=5",
+    "image": "",
+    "date": 1785342600000,
+    "titleSl": "\"Nekatere ljudi ustrelijo veliko pregrobo\""
+   },
+   {
+    "title": "Ein fataler Faktor - Weltrekordversuch auf der Donau fiel ins Wasser",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMVksxUzNKUzRNQ2xaNHBVUmdBSjgteE94ZUx5VlJNWHQyVzVZS3ZFRjVIMS1OYmVWVjVuV2J3cEtiUQ?oc=5",
+    "image": "",
+    "date": 1785342600000,
+    "titleSl": "Usoden dejavnik - padel je poskus svetovnega rekorda na Donavi"
+   }
+  ],
   "rainews": [
    {
     "title": "La presentazione del ritorno di Mancini come ct della Nazionale - DIRETTA streaming",
@@ -508,6 +551,13 @@
   ],
   "lemonde": [
    {
+    "title": "Brésil : la Cour suprême somme Jair Bolsonaro de s’expliquer sur un deepfake électoral en soutien de son fils candidat à la présidentielle",
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/bresil-la-cour-supreme-somme-jair-bolsonaro-de-s-expliquer-sur-un-deepfake-electoral-en-soutien-de-son-fils-candidat-a-la-presidentielle_6736406_3210.html",
+    "image": "https://img.lemde.fr/2026/07/29/408/0/4900/2450/644/322/60/0/ff519c0_ftp-1-pzblof4kok31-2026-07-29t031508z-2037710400-rc24lmae6fd3-rtrmadp-3-brazil-politics-bolsonaro-ai.JPG",
+    "date": 1785344524000,
+    "titleSl": "Brazilija: vrhovno sodišče poziva Jairja Bolsonara, da pojasni volilni deepfake v podporo njegovemu sinu, predsedniškemu kandidatu"
+   },
+   {
     "title": "L’Arcom sanctionne CNews à hauteur de 200 000 euros pour des propos de nature à « inciter à la haine »",
     "link": "https://www.lemonde.fr/economie/article/2026/07/29/l-arcom-sanctionne-cnews-a-hauteur-de-200-000-euros-pour-des-propos-de-nature-a-inciter-a-la-haine_6736402_3234.html",
     "image": "https://img.lemde.fr/2026/07/29/104/0/7488/3744/644/322/60/0/9da0145_upload-1-l0zi4nxmpf76-000-96z97ff.jpg",
@@ -541,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/07/29/931/0/4000/2000/644/322/60/0/7e287d9_upload-1-ejtspw4bpbmd-pebrel-georgie-societe-civile-12.jpg",
     "date": 1785339004000,
     "titleSl": "V Gruziji je civilna družba zadnja protimoč agoniji: \"Vsak trenutek se pripravljam na aretacijo\""
-   },
-   {
-    "title": "Incident OpenAI : les modèles d’IA ont fait intrusion sur quatre autres plateformes en plus de Hugging Face",
-    "link": "https://www.lemonde.fr/pixels/article/2026/07/29/incident-openai-les-modeles-d-ia-ont-fait-intrusion-sur-quatre-autres-plateformes-qu-hugging-face_6736385_4408996.html",
-    "image": "https://img.lemde.fr/2023/10/25/51/0/2000/1000/644/322/60/0/5ae5955_1698248550474-ransomware-illu-ordi-chevalde3-v2.png",
-    "date": 1785337554000,
-    "titleSl": "Incident OpenAI: modeli AI so vdrli na štiri druge platforme poleg Hugging Face"
    }
   ],
   "elpais": [
