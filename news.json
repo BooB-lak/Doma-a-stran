@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29T19:02:26.560Z",
+ "generatedAt": "2026-07-29T19:04:31.604Z",
  "sources": {
   "siol": [
    {
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Bordeaux wildfire battle continues amid extreme heat",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785350474.jpg?resize=1920%2C1080&quality=80",
-    "date": 1785350531000,
-    "titleSl": "Boj z gozdnimi požari v Bordeauxu se nadaljuje sredi ekstremne vročine"
-   },
-   {
-    "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785350008.jpg?resize=1920%2C1080&quality=80",
-    "date": 1785350049000,
-    "titleSl": "Dr Anthony Fauci zagovarja petega na zaslišanju Covid"
-   },
-   {
     "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
     "link": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6a2dbd-1785343421.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785347790.jpg?resize=1920%2C1080&quality=80",
     "date": 1785347809000,
     "titleSl": "Potres na Japonskem je povzročil obsežno uničenje"
+   },
+   {
+    "title": "South Korea’s stock market plunges as AI-driven boom fades",
+    "link": "https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6a31fd-1785344509.jpg?resize=1920%2C1440",
+    "date": 1785347338000,
+    "titleSl": "Južnokorejski delniški trg pada, ko se razcvet, ki ga poganja umetna inteligenca, zmanjšuje"
+   },
+   {
+    "title": "Iran pushes back against US as regional attacks heat up",
+    "link": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C32P8HZ__v3__HighRes__IranUsIsraelWar-1785343891.jpg?resize=1920%2C1440",
+    "date": 1785347127000,
+    "titleSl": "Iran se vrača proti ZDA, medtem ko se regionalni napadi segrevajo"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Aussprache in der Fraktion - Warum Merz von Söder genervt war",
+    "link": "https://www.bild.de/politik/inland/aussprache-in-der-fraktion-warum-merz-von-soeder-genervt-war-6a6a2aedc175441768458bf8",
+    "image": "https://images.bild.de/6a6a2aedc175441768458bf8/43c072e61430e2de352d2a6ded266cb6,41a8e4dd?w=1280",
+    "date": 0,
+    "titleSl": "Razprava v poslanski skupini - Zakaj je Merza razjezil Söder"
+   },
+   {
     "title": "Feuer in Restaurant! - Historische Fachwerkhäuser in Flammen",
     "link": "https://www.bild.de/regional/hessen/feuer-in-restaurant-historische-fachwerkhaeuser-in-flammen-6a6a32dbdd06dd5ef2e3ead7",
     "image": "https://images.bild.de/6a6a32dbdd06dd5ef2e3ead7/e1e52d9d0950c391a91bb873cf749dcd,ad13ba43?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a69e6f1dd06dd5ef2e3e3df/33f2268fb10ad035832c4fc7f22ab169,f758baf9?w=1280",
     "date": 0,
     "titleSl": "91,9 odstotka - Frei ima zdaj svojo sanjsko službo"
-   },
-   {
-    "title": "Top-Transfer bereits in Dortmund - Hier kommt Karetsas beim BVB an",
-    "link": "https://www.bild.de/sport/fussball/top-transfer-bereits-in-dortmund-hier-kommt-karetsas-beim-bvb-an-6a6a4a9887bcd56c6c5c27ae",
-    "image": "https://images.bild.de/6a6a4a9887bcd56c6c5c27ae/a5ccce9e9bbd4a3ae7dfdd9cc68e0a2b,3438f4c6?w=1280",
-    "date": 0,
-    "titleSl": "Vrhunski prestop že v Dortmundu - Tukaj Karetsas prihaja k BVB"
    }
   ],
   "krone": [
@@ -595,11 +595,11 @@
   ],
   "elpais": [
    {
-    "title": "Última hora de los incendios forestales, en directo | Un incendio en el parque natural Arribes del Duero (Zamora) obliga a desalojar siete localidades",
+    "title": "Última hora de los incendios forestales, en directo | Un incendio en el parque natural Arribes del Duero (Zamora) obliga a desalojar 11 localidades",
     "link": "https://elpais.com/espana/2026-07-29/ultima-hora-de-los-incendios-forestales-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/ENV6Z5ISP5G6TPGQWMWIFIORLU.jpg?auth=cf88da32da03b6dae188aa12ce8f08463b569937a503541b09d036ef14c9d806",
-    "date": 1785351298000,
-    "titleSl": "Zadnje novice o gozdnih požarih, v živo | Zaradi požara v naravnem parku Arribes del Duero (Zamora) so morali evakuirati sedem mest"
+    "date": 1785351589000,
+    "titleSl": "Zadnje novice o gozdnih požarih, v živo | Zaradi požara v naravnem parku Arribes del Duero (Zamora) so morali evakuirati 11 mest"
    },
    {
     "title": "El juez Calama autoriza a la UDEF a investigar 57 cuentas de Zapatero, su entorno y empresas del ‘caso Plus Ultra’",
