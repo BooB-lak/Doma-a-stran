@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30T13:14:23.097Z",
+ "generatedAt": "2026-07-30T13:16:26.982Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Pod Amazonijo odkrili na stotine skritih struktur starodavne civilizacije",
+    "link": "https://www.24ur.com/novice/znanost-in-tehnologija/pod-amazonijo-odkrili-na-stotine-skritih-struktur.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/a5c3130d96dd3c8013e7_63625064.jpg?v=c8cd&fop=fp:0.38:0.49",
+    "date": 1785416709000
+   },
+   {
     "title": "Ukrajinski F-16 strmoglavil med opravljanjem nalog",
     "link": "https://www.24ur.com/novice/tujina/ukrajinski-f-16-strmoglavil-med-opravljanjem-nalog.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/2ea8c6015abb73c40845_63625062.jpg?v=7d09&fop=fp:0.40:0.35",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/kosarka/mladi-slovenci-po-poti-starejsih-so-v-polfinalu-ep-do-18-let.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/aa3d91a5a113f06ee5b1_63624688.jpg?v=967c&fop=fp:0.48:0.36",
     "date": 1785414752000
-   },
-   {
-    "title": "Na Kreti požare širi močan veter, v Franciji gasilci zmagujejo v bitki z ognjem",
-    "link": "https://www.24ur.com/novice/tujina/gasilci-v-franciji-zmagujejo-bitko-z-ognjem-najhuje-prizadeta-spanija.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/5206eb54e49a0ec602f5_63625021.jpg?v=6851&fop=fp:0.58:0.38",
-    "date": 1785414248000
    }
   ],
   "rtvslo": [
@@ -201,7 +201,7 @@
    {
     "title": "U.S. GDP Growth Slowed in Second Quarter of 2026",
     "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
-    "image": "https://static01.nyt.com/images/2026/07/30/multimedia/2026-july-biz-promos-gdp/2026-july-biz-promos-gdp-mediumSquareAt3X-v8.png",
+    "image": "https://static01.nyt.com/images/2026/07/30/multimedia/2026-july-biz-promos-gdp/2026-july-biz-promos-gdp-mediumSquareAt3X-v9.png",
     "date": 1785416225000,
     "titleSl": "Rast ameriškega BDP se je v drugem četrtletju 2026 upočasnila"
    },
@@ -419,18 +419,32 @@
   ],
   "bild": [
    {
-    "title": "Braucht man Millionen? - Ab diesem Kontostand halten Banken Sie für reich",
-    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/braucht-man-millionen-schon-ab-diesem-kontostand-halten-banken-sie-fuer-reich-676a78a5b69640468ba22380",
-    "image": "https://images.bild.de/676a78a5b69640468ba22380/92d80de0c9dda73465de61e032c0458c,f58ac238?w=1280",
-    "date": 0,
-    "titleSl": "Potrebujete milijone? - S tem stanjem na računu vas imajo banke za bogatega"
-   },
-   {
     "title": "Notlage in Ceuta! - Migranten überrennen spanische Hafenstadt",
     "link": "https://www.bild.de/politik/ausland-und-internationales/ceuta-migranten-ueberrennen-spanische-hafenstadt-6a6b2befb5b26399f0be114a",
     "image": "https://images.bild.de/6a6b2befb5b26399f0be114a/d3ae273e058a30269740c8d581df0e83,aaa6aca8?w=1280",
     "date": 0,
     "titleSl": "Izredne razmere v Ceuti! - Migranti preplavijo špansko pristaniško mesto"
+   },
+   {
+    "title": "Live-Ticker zum Ukraine-Krieg - Polen entdeckt 10-Meter-Krater nach Luftalarm",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+    "image": "https://images.bild.de/644b966a2dffef69047a7edc/5dc8cce5ad2db5113b7c8811bdafb0fb,524641f4?w=1280",
+    "date": 0,
+    "titleSl": "V živo o vojni v Ukrajini – Poljska po zračnem alarmu odkrila 10-metrski krater"
+   },
+   {
+    "title": "Dynamos Gewinner und Verlierer bisher - Durchstarter bekommt sogar eine Gehaltserhöhung",
+    "link": "https://www.bild.de/sport/fussball/dynamo-dresden-gewinner-und-verlierer-ein-durchstarter-bekommt-eine-gehaltserhoehung-6a6aff6db5b26399f0be0c2f",
+    "image": "https://images.bild.de/6a6aff6db5b26399f0be0c2f/73838a168e7be967ff12901a067046cd,347aed8?w=1280",
+    "date": 0,
+    "titleSl": "Dosedanji zmagovalci in poraženci Dinama - prvi igralec dobi celo povišico"
+   },
+   {
+    "title": "Braucht man Millionen? - Ab diesem Kontostand halten Banken Sie für reich",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/braucht-man-millionen-schon-ab-diesem-kontostand-halten-banken-sie-fuer-reich-676a78a5b69640468ba22380",
+    "image": "https://images.bild.de/676a78a5b69640468ba22380/92d80de0c9dda73465de61e032c0458c,f58ac238?w=1280",
+    "date": 0,
+    "titleSl": "Potrebujete milijone? - S tem stanjem na računu vas imajo banke za bogatega"
    },
    {
     "title": "Nach neuem Vertrag bis 2029 - Atik spricht über Fußball-Rente in Magdeburg",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a6b2b23b5b26399f0be1133/11d9a87de0a9d0b487f0d42559bedf3c,72e9c96c?w=1280",
     "date": 0,
     "titleSl": "\"Evil Dead Burn\" - To je najbolj gnusen filmski poljub leta"
-   },
-   {
-    "title": "Börsen-Expertin verrät den Weg - „Mit Kindergeld mache ich meinen Sohn zum Millionär“",
-    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/boersen-expertin-verraet-den-weg-mit-kindergeld-mache-ich-meinen-sohn-zum-millionaer-6a60999d8f6eefa087fcf422",
-    "image": "https://images.bild.de/6a60999d8f6eefa087fcf422/ee9772164eb5909125998ade501fcb2a,f345896f?w=1280",
-    "date": 0,
-    "titleSl": "Borzni poznavalec razkriva pot - \"Sina lahko naredim milijonarja z otroškim dodatkom\""
-   },
-   {
-    "title": "Horrorunfall - Turner knallt kopfüber vom Reck",
-    "link": "https://www.bild.de/sport/mehr-sport/horrorunfall-turner-knallt-kopfueber-vom-reck-6a6b4673b5b26399f0be1407",
-    "image": "https://images.bild.de/6a6b4673b5b26399f0be1407/f47ab6594048fe1ab6e1ba971da85e23,34adb761?w=1280",
-    "date": 0,
-    "titleSl": "Grozljiva nesreča - gimnastičarka z glavo strmoglavi z vodoravne palice"
    }
   ],
   "krone": [
