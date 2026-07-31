@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T10:28:25.711Z",
+ "generatedAt": "2026-07-31T10:30:58.181Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "V mesto s 83.500 prebivalci vdrlo skoraj 50.000 migrantov",
+    "link": "https://www.24ur.com/novice/tujina/spanija-v-ceuto-posilja-vojake-italija-razmislja-o-izrednih-ukrepih.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/5f1b20749da40e990f14_63625436.jpg?v=5a4f&fop=fp:0.45:0.37",
+    "date": 1785493730000
+   },
+   {
     "title": "Avtocesta ponovno odprta, a zastoji bodo še ves konec tedna",
     "link": "https://www.24ur.com/novice/slovenija/pred-nami-prometno-najbolj-obremenjen-konec-tedna.html",
     "image": "https://images.24ur.com/media/images/213xX/May2026/2dec4c337facf68f5a2b_63580949.jpg?v=da58&fop=fp:0.51:0.36",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/film_tv/olivia-wilde-bo-rezirala-bozicni-film.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/7fdb520aa76b6e786d12_63625289.jpg?v=9564&fop=fp:0.49:0.17",
     "date": 1785491058000
-   },
-   {
-    "title": "Arso prižgal rdeči alarm, padali bodo rekordi",
-    "link": "https://www.24ur.com/novice/slovenija/slovenijo-zajel-tretji-vrocinski-val.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/da62b68056a1c0a612d7_63625388.png?v=b481&fop=fp:0.30:0.51",
-    "date": 1785490873000
    }
   ],
   "rtvslo": [
@@ -331,11 +331,39 @@
   ],
   "guardian": [
    {
+    "title": "Diane Abbott and Joani Reid readmitted as Labour MPs",
+    "link": "https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps",
+    "image": "https://i.guim.co.uk/img/media/b5ac5189f5436a1aa47fc4417ab14af31b6567dd/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=76ae79f352bc7ac1cb7da8b3370ecac3",
+    "date": 1785493453000,
+    "titleSl": "Diane Abbott in Joani Reid ponovno sprejeti kot laburistični poslanki"
+   },
+   {
     "title": "France to step up border controls with Spain as estimated 49,000 migrants cross into Ceuta – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/604942f2050bab64888d0c61223543a3d8682d80/443_0_2520_2016/master/2520.jpg?width=140&quality=85&auto=format&fit=max&s=f316cf264c9cd908a2516c256f008f5a",
-    "date": 1785492642000,
+    "date": 1785493217000,
     "titleSl": "Francija bo okrepila nadzor na meji s Španijo, saj naj bi v Ceuto prešlo 49.000 migrantov – Evropa v živo"
+   },
+   {
+    "title": "At least 18 die as 49,000 people cross to Spanish enclave of Ceuta from Morocco",
+    "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+    "image": "https://i.guim.co.uk/img/media/bfe4080ee8b385249f1a00b5fc4c3c8555c8cd24/574_0_3446_2756/master/3446.jpg?width=140&quality=85&auto=format&fit=max&s=d1404a6c68c10b5a276e2194835c1bdf",
+    "date": 1785493197000,
+    "titleSl": "Najmanj 18 mrtvih, medtem ko je 49.000 ljudi iz Maroka prešlo v špansko enklavo Ceuto"
+   },
+   {
+    "title": "Trump says ‘complete disarmament’ of Hamas agreed in Gaza but Israel yet to accept",
+    "link": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace",
+    "image": "https://i.guim.co.uk/img/media/d19927142ec9dd43f0caab33338100fc12d45c26/552_0_3120_2496/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=4e425af126213ba73d51f52d16b6c803",
+    "date": 1785493146000,
+    "titleSl": "Trump pravi, da je \"popolna razorožitev\" Hamasa dogovorjena v Gazi, vendar Izrael še ni sprejel"
+   },
+   {
+    "title": "UK petrol prices expected to rise to highest this year as US attacks Iran – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/a45a9ffc4005b1c14c0577d6da65f707c4494773/1367_151_4873_3898/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=dc8447631fb2df125140097c67d0f17c",
+    "date": 1785492994000,
+    "titleSl": "Pričakuje se, da bodo cene bencina v Združenem kraljestvu letos najvišje narasle, ko bodo ZDA napadle Iran – poslovanje v živo"
    },
    {
     "title": "Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal",
@@ -343,34 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/4d6ae08cd990b7b3648e594492ee1bfaad798ac0/0_337_4163_3330/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=ef13e8e1520204ce59eef2a93f7e3d22",
     "date": 1785492546000,
     "titleSl": "Bližnjevzhodna kriza v živo: Hamas bo predal orožje novi upravi Gaze, pravi uradnik, a dogovor je odvisen od izraelskega umika"
-   },
-   {
-    "title": "Andy Burnham to set out devolution plan amid criticism it won’t benefit regions equally – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jul/31/andy-burnham-devolution-plan-labour-conservatives-kemi-bedenoch-uk-politics-live",
-    "image": "https://i.guim.co.uk/img/media/1d3c88fd7d4c4ba0a8d11666a80be4d82cdeb79c/66_0_2868_2295/master/2868.jpg?width=140&quality=85&auto=format&fit=max&s=054bb8d361ed20942416e444556f5440",
-    "date": 1785492477000,
-    "titleSl": "Andy Burnham bo predstavil načrt decentralizacije sredi kritik, da regijam ne bo koristil v enaki meri – britanska politika v živo"
-   },
-   {
-    "title": "UK petrol prices expected to rise to highest this year as US attacks Iran – business live",
-    "link": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/a45a9ffc4005b1c14c0577d6da65f707c4494773/1367_151_4873_3898/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=dc8447631fb2df125140097c67d0f17c",
-    "date": 1785491832000,
-    "titleSl": "Pričakuje se, da bodo cene bencina v Združenem kraljestvu letos najvišje narasle, ko bodo ZDA napadle Iran – poslovanje v živo"
-   },
-   {
-    "title": "Sainsbury’s to sell Argos to three retail veterans in £120m deal",
-    "link": "https://www.theguardian.com/business/2026/jul/31/sainsburys-to-sell-argos-to-three-retail-veterans",
-    "image": "https://i.guim.co.uk/img/media/e9096ea4b80bfa26776c36ff144526dae017dd97/187_26_3156_2524/master/3156.jpg?width=140&quality=85&auto=format&fit=max&s=a500bbd81f49dab059e55a1dba20d4d6",
-    "date": 1785491222000,
-    "titleSl": "Sainsbury's bo prodal Argos trem veteranom maloprodaje v poslu v vrednosti 120 milijonov funtov"
-   },
-   {
-    "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-    "link": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-    "image": "https://i.guim.co.uk/img/media/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b8cbe530f7257c7745e8605a667b3601",
-    "date": 1785491188000,
-    "titleSl": "Oznake umetne inteligence naj bodo obvezne za pristne vsebine v skladu s pravili EU"
    }
   ],
   "spiegel": [
@@ -380,6 +380,13 @@
     "image": "https://cdn.prod.www.spiegel.de/images/2eba1eb9-dc08-4664-9017-c65a44581e5f_w520_r2.08_fpx54_fpy45.jpg",
     "date": 1785493380000,
     "titleSl": "Carlos Cordeiro: Infantinov svetovalec je odstopil zaradi spora glede načrta svetovnega prvenstva v nogometu"
+   },
+   {
+    "title": "Fußball: Red Bull holt Roger Schmidt als Nachfolger von Jürgen Klopp",
+    "link": "https://www.spiegel.de/sport/fussball/fussball-red-bull-holt-roger-schmidt-als-nachfolger-von-juergen-klopp-a-2fb9c0fc-9699-46b3-9094-39168a2705ad#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/d9531f5c-04a8-4768-a858-d320c25599b6_w520_r2.08_fpx59.34_fpy45.jpg",
+    "date": 1785492900000,
+    "titleSl": "Nogomet: Red Bull pripelje Rogerja Schmidta kot naslednika Jürgena Kloppa"
    },
    {
     "title": "Ceuta: Spanien entsendet Militär nach Ankunft von 40.000 Migranten",
@@ -408,29 +415,22 @@
     "image": "https://cdn.prod.www.spiegel.de/images/25f48fb8-670e-4fcb-9ae2-674dcc11fbd0_w520_r2.08_fpx60_fpy37.jpg",
     "date": 1785488580000,
     "titleSl": "Tour de France Femmes: Maria Canins je \"leteča mati\""
-   },
-   {
-    "title": "Kreuzbandrisse im Frauen-Fußball: Die Angst vor dem Knacks",
-    "link": "https://www.11freunde.de/bundesliga/kreuzbandrisse-im-frauen-fussball-die-angst-vor-dem-knacks-a-d64e319a-c227-49cd-8d88-32548f699da4#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/b033a92f-c2bc-4724-a7ca-d64fa400b095_w520_r2.08_fpx57_fpy50.jpg",
-    "date": 1785488400000,
-    "titleSl": "Raztrganje križnih vezi v ženskem nogometu: Strah pred razpoko"
    }
   ],
   "bild": [
-   {
-    "title": "BILD beantwortet die wichtigsten Fragen - 1860 München: Am Samstag Neustart in der 4. Liga",
-    "link": "https://www.bild.de/sport/fussball/1860-muenchen-bild-beantwortet-die-wichtigsten-fragen-zum-neustart-6a69b96018af02e41ad871bb",
-    "image": "https://images.bild.de/6a69b96018af02e41ad871bb/e8d83d697d7802fdd08e7d4b38f83d8b,cd460aed?w=1280",
-    "date": 0,
-    "titleSl": "BILD odgovarja na najpomembnejša vprašanja - 1860 München: V soboto znova v 4. ligi"
-   },
    {
     "title": "Kurz nach Start in Stuttgart - Blitz trifft Eurowings-Flieger mit 106 Passagieren",
     "link": "https://www.bild.de/news/kurz-nach-start-in-stuttgart-blitz-trifft-eurowings-flieger-mit-106-passagieren-6a6c764edd06dd5ef2e4074f",
     "image": "https://images.bild.de/6a6c764edd06dd5ef2e4074f/4577588d2a987f7319a3e50072043fd5,c1940a7b?w=1280",
     "date": 0,
     "titleSl": "Kmalu po vzletu v Stuttgartu - strela udarila v letalo Eurowings s 106 potniki"
+   },
+   {
+    "title": "BILD beantwortet die wichtigsten Fragen - 1860 München: Am Samstag Neustart in der 4. Liga",
+    "link": "https://www.bild.de/sport/fussball/1860-muenchen-bild-beantwortet-die-wichtigsten-fragen-zum-neustart-6a69b96018af02e41ad871bb",
+    "image": "https://images.bild.de/6a69b96018af02e41ad871bb/e8d83d697d7802fdd08e7d4b38f83d8b,cd460aed?w=1280",
+    "date": 0,
+    "titleSl": "BILD odgovarja na najpomembnejša vprašanja - 1860 München: V soboto znova v 4. ligi"
    },
    {
     "title": "Neue EU-Regel - Ab heute! Endlich gibt's ein Recht auf Reparatur",
@@ -461,50 +461,7 @@
     "titleSl": "Po srčni drami - Eriksen spet v Wolfsburgu!"
    }
   ],
-  "krone": [
-   {
-    "title": "„Sei ein Löwe“: So locken Extremisten Jugendliche",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BZWJhMXdZM1hYYkZINmR2bk10Qk81ZUtXWFlnTHNrSG93c3VrbkZ6VFEtejdxeEFUcEVqUHF4d2s3Zw?oc=5",
-    "image": "",
-    "date": 1785492963000,
-    "titleSl": "“Bodi lev”: Tako ekstremisti zvabijo mlade"
-   },
-   {
-    "title": "Unfall in Fraxern - Radfahrer (34) stürzt über 15 Meter hohe Felswand",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1IdThtMktEV2xmcnVPMHoxM3YxQjhTMjh3OG15M1ZRd2pTX2U4TE1QejB4bU5MaXZNNFk1TmtHWDExdw?oc=5",
-    "image": "",
-    "date": 1785491760000,
-    "titleSl": "Nesreča v Fraxernu - kolesar (34) padel čez 15 metrov visoko skalo"
-   },
-   {
-    "title": "Frage des Tages - Ceuta: Fürchten Sie eine neue Flüchtlingswelle?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yaENLdFc2QTRjYVAxN3hEVTNrekMxaWtrLVE0bXp6cHZuczhFWnZzeXBHRm5PanZ2R1EwM1B3LU1XQQ?oc=5",
-    "image": "",
-    "date": 1785491460000,
-    "titleSl": "Vprašanje dneva - Ceuta: Se bojite novega begunskega vala?"
-   },
-   {
-    "title": "Klimausweis und Co. - 27 Fragen der hitzigen Art sollen Kühlung bringen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDWGtVcHN1dDVFdzdHNWptak1HZmlVb25oRlh0UGZZdHRUbHNqenVfbjYza2c4SjdmZFA1aG00cnRnUQ?oc=5",
-    "image": "",
-    "date": 1785491100000,
-    "titleSl": "Klimatski certifikat in co. - 27 vročih vprašanj je namenjenih ohladitvi stvari"
-   },
-   {
-    "title": "Rucks Nachfolgerin - Die Baustellen der neuen Wiener Kammer-Chefin",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0SXNZSjhYR0JXbV9aWF8zdDFodEtKajNOVVE0bHJWcEVYWVlRYlNjVVpqQkxqcmhSX1R4aVZtN0xUZw?oc=5",
-    "image": "",
-    "date": 1785491008000,
-    "titleSl": "Ruckov naslednik - Gradbišča novega šefa dunajske zbornice"
-   },
-   {
-    "title": "NATO-Luftraum verletzt - Bestätigt: Russische Rakete explodierte in Polen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fUVVsZ3JrRE1FQWRrcmFNU3ZaVUpZTTlnWTA0TllpNm9UMW5FY0lqZTVEU1RZdkRFQzZhWG9JSzdFdw?oc=5",
-    "image": "",
-    "date": 1785490920000,
-    "titleSl": "Kršitev zračnega prostora Nata – Potrjeno: Ruska raketa je eksplodirala na Poljskem"
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Addio a Franco Baresi, con l&#x27;Italia e il Milan sul tetto del mondo",
@@ -597,15 +554,15 @@
    {
     "title": "La crisis migratoria en Ceuta, en imágenes",
     "link": "https://elpais.com/espana/2026-07-31/la-crisis-migratoria-en-ceuta-en-imagenes.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/FPBNBQO7ERFGPGAQVZUUS4TI3A.jpg?auth=24e90e86162d19005ab397f9bb1c3d76c0730ea23c89e9b246d0a9b9343c88b1",
-    "date": 1785493442000,
+    "image": "https://imagenes.elpais.com/resizer/v2/JTMZCAEX2BA3LICALYVRFQMCHI.jpg?auth=6b230886d85ba9365bfb7f7691766748bb2454e7dbe48d15720bfe712c06b49f",
+    "date": 1785493567000,
     "titleSl": "Migrantska kriza v Ceuti, v slikah"
    },
    {
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Más de 40.000 inmigrantes han entrado de manera irregular en Ceuta, según las primeras estimaciones",
     "link": "https://elpais.com/espana/2026-07-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/JTMZCAEX2BA3LICALYVRFQMCHI.jpg?auth=6b230886d85ba9365bfb7f7691766748bb2454e7dbe48d15720bfe712c06b49f",
-    "date": 1785493257000,
+    "date": 1785493550000,
     "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Po prvih ocenah je v Ceuto nedovoljeno vstopilo več kot 40.000 priseljencev"
    },
    {
