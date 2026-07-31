@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T12:42:33.384Z",
+ "generatedAt": "2026-07-31T12:44:23.735Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Na Triglavu se je huje poškodoval legendarni slovenski alpinist",
+    "link": "https://www.zurnal24.si/sport/na-triglavu-se-je-huje-poskodoval-legendarni-slovenski-alpinist-463005",
+    "image": "https://www.zurnal24.si/media/img/8b/71/da15249864423a9b4a23.jpeg",
+    "date": 1785501780000
+   },
+   {
     "title": "Požar na Bovškem še vedno divja, zapreti so morali cesto",
     "link": "https://www.zurnal24.si/slovenija/novo-glede-pozara-na-bovskem-zapreti-so-morali-cesto-463004",
     "image": "https://www.zurnal24.si/media/img/10/98/3b278b46c0c9bed0eaa5.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/nosecnica-iz-romskega-naselja-po-rusitvi-crne-gradnje-brez-doma-462999",
     "image": "https://www.zurnal24.si/media/img/96/cc/27716d959f0c4be8d2d4.jpeg",
     "date": 1785494520000
-   },
-   {
-    "title": "Kaos na meji s Španijo, vstopilo že 49.000 migrantov, 19 mrtvih",
-    "link": "https://www.zurnal24.si/svet/kaos-na-meji-s-spanijo-vstopilo-ze-49-000-migrantov-stevilo-smrtnih-zrtev-narasca-462997",
-    "image": "https://www.zurnal24.si/media/img/bb/d7/affb03062aab76bd9867.jpeg",
-    "date": 1785492780000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
+    "link": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+    "image": "",
+    "date": 1785501524000,
+    "titleSl": "Arheologi so v Amazoniji našli na stotine starodavnih glifov"
+   },
+   {
     "title": "In Trump’s Economy, Job Gains Go to Women. That’s Not an Entirely Good Thing.",
     "link": "https://www.nytimes.com/2026/07/31/magazine/american-women-workforce.html",
     "image": "",
@@ -232,13 +239,6 @@
     "image": "",
     "date": 1785497036000,
     "titleSl": "Tona vesoljske smeti vsak teden nepredvidljivo prileti na Zemljo"
-   },
-   {
-    "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
-    "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-    "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-gaza-trump-czfl/31int-gaza-trump-czfl-mediumSquareAt3X.jpg",
-    "date": 1785496616000,
-    "titleSl": "Trumpova napoved dogovora v Gazi odpira številna neodgovorjena vprašanja"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Inside Barcelona’s most sweltering neighbourhood: El Raval",
-    "link": "https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/DSC02841-1785495215.jpeg?resize=1920%2C1440",
-    "date": 1785500649000,
-    "titleSl": "Znotraj najbolj vroče soseske Barcelone: ​​El Raval"
-   },
-   {
     "title": "Second day of Spain – Morocco border clashes amid mass migrant influx",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-spain-border_-1785499806.png?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785494808.jpg?resize=1920%2C1080&quality=80",
     "date": 1785494877000,
     "titleSl": "Palestinci v Gazi so skeptični glede najnovejšega mirovnega načrta"
+   },
+   {
+    "title": "Spain PM to visit Ceuta after 34 migrants die breaching border from Morocco",
+    "link": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6c6290-1785488016.jpg?resize=1920%2C1440",
+    "date": 1785494411000,
+    "titleSl": "Španski premier bo obiskal Ceuto, potem ko je umrlo 34 migrantov, ki so prestopili mejo z Marokom"
    }
   ],
   "guardian": [
@@ -461,7 +461,50 @@
     "titleSl": "Racije v Berlinu in Hamburgu – policija najde ostro orožje in zlato"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Rucks Nachfolgerin - Die Baustellen der neuen Wiener Kammer-Chefin",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0SXNZSjhYR0JXbV9aWF8zdDFodEtKajNOVVE0bHJWcEVYWVlRYlNjVVpqQkxqcmhSX1R4aVZtN0xUZw?oc=5",
+    "image": "",
+    "date": 1785501854000,
+    "titleSl": "Ruckov naslednik - Gradbišča novega šefa dunajske zbornice"
+   },
+   {
+    "title": "Klimaverein fordert: - Bäume statt Beton, Schatten statt neuer Straßen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51bkRwTHZjZmZwbHZ1emF1MTVvYVhWeUJ4V2M2cWNDel9KNktDZjY2dkZCZEFrUVVrY0tzV2pyX1p0Zw?oc=5",
+    "image": "",
+    "date": 1785500700000,
+    "titleSl": "Podnebna zveza zahteva: - Drevesa namesto betona, senca namesto novih cest"
+   },
+   {
+    "title": "„Juden verschwindet“ - 70-Jähriger bedrohte Hotelgast mit Schusswaffe",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tTXhUMnZLazNwVHZhMTZMY0FQSnJtc1pvOXlJeGRQY3JlbEpSS0o3cU5sRmo1RUlCdFZwMGVqcnZndw?oc=5",
+    "image": "",
+    "date": 1785500100000,
+    "titleSl": "“Judje izginejo” - 70-letnik hotelskemu gostu grozil s pištolo"
+   },
+   {
+    "title": "Er holte Olympiagold - Tschechien holt erstmals ausländischen Teamchef",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zc0x4ZlRQdXhiU3VNTHBCNG5hMG5Pd1lrS3dUakM1SVljOTBvRmhUM1ZySVFrcVl1TUJBbHUwRVRPZw?oc=5",
+    "image": "",
+    "date": 1785499320000,
+    "titleSl": "Osvojil je olimpijsko zlato - Češka je prvič pripeljala šefa tujega moštva"
+   },
+   {
+    "title": "3. Liga Ost: - LIVE: Traiskirchen muss nach Scheiblingkirchen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pV09QNDF6VDhrVE5TNC11RG9CdW00ZUJfSF9ld0s5YWVxdVVEREdkTDFxajNKRVcyX3ZXcEs3c2ZuQQ?oc=5",
+    "image": "",
+    "date": 1785499320000,
+    "titleSl": "3. Liga Vzhod: - V ŽIVO: Traiskirchen mora k Scheiblingkirchenu"
+   },
+   {
+    "title": "Kärnten Inoffiziell - Internationale Studien und die Realität der Firmen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RRU5aVjlDdDYybk9lbXRwaHR3TlNLdm9CbklLZTJGSktFdjM5LTI2ZnFOYzM4bkZMbm41ckhqNlVwUQ?oc=5",
+    "image": "",
+    "date": 1785499200000,
+    "titleSl": "Koroška Neuradno - Mednarodne študije in realnost podjetij"
+   }
+  ],
   "rainews": [
    {
     "title": "TG2 Sì, Viaggiare del 31/07/2026",
