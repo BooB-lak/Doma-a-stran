@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T09:22:26.977Z",
+ "generatedAt": "2026-07-31T09:24:26.674Z",
  "sources": {
   "siol": [
    {
@@ -21,7 +21,7 @@
     "date": 1785486600000
    },
    {
-    "title": "V Franciji in Španiji se razmere umirjajo, na grških otokih in v Turčiji divjajo požari #foto",
+    "title": "V Franciji in Španiji se razmere umirjajo, na grških otokih in v Turčiji divjajo požari #foto #video",
     "link": "https://siol.net/novice/svet/v-franciji-in-spaniji-se-razmere-umirjajo-na-grskih-otokih-in-v-turciji-divjajo-pozari-foto-697894",
     "image": "https://siol.net/media/img/37/2c/589450d740ccef992a91.jpeg",
     "date": 1785486000000
@@ -53,6 +53,12 @@
     "date": 1785489557000
    },
    {
+    "title": "Zaradi gorečega vozila zaprta štajerska avtocesta",
+    "link": "https://www.24ur.com/novice/slovenija/pred-nami-prometno-najbolj-obremenjen-konec-tedna.html",
+    "image": "https://images.24ur.com/media/images/213xX/May2026/2dec4c337facf68f5a2b_63580949.jpg?v=da58&fop=fp:0.51:0.36",
+    "date": 1785489478000
+   },
+   {
     "title": "Ogromen požar pri Bovcu, gasita dve letali, zaprosili tudi za helikopter",
     "link": "https://www.24ur.com/novice/slovenija/zagorelo-pri-bovcu-na-delu-tudi-air-tractorji.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/c6ff116a1fd70eb9cec9_63625345.jpg?v=d5a2&fop=fp:0.54:0.61",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/kapetan-legenda-gospod-baresi-pri-66-izgubil-boj-za-zivljenje.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/e9294c82a19de773f863_63625333.jpg?v=87ab&fop=fp:0.50:0.28",
     "date": 1785485580000
-   },
-   {
-    "title": "Po osmih mesecih iskanja našli pogrešano pevko Lindo Perhacs",
-    "link": "https://www.24ur.com/popin/tuja-scena/po-osmih-mesecih-iskanja-nasli-pogresano-pevko-lindo-perhacs.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/48944565c0ffe5503b3e_63624939.png?v=0e0c&fop=fp:0.40:0.25",
-    "date": 1785484437000
    }
   ],
   "rtvslo": [
@@ -220,13 +220,6 @@
     "titleSl": "Najdena 4 trupla, 6 plezalcev pogrešanih po plazu na Broad Peaku v Pakistanu"
    },
    {
-    "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/spain-ceuta-border-migrants-sanchez.html",
-    "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-Spain-Ceuta-01-jwmb/31int-Spain-Ceuta-01-jwmb-mediumSquareAt3X.jpg",
-    "date": 1785487122000,
-    "titleSl": "Španski voditelj odhitel v Ceuto, potem ko je na tisoče migrantov planilo čez mejo"
-   },
-   {
     "title": "What to Know About Ceuta",
     "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
     "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-ceuta-wtk-gtwk/30int-ceuta-wtk-gtwk-mediumSquareAt3X.jpg",
@@ -239,13 +232,20 @@
     "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31Biz-SKorea-Kospi-mzpv/31Biz-SKorea-Kospi-mzpv-mediumSquareAt3X.jpg",
     "date": 1785485558000,
     "titleSl": "V še enem divjem dnevu za južnokorejske delnice je trg zrasel za 18 odstotkov"
+   },
+   {
+    "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
+    "link": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
+    "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30biz-anthropic-hack-lmtk/30biz-anthropic-hack-lmtk-mediumSquareAt3X.jpg",
+    "date": 1785481323000,
+    "titleSl": "Anthropic pravi, da je njegov A.I. Sistemi so vdrli v računalnike treh organizacij"
    }
   ],
   "bbc": [
    {
     "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
     "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942d/live/7e2ddf90-8cb9-11f1-b49b-bb9fc846a015.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5865/live/3f1bcf80-8cc1-11f1-b2ab-0dd01740f9f6.jpg",
     "date": 1785488917000,
     "titleSl": "Azijske države se pridružujejo vse večjemu nasprotovanju kontroverznemu naložbenemu načrtu Fife za svetovno prvenstvo"
    },
@@ -398,7 +398,7 @@
    {
     "title": "Broad Peak in Pakistan: Nirmal Purja und weitere Bergsteiger von Lawine erfasst",
     "link": "https://www.spiegel.de/sport/broad-peak-in-pakistan-nirmal-purja-und-weitere-bergsteiger-von-lawine-erfasst-a-1370b8a8-f0bc-49dd-af6f-ff5ab132a590#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8f86faaa-8196-4aed-9238-f8540ddf72a8_w520_r2.08_fpx43.3_fpy48.99.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/0ac18edf-6b2f-42fa-893e-53e3ed904d43_w520_r2.08_fpx54_fpy90.jpg",
     "date": 1785487980000,
     "titleSl": "Broad Peak v Pakistanu: Nirmal Purja in drugi alpinisti, ki jih je zajel snežni plaz"
    },
@@ -419,6 +419,34 @@
   ],
   "bild": [
    {
+    "title": "„Was wäre, wenn man einfach...“ - Neuer Geheimplan soll Mullahs in die Knie zwingen",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/iran-neuer-geheimplan-von-donald-trump-soll-mullahs-in-die-knie-zwingen-6a6c31ac5aee44c118a9475d",
+    "image": "https://images.bild.de/6a6c31ac5aee44c118a9475d/19090efda8bfdb8feec5f5e8aa59ce40,4590b8f3?w=1280",
+    "date": 0,
+    "titleSl": "\"Kaj pa, če samo ...\" - Nov tajni načrt želi spraviti mule na kolena"
+   },
+   {
+    "title": "Transfer-Ticker - Wechsel-Poker um ter Stegen beendet!",
+    "link": "https://www.bild.de/sport/fussball/transfer-ticker-motzt-sich-diomande-zu-real-6a670d43dc2b0bab191a7b9c",
+    "image": "https://images.bild.de/6a670d43dc2b0bab191a7b9c/9ae8d5b0ca48be9bdee17dffd9af4e5f,a6910fc2?w=1280",
+    "date": 0,
+    "titleSl": "Transfer ticker - change poker za ter Stegen se je končal!"
+   },
+   {
+    "title": "Neuer Klub für DFB-Keeper - Transfer-Poker um ter Stegen beendet!",
+    "link": "https://www.bild.de/sport/fussball/marc-andre-ter-stegen-trifft-entscheidung-transfersaga-beendet-6a6c5cc4ff33749f57289d21",
+    "image": "https://images.bild.de/6a6c5cc4ff33749f57289d21/9ae8d5b0ca48be9bdee17dffd9af4e5f,a6910fc2?w=1280",
+    "date": 0,
+    "titleSl": "Nov klub za vratarja DFB - konec prenosa pokra za ter Stegena!"
+   },
+   {
+    "title": "Nach Sturm-Riesen-Transfer - Hansa sucht noch den Mittelfeld-Boss",
+    "link": "https://www.bild.de/sport/fussball/hansa-rostock-sucht-noch-den-boss-fuers-mittelfeld-6a6b033fb5b26399f0be0c77",
+    "image": "https://images.bild.de/6a6b033fb5b26399f0be0c77/5dd51b2ff2d636a99bb813fba8ff6c89,e4f0cea?w=1280",
+    "date": 0,
+    "titleSl": "Po prestopu Sturm-Giant - Hansa še vedno išče šefa sredine igrišča"
+   },
+   {
     "title": "Westgrenzen werden zum Problem - Kommen die Migranten aus Ceuta jetzt zu uns?",
     "link": "https://www.bild.de/politik/inland/ceuta-gestuermt-kommen-die-migranten-jetzt-nach-deutschland-6a50831abb0cf80de56a434a",
     "image": "https://images.bild.de/6a50831abb0cf80de56a434a/5b08c5f8398c1a8f0ab9401c7f9689d4,2c94d922?w=1280",
@@ -431,78 +459,50 @@
     "image": "https://images.bild.de/696663962b56c2eb32eb3fd6/b7ae910622a0bf1d6c18d49bbd9fa1ed,68a0f99?w=1280",
     "date": 0,
     "titleSl": "Med skrbjo in preobremenjenostjo – ko starši potrebujejo nego"
-   },
-   {
-    "title": "Übergewichtig und keiner merkt’s - Hälfte aller Hunde und Katzen zu dick! Ihr Tier auch?",
-    "link": "https://www.bild.de/leben-wissen/haustiere/ist-ihr-haustier-uebergewichtig-diese-warnzeichen-verraten-es-6a69d3f1a17ee9f1dfd82d60",
-    "image": "https://images.bild.de/6a69d3f1a17ee9f1dfd82d60/4d4e8dfa67b9540d8cd46aba44a38f7b,c678f60?w=1280",
-    "date": 0,
-    "titleSl": "Prekomerni in nihče ne opazi – polovica vseh psov in mačk je predebelih! Tudi vaša žival?"
-   },
-   {
-    "title": "Ansturm auf Europas Grenze - Ceuta erlebt historische Migrationskrise",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/ansturm-auf-europas-grenze-historische-migrationskrise-in-ceuta-6a6c593aef632fe6ede668af",
-    "image": "https://images.bild.de/6a6c593aef632fe6ede668af/ef458861fc55f18091e3223e451d5148,dda29407?w=1280",
-    "date": 0,
-    "titleSl": "Hit na evropski meji - Ceuta doživlja zgodovinsko migracijsko krizo"
-   },
-   {
-    "title": "Fifa-Boss will die WM verkaufen - Infantino hat keine Mehrheit mehr!",
-    "link": "https://www.bild.de/sport/fussball/infantino-hat-keine-mehrheit-mehr-fifa-boss-will-die-wm-verkaufen-6a6c5cb9ff33749f57289d1c",
-    "image": "https://images.bild.de/6a6c5cb9ff33749f57289d1c/234215ed61863f116222794252590ef3,2c4e2b7a?w=1280",
-    "date": 0,
-    "titleSl": "Šef Fife želi prodati svetovno prvenstvo - Infantino nima več večine!"
-   },
-   {
-    "title": "Nach Ernennung zum DFB-Coach - Ex-Bundesliga-Trainer wird Klopp-Nachfolger",
-    "link": "https://www.bild.de/sport/fussball/ehemaliger-bundesliga-trainer-wird-nachfolger-von-juergen-klopp-6a6c6078ef632fe6ede66947",
-    "image": "https://images.bild.de/6a6c6078ef632fe6ede66947/eb7d3b0933a2e2098afc5102a9ae817b,7ad6478?w=1280",
-    "date": 0,
-    "titleSl": "Po imenovanju za trenerja DFB - bivši trener Bundeslige postal Kloppov naslednik"
    }
   ],
   "krone": [
    {
-    "title": "Terminplan steht - Wann Salzburg im Europacup gegen Pafos spielt",
+    "title": "Terminplan steht - Wann Salzburg im Europacup gegen Pafos spielt - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMbzZ3eWhTZHgxTWZKUXBNcmw3eWZyempTckd4NG0wX3A4VHlNVVcxMmljYW1sMXo4cnpjbnR2QmNqZw?oc=5",
     "image": "",
     "date": 1785488640000,
-    "titleSl": "Razpored je določen - kdaj bo Salzburg igral proti Pafosu v evropskem pokalu"
+    "titleSl": "Razpored je določen - Kdaj bo Salzburg igral proti Pafosu v evropskem pokalu - krone.at"
    },
    {
-    "title": "Trotz Bruthitze - Jeder neunte Österreicher verzichtet auf Deo & Co.",
+    "title": "Trotz Bruthitze - Jeder neunte Österreicher verzichtet auf Deo & Co. - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xMGVYMEQ4Z2FGT2VHZTJNOHhIU2Y5YlRRTXdPXzlLMk5SekwySjFIUmNuZ1RPNjEzNVgtX0pCZ3g1dw?oc=5",
     "image": "",
     "date": 1785488580000,
-    "titleSl": "Kljub hudi vročini - vsak deveti Avstrijec ostane brez deodoranta itd."
+    "titleSl": "Kljub hudi vročini - vsak deveti Avstrijec ostane brez dezodoranta itd. - krone.at"
    },
    {
-    "title": "„Nightborn“: Familienglück wird zum Albtraum",
+    "title": "„Nightborn“: Familienglück wird zum Albtraum - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45eTl5R1JzYWFKT19VeWEwTFFaV3VTTEJjZWo1VmFwYmVSbTZVejAwQmRxYm9hNm44TTJmY0Q3ekFXdw?oc=5",
     "image": "",
     "date": 1785488520000,
-    "titleSl": "“Nightborn”: Družinska sreča se spremeni v nočno moro"
+    "titleSl": "“Nightborn”: družinska sreča se spremeni v nočno moro - krone.at"
    },
    {
-    "title": "In steilem Gelände - Waldbrand in Thörl forderte knapp 70 Floriani",
+    "title": "In steilem Gelände - Waldbrand in Thörl forderte knapp 70 Floriani - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43NllRQmNCMjhHel9vVi1sZmVSZzdCWVdld01WNDZIS2d4XzJtOURpRFNjb2tBZzg1dXN3QVJpVzlMZw?oc=5",
     "image": "",
     "date": 1785488460000,
-    "titleSl": "Na strmem terenu – gozdni požar v Thörlu zahteval skoraj 70 Florianov"
+    "titleSl": "Na strmem terenu - gozdni požar v Thörlu zahteval skoraj 70 Floriani - krone.at"
    },
    {
-    "title": "„Krone“-Kommentar - Suche nach dem Wunderwuzzi",
+    "title": "„Krone“-Kommentar - Suche nach dem Wunderwuzzi - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4U2RpRzJqY2VvUS1UaGJnV2IyMlhOOURGbzBJbS1CZV9aVV95Nlc5aFdaaVlNSFRBWDF4NmJwTHJ4UQ?oc=5",
     "image": "",
     "date": 1785488400000,
-    "titleSl": "Komentar “Krone” - Iskanje čudežnega wuzzija"
+    "titleSl": "Komentar “Krone” - Iskanje čudežnega wuzzija - krone.at"
    },
    {
-    "title": "Hilfsaktion - Hitzewelle: Wasserspende soll Obdachlosen helfen",
+    "title": "Hilfsaktion - Hitzewelle: Wasserspende soll Obdachlosen helfen - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xMl9YUkxuQXZsYm01TGFVRmV6QlpsUHVRNFRWcTN1aFgtQUVPbDNiSFZuVTlqNWVPQXlpUFhLVVI0Zw?oc=5",
     "image": "",
     "date": 1785488400000,
-    "titleSl": "Akcija pomoči - vročinski val: darovanje vode je namenjeno pomoči brezdomcem"
+    "titleSl": "Kampanja pomoči - vročinski val: donacija vode bi morala pomagati brezdomcem - krone.at"
    }
   ],
   "rainews": [
