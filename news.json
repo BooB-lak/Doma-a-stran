@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T18:38:24.046Z",
+ "generatedAt": "2026-07-31T18:40:39.404Z",
  "sources": {
   "siol": [
    {
@@ -53,12 +53,6 @@
     "date": 1785522315000
    },
    {
-    "title": "Preobrat v dopinški aferi: Ukrajincu prižgali zeleno luč za vrnitev",
-    "link": "https://www.24ur.com/sport/nogomet/preobrat-v-dopinski-aferi-ukrajincu-prizgali-zeleno-luc-za-vrnitev.html",
-    "image": "https://images.24ur.com/media/images/213xX/Dec2023/923358566f170c5bfa73_63164159.jpg?v=ada7&fop=fp:0.57:0.32",
-    "date": 1785519778000
-   },
-   {
     "title": "Robert F. Kennedy nad debelost v ZDA z novo kuharsko oddajo",
     "link": "https://www.24ur.com/popin/tuja-scena/robert-f-kennedy-nad-debelost-v-zda-z-novo-kuharsko-oddajo.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/da8e85849c4353301e76_63625615.png?v=2ee0&fop=fp:0.31:0.35",
@@ -75,6 +69,12 @@
     "link": "https://www.24ur.com/novice/slovenija/reke-na-robu-mura-in-drava-rekordno-nizki-ribici-ustavljajo-ribolov.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/284b7da8a30e66e34259_63625736.jpg?v=2fe6&fop=fp:0.45:0.26",
     "date": 1785518445000
+   },
+   {
+    "title": "Pri uvozu avtovlaka na postajo poškodovani trije avtomobili",
+    "link": "https://www.24ur.com/novice/slovenija/pri-uvozu-avtovlaka-na-postajo-poskodovani-trije-avtomobili.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/bf09e98e89ffee467036_63625729.jpg?v=e95a&fop=fp:0.48:0.49",
+    "date": 1785518443000
    }
   ],
   "rtvslo": [
@@ -389,11 +389,11 @@
     "titleSl": "Papež Leon XIV izda nov temeljni zakon za Vatikan"
    },
    {
-    "title": "Donald Trump verkündet wieder den Durchbruch im Gaza-Konflikt zwischen Israel und der Hamas – doch alle Hindernisse bleiben",
+    "title": "Gaza: Donald Trump verkündet Durchbruch, doch die Kriegsparteien sind sich weiter uneins",
     "link": "https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben-a-7498f033-4aa0-4a9e-b8d6-5a5ea1a08224#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/f592292f-ed6c-45b4-9ab6-623d881e40f8_w520_r2.08_fpx55.64_fpy54.98.jpg",
     "date": 1785519420000,
-    "titleSl": "Donald Trump ponovno napoveduje preboj v konfliktu v Gazi med Izraelom in Hamasom – a vse ovire ostajajo"
+    "titleSl": "Gaza: Donald Trump napoveduje preboj, a sprti strani ostajata v sporu"
    },
    {
     "title": "Ceuta: Darum wollen so viele Menschen aus Marokko nach Spanien",
@@ -418,6 +418,13 @@
    }
   ],
   "bild": [
+   {
+    "title": "Trotz Tank-Wut! - Schwarz-Rot bricht Spritpreis-Versprechen",
+    "link": "https://www.bild.de/politik/inland/trotz-tankwut-koalition-bricht-versprechen-zum-spritpreis-6a6c696a5aee44c118a94be0",
+    "image": "https://images.bild.de/6a6c696a5aee44c118a94be0/8978f2f6fb1e8329552d84d41395ae04,3d31ea3?w=1280",
+    "date": 0,
+    "titleSl": "Kljub tankovskemu besu! - Črno-rdeča krši obljube o cenah goriva"
+   },
    {
     "title": "Jetzt offiziell! - Sohn von Phil Collins unterschreibt bei 1860 München",
     "link": "https://www.bild.de/sport/fussball/1860-muenchen-jetzt-offiziell-sohn-von-phil-collins-unterschreibt-bei-den-loewen-6a6cda6252381dc2a8315e3a",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a6cb633ef632fe6ede670a1/a3408fa5cbef2049a8030f156f1c43ca,80115afc?w=1280",
     "date": 0,
     "titleSl": "\"Prezir in ustrahovanje\" - direktor FIFA napade Infantina"
-   },
-   {
-    "title": "Live-Ticker zum Ukraine-Krieg - Bestätigt! Russisches Geschoss schlug in Polen ein",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-    "image": "https://images.bild.de/644b966a2dffef69047a7edc/3fcd6a4a8c745be34e825fecbae79b87,3597da8?w=1280",
-    "date": 0,
-    "titleSl": "Živa oznaka za vojno v Ukrajini – potrjena! Ruske rakete so zadele Poljsko"
    }
   ],
   "krone": [
@@ -484,6 +484,13 @@
     "titleSl": "Pridruži se nam! - Zadnja priložnost: Nominirajte osebo, ki jo imate radi"
    },
    {
+    "title": "Hitzetag zum Nachlesen - Auf österreichischen Rekord fehlten nur 0,2 Grad!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5kb2JYN291emkxcGVVQW1Mek5aTUowd1dOR2ZkZ1JBZ1RMWER6Y3JvT3pLamhRVUFzM01haHdvejlkQQ?oc=5",
+    "image": "",
+    "date": 1785520620000,
+    "titleSl": "Vroč dan za branje - do avstrijskega rekorda je manjkalo le 0,2 stopinje!"
+   },
+   {
     "title": "Nahe dem Red Bull Ring - Traktoranhänger kippte um und blockierte Fahrbahn",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GN0RJRlExX0x5b05jaGhNd1Z0MV8tOWs1dElQTVBHc1pGX0pwQ2hZc2VNdkhWc2lhME40d2xkc2hGUQ?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1785520080000,
     "titleSl": "Po Murenu v Söldnu - čistilna naprava je okvarjena, odpadna voda teče neposredno v Ache"
-   },
-   {
-    "title": "„Angriff“ auf Spanien? - Was die Migranten zu dem Grenzsturm bewogen hat",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04OTI2cHFrdUl0N0xXRDl4RUJPX2FzVUlWV2JWXzN3cURjRjZlZ2VJbF81VzNNandVVWJZZkIyM0N3UQ?oc=5",
-    "image": "",
-    "date": 1785519360000,
-    "titleSl": "\"Napad\" na Španijo? - Kaj je motiviralo migrante, da so vdrli na mejo"
    }
   ],
   "rainews": [
@@ -595,11 +595,11 @@
   ],
   "elpais": [
    {
-    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Italia matiza que los controles fronterizos con España serán aleatorios y para no europeos",
+    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Italia suspende Schengen y activa controles con España para no europeos",
     "link": "https://elpais.com/espana/2026-07-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/LRRS62XLQZAIPDFW5YEBC2VPJQ.JPG?auth=f70257abb0b800506c26990e9f203855cd1da009da77241cc9f4b3df93d5b76c",
-    "date": 1785522994000,
-    "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Italija pojasnjuje, da bodo mejne kontrole s Španijo naključne in za Neevropejce"
+    "date": 1785523157000,
+    "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Italija začasno prekine schengen in aktivira nadzor s Španijo za Neevropejce"
    },
    {
     "title": "Los 57 muertos convierten la crisis de Ceuta en uno de los sucesos más letales en una frontera española",
