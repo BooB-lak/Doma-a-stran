@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-07-31T05:08:30.849Z",
+ "generatedAt": "2026-07-31T05:10:37.064Z",
  "sources": {
   "siol": [
+   {
+    "title": "Tesla izdelala desetmilijonti avtomobil, obdobje eksplozivne rasti je končano",
+    "link": "https://siol.net/avtomoto/novice/tesla-izdelala-desetmilijonti-avtomobil-obdobje-eksplozivne-rasti-je-koncano-697887",
+    "image": "https://siol.net/media/img/2d/4b/1555a85de5e64ba95c6e.jpg",
+    "date": 1785474600000
+   },
    {
     "title": "Urška Žigart razkrila, kako je potekalo njeno okrevanje: Angel je pazil name",
     "link": "https://siol.net/sportal/kolesarstvo/urska-zigart-razkrila-kako-je-potekalo-njeno-okrevanje-angel-je-pazil-name-697879",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/v-slovenskem-zracnem-prostoru-danes-povecano-stevilo-letal-697883",
     "image": "https://siol.net/media/img/8b/1f/9c95afb788e4521ee127.jpeg",
     "date": 1785471540000
-   },
-   {
-    "title": "Pred nami najbolj obremenjen konec tedna: poleg visokih temperatur še povečan promet",
-    "link": "https://siol.net/novice/slovenija/pred-nami-najbolj-obremenjen-konec-tedna-poleg-visokih-temperatur-se-povecan-promet-697882",
-    "image": "https://siol.net/media/img/30/60/b96184c044c5007a3dc3.jpeg",
-    "date": 1785471060000
    }
   ],
   "24ur": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+    "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3d1/live/16a7ed70-8c37-11f1-a7ab-8b30adf0800a.jpg",
+    "date": 1785474428000,
+    "titleSl": "Satelitske slike kažejo vpliv vročinskih valov in suše na pokrajino Združenega kraljestva"
+   },
+   {
     "title": "The Papers: 'Cruel summer' and 'Football's staying home'",
     "link": "https://www.bbc.co.uk/news/articles/cwyjgq583j7o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed4b/live/d54ae6b0-8c64-11f1-a7ab-8b30adf0800a.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f31/live/651cad70-8c95-11f1-b2ab-0dd01740f9f6.jpg",
     "date": 1785471426000,
     "titleSl": "Fifa pravi, da \"nihče ne prodaja nogometa\", medtem ko nadaljuje z naložbenim načrtom"
-   },
-   {
-    "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-    "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg",
-    "date": 1785465669000,
-    "titleSl": "Španija pošilja vojake, ko na tisoče iz Maroka vstopi v enklavo Ceuta"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Families sleep in cars after homes destroyed in Japan earthquake",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785473959.jpg?resize=1920%2C1080&quality=80",
-    "date": 1785473979000,
-    "titleSl": "Družine spijo v avtomobilih po domovih, uničenih v japonskem potresu"
-   },
    {
     "title": "‘First somewhat optimistic day’ in France since fire outbreak says prefect",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/first-somewhat-optimistic-day-in-france-since-fire-outbreak-says-prefect?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-30T232533Z_1680869369_RC2UNLA4ZYRG_RTRMADP_3_ANTHROPIC-CYBERSECURITY-1785469171.jpg?resize=1920%2C1440",
     "date": 1785470523000,
     "titleSl": "Po razkritju OpenAI Anthropic pravi, da je Claude vdrl tudi v zunanje sisteme"
+   },
+   {
+    "title": "Israeli blockades seal off village in the occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-04.31.10-1785468820.png?resize=1200%2C675",
+    "date": 1785468952000,
+    "titleSl": "Izraelske blokade so zaprle vasi na okupiranem Zahodnem bregu"
    }
   ],
   "guardian": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Sein Klub sucht ihn - Serie-A-Star spurlos verschwunden",
+    "link": "https://www.bild.de/sport/fussball/serie-a-spieler-spurlos-verschwunden-seit-tagen-hat-keiner-von-ihm-gehoert-6a6afd8a95262dd1627856a3",
+    "image": "https://images.bild.de/6a6afd8a95262dd1627856a3/ae80be00f8f1277054993d0d9316953e,f6b09547?w=1280",
+    "date": 0,
+    "titleSl": "Njegov klub ga išče - zvezda Serie A je izginila brez sledu"
+   },
+   {
+    "title": "„SmackDown“ live ab 2 Uhr - Letzte Nacht vor „SummerSlam“-Schlacht",
+    "link": "https://www.bild.de/bild-plus/sport/mehr-sport/wrestling/hier-gibt-es-wwe-smackdown-live-bei-bild-86891982.bild.html",
+    "image": "https://images.bild.de/65b114693f11df421f3df0bd/3a381514386c0a7cc521cf0277359648,ddfbe6f7?w=1280",
+    "date": 0,
+    "titleSl": "“SmackDown” v živo od 2. ure zjutraj - Zadnja noč pred bitko “SummerSlam”"
+   },
+   {
     "title": "„Mir hat jemand gesagt ...“ - Erste Infos zum Kane-Poker",
     "link": "https://www.bild.de/sport/fussball/mir-hat-jemand-gesagt-erste-infos-zum-kane-poker-6a6b7d17e097baffab333995",
     "image": "https://images.bild.de/6a6b7d17e097baffab333995/8010ebd33a9b2c8ee343836c30b7ffab-landscape,70229b76?w=1280",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a68682b1ff9bc89d881163a/6a4ed6a83e14e38646afa78985dfde69,95402589?w=1280",
     "date": 0,
     "titleSl": "Edinstven zabaviščni park - atrakcije iz odpadnega železa delujejo brez elektrike"
-   },
-   {
-    "title": "Studie zeigt - Mit Salzwasser zu nährstoffreichen Tomaten",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/tomaten-mit-salzwasser-giessen-studie-zeigt-ueberraschenden-effekt-6a6a04dedd06dd5ef2e3e78a",
-    "image": "https://images.bild.de/6a6a04dedd06dd5ef2e3e78a/3c430899b4d92a067eecd083819f61c0,ef8f10dc?w=1280",
-    "date": 0,
-    "titleSl": "Študije kažejo - Uporabite slano vodo za pridelavo paradižnikov, bogatih s hranili"
-   },
-   {
-    "title": "Immer mehr Urlaubsorte in Flammen - Feuer nähert sich Kernkraftwerk in England",
-    "link": "https://www.bild.de/news/ausland/spanien-ruft-nationalen-notstand-aus-waldbraende-in-europa-voellig-ausser-kontrolle-6a62a8feefccf0c0d5537505",
-    "image": "https://images.bild.de/6a62a8feefccf0c0d5537505/c13cc8767391eee444685dd6fec6d3dc,a093bd05?w=1280",
-    "date": 0,
-    "titleSl": "Vse več počitniških naselij v plamenih - požar se približuje jedrski elektrarni v Angliji"
    }
   ],
   "krone": [
@@ -468,6 +468,27 @@
     "image": "",
     "date": 1785474000000,
     "titleSl": "Že 23 vročih dni - 38,6 stopinj! Bo Salzburg danes podrl toplotni rekord?"
+   },
+   {
+    "title": "Horror-Fall in den USA - Mutter und Oma ließen autistischen Bub verhungern",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yWkxwcEU5QVZaUUVnY0ZkS002bmJUaXBJbU1KcWNCSUhlS0RFX2Y1enQ2ZXBpbTB2aFh0eTk4ZXFtdw?oc=5",
+    "image": "",
+    "date": 1785473460000,
+    "titleSl": "Grozljiv primer v ZDA - mati in babica pustita dečka z avtizmom stradati"
+   },
+   {
+    "title": "Erneute „Kittenflut“ - Tierheim klagt: „Fehlt an allen Ecken und Enden“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVMVdiRzlUblpqMFdyaGFjZVB3MmNQejlEc0JDYTl5TjV3ZzJncnZqYV9DdHE3N3kzOWVncGJ4b0RoQQ?oc=5",
+    "image": "",
+    "date": 1785473400000,
+    "titleSl": "Spet »poplava mačjih mladičev« – zavetišče za živali se pritožuje: »Povsod jih manjka«"
+   },
+   {
+    "title": "„GZSZ“-Star Olivia Marei: „Brauchen klare Rechte“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyV181aTVsNzE5QWxzX21sbGxEcEFxZVhXWGIwZk5tS3FCVk8tLVdqRXpmUUJsY0FhOTdiZkpXTVg4Zw?oc=5",
+    "image": "",
+    "date": 1785472800000,
+    "titleSl": "Zvezdnica “GZSZ” Olivia Marei: “Potrebujem jasne pravice”"
    },
    {
     "title": "Das freie Wort - Ärzte im öffentlichen System",
@@ -482,27 +503,6 @@
     "image": "",
     "date": 1785472680000,
     "titleSl": "\"Monumentalen korak\" - Trump: dosežen dogovor o razorožitvi Hamasa"
-   },
-   {
-    "title": "„Dinge besser machen“ - Hürde gemeistert: So geht’s für die Austria weiter",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YRWNoTHl4bjdIdWpXeE82MnBDNV8zTTJ5RDlpX3VEOXV6UW53VDEwbTJXWHlBVy00YmFvR1pWbUctZw?oc=5",
-    "image": "",
-    "date": 1785472260000,
-    "titleSl": "\"Narediti stvari bolje\" - premagana ovira: tako se stvari nadaljujejo v Avstriji"
-   },
-   {
-    "title": "Neues Superteam - Reals Transfer-Offensive hat galaktisches Flair",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4tVGtRSXlUZUdpeWRraTdZRURPTW93TnhVOUllSDY5T0JVREhRcVNpcnZjS3pVZFFDVkFWMkQydlFXdw?oc=5",
-    "image": "",
-    "date": 1785472200000,
-    "titleSl": "Nova super ekipa - Realova prestopna ofenziva ima galaktični pridih"
-   },
-   {
-    "title": "ÖFB-Akteur in Vietnam - Austrias Sponsor denkt jetzt sogar an Mauritius",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWZWtaSGN0cWFRbkRRdTBqd09ZUTFfQ2tLZFAzdy1lSDk1UDBKaXdWVTd1eUFpZFpnZnUxWGpGS2NEdw?oc=5",
-    "image": "",
-    "date": 1785472020000,
-    "titleSl": "Igralec ÖFB v Vietnamu - Avstrijski sponzor zdaj razmišlja celo o Mauritiusu"
    }
   ],
   "rainews": [
