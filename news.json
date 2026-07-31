@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T20:28:31.846Z",
+ "generatedAt": "2026-07-31T20:30:58.291Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Nancy Guthrie Ransom Notes Released by Sheriff’s Department Searching for New Leads",
+    "link": "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html",
+    "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31nat-guthrie-notes-gwlm/31nat-guthrie-notes-gwlm-mediumSquareAt3X.jpg",
+    "date": 1785529140000,
+    "titleSl": "Zapiske o odkupnini Nancy Guthrie objavil šerifov oddelek, ki išče nove sledi"
+   },
+   {
     "title": "FaceTime, Zoom and Ring Cameras Are Warping Our Reality",
     "link": "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html",
     "image": "https://static01.nyt.com/images/2026/07/31/opinion/31-Shannon-04/31-Shannon-04-mediumSquareAt3X.jpg",
@@ -232,23 +239,9 @@
     "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31dc-fund-topart-vlmb/31dc-fund-topart-vlmb-mediumSquareAt3X.jpg",
     "date": 1785525279000,
     "titleSl": "Trump se bo pritožil na sodbo sodnika, ki obsoja I.R.S. Tožba kot vaja samoobravnavanja"
-   },
-   {
-    "title": "Adam O’Neal Resigns as Washington Post Opinion Editor",
-    "link": "https://www.nytimes.com/2026/07/31/business/media/washington-post-opinion-editor-resigns-after-1-year.html",
-    "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31BIZ-WAPO-1-qfwt/31BIZ-WAPO-1-qfwt-mediumSquareAt3X.jpg",
-    "date": 1785525262000,
-    "titleSl": "Adam O'Neal odstopi kot urednik Washington Posta"
    }
   ],
   "bbc": [
-   {
-    "title": "Watch: Women's Open second-round highlights",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m002zm93?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p1wsl7.jpg",
-    "date": 1785529800000,
-    "titleSl": "Oglejte si: vrhunce drugega kroga Women's Open"
-   },
    {
     "title": "Body of US climber the latest recovered after Pakistan avalanche",
     "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
@@ -283,9 +276,23 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec19/live/49c866b0-8d01-11f1-9a29-416a24547568.png",
     "date": 1785521689000,
     "titleSl": "Še dva pilota majhnih čolnov zaprta zaradi prečkanja Rokavskega preliva"
+   },
+   {
+    "title": "AI firms must answer for rogue bots, says boss of hacked company",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
+    "date": 1785521428000,
+    "titleSl": "Podjetja z umetno inteligenco morajo odgovarjati za goljufive robote, pravi šef podjetja, v katerega so vdrli"
    }
   ],
   "aljazeera": [
+   {
+    "title": "At least 25 people killed, dozens injured in Algeria bus crash",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785528715.jpg?resize=1920%2C1080&quality=80",
+    "date": 1785528752000,
+    "titleSl": "V nesreči avtobusa v Alžiriji je umrlo najmanj 25 ljudi, več deset je ranjenih"
+   },
    {
     "title": "Does FIFA need private investment?",
     "link": "https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6cdc2464ff-1785519140.jpg?resize=1920%2C1440",
     "date": 1785525534000,
     "titleSl": "Trump pravi, da imajo ZDA \"razumevanje\" z Izraelom glede dogovora o razorožitvi Hamasa"
-   },
-   {
-    "title": "World reacts with cautious optimism to Hamas disarmament agreement",
-    "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-hamas-deal-1785487945.jpg?resize=1920%2C1440",
-    "date": 1785523910000,
-    "titleSl": "Svet se na sporazum o razorožitvi Hamasa odziva s previdnim optimizmom"
    }
   ],
   "guardian": [
@@ -463,49 +463,56 @@
   ],
   "krone": [
    {
-    "title": "Gewitter über Tirol - Nach Blitzschlag brannte Waldstück bei Stausee - krone.at",
+    "title": "Gewitter über Tirol - Nach Blitzschlag brannte Waldstück bei Stausee",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrS282MDJTZ2VJUHd0U0dBV1NhVjlpV0Juek8xU3hOWV9mRHBUYnRYV2Frc3FTOVVhTmE5R1VBMklJUQ?oc=5",
     "image": "",
     "date": 1785528780000,
-    "titleSl": "Nevihta nad Tirolsko - Po udaru strele zgorel kos gozda v bližini rezervoarja - krone.at"
+    "titleSl": "Nevihta nad Tirolsko - Po udaru strele zgorel kos gozda v bližini akumulacijskega jezera"
    },
    {
-    "title": "Nach Budgetkürzung - Jetzt drohen uns noch höhere ORF-Zwangsgebühren - krone.at",
+    "title": "Engpass nach Angriffen - Autofahrer auf der Krim bekommen wieder Sprit",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkeFhQbHhXR0g4NVpfMThLUDAwZElObHhCWmtWNERIdDU4LUk0bFdxRVRXNGVYS3Rtay02cWNmNjJKUQ?oc=5",
+    "image": "",
+    "date": 1785528540000,
+    "titleSl": "Ozko grlo po napadih - vozniki na Krimu spet dobivajo gorivo"
+   },
+   {
+    "title": "Nach Budgetkürzung - Jetzt drohen uns noch höhere ORF-Zwangsgebühren",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yd3RKNEZqVTdqMEhpZGdMNHExZ18ydE5tWEJ4TF9LNEhpQnZwMGFyWVFNaU9LVHVuR3RoTm5EN2x6dw?oc=5",
     "image": "",
     "date": 1785528176000,
-    "titleSl": "Po zmanjšanju proračuna - Zdaj nam grozijo še višje obvezne pristojbine ORF - krone.at"
+    "titleSl": "Po zmanjšanju proračuna nam zdaj grozijo še višje obvezne pristojbine za ORF"
    },
    {
-    "title": "Migranten-Chaos in Ceuta ++ Haft im Kinderzimmer - krone.at",
+    "title": "Migranten-Chaos in Ceuta ++ Haft im Kinderzimmer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53bUlqSXhsSWdWMzlEMjVVMzItV1dRRW9TOXZUUXNZakowdUJBTG54aHFPVjNkOUpXOEQtZjVFLTNDUQ?oc=5",
     "image": "",
     "date": 1785528172000,
-    "titleSl": "Migrantski kaos v Ceuti ++ Pripor v otroški sobi - krone.at"
+    "titleSl": "Migrantski kaos v Ceuti ++ Pridržanje v otroški sobi"
    },
    {
-    "title": "Stanković im Visier - Abpfiff-Eklat! GAK-Goalie von LASK-Fans beworfen - krone.at",
+    "title": "Stanković im Visier - Abpfiff-Eklat! GAK-Goalie von LASK-Fans beworfen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCVFZmSVMxUGQtUmhPUjFhSEk4TWpzTlI1QURMWjVENzNDZHZ1RGlhRnI3R1p1VWxwNm1WeWxmZzNMZw?oc=5",
     "image": "",
     "date": 1785527040000,
-    "titleSl": "Stanković na vidiku - škandal z zadnjim žvižgom! Navijači LASK-a vrgli vratarja GAK-a - krone.at"
+    "titleSl": "Stanković na vidiku – škandal z žvižgom! Navijači LASK-a vrgli vratarja GAK-a"
    },
    {
-    "title": "Enorme Regenmengen - Unwetter: Staubecken verhinderte Schlimmeres - krone.at",
+    "title": "Enorme Regenmengen - Unwetter: Staubecken verhinderte Schlimmeres",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41X0dWU1FFQXI0bFJQQlZicGRMM3N2MGVidHA5Yk9zVS16b25BR2Z5Tm45VDk2ZXhxZU15dlgxSDRlUQ?oc=5",
     "image": "",
     "date": 1785526324000,
-    "titleSl": "Ogromne količine dežja - nevihte: zadrževalniki preprečili hujše stvari - krone.at"
-   },
-   {
-    "title": "Kino & Streaming - Tom Holland zurück als Spiderman & singende Stars - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpeFpTLTZrUnhpeHVlR3ZCeVUyb3FNYUFpV3ZfcXFnV1ZaUEtxQ0JMUUVLYm1BdFM2TG1ic2JhQlR1QQ?oc=5",
-    "image": "",
-    "date": 1785525461000,
-    "titleSl": "Kino in pretakanje - Tom Holland nazaj kot Spiderman in pevske zvezde - krone.at"
+    "titleSl": "Ogromne količine dežja - nevihte: zadrževalniki so preprečili, da bi se kaj hujšega zgodilo"
    }
   ],
   "rainews": [
+   {
+    "title": "Campi Flegrei, la scossa di assestamento",
+    "link": "https://www.rainews.it/video/2026/07/terremoto-a-napoli-nuova-scossa-di-assestamento-video-drone-d1bd9a00-bb52-4aae-b6dc-471b91380390.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/31/1785529484285_vlcsnaphms.png",
+    "date": 1785529380000,
+    "titleSl": "Campi Flegrei, popotresni sunek"
+   },
    {
     "title": "Napoli, sisma da 4,7 nei Campi Flegrei. Gente in strada, paura, 8 feriti lievi",
     "link": "https://www.rainews.it/maratona/2026/07/napoli-sisma-da-47-nei-campi-flegrei-gente-in-strada-paura-8-feriti-lievi-1cb2c5f9-3588-4f4b-b67c-8dbcbbae2d56.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/07/31/1785526813147_vlcsnaphms.png",
     "date": 1785526620000,
     "titleSl": "Potres v Neaplju, ruševine na pločnikih"
-   },
-   {
-    "title": "Europei, oro Italia nel mixed team event di tuffi. Argento nel nuoto artistico",
-    "link": "https://www.rainews.it/maratona/2026/07/europei-nuoto-parigi-tutte-le-medaglie-calendario-gare-b494a6f0-3302-41d9-b948-7fc828e44ff7.html",
-    "image": "https://www.rainews.it/dl/img/2026/07/31/1785506982660_rainewsfccbcaeddbfd.jpg",
-    "date": 1785526320000,
-    "titleSl": "Evropsko prvenstvo, Italija zlato v skokih v mešane ekipe. Srebro v umetniškem plavanju"
    }
   ],
   "lemonde": [
