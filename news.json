@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T11:01:11.775Z",
+ "generatedAt": "2026-07-31T11:02:30.369Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "V mesto s 83.500 prebivalci vdrlo skoraj 50.000 migrantov",
     "link": "https://www.24ur.com/novice/tujina/spanija-v-ceuto-posilja-vojake-italija-razmislja-o-izrednih-ukrepih.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/5f1b20749da40e990f14_63625436.jpg?v=5a4f&fop=fp:0.45:0.37",
-    "date": 1785495337000
+    "date": 1785495676000
    },
    {
     "title": "Zastoji na štajerski in primorski avtocesti, kolona tudi pred Karavankami",
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Opfer in Nürnberg unter Drogen gesetzt - Mädchen missbraucht! Zwei weitere Syrer in U-Haft",
+    "link": "https://www.bild.de/regional/nuernberg/nuernberg-syrer-nach-vergewaltigungen-und-drogenhandel-festgenommen-6a6c66e25aee44c118a94bae",
+    "image": "https://images.bild.de/6a6c66e25aee44c118a94bae/45aeb3b3aebc10926ef5a4ff92e20ed7,d48c21d6?w=1280",
+    "date": 0,
+    "titleSl": "Žrtev zadrogirana v Nürnbergu - dekle zlorabljeno! V priporu še dva Sirca"
+   },
+   {
     "title": "Nach Suspendierung bei den 96-Profis - So kämpft Sturm-Juwel um seine Titz-Rückkehr",
     "link": "https://www.bild.de/sport/fussball/hannover-96-nach-suspendierung-sturm-juwel-kaempft-um-titz-rueckkehr-6a686f4bce0aac7f44e40a37",
     "image": "https://images.bild.de/6a686f4bce0aac7f44e40a37/e19977b17fa6564b0bcfcb734d3a3462,bcc89252?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a6c70aaef632fe6ede66a91/90d9c451c0bf353ed3363e7c71e1a361,89f91662?w=1280",
     "date": 0,
     "titleSl": "Hrup bo kmalu tudi v Nemčiji – tako glasen je podatkovni center AI"
-   },
-   {
-    "title": "Sturm-Transfer bei Werder? - Ablöse-Poker um diesen Torjäger",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-sturm-transfer-abloese-poker-um-diesen-torjaeger-6a6c6f9bdd06dd5ef2e4067f",
-    "image": "https://images.bild.de/6a6c6f9bdd06dd5ef2e4067f/c8a2df5343800d998b2779e6e3f195c1,58e42455?w=1280",
-    "date": 0,
-    "titleSl": "Prestop Sturma v Werder? - Prenos pokra za tega strelca"
    }
   ],
   "krone": [
@@ -595,11 +595,32 @@
   ],
   "elpais": [
    {
-    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Más de 40.000 inmigrantes han entrado de manera irregular en Ceuta, según las primeras estimaciones",
+    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez denuncia “una violación de la integridad territorial de España”",
     "link": "https://elpais.com/espana/2026-07-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/JTMZCAEX2BA3LICALYVRFQMCHI.jpg?auth=6b230886d85ba9365bfb7f7691766748bb2454e7dbe48d15720bfe712c06b49f",
-    "date": 1785495053000,
-    "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Po prvih ocenah je v Ceuto nedovoljeno vstopilo več kot 40.000 priseljencev"
+    "image": "https://imagenes.elpais.com/resizer/v2/KOYXFVESVJG6HF6U2MG4RPDUNU.jpg?auth=98da09612a01e224a8d20c4ff23308bae39d2f1da625ded2177e4dda06e297d3",
+    "date": 1785495658000,
+    "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Sánchez obsoja \"kršitev ozemeljske celovitosti Španije\""
+   },
+   {
+    "title": "Condenado a 15 años de prisión el padre del autor de un tiroteo en un instituto en Estados Unidos",
+    "link": "https://elpais.com/internacional/2026-07-31/condenado-a-15-anos-de-prision-el-padre-del-autor-de-un-tiroteo-en-un-instituto-en-estados-unidos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SRNVYVCZTRPRBHZRKQARHUCSI4.jpg?auth=35fdb666a5878110f1f905481c8a17fbd979da2f991c79d8984220525c02b3f2",
+    "date": 1785495541000,
+    "titleSl": "Oče storilca streljanja na srednji šoli v ZDA obsojen na 15 let zapora"
+   },
+   {
+    "title": "La colonia fresca unisex que arrasa cada verano en Amazon vale menos de 9 euros",
+    "link": "https://elpais.com/escaparate/belleza/colonia-fresca-unisex.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/7OPRVR6BJBDUREWMXUOHLN2FKE.png?auth=e15669d37f422cc124098616d77686537a340ca8fbd084131cb1985e6cd9fe71",
+    "date": 1785495300000,
+    "titleSl": "Sveža uniseks kolonjska voda, ki se vsako poletje pojavi na Amazonu, je vredna manj kot 9 evrov"
+   },
+   {
+    "title": "Datos | ¿Por dónde entran los migrantes a Ceuta? ¿Cuántos suelen cruzar?",
+    "link": "https://elpais.com/espana/2026-07-31/datos-por-donde-entran-los-migrantes-a-ceuta-cuantos-suelen-cruzar.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/FQLNU5AUTNCLRGP27UUIQVETNU.jpg?auth=528ab26ce1aad9f6458e3fbe7d08507a870e966c22bd09aa9256c0b4fe16caf7&width=1200",
+    "date": 1785494822000,
+    "titleSl": "Podatki | Kje migranti vstopajo v Ceuto? Koliko jih običajno prečkajo?"
    },
    {
     "title": "La archidiócesis de Madrid decreta la supresión de una asociación religiosa denunciada por presuntos exorcismos y agresiones sexuales",
@@ -614,27 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/UWP5Q6R3XFEFZFFFXIUA7ILR3I.jpg?auth=e1d9688f33014862b0926b41426b5a365395f1701fd8f99e9ff5d7eb1f70d143",
     "date": 1785494661000,
     "titleSl": "Dve tipkarski napaki za pesnika: plošča v čast Cernudi v Sevilli bo popravila črkovalne napake"
-   },
-   {
-    "title": "La crisis migratoria en Ceuta, en imágenes",
-    "link": "https://elpais.com/espana/2026-07-31/la-crisis-migratoria-en-ceuta-en-imagenes.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/JTMZCAEX2BA3LICALYVRFQMCHI.jpg?auth=6b230886d85ba9365bfb7f7691766748bb2454e7dbe48d15720bfe712c06b49f",
-    "date": 1785494441000,
-    "titleSl": "Migrantska kriza v Ceuti, v slikah"
-   },
-   {
-    "title": "Los guantes de Madonna, el vestuario de Shakira en ‘Dai Dai’ y otros artículos usados por BTS en el medio tiempo de la final del Mundial, vendidos por miles de euros",
-    "link": "https://elpais.com/gente/2026-07-31/los-guantes-de-madonna-el-vestuario-de-shakira-en-dai-dai-y-otros-articulos-usados-por-bts-en-el-medio-tiempo-de-la-final-del-mundial-vendidos-por-miles-de-euros.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/GXPVHZNSV5FBNMQACY63YWTR44.jpg?auth=24f8acd8db2f4bcba6fcdc4f66234e0ba9ae42227fd03dd66fe1d763be084dbb",
-    "date": 1785494217000,
-    "titleSl": "Madonnine rokavice, Shakirin kostum v 'Dai Dai' in drugi predmeti, ki so jih BTS nosili ob polčasu finala svetovnega prvenstva, prodani za več tisoč evrov"
-   },
-   {
-    "title": "Con el ático ya van tres: la Comunidad ya había comprado antes otros dos pisos donde estaban prohibidas las oficinas",
-    "link": "https://elpais.com/espana/madrid/2026-07-31/con-el-atico-ya-van-tres-la-comunidad-ya-habia-comprado-antes-otros-dos-pisos-donde-estaban-prohibidas-las-oficinas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/7ZQSAWOCFJBVTEMERGUUOTHRSQ.jpeg?auth=bd2e7b1b857655f26ea9d3f5bc712066b44a3ef666173c6bb9f9d1057a309867",
-    "date": 1785493941000,
-    "titleSl": "S podstrešjem so zdaj tri: Skupnost je pred tem kupila še dve stanovanji, kjer so pisarne prepovedane"
    }
   ]
  },
