@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T10:18:25.327Z",
+ "generatedAt": "2026-07-31T10:20:38.338Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,13 @@
     "title": "'Ogromen požar se širi proti jugu. Trenutno branimo sever, da ne bi preskočil'",
     "link": "https://www.24ur.com/novice/slovenija/zagorelo-pri-bovcu-na-delu-tudi-air-tractorji.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/c6ff116a1fd70eb9cec9_63625345.jpg?v=d5a2&fop=fp:0.54:0.61",
-    "date": 1785492975000
+    "date": 1785493088000
+   },
+   {
+    "title": "Infantinova barka se potaplja: svetovalec odstopil, AFC podprla Uefo in Concacaf",
+    "link": "https://www.24ur.com/sport/nogomet/infantinova-barka-se-potaplja-svetovalec-odstopil-afc-podprla-uefo-in-concacaf.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/828bdaf24d6858e52fc3_63625444.jpg?v=facd&fop=fp:0.62:0.29",
+    "date": 1785492543000
    },
    {
     "title": "Na štajerski avtocesti gasijo goreče vozilo, zaprt vozni pas",
@@ -69,15 +75,15 @@
     "link": "https://www.24ur.com/novice/tujina/spanija-v-ceuto-posilja-vojake-italija-razmislja-o-izrednih-ukrepih.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/5f1b20749da40e990f14_63625436.jpg?v=5a4f&fop=fp:0.45:0.37",
     "date": 1785490479000
-   },
-   {
-    "title": "Rušenje črne gradnje v romskem naselju: na terenu tudi policija",
-    "link": "https://www.24ur.com/novice/slovenija/rusenje-crne-gradnje-v-romskem-naselju-na-terenu-tudi-policija.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/da528b43e8e3f0d8aa86_63625400.jpg?v=b18e&fop=fp:0.52:0.70",
-    "date": 1785490327000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Sloveniji iz mehanizma za okrevanje in odpornost izplačanih še 41 milijonov evrov",
+    "link": "https://www.rtvslo.si/evropska-unija/sloveniji-iz-mehanizma-za-okrevanje-in-odpornost-izplacanih-se-41-milijonov-evrov/789620",
+    "image": "https://img.rtvcdn.si/_up/upload/2013/07/10/65011216_h_00872193.jpg",
+    "date": 1785493145000
+   },
    {
     "title": "Alja Adam: Pes, dvojčici in zeleni tatu",
     "link": "https://www.rtvslo.si/kultura/beremo/alja-adam-pes-dvojcici-in-zeleni-tatu/789615",
@@ -97,22 +103,16 @@
     "date": 1785488665000
    },
    {
+    "title": "Filip Matej Pfeifer in Nina Kostanjšek v polfinalu EP-ja",
+    "link": "https://www.rtvslo.si/sport/preostali-sporti/filip-matej-pfeifer-in-nina-kostanjsek-v-polfinalu-ep-ja/789610",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/06/27/67056701.jpg",
+    "date": 1785488664000
+   },
+   {
     "title": "Medletna inflacija julija padla na 2,9 odstotka",
     "link": "https://www.rtvslo.si/gospodarstvo/medletna-inflacija-julija-padla-na-2-9-odstotka/789608",
     "image": "https://img.rtvcdn.si/_up/upload/2024/08/30/66215227.jpg",
     "date": 1785487729000
-   },
-   {
-    "title": "Fifa pravi, da nihče ne prodaja nogometa, a nadaljuje sporni načrt",
-    "link": "https://www.rtvslo.si/sport/nogomet/fifa-pravi-da-nihce-ne-prodaja-nogometa-a-nadaljuje-sporni-nacrt/789603",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/31/67064854.jpg",
-    "date": 1785486260000
-   },
-   {
-    "title": "Poslovil se je Mitja Gobec, ena osrednjih osebnosti slovenskega zborovstva",
-    "link": "https://www.rtvslo.si/kultura/glasba/poslovil-se-je-mitja-gobec-ena-osrednjih-osebnosti-slovenskega-zborovstva/789604",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/31/67064857.jpg",
-    "date": 1785486210000
    }
   ],
   "zurnal": [
@@ -243,18 +243,32 @@
   ],
   "bbc": [
    {
+    "title": "Sainsbury's agrees to sell Argos for £120m",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9eb/live/307efa70-8cc5-11f1-b8ee-9b3c26ad07bb.jpg",
+    "date": 1785493187000,
+    "titleSl": "Sainsbury's se strinja s prodajo Argosa za 120 milijonov funtov"
+   },
+   {
+    "title": "Southport killer charged with prison attacks and possessing weapon",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087b/live/09e8c180-8cc9-11f1-97f5-93fc85ee9dc4.jpg",
+    "date": 1785493161000,
+    "titleSl": "Morilec iz Southporta obtožen napadov na zapore in posedovanja orožja"
+   },
+   {
+    "title": "Anthropic's Claude AI escapes to hack into three organisations",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
+    "date": 1785493134000,
+    "titleSl": "Claude AI iz Anthropica pobegne, da bi vdrl v tri organizacije"
+   },
+   {
     "title": "Andy Burnham to give regional mayors share of income tax",
     "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32cd/live/d8a01ed0-8ca9-11f1-b2ab-0dd01740f9f6.jpg",
     "date": 1785493025000,
     "titleSl": "Andy Burnham bo regionalnim županom dal delež dohodnine"
-   },
-   {
-    "title": "Southport killer charged with prison attacks and possessing weapon",
-    "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-    "date": 1785492441000,
-    "titleSl": "Morilec iz Southporta obtožen napadov na zapore in posedovanja orožja"
    },
    {
     "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
@@ -269,20 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754b/live/c6697f30-8cc3-11f1-8f2c-4d6f62a39ad4.jpg",
     "date": 1785492427000,
     "titleSl": "Višji Infantinov svetovalec je odstopil, ker azijska zveza nasprotuje načrtom"
-   },
-   {
-    "title": "Sainsbury's agrees to sell Argos for £120m",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9eb/live/307efa70-8cc5-11f1-b8ee-9b3c26ad07bb.jpg",
-    "date": 1785492299000,
-    "titleSl": "Sainsbury's se strinja s prodajo Argosa za 120 milijonov funtov"
-   },
-   {
-    "title": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1205/live/c66b3870-8cb9-11f1-b49b-bb9fc846a015.jpg",
-    "date": 1785491498000,
-    "titleSl": "Približno 49.000 migrantov vstopi na špansko ozemlje Ceute, pravijo uradniki"
    }
   ],
   "aljazeera": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Nach Herz-Drama - Eriksen zurück in Wolfsburg!",
+    "link": "https://www.bild.de/sport/fussball/christian-eriksen-nach-herz-drama-zurueck-in-wolfsburg-6a6c56a6ef632fe6ede66869",
+    "image": "https://images.bild.de/6a6c56a6ef632fe6ede66869/4bf56af6baf685580957b82c04c24ebd,ffd563fd?w=1280",
+    "date": 0,
+    "titleSl": "Po srčni drami - Eriksen spet v Wolfsburgu!"
+   },
+   {
     "title": "Bücherwurm Burkardt, Playboy Collins - Chandler stellt die Eintracht-Stars vor",
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-timothy-chandler-stellt-die-stars-vor-6a6bbd13ef632fe6ede66336",
     "image": "https://images.bild.de/6a6bbd13ef632fe6ede66336/3cdedfd7b64b2bc654990e5e28e5b9c7,8367a5c2?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a688c83c435b807339bd280/9bb73767b5d4f77b28676d28501c9f3c,15a0e259?w=1280",
     "date": 0,
     "titleSl": "Namesto trenutnih priporočil - raziskovalci s Cambridgea zahtevajo skoraj dvakrat več beljakovin"
-   },
-   {
-    "title": "BILD exklusiv - Bundesliga-Klubs heiß auf Lautern-Star!",
-    "link": "https://www.bild.de/sport/fussball/1-fc-kaiserslautern-bundesliga-klubs-heiss-auf-fck-star-6a6c655add06dd5ef2e40581",
-    "image": "https://images.bild.de/6a6c655add06dd5ef2e40581/8539dba19c950c8ec56abf9e9c45988e,5ace63c6?w=1280",
-    "date": 0,
-    "titleSl": "Ekskluzivno za BILD - Bundesligaški klubi zagreti za zvezdnika Lauterna!"
    }
   ],
   "krone": [
