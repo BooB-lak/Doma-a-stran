@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T10:42:25.768Z",
+ "generatedAt": "2026-07-31T10:44:25.363Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,13 @@
     "title": "'Ogromen požar se širi proti jugu. Trenutno branimo sever, da ne bi preskočil'",
     "link": "https://www.24ur.com/novice/slovenija/zagorelo-pri-bovcu-na-delu-tudi-air-tractorji.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/c6ff116a1fd70eb9cec9_63625345.jpg?v=d5a2&fop=fp:0.54:0.61",
-    "date": 1785494313000
+    "date": 1785494557000
+   },
+   {
+    "title": "Verbič se bo kmalu predstavil kot okrepitev Celja",
+    "link": "https://www.24ur.com/sport/nogomet/verbic-celje-novinarska-konferenca.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2025/1eb67cc1f80397130ef7_63421419.jpg?v=5e15&fop=fp:0.60:0.23",
+    "date": 1785494435000
    },
    {
     "title": "V mesto s 83.500 prebivalci vdrlo skoraj 50.000 migrantov",
@@ -63,12 +69,6 @@
     "link": "https://www.24ur.com/novice/slovenija/z-avgustom-za-slap-savica-znova-vstopnina.html",
     "image": "https://images.24ur.com/media/images/213xX/Apr2026/6aafee8a084acfdff6f9_63571651.jpg?v=2d89&fop=fp:0.51:0.39",
     "date": 1785493360000
-   },
-   {
-    "title": "Kje je 64-letni Gabrijel?",
-    "link": "https://www.24ur.com/novice/crna-kronika/kje-je-64-letni-gabrijel.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/c44b0b7879289ee5b211_63625457.jpg?v=5b52&fop=fp:0.42:0.53",
-    "date": 1785492872000
    },
    {
     "title": "Infantinova barka se potaplja: svetovalec odstopil, AFC podprla Uefo in Concacaf",
@@ -213,6 +213,13 @@
     "titleSl": "Trumpova napoved dogovora v Gazi odpira številna neodgovorjena vprašanja"
    },
    {
+    "title": "Iran War Drives Oil Profits to Highest Levels in Years",
+    "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
+    "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31biz-oil-earnings-mzlt/31biz-oil-earnings-mzlt-mediumSquareAt3X.jpg",
+    "date": 1785494043000,
+    "titleSl": "Iranska vojna je dobičke od nafte dvignila na najvišjo raven v zadnjih letih"
+   },
+   {
     "title": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
     "link": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
     "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31France-Heat-Accountability-hlqm/31France-Heat-Accountability-hlqm-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-iran-fzcb/31int-iran-fzcb-mediumSquareAt3X-v3.jpg",
     "date": 1785490731000,
     "titleSl": "Iran pravi, da je z droni ciljal na ameriško vojsko v Kuvajtu"
-   },
-   {
-    "title": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
-    "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-ukraine-fedorov-tgfl/31int-ukraine-fedorov-tgfl-mediumSquareAt3X.jpg",
-    "date": 1785489939000,
-    "titleSl": "Politični pretresi ne bodo iztirili programa robotov morilcev, pravi odstavljeni minister"
    }
   ],
   "bbc": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Lärm bald auch in Deutschland - SO hört sich ein KI-Rechenzentrum an",
+    "link": "https://www.bild.de/news/rechenzentren-massiver-laerm-durch-kuehlung-bald-auch-in-deutschland-6a6c70aaef632fe6ede66a91",
+    "image": "https://images.bild.de/6a6c70aaef632fe6ede66a91/90d9c451c0bf353ed3363e7c71e1a361,89f91662?w=1280",
+    "date": 0,
+    "titleSl": "Hrup kmalu tudi v Nemčiji - TAKO zveni podatkovni center z umetno inteligenco"
+   },
+   {
+    "title": "Brückentransport XXL - 3700 Tonnen-Riese rollt durch Hamburg",
+    "link": "https://www.bild.de/news/inland/brueckentransport-xxl-3700-tonnen-riese-rollt-durch-hamburg-6a6c734edd06dd5ef2e40712",
+    "image": "https://images.bild.de/6a6c734edd06dd5ef2e40712/31f97f1b4d77a1a2cb917f44c477f802,185dd36a?w=1280",
+    "date": 0,
+    "titleSl": "Mostni transport XXL - 3700 tonski velikan se vali skozi Hamburg"
+   },
+   {
+    "title": "Infantino-Klartext im TV - „Er ist nicht gierig nach Geld, sondern nach Macht!“",
+    "link": "https://www.bild.de/sport/fussball/infantino-klartext-im-tv-er-ist-nicht-gierig-nach-geld-sondern-nach-macht-6a6c7a5edd06dd5ef2e407b9",
+    "image": "https://images.bild.de/6a6c7a5edd06dd5ef2e407b9/cb62d864dc2a0e0783fa060f33055003-landscape,b1a2dcd5?w=1280",
+    "date": 0,
+    "titleSl": "Infantino golo besedilo na TV - \"Ni pohlepen po denarju, ampak po moči!\""
+   },
+   {
     "title": "Der Weltmeister ist wieder verliebt! - Sie hat das Herz von Thomas Müller erobert",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/thomas-mueller-neue-liebe-mit-eve-rose-bitbol-6a6c593dff33749f57289cbf",
     "image": "https://images.bild.de/6a6c593dff33749f57289cbf/7fefd156e05bfd0e7bf22773f2b6f7c3,2b0f0e5a?w=1280",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6a6bf35edd06dd5ef2e3ff92/1bc72c2a51bb235766d3c827638b43a3,af22f708?w=1280",
     "date": 0,
     "titleSl": "Po Trumpovi napovedi - Hamas naj bi pristal na razorožitev, a..."
-   },
-   {
-    "title": "Migrationsalarm am Mittelmeer - „Frankreich zu Deutschland wird die neue Problemgrenze“",
-    "link": "https://www.bild.de/politik/migrationsalarm-am-mittelmeer-frankreich-zu-deutschland-wird-die-neue-problemgrenze-6a6c608ddd06dd5ef2e4050f",
-    "image": "https://images.bild.de/6a6c608ddd06dd5ef2e4050f/21a54aba3be743d3db3b67804375c37e,aa97f574?w=1280",
-    "date": 0,
-    "titleSl": "Migracijski alarm v Sredozemlju - \"Nova problematična meja bo Francija proti Nemčiji\""
-   },
-   {
-    "title": "Kurz nach Start in Stuttgart - Blitz trifft Eurowings-Flieger mit 106 Passagieren",
-    "link": "https://www.bild.de/news/kurz-nach-start-in-stuttgart-blitz-trifft-eurowings-flieger-mit-106-passagieren-6a6c764edd06dd5ef2e4074f",
-    "image": "https://images.bild.de/6a6c764edd06dd5ef2e4074f/4577588d2a987f7319a3e50072043fd5,c1940a7b?w=1280",
-    "date": 0,
-    "titleSl": "Kmalu po vzletu v Stuttgartu - strela udarila v letalo Eurowings s 106 potniki"
-   },
-   {
-    "title": "BILD beantwortet die wichtigsten Fragen - 1860 München: Am Samstag Neustart in der 4. Liga",
-    "link": "https://www.bild.de/sport/fussball/1860-muenchen-bild-beantwortet-die-wichtigsten-fragen-zum-neustart-6a69b96018af02e41ad871bb",
-    "image": "https://images.bild.de/6a69b96018af02e41ad871bb/e8d83d697d7802fdd08e7d4b38f83d8b,cd460aed?w=1280",
-    "date": 0,
-    "titleSl": "BILD odgovarja na najpomembnejša vprašanja - 1860 München: V soboto znova v 4. ligi"
    }
   ],
   "krone": [
@@ -468,6 +468,13 @@
     "image": "",
     "date": 1785493800000,
     "titleSl": "\"Upam, da bo nekoč treniral FC Bayern\""
+   },
+   {
+    "title": "Knallharte Abrechnung - Aus Protest! Infantino-Vertrauter tritt zurück",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BSDREb2tsOTlsREh2bENhaGxrRF9renRwU19MS0NSMVM4dHZpalRLd3VmNU1ldmxTN1JuVEhUZUlWQQ?oc=5",
+    "image": "",
+    "date": 1785493680000,
+    "titleSl": "Trd obračun – protestno! Infantinov zaupnik odstopil"
    },
    {
     "title": "Messerattacke in Wien - Opfer mit Stichwunden: Verdächtiger ist erst 15",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1785492660000,
     "titleSl": "Prijeli moškega (48) - Steirer naj bi ženski grozil z nožem in smrtjo"
-   },
-   {
-    "title": "Unfall in Fraxern - Radfahrer (34) stürzt über 15 Meter hohe Felswand",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1IdThtMktEV2xmcnVPMHoxM3YxQjhTMjh3OG15M1ZRd2pTX2U4TE1QejB4bU5MaXZNNFk1TmtHWDExdw?oc=5",
-    "image": "",
-    "date": 1785491760000,
-    "titleSl": "Nesreča v Fraxernu - kolesar (34) padel čez 15 metrov visoko skalo"
    }
   ],
   "rainews": [
@@ -598,7 +598,7 @@
     "title": "La crisis migratoria en Ceuta, en imágenes",
     "link": "https://elpais.com/espana/2026-07-31/la-crisis-migratoria-en-ceuta-en-imagenes.html",
     "image": "https://imagenes.elpais.com/resizer/v2/JTMZCAEX2BA3LICALYVRFQMCHI.jpg?auth=6b230886d85ba9365bfb7f7691766748bb2454e7dbe48d15720bfe712c06b49f",
-    "date": 1785494362000,
+    "date": 1785494441000,
     "titleSl": "Migrantska kriza v Ceuti, v slikah"
    },
    {
