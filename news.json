@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T00:24:32.060Z",
+ "generatedAt": "2026-07-31T00:26:29.196Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
+    "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-spain-migrants-01-pbtw/30int-spain-migrants-01-pbtw-mediumSquareAt3X.jpg",
+    "date": 1785457524000,
+    "titleSl": "Na tisoče migrantov vstopi v Ceuto, špansko enklavo, iz Maroka"
+   },
+   {
     "title": "Defying Trump, Cornyn Uses His Lame-Duck Power",
     "link": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
     "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30dc-cornyn-tpjw/30dc-cornyn-tpjw-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30nat-wisconsin-barnes-1b-pljt/30nat-wisconsin-barnes-1b-pljt-mediumSquareAt3X.jpg",
     "date": 1785451524000,
     "titleSl": "Nekdanji podguverner Mandela Barnes izstopa iz tekme za guvernerja Wisconsina"
-   },
-   {
-    "title": "Trump Threatens to Withdraw Blanche as Attorney General, Dealing Blow to Nomination",
-    "link": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
-    "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30dc-blanche-jvft/30dc-blanche-jvft-mediumSquareAt3X.jpg",
-    "date": 1785450464000,
-    "titleSl": "Trump grozi z umikom Blanche kot generalne državne tožilke in s tem zadaje udarec nominaciji"
    }
   ],
   "bbc": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785456590.jpg?resize=1920%2C1080&quality=80",
-    "date": 1785456492000,
-    "titleSl": "Ameriška eskalacija z Iranom je \"nesmiselna\", opozarja nekdanji ameriški diplomat"
-   },
-   {
-    "title": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785455649.jpg?resize=1865%2C1080&quality=80",
-    "date": 1785456238000,
-    "titleSl": "Iranska vojna v živo: Trump pravi, naj se Hamas razoroži, Izrael naj postopoma zapusti Gazo"
-   },
-   {
     "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-00.45.14-1785455315.png?resize=1200%2C675",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2022/09/AP22270000869079.jpg?resize=1920%2C1440",
     "date": 1785453850000,
     "titleSl": "Ameriško prizivno sodišče zavrača Trumpovo razširitev obveznega pridržanja migrantov"
+   },
+   {
+    "title": "Trump administration appeals to never-before-used court for deportation",
+    "link": "https://www.aljazeera.com/news/2026/7/30/trump-administration-appeals-to-never-before-used-court-for-deportation?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6bd73367d0-1785452339.jpg?resize=1920%2C1440",
+    "date": 1785453268000,
+    "titleSl": "Trumpova administracija se je za deportacijo pritožila na še nikoli uporabljeno sodišče"
+   },
+   {
+    "title": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+    "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260728__C3EH47Y__v1__HighRes__PalestinianIsraelConflictGaza-1785392877.jpg?resize=1920%2C1440",
+    "date": 1785450859000,
+    "titleSl": "Trump pravi, da je Odbor za mir dosegel dogovor o razorožitvi Hamasa v Gazi"
    }
   ],
   "guardian": [
@@ -470,6 +470,13 @@
     "titleSl": "“V kleti sta vdrli voda in umazanija”"
    },
    {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uNWRsd0V5RlBBX3FhRW5UX2dkNWhEX1A0eVFURmdkY09ETjhZSnQyb3RyZ2RJTFJ4TmRiMmM1aEN1ZEtfYUxrR21HTTVzUW9wc0gxWFhxYw?oc=5",
+    "image": "",
+    "date": 1785454113000,
+    "titleSl": "Vaš lunarni koledar"
+   },
+   {
     "title": "Stimmen zum Spiel - Austria-Coach: „So etwas darf nicht passieren“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hZmdmQk0wLUFqUlVfVUIzU3VyUThaOG9hZ3BlMVN0MHB5b3o3Z2VqaGpnQjdHWHFFNDFFV0VUdE1Hdw?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1785442135000,
     "titleSl": "Posneto rojstvo kita grbavca ++ Walterja Rucka ni več"
-   },
-   {
-    "title": "GUTEN MORGEN - Sang- und klanglos | Was wir nicht gehört haben",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBuOG1LUWFQVDQ3WEhUelpqYjlpQ3RhVUl0MFpDemQ0WnRJWlU3UVAyMm03WjFJLXd6OXRsOThENlZaZw?oc=5",
-    "image": "",
-    "date": 1785441600000,
-    "titleSl": "DOBRO JUTRO - brez pesmi in zvoka | Česa nismo slišali"
    }
   ],
   "rainews": [
@@ -554,7 +554,7 @@
     "title": "​Bande de Gaza : Donald Trump annonce un accord sur le désarmement du Hamas",
     "link": "https://www.lemonde.fr/international/article/2026/07/31/bande-de-gaza-donald-trump-annonce-un-accord-sur-le-desarmement-du-hamas_6737076_3210.html",
     "image": "https://img.lemde.fr/2025/04/02/500/0/6000/3000/644/322/60/0/b8029e4_ftp-import-images-1-kjtipgeb5pxq-e1f2f11faddc4518ad81db0406973b66-1-aed4ae3c7a7e4578b1dcfba889503284.jpg",
-    "date": 1785455638000,
+    "date": 1785455634000,
     "titleSl": "​Območje Gaze: Donald Trump napoveduje dogovor o razorožitvi Hamasa"
    },
    {
