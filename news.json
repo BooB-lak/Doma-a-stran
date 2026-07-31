@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T09:34:31.103Z",
+ "generatedAt": "2026-07-31T09:36:34.025Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "V mesto s 83.500 prebivalci naj bi vdrlo več kot 40.000 migrantov",
     "link": "https://www.24ur.com/novice/tujina/spanija-v-ceuto-posilja-vojake-italija-razmislja-o-izrednih-ukrepih.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/5f1b20749da40e990f14_63625436.jpg?v=5a4f&fop=fp:0.45:0.37",
-    "date": 1785490277000
+    "date": 1785490479000
    },
    {
     "title": "Arso je prižgal rdeči alarm, padali bodo rekordi",
@@ -59,6 +59,12 @@
     "date": 1785489478000
    },
    {
+    "title": "'Izpad proti Runaviku je katastrofa za Koper'",
+    "link": "https://www.24ur.com/sport/nogomet/izpad-proti-runaviku-je-katastrofa-za-koper.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/e3db418b458e8b165477_63625252.jpg?v=7407&fop=fp:0.57:0.18",
+    "date": 1785489320000
+   },
+   {
     "title": "Ogromen požar pri Bovcu, gasita dve letali, zaprosili tudi za helikopter",
     "link": "https://www.24ur.com/novice/slovenija/zagorelo-pri-bovcu-na-delu-tudi-air-tractorji.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/c6ff116a1fd70eb9cec9_63625345.jpg?v=d5a2&fop=fp:0.54:0.61",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/ruska-raketa-zadela-proizvodni-obrat-ameriskega-podjetja-v-kijevu.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/b445b7df828fefe2b878_63625383.jpg?v=8f49&fop=fp:0.35:0.37",
     "date": 1785487321000
-   },
-   {
-    "title": "Kapetan, legenda, gospod: Baresi pri 66 letih izgubil boj za življenje",
-    "link": "https://www.24ur.com/sport/nogomet/kapetan-legenda-gospod-baresi-pri-66-izgubil-boj-za-zivljenje.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/e9294c82a19de773f863_63625333.jpg?v=87ab&fop=fp:0.50:0.28",
-    "date": 1785485580000
    }
   ],
   "rtvslo": [
@@ -243,25 +243,25 @@
   ],
   "bbc": [
    {
-    "title": "Massive Attack investigated after reports of pro-Palestinian display in Singapore show",
-    "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d6/live/c9a28290-8ca1-11f1-a867-632131402dc0.jpg",
-    "date": 1785489609000,
-    "titleSl": "Masivni napad preiskujejo po poročilih o propalestinskem prikazovanju v Singapurju"
-   },
-   {
     "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
     "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5865/live/3f1bcf80-8cc1-11f1-b2ab-0dd01740f9f6.jpg",
-    "date": 1785488917000,
+    "date": 1785490460000,
     "titleSl": "Azijske države se pridružujejo vse večjemu nasprotovanju kontroverznemu naložbenemu načrtu Fife za svetovno prvenstvo"
    },
    {
     "title": "Infantino plans in jeopardy after Asian federation joins opposition",
     "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942d/live/7e2ddf90-8cb9-11f1-b49b-bb9fc846a015.jpg",
-    "date": 1785488917000,
+    "date": 1785490460000,
     "titleSl": "Infantinovi načrti so ogroženi, potem ko se je azijska zveza pridružila nasprotovanju"
+   },
+   {
+    "title": "Massive Attack investigated after reports of pro-Palestinian display in Singapore show",
+    "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d6/live/c9a28290-8ca1-11f1-a867-632131402dc0.jpg",
+    "date": 1785489609000,
+    "titleSl": "Masivni napad preiskujejo po poročilih o propalestinskem prikazovanju v Singapurju"
    },
    {
     "title": "Anthropic's Claude AI escapes to hack into three organisations",
@@ -375,6 +375,20 @@
   ],
   "spiegel": [
    {
+    "title": "Ganztagsbetreuung: Fast alle West-Bundesländer verfehlen Rechtsanspruch für Erstklässler",
+    "link": "https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-fast-alle-west-bundeslaender-verfehlen-rechtsanspruch-fuer-erstklaessler-a-4f4ce198-f66a-44b9-b60b-890bdc055311#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/0a5c2be9-b8e3-4f1e-a409-992941518368_w520_r2.08_fpx47.46_fpy50.jpg",
+    "date": 1785490260000,
+    "titleSl": "Celodnevno varstvo: Skoraj vse zahodne zvezne države nimajo zakonske pravice za prvošolčke"
+   },
+   {
+    "title": "Sieghard Knodel: Sie nennen ihn das Phantom des Bundestags. Wer ist der faule Ex-AfD-Mann?",
+    "link": "https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/5088773a-5037-459c-a077-bbce686e79bb_w520_r2.08_fpx50_fpy50.jpg",
+    "date": 1785490200000,
+    "titleSl": "Sieghard Knodel: Pravijo mu fantom Bundestaga. Kdo je leni bivši mož AfD?"
+   },
+   {
     "title": "Suno: KI-Musikanbieter darf urheberrechtlich geschützte Melodien nicht nutzen",
     "link": "https://www.spiegel.de/netzwelt/netzpolitik/suno-ki-musikanbieter-darf-urheberrechtlich-geschuetzte-melodien-nicht-nutzen-a-dc24efb4-f906-4939-89fd-583cebace3af#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/96d80604-951f-475a-beb5-438564596005_w520_r2.08_fpx53.3_fpy50.jpg",
@@ -401,23 +415,23 @@
     "image": "https://cdn.prod.www.spiegel.de/images/0ac18edf-6b2f-42fa-893e-53e3ed904d43_w520_r2.08_fpx54_fpy90.jpg",
     "date": 1785487980000,
     "titleSl": "Broad Peak v Pakistanu: Nirmal Purja in drugi alpinisti, ki jih je zajel snežni plaz"
-   },
-   {
-    "title": "Fifa: Investorenpläne von Gianni Infantino haben keine Mehrheit mehr",
-    "link": "https://www.spiegel.de/sport/fussball/fifa-investorenplaene-von-gianni-infantino-haben-keine-mehrheit-mehr-a-a5927be2-7800-4592-941e-2619a9f3e331#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/4b207424-ca74-4f7e-afb2-89fdbd8cb20b_w520_r2.08_fpx46_fpy64.jpg",
-    "date": 1785486780000,
-    "titleSl": "Fifa: Investitorski načrti Giannija Infantina nimajo več večine"
-   },
-   {
-    "title": "Arbeitslose: Im Juli wieder mehr als drei Millionen Menschen arbeitslos",
-    "link": "https://www.spiegel.de/wirtschaft/arbeitslose-im-juli-wieder-mehr-als-drei-millionen-menschen-arbeitslos-a-cb106113-eb7f-4db5-a29c-d9dc3f2576f0#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/31aec0d1-f014-473a-a09c-c428c5296bc2_w520_r2.08_fpx54.62_fpy50.jpg",
-    "date": 1785486600000,
-    "titleSl": "Brezposelni: Julija je bilo znova brezposelnih več kot tri milijone ljudi"
    }
   ],
   "bild": [
+   {
+    "title": "Check im Play Store - Neue Alterskontrolle für Millionen Android-Nutzer",
+    "link": "https://www.bild.de/leben-wissen/digital/google-fuehrt-altersnachweis-im-play-store-ein-6a6c69bcff33749f57289e37",
+    "image": "https://images.bild.de/6a6c69bcff33749f57289e37/58cb5664e7ebef2acb64b1c403296df3,457111ce?w=1280",
+    "date": 0,
+    "titleSl": "Preverite v Trgovini Play – Nov nadzor starosti za milijone uporabnikov Androida"
+   },
+   {
+    "title": "Es geht um die Ablöse - Interner BVB-Beschluss wegen El Mala!",
+    "link": "https://www.bild.de/sport/fussball/interner-beschluss-beim-bvb-wegen-el-mala-6a6c35bedd06dd5ef2e4020e",
+    "image": "https://images.bild.de/6a6c35bedd06dd5ef2e4020e/1dec8ced69bd2a06aaa02efeb4009272,8980ec77?w=1280",
+    "date": 0,
+    "titleSl": "Gre za prestop - interna odločitev BVB zaradi El Mala!"
+   },
    {
     "title": "Nach Ernennung zum DFB-Coach - Ex-Bundesliga-Trainer wird Klopp-Nachfolger",
     "link": "https://www.bild.de/sport/fussball/ehemaliger-bundesliga-trainer-wird-nachfolger-von-juergen-klopp-6a6c6078ef632fe6ede66947",
@@ -445,64 +459,50 @@
     "image": "https://images.bild.de/6a670d43dc2b0bab191a7b9c/9ae8d5b0ca48be9bdee17dffd9af4e5f,a6910fc2?w=1280",
     "date": 0,
     "titleSl": "Transfer ticker - change poker za ter Stegen se je končal!"
-   },
-   {
-    "title": "Nach Sturm-Riesen-Transfer - Hansa sucht noch den Mittelfeld-Boss",
-    "link": "https://www.bild.de/sport/fussball/hansa-rostock-sucht-noch-den-boss-fuers-mittelfeld-6a6b033fb5b26399f0be0c77",
-    "image": "https://images.bild.de/6a6b033fb5b26399f0be0c77/5dd51b2ff2d636a99bb813fba8ff6c89,e4f0cea?w=1280",
-    "date": 0,
-    "titleSl": "Po prestopu Sturm-Giant - Hansa še vedno išče šefa sredine igrišča"
-   },
-   {
-    "title": "Westgrenzen werden zum Problem - Kommen die Migranten aus Ceuta jetzt zu uns?",
-    "link": "https://www.bild.de/politik/inland/ceuta-gestuermt-kommen-die-migranten-jetzt-nach-deutschland-6a50831abb0cf80de56a434a",
-    "image": "https://images.bild.de/6a50831abb0cf80de56a434a/5b08c5f8398c1a8f0ab9401c7f9689d4,2c94d922?w=1280",
-    "date": 0,
-    "titleSl": "Zahodne meje postajajo problem – prihajajo migranti iz Ceute zdaj k nam?"
    }
   ],
   "krone": [
    {
-    "title": "Kein Unbekannter - Nachfolger für Klopp bei Red Bull steht fest",
+    "title": "Bei jungen Menschen - Wie hat das Handy die Sexualität verändert? - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OaTZhVUQweEV6ZGZKUHBUUFR0a2JpZkxmX2t5aFlUaUo0dFdsUC1qLUstOTJlcDdKWTJWdkVfMHYtQQ?oc=5",
+    "image": "",
+    "date": 1785489600000,
+    "titleSl": "Med mladimi - Kako je mobilni telefon spremenil spolnost? - krone.at"
+   },
+   {
+    "title": "Kein Unbekannter - Nachfolger für Klopp bei Red Bull steht fest - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KeDNqc2FtQU9ZQ2hfVE92QmVHYnpaNnNDX0FfZ1pSTXMxY013V3lYR0k0U1RpekhDb043aEI4WkxwQQ?oc=5",
     "image": "",
     "date": 1785489060000,
-    "titleSl": "Noben neznanec – Kloppov naslednik pri Red Bullu je izbran"
+    "titleSl": "Nič neznanega - Kloppovega naslednika pri Red Bullu so izbrali - krone.at"
    },
    {
-    "title": "Terminplan steht - Wann Salzburg im Europacup gegen Pafos spielt",
+    "title": "Terminplan steht - Wann Salzburg im Europacup gegen Pafos spielt - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMbzZ3eWhTZHgxTWZKUXBNcmw3eWZyempTckd4NG0wX3A4VHlNVVcxMmljYW1sMXo4cnpjbnR2QmNqZw?oc=5",
     "image": "",
     "date": 1785488640000,
-    "titleSl": "Razpored je določen - kdaj bo Salzburg igral proti Pafosu v evropskem pokalu"
+    "titleSl": "Razpored je določen - Kdaj bo Salzburg igral proti Pafosu v evropskem pokalu - krone.at"
    },
    {
-    "title": "Trotz Bruthitze - Jeder neunte Österreicher verzichtet auf Deo & Co.",
+    "title": "Trotz Bruthitze - Jeder neunte Österreicher verzichtet auf Deo & Co. - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xMGVYMEQ4Z2FGT2VHZTJNOHhIU2Y5YlRRTXdPXzlLMk5SekwySjFIUmNuZ1RPNjEzNVgtX0pCZ3g1dw?oc=5",
     "image": "",
     "date": 1785488580000,
-    "titleSl": "Kljub hudi vročini - vsak deveti Avstrijec ostane brez deodoranta itd."
+    "titleSl": "Kljub hudi vročini - vsak deveti Avstrijec ostane brez dezodoranta itd. - krone.at"
    },
    {
-    "title": "„Nightborn“: Familienglück wird zum Albtraum",
+    "title": "„Nightborn“: Familienglück wird zum Albtraum - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45eTl5R1JzYWFKT19VeWEwTFFaV3VTTEJjZWo1VmFwYmVSbTZVejAwQmRxYm9hNm44TTJmY0Q3ekFXdw?oc=5",
     "image": "",
     "date": 1785488520000,
-    "titleSl": "“Nightborn”: Družinska sreča se spremeni v nočno moro"
+    "titleSl": "“Nightborn”: družinska sreča se spremeni v nočno moro - krone.at"
    },
    {
-    "title": "In steilem Gelände - Waldbrand in Thörl forderte knapp 70 Floriani",
+    "title": "In steilem Gelände - Waldbrand in Thörl forderte knapp 70 Floriani - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43NllRQmNCMjhHel9vVi1sZmVSZzdCWVdld01WNDZIS2d4XzJtOURpRFNjb2tBZzg1dXN3QVJpVzlMZw?oc=5",
     "image": "",
     "date": 1785488460000,
-    "titleSl": "Na strmem terenu – gozdni požar v Thörlu zahteval skoraj 70 Florianov"
-   },
-   {
-    "title": "„Krone“-Kommentar - Suche nach dem Wunderwuzzi",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4U2RpRzJqY2VvUS1UaGJnV2IyMlhOOURGbzBJbS1CZV9aVV95Nlc5aFdaaVlNSFRBWDF4NmJwTHJ4UQ?oc=5",
-    "image": "",
-    "date": 1785488400000,
-    "titleSl": "Komentar “Krone” - Iskanje čudežnega wuzzija"
+    "titleSl": "Na strmem terenu - gozdni požar v Thörlu zahteval skoraj 70 Floriani - krone.at"
    }
   ],
   "rainews": [
@@ -582,7 +582,7 @@
     "title": "Les régions vent debout contre les coupes budgétaires dans l’apprentissage et la formation",
     "link": "https://www.lemonde.fr/politique/article/2026/07/31/les-regions-vent-debout-contre-les-coupes-budgetaires-dans-l-apprentissage-et-la-formation_6737113_823448.html",
     "image": "https://img.lemde.fr/2026/07/01/394/0/4735/2367/644/322/60/0/671e269_ftp-1-o0xlnmf8kxu2-5498631-01-06.jpg",
-    "date": 1785484808000,
+    "date": 1785484805000,
     "titleSl": "Regije nasprotujejo proračunskim rezom za vajeništvo in usposabljanje"
    },
    {
@@ -594,6 +594,13 @@
    }
   ],
   "elpais": [
+   {
+    "title": "Muere Franco Baresi, histórico capitán del Milan y leyenda del fútbol italiano",
+    "link": "https://elpais.com/deportes/futbol/2026-07-31/muere-franco-baresi-historico-capitan-del-milan-y-leyenda-del-futbol-italiano.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/45AAIVS4X5ILPB7IOHFKATKEII.jpg?auth=3676125e114078af1d9c278bbfb6a6c690a8a61841a5854534aea1cb7ed99912",
+    "date": 1785490407000,
+    "titleSl": "Umrl je Franco Baresi, zgodovinski kapetan Milana in legenda italijanskega nogometa"
+   },
    {
     "title": "Pagar por un pedazo de polígono: una macrooperación contra la trata de mujeres sacude uno de los territorios de las mafias en Madrid",
     "link": "https://elpais.com/espana/madrid/2026-07-31/una-macrooperacion-contra-la-trata-de-mujeres-sacude-uno-de-los-poligonos-territorio-de-las-mafias-en-madrid.html",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/XK37KXORG5E3NKGDMHOA7DV5YQ.jpg?auth=a367ffeb84f5aafaa3b9f79d3a7e27edee6a7c41e242529deabde7b48e62bfe6",
     "date": 1785487470000,
     "titleSl": "Barcelonska urbana straža izseli naselje brezdomcev na Montjuïcu"
-   },
-   {
-    "title": "Así amanece Ceuta tras una noche marcada por la crisis migratoria",
-    "link": "https://elpais.com/videos/2026-07-31/asi-amanece-ceuta-tras-una-noche-marcada-por-la-crisis-migratoria.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200615_081253_video_1800.mp4",
-    "date": 1785487306000,
-    "titleSl": "Tako se Ceuta zori po noči, ki jo je zaznamovala migracijska kriza"
    }
   ]
  },
