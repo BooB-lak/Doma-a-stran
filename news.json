@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01T10:24:23.089Z",
+ "generatedAt": "2026-08-01T10:26:26.093Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Med ribolovom v gramoznici pri Ljutomeru utonil mladoletnik",
+    "link": "https://www.rtvslo.si/crna-kronika/med-ribolovom-v-gramoznici-pri-ljutomeru-utonil-mladoletnik/789704",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/06/05/66765855.jpg",
+    "date": 1785579953000
+   },
+   {
     "title": "Okolico Neaplja prizadel najmočnejši potres v zadnjih 40 letih z magnitudo 4,7",
     "link": "https://www.rtvslo.si/svet/evropa/okolico-neaplja-prizadel-najmocnejsi-potres-v-zadnjih-40-letih-z-magnitudo-4-7/789703",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065115.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/arhitektura-in-oblikovanje/kultni-kiosk-k67-v-kopru-zazivel-kot-prostor-kjer-kultura-nastaja-skupaj-z-ljudmi-in-za-ljudi/789699",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065095.jpg",
     "date": 1785575992000
-   },
-   {
-    "title": "Tina Žarki uspešno sklenila najdaljšo samooskrbno ultrakolesarsko dirko na svetu",
-    "link": "https://www.rtvslo.si/zabava-in-slog/zanimivosti/tina-zarki-uspesno-sklenila-najdaljso-samooskrbno-ultrakolesarsko-dirko-na-svetu/789695",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065091.jpg",
-    "date": 1785575240000
    }
   ],
   "zurnal": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Making Rounds",
+    "link": "https://www.nytimes.com/2026/08/01/briefing/making-rounds.html",
+    "image": "",
+    "date": 1785579524000,
+    "titleSl": "Izdelava krogov"
+   },
+   {
     "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
     "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
     "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31dc-factcheck-zhqv/31dc-factcheck-zhqv-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01pol-collins-court-top-hwcv/01pol-collins-court-top-hwcv-mediumSquareAt3X.jpg",
     "date": 1785574856000,
     "titleSl": "Glasovala je za sodnika, ki je razveljavil Roeja. Zdaj jo preganja na poti."
-   },
-   {
-    "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
-    "link": "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html",
-    "image": "https://static01.nyt.com/images/2026/07/28/multimedia/00dc-trump-arctic-ships-top-new-wmcv/00dc-trump-arctic-ships-top-new-wmcv-mediumSquareAt3X.jpg",
-    "date": 1785574817000,
-    "titleSl": "Trumpova fiksacija na arktične ladje je vodila do milijard v pogodbah brez ponudb"
    }
   ],
   "bbc": [
@@ -598,8 +598,15 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Se eleva a 67 el número de migrantes muertos tras la entrada masiva a Ceuta",
     "link": "https://elpais.com/espana/2026-08-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/NZR7TE4XURBL5PJLNYMIB5GUKI.jpg?auth=b4b85c41af360ad2e67953357d80858688e6d46d5d11093c93c59bcacc95eca4",
-    "date": 1785579404000,
+    "date": 1785579649000,
     "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Število mrtvih migrantov se je po množičnem vstopu v Ceuto povzpelo na 67"
+   },
+   {
+    "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta y pide una reunión urgente de la UE",
+    "link": "https://elpais.com/espana/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta-y-pide-una-reunion-urgente-de-la-ue.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/DQMQDOJTYFPRBKNO3NCGW3ZEEA.jpg?auth=2f96bdf06fff1e213d4113d96f0ea7de0bc4c81057e1f786bc99e2b695b7b025",
+    "date": 1785578891000,
+    "titleSl": "Sánchez obsoja \"sebičen\" odnos nekaterih evropskih vlad zaradi krize v Ceuti in poziva k nujnemu sestanku EU"
    },
    {
     "title": "Goethe y Victor Hugo se encuentran en Múnich",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/FAH6NTTMURETJCLXNMWYPHZID4.jpg?auth=f10ebe1ab10655b19d22a588eea6b7c375cf96ad2cef5483271af4cfdd393b07",
     "date": 1785572330000,
     "titleSl": "Svetovno prvenstvo prinaša La 1 v slavo in Telecinco v pekel: takšno je bilo zgodovinsko julijsko občinstvo"
-   },
-   {
-    "title": "Un ataque ruso sobre Kiev causa al menos nueve muertos y 30 heridos",
-    "link": "https://elpais.com/internacional/2026-08-01/un-ataque-ruso-sobre-kiev-causa-varios-muertos-y-heridos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/H5HT3ET25VNSTOS33OOFJTM6BA.jpg?auth=d90e8d33ee7cbda45bdb81c0f5dc86aceb3d83371685af80180d8f08f3219e3b",
-    "date": 1785571170000,
-    "titleSl": "Ruski napad na Kijev je povzročil najmanj devet mrtvih in 30 ranjenih"
    }
   ]
  },
