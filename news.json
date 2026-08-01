@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01T04:46:26.037Z",
+ "generatedAt": "2026-08-01T04:48:28.404Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "US drops charges against Olympian for damage to Reflecting Pool",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785558883.jpg?resize=1620%2C1080&quality=80",
+    "date": 1785558970000,
+    "titleSl": "ZDA opustijo obtožbe proti Olympianu zaradi škode na Reflecting Poolu"
+   },
+   {
     "title": "Peru’s ex-president Humala released after conviction overturned",
     "link": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-01T022111Z_246013989_RC2CPMANN6EO_RTRMADP_3_PERU-POLITICS-HUMALA-1785551514.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a6d3fd2-1785544658.jpg?resize=1920%2C1440",
     "date": 1785549960000,
     "titleSl": "V ukrajinskem Kijevu so v ruskem raketnem napadu umrli trije"
-   },
-   {
-    "title": "US military says F-35B jet fighter crashes in California, pilot safe",
-    "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14188135-1785542872.jpg?resize=1920%2C1440",
-    "date": 1785549327000,
-    "titleSl": "Ameriška vojska je sporočila, da je lovec F-35B strmoglavil v Kaliforniji, pilot varen"
    }
   ],
   "guardian": [
@@ -463,49 +463,56 @@
   ],
   "krone": [
    {
+    "title": "Auch ein Abgang droht - LASK: Lob für „Notlösung“, aber die Suche läuft",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhYVJxNVVGa3YxRjBBa0paVFBYeHVuaG9nN01zUWl2cUZZU1JkaVhPRUQ4Zy1JODRqWVZVM2ZQVTJ6UQ?oc=5",
+    "image": "",
+    "date": 1785559260000,
+    "titleSl": "Grozi tudi odhod - LASK: Pohvale za “rešitev v sili”, a iskanje poteka"
+   },
+   {
+    "title": "Neuen Verein gefunden - Nach Aus in Dortmund: Ablösefreier Wechsel perfekt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vSThLUlVkZ2hMVmZ6REVicmI3eGpiV2dYVXBDU1puRG5ydVFYc3ZvWjFkVVZtcmtXNW9FdjE2WDVaQQ?oc=5",
+    "image": "",
+    "date": 1785558660000,
+    "titleSl": "Našel nov klub - Po odhodu iz Dortmunda: popoln brezplačen prestop"
+   },
+   {
+    "title": "„Keines dieser Gerüchte ist zu mir durchgedrungen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UYzFjU2lhcTFqYUM2ZDEyQVhHR0NyRmdIbjgySDYwX2xzYmhuQ1lNWjNYWjRvU3JITm1VVTlWWnhDdw?oc=5",
+    "image": "",
+    "date": 1785558600000,
+    "titleSl": "\"Nobena od teh govoric ni prišla do mene\""
+   },
+   {
+    "title": "Abwehr-Ass Schöller - Juwel in neuem Glanz: „Potenzial für Top-Niveau“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QbWhKVGwzQ3ZGcUlCcUh2UGk4dGlRWXMxTmxoZ0YwaHNNOEpzNW5qcXVkaE9VZXlaYXRwTjFwMW1XUQ?oc=5",
+    "image": "",
+    "date": 1785558600000,
+    "titleSl": "Obrambni as Schöller - dragulj v novem sijaju: \"Potencial za najvišjo raven\""
+   },
+   {
+    "title": "„Krone“-Kommentar - Was sich in Ceuta abspielte, bedroht uns alle",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhMGVwa3RfVnVsUHItbzdUZ3A3VThuN2MzeWIzN3gzVEh1LTBjZFBnclBxbmFLSldpRG5kaE4wbTNMUQ?oc=5",
+    "image": "",
+    "date": 1785558600000,
+    "titleSl": "Komentar “Krone” - Kar se je zgodilo v Ceuti, nas vse ogroža"
+   },
+   {
     "title": "„Es ist an der Zeit, ihm die Grenzen aufzuzeigen“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qWURoQkU4YnZZM2g0NUpkbHEyb3gzQjNlSmNxb3dJeFpKd0ZRNENHUWF4Q3lQdUc3QWlqeGtoaGtldw?oc=5",
     "image": "",
     "date": 1785558600000,
     "titleSl": "\"Čas je, da mu pokažemo meje\""
-   },
-   {
-    "title": "Furchtbare Kollision - Tödliches Unfalldrama: Auto erfasst Fußgänger (58)",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Id2RyUTVQVTFiR3FRcUl2QjNVMTMzMEswYV91dVhwaEpOUEJOU3JXUWlibTN4SHVSTEpacXlCYW9rQQ?oc=5",
-    "image": "",
-    "date": 1785558480000,
-    "titleSl": "Grozljivo trčenje – usodna drama nesreče: avto zbil pešca (58)"
-   },
-   {
-    "title": "Infantino knickt ein - Abrupte Kehrtwende! FIFA gibt Investorenpläne auf",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKNVg3MnlueFYtWk5QeXB3TnkweGNWcWI5OEVGMlE4VWhtR2RFcWtpNGFyRElMQ2NLUVYzTU94VkFQUQ?oc=5",
-    "image": "",
-    "date": 1785556860000,
-    "titleSl": "Infantino poklekne - nenaden obrat! FIFA opušča načrte vlagateljev"
-   },
-   {
-    "title": "Tennis-Nachspiel - Wirbel um offene Rechnung über rund 250.000 Euro",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBubTlrSVZFMkczeFlXNlE1WEJ3MWtrNWNfOGdkRUE3aE5RcFFuaFdYalM3ckx5dUlBRXExSXRIaHVfUQ?oc=5",
-    "image": "",
-    "date": 1785556800000,
-    "titleSl": "Teniške posledice - razburjenje okoli neporavnanega računa za okoli 250.000 evrov"
-   },
-   {
-    "title": "Zwischen Himmel & Erde - Ein Sonnenschirm im All und andere Wahnsinnsideen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB5Q0dTbzRiN2gzbWI4dWNiLXFfN1g5TmI0ZEhUQkZtLW9PSjhHTVdiSUUwdjFkMmpnYUR6bHBJT25iZw?oc=5",
-    "image": "",
-    "date": 1785556800000,
-    "titleSl": "Med nebom in zemljo - Sončnik v vesolju in druge nore ideje"
-   },
-   {
-    "title": "Klima-Oasen laden ein - Pfarrgärten als Zuflucht vor heißen Temperaturen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fWXh3ZmlzTk9GYzc3THk0amlueC1Oc3lEeE1oMjlsUHFWaWdpOUxQTUdMZnczY01ZTXVuMzJCMlo0Zw?oc=5",
-    "image": "",
-    "date": 1785556800000,
-    "titleSl": "Vabijo podnebne oaze - župnijski vrtovi kot zatočišče pred vročino"
    }
   ],
   "rainews": [
+   {
+    "title": "Caldo e afa, Italia in rosso: 19 città in allerta massima per le temperature roventi",
+    "link": "https://www.rainews.it/articoli/2026/08/caldo-afa-italia-rosso-19-citta-allerta-massima-temperature-roventi-2eda98db-c441-44c8-b5ec-638c1ba43e28.html",
+    "image": "https://www.rainews.it/dl/img/2026/06/28/1782664201686__.jpg",
+    "date": 1785559560000,
+    "titleSl": "Vroče in vlažno, Italija v rdečem: 19 mest v najvišji pripravljenosti zaradi visokih temperatur"
+   },
    {
     "title": "Terremoto di magnitudo 4.7 ai Campi flegrei, 21 feriti, 2 gravi",
     "link": "https://www.rainews.it/maratona/2026/07/napoli-sisma-da-47-nei-campi-flegrei-gente-in-strada-paura-8-feriti-lievi-1cb2c5f9-3588-4f4b-b67c-8dbcbbae2d56.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/07/25/1784956392295_vlcsnap.jpg",
     "date": 1785556560000,
     "titleSl": "CBS: \"ZDA in Izrael se pripravljata na napad na iransko energetsko infrastrukturo\""
-   },
-   {
-    "title": "Le previsioni del tempo per sabato 1 agosto 2026",
-    "link": "https://www.rainews.it/video/2026/08/le-previsioni-del-tempo-per-sabato-1-agosto-2026-be0c451e-3759-41f5-8761-9d47d54512d5.html",
-    "image": "https://www.rainews.it/dl/img/2024/12/06/1733462386435_meteo.PNG",
-    "date": 1785555900000,
-    "titleSl": "Vremenska napoved za soboto, 1. avgusta 2026"
    }
   ],
   "lemonde": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "La falda pantalón deportiva de Joma que arrasa este verano por cómoda, ligera y fácil de combinar",
+    "link": "https://elpais.com/escaparate/lo-mas-vendido/la-falda-pantalon-joma.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/FBQUS6KJHFACFNP4ANY5XWWVWE.png?auth=3f8e1c614466345c47461a656afa672a5968429e584b72f06ac5c9b13d6e2ca0",
+    "date": 1785559500000,
+    "titleSl": "Športne hlače Joma, ki bodrijo to poletje, saj so udobne, lahke in enostavne za kombiniranje"
+   },
+   {
     "title": "41.000 ‘reviews’ no pueden estar equivocadas: la mascarilla facial de Biodance más vendida en Amazon",
     "link": "https://elpais.com/escaparate/lo-mas-vendido/mascarilla-facial-de-biodance.html",
     "image": "https://imagenes.elpais.com/resizer/v2/PWTF777SUZHZ5OVWHLJLPUYBRE.png?auth=d3fb5a34d65326faa3b2c219c281c14e1dee8d6b24bb7f3a043f15bd6add06bf",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/KQ4OTUOJRFERFD2QSLSOI72ZKI.jpg?auth=e8fb111e079ce8a91149c8d02963ae22c50d24a391c0824d339c766478645277",
     "date": 1785556800000,
     "titleSl": "UNAM prihrani začetek tečaja s še enim sprejemnim izpitom, ne razjasni pa dvomov o izvirniku"
-   },
-   {
-    "title": "Trump activa los aranceles a los medicamentos y obliga a las farmacéuticas a elegir entre pagar más o trasladarse al país",
-    "link": "https://elpais.com/economia/2026-08-01/trump-activa-los-aranceles-a-los-medicamentos-y-obliga-a-las-farmaceuticas-a-elegir-entre-pagar-mas-o-trasladarse-al-pais.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/45DAFQVTOVHITE4HNHKR55KLGU.JPG?auth=0646049b1f9a714074e031acbca22476664f0e4a73a828f01eeb50b5965f628a",
-    "date": 1785555900000,
-    "titleSl": "Trump aktivira carine na zdravila in prisili farmacevtske družbe, da izbirajo med več plačevanjem ali selitvijo v državo"
    }
   ]
  },
