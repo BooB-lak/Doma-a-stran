@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01T14:30:56.593Z",
+ "generatedAt": "2026-08-01T14:32:34.548Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Netflix ima zaradi ukradenega filma z Nicolasom Cageom na grbi 150-milijonsko tožbo",
+    "link": "https://www.rtvslo.si/kultura/film-in-tv/netflix-ima-zaradi-ukradenega-filma-z-nicolasom-cageom-na-grbi-150-milijonsko-tozbo/789721",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065140.jpg",
+    "date": 1785594656000
+   },
+   {
     "title": "Policija pri Kranju našla trupli moškega in ženske",
     "link": "https://www.rtvslo.si/crna-kronika/policija-pri-kranju-nasla-trupli-moskega-in-zenske/789718",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065137.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/arhitektura-in-oblikovanje/po-dolgih-letih-odlogov-guggenheimov-muzej-v-abu-dabiju-vrata-odpira-decembra/789714",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065121.jpg",
     "date": 1785584152000
-   },
-   {
-    "title": "Ženski Tour nepričakovana nagrada za odlično sezono Urške Žigart",
-    "link": "https://www.rtvslo.si/sport/kolesarstvo/dirka-po-franciji/zenski-tour-nepricakovana-nagrada-za-odlicno-sezono-urske-zigart/789709",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065144.jpg",
-    "date": 1785583492000
    }
   ],
   "zurnal": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Israeli strike destroys Gaza hospital warehouse",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785593054.jpg?resize=1635%2C1080&quality=80",
-    "date": 1785593256000,
-    "titleSl": "Izraelski napad uničil skladišče bolnišnice v Gazi"
-   },
-   {
     "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
     "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26213254697678-1785588698.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6d9f49c2-1785569097.jpg?resize=1920%2C1440",
     "date": 1785589033000,
     "titleSl": "Španija pravi, da migranti zapuščajo Ceuto po množičnem prihodu, v katerem je umrlo 67 ljudi"
+   },
+   {
+    "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+    "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T093156Z_1005172950_RC26OMA4U719_RTRMADP_3_IRAN-CRISIS-1785586105.jpg?resize=1920%2C1440",
+    "date": 1785588294000,
+    "titleSl": "Iran svari pred \"plameni vojne\" med grožnjami ZDA z napadi na energetska mesta"
    }
   ],
   "guardian": [
@@ -463,6 +463,27 @@
   ],
   "krone": [
    {
+    "title": "War wohl abgelenkt - Spanien ignorierte Warnung vor Ceuta-Sturm",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MTkVMQUtJNUxUOTJXeUdFOTFjV3dKLUxNLWM5bzNyOThRQWh0R3J5cnEtVnFMSWFxanFoQUpZbEpjUQ?oc=5",
+    "image": "",
+    "date": 1785594659000,
+    "titleSl": "Verjetno je bil moten - Španija je prezrla opozorilo o nevihti Ceuta"
+   },
+   {
+    "title": "Ein kleines Wunder - Vermisster Wanderer nach zwei Tagen gefunden",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qSTRDREFONmljc0JjSld3UzlPUG55dXhTb2NzbDc1b250bENWSEpVM2w1aG1CdDJTLVQ4UWR0OWE1UQ?oc=5",
+    "image": "",
+    "date": 1785594600000,
+    "titleSl": "Mali čudež - pogrešano pohodnico našli po dveh dneh"
+   },
+   {
+    "title": "Kein Impfstoff - Ebola-Ausbruch im Kongo nicht unter Kontrolle",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VMkt2b0RWc3pjT1ZZYXgxZFJmd0ZVdU1BUThhNm5FM0VjVlN5M3RCMnNmdjQyZnN2S1JlZmdnNUxFZw?oc=5",
+    "image": "",
+    "date": 1785594540000,
+    "titleSl": "Ni cepiva – izbruh ebole v Kongu ni pod nadzorom"
+   },
+   {
     "title": "Traumtor von Neuzugang - Red Bull Salzburg Frauen siegen zum Saisonauftakt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83bWs4UGI2V2NkTU9FV0wtSHhiOE4wZE5UOExoYTh4bmZvcWs4NE8taXl5Z2Z4czV3bUg5WlFNNEs3dw?oc=5",
     "image": "",
@@ -482,27 +503,6 @@
     "image": "",
     "date": 1785593460000,
     "titleSl": "Tretja stopnja alarma - 19 gasilskih enot se bori z gozdnim požarom"
-   },
-   {
-    "title": "FIFA erhöht den Druck - Plan verworfen – aber eine Änderung wird konkreter",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rdkNsTmluMEhldm9samJSczZKWlNMZ0VsU1JqUFJ3MkJwQkI2LVdUZkRyZy16cXp2N0FzLXdJN0FHQQ?oc=5",
-    "image": "",
-    "date": 1785593322000,
-    "titleSl": "FIFA povečuje pritisk – načrt je ovržen – a sprememba postane bolj konkretna"
-   },
-   {
-    "title": "Maßnahmen gefordert - Spritverbrauchsbremse besser als Spritpreisbremse",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oRS1HMDZlSGVHREY1TjhoYUNVYlI4Nko3ZWE3bngwaUJ0OFJQOGxkYzBST2ZEUUJCMHEwSzFKdFhkQQ?oc=5",
-    "image": "",
-    "date": 1785592800000,
-    "titleSl": "Potrebni ukrepi – zajezitev porabe goriva je boljša od omejevanja cen goriva"
-   },
-   {
-    "title": "Suche nach Zeugen: - Kater „Konstantin“ mit Luftdruck angeschossen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5TWDZwcDkyS0Q2dFltaHU2VHN5MDFIQm9CaTF6bjJFNnRXQXhTalUyYXVfLVYxSGZ2NEF0eFFESkF3QQ?oc=5",
-    "image": "",
-    "date": 1785592800000,
-    "titleSl": "Iščejo se priče: - Maček “Konstantin” strel z zračnim pritiskom"
    }
   ],
   "rainews": [
@@ -551,6 +551,13 @@
   ],
   "lemonde": [
    {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des bombardements nocturnes contre trois raffineries russes",
+    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-nocturnes-contre-trois-raffineries-russes_6732775_3210.html",
+    "image": "https://img.lemde.fr/2026/08/01/489/0/6048/3024/644/322/60/0/949cbe9_ftp-1-lzuz5jzeipl5-5753339-01-06.jpg",
+    "date": 1785594077000,
+    "titleSl": "V ŽIVO, vojna v Ukrajini: Volodimir Zelenski trdi o nočnih bombnih napadih na tri ruske rafinerije"
+   },
+   {
     "title": "En Colombie, au moins 11 blessés dans l’explosion d’un camion piégé à Cucuta",
     "link": "https://www.lemonde.fr/international/article/2026/08/01/en-colombie-au-moins-11-blesses-dans-l-explosion-d-un-camion-piege-a-cucuta_6737228_3210.html",
     "image": "https://img.lemde.fr/2026/07/27/212/0/2560/1280/644/322/60/0/198547e_ftp-1-gtv09sugk3tk-5715329-01-06.jpg",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/07/17/0/0/4500/2250/644/322/60/0/0dae773_ftp-1-epl7rtxoyykd-2026-07-17t112840z-333895197-rc2jfma1jzgz-rtrmadp-3-china-ai.JPG",
     "date": 1785585605000,
     "titleSl": "V Združenih državah se razprava o različnih modelih umetne inteligence povečuje v ozadju kitajske konkurence"
-   },
-   {
-    "title": "Incendies : le lourd tribut des pompiers, victimes des flammes et de cancers à long terme",
-    "link": "https://www.lemonde.fr/societe/article/2026/08/01/incendies-le-lourd-tribut-des-pompiers-victimes-des-flammes-et-de-cancers-a-long-terme_6737219_3224.html",
-    "image": "https://img.lemde.fr/2026/07/29/798/0/8687/4343/644/322/60/0/87a92d1_upload-1-ibqk9dh4fral-21-hlequeux-feux-gironde-dsc6752.jpg",
-    "date": 1785585602000,
-    "titleSl": "Požari: velik davek za gasilce, žrtve ognjenih zubljev in dolgotrajne rakave bolezni"
    }
   ],
   "elpais": [
