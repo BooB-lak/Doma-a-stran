@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-02T15:52:23.007Z",
+ "generatedAt": "2026-08-02T15:54:23.302Z",
  "sources": {
   "siol": [
+   {
+    "title": "Bled gostitelj evropskega prvenstva v veslanju 2027",
+    "link": "https://siol.net/bled-gostitelj-evropskega-prvenstva-v-veslanju-2027-698051",
+    "image": "https://siol.net/media/img/96/4e/2c23efd1fbd95e0e589a.jpeg",
+    "date": 1785685800000
+   },
    {
     "title": "Herlings ponižal tekmece, Gajser v zadnjem krogu na zmagovalni balkon",
     "link": "https://siol.net/sportal/avtomotosport/mxgp-belgije-lommell-herlings-prvi-gajser-tretji-698028",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/zimski-sporti/na-drugi-tekmi-dva-slovenca-do-tock-rok-oblak-tretji-698046",
     "image": "https://siol.net/media/img/de/7a/170577859d801be54f70.jpeg",
     "date": 1785681600000
-   },
-   {
-    "title": "Na štajerskem derbiju remi, Bravo in Koper celita evropske rane",
-    "link": "https://siol.net/sportal/nogomet/1-snl-3-krog-nafta-mura-sedem-golov-maribor-celje-remi-697984",
-    "image": "https://siol.net/media/img/85/86/cbbcbff00f324ba5ea7d.jpeg",
-    "date": 1785681000000
    }
   ],
   "24ur": [
@@ -250,6 +250,13 @@
     "titleSl": "Vsaj 13 ubitih v izraelskih napadih na Gazo, potem ko je Hamas dosegel dogovor o razorožitvi"
    },
    {
+    "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+    "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/50a80820-8e85-11f1-9469-c37ab1100afc.jpg",
+    "date": 1785685702000,
+    "titleSl": "Burnham obljublja, da bo \"neizprosen\" pri omejevanju prehodov majhnih čolnov"
+   },
+   {
     "title": "Finucane creates Games history with fourth gold",
     "link": "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32fa/live/c94efde0-8e6e-11f1-8f96-0352b5c66e86.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5187/live/c802ad20-8e81-11f1-b2ab-0dd01740f9f6.jpg",
     "date": 1785680107000,
     "titleSl": "Dolgotrajna suša bi lahko povzročila pomanjkanje nekaterih živil, pravi vodja kmečkega sindikata"
-   },
-   {
-    "title": "Three in hospital after fire and crush at festival in London",
-    "link": "https://www.bbc.co.uk/news/articles/c05q964n4llo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76eb/live/46878050-8e71-11f1-98c2-039438173617.png",
-    "date": 1785677775000,
-    "titleSl": "Trije v bolnišnici po požaru in nesreči na festivalu v Londonu"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Israeli settlers shoot Palestinian child during farm raid",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-02-at-16.23.34-1785684594.png?resize=1200%2C675",
-    "date": 1785684988000,
-    "titleSl": "Izraelski naseljenci med napadom na kmetijo ustrelijo palestinskega otroka"
-   },
    {
     "title": "How to end the ‘Hormuz war’",
     "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/%D0%BD%D0%B51-1785680417.jpg?resize=1920%2C1080&quality=80",
     "date": 1785680436000,
     "titleSl": "Žvižgač Cie John Kiriakou o odgovornosti in zgodovini Cie"
+   },
+   {
+    "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
+    "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a6f484dd760-1785677901.jpg?resize=1920%2C1440",
+    "date": 1785680134000,
+    "titleSl": "Trčenje grških gasilskih helikopterjev v zraku, štirje člani posadke pogrešajo"
    }
   ],
   "guardian": [
@@ -463,46 +463,46 @@
   ],
   "krone": [
    {
-    "title": "Für Holocaust-Center - Hat Sobotka bald einen neuen Präsidentenjob? - krone.at",
+    "title": "Für Holocaust-Center - Hat Sobotka bald einen neuen Präsidentenjob?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yRFJROWVSai1PY1hvZHhYN3l1d3FJR1dQTUNvWGxuXzU5Tzc2VHljTFZmb2pDR09tdXl5VjUxQjBRUQ?oc=5",
     "image": "",
     "date": 1785685500000,
-    "titleSl": "Za Center holokavsta - Bo Sobotka kmalu nova predsedniška služba? - krone.at"
+    "titleSl": "Za Center za holokavst - Bo Sobotka kmalu nova predsedniška služba?"
    },
    {
-    "title": "Sah gar nicht gut aus - Bitteres Bundesliga-Debüt für Austria-Neuzugang - krone.at",
+    "title": "Sah gar nicht gut aus - Bitteres Bundesliga-Debüt für Austria-Neuzugang",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjdG91TFpxU2FjVTlwUU1zWnI3MTV1S2tQWF93VElCQnpobkxRcHJjWmcxVVlvVGprWVZzQ0c4S0J0QQ?oc=5",
     "image": "",
     "date": 1785685200000,
-    "titleSl": "Sploh ni bilo videti dobro - grenak prvenec v bundesligi za novo okrepitev Avstrije - krone.at"
+    "titleSl": "Sploh ni bilo videti dobro – grenak prvenec v Bundesligi za novo okrepitev Avstrije"
    },
    {
-    "title": "Gefahr für Bienen - Weiteres Nest der Asiatischen Hornisse aufgespürt - krone.at",
+    "title": "Gefahr für Bienen - Weiteres Nest der Asiatischen Hornisse aufgespürt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtdnlweUNiamtWbUo2dmF4b2paUjFQRkhUNzdnUVlyZ05QdWZRVm5aSVkzWGgyN3NmQWI0OFN1MVctUQ?oc=5",
     "image": "",
     "date": 1785684900000,
-    "titleSl": "Nevarnost za čebele - Odkrili še eno gnezdo azijskih sršenov - krone.at"
+    "titleSl": "Nevarnost za čebele - Odkrili še eno gnezdo azijskih sršenov"
    },
    {
-    "title": "Überraschend - Autorin Monika Helfer (78) nach Sturz verstorben - krone.at",
+    "title": "Überraschend - Autorin Monika Helfer (78) nach Sturz verstorben",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QSUk2ZXdFblVGX1N4dUM3bXR6WkhTNm02bTlZVTkweFp3Y2tTbDdRN29zbE9CMVVOUDFVV0xpUkxWUQ?oc=5",
     "image": "",
     "date": 1785684360000,
-    "titleSl": "Presenetljivo - avtorica Monika Helfer (78) je umrla po padcu - krone.at"
+    "titleSl": "Presenetljivo - avtorica Monika Helfer (78) je umrla po padcu"
    },
    {
-    "title": "Hoher Schaden - Waldbrand verhindert: Lkw wurde Raub der Flammen - krone.at",
+    "title": "Hoher Schaden - Waldbrand verhindert: Lkw wurde Raub der Flammen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtallVTHRsMF9TMjFOTEh4cjk0VUx5Ym1sdjByYVZ0d2pZaW1hWTB5Vm45RGNGY1R6UUp4Mm93Skh6QQ?oc=5",
     "image": "",
     "date": 1785683700000,
-    "titleSl": "Velika škoda - preprečen gozdni požar: ogenj uničil tovornjak - krone.at"
+    "titleSl": "Velika škoda - preprečen gozdni požar: ognjeni zublji uničili tovorno vozilo"
    },
    {
-    "title": "FIFA-Boss strauchelt - Infantino-Aus? Fünf Namen werden bereits gehandelt - krone.at",
+    "title": "FIFA-Boss strauchelt - Infantino-Aus? Fünf Namen werden bereits gehandelt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oX1FFdGZKYVRyZWlicnc2NnB2aTUzMElIeGVJNU1yNVB0UnVxTGJuQTZlVmh2U1BSNnRQZ1c4VncyQQ?oc=5",
     "image": "",
     "date": 1785683610000,
-    "titleSl": "Šef Fife spotaknil - Infantino odšel? Trguje se že s petimi imeni - krone.at"
+    "titleSl": "Šef Fife spotaknil - Infantino odšel? Za pet imen se že trguje"
    }
   ],
   "rainews": [
@@ -510,7 +510,7 @@
     "title": "Cinque morti e cinque feriti per un incidente sulla Terni-Rieti",
     "link": "https://www.rainews.it/articoli/2026/08/cinque-morti-e-cinque-feriti-per-un-incidente-sulla-terni-rieti--8f7d7269-620e-4998-a212-47ca001a5c03.html",
     "image": "https://www.rainews.it/dl/img/2025/08/14/1755154422526_AMBULANZAx.jpeg",
-    "date": 1785684888000,
+    "date": 1785684840000,
     "titleSl": "Pet mrtvih in pet ranjenih v nesreči na Terni-Rieti"
    },
    {
