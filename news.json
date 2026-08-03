@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-03T08:48:44.008Z",
+ "generatedAt": "2026-08-03T08:51:04.445Z",
  "sources": {
   "siol": [
+   {
+    "title": "Ljubezen jo je stala 27 tisoč evrov: lažni inženir z ladje izginil po nakazilih",
+    "link": "https://siol.net/novice/slovenija/ljubezen-jo-je-stala-27-tisoc-evrov-lazni-inzenir-z-ladje-izginil-po-nakazilih-698084",
+    "image": "https://siol.net/media/img/94/60/6c3c91ce22bbd711284f.jpeg",
+    "date": 1785746820000
+   },
    {
     "title": "Pretresljivo: v silovitem trčenju avtodoma in avtobusa 6 mrtvih, okoli 30 poškodovanih",
     "link": "https://siol.net/novice/svet/pretresljivo-v-silovitem-trcenju-avtodoma-in-avtobusa-6-mrtvih-okoli-30-poskodovanih-698082",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/tadej-pogacar-sporocil-tezko-pricakovano-odlocitev-698071",
     "image": "https://siol.net/media/img/f7/ca/5574d27750d71bf1321e.jpeg",
     "date": 1785744000000
-   },
-   {
-    "title": "Na Bovškem nadaljevanje gašenja lokaliziranega požara #foto",
-    "link": "https://siol.net/novice/slovenija/na-bovskem-nadaljevanje-gasenja-lokaliziranega-pozara-foto-698058",
-    "image": "https://siol.net/media/img/84/01/97e15368b70019a8cdf1.jpeg",
-    "date": 1785742920000
    }
   ],
   "24ur": [
@@ -51,6 +51,12 @@
     "link": "https://www.24ur.com/novice/slovenija/v-kopru-vec-kot-40-stopinj-celzija-s-torkom-vecina-slovenije-v-rdecem.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/799704e893b706234f1d_63626326.jpg?v=da39&fop=fp:0.46:0.53",
     "date": 1785746876000
+   },
+   {
+    "title": "Val tatvin: z britanskih črpalk dnevno ukradejo za 230.000 evrov goriva",
+    "link": "https://www.24ur.com/novice/tujina/val-tatvin-z-britanskih-crpalk-dnevno-ukradejo-za-230000-evrov-goriva.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/bcc5246b57dcc56db7b7_63626321.jpg?v=3456&fop=fp:0.49:0.46",
+    "date": 1785746714000
    },
    {
     "title": "Bo Stefan Joksimović postal nov Dončić?",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/ariana-grande-se-zaradi-kritik-na-racun-videza-umika-iz-javnega-zivljenja.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/16e1598a1a10d4f21d37_63626259.jpg?v=c1d7&fop=fp:0.39:0.14",
     "date": 1785744144000
-   },
-   {
-    "title": "Po bombnem napadu: 'Ukrajinski teroristi želeli ustrahovati Italijane'",
-    "link": "https://www.24ur.com/novice/tujina/po-bombnem-napadu-ukrajinski-teroristi-zeleli-ustrahovati-italijane.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/cf641aabe5efb896655f_63626301.jpg?v=074f&fop=fp:0.50:0.50",
-    "date": 1785744131000
    }
   ],
   "rtvslo": [
@@ -331,6 +331,27 @@
   ],
   "guardian": [
    {
+    "title": "Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes",
+    "link": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
+    "image": "https://i.guim.co.uk/img/media/3e9b5e3c7bfa51d205464ff27f0978edd5ac0a20/388_0_4463_3573/master/4463.jpg?width=140&quality=85&auto=format&fit=max&s=037323101ffc6cb20d085f92b0b5438f",
+    "date": 1785746692000,
+    "titleSl": "Cene nafte strmoglavijo in evropski delniški trgi rastejo, potem ko je Trump odpovedal napade na Iran"
+   },
+   {
+    "title": "Middle East crisis live: Iran denies Trump’s claims that talks due to take place",
+    "link": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/cbed025e301ee489d77b1d9a0a89bbdb2203a115/488_0_4176_3342/master/4176.jpg?width=140&quality=85&auto=format&fit=max&s=27dd119237176110e93e0331b395f832",
+    "date": 1785746671000,
+    "titleSl": "Bližnjevzhodna kriza v živo: Iran zanika Trumpove trditve, da naj bi pogovori potekali"
+   },
+   {
+    "title": "Former navy officer criticises Reform plan to use military to stop small boats",
+    "link": "https://www.theguardian.com/politics/2026/aug/03/former-navy-criticises-reform-plan-military-stop-small-boats",
+    "image": "https://i.guim.co.uk/img/media/314af4a758ac09d01af95dc2cea2fd8855d15441/527_0_2817_2254/master/2817.jpg?width=140&quality=85&auto=format&fit=max&s=12b91fe3e700943c94babf2d86a16629",
+    "date": 1785746550000,
+    "titleSl": "Nekdanji mornariški častnik kritizira načrt reform za uporabo vojske za zaustavitev majhnih čolnov"
+   },
+   {
     "title": "Yen hits three-month high after Trump helps prop up currency",
     "link": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
     "image": "https://i.guim.co.uk/img/media/0bf10d82bfc268c74cce276224e216918c4a4601/545_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3d413b879c2cd65a10cc0721fc0de38b",
@@ -350,27 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/a6374f12b60a44a6abb34052845b502e3ac5c53c/336_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=614730a8b0c1b9c51a8e712ce21c6afc",
     "date": 1785745003000,
     "titleSl": "Najstnik ni nikomur povedal, da ga je Alan Jones domnevno poljubljal in se ga dotikal, ker se je bal, da bo izgubil finančno pomoč, je razvidno iz sojenja."
-   },
-   {
-    "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-    "link": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-    "image": "https://i.guim.co.uk/img/media/f9d2ca4453ea41af99a2052150baeb451efb33f9/1396_0_3701_2962/master/3701.jpg?width=140&quality=85&auto=format&fit=max&s=e4268ad07039729d084bfdfa02a1b851",
-    "date": 1785744998000,
-    "titleSl": "Vremenski sledilnik: Avstrija podira toplotne rekorde, medtem ko se Japonska pripravlja na tajfun Dolphin"
-   },
-   {
-    "title": "Central and southern Europe brace for heatwave – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/98b9954a93357fd39dccac5f096868d48f22b2d9/570_0_2927_2341/master/2927.jpg?width=140&quality=85&auto=format&fit=max&s=4943d3ba9f02da3fa4d5058b175ab764",
-    "date": 1785744697000,
-    "titleSl": "Srednja in južna Evropa se pripravljata na vročinski val – Evropa v živo"
-   },
-   {
-    "title": "Greens senator brands Pauline Hanson a ‘political coward’ over press conference bans – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/63ba6f9ca8033e253a2c6c369f599e40d0630eb8/549_375_5018_4014/master/5018.jpg?width=140&quality=85&auto=format&fit=max&s=a127075d5511ac4da43addcd5998a86e",
-    "date": 1785743987000,
-    "titleSl": "Senator Zelenih je Pauline Hanson označil za \"politično strahopetko\" zaradi prepovedi tiskovnih konferenc - kot se je zgodilo"
    }
   ],
   "spiegel": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Live-Ticker zum Ukraine-Krieg - Neun Tote nach Raketen-Terror gegen Kiew",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+    "image": "https://images.bild.de/644b966a2dffef69047a7edc/b245b0b6c1de9d6718e6980fdf2722d2,3815ad18?w=1280",
+    "date": 0,
+    "titleSl": "V živo o vojni v Ukrajini - Devet mrtvih po raketnem terorju nad Kijevom"
+   },
+   {
+    "title": "Orange auf dem Ärmel - Hier zeigt Werder sein neues Auswärtstrikot",
+    "link": "https://www.bild.de/sport/fussball/werder-bremen-orange-auf-dem-aermel-hier-ist-das-neue-auswaertstrikot-6a704dcfdd06dd5ef2e42db9",
+    "image": "https://images.bild.de/6a704dcfdd06dd5ef2e42db9/24e701300fdd28bbbc5d59afa1b6b4f1,1b1147fe?w=1280",
+    "date": 0,
+    "titleSl": "Oranžna na rokavu - tukaj Werder razkazuje svoj novi gostujoči dres"
+   },
+   {
     "title": "Erst drohen – jetzt Friedenskurs - Trump: „Größte Angriff seit dem Zweiten Weltkrieg“",
     "link": "https://www.bild.de/politik/ausland-und-internationales/erst-drohen-dann-friedenskurs-trump-groesste-angriff-seit-dem-zweiten-weltkrieg-6a704dfb8fa429a9893fe9d2",
     "image": "https://images.bild.de/6a704dfb8fa429a9893fe9d2/34668423f34ab5305c52649010b06902,e03c503?w=1280",
@@ -445,23 +459,16 @@
     "image": "https://images.bild.de/6a704894ef632fe6ede69305/ee824ec96c70bee18614d851159aac52,5a12e9a?w=1280",
     "date": 0,
     "titleSl": "Še ena država odrekla podporo - Anglija se odmika od Infantina!"
-   },
-   {
-    "title": "Überraschung für Fans - Mehr DFB-Pokalspiele kommen ins Free-TV",
-    "link": "https://www.bild.de/sport/fussball/ueberraschung-fuer-fans-mehr-dfb-pokalspiele-kommen-ins-free-tv-6a44f1d888b80dfa50d94094",
-    "image": "https://images.bild.de/6a44f1d888b80dfa50d94094/9536f59fee694c87cbef02dfc9b50b0f,2d4b4108?w=1280",
-    "date": 0,
-    "titleSl": "Presenečenje za navijače - več tekem DFB Cup prihaja na brezplačen TV"
-   },
-   {
-    "title": "Nur vier Einheiten, ein Star bleibt daheim - Lustrinelli erklärt Unions verrücktes Camp",
-    "link": "https://www.bild.de/sport/fussball/union-berlin-lustrinelli-setzt-im-trainingslager-auf-regeneration-6a7041efcf0a7790ecb7dd3f",
-    "image": "https://images.bild.de/6a7041efcf0a7790ecb7dd3f/c3e4dce88aabc861be8e7f7211dcaf94,cc4f4da5?w=1280",
-    "date": 0,
-    "titleSl": "Samo štiri enote, ena zvezdica ostane doma - pojasnjuje Lustrinelli nori tabor Uniona"
    }
   ],
   "krone": [
+   {
+    "title": "Stunden ohne Hilfe - Mehrere Tote bei Fährbrand vor Indonesien",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3ZHl2ZkJHWjZycExvUlZwN080QTdlVXVHYVBVZEdfcm9kbnZHVHVudEU4VVpiVHZjcmt2OWR6b0hCQQ?oc=5",
+    "image": "",
+    "date": 1785746880000,
+    "titleSl": "Več ur brez pomoči - Več mrtvih v požaru na trajektu ob Indoneziji"
+   },
    {
     "title": "Krisenstab tagt - Angriff auf Liechtenstein: Sensible Daten geklaut",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoZnJ1VHZIS2lXY2VLVmRrOUphdnN3alpfUkZlX0twY2RmWWtSamZtMTZhbXRwSW1kMWg0MmtfODVkZw?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1785745920000,
     "titleSl": "Kvalifikacije za EP - žreb od 14. ure! Dunajski klubi doživljajo nasprotnike"
-   },
-   {
-    "title": "KI-Gesichtserkennung - Italien streitet über Erhebung biometrischer Daten",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YNHdaUG54SWZpak1lSnJMamhYYnl5eDRZNDJuOHdCZ2FXQ0xfazRqTEZwV0NlVERWMjBfeEUzeWYzZw?oc=5",
-    "image": "",
-    "date": 1785745920000,
-    "titleSl": "Prepoznavanje obraza z umetno inteligenco – Italija oporeka zbiranju biometričnih podatkov"
    }
   ],
   "rainews": [
