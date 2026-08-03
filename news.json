@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-03T15:14:27.353Z",
+ "generatedAt": "2026-08-03T15:16:32.391Z",
  "sources": {
   "siol": [
+   {
+    "title": "Poletna bomba iz Londona, Arsenal misli resno!",
+    "link": "https://siol.net/sportal/nogomet/nogometna-trznica-3-avgust-698125",
+    "image": "https://siol.net/media/img/38/e9/953c971f477edf972e2f.jpeg",
+    "date": 1785770040000
+   },
    {
     "title": "Valovi na sicilijansko plažo naplavili vreče s skoraj 700 tisoč evri",
     "link": "https://siol.net/novice/svet/valovi-na-sicilijansko-plazo-naplavili-vrece-s-skoraj-700-tisoc-evri-698124",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/odmevna-sprememba-pri-nk-maribor-bojan-ban-se-poslavlja-po-20-letih-698121",
     "image": "https://siol.net/media/img/da/6a/ae354556e51458c18216.jpeg",
     "date": 1785765240000
-   },
-   {
-    "title": "Žena Jonasa Vingegaarda spregovorila o možnosti, ki je vse bolj realna",
-    "link": "https://siol.net/sportal/kolesarstvo/zena-jonasa-vingegaarda-spregovorila-o-moznosti-ki-je-vse-bolj-realna-698091",
-    "image": "https://siol.net/media/img/78/ba/8c34791a8c4993240d8b.jpeg",
-    "date": 1785764400000
    }
   ],
   "24ur": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
+    "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03dc-wrtk-miller-mfwg/03dc-wrtk-miller-mfwg-mediumSquareAt3X.jpg",
+    "date": 1785770059000,
+    "titleSl": "Max Miller, obtožen zlorabe, ne odstopi. Tukaj je tisto, kar vemo."
+   },
+   {
     "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
     "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
     "image": "https://static01.nyt.com/images/2026/08/04/business/00spacex-lockup/00spacex-lockup-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/03/multimedia/2026-biz-august-promos-index/2026-biz-august-promos-index-mediumSquareAt3X.png",
     "date": 1785768290000,
     "titleSl": "Tukaj je razlog, zakaj ZDA pomagajo podpirati japonski jen"
-   },
-   {
-    "title": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
-    "link": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
-    "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02nat-spokane-wildfires-1-zglf/02nat-spokane-wildfires-1-zglf-mediumSquareAt3X.jpg",
-    "date": 1785768136000,
-    "titleSl": "Požari v kraju Spokane so uničili na stotine zgradb, medtem ko so se na tisoče evakuirali"
    }
   ],
   "bbc": [
@@ -419,11 +419,25 @@
   ],
   "bild": [
    {
+    "title": "US-Medienbericht - „Infantino bettelt im Weißen Haus“",
+    "link": "https://www.bild.de/sport/fussball/infantino-bettelt-im-weissen-haus-medienbericht-aus-den-usa-6a7089ed935ebc37ca9d424a",
+    "image": "https://images.bild.de/6a7089ed935ebc37ca9d424a/d706da5a01ef7252a2f0101e0cb8b54f,95758c9c?w=1280",
+    "date": 0,
+    "titleSl": "Ameriški mediji poročajo - \"Infantino berači v Beli hiši\""
+   },
+   {
     "title": "Vorschau für den 3. August 2026 - So geht es heute bei „Alles was zählt“ weiter",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/alles-was-zaehlt-im-tv-eine-anonyme-spende-sorgt-fuer-zweifel-6a670953fe2765826e0fe95a",
     "image": "https://images.bild.de/6a670953fe2765826e0fe95a/dd91ae14bf37471587068208c49814ae,6778a4a1?w=1280",
     "date": 0,
     "titleSl": "Predogled za 3. avgust 2026 – To se nadaljuje danes v oddaji »Vse, kar šteje«."
+   },
+   {
+    "title": "Kommentar - Herr Klingbeil, Commerzbank-Aktien verkaufen!",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-herr-klingbeil-verkaufen-sie-die-commerzbank-aktien-6a70acdd679e1a4a72fd02fd",
+    "image": "https://images.bild.de/6a70acdd679e1a4a72fd02fd/1853f928b4669ff930ff2112c9fac517,979d17c8?w=1280",
+    "date": 0,
+    "titleSl": "Komentar - Gospod Klingbeil, prodajte delnice Commerzbank!"
    },
    {
     "title": "Kritik an Verteidiger-Verkauf - Toppmöller packt über Eintracht-Aus aus",
@@ -445,23 +459,23 @@
     "image": "https://images.bild.de/6a6f13e1ef632fe6ede68775/ba5d611c70d4e86764abb399f8ac1fe7,2a768049?w=1280",
     "date": 0,
     "titleSl": "Velika dražba – Siemens se odreče lokaciji in draži zaloge"
-   },
-   {
-    "title": "Tillmann exklusiv - Schalke-Boss spricht über Muslic-Meisterprämie!",
-    "link": "https://www.bild.de/sport/fussball/fc-schalke-schalke-boss-tillmann-spricht-ueber-muslic-meisterpraemie-6a6ddacedd06dd5ef2e417cc",
-    "image": "https://images.bild.de/6a6ddacedd06dd5ef2e417cc/f76a6b8eaecd191eca3883ca112c8ce1,df6cfe0?w=1280",
-    "date": 0,
-    "titleSl": "Ekskluzivno za Tillmanna - šef Schalkeja govori o bonusu za glasbeno prvenstvo!"
-   },
-   {
-    "title": "Lange nicht mehr erlebt - Kuriose Bayern-PK in Südkorea",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-ploetzlich-ist-trainer-kompany-der-dolmetscher-fuer-kim-kuriose-pk-in-suedkorea-6a704e658fa429a9893fe9db",
-    "image": "https://images.bild.de/6a704e658fa429a9893fe9db/f16cff79d410804f26af4c3394d06ab3,28456109?w=1280",
-    "date": 0,
-    "titleSl": "Že dolgo ga nisem videl - čuden Bayern PK v Južni Koreji"
    }
   ],
   "krone": [
+   {
+    "title": "Tragödie im Bodensee - Tauchgang endet für ein deutsches Paar tödlich",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9wQ1lxbWhUR2MtalB5SHZCd2lEbDh3T2dnLWpuWjAzQTJFSi1xMW9nX1Jxd3kzSU1zNHNBWEo3WVlSQQ?oc=5",
+    "image": "",
+    "date": 1785769860000,
+    "titleSl": "Tragedija v Bodenskem jezeru - Potapljanje se je končalo usodno za nemški par"
+   },
+   {
+    "title": "„Dämonen vertreiben!“ - Influencerin für Predigt aus Flugzeug geworfen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ycV9xZjAtYy1aNjF4Qm9Ec2Jmb0Z4cWlIWVdiSm9ZWXZoaWtxZHgtWHVLamdjT1F5eUNnTXB0a0NSQQ?oc=5",
+    "image": "",
+    "date": 1785769860000,
+    "titleSl": "\"Preženi demone!\" - Influencer vržen iz letala zaradi pridiganja"
+   },
    {
     "title": "Menschenhandel, Gewalt - Skandal um Ex-Harrods-Chef: Betroffene melden sich",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdUlrOGtkQUpLWUxJdlNGYlA5eTFYcFpUWEdWWS1qRTZSUlV5TWY3RjNhN2xyXzI2LXNwM3p5NUR3Zw?oc=5",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1785769200000,
     "titleSl": "Kje veljajo gasilske prepovedi – kaj je po novem dovoljeno početi v gozdu in kaj je prepovedano"
-   },
-   {
-    "title": "SPÖ-Bilanz Tirol - Rekord-Ausgaben für Wohnen, Plattformen im Visier",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TNHliaW1XNC13TU1EZEN3ZlU4SDh2UVFNYzBaWDlBbm84VEdkYjdwMnFwSTNyWDJSbTlIeGV0bzBaUQ?oc=5",
-    "image": "",
-    "date": 1785769200000,
-    "titleSl": "Bilanca SPÖ Tirolska - rekordna poraba za stanovanja, ploščadi na vidiku"
-   },
-   {
-    "title": "Ronaldo-Verlobte happy - Georgina Rodríguez: Hier erfüllt sich ihr Traum!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CNGFsLUhCVmZzUXBWSU5wN0RsWDFPcklTNU1QOGJRVmpGX1Rnblo0LV9GdEcyQnM0Zm5sVWRlRjFudw?oc=5",
-    "image": "",
-    "date": 1785769200000,
-    "titleSl": "Ronaldova zaročenka srečna - Georgina Rodríguez: Tukaj se ji uresničujejo sanje!"
    }
   ],
   "rainews": [
@@ -551,6 +551,13 @@
   ],
   "lemonde": [
    {
+    "title": "« Derrière les questions agricoles se dessinent des enjeux de santé publique, de cohésion sociale et de stabilité démocratique »",
+    "link": "https://www.lemonde.fr/idees/article/2026/08/03/derriere-les-questions-agricoles-se-dessinent-des-enjeux-de-sante-publique-de-cohesion-sociale-et-de-stabilite-democratique_6737408_3232.html",
+    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/7e49f84_upload-1-wty4e6ul7yqc-frame-732.jpg",
+    "date": 1785769208000,
+    "titleSl": "\"Za kmetijskimi vprašanji se skrivajo vprašanja javnega zdravja, socialne kohezije in demokratične stabilnosti\""
+   },
+   {
     "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
     "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-les-dernieres-informations_6737250_3210.html",
     "image": "https://img.lemde.fr/2026/08/03/493/0/5920/2960/644/322/60/0/4a82c45_ftp-1-s5zgzybueptj-5766093-01-06.jpg",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/08/03/458/0/5500/2750/644/322/60/0/51370c7_ftp-1-d0h78uvgyxkl-2026-08-03t120943z-682554505-rc2xqmad3wf9-rtrmadp-3-iran-crisis.JPG",
     "date": 1785760159000,
     "titleSl": "V ŽIVO, vojna na Bližnjem vzhodu: Iran znova očita ZDA, da so kršile junijski dogovor o končanju konflikta"
-   },
-   {
-    "title": "Elections sénatoriales dans le Gard : à droite comme à gauche, l’union pour faire obstacle au RN",
-    "link": "https://www.lemonde.fr/politique/article/2026/08/03/elections-senatoriales-dans-le-gard-a-droite-comme-a-gauche-l-union-pour-faire-obstacle-au-rn_6737365_823448.html",
-    "image": "https://img.lemde.fr/2026/08/02/20/0/7058/3529/644/322/60/0/1a77381_upload-1-p28qncgqqgam-000-479y6bm.jpg",
-    "date": 1785758403000,
-    "titleSl": "Senatorske volitve v Gardu: na desnici in na levici enotnost za oviranje RN"
    }
   ],
   "elpais": [
@@ -598,7 +598,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno asegura que ningún informe de inteligencia alertó de la magnitud de la crisis de Ceuta",
     "link": "https://elpais.com/espana/2026-08-03/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/U6FIYYSFVJDNRGIR2QJP3OSIGY.jpg?auth=382135ca45dcaf59488e37c45f017139fbfc5f394093216178c9a936a717d5cd",
-    "date": 1785769123000,
+    "date": 1785769918000,
     "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Vlada zagotavlja, da nobeno obveščevalno poročilo ni opozorilo na razsežnost krize v Ceuti"
    },
    {
@@ -625,7 +625,7 @@
    {
     "title": "El Rayo se compromete con la Comunidad de Madrid a facilitar el acceso de los técnicos para comprobar la situación del Estadio de Vallecas",
     "link": "https://elpais.com/deportes/futbol/2026-08-03/el-rayo-se-compromete-con-la-comunidad-de-madrid-a-facilitar-el-acceso-de-los-tecnicos-para-comprobar-la-situacion-del-estadio-de-vallecas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/CLG2TCPUYRNQDGQZIFMHJGHYZU.jpg?auth=bebadeb63f0b26637cc2fc141279c4510802c25f4143d1d6311352f32b4c0aa4",
+    "image": "https://imagenes.elpais.com/resizer/v2/R3Z5IXWKWBFVHN76FJ7OYGA43U.jpg?auth=86c9d2312a17a69c8f05b15d3149d62239a7c9ae06ba1c3616f5778ab1f4f633",
     "date": 1785766277000,
     "titleSl": "El Rayo se zavezuje madridski skupnosti, da bo tehnikom olajšal dostop za preverjanje stanja na stadionu Vallecas"
    },
