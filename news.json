@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03T06:56:24.365Z",
+ "generatedAt": "2026-08-03T06:58:26.501Z",
  "sources": {
   "siol": [
    {
@@ -117,9 +117,15 @@
   ],
   "zurnal": [
    {
+    "title": "V prometni nesreči je umrlo šest ljudi",
+    "link": "https://www.zurnal24.si/svet/prometna-nesreca-smrt-6-ljudi-italija-463080",
+    "image": "https://www.zurnal24.si/media/img/fe/2c/8bb4df4a6b89b612e4e0.jpeg",
+    "date": 1785740220000
+   },
+   {
     "title": "Odkar je z Golobom, takih posnetkov Tine Gaber nismo vajeni, tako se je odzval on!",
     "link": "https://www.zurnal24.si/magazin/vip/odkar-je-z-golobom-takih-posnetkov-tine-gaber-nismo-vajeni-tako-se-je-odzval-on-463078",
-    "image": "https://www.zurnal24.si/media/img/ea/63/77cd6a3db10a6c96d92b.jpeg",
+    "image": "https://www.zurnal24.si/media/img/7e/ag/3cfe81822f4678b53914.jpeg",
     "date": 1785739920000
    },
    {
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/janez-cigler-kralj-slubzben-avtomobil-sofer-463073",
     "image": "https://www.zurnal24.si/media/img/9a/f1/e7e4388f6256181ba892.jpeg",
     "date": 1785736380000
-   },
-   {
-    "title": "Huda nesreča, posredovati je moral helikopter",
-    "link": "https://www.zurnal24.si/slovenija/huda-nesreca-posredovati-je-moral-helikopter-463072",
-    "image": "https://www.zurnal24.si/media/img/6f/32/2a10ebe6a363026700a0.jpeg",
-    "date": 1785735180000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Wales first nation to withdraw support for Infantino",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe6/live/9de50870-8f04-11f1-8f9d-578946cd8ec9.jpg",
+    "date": 1785740047000,
+    "titleSl": "Wales je prva država, ki je umaknila podporo Infantinu"
+   },
+   {
     "title": "Semenyo hails Maresca style of play as 'music to my ears'",
     "link": "https://www.bbc.co.uk/sport/football/articles/cglj1zz5g92o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b1/live/4bfa7ae0-8e5f-11f1-8e9e-b531e03c09f9.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a89/live/e23c7090-8cbf-11f1-a84f-affcf171240b.jpg",
     "date": 1785735098000,
     "titleSl": "\"Svoje prvo knjigo sem podpisal v policijskem priporu\""
-   },
-   {
-    "title": "Glasgow praised for saving Commonwealth Games as baton passes to Amdavad",
-    "link": "https://www.bbc.co.uk/news/articles/cgk4rjz8dxlo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3561/live/979ccf10-8ebf-11f1-b80f-a7297c34bf46.jpg",
-    "date": 1785735049000,
-    "titleSl": "Glasgow pohvaljen, ker je rešil igre Commonwealtha, ko je štafetno palico prevzel Amdavad"
    }
   ],
   "aljazeera": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Arantxa Sánchez Vicario verurteilt - Der tiefe Fall einer Tennis-Legende",
+    "link": "https://www.bild.de/news/ausland/arantxa-sanchez-vicario-verurteilt-fall-einer-tennis-legende-6a69c953a17ee9f1dfd82bd4",
+    "image": "https://images.bild.de/6a69c953a17ee9f1dfd82bd4/d955f56ac881ecdcaf52613cc9fd0168,92cb16f5?w=1280",
+    "date": 0,
+    "titleSl": "Arantxa Sánchez Vicario obsojena - globok padec teniške legende"
+   },
+   {
+    "title": "Vorstellung wohl im Herbst - Samsung arbeitet am Galaxy S26 FE",
+    "link": "https://www.bild.de/leben-wissen/digital/samsung-galaxy-s26-fe-wann-die-neue-fan-edition-erscheinen-soll-6a7036eddd06dd5ef2e42bde",
+    "image": "https://images.bild.de/6a7036eddd06dd5ef2e42bde/4f708f20ff671cb9b2125b69eb41bd29-landscape,525091dd?w=1280",
+    "date": 0,
+    "titleSl": "Predstavitev verjetno jeseni - Samsung dela na Galaxy S26 FE"
+   },
+   {
     "title": "Spieler-Streit! Morddrohungen! Polizeischutz! - Deutscher Trainer packt über Spionage-Affäre aus",
     "link": "https://www.bild.de/sport/fussball/trainer-tonda-eckert-packt-ueber-spionage-affaere-beim-fc-southampton-aus-6a7022b9dd06dd5ef2e42ace",
     "image": "https://images.bild.de/6a7022b9dd06dd5ef2e42ace/24380886e54d1ea460e334f48c55191d,8c7bc1b7?w=1280",
@@ -445,64 +459,50 @@
     "image": "https://images.bild.de/6a6fd09fdd06dd5ef2e4290f/f8330ff33e9503c10b0dbf11c3f9f64b,8d7f249f?w=1280",
     "date": 0,
     "titleSl": "Razglašene izredne razmere! - 60.000 Američanov beži pred gozdnimi požari"
-   },
-   {
-    "title": "Live-Ticker zum Ukraine-Krieg - Neun Tote nach Raketen-Terror gegen Kiew",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-    "image": "https://images.bild.de/644b966a2dffef69047a7edc/b245b0b6c1de9d6718e6980fdf2722d2,3815ad18?w=1280",
-    "date": 0,
-    "titleSl": "V živo o vojni v Ukrajini - Devet mrtvih po raketnem terorju nad Kijevom"
-   },
-   {
-    "title": "Exklusive Zahlen - Die iPhone-Sauerei im Bundestag",
-    "link": "https://www.bild.de/politik/inland/bundestag-1-670-geraete-fuer-fast-1-5-millionen-euro-6a68b73ec435b807339bd7d6",
-    "image": "https://images.bild.de/6a68b73ec435b807339bd7d6/4a32bddb55fc7061f8a9c5668db19d41,b2a2039?w=1280",
-    "date": 0,
-    "titleSl": "Ekskluzivne številke - iPhone zmešnjava v Bundestagu"
    }
   ],
   "krone": [
    {
-    "title": "Fatale Hitzewelle - Wassermangel und Energiekrise in Ungarn - krone.at",
+    "title": "Fatale Hitzewelle - Wassermangel und Energiekrise in Ungarn",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FSHVyVHhuV1l6eFV3LS1ZUnhQMDUwRm9RSzhuZVRjbWRycnI3a0tYdmdOaDMzS0lDb1FXTlFzdXFqZw?oc=5",
     "image": "",
     "date": 1785740040000,
-    "titleSl": "Usoden vročinski val - pomanjkanje vode in energetska kriza na Madžarskem - krone.at"
+    "titleSl": "Usoden vročinski val - pomanjkanje vode in energetska kriza na Madžarskem"
    },
    {
-    "title": "Sorge immer größer - Nach Mager-Debatte: Ariana Grande kündigt Pause an - krone.at",
+    "title": "Sorge immer größer - Nach Mager-Debatte: Ariana Grande kündigt Pause an",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84aU11ajMyd0Q3VVNUdXJWVnJ0QmxSRHZNUTdxUUtxMC04cWYzdzUzNzlsVmUydEw2M0dHcmRyUEJ1UQ?oc=5",
     "image": "",
     "date": 1785739980000,
-    "titleSl": "Zaskrbljenost postaja vse večja - Po tanki debati: Ariana Grande napovedala premor - krone.at"
+    "titleSl": "Skrb postaja vse večja - Po skopi debati: Ariana Grande napovedala prekinitev"
    },
    {
-    "title": "„Mir wurde empfohlen, nicht selbst Auto zu fahren“ - krone.at",
+    "title": "„Mir wurde empfohlen, nicht selbst Auto zu fahren“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pVE5VdlVyMEJDa3ZuaS1oQ3ctemJqc210YmxyWkljNXo4S3BPYUNKaXZkMjVqeXNlSVhlb1pXbkVIUQ?oc=5",
     "image": "",
     "date": 1785739860000,
-    "titleSl": "“Svetovali so mi, naj ne vozim sam” - krone.at"
+    "titleSl": "\"Svetovali so mi, naj ne vozim sam\""
    },
    {
-    "title": "Attacken häufen sich - Ukraine: Mann feuert auf Rekrutierungsoffiziere - krone.at",
+    "title": "Attacken häufen sich - Ukraine: Mann feuert auf Rekrutierungsoffiziere",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QWlBrQmFpYUxUbXg1UWRoX0lqZEs5X1hOdVRjeHlnR2xNdmdhSGpNNG9xUGY3YkRsbnFnYzBUU3pzdw?oc=5",
     "image": "",
     "date": 1785739860000,
-    "titleSl": "Napadi se povečujejo - Ukrajina: Moški streljal na uradnike za nabor - krone.at"
+    "titleSl": "Napadi se povečujejo - Ukrajina: moški strelja na nabornike"
    },
    {
-    "title": "Schwere Nebenwirkungen - Abnehmballon: Studie in Wien abgebrochen - krone.at",
+    "title": "Schwere Nebenwirkungen - Abnehmballon: Studie in Wien abgebrochen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81S25jQ2lQeXpRd2Z5R2swWUM4aWNNb3NMRWphZkVpcXFadm5wWGx0LTBGUmtsd3psSFRUYzBlMmxNUQ?oc=5",
     "image": "",
     "date": 1785739620000,
-    "titleSl": "Resni neželeni učinki - balon za hujšanje: študija na Dunaju odpovedana - krone.at"
+    "titleSl": "Resni neželeni učinki - balon za hujšanje: študija na Dunaju odpovedana"
    },
    {
-    "title": "Wasser gehört dem Land - Thermenbohrung beantragt: Gegner sehen Hindernis - krone.at",
+    "title": "Wasser gehört dem Land - Thermenbohrung beantragt: Gegner sehen Hindernis",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9NNXJYdEpuOTB5THB1UUlHRTMxVkk2YkRZb05PRk9yS3Z2R2xBcEdNeHRQM3Q5NWJXNjJDblpDNVh1QQ?oc=5",
     "image": "",
     "date": 1785738600000,
-    "titleSl": "Voda je v lasti države – zahteva se vrtanje termalnih vrtin: nasprotniki vidijo ovire – krone.at"
+    "titleSl": "Voda pripada državi – zaprošena je vrtanja termalnih vrtin: nasprotniki vidijo ovire"
    }
   ],
   "rainews": [
