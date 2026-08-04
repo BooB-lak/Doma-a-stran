@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04T09:58:22.904Z",
+ "generatedAt": "2026-08-04T10:01:00.183Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Nova odlična novica za slovensko odbojko, zgodilo se je!",
+    "link": "https://www.zurnal24.si/slovenija/nova-odlicna-novica-za-slovensko-odbojko-zgodilo-se-je-463156",
+    "image": "https://www.zurnal24.si/media/img/a6/38/ab325888272dff7ff2cf.jpeg",
+    "date": 1785837480000
+   },
+   {
     "title": "Drama pri Sankt Peterburgu, Finska zaradi dogajanja zaprla del zračnega prostora",
     "link": "https://www.zurnal24.si/svet/drama-pri-sankt-peterburgu-finska-zaradi-dogajanja-zaprla-del-zracnega-prostora-463155",
     "image": "https://www.zurnal24.si/media/img/d9/b1/eb2016bca4169bce64a1.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kosarka/bo-doncic-kmalu-spet-zdruzil-moci-z-bivsima-soigralcema-iz-dallasa-463148",
     "image": "https://www.zurnal24.si/media/img/b1/21/f6278a84cbc585e5392e.jpeg",
     "date": 1785832620000
-   },
-   {
-    "title": "Bohinj: Skupino treh pohodnikov pričakal trop volkov, to je sledilo...",
-    "link": "https://www.zurnal24.si/slovenija/nepricakovano-srecanje-v-slovenskih-gorah-na-pomoc-so-morali-gorski-resevalci-463147",
-    "image": "https://www.zurnal24.si/media/img/27/66/424eea28f0e813c51a99.jpeg",
-    "date": 1785832080000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+    "link": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
+    "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-venezuela-deportation-pgmz/03int-venezuela-deportation-pgmz-mediumSquareAt3X.jpg",
+    "date": 1785837404000,
+    "titleSl": "ZDA prvič po potresih pošiljajo letalo z deportiranci v Venezuelo"
+   },
+   {
     "title": "The A.I. Revolt Is Here",
     "link": "https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html",
     "image": "https://static01.nyt.com/images/2026/08/04/opinion/04eks-sun-image/04eks-sun-image-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03nat-spokane-fires-1-gtbj/03nat-spokane-fires-1-gtbj-mediumSquareAt3X.jpg",
     "date": 1785826607000,
     "titleSl": "\"Vojno območje\": gozdni požari v mestu Spokane puščajo uničujočo sled uničenja"
-   },
-   {
-    "title": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
-    "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
-    "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04int-NZ-GREYHOUND-09-tqkf/04int-NZ-GREYHOUND-09-tqkf-mediumSquareAt3X.jpg",
-    "date": 1785825366000,
-    "titleSl": "Nova Zelandija je končala dirke hrtov. Zdaj mora obvladati posledice."
    }
   ],
   "bbc": [
@@ -421,7 +421,7 @@
    {
     "title": "Verdächtiger Syrer festgenommen - Zwei Leichen in Augsburger Asylheim entdeckt",
     "link": "https://www.bild.de/news/verdaechtiger-syrer-festgenommen-zwei-leichen-in-augsburger-asylheim-entdeckt-6a71b5b847f8c988ecd61538",
-    "image": "https://images.bild.de/6a71b5b847f8c988ecd61538/56edfc54161993c0a183bddb4c8f1c6c-landscape,10a8885?w=1280",
+    "image": "https://images.bild.de/6a71b5b847f8c988ecd61538/fd392005f9fc7011a92fa5fdd360e08b,e700a748?w=1280",
     "date": 0,
     "titleSl": "Aretirali domnevnega Sirijca – v azilnem centru v Augsburgu odkrili dve trupli"
    },
@@ -463,11 +463,25 @@
   ],
   "krone": [
    {
-    "title": "Schwimm-EM in Paris - Salzburger Karl verpasst Medaillenränge",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9lUWJJRnJPcWJPV2xPMENLUWU4Q0JJQy11WmluZm5vYVhjQWFhNWk1d2ZrbEpxWW12Q2Q4Y1AtYzVKQQ?oc=5",
+    "title": "Energieversorgung - 110-kV-Ausbau: Das größte Infrastrukturprojekt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04XzBCSjJUQnFhVWFORHNLUzhDQVMyWEkxM0xYTnVad2RVU0NLenV1UTk4NkpOS2dUUThQR2xfZndodw?oc=5",
     "image": "",
-    "date": 1785837420000,
-    "titleSl": "Evropsko prvenstvo v plavanju v Parizu - Salzburžan Karl ostal brez medalj"
+    "date": 1785837600000,
+    "titleSl": "Energetika - Širitev 110 kV: Največji infrastrukturni projekt"
+   },
+   {
+    "title": "In 3 Wiener Bezirken - Rohrbruch: Kein Wasser am vielleicht heißesten Tag",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zU2RTdEtMX2xfSUloUWNpZlFaT2pyMmdQVHlRVWtRTjRLQjQ4b0QyOWM2a3hwaENjMjF4ZkNtMHFhdw?oc=5",
+    "image": "",
+    "date": 1785837480000,
+    "titleSl": "V treh okrožjih Dunaja - počene cevi: Brez vode na morda najbolj vroč dan"
+   },
+   {
+    "title": "10% ohne Kenntnisse - Zu wenig Bäder für Schwimmunterricht für Kinder",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyWjY5Vi1Qb0k1UmJvV1E4dE9hbi1PV0RzU3BIMGNJem9pUnM5WVJFMjFaOGFWSlI0MHpzOVFUWF92UQ?oc=5",
+    "image": "",
+    "date": 1785837480000,
+    "titleSl": "10% brez znanja - Premalo bazenov za tečaj plavanja za otroke"
    },
    {
     "title": "Nach acht Jahren Kampf - Bruce Springsteen teilt bewegendes Krebs-Update",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1785836640000,
     "titleSl": "Vprašanje dneva - Primeri krutosti: Ali živali potrebujejo svoje odvetnike?"
-   },
-   {
-    "title": "Tragödie in Israel - Freund von Hamas-Opfer erschießt sich vor Grab",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aM2NDOWpIWTNLamtkdnNDcFpONzVlTXpfYmsxTk8yUXU4dW5nMEdLY2xMVlh0WVpNbzJhNW8wR2FhZw?oc=5",
-    "image": "",
-    "date": 1785836580000,
-    "titleSl": "Tragedija v Izraelu - prijatelj žrtve Hamasa se je ustrelil pred grobom"
-   },
-   {
-    "title": "Der Deal ist perfekt: - Nicht mehr vereinslos! WM-Star kehrt zu RB zurück",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1leTVZTGxhRkk3bXZKQ3lqS2tibUdjbFprYmhtNjN0QmdZQ3dlVkRuejRfdTF5amc4SElFc0Y3X1NWdw?oc=5",
-    "image": "",
-    "date": 1785836220000,
-    "titleSl": "Dogovor je popoln: - Nič več brez kluba! Zvezdnik svetovnega prvenstva se vrača v RB"
    }
   ],
   "rainews": [
