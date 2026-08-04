@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04T09:04:29.843Z",
+ "generatedAt": "2026-08-04T09:06:31.114Z",
  "sources": {
   "siol": [
    {
@@ -243,18 +243,18 @@
   ],
   "bbc": [
    {
+    "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54f/live/d1e81ee0-8fe1-11f1-bb3b-43bf44dc94d9.jpg",
+    "date": 1785834289000,
+    "titleSl": "Pet mrtvih v moskovski regiji med Ukrajino nadaljujejo napadi na skladišča"
+   },
+   {
     "title": "US states sue to block Trump tariffs impacting dozens of countries",
     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d5/live/ea554540-8fb7-11f1-a7ab-8b30adf0800a.jpg",
     "date": 1785832298000,
     "titleSl": "Ameriške države tožijo, da bi blokirale Trumpove carine, ki vplivajo na desetine držav"
-   },
-   {
-    "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/796f/live/bd19eba0-8fd3-11f1-a999-eb18d79411a9.jpg",
-    "date": 1785829376000,
-    "titleSl": "Pet mrtvih v moskovski regiji med Ukrajino nadaljujejo napadi na skladišča"
    },
    {
     "title": "Ex-captain Stokes would love to coach England in future",
@@ -286,13 +286,6 @@
    }
   ],
   "aljazeera": [
-   {
-    "title": "UEFA confirm legal letter served to FIFA after Infantino World Cup plan",
-    "link": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T155632Z_346935622_RC29Y5A3KEBP_RTRMADP_3_SOCCER-FIFA-STAKE-UEFA-1785824117.jpg?resize=1920%2C1440",
-    "date": 1785832664000,
-    "titleSl": "UEFA je potrdila pravno pismo, poslano FIFA po načrtu Infantinovega svetovnega prvenstva"
-   },
    {
     "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
     "link": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785817304.jpg?resize=1914%2C1080&quality=80",
     "date": 1785817348000,
     "titleSl": "Bodycam video prikazuje gasilce, ki se borijo z ognjem v Spokanu v ZDA"
+   },
+   {
+    "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+    "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a715dba2d12-1785814458.jpg?resize=1920%2C1440",
+    "date": 1785815889000,
+    "titleSl": "Kolumbijski Petro nekaj dni pred predajo oblasti ponavlja obtožbe o goljufijah"
    }
   ],
   "guardian": [
@@ -419,49 +419,56 @@
   ],
   "bild": [
    {
+    "title": "110-Jahre-Geschichte fackelt ab - Alpe Mohr in Schutt und Asche",
+    "link": "https://www.bild.de/news/inland/110-jahre-geschichte-fackelt-ab-alpe-mohr-in-schutt-und-asche-6a7058efdd06dd5ef2e42eb4",
+    "image": "https://images.bild.de/6a7058efdd06dd5ef2e42eb4/3de66643fef3867b076d6da9be9a62c0,7b88434a?w=1280",
+    "date": 0,
+    "titleSl": "110 let zgodovine gori - Alpe Mohr v ruševinah"
+   },
+   {
+    "title": "Razzia mit 500 Beamten - Rolls-Royce bei Roma-Clan-Hochzeit gepfändet",
+    "link": "https://www.bild.de/regional/bayern/razzia-mit-500-beamten-rolls-royce-und-rolex-bei-clan-hochzeit-gepfaendet-6a6f0c07ef632fe6ede686f6",
+    "image": "https://images.bild.de/6a6f0c07ef632fe6ede686f6/21f9da3ba95f5d6c6bfca49efa4ac3a5,826abcf5?w=1280",
+    "date": 0,
+    "titleSl": "Racija s 500 policisti - Rolls-Royce zasegli na poroki romskega klana"
+   },
+   {
+    "title": "„Das ist frei erfunden“ - Jetzt schlägt Infantino zurück",
+    "link": "https://www.bild.de/sport/fussball/das-ist-frei-erfunden-jetzt-schlaegt-infantino-zurueck-6a71a235cc46967c04cae344",
+    "image": "https://images.bild.de/6a71a235cc46967c04cae344/9ce5d31e7291ad55a21817542badd65d,9543adb8?w=1280",
+    "date": 0,
+    "titleSl": "\"To je izmišljeno\" - Infantino zdaj vrača udarec"
+   },
+   {
+    "title": "Mercedes-Legende kehrt zurück! - So brutal fährt der neue Evo II für 850.000 Euro",
+    "link": "https://www.bild.de/leben-wissen/auto/mercedes-legende-kehrt-zurueck-so-brutal-faehrt-der-neue-evo-ii-6a7090cbcc46967c04cad87b",
+    "image": "https://images.bild.de/6a7090cbcc46967c04cad87b/b1c5fb78937dd01be72b6b2b8f1d4c0b,15a63b45?w=1280",
+    "date": 0,
+    "titleSl": "Mercedesova legenda se vrača! - Novi Evo II se tako surovo pelje za 850.000 evrov"
+   },
+   {
+    "title": "Im Juni bei RB Leipzig gefeuert - Werner sagt Wüsten-Angebot ab",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-im-juni-bei-rb-leipzig-gefeuert-ole-werner-sagt-angebot-bei-wuesten-klub-al-ahli-ab-6a71a17acc46967c04cae337",
+    "image": "https://images.bild.de/6a71a17acc46967c04cae337/508dceee9b991dcae88620853191531a,52c08974?w=1280",
+    "date": 0,
+    "titleSl": "Junija odpuščen iz RB Leipziga – Werner je zavrnil puščavsko ponudbo"
+   },
+   {
     "title": "Neue Pläne für 60 Millionen-Euro-Anwesen - Benko-Villa soll Luxushotel werden",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/rene-benko-villa-in-innsbruck-soll-luxushotel-werden-6a7062daef632fe6ede69549",
     "image": "https://images.bild.de/6a7062daef632fe6ede69549/43ed394591976baeca09c54fe33b19ea,aeb11c2e?w=1280",
     "date": 0,
     "titleSl": "Novi načrti za 60 milijonov evrov vredno nepremičnino - Vila Benko naj bi postala luksuzni hotel"
-   },
-   {
-    "title": "Winget-Trick - So aktualisiert Windows 11 alle Ihre Programme",
-    "link": "https://www.bild.de/leben-wissen/digital/winget-unter-windows-11-alle-programme-auf-einmal-aktualisieren-6a7061d7dd06dd5ef2e42f33",
-    "image": "https://images.bild.de/6a7061d7dd06dd5ef2e42f33/694fa802a7f12fed1d39cba23ff412fc,1943bcee?w=1280",
-    "date": 0,
-    "titleSl": "Winget trik – tako Windows 11 posodobi vse vaše programe"
-   },
-   {
-    "title": "Aktuelle Auswertung - Die 3 schlimmsten Jetlag-Flugrouten weltweit",
-    "link": "https://www.bild.de/leben-wissen/reisen/aktuelle-auswertung-die-schlimmsten-jetlag-flugrouten-weltweit-6a7199ebdf3bf7ee0779731f",
-    "image": "https://images.bild.de/6a7199ebdf3bf7ee0779731f/d92a91ef0b31a8045617e72fbe75695d,fd43c9d1?w=1280",
-    "date": 0,
-    "titleSl": "Trenutna ocena - 3 najslabše poti letenja zaradi časovnega zamika po vsem svetu"
-   },
-   {
-    "title": "„Einbrecher“ löst Alarm aus - Polizei fasst Igel im Supermarkt",
-    "link": "https://www.bild.de/regional/hessen/einbrecher-loest-alarm-aus-polizei-fasst-igel-im-supermarkt-6a7191f247f8c988ecd611bf",
-    "image": "https://images.bild.de/6a7191f247f8c988ecd611bf/3eb8565521471f056525660a561512c7,8fa29ffb?w=1280",
-    "date": 0,
-    "titleSl": "“Vlomilec” sproži alarm - policija ujame ježa v supermarketu"
-   },
-   {
-    "title": "Nach Millionen-Loch - Lufthansa kassiert bei immer mehr Extras ab",
-    "link": "https://www.bild.de/leben-wissen/reisen/nach-millionen-loch-lufthansa-kassiert-bei-immer-mehr-extras-ab-6a7191aa47f8c988ecd611b5",
-    "image": "https://images.bild.de/6a7191aa47f8c988ecd611b5/b4b53a66076e9f4d61a78229bfc4532e,882fc6a2?w=1280",
-    "date": 0,
-    "titleSl": "Po milijonski luknji - Lufthansa unovčuje vse več dodatkov"
-   },
-   {
-    "title": "Wegen Iran-Krieg und streikenden Piloten - Über 50 Prozent! Gewinn-Einbruch bei Lufthansa",
-    "link": "https://www.bild.de/politik/inland/krieg-im-iran-und-streik-umsatz-bricht-bei-lufthansa-massiv-ein-6a717912b9cf931126824699",
-    "image": "https://images.bild.de/6a717912b9cf931126824699/16ff79da42ed1565dac55cf810cc0d36,c62e407e?w=1280",
-    "date": 0,
-    "titleSl": "Zaradi iranske vojne in stavkajočih pilotov - več kot 50 odstotkov! Padec dobička Lufthanse"
    }
   ],
   "krone": [
+   {
+    "title": "Folge von Dienstag - Moderate Bewegung kann an heißen Tagen guttun",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ySng2ME9BRFp1VzhwR1FOUDJGaWVHV3htZEdyZU1ma0ZySVRwQktzOWFNQ1A4U3A2TVFSZFFhaHhTUQ?oc=5",
+    "image": "",
+    "date": 1785834180000,
+    "titleSl": "Epizoda od torka – Zmerna vadba je lahko dobra v vročih dneh"
+   },
    {
     "title": "Wartezeit an Grenzen - Stau-Hölle in Kroatien: Blechlawine rollt an",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qMHJNVWlRQ1FocThydHBJVlMza3FHdlRxSl95RzdBNXlxekxEYW1Ea19DVF9xNVlNMzFHQnJyV1Q5Zw?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1785834000000,
     "titleSl": "Ves denar od davkov! - Požigalec je spet zažigal javna stranišča"
-   },
-   {
-    "title": "„40.000 Euro-Auto ist heutzutage kein Luxus“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCZ3VTeWtFMXBmU25wLWNPZzRsdWRmcmVvTzhpVXdnclFDSEt2UXZ1cXhldU5pZEp3UEMtRHFBODdQQQ?oc=5",
-    "image": "",
-    "date": 1785834000000,
-    "titleSl": "\"Avto za 40.000 evrov danes ni luksuz\""
    }
   ],
   "rainews": [
