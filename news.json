@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04T20:04:32.841Z",
+ "generatedAt": "2026-08-04T20:06:27.125Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Evacuations ordered as Guatemala volcano erupts",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785872468.jpg?resize=1920%2C1080&quality=80",
+    "date": 1785872477000,
+    "titleSl": "Zaradi izbruha vulkana v Gvatemali so ukazali evakuacijo"
+   },
+   {
+    "title": "Red Cross urges international aid as Sudan crisis deepens",
+    "link": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4f5eab6ba6-1783586475.jpg?resize=1920%2C1440",
+    "date": 1785872398000,
+    "titleSl": "Rdeči križ ob poglabljanju sudanske krize poziva k mednarodni pomoči"
+   },
+   {
     "title": "Telegram says Apple suspension followed content norms violation by one user",
     "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a32ad35-1781706037.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a722849-1785866313.jpg?resize=1920%2C1440",
     "date": 1785869429000,
     "titleSl": "Ministrstvo za pravosodje pošilja opazovalce na volišča v Michiganu, saj zakonodajalci opozarjajo na stranske cilje"
-   },
-   {
-    "title": "Mass funeral held for 112 members of two Palestinian families",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785868499.jpg?resize=1920%2C1080&quality=80",
-    "date": 1785868535000,
-    "titleSl": "Množični pogreb 112 članov dveh palestinskih družin"
-   },
-   {
-    "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-    "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7219b73520-1785862583.jpg?resize=1920%2C1440",
-    "date": 1785868488000,
-    "titleSl": "\"Maksimalna uporaba\": Iran krepi vojaško moč med prekinitvijo ognja z ZDA"
    }
   ],
   "guardian": [
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Red Farmer: Landwirte unterstützen die Feuerwehr bei Waldbränden",
+    "link": "https://www.spiegel.de/panorama/gesellschaft/red-farmer-landwirte-unterstuetzen-die-feuerwehr-bei-waldbraenden-a-f2137e54-6857-40d5-a522-21c86dbbfeac#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/3f435e78-aed8-4b3c-a1c7-4b863291d35f_w520_r2.08_fpx33.34_fpy50.jpg",
+    "date": 1785873600000,
+    "titleSl": "Rdeči kmet: Kmetje podpirajo gasilce med gozdnimi požari"
+   },
+   {
     "title": "Boris Becker verkauft ehemalige Familienresidenz für fast drei Millionen Euro",
     "link": "https://www.spiegel.de/panorama/leute/boris-becker-verkauft-ehemalige-familienresidenz-fuer-fast-drei-millionen-euro-a-04c7008d-3add-460b-abfa-a88d360613ec#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/c057377c-06b5-4adf-b230-f3de81e99710_w520_r2.08_fpx46_fpy45.jpg",
@@ -401,13 +408,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/48c99684-f0ad-40d4-9bce-b4232f980a5c_w520_r2.08_fpx47.34_fpy45.jpg",
     "date": 1785865440000,
     "titleSl": "Loto v Italiji: Smetarji rešijo stran vržene milijonske srečke"
-   },
-   {
-    "title": "Rhein: Was hilft Ausbau für die Schifffahrt gegen Niedrigwasser?",
-    "link": "https://www.spiegel.de/mobilitaet/rhein-was-hilft-ausbau-fuer-die-schifffahrt-gegen-niedrigwasser-a-4a45c577-9975-4469-bdc5-dff8fdfbd403#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/425f25f6-269e-49d8-9677-290e1c8b8874_w520_r2.08_fpx55.9_fpy49.99.jpg",
-    "date": 1785865080000,
-    "titleSl": "Ren: Kako širitev pomaga pri ladijskem prometu ob nizkih vodostajih?"
    },
    {
     "title": "Russland unter Wladimir Putin: Wie der Präsident Geschichte zur Waffe macht",
@@ -463,49 +463,56 @@
   ],
   "krone": [
    {
-    "title": "Lange OP-Wartezeiten - Ärzte: „Wir betreiben derzeit Krisenmanagement“ - krone.at",
+    "title": "Lange OP-Wartezeiten - Ärzte: „Wir betreiben derzeit Krisenmanagement“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUZVpXT0VVVDc0dndwMmJoYVdMcDF1aGFQN3h1VTEta3o1WkJnVGdhWkV4RThhd1Zqbm1IQk4zOU5BQQ?oc=5",
     "image": "",
     "date": 1785873668000,
-    "titleSl": "Dolge čakalne dobe za operacije - Zdravniki: \"Trenutno izvajamo krizni menedžment\" - krone.at"
+    "titleSl": "Dolge čakalne dobe za operacije - Zdravniki: \"Trenutno izvajamo krizni menedžment\""
    },
    {
-    "title": "EINWÜRFE: FOLGE 102 - Neue Saison und das Unterhaus lebt wieder! - krone.at",
+    "title": "EINWÜRFE: FOLGE 102 - Neue Saison und das Unterhaus lebt wieder!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWYjBTdVQxNExiVS1EVm1qQ0xJOXdHTkVFWlg5T0hJSG52bS1VV1NuY0x0d3ExclhlX3FncVQteFpKdw?oc=5",
     "image": "",
     "date": 1785873650000,
-    "titleSl": "PREDSTAVITEV: EPIZODA 102 - Nova sezona in spodnji dom spet živi! - krone.at"
+    "titleSl": "PREDSTAVITEV: EPIZODA 102 - Nova sezona in House of Commons spet živi!"
    },
    {
-    "title": "Musste operiert werden - Nach schwerem Knöchelbruch verpasst Talent die EM - krone.at",
+    "title": "Musste operiert werden - Nach schwerem Knöchelbruch verpasst Talent die EM",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yZndSRnVOYlJYNkxkZWRISU1rTnF0cHhEd2dlSm9aN0tDM2VoQk1TRk9NMF9TZG83TXU1cjZLZXBhZw?oc=5",
     "image": "",
     "date": 1785873600000,
-    "titleSl": "Moral na operacijo - Talent po hudem zlomu gležnja izpustil evropsko prvenstvo - krone.at"
+    "titleSl": "Moral na operacijo - Talent je po hudem zlomu gležnja izpustil evropsko prvenstvo"
    },
    {
-    "title": "Formel1 im Sommer - Viel Brisanz und ein tierischer Hamilton-Schatz - krone.at",
+    "title": "Formel1 im Sommer - Viel Brisanz und ein tierischer Hamilton-Schatz",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4THFIV2cwMlBvX01qdm5KaGlLUjRPN25JbXdpdjFEQ1J4LVgzZHZXRm9HcGVYb0JIc09DR1pMTXhwdw?oc=5",
     "image": "",
     "date": 1785871620000,
-    "titleSl": "Formula 1 poleti - Veliko eksplozivnosti in neverjeten Hamiltonov zaklad - krone.at"
+    "titleSl": "Formula 1 poleti - veliko eksplozivnosti in neverjeten Hamiltonov zaklad"
    },
    {
-    "title": "Böschungsbrand - Ausfälle und Verspätungen auf Brennerbahnstrecke - krone.at",
+    "title": "Böschungsbrand - Ausfälle und Verspätungen auf Brennerbahnstrecke",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZREIzSUpwSVE3SE1ieF82M0o1MlktT1dYZlZIT3lWaFpUalNoTGZrdk9xdFpCQ1lSS0pQOWNmeHhpUQ?oc=5",
     "image": "",
     "date": 1785871380000,
-    "titleSl": "Požar na brežini - odpovedi in zamude na brennerski železniški progi - krone.at"
+    "titleSl": "Požar na brežini – odpovedi in zamude na brennerski železniški progi"
    },
    {
-    "title": "„Club 3“ ist zurück! - Meinungsforscher über Stimmung im Land: „Oasch“ - krone.at",
+    "title": "„Club 3“ ist zurück! - Meinungsforscher über Stimmung im Land: „Oasch“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vdHlYNTY5cS1TbVBndVhwUUUwNDJzcThLTzNfWFl5dTFwS0ZMQVBXSUpxZlZxS3dKNFNOYnFac1pkZw?oc=5",
     "image": "",
     "date": 1785870900000,
-    "titleSl": "“Klub 3” se vrača! - Anketarji o razpoloženju v državi: “Oasch” - krone.at"
+    "titleSl": "“Klub 3” se vrača! - Anketarji o razpoloženju v državi: “Oasch”"
    }
   ],
   "rainews": [
+   {
+    "title": "Europei sport acquatici, il secondo tuffo di Chiara Pellacani dal trampolino da 3 metri",
+    "link": "https://www.rainews.it/video/2026/08/european-aquatics-championships-campionati-europei-nuoto-tuffo-chiara-pellacani-nel-trampolino-da-tre-metri-video-5be14c0e-32f0-40cc-9c5e-6ad97a705d87.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/04/1785872948401_.png",
+    "date": 1785872940000,
+    "titleSl": "Evropski vodni športi, drugi skok Chiare Pellacani s 3-metrske odskočne deske"
+   },
    {
     "title": "Gran Bretagna, è nata la terzogenita della principessa Eugenia. Re Carlo: \"Lieti della notizia\"",
     "link": "https://www.rainews.it/articoli/2026/08/gran-bretagna-e-nata-la-terzogenita-della-principessa-eugenia-re-carlo-lieti-della-notizia-8ec90831-ea3c-4791-955f-d33e958df80e.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/04/1785868368136_.png",
     "date": 1785870600000,
     "titleSl": "Bivša ga zamenja za tekmeca in ga ubije, Valentina spregovorila: \"Ne dam si miru\""
-   },
-   {
-    "title": "Vertice Schlein-Conte a Campo de&#x27; Fiori: tregua a pranzo, ma il menù della coalizione ancora non c&#x27;è",
-    "link": "https://www.rainews.it/articoli/2026/08/vertice-schlein-conte-a-campo-de-fiori-tregua-a-pranzo-ma-il-menu-della-coalizione-resta-diviso-9fde0a21-4534-4fc2-a8bf-07a3e2e2986e.html",
-    "image": "https://www.rainews.it/dl/img/2023/06/24/1687606155562_rainewscffefadfdfca.jpg",
-    "date": 1785869700000,
-    "titleSl": "Vrh Schlein-Conte na Campo de' Fiori: premirje ob kosilu, a koalicijskega menija še ni"
    }
   ],
   "lemonde": [
