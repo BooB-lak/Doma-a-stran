@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T16:54:27.182Z",
+ "generatedAt": "2026-08-05T16:56:24.195Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,24 @@
   ],
   "24ur": [
    {
+    "title": "Nov dogovor med Iranom in Omanom: plovna pot za ladje skozi Hormuško ožino",
+    "link": "https://www.24ur.com/novice/tujina/nov-dogovor-med-iranom-in-omanom-plovna-pot-za-ladje-skozi-hormusko-ozino.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/80bef5ddf69c4024fd66_63616787.jpg?v=862f&fop=fp:0.47:0.54",
+    "date": 1785948732000
+   },
+   {
+    "title": "Zaradi rekordno dolgega vročinskega vala porast hudo poškodovanih",
+    "link": "https://www.24ur.com/novice/slovenija/zaradi-rekordno-dolgega-vrocinskega-vala-porast-hudo-poskodovanih.html",
+    "image": "https://images.24ur.com/media/images/213xX/Feb2026/3affac131ede2e05ed38_63547151.jpg?v=7f15&fop=fp:0.45:0.44",
+    "date": 1785948520000
+   },
+   {
+    "title": "Neymar po burnem odhodu z igrišča znova dviguje prah",
+    "link": "https://www.24ur.com/sport/nogomet/neokusno-obnasanje-neymarja-po-tekmi.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/0337e844b6fd33252c2f_63627760.jpg?v=ca6e&fop=fp:0.51:0.46",
+    "date": 1785948192000
+   },
+   {
     "title": "V Avstriji in na Slovaškem padla zgodovinska rekorda",
     "link": "https://www.24ur.com/novice/tujina/evropa-v-primezu-vrocine-v-avstriji-in-na-slovaskem-padla-zgodovinska-rekorda.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/8559deb1a79f6196f949_63609883.jpg?v=0a8e&fop=fp:0.47:0.40",
@@ -57,24 +75,6 @@
     "link": "https://www.24ur.com/sport/odbojka/liga-narodov-je-najvecja-mozna-motivacija-za-ep.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2019/0a4b672a14_62300100.jpg?v=0b52&fop=fp:0.54:0.18",
     "date": 1785946825000
-   },
-   {
-    "title": "Vročinske nevihte ohladile ozračje: v Idriji le 23 stopinj, v Črnomlju 39",
-    "link": "https://www.24ur.com/novice/slovenija/niti-nad-1000-metrov-se-ne-ohladi-na-rogli-tropska-noc.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/6fd75030ab7bf88f7413_63627697.png?v=1504&fop=fp:0.37:0.57",
-    "date": 1785944487000
-   },
-   {
-    "title": "Piers Morgan stopil v bran Ariani Grande: Pustite jo pri miru",
-    "link": "https://www.24ur.com/popin/tuja-scena/piers-morgan-stopil-v-bran-ariani-grande-pustite-jo-pri-miru.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/c9abef624deae90d750e_63627600.jpg?v=9ceb&fop=fp:0.47:0.26",
-    "date": 1785943611000
-   },
-   {
-    "title": "Zadnji nogometni cilj Modrića? 'Naslov prvaka, za Baresija'",
-    "link": "https://www.24ur.com/sport/nogomet/zadnji-nogometni-cilj-modrica-naslov-prvaka-za-baresija.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/dd379c03119c46179fde_63627698.png?v=3ab1&fop=fp:0.51:0.25",
-    "date": 1785943012000
    }
   ],
   "rtvslo": [
@@ -199,11 +199,18 @@
   ],
   "nyt": [
    {
-    "title": "El-Sayed’s Win Sets Up the Left’s Biggest Test of the Fall",
+    "title": "Perez Hilton Is Hospitalized After Appearing to Harm Himself on Livestream",
+    "link": "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html",
+    "image": "https://static01.nyt.com/images/2026/08/06/multimedia/05xp-hilton/05xp-hilton-mediumSquareAt3X-v2.jpg",
+    "date": 1785948903000,
+    "titleSl": "Perez Hilton je hospitaliziran, potem ko se je v živo pojavil, da se je poškodoval"
+   },
+   {
+    "title": "El-Sayed’s Michigan Senate Primary Win Sets Up the Left’s Biggest Test of the Fall",
     "link": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html",
     "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05pol-assess/05pol-assess-mediumSquareAt3X-v2.jpg",
-    "date": 1785948471000,
-    "titleSl": "Zmaga El-Sayeda predstavlja največjo preizkušnjo levice jeseni"
+    "date": 1785948825000,
+    "titleSl": "El-Sayedova zmaga na primarnih volitvah v senatu Michigan predstavlja največjo jesensko preizkušnjo levice"
    },
    {
     "title": "The U.S. Relies on Family Caregivers. Millions of Them Are Kids.",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/08/16/magazine/16mag-caregivers-promo/16mag-caregivers-promo-mediumSquareAt3X.jpg",
     "date": 1785947485000,
     "titleSl": "ZDA se zanašajo na družinske negovalce. Na milijone jih je otrok."
-   },
-   {
-    "title": "Perez Hilton Is Hospitalized After Appearing to Harm Himself on Livestream",
-    "link": "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html",
-    "image": "https://static01.nyt.com/images/2026/08/06/multimedia/05xp-hilton/05xp-hilton-mediumSquareAt3X-v2.jpg",
-    "date": 1785947287000,
-    "titleSl": "Perez Hilton je hospitaliziran, potem ko se je v živo pojavil, da se je poškodoval"
    },
    {
     "title": "Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family",
@@ -229,7 +229,7 @@
    {
     "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
     "link": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
-    "image": "",
+    "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
     "date": 1785945206000,
     "titleSl": "Izrael je napadel Libanon, potem ko je Hezbolah obtožil kršitve prekinitve ognja"
    },
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785948075.jpg?resize=1559%2C1080&quality=80",
+    "date": 1785948144000,
+    "titleSl": "Rusija je v napadih z balističnimi raketami okoli Kijeva ubila 17 ljudi"
+   },
+   {
     "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
     "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7344016b30-1785938945.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/HO9UaRBXkAAnKn8-2-1785941334.jpeg?resize=1200%2C675",
     "date": 1785943359000,
     "titleSl": "Sodišče Združenega kraljestva je potrdilo, da je profesorjev antisionizem pravno zaščiteno prepričanje"
-   },
-   {
-    "title": "War on Iran: US-Iran deal edges closer",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785942704.jpg?resize=1920%2C1080&quality=80",
-    "date": 1785942754000,
-    "titleSl": "Vojna proti Iranu: Dogovor med ZDA in Iranom je bližje"
    }
   ],
   "guardian": [
@@ -586,11 +586,11 @@
     "titleSl": "Rekordne naložbe v ameriško tehnologijo trgom ne predstavljajo več sanj"
    },
    {
-    "title": "En Afghanistan, quelque 500 civils auraient été tués dans les affrontements avec le Pakistan depuis dix mois",
-    "link": "https://www.lemonde.fr/international/article/2026/08/05/en-afghanistan-quelque-500-civils-auraient-ete-tues-dans-les-affrontements-avec-le-pakistan-depuis-dix-mois_6739440_3210.html",
-    "image": "https://img.lemde.fr/2026/06/29/486/0/5837/2918/644/322/60/0/64c8d09_ftp-1-uam786kmkcav-5478747-01-06.jpg",
-    "date": 1785942005000,
-    "titleSl": "V Afganistanu je bilo v zadnjih desetih mesecih v spopadih s Pakistanom ubitih okoli 500 civilistov"
+    "title": "EN DIRECT, guerre en Ukraine : après des bombardements russes meurtriers, Zelensky appelle ses alliés à accélérer la livraison de systèmes de défense aérienne ; des évacuations de familles ordonnées à Kramatorsk",
+    "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-apres-des-bombardements-russes-meurtriers-zelensky-appelle-ses-allies-a-accelerer-la-livraison-de-systemes-de-defense-aerienne-des-evacuations-de-familles-ordonnees-a-kramatorsk_6737250_3210.html",
+    "image": "https://img.lemde.fr/2026/08/05/803/0/5892/2946/644/322/60/0/869e934_ftp-1-3sn7cgy76l79-5777510-01-06.jpg",
+    "date": 1785940481000,
+    "titleSl": "V ŽIVO, vojna v Ukrajini: po smrtonosnih ruskih bombnih napadih Zelenski poziva svoje zaveznike, naj pospešijo dobavo sistemov zračne obrambe; v Kramatorsku odrejene evakuacije družin"
    }
   ],
   "elpais": [
