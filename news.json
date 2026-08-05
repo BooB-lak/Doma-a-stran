@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T23:48:28.574Z",
+ "generatedAt": "2026-08-05T23:50:37.959Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Sunshine to meal times: How to beat jet lag",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj846q2veo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3751/live/8b9a1650-8f46-11f1-bea5-516364e5690e.jpg",
+    "date": 1785973786000,
+    "titleSl": "Od sonca do obrokov: Kako premagati časovni zamik"
+   },
+   {
     "title": "Why phones on loudspeaker may become just another noise",
     "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a91/live/a450d180-901c-11f1-b8ee-9b3c26ad07bb.jpg",
@@ -264,35 +271,21 @@
     "titleSl": "Afganistanska ženska ekipa, ki je doma prepovedana igranje nogometa, se je ponovno zbrala 8000 milj stran"
    },
    {
+    "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
+    "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3041/live/a08095f0-90e8-11f1-a7ab-8b30adf0800a.jpg",
+    "date": 1785972137000,
+    "titleSl": "Kratke hlače, majice z naramnicami in sandali: Ali mi lahko moj šef pove, kaj naj nosim poleti?"
+   },
+   {
     "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
     "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg",
     "date": 1785971662000,
     "titleSl": "Polovica cepiv je v zabojnikih – različice brez hladilnika bi to lahko spremenile"
-   },
-   {
-    "title": "Jailed funeral boss angers families with 'apology'",
-    "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afe/live/2a95c280-ab4b-11f0-aa13-0b0479f6f42a.jpg",
-    "date": 1785970930000,
-    "titleSl": "Zaprti šef pogreba razjezil družine z \"opravičilom\""
-   },
-   {
-    "title": "AI or real? BBC analyses viral China disaster videos",
-    "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a6/live/e4442b50-908c-11f1-b2ab-0dd01740f9f6.jpg",
-    "date": 1785967232000,
-    "titleSl": "AI ali resnično? BBC analizira virusne videoposnetke katastrofe na Kitajskem"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Nigeria announces rescue of 308 kidnapped citizens",
-    "link": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T193540Z_1306600256_RC2I7LA8H5U7_RTRMADP_3_NIGERIA-MILITARY-1785968014.jpg?resize=1920%2C1440",
-    "date": 1785972887000,
-    "titleSl": "Nigerija napoveduje rešitev 308 ugrabljenih državljanov"
-   },
    {
     "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
     "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7383192f87-1785955097.jpg?resize=1920%2C1440",
     "date": 1785965713000,
     "titleSl": "Američan aretiran na Trumpovem igrišču za golf, obtožen več kaznivih dejanj"
+   },
+   {
+    "title": "Israeli forces raid camp in occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785965177.jpg?resize=1920%2C1080&quality=80",
+    "date": 1785965515000,
+    "titleSl": "Izraelske sile napadle taborišče na okupiranem Zahodnem bregu"
    }
   ],
   "guardian": [
@@ -463,46 +463,46 @@
   ],
   "krone": [
    {
-    "title": "Das sagt Sturm-Coach - Charakterprobe! „Das spricht für die Mannschaft“",
+    "title": "Das sagt Sturm-Coach - Charakterprobe! „Das spricht für die Mannschaft“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96T09SZzUzYzBxZUtFbVBLTE5OSmVwYkcyTkhQVVJQVDlOc0pkSFVSZFYwUHpubjB1LUhTTHVkQkxudw?oc=5",
     "image": "",
     "date": 1785966480000,
-    "titleSl": "Tako pravi trener nevihte – preizkus karakterja! \"To govori o ekipi\""
+    "titleSl": "Tako pravi trener nevihte – preizkus karakterja! \"To govori o ekipi\" - krone.at"
    },
    {
-    "title": "Trump beschimpft ihn - Israelkritischer Demokrat triumphierte bei Vorwahl",
+    "title": "Trump beschimpft ihn - Israelkritischer Demokrat triumphierte bei Vorwahl - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzcWVvNEc5cW9lSDNFNU1zVWdicVE4SVl5cmFIam80LS1QRm1ob1oxeGlZTzQ0Q2V4Zy00NVVtakxSZw?oc=5",
     "image": "",
     "date": 1785963000000,
-    "titleSl": "Trump ga žali – demokrat, ki je kritičen do Izraela, zmaga na primarnih volitvah"
+    "titleSl": "Trump ga žali - demokrat, kritičen do Izraela, zmaga na primarnih volitvah - krone.at"
    },
    {
-    "title": "Wiederholungstäter - Nach Eklat: Sperre gegen Samuel Eto‘o aufgehoben",
+    "title": "Wiederholungstäter - Nach Eklat: Sperre gegen Samuel Eto‘o aufgehoben - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QWThaTmdENWZKcWpsdDNjeWlfUlZMbWtmcGdRb2ZMdmpSTWx0cldZRGUtXzUxZmJOMm9UQWJQNGJkQQ?oc=5",
     "image": "",
     "date": 1785962280000,
-    "titleSl": "Večkratni kršitelj – po škandalu: prepoved igranja Samuela Eto'oja preklicana"
+    "titleSl": "Večkratni kršitelj – Po škandalu: prepoved igranja Samuela Eto'oja preklicana – krone.at"
    },
    {
-    "title": "Ihr Mondkalender",
+    "title": "Ihr Mondkalender - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Z0lOQUx6X1p0TGNtMGxrd2FiUFhIRU9BTkhRVnNfcVp2UHlDN0tvcFNOOFVSZ0RSVnh4UU9oSmdDN3ZLSGFFZmdQVDVjVVZSTklDVQ?oc=5",
     "image": "",
     "date": 1785960846000,
-    "titleSl": "Vaš lunarni koledar"
+    "titleSl": "Vaš lunarni koledar - krone.at"
    },
    {
-    "title": "Mit Boje gefunden - Pensionistin starb beim Schwimmen im Wallersee",
+    "title": "Mit Boje gefunden - Pensionistin starb beim Schwimmen im Wallersee - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51UFdkWnFsSWE1WGpVTjd4NWs4U09BTHRqZVU2Vlc5dVdlanRGTDJoejNZTHhadjJNMlB4ZHJtVzc0dw?oc=5",
     "image": "",
     "date": 1785958860000,
-    "titleSl": "Najden z bojo - upokojenec umrl med kopanjem v jezeru Wallersee"
+    "titleSl": "Najden z bojo - upokojenec umrl med plavanjem v jezeru Wallersee - krone.at"
    },
    {
-    "title": "Früchtl „neuer Zweier“ - Red Bull Salzburg hat neuen Tormann gefunden",
+    "title": "Früchtl „neuer Zweier“ - Red Bull Salzburg hat neuen Tormann gefunden - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nZzJfSFFlRFhOS2dhZkNYbWJEVkRaT21OTHBESDJoVTFudlkxb0daWjFZM1dYMUJkSThlUEV3VFRlQQ?oc=5",
     "image": "",
     "date": 1785958200000,
-    "titleSl": "Früchtl “nova dvojica” - Red Bull Salzburg je našel novega vratarja"
+    "titleSl": "Früchtl “nova dvojica” - Red Bull Salzburg je našel novega vratarja - krone.at"
    }
   ],
   "rainews": [
