@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T15:02:27.823Z",
+ "generatedAt": "2026-08-05T15:04:28.166Z",
  "sources": {
   "siol": [
    {
@@ -41,16 +41,16 @@
   ],
   "24ur": [
    {
+    "title": "Vročinske nevihte ohladile ozračje: v Idriji le 23 stopinj, v Črnomlju 39",
+    "link": "https://www.24ur.com/novice/slovenija/niti-nad-1000-metrov-se-ne-ohladi-na-rogli-tropska-noc.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/6fd75030ab7bf88f7413_63627697.png?v=1504&fop=fp:0.37:0.57",
+    "date": 1785942112000
+   },
+   {
     "title": "V napadu z nožem v središču Londona ranjeni štirje moški",
     "link": "https://www.24ur.com/novice/tujina/v-napadu-z-nozem-v-srediscu-londona-ranjeni-stirje-moski.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/5ab8be8429fc3930a477_63627689.jpg?v=2f83&fop=fp:0.53:0.43",
     "date": 1785940527000
-   },
-   {
-    "title": "Vročinske nevihte ohladile ozračje: v Idriji le 23 stopinj, v Črnomlju 39",
-    "link": "https://www.24ur.com/novice/slovenija/niti-nad-1000-metrov-se-ne-ohladi-na-rogli-tropska-noc.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/6fd75030ab7bf88f7413_63627697.png?v=1504&fop=fp:0.37:0.57",
-    "date": 1785940196000
    },
    {
     "title": "Od govoric na spletu do množičnega prehoda meje: kaj se je zgodilo v Ceuti",
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Celtic boss O'Neill in hospital after surgery",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+    "date": 1785941905000,
+    "titleSl": "Trener Celtica O'Neill po operaciji v bolnišnici"
+   },
+   {
     "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f01/live/2c42f4f0-90d7-11f1-a7ab-8b30adf0800a.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4785/live/81ea8370-901c-11f1-b783-f784376ffc11.jpg",
     "date": 1785939453000,
     "titleSl": "Gary Glitter se pojavi na sodišču zaradi zgodovinskih obtožb o spolnih prestopkih"
-   },
-   {
-    "title": "Police chief considers joining legal action over PC Harper killers' early release",
-    "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg",
-    "date": 1785938733000,
-    "titleSl": "Šef policije razmišlja o pridružitvi pravni tožbi zaradi predčasne izpustitve morilcev PC Harper"
    }
   ],
   "aljazeera": [
@@ -334,8 +334,15 @@
     "title": "Woman arrested after four men stabbed in Covent Garden – latest",
     "link": "https://www.theguardian.com/uk-news/live/2026/aug/05/covent-garden-stabbing-four-men-woman-arrested-metroppolitan-police-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/f906d3076cfb06e0c2c54c8576baea660bbb14fd/207_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b3222e5b696dfd9505adcc7812c619f8",
-    "date": 1785941392000,
+    "date": 1785941454000,
     "titleSl": "Ženska aretirana po štirih moških zabodenih v Covent Gardenu – najnovejše"
+   },
+   {
+    "title": "Middle East crisis live: Israel resumes Lebanon strikes as US-Iran Hormuz stand-off continues",
+    "link": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/ba44fde08ede265f60f8df4ff50ca5a2e6bb0d35/656_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d33c250ba32cc5d5144b9e02bcdb8c34",
+    "date": 1785941413000,
+    "titleSl": "Kriza na Bližnjem vzhodu v živo: Izrael nadaljuje z napadi na Libanon, medtem ko se zastoj med ZDA in Iranom Hormuz nadaljuje"
    },
    {
     "title": "Woman arrested after four men stabbed in London’s Covent Garden",
@@ -350,13 +357,6 @@
     "image": "https://i.guim.co.uk/img/media/1a66ef529cab2f55e01dea56babd4eadef19f002/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=559169ff9f9e414bb5b743ccace10155",
     "date": 1785940867000,
     "titleSl": "Judovski voditelji so zavrnili srečanje s konservativnim kandidatom za svet, zaprtim zaradi antisemitizma – britanska politika v živo"
-   },
-   {
-    "title": "Middle East crisis live: Israel resumes Lebanon strikes as US-Iran Hormuz stand-off continues",
-    "link": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/ba44fde08ede265f60f8df4ff50ca5a2e6bb0d35/656_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d33c250ba32cc5d5144b9e02bcdb8c34",
-    "date": 1785940803000,
-    "titleSl": "Kriza na Bližnjem vzhodu v živo: Izrael nadaljuje z napadi na Libanon, medtem ko se zastoj med ZDA in Iranom Hormuz nadaljuje"
    },
    {
     "title": "Abdul El-Sayed wins contentious Democratic primary for Michigan US Senate seat in boost for progressives – US politics live",
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Zwei Spieler im Anflug - Das ist der Stand bei Kölns Transfer-Plänen",
+    "link": "https://www.bild.de/sport/fussball/1-fc-koeln-zwei-spieler-im-anflug-das-ist-der-stand-bei-koelns-transfer-plaenen-6a72de9c3013d32d67880c29",
+    "image": "https://images.bild.de/6a72de9c3013d32d67880c29/b1679283ec7b8b9cb163730a7f311a46,2ead716?w=1280",
+    "date": 0,
+    "titleSl": "Dva igralca na poti - To je stanje prestopnih načrtov Kölna"
+   },
+   {
+    "title": "Neun Leichtathleten am Start - Eintracht träumt von EM-Gold!",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-hessen-klub-traeumt-von-em-gold-6a71ed25cc46967c04caea22",
+    "image": "https://images.bild.de/6a71ed25cc46967c04caea22/dacdc7f6000b4643b832fe46c19e7a12,55926b06?w=1280",
+    "date": 0,
+    "titleSl": "Devet atletov na startu - Eintracht sanja o zlatu evropskega prvenstva!"
+   },
+   {
     "title": "Wende im Marokko-Poker - Warum Klopp wieder auf Mohya hoffen darf!",
     "link": "https://www.bild.de/sport/fussball/wende-im-marokko-poker-warum-klopp-wieder-auf-mohya-hoffen-darf-6a727ccfcc46967c04caef1a",
     "image": "https://images.bild.de/6a727ccfcc46967c04caef1a/8d762867116ef6776c9c15025594cdf4,b417fc3b?w=1280",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a73238b3013d32d67881207/da68ae52e3829df55e96bc9f92275663,dc605a70?w=1280",
     "date": 0,
     "titleSl": "Minister za promet Bilger o nevarnosti dronov - \"Nismo brez obrambe\""
-   },
-   {
-    "title": "Marijke Amado macht sich verdächtig - Unnötiger Patzer beim „Verräter“-Tribunal",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/marijke-amado-macht-sich-verdaechtig-unnoetiger-patzer-beim-verraeter-tribunal-6a7331cacc46967c04cafa80",
-    "image": "https://images.bild.de/6a7331cacc46967c04cafa80/9a129fc08f40dc9f186de32b5ab8ff65,a91097bd?w=1280",
-    "date": 0,
-    "titleSl": "Marijke Amado postane sumljiva - nepotrebna napaka na sodišču za \"izdajalce\"."
-   },
-   {
-    "title": "VfB-Star spricht über WM-Hype - Undav: Darum hebe ich nicht ab!",
-    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-wm-star-undav-verraet-darum-hebe-ich-nicht-ab-6a7307c5cc46967c04caf5d6",
-    "image": "https://images.bild.de/6a7307c5cc46967c04caf5d6/b60146278fa0a5e22b6b8d40d0fd033d,77735702?w=1280",
-    "date": 0,
-    "titleSl": "Zvezdnik VfB spregovoril o pompu svetovnega prvenstva - Undav: Zato ne odhajam!"
    }
   ],
   "krone": [
@@ -551,6 +551,13 @@
   ],
   "lemonde": [
    {
+    "title": "Daniel Bernard, l’ex-PDG de Carrefour, est mort à 80 ans",
+    "link": "https://www.lemonde.fr/disparitions/article/2026/08/05/daniel-bernard-l-ex-pdg-de-carrefour-est-mort-a-80-ans_6739437_3382.html",
+    "image": "https://img.lemde.fr/2026/08/05/229/0/2048/1024/644/322/60/0/5d7e68d_upload-1-zcsedoxozh7l-000-aph2000120731018.jpg",
+    "date": 1785941703000,
+    "titleSl": "Daniel Bernard, nekdanji izvršni direktor Carrefourja, je umrl v 80"
+   },
+   {
     "title": "EN DIRECT, guerre en Ukraine : après des bombardements russes meurtriers, Zelensky appelle ses alliés à accélérer la livraison de systèmes de défense aérienne ; des évacuations de familles ordonnées à Kramatorsk",
     "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-apres-des-bombardements-russes-meurtriers-zelensky-appelle-ses-allies-a-accelerer-la-livraison-de-systemes-de-defense-aerienne-des-evacuations-de-familles-ordonnees-a-kramatorsk_6737250_3210.html",
     "image": "https://img.lemde.fr/2026/08/05/803/0/5892/2946/644/322/60/0/869e934_ftp-1-3sn7cgy76l79-5777510-01-06.jpg",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/08/04/537/0/6756/3378/644/322/60/0/18c8664_ftp-1-vh2m5nqvkkq5-5772945-01-06.jpg",
     "date": 1785936008000,
     "titleSl": "V ŽIVO, požari: požar v Drômu »še ni popravljen«; vlada napoveduje načrt za podporo kmetom ob podnebnih katastrofah"
-   },
-   {
-    "title": "Affaire Jean Pormanove : les deux streamers condamnés à des peines de prison avec sursis",
-    "link": "https://www.lemonde.fr/pixels/article/2026/08/05/affaire-jean-pormanove-les-deux-streamers-condamnes-a-des-peines-de-prison-avec-sursis_6739425_4408996.html",
-    "image": "https://img.lemde.fr/2026/08/05/8/0/3783/1891/644/322/60/0/c898415_ftp-1-6ayy1p6okm4d-5778127-01-06.jpg",
-    "date": 1785933641000,
-    "titleSl": "Afera Jean Pormanove: streamerja obsojena na pogojno zaporno kazen"
    }
   ],
   "elpais": [
@@ -607,6 +607,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/Q3U4Y4RFJVAFFLAJLR57TQMF5A.jpg?auth=477a5f87d1430bb974dee6b3454cace91f48639df98eb888b8ec6fc96e3b8973",
     "date": 1785940117000,
     "titleSl": "Londonska policija je aretirala žensko, obtoženo, da je zabodla štiri ljudi"
+   },
+   {
+    "title": "Asesinado a tiros en vivo el ‘influencer’ César Gastélum durante una transmisión en Sinaloa",
+    "link": "https://elpais.com/mexico/2026-08-05/asesinan-al-influencer-cesar-gastelum-durante-una-transmision-en-vivo-en-sinaloa.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SEZIURBSAFBW7JLJBZFZJEWJSY.jpg?auth=80ae5fc56e579c2c486035d63917a078043b8d04e1a79f8b762593511d3ed078",
+    "date": 1785940068000,
+    "titleSl": "'Influencer' César Gastélum je bil ustreljen v živo med oddajo v Sinaloi"
    },
    {
     "title": "El progresista Abdul El-Sayed gana las primarias demócratas en Míchigan, una batalla clave para el futuro del partido",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/LURYCRGH45BEBFZIBKQQZHMIGM.jpg?auth=185be2fe2bdb05c88274420c74ee5680ee964ac1e4dfee8664575a71d017e5ef",
     "date": 1785938400000,
     "titleSl": "Od Gaze do Madagaskarja: dojenje v času vojne, lakote in rezov"
-   },
-   {
-    "title": "El Festival de Salzburgo se encomienda a san Francisco de Asís",
-    "link": "https://elpais.com/cultura/2026-08-05/el-festival-de-salzburgo-se-encomienda-a-san-francisco-de-asis.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/SG3JI5U6PNCCHM5AE7MFNVKRJ4.jpg?auth=af00b7be550187604ac5e5d2d0f9f6c12d2672ada8b7303945899b05da1b6c64",
-    "date": 1785936584000,
-    "titleSl": "Salzburški festival je zaupan svetemu Frančišku Asiškemu"
    }
   ]
  },
