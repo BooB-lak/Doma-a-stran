@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T11:01:09.425Z",
+ "generatedAt": "2026-08-05T11:02:24.553Z",
  "sources": {
   "siol": [
    {
@@ -53,12 +53,6 @@
     "date": 1785926181000
    },
    {
-    "title": "Ob ukrajinskem letalu dron z detonatorjem, letališče zaprli",
-    "link": "https://www.24ur.com/novice/tujina/sumljiv-predmet-na-vzletno-pristajalni-stezi-letalisce-zaprli.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/4b6b0c2b21ebd2ce0865_63627528.jpg?v=d73d&fop=fp:0.43:0.49",
-    "date": 1785925379000
-   },
-   {
     "title": "Vroča in zaljubljena Heidi Klum z novo objavo znova buri domišljijo",
     "link": "https://www.24ur.com/popin/tuja-scena/vroca-in-zaljubljena-heidi-klum-z-novo-objavo-znova-buri-domisljijo.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/7fd5216f13e27dcd0e29_63627027.jpg?v=528b&fop=fp:0.50:0.35",
@@ -75,6 +69,12 @@
     "link": "https://www.24ur.com/novice/tujina/drogirani-pilot-na-letalu-tihotapil-70000-tablet-ekstazija.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/ca1f834fa1242370ce87_63627519.jpg?v=5f54&fop=fp:0.48:0.51",
     "date": 1785924347000
+   },
+   {
+    "title": "Na Kubi vse več ameriških vohunov: se obeta vojaška operacija?",
+    "link": "https://www.24ur.com/novice/tujina/na-kubi-vse-vec-ameriskih-vohunov-se-obeta-vojaska-operacija.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/0c38a333d4e1c5b90d64_63627493.jpg?v=8886&fop=fp:0.49:0.40",
+    "date": 1785922378000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260804__C3Y9276__v2__MidRes__TopshotFblChiCpvColocolo-1785926958.jpg?resize=1200%2C630",
-    "date": 1785927034000,
-    "titleSl": "Vozinha nadaljuje s svetovnega prvenstva in pravi, da je \"Colo-Colo najboljši trenutek\""
-   },
-   {
     "title": "Israeli raid deepens fears across West Bank refugee camps",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785925808.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785924328.jpg?resize=1200%2C675",
     "date": 1785924424000,
     "titleSl": "Nogometni zvezdnik Mohamed Salah je poslal prvo sporočilo navijačem Trabzonsporja"
+   },
+   {
+    "title": "South Africa’s le Clos says home destroyed during Commonwealth record run",
+    "link": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26217298506045-1785921172.jpg?resize=1920%2C1440",
+    "date": 1785923613000,
+    "titleSl": "Južnoafriški le Clos pravi, da je bil dom uničen med rekordom Commonwealtha"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Wellbrock dominiert - Nächstes EM-GOLD für Deutschland!",
+    "link": "https://www.bild.de/sport/florian-wellbrock-holt-das-naechste-em-gold-fuer-deutschland-6a7314d4203ba6592b088fa9",
+    "image": "https://images.bild.de/6a7314d4203ba6592b088fa9/3e5fa32288593322e3fbfe90259f76b8,a3148e85?w=1280",
+    "date": 0,
+    "titleSl": "Wellbrock dominira - naslednje EM GOLD za Nemčijo!"
+   },
+   {
     "title": "Alles live bei BILD - Deutsche Extremschwimmerin startet Fluss-Challenge",
     "link": "https://www.bild.de/sport/mehr-sport/nathalie-pohl-220-kilometer-von-frankfurt-nach-koeln-6a71bc1ddf3bf7ee07797763",
     "image": "https://images.bild.de/6a71bc1ddf3bf7ee07797763/df8abefaa30652cba1163a9958ea12e4,3c121aa3?w=1280",
@@ -452,16 +459,30 @@
     "image": "https://images.bild.de/6a72e19322542e2b26f0cc82/f3ce3ee711073408d50c14fecd8db5e5,c8939c44?w=1280",
     "date": 0,
     "titleSl": "V trening kampu - Bundesliga trener slavi kot DJ"
-   },
-   {
-    "title": "Ukraine fehlen Abwehr-Raketen - „Putin kann immer mehr zerstören“",
-    "link": "https://www.bild.de/politik/ukraine-fehlen-abwehr-raketen-putin-kann-immer-mehr-zerstoeren-6a730430cc46967c04caf56f",
-    "image": "https://images.bild.de/6a730430cc46967c04caf56f/91440bcf5db0d351119982852e7a6285,3af73381?w=1280",
-    "date": 0,
-    "titleSl": "Ukrajina nima obrambnih raket - \"Putin lahko uniči vedno več\""
    }
   ],
   "krone": [
+   {
+    "title": "Fokus auf Wohnen - Hitze: Ministerrat plant Gesetzespaket – im Herbst",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aRW9JVm5heTR2UlNjY2NLWFVkd3BDRV91Q0txRFl4dTYtVTNpNzNHeXN0SUxRN2NQcXhJekVhYWFuZw?oc=5",
+    "image": "",
+    "date": 1785927691000,
+    "titleSl": "Poudarek na stanovanjih - toplota: Svet ministrov načrtuje zakonodajni paket - jeseni"
+   },
+   {
+    "title": "Hund vermisst - Tränen um Pudeldame „Mika“: „Gebt sie zurück!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tTnhQXzFuS3N0UVVZcGl3SG9qVHFTdjVabWMyWUU3cGpyUUVWbkd0ZHZBbzA1LXRUNHRrS09nX1huUQ?oc=5",
+    "image": "",
+    "date": 1785927600000,
+    "titleSl": "Pogrešan pes – solze za pudljico “Miko”: “Vrni jo!”"
+   },
+   {
+    "title": "Wegen Niedrigwasser - Güterschiffe können nicht voll beladen werden",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tSEFzbHZ4cU9aTFh0UThsUktudEFpZHZqYlJvTElxVnhVNXE4cF8wTXVvakdhMlRNTUs5UldLMmwxUQ?oc=5",
+    "image": "",
+    "date": 1785927600000,
+    "titleSl": "Zaradi nizke vode - tovornih ladij ni mogoče polno naložiti"
+   },
    {
     "title": "Sänger gibt Hinweis - Ist Dakota Johnson nach Trennung frisch verliebt?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QX2U2a211eFZRa0otRjREb19Ray10clh5blZjRnQ3eHVJdVdvQ0FWLVlReUY3a0ozUFBlejZjZlBxUQ?oc=5",
@@ -482,27 +503,6 @@
     "image": "",
     "date": 1785927360000,
     "titleSl": "Amaterski nogometaši v fokusu - Glasujte zdaj - iščemo gol leta!"
-   },
-   {
-    "title": "Im Mölltal - Feuerwehr kämpft gegen einen Waldbrand",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE82YW9YYnlXTUd0OGFNU1dXZElfczVuenBPd2J5ZHp2OEdpLXZzbTVGMFQ0YUJ5YklNYURZb0NmaVNpdw?oc=5",
-    "image": "",
-    "date": 1785927360000,
-    "titleSl": "V Mölltalu - gasilska brigada se bori z gozdnim požarom"
-   },
-   {
-    "title": "Verdächtiger in Haft - Zwei Mädchen (16) in Wiener Wohnung vergewaltigt?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1Unh1bjB2NVZvelAwdDdnQ01HRjZUbUlHWnZoMFVCYVVYeWhsRFdwMmRIalFCNy0wdTVKXzI5NGJjUQ?oc=5",
-    "image": "",
-    "date": 1785927240000,
-    "titleSl": "Osumljenec v priporu - Dve dekleti (16) posilili v stanovanju na Dunaju?"
-   },
-   {
-    "title": "Wollte Tat streamen - Terror-Teenie (14) weiter in Untersuchungshaft",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnWXhEN0c5alltdGdzWEQ2YkpreVBxNkstUUJQdjVJQllCYnJUb2dDa3BhV2oxb3ZKeU9wUVdxSldtdw?oc=5",
-    "image": "",
-    "date": 1785927120000,
-    "titleSl": "Želel pretakati zločin - teroristični najstnik (14) še vedno v priporu"
    }
   ],
   "rainews": [
@@ -595,13 +595,6 @@
   ],
   "elpais": [
    {
-    "title": "La actividad de la zona euro se anota el mejor registro desde el inicio de la guerra en Irán",
-    "link": "https://cincodias.elpais.com/economia/2026-08-05/la-actividad-de-la-zona-euro-se-anota-el-mejor-registro-desde-el-inicio-de-la-guerra-en-iran.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/IGO65WL4G5L7LGKFVWNLQXZNJI.jpg?auth=f5b3811add8c477b73b43267787fe7f9b1d88e85c234a74e1bf65ecadaf68c95",
-    "date": 1785927237000,
-    "titleSl": "Aktivnost v območju evra beleži najboljše rezultate od začetka vojne v Iranu"
-   },
-   {
     "title": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
     "link": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html",
     "image": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
@@ -635,6 +628,13 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260805/1201971_101204_video_1800.mp4",
     "date": 1785925618000,
     "titleSl": "Improvizirani popisi prebivalstva v soseski El Príncipe po prihodu na stotine mladoletnikov: \"To pokvari vse parametre\""
+   },
+   {
+    "title": "El Govern activa una unidad móvil para asegurar las comunicaciones durante emergencias",
+    "link": "https://elpais.com/espana/catalunya/2026-08-05/el-govern-activa-una-unidad-movil-para-asegurar-las-comunicaciones-durante-emergencias.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/6BGPSXPPCNME5BXYOM4TAVT3JE.jpg?auth=f814e3ee1d05cdde027ad4b3b26c62cc3b4e0eb9cf4d89aaab41e889f1baa261",
+    "date": 1785925511000,
+    "titleSl": "Vlada aktivira mobilno enoto za zagotavljanje komunikacij v izrednih razmerah"
    }
   ]
  },
