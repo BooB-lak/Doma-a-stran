@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-05T15:54:23.612Z",
+ "generatedAt": "2026-08-05T15:56:33.517Z",
  "sources": {
   "siol": [
+   {
+    "title": "Onley prvič zmagal v dresu Ineosa",
+    "link": "https://siol.net/sportal/kolesarstvo/onley-prvic-zmagal-v-dresu-ineosa-698296",
+    "image": "https://siol.net/media/img/73/71/11418f1dc0575a9b6b57.jpeg",
+    "date": 1785945240000
+   },
    {
     "title": "Poletni posnetki iz osrčja gozdov razkrivajo ravnanje živali v vročini #video",
     "link": "https://siol.net/novice/slovenija/poletni-posnetki-iz-osrcja-gozdov-razkrivajo-ravnanje-zivali-v-vrocini-video-698279",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/zimski-sporti/po-vec-kot-30-letih-konec-velike-zgodbe-gorenja-ne-bo-vec-na-celadah-698290",
     "image": "https://siol.net/media/img/10/5d/0b8172a226a970a74b34.jpeg",
     "date": 1785941280000
-   },
-   {
-    "title": "Neznani leteči predmet trčil v tovorno letalo, našli dron z eksplozivom",
-    "link": "https://siol.net/novice/svet/neznani-leteci-predmet-trcil-v-tovorno-letalo-nasli-dron-z-eksplozivom-698289",
-    "image": "https://siol.net/media/img/be/1d/1264a4dbe0437a14d247.jpeg",
-    "date": 1785939600000
    }
   ],
   "24ur": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
+    "link": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
+    "image": "",
+    "date": 1785945206000,
+    "titleSl": "Izrael je napadel Libanon, potem ko je Hezbolah obtožil kršitve prekinitve ognja"
+   },
+   {
     "title": "‘Ted Lasso’ Draws Fans to Richmond, a Picturesque London Suburb",
     "link": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-richmond-locations.html",
     "image": "https://static01.nyt.com/images/2026/08/06/multimedia/05cul-ted-lasso-hflc/05cul-ted-lasso-hflc-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04pol-takeaways-aes-mtcl/04pol-takeaways-aes-mtcl-mediumSquareAt3X.jpg",
     "date": 1785940891000,
     "titleSl": "Izsledki iz primarnih volitev v Michiganu"
-   },
-   {
-    "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-    "link": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
-    "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24finland-AI-01-fwqv/24finland-AI-01-fwqv-mediumSquareAt3X.jpg",
-    "date": 1785940187000,
-    "titleSl": "Finska poskuša zaščititi otroke pred Deepfake, z mislijo na Rusijo"
    }
   ],
   "bbc": [
@@ -331,11 +331,25 @@
   ],
   "guardian": [
    {
+    "title": "Family pay tribute to girl, nine, who died on camping trip in Scotland as man is charged",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/05/man-charged-girl-death-arbroath-scotland",
+    "image": "https://i.guim.co.uk/img/media/458200baeb8d74524444239c04615cd26aad2782/3_179_1639_1311/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=50638de930555c28823421b0b31536dd",
+    "date": 1785945046000,
+    "titleSl": "Družina se pokloni devetletni deklici, ki je umrla na kampiranju na Škotskem, ko je moški obtožen"
+   },
+   {
     "title": "Woman arrested after four men stabbed in Covent Garden – latest",
     "link": "https://www.theguardian.com/uk-news/live/2026/aug/05/covent-garden-stabbing-four-men-woman-arrested-metroppolitan-police-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/4600a8693e3409cf08118f3175e2a1a17c58e6dd/518_434_1563_1250/master/1563.jpg?width=140&quality=85&auto=format&fit=max&s=a12bb9ea859720fa44d27f69505d1a71",
-    "date": 1785944300000,
+    "date": 1785944640000,
     "titleSl": "Ženska aretirana po štirih moških zabodenih v Covent Gardenu – najnovejše"
+   },
+   {
+    "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/1729d58533679eb27d69da680caa4d24c4a5eae1/364_0_2148_1719/master/2148.jpg?width=140&quality=85&auto=format&fit=max&s=c827caf244ef351c70857be5cc314e70",
+    "date": 1785944456000,
+    "titleSl": "Nemčija preiskuje brezpilotno letalo z \"eksplozivno napravo\" blizu ukrajinskega letala na prometnem tovornem letališču – Evropa v živo"
    },
    {
     "title": "Progressive climate organizer William Lawrence wins Michigan Democratic House primary",
@@ -352,28 +366,21 @@
     "titleSl": "Zmaga Abdula El-Sayeda dokazuje, da so spremembe za demokrate možne. Njegova naslednja borba lahko določi njuno prihodnost"
    },
    {
-    "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/1729d58533679eb27d69da680caa4d24c4a5eae1/364_0_2148_1719/master/2148.jpg?width=140&quality=85&auto=format&fit=max&s=c827caf244ef351c70857be5cc314e70",
-    "date": 1785943599000,
-    "titleSl": "Nemčija preiskuje brezpilotno letalo z \"eksplozivno napravo\" blizu ukrajinskega letala na prometnem tovornem letališču – Evropa v živo"
-   },
-   {
     "title": "Jewish leaders turn down meeting with Conservative council candidate jailed for antisemitism – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/1a66ef529cab2f55e01dea56babd4eadef19f002/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=559169ff9f9e414bb5b743ccace10155",
     "date": 1785943528000,
     "titleSl": "Judovski voditelji so zavrnili srečanje s konservativnim kandidatom za svet, zaprtim zaradi antisemitizma – britanska politika v živo"
-   },
-   {
-    "title": "Pakistan precinct suspends all 78 officers and staff over alleged rape at police station",
-    "link": "https://www.theguardian.com/world/2026/aug/05/pakistan-precinct-suspends-all-officers-and-staff",
-    "image": "https://i.guim.co.uk/img/media/025a5979111bfc56eb102b66b036ed6cf50939c1/448_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=d69bd76089b1c03c4e2d3a0841cb61a4",
-    "date": 1785943386000,
-    "titleSl": "Pakistanska postaja je suspendirala vseh 78 policistov in osebja zaradi domnevnega posilstva na policijski postaji"
    }
   ],
   "spiegel": [
+   {
+    "title": "»Letzte Verteidigungswelle«: Gericht stuft Gruppe als Terrorvereinigung ein",
+    "link": "https://www.spiegel.de/panorama/justiz/letzte-verteidigungswelle-gericht-stuft-gruppe-als-terrorvereinigung-ein-a-30985f05-7fc9-4259-892b-98377909e6d0#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/f155b75a-bf35-45a4-938d-a058f7d67d41_w520_r2.08_fpx42.68_fpy50.jpg",
+    "date": 1785945000000,
+    "titleSl": "»Zadnji val obrambe«: Sodišče je skupino opredelilo kot teroristično organizacijo"
+   },
    {
     "title": "Ukraine: Olha Stefanischyna, Ex-Botschafterin in den USA, in Korruptionsfall angeklagt",
     "link": "https://www.spiegel.de/ausland/ukraine-olha-stefanischyna-ex-botschafterin-in-den-usa-in-korruptionsfall-angeklagt-a-e22fbfac-a0f0-4709-b0c8-36b16078cb42#ref=rss",
@@ -408,16 +415,30 @@
     "image": "https://cdn.prod.www.spiegel.de/images/bd4f496d-5e25-4939-8660-65716729a4a4_w520_r2.08_fpx50.83_fpy54.99.jpg",
     "date": 1785938280000,
     "titleSl": "Dinozavri: Zato ni bilo zelo majhnih vrst"
-   },
-   {
-    "title": "Thomas Bareiß: CDU-Abgeordneter kündigt nach Autounfall Auszeit an",
-    "link": "https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-kuendigt-nach-autounfall-auszeit-an-a-c60760bd-9eb4-4271-8a9b-af7193888672#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/3f594893-6d99-4f5e-b80c-0b158655b535_w520_r2.08_fpx46_fpy29.jpg",
-    "date": 1785937080000,
-    "titleSl": "Thomas Bareiß: Poslanec CDU napoveduje dopust po prometni nesreči"
    }
   ],
   "bild": [
+   {
+    "title": "BILD-Interview mit Sachsen-Anhalt-Regent - Wollen Sie den Kanzler stürzen, Herr Schulze?",
+    "link": "https://www.bild.de/politik/inland/sven-schulze-bleibt-bei-seinem-nein-zur-abschaffung-der-rente-mit-63-6a72fc46203ba6592b088cfb",
+    "image": "https://images.bild.de/6a72fc46203ba6592b088cfb/efe38d3ad5c13056092306aecb65f6d4,8be19cfb?w=1280",
+    "date": 0,
+    "titleSl": "Intervju BILD z regentom Saške-Anhalt - Ali želite strmoglaviti kanclerja, gospod Schulze?"
+   },
+   {
+    "title": "Touristen-Hotspot in London - Messerattacke! Frau sticht auf vier Männer ein",
+    "link": "https://www.bild.de/news/ausland/messerattacke-in-touristengegend-frau-sticht-auf-vier-maenner-ein-6a733ed1203ba6592b0893e5",
+    "image": "https://images.bild.de/6a733ed1203ba6592b0893e5/07cab02aee14c8f95f7b096df32585c4,c23d2b34?w=1280",
+    "date": 0,
+    "titleSl": "Turistična točka v Londonu - napad z nožem! Ženska zabode štiri moške"
+   },
+   {
+    "title": "Vorschau für den 5. August 2026 - So geht es heute bei GZSZ weiter",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-heute-im-tv-was-steckt-hinter-yvonnes-wunsch-6a6a153e95262dd162784cf7",
+    "image": "https://images.bild.de/6a6a153e95262dd162784cf7/00c2b86ace765690ef80d2005f90a73b,1c32933c?w=1280",
+    "date": 0,
+    "titleSl": "Predpremiera za 5. avgust 2026 - Takole se danes dogaja na GZSZ"
+   },
    {
     "title": "Bombendrohne in Leipzig - „Das hat auch politische Sprengkraft“",
     "link": "https://www.bild.de/politik/bombendrohne-in-leipzig-das-hat-auch-politische-sprengkraft-6a733fdd3013d32d678814a5",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6a732fa7203ba6592b089239/597a4db18b55fcfdc5d42b2f76ac1f09,2303ea58?w=1280",
     "date": 0,
     "titleSl": "Zaradi prekrška pred dvema letoma - drugoligaš prepovedan od nikoder!"
-   },
-   {
-    "title": "Druck auf Fifa-Präsidenten nimmt zu - Ex-Weltfußballer fordert Infantino zum Rücktritt auf",
-    "link": "https://www.bild.de/sport/fussball/luis-figo-fordert-infantinos-ruecktritt-er-sollte-gehen-6a734355cc46967c04cafc18",
-    "image": "https://images.bild.de/6a734355cc46967c04cafc18/21a6f1e124e9787733f0e6ca8a448b2b,b54bbc58?w=1280",
-    "date": 0,
-    "titleSl": "Pritisk na predsednika Fife narašča - nekdanji nogometaš sveta Infantina poziva k odstopu"
-   },
-   {
-    "title": "BILD-Reporter Enrico Ahlig erinnert sich - Meine 12 Jahre Zerstörung mit Brock Lesnar",
-    "link": "https://www.bild.de/sport/mehr-sport/wwe-meine-12-jahre-zerstoerung-mit-brock-lesnar-bild-reporter-enrico-ahlig-blickt-zurueck-6a7337833013d32d678813ce",
-    "image": "https://images.bild.de/6a7337833013d32d678813ce/4fb5e21faba51d8761ecb4a21089354a,f8fc7db0?w=1280",
-    "date": 0,
-    "titleSl": "Novinar BILD Enrico Ahlig se spominja - mojih 12 let uničevanja z Brockom Lesnarjem"
-   },
-   {
-    "title": "Kommentar - Die unterschätzte Gefahr an unseren Flughäfen",
-    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-die-unterschaetzte-gefahr-an-unseren-flughaefen-6a73535f3013d32d67881697",
-    "image": "https://images.bild.de/6a73535f3013d32d67881697/6ad69f82fe755270de344412947cf5cf,1d4e0362?w=1280",
-    "date": 0,
-    "titleSl": "Komentar - Podcenjena nevarnost na naših letališčih"
    }
   ],
   "krone": [
