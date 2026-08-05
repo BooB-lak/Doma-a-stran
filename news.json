@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T07:38:27.480Z",
+ "generatedAt": "2026-08-05T07:40:40.544Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Zaradi vročine brezplačen vstop na Mariborski otok",
+    "link": "https://www.24ur.com/novice/slovenija/zaradi-vrocine-brezplacen-vstop-na-mariborski-otok.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/ddf718795f56e2b324df_63627407.jpg?v=387a&fop=fp:0.48:0.41",
+    "date": 1785914849000
+   },
+   {
     "title": "Razkrili identiteto moških na gliserju, s katerega so metali denar",
     "link": "https://www.24ur.com/novice/tujina/razkrili-identiteto-moskih-na-gliserju-s-katerega-so-metali-denar.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/fe577417b21203050aca_63626188.jpg?v=4384&fop=fp:0.48:0.28",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/pretresljivi-prizori-drava-in-donava-nista-bili-tako-presuseni-200-let.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/4693859eaaccb3b3d6ec_63627371.jpg?v=8f07&fop=fp:0.49:0.43",
     "date": 1785912888000
-   },
-   {
-    "title": "Novi nočni napadi na Kijev: umrlo najmanj 15 ljudi",
-    "link": "https://www.24ur.com/novice/tujina/novi-nocni-napadi-na-kijev-umrlo-najmanj-15-ljudi.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/13df4a794d1cdaee19e9_63627354.jpg?v=d21b&fop=fp:0.44:0.63",
-    "date": 1785910387000
    }
   ],
   "rtvslo": [
@@ -334,8 +334,15 @@
     "title": "Australia news live: NSW police charge woman with 62 counts over alleged threatening letters to politicians, media and place of worship",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/1ceb0a72c9379ac44245748d403ceaf88c4d95ac/408_0_2040_1632/master/2040.jpg?width=140&quality=85&auto=format&fit=max&s=8235ca56a6a0eb496cb36fb411840b50",
-    "date": 1785914033000,
+    "date": 1785915287000,
     "titleSl": "Avstralske novice v živo: Policija NSW obtoži žensko v 62 točkah zaradi domnevnih grozilnih pisem politikom, medijem in bogoslužju"
+   },
+   {
+    "title": "Daniel Andrews defends actions as opposition labels Labor ‘a gangster government’ after Ibac report released",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/f9f2e6c8c37ce314e3676fbdc880e9ee4a6cc102/356_0_5203_4163/master/5203.jpg?width=140&quality=85&auto=format&fit=max&s=901f596f178241897d5f251c98aae802",
+    "date": 1785914772000,
+    "titleSl": "Daniel Andrews brani dejanja, saj opozicija po objavi poročila Ibac laburiste označuje za \"gangstersko vlado\"."
    },
    {
     "title": "NSW Liberal leader says ‘leaking is never good’ but defers call on Tudehope’s fate until after Icac",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/43b85b2991393977e88efd2dfa23f0417e7d16f4/205_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=45a635b7076c6cada3e014a4bedf56d9",
     "date": 1785909611000,
     "titleSl": "Desni zavoj zasveti zeleno: Ali Telegraph spreminja svojo melodijo glede podnebja?"
-   },
-   {
-    "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-    "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-    "image": "https://i.guim.co.uk/img/media/96b74b0a78e9276a377293cdc330593ca8185443/174_0_1260_1008/master/1260.jpg?width=140&quality=85&auto=format&fit=max&s=d140db258da2f7f0c072f1c767e3ff20",
-    "date": 1785909294000,
-    "titleSl": "Sredin brifing: ​Kako so napačne informacije in ​trda politika priseljevanja ​spremenile Ceuto ​v ​najnovejše ​vremišče v Evropi"
    }
   ],
   "spiegel": [
@@ -420,7 +420,7 @@
   "bild": [
    {
     "title": "Details zur Sperrung Flughafen Leipzig - Drohne trug ein Päckchen mit Zünder",
-    "link": "https://www.bild.de/news/neue-details-nach-vorfall-in-der-nacht-drohne-mit-zuender-am-flughafen-leipzig-entdeckt-6a72de2d22542e2b26f0cc4c",
+    "link": "https://www.bild.de/regional/leipzig/neue-details-zur-sperrung-am-flughafen-leipzig-drohne-trug-ein-paeckchen-mit-zuender-6a72de2d22542e2b26f0cc4c",
     "image": "https://images.bild.de/6a72de2d22542e2b26f0cc4c/58503b2bab275ea03deecdd26651bc87,96cea73b?w=1280",
     "date": 0,
     "titleSl": "Podrobnosti o zaprtju letališča Leipzig - dron je nosil paket z detonatorjem"
@@ -507,6 +507,20 @@
   ],
   "rainews": [
    {
+    "title": "Con la Panda verso la Mongolia, il viaggio di Mirko e Alessandro",
+    "link": "https://www.rainews.it/video/2026/08/il-viaggio-di-alessandro-e-mirko-in-panda-verso-la-mongolia-63d6c1a6-665d-428d-b0ab-5cf6c40952e7.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/05/1785915083748_videoframe.png",
+    "date": 1785915480000,
+    "titleSl": "S Pando proti Mongoliji, potovanje Mirka in Alessandra"
+   },
+   {
+    "title": "Vince un milione di euro ma getta il biglietto: ritrovato tra i rifiuti nel Barese",
+    "link": "https://www.rainews.it/articoli/2026/08/vince-un-milione-di-euro-ma-getta-il-biglietto-ritrovato-tra-i-rifiuti-nel-barese-c90b3e37-f6de-40f5-acd3-65a81c346efb.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/04/1785835148580_Ritrovato_tra_i_rifiuti_il_biglietto_milionario_della_lotteria_perso.jpg",
+    "date": 1785915000000,
+    "titleSl": "Zadene milijon evrov, a listek zavrže: našli so ga med odpadki na območju Barija"
+   },
+   {
     "title": "Corea del Nord schiera unità missilistica in Russia. Missili russi su Kiev, 18 morti",
     "link": "https://www.rainews.it/maratona/2026/08/ucraina-guerra-maratona-missili-russi-su-kiev-morti-e-feriti-droni-wildberries-mosca-contro-italia-russofobia-e-neofascismo-bdfc33c8-2e00-4289-98ac-1914472b0ae0.html",
     "image": "https://www.rainews.it/dl/img/2026/08/05/1785901009226_.jpg",
@@ -533,20 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/05/1785885158170_CVZ.jpg",
     "date": 1785908460000,
     "titleSl": "Hormuz, Iran se pogaja z Omanom. CNN: \"Ameriške zaloge raket se zmanjšujejo, uporabljenih 80 % Thaadov\""
-   },
-   {
-    "title": "L&#x27;antico vino di cereali: gli archeologi scoprono la ricetta cinese di duemila anni fa",
-    "link": "https://www.rainews.it/video/2026/08/scoperto-nel-nord-ovest-della-cina-un-vino-di-cereali-risalente-a-2300-anni-fa-38a2b190-c522-4fb1-96dc-f23c92ad0ce7.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/05/1785907490720_vlcsnaphms.png",
-    "date": 1785907380000,
-    "titleSl": "Starodavno žitno vino: arheologi odkrili kitajski recept izpred dva tisoč let"
-   },
-   {
-    "title": "Chiara Pellacani entra nella leggenda: quarto oro europeo e dominio assoluto dal trampolino",
-    "link": "https://www.rainews.it/articoli/2026/08/chiara-pellacani-entra-nella-leggenda-quarto-oro-europeo-e-dominio-assoluto-dal-trampolino-fb9c8512-23d0-49ec-a69d-0990f04408ab.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/05/1785907719954_CYCA.jpg",
-    "date": 1785907080000,
-    "titleSl": "Chiara Pellacani postane legenda: četrto evropsko zlato in absolutna dominacija z odskočne deske"
    }
   ],
   "lemonde": [
