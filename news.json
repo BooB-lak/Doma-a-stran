@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T08:56:24.931Z",
+ "generatedAt": "2026-08-05T08:58:25.622Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Salahu v Turčiji vrtoglava plača in odstotek od prodanih dresov",
+    "link": "https://www.24ur.com/sport/nogomet/salahu-v-turciji-vrtoglava-placa-in-odstotek-od-prodanih-dresov.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/f0a060c2eb8776176803_63612550.jpg?v=d1af&fop=fp:0.45:0.35",
+    "date": 1785919057000
+   },
+   {
     "title": "Za Tea zbrali milijon, po zavrnitvi ZZZS potrebujejo še 1,5 milijona",
     "link": "https://www.24ur.com/novice/slovenija/za-tea-zbrali-milijon-po-zavrnitvi-zzzs-potrebujejo-se-25-milijona-evrov.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/451e9bdae5ef3182c266_63627444.jpg?v=7b73&fop=fp:0.50:0.35",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/diddyjev-izhod-na-prostost-prestavljen-v-zaporu-se-je-zapletel-v-pretep.html",
     "image": "https://images.24ur.com/media/images/213xX/Feb2025/ab10ec8289820a60219f_63361043.jpg?v=f66f&fop=fp:0.49:0.47",
     "date": 1785917063000
-   },
-   {
-    "title": "Moški na gliserju, polnem denarja, stari znanci policije",
-    "link": "https://www.24ur.com/novice/tujina/razkrili-identiteto-moskih-na-gliserju-s-katerega-so-metali-denar.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/fe577417b21203050aca_63626188.jpg?v=4384&fop=fp:0.48:0.28",
-    "date": 1785913907000
    }
   ],
   "rtvslo": [
@@ -243,6 +243,20 @@
   ],
   "bbc": [
    {
+    "title": "Peer urges Tories to block candidate jailed for antisemitic abuse against her",
+    "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc6/live/fed303c0-9063-11f1-a7ab-8b30adf0800a.jpg",
+    "date": 1785920215000,
+    "titleSl": "Peer poziva torijce, naj blokirajo kandidata, ki je zaprt zaradi antisemitskih zlorab proti njej"
+   },
+   {
+    "title": "Temperatures to drop briefly ahead of potential new UK heatwave",
+    "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eaa/live/351cb770-9094-11f1-b2ab-0dd01740f9f6.jpg",
+    "date": 1785920174000,
+    "titleSl": "Temperature se bodo za kratek čas znižale pred morebitnim novim vročinskim valom v Združenem kraljestvu"
+   },
+   {
     "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0786/live/81ac7650-909b-11f1-b2ab-0dd01740f9f6.jpg",
@@ -264,25 +278,11 @@
     "titleSl": "Afganistanski boksar se pojavi na sodišču v zvezi s smrtjo Škotske ženske"
    },
    {
-    "title": "Peer urges Tories to block candidate jailed for antisemitic abuse against her",
-    "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc6/live/fed303c0-9063-11f1-a7ab-8b30adf0800a.jpg",
-    "date": 1785918020000,
-    "titleSl": "Peer poziva torijce, naj blokirajo kandidata, ki je zaprt zaradi antisemitskih zlorab proti njej"
-   },
-   {
     "title": "Antisemitic incident reports rise by a fifth in first half of 2026",
     "link": "https://www.bbc.co.uk/news/articles/cd6979vqq46o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/33a16d40-9040-11f1-a691-e5bd21941ac1.jpg",
     "date": 1785916548000,
     "titleSl": "Število poročil o antisemitskih incidentih se je v prvi polovici leta 2026 povečalo za petino"
-   },
-   {
-    "title": "Man charged over death of nine-year-old girl on industrial estate",
-    "link": "https://www.bbc.co.uk/news/articles/cyvlgyg4l5do?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb90/live/5ff3f7a0-909f-11f1-8198-bd28f2b2255a.jpg",
-    "date": 1785915514000,
-    "titleSl": "Moški obtožen smrti devetletne deklice na industrijskem območju"
    }
   ],
   "aljazeera": [
@@ -377,7 +377,7 @@
    {
     "title": "Donald Trump: Warum die US-Stahl-Zölle Deutschland besonders hart treffen",
     "link": "https://www.spiegel.de/wirtschaft/donald-trump-warum-die-us-stahl-zoelle-deutschland-besonders-hart-treffen-a-ec147afe-55ac-4238-8e02-7e16342a1d01#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/a10bb29a-1813-47a5-beef-e21930b9fe86_w520_r2.08_fpx48_fpy57.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/a10bb29a-1813-47a5-beef-e21930b9fe86_w520_r2.08_fpx41_fpy53.jpg",
     "date": 1785917760000,
     "titleSl": "Donald Trump: Zakaj ameriške carine na jeklo še posebej močno prizadenejo Nemčijo"
    },
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Nach Missbrauchsvorwürfen - Jared Leto verliert Filmrolle",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/nach-missbrauchsvorwuerfen-jared-leto-verliert-filmrolle-6a72db0d22542e2b26f0cc21",
+    "image": "https://images.bild.de/6a72db0d22542e2b26f0cc21/cdec611f8faabc762a18ea6e707fbd05,ba556b28?w=1280",
+    "date": 0,
+    "titleSl": "Po obtožbah o zlorabi - Jared Leto izgubi filmsko vlogo"
+   },
+   {
     "title": "Ziehung am 4. August 2026 - Haben Sie den Eurojackpot geknackt?",
     "link": "https://www.bild.de/news/inland/eurojackpot-am-dienstag-4-8-2026-die-gewinnzahlen-und-quoten-6a69a98ba17ee9f1dfd8283a",
     "image": "https://images.bild.de/6a69a98ba17ee9f1dfd8283a/758b5b63c4a0d89c031b110d47b0ef11,46ef5f58?w=1280",
@@ -452,16 +459,16 @@
     "image": "https://images.bild.de/6a71b20661ec46f846a26af4/7f12e1e69abd8c030d056a95832a3dfa-landscape,c6403055?w=1280",
     "date": 0,
     "titleSl": "Smrtonosna bakterijska nevarnost - vse, kar morate vedeti o legioneli"
-   },
-   {
-    "title": "„Wenn ich mal ein schlechtes Training hatte ...“ - Olympia-Athlet gesteht Pornosucht ein!",
-    "link": "https://www.bild.de/sport/mehr-sport/olympia-star-gesteht-pornosucht-ein-6a72dd9522542e2b26f0cc3e",
-    "image": "https://images.bild.de/6a72dd9522542e2b26f0cc3e/85d409d91e4b7949154519e72842240f,a55786b0?w=1280",
-    "date": 0,
-    "titleSl": "\"Kadarkoli sem imel slabo vadbo ...\" - olimpijski športnik priznal odvisnost od pornografije!"
    }
   ],
   "krone": [
+   {
+    "title": "„Wiener Blut“ - Krake Schani entert das Schloss Tabor",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lOWxGMzNocW5LcVZvMzYxQ2IydjBSSmpXdEctSGhZaWF4V1hnX3N3RWNzcXNENWVyc0lSaHJSLUNNQQ?oc=5",
+    "image": "",
+    "date": 1785920160000,
+    "titleSl": "“Dunajska kri” - Kraken Schani vstopi na grad Tabor"
+   },
    {
     "title": "Stillstand auf Strecke - Zuggäste mussten 2 Stunden in Waggons ausharren",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5mTkpYQXczNjJxYlBOSkttY1I5bkVObk5SMG1aeHZmclVYSTBvQ2M4TngzOG55ZzVETHFrSUNMRjg3dw?oc=5",
@@ -496,29 +503,22 @@
     "image": "",
     "date": 1785919620000,
     "titleSl": "V hiši morja - Springtamarine: potomci ljubkih mini športnikov"
-   },
-   {
-    "title": "Teilzeitarbeit & Co.: - Darum erhalten Männer viel mehr Pension als Frauen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvclJHelJkMXZpa0Q1Ui1oeU11NXhQaXlBcWN4NzFmWkRJOFd1UnZJd3o1em1lc0Y5clJYX01DSVdnZw?oc=5",
-    "image": "",
-    "date": 1785919140000,
-    "titleSl": "Skrajšan delovni čas & Co.: - Zato moški prejemajo veliko večjo pokojnino kot ženske"
    }
   ],
   "rainews": [
+   {
+    "title": "DIRETTA Europei di nuoto, 5 km di fondo, Gregorio Paltrinieri trionfa: è bronzo",
+    "link": "https://www.rainews.it/maratona/2026/08/europei-nuoto-parigi-tutte-le-medaglie-calendario-gare-b494a6f0-3302-41d9-b948-7fc828e44ff7.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/05/1785914227458_large.jpg",
+    "date": 1785920220000,
+    "titleSl": "V ŽIVO Evropsko prvenstvo v plavanju, 5 km tek, Gregorio Paltrinieri zmagal: bron"
+   },
    {
     "title": "Giorgetti alla Camera: “Chiederemo a Ue flessibilità per l’energia e lo 0,9% del pil per difesa\"",
     "link": "https://www.rainews.it/articoli/2026/08/giorgetti-alla-camera-chiederemo-a-ue-flessibilita-per-energia-e-lo-09-percento-del-pil-per-difesa-cc580cb5-5842-4835-9c4b-912b592d0a84.html",
     "image": "https://www.rainews.it/dl/img/2026/08/05/1785918162911_rainewsceeabfcf.jpg",
     "date": 1785919980000,
     "titleSl": "Giorgetti v dvorani: »EU bomo prosili za prožnost za energijo in 0,9 % BDP za obrambo«"
-   },
-   {
-    "title": "DIRETTA Europei di nuoto: 5 km di fondo, Gregorio Paltrinieri a caccia della rivincita",
-    "link": "https://www.rainews.it/maratona/2026/08/europei-nuoto-parigi-tutte-le-medaglie-calendario-gare-b494a6f0-3302-41d9-b948-7fc828e44ff7.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/05/1785914227458_large.jpg",
-    "date": 1785919920000,
-    "titleSl": "V ŽIVO Evropsko prvenstvo v plavanju: 5 km tek na smučeh, Gregorio Paltrinieri išče maščevanje"
    },
    {
     "title": "Media, oggi l&#x27;accordo tra Usa, Iran e Oman su stretto Hormuz. Trump: riaprirà presto o colpiremo",
