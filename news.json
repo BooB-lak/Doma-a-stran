@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T09:40:37.999Z",
+ "generatedAt": "2026-08-05T09:42:31.006Z",
  "sources": {
   "siol": [
    {
@@ -85,6 +85,12 @@
     "date": 1785922488000
    },
    {
+    "title": "Gorski reševalci v torek posredovali kar 8-krat, skupno že 74-krat več kot v enakem obdobju lani",
+    "link": "https://www.rtvslo.si/crna-kronika/gorski-resevalci-v-torek-posredovali-kar-8-krat-skupno-ze-74-krat-vec-kot-v-enakem-obdobju-lani/790046",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/05/67065827.jpg",
+    "date": 1785922455000
+   },
+   {
     "title": "Slovenski muzeji in galerije v letu 2025 pritegnili skoraj tri milijone obiskovalcev",
     "link": "https://www.rtvslo.si/kultura/drugo/slovenski-muzeji-in-galerije-v-letu-2025-pritegnili-skoraj-tri-milijone-obiskovalcev/790041",
     "image": "https://img.rtvcdn.si/_up/upload/2018/06/21/65508439.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/zanimivosti/smetarji-ne-srecnici-pomagali-najti-srecko-z-milijonskim-dobitkom/790026",
     "image": "https://img.rtvcdn.si/_up/upload/2021/12/02/65944945.jpg",
     "date": 1785919061000
-   },
-   {
-    "title": "79. filmski festival v Locarnu z drznim izborom, a tokrat brez slovenske udeležbe",
-    "link": "https://www.rtvslo.si/kultura/film-in-tv/79-filmski-festival-v-locarnu-z-drznim-izborom-a-tokrat-brez-slovenske-udelezbe/790027",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/05/67065811.jpg",
-    "date": 1785917170000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Man charged over death of nine-year-old girl on industrial estate",
+    "link": "https://www.bbc.co.uk/news/articles/cyvlgyg4l5do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb90/live/5ff3f7a0-909f-11f1-8198-bd28f2b2255a.jpg",
+    "date": 1785922863000,
+    "titleSl": "Moški obtožen smrti devetletne deklice na industrijskem območju"
+   },
+   {
     "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8729/live/6fe250f0-90b1-11f1-b2ab-0dd01740f9f6.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc6/live/fed303c0-9063-11f1-a7ab-8b30adf0800a.jpg",
     "date": 1785920215000,
     "titleSl": "Peer poziva torijce, naj blokirajo kandidata za svet, ki je zaprt zaradi antisemitskih zlorab proti njej"
-   },
-   {
-    "title": "Temperatures to drop briefly ahead of potential new UK heatwave",
-    "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eaa/live/351cb770-9094-11f1-b2ab-0dd01740f9f6.jpg",
-    "date": 1785920174000,
-    "titleSl": "Temperature se bodo za kratek čas znižale pred morebitnim novim vročinskim valom v Združenem kraljestvu"
    }
   ],
   "aljazeera": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Überraschung im Poker mit Real - Diomande wieder bei RB Leipzig",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-ueberraschung-im-poker-mit-real-madrid-yan-diomande-wieder-bei-rb-leipzig-6a72ee4c203ba6592b088ba3",
+    "image": "https://images.bild.de/6a72ee4c203ba6592b088ba3/1de5d9ba2f045b231715aae9b41db133,de309dcc?w=1280",
+    "date": 0,
+    "titleSl": "Presenečenje v pokru z Realom - Diomande nazaj v RB Leipzig"
+   },
+   {
+    "title": "Paket als Sprengstoff identifiziert - Das erste Foto der Drohnenbombe!",
+    "link": "https://www.bild.de/news/inland/flughafen-leipzig-paket-als-sprengstoff-identifiziert-erstes-foto-der-drohnenbombe-6a72f7b83013d32d67880de4",
+    "image": "https://images.bild.de/6a72f7b83013d32d67880de4/e01ad5fdf04949a4974a91720c781f84,ecd6f290?w=1280",
+    "date": 0,
+    "titleSl": "Paket identificiran kot eksploziven - Prva fotografija bombe z dronom!"
+   },
+   {
+    "title": "Will Abschaffung der Rente mit 63 - Arbeitgeber-Chef „fassungslos“ über Renten-Streit",
+    "link": "https://www.bild.de/politik/inland/rente-mit-63-steffen-kampeter-vom-verband-der-arbeitgeber-fassungslos-6a72e46122542e2b26f0ccd3",
+    "image": "https://images.bild.de/6a72e46122542e2b26f0ccd3/382d72da924707eed912c53f92c86f23,b7e8a585?w=1280",
+    "date": 0,
+    "titleSl": "Želi ukinitev pokojnin pri 63 letih - delodajalski šef \"osupljen\" zaradi pokojninskega spora"
+   },
+   {
     "title": "Deshalb fehlt er auf der Asien-Tour - Rippenbrüche bei Bayern-Boss!",
     "link": "https://www.bild.de/sport/fussball/rippenbrueche-bei-bayern-boss-dreesen-6a72ae7ecc46967c04caeff0",
     "image": "https://images.bild.de/6a72ae7ecc46967c04caeff0/2b78a4abe531e2cf53ffb07413c8c697,d7b66849?w=1280",
@@ -433,35 +454,21 @@
     "titleSl": "V SPD vre - to grozi Klingbeilu in Basu po vzhodnih volitvah"
    },
    {
-    "title": "Paket als Sprengstoff identifiziert - Das erste Foto der Drohnenbombe!",
-    "link": "https://www.bild.de/news/inland/flughafen-leipzig-paket-als-sprengstoff-identifiziert-erstes-foto-der-drohnenbombe-6a72f7b83013d32d67880de4",
-    "image": "https://images.bild.de/6a72f7b83013d32d67880de4/e01ad5fdf04949a4974a91720c781f84,ecd6f290?w=1280",
-    "date": 0,
-    "titleSl": "Paket identificiran kot eksploziven - Prva fotografija bombe z dronom!"
-   },
-   {
     "title": "Alles live bei BILD - Deutsche Extremschwimmerin startet Fluss-Challenge",
     "link": "https://www.bild.de/sport/mehr-sport/nathalie-pohl-220-kilometer-von-frankfurt-nach-koeln-6a71bc1ddf3bf7ee07797763",
     "image": "https://images.bild.de/6a71bc1ddf3bf7ee07797763/df8abefaa30652cba1163a9958ea12e4,3c121aa3?w=1280",
     "date": 0,
     "titleSl": "Vse v živo na BILD - Nemški ekstremni plavalec začenja rečni izziv"
-   },
-   {
-    "title": "Finanzierungslücke von 2,2 Milliarden Euro - Ökonomen zerlegen AfD-Wahlprogramm",
-    "link": "https://www.bild.de/politik/inland/finanzierungsluecke-von-2-2-milliarden-euro-oekonomen-zerlegen-wahlprogramm-der-afd-6a72c76947f8c988ecd624f5",
-    "image": "https://images.bild.de/6a72c76947f8c988ecd624f5/6c2aae96c78bddcd2ed8f633f79f8c7d,e0f27b89?w=1280",
-    "date": 0,
-    "titleSl": "Finančna vrzel 2,2 milijarde evrov - ekonomisti razbijajo volilni program AfD"
-   },
-   {
-    "title": "Millionen feiern diese Eltern - Für dieses Ständchen würden andere im Boden versinken",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/millionen-feiern-diese-eltern-fuer-dieses-staendchen-wuerden-andere-im-boden-versinken-6a71b0f8df3bf7ee07797591",
-    "image": "https://images.bild.de/6a71b0f8df3bf7ee07797591/ae140b81c5d9514325999f755b34d9c9,10781365?w=1280",
-    "date": 0,
-    "titleSl": "Milijoni slavijo te starše - drugi bi se za to serenado v zemljo pogreznili"
    }
   ],
   "krone": [
+   {
+    "title": "Nerven wie Stahlseile - Angler gelingt spektakuläres Selfie mit Grizzly",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zVnZManFIVzRLM3BkbDZzREt2b1IxOWsxaS1xX3RKQko2NE5mS3EyZEZ3Q1ZzZUZkendRUElTX2tOZw?oc=5",
+    "image": "",
+    "date": 1785922740000,
+    "titleSl": "Živci kot jeklenice - ribiču uspe spektakularen selfi z grizlijem"
+   },
    {
     "title": "Unruhe bei Katalanen - Barca-Profi sorgt für Wirbel, Hansi „unglücklich“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA1TnZ5eXdNc1NlekdlbnRjdnUwblBMUmlodWJWQ0V4OHNOZkhlZDN1LWpDSGtfSlJtUEN2NVZSZzROdw?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1785921180000,
     "titleSl": "Vojaška obveščevalna služba: - Severna Koreja vzpostavi raketno enoto v Rusiji"
-   },
-   {
-    "title": "Abkühlung für alle - Rette sich, wer kann, in den Hitzeschutzraum!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9jbEdDRlV2VmtlMHcxUHJZZ2JtLXE0amQ2U3FsaGl5SVJOOHRiUFNyamZvLWFvU0IxVXhjanZsVUxTUQ?oc=5",
-    "image": "",
-    "date": 1785920880000,
-    "titleSl": "Ohladitev za vse - kdor more, naj se reši v toplotnovarovalnici!"
    }
   ],
   "rainews": [
