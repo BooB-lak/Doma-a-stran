@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-06T06:22:36.446Z",
+ "generatedAt": "2026-08-06T06:24:25.127Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na jugu Libanona ubita izraelska vojaka #vŽivo",
+    "link": "https://siol.net/novice/svet/na-jugu-libanona-ubita-izraelska-vojaka-vzivo-698312",
+    "image": "https://siol.net/media/img/89/bd/71b3c6d67c2d34b2da32.jpeg",
+    "date": 1785997380000
+   },
    {
     "title": "Nekdanji šef SOVE: Tisti trenutek, ko sta vstopili v vozilo varovane osebe, sta postali javni osebi",
     "link": "https://siol.net/novice/slovenija/nekdanji-sef-sove-tisti-trenutek-ko-sta-vstopili-v-vozilo-varovane-osebe-sta-postali-javni-osebi-698310",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/posel-danes/baterijski-sistemi-postajajo-kljuc-do-nizjih-stroskov-elektrike-v-podjetjih-697905",
     "image": "https://siol.net/media/img/4d/c3/d2302bfc4663293d0ffe.jpeg",
     "date": 1785988980000
-   },
-   {
-    "title": "Nekoč je rešil Dalmacijo: tudi Mercedes po lepe posnetke na Paški most #video",
-    "link": "https://siol.net/avtomoto/zgodbe/nekoc-je-resil-dalmacijo-tudi-mercedes-po-lepe-posnetke-na-paski-most-video-697790",
-    "image": "https://siol.net/media/img/c9/7b/1f3faa6262790c8c691c.jpeg",
-    "date": 1785981600000
    }
   ],
   "24ur": [
@@ -79,10 +79,22 @@
   ],
   "rtvslo": [
    {
+    "title": "Zverev priprave na New York začel s porazom",
+    "link": "https://www.rtvslo.si/sport/tenis/zverev-priprave-na-new-york-zacel-s-porazom/790126",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67065994.jpg",
+    "date": 1785997414000
+   },
+   {
     "title": "\"Presegli smo naša pričakovanja\": Arheologi na Gradiščanskem odkrili antično keramičarsko delavnico",
     "link": "https://www.rtvslo.si/kultura/dediscina/presegli-smo-nasa-pricakovanja-arheologi-na-gradiscanskem-odkrili-anticno-keramicarsko-delavnico/790123",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67065986.jpg",
     "date": 1785997016000
+   },
+   {
+    "title": "Minister po incidentu v Leipzigu: \"Hibridni napad, ki predstavlja novo stopnjo nevarnosti\"",
+    "link": "https://www.rtvslo.si/svet/evropa/minister-po-incidentu-v-leipzigu-hibridni-napad-ki-predstavlja-novo-stopnjo-nevarnosti/790124",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67065993.jpg",
+    "date": 1785996841000
    },
    {
     "title": "Toliko napredne tehnike v \"vstopnem\" modelu še nismo videli!",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/sport/nogomet/infantino-se-je-posul-s-pepelom-a-odstopiti-ne-namerava/790121",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67065983.jpg",
     "date": 1785994818000
-   },
-   {
-    "title": "Rekordno nizka Donava v Srbiji razkrila potopljene nemške ladje, v Bolgariji pa ostanke mamuta",
-    "link": "https://www.rtvslo.si/svet/evropa/rekordno-nizka-donava-v-srbiji-razkrila-potopljene-nemske-ladje-v-bolgariji-pa-ostanke-mamuta/790120",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67065966.jpg",
-    "date": 1785993725000
-   },
-   {
-    "title": "Govorni pomočnik: Алёша (Aljoša) in Горбачёв (Gorbačov), ista črka (ё) in različen izgovor",
-    "link": "https://www.rtvslo.si/kultura/jezik/govorni-pomocnik-alesha-aljosa-in-gorbachev-gorbacov-ista-crka-e-in-razlicen-izgovor/790065",
-    "image": "https://img.rtvcdn.si/_up/upload/2022/08/30/66014029.jpg",
-    "date": 1785990648000
    }
   ],
   "zurnal": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "BILD-Reporter über Drohnenabwehr - Die Behörden sind der Gefahr nicht gewachsen",
+    "link": "https://www.bild.de/news/inland/bild-reporter-ueber-drohnen-abwehr-die-sicherheitsbehoerden-sind-dieser-gefahr-nicht-gewachsen-6a7341ea2b19377cc1230ea9",
+    "image": "https://images.bild.de/6a7341ea2b19377cc1230ea9/0dfc7fe40ebfd6cc8270fff1e77d2081,9a40ceec?w=1280",
+    "date": 0,
+    "titleSl": "Novinar BILD o obrambi brezpilotnih letal - Oblasti niso kos nevarnosti"
+   },
+   {
+    "title": "Alarm an unseren Flughäfen - Das sind die großen Lücken in unserer Drohnenabwehr!",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/drohnen-chaos-an-unseren-flughaefen-darum-versagt-deutschlands-drohnenabwehr-6a734ab73013d32d678815d5",
+    "image": "https://images.bild.de/6a734ab73013d32d678815d5/e01ad5fdf04949a4974a91720c781f84,ecd6f290?w=1280",
+    "date": 0,
+    "titleSl": "Alarm na naših letališčih - To so velike vrzeli v naši obrambi brezpilotnih letal!"
+   },
+   {
     "title": "Rap-Star mischt bei Diomande-Transfer mit - Was Jay-Z mit dem Mega-Poker der Liga zu tun hat",
     "link": "https://www.bild.de/sport/fussball/jay-z-mischt-bei-mega-transfer-in-der-bundesliga-mit-6a724ac347f8c988ecd6225f",
     "image": "https://images.bild.de/6a724ac347f8c988ecd6225f/e1adef879463a1a9a179fe13031a27ec,7f83f835?w=1280",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a7423cf9dc7b2ea7491324f/db0e9b1a19b4bea745effc87154a5920,91515c0d?w=1280",
     "date": 0,
     "titleSl": "Steffen Bilger - \"Izogibajte se cesti ali železnici\""
-   },
-   {
-    "title": "Was dahintersteckt - Urlaubsregion zahlt Bundesligist Trainingslager",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-was-dahintersteckt-urlaubsregion-zahlt-rb-leipzig-das-trainingslager-6a735f9d203ba6592b08975b",
-    "image": "https://images.bild.de/6a735f9d203ba6592b08975b/eabf9720ef32f56835b6df801644e891,ff2053a7?w=1280",
-    "date": 0,
-    "titleSl": "Kaj je za tem - počitniška regija plača kamp za priprave bundesligašev"
-   },
-   {
-    "title": "Flugunfähige Vögel? - So gut fliegen Hühner wirklich",
-    "link": "https://www.bild.de/leben-wissen/haustiere/koennen-huehner-fliegen-was-hinter-ihrer-flugkraft-wirklich-steckt-6a6a141385822a37a3332026",
-    "image": "https://images.bild.de/6a6a141385822a37a3332026/e5b23e5141d222f82163bebe3c6dc4b3,735fbc94?w=1280",
-    "date": 0,
-    "titleSl": "Neleteče ptice? - Kokoši res tako dobro letijo"
    }
   ],
   "krone": [
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "Teheran: \"Negoziati solo con Oman per riapertura Hormuz\". Trump nega carenza di munizioni",
+    "link": "https://www.rainews.it/maratona/2026/08/guerre-medio-oriente-gaza-libano-iran-maratona-progressi-su-hormuz-cnn-calo-scorte-missili-hegseth-fake-e39a0d5c-75a0-4e9f-addb-6c74ee3fe82a.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/14/1784047642511_rainewsdfddabeccdcd.jpg",
+    "date": 1785997380000,
+    "titleSl": "Teheran: \"Pogajanja samo z Omanom za ponovno odprtje Hormuza\". Trump zanika pomanjkanje streliva"
+   },
+   {
     "title": "La lince si gode il panorama: il raro avvistamento in Cina",
     "link": "https://www.rainews.it/video/2026/08/la-lince-si-gode-il-panorama-il-raro-avvistamento-in-cina-d5e50e61-9b54-4ce7-a606-f3eeed2ab9da.html",
     "image": "https://www.rainews.it/dl/img/2026/08/06/1785996305991_lince.PNG",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2023/07/30/1690692843407_TZLWDRPRTRWNEVCSCIENCEPERMAFORSTWORM....jpeg",
     "date": 1785992880000,
     "titleSl": "Zombi virusi, skriti v ledu, hipoteze in tisti prazgodovinski megavirusi, izolirani v Sibiriji"
-   },
-   {
-    "title": "Quindicenne in carcere a Malta: è accusato di \"reati gravissimi\". Il padre: \"Adescato online\"",
-    "link": "https://www.rainews.it/articoli/2026/08/quindicenne-in-carcere-a-malta-e-accusato-di-reati-gravissimi-il-padre-adescato-online-39ef5f96-43ab-4471-a38a-9a1053e54048.html",
-    "image": "https://www.rainews.it/dl/img/2022/06/23/1655939807937_LaValletta.jpg",
-    "date": 1785992160000,
-    "titleSl": "Petnajstletnik v zaporu na Malti: obtožen \"zelo resnih kaznivih dejanj\". Oče: \"Zvabljen na splet\""
    }
   ],
   "lemonde": [
