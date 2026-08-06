@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T12:52:24.917Z",
+ "generatedAt": "2026-08-06T12:54:28.443Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "A.I. Gas Guzzlers",
+    "link": "https://www.nytimes.com/2026/08/06/briefing/data-centers-gas-power.html",
+    "image": "https://static01.nyt.com/images/2026/08/05/briefing/oakImage-1785960732466/oakImage-1785960732466-mediumSquareAt3X.png",
+    "date": 1786020797000,
+    "titleSl": "A.I. Požiralci plina"
+   },
+   {
     "title": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
     "link": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
     "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-ukraine-patriots-hzcw/06int-ukraine-patriots-hzcw-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-europe-pressure-01-qzct/06int-europe-pressure-01-qzct-mediumSquareAt3X.jpg",
     "date": 1786016999000,
     "titleSl": "Vojne, gozdni požari in migranti zapuščajo Evropo, ki si prizadeva za nadzor"
-   },
-   {
-    "title": "Bros and Their Foes",
-    "link": "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html",
-    "image": "",
-    "date": 1786014088000,
-    "titleSl": "Bratje in njihovi sovražniki"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Deadliest form of malnutrition has reached critical levels in Afghanistan",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/thumb-wide-clean-1786019334.png?resize=1920%2C1080&quality=80",
-    "date": 1786019401000,
-    "titleSl": "Najsmrtonosnejša oblika podhranjenosti je v Afganistanu dosegla kritične ravni"
-   },
-   {
     "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
     "link": "https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/April-2026-PMO-1786009337.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ebola-horizontal-thumb-1786015032.jpg?resize=1920%2C1080&quality=80",
     "date": 1786015241000,
     "titleSl": "Izbruh ebole se pospešuje, ko zdravstveni delavci stavkajo zaradi plač"
+   },
+   {
+    "title": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+    "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a744a2d-1786006061_7d95e6-1786009424.jpg?resize=1200%2C630&quality=80",
+    "date": 1786014007000,
+    "titleSl": "Kdo je bil Cesar Gastelum, mehiški TikToker, ustreljen sredi prenosa v živo?"
    }
   ],
   "guardian": [
@@ -419,93 +419,100 @@
   ],
   "bild": [
    {
-    "title": "Mit seiner Model-Freundin - Bellingham im Freizeitpark gesichtet!",
-    "link": "https://www.bild.de/sport/fussball/mit-seiner-model-freundin-bellingham-im-freizeitpark-gesichtet-6a747dc8b2e4e184db149a36",
-    "image": "https://images.bild.de/6a747dc8b2e4e184db149a36/5b3a583e6e30e96697690477eabc2d4d,5ecc4aad?w=1280",
+    "title": "Als BILD den Trainer fragte - Liebeserklärung von Kompany an diesen Bayern-Star!",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-trainer-vincent-kompany-macht-keeper-jonas-urbig-eine-liebeserklaerung-6a7455483013d32d67882268",
+    "image": "https://images.bild.de/6a7455483013d32d67882268/118b9cfe78be62114ed0439a2c403343,c141da13?w=1280",
     "date": 0,
-    "titleSl": "Opažen v zabaviščnem parku s svojim dekletom modelom - Bellingham!"
+    "titleSl": "Ko je BILD vprašal trenerja - Kompanyjeva izjava ljubezni temu zvezdniku Bayerna!"
    },
    {
-    "title": "BILD exklusiv - Kamikaze-Drohne war eine Spezialanfertigung",
-    "link": "https://www.bild.de/politik/inland/terroranschlag-in-leipzig-darum-war-die-drohne-fuer-abwehrsysteme-unsichtbar-6a7462654ed0eddcc11f363a",
-    "image": "https://images.bild.de/6a7462654ed0eddcc11f363a/e01ad5fdf04949a4974a91720c781f84,ecd6f290?w=1280",
+    "title": "Bundesländer-Quiz - Welches wird hier gesucht?",
+    "link": "https://www.bild.de/leben-wissen/bundeslaender-quiz-welches-wird-hier-gesucht-6a69c5e49069e20393cd9a0c",
+    "image": "https://images.bild.de/6a69c5e49069e20393cd9a0c/3ca45fc337f60ef276c0a8756ddc15d5-landscape,e45a9413?w=1280",
     "date": 0,
-    "titleSl": "Ekskluzivno za BILD - Dron Kamikaza je bil narejen po meri"
+    "titleSl": "Zvezni državni kviz – katerega iščete tukaj?"
    },
    {
-    "title": "Warum sagt Dobrindt nichts zu Russland? - „Geheime Erkenntnisse öffentlich machen!“",
-    "link": "https://www.bild.de/politik/warum-sagt-dobrindt-nichts-zu-russland-geheime-erkenntnisse-oeffentlich-machen-6a7439264ed0eddcc11f3136",
-    "image": "https://images.bild.de/6a7439264ed0eddcc11f3136/05ef0d87c474a0af1b6cb81047a180df,3cc89997?w=1280",
+    "title": "Keime durch die Luft? - Dann sollten Sie Wasser im Glas nicht mehr trinken",
+    "link": "https://www.bild.de/leben-wissen/bereits-nach-2-stunden-altes-wasser-im-glas-nicht-mehr-trinken-66befa62a67884549151724e",
+    "image": "https://images.bild.de/66befa62a67884549151724e/baa8c647c0476235f2fe2fd4f0c962de,745f9dc4?w=1280",
     "date": 0,
-    "titleSl": "Zakaj Dobrindt ne pove ničesar o Rusiji? - \"Skrivne ugotovitve objavite!\""
+    "titleSl": "Klice po zraku? - Potem ne smete več piti vode v kozarcu"
    },
    {
-    "title": "RTL-Zentrale mitten im Sperrradius - Entschärfung von Fliegerbombe im Rhein",
-    "link": "https://www.bild.de/news/inland/rtl-zentrale-mitten-im-sperradius-entschaerfung-von-fliegerbombe-im-rhein-6a7471ef6a11a050657e3b67",
-    "image": "https://images.bild.de/6a7471ef6a11a050657e3b67/7eb2df963d42fb5d76192d608af9c7a8,460eaee1?w=1280",
+    "title": "Bayern-Trainer überraschend deutlich - Champions-League-Ansage von Kompany!",
+    "link": "https://www.bild.de/sport/fussball/titel-ansage-von-bayerns-trainer-vincent-kompany-in-der-champions-league-6a745168cc46967c04cb07ca",
+    "image": "https://images.bild.de/6a745168cc46967c04cb07ca/52809bb98bf4337362c6f5c68a2acf9d,59c60376?w=1280",
     "date": 0,
-    "titleSl": "Sedež RTL sredi radija izključitve - deaktiviranje letalske bombe v Renu"
+    "titleSl": "Trener Bayerna presenetljivo jasen - napoved Lige prvakov iz Kompanyja!"
    },
    {
-    "title": "Nach Vorstoß von Verkehrsminister - Zoff um Sonntagsfahrverbot für Lkw",
-    "link": "https://www.bild.de/politik/inland/nach-vorstoss-von-verkehrsminister-zoff-um-sonntagsfahrverbot-fuer-lkw-6a744c533013d32d67882148",
-    "image": "https://images.bild.de/6a744c533013d32d67882148/c35f08fdd65a9987b4bebcec2b006708,8ce94610?w=1280",
+    "title": "Weniger Haut, mehr Fell - Diese Murmeltiere machen jetzt OnlyFans",
+    "link": "https://www.bild.de/news/fuer-den-guten-zweck-diese-murmeltiere-machen-jetzt-onlyfans-6a738416cc46967c04caff81",
+    "image": "https://images.bild.de/6a738416cc46967c04caff81/db933e6fd24571794bd8f0132b34dbb6,84a90d96?w=1280",
     "date": 0,
-    "titleSl": "Po potezi ministra za promet - Zoffa o nedeljski prepovedi vožnje za tovornjake"
+    "titleSl": "Manj kože, več krzna - ti svizci zdaj delajo OnlyFans"
    },
    {
-    "title": "Sie sollen für den IS gekämpft haben - Zwei Terrorverdächtige in NRW festgenommen",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/zwei-terrorverdaechtige-in-nrw-festgenommen-sie-sollen-fuer-den-is-gekaempft-haben-6a74751f0e3689919ec72ce1",
-    "image": "https://images.bild.de/6a74751f0e3689919ec72ce1/9a118870fd593895b29be19617928f9b,56ff0588?w=1280",
+    "title": "Gel-Würfel lag in der Sonne - Spielzeug explodiert: Junge (12) in Klinik",
+    "link": "https://www.bild.de/news/ausland/southport-junge-erleidet-schwere-verbrennungen-durch-needoh-wuerfel-6a7464d8cc46967c04cb0a4d",
+    "image": "https://images.bild.de/6a7464d8cc46967c04cb0a4d/da1560a99e36ee91b9c901df9f8f6324,944e28b6?w=1280",
     "date": 0,
-    "titleSl": "Borili naj bi se za IS - v Severnem Porenju-Vestfaliji aretirali dva osumljenca terorizma"
+    "titleSl": "Kocka gela je ležala na soncu - igrača eksplodira: deček (12) na kliniki"
    }
   ],
   "krone": [
    {
-    "title": "Infantino-Versprechen? - Wirbel um WM-Finale 2030: Jetzt reagiert Spanien - krone.at",
+    "title": "Infantino-Versprechen? - Wirbel um WM-Finale 2030: Jetzt reagiert Spanien",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VUUlXNU9NTG1POGtQaGQ1MmxuMGFHM19RVjZaODJyQnhNN0hCTTFVT1IwX3M5V051MWMzR0pXMG9fdw?oc=5",
     "image": "",
     "date": 1786020180000,
-    "titleSl": "Infantinova obljuba? - Hrup o finalu svetovnega prvenstva 2030: zdaj se odziva Španija - krone.at"
+    "titleSl": "Infantinova obljuba? - Hrup o finalu svetovnega prvenstva 2030: zdaj se odziva Španija"
    },
    {
-    "title": "Das freie Wort - Zum Leserbrief „45 Arbeitsjahre“ - krone.at",
+    "title": "Das freie Wort - Zum Leserbrief „45 Arbeitsjahre“",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5reDBQTmE0Ui1GdGx4YnNFeDg4TGdFTWlHX0llQm1UbjR0RmctUUNVZDJWdHRDcUszZ0IxSjFKTE5feE1fQWZpMnBNYUtidjREcWhxVVVLLXlsUER5YkxsWVFtVzJ3ZzVQVmxWNA?oc=5",
     "image": "",
     "date": 1786020139000,
-    "titleSl": "Prosta beseda - K pismu uredništvu “45 let dela” - krone.at"
+    "titleSl": "Prosta beseda - K pismu uredništvu “45 let dela”"
    },
    {
-    "title": "Das freie Wort - Des Kanzlers Ländertour - krone.at",
+    "title": "Das freie Wort - Des Kanzlers Ländertour",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EVk9YQlYxMHpkd0NGcFRFWE5iZmtZYnR2Z2hTMWEzdjRqTkFRRk5hLUNKSTdMNTdwajlJcXJLX0o2X1lmVGN4cWRVU2JmejdiWjJISnlZM2xudG1CX3VaNmVEekpFQndwTXdnag?oc=5",
     "image": "",
     "date": 1786020139000,
-    "titleSl": "Prosta beseda - kanclerjeva turneja po državi - krone.at"
+    "titleSl": "Prosta beseda - kanclerjeva turneja po državi"
    },
    {
-    "title": "Das freie Wort - Autowäsche - krone.at",
+    "title": "Das freie Wort - Autowäsche",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ueHVMNmdZZnJHaUdoYlJCc0t1djF2a2otcjZ2cGFjbURNWXdtMVdNYWRkREFzR1RRczhSS0lFdVF4MnBUc2tBNFNSUFZ1RWl4NEd0azRqY3dRU3Q1ZWNCZ1YtYzBPMUpXdElxLQ?oc=5",
     "image": "",
     "date": 1786019962000,
-    "titleSl": "Prosta beseda - avtopralnica - krone.at"
+    "titleSl": "Prosta beseda - avtopralnica"
    },
    {
-    "title": "Das freie Wort - Was ist ein Tierleben wert? - krone.at",
+    "title": "Das freie Wort - Was ist ein Tierleben wert?",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YQk9aeVdLdW9tZ0E3OVczVklKSlJWak9YdXRjOWdhWE12c1NBbndZbGNoeEFrYTgwWnM4RUN6RFhKZkxUcDAtRUUyaFhyNU5PMmp3dUxKOEJZWVpBSVNFMWo2Ym94ckZSWE9EaA?oc=5",
     "image": "",
     "date": 1786019954000,
-    "titleSl": "Prosta beseda - Koliko je vredno življenje živali? - krone.at"
+    "titleSl": "Prosta beseda - Koliko je vredno življenje živali?"
    },
    {
-    "title": "Das freie Wort - Sie sind Lebewesen - krone.at",
+    "title": "Das freie Wort - Sie sind Lebewesen",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZjhxY1ZDcExBaVFDaUtpUzBNczgyNG1zLVpJaDFQcGhJLUEzUkd1MmF6Q2o5TENaTnk3c2ZZQkZ6VU5lVlhySXJOMGtUdEljT3h2TVZEQS1QanREc0NsQlhDZmxxSDdMZXh4UQ?oc=5",
     "image": "",
     "date": 1786019950000,
-    "titleSl": "Prosta beseda - vi ste živa bitja - krone.at"
+    "titleSl": "Prosta beseda – ste živa bitja"
    }
   ],
   "rainews": [
+   {
+    "title": "È morto Francesco Guccini, il cantautore poeta aveva 86 anni. Cerimonia commemorativa a settembre",
+    "link": "https://www.rainews.it/maratona/2026/08/morto-francesco-guccini-il-cantautore-poeta-aveva-86-anni-cerimonia-commemorativa-a-settembre-diretta-esequie-funerali-commenti-saluto-95529000-28c0-4745-841a-deb39413d1b7.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/06/1786007090624_aaefbfbeefdbe.jpg",
+    "date": 1786020780000,
+    "titleSl": "Francesco Guccini, pesnik, kantavtor, je umrl v starosti 86 let. Spominska slovesnost septembra"
+   },
    {
     "title": "Hiroshima ricorda i 140 mila morti del 1945. Takaichi: \"Mai più armi nucleari\"",
     "link": "https://www.rainews.it/video/2026/08/hiroshima-ricorda-i-140-mila-morti-del-1945-takaichi-mai-piu-armi-nucleari-55984c7d-1189-4454-8e08-47d1571fef82.html",
@@ -519,13 +526,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/06/1786018069127_rainewscabbefdddbdedaa.jpg",
     "date": 1786019220000,
     "titleSl": "MotoGP, spet štartamo iz Silverstona, Bezzecchi izziva bolečino: \"Še naprej se bom boril\""
-   },
-   {
-    "title": "È morto Francesco Guccini, il cantautore poeta aveva 86 anni. Cerimonia commemorativa a settembre",
-    "link": "https://www.rainews.it/maratona/2026/08/morto-francesco-guccini-il-cantautore-poeta-aveva-86-anni-cerimonia-commemorativa-a-settembre-diretta-esequie-funerali-commenti-saluto-95529000-28c0-4745-841a-deb39413d1b7.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/06/1786007090624_aaefbfbeefdbe.jpg",
-    "date": 1786019040000,
-    "titleSl": "Francesco Guccini, pesnik, kantavtor, je umrl v starosti 86 let. Spominska slovesnost septembra"
    },
    {
     "title": "Anziana uccisa in casa a colpi di martello: arrestato per omicidio volontario il nipote di 25 anni",
