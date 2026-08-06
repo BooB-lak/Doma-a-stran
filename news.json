@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-06T13:14:26.744Z",
+ "generatedAt": "2026-08-06T13:16:25.568Z",
  "sources": {
   "siol": [
+   {
+    "title": "Policisti razkrili povzročitelja štirih požarov: za tremi so bili cigaretni ogorki, enega je zanetil namerno",
+    "link": "https://siol.net/novice/slovenija/policisti-razkrili-povzrocitelja-stirih-pozarov-za-tremi-so-bili-cigaretni-ogorki-enega-je-zanetil-namerno-698352",
+    "image": "https://siol.net/media/img/2d/e5/442fe9be884df7a8aca2.jpeg",
+    "date": 1786021740000
+   },
    {
     "title": "Sodišče potrdilo odločitev KPK o nasprotju interesov Hojsa in Počivalška",
     "link": "https://siol.net/novice/slovenija/sodisce-potrdilo-odlocitev-kpk-o-nasprotju-interesov-hojsa-in-pocivalska-698351",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/potovanja/kaj-se-dogaja-na-hrvaskem-otoku-obonjan-par-razkril-podrobnosti-o-ekskluzivnem-dogodku-za-svingerje-698334",
     "image": "https://siol.net/media/img/31/fc/6ac0242a1c6d82495bf8.jpeg",
     "date": 1786018980000
-   },
-   {
-    "title": "V požaru industrijske hale v Izoli za več kot 300 tisoč evrov škode",
-    "link": "https://siol.net/novice/slovenija/v-pozaru-industrijske-hale-v-izoli-za-vec-kot-300-000-evrov-skode-698343",
-    "image": "https://siol.net/media/img/e0/1b/83d65b7859377a9e1ab5.jpeg",
-    "date": 1786018200000
    }
   ],
   "24ur": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit",
+    "link": "https://www.aljazeera.com/sports/2026/8/6/mohamed-salah-signs-two-year-deal-with-trabzonspor-after-liverpool-exit?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-05T091659Z_1692873434_UP1EM850PS90O_RTRMADP_3_SOCCER-TURKEY-TS-SALAH-1786019311.jpg?resize=1920%2C1440",
+    "date": 1786021651000,
+    "titleSl": "Mohamed Salah je po odhodu iz Liverpoola podpisal dveletno pogodbo s Trabzonsporjem"
+   },
+   {
+    "title": "DR Congo Ebola health workers protest unpaid wages as deaths surpass 1,800",
+    "link": "https://www.aljazeera.com/news/2026/8/6/dr-congo-ebola-health-workers-protest-unpaid-wages-as-deaths-surpass-1800?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a746d1352adc-1786014995.jpg?resize=1920%2C1440",
+    "date": 1786021636000,
+    "titleSl": "Zdravstveni delavci v DR Kongo proti eboli protestirajo zaradi neizplačanih plač, saj število smrti presega 1800"
+   },
+   {
     "title": "The old pact between Israel’s government and military has broken down",
     "link": "https://www.aljazeera.com/opinions/2026/8/6/the-old-pact-between-israels-government-and-military-has-broken-down?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7485e883-1786021352.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/thumb-wide-clean-1786019334.png?resize=1920%2C1080&quality=80",
     "date": 1786019401000,
     "titleSl": "Najsmrtonosnejša oblika podhranjenosti je v Afganistanu dosegla kritične ravni"
-   },
-   {
-    "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
-    "link": "https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/April-2026-PMO-1786009337.jpg?resize=1920%2C1440",
-    "date": 1786019237000,
-    "titleSl": "Zakaj je pakistanski premier Shehbaz Sharif na obisku v Savdski Arabiji sredi zalivskih napetosti?"
-   },
-   {
-    "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
-    "link": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a745ab7b249-1786010295.jpg?resize=1920%2C1440",
-    "date": 1786017876000,
-    "titleSl": "Mjanmarski voditelj obišče Tajsko, da bi okrepil mednarodno legitimnost"
    }
   ],
   "guardian": [
@@ -463,49 +463,56 @@
   ],
   "krone": [
    {
-    "title": "Hinweise erbeten - Mit Messer bedroht: Wer kennt die beiden Männer?",
+    "title": "Hinweise erbeten - Mit Messer bedroht: Wer kennt die beiden Männer? - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBFLVJzZXI3MlgwNDNIejJqUFFpemtfN0gxVnhPbl9KenRIX2lpcmVWcXp1amZKREJpS1UwSXBfcVRoQQ?oc=5",
     "image": "",
     "date": 1786021860000,
-    "titleSl": "Zahtevani podatki – grozil z nožem: Kdo pozna moška?"
+    "titleSl": "Zahtevani podatki – grozil z nožem: Kdo pozna moška? - krone.at"
    },
    {
-    "title": "Türkei-Deal offiziell - 17 Mio. Euro pro Jahr! Salah unterschreibt Vertrag",
+    "title": "Türkei-Deal offiziell - 17 Mio. Euro pro Jahr! Salah unterschreibt Vertrag - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tdU5rSEt5QkdaUm5wSWlWOGZ2alVhRi0wZDR3Y3Q5OGgtcTIxLWJvTzBid0c1S3ZhQlZ6MGpzdTlaQQ?oc=5",
     "image": "",
     "date": 1786021680000,
-    "titleSl": "Turčija uradno posel - 17 milijonov evrov na leto! Salah podpisal pogodbo"
+    "titleSl": "Turčija uradno posel - 17 milijonov evrov na leto! Salah podpisal pogodbo - krone.at"
    },
    {
-    "title": "Wegen Radiologie - Offener Brief der Ärzte an die Landesregierung",
+    "title": "Wegen Radiologie - Offener Brief der Ärzte an die Landesregierung - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nenBHSml3czhHSlNYbEhDV3JpMjQya0kwcm5xcThad19NeXF5dlkweFFudDkyV3ozLWNrck1hU0ZIZw?oc=5",
     "image": "",
     "date": 1786021200000,
-    "titleSl": "Zaradi radiologije - odprto pismo zdravnikov državni vladi"
+    "titleSl": "Zaradi radiologije - Odprto pismo zdravnikov državni vladi - krone.at"
    },
    {
-    "title": "Mordalarm in NÖ - Kampfsportler erschlägt Online-Flirt im Streit",
+    "title": "Mordalarm in NÖ - Kampfsportler erschlägt Online-Flirt im Streit - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xUHp3VzVHbDdJU1RndGhQZFI1QUEySUlWSnd5TU1VQ3NITVh4Y3hKR1FmZUJpbmpBbE4xdUdYV09jUQ?oc=5",
     "image": "",
     "date": 1786021200000,
-    "titleSl": "Alarm za umor v Spodnji Avstriji - umetnik borilnih veščin ubije spletno spogledovanje v prepiru"
+    "titleSl": "Preplah zaradi umora v Spodnji Avstriji – mojster borilnih veščin ubije spletno spogledovanje v prepiru – krone.at"
    },
    {
-    "title": "Linzer Künstlerin: - Dem Plastikmüll werden klingende Beats entlockt",
+    "title": "Linzer Künstlerin: - Dem Plastikmüll werden klingende Beats entlockt - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PMnFDWllVZnJObFg2X0FNOGhQNjAzSVkxUlBqV2dPc3FQMmFwWWliTmZMQ1NIVWMtTHF6ZFN3X3c3QQ?oc=5",
     "image": "",
     "date": 1786021200000,
-    "titleSl": "Umetnik iz Linza: - Zveneči utripi so izvabljeni iz plastičnih odpadkov"
+    "titleSl": "Umetnik iz Linza: - Zveneči utripi so izvabljeni iz plastičnih odpadkov - krone.at"
    },
    {
-    "title": "Infantino-Versprechen? - Wirbel um WM-Finale 2030: Jetzt reagiert Spanien",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VUUlXNU9NTG1POGtQaGQ1MmxuMGFHM19RVjZaODJyQnhNN0hCTTFVT1IwX3M5V051MWMzR0pXMG9fdw?oc=5",
+    "title": "Rekordsommer in Ö - Trotz Hitze gibt’s Lebkuchen ++ Hütten ohne Wasser - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VRjBxbkVVY3BwWVZkNHRHODhIcnotYWFfSnhNYzVJbl94WWMzSDZtelZHakdvQ25kWi1tS05yTS1SUQ?oc=5",
     "image": "",
-    "date": 1786020180000,
-    "titleSl": "Infantinova obljuba? - Hrup o finalu svetovnega prvenstva 2030: zdaj se odziva Španija"
+    "date": 1786021200000,
+    "titleSl": "Rekordno poletje v Avstriji - Kljub vročini so medenjaki ++ Koče brez vode - krone.at"
    }
   ],
   "rainews": [
+   {
+    "title": "DIRETTA - Giuseppe Conte in Commissione Covid: i nodi da sciogliere nella gestione della pandemia",
+    "link": "https://www.rainews.it/articoli/2026/08/giuseppe-conte-davanti-in-commissione-covid-i-nodi-da-sciogliere-nella-gestione-della-pandemia-d4c28f4a-897c-4c81-b268-4d042740f0b4.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/06/1786006551804_.rainewsbfecdbbeaa.jpg",
+    "date": 1786022040000,
+    "titleSl": "V ŽIVO - Giuseppe Conte v Covid komisiji: vprašanja, ki jih je treba rešiti pri obvladovanju pandemije"
+   },
    {
     "title": "I ragazzi di Santa Maria degli Angeli ad Assisi, le riflessioni e le domande per il Papa",
     "link": "https://www.rainews.it/video/2026/08/i-ragazzi-di-santa-maria-degli-angeli-ad-assisi-le-riflessioni-e-le-domande-per-il-papa-e7c0b53d-1b6a-43d4-9147-480026ce8730.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/06/1786018122221_.jpg",
     "date": 1786019040000,
     "titleSl": "Udarci s kladivom ubili starko na svojem domu: njenega 25-letnega nečaka aretirali zaradi naklepnega umora"
-   },
-   {
-    "title": "Anziana uccisa nel Chietino, arrestato nipote. Una vicina: \"Adorava la nonna\"",
-    "link": "https://www.rainews.it/video/2026/08/anziana-uccisa-nel-chietino-arrestato-nipote-un-vicina-la-adorava-la-nonna-86b290ca-1ff4-4af1-8a25-3bcf2faffd07.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/06/1786018209723_.png",
-    "date": 1786018980000,
-    "titleSl": "Na območju Chietija ubita starejša ženska, aretiran nečak. Soseda: \"Rada je imela svojo babico\""
    }
   ],
   "lemonde": [
