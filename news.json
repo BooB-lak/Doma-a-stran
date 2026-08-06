@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T13:50:41.710Z",
+ "generatedAt": "2026-08-06T13:52:31.067Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/posel-danes/vlada-imenovala-nove-nadzornike-druzbe-2tdk-698356",
     "image": "https://siol.net/media/img/88/5b/503f0c9a5e99955c9968.jpeg",
     "date": 1786023960000
+   },
+   {
+    "title": "Litovska vojska: Rusija razmišlja o napadih na infrastrukturo v baltskih državah #vŽivo",
+    "link": "https://siol.net/novice/svet/litovska-vojska-rusija-razmislja-o-napadih-na-infrastrukturo-v-baltskih-drzavah-698355",
+    "image": "https://siol.net/media/img/36/d4/6116395278444d8a25a9.png",
+    "date": 1786023660000
    },
    {
     "title": "Izjemna suša v vse večjem delu države",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/moda-in-lepota/neprijeten-vonj-v-vrocih-dneh-prava-izbira-deodoranta-naredi-veliko-razliko-698347",
     "image": "https://siol.net/media/img/e0/32/4a37ae2a2c51e1e14046.jpeg",
     "date": 1786020840000
-   },
-   {
-    "title": "Vipotnik pred velikim prestopom v klub, ki je kaznovan zaradi hude afere",
-    "link": "https://siol.net/sportal/nogomet/vipotnik-pred-velikim-prestopom-v-klub-ki-je-kaznovan-zaradi-hude-afere-698338",
-    "image": "https://siol.net/media/img/9f/f7/d057569401e7af0ec1ec.jpeg",
-    "date": 1786019760000
    }
   ],
   "24ur": [
@@ -257,6 +257,13 @@
     "titleSl": "Anglija odpokliče Pope & Lawrence za pakistanske teste, vendar Bethell ni več"
    },
    {
+    "title": "All schools in England to get pupil attendance targets, government says",
+    "link": "https://www.bbc.co.uk/news/articles/c3r073vgzx0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4afb/live/53432850-9199-11f1-9c53-0382b914b78c.jpg",
+    "date": 1786022807000,
+    "titleSl": "Vlada pravi, da bodo vse šole v Angliji dosegle cilje glede prisotnosti učencev"
+   },
+   {
     "title": "Hampshire and England bowler Turner retires aged 25",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/c9d894zep3lo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c1b/live/fa7f1cd0-917d-11f1-b59e-3d7a9337129d.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd5f/live/bc0b5880-9199-11f1-b2ab-0dd01740f9f6.jpg",
     "date": 1786020699000,
     "titleSl": "Poziva k preiskavi vojaške šole za najstnike po poročilih o posilstvu in zlorabi"
-   },
-   {
-    "title": "Shorts, strappy tops and sandals: What is acceptable to wear to work?",
-    "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f3/live/c87b2650-9193-11f1-b2ab-0dd01740f9f6.jpg",
-    "date": 1786020322000,
-    "titleSl": "Kratke hlače, majice z naramnicami in sandali: kaj je sprejemljivo nositi v službo?"
    }
   ],
   "aljazeera": [
@@ -419,18 +419,32 @@
   ],
   "bild": [
    {
-    "title": "Jetzt abstimmen! - Wir suchen das beste Geheimtipp-Reiseziel Mittel- und Südamerikas",
-    "link": "https://www.bild.de/leben-wissen/reisen/wir-suchen-das-beste-geheimtipp-reiseziel-mittel-und-suedamerikas-6a44cc418fb3fff12ac432d0",
-    "image": "https://images.bild.de/6a44cc418fb3fff12ac432d0/c5dfedf489563a4494bfd8d0d382abdc,39c6dc49?w=1280",
-    "date": 0,
-    "titleSl": "Glasujte zdaj! - Iščemo najboljšo popotniško destinacijo v Srednji in Južni Ameriki"
-   },
-   {
     "title": "Mindestens 125 Mio. Euro Ablöse - Mega-Transfer von Diomande zu Real fix!",
     "link": "https://www.bild.de/sport/fussball/fuer-125-mio-euro-transfer-von-yan-diomande-zu-real-madrid-fix-6a74850cb57992c9965d306d",
     "image": "https://images.bild.de/6a74850cb57992c9965d306d/d21b220ea1d5cc9d3db340137c00efa7,22286576?w=1280",
     "date": 0,
     "titleSl": "Vsaj 125 milijonov evrov za prestop - mega prestop iz Diomanda v Real fiksiran!"
+   },
+   {
+    "title": "Boss Huwer im Camp - Geheimes Trikot-Treffen beim HSV",
+    "link": "https://www.bild.de/sport/fussball/hsv-boss-huwer-im-camp-geheimes-trikot-treffen-beim-hsv-6a7465d53013d32d678824a4",
+    "image": "https://images.bild.de/6a7465d53013d32d678824a4/0834963b87e453926e0a7d215172cff3,6c259fd7?w=1280",
+    "date": 0,
+    "titleSl": "Šef Huwer v kampu - tajni sestanek dresov pri HSV"
+   },
+   {
+    "title": "Sensationstransfer - Salah-Wechsel perfekt",
+    "link": "https://www.bild.de/sport/fussball/sensationeller-transfer-von-mo-salah-perfekt-6a748ae48df5ff08dbdd62f7",
+    "image": "https://images.bild.de/6a748ae48df5ff08dbdd62f7/2f0ca2e965b5fa74315a0fabea7e8903,153d2aef?w=1280",
+    "date": 0,
+    "titleSl": "Senzacionalen prestop - menjava Salaha popolna"
+   },
+   {
+    "title": "Jetzt abstimmen! - Wir suchen das beste Geheimtipp-Reiseziel Mittel- und Südamerikas",
+    "link": "https://www.bild.de/leben-wissen/reisen/wir-suchen-das-beste-geheimtipp-reiseziel-mittel-und-suedamerikas-6a44cc418fb3fff12ac432d0",
+    "image": "https://images.bild.de/6a44cc418fb3fff12ac432d0/c5dfedf489563a4494bfd8d0d382abdc,39c6dc49?w=1280",
+    "date": 0,
+    "titleSl": "Glasujte zdaj! - Iščemo najboljšo popotniško destinacijo v Srednji in Južni Ameriki"
    },
    {
     "title": "Ab Herbst 2026 - Amazon verkürzt Rückgabefrist!",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a7439784ed0eddcc11f313a/f4fd6d8d7121c449c89881d34626816d,433db78?w=1280",
     "date": 0,
     "titleSl": "Na A3 na Bavarskem - 3 mrtvi! Avto je trčil na železniško progo"
-   },
-   {
-    "title": "Transfer vorm Abschluss - Bayer mit Top-Star einig",
-    "link": "https://www.bild.de/sport/fussball/transfer-vorm-abschluss-leverkusen-einig-mit-diaby-6a73b0f3cc46967c04cb010f",
-    "image": "https://images.bild.de/6a73b0f3cc46967c04cb010f/af3c748f15d2b7c20dcb8c492facb688,2047171d?w=1280",
-    "date": 0,
-    "titleSl": "Prestop pred zaključkom - Bayer se strinja z vrhunsko zvezdo"
-   },
-   {
-    "title": "Wunder auf vier Hufen - Blindes Pferd gewinnt Wettkämpfe",
-    "link": "https://www.bild.de/news/ausland/wunder-auf-hufen-blindes-pferd-gewinnt-wettkaempfe-6a74400bcc46967c04cb05f3",
-    "image": "https://images.bild.de/6a74400bcc46967c04cb05f3/437777e4f799e6242ad6c5e3ab87bbfe,6faab755?w=1280",
-    "date": 0,
-    "titleSl": "Čudež na štirih kopitih - slepi konj zmaguje na tekmovanjih"
    }
   ],
   "krone": [
@@ -475,6 +475,13 @@
     "image": "",
     "date": 1786024020000,
     "titleSl": "Čipi, umetna inteligenca in roboti - Ti preboji na Kitajskem spravljajo Washington ob živce"
+   },
+   {
+    "title": "Fahndungserfolg - Europaweit gesuchter Österreicher (29) gefasst",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DaW9qRFRuM0gwbzNBR1VBUXptYVFsQ0JTcy01NlowaHphc2NSMTE4cmIwZ2U1YjJjN3RGVFBTUGhGdw?oc=5",
+    "image": "",
+    "date": 1786023900000,
+    "titleSl": "Uspeh v lovu na človeka - Avstrijec (29), ki ga iščejo po vsej Evropi, so ujeli"
    },
    {
     "title": "Vom Winde verweht - Geldtransporter verliert Bares auf belebter Straße",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1786023000000,
     "titleSl": "NAMIG TEDNA - Hipolitov dan – praznovanje zavetnika v St. Pöltnu"
-   },
-   {
-    "title": "Diskutieren Sie mit! - Nur noch Skandale: Was ist los beim ORF?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJMzlyMTJiRVlaWm5hWXJnaVUwekdGd2ZBdWx3UG0yYVFKSUxiWi1sRDNGWWNkN3JpY092V3VpRVp3UQ?oc=5",
-    "image": "",
-    "date": 1786023000000,
-    "titleSl": "Pridružite se razpravi! - Samo škandali: Kaj se dogaja na ORF?"
    }
   ],
   "rainews": [
