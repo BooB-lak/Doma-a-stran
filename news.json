@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T08:24:25.870Z",
+ "generatedAt": "2026-08-06T08:26:25.511Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Nevihta v gorah, zdrsi, krušenje skal: posredoval tudi helikopter",
+    "link": "https://www.24ur.com/novice/crna-kronika/naporen-dan-za-gorske-resevalce-padajoce-kamenje-zdrsi-in-nevihte.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/c2decfba895c22a23d49_63627702.jpg?v=bc05&fop=fp:0.50:0.59",
+    "date": 1786004702000
+   },
+   {
     "title": "Messi je nazaj: čista 'desetka' argentinskega genija v pokalu",
     "link": "https://www.24ur.com/sport/nogomet/messi-je-nazaj-odlicna-predstava-argentinca-v-ligaskem-pokalu.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/78e4dd0013d8463bc89b_63627970.jpg?v=3e01&fop=fp:0.42:0.25",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/novice/slovenija/primorska-avtocesta-med-uncem-in-postojno-proti-kopru-popolnoma-zaprta.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/16da478ef8301dabdd96_63627931.png?v=f6e0&fop=fp:0.44:0.38",
     "date": 1786002636000
-   },
-   {
-    "title": "Nevihta v gorah, zdrsi, krušenje skal: posredoval tudi helikopter",
-    "link": "https://www.24ur.com/novice/crna-kronika/naporen-dan-za-gorske-resevalce-padajoce-kamenje-zdrsi-in-nevihte.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/c2decfba895c22a23d49_63627702.jpg?v=bc05&fop=fp:0.50:0.59",
-    "date": 1786002426000
    },
    {
     "title": "Blokada Odese: Eksplozije, potopljene ladje, prazni pomoli in nenehne sirene",
@@ -129,7 +129,7 @@
     "date": 1785999960000
    },
    {
-    "title": "Pozor: Prometna nesreča, avtocesta zaprta",
+    "title": "Podrobnosti nesreče na Primorki: Tovornjak treščil v avto, promet obstal",
     "link": "https://www.zurnal24.si/slovenija/prometna-nesreca-zaprta-primorska-avtocesta-463236",
     "image": "https://www.zurnal24.si/media/img/5f/66/faeb7340efe9b5fea682.png",
     "date": 1785999780000
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Australia news live: Icac witness asked about ‘filthy schools money’ messages; evacuation declared after industrial shed fire creates toxic smoke in Adelaide",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/7101f3d4d7314ad14db02b67d3e40a90df050e71/1544_265_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=d467b5d0adc5ea0c20836deaea635a48",
-    "date": 1786003800000,
-    "titleSl": "Avstralske novice v živo: priča Icac spraševala o sporočilih o \"umazanem šolskem denarju\"; Razglašena evakuacija, potem ko je požar v industrijski lopi ustvaril strupen dim v Adelaidi"
+    "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
+    "image": "https://i.guim.co.uk/img/media/5799a55ee4238a45c55a78e5de719a8be05760cf/1060_435_4167_3336/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=246260003cfa0eca52a2d76cd8624de7",
+    "date": 1786004482000,
+    "titleSl": "Iran pravi, da je dogovor z Omanom o ponovnem odprtju Hormuške ožine blizu dokončanja – kriza na Bližnjem vzhodu v živo"
    },
    {
     "title": "Ukraine strikes Russian oil refineries as Moscow continues attacks on Ukrainian cities – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
     "image": "https://i.guim.co.uk/img/media/e6d719a577b1e315744273891f246e7a268d6e88/12_0_1709_1367/master/1709.jpg?width=140&quality=85&auto=format&fit=max&s=d1dc117e3fccf649dbf1bd43e2cde0a0",
-    "date": 1786003752000,
+    "date": 1786004142000,
     "titleSl": "Ukrajina napade ruske rafinerije nafte, medtem ko Moskva nadaljuje z napadi na ukrajinska mesta – Evropa v živo"
+   },
+   {
+    "title": "Icac witness asked about ‘filthy schools money’ messages – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/7101f3d4d7314ad14db02b67d3e40a90df050e71/1544_265_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=d467b5d0adc5ea0c20836deaea635a48",
+    "date": 1786004072000,
+    "titleSl": "Priča Icac je vprašala o sporočilih o \"umazanem šolskem denarju\" - kot se je zgodilo"
+   },
+   {
+    "title": "Labor faces fierce backlash from gambling giants as Coalition and Greens push for new controls on inducements",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/06/gambling-inducements-labor-coalition-greens-betting-companies",
+    "image": "https://i.guim.co.uk/img/media/5787b453b7b5ec60a70d752d5c65ffce40cf03cb/182_0_4909_3929/master/4909.jpg?width=140&quality=85&auto=format&fit=max&s=c389848f8cdb7df163059a69f028fd1b",
+    "date": 1786003837000,
+    "titleSl": "Laburisti se soočajo z ostrim odzivom igralniških velikanov, ko si koalicija in Zeleni prizadevajo za nov nadzor nad spodbudami"
    },
    {
     "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
@@ -352,25 +366,11 @@
     "titleSl": "Positive Persimmon želi izkoristiti \"Burnhamov skok\" pri gradnji hiš"
    },
    {
-    "title": "Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage",
-    "link": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
-    "image": "https://i.guim.co.uk/img/media/8e502b82253ad225c2b6932051082c02bbcc514d/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=594ef17982127cbb275ee0acaef11f59",
-    "date": 1786002332000,
-    "titleSl": "Starbucks Korea je vdrla policija, potem ko je kampanja \"Dan tankov\" sprožila ogorčenje javnosti"
-   },
-   {
-    "title": "Alan Jones’s alleged victim denies ‘fabricating’ claims against broadcaster during robust cross-examination",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/06/alleged-victim-alan-jones-denies-fabricating-claims-broadcaster-cross-examination-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/bfd446093c8075665e5289c32a5d5223c96ff119/847_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=01f608984c55a5b53574a339d1c9b9b2",
-    "date": 1786001521000,
-    "titleSl": "Domnevna žrtev Alana Jonesa med strogim navzkrižnim zasliševanjem zanika \"izmišljevanje\" obtožb proti izdajatelju televizijskega programa"
-   },
-   {
-    "title": "‘Orange elephant in the room’: Pauline Hanson’s political rise is inspiring racism, inquiry hears",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/06/pauline-hanson-one-nation-leader-rise-inspiring-racism-parliament-inquiry-hears-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/d09257659b8e60f5f3d8fc2a7b9a5442bd5983e6/883_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6bb2283c286e6c95ca15f8c84f4d590f",
-    "date": 1785999928000,
-    "titleSl": "\"Oranžni slon v sobi\": Politični vzpon Pauline Hanson navdihuje rasizem, je pokazala preiskava"
+    "title": "High-profile Indian investigative journalist convicted of raping colleague",
+    "link": "https://www.theguardian.com/world/2026/aug/06/indian-journalist-tarun-tejpal-convicted-raping-colleague",
+    "image": "https://i.guim.co.uk/img/media/afa14998d703a4ccdc1209c1a13577bc154365e6/537_0_6142_4912/master/6142.jpg?width=140&quality=85&auto=format&fit=max&s=860e20e2f4671499146ebfbc38518d86",
+    "date": 1786003515000,
+    "titleSl": "Odmevni indijski raziskovalni novinar obsojen posilstva kolega"
    }
   ],
   "spiegel": [
