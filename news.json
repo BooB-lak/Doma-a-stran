@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T13:54:39.742Z",
+ "generatedAt": "2026-08-06T13:56:28.338Z",
  "sources": {
   "siol": [
    {
@@ -199,13 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "At Shambhala Music Festival, a Plan To Make Drugs Like Ketamine and MDMA Safer",
-    "link": "https://www.nytimes.com/2026/08/06/well/shambhala-music-festival-drugs-ketamine-ecstasy.html",
-    "image": "https://static01.nyt.com/images/2026/08/05/well/WELL-SHAMBALA61/WELL-SHAMBALA61-mediumSquareAt3X.jpg",
-    "date": 1786024373000,
-    "titleSl": "Na glasbenem festivalu Shambhala načrt za varnejša zdravila, kot sta ketamin in MDMA"
-   },
-   {
     "title": "Scott Galloway: America Abandoned Its ‘Unremarkable’ Young Men",
     "link": "https://www.nytimes.com/2026/08/06/opinion/ross-douthat-scott-galloway-masculinity.html",
     "image": "https://static01.nyt.com/images/2026/08/06/opinion/06rosspod-galloway-image/06rosspod-galloway-image-mediumSquareAt3X.jpg",
@@ -239,6 +232,13 @@
     "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-ukraine-patriots-hzcw/06int-ukraine-patriots-hzcw-mediumSquareAt3X.jpg",
     "date": 1786020459000,
     "titleSl": "Sredi vse močnejših ruskih napadov prošnje Ukrajine za zračno obrambo padajo v vodo"
+   },
+   {
+    "title": "A Trans Woman Pulled a Gun and Started a ‘Stand Your Ground’ Debate",
+    "link": "https://www.nytimes.com/2026/08/06/us/transgender-gun-rights-wyoming.html",
+    "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04nat-trans-gunrights-top-bpkl/04nat-trans-gunrights-top-bpkl-mediumSquareAt3X-v2.jpg",
+    "date": 1786018044000,
+    "titleSl": "Trans ženska je potegnila pištolo in sprožila razpravo \"Stand Your Ground\"."
    }
   ],
   "bbc": [
@@ -331,6 +331,34 @@
   ],
   "guardian": [
    {
+    "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
+    "image": "https://i.guim.co.uk/img/media/5799a55ee4238a45c55a78e5de719a8be05760cf/1060_435_4167_3336/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=246260003cfa0eca52a2d76cd8624de7",
+    "date": 1786024427000,
+    "titleSl": "Iran pravi, da je dogovor z Omanom o ponovnem odprtju Hormuške ožine blizu dokončanja – kriza na Bližnjem vzhodu v živo"
+   },
+   {
+    "title": "Senate committee holds Anthony Fauci in contempt of Congress – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/06/senators-anthony-fauci-contempt-of-congress-michiganu-democrats-republicans-trump-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/477b7f8cd364ee1f996723c5d14cdfb667a070e9/431_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3790df318ffdc99aa213f07b37cc5e6c",
+    "date": 1786024043000,
+    "titleSl": "Senatni odbor obsodi Anthonyja Faucija zaradi nespoštovanja kongresa – v živo"
+   },
+   {
+    "title": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+    "image": "https://i.guim.co.uk/img/media/2cf34b7478c05ee188e29a66f1fdbf54f17f6f7f/244_0_1338_1070/master/1338.jpg?width=140&quality=85&auto=format&fit=max&s=665c8db51c09561e37ac453df693e234",
+    "date": 1786023911000,
+    "titleSl": "Prebivalci Ceute so žalostni, nemočni in zaskrbljeni, saj v mestu ostaja do 5000 migrantov, pravi predsednik – Evropa v živo"
+   },
+   {
+    "title": "Reform will jail directors of companies employing illegal workers for up to five years, says Yusuf – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news",
+    "image": "https://i.guim.co.uk/img/media/fab5d3e79d8654a5163738a61c31e9aee66478bd/0_0_5755_4604/master/5755.jpg?width=140&quality=85&auto=format&fit=max&s=2084c03a955d9df47a1a80fb240c0fd2",
+    "date": 1786023745000,
+    "titleSl": "Reforma bo direktorje podjetij, ki zaposlujejo nezakonite delavce, zaprla do pet let, pravi Yusuf – britanska politika v živo"
+   },
+   {
     "title": "Two Iranian female footballers granted Australian citizenship after protest",
     "link": "https://www.theguardian.com/football/2026/aug/06/two-iranian-female-footballers-australian-citizenship-protest",
     "image": "https://i.guim.co.uk/img/media/a353d9677ac8c017f5f0be66a3ffcedcc4414dbe/436_0_5195_4156/master/5195.jpg?width=140&quality=85&auto=format&fit=max&s=a48387b11ec3f970a7025771293e813e",
@@ -338,39 +366,11 @@
     "titleSl": "Dvema iranskima nogometašicama sta po protestu podelili avstralsko državljanstvo"
    },
    {
-    "title": "Senate committee holds Anthony Fauci in contempt of Congress – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/06/senators-anthony-fauci-contempt-of-congress-michiganu-democrats-republicans-trump-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/477b7f8cd364ee1f996723c5d14cdfb667a070e9/431_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3790df318ffdc99aa213f07b37cc5e6c",
-    "date": 1786023321000,
-    "titleSl": "Senatni odbor obsodi Anthonyja Faucija zaradi nespoštovanja kongresa – v živo"
-   },
-   {
     "title": "Miss North Carolina USA stripped of title after alleged racist posts resurface",
     "link": "https://www.theguardian.com/us-news/2026/aug/06/boltinhouse-miss-north-carolina-racist-posts",
     "image": "https://i.guim.co.uk/img/media/05be31dc781bc9de5d7af72363ec766ac0d8aa0e/128_0_1561_1248/master/1561.jpg?width=140&quality=85&auto=format&fit=max&s=9cfe91beebd75c870f147aa1feece746",
     "date": 1786023153000,
     "titleSl": "Miss Severne Karoline ZDA so odvzeli naslov po domnevnih rasističnih objavah"
-   },
-   {
-    "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
-    "image": "https://i.guim.co.uk/img/media/5c651fe8dbb074643c0ecf429d3c9314d0ce8e6a/86_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=b133c2c9436997d7a70229695a772502",
-    "date": 1786023133000,
-    "titleSl": "Skoraj 50 prosilcev za azil, ki so bili deportirani po shemi \"ena na ena ven\", se je vrnilo v Združeno kraljestvo"
-   },
-   {
-    "title": "Jason Arday claimed he was paid ‘1.4 million’ for memoir from publisher",
-    "link": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge",
-    "image": "https://i.guim.co.uk/img/media/f2b11433fe6a4e276c2594f779870a25470a56f3/378_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=caafc7f6a318fef31409fd1d32612d1a",
-    "date": 1786022991000,
-    "titleSl": "Jason Arday je trdil, da mu je založnik za spomine plačal '1,4 milijona'"
-   },
-   {
-    "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
-    "link": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
-    "image": "https://i.guim.co.uk/img/media/5799a55ee4238a45c55a78e5de719a8be05760cf/1060_435_4167_3336/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=246260003cfa0eca52a2d76cd8624de7",
-    "date": 1786022974000,
-    "titleSl": "Iran pravi, da je dogovor z Omanom o ponovnem odprtju Hormuške ožine blizu dokončanja – kriza na Bližnjem vzhodu v živo"
    }
   ],
   "spiegel": [
@@ -463,6 +463,13 @@
   ],
   "krone": [
    {
+    "title": "Großeinsatz in Wien - Überfall mit Geiselnahme in Dorotheum-Filiale!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ySERtZG0wVlg5X2FRRjB6Rm96ZjBPeFRCeTFkLWpRVWlITUhKekFXZGRBUEpUTXFkNzdhMV9VMXhMUQ?oc=5",
+    "image": "",
+    "date": 1786024500000,
+    "titleSl": "Obsežna akcija na Dunaju - napad z jemanjem talcev v podružnici Dorotheum!"
+   },
+   {
     "title": "Wohin mit Grillrestln - Diese Kühlschrank-Fehler schlagen auf den Magen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5YS1BvM2EtV0FxeWo1REhnRF9uc2Y0RmUxMHJWZV9Pb1liX1ZSMFlEdzNhazU3dXVaaUhDelBkNkVfdw?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1786023000000,
     "titleSl": "\"Nobenega doma ne zanima, kako smo igrali\""
-   },
-   {
-    "title": "TIPP DER WOCHE - Hippolyt-Tag – Fest zum Stadtpatron in St. Pölten",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxdjNwdWx5ZkNlWWNwNDQ4Q2pKa2lmZHgxWmtyT2x6bzYzckVCRU9tSzd0UlROVHRtRko4eDlGZVl3UQ?oc=5",
-    "image": "",
-    "date": 1786023000000,
-    "titleSl": "NAMIG TEDNA - Hipolitov dan – praznovanje zavetnika v St. Pöltnu"
    }
   ],
   "rainews": [
