@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T09:28:27.771Z",
+ "generatedAt": "2026-08-06T09:30:49.185Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Velik zasuk v sagi in odlična novica za Pogačarja!",
+    "link": "https://www.zurnal24.si/sport/kolesarstvo/velik-zasuk-v-sagi-in-odlicna-novica-za-pogacarja-463244",
+    "image": "https://www.zurnal24.si/media/img/54/57/38758da6efc01b2e6631.jpeg",
+    "date": 1786008540000
+   },
+   {
     "title": "Eden najbolj umazanih igralcev z norim razkritjem o Luki Dončiću",
     "link": "https://www.zurnal24.si/sport/kosarka/eden-najbolj-umazanih-igralcev-z-norim-razkritjem-o-luki-doncicu-463243",
     "image": "https://www.zurnal24.si/media/img/dd/09/72d8fa248f3b9355a779.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/brane-gregorcic-nam-je-povedal-kdaj-pricakujejo-vec-dezja-in-padec-temperatur-463237",
     "image": "https://www.zurnal24.si/media/img/13/78/4c88b188d0318e5a2856.jpeg",
     "date": 1785998940000
-   },
-   {
-    "title": "V zvezdnikovi hiši se je ta teden dogajalo nepredstavljivo",
-    "link": "https://www.zurnal24.si/magazin/vip/v-zvezdnikovi-hisi-se-je-ta-teden-dogajalo-nepredstavljivo-463234",
-    "image": "https://www.zurnal24.si/media/img/27/40/e3f6642c23508c1701bf.jpeg",
-    "date": 1785998640000
    }
   ],
   "reuters": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
-    "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-03-02T133841Z_149092312_RC2CWJAD3VWP_RTRMADP_3_IRAN-CRISIS-BRITAIN-AIRLINES-1786005446.jpg?resize=1920%2C1440",
-    "date": 1786007876000,
-    "titleSl": "Ameriško-izraelska vojna proti Iranu spreminja evropske vzorce poletnih počitnic"
-   },
-   {
-    "title": "Sheikh Hasina vows to return, but will Bangladesh accept fugitive ex-PM?",
-    "link": "https://www.aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2288403914-1786004199.jpg?resize=1920%2C1440",
-    "date": 1786007185000,
-    "titleSl": "Šejk Hasina obljublja, da se bo vrnil, toda ali bo Bangladeš sprejel pobeglega bivšega premierja?"
-   },
-   {
     "title": "What to know about this week’s US primary elections in Tennessee and Hawaii",
     "link": "https://www.aljazeera.com/news/2026/8/6/what-to-know-about-this-weeks-us-primary-elections-in-tennessee-and-hawaii?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26205660110109-1785951375.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/MaliProject-Force-Wide-1786004215.jpg?resize=1920%2C1080&quality=80",
     "date": 1786004246000,
     "titleSl": "Zakaj Francija razvija novo jedrsko strategijo?"
+   },
+   {
+    "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+    "link": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/13819924-1786002327.jpg?resize=1920%2C1440",
+    "date": 1786004137000,
+    "titleSl": "Protest proti iranski himni: Nogometašice \"ponosne\", da so postale Avstralke"
+   },
+   {
+    "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+    "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T064048Z_353293481_RC2USMAONN81_RTRMADP_3_UKRAINE-CRISIS-ATTACK-BALAKLIIA-1785999913.jpg?resize=1920%2C1367",
+    "date": 1786001816000,
+    "titleSl": "Ruski napadi v Ukrajini ubijejo šest ljudi, medtem ko Moskva prestreže na stotine brezpilotnih letal"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Putins Killer in Deutschland unterwegs? - Ermittler verhindern offenbar Attentat auf deutschen Rüstungschef",
+    "link": "https://www.bild.de/politik/inland/putins-killer-in-deutschland-ermittler-verhindern-offenbar-attentat-auf-ruestungschef-6a74391537343a2e069f96af",
+    "image": "https://images.bild.de/6a74391537343a2e069f96af/dd41a652a7250925e40dbddcde39b241,1adc0081?w=1280",
+    "date": 0,
+    "titleSl": "Putinov morilec na poti po Nemčiji? - Preiskovalci so očitno preprečili poskus atentata na nemškega šefa oborožitve"
+   },
+   {
     "title": "Schleswig-Holstein - Vermisste Bella (3) tot in Pool gefunden",
     "link": "https://www.bild.de/regional/schleswig-holstein/schleswig-holstein-vermisste-bella-3-tot-aufgefunden-6a743cf537343a2e069f970f",
     "image": "https://images.bild.de/6a743cf537343a2e069f970f/2583c5033f208e7938eec0d220f4fe1d,12dd145f?w=1280",
@@ -452,16 +459,16 @@
     "image": "https://images.bild.de/6a743c0c37343a2e069f96f5/1c0d0b2fda0b11aff3d087bae3ce4450,1c409fbe?w=1280",
     "date": 0,
     "titleSl": "Mega težave z novim lastnikom - je NBA ekipa tik pred koncem?"
-   },
-   {
-    "title": "Angriff ohne Vorwarnung - Krawall-Krähe hat es auf Frau abgesehen",
-    "link": "https://www.bild.de/news/angriff-ohne-vorwarnung-krawall-kraehe-hat-es-auf-frau-abgesehen-6a742ccbcc46967c04cb0447",
-    "image": "https://images.bild.de/6a742ccbcc46967c04cb0447/e9c247bd553d637445d82242d4c35a60,b0ac175b?w=1280",
-    "date": 0,
-    "titleSl": "Napad brez opozorila - vrana cilja na žensko"
    }
   ],
   "krone": [
+   {
+    "title": "Patienten wohlauf - Premiere an Linzer Uniklinik: Herz-OP mit Roboter",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XYTRQS0d5TFk0VjlKaHduOG4zMWQ5a2VuZUp0cXZVZnRZNnc3TkMySUxQQ2FmVEFiMURWLTBXcXFydw?oc=5",
+    "image": "",
+    "date": 1786008540000,
+    "titleSl": "Bolniki se počutijo dobro – premiera v Univerzitetni bolnišnici Linz: operacija srca z roboti"
+   },
    {
     "title": "Baustart im Oktober - Jetzt ist fix, was am Donauufer entstehen wird",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Wc21mNUp3bTFDdGllTDRBRUhVYkF2SU1BNHROUG85alZiMThDZm5OUmZSQlVNNGdudzFqc3BpS0xFQQ?oc=5",
@@ -496,16 +503,16 @@
     "image": "",
     "date": 1786007220000,
     "titleSl": "24 sil na dan - zvezne dežele morajo poslati policiste na Dunaj"
-   },
-   {
-    "title": "„Krone“-Kommentar - Solidarität mit Spanien",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nNktCSjZqMkxDODBSb3laVUVRYS1Na3B0cHZuWFUxX1FQZzZRT1JLQ2NQcGc3TTZzd0VESlRzb0s0dw?oc=5",
-    "image": "",
-    "date": 1786006800000,
-    "titleSl": "Komentar “Krone” - solidarnost s Španijo"
    }
   ],
   "rainews": [
+   {
+    "title": "È morto Francesco Guccini, il cantautore poeta aveva 86 anni. Cerimonia commemorativa a settembre",
+    "link": "https://www.rainews.it/maratona/2026/08/morto-francesco-guccini-il-cantautore-poeta-aveva-86-anni-cerimonia-commemorativa-a-settembre-diretta-esequie-funerali-commenti-saluto-95529000-28c0-4745-841a-deb39413d1b7.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/06/1786007090624_aaefbfbeefdbe.jpg",
+    "date": 1786007760000,
+    "titleSl": "Francesco Guccini, pesnik kantavtor, je umrl v starosti 86 let. Spominska slovesnost septembra"
+   },
    {
     "title": "Giuseppe Conte in Commissione Covid: i nodi da sciogliere nella gestione della pandemia",
     "link": "https://www.rainews.it/articoli/2026/08/giuseppe-conte-davanti-in-commissione-covid-i-nodi-da-sciogliere-nella-gestione-della-pandemia-d4c28f4a-897c-4c81-b268-4d042740f0b4.html",
@@ -540,16 +547,16 @@
     "image": "https://www.rainews.it/dl/img/2026/08/06/1786007084195_fbffbaabca.jpg",
     "date": 1786006860000,
     "titleSl": "Francesco Guccini je umrl, star je bil 86 let"
-   },
-   {
-    "title": "Europei di nuoto, 5km donne: Taddeucci è ancora oro, Pozzobon bronzo",
-    "link": "https://www.rainews.it/maratona/2026/08/europei-nuoto-parigi-tutte-le-medaglie-calendario-gare-b494a6f0-3302-41d9-b948-7fc828e44ff7.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/05/1785944892908_EuropeanAquaticsParigiNuotoartisticoFinaleSquadraAcrobatico..RAIVIDEOCUTCLIPREAL.png",
-    "date": 1786005600000,
-    "titleSl": "Evropsko prvenstvo v plavanju, 5 km ženske: Taddeuccijeva še vedno zlata, Pozzobon bronasta"
    }
   ],
   "lemonde": [
+   {
+    "title": "La loi de programmation militaire validée par le Conseil constitutionnel, sans réserve",
+    "link": "https://www.lemonde.fr/societe/article/2026/08/06/la-loi-de-programmation-militaire-validee-par-le-conseil-constitutionnel-sans-reserve_6739833_3224.html",
+    "image": "https://img.lemde.fr/2026/08/06/448/0/5004/2502/644/322/60/0/9e79a21_upload-1-mjrowlwotreu-000-b3cq8e9.jpg",
+    "date": 1786008114000,
+    "titleSl": "Zakon o vojaškem programiranju, ki ga je brez pridržka potrdil ustavni svet"
+   },
    {
     "title": "Menaces du FLNC contre les non-Corses : le Parquet national antiterroriste annonce l’ouverture d’une enquête",
     "link": "https://www.lemonde.fr/societe/article/2026/08/06/menaces-du-flnc-contre-les-non-corses-le-parquet-national-antiterroriste-annonce-l-ouverture-d-une-enquete_6739831_3224.html",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/07/31/584/0/7013/3506/644/322/60/0/c7aa6c0_ftp-1-aq9m27gsqffu-49297e3597c9484191504956fe04b322-0-60fcaaca789c40cf9a181a5ff586ac46.jpg",
     "date": 1786001403000,
     "titleSl": "Burma: v iskanju diplomatskega priznanja pučističnega predsednika Min Aung Hlainga sprejeli v Bangkoku"
-   },
-   {
-    "title": "Mort d’Amal Khalil, journaliste tuée par l’armée israélienne dans le sud du Liban : Amnesty International et Human Rights Watch réclament une enquête pour crime de guerre",
-    "link": "https://www.lemonde.fr/international/article/2026/08/06/mort-d-une-journaliste-tuee-par-l-armee-israelienne-dans-le-sud-du-liban-amnesty-international-et-human-rights-watch-reclament-une-enquete-pour-crime-de-guerre_6739724_3210.html",
-    "image": "https://img.lemde.fr/2026/04/24/392/0/6000/3000/644/322/60/0/614e874_ftp-1-v6vz8ichyeju-8ae71fed82ff4195abfd78fa43e2998d-0-66e9270f9e164a6ba0522e73f232e065.jpg",
-    "date": 1786001077000,
-    "titleSl": "Smrt Amal Khalil, novinarke, ki jo je izraelska vojska ubila v južnem Libanonu: Amnesty International in Human Rights Watch pozivata k preiskavi vojnih zločinov"
    }
   ],
   "elpais": [
