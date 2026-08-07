@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-07T05:58:22.067Z",
+ "generatedAt": "2026-08-07T06:00:58.337Z",
  "sources": {
   "siol": [
+   {
+    "title": "Eddie 'Orel' se je po desetih letih vrnil na skakalnico #video",
+    "link": "https://siol.net/sportal/zimski-sporti/eddie-orel-se-je-po-desetih-letih-vrnil-na-skakalnico-video-698374",
+    "image": "https://siol.net/media/img/cb/bf/c8ad943363f2465326e7.jpeg",
+    "date": 1786082400000
+   },
    {
     "title": "Pred nami je peklenski prometni konec tedna",
     "link": "https://siol.net/novice/slovenija/pred-nami-je-peklenski-prometni-konec-tedna-698391",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/potres-v-blizini-reke-cutili-tudi-v-sloveniji-698386",
     "image": "https://siol.net/media/img/23/57/9c7c06fe599f73faf1a2.jpeg",
     "date": 1786077840000
-   },
-   {
-    "title": "Radarska slika padavin – aktualna vremenska slika za Slovenijo",
-    "link": "https://siol.net/novice/slovenija/radarska-slika-padavin-aktualna-vremenska-slika-za-slovenijo-664368",
-    "image": "https://siol.net/media/img/fc/e8/04a39738d32ef800c163.jpeg",
-    "date": 1786077600000
    }
   ],
   "24ur": [
@@ -123,6 +123,12 @@
     "date": 1786082160000
    },
    {
+    "title": "Novo glede ministrovega nakupa, ki dviguje prah: \"Gre za dve različni zadevi\"",
+    "link": "https://www.zurnal24.si/slovenija/novo-glede-ministrovega-nakupa-ki-dviguje-prah-gre-za-dve-razlicni-zadevi-463278",
+    "image": "https://www.zurnal24.si/media/img/f1/8a/7dccab232cb9b3511aa7.jpeg",
+    "date": 1786081800000
+   },
+   {
     "title": "Hud potres na Hrvaškem, čutili smo ga tudi v Sloveniji",
     "link": "https://www.zurnal24.si/slovenija/potres-reka-hrvaska-463276",
     "image": "https://www.zurnal24.si/media/img/b9/f3/4dd1dd465802f410f128.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/avto/prihajajo-poceni-kitajski-volkswagni-v-evropo-463132",
     "image": "https://www.zurnal24.si/media/img/86/f1/93164c4f62e2e1bf866a.jpeg",
     "date": 1786073969000
-   },
-   {
-    "title": "Avstrija bo udarila po voznikih: prometne kazni bodo kar za polovico višje",
-    "link": "https://www.zurnal24.si/avto/avstrija-bo-udarila-po-voznikih-prometne-kazni-bodo-kar-za-polovico-visje-462862",
-    "image": "https://www.zurnal24.si/media/img/ed/a4/94f140ea0ba73f95a530.jpeg",
-    "date": 1786073892000
    }
   ],
   "reuters": [
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
+    "title": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/b41c4f59d68651701883bac3fa375dc47f2a4bae/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=64280571d22032043d8a0c4609da4232",
+    "date": 1786081604000,
+    "titleSl": "Avstralske novice v živo: generalni državni tožilec opozarja ženske in otroke, ki jim grozi \"škodljivo vedenje\" uporabnikov pametnih očal; velike zamude na letališču v Sydneyju"
+   },
+   {
     "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
     "link": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/7ccb6ff268ce337ed3475e4ca6c7944aad6ccdcb/482_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=9e775f6e22baef4713679f6e16fa3bb3",
     "date": 1786080651000,
     "titleSl": "Sojenje Alanu Jonesu: pritožnik želi \"ponižati\" izdajatelja televizijskega programa z razkritjem intimnih podrobnosti domnevnih napadov, obramba sodišču pravi"
-   },
-   {
-    "title": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/b41c4f59d68651701883bac3fa375dc47f2a4bae/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=64280571d22032043d8a0c4609da4232",
-    "date": 1786080495000,
-    "titleSl": "Avstralske novice v živo: generalni državni tožilec opozarja ženske in otroke, ki jim grozi \"škodljivo vedenje\" uporabnikov pametnih očal; velike zamude na letališču v Sydneyju"
    },
    {
     "title": "Extreme heat breaks temperature records in central and eastern Europe",
@@ -463,6 +463,27 @@
   ],
   "krone": [
    {
+    "title": "„Nix damit zu tun“ - Tiroler WK-Chefin wegen Kündigung vor Gericht",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QdnpENVBwNHE4Y1NUc1cyM3FPSXNMR1EtR1RiSGloTkI1TXo4R2FsYVNyZmtIa3h4N1N6Vi1ZZWZ0Zw?oc=5",
+    "image": "",
+    "date": 1786082400000,
+    "titleSl": "\"Nič s tem\" - Tirolski šef WK na sodišču zaradi razrešitve"
+   },
+   {
+    "title": "„Wir wollen unsere Heimserie ausbauen, egal wie!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBsSVBjZEtiNUg0MjQyNGZrUjZPbTRtTFYzUDEwa1hNTGFYSG5wcE9tVkRqZlJOT1pjUjIzdWtIa3F3UQ?oc=5",
+    "image": "",
+    "date": 1786082400000,
+    "titleSl": "\"Našo domačo serijo želimo razširiti, ne glede na to, kako!\""
+   },
+   {
+    "title": "„Bestes Geschenk“ - Meryl Streep singt Geri Halliwell süßes Ständchen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4dVdoS1JMcTJlMklUSHpmb0FEVTg5X0RHblBzdVh1bXl1TVlrYlJSVGVEbGhxbGI0VkRXNWpuZlkxUQ?oc=5",
+    "image": "",
+    "date": 1786082340000,
+    "titleSl": "\"Najboljše darilo\" - Meryl Streep poje sladko serenado Geri Halliwell"
+   },
+   {
     "title": "Nach hartem Kampf - Erstmals seit April: Schwärzler im Viertelfinale",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaN3hEVUFtYnhtWmxOWTdtMGdndk9zek9Va2V4TjUtUG5QMjV0dUwxdWRsUTJUZlMtbElXTzdYTWJhZw?oc=5",
     "image": "",
@@ -482,30 +503,23 @@
     "image": "",
     "date": 1786081320000,
     "titleSl": "Po velikem škandalu - strup v otroškem mleku: preiskave tudi v Avstriji"
-   },
-   {
-    "title": "Verehrung statt Kritik - Großer Verband stärkt weiter FIFA-Boss Infantino",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QRzdaLURvOGdUc203b1otU3E2dy1ONGpJQjRkR1ZIaEtkejhkOGx2d2xHejZ3cWhOU2xybXBIODRLQQ?oc=5",
-    "image": "",
-    "date": 1786081080000,
-    "titleSl": "Oboževanje namesto kritike - veliko združenje še naprej krepi šefa Fife Infantina"
-   },
-   {
-    "title": "Der Morgen danach - Verheerende Unwetter richteten massive Schäden an",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vTmtGT0FBaUdKMndQOWpUZW9SQ29NT2ZqZkdYdFNpbVRJdUw5S2pVQWVYYVV3bTcwcXlxU1ZqcHExZw?oc=5",
-    "image": "",
-    "date": 1786081020000,
-    "titleSl": "Naslednje jutro so uničujoče nevihte povzročile ogromno škodo"
-   },
-   {
-    "title": "Brandursache unklar - Zwei Kälber bei Brand in Feldkirchen verendet",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3WUI4NWNIeHZLRFREU2pzXzJlVzQ5S25UdUpnSUZBT3pfWEswSGhvODNMbThqS2gxMnkwcDlsY1NKdw?oc=5",
-    "image": "",
-    "date": 1786080840000,
-    "titleSl": "Vzrok požara ni jasen - V požaru v Feldkirchnu sta poginili dve teleti"
    }
   ],
   "rainews": [
+   {
+    "title": "Oggi a Gedda patto di mutua difesa tra Arabia Saudita, Turchia e Pakistan",
+    "link": "https://www.rainews.it/maratona/2026/08/guerre-medio-oriente-gaza-libano-iran-maratona-progressi-su-hormuz-cnn-calo-scorte-missili-hegseth-fake-d2be6a7c-1cd1-4c63-a3c2-c7649084f397.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/07/1786077374193_vlcsnap.jpg",
+    "date": 1786082340000,
+    "titleSl": "Sporazum o medsebojni obrambi med Savdsko Arabijo, Turčijo in Pakistanom danes v Džedi"
+   },
+   {
+    "title": "Il Giappone chiude negozi e cancella voli nelle isole meridionali mentre arriva il tifone Dolphin",
+    "link": "https://www.rainews.it/video/2026/08/il-giappone-chiude-negozi-e-cancella-voli-nelle-isole-meridionali-mentre-arriva-il-tifone-dolphin-f848f591-43bb-4fbf-bd63-b434c54fb06b.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/07/1786082356821_vlcsnaphms.png",
+    "date": 1786082220000,
+    "titleSl": "Japonska zaradi tajfuna Dolphin zapira trgovine in odpoveduje lete na južnih otokih"
+   },
    {
     "title": "Strage in una scuola a Bangkok, studente armato spara: almeno 7 morti e 15 feriti",
     "link": "https://www.rainews.it/articoli/2026/08/sparatoria-a-scuola-a-bangkok-almeno-due-morti-e-15-feriti-thailandia-ef3f7680-8410-4535-988b-8fdeaa8988b6.html",
@@ -533,20 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/04/1785822989297_Cattura.PNG",
     "date": 1786080300000,
     "titleSl": "Nova Zelandija, rekordni mraz in razmah porabe: povpraševanje po elektriki na zgodovinskih najvišjih nivojih"
-   },
-   {
-    "title": "Oggi a Gedda patto di mutua difesa tra Arabia Saudita, Turchia e Pakistan",
-    "link": "https://www.rainews.it/maratona/2026/08/guerre-medio-oriente-gaza-libano-iran-maratona-progressi-su-hormuz-cnn-calo-scorte-missili-hegseth-fake-d2be6a7c-1cd1-4c63-a3c2-c7649084f397.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/07/1786077374193_vlcsnap.jpg",
-    "date": 1786080000000,
-    "titleSl": "Sporazum o medsebojni obrambi med Savdsko Arabijo, Turčijo in Pakistanom danes v Džedi"
-   },
-   {
-    "title": "Europei sport acquatici, tutti gli orari delle gare. Ecco quando e dove vederli",
-    "link": "https://www.rainews.it/articoli/2026/08/europei-di-nuoto-tutti-gli-orari-delle-gare-ecco-quando-e-dove-vederli-6-agosto-8c603a5b-6ed0-498e-931e-f1bba9a29ac0.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/04/1785854890492_CXKW.jpg",
-    "date": 1786078740000,
-    "titleSl": "Evropski vodni športi, vsi časi tekmovanj. Tukaj je, kdaj in kje jih lahko vidite"
    }
   ],
   "lemonde": [
