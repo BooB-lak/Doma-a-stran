@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T07:24:25.827Z",
+ "generatedAt": "2026-08-07T07:26:24.100Z",
  "sources": {
   "siol": [
    {
@@ -11,7 +11,7 @@
    {
     "title": "Matjaž Kek spet ustvarja čudeže na Hrvaškem",
     "link": "https://siol.net/sportal/nogomet/matjaz-kek-spet-ustvarja-cudeze-na-hrvaskem-698397",
-    "image": "https://siol.net/media/img/ef/37/84b437d3799229c51698.jpeg",
+    "image": "https://siol.net/media/img/fa/92/e2e4a87795665f317828.jpeg",
     "date": 1786086420000
    },
    {
@@ -79,8 +79,14 @@
   ],
   "rtvslo": [
    {
-    "title": "Najstnik na Tajskem ubil pet učiteljev in stara starša, še 15 ljudi pa ranil",
-    "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/najstnik-na-tajskem-ubil-pet-uciteljev-in-stara-starsa-se-15-ljudi-pa-ranil/790245",
+    "title": "V Severni Koreji kot recept za premagovanje vročih dni predlagajo juho iz pasjega mesa",
+    "link": "https://www.rtvslo.si/zabava-in-slog/zanimivosti/v-severni-koreji-kot-recept-za-premagovanje-vrocih-dni-predlagajo-juho-iz-pasjega-mesa/790250",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/04/18/66617553.jpg",
+    "date": 1786087466000
+   },
+   {
+    "title": "V strelskem napadu na Tajskem ubitih pet učiteljev",
+    "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/v-strelskem-napadu-na-tajskem-ubitih-pet-uciteljev/790245",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/07/67066233.jpg",
     "date": 1786085411000
    },
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/kljub-poostreni-zakonodaji-se-je-stevilo-nesrec-z-elektricnimi-skiroji-povecalo/790239",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/07/67066230.jpg",
     "date": 1786081717000
-   },
-   {
-    "title": "Kosovskemu parlamentu na ustanovni seji ni uspelo izvoliti vodstva",
-    "link": "https://www.rtvslo.si/svet/evropa/kosovskemu-parlamentu-na-ustanovni-seji-ni-uspelo-izvoliti-vodstva/790237",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/07/67066229.jpg",
-    "date": 1786081268000
    }
   ],
   "zurnal": [
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Mietwohnungen: Wie Katherina Reiche die Wärmewende ausbremst",
+    "link": "https://www.spiegel.de/wirtschaft/soziales/mietwohnungen-wie-katherina-reiche-die-waermewende-ausbremst-a-cf479910-f4fe-4895-86a8-56e4813858e5#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/544f57d0-d80e-459c-b4c8-2f4bd3ac0a77_w520_r2.08_fpx47.35_fpy50.jpg",
+    "date": 1786087200000,
+    "titleSl": "Najemna stanovanja: Kako Katherina Reiche upočasnjuje prehod toplote"
+   },
+   {
     "title": "Dr. Motte: Loveparade-Gründer spricht über die zerstörerische Rolle von Alkohol",
     "link": "https://www.spiegel.de/panorama/leute/dr-motte-loveparade-gruender-spricht-ueber-die-zerstoererische-rolle-von-alkohol-a-35017322-41b7-479d-b52b-fabf9b186d5e#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/8a70433a-f1e8-412f-84ea-ed945d71d540_w520_r2.08_fpx68.63_fpy54.99.jpg",
@@ -408,16 +415,23 @@
     "image": "https://cdn.prod.www.spiegel.de/images/f3c969da-7b4d-49af-b743-907d96f499d5_w520_r2.08_fpx46_fpy69.jpg",
     "date": 1786080300000,
     "titleSl": "Vozniki v Nemčiji redko pustijo svoje avtomobile parkirane – kljub visokim cenam goriva"
-   },
-   {
-    "title": "Bücher: Wenn wir immer weniger lesen – werden Bücher dann zum neuen Statussymbol?",
-    "link": "https://www.spiegel.de/kultur/literatur/buecher-wenn-wir-immer-weniger-lesen-werden-buecher-dann-zum-neuen-statussymbol-a-aa64a464-65a6-408e-95d1-b999d4df1f89#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/90f02128-df98-4146-8e5d-edac15d59410_w520_r2.08_fpx50.6_fpy50.jpg",
-    "date": 1786076700000,
-    "titleSl": "Knjige: Če bomo vse manj brali, bodo knjige postale nov statusni simbol?"
    }
   ],
   "bild": [
+   {
+    "title": "Prozess um ermordeten Fabian - Gina H. wird im Gefangenentransporter vorgefahren",
+    "link": "https://www.bild.de/regional/rostock/live-ticker-zum-prozess-um-fabian-polizist-schliesst-andere-taeter-aus-69f2f4ded6078134c45a3b9c",
+    "image": "https://images.bild.de/69f2f4ded6078134c45a3b9c/c537a756a528a8f7b6c4f929c7f1fb4e,1c5b313c?w=1280",
+    "date": 0,
+    "titleSl": "Sojenje umorjenemu Fabianu - Gina H. se pripelje v transporterju za ujetnike"
+   },
+   {
+    "title": "FDP-Vizechefin Linda Teuteberg - „Die Ostidentität wurde nachträglich erfunden“",
+    "link": "https://www.bild.de/politik/inland/fdp-vizechefin-linda-teuteberg-die-ostidentitaet-wurde-nachtraeglich-erfunden-6a758241e04765407d9a21c6",
+    "image": "https://images.bild.de/6a758241e04765407d9a21c6/779b0203f1cda26ce2d9062bc4920271,17425633?w=1280",
+    "date": 0,
+    "titleSl": "Namestnica vodje FDP Linda Teuteberg - \"Vzhodna identiteta je bila izumljena pozneje\""
+   },
    {
     "title": "Verrückter Reise-Trend - Warum Urlauber den Reisepass in Alufolie wickeln",
     "link": "https://www.bild.de/leben-wissen/digital/reisepass-schuetzen-experten-entlarven-alufolie-mythos-6a757957c502bfbe3f080d6f",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a758177c07f6c2f08035335/581776028f64ba30387cfa06b78a7bbd,5964c2c0?w=1280",
     "date": 0,
     "titleSl": "Že danes na RTL+ - Tako se “Vse, kar šteje” nadaljuje naslednji teden"
-   },
-   {
-    "title": "Überraschungs-Sieg gegen Favoriten - Kretzsche-Sohn mit Deutschland im EM-Halbfinale",
-    "link": "https://www.bild.de/sport/mehr-sport/handball-deutschland-mit-elvis-kretzschmar-im-u18-halbfinale-6a757f940e3689919ec738db",
-    "image": "https://images.bild.de/6a757f940e3689919ec738db/2ff9d69d76603fbb6bcdd70856e14ede,7cf62746?w=1280",
-    "date": 0,
-    "titleSl": "Presenetljiva zmaga proti favoritom - Kretzschejev sin z Nemčijo v polfinalu evropskega prvenstva"
-   },
-   {
-    "title": "Körpersprache - Welche Wirkung die Sitzposition auf andere hat",
-    "link": "https://www.bild.de/leben-wissen/psychologie-liebe/laut-expertin-verraet-die-richtung-der-fussspitze-ob-ihr-gegenueber-sie-mag-6a59ee3561b8a80211aa948f",
-    "image": "https://images.bild.de/6a59ee3561b8a80211aa948f/bc15f6f1526b032a0baaa0a35565dffd,890fc6f4?w=1280",
-    "date": 0,
-    "titleSl": "Govorica telesa – kakšen učinek ima položaj sedenja na druge"
    }
   ],
   "krone": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "“¡Viva España…, pero no la casta!”",
+    "link": "https://elpais.com/cultura/2026-08-07/viva-espana-pero-no-la-casta.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/LAWBWE3OBJFYHJ44EWKWGN3FAQ.jpeg?auth=86477201f57d5fb771494cfadd82c24fbfe5eb7ec4906f79c0de2c00092ad296",
+    "date": 1786087256000,
+    "titleSl": "\"Naj živi Španija ..., vendar ne kasta!\""
+   },
+   {
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno pide la comparecencia de Marlaska, Albares, Robles y Bolaños en el Congreso por la crisis en Ceuta",
     "link": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/G2IGW52VP5BS5MIFQ2QU6ZFOGU.jpg?auth=99e39661a37d95dae5ec745328f054414da54328e0fd4f7bd0c50eb42b4beab4",
@@ -604,7 +611,7 @@
    {
     "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia",
     "link": "https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/7RHT5266FVB3TDWRNJVYIIK33E.JPG?auth=19d335e5b81339263f3c7a08d47f52588adca691411a756eb2fb263bfa8252fd",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202616_071930_video_1800.mp4",
     "date": 1786084916000,
     "titleSl": "Študent je v streljanju v šoli na Tajskem ubil najmanj šest ljudi"
    },
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/MPPTYAZUWZDHNCKL7NILOSXTHA.png?auth=02c7158e5c67c61da89d23bb8d7dbbabda7ea3bb2391c7075adf2cb05844f5b7",
     "date": 1786077900000,
     "titleSl": "Kako lajšati bolečine pri plantarnem fasciitisu: izdelki, ki vam lahko pomagajo"
-   },
-   {
-    "title": "El secreto de farmacia para acabar con el acné adulto y recuperar la piel lisa sin irritarla",
-    "link": "https://elpais.com/escaparate/belleza/tratamiento-antiacne.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/SHPDE4O2G5D6LOR4L2EPOPYPMY.png?auth=5cd8db8aab4ffe4e571d90a52e1df3dda52e434afc61e98e55798a8b98461607",
-    "date": 1786077000000,
-    "titleSl": "Lekarniška skrivnost za odpravo aken pri odraslih in povrnitev gladke kože, ne da bi jo dražili"
    }
   ]
  },
