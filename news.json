@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-07T13:48:26.151Z",
+ "generatedAt": "2026-08-07T13:50:46.527Z",
  "sources": {
   "siol": [
+   {
+    "title": "Nasvet za čas vročinskega vala: \"Jejte vročo pasjo juho\"",
+    "link": "https://siol.net/novice/svet/nasvet-za-cas-vrocinskega-vala-jejte-vroco-pasjo-juho-698449",
+    "image": "https://siol.net/media/img/66/f3/16c7fdeb0cacfe6e83b2.jpeg",
+    "date": 1786110120000
+   },
    {
     "title": "\"Vemo, zakaj se tukaj trudimo in potimo vse poletje\"",
     "link": "https://siol.net/sportal/zimski-sporti/vemo-zakaj-se-tukaj-trudimo-in-potimo-vse-poletje-698436",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/drugi-sporti/plavanje-ep-pariz-sprint-698447",
     "image": "https://siol.net/media/img/9e/97/352761a2b93f6293191f.jpeg",
     "date": 1786107960000
-   },
-   {
-    "title": "Piranski svetniki razveljavili prodajo zemljišč v Fiesi",
-    "link": "https://siol.net/novice/slovenija/piranski-svetniki-razveljavili-prodajo-zemljisc-v-fiesi-698446",
-    "image": "https://siol.net/media/img/e7/e9/e52785acb4f72dde2be7.jpeg",
-    "date": 1786107300000
    }
   ],
   "24ur": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
+    "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+    "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-thailand-school-shooting-02-plwv/07int-thailand-school-shooting-02-plwv-mediumSquareAt3X.jpg",
+    "date": 1786110437000,
+    "titleSl": "Deček ubil stare starše in nato še pet učiteljev, pravijo tajske oblasti"
+   },
+   {
     "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
     "link": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
     "image": "https://static01.nyt.com/images/2026/08/09/business/09Strategies-illo/09Strategies-illo-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/06/us/dc-reflecting-pool-ticktock-header1/dc-reflecting-pool-ticktock-header1-mediumSquareAt3X.jpg",
     "date": 1786106940000,
     "titleSl": "Kako je Reflecting Pool zrcalil Trumpov Washington"
-   },
-   {
-    "title": "Thailand School Shooting Leaves 7 Dead",
-    "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
-    "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-thailand-school-shooting-02-plwv/07int-thailand-school-shooting-02-plwv-mediumSquareAt3X.jpg",
-    "date": 1786105095000,
-    "titleSl": "Streljanje v šoli na Tajskem, sedem mrtvih"
    }
   ],
   "bbc": [
@@ -294,7 +294,7 @@
     "titleSl": "Diego Maradona je bil napihnjen, prikovan na posteljo in je pred smrtjo odstopil, pravi maser"
    },
    {
-    "title": "Turkiye, Saudi Arabi, Pakistan sign joint defence agreement: What’s in it?",
+    "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
     "link": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-07T111909Z_2067458142_RC2NTMANEKYZ_RTRMADP_3_SAUDI-DEFENCE-AGREEMENT-1786102761.jpg?resize=1920%2C1440",
     "date": 1786109320000,
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Deutsche Bahn: ICE Berlin-Paris fällt wegen technischer Probleme vorerst aus",
+    "link": "https://www.spiegel.de/mobilitaet/deutsche-bahn-ice-berlin-paris-faellt-wegen-technischer-probleme-vorerst-aus-a-79965fd6-8595-473f-bdf0-a4149e551c6e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/e109ce87-a80c-4696-b4be-b161524bec76_w520_r2.08_fpx61.64_fpy50.98.jpg",
+    "date": 1786110000000,
+    "titleSl": "Deutsche Bahn: ICE Berlin-Pariz je zaenkrat odpovedan zaradi tehničnih težav"
+   },
+   {
     "title": "Donau – Budapest: Niedrigwasser legt tote Soldaten der Wehrmacht frei",
     "link": "https://www.spiegel.de/ausland/donau-budapest-niedrigwasser-legt-tote-soldaten-der-wehrmacht-frei-a-cb88e144-8092-40ab-b830-afeed6c0658b#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/8865abd2-a17e-4a23-bbd5-22303ef5deb1_w520_r2.08_fpx41.34_fpy50.jpg",
@@ -408,16 +415,23 @@
     "image": "https://cdn.prod.www.spiegel.de/images/abb2ab51-f275-4ce1-8bde-5cbb8a28e90a_w520_r2.08_fpx47.14_fpy50.99.jpg",
     "date": 1786102140000,
     "titleSl": "Atletika: Owenu Ansahu grozi večletna prepoved igranja, ker je ostal na dopinškem testu"
-   },
-   {
-    "title": "Iran-Krieg: Donald Trump hat ein Munitionsproblem",
-    "link": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-hat-ein-munitionsproblem-a-17de2a6a-5e1b-43c7-941b-dd1704282754#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/d39a0368-af43-45c6-a7a8-e5bccfa4ea0d_w520_r2.08_fpx39.99_fpy49.99.jpg",
-    "date": 1786101720000,
-    "titleSl": "Iranska vojna: Donald Trump ima težave s strelivom"
    }
   ],
   "bild": [
+   {
+    "title": "FDP-Vizechefin Linda Teuteberg - „Die Ostidentität wurde nachträglich erfunden“",
+    "link": "https://www.bild.de/politik/inland/fdp-vizechefin-linda-teuteberg-die-ostidentitaet-wurde-nachtraeglich-erfunden-6a758241e04765407d9a21c6",
+    "image": "https://images.bild.de/6a758241e04765407d9a21c6/779b0203f1cda26ce2d9062bc4920271,6fb02bbb?w=1280",
+    "date": 0,
+    "titleSl": "Namestnica vodje FDP Linda Teuteberg - \"Vzhodna identiteta je bila izumljena pozneje\""
+   },
+   {
+    "title": "„Ich bin broke“ - Jenny Elvers: Pleite-Beichte im TV",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/ich-bin-broke-jenny-elvers-pleite-beichte-im-tv-6a75c7640e3689919ec73f71",
+    "image": "https://images.bild.de/6a75c7640e3689919ec73f71/46a6effd2ed4ef686e5334fd2f2c550e,cc208909?w=1280",
+    "date": 0,
+    "titleSl": "\"Zlomljen sem\" - Jenny Elvers: priznanje bankrota na TV"
+   },
    {
     "title": "Fiese Aktion! - Reifen von Werder-Star geklaut",
     "link": "https://www.bild.de/sport/fussball/werder-bremen-fiese-aktion-auto-reifen-von-star-geklaut-6a75d9a2c07f6c2f08035bc1",
@@ -433,13 +447,6 @@
     "titleSl": "Zdaj pa stvari postajajo resne! - Ti 3 vrhunski klubi lovijo zvezdnika Freiburga Atuboluja"
    },
    {
-    "title": "„Ich bin broke“ - Jenny Elvers: Pleite-Beichte im TV",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/ich-bin-broke-jenny-elvers-pleite-beichte-im-tv-6a75c7640e3689919ec73f71",
-    "image": "https://images.bild.de/6a75c7640e3689919ec73f71/46a6effd2ed4ef686e5334fd2f2c550e,cc208909?w=1280",
-    "date": 0,
-    "titleSl": "\"Zlomljen sem\" - Jenny Elvers: priznanje bankrota na TV"
-   },
-   {
     "title": "Schwulen-Aktivist sagt - „Es gibt kein Grundrecht auf ein Kind“",
     "link": "https://www.bild.de/politik/inland/schwuler-aktivist-sagt-es-gibt-kein-grundrecht-auf-ein-kind-6a7593214aef843a32275e58",
     "image": "https://images.bild.de/6a7593214aef843a32275e58/bfdf4595212a26259d2a198216cce91a,3ae7bb61?w=1280",
@@ -452,16 +459,23 @@
     "image": "https://images.bild.de/6a75d380e04765407d9a2b20/a87ea05946161d78208226eef337cdf9,9d14d4d5?w=1280",
     "date": 0,
     "titleSl": "Sprehajalec je poklical policijo - v Baltskem morju odkrili mrtvo žensko"
-   },
-   {
-    "title": "Schleswig-Holstein - Polizei übersah tote Bella (3) zweimal im Pool",
-    "link": "https://www.bild.de/news/inland/schleswig-hollstein-polizei-uebersah-tote-bella-3-zweimal-im-pool-6a75aae5c07f6c2f08035741",
-    "image": "https://images.bild.de/6a75aae5c07f6c2f08035741/ee16ea076684c4b50d02e58b6c044128,c2da8ae9?w=1280",
-    "date": 0,
-    "titleSl": "Schleswig-Holstein - Policija je dvakrat spregledala mrtvo Bello (3) v bazenu"
    }
   ],
   "krone": [
+   {
+    "title": "Geldkasse gestohlen - Einbruch bei Wasserrettung: „Wir sind fassungslos“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85WHcxRUtUVUdjX1ZUVGxUV3ozdUNqcG5LbGxFQTIyOXdJQ2tkT0ZzYTlhbnZjcWc4TWtrcGxSOFlrZw?oc=5",
+    "image": "",
+    "date": 1786110540000,
+    "titleSl": "Ukradena blagajna - vlom v reševalce iz vode: \"Osupli smo\""
+   },
+   {
+    "title": "78 Festnahmen - Spanische Polizei zerschlägt Schleppernetzwerk",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kclBxbURaYnpnMElRNTBUNkswYXc1UmtLNTVMNVN5WG1SWVRPVV9DWDVuRzQ0cmlvU3Zma3Fpb21LZw?oc=5",
+    "image": "",
+    "date": 1786110480000,
+    "titleSl": "78 aretacij - španska policija je razbila tihotapsko mrežo"
+   },
    {
     "title": "Erhöhte Werte: - Der nächste Badesee muss jetzt geschlossen werden",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJeGt1WlhxbXhQeE9QbE0xeUJRcU0zQld1cXhIdnQ0Q1B5Z3hkZ2UzVW8ySkJGdXU0VXV0NTZpUzhFUQ?oc=5",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1786109400000,
     "titleSl": "Alfred Drabits - Vredno častno mesto za legendarnega nogometaša"
-   },
-   {
-    "title": "Tierschützer geschockt - Mit Versorgung überfordert: 400 Schweine verendet",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5CXzhBblR1ekFKTnFweXhYZHV6RDdUeklXRU10LU9DRDNvclVoSEUtYzBqWlFWb0wyNDQ5UmhJbmZaZw?oc=5",
-    "image": "",
-    "date": 1786109220000,
-    "titleSl": "Aktivisti za pravice živali šokirani – zasuti z zalogami: poginilo 400 prašičev"
-   },
-   {
-    "title": "Einfuhren steigen - Energieimport treibt Österreichs Handelsdefizit an",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45NnVMRUYxWDB4VG11NnQ1WE9iSUpiWW1qVTVwWXItYkpZeUo1SHpFRDREWDhkVWVqYm9xa1BYcXpmdw?oc=5",
-    "image": "",
-    "date": 1786108080000,
-    "titleSl": "Uvoz raste – uvoz energije povečuje trgovinski primanjkljaj Avstrije"
    }
   ],
   "rainews": [
@@ -542,11 +542,11 @@
     "titleSl": "TG2 Sì, Viaggiare z dne 08.07.2026"
    },
    {
-    "title": "Kallas, Ue: oggi nuove sanzioni per 5 persone coinvolte nel complesso militare russo",
-    "link": "https://www.rainews.it/maratona/2026/08/ucraina-guerra-maratona-missili-russi-su-kiev-morti-e-feriti-droni-wildberries-mosca-contro-italia-russofobia-e-neofascismo-4ae5a1ec-b723-42c5-bb31-71b1dddc2932.html",
-    "image": "https://www.rainews.it/dl/img/2025/05/06/1746551440927_rainewsdfdfeebacbb.jpg",
-    "date": 1786105200000,
-    "titleSl": "Kallas, EU: danes nove sankcije za 5 oseb, vpletenih v ruski vojaški kompleks"
+    "title": "Ceuta, Sanchez all&#x27;Italia: \"Stop ai controlli entro 48 ore o ci saranno conseguenze\"",
+    "link": "https://www.rainews.it/video/2026/08/ceuta-sanchez-allitalia-stop-ai-controlli-entro-48-ore-o-ci-saranno-conseguenze-85d27b0e-5d97-4a45-89cc-e4f6e3ed5e93.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/07/1786103049524_.png",
+    "date": 1786105140000,
+    "titleSl": "Ceuta, Sanchez Italiji: \"Ustavite preglede v 48 urah, sicer bodo posledice\""
    }
   ],
   "lemonde": [
