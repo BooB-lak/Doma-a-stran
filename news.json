@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T10:08:30.900Z",
+ "generatedAt": "2026-08-07T10:10:38.356Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Nad Srednjim Vrhom izbruhnil požar, gasijo tudi air tractorji in helikopter",
     "link": "https://www.24ur.com/novice/slovenija/nad-srednjim-vrhom-izbruhnil-pozar-gasijo-tudi-air-tractorji-in-helikopter.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/ed3ea4b8499a50645fab_63628596.jpg?v=0bd7&fop=fp:0.43:0.64",
-    "date": 1786097259000
+    "date": 1786097311000
    },
    {
     "title": "PRENOS V ŽIVO: Novomeški policisti zasegli večjo količino droge",
@@ -136,7 +136,7 @@
    },
    {
     "title": "V morju na Hrvaškem našli truplo 24-letnega Slovenca",
-    "link": "https://www.zurnal24.si/slovenija/smrt-pasman-24-let-slovenec-463297",
+    "link": "https://www.zurnal24.si/svet/smrt-pasman-24-let-slovenec-463297",
     "image": "https://www.zurnal24.si/media/img/6c/98/08bdb9def8d46c32fe30.jpeg",
     "date": 1786093080000
    },
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "E-Scooter: Mehr Hirnverletzungen als auf Motorrad und Rad",
+    "link": "https://www.spiegel.de/mobilitaet/e-scooter-mehr-hirnverletzungen-als-auf-motorrad-und-rad-a-8b8c3e62-8908-4094-99cd-d0fec8e7fc91#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/53d4135c-9911-4a82-b4f0-b3528990fcde_w520_r2.08_fpx34.28_fpy50.jpg",
+    "date": 1786097160000,
+    "titleSl": "E-skuterji: Več možganskih poškodb kot na motornih kolesih in kolesih"
+   },
+   {
     "title": "Rupert Grint: »Harry Potter«-Star berichtet über Coronazeit mit einer Neugeborenen",
     "link": "https://www.spiegel.de/panorama/leute/rubert-grint-harry-potter-star-berichtet-ueber-coronazeit-mit-einer-neugeborenen-a-7d494557-1569-4392-b1ba-cfe2bd2e363f#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/f890c7c5-152f-4ad4-9f8b-c83c0c31603c_w520_r2.08_fpx44.99_fpy45.jpg",
@@ -408,16 +415,23 @@
     "image": "https://cdn.prod.www.spiegel.de/images/02bbda54-0ee0-48d4-97dc-ad9f9a60ba9e_w520_r2.08_fpx36.64_fpy50.98.jpg",
     "date": 1786092060000,
     "titleSl": "Turčija verjetno želi podpisati obrambni pakt s Pakistanom in Savdsko Arabijo"
-   },
-   {
-    "title": "Punica verschwindet vom Markt",
-    "link": "https://www.spiegel.de/wirtschaft/punica-verschwindet-vom-markt-a-57663255-be4e-4c31-91e8-13baa0f61274#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/95f7f262-7f7e-4d6e-b4dc-e7cdabf8eea6_w520_r2.08_fpx33.49_fpy50.jpg",
-    "date": 1786091760000,
-    "titleSl": "Punica izgine s trga"
    }
   ],
   "bild": [
+   {
+    "title": "Katzenhalter kennen es - Warum zucken Katzen im Schlaf?",
+    "link": "https://www.bild.de/leben-wissen/haustiere/wenn-katzen-im-schlaf-zucken-wann-halter-aufmerksam-sein-sollten-6a68b1e5c435b807339bd741",
+    "image": "https://images.bild.de/6a68b1e5c435b807339bd741/22ef1062f196685494a6c28aaab11ac9,30a40c1f?w=1280",
+    "date": 0,
+    "titleSl": "Lastniki mačk to vedo – zakaj mačke trzajo v spanju?"
+   },
+   {
+    "title": "Lehrerin berichtete in BILD - Kennen auch Sie eine Horror-Schule?",
+    "link": "https://www.bild.de/news/inland/lehrerin-berichtet-in-bild-kennen-auch-sie-eine-horror-schule-6a759855c07f6c2f08035541",
+    "image": "https://images.bild.de/6a759855c07f6c2f08035541/5f2e42e454b756aa2634f6b22837e09b,f8f64e62?w=1280",
+    "date": 0,
+    "titleSl": "Učitelj poročal v BILD - Tudi vi poznate šolo grozljivk?"
+   },
    {
     "title": "Wut-Pöbler terrorisierte Nachbarn - Tyrann von nebenan in Psychiatrie eingewiesen",
     "link": "https://www.bild.de/regional/hamburg/nachbarn-terrorisiert-tyrann-von-nebenan-in-psychiatrie-eingewiesen-6a71b31e61ec46f846a26b1b",
@@ -445,64 +459,50 @@
     "image": "https://images.bild.de/6a7204c2cc46967c04caebdb/338d0cd68ba2ca4bff8e2f7acd73143f,b637c464?w=1280",
     "date": 0,
     "titleSl": "Novo letalsko pravilo v Italiji - Ali moram zdaj na letalu sedeti poleg ogromnega psa?"
-   },
-   {
-    "title": "Fans hoffen auf erste Spielszenen - Rockstar kündigt „GTA 6“-Special auf Netflix a",
-    "link": "https://www.bild.de/unterhaltung/bildgg/grand-theft-auto-vi-ein-ausfuehrlicher-blick-zuerst-bei-netflix-rockstar-kuendigt-special-an-6a7486a77c1c4ed3d6ab714f",
-    "image": "https://images.bild.de/6a7486a77c1c4ed3d6ab714f/eba3fe600e0e772a57cbebf50ebd7323,9c787e8a?w=1280",
-    "date": 0,
-    "titleSl": "Oboževalci upajo na prve prizore igre - Rockstar napoveduje posebno igro \"GTA 6\" na Netflixu a"
-   },
-   {
-    "title": "Giannoulis-Nachfolger beim FC Augsburg - Welche Rolle Baum beim Behrens-Wechsel spielte",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-welche-rolle-fca-trainer-manuel-baum-beim-wechsel-von-hennes-behrens-spielte-6a72f7c92b19377cc12305f0",
-    "image": "https://images.bild.de/6a72f7c92b19377cc12305f0/3f1b1b8118519a8a8c92724d9e804af6,d5bf584e?w=1280",
-    "date": 0,
-    "titleSl": "Giannoulisov naslednik pri FC Augsburg - Kakšno vlogo je imel Baum pri Behrensovi spremembi"
    }
   ],
   "krone": [
    {
-    "title": "Tagelanger Terror - Aggro-Affe verletzte 18 Menschen: Eingefangen!",
+    "title": "Setzt sich zur Wehr - Tourismus, Vandalen: Kuriose Regeln in Italien - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83ZzFtaW1HNnJPY3hmX21TWWRZMGhodlVHbnozazFrYlVsTFItMi1kSlREUERkMHhaMm9QNGxKTGlYZw?oc=5",
+    "image": "",
+    "date": 1786097280000,
+    "titleSl": "Upor - Turizem, vandali: Nenavadna pravila v Italiji - krone.at"
+   },
+   {
+    "title": "Tagelanger Terror - Aggro-Affe verletzte 18 Menschen: Eingefangen! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzbkRSbTY5V0xVYzBDNkU4YnJ4OWdxMk5tWHN1YVpfYmNvczNUT25GcjRhbEFudWFyb005WGt3b3FVdw?oc=5",
     "image": "",
     "date": 1786097040000,
-    "titleSl": "Dnevi groze – opica Aggro ranila 18 ljudi: Ujeti!"
+    "titleSl": "Dnevi groze – opica Aggro ranila 18 ljudi: Ujeti! - krone.at"
    },
    {
-    "title": "„Krone“ lädt zur Kinderwelt am Altstadtzauber",
+    "title": "„Krone“ lädt zur Kinderwelt am Altstadtzauber - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxMVoxUHprc1lmVUtNZTliWjZENnZZRHBqX292MG1yQWw2c1BuYk9zemI2c2VkdlZUNzR0M1NnVUphdw?oc=5",
     "image": "",
     "date": 1786096860000,
-    "titleSl": "Krone vas vabi v otroški svet v Altstadtzauber"
+    "titleSl": "“Krone” vas vabi v otroški svet na Altstadtzauber - krone.at"
    },
    {
-    "title": "Salzburger Liga - Prognose: Ein Titelfavorit und viele Unbekannte",
+    "title": "Salzburger Liga - Prognose: Ein Titelfavorit und viele Unbekannte - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FaWNRVDRaU2YtRUZJMGtwM1ExZ2hBUi1kc3lIR0Z0QXd0U283enJCV2sycUgwM1BVVkVmQzNuN2N2dw?oc=5",
     "image": "",
     "date": 1786096800000,
-    "titleSl": "Salzburška liga – napoved: Naslov favorita in veliko neznank"
+    "titleSl": "Salzburška liga - Napoved: Naslov favorita in veliko neznank - krone.at"
    },
    {
-    "title": "Feuerwehr-Ausstatter - Waldbrände „befeuern“ das Geschäft von Rosenbauer",
+    "title": "Feuerwehr-Ausstatter - Waldbrände „befeuern“ das Geschäft von Rosenbauer - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBobzhyVm42TDc2Nk4zbkxzeU9XZUNxUjI4aUNpbkdiOFN6aXM5YnV6MnAxekduMkNjQ1VaRmtjdTNBQQ?oc=5",
     "image": "",
     "date": 1786096800000,
-    "titleSl": "Opremljevalec gasilskih brigad – Rosenbauerjev posel »poganjajo« gozdni požari"
+    "titleSl": "Opremljevalec gasilskih brigad - gozdni požari \"poganjajo\" Rosenbauerjev posel - krone.at"
    },
    {
-    "title": "Erhöhte Werte: - Der nächste Badesee muss jetzt geschlossen werden",
+    "title": "Erhöhte Werte: - Der nächste Badesee muss jetzt geschlossen werden - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJeGt1WlhxbXhQeE9QbE0xeUJRcU0zQld1cXhIdnQ0Q1B5Z3hkZ2UzVW8ySkJGdXU0VXV0NTZpUzhFUQ?oc=5",
     "image": "",
     "date": 1786096740000,
-    "titleSl": "Povečane vrednosti: - Najbližje jezero za kopanje mora biti zdaj zaprto"
-   },
-   {
-    "title": "Strengere Regeln - Deutschkurse: Bund übernimmt Modell aus OÖ",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83U0tlUUxVbFN1enRQcmlINVc3dlBNanNvUEo0S0huUkNvZHljeXMxNDJrUmNJZ005bkpmUWp4YXgzUQ?oc=5",
-    "image": "",
-    "date": 1786096740000,
-    "titleSl": "Strožja pravila - tečaji nemščine: zvezna vlada prevzema model iz Zgornje Avstrije"
+    "titleSl": "Povečane vrednosti: - Naslednje jezero za kopanje mora biti zdaj zaprto - krone.at"
    }
   ],
   "rainews": [
