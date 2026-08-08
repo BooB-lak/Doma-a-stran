@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08T08:46:25.499Z",
+ "generatedAt": "2026-08-08T08:48:24.718Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Festival Radovljica: Od trubadurskih pesmi iz časa Riharda Levjesrčnega do komorne glasbe Brahmsa",
+    "link": "https://www.rtvslo.si/kultura/glasba/festival-radovljica-od-trubadurskih-pesmi-iz-casa-riharda-levjesrcnega-do-komorne-glasbe-brahmsa/790348",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/08/67066400.jpg",
+    "date": 1786178316000
+   },
+   {
     "title": "Olimpija celjska generalka pred povratnim dvobojem z Araratom",
     "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/olimpija-celjska-generalka-pred-povratnim-dvobojem-z-araratom/790343",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/08/67066397.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/popkultura/rekorderji/v-malecniku-2021-krat-na-zdravje-za-svetovni-rekord-v-najdaljsi-zdravici/790340",
     "image": "https://img.rtvcdn.si/_up/upload/2025/11/08/66992795.jpg",
     "date": 1786174367000
-   },
-   {
-    "title": "V ruskih napadih na Kijevsko oblast ubiti najmanj trije ljudje, tudi otrok",
-    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/v-ruskih-napadih-na-kijevsko-oblast-ubiti-najmanj-trije-ljudje-tudi-otrok/790339",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/08/67066395.jpg",
-    "date": 1786172087000
    }
   ],
   "zurnal": [
@@ -202,7 +202,7 @@
     "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
     "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
     "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07dc-confirm-pgfh/07dc-confirm-pgfh-mediumSquareAt3X.jpg",
-    "date": 1786178047000,
+    "date": 1786178834000,
     "titleSl": "Blanche je potrjena za generalno državno tožilko, potem ko je premagala G.O.P. Pomisleki"
    },
    {
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Besondere Klausel - Rekord-Transfer von Diomande noch lukrativer",
+    "link": "https://www.bild.de/sport/fussball/rb-leipzig-worauf-sich-die-fans-freuen-koennen-rekord-transfer-von-yan-diomande-noch-lukrativer-6a7449414ed0eddcc11f32f3",
+    "image": "https://images.bild.de/6a7449414ed0eddcc11f32f3/ecb20e55a893eb872c796a05530683af,57f1d41c?w=1280",
+    "date": 0,
+    "titleSl": "Posebna klavzula - rekordni prestop z Diomande še donosnejši"
+   },
+   {
     "title": "„Furchterregende Szenen“ - Urlauber fliehen vor Flammen-Hölle",
     "link": "https://www.bild.de/news/ausland/waldbrand-am-gardasee-furchterregende-szenen-200-menschen-evakuiert-6a76dea535268e50270225b4",
     "image": "https://images.bild.de/6a76dea535268e50270225b4/8e8cabf0fe054d11e67e45928c31ac76,5d6f92d9?w=1280",
@@ -452,16 +459,52 @@
     "image": "https://images.bild.de/6a76ccd00e3689919ec749fc/199c2c2d6d8b8b3f7010fae77f1f72b1,53e7075b?w=1280",
     "date": 0,
     "titleSl": "Železniška proga Hamburg–Berlin - šele vsak četrti vlak pride točen!"
-   },
-   {
-    "title": "Strategiepapier enthüllt - BSW will einen Machtwechsel mit der AfD",
-    "link": "https://www.bild.de/politik/inland/sachsen-anhalt-bsw-will-einen-machtwechsel-mit-der-afd-6a7628b50e3689919ec745ce",
-    "image": "https://images.bild.de/6a7628b50e3689919ec745ce/1d4eaed51a9a59989ac9310c294b4c63,1609d9ef?w=1280",
-    "date": 0,
-    "titleSl": "Razkrit strateški dokument - BSW želi zamenjavo oblasti z AfD"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Wegen PV-Anlage - Nachbar blockiert Bau von leistbaren Wohnungen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16emItZjVndEZWeFpzQ29WSnRWSDR0ZnhOeEFVRkViN2F2dXNCWDBYNG1HNGc5ZXNBTmZCSHdEYTc1Zw?oc=5",
+    "image": "",
+    "date": 1786178400000,
+    "titleSl": "Zaradi PV sistema - sosedskih blokov gradnja ugodnih stanovanj"
+   },
+   {
+    "title": "Stillstand auf Strecke - Zuggäste mussten 2 Stunden in Waggons ausharren",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBOd0tfamp4Z0xubnlPTjAxNW9SOGFlRXJTbkVnNHdObGdtWXlsaS0zTTI1NFNTYVVnSC1pQnJ6MTNPaWs2aWpF?oc=5",
+    "image": "",
+    "date": 1786177980000,
+    "titleSl": "Zastoj na progi - potniki vlaka so morali čakati v vagonih 2 uri"
+   },
+   {
+    "title": "„Am Boden zerstört“ - Ex-Olympionike spricht offen über seine Pornosucht",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HV2tzb20zMDFXMHpzNVZESmR3a2hiWGJZQWU0NzVjRGo5N1VaOGt1U2FxWWlCQks5eDZKWUs1QmpJQQ?oc=5",
+    "image": "",
+    "date": 1786176060000,
+    "titleSl": "“Devastated” – bivši olimpijec odkrito spregovori o svoji odvisnosti od pornografije"
+   },
+   {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XaEV6UDB1RmpURUhtMUpMY1hqVDhFYVhCS2p5X2YyOTlJS2s3eWh4ckM2dlhVWDFPSUZUeHRxUXM1STNEV3ZxRE9uUS1USXdaVi0xSnlOYw?oc=5",
+    "image": "",
+    "date": 1786176040000,
+    "titleSl": "Vaš lunarni koledar"
+   },
+   {
+    "title": "Wehrte sich heftig - Fahrraddieb (22) auf frischer Tat ertappt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KNEpaY042Ym5iWURyUHUtWWU3dy1CTVZwdTZIYW5iTklwZ2ZwanNWdFl2d3laR0x6NnRQc3dRZmhrZw?oc=5",
+    "image": "",
+    "date": 1786176000000,
+    "titleSl": "Silovit udarec – tat kolesa (22) prijet pri dejanju"
+   },
+   {
+    "title": "Hoffnung für Patienten - Diese Krebstherapien bieten neue Heilungschancen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OVlBfTnMyM3prYkxMRTJIZEdOSE1YMlg4ZVEwcFVneVhVTXhYZHNPSG1LaDlDRklieDJoVzNzb1ByZw?oc=5",
+    "image": "",
+    "date": 1786176000000,
+    "titleSl": "Upanje za bolnike – te terapije raka ponujajo nove možnosti za ozdravitev"
+   }
+  ],
   "rainews": [
    {
     "title": "Attacchi russi sulla periferia di Kiev, tre morti tra cui un bambino",
