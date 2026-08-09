@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-09T14:38:24.533Z",
+ "generatedAt": "2026-08-09T14:40:40.280Z",
  "sources": {
   "siol": [
+   {
+    "title": "Grozljivka v Crikvenici: na kopalce na plaži padlo večje drevo #video",
+    "link": "https://siol.net/novice/svet/grozljivka-v-crikvenici-na-kopalce-na-plazi-padlo-vecje-drevo-video-698539",
+    "image": "https://siol.net/media/img/86/05/1101cacdb494dc4673cb.jpeg",
+    "date": 1786286340000
+   },
    {
     "title": "Ti znaki horoskopa sami sebi zapletajo življenje",
     "link": "https://siol.net/trendi/horoskop/ti-znaki-horoskopa-sami-sebi-zapletajo-zivljenje-698250",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/avtomotosport/motogp-silverstone-raul-fernandez-drugic-zmagal-uspesna-vrnitev-marca-bezzecchija-698534",
     "image": "https://siol.net/media/img/83/72/5e512aa02382fc2234bf.jpeg",
     "date": 1786279500000
-   },
-   {
-    "title": "Jan Močnik premagal stereotipe, zdaj kot trener povezuje dve Gorici",
-    "link": "https://siol.net/sportal/kosarka/jan-mocnik-premagal-stereotipe-zdaj-kot-trener-povezuje-dve-gorici-698345",
-    "image": "https://siol.net/media/img/4b/fa/b6561e47db0aeca93de3.jpeg",
-    "date": 1786278600000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Gaza engineer builds animal shelters out of empty cans",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/dog-shelter-Horizontal-thumb-1786285674.jpg?resize=1920%2C1080&quality=80",
-    "date": 1786285714000,
-    "titleSl": "Inženir iz Gaze gradi zavetišča za živali iz praznih pločevink"
-   },
-   {
     "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
     "link": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/getty_694ecb8d1e-1766771597.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-12T060454Z_1675782460_RC2ECIAP2COX_RTRMADP_3_ISRAEL-PALESTINIANS-IRELAND-BILL-1765792206.jpg?resize=1920%2C1440",
     "date": 1786283681000,
     "titleSl": "Strokovnjaki pravijo, da je namen izraelskega načrta Zelena Rafa razdrobiti Gazo"
+   },
+   {
+    "title": "British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin",
+    "link": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260809__C4A72TG__v1__HighRes__MotoPrixGbrMotogpPodium-1786281668_bb7105-1786283507.jpg?resize=1200%2C630&quality=80",
+    "date": 1786283633000,
+    "titleSl": "Britanski MotoGP: Raul Fernandez dominira v Silverstonu in premaga Martina"
    }
   ],
   "guardian": [
@@ -419,11 +419,25 @@
   ],
   "bild": [
    {
+    "title": "Offene Worte von Gina Lückenkemper - „War im Startblock orientierungslos“",
+    "link": "https://www.bild.de/sport/mehr-sport/gina-lueckenkemper-zeckenbiss-gefaehrdetet-start-bei-leichtathletik-europameisterschaft-6a71ca4161ec46f846a26d88",
+    "image": "https://images.bild.de/6a71ca4161ec46f846a26d88/7971f2851edfaa3e9019e8c3553e360d,effb199f?w=1280",
+    "date": 0,
+    "titleSl": "Odprte besede Gine Brückenkemper - \"Bila sem dezorientirana v štartnem bloku\""
+   },
+   {
     "title": "0:3! Bitterer Fehlstart - Dynamo Dresden schmiert in Nürnberg ab",
     "link": "https://www.bild.de/sport/fussball/fussball-bitterer-fehlstart-dynamo-dresden-schmiert-in-nuernberg-ab-6a78802d0e3689919ec75cac",
     "image": "https://images.bild.de/6a78802d0e3689919ec75cac/2cda7918273e1ab6d938ced3831f0d93,4ddeda35?w=1280",
     "date": 0,
     "titleSl": "0:3! Grenak napačen začetek - Dynamo Dresden ni uspel v Nürnbergu"
+   },
+   {
+    "title": "BILD nennt die Chancen der Stars - Immer mehr Bewerbungen für Klopp",
+    "link": "https://www.bild.de/sport/fussball/juergen-klopp-diese-neuen-stars-die-besten-chancen-auf-die-dfb-elf-6a784a1a35268e5027023464",
+    "image": "https://images.bild.de/6a784a1a35268e5027023464/1cacff3f1e0bf620e5d46cce0b3642d7,b477b986?w=1280",
+    "date": 0,
+    "titleSl": "BILD navaja možnosti zvezdnikov - vse več prijav za Kloppa"
    },
    {
     "title": "Autofahrer schlägt Fußgänger tot - „Der wusste genau, was er machen möchte“",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a7843df0e3689919ec758d2/db94c745e80f121796aa479e42e50c63,a18560f3?w=1280",
     "date": 0,
     "titleSl": "Voglsammer dvakrat zadene - Hansa zmaga v norosti s petimi goli"
-   },
-   {
-    "title": "Serbien-Präsident schlägt Alarm - „Wir stehen am Beginn eines größeren Krieges“",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/serbien-praesident-schlaegt-alarm-wir-stehen-am-beginn-eines-groesseren-krieges-6a786e410ffb05c5b7b19255",
-    "image": "https://images.bild.de/6a786e410ffb05c5b7b19255/205535a790039203160a6078164af58e,b74dfa77?w=1280",
-    "date": 0,
-    "titleSl": "Srbski predsednik alarmira - \"Smo na začetku velike vojne\""
-   },
-   {
-    "title": "Schalke-Trainer im Gespräch - Muslic privat wie nie!",
-    "link": "https://www.bild.de/sport/fussball/trainer-von-schalke-04-im-gespraech-miron-muslic-privat-wie-nie-zuvor-6a7882cee2d77b914082127a",
-    "image": "https://images.bild.de/6a7882cee2d77b914082127a/446b929a19a8ab33fbb1f5bd1fec7fb3,f1ad734f?w=1280",
-    "date": 0,
-    "titleSl": "Trener Schalkeja v pogovoru - Muslic bolj zasebno kot kadarkoli!"
    }
   ],
   "krone": [
@@ -484,6 +484,13 @@
     "titleSl": "Strah za Dunajčanko - alžirska vojska osvobodi ugrabljenega Nemca"
    },
    {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9POTkxY2tkeFJyeU52YmgwNjlzQ3ltYUhHUlY5bXVuUGdqektLWDQwdEhxRWQ5SjR5ZFgtMkJyNkl1ZWRTQS0yLWV0dWJocmI5dlh5SVgzRQ?oc=5",
+    "image": "",
+    "date": 1786284391000,
+    "titleSl": "Vaš lunarni koledar"
+   },
+   {
     "title": "Erster Auftritt - Guimaraes ist da! Arsenal zeigt 87-Mio.-Neuzugang",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03LUhBbFFkdFBmaThmcVVuekEzNmlkUlZRU3VoNGdTc1p6LWVxVm4wTUh1RXZYQVZINGlDX3RheS1PQQ?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1786284112000,
     "titleSl": "Čelade obvezne do 18. leta - minister načrtuje še strožja pravila za e-skiroje"
-   },
-   {
-    "title": "Schiffsprozession - Warum Maria der weltweit beliebteste Name ist",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xa1cyV3Z0Zi1aSXJKNEJYeS0xZmxNajh5UmFjalZPQURtZ29Nd2t5LUw5NzMyQjJMWTY0Z2U1M0ZsZw?oc=5",
-    "image": "",
-    "date": 1786284060000,
-    "titleSl": "Ladijska procesija - Zakaj je Maria najbolj priljubljeno ime na svetu"
    }
   ],
   "rainews": [
