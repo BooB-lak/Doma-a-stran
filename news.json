@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-09T16:10:36.495Z",
+ "generatedAt": "2026-08-09T16:12:28.412Z",
  "sources": {
   "siol": [
    {
@@ -199,13 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "2 Die After Boat Overturns in New York Harbor, Police Say",
-    "link": "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html",
-    "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09exp-nydrowning-pgqv/09exp-nydrowning-pgqv-mediumSquareAt3X.jpg",
-    "date": 1786291778000,
-    "titleSl": "2 umrla po prevrnitvi čolna v newyorškem pristanišču, pravi policija"
-   },
-   {
     "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
     "link": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
     "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-taiwan-drone-01-tjlb/08int-taiwan-drone-01-tjlb-mediumSquareAt3X.jpg",
@@ -218,6 +211,13 @@
     "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
     "date": 1786290537000,
     "titleSl": "Izrael zavrača Trumpov načrt v 15 točkah za razorožitev Hamasa"
+   },
+   {
+    "title": "Hunter Biden Says His Father’s Cancer Is Worsening",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html",
+    "image": "https://static01.nyt.com/images/2026/08/09/96vid-hunter-biden-embed-38492-cover/96vid-hunter-biden-embed-38492-cover-mediumSquareAt3X.jpg",
+    "date": 1786290519000,
+    "titleSl": "Hunter Biden pravi, da se očetov rak poslabša"
    },
    {
     "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
@@ -375,18 +375,18 @@
   ],
   "spiegel": [
    {
+    "title": "Bremen: Mordkommission ermittelt nach tödlichem Angriff auf einen Fußgänger",
+    "link": "https://www.spiegel.de/panorama/bremen-mordkommission-ermittelt-nach-toedlichem-angriff-auf-einen-fussgaenger-a-9230a8a0-98c3-4412-937e-988f2c7eee65#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a153f8c7-3097-461a-89f7-5bac1ec6af64_w520_r2.08_fpx26.98_fpy44.97.jpg",
+    "date": 1786291560000,
+    "titleSl": "Bremen: Komisija za umore preiskuje usodni napad na pešca"
+   },
+   {
     "title": "Berlin: Nackte Fahrraddemonstration – »Wie Schwimmen in der Luft«",
     "link": "https://www.spiegel.de/panorama/berlin-nackte-fahrraddemonstration-wie-schwimmen-in-der-luft-a-9fc77bb6-d29e-4a08-9bcb-89aea92565b0#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/8a9e2270-57c7-4b93-94e5-ca96bd10ed8e_w520_r2.08_fpx38.66_fpy50.jpg",
     "date": 1786291320000,
     "titleSl": "Berlin: demonstracija golih koles – \"Kot plavanje v zraku\""
-   },
-   {
-    "title": "Ukraine-Krieg: Dutzende Betroffene nach Angriff auf Wohnhaus in Charkiw",
-    "link": "https://www.spiegel.de/ausland/ukraine-krieg-dutzende-betroffene-nach-angriff-auf-wohnhaus-in-charkiw-a-74d437fe-7de8-4744-b1c7-cb624fd46eb1#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/48f0bcce-97e1-4203-a31a-bb8ffe3819d5_w520_r2.08_fpx33.34_fpy50.jpg",
-    "date": 1786289760000,
-    "titleSl": "Vojna v Ukrajini: Na desetine prizadetih po napadu na stanovanjsko zgradbo v Harkovu"
    },
    {
     "title": "WNBA: Sophie Cunningham wird hart gefoult, vom Platz gestellte Gegnerin beklagt »White Privilege«",
@@ -461,7 +461,50 @@
     "titleSl": "Voznik mrtev zbil peško - priča za BILD: \"Kri je bila povsod\""
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "In öffentlicher Garage - Teuren Porsche zerkratzt: Schaden fünfstellig - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qN0NBLWdHUHZQVDlibHlvaXpHR01VekloWGFIcUQ0ejVPSjA5a3ZJSE0zOWRpRDgxeE9ERng3dUxTdw?oc=5",
+    "image": "",
+    "date": 1786291680000,
+    "titleSl": "V javni garaži - dragi Porsche opraskan: petmestna škoda - krone.at"
+   },
+   {
+    "title": "Völlig erschöpft - Paar mit Kind (10) acht Stunden am Berg unterwegs - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zY3NzR0RIYlczUmxwb28yVGNIaFJmNk5FQmNWVTJZXzBqOHBiQW42SEFIZ1RjQWxCOElxbFhPQUh2UQ?oc=5",
+    "image": "",
+    "date": 1786291200000,
+    "titleSl": "Popolnoma izčrpani - par z otrokom (10) na gori osem ur - krone.at"
+   },
+   {
+    "title": "Keine grüne Wiese - Milchbauer:„So eine Dürre noch nie erlebt!“ - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5TRlRzX2dubW5lZUJBdWVyVFAwaFRGSi0tWjBCOV9iSU9hX1ZyNWJrR2FKc3Fzd0F6bGswWEI4YnVTZw?oc=5",
+    "image": "",
+    "date": 1786291200000,
+    "titleSl": "Ni zelenega travnika - pridelovalec mleka: \"Take suše še nisem doživel!\" - krone.at"
+   },
+   {
+    "title": "Kolumne von David Narr - Ohne die Betriebe gibt es keine Fachkräfte - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IempVYkRqZG5KWk54ZzNhMWFiSS1KSEdFZVNYYS1vaUlfTmx5bGxFQUVWZ085eVBJbUtUc3FCTHNOdw?oc=5",
+    "image": "",
+    "date": 1786291200000,
+    "titleSl": "Kolumna Davida Narra - Brez podjetij ni kvalificiranih delavcev - krone.at"
+   },
+   {
+    "title": "Großes Geburtstagsfest - Vom Leiner zum starken Einkaufscenter in Villach - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84Vlk2NVl1SDZyUnhKbmJfdDlPQ0hlZ01CUWI2R3dlMW1xb0NwMFEwdFMxX2xlQ0lTZ1NNLUJlVmFBZw?oc=5",
+    "image": "",
+    "date": 1786291200000,
+    "titleSl": "Velika rojstnodnevna zabava - Od Leinerja do močnega nakupovalnega središča v Beljaku - krone.at"
+   },
+   {
+    "title": "Von wegen Skandal - Dragqueen-Lesung für Kinder: Viel Lärm um nichts - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MVDBBYkZpeGJEV1NPY0dOaEhBMGtraG1sYnJmRkdoY1BTV3JjUGw5eUpscm5hUmJkQmxCQ2VobVo2Zw?oc=5",
+    "image": "",
+    "date": 1786290300000,
+    "titleSl": "Brez škandala - drag queen branje za otroke: Veliko hrupa za nič - krone.at"
+   }
+  ],
   "rainews": [
    {
     "title": "Mondiali di Atletica U20: 3 ori in un giorno per gli azzurri",
