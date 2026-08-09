@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-09T11:46:25.426Z",
+ "generatedAt": "2026-08-09T11:48:24.330Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "Požar ob slovenski meji: Canadair zaradi okvare gasil le 10 minut",
+    "title": "Požar ob slovenski meji: Canadair zaradi tehničnih okvar v zraku le 10 minut",
     "link": "https://www.24ur.com/novice/tujina/pri-trzicu-v-italiji.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/6616e36b94957ced3b37_63629433.jpg?v=c288&fop=fp:0.24:0.41",
-    "date": 1786275831000
+    "date": 1786276096000
    },
    {
     "title": "Na ogrevanju najhitrejši Alex Marquez, komu bo pripadla dirka?",
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786275075.jpg?resize=1920%2C1080&quality=80",
+    "date": 1786275114000,
+    "titleSl": "Na stotine prisiljenih na rimske ulice zaradi zatiranja skvotiranih zgradb"
+   },
+   {
     "title": "Israel rejects Trump’s 15-point plan for Gaza",
     "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a41568ac800-1782666890.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a784cd8eff46-1786268888_7e70d7-1786271395.jpg?resize=1200%2C630&quality=80",
     "date": 1786271411000,
     "titleSl": "FIFA obsoja \"usklajena\" prizadevanja za spodkopavanje Infantina, medtem ko se kriza poglablja"
-   },
-   {
-    "title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
-    "link": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14202206-1786268910_e84a82-1786269218.jpg?resize=1200%2C630&quality=80",
-    "date": 1786270510000,
-    "titleSl": "Maroko in Alžirija se uvrstita v polfinale WAFCON in se uvrstita na svetovno prvenstvo v nogometu"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Immer häufiger bei Mädchen - ADHS-Diagnosen explodieren – 46 Prozent mehr Fälle",
+    "link": "https://www.bild.de/leben-wissen/psychologie-liebe/adhs-bei-maedchen-21-prozent-mehr-erstdiagnosen-2024-6a783a2035268e5027023350",
+    "image": "https://images.bild.de/6a783a2035268e5027023350/499456c77a5e69be5bcf9e392d956ae7,3da3fdff?w=1280",
+    "date": 0,
+    "titleSl": "Vse bolj pogosta med dekleti - diagnoze ADHD eksplodirajo - 46 odstotkov več primerov"
+   },
+   {
     "title": "Er ignorierte das Badeverbot - US-Soldat (24) stirbt in Alpen-See",
     "link": "https://www.bild.de/news/ausland/tragoedie-am-lago-di-barcis-us-soldat-24-stirbt-in-badesee-6a784d42e2d77b9140820ed3",
     "image": "https://images.bild.de/6a784d42e2d77b9140820ed3/69851a44dcaae50c61d90e051fcf1f0d,10afc6be?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a7862770e3689919ec75abe/0120b57648fae77c7719fc65a4befda1,f89f8253?w=1280",
     "date": 0,
     "titleSl": "Le nekaj sekund po vzletu - strmoglavljenje helikopterja v Spodnji Saški"
-   },
-   {
-    "title": "Fans feiern Zlatan am Grill - \"Die Würstchen grillen sich selbst aus Respekt\"",
-    "link": "https://www.bild.de/sport/fussball/fans-feiern-zlatan-am-grill-die-wuerstchen-grillen-sich-selbst-aus-respekt-6a785f650e3689919ec75a91",
-    "image": "https://images.bild.de/6a785f650e3689919ec75a91/d3128f20bbae8c5385def29626a39b58,bbca0e0b?w=1280",
-    "date": 0,
-    "titleSl": "Navijači slavijo Zlatana na žaru - \"Klobase se same pečejo iz spoštovanja\""
    }
   ],
   "krone": [
@@ -498,11 +498,11 @@
     "titleSl": "Vreme kot adut? - 2200 km s kolesom: “Veselim se vročine!”"
    },
    {
-    "title": "Kommt Prinz William? - Supercup in Salzburg: Stars, Royals & Vorschriften",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83LUZhTTVYTVRjVzJib0pBU0dYX3pjaV9TOHRoREdxSW12VlBhY3ZSREZYLU80TDA5WnQ3OU9hTlNRUQ?oc=5",
+    "title": "Weather as a trump card? - 2,200 km by bike: “I’m looking forward to the heat!”",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54MXlmOVJYZEotN1MxOEhhVDdvYlQ3cm84Wk9KaWVBTGlmdkF0T24weEF6eEFEUW5VN29SblRqQnBzUQ?oc=5",
     "image": "",
-    "date": 1786274640000,
-    "titleSl": "Ali prihaja princ William? - Superpokal v Salzburgu: Stars, Royals & Pravilnik"
+    "date": 1786274700000,
+    "titleSl": "Vreme kot adut? - 2.200 km s kolesom: \"Veselim se vročine!\""
    }
   ],
   "rainews": [
