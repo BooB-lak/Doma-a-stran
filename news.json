@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T17:38:26.271Z",
+ "generatedAt": "2026-08-10T17:40:43.130Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Trta povsem suha, namesto grozdja pa skoraj že rozine",
+    "link": "https://www.24ur.com/novice/slovenija/trta-povsem-suha-namesto-grozdja-pa-skoraj-ze-rozine.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/5b1a8271bac453928642_63630002.jpg?v=6101&fop=fp:0.60:0.36",
+    "date": 1786383245000
+   },
+   {
     "title": "30 let po umoru se začenja sojenje zaradi smrti glasbenika Tupaca Shakurja",
     "link": "https://www.24ur.com/popin/tuja-scena/30-let-po-umoru-se-zacenja-sojenje-zaradi-smrti-glasbenika-tupaca-shakurja.html",
     "image": "https://images.24ur.com/media/images/213xX/Feb2024/e00d0f5ed63f7198a7a7_63195244.jpg?v=f5a9&fop=fp:0.50:0.40",
@@ -69,15 +75,15 @@
     "link": "https://www.24ur.com/novice/tujina/na-mejnem-prehodu-sta-se-stepla-policista-locevali-so-ju-potniki.html",
     "image": "https://images.24ur.com/media/images/213xX/Feb2025/b2046867b4227f1f5a03_63365994.jpg?v=1ae7&fop=fp:0.41:0.43",
     "date": 1786377990000
-   },
-   {
-    "title": "Planinec zdrsnil s poti na Triglav in umrl",
-    "link": "https://www.24ur.com/novice/crna-kronika/planinec-zdrsnil-s-poti-na-triglav-in-umrl.html",
-    "image": "https://images.24ur.com/media/images/213xX/Dec2021/7991deb774e48610ec4d_62668263.jpg?v=9641&fop=fp:0.60:0.51",
-    "date": 1786375520000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Kaja Juvan bo znova vzela odmor, potem ko se je zdravje poslabšalo",
+    "link": "https://www.rtvslo.si/sport/tenis/kaja-juvan-bo-znova-vzela-odmor-potem-ko-se-je-zdravje-poslabsalo/790527",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/02/06/66415687.jpg",
+    "date": 1786383447000
+   },
    {
     "title": "Proizvodnja elektrike skupine GEN manjša, a za zdaj ni večjih težav",
     "link": "https://www.rtvslo.si/okolje/proizvodnja-elektrike-skupine-gen-manjsa-a-za-zdaj-ni-vecjih-tezav/790522",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/glasba/30-let-po-smrti-tupaca-shakurja-nekdanjemu-vodji-tolpe-sodijo-za-njegov-umor/790518",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/10/67066746.jpg",
     "date": 1786378353000
-   },
-   {
-    "title": "Mura - Kalcer Radomlje 0:1",
-    "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/mura-kalcer-radomlje-0-1/790516",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/10/67066745.jpg",
-    "date": 1786377616000
    }
   ],
   "zurnal": [
@@ -294,11 +294,11 @@
     "titleSl": "Iranski predsednik pravi, da je Khamenei \"popolnega zdravja\""
    },
    {
-    "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 47 dead",
+    "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a79fcfd-1786379517.jpg?resize=1200%2C675",
     "date": 1786381241000,
-    "titleSl": "Potres v Kolumbiji v živo: Potres z magnitudo 7,4 je stresel blizu Bogote; 47 mrtvih"
+    "titleSl": "Potres v Kolumbiji v živo: Potres z magnitudo 7,4 je stresel blizu Bogote; 69 mrtvih"
    },
    {
     "title": "Photos: 7.4-magnitude earthquake rocks western Colombia",
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Stärke 7,4 - Mindestens 69 Tote bei Erdbeben in Kolumbien",
+    "link": "https://www.bild.de/news/ausland/erbeben-in-kolumbien-mindestens-20-tote-und-viele-verletzte-6a79e50197ee93b7ce8550a6",
+    "image": "https://images.bild.de/6a79e50197ee93b7ce8550a6/a0346c1a7b57ea3cd1a467e375504809,8d46259?w=1280",
+    "date": 0,
+    "titleSl": "Magnituda 7,4 - Vsaj 69 mrtvih v potresu v Kolumbiji"
+   },
+   {
+    "title": "Nach Auftaktsieg - Weshalb der FCN jetzt schon träumen darf",
+    "link": "https://www.bild.de/sport/fussball/1-fc-nuernberg-3-0-traumstart-befeuert-aufstiegstraeume-6a79a9610e3689919ec7688a",
+    "image": "https://images.bild.de/6a79a9610e3689919ec7688a/8de52ea73003305aec7c10cc9fc2c97c,a2bc911b?w=1280",
+    "date": 0,
+    "titleSl": "Po uvodni zmagi - zakaj lahko FCN že sanja"
+   },
+   {
     "title": "7 Jahre Haft! - Siemens-Ingenieur missbrauchte Kind auf den Philippinen",
     "link": "https://www.bild.de/regional/bayern/7-jahre-haft-siemens-ingenieur-missbrauchte-kind-von-den-philippinen-6a79e9ce0e3689919ec76ee8",
     "image": "https://images.bild.de/6a79e9ce0e3689919ec76ee8/294a3b89d9a347c277535ed1aaba04f8,812d3e06?w=1280",
@@ -445,64 +459,50 @@
     "image": "https://images.bild.de/6a7a03ef35268e5027024bca/19aee2f3bb5a3803111b0f45a245a673,c07aa123?w=1280",
     "date": 0,
     "titleSl": "Obtoženec na sodišču - 30 let po Tupacovi smrti - se začne sojenje za umor"
-   },
-   {
-    "title": "Sie schwamm schon um Ibiza - Nathalie Pohl ist Deutschlands krasseste Schwimmerin",
-    "link": "https://www.bild.de/sport/mehr-sport/nathalie-pohl-ist-deutschlands-krasseste-schwimmerin-6a71f691db2034a7ff5ed7bb",
-    "image": "https://images.bild.de/6a71f691db2034a7ff5ed7bb/5f2efeddceac5a74ff80fbc489b35c57,60839f53?w=1280",
-    "date": 0,
-    "titleSl": "Plavala je že po Ibizi - Nathalie Pohl je najtežja nemška plavalka"
-   },
-   {
-    "title": "Prozess in Frankfurt - Spielbank will Mega-Jackpot nicht auszahlen",
-    "link": "https://www.bild.de/regional/frankfurt/prozess-in-frankfurt-spielbank-will-mega-jackpot-nicht-auszahlen-6a79ba99e22753e756e9bbcd",
-    "image": "https://images.bild.de/6a79ba99e22753e756e9bbcd/88514e70159d78ea41d0ed4d3284ad62,de2b3959?w=1280",
-    "date": 0,
-    "titleSl": "Proces v Frankfurtu – Casino noče izplačati mega jackpota"
    }
   ],
   "krone": [
    {
-    "title": "Highlights im Video: - Rot für Drago, Meister LASK jubelt gegen Veilchen - krone.at",
+    "title": "Highlights im Video: - Rot für Drago, Meister LASK jubelt gegen Veilchen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQc1pQXzBUM3JmYVpxUDJJdDJwWlZGQ2FWdngtYzBzQzd5OFFPcjN5V1VEeGIzNXdsXzJDYXI2ZE5ndw?oc=5",
     "image": "",
     "date": 1786383446000,
-    "titleSl": "Poudarki v videu: - Rdeča za Draga, prvak LASK slavi proti Veilchenu - krone.at"
+    "titleSl": "Utrinki v videu: - Rdeča za Draga, prvak LASK slavil proti vijolicam"
    },
    {
-    "title": "Die Highlights - GAK bezwingt Aufsteiger Lustenau – hier im Video - krone.at",
+    "title": "Die Highlights - GAK bezwingt Aufsteiger Lustenau – hier im Video",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbC0xQ2J2UUtidXlzVlFLaF9VSTVJWkdNeURQQk40SkF4aXRyT2lWc0FDeEpZOHhQNjZtd0otQ0tfZw?oc=5",
     "image": "",
     "date": 1786383445000,
-    "titleSl": "Vrhunci - GAK premaga novo napredoval Lustenau - tukaj v videu - krone.at"
+    "titleSl": "Vrhunci - GAK premaga novo napredovanega Lustenaua - tukaj v videu"
    },
    {
-    "title": "30 Jahre rückwirkend - Banken erstatten jetzt illegale Kreditgebühren - krone.at",
+    "title": "30 Jahre rückwirkend - Banken erstatten jetzt illegale Kreditgebühren",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBiNWphemdaUnk4WVA2Vk9YUUVlNjNhUE5rdkVNT2VaODQ1QzIwMktOQUpCNjRhWWhmRFJhbHp2dDI5QQ?oc=5",
     "image": "",
     "date": 1786383444000,
-    "titleSl": "30 let za nazaj - banke zdaj vračajo provizije za nezakonita posojila - krone.at"
+    "titleSl": "30 let za nazaj – banke zdaj povrnejo stroške nezakonitih posojil"
    },
    {
-    "title": "„Mein Papa hatte mit dem Rollator keine Chance“ - krone.at",
+    "title": "„Mein Papa hatte mit dem Rollator keine Chance“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YanoxSXRtZkh0VWRIUWYwM3Bpb3ktY0hmc0xjeXQyTmdqcDBnSGVMb252VjVBbVBscVBOLU1xNGtKdw?oc=5",
     "image": "",
     "date": 1786383000000,
-    "titleSl": "“Moj oče ni imel možnosti s hojco” - krone.at"
+    "titleSl": "\"Moj oče ni imel možnosti s hojco\""
    },
    {
-    "title": "Alle Highlights - Video: Altach beweist Heimstärke und siegt mit 3:1 - krone.at",
+    "title": "Alle Highlights - Video: Altach beweist Heimstärke und siegt mit 3:1",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vNDVBMUR1WnVIdXMwR1cwM25ZTEEzbVdheVZoWHFIWTdheDQ2MGVDR0lqdV9KV0hhMk11elJsYkxxUQ?oc=5",
     "image": "",
     "date": 1786381960000,
-    "titleSl": "Vsi poudarki - Video: Altach dokazuje domačo moč in zmaga s 3-1 - krone.at"
+    "titleSl": "Vsi poudarki - Video: Altach dokazuje moč doma in zmaga s 3-1"
    },
    {
-    "title": "Alle Highlights - Video: Sturm gewinnt dank Doppelpack von Weiper - krone.at",
+    "title": "Alle Highlights - Video: Sturm gewinnt dank Doppelpack von Weiper",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VdkdaaUtsS09ibzZCM0JDMmxXVjU3WGdybG1id19fMTJmUFJHQXFEMGlmbjRCSUI2UmMySjRaUlJVZw?oc=5",
     "image": "",
     "date": 1786381939000,
-    "titleSl": "Vsi poudarki - Video: Sturm zmagal zahvaljujoč Weiperjevi opornici - krone.at"
+    "titleSl": "Vsi poudarki - Video: Sturm zmaga zahvaljujoč Weiperjevi opornici"
    }
   ],
   "rainews": [
@@ -598,8 +598,22 @@
     "title": "Última hora del terremoto en Colombia, en directo | Al menos 80 muertos por el terremoto de magnitud 7,4 en Colombia",
     "link": "https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/CGETGIA7CBHDBLUU3TX5RT3XCQ.JPG?auth=b8881989a2f4f1a31ff9c2bc986e220fbe424a2ee03e3649d150422575304f9c",
-    "date": 1786382963000,
+    "date": 1786383562000,
     "titleSl": "Zadnja minuta potresa v Kolumbiji, v živo | Najmanj 80 mrtvih v potresu z magnitudo 7,4 v Kolumbiji"
+   },
+   {
+    "title": "Al menos 80 muertos tras un terremoto de 7,4 en Colombia",
+    "link": "https://elpais.com/america-colombia/2026-08-10/un-fuerte-temblor-sacude-colombia.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203442_165943_video_1800.mp4",
+    "date": 1786383483000,
+    "titleSl": "Vsaj 80 mrtvih po potresu z magnitudo 7,4 v Kolumbiji"
+   },
+   {
+    "title": "El ministro Puente califica de “absoluta ignominia” que el Rey se haga una foto con Javier Negre",
+    "link": "https://elpais.com/espana/2026-08-10/el-ministro-puente-califica-de-absoluta-ignominia-que-el-rey-se-haga-una-foto-con-javier-negre.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/XNRN3NFG5ZD5ZNVHR4X2NBO6PM.jpg?auth=361e6641725bb7e3ee6439b14a7796886e9daccb4aa009824b9cec7d8536f160",
+    "date": 1786383156000,
+    "titleSl": "Minister Puente opisuje kot \"popolno sramoto\", da se kralj fotografira z Javierjem Negrejem"
    },
    {
     "title": "Un hombre increpa a Bendodo en plena rueda de prensa del PP en Barcelona",
@@ -621,20 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/Q37UAQ6IMREMNFGPJMCY6BAHFQ.jpg?auth=b28634cf33cd19ab4b546b5e034bd389e07be7d8d8d57d9d9f36513023b1626a",
     "date": 1786381073000,
     "titleSl": "Med kopanjem na plaži v Rosesu se je utopil 83-letni moški"
-   },
-   {
-    "title": "Rebelión contra el Plater: el plan de energías renovables del Govern choca con 1.300 alegaciones municipales",
-    "link": "https://elpais.com/espana/catalunya/2026-08-10/rebelion-contra-el-plater-el-plan-de-energias-renovables-del-govern-choca-con-1300-alegaciones-municipales.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/4SIL4VMQ75H5PGIOZOC4QFI3WM.jpg?auth=f52a381b2426261c232ecad5830e68749135ace8d38f196fb3d7cb510b93a0b6",
-    "date": 1786380988000,
-    "titleSl": "Upor proti Platerju: vladni načrt za obnovljive vire energije v nasprotju s 1300 občinskimi očitki"
-   },
-   {
-    "title": "La justicia noruega prolonga la prisión domiciliaria a Marius Borg Høiby, hijo de la princesa Mette-Marit, cuatro semanas más",
-    "link": "https://elpais.com/gente/2026-08-10/la-justicia-noruega-prolonga-la-prision-domiciliaria-a-marius-borg-hoiby-hijo-de-la-princesa-mette-marit-cuatro-semanas-mas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/2NX3FRTERNPFDDRIUMYUFM37TE.jpg?auth=9f2f015bc591f208dbb91a8bcb922dbcf42875df70dfbb8715a92b72044d9d8a",
-    "date": 1786380664000,
-    "titleSl": "Norveško pravosodje podaljšalo hišni pripor za Mariusa Borga Høibyja, sina princese Mette-Marit, še za štiri tedne."
    }
   ]
  },
