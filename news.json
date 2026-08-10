@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T15:24:27.075Z",
+ "generatedAt": "2026-08-10T15:26:34.357Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Slovenka šokirala s svojo potezo! Namerno je dobila rdeči karton, to je razlog",
+    "link": "https://www.zurnal24.si/sport/slovenka-sokirala-s-svojo-potezo-namerno-je-dobila-rdeci-karton-to-je-razlog-463417",
+    "image": "https://www.zurnal24.si/media/img/ce/70/ab6f66e3a5c4bedec979.jpeg",
+    "date": 1786375440000
+   },
+   {
     "title": "Luki to ne bo všeč, nekdanji Laker brez dlake na jeziku podal svoje mnenje",
     "link": "https://www.zurnal24.si/sport/kosarka/luki-to-ne-bo-vsec-nekdanji-laker-brez-dlake-na-jeziku-podal-svoje-mnenje-463416",
     "image": "https://www.zurnal24.si/media/img/0f/fc/bb1775353c92d9346faa.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/druzina-ubezala-plamenom-gasilec-poskodovan-463412",
     "image": "https://www.zurnal24.si/media/img/8b/87/2626f69e13dad2e4880d.jpeg",
     "date": 1786366080000
-   },
-   {
-    "title": "Kane v elitni druščini, več jih imata samo Messi in Ronaldo",
-    "link": "https://www.zurnal24.si/sport/nogomet/kane-v-elitni-druscini-vec-jih-imata-samo-messi-in-ronaldo-463408",
-    "image": "https://www.zurnal24.si/media/img/39/9e/504a71bd9fad03487d5c.jpeg",
-    "date": 1786364100000
    }
   ],
   "reuters": [
@@ -287,11 +287,11 @@
   ],
   "aljazeera": [
    {
-    "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+    "title": "7.4-magnitude earthquake hits Colombia killing at least 20",
     "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26222526819832-1786374087.jpg?resize=1920%2C1440",
     "date": 1786373828000,
-    "titleSl": "Kolumbijo je prizadel potres z magnitudo 7,4 in umrl najmanj 20 ljudi"
+    "titleSl": "Potres z magnitudo 7,4 je prizadel Kolumbijo in umrl najmanj 20 ljudi"
    },
    {
     "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
@@ -463,49 +463,56 @@
   ],
   "krone": [
    {
-    "title": "Fokus auf die Staffel - Familie tröstet Austro-Sprinterin nach Vorlauf-Aus - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Ra19DNDg3OTFELWsxdnBrYXBqVndFV0txemxfU3hndHhCWlZ1dWtvV1VVd1AyeUJyZzNiZjVTUXpMdw?oc=5",
-    "image": "",
-    "date": 1786375200000,
-    "titleSl": "Osredotočite se na štafeto - družina tolaži avstrijskega sprinterja po kvalifikacijah - krone.at"
-   },
-   {
-    "title": "Gefährlicher Häftling - Werner K.: Er ist der Teufel in Menschengestalt - krone.at",
+    "title": "Gefährlicher Häftling - Werner K.: Er ist der Teufel in Menschengestalt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TREczODhnbHFNZ3JMdXBjWW1vc3BzV3l1cXBOdFFkckpmdEtSeW9sR3M0eWwzWFp0TWZrbEZHY2thUQ?oc=5",
     "image": "",
     "date": 1786375080000,
-    "titleSl": "Nevarni jetnik - Werner K.: On je hudič v človeški podobi - krone.at"
+    "titleSl": "Nevarni jetnik - Werner K.: On je hudič v človeški podobi"
    },
    {
-    "title": "Stocker bei Erdoğan - Kanzler: „Türkei Vermittler in vielen Konflikten“ - krone.at",
+    "title": "Stocker bei Erdoğan - Kanzler: „Türkei Vermittler in vielen Konflikten“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwbHJLU05VRm1BaGMycC0xdWFwVldxX1FXVGRrQU43eHBjYjdBek1lRUQtV0hRLVAtaHVhWTQ4ZG9EZw?oc=5",
     "image": "",
     "date": 1786375080000,
-    "titleSl": "Stocker pri Erdoğanu - kancler: \"Turčija je posrednik v številnih konfliktih\" - krone.at"
+    "titleSl": "Stocker pri Erdoğanu - kancler: \"Turčija je posrednik v številnih konfliktih\""
    },
    {
-    "title": "Serientäter - Kriminelles Brüderpaar bedroht Bursch mit Messer - krone.at",
+    "title": "Serientäter - Kriminelles Brüderpaar bedroht Bursch mit Messer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1mdHRsRWEzdFhYdDhqaEs4eDJsUWk2bTdXeDZ4UHRLYTFvZ2hkU2oyU0otUnF5M3JZTlBKUG8wUVFrdw?oc=5",
     "image": "",
     "date": 1786374780000,
-    "titleSl": "Serijski storilci - Kriminalni par fantu grozi z nožem - krone.at"
+    "titleSl": "Serijski storilci - zločinski bratje grozijo fantu z nožem"
    },
    {
-    "title": "Fiese Betrugsfalle - Fake-Investments kosteten Senior über 100.000 Euro - krone.at",
+    "title": "Fiese Betrugsfalle - Fake-Investments kosteten Senior über 100.000 Euro",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45UG0xNjgycVdNbXJuOUNQeVNibkpObmdvUjhucy1kYUNLbG5acGg5ZGxKQXpUcmZsNERLVzNSbDZldw?oc=5",
     "image": "",
     "date": 1786374000000,
-    "titleSl": "Neprijetna past goljufij – lažne naložbe starejše stanejo več kot 100.000 evrov – krone.at"
+    "titleSl": "Zoprna past goljufij – lažne naložbe starejše stanejo več kot 100.000 evrov"
    },
    {
-    "title": "Niedriger Frauenanteil - Wieso sind die Festspiele so un-weiblich? - krone.at",
+    "title": "Niedriger Frauenanteil - Wieso sind die Festspiele so un-weiblich?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TN3dySFBoTjFqNVdDZ1BCRGx5Z3lPdFNlZ09wWDFqR3pnX25fbFdXcHljUjF3NDhRdzFnRzJ1bUJzUQ?oc=5",
     "image": "",
     "date": 1786374000000,
-    "titleSl": "Nizek delež žensk - Zakaj so festivali tako neženstveni? - krone.at"
+    "titleSl": "Nizek delež žensk - Zakaj so festivali tako neženstveni?"
+   },
+   {
+    "title": "Nazi oder Fetischist? - Intimer Seelenstriptease vor acht Geschworenen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5kY0IzU0Z5VWcwYW9YVC1MeXVDZ3AyZUItMEFtaXZnMmRlRE51ZF9FMDJ6Mk5PNXJxaURfZkJSVkt2Zw?oc=5",
+    "image": "",
+    "date": 1786374000000,
+    "titleSl": "Nacist ali fetišist? - Intimni soul striptiz pred osmimi žiranti"
    }
   ],
   "rainews": [
+   {
+    "title": "Attentato a Sigfrido Ranucci, arrestato Valter Lavitola. Il Gip: \"Voleva accrescerne la popolarità\"",
+    "link": "https://www.rainews.it/articoli/2026/08/valter-lavitola-arrestato-per-lattentato-a-sigfrido-ranucci-897931e4-d52b-448d-8a27-65590baa0c93.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/08/1783519657030_rainewsdbadeaeaffdfd.jpg",
+    "date": 1786375500000,
+    "titleSl": "Napad na Sigfrida Ranuccija, aretiran Valter Lavitola. Preiskovalni sodnik: \"Želel si je povečati priljubljenost\""
+   },
    {
     "title": "Terremoto di magnitudo 7.4 in Colombia: morti e feriti. Bambini sotto le macerie",
     "link": "https://www.rainews.it/maratona/2026/08/terremoto-di-magnitudo-74-in-colombia-morti-e-feriti-disperis-crolli-nel-dipartimento-di-choco-macerie-d297b109-fb38-4b6a-a277-b1cf5304e753.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/10/1786365533393_CBDPQ.jpg",
     "date": 1786372800000,
     "titleSl": "Evropsko prvenstvo v atletiki: Furlani se je spet poškodoval, odstopil po prvem skoku, Inzoli pa te sanja"
-   },
-   {
-    "title": "Ex Ilva di Taranto, ecco la cordata italiana: \"Pronti a parlare con il governo\"",
-    "link": "https://www.rainews.it/articoli/2026/08/ex-ilva-di-taranto-ecco-la-cordata-italiana-pronti-a-parlare-con-il-governo-1a3cb331-563c-40c0-b5fb-0c1aa026c4a2.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/10/1786368637625_rainewsfaafaacfeabecee.jpg",
-    "date": 1786372620000,
-    "titleSl": "Nekdanji Ilva iz Taranta, tukaj je italijanski konzorcij: \"Pripravljen na pogovor z vlado\""
    }
   ],
   "lemonde": [
