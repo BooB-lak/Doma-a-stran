@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T05:52:23.980Z",
+ "generatedAt": "2026-08-10T05:54:24.288Z",
  "sources": {
   "siol": [
    {
@@ -15,7 +15,7 @@
     "date": 1786340820000
    },
    {
-    "title": "Lionel Messi se je poslovil od pokojnega očeta #foto",
+    "title": "Lionel Messi se je poslovil od pokojnega očeta #foto #video",
     "link": "https://siol.net/sportal/nogomet/lionel-messi-slovo-jorge-messsi-698565",
     "image": "https://siol.net/media/img/52/33/aac8cb98560fed2d5527.jpeg",
     "date": 1786339800000
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Kljub vse pogostejšim vremenskim ekstremom večina kmetijskih zemljišč še vedno nezavarovanih",
+    "link": "https://www.rtvslo.si/gospodarstvo/kljub-vse-pogostejsim-vremenskim-ekstremom-vecina-kmetijskih-zemljisc-se-vedno-nezavarovanih/790441",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/07/67066246.jpg",
+    "date": 1786341126000
+   },
+   {
     "title": "Tajfun Delfin dosegel vzhodno obalo Kitajske, evakuiranih več kot milijon ljudi",
     "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/tajfun-delfin-dosegel-vzhodno-obalo-kitajske-evakuiranih-vec-kot-milijon-ljudi/790439",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/10/67066586.jpg",
@@ -97,7 +103,7 @@
     "date": 1786338008000
    },
    {
-    "title": "“Ali se študentsko delo šteje v 40 let dela pri upokojevanju?\"",
+    "title": "\"Ali se študentsko delo šteje v 40 let dela pri upokojevanju?\"",
     "link": "https://www.rtvslo.si/slovenija/ali-se-studentsko-delo-steje-v-40-let-dela-pri-upokojevanju/790143",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67066025.jpg",
     "date": 1786335010000
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/umrl-legendarni-don-nelson/790434",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/09/67066581.jpg",
     "date": 1786306353000
-   },
-   {
-    "title": "Pirc Musar: Nesreča je povzročila cunami dezinformacij, ne znam ga ustaviti",
-    "link": "https://www.rtvslo.si/slovenija/pirc-musar-nesreca-je-povzrocila-cunami-dezinformacij-ne-znam-ga-ustaviti/790433",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/04/20/67036992.jpg",
-    "date": 1786305748000
    }
   ],
   "zurnal": [
@@ -250,11 +250,11 @@
     "titleSl": "Tajski šolski strelec se je prek družbenih omrežij naučil uporabljati orožje"
    },
    {
-    "title": "Lifelike doll with 'bruises and grazes' sparks mistaken Australian murder inquiry",
+    "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
     "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0a4/live/42c45c20-9477-11f1-a7ab-8b30adf0800a.jpg",
     "date": 1786339000000,
-    "titleSl": "Živa lutka z 'modricami in odrgninami' sproži napačno avstralsko preiskavo umora"
+    "titleSl": "Izkazalo se je, da je \"telo v kovčku\", ki so ga našli v Avstraliji, prava lutka"
    },
    {
     "title": "How Liverpool are shaping up under Iraola",
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Streit in Berlin eskaliert - Mann am Bahnhof Zoo erschossen",
+    "link": "https://www.bild.de/news/inland/berlin-charlottenburg-mann-30-nach-streit-erschossen-6a792b9f35268e5027023c98",
+    "image": "https://images.bild.de/6a792b9f35268e5027023c98/119c920aef6bf3941fc8a507939c9ef5,8a0bcd8c?w=1280",
+    "date": 0,
+    "titleSl": "Spor se zaostruje v Berlinu - moški ustreljen na železniški postaji Zoo"
+   },
+   {
+    "title": "Wollitz kritsiert eigenes Team scharf - „Dieses Spiel darf nur Hannover gewinnen“",
+    "link": "https://www.bild.de/sport/fussball/wollitz-kritsiert-eigenes-team-scharf-dieses-spiel-darf-nur-hannover-gewinnen-6a7964f70e3689919ec76346",
+    "image": "https://images.bild.de/6a7964f70e3689919ec76346/cf59a7496540f0cd8032ee03164474de-landscape,908d68d3?w=1280",
+    "date": 0,
+    "titleSl": "Wollitz ostro kritizira lastno ekipo - \"To tekmo lahko zmaga samo Hannover\""
+   },
+   {
+    "title": "Juni und Juli so heiß wie nie - Hitzerekord für Westeuropa!",
+    "link": "https://www.bild.de/news/inland/juni-und-juli-so-heiss-wie-nie-hitzerekord-fuer-westeuropa-6a7954680e3689919ec76275",
+    "image": "https://images.bild.de/6a7954680e3689919ec76275/a95c4b972f192d67b5f335dd445f8cf3,15c78e0f?w=1280",
+    "date": 0,
+    "titleSl": "Junij in julij sta bolj vroča kot kdaj koli prej – vročinski rekord za zahodno Evropo!"
+   },
+   {
     "title": "Von welchem Datum jetzt die Rede ist - Ronaldos Hochzeits-Rätsel geht weiter",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/ronaldos-hochzeits-raetsel-geht-weiter-von-wann-jetzt-die-rede-ist-6a784d960e3689919ec7598e",
     "image": "https://images.bild.de/6a784d960e3689919ec7598e/c136c3b5231e59aa4fba7d6e24bda4f9,f5008f4b?w=1280",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6a79502e35268e5027023db7/229bfa384cf7b5d458138d0b8db338f9,6105341?w=1280",
     "date": 0,
     "titleSl": "Ministrstvo “zelo počasi” – vrhunski ekonomist obračunava s Pistoriusom"
-   },
-   {
-    "title": "Luxus pur in der CR7-Garage - Ronaldo zeigt seine Millionen-Flotte",
-    "link": "https://www.bild.de/leben-wissen/auto/im-wert-von-21-millionen-euro-cristiano-ronaldo-zeigt-luxus-fuhrpark-6a75a14ae04765407d9a2513",
-    "image": "https://images.bild.de/6a75a14ae04765407d9a2513/7ab14f00a3b8115ca2575ad97034fd13,4a8ca095?w=1280",
-    "date": 0,
-    "titleSl": "Čisto razkošje v garaži CR7 - Ronaldo razkazuje svoj milijon dolarjev vreden vozni park"
-   },
-   {
-    "title": "30 Jahre nach Schüssen auf den Rapper - Mordprozess im Fall Tupac beginnt",
-    "link": "https://www.bild.de/news/ausland/mordprozess-im-fall-tupac-shakur-beginnt-6a79214c0e3689919ec7614b",
-    "image": "https://images.bild.de/6a79214c0e3689919ec7614b/707130286b976d7553b08365df7da853,5d376089?w=1280",
-    "date": 0,
-    "titleSl": "30 let po ustrelitvi raperja se začne sojenje za umor v primeru Tupac"
-   },
-   {
-    "title": "„Übersteigt alles ...“ - Eintracht-Boss Hellmann mit harter WM-Abrechnung",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-knallharte-wm-abrechnung-von-boss-hellmann-6a7885960e3689919ec75cf7",
-    "image": "https://images.bild.de/6a7885960e3689919ec75cf7/7f6384a7db1ee30987218ef27771255c,7ad09046?w=1280",
-    "date": 0,
-    "titleSl": "\"Presega vse ...\" - šef Eintrachta Hellmann s težkim obračunom svetovnega pokala"
    }
   ],
   "krone": [
