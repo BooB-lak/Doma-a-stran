@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-10T19:26:27.619Z",
+ "generatedAt": "2026-08-10T19:28:28.460Z",
  "sources": {
   "siol": [
+   {
+    "title": "Kopališče Žusterna po veliki prenovi v povsem novi podobi",
+    "link": "https://siol.net/novice/slovenija/kopalisce-zusterna-po-veliki-prenovi-v-povsem-novi-podobi-698641",
+    "image": "https://siol.net/media/img/00/7c/b04668ea187d26d19914.jpeg",
+    "date": 1786390080000
+   },
    {
     "title": "Uvodni dan EP v plavanju trije rekordi prvenstev, Britanci dvakrat zlati v štafetah",
     "link": "https://siol.net/sportal/drugi-sporti/uvodni-dan-ep-v-plavanju-trije-rekordi-prvenstev-britanci-dvakrat-zlati-v-stafetah-698640",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/tamar-svetlin-uradno-pri-saint-etiennu-698622",
     "image": "https://siol.net/media/img/09/65/cd923bfc4e088ca61f41.jpeg",
     "date": 1786385760000
-   },
-   {
-    "title": "Reaves pred prihodom v Slovenijo izzval Dončića",
-    "link": "https://siol.net/sportal/kosarka/reaves-pred-prihodom-v-slovenijo-izzval-doncica-698602",
-    "image": "https://siol.net/media/img/97/ca/7035f06fc1802b19b39e.jpeg",
-    "date": 1786385400000
    }
   ],
   "24ur": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Migrant children go days without food in Ceuta amid asylum crisis",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/SV_Ceuta-migrant-children_WIDE-THUMB-1786388787.jpg?resize=1920%2C1080&quality=80",
+    "date": 1786388888000,
+    "titleSl": "Otroci migrantov preživljajo dneve brez hrane v Ceuti sredi azilne krize"
+   },
+   {
     "title": "111 dead after Colombia quakes leave trail of destruction",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786387827.jpg?resize=1620%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-10T144728Z_776278371_RC2QVMAKPKKX_RTRMADP_3_MIDEAST-GULF-SHIPPING-SPILL-1786378622.jpg?resize=1920%2C1440",
     "date": 1786385723000,
     "titleSl": "Oman poskuša omejiti obsežno razlitje nafte iz poškodovanega tankerja"
-   },
-   {
-    "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
-    "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a79ea33521b0-1786374707.jpg?resize=1920%2C1440",
-    "date": 1786384278000,
-    "titleSl": "Posadka Zuckerbergove jahte ni slišala klica na pomoč, pravi tiskovni predstavnik"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Jubel bei Leichtathletik-EM - Erste Medaille für Deutschland",
+    "link": "https://www.bild.de/sport/mehr-sport/leichtathletik-erste-medaille-fuer-deutschland-bei-der-em-in-birmingham-6a7a0b130e3689919ec77068",
+    "image": "https://images.bild.de/6a7a0b130e3689919ec77068/75e96e0a934814e49cd5be477f094578,4827d70a?w=1280",
+    "date": 0,
+    "titleSl": "Slavje na evropskem prvenstvu v atletiki - prva medalja za Nemčijo"
+   },
+   {
     "title": "In Kolumbien - Katastrophenfall ausgerufen! 111 Tote bei Erdbeben",
     "link": "https://www.bild.de/news/ausland/erbeben-in-kolumbien-mindestens-20-tote-und-viele-verletzte-6a79e50197ee93b7ce8550a6",
     "image": "https://images.bild.de/6a79e50197ee93b7ce8550a6/a0346c1a7b57ea3cd1a467e375504809,8d46259?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a7a1cdc0e3689919ec770fe/c2b6bdeadbf5c8c0f40e20afbb3c7092,cbb469b5?w=1280",
     "date": 0,
     "titleSl": "Za ohladitev za vse - Frankfurt postavlja toplovod"
-   },
-   {
-    "title": "Jubel bei Leichtathletik-EM - Erste Medaille für Deutschland",
-    "link": "https://www.bild.de/sport/mehr-sport/erste-medaille-fuer-deutschland-bei-der-leichtathletik-em-6a7a0b130e3689919ec77068",
-    "image": "https://images.bild.de/6a7a0b130e3689919ec77068/75e96e0a934814e49cd5be477f094578,4827d70a?w=1280",
-    "date": 0,
-    "titleSl": "Slavje na evropskem prvenstvu v atletiki - prva medalja za Nemčijo"
    }
   ],
   "krone": [
@@ -611,7 +611,7 @@
    {
     "title": "Mapas y gráficos del devastador terremoto en Colombia",
     "link": "https://elpais.com/internacional/2026-08-10/mapas-y-graficos-del-devastador-terremoto-en-colombia.html",
-    "image": "",
+    "image": "https://imagenes.elpais.com/resizer/v2/I4FZQVDHSFBQFEYVXTTLKOHDYM.png?auth=79d5aced5216fd1211e1fc054669a7b11355a8b7307b013d9729533c44d495b6&width=1200",
     "date": 1786387349000,
     "titleSl": "Zemljevidi in grafi uničujočega potresa v Kolumbiji"
    },
