@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T04:10:39.693Z",
+ "generatedAt": "2026-08-10T04:12:25.163Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "“Ali se študentsko delo šteje v 40 let dela pri upokojevanju?\"",
+    "link": "https://www.rtvslo.si/slovenija/ali-se-studentsko-delo-steje-v-40-let-dela-pri-upokojevanju/790143",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67066025.jpg",
+    "date": 1786335010000
+   },
+   {
     "title": "Umrl legendarni Don Nelson",
     "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/umrl-legendarni-don-nelson/790434",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/09/67066581.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/bliznji-vzhod/vojna-v-gazi/hamas-pozdravlja-ameriski-nacrt-za-gazo-netanjahu-izrael-dokument-zavraca/790427",
     "image": "https://img.rtvcdn.si/_up/upload/2024/11/26/66306888.jpg",
     "date": 1786292047000
-   },
-   {
-    "title": "Ema Klinec v finalu Courchevela ostala brez stopničk",
-    "link": "https://www.rtvslo.si/sport/zimski-sporti/ema-klinec-v-finalu-courchevela-ostala-brez-stopnick/790425",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/03/15/66508244.jpg",
-    "date": 1786289901000
    }
   ],
   "zurnal": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Trump names Will Scharf as White House counsel ahead of midterms",
+    "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26221856820082-1786330803.jpg?resize=1920%2C1440",
+    "date": 1786334421000,
+    "titleSl": "Trump imenuje Willa Scharfa za svetovalca Bele hiše pred vmesnimi mandati"
+   },
+   {
     "title": "Brazilian player falls into tunnel celebrating goal",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786333838.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a79372151-1786328865.jpg?resize=1920%2C1440",
     "date": 1786330785000,
     "titleSl": "Izrael potrdil smrt palestinskega zapornika s skoraj dveletno zamudo"
-   },
-   {
-    "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
-    "link": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6357c1-1784895425.jpg?resize=1920%2C1440",
-    "date": 1786330131000,
-    "titleSl": "Malezijski premier Anwar Ibrahim na medicinskem posegu"
    }
   ],
   "guardian": [
@@ -463,49 +463,56 @@
   ],
   "krone": [
    {
-    "title": "Bei Forstarbeiten - 62-Jähriger von umfallendem Baum tödlich getroffen - krone.at",
+    "title": "Bei Forstarbeiten - 62-Jähriger von umfallendem Baum tödlich getroffen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vVUg4ZldYWmF4OFhQVHhZOE5HNE1qdkVhZWpVV3l5Z1k2aHl2ZW5GSWJHdHJtV0FzSm84YXBtTTdYdw?oc=5",
     "image": "",
     "date": 1786334400000,
-    "titleSl": "Med gozdarskimi deli - 62-letnika je usodno zadelo padajoče drevo - krone.at"
+    "titleSl": "Pri gozdarskih delih - 62-letnika usodno zadelo padajoče drevo"
    },
    {
-    "title": "Die Villa Mutter: Meisterwerk des Understatements - krone.at",
+    "title": "Die Villa Mutter - Die Villa Mutter: Meisterwerk des Understatements",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvUzZxQ1RseXZYTnVaU0Y4ZWhJZ2NFV2pMSDZhM1Z3ZUtWNEtDQ1FnTlBwYTVSdzRzcklYRVo5eHRvdw?oc=5",
     "image": "",
     "date": 1786334400000,
-    "titleSl": "Vila Mutter: mojstrovina podcenjevanja - krone.at"
+    "titleSl": "Vila Mutter - Vila Mutter: mojstrovina podcenjevanja"
    },
    {
-    "title": "Thommy & Amélie - Magische Dinner verzaubert rund um den Globus - krone.at",
+    "title": "Thommy & Amélie - Magische Dinner verzaubert rund um den Globus",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2LTdHNkpfLUc1MmhTZm5ZNlJSUGVVaWNyS3o0RUxycmRyc2llUXVQdGlQcFpLQlNRVW4tMS01cXRVUQ?oc=5",
     "image": "",
     "date": 1786334400000,
-    "titleSl": "Thommy & Amélie - Čarobne večerje očarajo po vsem svetu - krone.at"
+    "titleSl": "Thommy & Amélie - Čarobne večerje očarajo po vsem svetu"
    },
    {
-    "title": "Fußball-Spektakel - Der Supercup lässt die Kassen in Salzburg klingeln - krone.at",
+    "title": "Fußball-Spektakel - Der Supercup lässt die Kassen in Salzburg klingeln",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1sQzVjeS1JOGt2eTV3VVFmRm9LSEthUmtCVktrMmhtWVZjckpNSE5OX2RObXJFUUY1bjVRQzlyaW9jdw?oc=5",
     "image": "",
     "date": 1786331400000,
-    "titleSl": "Nogometni spektakel - Superpokal razbija blagajne v Salzburgu - krone.at"
+    "titleSl": "Nogometni spektakel - V Salzburgu zazveni superpokal"
    },
    {
-    "title": "Ihr Mondkalender - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vOXBydnc2UFMxS3BTRnVSWDFDclZoLU5QS0NoT0NUN2N3RGNLUVA5QjAxelBFRWZvVmhqLUlYTm50bE9ZUnByS1QyVnZULTdqOVdfaG15VQ?oc=5",
-    "image": "",
-    "date": 1786331152000,
-    "titleSl": "Vaš lunarni koledar - krone.at"
-   },
-   {
-    "title": "„Fünfeinhalb Jahre Dauerwahlkampf sind genug!“ - krone.at",
+    "title": "„Fünfeinhalb Jahre Dauerwahlkampf sind genug!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16LWdHbzA2Nl9ybmxaS296cmF6VDlMbzdodFZiWFVGSW80UVRnY3NTR0FQYXd6S2xyWDFwek9VbXdWdw?oc=5",
     "image": "",
     "date": 1786330860000,
-    "titleSl": "“Pet let in pol neprestane volilne kampanje je dovolj!” - krone.at"
+    "titleSl": "“Pet let in pol neprestane volilne kampanje je dovolj!”"
+   },
+   {
+    "title": "Imposante Schlange - Klimawandel eröffnet neue Räume für Äskulapnatter",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1EQzF4c0wwNG9rZlRtSkVQLTYzVkRoRGNFUzFaMjN2ZUJ1NEIxV3RoX0lnN0JkVEMxb1FndTJTc2hFQQ?oc=5",
+    "image": "",
+    "date": 1786330860000,
+    "titleSl": "Impozantna kača - podnebne spremembe odpirajo nove prostore za eskulapove kače"
    }
   ],
   "rainews": [
+   {
+    "title": "Eclissi di Sole e stelle cadenti, fino a 100 meteore l&#x27;ora nel cielo del 12 agosto",
+    "link": "https://www.rainews.it/articoli/2026/08/eclissi-di-sole-e-stelle-cadentifino-a-100-meteore-lora-nel-cielo-del-12-agosto-astronomia-49dae154-4a1d-4401-85b4-3fa497a8f07e.html",
+    "image": "https://www.rainews.it/dl/img/2024/04/9/1712633361228_eclissi.jpg",
+    "date": 1786334940000,
+    "titleSl": "Sončni mrki in padalke, 12. avgusta na nebu do 100 meteorjev na uro"
+   },
    {
     "title": "Netanyahu boccia il piano di pace di Trump su Gaza",
     "link": "https://www.rainews.it/maratona/2026/08/netanyahu-boccia-il-piano-di-pace-di-trump-su-gaza-636e5211-a636-4072-9c15-069f32c93447.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2024/03/13/1710348645168_APP_record_caldo_oceani.transferframe.png",
     "date": 1786329420000,
     "titleSl": "Oceani julija nikoli tako topli, rekordne površinske vode"
-   },
-   {
-    "title": "Torna la paura ai Campi Flegrei, scossa di magnitudo 3.0 nella notte: popolazione svegliata da boato",
-    "link": "https://www.rainews.it/articoli/2026/08/scossa-di-terremoto-di-magnitudo-3-ai-campi-flegrei-bad1f788-09ab-4408-bdef-caf2304040b4.html",
-    "image": "https://www.rainews.it/dl/img/2025/08/31/1756652752910_Immagine__.png",
-    "date": 1786326720000,
-    "titleSl": "Strah se vrača na Flegrejska polja, ponoči sunek z magnitudo 3,0: prebivalstvo je prebudilo rjovenje"
    }
   ],
   "lemonde": [
@@ -554,15 +554,8 @@
     "title": "En Iran, la répression s’est intensifiée depuis le début de la guerre",
     "link": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
     "image": "https://img.lemde.fr/2026/02/02/683/0/1125/562/644/322/60/0/fe11b63_ftp-1-u01eo9yea0uq-415248-3457284.jpg",
-    "date": 1786334431000,
+    "date": 1786334427000,
     "titleSl": "V Iranu se je represija od začetka vojne okrepila"
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : la ville de Soumy visée par des frappes russes dans la nuit, selon l’administration militaire régionale",
-    "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html",
-    "image": "https://img.lemde.fr/2026/08/06/419/0/3913/1956/644/322/60/0/10502f0_ftp-1-kvll6zgln3no-2026-08-06t082709z-651924330-rc2vsma1jag5-rtrmadp-3-ukraine-crisis-attack-sumy.JPG",
-    "date": 1786334335000,
-    "titleSl": "V ŽIVO, vojna v Ukrajini: mesto Sumy ponoči tarča ruskih napadov, poroča regionalna vojaška uprava"
    },
    {
     "title": "En Europe occidentale, une sécheresse exceptionnelle qui pèse sur les activités humaines et les écosystèmes",
@@ -591,6 +584,13 @@
     "image": "https://img.lemde.fr/2026/08/09/642/0/6240/3120/644/322/60/0/2cb95eb_upload-1-xxkfo1oguieq-maxnewsspecialtwo687241.jpg",
     "date": 1786313100000,
     "titleSl": "Na mednarodnih dnevih Corte zrcalna igra separatistov z FLNC na Korzičane"
+   },
+   {
+    "title": "Don Nelson, légende de la NBA et des Boston Celtics, est mort à l’âge de 86 ans",
+    "link": "https://www.lemonde.fr/sport/article/2026/08/09/don-nelson-legende-de-la-nba-et-des-boston-celtics-est-mort-a-l-age-de-86-ans_6742873_3242.html",
+    "image": "https://img.lemde.fr/2026/08/09/612/0/1855/927/644/322/60/0/e650f0e_ftp-1-grbetyrimpca-8c7da64ea3fe4716b1befcefc2f7000e-0-5fde708f59aa439182068c74b8982166.jpg",
+    "date": 1786311996000,
+    "titleSl": "Legenda lige NBA in Boston Celtics Don Nelson je umrl v starosti 86 let"
    }
   ],
   "elpais": [
