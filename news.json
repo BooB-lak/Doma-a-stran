@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11T16:16:28.398Z",
+ "generatedAt": "2026-08-11T16:18:27.774Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "500 pragov s kreozotom le nekaj metrov od stanovanj",
+    "link": "https://www.24ur.com/novice/slovenija/500-pragov-s-kreozotom-le-nekaj-metrov-od-stanovanj.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/0659e7e9458aed9935a7_63630544.jpg?v=2fdd&fop=fp:0.51:0.41",
+    "date": 1786464943000
+   },
+   {
     "title": "Airbnb v primežu kriminalnih združb: najem za droge, orožje in denar",
     "link": "https://www.24ur.com/novice/tujina/airbnb-v-primezu-kriminalnih-zdruzb-najem-za-droge-orozje-in-denar.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2023/73a84586fc635cb61db9_63150344.jpg?v=12a1&fop=fp:0.44:0.29",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/druzina-za-las-zbezala-nato-pa-opazovala-kako-jim-potres-unicuje-dom.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/359e52dea921d21e3859_63630505.png?v=5120&fop=fp:0.88:0.42",
     "date": 1786460175000
-   },
-   {
-    "title": "Konec vsiljivih prodajih klicev: kazen do 375.000 evrov",
-    "link": "https://www.24ur.com/novice/tujina/telemarketing-v-franciji.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/55c37757fba98c9870b9_63630514.jpg?v=b8ac&fop=fp:0.36:0.27",
-    "date": 1786458823000
    }
   ],
   "rtvslo": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "What We Know About the Earthquake in Colombia",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+    "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11xp-colombiaquake-wwk-qjlc/11xp-colombiaquake-wwk-qjlc-mediumSquareAt3X.jpg",
+    "date": 1786464991000,
+    "titleSl": "Kaj vemo o potresu v Kolumbiji"
+   },
+   {
     "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
     "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
     "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-redsea-houthis-1-mvzb/11int-redsea-houthis-1-mvzb-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00biz-climate-econ-vid02-jzqg/00biz-climate-econ-vid02-jzqg-mediumSquareAt3X.jpg",
     "date": 1786457960000,
     "titleSl": "Vročina, ogenj, dim in nevihte pustošijo gospodarstvo"
-   },
-   {
-    "title": "What to Know About the Cuban Mafia in Quintana Roo",
-    "link": "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html",
-    "image": "https://static01.nyt.com/images/2026/08/06/world/00cuba-castro-smugggle-1/00cuba-castro-smugggle-1-mediumSquareAt3X.jpg",
-    "date": 1786457950000,
-    "titleSl": "Kaj morate vedeti o kubanski mafiji v Quintana Roo"
    }
   ],
   "bbc": [
@@ -375,11 +375,11 @@
   ],
   "spiegel": [
    {
-    "title": "Türkei: Was bedeutet das historische Amnestiegesetz für die PKK?",
+    "title": "Türkei: Was bedeutet das historische Amnestiegesetz mit der PKK?",
     "link": "https://www.spiegel.de/ausland/tuerkei-was-bedeutet-das-historische-amnestiegesetz-mit-der-pkk-a-f709375c-6947-4330-bd4b-7af46f4d2e07#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/57f7cff9-7724-4143-bf0c-66586dd0adf4_w520_r2.08_fpx33.34_fpy50.jpg",
     "date": 1786464120000,
-    "titleSl": "Türkiye: Kaj zgodovinski zakon o amnestiji pomeni za PKK?"
+    "titleSl": "Türkiye: Kaj pomeni zgodovinski zakon o amnestiji za PKK?"
    },
    {
     "title": "WM 2026: Gianni Infantinos Job-Versprechen fällt in sich zusammen",
@@ -433,6 +433,13 @@
     "titleSl": "Dynamo Dresden nadaljuje boj - veliko presenečenje za zloglasno krivuljo navijačev"
    },
    {
+    "title": "Nach vier Jahren Doping-Sperre - Das Vuskovic-Comeback beim HSV hat begonnen",
+    "link": "https://www.bild.de/sport/fussball/hsv-vuskovic-comeback-hat-begonnen-nach-vier-jahren-doping-sperre-6a7b3d0c630361c8992293b2",
+    "image": "https://images.bild.de/6a7b3d0c630361c8992293b2/0c6af36d82c3282395285356732f4c43,d59a2494?w=1280",
+    "date": 0,
+    "titleSl": "Po štirih letih prepovedi dopinga - Vuškovićeva vrnitev v HSV se je začela"
+   },
+   {
     "title": "Neues Angebot für El Mala? - „Man muss echt aufpassen, was man sagt!“",
     "link": "https://www.bild.de/sport/fussball/man-muss-echt-aufpassen-was-man-sagt-der-stand-im-el-mala-poker-6a7af9f967ddb2e13c583f7b",
     "image": "https://images.bild.de/6a7af9f967ddb2e13c583f7b/883bcf87adf1cfbb1a45a1750ef558ab,20585cae?w=1280",
@@ -452,16 +459,23 @@
     "image": "https://images.bild.de/6a75e059c07f6c2f08035c6d/aa78aa51a066932ad11578673fdb506d,c87ec013?w=1280",
     "date": 0,
     "titleSl": "Presenetljiva študija - Manj beljakovin, bolj zdrava starost?"
-   },
-   {
-    "title": "Exklusiv bei BILDplus - VIP-Tickets inklusive Meet & Greet mit Max Kruse gewinnen",
-    "link": "https://www.bild.de/sonstiges/bildplus-gewinnspiele-aktionen/gluecksgefuehle-festival-2026-vip-tickets-und-meet-greet-gewinnen-6a7984eb35268e50270240f5",
-    "image": "https://images.bild.de/6a7984eb35268e50270240f5/2752fa7999073fa6e52e9789441652ef,a6568093?w=1280",
-    "date": 0,
-    "titleSl": "Ekskluzivno pri BILDplus - osvojite VIP vstopnice, vključno s srečanjem in pozdravom z Maxom Krusejem"
    }
   ],
   "krone": [
+   {
+    "title": "Drama um Bergsteiger - Vermisster (74) am Fuß von Felswänden tot gefunden - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45RGtJR1VPamlkZ1k0d01xRlhWcVJ3OUstNXRfSFA4ZXh1YmJoS05mbVZkamhvbVpFa3hKMVhKMWFQZw?oc=5",
+    "image": "",
+    "date": 1786464900000,
+    "titleSl": "Drama o alpinistih - pogrešanega moškega (74) našli mrtvega ob vznožju skal - krone.at"
+   },
+   {
+    "title": "Pigs neue ORF-Führung steht ++ Teurer Kunstfehler - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWRXRJZ3RjOGdnd1BqeVozVU40T0VkN0VDQlNPbmJtSzJjUWRqX1NLYUxXNU1vRUxPRWJFUHpDSG15Zw?oc=5",
+    "image": "",
+    "date": 1786464900000,
+    "titleSl": "Pigovo novo vodstvo ORF je na mestu ++ Draga zloraba - krone.at"
+   },
    {
     "title": "Drama im Waldbad - Bub (3) von Bademeister erfolgreich reanimiert - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53SmxfQl9KMzRCNmRVSmVGWDRELXZKSXZsbm83dFVaS2pianRZSFhDb0Z5R1JDSjJMb2VRXy1vMl8tQQ?oc=5",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1786464000000,
     "titleSl": "Mračna napoved - pripeka: zdaj je v nevarnosti tudi bučno olje - krone.at"
-   },
-   {
-    "title": "Gefährder-Problematik - IS-Fan wieder angeklagt: „Verstehe Angst vor mir“ - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FQ0VvQkFXb29HY2pkZ1BENU9kYmVBVy1QcGJDazZnRG5SbzJfdV9vOHVQRTlOZWhBaHVZQ29obno4dw?oc=5",
-    "image": "",
-    "date": 1786464000000,
-    "titleSl": "Težava z grožnjo - oboževalec IS znova obtožen: \"Razumem strah zame\" - krone.at"
-   },
-   {
-    "title": "Vor nächstem Hitzetag - Zeit zum Durchlüften: Die Nacht bringt Abkühlung - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9femlXRUxDRkVDMmZkWk5pWGYwTldOYjdQVGJJSC1ydEJ1Y3Z6azlVWTRwTm12Q0JZaTh4X2JybmhSQQ?oc=5",
-    "image": "",
-    "date": 1786464000000,
-    "titleSl": "Pred naslednjim vročim dnem - čas za prezračevanje: Noč prinaša ohladitev - krone.at"
    }
   ],
   "rainews": [
@@ -598,7 +598,7 @@
     "title": "Última hora del terremoto en Colombia, en directo | Asciende a 224 la cifra de muertos por el seísmo en Colombia de magnitud 7,4",
     "link": "https://elpais.com/america-colombia/2026-08-11/ultima-hora-del-terremoto-en-colombia-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/5FFTB7A3KVBF7KFDQ67ZHQE2ZA.jpg?auth=170cc4feff1c18edf6894703b32b700c999eb19d1f8b0ab00849f4e76b9c627c",
-    "date": 1786464140000,
+    "date": 1786464788000,
     "titleSl": "Zadnja minuta potresa v Kolumbiji, v živo | Število žrtev potresa z magnitudo 7,4 v Kolumbiji naraslo na 224"
    },
    {
