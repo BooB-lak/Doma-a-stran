@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12T15:46:30.288Z",
+ "generatedAt": "2026-08-12T15:48:24.828Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Našli še drugo kamnito kroglo z ograje Tromostovja",
+    "link": "https://www.24ur.com/novice/slovenija/nasli-se-drugo-kamnito-kroglo-z-ograje-tromostovja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/e4df2825745961b5a760_63631044.jpg?v=cda1&fop=fp:0.49:0.38",
+    "date": 1786549462000
+   },
+   {
     "title": "Lorbek po nesreči predsednice odredil strokovni nadzor nad delom PU Koper",
     "link": "https://www.24ur.com/novice/slovenija/lorbek-po-nesreci-predsednice-odredil-strokovni-nadzor-nad-delom-pu-koper.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/44be137f232f8e91d237_63631008.jpg?v=6cc0&fop=fp:0.48:0.37",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/yaya-toure-o-celju.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/d5dcbe6f18cc69b85578_63631042.jpg?v=2e54&fop=fp:0.45:0.42",
     "date": 1786548241000
-   },
-   {
-    "title": "Messi po smrti očeta prvič spregovoril: Ne morem verjeti, da te ni več.",
-    "link": "https://www.24ur.com/sport/nogomet/messi-po-smrti-oceta-prvic-spregovoril-nemorem-verjeti-da-te-ni-vec.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/05aaeeeeab6e9cbdb0b6_63629212.jpg?v=d22f&fop=fp:0.48:0.37",
-    "date": 1786548050000
    }
   ],
   "rtvslo": [
@@ -206,6 +206,13 @@
     "titleSl": "Hongov poraz v Wisconsinu kaže meje naprednega gibanja"
    },
    {
+    "title": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html",
+    "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12Biz-Hormuz-Strait-01-fbwt/12Biz-Hormuz-Strait-01-fbwt-mediumSquareAt3X.jpg",
+    "date": 1786548845000,
+    "titleSl": "Zalivski naftni velikani porabijo milijarde za gradnjo poti okoli Hormuške ožine"
+   },
+   {
     "title": "RFK Jr. Stirred Vaccine Fears in Pennsylvania Years Before Measles Outbreak",
     "link": "https://www.nytimes.com/2026/08/12/well/measles-pennsylvania-kennedy-vaccines.html",
     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12well-rfk-lancaster-tlfp/12well-rfk-lancaster-tlfp-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12biz-inflation-blog-Fed-flwk/12biz-inflation-blog-Fed-flwk-mediumSquareAt3X.jpg",
     "date": 1786543712000,
     "titleSl": "Podatki o benigni inflaciji Fedu ponujajo odlog, saj odtehtajo zvišanje obrestne mere"
-   },
-   {
-    "title": "He Was Deported to Eswatini in Southern Africa. He May Never Go Free.",
-    "link": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html",
-    "image": "https://static01.nyt.com/images/2026/08/23/magazine/23mag-eswatini-roberto/23mag-eswatini-roberto-mediumSquareAt3X.jpg",
-    "date": 1786540087000,
-    "titleSl": "Bil je deportiran v Eswatini v južni Afriki. Morda ne bo nikoli osvobojen."
    }
   ],
   "bbc": [
@@ -287,46 +287,46 @@
   ],
   "aljazeera": [
    {
+    "title": "Europe prepares for first total solar eclipse in 27 years",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-16.36.33-1786549094.png?resize=1200%2C630",
+    "date": 1786549224000,
+    "titleSl": "Evropa se pripravlja na prvi popolni sončni mrk po 27 letih"
+   },
+   {
+    "title": "Colombia declares three days of mourning after deadly earthquake",
+    "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7c828f-1786544783.jpg?resize=1920%2C1440",
+    "date": 1786549177000,
+    "titleSl": "V Kolumbiji so po smrtonosnem potresu razglasili tridnevno žalovanje"
+   },
+   {
+    "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/web-1786548955.jpg?resize=1920%2C1080&quality=80",
+    "date": 1786548993000,
+    "titleSl": "Ali rusko gospodarstvo krči kljub nepričakovanemu uspehu v vojni v Iranu?"
+   },
+   {
+    "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
+    "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c5ffc8add-1786535932.jpg?resize=1920%2C1440",
+    "date": 1786548618000,
+    "titleSl": "Vodja WHO pravi, da je Trumpovo prizadevanje za cepivo v nasprotju z \"desetletji dokazov\""
+   },
+   {
+    "title": "Iran remains defiant as it vows to fight US until demands met",
+    "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260808__C48X6WC__v1__HighRes__IranUsIsraelWar-1786299449_f954f1-1786359851.jpg?resize=1200%2C630&quality=80",
+    "date": 1786548560000,
+    "titleSl": "Iran kljubuje, saj obljublja, da se bo boril proti ZDA, dokler zahteve ne bodo izpolnjene"
+   },
+   {
     "title": "US consumer inflation slows in July as energy prices briefly retreat",
     "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7b4cf06ad23-1786465520.jpg?resize=1920%2C1440",
     "date": 1786547311000,
     "titleSl": "Potrošniška inflacija v ZDA se je julija upočasnila, ko so se cene energije za kratek čas znižale"
-   },
-   {
-    "title": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-    "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c8b1b6ba5-1786546971.jpg?resize=1920%2C1440",
-    "date": 1786547261000,
-    "titleSl": "Ker se tranzit skozi Hormuško ožino zmanjšuje, Trump znova pravi, da imajo ZDA \"nadzor\""
-   },
-   {
-    "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-    "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7c6545a530-1786537285.jpg?resize=1920%2C1440",
-    "date": 1786544805000,
-    "titleSl": "Libanon je dan po razveljavitvi smrtne kazni sprejel dolgo pričakovani zakon o amnestiji"
-   },
-   {
-    "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
-    "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7c5dbb0b5d-1786535355.jpg?resize=1920%2C1440",
-    "date": 1786544614000,
-    "titleSl": "Zakaj se Združeno kraljestvo sooča s krizo v zaporih sredi prepirov zaradi izpustitve morilcev policistov"
-   },
-   {
-    "title": "Iran is not anti-imperialist. It is a state calculating survival",
-    "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AA-20260803-42132826-42132824-GIANT_ANTIUS_BILLBOARD_IN_TEHRAN-1785786446.jpg?resize=1920%2C1440",
-    "date": 1786544593000,
-    "titleSl": "Iran ni antiimperialist. Je država, ki računa na preživetje"
-   },
-   {
-    "title": "Argentina star Messi not certain to play ‘much longer’ after father’s death",
-    "link": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26201136678330-1786542449.jpg?resize=1920%2C1440",
-    "date": 1786543174000,
-    "titleSl": "Argentinski zvezdnik Messi po očetovi smrti zagotovo ne bo igral \"veliko dlje\"."
    }
   ],
   "guardian": [
@@ -463,6 +463,13 @@
   ],
   "krone": [
    {
+    "title": "Insolvenz - Hellweg-Filialen Raaba und Fürstenfeld schließen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBSSndLZGRyZVFzWmpQZlNkSlB1UVg3V1VWUHBDS2FZWE1obnhrT2ZKSVdUWHRQMklzdFFLcmpWdTIxUQ?oc=5",
+    "image": "",
+    "date": 1786549560000,
+    "titleSl": "Plačilna nesposobnost – Hellwegovi podružnici Raaba in Fürstenfeld se zapreta"
+   },
+   {
     "title": "Für AKW-Kühlung - Die Donau in Ungarn wird jetzt künstlich angehoben",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wRGVCMDNqeUMtYVlVNTM2c2YwZGNHRUNSYkdlZ3gwbUNoNkZnTU54U2RYUzUwcmRDMTVaS3M3U2tFdw?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1786548300000,
     "titleSl": "Ena liga manj - spodnji dom Ländle se začne s temi spremembami"
-   },
-   {
-    "title": "Tennis-TICKER - Heute LIVE: Tagger trifft auf US-Girl Montgomery",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBSTU9YdUZqSkpTLUpvNllNclMxRUhRajdVR0lOa2NkZTdIMHpfUm1qSUNNZ01talZjYlhzOEdtU1hLQQ?oc=5",
-    "image": "",
-    "date": 1786547700000,
-    "titleSl": "Tenis TICKER – danes V ŽIVO: Tagger sreča ameriško dekle Montgomery"
    }
   ],
   "rainews": [
@@ -510,7 +510,7 @@
     "title": "Attentato a Ranucci, Lavitola al Gip: \"Sono io il mandante dell&#x27;attentato\"",
     "link": "https://www.rainews.it/articoli/2026/08/attentato-a-ranucci-lavitola-davanti-al-giudice-nelle-carte-il-piano-per-lanciarlo-in-politica-6f4fe55b-196d-4ac0-aa45-aed29bb70fb7.html",
     "image": "https://www.rainews.it/dl/img/2026/07/11/1783766989900_large.jpg",
-    "date": 1786548960000,
+    "date": 1786549620000,
     "titleSl": "Napad na Ranuccija, Lavitola preiskovalnemu sodniku: \"Jaz sem podtaknil napad\""
    },
    {
@@ -595,11 +595,11 @@
   ],
   "elpais": [
    {
-    "title": "Última hora del eclipse solar de agosto en España, en directo | El eclipse comienza en Alaska",
+    "title": "Eclipse en España, en directo | El eclipse comienza en Alaska",
     "link": "https://elpais.com/ciencia/2026-08-12/ultima-hora-del-eclipse-solar-de-agosto-en-espana-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/RK6AS7AAIJGSVKEQ25RQSJCMB4.JPG?auth=439bc27dd4f0358a46730fbe52b1b72df67bbf8c7e9cc48c81edf64298965a95",
-    "date": 1786549397000,
-    "titleSl": "Zadnja minuta avgustovskega sončnega mrka v Španiji, v živo | Mrk se začne na Aljaski"
+    "date": 1786549528000,
+    "titleSl": "Mrk v Španiji, v živo | Mrk se začne na Aljaski"
    },
    {
     "title": "El precio de la gasolina se acerca a su máximo del año en plena operación salida de mediados de agosto",
