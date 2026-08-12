@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12T10:54:27.415Z",
+ "generatedAt": "2026-08-12T10:56:27.421Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "51-letni Hrvat osumljen petih napadov na bankomate",
     "link": "https://www.24ur.com/novice/slovenija/odkrili-storilca-vec-napadov-na-bankomate.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/3b62f5c27b8d8f3a30e0_63602775.jpg?v=98dc&fop=fp:0.42:0.15",
-    "date": 1786531796000
+    "date": 1786532156000
    },
    {
     "title": "Marquez in Silverstone: zgodba brez srečnega konca",
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Iran war and high living costs fuelling last-minute holiday bookings, Tui says",
-    "link": "https://www.theguardian.com/business/2026/aug/12/iran-war-high-living-costs-fuel-last-minute-holiday-bookings-tui",
-    "image": "https://i.guim.co.uk/img/media/78d41d8881a406c4948e6c29980749b70b98e507/539_0_5389_4312/master/5389.jpg?width=140&quality=85&auto=format&fit=max&s=0d1258c8b598342e5d75373b6537df9d",
-    "date": 1786531520000,
-    "titleSl": "Iranska vojna in visoki življenjski stroški spodbujajo rezervacije počitnic v zadnjem trenutku, pravi Tui"
-   },
-   {
     "title": "Immigration minister says poorer areas have taken ‘fair share’ of asylum seekers – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/afc4fb6043b280423813f25d5feb2842e888cffb/518_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=88d7081ba74bf5b0f4b59d2452e901ab",
@@ -371,6 +364,13 @@
     "image": "https://i.guim.co.uk/img/media/808d6dbfb57c4c202fb02f66cc7a55511d6292d9/498_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=d7386140625c6cd2a55644136fbb2045",
     "date": 1786530985000,
     "titleSl": "Število otrok, poškodovanih v nesrečah z e-skiroji v Angliji, skokovito narašča"
+   },
+   {
+    "title": "Trump plays down Air Force One plane switch as criticism grows over ‘decoy’ passengers – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+    "image": "https://i.guim.co.uk/img/media/e9e85f1cba6c8b19d870fdfafedb56f5b306dc62/882_0_4870_3896/master/4870.jpg?width=140&quality=85&auto=format&fit=max&s=7940679e8a29e6c1234687450df0a5d0",
+    "date": 1786530911000,
+    "titleSl": "Trump omalovažuje zamenjavo letala Air Force One, medtem ko naraščajo kritike zaradi \"vabnih\" potnikov - ameriška politika v živo"
    }
   ],
   "spiegel": [
@@ -507,18 +507,18 @@
   ],
   "rainews": [
    {
+    "title": "Putin minaccia l&#x27;Europa: \"Reazione speculare ai sequestri delle nostre navi\"",
+    "link": "https://www.rainews.it/maratona/2026/08/forti-esplosioni-scuotono-kiev-e-zaporizhzhia-almeno-cinque-morti-e-decine-di-feriti-c02b6b26-fdae-461a-9f85-05e6966e7d7e.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/12/1786532102721_CFPHU.jpg",
+    "date": 1786530840000,
+    "titleSl": "Putin grozi Evropi: \"Zrcalna reakcija na zasege naših ladij\""
+   },
+   {
     "title": "Attentato a Ranucci, Lavitola davanti al giudice: nelle carte il piano per lanciarlo in politica",
     "link": "https://www.rainews.it/articoli/2026/08/attentato-a-ranucci-lavitola-davanti-al-giudice-nelle-carte-il-piano-per-lanciarlo-in-politica-6f4fe55b-196d-4ac0-aa45-aed29bb70fb7.html",
     "image": "https://www.rainews.it/dl/img/2026/07/11/1783766989900_large.jpg",
     "date": 1786529040000,
     "titleSl": "Napad na Ranuccija, Lavitola pred sodnikom: v načrtu je načrt, da ga izstrelijo v politiko"
-   },
-   {
-    "title": "Putin minaccia l&#x27;Europa: \"Reazione speculare ai sequestri delle nostre navi\"",
-    "link": "https://www.rainews.it/maratona/2026/08/forti-esplosioni-scuotono-kiev-e-zaporizhzhia-almeno-cinque-morti-e-decine-di-feriti-c02b6b26-fdae-461a-9f85-05e6966e7d7e.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/12/1786531383807_CFQYF.jpg",
-    "date": 1786528800000,
-    "titleSl": "Putin grozi Evropi: \"Zrcalna reakcija na zasege naših ladij\""
    },
    {
     "title": "A 650 all&#x27;ora nel deserto dello Utah: nuovo record di velocità per un&#x27;auto a idrogeno",
@@ -598,8 +598,15 @@
     "title": "Última hora del eclipse solar de agosto en España, en directo | Cataluña avisa de un aumento de tráfico ante el eclipse y Castilla-La Mancha pide evitar desplazamientos con un Es-Alert",
     "link": "https://elpais.com/ciencia/2026-08-12/ultima-hora-del-eclipse-solar-de-agosto-en-espana-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EFJE72AML5BUNA5XDPWBPVNNS4.JPG?auth=6ab3eccd7d78ab701ad9e0307086710df0997d08b56c97729bf7cc5dcccfe596",
-    "date": 1786531567000,
+    "date": 1786531801000,
     "titleSl": "Zadnja minuta avgustovskega sončnega mrka v Španiji, v živo | Katalonija svari pred povečanim prometom pred mrkom, Castilla-La Mancha pa prosi, da se izogibate potovanjem z Es-Alertom"
+   },
+   {
+    "title": "Julie Andrews explica por qué no estará en ‘Princesa por sorpresa 3’: “Ahora me dedico a otro tipo de trabajo”",
+    "link": "https://elpais.com/gente/2026-08-12/julie-andrews-explica-por-que-no-estara-en-princesa-por-sorpresa-3-ahora-me-dedico-a-otro-tipo-de-trabajo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SL6K2TXICFEEBC7L7BV2NXKYVQ.jpg?auth=df832e83a9093ecf4857769fe1e91d9e7caf3add206eb3d8e7fc4b2e755a7f6b",
+    "date": 1786531599000,
+    "titleSl": "Julie Andrews razlaga, zakaj je ne bo v 'Princeski presenečenja 3': \"Zdaj se posvečam drugemu tipu dela\""
    },
    {
     "title": "El aeropuerto de Barcelona marca un julio de récord y supera los 5,8 millones de pasajeros",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/VZ4Q2U3FFZBWNIYDVIG4RP27NY.png?auth=d57cd5ebf3e3512d8d9368705152d666998660d4aec69a2d15392e0474565936",
     "date": 1786528243000,
     "titleSl": "Kateri blender izbrati? Tako primerjamo najbolj praktične modele"
-   },
-   {
-    "title": "Lamine Yamal se une a Ryan Castro para enviar ayuda a Colombia tras el terremoto",
-    "link": "https://elpais.com/gente/2026-08-12/lamine-yamal-se-une-a-ryan-castro-para-enviar-ayuda-a-colombia-tras-el-terremoto.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/C4RVWJUMO5C5VKN6CYGTTJESVU.jpg?auth=a7e02f956dcf3a1365a09a86cd8e4ef22fbcfee9a9c629474c8ead39a044aba6",
-    "date": 1786527818000,
-    "titleSl": "Lamine Yamal se pridruži Ryanu Castru pri pošiljanju pomoči v Kolumbijo po potresu"
    }
   ]
  },
