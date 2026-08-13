@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-13T16:12:26.121Z",
+ "generatedAt": "2026-08-13T16:14:26.240Z",
  "sources": {
   "siol": [
+   {
+    "title": "200 milijonov \"viškov\" iz dolgotrajne in reševanje likvidnosti RTV SLO",
+    "link": "https://siol.net/novice/svet/200-milijonov-viskov-iz-dolgotrajne-in-resevanje-likvidnosti-rtv-slo-698862",
+    "image": "https://siol.net/media/img/8a/59/3608cd31b544c0210d5d.jpeg",
+    "date": 1786637520000
+   },
    {
     "title": "Matjaž Kek na severu Evrope napada kar dva jubileja #vŽivo",
     "link": "https://siol.net/sportal/nogomet/kvalifikacije-za-konferencno-ligo-3-krog-povratne-tekme-698727",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/zvezde-in-slavni/glasbenik-matic-plevel-zmagal-na-slovenskem-kasaskem-derbiju-698877",
     "image": "https://siol.net/media/img/19/af/9f03c9db9edb53045c16.jpeg",
     "date": 1786634340000
-   },
-   {
-    "title": "Za kopanje pri svetilniku v Izoli nič več zadržkov, pri Delfinu ukrep ostaja v velja",
-    "link": "https://siol.net/novice/slovenija/za-kopanje-pri-svetilniku-v-izoli-nic-vec-zadrzkov-pri-delfinu-ukrep-ostaja-v-velja-698897",
-    "image": "https://siol.net/media/img/b6/75/86333b89a5a6d7640532.jpeg",
-    "date": 1786633680000
    }
   ],
   "24ur": [
@@ -85,6 +85,12 @@
     "date": 1786636927000
    },
    {
+    "title": "V Nemčiji ob obletnici Berlinskega zidu svarila pred idealiziranjem Vzhodne Nemčije",
+    "link": "https://www.rtvslo.si/svet/evropa/v-nemciji-ob-obletnici-berlinskega-zidu-svarila-pred-idealiziranjem-vzhodne-nemcije/790823",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/13/67067454.jpg",
+    "date": 1786636557000
+   },
+   {
     "title": "Milanič pričakuje zahteven derbi, saj se proti Mariboru želijo vsi pokazati",
     "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/milanic-pricakuje-zahteven-derbi-saj-se-proti-mariboru-zelijo-vsi-pokazati/790820",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/09/67066579.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/hokej/ticar-okrepil-bansko-bystrico/790816",
     "image": "https://img.rtvcdn.si/_up/upload/2025/09/16/66960635.jpg",
     "date": 1786632813000
-   },
-   {
-    "title": "Kopanje pri Svetilniku ni več odsvetovano, na kopališču Delfin bo ukrep verjetno odpravljen v petek",
-    "link": "https://www.rtvslo.si/okolje/kopanje-pri-svetilniku-ni-vec-odsvetovano-na-kopaliscu-delfin-bo-ukrep-verjetno-odpravljen-v-petek/790818",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/13/67067447.jpg",
-    "date": 1786632707000
    }
   ],
   "zurnal": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "U.S. Investigated Left-Leaning Groups During Minnesota’s Immigration Crackdown",
+    "link": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
+    "image": "https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg",
+    "date": 1786636892000,
+    "titleSl": "ZDA preiskovale levo usmerjene skupine med zatiranjem priseljevanja v Minnesoti"
+   },
+   {
     "title": "In This State, an Intense Fight in the G.O.P. for Control of the Right",
     "link": "https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html",
     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13nat-wyoming-legislature-top-grid--02-vpwq/13nat-wyoming-legislature-top-grid--02-vpwq-mediumSquareAt3X.jpg",
@@ -213,32 +220,25 @@
     "titleSl": "Luigi Mangione, ki se na zveznem sodišču sooča z obtožbami zalezovanja, naj bi priznal krivdo"
    },
    {
+    "title": "How a Longshot U.S. Oil Drilling Project Is Shaking Up Greenland",
+    "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+    "image": "https://static01.nyt.com/images/2026/08/13/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg",
+    "date": 1786634796000,
+    "titleSl": "Kako ameriški projekt vrtanja nafte Longshot pretresa Grenlandijo"
+   },
+   {
+    "title": "Happy Hour With the Vanishing Nuns of New York",
+    "link": "https://www.nytimes.com/2026/08/13/nyregion/last-nuns-new-york-city.html",
+    "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30met-aging-nuns-top-01-tcmh/30met-aging-nuns-top-01-tcmh-mediumSquareAt3X.jpg",
+    "date": 1786634757000,
+    "titleSl": "Happy Hour z izginjajočimi nunami iz New Yorka"
+   },
+   {
     "title": "In a Chinese Leader’s Death, Mourning for a More Hopeful Time",
     "link": "https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html",
     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13Biz-Newworld-Zhu-01-tlcg/13Biz-Newworld-Zhu-01-tlcg-mediumSquareAt3X.jpg",
     "date": 1786634397000,
     "titleSl": "V smrti kitajskega voditelja, žalovanje za bolj upanja polnim časom"
-   },
-   {
-    "title": "How Bob Iger and Joshua Kushner’s Bromance Led Them to Lakers",
-    "link": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
-    "image": "https://static01.nyt.com/images/2026/08/12/multimedia/IGER-KUSHNER-1-mfwb/IGER-KUSHNER-1-mfwb-mediumSquareAt3X-v3.jpg",
-    "date": 1786633347000,
-    "titleSl": "Kako sta Bob Iger in Bromance Joshue Kushnerja pripeljala do Lakersov"
-   },
-   {
-    "title": "Effects of Record-Breaking El Niño Are Happening on 3 Continents",
-    "link": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
-    "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg",
-    "date": 1786632802000,
-    "titleSl": "Učinki rekordnega El Niña se dogajajo na treh celinah"
-   },
-   {
-    "title": "New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices",
-    "link": "https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html",
-    "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13met-insurance-loss-lfmw/13met-insurance-loss-lfmw-mediumSquareAt3X.jpg",
-    "date": 1786631189000,
-    "titleSl": "Newyorčani, ki so izgubili zavarovanje po Trumpovem rezu, se soočajo s težkimi odločitvami"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Zambian president Hichilema votes as he seeks second term",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786636299.jpg?resize=1920%2C1080&quality=80",
-    "date": 1786636312000,
-    "titleSl": "Zambijski predsednik Hichilema glasuje, ko se poteguje za drugi mandat"
-   },
-   {
     "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
     "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-12T113811Z_1730422435_RC2YWMAAPNYL_RTRMADP_3_YEMEN-SECURITY-1786608934.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7daf40-1786621760.jpg?resize=1920%2C1440",
     "date": 1786631398000,
     "titleSl": "Oman pravi, da je ogromno razlitje nafte doseglo obalo: Kakšno škodo bi lahko povzročilo?"
+   },
+   {
+    "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786631311.jpg?resize=1920%2C1080&quality=80",
+    "date": 1786631360000,
+    "titleSl": "Ukrajina napadla ključni ruski žitni terminal v črnomorskem pristanišču"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Überraschung beim Ja-Wort - Country-Star crasht Hochzeit",
+    "link": "https://www.bild.de/unterhaltung/musik/ueberraschung-beim-ja-wort-country-star-crasht-hochzeit-6a7c6248169e8e32c0ae5664",
+    "image": "https://images.bild.de/6a7c6248169e8e32c0ae5664/a04a6a2cbc91a7180f1928180c8e2432,5099c78a?w=1280",
+    "date": 0,
+    "titleSl": "Presenečenje, ko rečeš da - country zvezda se ponesreči na poroki"
+   },
+   {
     "title": "Drama in der Türkei - 115 Menschen springen von brennender Touri-Fähre",
     "link": "https://www.bild.de/news/ausland/drama-vor-touristenort-boot-in-flammen-menschen-springen-ins-meer-6a7dc5a4dc674b59e6e1d58d",
     "image": "https://images.bild.de/6a7dc5a4dc674b59e6e1d58d/49468bfc0a6bf9adabee1b70dee98077,2f9ba82e?w=1280",
@@ -452,57 +459,50 @@
     "image": "https://images.bild.de/6a7d9a57a87e8142c31cec68/5aa61931fbbbdced9ea681771ad5ca1b,87756d49?w=1280",
     "date": 0,
     "titleSl": "Študija - Ali hitra hrana poveča tveganje za raka na prostati?"
-   },
-   {
-    "title": "Über 100 Türkei-Urlauber an Bord - Plötzlich steht das Boot in Flammen",
-    "link": "https://www.bild.de/news/ausland/ueber-100-tuerkei-urlauber-an-bord-ploetzlich-steht-das-boot-in-flammen-6a7dd2dea87e8142c31cf1ce",
-    "image": "https://images.bild.de/6a7dd2dea87e8142c31cf1ce/640308a3e03c87c487d64bcdc7885295,aede26f8?w=1280",
-    "date": 0,
-    "titleSl": "Več kot 100 popotnikov iz Turčije na krovu - nenadoma ladja gori"
    }
   ],
   "krone": [
    {
-    "title": "„Kapazität angepasst“ - Werke geschlossen: Autozulieferer strich 800 Jobs - krone.at",
+    "title": "Betrugsvorwürfe - Warum Gates‘ Tochter in Schwierigkeiten steckt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kLTB4VWRXeklualFqTGNUQklmVnVDTkE3MXFneF9VUjNjNlNBc3lOaEdjanhnaEg0N0doU19SYUJqZw?oc=5",
+    "image": "",
+    "date": 1786637460000,
+    "titleSl": "Obtožbe o goljufiji - zakaj je Gatesova hči v težavah"
+   },
+   {
+    "title": "„Kapazität angepasst“ - Werke geschlossen: Autozulieferer strich 800 Jobs",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1EV3RBd1loQ0RmV01oZmI3aGlWYUtOM0czOEdDT0d0dl9oMDBXTVM2VHVkcGdHM3Itc2F2Tm1RMXR3dw?oc=5",
     "image": "",
     "date": 1786636940000,
-    "titleSl": "»Prilagojena zmogljivost« - zaprti obrati: avtomobilski dobavitelj je odpustil 800 delovnih mest - krone.at"
+    "titleSl": "»Prilagojena zmogljivost« - tovarne zaprte: dobavitelj avtomobilov je odpustil 800 delovnih mest"
    },
    {
-    "title": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät - krone.at",
+    "title": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HUDExWUdLb0Nfa2d1amJnZzkwUWRKRUtuVXJKSzFLemxla2JuR0I1MlBkWGRHdDNzbkw2d0QyMGJZZw?oc=5",
     "image": "",
     "date": 1786636800000,
-    "titleSl": "Primer na radiologiji - skrivnost na kliniki o ukradeni medicinski opremi - krone.at"
+    "titleSl": "Primer na radiologiji - Misterij na kliniki o ukradeni medicinski opremi"
    },
    {
-    "title": "Steiermark verschont - Muschel-Alarm: Appell an Badegäste - krone.at",
+    "title": "Steiermark verschont - Muschel-Alarm: Appell an Badegäste",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90aEREc2tQSXBpMVBGVmoyazY3OXNKbzFNM1UzRVllNkprYkp3R1FVTGoxOHl2RUFLcEt4dm9nN0M2dw?oc=5",
     "image": "",
     "date": 1786636800000,
-    "titleSl": "Štajerski prizanešeno - alarm za školjke: poziv kopalcem - krone.at"
+    "titleSl": "Štajerski prizanešeno - alarm za školjke: poziv kopalcem"
    },
    {
-    "title": "Warnungen wirkten - Sonnenfinsternis forderte nur wenige „Verletzte“ - krone.at",
+    "title": "Warnungen wirkten - Sonnenfinsternis forderte nur wenige „Verletzte“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tb1QyWkxvbXFYN0xaOUc4Nmt0eldQOGEtUVlTUmhadXY4ZUNfeWVHWjRrN01LdzBZcGt1bmFqZk03Zw?oc=5",
     "image": "",
     "date": 1786636800000,
-    "titleSl": "Opozorila so delovala - sončni mrk je povzročil le nekaj \"poškodb\" - krone.at"
+    "titleSl": "Opozorila so delovala - sončni mrk povzročil le nekaj \"poškodb\""
    },
    {
-    "title": "Gebrauchtwagenkauf - So viel Reichweite verlieren E-Auto-Akkus wirklich - krone.at",
+    "title": "Gebrauchtwagenkauf - So viel Reichweite verlieren E-Auto-Akkus wirklich",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EdEU0am9uQU9WbHdfRHAxaGxoSkVULWtFajJqcVJVdk5nTmZzd1RodnBWNURidjJjZ1VQcHRYUWgtQQ?oc=5",
     "image": "",
     "date": 1786636800000,
-    "titleSl": "Nakup rabljenega avtomobila - To je, koliko v resnici izgubijo baterije električnih avtomobilov - krone.at"
-   },
-   {
-    "title": "„Kärnten Inoffiziell“ - Staatsbürgerschafts-Boom und Suche nach Lösungen - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oNm8wQWFkVHZNZDFjZk96SWg0bmUtWUxMbGlWR1lpczhzSnZGbTZBU1JrSGE5eEJ6ZVJlVHZjNkRkQQ?oc=5",
-    "image": "",
-    "date": 1786636800000,
-    "titleSl": "“Kärnten Unofficial” - Razcvet državljanstva in iskanje rešitev - krone.at"
+    "titleSl": "Nakup rabljenega avtomobila – Toliko dosega dejansko izgubijo baterije električnih avtomobilov"
    }
   ],
   "rainews": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "La UIMP acoge en septiembre el curso ‘¿Cómo se hace un periódico? 50 años de EL PAÍS’",
+    "link": "https://elpais.com/aniversario/2026-08-13/la-uimp-acoge-en-septiembre-el-curso-como-se-hace-un-periodico-50-anos-de-el-pais.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/N7AOKID4GVCQDNBZGZ6VA4NKSU.jpg?auth=131bca250843d8ae403f2caaf2eb9ba31c32085033e481fb59eef179b2d78b58",
+    "date": 1786637349000,
+    "titleSl": "Septembra UIMP gosti tečaj Kako narediš časopis? 50 let EL PAÍS"
+   },
+   {
     "title": "Muere el músico y artista Víctor Coyote de manera repentina a los 68 años",
     "link": "https://elpais.com/cultura/2026-08-13/muere-el-musico-y-artista-victor-coyote-de-manera-repentina-a-los-68-anos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/4BE2CMYKVJCH3FZW2AAWT5NCHQ.jpg?auth=d1e7e22065a4c14ec8c752c04b030774388c7833e316a43517003a9a02e41866",
@@ -628,13 +635,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1204069_190213_video_1800.mp4",
     "date": 1786631084000,
     "titleSl": "Maček astronomov po njihovem velikem trenutku z mrkom: »Potreboval bom čas, da predelam vse, kar smo doživeli«"
-   },
-   {
-    "title": "Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes",
-    "link": "https://elpais.com/espana/2026-08-13/marlaska-envia-a-ceuta-mas-policias-de-extranjeria-para-acelerar-la-expulsion-de-migrantes.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204328_132828_video_1800.mp4",
-    "date": 1786629076000,
-    "titleSl": "Marlaska v Ceuto pošlje več imigracijske policije, da bi pospešila izgon 5000 migrantov"
    }
   ]
  },
