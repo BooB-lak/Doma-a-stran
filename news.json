@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13T14:06:33.852Z",
+ "generatedAt": "2026-08-13T14:08:27.491Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices",
+    "link": "https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html",
+    "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13met-insurance-loss-lfmw/13met-insurance-loss-lfmw-mediumSquareAt3X.jpg",
+    "date": 1786629902000,
+    "titleSl": "Newyorčani, ki so izgubili zavarovanje po Trumpovem rezu, se soočajo s težkimi odločitvami"
+   },
+   {
     "title": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
     "link": "https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html",
     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12pol-democratic-socialists-regroup-wjft/12pol-democratic-socialists-regroup-wjft-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00met-mangione-gbqv/00met-mangione-gbqv-mediumSquareAt3X-v2.jpg",
     "date": 1786626931000,
     "titleSl": "Luigi Mangione, ki se na zveznem sodišču sooča z obtožbami zalezovanja, naj bi priznal krivdo"
-   },
-   {
-    "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-    "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-    "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-japan-russia-ftjb/13int-japan-russia-ftjb-mediumSquareAt3X.jpg",
-    "date": 1786626764000,
-    "titleSl": "Putin obiskal otoke, zasežene Japonski v drugi svetovni vojni, kar je razjezilo Tokio"
    }
   ],
   "bbc": [
@@ -419,6 +419,34 @@
   ],
   "bild": [
    {
+    "title": "„Bares für Rares“-Star warnt vor Betrügern - 80-Euro-Waldi ist stinksauer!",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/waldi-von-bares-fuer-rares-warnt-vor-betruegern-auf-kleinanzeigen-co-6a7c3611c99104ecb401a21f",
+    "image": "https://images.bild.de/6a7c3611c99104ecb401a21f/9eabfa1698a6759e10d64f293fe0afa6-landscape,2432f340?w=1280",
+    "date": 0,
+    "titleSl": "Zvezdnik filma \"Denar za redke\" svari pred goljufi - 80 evrov Waldi je jezen!"
+   },
+   {
+    "title": "Nach Monsunregen auf den Philippinen - Manila versinkt im Müll",
+    "link": "https://www.bild.de/news/manila-versinkt-im-muell-nach-monsunregen-auf-den-philippinen-6a7c3195169e8e32c0ae519d",
+    "image": "https://images.bild.de/6a7c3195169e8e32c0ae519d/f6a8ca30911cc9b415f6a46d9a359e78,73f59aee?w=1280",
+    "date": 0,
+    "titleSl": "Po monsunskem deževju na Filipinih - Manila se utaplja v smeteh"
+   },
+   {
+    "title": "Überraschung beim Ja-Wort - Country-Star crasht Hochzeit",
+    "link": "https://www.bild.de/unterhaltung/musik/ueberraschung-beim-ja-wort-country-star-crasht-hochzeit-6a7c6248169e8e32c0ae5664",
+    "image": "https://images.bild.de/6a7c6248169e8e32c0ae5664/a04a6a2cbc91a7180f1928180c8e2432,5c50566b?w=1280",
+    "date": 0,
+    "titleSl": "Presenečenje, ko rečeš da - country zvezda se ponesreči na poroki"
+   },
+   {
+    "title": "„Grip of Glory“ - Magdeburgs Meister-Saison",
+    "link": "https://www.bild.de/sport/mehr-sport/grip-of-glory-magdeburgs-meister-saison-6a7dbbcea87e8142c31cefb2",
+    "image": "https://images.bild.de/6a7dbbcea87e8142c31cefb2/3ebd6fa4fede51f72261ae583a7fb738-landscape,a6f16834?w=1280",
+    "date": 0,
+    "titleSl": "\"Prijem slave\" - ​​Magdeburška Meister-Saison"
+   },
+   {
     "title": "Wann Sie zum Arzt sollten - Augenschmerzen nach der Sonnenfinsternis?",
     "link": "https://www.bild.de/leben-wissen/medizin/augenschmerzen-nach-der-sonnenfinsternis-das-koennen-sie-jetzt-tun-6a732a862b19377cc1230bde",
     "image": "https://images.bild.de/6a732a862b19377cc1230bde/881d569bee64942df0c045cf7e01d689,ff64fdb9?w=1280",
@@ -426,39 +454,11 @@
     "titleSl": "Kdaj k zdravniku - bolečine v očeh po sončnem mrku?"
    },
    {
-    "title": "Wie ist die denn dahin gekommen? - Feuerwehr muss Ziege von Brücke retten",
-    "link": "https://www.bild.de/news/wie-ist-die-denn-dahin-gekommen-feuerwehr-muss-ziege-von-bruecke-retten-6a7c480fa87e8142c31cd9db",
-    "image": "https://images.bild.de/6a7c480fa87e8142c31cd9db/cca9cb4c98b129a7c2be66ac79cb2b41-landscape,87bf016c?w=1280",
+    "title": "„Grip of Glory“ - Gummersbach lebt Handball-Tradition",
+    "link": "https://www.bild.de/sport/mehr-sport/grip-of-glory-gummersbach-lebt-handball-tradition-6a7dbb62169e8e32c0ae6cee",
+    "image": "https://images.bild.de/6a7dbb62169e8e32c0ae6cee/6386ff5e4a513425be4a1cf759561efb,4aafc70b?w=1280",
     "date": 0,
-    "titleSl": "Kako je prišla tja? - Gasilska brigada mora rešiti kozo z mostu"
-   },
-   {
-    "title": "„Grip of Glory“ - Der Super Bowl des Handballs",
-    "link": "https://www.bild.de/sport/mehr-sport/grip-of-glory-der-super-bowl-des-handballs-6a7dbb6e169e8e32c0ae6cfb",
-    "image": "https://images.bild.de/6a7dbb6e169e8e32c0ae6cfb/bfea0ab50194f6d8d374db821768e81e-landscape,656ab89d?w=1280",
-    "date": 0,
-    "titleSl": "\"Prijem slave\" - ​​Der Super Bowl des Handballs"
-   },
-   {
-    "title": "„Grip of Glory“ - Immer wieder Wirbel um die Füchse Berlin",
-    "link": "https://www.bild.de/sport/mehr-sport/grip-of-glory-immer-wieder-wirbel-um-die-fuechse-berlin-6a7db776dc674b59e6e1d41a",
-    "image": "https://images.bild.de/6a7db776dc674b59e6e1d41a/eb975a0472f21f441a14c7673bdfdf6f-landscape,229c1e1?w=1280",
-    "date": 0,
-    "titleSl": "»Grip of Glory« – O Füchse Berlinu je vedno hrup"
-   },
-   {
-    "title": "„Grip of Glory“ - Die Legende vom THW Kiel",
-    "link": "https://www.bild.de/sport/mehr-sport/grip-of-glory-die-legende-vom-thw-kiel-6a7db651a87e8142c31cef08",
-    "image": "https://images.bild.de/6a7db651a87e8142c31cef08/75085fe25683662d87f5489e21f59f5e-landscape,f3b284c8?w=1280",
-    "date": 0,
-    "titleSl": "“Grip of Glory” - Legenda THW Kiela"
-   },
-   {
-    "title": "„Grip of Glory“ - THW Kiel vor der Rückkehr zum Handball-Giganten?",
-    "link": "https://www.bild.de/sport/mehr-sport/grip-of-glory-thw-kiel-vor-der-rueckkehr-zum-handball-giganten-6a7db5a1a87e8142c31ceef5",
-    "image": "https://images.bild.de/6a7db5a1a87e8142c31ceef5/8d9312c9e9ee08d6d01a459a84a0cd10,2004552?w=1280",
-    "date": 0,
-    "titleSl": "“Grip of Glory” - THW Kiel se bo vrnil v rokometnega velikana?"
+    "titleSl": "“Grip of Glory” - Gummersbach živi rokometno tradicijo"
    }
   ],
   "krone": [
