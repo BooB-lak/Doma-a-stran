@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13T15:12:27.122Z",
+ "generatedAt": "2026-08-13T15:14:13.303Z",
  "sources": {
   "siol": [
    {
@@ -79,10 +79,22 @@
   ],
   "rtvslo": [
    {
+    "title": "Arheološke najdbe ob serminski vpadnici: brežina Rižane je nekoč tekla drugje",
+    "link": "https://www.rtvslo.si/kultura/dediscina/arheoloske-najdbe-ob-serminski-vpadnici-brezina-rizane-je-nekoc-tekla-drugje/790817",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/13/67067445.jpg",
+    "date": 1786633607000
+   },
+   {
     "title": "Za španski superpokal prihodnje leto v Carigradu",
     "link": "https://www.rtvslo.si/sport/nogomet/za-spanski-superpokal-prihodnje-leto-v-carigradu/790815",
     "image": "https://img.rtvcdn.si/_up/upload/2026/01/11/67009314.jpg",
     "date": 1786633102000
+   },
+   {
+    "title": "Tičar okrepil Bansko Bystrico",
+    "link": "https://www.rtvslo.si/sport/hokej/ticar-okrepil-bansko-bystrico/790816",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/09/16/66960635.jpg",
+    "date": 1786632813000
    },
    {
     "title": "Ob Pekrskem potoku bi zasadili 240 novih dreves, a podrli dve lipi, da bo prostor za pumptrack",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/okolje/kmetijstvo/voda-do-vsake-njive-bi-moral-biti-zdaj-moto/790811",
     "image": "https://img.rtvcdn.si/_up/upload/2025/02/18/66439661.jpg",
     "date": 1786630764000
-   },
-   {
-    "title": "Umrl je pisatelj Janez Kajzer",
-    "link": "https://www.rtvslo.si/kultura/knjige/umrl-je-pisatelj-janez-kajzer/790809",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/13/67067436.jpg",
-    "date": 1786630227000
-   },
-   {
-    "title": "Fire Point: Prve ukrajinske balistične rakete bodo nared do jeseni",
-    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/fire-point-prve-ukrajinske-balisticne-rakete-bodo-nared-do-jeseni/790808",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/13/67067429.jpg",
-    "date": 1786629542000
    }
   ],
   "zurnal": [
@@ -280,12 +280,19 @@
    {
     "title": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
     "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d661/live/e8ffb610-96b7-11f1-9940-357a1043e63e.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/32f64650-9729-11f1-b2ab-0dd01740f9f6.jpg",
     "date": 1786632979000,
     "titleSl": "Kdo bi lahko zamenjal tiskovno predstavnico Bele hiše Karoline Leavitt?"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+    "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7dd54f5f-1786631503.jpg?resize=1920%2C1440",
+    "date": 1786633182000,
+    "titleSl": "Iran pravi, da je Hormuška ožina pod njegovim nadzorom, zavrača Trumpove trditve"
+   },
    {
     "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
     "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/nida-horizontal-thumb-1786629985.jpg?resize=1920%2C1080&quality=80",
     "date": 1786630094000,
     "titleSl": "Poročilo s prizorišča palestinskih domov, ki so jih oblegali naseljenci"
-   },
-   {
-    "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
-    "link": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7cea0f33e5-1786571279.jpg?resize=1920%2C1440",
-    "date": 1786629734000,
-    "titleSl": "Libanonski Američani tožijo ZDA zaradi izraelskih zlorab pravic v libanonski vojni"
    }
   ],
   "guardian": [
@@ -419,11 +419,32 @@
   ],
   "bild": [
    {
+    "title": "Pleite-Drama immer schlimmer - Patricia Blanco nach Eklat aus TV-Show geschmissen",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/patricia-blanco-aus-reality-show-geschmissen-naechste-pleite-6a7d8ddbdc674b59e6e1cf50",
+    "image": "https://images.bild.de/6a7d8ddbdc674b59e6e1cf50/e8d6cb180ad7bb181aeb77cf44c9b370,915bad73?w=1280",
+    "date": 0,
+    "titleSl": "Drama o bankrotu se poslabša - Patricio Blanco so po škandalu izključili iz televizijske oddaje"
+   },
+   {
+    "title": "Mit Blick auf Olympia 2028 - Dressur-Boss will Werth nicht in Watte packen",
+    "link": "https://www.bild.de/sport/mehr-sport/reit-wm-mit-blick-auf-olympia-2028-dressur-boss-will-werth-nicht-in-watte-packen-6a7dd2a50773f8de24672d68",
+    "image": "https://images.bild.de/6a7dd2a50773f8de24672d68/51310c547e62796a96f307dc68306ef4,17c06dd5?w=1280",
+    "date": 0,
+    "titleSl": "S pogledom na OI 2028 - šef dresurnega jahanja Wertha noče zaviti v vato"
+   },
+   {
     "title": "Für neue Alm-Party in Bielefeld - Baut Wollitz seinen Abwehr-Kinderriegel um?",
     "link": "https://www.bild.de/sport/fussball/energie-cottbus-baut-wollitz-seinen-abwehr-kinderriegel-um-6a7db9a4dc674b59e6e1d448",
     "image": "https://images.bild.de/6a7db9a4dc674b59e6e1d448/dfb49449daaf885c6faa84fc395f79c5,412a10d3?w=1280",
     "date": 0,
     "titleSl": "Za novo alpsko zabavo v Bielefeldu - Ali Wollitz spreminja svoj obrambni otroški bar?"
+   },
+   {
+    "title": "Hersteller warnt Kunden - Nintendo hebt Preis für die Switch 2 an",
+    "link": "https://www.bild.de/leben-wissen/digital/nintendo-warnt-offen-switch-2-wird-ab-september-30-euro-teurer-6a7dbd78a87e8142c31cf015",
+    "image": "https://images.bild.de/6a7dbd78a87e8142c31cf015/cc94a7b0561c36ddfa167597b153453a,a48ae8cf?w=1280",
+    "date": 0,
+    "titleSl": "Proizvajalec opozarja stranke - Nintendo dviguje ceno Switch 2"
    },
    {
     "title": "Spielmacher wird umgeschult - Mattuschka: „Cigerci wird zweistellig scoren!“",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6a7459fd3013d32d67882302/581776028f64ba30387cfa06b78a7bbd,5964c2c0?w=1280",
     "date": 0,
     "titleSl": "Predogled za 13. avgust 2026 – To se nadaljuje danes v oddaji »Vse, kar šteje«."
-   },
-   {
-    "title": "BILD exklusiv - Polizei-Schutzwesten nicht schusssicher!",
-    "link": "https://www.bild.de/regional/berlin/nicht-mehr-schusssicher-schutzwesten-skandal-bei-der-berliner-polizei-6a7c4b5ace20c44e1d3aa2f0",
-    "image": "https://images.bild.de/6a7c4b5ace20c44e1d3aa2f0/200af562a587fed3fec23220a12cbc30,4ea8aa4e?w=1280",
-    "date": 0,
-    "titleSl": "Ekskluzivno za BILD - Policijski zaščitni jopiči niso neprebojni!"
-   },
-   {
-    "title": "4,5 Mio. Euro plötzlich weg - Luxusyacht geht unter vor Sardinien",
-    "link": "https://www.bild.de/news/4-5-mio-euro-ploetzlich-weg-luxusyacht-geht-unter-vor-sardinien-6a7dd6dea87e8142c31cf239",
-    "image": "https://images.bild.de/6a7dd6dea87e8142c31cf239/e51fe454aae0175d2403222bb6bfc354-landscape,83f8b141?w=1280",
-    "date": 0,
-    "titleSl": "4,5 milijona evrov nenadoma izginilo - pred Sardinijo se je potopila luksuzna jahta"
-   },
-   {
-    "title": "Vertrackte Buttons - Diesen Fehler dürfen Sie bei einer Online-Kündigung nicht machen",
-    "link": "https://www.bild.de/leben-wissen/digital/1-1-kuendigung-dieser-button-entscheidet-ob-ein-anruf-noetig-ist-6a7b368e630361c8992292f2",
-    "image": "https://images.bild.de/6a7b368e630361c8992292f2/631f17803d97a40257bcae2fb76c895f-landscape,c599927d?w=1280",
-    "date": 0,
-    "titleSl": "Zapleteni gumbi – Te napake ne bi smeli narediti pri preklicu prek spleta"
    }
   ],
   "krone": [
@@ -507,18 +507,18 @@
   ],
   "rainews": [
    {
+    "title": "Boato a Colleferro: incendio ed esplosione nella fabbrica di munizioni ex Simmel Difesa",
+    "link": "https://www.rainews.it/articoli/2026/08/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro-e91bad6c-6628-43c3-8529-c04fca832e8d.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/13/1786630473730_BeFunkycollage.jpg",
+    "date": 1786633980000,
+    "titleSl": "Bum v Colleferru: požar in eksplozija v nekdanji tovarni streliva Simmel Difesa"
+   },
+   {
     "title": "Crans-Montana, dimessa anche Francesca l&#x27;ultima paziente ricoverata al Niguarda di Milano",
     "link": "https://www.rainews.it/articoli/2026/08/crans-montana-dimessa-anche-francesca-lultima-paziente-ricoverata-al-niguarda-di-milano-bertolaso-social-3858701c-025d-4f66-8da4-19a1f404e4e6.html",
     "image": "https://www.rainews.it/dl/img/2026/08/13/1786632827164_bertolaso_.png",
     "date": 1786633740000,
     "titleSl": "Crans-Montana, Francesca, zadnja pacientka, sprejeta v bolnišnico Niguarda v Milanu, je prav tako odpuščena"
-   },
-   {
-    "title": "Boato a Colleferro: incendio ed esplosione nella fabbrica di munizioni ex Simmel Difesa",
-    "link": "https://www.rainews.it/articoli/2026/08/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro-e91bad6c-6628-43c3-8529-c04fca832e8d.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/13/1786630473730_BeFunkycollage.jpg",
-    "date": 1786633080000,
-    "titleSl": "Bum v Colleferru: požar in eksplozija v nekdanji tovarni streliva Simmel Difesa"
    },
    {
     "title": "Esplosione nello stabilimento ex Simmel Difesa a Colleferro",
