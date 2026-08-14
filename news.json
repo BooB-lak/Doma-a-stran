@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T11:30:50.075Z",
+ "generatedAt": "2026-08-14T11:32:24.221Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Šest oseb se bori za življenje, med njimi tudi mladoletnica",
+    "link": "https://www.24ur.com/novice/tujina/sedem-oseb-v-smrtni-nevarnosti-zdravniki-iz-dopustov-na-pomoc.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/b3c929a622a9290dab8c_63631817.jpg?v=4201&fop=fp:0.49:0.45",
+    "date": 1786707135000
+   },
+   {
     "title": "Kaja in Karlo navdušila: plesala, prepevala in si izmenjevala nežnosti",
     "link": "https://www.24ur.com/popin/domaca-scena/kaja-in-karlo-navdusila-plesala-prepevala-in-si-izmenjevala-neznosti.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/8865132adce3a66d3975_63632038.jpg?v=738a&fop=fp:0.55:0.44",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/ljudje-v-paniki-skakali-v-morje-pred-ognjem-bezal-tudi-znani-igralec.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/ab21f40ebfa93d5166a3_63631948.jpg?v=d05a&fop=fp:0.49:0.45",
     "date": 1786705384000
-   },
-   {
-    "title": "Na Metelkovi preprodajali drogo: prijeli tri osumljence",
-    "link": "https://www.24ur.com/novice/crna-kronika/na-metelkovi-preprodajali-drogo-prijeli-tri-osumljence.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jun2024/475c760749803a427c35_63247335.jpg?v=f097&fop=fp:0.56:0.49",
-    "date": 1786701484000
    }
   ],
   "rtvslo": [
@@ -331,25 +331,18 @@
   ],
   "guardian": [
    {
-    "title": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/81422c596296b39fd95aebbb1a67e6053dec26e6/703_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b4a5d990f3d99cff463f65c6c15e15a9",
-    "date": 1786706616000,
-    "titleSl": "Parlamentarni nadzornik ponovno odprl preiskavo Nigela Faragea po zmagi Clactona na nadomestnih volitvah – britanska politika v živo"
-   },
-   {
-    "title": "Donald Trump to give speech on crime and safety during New York visit – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/bc9a9a8c2daa3af54336838b9915f1d9ef257110/543_0_3151_2521/master/3151.jpg?width=140&quality=85&auto=format&fit=max&s=ecd84d4991bf95d69e6f2e213483feef",
-    "date": 1786706519000,
-    "titleSl": "Donald Trump bo imel govor o kriminalu in varnosti med obiskom v New Yorku – ameriška politika v živo"
-   },
-   {
     "title": "19 people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/5dc6da1a308c2f60602d733a2465de7e989e64b3/716_0_5573_4458/master/5573.jpg?width=140&quality=85&auto=format&fit=max&s=9543d9e6d4e0d2a14fd4d8729edbfacc",
     "date": 1786706163000,
     "titleSl": "Po požaru v West Midlandsu so 19 ljudi prepeljali v bolnišnico, na Hrvaškem pa jih je evakuiralo na tisoče – Evropa živi"
+   },
+   {
+    "title": "Donald Trump to give speech on crime and safety during New York visit – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/bc9a9a8c2daa3af54336838b9915f1d9ef257110/543_0_3151_2521/master/3151.jpg?width=140&quality=85&auto=format&fit=max&s=ecd84d4991bf95d69e6f2e213483feef",
+    "date": 1786705916000,
+    "titleSl": "Donald Trump bo imel govor o kriminalu in varnosti med obiskom v New Yorku – ameriška politika v živo"
    },
    {
     "title": "Nolan Wells’ parents recount ordeal of son’s death at Atlanta convention",
@@ -364,6 +357,13 @@
     "image": "https://i.guim.co.uk/img/media/56970d026a4d4774d9908cb4bc8933deaae7c5d3/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=5ce384aa711a3c1f1775b1eab4f4d936",
     "date": 1786705227000,
     "titleSl": "Ameriška podjetja, ki so ohranila politiko DEI kljub grožnjam \"zbudi se, bankrotiraj\", so uspevala"
+   },
+   {
+    "title": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/81422c596296b39fd95aebbb1a67e6053dec26e6/703_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b4a5d990f3d99cff463f65c6c15e15a9",
+    "date": 1786705017000,
+    "titleSl": "Parlamentarni nadzornik ponovno odprl preiskavo Nigela Faragea po zmagi Clactona na nadomestnih volitvah – britanska politika v živo"
    },
    {
     "title": "UK universities face ‘financial crisis’ amid collapse in international students",
@@ -426,6 +426,13 @@
     "titleSl": "Svetovni prvak formule E sprejema brutalne ukrepe - življenje dirkača je res tako slabo!"
    },
    {
+    "title": "Bürgermeister warnt Bootsfahrer - Delfin schwimmt durch Venedigs Canal Grande",
+    "link": "https://www.bild.de/news/ausland/buergermeister-warnt-delfin-schwimmt-durch-venedigs-canale-grande-6a7edac2169e8e32c0ae7be3",
+    "image": "https://images.bild.de/6a7edac2169e8e32c0ae7be3/c7a093e95cc313bc790be6142d18ea6d,cbaac0da?w=1280",
+    "date": 0,
+    "titleSl": "Župan opozarja navtike - delfin plava po Beneškem kanalu Grande"
+   },
+   {
     "title": "Versichert oder abgezockt? - Hunde-Krankenversicherung? Das müssen Sie wissen!",
     "link": "https://www.bild.de/leben-wissen/haustiere/hunde-krankenversicherung-wann-sie-sich-lohnt-und-worauf-halter-achten-sollten-6a7b485167ddb2e13c5845f8",
     "image": "https://images.bild.de/6a7b485167ddb2e13c5845f8/ab34090aba5b0cfe0c84c96083ec8905,5fa5481b?w=1280",
@@ -452,16 +459,23 @@
     "image": "https://images.bild.de/6a7ee651169e8e32c0ae7db0/dd7fb29c1de256f6ee22c2bf2e8db19b-landscape,1534c955?w=1280",
     "date": 0,
     "titleSl": "Odločitev v Dortmundu - BVB ustavi El Mala poker!"
-   },
-   {
-    "title": "Neuer Ärger auf Mallorca - Europcar verlangte plötzlich 2 Kreditkarten für Mietauto",
-    "link": "https://www.bild.de/leben-wissen/sparfochs/neuer-aerger-auf-mallorca-europcar-verlangte-ploetzlich-2-kreditkarten-fuer-mietauto-6a7c3332169e8e32c0ae51b5",
-    "image": "https://images.bild.de/6a7c3332169e8e32c0ae51b5/dd40f3e62328ce518e41477bea2080b0,d662fc05?w=1280",
-    "date": 0,
-    "titleSl": "Nova težava na Mallorci - Europcar je nenadoma zahteval 2 kreditni kartici za najem vozil"
    }
   ],
   "krone": [
+   {
+    "title": "Rennen auf Isle of Man - Videos und PlayStation als Lebensversicherung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ocFVwVll0QWphNG5HS0tISlZyZXVhXy1nMTBPT1FFTHFlNXlfQ2RHYXBTdkVrN19nT1U2WEVLZVhXdw?oc=5",
+    "image": "",
+    "date": 1786707000000,
+    "titleSl": "Dirke na otoku Man - videi in PlayStation kot življenjsko zavarovanje"
+   },
+   {
+    "title": "Per Giftinjektion - Drei Hinrichtungen in den USA an nur einem Tag",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDclpJRDlhUjU0T1NwMnVlNXJQeWdkcFYyX083NGxrRld6ZkVJMkRQNktXNGMtSWJ2ZDVpTi01SHFhUQ?oc=5",
+    "image": "",
+    "date": 1786706940000,
+    "titleSl": "S smrtonosno injekcijo - Tri usmrtitve v ZDA v samo enem dnevu"
+   },
    {
     "title": "Verheerende Folgen - S-Bahn: Weiter Suche nach Ursache für Kabelbrand",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xRU11bzBLWUY0OGxhU3NCVUtqYzB6c0paNWhPVnBDNkFLUTRMc29xNlZlbzl3SlpsYTZpSXhUYl9FZw?oc=5",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1786706086000,
     "titleSl": "Ryanairov grozljiv let - moškega posrkalo iz letala: Zato je počilo okno"
-   },
-   {
-    "title": "Rätsel um Hergang - Senior (77) nach Unfall in Tiroler Schwimmbad tot",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qMUVPZ2ZNdmZ1Y0k5ZUtGS2xiRGJseTZnTU1IOWF0U2ZxOUVidFRjeUliSU5HZUw5RHplWXpvQUdxdw?oc=5",
-    "image": "",
-    "date": 1786705860000,
-    "titleSl": "Skrivnost o tem, kaj se je zgodilo - starejši (77) mrtev po nesreči v tirolskem bazenu"
-   },
-   {
-    "title": "Beherzte Aktion - Tschernobyl-Kinder zu Gast im weiten Land",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vQlk1di1McDdQcnhrZlhFdlNTQ1Fjc0dxZ3hiaEZqVGdMc21iSDNUZkJ5SWxjNG9DdmozZVJOOTZPQQ?oc=5",
-    "image": "",
-    "date": 1786705200000,
-    "titleSl": "Pogumno dejanje - Černobilski otroci obiščejo ogromno deželo"
    }
   ],
   "rainews": [
@@ -595,13 +595,6 @@
   ],
   "elpais": [
    {
-    "title": "La economía de la zona euro creció un 0,4% en el segundo trimestre pese a la debilidad alemana",
-    "link": "https://elpais.com/economia/2026-08-14/la-economia-de-la-zona-euro-crecio-un-04-en-el-segundo-trimestre-pese-a-la-debilidad-alemana.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/I52EVMWP5BIQPJJVHDJNFJLKG4.jpg?auth=bd3dcf5d17bd132685282e6e6f833b4de12dabfa2482d24523dbfeb4c5ccf85a",
-    "date": 1786705859000,
-    "titleSl": "Gospodarstvo območja evra je v drugem četrtletju zraslo za 0,4 % kljub šibkosti Nemčije"
-   },
-   {
     "title": "El fuego en Huelva continúa su avance y se acerca a Aznalcóllar tras arrasar 31.000 hectáreas",
     "link": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4",
@@ -635,6 +628,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/W3LZ36O26ZJBPHFIBIAPRRA7PA.jpg?auth=a3e1b489b48a9eafb3d11d855646bb70910f8980f205561884f4fb9a36514b82",
     "date": 1786700791000,
     "titleSl": "Nenadna izguba višine leta Air India je povzročila 17 poškodb in razkrila morebitni pozitiven test pilota na marihuano"
+   },
+   {
+    "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+    "link": "https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/R55C5O3KXRFJVLX5ONIIJPDTB4.jpg?auth=f2f2636c65865a8411171d8a56641c097f87b3d2ed46bdcda6cd8d9a55a643db",
+    "date": 1786700381000,
+    "titleSl": "Sumar zavrača podaljšanje tovarne Almaraz in PSOE obtožuje neizpolnjevanja vladnih dogovorov"
    }
   ]
  },
