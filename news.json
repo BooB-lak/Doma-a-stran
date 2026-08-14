@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T13:24:25.638Z",
+ "generatedAt": "2026-08-14T13:26:25.565Z",
  "sources": {
   "siol": [
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786712765.jpg?resize=1920%2C1080&quality=80",
-    "date": 1786712839000,
-    "titleSl": "Opozorilo pakistanskega premierja o \"rdeči črti\" Indiji zaradi pogodbe o vodi"
-   },
-   {
     "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
     "link": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-24T113837Z_868782149_UP1EM6O0WCBEM_RTRMADP_3_OLYMPICS-IOC-1786711552.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26224599849869-1786702435.jpg?resize=1920%2C1440",
     "date": 1786709387000,
     "titleSl": "Izraelske sile preprečujejo aktivistom, da bi prišli do obleganih družin Qusra"
+   },
+   {
+    "title": "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
+    "link": "https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026_MOSS_VALE_RQ_RD_2-IMG_9322-2-scaled-1-1786704544.jpg?resize=1920%2C1350",
+    "date": 1786708922000,
+    "titleSl": "Vzpenjajoči se avstralski igralec golfa Bang umrl zaradi možganske krvavitve na Tajskem pri 18 letih"
    }
   ],
   "guardian": [
@@ -384,7 +384,7 @@
    {
     "title": "Ukrainekrieg: Russland lehnt Waffenruhe im Schwarzen Meer ab",
     "link": "https://www.spiegel.de/ausland/ukrainekrieg-russland-lehnt-waffenruhe-im-schwarzen-meer-ab-a-0321a338-281d-4abf-906d-0f7ec2e0accf#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c3ca7a26-7ff0-48b5-a5e9-822be2635872_w520_r2.08_fpx66.64_fpy49.99.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/75389714-de33-4d70-a0a0-4b91eb295ec3_w520_r2.08_fpx32.02_fpy55.01.jpg",
     "date": 1786710000000,
     "titleSl": "Vojna v Ukrajini: Rusija zavrača prekinitev ognja v Črnem morju"
    },
@@ -419,6 +419,34 @@
   ],
   "bild": [
    {
+    "title": "Nathalie Pohls Fluss-Challenge - Carsten Maschmeyer spendet 1000 Euro pro Kilometer",
+    "link": "https://www.bild.de/sport/mehr-sport/nathalie-pohl-carsten-maschmeyer-spendet-1000-euro-pro-kilometer-6a7eb3c0169e8e32c0ae7883",
+    "image": "https://images.bild.de/6a7eb3c0169e8e32c0ae7883/13854fc31ea5b17267aa2999a978693e,f6992337?w=1280",
+    "date": 0,
+    "titleSl": "Rečni izziv Nathalie Pohl - Carsten Maschmeyer podari 1000 evrov na kilometer"
+   },
+   {
+    "title": "Filialen in Kaufland und Netto - Deutscher Fleisch- und Wursthersteller insolvent",
+    "link": "https://www.bild.de/regional/mecklenburg-vorpommern/deutscher-fleisch-und-wursthersteller-meldet-insolvenz-an-6a7d8b99169e8e32c0ae6726",
+    "image": "https://images.bild.de/6a7d8b99169e8e32c0ae6726/4ad004b6d499cab297092817b7cb6a2a,705d3238?w=1280",
+    "date": 0,
+    "titleSl": "Podružnici Kaufland in Netto - nemški proizvajalec mesa in klobas insolvent"
+   },
+   {
+    "title": "Nach Engelhardt-Schock bei Energie - Ausfall eine „Katastrophe!“ Wollitz’ neuer Stürmer-Plan",
+    "link": "https://www.bild.de/sport/fussball/energie-cottbus-neuer-stuermer-plan-von-wollitz-nach-engelhardt-schock-6a7f04ffa87e8142c31d0194",
+    "image": "https://images.bild.de/6a7f04ffa87e8142c31d0194/e044cd825c5929f7834a0e5ebf52ce6f,f2fe2d23?w=1280",
+    "date": 0,
+    "titleSl": "Po Engelhardtovem šoku v izpadu energije \"katastrofa!\" Wollitzev načrt novega napadalca"
+   },
+   {
+    "title": "Technologischer Durchbruch bei Knopfzellen - Neue Batterie schützt Kinder vor Verätzungen",
+    "link": "https://www.bild.de/service/productstory/anzeige-weltneuheit-von-energizer-diese-batterie-kann-leben-retten-6a68a8a7c435b807339bd64b",
+    "image": "https://images.bild.de/6a68a8a7c435b807339bd64b/49463854d0b5b804872f60510054d551-landscape,e9709079?w=1280",
+    "date": 0,
+    "titleSl": "Tehnološki preboj v gumbastih celicah - nova baterija ščiti otroke pred kemičnimi opeklinami"
+   },
+   {
     "title": "Ladeverluste bei Elektroautos - Bis zu 24,2 Prozent des Stroms versickern!",
     "link": "https://www.bild.de/leben-wissen/auto/ladeverluste-bei-elektroautos-bis-zu-24-2-prozent-des-ladestroms-versickern-6a7ed8a9f14aa44f2fd5daf4",
     "image": "https://images.bild.de/6a7ed8a9f14aa44f2fd5daf4/035a3412862ab79fc59fad6a16ba7c7d,795de6bc?w=1280",
@@ -431,34 +459,6 @@
     "image": "https://images.bild.de/6a7dbbe6dc674b59e6e1d47a/5e3ef95c5977ae958a98054b88a13306,1edb3b6?w=1280",
     "date": 0,
     "titleSl": "\"Pokopati psico je bila dobra ideja\" - policijska past gre po zlu! Obtoženec umora izpuščen"
-   },
-   {
-    "title": "Schleuser wollen Migranten nach Spanien tricksen - Neuer Aufruf zu Ceuta-Ansturm eine Finte?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/schleuser-wollen-migranten-nach-spanien-tricksen-neuer-aufruf-zu-ceuta-ansturm-eine-finte-6a7ed163f14aa44f2fd5da3a",
-    "image": "https://images.bild.de/6a7ed163f14aa44f2fd5da3a/2076a009744a703be1decb8087f69866,5765b21d?w=1280",
-    "date": 0,
-    "titleSl": "Tihotapci želijo migrante z zvijačo spraviti v Španijo - nov poziv Ceuti hitenje finta?"
-   },
-   {
-    "title": "Materialwahl für Zuhause - Travertin, Marmor oder Terrazzo?",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/travertin-marmor-terrazzo-welcher-stein-im-alltag-passt-6a709933935ebc37ca9d44b9",
-    "image": "https://images.bild.de/6a709933935ebc37ca9d44b9/cbe64e832a34d0eac710505afa2e6945,20ed9d01?w=1280",
-    "date": 0,
-    "titleSl": "Izbira materiala za dom - travertin, marmor ali teraco?"
-   },
-   {
-    "title": "Schlag eines Gegners verletzte ihn schwer - Boxer stirbt nach 11 Jahren im Wachkoma",
-    "link": "https://www.bild.de/sport/prichard-colon-33-tot-11-jahre-nach-schlag-der-alles-zerstoerte-6a7edca1a87e8142c31cfd84",
-    "image": "https://images.bild.de/6a7edca1a87e8142c31cfd84/32cb541dd9788f43ff44343fce9e7c94,261cb243?w=1280",
-    "date": 0,
-    "titleSl": "Nasprotnikov udarec ga je huje poškodoval - boksar umrl po 11 letih v vegetativnem stanju"
-   },
-   {
-    "title": "Terroristen kandidieren - Hamas will bei Palästinenser-Wahl antreten",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/terror-kandidatur-hamas-will-bei-palaestinenser-wahl-antreten-6a7ee57d169e8e32c0ae7da3",
-    "image": "https://images.bild.de/6a7ee57d169e8e32c0ae7da3/39e3b9b1ad6ac249a7292c81c5f2a359,63e9798f?w=1280",
-    "date": 0,
-    "titleSl": "Teroristi kandidirajo – Hamas želi kandidirati na palestinskih volitvah"
    }
   ],
   "krone": [
@@ -550,6 +550,13 @@
   ],
   "lemonde": [
    {
+    "title": "Fin de vie : le Conseil constitutionnel valide la loi créant un droit à l’aide à mourir, en émettant trois réserves",
+    "link": "https://www.lemonde.fr/societe/article/2026/08/14/fin-de-vie-le-conseil-constitutionnel-valide-la-loi-creant-un-droit-a-l-aide-a-mourir-en-emettant-trois-reserves_6746258_3224.html",
+    "image": "https://img.lemde.fr/2026/08/14/0/0/5102/2551/644/322/60/0/724e03a_upload-1-lsugnbgpgy3z-000-48cf4zq.jpg",
+    "date": 1786713766000,
+    "titleSl": "Konec življenja: ustavni svet potrdi zakon, ki ustvarja pravico do pomoči pri umiranju, s tremi pridržki"
+   },
+   {
     "title": "L’interdiction des réseaux sociaux aux moins de 15 ans censurée par le Conseil constitutionnel",
     "link": "https://www.lemonde.fr/pixels/article/2026/08/14/l-interdiction-des-reseaux-sociaux-aux-moins-de-quinze-ans-censuree-par-le-conseil-constitutionnel_6746255_4408996.html",
     "image": "https://img.lemde.fr/2026/07/23/0/0/5000/2500/644/322/60/0/e791e90_upload-1-wa98lajizx3r-080-hl-nguyonnet-3239035.jpg",
@@ -564,6 +571,13 @@
     "titleSl": "V ŽIVO, vojna v Ukrajini: Vladimir Putin se je pripravljen srečati z ameriškima odposlancema Stevom Witkoffom in Jaredom Kushnerjem, da bi razpravljali o koncu konflikta, meni Sergej Lavrov"
    },
    {
+    "title": "EN DIRECT, incendies et canicule : l’est de la France connaît des pénuries d’essence en raison du bas niveau du Rhin ; 75 départements en vigilance orange",
+    "link": "https://www.lemonde.fr/climat/live/2026/08/14/en-direct-incendies-et-canicule-l-est-de-la-france-connait-des-penuries-d-essence-en-raison-du-bas-niveau-du-rhin-75-departements-en-vigilance-orange_6744636_1652612.html",
+    "image": "https://img.lemde.fr/2026/08/14/250/0/3000/1500/644/322/60/0/fe7f4bf_upload-1-s2wikyrghczw-euge-nie-baccotl1006097.jpg",
+    "date": 1786711947000,
+    "titleSl": "V ŽIVO, požari in vročinski val: Vzhodna Francija se sooča s pomanjkanjem bencina zaradi nizke gladine Rena; 75 oddelkov v oranžnem alarmu"
+   },
+   {
     "title": "Dans les librairies Gibert, les rayons se vident et le plan de relance de la direction inquiète les salariés",
     "link": "https://www.lemonde.fr/economie/article/2026/08/14/dans-les-librairies-gibert-les-rayons-se-vident-et-le-plan-de-relance-de-la-direction-inquiete-les-salaries_6746253_3234.html",
     "image": "https://img.lemde.fr/2026/08/12/489/0/4938/2469/644/322/60/0/a573878_upload-1-wobnmgrvxqae-000-36wx2kn.jpg",
@@ -576,20 +590,6 @@
     "image": "https://img.lemde.fr/2026/08/13/171/0/1597/798/644/322/60/0/54c3f98_ftp-1-syxgyvqcyxci-2026-08-13t173305z-242811422-rc2ir9ajik57-rtrmadp-3-mali-france.JPG",
     "date": 1786709168000,
     "titleSl": "Quai d'Orsay izraža \"zelo veliko zadovoljstvo\" po izpustitvi francoskega agenta Yanna Vézilierja, obsojenega v Maliju"
-   },
-   {
-    "title": "Des organisations étudiantes font part de leurs inquiétudes après un rapport proposant une réforme des APL",
-    "link": "https://www.lemonde.fr/campus/article/2026/08/14/des-organisations-etudiantes-font-part-de-leurs-inquietudes-apres-un-rapport-proposant-une-reforme-des-apl_6746248_4401467.html",
-    "image": "https://img.lemde.fr/2026/08/14/438/0/6000/3000/644/322/60/0/967716f_upload-1-b6w5pkqwpxjs-000-76re72k.jpg",
-    "date": 1786708219000,
-    "titleSl": "Študentske organizacije izražajo pomisleke po poročilu, ki predlaga reformo APL"
-   },
-   {
-    "title": "Piratage du fisc : l’Etat à nouveau victime d’une fuite de données",
-    "link": "https://www.lemonde.fr/pixels/article/2026/08/14/piratage-du-fisc-l-etat-a-nouveau-victime-d-une-fuite-de-donnees_6746246_4408996.html",
-    "image": "https://img.lemde.fr/2026/08/14/625/0/7488/3744/644/322/60/0/c720349_ftp-1-oip4ufjplinf-5836719-01-06.jpg",
-    "date": 1786706460000,
-    "titleSl": "Davčni hekerji: država ponovno žrtev uhajanja podatkov"
    }
   ],
   "elpais": [
