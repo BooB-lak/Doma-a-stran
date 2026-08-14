@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T17:22:24.358Z",
+ "generatedAt": "2026-08-14T17:24:25.680Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Mangione priznal krivdo: 'Na Manhattnu sem ustrelil gospoda Thompsona'",
+    "link": "https://www.24ur.com/novice/tujina/mangione-priznal-krivdo-na-manhattnu-sem-ustrelil-gospoda-thompsona.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jan2026/da0c21d2925be88a1a22_63532458.jpg?v=c9d7&fop=fp:0.58:0.43",
+    "date": 1786727818000
+   },
+   {
     "title": "Slovenci v Omišu: 'Plameni tako visoki, kot da si v peklu'",
     "link": "https://www.24ur.com/novice/slovenija/slovence-v-omisu-zbudilo-panicno-kricanje.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/cb1a42921be4b24743eb_63632288.jpg?v=01f7&fop=fp:0.47:0.28",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/pogresajo-34-letno-dragano-s-prijatelji-naj-bi-skusala-pobegniti-pred-ognjenimi-zublji.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/f035f0f7825d7ae17cd3_63632302.jpg?v=a3a1&fop=fp:0.41:0.42",
     "date": 1786723910000
-   },
-   {
-    "title": "V Križevcih sum hudega mučenja govedi",
-    "link": "https://www.24ur.com/novice/slovenija/v-krizevcih-sum-hudega-mucenja-govedi.html",
-    "image": "https://images.24ur.com/media/images/213xX/Dec2023/a128c5609c0a9d89eade_63159947.jpg?v=4d76&fop=fp:0.52:0.37",
-    "date": 1786722579000
    }
   ],
   "rtvslo": [
@@ -206,6 +206,20 @@
     "titleSl": "Julijska maloprodajna prodaja je dosegla največji padec v več kot enem letu"
    },
    {
+    "title": "A Timeline of the Luigi Mangione Cases",
+    "link": "https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-timeline.html",
+    "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-case-timeline3-fgkl/14met-mangione-case-timeline3-fgkl-mediumSquareAt3X.jpg",
+    "date": 1786727642000,
+    "titleSl": "Časovnica primerov Luigi Mangione"
+   },
+   {
+    "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
+    "link": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
+    "image": "https://static01.nyt.com/images/2026/01/22/multimedia/14BIZ-INSURERS-BACKLASH/22HS-INSURE-lmcv-mediumSquareAt3X.jpg",
+    "date": 1786726604000,
+    "titleSl": "Ogorčenje nad UnitedHealth in drugimi zavarovalnicami se po umoru Briana Thompsona nadaljuje"
+   },
+   {
     "title": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
     "link": "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html",
     "image": "https://static01.nyt.com/images/2026/08/14/us/14pol-south-carolina-senate/14pol-south-carolina-senate-mediumSquareAt3X.jpg",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/14/climate/14CLI-MONUMENTS-MINING/14CLI-MONUMENTS-MINING-mediumSquareAt3X.jpg",
     "date": 1786722407000,
     "titleSl": "Rudarske terjatve, povezane z zemljiščem, odrezanim od medvedjih ušes in spomenikov na velikem stopnišču"
-   },
-   {
-    "title": "Stolen Cézanne, Renoir and Matisse Works Are Recovered, Police Say",
-    "link": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
-    "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-italy-heist-kvwj/14int-italy-heist-kvwj-mediumSquareAt3X.jpg",
-    "date": 1786720863000,
-    "titleSl": "Ukradena dela Cézanna, Renoirja in Matissa so našli, pravi policija"
-   },
-   {
-    "title": "Why Europe Keeps Being Pummeled by Heat Waves",
-    "link": "https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html",
-    "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14cli-europe-jetstream-pjkv/14cli-europe-jetstream-pjkv-mediumSquareAt3X.jpg",
-    "date": 1786719754000,
-    "titleSl": "Zakaj Evropo še vedno prizadenejo vročinski valovi"
    }
   ],
   "bbc": [
@@ -331,46 +331,46 @@
   ],
   "guardian": [
    {
-    "title": "Luigi Mangione pleads guilty to causing UnitedHealthcare CEO’s death in federal case",
-    "link": "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case",
-    "image": "https://i.guim.co.uk/img/media/52b86e6b5d88b4c7ebca5b536c9b8b4938517c3d/648_0_6482_5184/master/6482.jpg?width=140&quality=85&auto=format&fit=max&s=d4b4df2f853475e4dc138e80966241ca",
-    "date": 1786726979000,
-    "titleSl": "Luigi Mangione priznal krivdo za povzročitev smrti izvršnega direktorja UnitedHealthcare v zvezni zadevi"
+    "title": "National Rail acknowledges ‘exceptional challenges’ of extreme heat after second train derailment in 24 hours",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
+    "image": "https://i.guim.co.uk/img/media/92df25e7245094ee0430a639f27294151232653b/668_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d4e3cea3b11f45e7a456de070d81a223",
+    "date": 1786728001000,
+    "titleSl": "National Rail priznava \"izjemne izzive\" ekstremne vročine po drugem iztirjenju vlaka v 24 urah"
    },
    {
-    "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
-    "link": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-    "image": "https://i.guim.co.uk/img/media/e11d09108b2d9b38bf04bfc4b7ab36522216a24f/1683_258_3782_3026/master/3782.jpg?width=140&quality=85&auto=format&fit=max&s=d13fea38bf35f4524aaf8eb42a99e453",
-    "date": 1786726823000,
-    "titleSl": "Nadzorni organ za standarde nadaljuje Farageovo preiskavo, medtem ko tekmeci zahtevajo nepotrebne dodatne volitve"
+    "title": "‘It’s due to climate’: the people of Stourbridge on the town’s wildfires",
+    "link": "https://www.theguardian.com/environment/2026/aug/14/stourbridge-wildfires-climate-change",
+    "image": "https://i.guim.co.uk/img/media/2fc10f98bfe654d69815398e0f728a529e374b06/473_0_6619_5296/master/6619.jpg?width=140&quality=85&auto=format&fit=max&s=3c8c0da1dcdaca0122bf43556a9d53b6",
+    "date": 1786727847000,
+    "titleSl": "„To je zaradi podnebja“: prebivalci mesta Stourbridge o požarih v naravi"
    },
    {
-    "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson and pleads guilty on federal charges – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live",
-    "image": "https://i.guim.co.uk/img/media/b550bdf885704868da2573856582a0cd80c638fe/670_0_4140_3312/master/4140.jpg?width=140&quality=85&auto=format&fit=max&s=a0109df0ae0c4eb704a60262446426e7",
-    "date": 1786726811000,
-    "titleSl": "Luigi Mangione priznal, da je ustrelil direktorja zdravstvenega varstva Briana Thompsona in priznal krivdo po zveznih obtožbah – v živo"
-   },
-   {
-    "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-    "link": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-    "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
-    "date": 1786726684000,
-    "titleSl": "Na stotine aretiranih zaradi suma požiga v Franciji, medtem ko po Evropi divjajo požari"
-   },
-   {
-    "title": "Progressives back substitute teacher over Wasserman Schultz in Florida",
-    "link": "https://www.theguardian.com/us-news/2026/aug/14/florida-debbie-wasserman-schultz-elijah-manley",
-    "image": "https://i.guim.co.uk/img/media/9135bf1b1f9f3825fc50bc8af0083d27bacf1b32/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=343816050e94e328e7774d54d27a79f3",
-    "date": 1786726465000,
-    "titleSl": "Progresivci vračajo nadomestnega učitelja namesto Wassermana Schultza na Floridi"
+    "title": "People detained at Mississippi ICE facility sickened by gas leak and denied medical care",
+    "link": "https://www.theguardian.com/us-news/2026/aug/14/mississippi-ice-facility-gas-leak",
+    "image": "https://i.guim.co.uk/img/media/151e70ee00643ec2bd016879ca551b1d7dddd24c/172_0_1487_1190/master/1487.jpg?width=140&quality=85&auto=format&fit=max&s=05dfe831f8ff43af66951cb8b2c5b6a9",
+    "date": 1786727787000,
+    "titleSl": "Ljudje, pridržani v objektu ICE v Mississippiju, so zboleli zaradi uhajanja plina in so jim odrekli zdravniško oskrbo"
    },
    {
     "title": "French court blocks Macron’s social media ban for under-15s",
     "link": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
     "image": "https://i.guim.co.uk/img/media/37d9d05fd3b13992e53c2a7f0210f723e9bc0a54/92_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d48ac485a44d0aa8c919e574f740994f",
-    "date": 1786726319000,
+    "date": 1786727534000,
     "titleSl": "Francosko sodišče je blokiralo Macronovo prepoved družbenih medijev za mlajše od 15 let"
+   },
+   {
+    "title": "Trump administration argues that ballroom construction is ‘vital’ for national security in appeal to supreme court – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/0443f44bfb9c6ffdfd31627b398fb95b397dcfc0/470_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f17f8e4d6dbb83a5e0a57cf32d8d3600",
+    "date": 1786727211000,
+    "titleSl": "Trumpova administracija v pritožbi na vrhovnem sodišču trdi, da je gradnja plesne dvorane \"življenjskega pomena\" za nacionalno varnost - Ameriška politika v živo"
+   },
+   {
+    "title": "Luigi Mangione pleads guilty to causing UnitedHealthcare CEO’s death in federal case",
+    "link": "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case",
+    "image": "https://i.guim.co.uk/img/media/52b86e6b5d88b4c7ebca5b536c9b8b4938517c3d/648_0_6482_5184/master/6482.jpg?width=140&quality=85&auto=format&fit=max&s=d4b4df2f853475e4dc138e80966241ca",
+    "date": 1786726979000,
+    "titleSl": "Luigi Mangione priznal krivdo za povzročitev smrti izvršnega direktorja UnitedHealthcare v zvezni zadevi"
    }
   ],
   "spiegel": [
@@ -461,7 +461,50 @@
     "titleSl": "Milijardni vstop! - Amazonov šef Bezos kupi Liverpool"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Ryanair-Schreckensflug - Mann aus Flieger gesaugt: Darum brach das Fenster",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kSHY1VWFaT21HQVY5ZWRIUF9LSGxrbmF4YlhvWlFSN3djdmZ4VjJCQmtiV0wxdnRUQnhzNURqRTEtUQ?oc=5",
+    "image": "",
+    "date": 1786727804000,
+    "titleSl": "Ryanairov grozljiv let - moškega posrkalo iz letala: Zato je počilo okno"
+   },
+   {
+    "title": "Flag Football - Österreichs Männer-Team verpasst WM-Viertelfinale",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SeUdCR05ZZ1RMQkI5MDRJVHhFaERmVlpYM3J0RTlURjJzOF9hdjJDbV9sU1ZCS2lWb3kxczd0N2Z1UQ?oc=5",
+    "image": "",
+    "date": 1786727580000,
+    "titleSl": "Flag Football - Avstrijska moška reprezentanca je izpustila četrtfinale svetovnega prvenstva"
+   },
+   {
+    "title": "„Bin absolut stolz!“ - Shootingstar Giefing verpasst EM-Medaille knapp",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jNHdQQlc0TTJqYzM4bGF1NUpGOEtRMmdmYXpXem5tZGFQSmNjV0ZJNExTNERmYTFKYThjaUtsUzI4Zw?oc=5",
+    "image": "",
+    "date": 1786727460000,
+    "titleSl": "\"Popolnoma sem ponosen!\" - Strelec Giefing je za las zgrešil medaljo na evropskem prvenstvu"
+   },
+   {
+    "title": "Einsatz im Föhrenwald - Luftaufnahmen zeigen Ausbruch des Feuerinfernos",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fNXY1ZlpfVTh4a1FLQ3lVWDVkVG9oNnhidXljSk1MeEw1WWlnbnNYTEI3cnJwM2RWcnlVZE92RE1nZw?oc=5",
+    "image": "",
+    "date": 1786727040000,
+    "titleSl": "Operacija v borovem gozdu - posnetki iz zraka prikazujejo izbruh ognjenega pekla"
+   },
+   {
+    "title": "Nach Kundmachung - Neuer Wirbel um mögliches Rechenzentrum",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yWDBFMFV6dHVybHZvTmVmYzl6QzZzWHBTOUF2OUIwMU1TM2xOQ3Bob3E1anJ2eHBiTjd6WjFfQVhUUQ?oc=5",
+    "image": "",
+    "date": 1786726800000,
+    "titleSl": "Po objavi - nov hrup o možnem podatkovnem centru"
+   },
+   {
+    "title": "Fenster auf! - Frische Nachtstunden vor dem heißen Wochenende",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoSHJUWU1nci01T3pyR294Vm5BRXRPbHhjemZfOFpEdzgwMXdGdHNwOGh4cjRUZXBJeU95SUl3N2d5QQ?oc=5",
+    "image": "",
+    "date": 1786726800000,
+    "titleSl": "Odpri okna! - Sveže nočne ure pred vročim vikendom"
+   }
+  ],
   "rainews": [
    {
     "title": "Migranti, dramma al largo della Libia: avvistati 11 corpi in mare da un aereo ong",
