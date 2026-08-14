@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T18:36:25.369Z",
+ "generatedAt": "2026-08-14T18:38:28.123Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,16 @@
   ],
   "24ur": [
    {
-    "title": "Slovenski gasilci pomagali pri obvladovanju požara na Braču",
-    "link": "https://www.24ur.com/novice/tujina/slovenski-gasilci-pomagali-pri-obvladovanju-cetrtkovega-pozara-na-bracu.html",
+    "title": "'Prva stvar je bila evakuirati ljudi in braniti hiše'",
+    "link": "https://www.24ur.com/novice/tujina/prva-stvar-je-bila-evakuirati-ljudi-in-braniti-hise.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/8423e7e005458fd100c0_63631298.jpg?v=5ed0&fop=fp:0.50:0.29",
     "date": 1786732248000
+   },
+   {
+    "title": "Oblak dobil slovensko družbo v španski ligi: Drkušić novi član Espanyola",
+    "link": "https://www.24ur.com/sport/nogomet/oblak-dobil-slovensko-druzbo-v-spanski-ligi-drkusic-novi-clan-espanyola.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2024/5b39599c0b689792a5f0_63255744.jpg?v=a24c&fop=fp:0.56:0.34",
+    "date": 1786731962000
    },
    {
     "title": "Slovenci, ki so sredi noči bežali iz ognjenega pekla",
@@ -69,15 +75,15 @@
     "link": "https://www.24ur.com/novice/tujina/gori-tudi-na-peljescu-na-delu-kanaderji-in-air-tractor.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/33ba173715f455880752_63631965.jpg?v=ea20&fop=fp:0.44:0.39",
     "date": 1786729761000
-   },
-   {
-    "title": "Mangione priznal krivdo: 'Na Manhattnu sem ustrelil gospoda Thompsona'",
-    "link": "https://www.24ur.com/novice/tujina/mangione-priznal-krivdo-na-manhattnu-sem-ustrelil-gospoda-thompsona.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jan2026/da0c21d2925be88a1a22_63532458.jpg?v=c9d7&fop=fp:0.58:0.43",
-    "date": 1786727818000
    }
   ],
   "rtvslo": [
+   {
+    "title": "V Spodnji Savinjski dolini zmanjkuje vode za namakanje",
+    "link": "https://www.rtvslo.si/okolje/kmetijstvo/v-spodnji-savinjski-dolini-zmanjkuje-vode-za-namakanje/790932",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/14/67067985.jpg",
+    "date": 1786732614000
+   },
    {
     "title": "Mangione pred zveznim sodiščem priznal, da je ustrelil direktorja zavarovalnice",
     "link": "https://www.rtvslo.si/svet/s-in-j-amerika/mangione-pred-zveznim-sodiscem-priznal-da-je-ustrelil-direktorja-zavarovalnice/790930",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/citat/rebecca-zlotowski/790921",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/11/67066941.jpg",
     "date": 1786720721000
-   },
-   {
-    "title": "Zadnji dnevi pasjega mesa v južnokorejskih restavracijah",
-    "link": "https://www.rtvslo.si/zabava-in-slog/kulinarika/zadnji-dnevi-pasjega-mesa-v-juznokorejskih-restavracijah/790920",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/14/67067817.jpg",
-    "date": 1786720617000
    }
   ],
   "zurnal": [
@@ -213,13 +213,6 @@
     "titleSl": "Kaj je naslednje za Luigija Mangioneja po njegovem priznanju krivde?"
    },
    {
-    "title": "July Retail Sales Notch Biggest Drop in Over a Year",
-    "link": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html",
-    "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14biz-retail-sales-bzcg/14biz-retail-sales-bzcg-mediumSquareAt3X.jpg",
-    "date": 1786730398000,
-    "titleSl": "Julijska maloprodajna prodaja je dosegla največji padec v več kot enem letu"
-   },
-   {
     "title": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
     "link": "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html",
     "image": "https://static01.nyt.com/images/2026/08/14/us/14pol-south-carolina-senate/14pol-south-carolina-senate-mediumSquareAt3X.jpg",
@@ -239,6 +232,13 @@
     "image": "https://static01.nyt.com/images/2026/01/22/multimedia/14BIZ-INSURERS-BACKLASH/22HS-INSURE-lmcv-mediumSquareAt3X.jpg",
     "date": 1786726605000,
     "titleSl": "Ogorčenje nad UnitedHealth in drugimi zavarovalnicami se po umoru Briana Thompsona nadaljuje"
+   },
+   {
+    "title": "The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.",
+    "link": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
+    "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-afghanistan-interview-1-fvpl/14int-afghanistan-interview-1-fvpl-mediumSquareAt3X.jpg",
+    "date": 1786723303000,
+    "titleSl": "Talibani so izgnali ZDA iz Afganistana. Zdaj ga hočejo nazaj."
    }
   ],
   "bbc": [
@@ -463,6 +463,13 @@
   ],
   "krone": [
    {
+    "title": "Für unter 15-Jährige - Social-Media-Verbot in Frankreich gekippt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PalpQckROSUs4V19vYTFwM1dvNFE1dzlsWDJXcHE5dl9aMGV5QnFRd2hiZm5OSDBuX3c1b0RWSnR5Zw?oc=5",
+    "image": "",
+    "date": 1786732500000,
+    "titleSl": "Za mlajše od 15 let – v Franciji razveljavili prepoved družbenih medijev"
+   },
+   {
     "title": "Schrieb Geschichte - Tirolerin beendete nach Mini-Comeback Karriere",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE92R1ZBQVR6Zk03Mk1BbGsyUkJ3SHJGVUZlQUJtQ2FZVjZwSzJwem05aHBObGFRM25KeUxQaVotaUtKdw?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1786730880000,
     "titleSl": "Die besten Fotos - So emotional verabschiedet der lask Saša Kalajdžić"
-   },
-   {
-    "title": "Verpackungsverordnung - Händler warnen jetzt vor höheren Preisen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83VDRzazZ0RndEVUkxZ1VsT25CM3VzX3Rtd1RvLXA0ZFo0dy1ndXdnMFI3cGE4RU5BYzRaNmdIWHlzQQ?oc=5",
-    "image": "",
-    "date": 1786730820000,
-    "titleSl": "Predpisi o embalaži - trgovci zdaj opozarjajo na višje cene"
    }
   ],
   "rainews": [
