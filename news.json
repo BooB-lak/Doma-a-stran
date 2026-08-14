@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-14T05:52:25.471Z",
+ "generatedAt": "2026-08-14T05:54:23.643Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na regionalni cesti v okolici Ajdovščine umrl 34-letni motorist",
+    "link": "https://siol.net/novice/slovenija/umrl-34-letni-motorist-698925",
+    "image": "https://siol.net/media/img/aa/b0/3e3a2f961f443648b599.jpeg",
+    "date": 1786686540000
+   },
    {
     "title": "Pogodba o zaposlitvi: kaj morate vedeti, preden jo podpišete",
     "link": "https://siol.net/novice/financni-nasveti/pogodba-o-zaposlitvi-kaj-morate-vedeti-preden-jo-podpisete-698872",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/pozar-v-omisu-dosegel-sredisce-mesta-698921",
     "image": "https://siol.net/media/img/c4/26/fc99e38294f0fe16310c.jpeg",
     "date": 1786684260000
-   },
-   {
-    "title": "Natova letala v zračnem prostoru Latvije sestrelila dron",
-    "link": "https://siol.net/novice/svet/natova-letala-v-zracnem-prostoru-latvije-sestrelila-dron-698920",
-    "image": "https://siol.net/media/img/96/cc/4194c9d8d0e4e0884e62.jpeg",
-    "date": 1786682880000
    }
   ],
   "24ur": [
@@ -129,21 +129,21 @@
     "date": 1786686060000
    },
    {
-    "title": "Video: Požar v Omišu zjutraj dosegel središče mesta. 19 ranjenih",
-    "link": "https://www.zurnal24.si/svet/video-pozar-v-omisu-zjutraj-dosegel-sredisce-mesta-19-ranjenih-463592",
-    "image": "https://www.zurnal24.si/media/img/fc/79/625eb716df81daaf70e9.png",
-    "date": 1786685880000
-   },
-   {
     "title": "Tla so se ponoči stresla, ste čutili?",
     "link": "https://www.zurnal24.si/slovenija/tla-so-se-ponoci-stresla-ste-cutili-463590",
     "image": "https://www.zurnal24.si/media/img/29/53/803b215b6d567f8251fa.jpeg",
     "date": 1786685880000
    },
    {
+    "title": "Video: Požar v Omišu zjutraj dosegel središče mesta. 19 ranjenih",
+    "link": "https://www.zurnal24.si/svet/video-pozar-v-omisu-zjutraj-dosegel-sredisce-mesta-19-ranjenih-463592",
+    "image": "https://www.zurnal24.si/media/img/fc/79/625eb716df81daaf70e9.png",
+    "date": 1786685880000
+   },
+   {
     "title": "Si je Sandi iz Poroke na 1. pogled privoščil nov nasmeh?",
     "link": "https://www.zurnal24.si/magazin/vip/si-je-sandi-iz-poroke-na-1-pogled-privoscil-nov-nasmeh-463589",
-    "image": "https://www.zurnal24.si/media/img/89/58/767148a1921f91efe0c8.png",
+    "image": "https://www.zurnal24.si/media/img/48/85/cceabc011ae10b7d68a3.jpeg",
     "date": 1786683960000
    },
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "North Korea fumes over upcoming US-South Korea military drills",
-    "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7e956b77638-1786680683.jpg?resize=1920%2C1440",
-    "date": 1786686045000,
-    "titleSl": "Severna Koreja jezna zaradi prihajajočih vojaških ur ZDA in Južne Koreje"
-   },
-   {
     "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
     "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Statue-of-Mother-Mary-along-streets-of-Taybeh-1786649436.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786682179.jpg?resize=1200%2C675",
     "date": 1786682330000,
     "titleSl": "Al Jazeera se pogovarja z grofom Binfaceom, medtem ko Farage zahteva zmago Clactona"
+   },
+   {
+    "title": "Water supply for three US states drips down, Lake Mead at record low",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786681478.jpg?resize=1620%2C1080&quality=80",
+    "date": 1786681569000,
+    "titleSl": "Zaloge vode za tri ameriške zvezne države upadajo, jezero Mead rekordno nizko"
    }
   ],
   "guardian": [
@@ -334,14 +334,14 @@
     "title": "Clacton byelection: Farage beats Count Binface but skips result announcement – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/9648068e74ea37839cabafdafc50a6b53889cd3d/369_0_4871_3896/master/4871.jpg?width=140&quality=85&auto=format&fit=max&s=5a449142985389f59407d0dcba8e905a",
-    "date": 1786685645000,
+    "date": 1786686395000,
     "titleSl": "Nadomestne volitve Clactona: Farage premaga grofa Binfacea, a preskoči objavo rezultatov – britanska politika v živo"
    },
    {
     "title": "News live: Bragg backtracks on claim low-income Australians should accept ‘sub-standard’ homes; former CFMEU boss John Setka charged",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/68215ef53d8016d813e13868cd0eaba73f602daa/260_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=7dfc6c1a174a09145af6064d19ebc279",
-    "date": 1786685640000,
+    "date": 1786686021000,
     "titleSl": "Novice v živo: Bragg odstopa od trditve, da bi morali Avstralci z nizkimi dohodki sprejeti \"podstandardne\" domove; obtožen nekdanji šef CFMEU John Setka"
    },
    {
@@ -375,11 +375,25 @@
   ],
   "spiegel": [
    {
+    "title": "Leichtathletik-EM: Lea Meyer nennt eigenes TV-Interview »unprofessionell und unsportlich«",
+    "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-lea-meyer-nennt-eigenes-tv-interview-unprofessionell-und-unsportlich-a-c5eda445-5fb6-43bb-ba67-541f96ba51b7#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/13065546-4d89-465f-ae78-90b8bacc0e49_w520_r2.08_fpx51.66_fpy49.86.jpg",
+    "date": 1786686540000,
+    "titleSl": "Evropsko prvenstvo v atletiki: Lea Meyer svoj televizijski intervju označila za \"neprofesionalen in nešporten\""
+   },
+   {
     "title": "Großbritannien: Nigel Farage gewinnt Nachwahl im englischen Clacton gegen sprechenden Mülleimer",
     "link": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-im-englischen-clacton-gegen-sprechenden-muelleimer-a-378bb582-4f05-476f-8775-35a8610db7bc#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/4fb99ac4-e8e4-4d3a-acee-e4e349b39bd3_w520_r2.08_fpx65.46_fpy50.jpg",
     "date": 1786686360000,
     "titleSl": "Velika Britanija: Nigel Farage zmaga na nadomestnih volitvah v Clactonu v Angliji proti govorečemu smetnjaku"
+   },
+   {
+    "title": "Parkplatz-Geschäft: Wie Supermärkte ihre Stellflächen vermarkten",
+    "link": "https://www.spiegel.de/wirtschaft/parkplatz-geschaeft-wie-supermaerkte-ihre-stellflaechen-vermarkten-a-2ff3d57d-f25c-4c37-bd03-0517138fc2ea#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/0957cc16-4b70-4ca6-ad8a-50ffdbbd5bab_w520_r2.08_fpx37.5_fpy50.jpg",
+    "date": 1786686180000,
+    "titleSl": "Posel s parkirišči: Kako supermarketi tržijo svoja parkirna mesta"
    },
    {
     "title": "Ukrainekrieg: Schwerer russischer Bombenangriff auf Kramatorsk",
@@ -401,20 +415,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/f5c52e7d-d5fe-4de8-a3df-a2be0df1358f_w520_r2.08_fpx47.33_fpy55.jpg",
     "date": 1786683060000,
     "titleSl": "Latvija: lovska letala prestregla drone"
-   },
-   {
-    "title": "Hürtgenwald: Waldbrand in der Eifel – NRW-Ortsteil evakuiert",
-    "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-in-der-eifel-nrw-ortsteil-evakuiert-a-d90cff71-1e6b-4575-811d-e0ab921b171d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/e98d125e-cbd8-4c6f-967d-864fe7802747_w520_r2.08_fpx30_fpy45.jpg",
-    "date": 1786682820000,
-    "titleSl": "Hürtgenwald: gozdni požar v okrožju Eifel – NRW evakuiran"
-   },
-   {
-    "title": "Dürre und Hitzewelle: Bauernverband befürchtet in einigen Regionen »totalen Ernteausfall«",
-    "link": "https://www.spiegel.de/wirtschaft/duerre-und-hitzewelle-bauernverband-befuerchtet-in-einigen-regionen-totalen-ernteausfall-a-8a99a162-dcde-4481-b935-cb47b325568e#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/67c6d176-e906-458b-915d-57aa06d54ce1_w520_r2.08_fpx64.61_fpy50.jpg",
-    "date": 1786682040000,
-    "titleSl": "Suša in vročinski val: Združenje kmetov se boji, da bo v nekaterih regijah \"popoln izpad pridelka\"."
    }
   ],
   "bild": [
@@ -463,7 +463,7 @@
   ],
   "krone": [
    {
-    "title": "Erneut Drama im Ländle - Vater überrolt dreijährigen Sohn mit Traktor – tot",
+    "title": "Erneut Drama im Ländle - Papa überrollt dreijährigen Sohn mit Traktor – tot",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fX0JXeUQ3U3Jib05iZUxJWGU0LWY0UEpjZE4zdndpOTYydUwtRnZXY0w5Nk9ZNEh3QW5qc0k0VVRSZw?oc=5",
     "image": "",
     "date": 1786686360000,
