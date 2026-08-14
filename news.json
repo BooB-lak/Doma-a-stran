@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T10:00:59.466Z",
+ "generatedAt": "2026-08-14T10:02:25.852Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,16 @@
   ],
   "24ur": [
    {
-    "title": "Na Pelješcu gori: cesta zaprta, trajekt zato vozi neprekinjeno",
+    "title": "Na Pelješcu gorela tudi lokalna cerkev",
     "link": "https://www.24ur.com/novice/tujina/gori-tudi-na-peljescu-na-delu-kanaderji-in-air-tractor.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/e5f4589f1d709c5cadad_63631826.png?v=3eed&fop=fp:0.36:0.42",
-    "date": 1786701044000
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/33ba173715f455880752_63631965.jpg?v=ea20&fop=fp:0.44:0.39",
+    "date": 1786701628000
+   },
+   {
+    "title": "Na Metelkovi preprodajali drogo: prijeli tri osumljence",
+    "link": "https://www.24ur.com/novice/crna-kronika/na-metelkovi-preprodajali-drogo-prijeli-tri-osumljence.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2024/475c760749803a427c35_63247335.jpg?v=f097&fop=fp:0.56:0.49",
+    "date": 1786701484000
    },
    {
     "title": "Slovenija s Srbijo in Severno Makedonijo v boj za organizacijo EP 2034",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/ognjeni-zublji-opustosili-omis-pogoreli-avtomobili-bari-izcrpani-gasilci.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/de13d5979e1f51a0a9a5_63631859.jpg?v=23fb&fop=fp:0.45:0.62",
     "date": 1786699067000
-   },
-   {
-    "title": "Požar opustošil dom zvezdnice: 'Ostala sem brez vsega'",
-    "link": "https://www.24ur.com/popin/tuja-scena/pozar-opustosil-dom-zvezdnice-ostala-sem-brez-vsega.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/e9a0a90aaf3196ed2092_63631916.png?v=5a04&fop=fp:0.58:0.31",
-    "date": 1786697854000
    }
   ],
   "rtvslo": [
@@ -426,11 +426,32 @@
     "titleSl": "Nenadoma ga ni bilo več - dveletnega dečka ugrabili iz vrtca?"
    },
    {
-    "title": "Er war unterwegs, um Wälder zu retten - Pilot stirbt bei Hubschrauber-Absturz im Erzgebirge",
-    "link": "https://www.bild.de/news/sachsen-hubschrauber-stuerzt-bei-agrararbeiten-im-erzgebirge-ab-6a7ede67f14aa44f2fd5db97",
-    "image": "https://images.bild.de/6a7ede67f14aa44f2fd5db97/b9c4321a037a3fb22de4e501573df0f2,bf511275?w=1280",
+    "title": "Wie Jens Lehmann - Kann ich als Privatanleger auch Verluste einklagen?",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/jens-lehmann-klagt-wann-anleger-geld-zurueckfordern-koennen-6a7c07fa67ddb2e13c584c8c",
+    "image": "https://images.bild.de/6a7c07fa67ddb2e13c584c8c/04fa8086eb567c7e14def4f0b54367fd,71fb72ae?w=1280",
     "date": 0,
-    "titleSl": "Bil je na poti reševat gozdove – pilot umre v helikopterski nesreči v Erzgebirgeju"
+    "titleSl": "Tako kot Jens Lehmann – Ali lahko kot zasebni vlagatelj tožim tudi zaradi izgub?"
+   },
+   {
+    "title": "Liveticker zur Feuerwalze in NRW - Nur noch 10 Meter bis zum ersten Haus",
+    "link": "https://www.bild.de/news/inland/riesen-feuer-bedroht-doerfer-in-nrw-flammen-nur-noch-500-meter-entfernt-6a7e5cd6169e8e32c0ae75b5",
+    "image": "https://images.bild.de/6a7e5cd6169e8e32c0ae75b5/b52353d0ab4a4d08acb30875813118d9,3dd78fd5?w=1280",
+    "date": 0,
+    "titleSl": "Live ticker za požarni valj v NRW - Samo 10 metrov do prve hiše"
+   },
+   {
+    "title": "Engländer entscheiden - Noch drei heiße Startelf-Duelle in Mainz",
+    "link": "https://www.bild.de/sport/fussball/englaender-entscheiden-noch-drei-heisse-startelf-duelle-bei-mainz-05-6a7e2a76a87e8142c31cf673",
+    "image": "https://images.bild.de/6a7e2a76a87e8142c31cf673/c44a3a2daae2a83e06227443508d6705,468b2e1a?w=1280",
+    "date": 0,
+    "titleSl": "Angleži odločajo - še trije vroči dvoboji začetne enajsterice v Mainzu"
+   },
+   {
+    "title": "Schlimme Diagnose ist Gewissheit - Torjäger-Schock bei Zweitligist",
+    "link": "https://www.bild.de/sport/fussball/2-bundesliga-schlimm-diagnose-torjaeger-schock-bei-energie-cottbus-6a7ed322f14aa44f2fd5da80",
+    "image": "https://images.bild.de/6a7ed322f14aa44f2fd5da80/1f19b598631d7234cdf9876ca70ae803,e1a37b9d?w=1280",
+    "date": 0,
+    "titleSl": "Slaba diagnoza je gotovost - najboljši strelec šok za drugoligaško ekipo"
    },
    {
     "title": "Jetzt kommt der Mülllaster! - Kroatien lässt reservierte Strandliegen radikal räumen",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6a7ec91ef14aa44f2fd5d971/cb429d72f0a2aba0c35633a5b6b78e49,911c82a3?w=1280",
     "date": 0,
     "titleSl": "Zdaj prihaja smetarsko vozilo! - Hrvaška radikalno odpravlja rezervirane ležalnike"
-   },
-   {
-    "title": "Darum läuft’s in Erfurt - Neuer Sponsor und klare Gerber-Ansage",
-    "link": "https://www.bild.de/sport/fussball/rot-weiss-erfurt-neuer-sponsor-und-klare-gerber-ansage-6a7ee32af14aa44f2fd5dc06",
-    "image": "https://images.bild.de/6a7ee32af14aa44f2fd5dc06/96db04d32258cad1c323ba88b8a3fc13,110c2ddf?w=1280",
-    "date": 0,
-    "titleSl": "To se dogaja v Erfurtu – nov sponzor in jasna Gerberjeva objava"
-   },
-   {
-    "title": "Nathalie Pohls Fluss-Challenge - Carsten Maschmeyer spendet 1000 Euro pro Kilometer",
-    "link": "https://www.bild.de/sport/mehr-sport/nathalie-pohl-carsten-maschmeyer-spendet-1000-euro-pro-kilometer-6a7eb3c0169e8e32c0ae7883",
-    "image": "https://images.bild.de/6a7eb3c0169e8e32c0ae7883/13854fc31ea5b17267aa2999a978693e,f6992337?w=1280",
-    "date": 0,
-    "titleSl": "Rečni izziv Nathalie Pohl - Carsten Maschmeyer podari 1000 evrov na kilometer"
-   },
-   {
-    "title": "Neues Schreiben - Nächstes Land stärkt Infantino den Rücken",
-    "link": "https://www.bild.de/sport/fussball/fifa-naechstes-land-staerkt-infantino-den-ruecken-6a7ed130f14aa44f2fd5da30",
-    "image": "https://images.bild.de/6a7ed130f14aa44f2fd5da30/14dde7f9fa1f162965df482b5cb0907b-landscape,f81bed42?w=1280",
-    "date": 0,
-    "titleSl": "Novo pismo - naslednja država podpira Infantina"
    }
   ],
   "krone": [
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "Recuperati i tre quadri di Cezanne, Matisse e Renoir rubati a marzo a Parma",
+    "link": "https://www.rainews.it/articoli/2026/08/parma-recuperati-i-tre-quadri-di-cezanne-matisse-e-renoir-rubati-a-marzo-fondazione-magnani-rocca-a21754f3-0ec3-4273-8c61-a88ced4637ed.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/14/1786699961760_quadri_rubati_fondazione_rocca_CARABINIERI.jpeg",
+    "date": 1786701180000,
+    "titleSl": "Najdene so bile tri slike Cezanna, Matissa in Renoirja, ukradene marca v Parmi"
+   },
+   {
     "title": "Tuttifrutti: i miti e la Grecia classica ai festival di Innsbruck e Pesaro. L&#x27;Odissea di Nolan",
     "link": "https://www.rainews.it/video/2026/08/tuttifrutti-i-miti-e-la-grecia-classica-ai-festival-di-innsbruck-e-pesaro-lodissea-di-nolan--bc542d65-4696-47c6-9940-94ddcc701e00.html",
     "image": "https://www.rainews.it/dl/img/2026/08/14/1786699081526_Sophie_Rennert_Giunone_cbirgitgufler.jpg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/14/1786695221167_AFPTVDISHRVClimateWildfireCMCCQen.jpg",
     "date": 1786696740000,
     "titleSl": "Požar južno od Splita na Hrvaškem, najmanj 19 poškodovanih, nekateri huje. Tisoč razseljenih ljudi"
-   },
-   {
-    "title": "Croazia, evacuazioni e feriti a causa di un violento incendio alimentato dai venti in zona turistica",
-    "link": "https://www.rainews.it/video/2026/08/croazia-evacuazioni-e-feriti-a-causa-di-un-violento-incendio-alimentato-dai-venti-in-zona-turistica-50b0aeca-bc90-4ebf-a855-20c1c91deb44.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/14/1786695221167_AFPTVDISHRVClimateWildfireCMCCQen.jpg",
-    "date": 1786695420000,
-    "titleSl": "Hrvaška, evakuacije in poškodovani zaradi silovitega požara, ki ga je podžigal veter na turističnem območju"
    }
   ],
   "lemonde": [
