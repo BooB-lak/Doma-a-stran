@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-14T09:32:26.667Z",
+ "generatedAt": "2026-08-14T09:34:24.381Z",
  "sources": {
   "siol": [
+   {
+    "title": "Odpoklicali čevapčiče in pleskavice dveh ponudnikov",
+    "link": "https://siol.net/novice/slovenija/odpoklicali-cevapcice-in-pleskavice-dveh-ponudnikov-698950",
+    "image": "https://siol.net/media/img/43/66/ab9f17379aac2a273e50.jpeg",
+    "date": 1786699680000
+   },
    {
     "title": "Roger Federer ni več milijarder: v enem dnevu je izgubil milijone",
     "link": "https://siol.net/sportal/tenis/roger-federer-ni-vec-milijarder-v-enem-dnevu-je-izgubil-milijone-698949",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/zvezde-in-slavni/srbska-pevka-breskvica-ki-so-jo-povezovali-z-doncicem-prodaja-razkosno-vilo-698929",
     "image": "https://siol.net/media/img/de/b2/2d9a58281b6818c2bcea.jpeg",
     "date": 1786697160000
-   },
-   {
-    "title": "Zaradi gozdnega požara evakuirali 1.800 ljudi na zahodu Nemčije",
-    "link": "https://siol.net/novice/svet/zaradi-gozdnega-pozara-evakuirali-1800-ljudi-na-zahodu-nemcije-698943",
-    "image": "https://siol.net/media/img/d6/cf/cee714069b5d9d8b97af.jpeg",
-    "date": 1786696620000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "A year after student protests that shook Valjevo: Serbia at a crossroads",
-    "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-02-15T123321Z_620746058_RC2BMJAMG7UB_RTRMADP_3_SERBIA-PROTESTS-1786697555.jpg?resize=1920%2C1440",
-    "date": 1786699105000,
-    "titleSl": "Leto dni po študentskih protestih, ki so pretresli Valjevo: Srbija na razpotju"
-   },
-   {
     "title": "What is a ‘ceasefire’ supposed to achieve?",
     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/BTN_Thumbnail_Landscape_V07-1786697991.png?resize=1920%2C1008&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7ec7c0-1786693568.jpg?resize=1920%2C1440",
     "date": 1786695807000,
     "titleSl": "Požari v naravi prisilijo na tisoče v beg, medtem ko se požari širijo po Evropi"
+   },
+   {
+    "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+    "link": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26225698260815-1786691438.jpg?resize=1920%2C1440",
+    "date": 1786695317000,
+    "titleSl": "Odpadki motorja so razbili Ryanairovo okno in potnika potegnili ven, pravi NTSB"
    }
   ],
   "guardian": [
@@ -382,6 +382,13 @@
     "titleSl": "Zdrav tek: tisti, ki tečejo z vozičkom, imajo manj možnosti za poškodbe"
    },
    {
+    "title": "Thüringen: BSW-Spitze fordert Rücktritt von Voigt und Ende der Koalition",
+    "link": "https://www.spiegel.de/politik/deutschland/thueringen-bsw-spitze-fordert-ruecktritt-von-voigt-und-ende-der-koalition-a-84c2a413-0945-4e3a-b38d-e723516bc156#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/389b3c49-00ca-46cd-94a1-b6e7723d9e08_w520_r2.08_fpx70_fpy48.jpg",
+    "date": 1786698300000,
+    "titleSl": "Turingija: vodstvo BSW zahteva Voigtov odstop in konec koalicije"
+   },
+   {
     "title": "Bestsellerautor Sebastian Fitzek vergleicht Smartphones mit Crack",
     "link": "https://www.spiegel.de/kultur/literatur/bestsellerautor-sebastian-fitzek-vergleich-smartphones-mit-crack-a-f13d793b-d600-4771-938e-f6da0b5ebb50#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/e7fbca8a-f868-4738-a7e7-3ab72aaa90a2_w520_r2.08_fpx39.41_fpy44.99.jpg",
@@ -408,22 +415,29 @@
     "image": "https://cdn.prod.www.spiegel.de/images/ed230a17-4035-4f45-8ea6-45f16510fef8_w520_r2.08_fpx69_fpy47.jpg",
     "date": 1786696800000,
     "titleSl": "Varovalne izsiljevalske tolpe v Berlinu: Kako hoče policija ustaviti stopnjevanje nasilja"
-   },
-   {
-    "title": "Leichtathletik-EM - Gesa Krause: auf der letzten Runde Gas, dann Gold",
-    "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-gesa-krause-auf-der-letzten-runde-gas-dann-gold-a-d19c0e05-44e5-412b-9583-04f17944d063#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c2585948-4704-405d-a208-f8550fc08484_w520_r2.08_fpx36.22_fpy44.99.jpg",
-    "date": 1786695000000,
-    "titleSl": "Evropsko prvenstvo v atletiki - Gesa Krause: plin v zadnjem krogu, nato zlato"
    }
   ],
   "bild": [
+   {
+    "title": "Schädel eingeschlagen - Obdachloser: „Ich dachte, ich sterbe!“",
+    "link": "https://www.bild.de/regional/niedersachsen/ich-dachte-ich-sterbe-teenager-schlagen-obdachlosem-schaedel-ein-6a5f62170ccc03bfc10bd134",
+    "image": "https://images.bild.de/6a5f62170ccc03bfc10bd134/0ea8e71e87868c350e98cac9282498fc,d7472b1f?w=1280",
+    "date": 0,
+    "titleSl": "Razbita lobanja - brezdomec: \"Mislil sem, da umiram!\""
+   },
    {
     "title": "Liveticker zur Feuerwalze in NRW - Nur noch 10 Meter bis zum ersten Haus",
     "link": "https://www.bild.de/news/inland/riesen-feuer-bedroht-doerfer-in-nrw-flammen-nur-noch-500-meter-entfernt-6a7e5cd6169e8e32c0ae75b5",
     "image": "https://images.bild.de/6a7e5cd6169e8e32c0ae75b5/9478fa40f95c099d1a9d770d0de8ffad,c50fba27?w=1280",
     "date": 0,
     "titleSl": "Live ticker za požarni valj v NRW - Samo 10 metrov do prve hiše"
+   },
+   {
+    "title": "Gute Nachricht für Arabi - Aufsichtsrat winkt höheren Fortuna-Etat durch",
+    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-aufsichtsrat-nickt-hoeheres-budget-fuer-samir-arabi-ab-6a7df93fa87e8142c31cf467",
+    "image": "https://images.bild.de/6a7df93fa87e8142c31cf467/bb2e8bccdf4ebb740a6bfc78fcb3c1dd,3b1b4a3a?w=1280",
+    "date": 0,
+    "titleSl": "Dobra novica za Arabi - nadzorni svet odobril višji proračun Fortune"
    },
    {
     "title": "Tarif-Hammer aus Österreich - Neuer Anbieter mischt deutschen Mobilfunkmarkt auf",
@@ -445,23 +459,16 @@
     "image": "https://images.bild.de/6a7edb302ea28efdb2791299/b9774146e9df7ea00aa063ab996c79aa,9ac0f581?w=1280",
     "date": 0,
     "titleSl": "Kako to deluje? - Streljanje enajstmetrovk brez vratarja"
-   },
-   {
-    "title": "Nach dem WM-Urlaub - Die Bayern haben ihre Superstars zurück",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-nach-dem-wm-urlaub-hier-legen-die-bayern-superstars-los-6a7dcc41dc674b59e6e1d634",
-    "image": "https://images.bild.de/6a7dcc41dc674b59e6e1d634/4188f849ba2407b63e1c86d23f0b5bc1,655656e4?w=1280",
-    "date": 0,
-    "titleSl": "Po počitnicah na svetovnem prvenstvu - Bayern ima svoje superzvezdnike nazaj"
-   },
-   {
-    "title": "Gartenpflege im Sommer - Mit diesen Tricks übersteht Ihr Rasen die Hitze",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/rasen-bei-hitze-warum-sie-jetzt-hoeher-maehen-sollten-6a7307f73013d32d67880f70",
-    "image": "https://images.bild.de/6a7307f73013d32d67880f70/4ff5d9e8a0813379af9531dc70981477,ea2f0b8a?w=1280",
-    "date": 0,
-    "titleSl": "Nega vrta poleti - S temi triki bo vaša trata preživela vročino"
    }
   ],
   "krone": [
+   {
+    "title": "Ryanair-Schreckensflug - Mann aus Flieger gesaugt: Darum brach das Fenster",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kSHY1VWFaT21HQVY5ZWRIUF9LSGxrbmF4YlhvWlFSN3djdmZ4VjJCQmtiV0wxdnRUQnhzNURqRTEtUQ?oc=5",
+    "image": "",
+    "date": 1786699969000,
+    "titleSl": "Ryanairov grozljiv let - moškega posrkalo iz letala: Zato je počilo okno"
+   },
    {
     "title": "Schwimm-EM in Paris - Bayer, Mladenovic und Espernberger im Halbfinale",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VSF9vRGJHWjJFODFobTFsZjhiWGJoQm5jS1RVY2RGNkphTHFZOGduekJMOHNydXdhMzhLUFc5T0hudw?oc=5",
@@ -496,16 +503,16 @@
     "image": "",
     "date": 1786699200000,
     "titleSl": "\"So zelo robustni\" - Kako nemška avtomobilska kriza vpliva na naše dobavitelje"
-   },
-   {
-    "title": "Krone+ checkte ein - Ist das wirklich das mieseste Hotel Österreichs?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBzd1ZmbU80TFJkUFdiU1dEbEZ5ekJJZnA4MTRaTk8wUmdoRkpWdFNsblhUMlBrWXZObmxCZHNISkd6UQ?oc=5",
-    "image": "",
-    "date": 1786699080000,
-    "titleSl": "Krone+ checked in - Je to res najslabši hotel v Avstriji?"
    }
   ],
   "rainews": [
+   {
+    "title": "Tuttifrutti: i miti e la Grecia classica ai festival di Innsbruck e Pesaro. L&#x27;Odissea di Nolan",
+    "link": "https://www.rainews.it/video/2026/08/tuttifrutti-i-miti-e-la-grecia-classica-ai-festival-di-innsbruck-e-pesaro-lodissea-di-nolan--bc542d65-4696-47c6-9940-94ddcc701e00.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/14/1786699081526_Sophie_Rennert_Giunone_cbirgitgufler.jpg",
+    "date": 1786698808000,
+    "titleSl": "Tuttifrutti: miti in klasična Grčija na festivalih v Innsbrucku in Pesaru. Nolanova Odiseja"
+   },
    {
     "title": "Schiacciata dal trattore, muore ragazza di 22 anni nel Cuneese",
     "link": "https://www.rainews.it/articoli/2026/08/schiacciata-dal-trattore-muore-ragazza-di-22-anni-nel-cuneese-a0db5620-0fb0-45e5-9a97-4d1b8318a50b.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/14/1786695221167_AFPTVDISHRVClimateWildfireCMCCQen.jpg",
     "date": 1786695420000,
     "titleSl": "Hrvaška, evakuacije in poškodovani zaradi silovitega požara, ki ga je podžigal veter na turističnem območju"
-   },
-   {
-    "title": "Vigili del fuoco lottano contro un incendio alimentato dal vento a Omiš, in Croazia",
-    "link": "https://www.rainews.it/video/2026/08/vigili-del-fuoco-lottano-contro-un-incendio-alimentato-dal-vento-a-omis-in-croazia-c9c69bb9-ff4b-42f9-945a-cba38a332a45.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/14/1786695087304_TZLOPRPRTRMADPBASEIMAGEXEUROPEWEATHERCROATIAWILDFIRE.JPG",
-    "date": 1786695000000,
-    "titleSl": "Gasilci se borijo s požarom, ki ga je povzročil veter, v Omišu na Hrvaškem"
    }
   ],
   "lemonde": [
