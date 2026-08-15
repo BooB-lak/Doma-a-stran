@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15T07:28:30.938Z",
+ "generatedAt": "2026-08-15T07:30:56.753Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Gasilci vso noč branili hiše: 'Požar na Dugem otoku ni pod nadzorom'",
+    "link": "https://www.24ur.com/novice/tujina/gasilci-vso-noc-branili-hise-pozar-na-dugem-otoku-ni-pod-nadzorom.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/5a0f0bd207b75f3b4348_63632420.png?v=599b&fop=fp:0.52:0.47",
+    "date": 1786778910000
+   },
+   {
     "title": "Dars z novim vodstvom",
     "link": "https://www.24ur.com/novice/gospodarstvo/dars-z-novim-vodstvom.html",
     "image": "https://images.24ur.com/media/images/213xX/Jan2026/d1764723f349d5a04896_63527459.jpg?v=cc36&fop=fp:0.48:0.50",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/zalostne-novice-iz-francije-padli-velikan-vse-blizje-propadu.html",
     "image": "https://images.24ur.com/media/images/213xX/Jan2024/8e1b76ffcd2120bf24df_63183843.jpg?v=3618&fop=fp:0.42:0.38",
     "date": 1786776959000
-   },
-   {
-    "title": "Gasilci vso noč branili hiše: 'Požar na Dugem otoku ni pod nadzorom'",
-    "link": "https://www.24ur.com/novice/tujina/gasilci-vso-noc-branili-hise-pozar-na-dugem-otoku-ni-pod-nadzorom.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/5a0f0bd207b75f3b4348_63632420.png?v=599b&fop=fp:0.52:0.47",
-    "date": 1786776676000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+    "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260814__C4NY63K__v1__HighRes__LebanonIsraelIranUsWar-1786775505.jpg?resize=1920%2C1440",
+    "date": 1786778293000,
+    "titleSl": "V izraelskem napadu na jugu Libanona je umrlo sedem ljudi, medtem ko se napadi krepijo"
+   },
+   {
+    "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786777948.jpg?resize=1920%2C1080&quality=80",
+    "date": 1786777991000,
+    "titleSl": "Trenutek, ko izraelske sile vdrejo v poročno dvorano na okupiranem Zahodnem bregu"
+   },
+   {
     "title": "South Korea’s president wants talks with North to end Korean War",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786776795.jpg?resize=1620%2C1080&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786769470.jpg?resize=1920%2C1080&quality=80",
     "date": 1786769693000,
     "titleSl": "Maroko krepi varnost v Ceuti zaradi pozivov k množičnemu prehodu migrantov"
-   },
-   {
-    "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/WIDE-THUMB-1786769268.jpg?resize=1600%2C1080",
-    "date": 1786769387000,
-    "titleSl": "Na tleh v Indoneziji po potresu z magnitudo 7,7"
-   },
-   {
-    "title": "Taiwan passes defence budget after record delay, retains drone funding",
-    "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7fe00e31d9-1786765326.jpg?resize=1920%2C1440",
-    "date": 1786769054000,
-    "titleSl": "Tajvan sprejel obrambni proračun po rekordni zamudi, ohranil financiranje dronov"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "„Jetzt gibt es kein Zurück mehr“ - Drei-Stufen-Plan zur DFB-Reform steht",
+    "link": "https://www.bild.de/sport/fussball/regionalliga-gibt-kein-zurueck-mehr-lob-fuer-drei-stufen-plan-zur-dfb-reform-6a7ee77f169e8e32c0ae7e31",
+    "image": "https://images.bild.de/6a7ee77f169e8e32c0ae7e31/f81242d0db818a9daf5e285f843f9d5d,249f3d2e?w=1280",
+    "date": 0,
+    "titleSl": "\"Zdaj ni več poti nazaj\" - vzpostavljen je tristopenjski načrt za reformo DFB"
+   },
+   {
     "title": "Erfolgsrezept indischer Brüder - So wurden aus Tellerwäschern Restaurant-Millionäre",
     "link": "https://www.bild.de/news/inland/sparen-sparen-sparen-so-wurden-aus-tellerwaeschern-millionaere-6a4fc32ea6db83ce8f124757",
     "image": "https://images.bild.de/6a4fc32ea6db83ce8f124757/16dc54db885fd2e3592f13327428e5d7,e3255aab?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a7e5cd6169e8e32c0ae75b5/3be3c0055c322ff0daff74c7e2715176,c5fe7cad?w=1280",
     "date": 0,
     "titleSl": "Live ticker - Zdaj odloča veter"
-   },
-   {
-    "title": "Sonntag plötzlich bis zu 15 Grad kühler! - Temperatur-Sturz: So schützt sich Ihr Körper jetzt",
-    "link": "https://www.bild.de/leben-wissen/temperatursturz-um-15-grad-so-reagiert-der-koerper-6a7eed1ef14aa44f2fd5dd11",
-    "image": "https://images.bild.de/6a7eed1ef14aa44f2fd5dd11/ef55a40f958d9afabd6c0ec6f0f8321c,a799dec9?w=1280",
-    "date": 0,
-    "titleSl": "V nedeljo kar naenkrat do 15 stopinj hladneje! - Padec temperature: Tako se vaše telo sedaj ščiti"
    }
   ],
   "krone": [
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "Volare in piedi: ecco il drone per passeggeri che si guida con due joystick",
+    "link": "https://www.rainews.it/video/2026/08/volare-in-piedi-ecco-il-drone-per-passeggeri-che-si-guida-con-due-joystick-cina-939cfcbe-19ce-4063-a0a2-c8089f1ed164.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/15/1786778814389_GGGG.jpg",
+    "date": 1786778820000,
+    "titleSl": "Letenje stoje: tukaj je potniški dron, ki ga upravljate z dvema krmilnima palicama"
+   },
+   {
     "title": "Terremoto di magnitudo 7.7 in Indonesia orientale, crolli e vittime",
     "link": "https://www.rainews.it/maratona/2026/08/terremoto-di-magnitudo-77-in-indonesia-orientale-crolli-e-vittime-e-allerta-tsunami-dbe7ba73-6cdc-4de1-9cb5-17cbfffd8884.html",
     "image": "https://www.rainews.it/dl/img/2026/08/15/1786765489941_CPX.jpg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/9/1786268229307_rainewsdfafdf.jpg",
     "date": 1786775880000,
     "titleSl": "Ruski napad na Dnjepropetrovsk. Latvija, italijanski lovec sestreli dron, ki je vstopil v zračni prostor"
-   },
-   {
-    "title": "Microplastiche nel sistema nervoso, si apre una nuova pista sulla Sla",
-    "link": "https://www.rainews.it/articoli/2026/08/microplastiche-nel-sistema-nervoso-si-apre-una-nuova-pista-sulla-sla-829174fc-52c0-4b10-b5ed-cf3eed2f2a0b.html",
-    "image": "https://www.rainews.it/dl/img/2025/03/05/1741181748541_son_microplastiche.transferxcode_mixframe.jpeg",
-    "date": 1786775040000,
-    "titleSl": "Mikroplastika v živčnem sistemu, odpira se nov povod za ALS"
    }
   ],
   "lemonde": [
