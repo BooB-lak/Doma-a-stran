@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-16T10:50:35.839Z",
+ "generatedAt": "2026-08-16T10:52:24.880Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na cestah marsikje zastoji",
+    "link": "https://siol.net/avtomoto/promet/na-cestah-marsikje-zastoji-699064",
+    "image": "https://siol.net/media/img/c7/29/52ae1e2020da1e71b5ea.jpeg",
+    "date": 1786877340000
+   },
    {
     "title": "Odličen nastop maratonke Lize Šajn, zmagovalka z gromozansko prednostjo",
     "link": "https://siol.net/sportal/atletika/zadnji-dan-ep-v-birminghamu-v-maratonu-se-liza-sajn-699052",
@@ -31,15 +37,15 @@
     "link": "https://siol.net/novice/crna-kronika/najmanj-12-mrtvih-v-nesreci-avtobusa-na-madzarskem-voznika-pridrzali-699060",
     "image": "https://siol.net/media/img/20/63/3c1f08a93da3724af1b3.jpeg",
     "date": 1786868520000
-   },
-   {
-    "title": "Djed Spence nova okrepitev Interja, Godts se iz Ayaxa seli v PSG",
-    "link": "https://siol.net/sportal/nogomet/nogometna-trznica-16-avgust-699053",
-    "image": "https://siol.net/media/img/ea/76/c86bdd4818fedc8159f6.jpeg",
-    "date": 1786867200000
    }
   ],
   "24ur": [
+   {
+    "title": "Na cestah marsikje zastoji, pred Karavankami je ta večkilometrski",
+    "link": "https://www.24ur.com/novice/slovenija/na-cestah-marsikje-zastoji-pred-karavankami-je-ta-veckilometrski.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/6517ac6177b9f63d82f0_63632697.jpg?v=f677&fop=fp:0.41:0.46",
+    "date": 1786877416000
+   },
    {
     "title": "Avtobus zapeljal z avtoceste in se prevrnil: 12 mrtvih, več deset ranjenih",
     "link": "https://www.24ur.com/novice/tujina/v-nesreci-avtobusa-na-madzarskem-vec-mrtvih.html",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/hrvatica-dvignila-moza-in-ga-nesla-cez-prag.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/8d2579e4b0c2659155c6_63632639.jpg?v=6e0c&fop=fp:0.71:0.54",
     "date": 1786874904000
-   },
-   {
-    "title": "Nemška podjetja zaradi uporabe umetne inteligence pričakujejo nižanje plač",
-    "link": "https://www.24ur.com/novice/gospodarstvo/nemska-podjetja-zaradi-uporabe-umetne-inteligence-pricakujejo-nizanje-plac.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/78c0a9d7faaa0882fc0d_63632660.jpg?v=22b1&fop=fp:0.58:0.33",
-    "date": 1786874499000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786876313.jpg?resize=1920%2C1080&quality=80",
-    "date": 1786876362000,
-    "titleSl": "Zdravnik opisuje amputacijo deklice v Gazi brez anestezije"
-   },
-   {
     "title": "The post-Hormuz era offers Africa a great opportunity",
     "link": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-12-02T185800Z_1303683200_RC2E8IAYBRWS_RTRMADP_3_NIGERIA-ECONOMY-1786874772.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786870316.jpg?resize=1920%2C1080&quality=80",
     "date": 1786870394000,
     "titleSl": "3-letno deklico rešili 100 ur po potresu v Kolumbiji"
+   },
+   {
+    "title": "At least 12 people killed in Hungary bus crash",
+    "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a815d9bedc0-1786863004.jpg?resize=1920%2C1440",
+    "date": 1786870230000,
+    "titleSl": "V nesreči avtobusa na Madžarskem je umrlo najmanj 12 ljudi"
    }
   ],
   "guardian": [
@@ -419,11 +419,25 @@
   ],
   "bild": [
    {
+    "title": "Weil sie in Ruhe zocken wollten? - Paar soll Baby (7 Wochen) totgeschüttelt haben",
+    "link": "https://www.bild.de/news/ausland/paar-soll-baby-totgeschuettelt-und-weiter-computerspiele-gezockt-haben-6a81686ba87e8142c31d18e7",
+    "image": "https://images.bild.de/6a81686ba87e8142c31d18e7/ca029c8e73c21a43cac5dbe4beaa3d27,c9975bb8?w=1280",
+    "date": 0,
+    "titleSl": "Ker so hoteli v miru kockati? - Par naj bi do smrti pretresel otroka (7 tednov)."
+   },
+   {
     "title": "Ufo, Alien oder Kamerafehler? - Mysteriöse „Qualle“ auf dem Mars entdeckt",
     "link": "https://www.bild.de/leben-wissen/wissenschaft/mars-rover-curiosity-mysterioeses-quallen-ufo-wohl-ein-pixelfehler-6a815c0ce2db31c6341307bb",
     "image": "https://images.bild.de/6a815c0ce2db31c6341307bb/df4c0fc0b9d1fcd3caa1164383111e8a,a5e4d8c9?w=1280",
     "date": 0,
     "titleSl": "NLP, vesoljček ali napaka kamere? - Na Marsu so odkrili skrivnostne \"meduze\"."
+   },
+   {
+    "title": "Reichert, Scobel und Justvan - 3 Nürnberger Derbyhelden für Platz 1!",
+    "link": "https://www.bild.de/sport/fussball/fcn-reichert-scobel-justvan-3-nuernberger-derbyhelden-fuer-platz-1-6a816b27a87e8142c31d18fa",
+    "image": "https://images.bild.de/6a816b27a87e8142c31d18fa/018589ebc7db7c21f4744b935ab82b69,d94f6143?w=1280",
+    "date": 0,
+    "titleSl": "Reichert, Scobel in Justvan - 3 junaki nürnberškega derbija za 1. mesto!"
    },
    {
     "title": "Kolumne: Geht das nur mir so? - Kassieren für News, darf der Präsident das?",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a7f356f2ea28efdb2791b6e/e74d66233bb9a0a148f20ede4dd97b86,277888e7?w=1280",
     "date": 0,
     "titleSl": "John (101) in Jerry (100) - 80 let zakona - ob petkih gremo v McDonald's"
-   },
-   {
-    "title": "Freude oder Stress? - Warum uns Hunde ihr Spielzeug bringen",
-    "link": "https://www.bild.de/leben-wissen/haustiere/warum-bringen-hunde-ihr-spielzeug-wirklich-zum-menschen-6a26cd70de941cb7ad3cbccb",
-    "image": "https://images.bild.de/6a26cd70de941cb7ad3cbccb/6326bab7cfe5283470b9e18303585714,5afbcfc3?w=1280",
-    "date": 0,
-    "titleSl": "Veselje ali stres? - Zakaj nam psi prinašajo svoje igrače"
-   },
-   {
-    "title": "GOLD für Rekord-Läufer Petros - Deutscher Marathon-Triumph!",
-    "link": "https://www.bild.de/sport/mehr-sport/deutscher-marathon-triumph-bei-der-leichtathletik-em-gold-fuer-petros-6a817b0ce2db31c6341309b0",
-    "image": "https://images.bild.de/6a817b0ce2db31c6341309b0/18737e0c0481c34489c326bd91bb2f88,255937d1?w=1280",
-    "date": 0,
-    "titleSl": "ZLATO za rekorderja Petrosa - nemško maratonsko zmago!"
    }
   ],
   "krone": [
