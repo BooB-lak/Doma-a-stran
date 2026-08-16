@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-16T20:16:27.877Z",
+ "generatedAt": "2026-08-16T20:18:25.333Z",
  "sources": {
   "siol": [
    {
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786910637.jpg?resize=1920%2C1080&quality=80",
-    "date": 1786910691000,
-    "titleSl": "Senegalska regata Saint-Louis ohranja večstoletno tradicijo"
-   },
-   {
-    "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786910521.jpg?resize=1920%2C1080&quality=80",
-    "date": 1786910529000,
-    "titleSl": "Protikorupcijske racije v Bagdadu, ko je bilo aretiranih več deset uradnikov"
-   },
-   {
     "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-16-at-20.24.30-1786908484.png?resize=1200%2C675",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-16-at-18.39.32-1786902139.png?resize=1200%2C675",
     "date": 1786902381000,
     "titleSl": "Nekdanji izraelski ujetnik prosi Ben-Gvirja, naj mu dovoli usmrtiti palestinskega zapornika"
+   },
+   {
+    "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/R-CLIP_N-Odeh-settler-siege_WIDE-THUMB-1786902293.jpg?resize=1200%2C675",
+    "date": 1786902352000,
+    "titleSl": "Izraelska vojska oblega palestinske domove na okupiranem Zahodnem bregu"
+   },
+   {
+    "title": "Why are sandwiches more regulated than AI?",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786901756.jpg?resize=1920%2C1080&quality=80",
+    "date": 1786901762000,
+    "titleSl": "Zakaj so sendviči bolj regulirani kot umetna inteligenca?"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Nach Sprint-Erfolg - Deutsches Sensations-Silber beim Speerwurf!",
+    "link": "https://www.bild.de/sport/mehr-sport/leichtathletik-em-sprint-silber-fuer-deutschland-6a821046a87e8142c31d221a",
+    "image": "https://images.bild.de/6a821046a87e8142c31d221a/891665c3ed06bbd44c6970e8b56e94e0,a88d8f0b?w=1280",
+    "date": 0,
+    "titleSl": "Po sprinterskem uspehu - nemško senzacionalno srebro v metu kopja!"
+   },
+   {
     "title": "Und auch Bronze geht an uns - GOLD! Nächster deutscher Lauf-Triumph",
     "link": "https://www.bild.de/sport/mehr-sport/frederick-ruppert-europameister-trotz-atemproblemen-6a81fa87a87e8142c31d2127",
     "image": "https://images.bild.de/6a81fa87a87e8142c31d2127/790fbf1a7a35a0767a13b8360d70c85b,6f90b622?w=1280",
@@ -431,13 +438,6 @@
     "image": "https://images.bild.de/6a81add5169e8e32c0aea321/678be3705d565037e664273fc2bb79ae,43d36657?w=1280",
     "date": 0,
     "titleSl": "Zaradi mirnosti je Arslan ponosen - ta obramba naslova mu zleze pod kožo"
-   },
-   {
-    "title": "Unsere Mixed-Staffel überragt - Sprint-Silber für Deutschland",
-    "link": "https://www.bild.de/sport/mehr-sport/leichtathletik-em-sprint-silber-fuer-deutschland-6a821046a87e8142c31d221a",
-    "image": "https://images.bild.de/6a821046a87e8142c31d221a/18812433588604821cb4d0b06709b6be,e06f9ef9?w=1280",
-    "date": 0,
-    "titleSl": "Naša mešana štafeta je bila izjemna - sprintersko srebro za Nemčijo"
    },
    {
     "title": "Kurioses Versprechen von Formel-1-Star - „Auf dem Podium öffne ich den Rennanzug und …“",
@@ -461,7 +461,50 @@
     "titleSl": "Policija domneva storilca - spolno nadlegoval dve ženski v Erfurtu"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Gar nicht so einfach - Raten Sie mal, welcher TV-Star hier zu sehen ist",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04QWN5M0hyNTNLSmE4dklvR1pYSEdyOV81MEJxa1FvckFYNWVYcWp2aDdvQkJ4R0k0bi1OM0MtWWY2QQ?oc=5",
+    "image": "",
+    "date": 1786911418000,
+    "titleSl": "Ni tako enostavno - uganite, katero TV zvezdo lahko vidite tukaj"
+   },
+   {
+    "title": "Schreckliche Szenen - Nach Pfandflaschen gesucht, von Zug erfasst – tot",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yV1ZkNlBlOTVkV1JJM0NfMVRGejRwN2pPMzFIV3lEdFA0dW1hX0Ffd216M0I4cUVoLWdsRG1vejBFdw?oc=5",
+    "image": "",
+    "date": 1786911324000,
+    "titleSl": "Grozljivi prizori - iskanje povratnih steklenic, udarec vlaka - mrtev"
+   },
+   {
+    "title": "Aufreger-Wochenende - Transferstreit, Rapid-Show und Austria-Erlösung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xYy1IaVMtRHVNY01zLXVaMERHdGdCLWtBanRDZVd6cVNabDBGYnNWWHhUMmk2ZE1MOWY5amkxX0hCQQ?oc=5",
+    "image": "",
+    "date": 1786910640000,
+    "titleSl": "Razburljiv vikend - prestopni spor, Rapid Show in odkup Austria"
+   },
+   {
+    "title": "Großer Einsatz - Fünf Feuerwehren bei Stadlbrand in St. Donat",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56elhmeG9BU0Z3NWU4ZFNZeTBVWktJZ2J6d1hLdUZrb2NHWjR2WmZiRTdmQ1RON2JPZmdMUlp1TVphZw?oc=5",
+    "image": "",
+    "date": 1786908720000,
+    "titleSl": "Večja operacija - pet gasilskih oddelkov na Stadlfire v Sv. Donatu"
+   },
+   {
+    "title": "Emotionaler Abschied - Ex-DFB-Spieler beendet mit 32 Jahren die Karriere",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnV0dYbnBxMzM3aGFkQWVNRVFzaHhWaGJ0RUg1dU11eVBxMHRPU29iSlEzZXdwZnFLbG9haU5DV3M1QQ?oc=5",
+    "image": "",
+    "date": 1786908540000,
+    "titleSl": "Čustveno slovo - nekdanji igralec DFB pri 32 letih končuje kariero"
+   },
+   {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xeUhOWGVBam00SWlfMmg4eTdReC1TU1AxT0JWWTlyNWdNRGxndDlJR3UwaWk2OGN6ajZ6YmFTTDFFLUNRNU9kU0dtSHNaa3A2dDRYMzZvUQ?oc=5",
+    "image": "",
+    "date": 1786908250000,
+    "titleSl": "Vaš lunarni koledar"
+   }
+  ],
   "rainews": [
    {
     "title": "Europei di nuoto, Italia beffata dalla Gran Bretagna nella 4x100 mista femminile",
@@ -552,13 +595,6 @@
   ],
   "elpais": [
    {
-    "title": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
-    "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/UP2V6IQGI5LETBEOAIHIM5YZ3Q.jpg?auth=712b5a0ba7a1c5a6ffc415f96f6fdbf9e082d7a575a63c1b0f61ee26204f849b",
-    "date": 1786910921000,
-    "titleSl": "Lula si prizadeva za četrti mandat, da bi zaustavil desnico v Braziliji in utrdil svojo zapuščino"
-   },
-   {
     "title": "Muere un militar de la UME en un accidente durante la extinción del incendio de Las Peñas de Riglos (Huesca)",
     "link": "https://elpais.com/espana/2026-08-16/muere-un-militar-de-la-ume-en-un-accidente-durante-la-extincion-del-incendio-de-las-penas-de-riglos-huesca.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260816/1205119_193519_video_1800.mp4",
@@ -578,6 +614,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/IZDEIXMM5RJRNP3YFWVKCLRNUI.jpg?auth=27913aedd4c921248767bf58b85f5708ce7dfeb5b94a80b3759014188527933f",
     "date": 1786905940000,
     "titleSl": "Racing se dobro zabava ob vrnitvi v Primero: \"Vrnili smo se\""
+   },
+   {
+    "title": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
+    "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/UP2V6IQGI5LETBEOAIHIM5YZ3Q.jpg?auth=712b5a0ba7a1c5a6ffc415f96f6fdbf9e082d7a575a63c1b0f61ee26204f849b",
+    "date": 1786905086000,
+    "titleSl": "Lula si prizadeva za četrti mandat, da bi zaustavil desnico v Braziliji in utrdil svojo zapuščino"
    },
    {
     "title": "Adeyemi y los juveniles del Barcelona disfrutan en Basilea",
