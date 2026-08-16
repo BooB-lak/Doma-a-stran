@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-16T07:08:25.652Z",
+ "generatedAt": "2026-08-16T07:10:38.210Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,22 @@
   ],
   "24ur": [
    {
+    "title": "Đoković po zdravstvenih težavah izpadel v drugem krogu Cincinnatija",
+    "link": "https://www.24ur.com/sport/ostalo/prazni-dokovic-izpadel-ze-v-drugem-krogu-cincinnatija.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/218e5fc7363e58f25b6e_63632617.jpg?v=4712&fop=fp:0.50:0.47",
+    "date": 1786864156000
+   },
+   {
     "title": "Milanič po derbiju: Igrali smo prepočasi in brez pravih idej",
     "link": "https://www.24ur.com/sport/nogomet/milanic-derbi-bi-lahko-odigrali-bolje.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/dd2f055177544d2bf8c3_63616366.jpg?v=133f&fop=fp:0.46:0.62",
     "date": 1786863979000
+   },
+   {
+    "title": "V nemški avtomobilski industriji rekordno hiter tempo odpuščanj",
+    "link": "https://www.24ur.com/novice/gospodarstvo/v-nemski-avtomobilski-industriji-rekordno-hiter-tempo-odpuscanj.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2024/7c22a1132218e9154f37_63298104.jpg?v=34e9&fop=fp:0.43:0.43",
+    "date": 1786863970000
    },
    {
     "title": "Ljubezen brez algoritma: zakaj se samski vračajo k zmenkom v živo?",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/maroske-oblasti-preprecile-nov-poskus-vstopa-nezakonitih-migrantov-v-ceuto.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/ba070851d0115bd031f9_63632624.jpg?v=bd52&fop=fp:0.50:0.33",
     "date": 1786861759000
-   },
-   {
-    "title": "Nato nad Romunijo znova sestrelil brezpilotnik",
-    "link": "https://www.24ur.com/novice/tujina/nato-nad-romunijo-znova-sestrelil-brezpilotnik.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/3041e73ee3355f9b23b7_63632619.jpg?v=e85a&fop=fp:0.49:0.47",
-    "date": 1786860556000
-   },
-   {
-    "title": "Anastasia razkrila, kako sta s Petrom rešila svojo ljubezen",
-    "link": "https://www.24ur.com/popin/tuja-scena/anastasia-razkrila-kako-sta-s-petrom-resila-svojo-ljubezen.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/71b3bec807cfddd69c43_63631880.png?v=f4b5&fop=fp:0.50:0.36",
-    "date": 1786860013000
    }
   ],
   "rtvslo": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg",
+    "date": 1786863857000,
+    "titleSl": "Dvanajst mrtvih, ko je poljski avtobus zapeljal z madžarske avtoceste"
+   },
+   {
     "title": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3104/live/d21ab520-9938-11f1-9be0-93fa1f20d4ea.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69e0/live/ba051cb0-98f6-11f1-a7ab-8b30adf0800a.jpg",
     "date": 1786857055000,
     "titleSl": "The Papers: Brezpilotna letala, izdelana v Združenem kraljestvu, 'napadejo na Rusijo' in 'kraja telefona v Veliki Britaniji'"
-   },
-   {
-    "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
-    "date": 1786853612000,
-    "titleSl": "Reševalci iščejo preživele v močnem potresu v Indoneziji"
    }
   ],
   "aljazeera": [
@@ -499,9 +499,9 @@
    },
    {
     "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oU0VMVFFDcFlJUXdsVXJEa1dXLU11N0g1dDlUeTREYlU1V2hZYzNkRUFkTi1QSkh4blRleHJwNW1fbTVFUnBwbW1xMHZseHUwZVJ4YlNDNA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DNzAwQTNONkZOXzhPVXpxUnRiYzltT1NWSG0zNkd5TlBBM0JzZnFOb3ZQM0hCbm9McDk4RkJGX25lLTljRjlTaFprLXl4WTRYRWtNTFRwcw?oc=5",
     "image": "",
-    "date": 1786860270000,
+    "date": 1786860368000,
     "titleSl": "Vaš lunarni koledar"
    }
   ],
