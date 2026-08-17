@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-17T06:50:41.460Z",
+ "generatedAt": "2026-08-17T06:52:27.817Z",
  "sources": {
   "siol": [
+   {
+    "title": "Ukrajinski napadi v ruskem Belgorodu zahtevali šest življenj",
+    "link": "https://siol.net/novice/svet/ukrajinski-napadi-v-ruskem-belgorodu-zahtevali-sest-zivljenj-699108",
+    "image": "https://siol.net/media/img/5f/13/657c8f1dbad8ab5e9931.jpeg",
+    "date": 1786949280000
+   },
    {
     "title": "Kampiranje brez stresa: zakaj slovenske družine izbirajo istrski Mon Perin",
     "link": "https://siol.net/trendi/potovanja/kampiranje-brez-stresa-zakaj-slovenske-druzine-izbirajo-istrski-mon-perin-698952",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/pozitivni-znaki-roglic-naj-bi-vedarle-startal-na-vuelti-699094",
     "image": "https://siol.net/media/img/72/68/8f50a869ff20f8256f5c.jpeg",
     "date": 1786947240000
-   },
-   {
-    "title": "Kushner prispel v Izrael na srečanje z Netanjahujem #vŽivo",
-    "link": "https://siol.net/novice/svet/kushner-prispel-v-izrael-na-srecanje-z-netanjahujem-vzivo-699105",
-    "image": "https://siol.net/media/img/9a/98/64c6184b0bbd7fb5259d.jpeg",
-    "date": 1786947180000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "V ukrajinskem napadu na Belgorod ubitih šest ljudi, med ranjenimi otrok",
+    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/v-ukrajinskem-napadu-na-belgorod-ubitih-sest-ljudi-med-ranjenimi-otrok/791067",
+    "image": "https://img.rtvcdn.si/_up/upload/2024/09/29/66223274.jpg",
+    "date": 1786949511000
+   },
+   {
     "title": "Barceloni uspel veliki met - Rodri bo podpisal štiriletno pogodbo",
     "link": "https://www.rtvslo.si/sport/nogomet/spansko-nogometno-prvenstvo/barceloni-uspel-veliki-met-rodri-bo-podpisal-stiriletno-pogodbo/791065",
     "image": "https://img.rtvcdn.si/_up/upload/2026/07/21/67062869.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/bliznji-vzhod/vojna-v-gazi/kushner-se-je-sestal-z-vodjo-hamasa-izraelski-minister-pozval-k-poboju-40-palestincev-na-dan/791062",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/17/67070852.jpg",
     "date": 1786945712000
-   },
-   {
-    "title": "Pri Senovem v prometni nesreči umrl 29-letni voznik",
-    "link": "https://www.rtvslo.si/crna-kronika/pri-senovem-v-prometni-nesreci-umrl-29-letni-voznik/791059",
-    "image": "https://img.rtvcdn.si/_up/upload/2024/07/03/66199224.jpg",
-    "date": 1786944957000
    }
   ],
   "zurnal": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Barça holt Superstar - Einigung! Flick kriegt seinen Königstransfer",
+    "link": "https://www.bild.de/sport/fussball/barca-holt-superstar-einigung-flick-kriegt-seinen-koenigstransfer-6a82a7dba87e8142c31d266d",
+    "image": "https://images.bild.de/6a82a7dba87e8142c31d266d/7fdd9798dd598bb7d2d0330088604adc,bf768286?w=1280",
+    "date": 0,
+    "titleSl": "Barça dobila superzvezdnika - dogovor! Flick dobi svoj kraljevski prestop"
+   },
+   {
     "title": "Viral oder wirksam? - Hefe-Trick gegen Schmutz in der Toilette",
     "link": "https://www.bild.de/leben-wissen/wohnen-living/toilette-reinigen-was-der-hefe-trick-wirklich-bringt-6a7b2a565a14d83b293f0709",
     "image": "https://images.bild.de/6a7b2a565a14d83b293f0709/95b3b4a28a54f1c442bf6b17c93f56dd-landscape,47347cb1?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6a82043ba87e8142c31d2192/2d9120d32599ca9cca498e2d35907232,7305f7c6?w=1280",
     "date": 0,
     "titleSl": "In kanclersko presenečenje za Kloppa! - Boljših vzornikov naši reprezentanci ne more biti"
-   },
-   {
-    "title": "Liveticker - Rettet der Regen Monschau vor den Flammen?",
-    "link": "https://www.bild.de/news/inland/riesen-feuer-bedroht-doerfer-in-nrw-flammen-nur-noch-500-meter-entfernt-6a7e5cd6169e8e32c0ae75b5",
-    "image": "https://images.bild.de/6a7e5cd6169e8e32c0ae75b5/1bf19de041bcb80c44b4a7ac1bf62589,2a065a21?w=1280",
-    "date": 0,
-    "titleSl": "V živo - Bo dež rešil Monschau pred ognjenimi zublji?"
    }
   ],
   "krone": [
@@ -466,37 +466,43 @@
     "title": "„Feindseliges Signal“ - Trump bremst Manöver mit Südkorea wegen Freund Kim - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xYmU5WWxUdC1aQ1FVS1gzbGd4LXBhaVFpbGtEM2dCLWVJS2VvWllraWhnVTl1U0FRNnNBV0JMZnUtdw?oc=5",
     "image": "",
-    "date": 1786948020000
+    "date": 1786948020000,
+    "titleSl": "\"Sovražni signal\" - Trump upočasnjuje manevre z Južno Korejo zaradi prijatelja Kima - krone.at"
    },
    {
     "title": "„Krone“-Ombudsfrau - Parkstrafe bezahlt – Mahnungen hörten nicht auf - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5iMjlJdVhnTmtCVm9JVnN2bUFPY2M3Sl9UWl9KVlFId2dORk11MHJEeFJCSkc4dVVBS2RPaVpwNFpFUQ?oc=5",
     "image": "",
-    "date": 1786946400000
+    "date": 1786946400000,
+    "titleSl": "Varuhinja človekovih pravic \"Krone\" - kazen za parkiranje plačana - opomini niso prenehali - krone.at"
    },
    {
     "title": "Konsequenzen für Sturm - Warum der Fall Massombo eine Lawine auslösen kann - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QQnA3Q281a0V1cEtiT1Jwd3JKWHR5cThJai1yUHJfeGNycnotODlKbmRDM1RDbTR2dFdpb0pHUi1PUQ?oc=5",
     "image": "",
-    "date": 1786946400000
+    "date": 1786946400000,
+    "titleSl": "Posledice neurja - Zakaj lahko primer Massombo sproži snežni plaz - krone.at"
    },
    {
     "title": "Dürre zeigt Problem - Es gibt eine große Förderlücke beim Wasser - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PNDdJTEVPT1d3QVAtRUZRc19CU3o0UU1SbTNPNnhPU2s4QUZyZmdoUVZEZDdfQUVITEZsTzNEbzdvdw?oc=5",
     "image": "",
-    "date": 1786946400000
+    "date": 1786946400000,
+    "titleSl": "Suša kaže na težavo - Za vodo obstaja velika vrzel v financiranju - krone.at"
    },
    {
     "title": "Besondere Prämie - Hemetsberger stieg in den Thaibox-Olymp auf - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OZ0NrakNoSWgwSTZhOF9tRGJHd3R0SE92bXZ2V3JQRlFpOGVsbjB6YVh5V0txNkJ6SmZ1V1FYWXU2QQ?oc=5",
     "image": "",
-    "date": 1786946400000
+    "date": 1786946400000,
+    "titleSl": "Poseben bonus - Hemetsberger se je povzpel na olimpijske igre v tajskem boksu - krone.at"
    },
    {
     "title": "Das freie Wort - Ist Sicherheit vom Alter abhängig? - krone.at",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMWZxR1RhWUxydGpZNjlNNGNtNmJwY0JBcElTZHozbTVqenNMN1hjVG16aFd5MmdCTlBDTV9aSGIteVVkNGdoSFQtTHhPZC1zLUhmakZKc2NUbG5tMldrY3ZWUDBObU1CYzNUSQ?oc=5",
     "image": "",
-    "date": 1786945666000
+    "date": 1786945666000,
+    "titleSl": "Prosta beseda - Ali je varnost odvisna od starosti? - krone.at"
    }
   ],
   "rainews": [
@@ -513,6 +519,13 @@
     "image": "https://www.rainews.it/dl/img/2025/04/23/1745413641286_parco.jpg",
     "date": 1786948920000,
     "titleSl": "Podnebje, Stelvio se zapira tudi zaradi vročine: previsoke temperature na ledeniku"
+   },
+   {
+    "title": "Autostrade, addio a sbarre e caselli. Arriva il Free Flow: cos&#x27;è e le prime tratte interessate",
+    "link": "https://www.rainews.it/articoli/2026/08/autostrade-addio-a-sbarre-e-caselli-arriva-il-free-flow-cose-e-le-prime-tratte-interessa-d7d8e36a-c5fd-48f2-ab9b-baa6fbd1611b.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/17/1786947763246_fdfeecadbaaafdca.jpg",
+    "date": 1786948260000,
+    "titleSl": "Avtoceste, adijo zapore in cestninske postaje. Prihaja Free Flow: kaj je in prvi prizadeti deli"
    },
    {
     "title": "Allerta El Niño, come cambierà il clima in Italia in inverno e d&#x27;autunno",
@@ -534,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/17/1786947423800_ebcafedcanl.jpg",
     "date": 1786947420000,
     "titleSl": "Moč izbruha Etne: intenzivna eksplozivna aktivnost"
-   },
-   {
-    "title": "Escalation in Libano, 11 morti sotto i raid israeliani. Si scava tra le macerie",
-    "link": "https://www.rainews.it/video/2026/08/operazioni-di-bonifica-nel-libano-meridionale-dopo-che-i-raid-israeliani-hanno-ucciso-nove-persone-a1491f19-c7ba-454e-a5dc-0f7056b8086f.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/17/1786945503453_vlcsnaphms.png",
-    "date": 1786945380000,
-    "titleSl": "Eskalacija v Libanonu, 11 mrtvih med izraelskimi napadi. Koplje po ruševinah"
    }
   ],
   "lemonde": [
