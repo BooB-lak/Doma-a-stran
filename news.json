@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17T04:12:25.685Z",
+ "generatedAt": "2026-08-17T04:14:25.549Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Ob prazniku: 'Prekmurje neločljivi in dragoceni del Slovenije'",
+    "link": "https://www.24ur.com/novice/slovenija/ob-prazniku-prekmurje-nelocljivi-in-dragoceni-del-slovenije.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/72ef26112c811667df32_63632811.jpg?v=7995&fop=fp:0.46:0.42",
+    "date": 1786939854000
+   },
+   {
     "title": "Začetek iz nočne more: 'Moramo se ponastaviti in gledati naprej'",
     "link": "https://www.24ur.com/sport/nogomet/zacetek-iz-nocne-more-moramo-se-ponastaviti-in-gledati-naprej.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/b6cba73567fc51294d65_63632744.jpg?v=05f1&fop=fp:0.46:0.20",
@@ -63,12 +69,6 @@
     "link": "https://www.24ur.com/novice/tujina/omis-z-dvema-obrazoma-v-mestu-turisticni-vrvez-vzhodno-sezona-koncana.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/22fb88a9aaa8a01e3a44_63632807.jpg?v=ec7f&fop=fp:0.47:0.42",
     "date": 1786909695000
-   },
-   {
-    "title": "'Prekmurje ni obrobje države, ampak njeno vzhodno srce'",
-    "link": "https://www.24ur.com/novice/slovenija/prekmurje-ni-obrobje-drzave-ampak-njeno-vzhodno-srce.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/f6a1ba2c19fdbb9591c0_63632804.jpg?v=8d54&fop=fp:0.42:0.41",
-    "date": 1786907047000
    },
    {
     "title": "Pet viralnih, a nevarnih trendov za porjavitev",
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
-    "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a827c7d41416-1786936445.jpg?resize=1920%2C1440",
-    "date": 1786938787000,
-    "titleSl": "Tatovi so med italijanskimi počitnicami ukradli renesančna umetniška dela v muzeju"
-   },
-   {
-    "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786937980.jpg?resize=1200%2C675",
-    "date": 1786938090000,
-    "titleSl": "Palestinsko-Američan potuje domov na Zahodni breg, obkrožen z izraelskimi naseljenci"
-   },
-   {
     "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786935280.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8246ad7834-1786922669.jpg?resize=1920%2C1440",
     "date": 1786930093000,
     "titleSl": "Izraelski naseljenci postavljajo šotore za novo nezakonito postojanko na okupiranem Zahodnem bregu"
+   },
+   {
+    "title": "Can the AU make its current Sudan mission count?",
+    "link": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP25234546087165-1786354637.jpg?resize=1920%2C1440",
+    "date": 1786929217000,
+    "titleSl": "Ali lahko AU šteje svojo trenutno misijo v Sudanu?"
+   },
+   {
+    "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
+    "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a823fd8d7-1786920920.jpg?resize=1920%2C1440",
+    "date": 1786925478000,
+    "titleSl": "Trump pravi, da bodo ZDA 'znatno zmanjšale' vojaške vaje z Južno Korejo"
    }
   ],
   "guardian": [
@@ -334,8 +334,29 @@
     "title": "Australia politics live: Hill says using super to buy a home gets ‘gold medal for stupidest policy’ after Hanson reignites debate",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/0eb479b030df3a98b0590c4fa0356daf008d18ad/673_418_6270_5016/master/6270.jpg?width=140&quality=85&auto=format&fit=max&s=b56137893a0f9c1431c8c845f099dd05",
-    "date": 1786938839000,
+    "date": 1786939762000,
     "titleSl": "Avstralska politika v živo: Hill pravi, da uporaba super za nakup stanovanja dobi \"zlato medaljo za najbolj neumno politiko\", potem ko je Hanson znova sprožil razpravo"
+   },
+   {
+    "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+    "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+    "image": "https://i.guim.co.uk/img/media/812d23651e2260e3817cb53514597677be97214b/367_1_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=c2506fbf47a36783e0164626dce0b567",
+    "date": 1786939677000,
+    "titleSl": "Trump odredi zmanjšanje skupnih vaj v Južni Koreji kljub opozorilom o vse večjih izkušnjah Severne Koreje na bojiščih"
+   },
+   {
+    "title": "Asking prices for newly listed homes in UK’s richest borough fall by £100k in one month",
+    "link": "https://www.theguardian.com/business/2026/aug/17/newly-listed-asking-prices-kensington-chelsea-london-uk-lowball-offers",
+    "image": "https://i.guim.co.uk/img/media/313ba6801ef9f906211d58f565b5733eaaea06d6/162_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=f5c428ba3e6652c15728bb66fd0b4dae",
+    "date": 1786939246000,
+    "titleSl": "Izklicne cene za novouvrščene hiše v najbogatejšem okrožju Združenega kraljestva so se v enem mesecu znižale za 100 tisoč funtov"
+   },
+   {
+    "title": "Loosening of planning rules in England to allow more new homes near stations",
+    "link": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
+    "image": "https://i.guim.co.uk/img/media/70811c183d4c8213996cada031863421d84bb7b7/421_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e8be53c57370bf259ecbcd0533f75aeb",
+    "date": 1786939245000,
+    "titleSl": "Rahljanje pravil načrtovanja v Angliji, da bi omogočili več novih domov v bližini postaj"
    },
    {
     "title": "Ralph Carr in ‘living hell’ after being convicted of rape, Victorian court hears",
@@ -350,27 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/e670ad0dd13e2fda4628bf46eccb7962b3311760/0_0_3329_2663/master/3329.jpg?width=140&quality=85&auto=format&fit=max&s=2005f4ef6886de306d28d2897b015e7f",
     "date": 1786937061000,
     "titleSl": "Alan Jones naj bi poljubil mladeniča v garderobi osebnega apartmaja Jamesa Packerja v Crown Towers, je razsodilo sodišče."
-   },
-   {
-    "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/428083c3e499e85ef5be906b41a991f175fc77bf/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9681db3ef8f92d9b5d27c4b5a531e462",
-    "date": 1786935485000,
-    "titleSl": "Poročilo, ki podpira prepoved družbenih medijev za najstnike v Avstraliji, kaže, da vsebuje halucinacije umetne inteligence, je izvedel senat"
-   },
-   {
-    "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
-    "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-    "image": "https://i.guim.co.uk/img/media/812d23651e2260e3817cb53514597677be97214b/367_1_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=c2506fbf47a36783e0164626dce0b567",
-    "date": 1786931376000,
-    "titleSl": "Trump odredi zmanjšanje skupnih vaj v Južni Koreji kljub opozorilom o vse večjih izkušnjah Severne Koreje na bojiščih"
-   },
-   {
-    "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
-    "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-    "image": "https://i.guim.co.uk/img/media/a393063cc2d82e5b3b20c44e22654a645b95ab37/581_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e627dfdebce0f22e71d4b8bb71204ef6",
-    "date": 1786925397000,
-    "titleSl": "Izbruh ebole v Demokratični republiki Kongo je zdaj najsmrtonosnejši v zgodovini države"
    }
   ],
   "spiegel": [
@@ -470,6 +470,13 @@
     "titleSl": "Pomahajte z VIP navijači - Rapid: Spektakel 8:0 je vsem zlezel pod kožo"
    },
    {
+    "title": "Ikonisches Bauwerk - Das Rote Haus und die Sache mit dem Ochsenblut",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wN2ttZzF5VER3ZFNYdl9lWm5US2phTmNCSm96X0ZWU1VJbWYyOTNLaDRlNUN4MXpNbDBaY0tYeTNJdw?oc=5",
+    "image": "",
+    "date": 1786939200000,
+    "titleSl": "Ikonična stavba - Rdeča hiša in stvar z volovsko krvjo"
+   },
+   {
     "title": "Prominente Gläubiger - Millionen-Krimi nach Tod von Wiener Anwalt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1LV2QwSUROWTdGUzJ3TE5NaDBTTVd2dE1JQXlNVmdUYVoxN0FXNm1kTTFnb2hISkZPQWxZZmZyNExsQQ?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1786937400000,
     "titleSl": "\"Thomas se je obnašal kot pravi junak\""
-   },
-   {
-    "title": "Wie viel Regen kommt - Temperatursturz: Jähes Ende der Rekordhitzephase",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oRU12Sk9BTGpuNjE4aDc3YnRHai13V0UyQmNodUxoRWdPV1YxWTgyRlJFRmdmOUlDTTFhdUF1alVnUQ?oc=5",
-    "image": "",
-    "date": 1786937400000,
-    "titleSl": "Koliko dežja prihaja – padec temperature: nenaden konec faze rekordne vročine"
    }
   ],
   "rainews": [
@@ -512,6 +512,13 @@
     "image": "https://www.rainews.it/dl/img/2026/08/17/1786922357552_medium.jpg",
     "date": 1786939560000,
     "titleSl": "Evropska atletika, zdaj je Italija legendarna, zlato za Iapichino in 4x400, prva v razpredelnici medalj"
+   },
+   {
+    "title": "Pioggia a catinelle, strade di Milano invase dall&#x27;acqua: maltempo in Lombardia",
+    "link": "https://www.rainews.it/video/2026/08/pioggia-a-catinelle-strade-di-milano-invase-dallacqua-maltempo-in-lombardia-video-8092678c-6ffe-417a-afb0-6f185cc3b3bd.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/17/1786939213599_ebcadcfbbdaednl.jpg",
+    "date": 1786939200000,
+    "titleSl": "Močno deževje, ulice Milana zalila voda: slabo vreme v Lombardiji"
    },
    {
     "title": "Etna, nuova allerta rossa, nube di cenere verso nord est. Restrizione dei voli a Catania",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/17/1786919901836_AFPTVWARUKRDonetskDroneCTGen.jpg",
     "date": 1786922700000,
     "titleSl": "Po domnevnem napadu z dronom uničen nakupovalni center v Donecku"
-   },
-   {
-    "title": "Un video amatoriale mostra un&#x27;enorme colonna di fumo nero levarsi dal magazzino di Wildberries",
-    "link": "https://www.rainews.it/video/2026/08/un-video-amatoriale-mostra-unenorme-colonna-di-fumo-nero-levarsi-dal-magazzino-di-wildberries-8b07677e-8212-4692-a1a8-dcc1ef5920ea.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/17/1786922111092_TZLOPRPRTRMADPBASEIMAGEXUKRAINECRISISRUSSIAWILDBERRIESMOSCOWUGC.JPG",
-    "date": 1786922520000,
-    "titleSl": "Amaterski video prikazuje ogromen steber črnega dima, ki se dviga iz skladišča Wildberries"
    }
   ],
   "lemonde": [
