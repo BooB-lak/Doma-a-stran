@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18T16:12:25.463Z",
+ "generatedAt": "2026-08-18T16:14:22.874Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Sova pri preverjanju Krivolucke leta 2016 ni ugotovila posebnosti",
+    "link": "https://www.rtvslo.si/slovenija/sova-pri-preverjanju-krivolucke-leta-2016-ni-ugotovila-posebnosti/791223",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/04/11/67034641.jpg",
+    "date": 1787069559000
+   },
+   {
     "title": "V arhivu v Škofji Loki zaključujejo sanacijo po poplavah. Zalitih je bilo 35 škatel in dva ovoja.",
     "link": "https://www.rtvslo.si/kultura/dediscina/v-arhivu-v-skofji-loki-zakljucujejo-sanacijo-po-poplavah-zalitih-je-bilo-35-skatel-in-dva-ovoja/791222",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/18/67072502.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/film-in-tv/v-spomin-mileni-zupancic-vdovstvo-karoline-zasler-in-cvetje-v-jeseni-na-tv-slovenija/791213",
     "image": "https://img.rtvcdn.si/_up/upload/2012/05/27/64883027_cvetje.jpg",
     "date": 1787063655000
-   },
-   {
-    "title": "Trohneča trupla krav našli na kmetiji strokovnjaka za govedorejo Marjana Špura",
-    "link": "https://www.rtvslo.si/okolje/kmetijstvo/trohneca-trupla-krav-nasli-na-kmetiji-strokovnjaka-za-govedorejo-marjana-spura/791212",
-    "image": "https://img.rtvcdn.si/_up/upload/2023/03/13/66066234.jpg",
-    "date": 1787062849000
    }
   ],
   "zurnal": [
@@ -220,11 +220,18 @@
     "titleSl": "Malo znana povezava med demenco in epilepsijo"
    },
    {
-    "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-    "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-    "image": "https://static01.nyt.com/images/2025/12/16/multimedia/00int-ukraine-rescue-promo/00int-ukraine-rescue-1-cjlb-mediumSquareAt3X.jpg",
-    "date": 1787064664000,
-    "titleSl": "Materino prizadevanje, da bi rešila svojega sina iz rusko okupirane Ukrajine"
+    "title": "Forty First Dates and Still Searching",
+    "link": "https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html",
+    "image": "https://static01.nyt.com/images/2026/08/05/multimedia/WELL-MATCHMAKING1-hqmt/WELL-MATCHMAKING1-hqmt-mediumSquareAt3X.jpg",
+    "date": 1787065079000,
+    "titleSl": "Štirideset prvih zmenkov in še vedno iskanje"
+   },
+   {
+    "title": "Childhood Friends, Adopted From India, Discover They’re Sisters",
+    "link": "https://www.nytimes.com/2026/08/18/world/europe/friends-adopted-sisters-india-netherlands.html",
+    "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13xp-sisters-vid-cover-wgcz/13xp-sisters-vid-cover-wgcz-mediumSquareAt3X.jpg",
+    "date": 1787064479000,
+    "titleSl": "Prijateljice iz otroštva, posvojene iz Indije, odkrijejo, da so sestre"
    },
    {
     "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/07/01/multimedia/00nat-texas-tech-cqgj/00nat-texas-tech-cqgj-mediumSquareAt3X.jpg",
     "date": 1787064149000,
     "titleSl": "Texas Tech University uporablja A.I. za zmanjšanje levo usmerjene vsebine"
-   },
-   {
-    "title": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors",
-    "link": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
-    "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18biz-markets-vlbp/18biz-markets-vlbp-mediumSquareAt3X.jpg",
-    "date": 1787063948000,
-    "titleSl": "Donosi obveznic skokovito narastejo, delnice pa zdrsnejo, ko je pat položaj v Iranu vznemiril vlagatelje"
    }
   ],
   "bbc": [
@@ -287,6 +287,27 @@
   ],
   "aljazeera": [
    {
+    "title": "Spain builds tent cities for the thousands stuck in Ceuta",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-16.13.44-1787068343.png?resize=1200%2C675",
+    "date": 1787068422000,
+    "titleSl": "Španija gradi šotorska mesta za tisoče obtičalih v Ceuti"
+   },
+   {
+    "title": "Palestinian living in caves older than Israel",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787068355.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787068418000,
+    "titleSl": "Palestinec, ki živi v jamah, starejših od Izraela"
+   },
+   {
+    "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787068373.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787068392000,
+    "titleSl": "\"Bojim se za življenje svoje družine,\" pravi Loui Ridi, medtem ko naseljenci oblegajo dom"
+   },
+   {
     "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
     "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-03-03T184831Z_1521568093_RC2U5DAUOPVJ_RTRMADP_3_SOCCER-AFCCHAMPIONS-EST-NSR-REPORT-1787064638.jpg?resize=1920%2C1440",
@@ -306,27 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-16T090756Z_255723625_RC2KZMAQZ2YI_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW-1787064162.jpg?resize=1920%2C1440",
     "date": 1787064596000,
     "titleSl": "Zakaj Rusija grozi Združenemu kraljestvu s \"posledicami\" zaradi ukrajinskih dronov?"
-   },
-   {
-    "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-    "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-02-18T150320Z_1473337181_UP1EJ2I15TIRM_RTRMADP_3_SOCCER-ENGLAND-BRE-CRY-REPORT-1787060932.jpg?resize=1920%2C1440",
-    "date": 1787064419000,
-    "titleSl": "Patrick Vieira imenovan za glavnega trenerja Senegala, saj se bližajo kvalifikacije za AFCON"
-   },
-   {
-    "title": "What to watch in the Alaska and Wyoming primary elections",
-    "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630",
-    "date": 1787063351000,
-    "titleSl": "Kaj gledati na primarnih volitvah na Aljaski in Wyomingu"
-   },
-   {
-    "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
-    "link": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260818__C4VW274__v3__HighRes__TopshotZambiaPoliticsElection-1787058294.jpg?resize=1920%2C1440",
-    "date": 1787061707000,
-    "titleSl": "Hichilema ponovno izvoljen za predsednika Zambije zaradi pomislekov opozicije glede glasovanja"
    }
   ],
   "guardian": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Bundesländer in Deutschland - Erkennen Sie die Lösung direkt?",
+    "link": "https://www.bild.de/leben-wissen/bundeslaender-in-deutschland-erkennen-sie-die-loesung-direkt-6a831be2bbfd6aa29d3f8714",
+    "image": "https://images.bild.de/6a831be2bbfd6aa29d3f8714/e85ba0d6f753e7e56ddc64f9a4de5b3b,e107a24e?w=1280",
+    "date": 0,
+    "titleSl": "Zvezne dežele v Nemčiji - Ali neposredno prepoznate rešitev?"
+   },
+   {
+    "title": "Niemand weiß, wie er dort hinkam - Hund paddelt allein mitten im Ozean",
+    "link": "https://www.bild.de/news/ausland/hund-paddelt-allein-mitten-im-ozean-niemand-weiss-wie-er-dort-hinkam-6a82fb3b9fcb5798aae395b8",
+    "image": "https://images.bild.de/6a82fb3b9fcb5798aae395b8/e1260bb7f80942c7eef8d8e0e6c27e32,4a9f3269?w=1280",
+    "date": 0,
+    "titleSl": "Nihče ne ve, kako je prišel tja - pes, ki sam vesla sredi oceana"
+   },
+   {
+    "title": "BILD-Redakteur vom AFD-Wahlkampf - „Sie feiern ihn wie einen Popstar“",
+    "link": "https://www.bild.de/politik/bild-redakteur-vom-afd-wahlkampf-gefeiert-wie-ein-popstar-6a843b7aa87e8142c31d3d83",
+    "image": "https://images.bild.de/6a843b7aa87e8142c31d3d83/a9a7a6e5b962cc2d0201272137c9bfd5,44c435a2?w=1280",
+    "date": 0,
+    "titleSl": "Urednik BILD iz volilne kampanje AFD - \"Slavijo ga kot pop zvezdo\""
+   },
+   {
     "title": "Heidenheim führt - Früher Schock für die Bayern!",
     "link": "https://www.bild.de/sport/fussball/gute-nachrichten-von-jamal-musiala-nach-seinem-zusammenbruch-6a8479b43f3b2550f6df3baa",
     "image": "https://images.bild.de/6a8479b43f3b2550f6df3baa/df57f5448e927d49051c77c3bf38df32,1cb6b69d?w=1280",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6a84748461327bbf26cfb375/4bed27106b8af6fc0e58a06bd1ac4b68,16bc0729?w=1280",
     "date": 0,
     "titleSl": "\"Dvoboj za moje življenje\" - Novichok naj bi ubil nemškega orožarskega šefa"
-   },
-   {
-    "title": "Für den Sturm - Energie hat 2 Ex-Bundesliga-Stars auf dem Zettel",
-    "link": "https://www.bild.de/sport/fussball/2-bundesliga-energie-hat-2-ex-bundesliga-stars-auf-dem-zettel-6a83f95ca87e8142c31d37ad",
-    "image": "https://images.bild.de/6a83f95ca87e8142c31d37ad/c3024859a8ed88adc55b5ffd97e24338,6403295a?w=1280",
-    "date": 0,
-    "titleSl": "Za Sturm - Energie ima na seznamu 2 nekdanja zvezdnika Bundeslige"
-   },
-   {
-    "title": "Video zeigt blutige Attacke - Influencerin prahlt mit Narbe von Hai-Biss",
-    "link": "https://www.bild.de/news/ausland/video-zeigt-hai-attacke-sie-prahlt-mit-narbe-und-nennt-tag-des-angriffs-ihren-zweiten-geburtstag-6a82e48a9fcb5798aae3935e",
-    "image": "https://images.bild.de/6a82e48a9fcb5798aae3935e/e436e3c745e6cb252dbdf5864c96632a-landscape,2215ec57?w=1280",
-    "date": 0,
-    "titleSl": "Video prikazuje krvavi napad - vplivnež se hvali z brazgotino po ugrizu morskega psa"
-   },
-   {
-    "title": "Mitten in der Stadt - Plötzlich tauchen Hunderte Störche auf",
-    "link": "https://www.bild.de/news/ausland/stoerche-verdunkeln-den-himmel-riesiger-schwarm-ueber-hatay-6a821485a87e8142c31d2248",
-    "image": "https://images.bild.de/6a821485a87e8142c31d2248/dd3cc21fd5287f29cdd78aa048872ea0,6e65e728?w=1280",
-    "date": 0,
-    "titleSl": "Sredi mesta - nenadoma se pojavi na stotine štorkelj"
    }
   ],
   "krone": [
@@ -514,6 +514,13 @@
     "titleSl": "Poginil je čistokrvni Varenne, star je bil 31 let. Bil je največji kasač vseh časov"
    },
    {
+    "title": "Ultraleggero scomparso sui rilievi cosentini, le ricerche proseguono senza esito",
+    "link": "https://www.rainews.it/articoli/2026/08/ultraleggero-scomparso-sui-rilievi-cosentini-le-ricerche-proseguono-senza-esito-95ea9baa-624d-467d-ba3b-5ebd2a46def5.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/18/1787069378667_aereo_scomparso_jpg.jpg",
+    "date": 1787068920000,
+    "titleSl": "Ultralight je izginil v gorah Cosenza, iskanje se nadaljuje brez uspeha"
+   },
+   {
     "title": "Perde il controllo del parapendio e resta aggrappato alla parete: il salvataggio è spettacolare",
     "link": "https://www.rainews.it/video/2026/08/perde-il-controllo-del-parapendio-e-resta-aggrappato-alla-parete-il-salvataggio-e-spettacolare-b3023360-d47c-4981-a5f0-c8da367e4104.html",
     "image": "https://www.rainews.it/dl/img/2026/08/18/1787068328170_vlcsnaphms.png",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/18/1787064508822_ranframe.jpeg",
     "date": 1787065140000,
     "titleSl": "Zbogom od Varenneja, italijanske legende konjskih dirk"
-   },
-   {
-    "title": "Le balene nuotano nella baia di New York, ma minacciate da navi",
-    "link": "https://www.rainews.it/video/2026/08/balene-nuotano-nella-baia-di-new-york-ma-minacciate-da-navi-0c6a810c-a36a-4cc1-938c-bb19c77113b1.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/18/1787061970542_CMJ.jpg",
-    "date": 1787062740000,
-    "titleSl": "Kiti plavajo v newyorškem zalivu, a jih ogrožajo ladje"
    }
   ],
   "lemonde": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Poder Judicial ve necesario reforzar los juzgados de Ceuta por la crisis migratoria",
+    "link": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/AYM2XZXMJNGRNDMYEUSEHCRYYM.jpg?auth=13b9a304b00ed81ff05ce2a670cb3ef0e1602f2f51c1f3a6813749745826c976",
+    "date": 1787069583000,
+    "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Sodstvo meni, da je treba zaradi migracijske krize okrepiti sodišča v Ceuti"
+   },
+   {
     "title": "Muere un bombero de la Diputación de Zaragoza durante la extinción de un incendio urbano",
     "link": "https://elpais.com/espana/2026-08-18/muere-un-bombero-de-la-diputacion-de-zaragoza-durante-la-extincion-de-un-incendio.html",
     "image": "https://imagenes.elpais.com/resizer/v2/XNMXNW26TJJ6LFWMUYL5NJGLEY.jpg?auth=2a16d5538259d894998c7d9cd0c95321ee01c9fee3e55a22766a3cd61c0c7da8",
@@ -607,13 +614,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
     "date": 1787068772000,
     "titleSl": "Granado stresel nov potres z magnitudo 4,8 in trije ljudje lažje poškodovani"
-   },
-   {
-    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Poder Judicial ve necesario reforzar los juzgados de Ceuta por la crisis migratoria",
-    "link": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/AYM2XZXMJNGRNDMYEUSEHCRYYM.jpg?auth=13b9a304b00ed81ff05ce2a670cb3ef0e1602f2f51c1f3a6813749745826c976",
-    "date": 1787068640000,
-    "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Sodstvo meni, da je treba zaradi migracijske krize okrepiti sodišča v Ceuti"
    },
    {
     "title": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
