@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18T16:28:23.481Z",
+ "generatedAt": "2026-08-18T16:30:49.109Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,18 @@
   ],
   "rtvslo": [
    {
+    "title": "Razpis za nacionalno platformo umetne inteligence ustavljen",
+    "link": "https://www.rtvslo.si/znanost-in-tehnologija/razpis-za-nacionalno-platformo-umetne-inteligence-ustavljen/791225",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/05/18/67044175.jpg",
+    "date": 1787070586000
+   },
+   {
+    "title": "Čeh bo skušal ob koncu sezone še nadgraditi dosežek z EP-ja",
+    "link": "https://www.rtvslo.si/sport/atletika/ceh-bo-skusal-ob-koncu-sezone-se-nadgraditi-dosezek-z-ep-ja/791224",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/18/67072533.jpg",
+    "date": 1787070561000
+   },
+   {
     "title": "Sova pri preverjanju Krivolucke leta 2016 ni ugotovila posebnosti",
     "link": "https://www.rtvslo.si/slovenija/sova-pri-preverjanju-krivolucke-leta-2016-ni-ugotovila-posebnosti/791223",
     "image": "https://img.rtvcdn.si/_up/upload/2026/04/11/67034641.jpg",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/citat/vedrana-rudan/791217",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/18/67072459.jpg",
     "date": 1787064508000
-   },
-   {
-    "title": "Ministrstvo zahteva nadzor nad razpisom Spirita, \"po potrebi\" zunanjo revizijo",
-    "link": "https://www.rtvslo.si/gospodarstvo/ministrstvo-zahteva-nadzor-nad-razpisom-spirita-po-potrebi-zunanjo-revizijo/791214",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/18/67072439.jpg",
-    "date": 1787063755000
-   },
-   {
-    "title": "V spomin Mileni Zupančič: Vdovstvo Karoline Žašler in Cvetje v jeseni na TV Slovenija",
-    "link": "https://www.rtvslo.si/kultura/film-in-tv/v-spomin-mileni-zupancic-vdovstvo-karoline-zasler-in-cvetje-v-jeseni-na-tv-slovenija/791213",
-    "image": "https://img.rtvcdn.si/_up/upload/2012/05/27/64883027_cvetje.jpg",
-    "date": 1787063655000
    }
   ],
   "zurnal": [
@@ -246,14 +246,14 @@
     "title": "Snooker player Graeme Dott goes on trial over child abuse allegations",
     "link": "https://www.bbc.co.uk/news/articles/cn0njnw6rdgo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183c/live/fd3c6b10-9b20-11f1-aed2-8d6da8d75094.jpg",
-    "date": 1787070317000,
+    "date": 1787070506000,
     "titleSl": "Igralec snookerja Graeme Dott gre na sojenje zaradi obtožb o zlorabi otrok"
    },
    {
     "title": "Former world champion Dott goes on trial over child abuse allegations",
     "link": "https://www.bbc.co.uk/news/articles/cn0njnw6rdgo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183c/live/fd3c6b10-9b20-11f1-aed2-8d6da8d75094.jpg",
-    "date": 1787070317000,
+    "date": 1787070506000,
     "titleSl": "Nekdanji svetovni prvak Dott gre na sojenje zaradi obtožb o zlorabi otrok"
    },
    {
@@ -286,13 +286,6 @@
    }
   ],
   "aljazeera": [
-   {
-    "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
-    "link": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-08T170605Z_1621705187_UP1EM881BI4GA_RTRMADP_3_SOCCER-FRIENDLY-FTC-RMA-1787066911.jpg?resize=1920%2C1440",
-    "date": 1787069389000,
-    "titleSl": "Real Madrid je uradno predstavil Mourinha na bizarni slovesnosti za zaprtimi vrati"
-   },
    {
     "title": "Spain builds tent cities for the thousands stuck in Ceuta",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26099331080421-1775748817.jpg?resize=1920%2C1440",
     "date": 1787065464000,
     "titleSl": "ZDA na volilnih izkaznicah navajajo Indijo, toda ali so volitve pod Modijem čiste?"
+   },
+   {
+    "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+    "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-16T090756Z_255723625_RC2KZMAQZ2YI_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW-1787064162.jpg?resize=1920%2C1440",
+    "date": 1787064596000,
+    "titleSl": "Zakaj Rusija grozi Združenemu kraljestvu s \"posledicami\" zaradi ukrajinskih dronov?"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Chavez mit dem 1:1 - Traumtor von Bayern-Talent!",
+    "link": "https://www.bild.de/sport/fussball/gute-nachrichten-von-jamal-musiala-nach-seinem-zusammenbruch-6a8479b43f3b2550f6df3baa",
+    "image": "https://images.bild.de/6a8479b43f3b2550f6df3baa/df57f5448e927d49051c77c3bf38df32,1cb6b69d?w=1280",
+    "date": 0,
+    "titleSl": "Chavez s sanjskim golom Bayernovega talenta za 1-1!"
+   },
+   {
     "title": "Jetzt spricht Panettieres Ziehmutter - Hollywood hat Hayden zerstört",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/hayden-panettiere-jetzt-spricht-ihre-ziehmutter-hollywood-hat-hayden-zerstoert-6a847131e6cb5d2272651385",
     "image": "https://images.bild.de/6a847131e6cb5d2272651385/8c6963afb19823bb44a6dd1c7b6b7e73,b281ad23?w=1280",
@@ -438,13 +445,6 @@
     "image": "https://images.bild.de/6a8453973f3b2550f6df37bb/544541578a7684444c74e8571136657a,699f58c0?w=1280",
     "date": 0,
     "titleSl": "Presenetljiva televizijska najdba - žena politika Siegmunda AfD v poročnem milu"
-   },
-   {
-    "title": "Heidenheim führt - Früher Schock für die Bayern!",
-    "link": "https://www.bild.de/sport/fussball/gute-nachrichten-von-jamal-musiala-nach-seinem-zusammenbruch-6a8479b43f3b2550f6df3baa",
-    "image": "https://images.bild.de/6a8479b43f3b2550f6df3baa/df57f5448e927d49051c77c3bf38df32,1cb6b69d?w=1280",
-    "date": 0,
-    "titleSl": "Heidenheim vodi - zgodnji šok za Bayern!"
    },
    {
     "title": "„Duell um mein Leben“ - Nowitschok sollte deutschen Waffenboss töten",
@@ -598,7 +598,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas denuncia que Ceuta se “siente impotente” y asegura que “el Gobierno tiene medios” para expulsar a los migrantes",
     "link": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/AYM2XZXMJNGRNDMYEUSEHCRYYM.jpg?auth=13b9a304b00ed81ff05ce2a670cb3ef0e1602f2f51c1f3a6813749745826c976",
-    "date": 1787070244000,
+    "date": 1787070539000,
     "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Vivas obsoja, da se Ceuta \"počuti nemočno\" in zagotavlja, da ima \"vlada sredstva\" za izgon migrantov"
    },
    {
