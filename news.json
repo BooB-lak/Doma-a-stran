@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18T18:00:57.738Z",
+ "generatedAt": "2026-08-18T18:02:29.420Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
+    "link": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
+    "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17cul-panettiere-memoir-klpt/17cul-panettiere-memoir-klpt-mediumSquareAt3X.jpg",
+    "date": 1787076044000,
+    "titleSl": "Hayden Panettiere je odraščala pred kamero. To je terjalo davek."
+   },
+   {
     "title": "The Little-Known Link Between Dementia and Epilepsy",
     "link": "https://www.nytimes.com/2026/08/18/well/mind/dementia-epilepsy-risk.html",
     "image": "https://static01.nyt.com/images/2026/08/14/multimedia/00well-epilepsy-dementia-09-vctw/00well-epilepsy-dementia-09-vctw-mediumSquareAt3X.jpg",
@@ -232,16 +239,16 @@
     "image": "https://static01.nyt.com/images/2026/08/05/multimedia/WELL-MATCHMAKING1-hqmt/WELL-MATCHMAKING1-hqmt-mediumSquareAt3X.jpg",
     "date": 1787074388000,
     "titleSl": "Štirideset prvih zmenkov in še vedno iskanje"
-   },
-   {
-    "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
-    "link": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
-    "image": "https://static01.nyt.com/images/2026/07/01/multimedia/00nat-texas-tech-cqgj/00nat-texas-tech-cqgj-mediumSquareAt3X.jpg",
-    "date": 1787073432000,
-    "titleSl": "Texas Tech University uporablja A.I. za zmanjšanje levo usmerjene vsebine"
    }
   ],
   "bbc": [
+   {
+    "title": "US mother begged for help before her children's killings, mother-in-law testifies",
+    "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
+    "date": 1787075686000,
+    "titleSl": "Ameriška mati je prosila za pomoč pred umori svojih otrok, priča tašča"
+   },
    {
     "title": "Earthquake rocks Spain's historic Granada, injuring three",
     "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183c/live/fd3c6b10-9b20-11f1-aed2-8d6da8d75094.jpg",
     "date": 1787070506000,
     "titleSl": "Nekdanji svetovni prvak Dott gre na sojenje zaradi obtožb o zlorabi otrok"
-   },
-   {
-    "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4852/live/d2590070-9b16-11f1-b8e1-e7ef86eff0e6.jpg",
-    "date": 1787069917000,
-    "titleSl": "Vodja Premier lige pravi, da se je Fifa samouničila zaradi načrta za svetovno prvenstvo"
    }
   ],
   "aljazeera": [
@@ -421,9 +421,16 @@
    {
     "title": "Sorgen um Bayern-Superstar - Musiala bricht schon wieder zusammen!",
     "link": "https://www.bild.de/sport/fussball/jamal-musiala-bricht-schon-wieder-zusammen-6a8496fe3f3b2550f6df3d71",
-    "image": "https://images.bild.de/6a8496fe3f3b2550f6df3d71/2cbf379484b786f6cdfb4f2fd84e6b97-landscape,31d5d4b1?w=1280",
+    "image": "https://images.bild.de/6a8496fe3f3b2550f6df3d71/2cbf379484b786f6cdfb4f2fd84e6b97-landscape,f7450a4c?w=1280",
     "date": 0,
     "titleSl": "Skrbi za superzvezdnika Bayerna - Musiala spet kolabira!"
+   },
+   {
+    "title": "Großeinsatz nach Waffen-Alarm - Polizei schießt Mann in München nieder",
+    "link": "https://www.bild.de/regional/muenchen/muenchen-polizei-schiesst-mann-nieder-grosseinsatz-in-schwabing-6a8483b2d537b08639dcc3f2",
+    "image": "https://images.bild.de/6a8483b2d537b08639dcc3f2/a041cb16023845faf1c2cbf8c6d163f1,29e597ca?w=1280",
+    "date": 0,
+    "titleSl": "Velika operacija po alarmu za orožje – policija je ustrelila moškega v Münchnu"
    },
    {
     "title": "Zehn Jahre alte Bestmarke - HSV jagt den Pink-Rekord",
@@ -452,57 +459,50 @@
     "image": "https://images.bild.de/6a841dfdd54f65372fb0cafc/f5a573c3606f929e1e63b7fcffe25654,700d037d?w=1280",
     "date": 0,
     "titleSl": "Na ledenikih - zadnje evropsko smučišče zaprto zaradi vročine"
-   },
-   {
-    "title": "„Was ist das? Versteckte Kamera?\" - So lief Bittencourts erstes Profi-Training",
-    "link": "https://www.bild.de/sport/fussball/was-ist-das-versteckte-kamera-so-lief-bittencourts-erstes-profi-training-6a849409e6cb5d2272651570",
-    "image": "https://images.bild.de/6a849409e6cb5d2272651570/61846dc529fb05eb1ecaf00ac57323fc-landscape,bd89b445?w=1280",
-    "date": 0,
-    "titleSl": "\"Kaj je to? Skrita kamera?\" - Tako je potekalo Bittencourtovo prvo profesionalno usposabljanje"
    }
   ],
   "krone": [
+   {
+    "title": "Rückkehr nach Augen-OP - Philipp Jelinek: „Ja, natürlich hatte ich Angst“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93bXp1ODg2cHlHVTFZbFhMSVVkdHlXMzNhSlMyQWJqQlF6OFhNVU5lT1RJMnlldW82S0R5enlfWWVhdw?oc=5",
+    "image": "",
+    "date": 1787076000000,
+    "titleSl": "Vrnitev po operaciji oči - Philipp Jelinek: “Ja, seveda me je bilo strah”"
+   },
+   {
+    "title": "„Blackout“: Freund mit Messer in Hals gestochen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WSTgtVng1Y2pWQXRTYlZQOXVsN2FuWnFpY2VDNXhmZzJjR0ZGcDZNRjM3bW5CcDlhM194aW9PTzFPQQ?oc=5",
+    "image": "",
+    "date": 1787076000000,
+    "titleSl": "“Blackout”: Prijatelj zaboden v vrat z nožem"
+   },
+   {
+    "title": "Unfall in Kitzbühel - Passantin (29) von Pkw erfasst und schwer verletzt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jdzQ1dkJGWWZ3VmlIdzZLS0lsZElEbGhGczdSRHdDaGZOY0hFQmFicE1WMGV3SE9hUnR1STJDdVNuQQ?oc=5",
+    "image": "",
+    "date": 1787076000000,
+    "titleSl": "Nesreča v Kitzbühelu - Mimoidočega (29) zbil avto in huje poškodovan"
+   },
+   {
+    "title": "Unwetter in Eferding - Tornado riss in Oberösterreich Hausdächer weg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TZUd1RUtEdzQxQk00blpoR0IwaHN4cnU2UWdnSVhVY1FxVGJMT21XMUx4a1dkbDBzckp1UTRUOHNIdw?oc=5",
+    "image": "",
+    "date": 1787076000000,
+    "titleSl": "Neurje v Eferdingu - Tornado je odkrival strehe s hiš v Gornji Avstriji"
+   },
+   {
+    "title": "Bilanz erstes Halbjahr - Koralmbahn statt Pkw: Immer mehr fahren mit Zug",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LSm04bUp0WncydXpCVWg3RldrREx5LTFPRzJXa3p1LWsxalZPMVRiUFdaTDhjM1ZTMGZmQlUtZU5rUQ?oc=5",
+    "image": "",
+    "date": 1787076000000,
+    "titleSl": "Bilanca za prvo polletje - Koralmbahn namesto avtomobilov: Vse več ljudi se vozi z vlaki"
+   },
    {
     "title": "Innerhalb weniger Tage - Erneut zusammengebrochen: Große Sorgen um Musiala!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtYjRieDV1QWZsTlFYTUVrb3BEX1NBMGR1bjlIbnRGWWsyZkFNYmZWXzd1eW9DWDBvb2VsUWlYelRuUQ?oc=5",
     "image": "",
     "date": 1787075580000,
     "titleSl": "V nekaj dneh - Spet kolaps: Velike skrbi za Musialo!"
-   },
-   {
-    "title": "Die ersten Details - Jetzt ist es fix! Barca holt Spanien-Kapitän Rodri",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5faDFOQWs4VUdBWFVQMjlOVWtaYXNXdFBfMkctdDBuT2pDMUo5LWktQmhvejhEbEh5MlM0bzB4ZTZWdw?oc=5",
-    "image": "",
-    "date": 1787074860000,
-    "titleSl": "Prve podrobnosti - Zdaj je popravljeno! Barca pripelje španskega kapetana Rodrija"
-   },
-   {
-    "title": "Sportclub-Traumstart - Mit Routinier auf neuer Position zum Spitzenreiter",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84ajlxbmhCQ0d6Vmh0c3VnNnJPTzBUbGdlTC1OUWZkUlZBRTYzZXg4X0JXOUZQV3puMlcxWEQxU0Rzdw?oc=5",
-    "image": "",
-    "date": 1787074561000,
-    "titleSl": "Sanjski začetek športnega kluba - Z veteranom na novem položaju do prvega zasledovalca"
-   },
-   {
-    "title": "Kurz nach Hochzeit - 45 Grad! So weckt Superstar Ronaldo seine Georgina",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FYlp0SGwzNTduRXhpVHB5dmxhNk5ISlVGUE9pVWlnMGRibHBxc0N2a3k5WTg5RmtmQjlvMldnM1FaZw?oc=5",
-    "image": "",
-    "date": 1787073720000,
-    "titleSl": "Kmalu po poroki - 45 stopinj! Tako superzvezdnik Ronaldo prebuja svojo Georgino"
-   },
-   {
-    "title": "Zweifelt an Zentren - Asylkoordinator zu Karner-Plänen: „Schnellschuss“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xVnNvZFI0NUo1M3VUSkhrb0MxeGtmdlI0YmNNN2ZSblN1akhBelVERVN3bk5ZcUlJQ2t1d3BzZ1BhZw?oc=5",
-    "image": "",
-    "date": 1787072860000,
-    "titleSl": "Dvomi o centrih - Azilni koordinator o Karnerjevih načrtih: \"Hitri strel\""
-   },
-   {
-    "title": "Pinker Aktionismus? - Verriss für Meinl-Reisingers „Reformdividende“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XbTI5S3d1MjVkR1dIYzBYWWVmeFQ1Mkc5cVhMbUdlTFVJTXAtWXBZOG9ZT0tlSldHX2RXYU5ScnltUQ?oc=5",
-    "image": "",
-    "date": 1787072820000,
-    "titleSl": "Rožnati aktivizem? - Pohvala Meinl-Reisingerjevi »reformski dividendi«"
    }
   ],
   "rainews": [
