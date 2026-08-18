@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18T14:02:24.899Z",
+ "generatedAt": "2026-08-18T14:04:25.182Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,18 @@
   ],
   "24ur": [
    {
+    "title": "V delu Slovenije preklic velike požarne ogroženosti",
+    "link": "https://www.24ur.com/novice/slovenija/v-delu-slovenije-preklic-velike-pozarne-ogrozenosti.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/b6772934f6a8d6da6538_63631472.jpg?v=8256&fop=fp:0.51:0.43",
+    "date": 1787061496000
+   },
+   {
+    "title": "Nepredvidena gradbena dela na Kredarici, observatorij bo dražji",
+    "link": "https://www.24ur.com/novice/slovenija/kredarica-postaja-meteoroska-gradnja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/ec743d6139e2fb25880d_63633628.jpg?v=bc60&fop=fp:0.58:0.19",
+    "date": 1787061353000
+   },
+   {
     "title": "Vaša očala bi vedela, kdo je na zabavi: Meta prijavila patent",
     "link": "https://www.24ur.com/novice/znanost-in-tehnologija/meta-patentirala-prepoznavanje-obrazov-za-pametna-ocala.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/0be0e5aba7360059dc3f_63633410.jpg?v=cb58&fop=fp:0.48:0.26",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/ljubezen-med-kim-in-lewisom-cveti.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/cea7d2b0430d604311cd_63633350.jpg?v=89f6&fop=fp:0.53:0.35",
     "date": 1787057322000
-   },
-   {
-    "title": "Domen Valič pokazal rastoči trebušček svoje izbranke",
-    "link": "https://www.24ur.com/popin/domaca-scena/domen-valic-pokazal-rastoci-trebuscek-svoje-izbranke.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/73624d110db461cb4808_63633430.jpg?v=0624&fop=fp:0.47:0.53",
-    "date": 1787055788000
-   },
-   {
-    "title": "Najstarejši 80, najmlajši 17 let: opečenih imajo od 20 do 60 odstotkov kože",
-    "link": "https://www.24ur.com/novice/tujina/najstarejsi-80-najmlajsi-17-opecenih-imajo-od-20-do-60-odstotkov-koze.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/afffa7a27aae214a8d83_63631961.jpg?v=82ff&fop=fp:0.50:0.53",
-    "date": 1787055071000
    }
   ],
   "rtvslo": [
@@ -123,6 +123,12 @@
     "date": 1787061240000
    },
    {
+    "title": "Krizni sestanek na ministrstvu: To so sklenili",
+    "link": "https://www.zurnal24.si/slovenija/krizni-sestanek-na-ministrstvu-to-so-sklenili-463798",
+    "image": "https://www.zurnal24.si/media/img/30/82/a26ce831dfe53ed8446c.jpeg",
+    "date": 1787060520000
+   },
+   {
     "title": "Drama na Bledu: Sredi neurja obtičali na jezeru, sledilo reševanje",
     "link": "https://www.zurnal24.si/slovenija/drama-na-bledu-sredi-neurja-obticali-na-jezeru-sledilo-resevanje-463797",
     "image": "https://www.zurnal24.si/media/img/fb/29/5e50b51260999a86668a.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/oster-odziv-pirc-musar-na-predlog-mahnica-463792",
     "image": "https://www.zurnal24.si/media/img/47/b8/4e3e5c8c0c37745c1630.jpeg",
     "date": 1787049900000
-   },
-   {
-    "title": "Olimpijski podprvakinji grozi dvoletna prepoved",
-    "link": "https://www.zurnal24.si/sport/olimpijski-podprvakinji-grozi-dvoletna-prepoved-cyrena-samba-mayela-463790",
-    "image": "https://www.zurnal24.si/media/img/ec/c8/356a6e9f92d760ef52ff.jpeg",
-    "date": 1787049000000
    }
   ],
   "reuters": [
@@ -419,11 +419,25 @@
   ],
   "bild": [
    {
+    "title": "Vor Heidenheim-Test - Plötzlich Sorgen um Kimmich?",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-vor-heidenheim-test-ploetzlich-kompany-sorgen-um-kimmich-6a843b359fcb5798aae3a6fa",
+    "image": "https://images.bild.de/6a843b359fcb5798aae3a6fa/ef9e6d3789edf7bb059b349060849cc5,50e20e18?w=1280",
+    "date": 0,
+    "titleSl": "Pred testom Heidenheim - ste nenadoma zaskrbljeni zaradi Kimmicha?"
+   },
+   {
     "title": "„War noch einmal im Austausch“ - DFB-Star spricht über Gespräch mit Nagelsmann",
     "link": "https://www.bild.de/sport/fussball/nationalmannschaft-dfb-star-packt-ueber-nagelsmann-kontakt-aus-6a8377709fcb5798aae39d82",
     "image": "https://images.bild.de/6a8377709fcb5798aae39d82/4b5fb2a12dcc6fc4e3850dcae1b7fc35,7fa19ba8?w=1280",
     "date": 0,
     "titleSl": "\"Spet sva bila v stiku\" - zvezda DFB govori o pogovoru z Nagelsmannom"
+   },
+   {
+    "title": "BILD-Redakteur vom AFD-Wahlkampf - „Gefeiert wie ein Popstar“",
+    "link": "https://www.bild.de/politik/bild-redakteur-vom-afd-wahlkampf-gefeiert-wie-ein-popstar-6a843b7aa87e8142c31d3d83",
+    "image": "https://images.bild.de/6a843b7aa87e8142c31d3d83/a9a7a6e5b962cc2d0201272137c9bfd5,44c435a2?w=1280",
+    "date": 0,
+    "titleSl": "Urednik BILD iz volilne kampanje AFD - \"Slavil kot pop zvezda\""
    },
    {
     "title": "Nach Füllkrug-Sensation - Ducksch scherzt über Werder-Rückkehr",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a81890b169e8e32c0aea0dc/4c3816260550c9aff71434e5da933c81,2f793fbe?w=1280",
     "date": 0,
     "titleSl": "Drži plakat za mamo - to, kar naredi Robbie Williams, se dotakne tisočih"
-   },
-   {
-    "title": "Vor Heidenheim-Test - Plötzlich Sorgen um Kimmich?",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-vor-heidenheim-test-ploetzlich-kompany-sorgen-um-kimmich-6a843b359fcb5798aae3a6fa",
-    "image": "https://images.bild.de/6a843b359fcb5798aae3a6fa/ef9e6d3789edf7bb059b349060849cc5,50e20e18?w=1280",
-    "date": 0,
-    "titleSl": "Pred testom Heidenheim - ste nenadoma zaskrbljeni zaradi Kimmicha?"
-   },
-   {
-    "title": "Neuer Vertrag für Sport-Vorstand - Bis 2029! Wohlgemuth hat beim VfB verlängert!",
-    "link": "https://www.bild.de/sport/fussball/fabian-wohlgemuth-vfb-verlaengert-bis-2029-ohne-ausstiegsklausel-6a844380a87e8142c31d3e20",
-    "image": "https://images.bild.de/6a844380a87e8142c31d3e20/2f30835965f957e63b8bd8efda476af5,5cb72909?w=1280",
-    "date": 0,
-    "titleSl": "Nova pogodba za športnega direktorja - do 2029! Wohlgemuth podaljšal pogodbo z VfB!"
    }
   ],
   "krone": [
@@ -609,6 +609,20 @@
     "titleSl": "Vrhovno sodišče ugotavlja, da sprememba spola v civilnem registru nima retroaktivnih učinkov za razveljavitev obsodbe zaradi seksističnega nasilja"
    },
    {
+    "title": "El Ayuntamiento de Torrelodones paga un 10% menos de lo acordado a una compañía teatral por apoyar a Palestina tras una función",
+    "link": "https://elpais.com/cultura/2026-08-18/el-ayuntamiento-de-torrelodones-paga-un-10-menos-de-lo-acordado-a-una-compania-teatral-por-apoyar-a-palestina-tras-una-funcion.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205585_133942_video_1800.mp4",
+    "date": 1787060618000,
+    "titleSl": "Mestni svet Torrelodones gledališki družbi plača 10 % manj od dogovorjenega za podporo Palestini po predstavi"
+   },
+   {
+    "title": "El diésel sube un 84% en Bolivia para los grandes consumidores",
+    "link": "https://elpais.com/america/2026-08-18/el-diesel-sube-un-84-en-bolivia-para-los-grandes-consumidores.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/254FHZFC5BKWTNZZED7V6B7FZM.jpg?auth=b4d3e96677cb2516b04997326f0d2a5343e5c42e335c8b1ef0b0126675598d8d",
+    "date": 1787059905000,
+    "titleSl": "Cene dizelskega goriva se v Boliviji za velike potrošnike zvišajo za 84 %"
+   },
+   {
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Poder Judicial ve necesario reforzar los juzgados de Ceuta por la crisis migratoria",
     "link": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/AYM2XZXMJNGRNDMYEUSEHCRYYM.jpg?auth=13b9a304b00ed81ff05ce2a670cb3ef0e1602f2f51c1f3a6813749745826c976",
@@ -621,20 +635,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
     "date": 1787059100000,
     "titleSl": "Granado stresel nov potres z magnitudo 4,8 in trije ljudje lažje poškodovani"
-   },
-   {
-    "title": "132 guardias civiles se encargarán de la seguridad de la Vuelta Ciclista a España",
-    "link": "https://elpais.com/deportes/2026-08-18/132-guardias-civiles-se-encargaran-de-la-seguridad-de-la-vuelta-ciclista-a-espana.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/TLSMJPATYBBNTHDCNHNQEPIRG4.jpeg?auth=0257c93d263389e2eac5a0f783798f0c2cee0656ec92ad88c1bc648dbb103bb3",
-    "date": 1787058068000,
-    "titleSl": "Za varnost Vuelta Ciclista a España bo skrbelo 132 civilnih straž"
-   },
-   {
-    "title": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
-    "link": "https://elpais.com/internacional/2026-08-18/trump-declara-el-estrecho-de-ormuz-nuevo-territorio-de-estados-unidos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/5ALUN63X5BOWXHHUU6GTAXVCGU.jpg?auth=ce5b21797250ddcb77917f52c43c7e8a106b02a3d42d344c6b9582f4d8395055",
-    "date": 1787057786000,
-    "titleSl": "Trump razglasil Hormuško ožino za \"novo ozemlje ZDA\""
    }
   ]
  },
