@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18T16:14:22.874Z",
+ "generatedAt": "2026-08-18T16:16:25.012Z",
  "sources": {
   "siol": [
    {
@@ -85,8 +85,8 @@
     "date": 1787069559000
    },
    {
-    "title": "V arhivu v Škofji Loki zaključujejo sanacijo po poplavah. Zalitih je bilo 35 škatel in dva ovoja.",
-    "link": "https://www.rtvslo.si/kultura/dediscina/v-arhivu-v-skofji-loki-zakljucujejo-sanacijo-po-poplavah-zalitih-je-bilo-35-skatel-in-dva-ovoja/791222",
+    "title": "V arhivu v Škofji Loki končujejo sanacijo po poplavah. Zalitih je bilo 35 škatel in dva ovoja.",
+    "link": "https://www.rtvslo.si/kultura/dediscina/v-arhivu-v-skofji-loki-koncujejo-sanacijo-po-poplavah-zalitih-je-bilo-35-skatel-in-dva-ovoja/791222",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/18/67072502.jpg",
     "date": 1787068163000
    },
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
+    "link": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-08T170605Z_1621705187_UP1EM881BI4GA_RTRMADP_3_SOCCER-FRIENDLY-FTC-RMA-1787066911.jpg?resize=1920%2C1440",
+    "date": 1787069389000,
+    "titleSl": "Real Madrid je uradno predstavil Mourinha na bizarni slovesnosti za zaprtimi vrati"
+   },
+   {
     "title": "Spain builds tent cities for the thousands stuck in Ceuta",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-16.13.44-1787068343.png?resize=1200%2C675",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26099331080421-1775748817.jpg?resize=1920%2C1440",
     "date": 1787065464000,
     "titleSl": "ZDA na volilnih izkaznicah navajajo Indijo, toda ali so volitve pod Modijem čiste?"
-   },
-   {
-    "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
-    "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-16T090756Z_255723625_RC2KZMAQZ2YI_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW-1787064162.jpg?resize=1920%2C1440",
-    "date": 1787064596000,
-    "titleSl": "Zakaj Rusija grozi Združenemu kraljestvu s \"posledicami\" zaradi ukrajinskih dronov?"
    }
   ],
   "guardian": [
@@ -419,49 +419,56 @@
   ],
   "bild": [
    {
+    "title": "Modernes Arbeiten - Ohne meine KI gibt’s bei mir keine Fischbrötchen",
+    "link": "https://www.bild.de/news/modernes-arbeiten-hier-macht-die-ki-fast-alles-ausser-fischbroetchen-6a8422699fcb5798aae3a463",
+    "image": "https://images.bild.de/6a8422699fcb5798aae3a463/a927f39bc7db5ea7a569376be69c2ca2-landscape,5d9fd98b?w=1280",
+    "date": 0,
+    "titleSl": "Sodobno delo - Brez moje umetne inteligence zame ni ribjih sendvičev"
+   },
+   {
+    "title": "Määh-ga-Crash im Erzgebirge - Auto kracht in Schafstall",
+    "link": "https://www.bild.de/news/unfall-im-erzgebirge-auto-durchbricht-zaun-und-kracht-in-schafstall-6a82f4b49fcb5798aae39513",
+    "image": "https://images.bild.de/6a82f4b49fcb5798aae39513/e01c339e39a799a9b2632e4406a0e439,4c5c4c23?w=1280",
+    "date": 0,
+    "titleSl": "Määh-ga-crash v Erzgebirge - avto trči v ovčjo stajo"
+   },
+   {
+    "title": "Flüchtlinge kämpfen gegen Langeweile - Wrestling-Duelle am Strand von Ceuta",
+    "link": "https://www.bild.de/politik/fluechtlinge-kaempfen-gegen-langeweile-wrestling-duelle-am-strand-von-ceuta-6a833cdb6ea5074f5dd87f65",
+    "image": "https://images.bild.de/6a833cdb6ea5074f5dd87f65/cf2413f71d888722e763c25a31280942,88fdc454?w=1280",
+    "date": 0,
+    "titleSl": "Begunci se borijo proti dolgčasu - rokoborski dvoboji na plaži v Ceuti"
+   },
+   {
+    "title": "Der Rhein wird zur Goldgrube - Schatzsucher erzählt von seinen größten Funden",
+    "link": "https://www.bild.de/leben-wissen/der-rhein-wird-zur-goldgrube-schatzsucher-erzaehlt-von-seinen-groessten-funden-6a7af6a767ddb2e13c583f18",
+    "image": "https://images.bild.de/6a7af6a767ddb2e13c583f18/3c897de49df6cbbc1e116b3a2d133009,dbb7e90b?w=1280",
+    "date": 0,
+    "titleSl": "Ren postane zlata jama - lovec na zaklade govori o svojih največjih najdbah"
+   },
+   {
+    "title": "BILD liegen neue Asyl-Zahlen vor - Abschiebe-Desaster!",
+    "link": "https://www.bild.de/politik/inland/bild-liegen-neue-asyl-zahlen-vor-abschiebe-desaster-6a843f8fd54f65372fb0cf36",
+    "image": "https://images.bild.de/6a843f8fd54f65372fb0cf36/bbbdb0260fb8dc31a71dbe2bd8abf9c9,da78d4e7?w=1280",
+    "date": 0,
+    "titleSl": "BILD ima nove številke azilantov - deportacija katastrofa!"
+   },
+   {
     "title": "Bundesländer in Deutschland - Erkennen Sie die Lösung direkt?",
     "link": "https://www.bild.de/leben-wissen/bundeslaender-in-deutschland-erkennen-sie-die-loesung-direkt-6a831be2bbfd6aa29d3f8714",
     "image": "https://images.bild.de/6a831be2bbfd6aa29d3f8714/e85ba0d6f753e7e56ddc64f9a4de5b3b,e107a24e?w=1280",
     "date": 0,
     "titleSl": "Zvezne dežele v Nemčiji - Ali neposredno prepoznate rešitev?"
-   },
-   {
-    "title": "Niemand weiß, wie er dort hinkam - Hund paddelt allein mitten im Ozean",
-    "link": "https://www.bild.de/news/ausland/hund-paddelt-allein-mitten-im-ozean-niemand-weiss-wie-er-dort-hinkam-6a82fb3b9fcb5798aae395b8",
-    "image": "https://images.bild.de/6a82fb3b9fcb5798aae395b8/e1260bb7f80942c7eef8d8e0e6c27e32,4a9f3269?w=1280",
-    "date": 0,
-    "titleSl": "Nihče ne ve, kako je prišel tja - pes, ki sam vesla sredi oceana"
-   },
-   {
-    "title": "BILD-Redakteur vom AFD-Wahlkampf - „Sie feiern ihn wie einen Popstar“",
-    "link": "https://www.bild.de/politik/bild-redakteur-vom-afd-wahlkampf-gefeiert-wie-ein-popstar-6a843b7aa87e8142c31d3d83",
-    "image": "https://images.bild.de/6a843b7aa87e8142c31d3d83/a9a7a6e5b962cc2d0201272137c9bfd5,44c435a2?w=1280",
-    "date": 0,
-    "titleSl": "Urednik BILD iz volilne kampanje AFD - \"Slavijo ga kot pop zvezdo\""
-   },
-   {
-    "title": "Heidenheim führt - Früher Schock für die Bayern!",
-    "link": "https://www.bild.de/sport/fussball/gute-nachrichten-von-jamal-musiala-nach-seinem-zusammenbruch-6a8479b43f3b2550f6df3baa",
-    "image": "https://images.bild.de/6a8479b43f3b2550f6df3baa/df57f5448e927d49051c77c3bf38df32,1cb6b69d?w=1280",
-    "date": 0,
-    "titleSl": "Heidenheim vodi - zgodnji šok za Bayern!"
-   },
-   {
-    "title": "Hayden Panettiere wurde nur 36 - Ihr On-Off-Freund war dabei, als sie starb",
-    "link": "https://www.bild.de/unterhaltung/hayden-panettiere-wurde-nur-36-on-off-freund-brian-hickerson-war-dabei-als-sie-starb-6a847fba3f3b2550f6df3c01",
-    "image": "https://images.bild.de/6a847fba3f3b2550f6df3c01/54bb4c642e168ea981786d3895a8f3ba,64599fbe?w=1280",
-    "date": 0,
-    "titleSl": "Hayden Panettiere je imela komaj 36 let – ko je umrla, je bil zraven njen fant, ki je bil vmes"
-   },
-   {
-    "title": "„Duell um mein Leben“ - Nowitschok sollte deutschen Waffenboss töten",
-    "link": "https://www.bild.de/politik/inland/er-liefert-drohnen-an-die-ukraine-nowitschok-sollte-deutschen-waffenboss-toeten-6a84748461327bbf26cfb375",
-    "image": "https://images.bild.de/6a84748461327bbf26cfb375/4bed27106b8af6fc0e58a06bd1ac4b68,16bc0729?w=1280",
-    "date": 0,
-    "titleSl": "\"Dvoboj za moje življenje\" - Novichok naj bi ubil nemškega orožarskega šefa"
    }
   ],
   "krone": [
+   {
+    "title": "„Gefahr im Verzug“: Reisebus von Polizei gestoppt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02U3lpTTZhYmFvWVcyaUlsNjhGb1h1eHU4WktMY0d1ZE5XaktYSHNXNHMxUWhsWVlmZDBOUEcwZnNjZw?oc=5",
+    "image": "",
+    "date": 1787069580000,
+    "titleSl": "»Neposredna nevarnost«: avtobus je ustavila policija"
+   },
    {
     "title": "Gerasdorf bei Wien - Fußgängerin von Lkw erfasst und getötet",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Bei01OUpMRlhmbTFXamRUazVvb2VSNXlRUU9LMmZ0b3ZnYlo0MWNvaVlIdmZFVW54SUVuTlRnNC1TUQ?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1787068800000,
     "titleSl": "Po divjem prepiru – Zakaj odločna babica še ni bila zaslišana"
-   },
-   {
-    "title": "Ab September - Wieso Kärntner Polizisten in Wien „aushelfen“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zN1ludWtBWXM0R19GN3IyWGNFU0VBRHFGcEdhVHpZNVFNbUxqcVZDaEdEd1c2RnhQb1R1Z0dkZVBSZw?oc=5",
-    "image": "",
-    "date": 1787068800000,
-    "titleSl": "Od septembra - Zakaj koroški policisti “pomagajo” na Dunaju"
    }
   ],
   "rainews": [
