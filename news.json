@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-19T07:34:25.387Z",
+ "generatedAt": "2026-08-19T07:36:26.446Z",
  "sources": {
   "siol": [
+   {
+    "title": "Prelaz Vršič v ponedeljek zaradi del popolnoma zaprt",
+    "link": "https://siol.net/novice/slovenija/prelaz-vrsic-v-ponedeljek-zaradi-del-popolnoma-zaprt-699295",
+    "image": "https://siol.net/media/img/0a/34/46fb27a23e036abb8f4a.jpeg",
+    "date": 1787124780000
+   },
    {
     "title": "Peticijo za odstop Zorana Stevanovića je podpisal celo Vladimir Putin",
     "link": "https://siol.net/novice/digisvet/peticijo-za-odstop-zorana-stevanovica-je-podpisal-celo-vladimir-putin-699288",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/avtomoto/novice/novi-hyundai-tucson-povsem-drugacen-pa-tudi-vecji-in-bolj-robusten-foto-699290",
     "image": "https://siol.net/media/img/57/30/1e9ccce5e76b01d08291.jpeg",
     "date": 1787122380000
-   },
-   {
-    "title": "Geely seli proizvodnjo v Evropo: premijske modele bo izdeloval v Volvovih tovarnah",
-    "link": "https://siol.net/avtomoto/novice/geely-seli-proizvodnjo-v-evropo-premijske-modele-bo-izdeloval-v-tovarnah-volva-699289",
-    "image": "https://siol.net/media/img/57/9e/7fa168cc38bf543319f4.jpeg",
-    "date": 1787121720000
    }
   ],
   "24ur": [
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Phänomen »Agentic flooding«: Wie Behörden mit der KI-Anfragenflut umgehen sollten",
+    "link": "https://www.spiegel.de/wirtschaft/phaenomen-agentic-flooding-wie-behoerden-mit-der-ki-anfragenflut-umgehen-sollten-a-5fa0a330-4573-4694-a752-3d37ac2c6ecb#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/78c073f0-239c-488e-b59f-6f410e2cd690_w520_r2.08_fpx65.29_fpy49.97.jpg",
+    "date": 1787124360000,
+    "titleSl": "Pojav »poplave agentov«: Kako naj se oblasti spopadejo s poplavo zahtevkov AI"
+   },
+   {
     "title": "USS Benfold: US-Zerstörer war vier Tage ohne Strom im Pazifik",
     "link": "https://www.spiegel.de/ausland/uss-benfold-us-zerstoerer-war-vier-tage-ohne-strom-im-pazifik-a-559902a5-b554-41c7-80a5-24550ff16039#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/fdd5b877-253d-4511-80ba-e2e7f0937296_w520_r2.08_fpx53.99_fpy54.98.jpg",
@@ -408,16 +415,37 @@
     "image": "https://cdn.prod.www.spiegel.de/images/1c2e037a-b3cc-46dd-ba07-dff4d045f308_w520_r2.08_fpx49.24_fpy49.98.jpg",
     "date": 1787117280000,
     "titleSl": "Avstrija: 27-letnik toži Dunaj zaradi stranišča za ženske"
-   },
-   {
-    "title": "ChatGPT: Ab Montag erwartet Millionen Nutzer Werbung",
-    "link": "https://www.spiegel.de/netzwelt/apps/chatgpt-ab-montag-erwartet-millionen-nutzer-werbung-a-eda06cda-9558-478b-adf7-53eeb41ffd66#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/71e68a35-b876-4ee5-a510-da67ebec98b9_w520_r2.08_fpx33.34_fpy50.jpg",
-    "date": 1787116260000,
-    "titleSl": "ChatGPT: Milijoni uporabnikov lahko od ponedeljka pričakujejo oglaševanje"
    }
   ],
   "bild": [
+   {
+    "title": "„Duell um mein Leben“ - Nowitschok sollte deutschen Waffenboss töten",
+    "link": "https://www.bild.de/politik/inland/er-liefert-drohnen-an-die-ukraine-nowitschok-sollte-deutschen-waffenboss-toeten-6a84748461327bbf26cfb375",
+    "image": "https://images.bild.de/6a84748461327bbf26cfb375/4bed27106b8af6fc0e58a06bd1ac4b68,16bc0729?w=1280",
+    "date": 0,
+    "titleSl": "\"Dvoboj za moje življenje\" - Novičok naj bi ubil nemškega orožarskega šefa"
+   },
+   {
+    "title": "Dürre legt Kriegs-Erbe frei - Donau-Mine fliegt in die Luft",
+    "link": "https://www.bild.de/news/mine-aus-zweitem-weltkrieg-an-der-donau-gesprengt-fund-im-niedrigwasser-6a8448e49fcb5798aae3a86b",
+    "image": "https://images.bild.de/6a8448e49fcb5798aae3a86b/aa0679b5ad33b6385e8a687889e708da,6ea634dd?w=1280",
+    "date": 0,
+    "titleSl": "Suša razgalja dediščino vojne – eksplodira donavski rudnik"
+   },
+   {
+    "title": "Immunität in Bevölkerung hoch - RKI: Jährliche Corona-Impfung nur noch ab 75",
+    "link": "https://www.bild.de/leben-wissen/medizin/corona-impfung-stiko-empfiehlt-sie-kuenftig-erst-ab-75-jahren-6a854ebab6831511cf8317c1",
+    "image": "https://images.bild.de/6a854ebab6831511cf8317c1/d41ef8f0ec40cc1f859620b76d30064f,c6975c?w=1280",
+    "date": 0,
+    "titleSl": "Imunost v populaciji visoka - RKI: Letno cepljenje proti koroni šele od 75. leta"
+   },
+   {
+    "title": "Wüste Beschimpfungen - Rassismus-Vorwürfe gegen Linke-Politikerin",
+    "link": "https://www.bild.de/politik/inland/rassismus-vorwuerfe-gegen-berliner-linke-politikerin-6a855b0d3f3b2550f6df440c",
+    "image": "https://images.bild.de/6a855b0d3f3b2550f6df440c/417aa74eb262fed48a483fcc27f01ff1,4161ae9d?w=1280",
+    "date": 0,
+    "titleSl": "Puščava žaljivk – obtožb o rasizmu proti levim politikom"
+   },
    {
     "title": "„Eberhofer“-Star Sebastian Bezzel - Fünfmal an der Schauspielschule durchgefallen",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/steckerlfischfiasko-star-sebastian-bezzel-ich-war-verkrampft-auf-der-buehne-6a814e64169e8e32c0ae9c6c",
@@ -431,34 +459,6 @@
     "image": "https://images.bild.de/6a854dfbc9a2e30783dab34a/0f53b83fe83c163ceab023447db449da,21f485da?w=1280",
     "date": 0,
     "titleSl": "Zaradi dogovora iz Hormuza - \"klovnovska ekipa\": Mule se norčujejo iz Trumpove vlade"
-   },
-   {
-    "title": "Unions Vizekapitän - Khedira fällt Transfer-Entscheidung",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-entscheidung-um-rani-khedira-von-union-berlin-gefallen-6a840401a87e8142c31d3854",
-    "image": "https://images.bild.de/6a840401a87e8142c31d3854/3f47d9c66c6c52de0e6429bff3fddb49,13381a99?w=1280",
-    "date": 0,
-    "titleSl": "Podkapetan Uniona - Khedira sprejema odločitev o prestopu"
-   },
-   {
-    "title": "Leihe für ein Jahr - Leverkusen-Profi vor Hertha-Wechsel",
-    "link": "https://www.bild.de/sport/fussball/hertha-bsc-leihe-fuer-ein-jahr-leverkusen-profi-vor-hertha-wechsel-6a84436c07b9f9f1de127f62",
-    "image": "https://images.bild.de/6a84436c07b9f9f1de127f62/9a60d53c831c2083e31263fad1cc40e8,454da31d?w=1280",
-    "date": 0,
-    "titleSl": "Posoja za eno leto - Leverkusen profesionalec pred selitvijo Herthe"
-   },
-   {
-    "title": "Vorschau für den 19. August 2026 - So geht es heute bei GZSZ weiter",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-heute-im-tv-droht-johanna-aerger-wegen-jonas-6a7c763ca87e8142c31cdec9",
-    "image": "https://images.bild.de/6a7c763ca87e8142c31cdec9/711c6f1d9f3dfade958ed16caf2f5ec6,cbec994d?w=1280",
-    "date": 0,
-    "titleSl": "Predpremiera za 19. avgust 2026 - Tako se danes dogaja na GZSZ"
-   },
-   {
-    "title": "Kaum noch wettbewerbsfähig - Absturz-Angst bei der deutschen Industrie",
-    "link": "https://www.bild.de/politik/inland/deutsche-industrie-verliert-weltweit-an-boden-angst-vor-absturz-6a8547ba3f3b2550f6df42a4",
-    "image": "https://images.bild.de/6a8547ba3f3b2550f6df42a4/4397d8a5233f8a0d0236d1e8c207e2b1,8ca1904d?w=1280",
-    "date": 0,
-    "titleSl": "Komaj več konkurenčna - nemška industrija se boji zloma"
    }
   ],
   "krone": [
@@ -586,11 +586,11 @@
     "titleSl": "\"Uporaba velikih umetnih rezervoarjev kaže na pomanjkanje razumevanja vodnih ciklov in vzrokov za njihovo degradacijo\""
    },
    {
-    "title": "Les Etats-Unis suspendent les surtaxes douanières de 50 % vis-à-vis du Canada après la conclusion d’un accord",
-    "link": "https://www.lemonde.fr/international/article/2026/08/19/les-etats-unis-suspendent-les-surtaxes-douanieres-de-50-envers-le-canada-apres-la-conclusion-d-un-accord_6749460_3210.html",
-    "image": "https://img.lemde.fr/2026/08/18/482/0/8064/4032/644/322/60/0/c4989a5_ftp-1-vrnxdjvmiz2o-5869332-01-06.jpg",
-    "date": 1787111577000,
-    "titleSl": "Združene države po sklenitvi dogovora začasno ukinjajo 50-odstotne carinske dajatve za Kanado"
+    "title": "Quand le locataire expose sa nudité dans les parties communes",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/19/quand-le-locataire-expose-sa-nudite-dans-les-parties-communes_6749463_3234.html",
+    "image": "https://img.lemde.fr/2023/04/18/265/0/3000/1500/644/322/60/0/402e09c_1681830091356-hjyjrt.jpg",
+    "date": 1787112015000,
+    "titleSl": "Ko najemnik izpostavlja svojo goloto v skupnih prostorih"
    }
   ],
   "elpais": [
