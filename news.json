@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T12:22:25.362Z",
+ "generatedAt": "2026-08-19T12:24:24.331Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "With Limited Options, Trump Tries Economic Pressure on Iran — Again",
+    "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+    "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-iran-assess-01-fhqj/19int-iran-assess-01-fhqj-mediumSquareAt3X.jpg",
+    "date": 1787142090000,
+    "titleSl": "Z omejenimi možnostmi Trump poskuša z gospodarskim pritiskom na Iran – znova"
+   },
+   {
     "title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
     "link": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
     "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-canada-tariffs-deadline-lkpf/19int-canada-tariffs-deadline-lkpf-mediumSquareAt3X-v2.jpg",
@@ -232,16 +239,16 @@
     "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19thehealdines-tech-vcjb/19thehealdines-tech-vcjb-mediumSquareAt3X.jpg",
     "date": 1787133613000,
     "titleSl": "Kako tehnični direktorji omejujejo čas svojih otrok pred zaslonom in Trumpova tekma, da dokonča svojo dvorano"
-   },
-   {
-    "title": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
-    "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18dc-ballroom01-photo-tzcw/18dc-ballroom01-photo-tzcw-mediumSquareAt3X.jpg",
-    "date": 1787133470000,
-    "titleSl": "Trumpova plesna dvorana raste z vrtoglavo hitrostjo: 20 ur na dan, 7 dni v tednu"
    }
   ],
   "bbc": [
+   {
+    "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "date": 1787141929000,
+    "titleSl": "Izraelska vojska odredi kazensko preiskavo umora palestinske deklice Hind Rajab v Gazi"
+   },
    {
     "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
     "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce9f/live/c9fcf6d0-9bc4-11f1-aed2-8d6da8d75094.jpg",
     "date": 1787139040000,
     "titleSl": "Krščanska metal skupina Demon Hunter toži Netflix zaradi KPop Demon Hunters"
-   },
-   {
-    "title": "Inflation is heating up but don't expect another crisis",
-    "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd2/live/d1695290-9bc1-11f1-ae8a-8d57110c5ba6.png",
-    "date": 1787138859000,
-    "titleSl": "Inflacija se segreva, vendar ne pričakujte nove krize"
    }
   ],
   "aljazeera": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Transfers & Analysen - So verändert die KI Schalke",
+    "link": "https://www.bild.de/sport/fussball/bild-kennt-die-neuen-technologien-schalke-ki-sucht-selbst-spieler-6a859189e532e82cc4f2a66c",
+    "image": "https://images.bild.de/6a859189e532e82cc4f2a66c/597ba2ecd28e3ba90625e0096a660129,b2c011f7?w=1280",
+    "date": 0,
+    "titleSl": "Prestopi in analize - Tako umetna inteligenca spreminja Schalke"
+   },
+   {
+    "title": "Wer startet neben Tietz? - So läuft das heiße Stürmer-Duell in Mainz",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-heisses-stuermer-duell-in-mainz-6a858bd8c9a2e30783dab945",
+    "image": "https://images.bild.de/6a858bd8c9a2e30783dab945/adad8c5cb2cfcf21506d645403bc8ce4,3dbb2615?w=1280",
+    "date": 0,
+    "titleSl": "Kdo začne poleg Tietza? - Tako poteka vroč strelski dvoboj v Mainzu"
+   },
+   {
     "title": "Wie in einem Actionfilm - Ukraine-Offizier rettet Soldaten aus Todeszone",
     "link": "https://www.bild.de/news/ausland/wie-in-einem-actionfilm-ukraine-offizier-rettet-soldaten-aus-todeszone-6a84388ba87e8142c31d3d4e",
     "image": "https://images.bild.de/6a84388ba87e8142c31d3d4e/f6b5acdd61c00df5f0ea5ce1db3d80c6,e8bf4546?w=1280",
@@ -440,25 +454,11 @@
     "titleSl": "Situacijski center BILD - To zmore ukrajinski dron kamikaze FP-1"
    },
    {
-    "title": "„Ich werde das hinbekommen!“ - Ende-Klartext an alle Zweifler und Kritiker",
-    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-alexander-ende-mit-klartext-an-seine-kritiker-6a83ec98a87e8142c31d36db",
-    "image": "https://images.bild.de/6a83ec98a87e8142c31d36db/d855308b9f0a944568caadac51ee321d,a883f3c7?w=1280",
+    "title": "Albtraum für Frau in den USA - Maskenmann verfolgt Joggerin",
+    "link": "https://www.bild.de/news/ausland/albtraum-fuer-frau-in-den-usa-maskenmann-verfolgt-joggerin-6a858e0be532e82cc4f2a61b",
+    "image": "https://images.bild.de/6a858e0be532e82cc4f2a61b/d53a8af721ed90aaa471fb4dd9ef3cc5,bb11ab93?w=1280",
     "date": 0,
-    "titleSl": "\"To bom opravil!\" - Konec golega besedila vsem dvomljivcem in kritikom"
-   },
-   {
-    "title": "Transfers & Analysen - So verändert die KI Schalke",
-    "link": "https://www.bild.de/sport/fussball/bild-kennt-die-neuen-technologien-schalke-ki-sucht-selbst-spieler-6a859189e532e82cc4f2a66c",
-    "image": "https://images.bild.de/6a859189e532e82cc4f2a66c/597ba2ecd28e3ba90625e0096a660129,b2c011f7?w=1280",
-    "date": 0,
-    "titleSl": "Prestopi in analize - Tako umetna inteligenca spreminja Schalke"
-   },
-   {
-    "title": "Sein böses Spiel ist aus - RTL-Promis enttarnen ersten „Verräter“",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/sein-boeses-spiel-ist-aus-rtl-promis-enttarnen-ersten-verraeter-6a8587f6c9a2e30783dab8c8",
-    "image": "https://images.bild.de/6a8587f6c9a2e30783dab8c8/97212a691c120c96aa9321aee55006e3,c0c48273?w=1280",
-    "date": 0,
-    "titleSl": "Njegove zlobne igre je konec - RTL zvezdniki razkrinkajo prvega \"izdajalca\""
+    "titleSl": "Nočna mora za žensko v ZDA - zamaskiran moški zasleduje tekačico"
    }
   ],
   "krone": [
@@ -597,7 +597,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Ceuta acepta el plan del Gobierno de trasladar 500 niñas migrantes a la Península como “medida extraordinaria”",
     "link": "https://elpais.com/espana/2026-08-19/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/7JAHNLKNKREBJL4U35BRPCVXIE.JPG?auth=e9802c2d6828f590e6a1f2003865678fb71de9edb5873105a1cd201e6786954d",
-    "date": 1787141880000,
+    "date": 1787141101000,
     "titleSl": "Zadnja minuta vstopa priseljencev v Ceuto, v živo | Ceuta sprejema načrt vlade za premestitev 500 deklet migrantk na polotok kot \"izreden ukrep\""
    },
    {
