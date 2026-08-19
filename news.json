@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T12:04:23.559Z",
+ "generatedAt": "2026-08-19T12:06:23.638Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Kyrgios suspendiran: Naredil sem velikansko napako",
+    "link": "https://www.zurnal24.si/sport/kyrgios-suspendiran-naredil-sem-velikansko-napako-463848",
+    "image": "https://www.zurnal24.si/media/img/c2/8c/615bb483ae9041ee00b4.jpeg",
+    "date": 1787141040000
+   },
+   {
     "title": "V Piranskem zalivu dve novi podvodni strukturi",
     "link": "https://www.zurnal24.si/trajnostno/v-piranskem-zalivu-dve-novi-podvodni-strukturi-463849",
     "image": "https://www.zurnal24.si/media/img/fa/90/4b00ab1547997f8a1007.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/v-puli-aretirali-potapljaca-sumijo-ga-da-je-sabotiral-plinovod-severni-tok-463845",
     "image": "https://www.zurnal24.si/media/img/42/0c/76709cdd2b2c5d737e8d.jpeg",
     "date": 1787136240000
-   },
-   {
-    "title": "Na Vuelti kar sedem Slovencev, med njimi tudi veliki up",
-    "link": "https://www.zurnal24.si/sport/kolesarstvo/na-vuelti-kar-sedem-slovencev-med-njimi-tudi-veliki-up-463836",
-    "image": "https://www.zurnal24.si/media/img/03/c8/43b6fcdbb6ce6abb45e5.jpeg",
-    "date": 1787132280000
    }
   ],
   "reuters": [
@@ -243,11 +243,18 @@
   ],
   "bbc": [
    {
-    "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+    "title": "PM unveils plan to get rough sleepers off streets for Christmas",
     "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg",
     "date": 1787139933000,
-    "titleSl": "Burnham razkriva načrt, kako za božič umakniti zaspane z ulic"
+    "titleSl": "Premier razkrije načrt, kako za božič umakniti zaspane z ulic"
+   },
+   {
+    "title": "BBC to show 38 live matches from Serie A",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr7kyz1gykzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68be/live/967d3f20-9bc1-11f1-b109-879e35c24276.png",
+    "date": 1787139635000,
+    "titleSl": "BBC bo prikazal 38 tekem v živo iz Serie A"
    },
    {
     "title": "Spared execution eight times, oldest inmate in US dies at 101",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
     "date": 1787137221000,
     "titleSl": "Odstavljeni ukrajinski obrambni minister razpisal predsedniške volitve"
-   },
-   {
-    "title": "Apparent human remains found in US reservoir as water levels hit record low",
-    "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/3828ee10-9bad-11f1-92e6-b1dfcecd4308.png",
-    "date": 1787134209000,
-    "titleSl": "Navidezni človeški ostanki so bili najdeni v ameriškem rezervoarju, ko je nivo vode rekordno nizek"
    }
   ],
   "aljazeera": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "„Kriegstreiber“ - Handball-Präsident bepöbelt Bundesregierung",
+    "link": "https://www.bild.de/sport/mehr-sport/kriegstreiber-handball-praesident-bepoebelt-bundesregierung-6a858a31b6831511cf831dc6",
+    "image": "https://images.bild.de/6a858a31b6831511cf831dc6/b6ec5f49b65d87af2cd1ae01efae8c04-landscape,e88e4666?w=1280",
+    "date": 0,
+    "titleSl": "“War monger” - rokometni predsednik žali zvezno vlado"
+   },
+   {
     "title": "Eingetütet von Kretzsche - Handball-Helden starten eigenen Podcast",
     "link": "https://www.bild.de/sport/mehr-sport/eingetuetet-von-kretzsche-handball-helden-starten-eigenen-podcast-6a8544a487c3cd8a629641c9",
     "image": "https://images.bild.de/6a8544a487c3cd8a629641c9/3410c72249450dedf2ed67ac089bd65a,5a56b0cb?w=1280",
@@ -452,16 +459,16 @@
     "image": "https://images.bild.de/69aff0fa234864f234f037c6/3782be3f53f389f56ea369d62adfe0c2,af7f19d6?w=1280",
     "date": 0,
     "titleSl": "Še 50 milijonov v jackpotu - povečajte svoje dobitke na loteriji s sistemom super številk"
-   },
-   {
-    "title": "Neuer Ärger auf Mallorca - Europcar verlangte plötzlich 2 Kreditkarten für Mietauto",
-    "link": "https://www.bild.de/leben-wissen/sparfochs/neuer-aerger-auf-mallorca-europcar-verlangte-ploetzlich-2-kreditkarten-fuer-mietauto-6a7c3332169e8e32c0ae51b5",
-    "image": "https://images.bild.de/6a7c3332169e8e32c0ae51b5/dd40f3e62328ce518e41477bea2080b0,d662fc05?w=1280",
-    "date": 0,
-    "titleSl": "Nova težava na Mallorci - Europcar je nenadoma zahteval 2 kreditni kartici za najem vozil"
    }
   ],
   "krone": [
+   {
+    "title": "Nach Zusammenbrüchen - Droht Musiala Karriereende? Klartext vom FC Bayern",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBzaG1RMk8yTWtsN29vZGxPVW5PSl9Qd0xJdzRYZGlYdXA4WFI3Z1c4Z18tZkZwal83YmctUkcxZ3NRQQ?oc=5",
+    "image": "",
+    "date": 1787140920000,
+    "titleSl": "Po kolapsih - Musiali grozi konec kariere? Golo besedilo FC Bayern"
+   },
    {
     "title": "Rettung gefordert - Tirol: Trio liefert sich wilde Schlägerei in Lokal",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9wOXFtQ2ZMV1BHOHJEVkZkdEJ4dlc4aERCNkJfbUwtQzRPell6QXp0ai16MnZ2WmNxTGZURmhmNkhxQQ?oc=5",
@@ -496,16 +503,16 @@
     "image": "",
     "date": 1787139600000,
     "titleSl": "Soglasje izdano – zelena luč za plinovod za zemeljski plin v Mühlviertelu"
-   },
-   {
-    "title": "Wurde falsch aufgemalt - Vor Justizgebäude: Rad-Parkplatz wird korrigiert",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UdDBSYS04a0ZtTEttV3ZRV25PUTNvSUt5RG1nVmtHYjdGdlJWLTRXems2MHhKd0lpcEFlb0VCeWRCdw?oc=5",
-    "image": "",
-    "date": 1787139600000,
-    "titleSl": "Napačno pobarvan - Pred pravosodjem: popravljajo parkirišče za kolesa"
    }
   ],
   "rainews": [
+   {
+    "title": "Siria, l&#x27;AIEA trova tonnellate di materiale nucleare dell&#x27;era Assad",
+    "link": "https://www.rainews.it/articoli/2026/08/siria-laiea-trova-tonnellate-di-materiale-nucleare-dellera-assad-5bd63bcc-a0d8-4b4a-bac7-7a0f32274008.html",
+    "image": "https://www.rainews.it/dl/img/2024/12/01/1733064170941_Assad__dicembre.jpg",
+    "date": 1787141100000,
+    "titleSl": "Sirija, IAEA najde na tone jedrskega materiala iz Asadove dobe"
+   },
    {
     "title": "Russia e Ucraina hanno scambiato 103 prigionieri per parte - Video",
     "link": "https://www.rainews.it/video/2026/08/russia-e-ucraina-hanno-scambiato-103-prigionieri-per-parte-ea3df934-5536-450c-8c59-cfeac9b3396c.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/19/1787138441262_videoframe.png",
     "date": 1787139120000,
     "titleSl": "Priznal je, da je do smrti zabodel svojega partnerja in bil aretiran v Colleferru"
-   },
-   {
-    "title": "Soffocata con una fetta di bacon, muore a 28 anni dopo sei giorni di agonia",
-    "link": "https://www.rainews.it/articoli/2026/08/muore-a-28-anni-dopo-sei-giorni-da-agonia-soffocata-con-una-fetta-di-bacon-4d387cfb-558e-4464-aa4b-05a9ad4aa84f.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/19/1787138323577_aads.PNG",
-    "date": 1787138460000,
-    "titleSl": "Zadavljena z rezino slanine je umrla pri 28 letih po šestih dneh agonije"
    }
   ],
   "lemonde": [
