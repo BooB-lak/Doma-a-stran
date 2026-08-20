@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20T17:54:26.724Z",
+ "generatedAt": "2026-08-20T17:56:27.805Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Alcaraz se po dolgotrajni poškodbi vrača na OP ZDA",
+    "link": "https://www.24ur.com/sport/ostalo/na-op-zda-vrnitev-alcaraza.html",
+    "image": "https://images.24ur.com/media/images/213xX/Apr2026/5bbb729c914416702659_63577392.jpg?v=8ef3&fop=fp:0.46:0.25",
+    "date": 1787248182000
+   },
+   {
     "title": "Lakersi v Ljubljani, skupaj z Dončićem na večerjo",
     "link": "https://www.24ur.com/novice/slovenija/doncic-v-sloveniji-gosti-los-angeles-lakers.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/f339dc83a95b3265e335_63634886.jpg?v=30bb&fop=fp:0.42:0.35",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/vecji-pozar-se-siri-v-smeri-petrinj-na-kraju-84-gasilcev-in-airtractorji.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/6f36f38b9b6bb5caf9d9_63634839.jpg?v=7980&fop=fp:0.45:0.45",
     "date": 1787241049000
-   },
-   {
-    "title": "Vlada imenovala nove predstavnike ustanovitelja v svetu UKC Ljubljana",
-    "link": "https://www.24ur.com/novice/slovenija/vlada-imenovala-nove-predstavnike-ustanovitelja-v-svetu-ukc-ljubljana.html",
-    "image": "https://images.24ur.com/media/images/213xX/Mar2026/e761ce5f24a6ccef1397_63548628.jpg?v=3080&fop=fp:0.46:0.40",
-    "date": 1787240575000
    }
   ],
   "rtvslo": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Seven defenders on the books - why Arsenal still want Konsa",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b9/live/69de6c30-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
+    "date": 1787248092000,
+    "titleSl": "Sedem branilcev v knjigah - zakaj Arsenal še vedno želi Konsa"
+   },
+   {
     "title": "Academic who accused Jason Arday of plagiarism suspended by university",
     "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f6/live/abbe70e0-9cbe-11f1-a9cd-fd8bcb95d396.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg",
     "date": 1787245594000,
     "titleSl": "Liverpool je zavrnil ponudbo v višini 50 milijonov funtov za Brightonov Minteh"
-   },
-   {
-    "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
-    "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png",
-    "date": 1787245117000,
-    "titleSl": "Se je Vine vrnil? Aplikacija za izmenjavo kratkih videov Divine je odprta za javnost"
    }
   ],
   "aljazeera": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Filialen werden einzeln verkauft - Insolvente Baumarkt-Kette wird zerschlagen",
+    "link": "https://www.bild.de/news/inland/insolvente-baumarkt-kette-wird-zerschlagen-filialen-werden-einzeln-verkauft-6a8700152073297bd594c17d",
+    "image": "https://images.bild.de/6a8700152073297bd594c17d/75378cfa0e4946a559391fb744c0dcad,64200ddb?w=1280",
+    "date": 0,
+    "titleSl": "Podružnice se prodajajo posamično - insolventna veriga trgovin s strojno opremo je razbita"
+   },
+   {
+    "title": "Online-Sadist jetzt in U-Haft - US-Teenie fackelte für Deutschen Autos ab",
+    "link": "https://www.bild.de/news/ausland/sadist-in-u-haft-us-teenie-zuendelt-fuer-deutschen-terrorverdaechtigen-6a870e322073297bd594c326",
+    "image": "https://images.bild.de/6a870e322073297bd594c326/04efca021951e0226dfaa8e7d3840372,fbeb2010?w=1280",
+    "date": 0,
+    "titleSl": "Spletni sadist zdaj v priporu - ameriški najstnik Nemcem zažigal avtomobile"
+   },
+   {
     "title": "Täter auf der Flucht - Geldtransporter in Berlin überfallen",
     "link": "https://www.bild.de/news/taeter-auf-der-flucht-geldtransporter-in-berlin-ueberfallen-6a872bd1260b7d1d2f795ceb",
     "image": "https://images.bild.de/6a872bd1260b7d1d2f795ceb/91c73ea4e38df239a67d65b49822be3e,963e9e13?w=1280",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a8723f2260b7d1d2f795c68/b77d23602cc0d344ca7ba68825903147,80a0db33?w=1280",
     "date": 0,
     "titleSl": "Pretočni nogometaš razpakira - \"Soigralci so bili v bordelu!\""
-   },
-   {
-    "title": "Nach Bomben-Attentat in Monaco - Ukraine-Oligarch spricht von „Auftragsmord“",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/ukrainischer-milliardaer-jermolajew-ueberlebte-bombenattentat-er-spricht-von-auftragsmord-6a86cc04260b7d1d2f7952fb",
-    "image": "https://images.bild.de/6a86cc04260b7d1d2f7952fb/c2a3cd9dc1d18194f5d3fb8dca548efd,8b78ad3a?w=1280",
-    "date": 0,
-    "titleSl": "Po bombnem napadu v Monaku - ukrajinski oligarh govori o \"naročniškem ubijanju\""
-   },
-   {
-    "title": "Nach wochenlangem Poker - Zukunfts-Knall um El Mala offiziell!",
-    "link": "https://www.bild.de/sport/fussball/1-fc-koeln-said-el-mala-trifft-entscheidung-ueber-seine-zukunft-6a873406260b7d1d2f795d42",
-    "image": "https://images.bild.de/6a873406260b7d1d2f795d42/f8118b9f4a9fca47366bbf40160930f3,3b62d576?w=1280",
-    "date": 0,
-    "titleSl": "Po tednih pokra - prihodnost El Mala je uradna!"
    }
   ],
   "krone": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "La Sociedad Interamericana de Prensa reconoce a Pilar Gil con el Premio Ejecutiva del 2026",
+    "link": "https://elpais.com/comunicacion/2026-08-20/la-sociedad-interamericana-de-prensa-reconoce-a-pilar-gil-con-el-premio-ejecutiva-del-2026.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/LLVSKDWYVZBKZBXCM2XWQW3VSU.jpg?auth=73fce7eaacc09fde8174591ee28a65005d85267c45163984954d7551cd97cf0f",
+    "date": 1787247677000,
+    "titleSl": "Inter-American Press Association priznava Pilar Gil z nagrado Executive Award 2026"
+   },
+   {
     "title": "Villarejo de Salvanés se queda sin sus fiestas de verano y los vecinos acusan al alcalde: “Es falta de previsión”",
     "link": "https://elpais.com/espana/madrid/2026-08-20/villarejo-de-salvanes-se-queda-sin-sus-fiestas-de-verano-y-los-vecinos-acusan-al-alcalde-es-falta-de-prevision.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EDBWI6GZ5JBPDB5BVZ2XUB2WKQ.jpg?auth=74714f9be9a04b79f634c677e1f02960d89b83d5f42c82642b2f488df2ba596c",
@@ -628,13 +635,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206218_141816_video_1800.mp4",
     "date": 1787242466000,
     "titleSl": "Primeri garij, tuberkuloze in impetiga v Ceuti: ne gre za priseljence, temveč za razmere, v katerih so prisiljeni živeti"
-   },
-   {
-    "title": "Los presos de Figueres autores de un ciberataque accedieron a información personal de funcionarios",
-    "link": "https://elpais.com/espana/catalunya/2026-08-20/los-presos-de-figueres-autores-de-un-ciberataque-accedieron-a-informacion-personal-de-funcionarios.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/R34BXMWPD7EU3DPAEEIVUBQ4OQ.jpg?auth=cf292b8896fb8604b73f16c24e03ba191201b3af902f723d8c3514f8fa0633b5",
-    "date": 1787241518000,
-    "titleSl": "Zaporniki iz Figueresa, odgovorni za kibernetski napad, so dostopali do osebnih podatkov uradnikov"
    }
   ]
  },
