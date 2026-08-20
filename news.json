@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-20T13:01:00.472Z",
+ "generatedAt": "2026-08-20T13:02:24.869Z",
  "sources": {
   "siol": [
+   {
+    "title": "Notranji nadzor na kliniki za nevrologijo UKC Maribor pokazal organizacijske neskladnosti",
+    "link": "https://siol.net/novice/slovenija/notranji-nadzor-na-kliniki-za-nevrologijo-ukc-maribor-pokazal-organizacijske-neskladnosti-699420",
+    "image": "https://siol.net/media/img/0a/8b/de940477d6c27a0b55ed.jpeg",
+    "date": 1787230920000
+   },
    {
     "title": "Nikolić vesel vrnitve, Faganel ob debiju presenečen",
     "link": "https://siol.net/sportal/kosarka/nikolic-vesel-vrnitve-faganel-ob-debiju-presenecen-699403",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/slovenske-zeleznice-ob-glavni-zelezniski-postaji-v-ljubljani-z-novima-prodajnima-mestoma-699415",
     "image": "https://siol.net/media/img/d5/f1/294d3c7a3ef7cecc0eb9.jpeg",
     "date": 1787227860000
-   },
-   {
-    "title": "Hibrid odloča v milisekundah: tako se prilagaja vročini, mestu in avtocesti",
-    "link": "https://siol.net/avtomoto/e-avtomoto/hibrid-odloca-v-milisekundah-tako-se-prilagaja-vrocini-mestu-in-avtocesti-699381",
-    "image": "https://siol.net/media/img/e9/bf/8ce5fe610aa104b08f32.jpeg",
-    "date": 1787227620000
    }
   ],
   "24ur": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Alarms blare in South Korea during annual air raid defence drill",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787229980.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787229995000,
+    "titleSl": "V Južni Koreji med letnimi obrambnimi vajami pred zračnimi napadi zavijajo alarmi"
+   },
+   {
     "title": "Bangladesh’s government under pressure as youth demand jobs",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787229070.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787223138.jpg?resize=1920%2C1080&quality=80",
     "date": 1787223600000,
     "titleSl": "Kako vojna v Mjanmaru poganja krizo Rohingja"
-   },
-   {
-    "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
-    "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a86b47b12-1787212923.jpg?resize=1920%2C1440",
-    "date": 1787220968000,
-    "titleSl": "Sirski uradnik pravi, da \"ni načrtov\" za vzpostavitev turške vojaške prisotnosti"
    }
   ],
   "guardian": [
@@ -410,14 +410,35 @@
     "titleSl": "Pevec brez čepice: Mark Forster pokazal svojo pričesko"
    },
    {
-    "title": "Hamburg: Neues Zuhause für evakuierte Hausgemeinschaft an der Holstenstraße 195/197",
+    "title": "Hamburg: Neues Zuhause für evakuierte Hausgemeinschaft",
     "link": "https://www.spiegel.de/panorama/hamburg-neues-zuhause-fuer-evakuierte-hausgemeinschaft-a-033dd962-c9dd-486a-8055-62d647fa1dd8#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/783e5fef-5092-45e5-949a-fd321c20f5e1_w520_r2.08_fpx46.68_fpy50.jpg",
     "date": 1787219040000,
-    "titleSl": "Hamburg: Nov dom za evakuirana gospodinjstva na Holstenstrasse 195/197"
+    "titleSl": "Hamburg: Nov dom za evakuirana gospodinjstva"
    }
   ],
   "bild": [
+   {
+    "title": "Tabellenführung futsch - Neue Freundin sieht Müller-Pleite",
+    "link": "https://www.bild.de/sport/fussball/tabellenfuehrung-futsch-neue-freundin-sieht-mueller-pleite-6a86c48cea1ca890d9e2fd5b",
+    "image": "https://images.bild.de/6a86c48cea1ca890d9e2fd5b/f8c0576cbf83063830e38ffe6a5cd27a,ba3715b8?w=1280",
+    "date": 0,
+    "titleSl": "Vodstvo na mizi ni več – novo dekle vidi bankrot Müllerja"
+   },
+   {
+    "title": "Neuer Hitzerekord in 2026 - Das war der heißeste Tag in Deutschland",
+    "link": "https://www.bild.de/news/wetter/neuer-hitzerekord-in-deutschland-das-war-der-heisseste-tag-jemals-6630d974014b590da794322d",
+    "image": "https://images.bild.de/6630d974014b590da794322d/f0e1ee353d408d09350222adfd664568,b2a2c1b?w=1280",
+    "date": 0,
+    "titleSl": "Nov vročinski rekord v letu 2026 - To je bil najbolj vroč dan v Nemčiji"
+   },
+   {
+    "title": "Vor FCK-Derby in Mannheim - So hat Lieberknecht seine Jungs heiß gemacht",
+    "link": "https://www.bild.de/sport/fussball/1-fc-kaiserslautern-so-hat-lieberknecht-seine-jungs-heiss-gemacht-6a86f204260b7d1d2f795755",
+    "image": "https://images.bild.de/6a86f204260b7d1d2f795755/caedcbe14a94bd71f92bd753811fa95f,9869480d?w=1280",
+    "date": 0,
+    "titleSl": "Pred FCK derbijem v Mannheimu - Tako je Lieberknecht navdušil svoje fante"
+   },
    {
     "title": "Frauenärztin klärt auf - Das steckt hinter Endometriose",
     "link": "https://www.bild.de/video/clip/ratgeber/starke-regelschmerzen-das-koennte-der-grund-sein-85965660.bild.html",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6a86b71dcbb4a8f2ce8fed7e/ae9e5ed578a137d0b1cf05971f82d7a9,4d9ab24e?w=1280",
     "date": 0,
     "titleSl": "Katero pogodbo bodo zdaj podaljšali - zvezdniški svetovalec v pisarni Bayerna"
-   },
-   {
-    "title": "Pokal-Duell im Kult-Stadion - St. Tönis mit Liebe & Leidenschaft gegen Frankfurt",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-st-toenis-verspricht-leidenschaft-und-liebe-6a86bb543e2ba7edf221f7a1",
-    "image": "https://images.bild.de/6a86bb543e2ba7edf221f7a1/78630a18480c82b360528f798bde5a90,fb664bfc?w=1280",
-    "date": 0,
-    "titleSl": "Pokalni dvoboj na kultnem stadionu - St. Tönis z ljubeznijo in strastjo proti Frankfurtu"
-   },
-   {
-    "title": "Schwerer Unfall auf der A5 - Geisterfahrer rammt Auto! Vater tot, Kind überlebt",
-    "link": "https://www.bild.de/regional/baden-wuerttemberg/a5-bei-neuenburg-toedlicher-unfall-legt-autobahn-richtung-basel-lahm-6a869f1fea1ca890d9e2f9dd",
-    "image": "https://images.bild.de/6a869f1fea1ca890d9e2f9dd/f7123240c54c80718e6d7396a83efb34,529e29e6?w=1280",
-    "date": 0,
-    "titleSl": "Huda nesreča na A5 - voznik v napačni smeri oplazil avto! Oče je mrtev, otrok je preživel"
-   },
-   {
-    "title": "Im Pokal macht es noch Karazor - Hoeneß schiebt Kapitäns-Entscheidung auf",
-    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-im-pokal-macht-es-noch-karazor-hoeness-schiebt-kapitaens-entscheidung-auf-6a86d8b51c4720d4165458be",
-    "image": "https://images.bild.de/6a86d8b51c4720d4165458be/d22549a72892ce3113ca1dda06493e84,10078fef?w=1280",
-    "date": 0,
-    "titleSl": "Karazorju to še uspeva v pokalu - Hoeneß preloži kapetanovo odločitev"
    }
   ],
   "krone": [
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "Aggredisce moglie e figlia a martellate, arrestato 55enne in Brianza",
+    "link": "https://www.rainews.it/articoli/2026/08/aggredisce-moglie-e-figlia-a-martellate-arrestato-55enne-in-brianza-6dcefb8e-fab4-4dbe-aaaa-00c63930bdb0.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/18/1787040482651_ca.PNG",
+    "date": 1787230800000,
+    "titleSl": "Ženo in hčer napade s kladivom, 55-letnika aretirali v Brianzi"
+   },
+   {
     "title": "Berlino, applausi per l&#x27;orchestra giovanile italiana AYSO al festival Young Euro Classic",
     "link": "https://www.rainews.it/video/2026/08/berlino-applausi-per-lorchestra-giovanile-italiana-ayso-al-festival-young-euro-classic--6842863a-29c6-4492-908d-4edbe9e3ddb8.html",
     "image": "https://www.rainews.it/dl/img/2026/08/20/1787229152114_satalino.jpg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/20/1787228514000_vlcsnaphms.png",
     "date": 1787228400000,
     "titleSl": "Genova, nevihta s strelami in grmenjem na ligurski obali"
-   },
-   {
-    "title": "Belen cade da cavallo sulla spiaggia e pubblica il video: «Regola numero 1. Rialzarsi sempre»",
-    "link": "https://www.rainews.it/video/2026/08/belen-cade-da-cavallo-sulla-spiaggia-e-pubblica-il-video-regola-numero-1-rialzarsi-sempre-6d13f6f8-0a69-4158-8228-6fbf29307924.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/20/1787227462523_vlcsnaphms.png",
-    "date": 1787228400000,
-    "titleSl": "Belen pade s konja na plaži in objavi video: «Pravilo številka 1. Vedno vstani»"
    }
   ],
   "lemonde": [
