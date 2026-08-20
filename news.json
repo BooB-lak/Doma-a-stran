@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20T13:52:26.358Z",
+ "generatedAt": "2026-08-20T13:54:25.432Z",
  "sources": {
   "siol": [
    {
@@ -141,16 +141,16 @@
     "date": 1787231280000
    },
    {
+    "title": "Opozicijske stranke stopnjujejo akcijo Brejca, to pravi Stevanović",
+    "link": "https://www.zurnal24.si/slovenija/opozicijske-stranke-stopnjujeo-akcijo-brejca-to-pravi-stevanovic-463913",
+    "image": "https://www.zurnal24.si/media/img/cb/28/08e2fcc0ea95ec0d8feb.jpeg",
+    "date": 1787230560000
+   },
+   {
     "title": "Oddaja 24 ur pred veliko spremembo, omenjajo ta dva znana obraza!",
     "link": "https://www.zurnal24.si/magazin/vip/oddaja-24-ur-pred-veliko-spremembo-omenjajo-ta-dva-znana-obraza-463911",
     "image": "https://www.zurnal24.si/media/img/aa/e9/992f3fdf7ac05b3b6d5b.jpeg",
     "date": 1787230440000
-   },
-   {
-    "title": "V Evropo očitno prav kmalu prihaja nov model Tesle",
-    "link": "https://www.zurnal24.si/avto/v-evropo-ocitno-prav-kmalu-prihaja-nov-model-tesle-463877",
-    "image": "https://www.zurnal24.si/media/img/17/dc/e0f755ea8d0b902c5942.jpeg",
-    "date": 1787229480000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Harry and Meghan's security arrangements a private matter, PM says",
+    "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg",
+    "date": 1787234020000,
+    "titleSl": "Varnostna ureditev Harryja in Meghan je zasebna stvar, pravi premier"
+   },
+   {
     "title": "Closer to retiring than changing teams - why Verstappen stayed at Red Bull",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/c0qvkj40zk4o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6260/live/4ea17b40-9c92-11f1-bd28-a9dd56c45ed7.jpg",
@@ -255,13 +262,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde7/live/ac962db0-9c86-11f1-95d8-5b0dba89a322.jpg",
     "date": 1787232348000,
     "titleSl": "Iztirjeni vagoni vlaka so se premaknili sredi sonde tira"
-   },
-   {
-    "title": "Harry and Meghan's security arrangements a private matter, PM says",
-    "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg",
-    "date": 1787231294000,
-    "titleSl": "Varnostna ureditev Harryja in Meghan je zasebna stvar, pravi premier"
    },
    {
     "title": "Tinder conman who claimed he was a millionaire jailed for taking £68,000 from victims",
@@ -419,49 +419,56 @@
   ],
   "bild": [
    {
+    "title": "Tornado-Chaos in Fürstenwalde - Kita-Dach weg, Bäume stürzen auf Autos",
+    "link": "https://www.bild.de/news/wetter/entwurzelte-baeume-und-abgedeckte-daecher-tornado-fegt-durch-brandenburg-6a85fe76e532e82cc4f2af79",
+    "image": "https://images.bild.de/6a85fe76e532e82cc4f2af79/1f571c8f4bdf11bf1d68644a782705ff,af5d5b3b?w=1280",
+    "date": 0,
+    "titleSl": "Tornado kaos v Fürstenwaldeju - strehe vrtca ni, drevesa padajo na avtomobile"
+   },
+   {
+    "title": "Clankriminalität in Berlin - „Es fallen Schüsse, weil jemand falsch grüßt“",
+    "link": "https://www.bild.de/politik/clankriminalitaet-in-berlin-es-fallen-schuesse-weil-jemand-falsch-gruesst-6a8585c63f3b2550f6df48fc",
+    "image": "https://images.bild.de/6a8585c63f3b2550f6df48fc/bb7330e8e28a79a2640170bfb3fd5e23,35038ee5?w=1280",
+    "date": 0,
+    "titleSl": "Zločin klanov v Berlinu - \"Streli se sprožijo, ker nekdo izgovori napačen pozdrav\""
+   },
+   {
+    "title": "Warum er für Forscher so wertvoll ist - Das ist der schnellste Stern unserer Milchstraße",
+    "link": "https://www.bild.de/news/25-000-kilometer-pro-sekunde-forscher-entdecken-schnellsten-stern-unserer-milchstrasse-6a8603cdcbb4a8f2ce8fe810",
+    "image": "https://images.bild.de/6a8603cdcbb4a8f2ce8fe810/b0eb8b5ce63d6d163df7f6199457c2a5,72f29769?w=1280",
+    "date": 0,
+    "titleSl": "Zakaj je tako dragocena za raziskovalce - To je najhitrejša zvezda v naši Rimski cesti"
+   },
+   {
+    "title": "Sieben Personen im Fünfsitzer - Todescrash bei Markierungs-Arbeiten",
+    "link": "https://www.bild.de/news/auto-mit-sieben-insassen-kollidiert-mit-lastwagen-bei-markierungsarbeiten-6a85e860e532e82cc4f2aea0",
+    "image": "https://images.bild.de/6a85e860e532e82cc4f2aea0/217a8a2a97b3cdf3c7bf3397ff7394db,6db4a531?w=1280",
+    "date": 0,
+    "titleSl": "Sedem ljudi v petsedežnici - usodna nesreča med označevanjem"
+   },
+   {
+    "title": "Generalbundesanwalt ermittelt - Online-Sadist soll Jungen zum Mord getrieben haben",
+    "link": "https://www.bild.de/news/deutscher-online-sadist-soll-jungen-in-russland-zu-mord-getrieben-haben-6a86fa6b260b7d1d2f795850",
+    "image": "https://images.bild.de/6a86fa6b260b7d1d2f795850/e887d1c563c227ade099a283635f155c,54c92934?w=1280",
+    "date": 0,
+    "titleSl": "Zvezni generalni tožilec preiskuje - spletni sadist naj bi fante napeljal k umoru"
+   },
+   {
     "title": "Niemand weiß, wie er dort hinkam - Hund paddelt allein mitten im Ozean",
     "link": "https://www.bild.de/news/ausland/hund-paddelt-allein-mitten-im-ozean-niemand-weiss-wie-er-dort-hinkam-6a82fb3b9fcb5798aae395b8",
     "image": "https://images.bild.de/6a82fb3b9fcb5798aae395b8/e1260bb7f80942c7eef8d8e0e6c27e32,4a9f3269?w=1280",
     "date": 0,
     "titleSl": "Nihče ne ve, kako je prišel tja - pes, ki sam vesla sredi oceana"
-   },
-   {
-    "title": "Video zeigt blutige Attacke - Influencerin prahlt mit Narbe von Hai-Biss",
-    "link": "https://www.bild.de/news/ausland/video-zeigt-hai-attacke-sie-prahlt-mit-narbe-und-nennt-tag-des-angriffs-ihren-zweiten-geburtstag-6a82e48a9fcb5798aae3935e",
-    "image": "https://images.bild.de/6a82e48a9fcb5798aae3935e/e436e3c745e6cb252dbdf5864c96632a-landscape,2215ec57?w=1280",
-    "date": 0,
-    "titleSl": "Video prikazuje krvavi napad - vplivnež se hvali z brazgotino po ugrizu morskega psa"
-   },
-   {
-    "title": "Aus Flugzeug gefilmt - Zwei Wasserhosen vor Norderney",
-    "link": "https://www.bild.de/news/aus-flugzeug-gefilmt-zwei-wasserhosen-vor-norderney-6a85908ccbb4a8f2ce8fe056",
-    "image": "https://images.bild.de/6a85908ccbb4a8f2ce8fe056/6630eebdc57ebd44920a2466957dbd52,8b4ca858?w=1280",
-    "date": 0,
-    "titleSl": "Posneto iz letala - dve vodni trombi pri Norderneyju"
-   },
-   {
-    "title": "„Bares für Rares“-Star warnt vor Betrügern - 80-Euro-Waldi ist stinksauer!",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/bares-fuer-rares-betrugsmasche-waldi-warnt-vor-betruegern-auf-kleinanzeigen-co-6a7c3611c99104ecb401a21f",
-    "image": "https://images.bild.de/6a7c3611c99104ecb401a21f/9eabfa1698a6759e10d64f293fe0afa6-landscape,2432f340?w=1280",
-    "date": 0,
-    "titleSl": "Zvezdnik filma \"Denar za redke\" svari pred goljufi - 80 evrov Waldi je jezen!"
-   },
-   {
-    "title": "BILD-Reporter bei Wahlkampf in Dessau - Hier kommen sich AfD und BSW ganz nah",
-    "link": "https://www.bild.de/news/afd-und-bsw-in-dessau-wahlkampf-zur-gleichen-zeit-6a85dde157e16470ca3ac8d6",
-    "image": "https://images.bild.de/6a85dde157e16470ca3ac8d6/8dfdadcbdd85b747997a3ed666f11c81,aae7229d?w=1280",
-    "date": 0,
-    "titleSl": "Poročevalec BILD v volilni kampanji v Dessau - Tu sta si AfD in BSW zelo blizu"
-   },
-   {
-    "title": "Videos belegen - Delfine nutzen Muscheln als Eimer",
-    "link": "https://www.bild.de/news/videos-belegen-delfine-nutzen-muscheln-als-eimer-und-werkzeug-6a85d062cbb4a8f2ce8fe5db",
-    "image": "https://images.bild.de/6a85d062cbb4a8f2ce8fe5db/7aa549a6336671cdcf2b2842d775ebe9,438a782d?w=1280",
-    "date": 0,
-    "titleSl": "Videoposnetki dokazujejo, da delfini uporabljajo školjke kot vedra"
    }
   ],
   "krone": [
+   {
+    "title": "Forschung läuft längst - Diese Ackerpflanzen sollen den Hitzewellen trotzen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCZVFVMS1tNWt6QzYxUnZKSWxYOC1XcnBaXzBCZ2FJT2dyLVlwWkNMTEFpbHFaREZTRlpSeGM5NmhCdw?oc=5",
+    "image": "",
+    "date": 1787233920000,
+    "titleSl": "Raziskave potekajo že dlje časa – te poljščine naj bi vzdržale vročinske valove"
+   },
    {
     "title": "„War näher dran aufzuhören, als Team zu wechseln!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xMVI0OHdPV21YM0RpaW16cVRsUmJDZkRJVC1DTk9iWVVTdG1YX292RXFyT1F4QjRSY3VMbFVtbjA5QQ?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1787232060000,
     "titleSl": "FIFA se je odločila - Maracana bo podelila finale svetovnega prvenstva"
-   },
-   {
-    "title": "Cargo Terminal Graz - Neuer Kran soll steirische Wirtschaft anheben",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xdVhSQ0hBbTFwWXhEUTdXazByTUg5VEx1NnBfXzVnelZSTjJEVWh5OGw4bmlONUVCNzJrQy0xMXF3QQ?oc=5",
-    "image": "",
-    "date": 1787231700000,
-    "titleSl": "Cargo Terminal Graz - Novo dvigalo naj bi dvignilo štajersko gospodarstvo"
    }
   ],
   "rainews": [
@@ -558,13 +558,6 @@
     "titleSl": "Na Kitajskem nekdanji šef nepremičninskega velikana Evergrande obsojen na dosmrtno ječo"
    },
    {
-    "title": "Au Brésil, Sao Paulo s’enorgueillit de son système de surveillance massif, malgré une efficacité contestée",
-    "link": "https://www.lemonde.fr/international/article/2026/08/20/au-bresil-sao-paulo-s-enorgueillit-de-son-systeme-de-surveillance-massif-malgre-une-efficacite-contestee_6750976_3210.html",
-    "image": "https://img.lemde.fr/2026/08/18/537/0/6106/3053/644/322/60/0/0860aa7_upload-1-7hgxk8sbewdv-000-a26b6rc.jpg",
-    "date": 1787230811000,
-    "titleSl": "V Braziliji se Sao Paulo ponaša s svojim ogromnim sistemom nadzora, kljub sporni učinkovitosti"
-   },
-   {
     "title": "Défense : les exportations d’armes françaises encore à des sommets en 2025",
     "link": "https://www.lemonde.fr/economie/article/2026/08/20/defense-les-exportations-d-armes-francaises-encore-a-des-sommets-en-2025_6750975_3234.html",
     "image": "https://img.lemde.fr/2026/08/20/444/0/4080/2040/644/322/60/0/5216480_upload-1-1nwiq5zxrxrh-000-33dq9np.jpg",
@@ -591,6 +584,13 @@
     "image": "https://img.lemde.fr/2026/08/20/536/0/4928/2464/644/322/60/0/36824b8_ftp-1-b21wfpyj4exy-5879798-01-06.jpg",
     "date": 1787229876000,
     "titleSl": "Ebola v DR Kongo: WHO razporedi 70.000 odmerkov cepiva Ervebo"
+   },
+   {
+    "title": "EN DIRECT, guerre en Ukraine : près de 40 000 personnes se sont réfugiées dans le métro de Kiev lors de l’attaque russe dans la nuit de mercredi à jeudi",
+    "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-une-journee-de-deuil-prevue-vendredi-a-kiev-apres-les-attaques-russes-qui-ont-fait-16-morts-dans-la-region_6746952_3210.html",
+    "image": "https://img.lemde.fr/2026/08/20/540/0/5791/2895/644/322/60/0/bf7fa05_ftp-1-spw03z0pip5u-b64395c866224b3398827706cf992d00-3-145b7596c2e940048481182329eccfbc.jpg",
+    "date": 1787228703000,
+    "titleSl": "V ŽIVO, vojna v Ukrajini: Skoraj 40.000 ljudi se je med ruskim napadom v noči s srede na četrtek zateklo v kijevski metro"
    }
   ],
   "elpais": [
