@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20T08:46:28.946Z",
+ "generatedAt": "2026-08-20T08:48:25.019Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Threatens Economic Pain for Countries That Help Iran",
+    "link": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
+    "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19trump-news-trump-iran-topart2-hcjm/19trump-news-trump-iran-topart2-hcjm-mediumSquareAt3X.jpg",
+    "date": 1787215510000,
+    "titleSl": "Trump grozi z gospodarsko bolečino državam, ki pomagajo Iranu"
+   },
+   {
     "title": "Trump Wants to Influence Brazil. It’s Way Ahead of Him.",
     "link": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
     "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20pagliarini-vtqh/20pagliarini-vtqh-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "",
     "date": 1787205913000,
     "titleSl": "Jimmy Fallon draži Trumpova prizadevanja za oživitev romantike v Severni Koreji"
-   },
-   {
-    "title": "America Is About to Get More Expensive",
-    "link": "https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html",
-    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20elerian-wmbt/20elerian-wmbt-mediumSquareAt3X.jpg",
-    "date": 1787202006000,
-    "titleSl": "Amerika bo kmalu postala dražja"
    }
   ],
   "bbc": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
-    "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2291232497-1787212963_bea3b0-1787213139.jpg?resize=1200%2C630&quality=80",
-    "date": 1787214475000,
-    "titleSl": "Max Verstappen podpisuje novo F1 pogodbo z Red Bullom do leta 2030"
-   },
-   {
-    "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/web-1787214219.jpg?resize=1920%2C1080&quality=80",
-    "date": 1787214244000,
-    "titleSl": "Vročinski valovi in ​​energetski krč: Ali lahko Evropa prenese dvojni šok?"
-   },
-   {
     "title": "Video shows Russian missile strike on Ukrainian capital",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787213806.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/SoH-1787197461.jpeg?resize=1920%2C1440",
     "date": 1787211502000,
     "titleSl": "Analiza kaže, da so se tokovi nafte skoraj potrojili, preden je potekel memorandum o soglasju med ZDA in Iranom"
+   },
+   {
+    "title": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
+    "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260820__2291214520__v1__HighRes__CincinnatiOpen2026Day9-1787208514_584f5d-1787210113.jpg?resize=1200%2C630&quality=80",
+    "date": 1787210233000,
+    "titleSl": "Prva nosilca Sabalenka, Zverev sta izpadla na turnirju Cincinnati Open"
+   },
+   {
+    "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+    "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-01-21T064116Z_1693370684_RC2NZIA8219R_RTRMADP_3_SUDAN-POLITICS-OBEID-ATTACKS-1785761834.jpg?resize=1920%2C1440",
+    "date": 1787209897000,
+    "titleSl": "Več kot 200.000 ljudi na novo razseljenih v sudanskem Kordofanu zaradi spopadov"
    }
   ],
   "guardian": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Neue Funktion fürs WLAN - Update macht Millionen Router zu Bewegungsmeldern",
+    "link": "https://www.bild.de/leben-wissen/digital/update-macht-millionen-router-zu-bewegungsmeldern-6a857956d537b08639dccd65",
+    "image": "https://images.bild.de/6a857956d537b08639dccd65/309c575fdfbfefa23770b78d1d5f4118,702a48f8?w=1280",
+    "date": 0,
+    "titleSl": "Nova funkcija WLAN - posodobitev spremeni milijone usmerjevalnikov v detektorje gibanja"
+   },
+   {
+    "title": "Damit 96 aus der Krise kommt - Tor-Tipps vom neuen Hannover-Star",
+    "link": "https://www.bild.de/sport/fussball/damit-hannover-96-aus-der-krise-kommt-marcel-hartel-gibt-tor-tipps-6a8406029fcb5798aae3a1fd",
+    "image": "https://images.bild.de/6a8406029fcb5798aae3a1fd/8ca3ceb5c67af35790febd5a370d03c8,af938f92?w=1280",
+    "date": 0,
+    "titleSl": "Da se 96 reši iz krize - nasveti novega zvezdnika Hannovra"
+   },
+   {
+    "title": "Lauterns heißes Pokal-Duell - Polizei-Alarm vor Hass-Derby in Mannheim",
+    "link": "https://www.bild.de/sport/fussball/1-fc-kaiserslautern-polizei-alarm-vor-hass-derby-in-mannheim-6a86a6bc3e2ba7edf221f60d",
+    "image": "https://images.bild.de/6a86a6bc3e2ba7edf221f60d/31e1205225f71f59edc818d7c1d66d4a,d9e30763?w=1280",
+    "date": 0,
+    "titleSl": "Lauternov vroč pokalni dvoboj – policijsko opozorilo o sovražnem derbiju v Mannheimu"
+   },
+   {
     "title": "Selbst der König ist überrascht - Charles erfuhr erst am Sonntag von Harrys Rückkehr",
     "link": "https://www.bild.de/unterhaltung/royals-adel/koenig-charles-erfuhr-erst-am-sonntag-von-harrys-rueckkehr-6a86a800e532e82cc4f2b469",
     "image": "https://images.bild.de/6a86a800e532e82cc4f2b469/83d2080476c0e6e7130ff8d839872077,2b8b9c89?w=1280",
@@ -438,30 +459,16 @@
     "image": "https://images.bild.de/69c25e638f5761671715d844/895278f9bec0e39aebfa4ce4345b80fa,a7ce1459?w=1280",
     "date": 0,
     "titleSl": "Pomivalni stroj – Zato počasni program Eco prihrani denar"
-   },
-   {
-    "title": "Offizielle Mitteilung - Formel-1-Knall um Verstappen!",
-    "link": "https://www.bild.de/sport/mehr-sport/formel-1-offizielle-mitteilung-knaller-um-max-verstappen-und-red-bull-6a86a9203e2ba7edf221f637",
-    "image": "https://images.bild.de/6a86a9203e2ba7edf221f637/210f832a365112eab1055e5ce9ae59c8,881af00c?w=1280",
-    "date": 0,
-    "titleSl": "Uradna objava - Formula 1 se oglaša o Verstappnu!"
-   },
-   {
-    "title": "Bayern-Star brach auf dem Platz zusammen - Neurologe erklärt die Diagnose von Musiala",
-    "link": "https://www.bild.de/leben-wissen/absencen-bei-jamal-musiala-neurologe-erklaert-die-krankheit-des-bayern-stars-6a85a7d4d479dd659e0b3f53",
-    "image": "https://images.bild.de/6a85a7d4d479dd659e0b3f53/00f62c5457b249022f38afbd30639305,7fa4b508?w=1280",
-    "date": 0,
-    "titleSl": "Zvezdnik Bayerna se je zgrudil na igrišču - Musialino diagnozo pojasnjuje nevrolog"
-   },
-   {
-    "title": "50 Mio. Euro! - Drei Lottospieler knacken den Mega-Jackpot",
-    "link": "https://www.bild.de/news/inland/50-mio-euro-drei-lottospieler-knacken-den-mega-jackpot-6a86a65dea1ca890d9e2fa35",
-    "image": "https://images.bild.de/6a86a65dea1ca890d9e2fa35/f6bc6d2c96a4e8336c4b004acd6b46d3,7be99359?w=1280",
-    "date": 0,
-    "titleSl": "50 milijonov evrov! - Trije igralci na lotu so zadeli mega jackpot"
    }
   ],
   "krone": [
+   {
+    "title": "„Total überschätzt“ - Deutscher (23) bei Großarl-Wanderung geborgen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KWVc3QzhHTFNnSlktOUtHUl9nOHQ3OVY0SF9vVjRqbDJsTFBsYWZycUNOa2FwVVV4eDk2MlRfX1hCQQ?oc=5",
+    "image": "",
+    "date": 1787215500000,
+    "titleSl": "“Popolnoma precenjen” - Nemec (23), rešen med pohodom na Grossarl"
+   },
    {
     "title": "Wurde bereits operiert - Salzburg muss längere Zeit auf Kapitän verzichten",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UMTFrNnVWYzd5bEJoTmV2X01KTDdYWEhEOEppUndVWkRFMmVLOFhFLVZBY3hBQjNiTExyTDJLZ0kzZw?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1787214000000,
     "titleSl": "Policisti iščejo lastnike - zasegli kolesa: Komu pripadajo?"
-   },
-   {
-    "title": "„Konsequent vorgehen“ - Schwerpunktaktion: Fünf Jugendliche festgenommen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45aGYtdWtQbTRfekNRR2YwdDJSVkNrZUU2ZmhZc3dwbW5ZR3g3ZXkwS21HeE5yUDNvbVd5UXlnVWxaQQ?oc=5",
-    "image": "",
-    "date": 1787213880000,
-    "titleSl": "“Nadaljuj dosledno” – ključni ukrep: aretiranih pet mladih"
    }
   ],
   "rainews": [
@@ -551,6 +551,13 @@
   ],
   "lemonde": [
    {
+    "title": "Incendie en Belgique : les pompiers luttent contre les reprises de feu",
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/incendie-en-belgique-les-pompiers-luttent-contre-les-reprises-de-feu_6750817_3210.html",
+    "image": "https://img.lemde.fr/2026/08/18/976/0/6000/3000/644/322/60/0/02f835c_ftp-1-nlelo6u7zrgl-5867670-01-06.jpg",
+    "date": 1787215223000,
+    "titleSl": "Požar v Belgiji: gasilci se borijo proti ponovnim požarom"
+   },
+   {
     "title": "EN DIRECT, guerre en Ukraine : le bilan monte à 14 morts à Kiev et dans sa région après les attaques russes de la nuit",
     "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-le-bilan-monte-a-14-morts-a-kiev-et-dans-sa-region-apres-les-attaques-russes-de-la-nuit_6746952_3210.html",
     "image": "https://img.lemde.fr/2026/08/20/149/0/4000/2000/644/322/60/0/04fe366_upload-1-pq39ipiofh9h-bombardement-kiev-20aou-t-4.jpg",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/5f6ad1d_upload-1-ryifecdlpm8k-frame-1069.jpg",
     "date": 1787207401000,
     "titleSl": "Vdor v davčno spletno stran: \"Kredibilnost francoske države je spodkopana, ko ji ne uspe zaščititi ene svojih najbolj kraljevskih trdnjav\""
-   },
-   {
-    "title": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie",
-    "link": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html",
-    "image": "https://img.lemde.fr/2026/08/20/333/0/4000/2000/644/322/60/0/e287c25_upload-1-3tkzjb4m3bia-000-9mt69z.jpg",
-    "date": 1787201868000,
-    "titleSl": "Na Kitajskem ustanovitelj Evergrande, nepremičninskega velikana, ki je bankrotiral, obsojen na dosmrtno ječo"
    }
   ],
   "elpais": [
