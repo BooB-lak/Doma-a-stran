@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21T08:06:24.627Z",
+ "generatedAt": "2026-08-21T08:08:25.473Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Podrta drevesa, zaliti podvozi in dva požara. Nevarnosti še ni konec",
     "link": "https://www.24ur.com/novice/slovenija/podrta-drevesa-zaliti-podvozi-in-pozara-danes-grozijo-nova-neurja.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/5e533139a8b978246d3c_63635046.jpg?v=31cc&fop=fp:0.39:0.51",
-    "date": 1787299207000
+    "date": 1787299645000
    },
    {
     "title": "'Mali' Brnik je bil zaradi Dončića (pre)velik",
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Noči v stari Ljubljani: več kot 50 umetnikov bo konec tedna prestolnico zazibalo v etnu in džezu",
+    "link": "https://www.rtvslo.si/kultura/glasba/noci-v-stari-ljubljani-vec-kot-50-umetnikov-bo-konec-tedna-prestolnico-zazibalo-v-etnu-in-dzezu/791487",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/21/67075649.jpg",
+    "date": 1787299633000
+   },
+   {
     "title": "Skupini Triglav in Sava povečali obseg poslovanja, a dobiček zaradi porasta škodnih dogodkov nižji",
     "link": "https://www.rtvslo.si/gospodarstvo/skupini-triglav-in-sava-povecali-obseg-poslovanja-a-dobicek-zaradi-porasta-skodnih-dogodkov-nizji/791484",
     "image": "https://img.rtvcdn.si/_up/upload/2020/11/13/65712599.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/v-hongkongu-obsodili-organizatorja-spominske-slovesnosti-za-zrtve-na-trgu-nebeskega-miru/791482",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/21/67075602.jpg",
     "date": 1787295944000
-   },
-   {
-    "title": "Zahodne države skupaj obsodile izraelske načrte za širitev naselbin na okupiranem Zahodnem bregu",
-    "link": "https://www.rtvslo.si/svet/bliznji-vzhod/zahodne-drzave-skupaj-obsodile-izraelske-nacrte-za-siritev-naselbin-na-okupiranem-zahodnem-bregu/791478",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/21/67075580.jpg",
-    "date": 1787293570000
    }
   ],
   "zurnal": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Israeli settlers set fire to Palestinian home while family asleep",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-08.55.08-1787299037.png?resize=1200%2C675",
+    "date": 1787299121000,
+    "titleSl": "Izraelski naseljenci so zažgali palestinski dom, medtem ko je družina spala"
+   },
+   {
+    "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+    "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260312__A2ZG4BN__v2__HighRes__PalestinianIsraelConflict-1773665285.jpg?resize=1920%2C1440",
+    "date": 1787298981000,
+    "titleSl": "Evropa in Kanada obsodita izraelske načrte za novo naselje na Zahodnem bregu"
+   },
+   {
     "title": "Australian Hussey open to Ashes Test role as England make approach",
     "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20250411__39ZK39P__v1__HighRes__CricketIndIplT20ChennaiKolkata-1787295679.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787287769.jpg?resize=1920%2C1080&quality=80",
     "date": 1787287676000,
     "titleSl": "Na desetine migrantov pristane na španski obali in preseneti obiskovalce plaže"
-   },
-   {
-    "title": "Hong Kong Tiananmen activists found guilty of national security charges",
-    "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87bcdbaaf9-1787280603.jpg?resize=1920%2C1440",
-    "date": 1787284215000,
-    "titleSl": "Hongkonški aktivisti nebeškega miru spoznani za krive obtožb o nacionalni varnosti"
-   },
-   {
-    "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787287350.jpg?resize=1620%2C1080&quality=80",
-    "date": 1787281689000,
-    "titleSl": "Pakistanec Imran Khan po oceni v bolnišnici spet v zaporu"
    }
   ],
   "guardian": [
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Mobilfunk: Rechnungshof rügt ineffiziente Förder-GmbH des Bundes",
+    "link": "https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes-a-61bb46c8-53e1-44a0-87d0-b51d51c3a408#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a5b94f26-0001-0004-0000-000001490882_w520_r2.08_fpx30.25_fpy44.97.jpg",
+    "date": 1787299440000,
+    "titleSl": "Mobilne komunikacije: Računsko sodišče kritizira neučinkovito zvezno financiranje GmbH"
+   },
+   {
     "title": "Dan S. Sullivan will für Alaska bei den Midterms punkten – Dan J. Sullivan auch. Jetzt treten sie gegeneinander an",
     "link": "https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/08a0749c-28cf-42fe-abd7-bf19272022be_w520_r2.08_fpx70_fpy45.jpg",
@@ -408,20 +415,20 @@
     "image": "https://cdn.prod.www.spiegel.de/images/fd9b3e0a-f946-46bb-be57-368f16db1227_w520_r2.08_fpx33.34_fpy50.jpg",
     "date": 1787287680000,
     "titleSl": "Annalena Baerbock: ZDA in Rusija kritizirajo vmešavanje v izbiro naslednjega generalnega sekretarja ZN"
-   },
-   {
-    "title": "Melania Trump: »Ich habe gehört, Ihr habt mich vermisst«",
-    "link": "https://www.spiegel.de/ausland/melania-trump-ich-habe-gehoert-ihr-habt-mich-vermisst-a-9818d533-ac78-4cec-875c-7e623b3b32f5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ab1db63c-3624-4908-9323-290483a3c659_w520_r2.08_fpx55.74_fpy44.88.jpg",
-    "date": 1787286480000,
-    "titleSl": "Melania Trump: \"Slišala sem, da ste me pogrešali\""
    }
   ],
   "bild": [
    {
+    "title": "„Harry Potter“-Star - Mit ihren Haaren kassiert sie auf OnlyFans ab",
+    "link": "https://www.bild.de/unterhaltung/bildgg/jessie-cave-auf-onlyfans-mit-haaren-verdient-sie-mehr-geld-als-bei-harry-potter-6a7994920e3689919ec766c4",
+    "image": "https://images.bild.de/6a7994920e3689919ec766c4/aa207443e75611d510cc2257dcba4b47,b0da3d52?w=1280",
+    "date": 0,
+    "titleSl": "Zvezda \"Harryja Potterja\" - s svojimi lasmi zasluži na OnlyFans"
+   },
+   {
     "title": "Moderna spricht von „Meilenstein“ - Diese Impfung soll verhindern, dass der Krebs zurückkommt",
     "link": "https://www.bild.de/leben-wissen/durchbruch-bei-erstem-krebs-piks-was-experten-sagen-6a86a2f8cbb4a8f2ce8febb1",
-    "image": "https://images.bild.de/6a86a2f8cbb4a8f2ce8febb1/ec38d15bf7c4320cf2bfb8d6e6d6f419,e3235d7e?w=1280",
+    "image": "https://images.bild.de/6a86a2f8cbb4a8f2ce8febb1/ec38d15bf7c4320cf2bfb8d6e6d6f419,a0bc37fe?w=1280",
     "date": 0,
     "titleSl": "Moderna govori o \"mejniku\" - to cepljenje je namenjeno preprečevanju ponovitve raka"
    },
@@ -438,13 +445,6 @@
     "image": "https://images.bild.de/6a88006a89ff002330aa1f28/8b9bebd2b27e816798fc7be20927888f,bb6f4a08?w=1280",
     "date": 0,
     "titleSl": "Že danes na RTL+ - To se nadaljuje naslednji teden v oddaji “Unter uns”."
-   },
-   {
-    "title": "„Harry Potter“-Star - Mit ihren Haaren kassiert sie auf OnlyFans ab",
-    "link": "https://www.bild.de/unterhaltung/bildgg/jessie-cave-auf-onlyfans-mit-haaren-verdient-sie-mehr-geld-als-bei-harry-potter-6a7994920e3689919ec766c4",
-    "image": "https://images.bild.de/6a7994920e3689919ec766c4/aa207443e75611d510cc2257dcba4b47,b0da3d52?w=1280",
-    "date": 0,
-    "titleSl": "Zvezda \"Harryja Potterja\" - s svojimi lasmi zasluži na OnlyFans"
    },
    {
     "title": "Urlaubs-Tipps für den Spätsommer - 6 tolle Orte: Strand- und Aktivurlaub im September",
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "Meeting, oggi l&#x27;inaugurazione. Sabato la visita del Papa. Scholz: \"Ci lasceremo sorprendere\"",
+    "link": "https://www.rainews.it/video/2026/08/domani-linaugurazione-del-meeting-sabato-la-visita-del-papa-scholz-ci-lasceremo-sorprendere-cc3deb2a-1377-4e9e-8b3d-8d047149ce34.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/20/1787233710688_meeting.jpg",
+    "date": 1787299560000,
+    "titleSl": "Srečanje, inavguracija danes. Papežev obisk v soboto. Scholz: \"Pustili se bomo presenetiti\""
+   },
+   {
     "title": "Al via il Meeting di Rimini, sei giorni di confronti sul futuro",
     "link": "https://www.rainews.it/maratona/2026/08/al-via-il-meeting-di-rimini-sei-giorni-di-confronti-sul-futuro-dirette-streaming-amor-che-muove-il-sol-le-altre-stelle-9c18958f-8ac7-4974-8d1a-20166f90bf26.html",
     "image": "https://www.rainews.it/dl/img/2026/08/20/1787239012931_MEETschedatitoloITALIANO.jpg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/21/1787296421581_TZLOPRPRTRMADPBASEIMAGEXMEXICORESCUE.JPG",
     "date": 1787296260000,
     "titleSl": "Mehika, ribiči 5 dni plavajo na ledeni skrinji v Tihem oceanu: reševanje"
-   },
-   {
-    "title": "Donna trovata morta in casa vicino Potenza, ha grave trauma al volto",
-    "link": "https://www.rainews.it/articoli/2026/08/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto-b9e5c509-c49e-42b5-89f1-29f30faa4abf.html",
-    "image": "https://www.rainews.it/dl/img/2025/9/9/1757438977771_TITO_PAESE.jpg",
-    "date": 1787293380000,
-    "titleSl": "Žensko so našli mrtvo v hiši blizu Potenze, s hudimi poškodbami na obrazu"
    }
   ],
   "lemonde": [
