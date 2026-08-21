@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21T19:16:25.812Z",
+ "generatedAt": "2026-08-21T19:18:23.411Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Mark Zuckerberg Buys an Irish Castle",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+    "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-ireland-zuckerberg-mbvh/21int-ireland-zuckerberg-mbvh-mediumSquareAt3X.jpg",
+    "date": 1787339763000,
+    "titleSl": "Mark Zuckerberg kupi irski grad"
+   },
+   {
     "title": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
     "link": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
     "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21met-si-courts-pmjh/21met-si-courts-pmjh-mediumSquareAt3X.jpg",
     "date": 1787333160000,
     "titleSl": "Primer, ki izpodbija Mamdanijevo zamrznitev najemnine, je prestavljen na Manhattan"
-   },
-   {
-    "title": "The Next China Shock Is Here",
-    "link": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
-    "image": "https://static01.nyt.com/images/2026/08/21/opinion/21eks-setser-image/21eks-setser-image-mediumSquareAt3X.png",
-    "date": 1787331973000,
-    "titleSl": "Naslednji kitajski šok je tukaj"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-    "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a889d7c-1787338108.jpg?resize=1920%2C1440",
-    "date": 1787339310000,
-    "titleSl": "Turkiye obtožuje izraelskega Netanyahuja \"genocida\", zahteva Interpolovo tiralico"
-   },
-   {
     "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787338404.jpg?resize=1629%2C1080&quality=80",
@@ -327,15 +320,43 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8895ae-1787336110.jpg?resize=1200%2C675",
     "date": 1787336260000,
     "titleSl": "V napadu ruskega brezpilotnika na živahno nakupovalno središče v Ukrajini je umrlo 14 ljudi"
+   },
+   {
+    "title": "How is drought hitting UK farming?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787334577.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787334728000,
+    "titleSl": "Kako suša prizadene kmetijstvo v Združenem kraljestvu?"
    }
   ],
   "guardian": [
    {
+    "title": "Trump administration begins transfer of $725m to UN, amid billions owed",
+    "link": "https://www.theguardian.com/us-news/2026/aug/21/trump-administration-united-nations-payment",
+    "image": "https://i.guim.co.uk/img/media/0e87cc2684301875dde269ecd3701c1fe814d0b6/270_0_5303_4245/master/5303.jpg?width=140&quality=85&auto=format&fit=max&s=fafb55bc7599c8295845ef29142de7ee",
+    "date": 1787339647000,
+    "titleSl": "Trumpova administracija je začela nakazovati 725 milijonov dolarjev ZN, med milijardami dolgov"
+   },
+   {
+    "title": "Trump administration asking public comment on vaccine recommendations",
+    "link": "https://www.theguardian.com/us-news/2026/aug/21/trump-administration-public-comment-vaccines",
+    "image": "https://i.guim.co.uk/img/media/8e4499b00d19392b06c73a7b2c9ca49d7e8f9e68/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a823b5d44b74a5b72ab38565c15b627",
+    "date": 1787339503000,
+    "titleSl": "Trumpova administracija prosi javnost za komentar o priporočilih glede cepiva"
+   },
+   {
     "title": "Doris Miller’s family ‘shocked’ by Navy’s reported consideration of honoring Trump instead of black war hero – live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
     "image": "https://i.guim.co.uk/img/media/5b8d9132af55955e74691e6bdfc6562717e575c7/0_0_4865_3888/master/4865.jpg?width=140&quality=85&auto=format&fit=max&s=ac7e624a5ef36f02d7f76fb36ac30365",
-    "date": 1787338267000,
+    "date": 1787339309000,
     "titleSl": "Družina Doris Miller \"pretresena\" zaradi poročanja o razmišljanju mornarice o počastitvi Trumpa namesto temnopoltega vojnega junaka - v živo"
+   },
+   {
+    "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
+    "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
+    "date": 1787338842000,
+    "titleSl": "Viktorijanski laburisti obljubljajo brezplačno zobozdravstveno oskrbo, če bodo ponovno izvoljeni v Avstraliji - prva poteza"
    },
    {
     "title": "DHS confirms just 185 non-citizens on Nevada voter rolls after claiming there were thousands more",
@@ -350,27 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/b0f676de5ee266f8b3f23ad41d8de14a44e1895c/467_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=c3929b6e77c1688292477de8cff1b2f8",
     "date": 1787336503000,
     "titleSl": "Ameriško vrhovno sodišče je Trumpu za zdaj dovolilo nadaljevanje del na plesni dvorani Bele hiše"
-   },
-   {
-    "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
-    "link": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
-    "image": "https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=140&quality=85&auto=format&fit=max&s=08b8db0380468c0b45c6c7508286003d",
-    "date": 1787335671000,
-    "titleSl": "Britanska železnica se pripravlja na bolj ekstremne vremenske razmere, ko se razvija intenziven El Niño"
-   },
-   {
-    "title": "MPs ‘failing to learn lesson’ over freebies after accepting £400,000 of hospitality",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/21/mps-failing-to-learn-lesson-over-freebies-after-accepting-400000-of-hospitality",
-    "image": "https://i.guim.co.uk/img/media/147889ba03d96a26b3fb4fb3db32e3a7044f69a4/0_732_3497_2798/master/3497.jpg?width=140&quality=85&auto=format&fit=max&s=94e6c642899e858718041c9768baa303",
-    "date": 1787335102000,
-    "titleSl": "Poslanci se \"niso naučili\" o brezplačnih izdelkih, potem ko so sprejeli 400.000 funtov gostoljubja"
-   },
-   {
-    "title": "Rise in migrant deaths as 19 bodies found along Arizona border last month",
-    "link": "https://www.theguardian.com/us-news/2026/aug/21/migrant-deaths-arizona",
-    "image": "https://i.guim.co.uk/img/media/cfde96a03ad6c43f6595f0dacfb7d25dc7c91c52/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0dd11aefdea79d70946d8621225e1b68",
-    "date": 1787332469000,
-    "titleSl": "Povečanje števila smrti migrantov, ko so prejšnji mesec ob meji z Arizono našli 19 trupel"
    }
   ],
   "spiegel": [
@@ -602,13 +602,6 @@
     "titleSl": "Rubén Rocha se vrača kot guverner Sinaloe kljub obtožbam o povezavah s trgovino z mamili"
    },
    {
-    "title": "¿Por qué juzgan a un hombre por el asesinato del rapero Tupac Shakur 30 años después de su asesinato?",
-    "link": "https://elpais.com/us/2026-08-21/por-que-juzgan-a-un-hombre-por-el-asesinato-del-rapero-tupac-shakur-30-anos-despues-de-su-asesinato.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/3BYE7GRSUZMJVC2P26B26K4B7E.jpg?auth=fad48316c4d07594c6b892161c3e6350743d705e7363a6461c53c4ae1bfc67f4",
-    "date": 1787338454000,
-    "titleSl": "Zakaj človeku sodijo za umor raperja Tupaca Shakurja 30 let po njegovem umoru?"
-   },
-   {
     "title": "El Tribunal Supremo permite que Trump continúe, por ahora, con la construcción del salón de baile en la Casa Blanca",
     "link": "https://elpais.com/us/2026-08-21/el-tribunal-supremo-permite-que-trump-continue-por-ahora-con-la-construccion-del-salon-de-baile-en-la-casa-blanca.html",
     "image": "https://imagenes.elpais.com/resizer/v2/UXESX7GXA5PBFAK5OH6BOP7AUM.jpg?auth=8e7369b7a7d2fc2e2c752c9ab20902a0f82a70308f7d1569e746b369538db31a",
@@ -635,6 +628,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/D7SBOFZBZZIBDDPYJEWDW3DYKM.jpg?auth=5c723c255d3eef034ab02f77e68c8d6bb133f448cc6a3514d1c6fcd252267337",
     "date": 1787334363000,
     "titleSl": "Na drugem neformalnem glasovanju za vodenje ZN vodi kandidat Gvajane, sledi mu kandidat Kostarike"
+   },
+   {
+    "title": "Trump y Lula conversan durante más de una hora tras los recientes gestos hostiles de Washington",
+    "link": "https://elpais.com/america/2026-08-21/trump-y-lula-conversan-durante-mas-de-una-hora-tras-los-recientes-gestos-hostiles-de-washington.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/65PW4TZAE5DILI5CI2KIVTDHK4.jpg?auth=6304cfee89ef2e4476b79acb72f86f254e2dcab3e870c784ad7853bbe57e82ca",
+    "date": 1787333092000,
+    "titleSl": "Trump in Lula se pogovarjata več kot eno uro po nedavnih sovražnih potezah Washingtona"
    }
   ]
  },
