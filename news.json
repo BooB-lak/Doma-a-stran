@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-21T13:04:27.100Z",
+ "generatedAt": "2026-08-21T13:06:23.606Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zaradi napovedanega neurja odprli parkirni hiši v Ljubljani",
+    "link": "https://siol.net/novice/slovenija/zaradi-napovedanega-neurja-odprli-parkirni-hisi-v-ljubljani-699519",
+    "image": "https://siol.net/media/img/6f/a0/a6ff748b043695666756.jpeg",
+    "date": 1787317080000
+   },
    {
     "title": "Borut Pahor imel velik obisk: Pravi cuker",
     "link": "https://siol.net/trendi/zvezde-in-slavni/borut-pahor-imel-velik-obisk-pravi-cuker-699488",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/nogometna-trznica-21-avgust-2026-699481",
     "image": "https://siol.net/media/img/2e/04/f62a54a44044540041fc.jpeg",
     "date": 1787313300000
-   },
-   {
-    "title": "V Dalmaciji zaprli nezakonit kamp z okoli 700 gosti",
-    "link": "https://siol.net/novice/svet/v-dalmaciji-zaprli-nezakonit-kamp-z-okoli-700-gosti-699510",
-    "image": "https://siol.net/media/img/de/e9/d6db923eb9a8480f5862.jpeg",
-    "date": 1787312880000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "China rejects US claim that Myanmar analyst wrongfully detained",
-    "link": "https://www.aljazeera.com/news/2026/8/21/china-rejects-us-claim-that-myanmar-analyst-wrongfully-detained?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-13T032149Z_792695043_RC25MHANDFCF_RTRMADP_3_CHINA-USA-RAREEARTHS-1778776984.jpg?resize=1200%2C630",
-    "date": 1787316497000,
-    "titleSl": "Kitajska zavrača trditev ZDA, da je bil mjanmarski analitik neupravičeno pridržan"
-   },
-   {
     "title": "US allies in Asia wary as Trump moves military assets for Iran war",
     "link": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26225617337624-1787307196.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-15T152229Z_1438311885_UP1EM8F16PF18_RTRMADP_3_SOCCER-GERMANY-FCB-RBL-1787308502.jpg?resize=1920%2C1440",
     "date": 1787314099000,
     "titleSl": "Musiala Bayerna Münchna se je zgrudil na igrišču zaradi zamenjave zdravil"
+   },
+   {
+    "title": "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
+    "link": "https://www.aljazeera.com/news/2026/8/21/pti-accuses-pakistan-government-of-defying-ex-pm-imran-khan-hospital-order?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-21T095650Z_1247808416_RC2V2NAMMH1H_RTRMADP_3_PAKISTAN-POLITICS-KHAN-1787307347.jpg?resize=1920%2C1440",
+    "date": 1787313951000,
+    "titleSl": "Družina nekdanjega pakistanskega premierja Imrana Khana obtožuje vlado, da kljubuje bolnišničnemu redu"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Democrats rally behind progressive Aisha Wahab after win in California special election – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
     "image": "https://i.guim.co.uk/img/media/8cb13f6c1fe8847928709d5912e73d1a6b33e6df/934_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=b400f05517947b21de772599786a2118",
-    "date": 1787317010000,
+    "date": 1787316806000,
     "titleSl": "Demokrati so se po zmagi na posebnih volitvah v Kaliforniji zbrali za napredno Aisho Wahab – ameriška politika v živo"
    },
    {
@@ -419,11 +419,32 @@
   ],
   "bild": [
    {
+    "title": "NFL erlaubt Milliarden-Deal - Super-Bowl-Champion wird verkauft!",
+    "link": "https://www.bild.de/sport/mehr-sport/nfl-gibt-gruenes-licht-tech-milliardaer-darf-super-bowl-champion-kaufen-6a882bee1c4720d416547006",
+    "image": "https://images.bild.de/6a882bee1c4720d416547006/d23b1e23880d9b400f0957b1c9822b55,522b658?w=1280",
+    "date": 0,
+    "titleSl": "Liga NFL dovolila milijardni posel – prvak Super Bowla je prodan!"
+   },
+   {
+    "title": "BILD-Intern: „Hart aber ehrlich!“ - Harry & Meghan: „Das wollte die Queen nicht“",
+    "link": "https://www.bild.de/unterhaltung/bild-intern-hart-aber-ehrlich-harry-meghan-das-wollte-die-queen-nicht-6a882413b24f9237ede783b6",
+    "image": "https://images.bild.de/6a882413b24f9237ede783b6/069ddf8c3f1bbce2cfca6710a8756fd3,8deae510?w=1280",
+    "date": 0,
+    "titleSl": "BILD-pripravnik: \"Trd, a pošten!\" - Harry & Meghan: \"Kraljica tega ni želela\""
+   },
+   {
     "title": "Waffenlager in Berlin entdeckt - Dobrindt spricht von „Beteiligung fremder Mächte“",
     "link": "https://www.bild.de/politik/inland/waffenlager-in-berlin-entdeckt-dobrindt-spricht-wieder-von-beteiligung-fremder-maechte-6a883f2789ff002330aa255a",
     "image": "https://images.bild.de/6a883f2789ff002330aa255a/9f9cffea877328faeea6507b24f63cb0,4ddfa30a?w=1280",
     "date": 0,
     "titleSl": "V Berlinu odkrili zaklad orožja - Dobrindt govori o \"vpletenosti tujih sil\""
+   },
+   {
+    "title": "Deutschlands Brutzel-Atlas - Das beliebteste Fleisch auf dem Grill ist ...",
+    "link": "https://www.bild.de/leben-wissen/food-essen-trinken-rezepte/deutschlands-grill-atlas-das-beliebteste-fleisch-auf-dem-rost-ist-6a8846a61c4720d4165472dc",
+    "image": "https://images.bild.de/6a8846a61c4720d4165472dc/313d1a487cb7f7c1a7ee87919c036314,d14fec7f?w=1280",
+    "date": 0,
+    "titleSl": "Nemški brutzel atlas - Najbolj priljubljeno meso na žaru je..."
    },
    {
     "title": "Hagelsturm in Bayern - Viele Gemeinden kämpfen mit den Schäden",
@@ -433,32 +454,11 @@
     "titleSl": "Neurje s točo na Bavarskem – številne skupnosti se spopadajo s škodo"
    },
    {
-    "title": "NFL erlaubt Rekord-Deal - Tech-Milliardär darf Super-Bowl-Champion kaufen",
-    "link": "https://www.bild.de/sport/mehr-sport/nfl-gibt-gruenes-licht-tech-milliardaer-darf-super-bowl-champion-kaufen-6a882bee1c4720d416547006",
-    "image": "https://images.bild.de/6a882bee1c4720d416547006/d23b1e23880d9b400f0957b1c9822b55,522b658?w=1280",
-    "date": 0,
-    "titleSl": "NFL dovoljuje rekordno pogodbo – tehnološkemu milijarderju je dovoljeno kupiti prvaka Super Bowla"
-   },
-   {
     "title": "Neuzugang bisher nicht im Kader - Der Einsatz-Plan mit Ceresoli",
     "link": "https://www.bild.de/sport/fussball/fcn-zugang-bisher-nicht-im-kader-der-einsatz-plan-mit-ceresoli-6a855be1b6831511cf831894",
     "image": "https://images.bild.de/6a855be1b6831511cf831894/e9634e4efba852997c6535865b5e4cae,5eb236d1?w=1280",
     "date": 0,
     "titleSl": "Nova pridobitev še ni v ekipi - Načrt razporeditve s Ceresolijem"
-   },
-   {
-    "title": "DB-Mitarbeiterin verrät - Dieser Schwarzfahrer-Trick hat keine Chance",
-    "link": "https://www.bild.de/leben-wissen/reisen/schwarzfahren-bei-der-deutschen-bahn-wc-trick-faellt-auf-6a8419709fcb5798aae3a385",
-    "image": "https://images.bild.de/6a8419709fcb5798aae3a385/3839271c13f59ad3c8910ded43709cd6,65b42b69?w=1280",
-    "date": 0,
-    "titleSl": "Zaposleni v DB razkrije - Ta trik izogibanja plačilu vozovnice nima možnosti"
-   },
-   {
-    "title": "Hier verschwindet ein Stück Industriegeschichte - RWE sprengt Kohlekraftwerk",
-    "link": "https://www.bild.de/news/kraftwerk-voerde-rwe-sprengt-steinkohlekraftwerk-6a8841a91c4720d416547242",
-    "image": "https://images.bild.de/6a8841a91c4720d416547242/2bb1fd3c1cedc5780fe7c09a4fe2fba0,47a17dea?w=1280",
-    "date": 0,
-    "titleSl": "Tukaj izginja delček industrijske zgodovine - RWE je razstrelil elektrarno na premog"
    }
   ],
   "krone": [
