@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22T09:16:24.357Z",
+ "generatedAt": "2026-08-22T09:18:24.882Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/novice/crna-kronika/pod-mostom-na-obmocju-kranja-nasli-dve-osebi-ena-je-preminula-699564",
     "image": "https://siol.net/media/img/80/8c/8bfa574c878a07d94790.jpeg",
     "date": 1787389500000
+   },
+   {
+    "title": "Kolaps na železniški postaji, navijači zamujajo na šprint v Zandvoort",
+    "link": "https://siol.net/sportal/avtomotosport/kolaps-na-zelezniski-postaji-navijaci-zamujajo-na-sprint-v-zandvoort-699565",
+    "image": "https://siol.net/media/img/48/27/6a1243d9441da2c32920.jpeg",
+    "date": 1787389200000
    },
    {
     "title": "Močan dež, tornadi in neobičajno veliko strel: več naselij odrezanih od sveta",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/avtomotosport/donald-trump-bo-odpeljal-castni-krog-na-dirki-indycarja-699561",
     "image": "https://siol.net/media/img/82/fd/8c3e12674fc43ca80061.jpeg",
     "date": 1787384400000
-   },
-   {
-    "title": "Na bencinski črpalki moška s palicami pretepla 34-letnika",
-    "link": "https://siol.net/novice/slovenija/moska-s-palicami-pretepla-34-letnika-in-poskodovala-bencinsko-crpalko-699560",
-    "image": "https://siol.net/media/img/a8/e3/2aa7988e7a499e72fcf0.jpeg",
-    "date": 1787384220000
    }
   ],
   "24ur": [
@@ -419,11 +419,25 @@
   ],
   "bild": [
    {
+    "title": "Europas Wälder stehen in Flammen - Sind in diesem Sommer unsere Klimaziele verbrannt?",
+    "link": "https://www.bild.de/leben-wissen/wissenschaft/waldbraende-sind-in-diesem-sommer-unsere-klimaziele-verbrannt-6a86f2532073297bd594c01c",
+    "image": "https://images.bild.de/6a86f2532073297bd594c01c/d3c5fc9c9a35db2aaceba8287d0f6897,36ae5f29?w=1280",
+    "date": 0,
+    "titleSl": "Evropski gozdovi so v ognju - Ali so naši podnebni cilji to poletje pogoreli?"
+   },
+   {
     "title": "Auch Änderung beim Namen geplant - Karls Erdbeerhof reißt ganzes Stadtviertel ab",
     "link": "https://www.bild.de/news/ausland/auch-anderer-name-geplant-stadtviertel-fuer-karls-erdbeerhof-abgerissen-6a881955c3692834ff6d82d3",
     "image": "https://images.bild.de/6a881955c3692834ff6d82d3/5c01b2ed4319c8bdb1eea44ccf5504c0,beca6b6f?w=1280",
     "date": 0,
     "titleSl": "Predvidena je tudi sprememba imena - Karlova kmetija jagod ruši cel okoliš"
+   },
+   {
+    "title": "Rap-Debüt mit Papa - Jetzt greift Sidos Sohn zum Mikro",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sido-gemeinsamer-rap-auftritt-mit-sohn-bo-im-video-zu-issa-6a8945a3b8ad0ed91a24851f",
+    "image": "https://images.bild.de/6a8945a3b8ad0ed91a24851f/e5689973c01b50aa15089a2631e29bbd,7de8ccbd?w=1280",
+    "date": 0,
+    "titleSl": "Raperski prvenec z očetom - zdaj mikrofon vzame Sidov sin"
    },
    {
     "title": "Handschlag-Eklat nach Skandal-Spiel - „Ich bin kein Heuchler!“",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6a89232e1c4720d416547d52/aa3249fd37f8db0f68c5d12d7bd458de,bb35f449?w=1280",
     "date": 0,
     "titleSl": "Na mokri cesti – mati in sin (9) umreta v požarni nesreči"
-   },
-   {
-    "title": "Echte Prüfungsfragen - Würden Sie den Hundeführerschein bestehen?",
-    "link": "https://www.bild.de/leben-wissen/haustiere/hundefuehrerschein-quiz-wuerden-sie-die-pruefung-bestehen-6a86ecd21c4720d416545b48",
-    "image": "https://images.bild.de/6a86ecd21c4720d416545b48/90ed338973d20640c55ee030b6ade324-landscape,1befb2e3?w=1280",
-    "date": 0,
-    "titleSl": "Prava izpitna vprašanja - Bi opravili pasjo licenco?"
-   },
-   {
-    "title": "Sturm fegt über Badeparadies - Traumstrand an Adriaküste verwüstet",
-    "link": "https://www.bild.de/news/ausland/sturm-fegt-ueber-badeparadies-traumstrand-an-adriakueste-verwuestet-6a8961e7f486615e54f4c7d1",
-    "image": "https://images.bild.de/6a8961e7f486615e54f4c7d1/e68dec2e6e43d7e51d610152536b3a7e-landscape,7510397b?w=1280",
-    "date": 0,
-    "titleSl": "Neurje zajelo kopališki raj - sanjska plaža na jadranski obali opustošena"
    }
   ],
   "krone": [
@@ -466,7 +466,7 @@
     "title": "Backstage am Fest - Super-Frauen, ein „Antrag“ und ein Geständnis",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1aVkhCbTdSeW95QzZ6MEwwbWNNbC1zZXlicXJsOXRXdWdqSGJOS3AtVFRITXVBUExUXzRUdWhJZmFEdw?oc=5",
     "image": "",
-    "date": 1787389846000,
+    "date": 1787390223000,
     "titleSl": "Zakulisje zabave - super ženske, \"snubitev\" in priznanje"
    },
    {
@@ -484,25 +484,25 @@
     "titleSl": "Komentar “Krone” – ​​Socialdemokracija je v zatonu"
    },
    {
+    "title": "Als Praktikant - AK-Präsident: Vom Mähtrupp bis zum Kurbetrieb",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9NbXcxLWRLODBzdkt5S3NoWFJQS3laYUhpbHJ4ck4zNjlWLWNmaUlLZnY5OUFfSE1NLWtIb24tNnpBQQ?oc=5",
+    "image": "",
+    "date": 1787389200000,
+    "titleSl": "Kot pripravnik - predsednik AK: Od kosilnice do zdravilišča"
+   },
+   {
+    "title": "Proben genommen - Ewigkeitschemikalien im Brunnenwasser entdeckt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FZnNUaUxrdDF0YmVVUUJiVUlfZjFXT1N4OHZyLVB5elFQbGZONjFNNkJ6ZTZUZXh2cV80bFQyZlp5QQ?oc=5",
+    "image": "",
+    "date": 1787389200000,
+    "titleSl": "Odvzeti vzorci - kemikalije večnosti, odkrite v vodi iz vodnjaka"
+   },
+   {
     "title": "Gefährlicher Gegner - Bregenz will Sturm II ja nicht unterschätzen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtaW9UM280YVpWeDRKY3N1VkVUNzNvbFdqc3owcVlORlpXVVBxQTBCYUxnZ1ZFV3oyeWNRaWktT3Fxdw?oc=5",
     "image": "",
     "date": 1787389200000,
     "titleSl": "Nevaren nasprotnik - Bregenz ne želi podcenjevati Sturma II"
-   },
-   {
-    "title": "„Krone“-Fest - Ein Donnerwetter – und dann legte Linz richtig los",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBacU9Mb3haMnEwMjNZR0NQdDlncVg0NUR1cDhPSVI3cm1sRllHRDdVOHh3amJEQW96ZDB1QnJCSWNOQQ?oc=5",
-    "image": "",
-    "date": 1787388487000,
-    "titleSl": "Festival “Krone” – nevihta – potem pa je Linz zares zaživel"
-   },
-   {
-    "title": "Unzureichend bekleidet - Drei Dänen in Patscherl vom Hohen Göll gerettet",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pNnZxWXpqRWM0TnlZNDJCNjBOVzgyOU9jZ29mZFVzYzR5dk83Yko1QUtta1BzS3dXQVdhcEVuaDRDdw?oc=5",
-    "image": "",
-    "date": 1787388180000,
-    "titleSl": "Nezadostno oblečeni - trije Danci rešeni v Patscherlu iz Hohen Gölla"
    }
   ],
   "rainews": [
@@ -521,11 +521,11 @@
     "titleSl": "Deklica umre v Palermu, hospitaliziran bratranec je pozitiven na davico"
    },
    {
-    "title": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
+    "title": "Perugia, esplosione in una palazzina di 4 piani: crolla il tetto. Due feriti gravi",
     "link": "https://www.rainews.it/articoli/2026/08/esplosione-in-una-palazzina-crolla-il-tetto-7df3399f-9f41-4dde-a979-f72477780923.html",
     "image": "https://www.rainews.it/dl/img/2026/08/22/1787385923457_PHOTO.jpg",
     "date": 1787385060000,
-    "titleSl": "Eksplozija v zgradbi v Perugii, vpletene osebe"
+    "titleSl": "Perugia, eksplozija v 4-nadstropni stavbi: streha se zruši. Dva huje poškodovana"
    },
    {
     "title": "Meteo, tregua dal bollino rosso ma il caldo non lascia il centro sud",
