@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22T15:00:59.709Z",
+ "generatedAt": "2026-08-22T15:02:26.958Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "Drugi del kvalifikacij dobil Norris pred Piastrijem in Verstappnom",
+    "title": "Norris dobil kvalifikacije VN Nizozemske",
     "link": "https://www.24ur.com/sport/formula1/po-sprinterski-dirki-dirkace-cakajo-se-kvalifikacije.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/33c8e65d1af8ad47068f_63635999.jpg?v=411a&fop=fp:0.58:0.57",
-    "date": 1787409999000
+    "date": 1787410883000
    },
    {
     "title": "Pogačar, Roglič in še pet drugih Slovencev na uvodnem kronometru",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Poletje se vrača",
+    "link": "https://www.zurnal24.si/slovenija/poletje-se-vraca-464002",
+    "image": "https://www.zurnal24.si/media/img/49/38/6d2adccca9d3548c3fa6.jpeg",
+    "date": 1787410620000
+   },
+   {
     "title": "Luka in soigralci navdušeno objavljajo fotografije in posnetke",
     "link": "https://www.zurnal24.si/sport/kosarka/luka-in-soigralci-navduseno-objavljajo-fotografije-464001",
     "image": "https://www.zurnal24.si/media/img/93/c0/ac63aae062e47908924b.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/avto/ze-letos-prihaja-potni-list-za-avtomobile-kaj-to-pomeni-463998",
     "image": "https://www.zurnal24.si/media/img/45/0d/8880c3b66a446bd103f5.jpeg",
     "date": 1787404440000
-   },
-   {
-    "title": "Viralen video spora na cesti se širi kot požar",
-    "link": "https://www.zurnal24.si/svet/hrvaska-viralen-video-spora-na-cesti-se-siri-kot-pozar-463996",
-    "image": "https://www.zurnal24.si/media/img/70/bb/419f1e4deecb147ce14e.jpeg",
-    "date": 1787402400000
    }
   ],
   "reuters": [
@@ -347,7 +347,7 @@
    {
     "title": "Two police officers among seven people killed in North Yorkshire crash",
     "link": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-    "image": "https://i.guim.co.uk/img/media/9df64fa1269ac937143437463fdb7c1d0dae94cd/188_0_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=a174ac8b959b1e624ada180319428f77",
+    "image": "https://i.guim.co.uk/img/media/7d0cb854dab87bce5653e5c682006025c87a120e/402_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4e8e66362fce64b0e87e197d617d8322",
     "date": 1787402875000,
     "titleSl": "Med sedmimi mrtvimi v nesreči v Severnem Yorkshiru dva policista"
    },
@@ -463,6 +463,34 @@
   ],
   "krone": [
    {
+    "title": "Spielfreies Wochenende - Ranftl: „Jeder geht den Weg bei Austria voll mit“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKb2JQd3pBYlJvOU5XYjVLYXh4ckF3dnRicHdXdFNhdFRZUWpMRm1VZW5ITHpHWFIzZEJNa2M1MlNyZw?oc=5",
+    "image": "",
+    "date": 1787410800000,
+    "titleSl": "Vikend brez iger - Ranftl: \"Vsi gredo po poti Avstrije\""
+   },
+   {
+    "title": "Wacker-Comeback - Zweiter Heimsieg im Tivoli lässt Euphorie wachsen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBNSF9BaTd1Qm9jQTV2QTBQa2ZTdzlLQ3RxWnNiS2FfZWtpbkdyNWtKeGdXVTNMYUFnMC01ZWU3NlNfUQ?oc=5",
+    "image": "",
+    "date": 1787410800000,
+    "titleSl": "Vrnitev Wackerja - druga domača zmaga v Tivoliju dviguje evforijo"
+   },
+   {
+    "title": "Ausbruch in Linz: - Weiterer Herd von Legionellen entdeckt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pMzQ0Q3h1VDVDNFFIdWlEUldhalZ6b2pFZ0NfeFdjSU5FdUJLbVNJbXN6N1g2WGc0d0diVFNfbTRfZw?oc=5",
+    "image": "",
+    "date": 1787410800000,
+    "titleSl": "Izbruh v Linzu: - Odkrit še en vir legionele"
+   },
+   {
+    "title": "Waldbrandgefahr - NÖ Florianis rücken zum Einsatz nach Sardinien",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FdzNoV2FMeGVHN0pCRWd3VXpPaXM4WlQ2WTZTMnpJOTNXRGoxUUE1MG9GcnhwUWRZckoxLUJMRldVUQ?oc=5",
+    "image": "",
+    "date": 1787410800000,
+    "titleSl": "Nevarnost gozdnih požarov - Floriani iz Spodnje Avstrije so napoteni na Sardinijo"
+   },
+   {
     "title": "Bundesliga im Ticker - LIVE: Erzielt Hartberg in Altach das erste Tor?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qbFNzTk1KMEllbl9VVzVFbFRETDIzS1d4TnViMExJVUpwMlFKd2JLaXUyZVBNVjJqdkJFUnF0TTRSUQ?oc=5",
     "image": "",
@@ -475,34 +503,6 @@
     "image": "",
     "date": 1787409480000,
     "titleSl": "Požar strešne konstrukcije – obsežna operacija za gasilske enote ob jezeru Wallersee"
-   },
-   {
-    "title": "Es gibt Warnzeichen - Fake-Bewertungen: So tappen Sie nicht in die Falle",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAydHdaT2FMODcwakV1VTh5c2NMOXdxZjhyTXBySzdqTE1veXAyNUV4MlY3OTRtcVQ5dy1tanNRbmlWZw?oc=5",
-    "image": "",
-    "date": 1787409420000,
-    "titleSl": "Obstajajo opozorilni znaki - lažne ocene: Tako se ne ujamete v past"
-   },
-   {
-    "title": "Regelung verlängert - Waffen, Streit, Lärm: Problemzone Bahnhof Dornbirn",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkQVAzM3Z2YVdRR2pCaW4tREVmVEdrb2lWcFI2Um1hczlhYjU4a2haVGJCNGFHeE9WaVI1UTFVOEdxdw?oc=5",
-    "image": "",
-    "date": 1787409240000,
-    "titleSl": "Regulacija razširjena - orožje, argumenti, hrup: problemsko območje na železniški postaji Dornbirn"
-   },
-   {
-    "title": "Salzburger Liga - Krisen in Schwarzach und ATSV spitzen sich zu",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40R3V0Y1pEdGJiZnBTYzNsZGhyX3lMbDBXU245S2RrbTFlNDJGakg5WW00YXE1ZmdBSVpLcHRCVGZZQQ?oc=5",
-    "image": "",
-    "date": 1787409000000,
-    "titleSl": "Salzburška liga - krizi v Schwarzachu in ATSV prihajata na vrhunec"
-   },
-   {
-    "title": "Autos kollidierten - Sieben Tote bei Verfolgungsfahrt in England",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LSXVxTXBJQnVfb2otZWV3ODEtdGdMVGdXdTlRS3J0WkU3cmJpd0w0MG5SbDJUT1hXRDRHT251TTVYUQ?oc=5",
-    "image": "",
-    "date": 1787408700000,
-    "titleSl": "Trčila avtomobila - sedem mrtvih v zasledovanju v Angliji"
    }
   ],
   "rainews": [
