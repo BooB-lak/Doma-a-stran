@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T11:36:27.346Z",
+ "generatedAt": "2026-08-23T11:38:23.597Z",
  "sources": {
   "siol": [
    {
@@ -79,10 +79,22 @@
   ],
   "rtvslo": [
    {
+    "title": "TV SLO 2/MMC ob 18.00: Turčija - Slovenija",
+    "link": "https://www.rtvslo.si/sport/odbojka/evropsko-prvenstvo-v-odbojki/tv-slo-2-mmc-ob-18-00-turcija-slovenija/791642",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/08/06/66934687.jpg",
+    "date": 1787485007000
+   },
+   {
     "title": "Umetnostna drsalca Riku Miura in Rjuiči Kihara sta zaročena",
     "link": "https://www.rtvslo.si/zabava-in-slog/znani/umetnostna-drsalca-riku-miura-in-rjuici-kihara-sta-zarocena/791660",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/23/67078263.jpg",
     "date": 1787482737000
+   },
+   {
+    "title": "V Ljubljani shod v podporo Ukrajini ob 35. obletnici njene neodvisnosti",
+    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/v-ljubljani-shod-v-podporo-ukrajini-ob-35-obletnici-njene-neodvisnosti/791668",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/23/67078348.jpg",
+    "date": 1787482436000
    },
    {
     "title": "\"Menjave članov svetov zavodov bi morale biti premišljene\"",
@@ -101,24 +113,12 @@
     "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/zelenski-rusija-po-volitvah-nacrtuje-novo-mobilizacijo-da-bi-zavzela-celoten-doneski-bazen/791663",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/23/67078260.jpg",
     "date": 1787478511000
-   },
-   {
-    "title": "Na Bogračfestu se je tradicionalna jed kuhala na 124 kuhališčih",
-    "link": "https://www.rtvslo.si/zabava-in-slog/popkultura/druzabno/na-bogracfestu-se-je-tradicionalna-jed-kuhala-na-124-kuhaliscih/791648",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/23/67078146.jpg",
-    "date": 1787477559000
-   },
-   {
-    "title": "Kako zveni književnost? V teh dneh tudi s poklonom Mileni Zupančič.",
-    "link": "https://www.rtvslo.si/kultura/knjige/kako-zveni-knjizevnost-v-teh-dneh-tudi-s-poklonom-mileni-zupancic/791659",
-    "image": "https://img.rtvcdn.si/_up/upload/2024/12/27/66347827.jpg",
-    "date": 1787477238000
    }
   ],
   "zurnal": [
    {
     "title": "Žiga Turk: Lakersi se po Ljubljani vozijo, 'tlačani' pa hodijo peš",
-    "link": "https://www.zurnal24.si/ziga-turk-lakersi-se-po-ljubljani-vozijo-tlacani-pa-hodijo-pes-464023",
+    "link": "https://www.zurnal24.si/slovenija/ziga-turk-lakersi-se-po-ljubljani-vozijo-tlacani-pa-hodijo-pes-464023",
     "image": "https://www.zurnal24.si/media/img/91/11/4fccf1754049fa97ec35.jpeg",
     "date": 1787484120000
    },
@@ -331,6 +331,13 @@
   ],
   "guardian": [
    {
+    "title": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
+    "link": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+    "image": "https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/889_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=99bebcae427ae922d5520e53df6bd442",
+    "date": 1787484400000,
+    "titleSl": "Burnham se bo na laburistični konferenci soočil s pritiskom, da se dejanja Izraela v Gazi priznajo kot genocid"
+   },
+   {
     "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
     "link": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
     "image": "https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=54302ec8f3bb79e946b3d890e34d6a79",
@@ -364,22 +371,20 @@
     "image": "https://i.guim.co.uk/img/media/731e798cf0c4e3b64e84258000d65129e0667e8c/128_280_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=15085e1a730893186cf1586b7403bd19",
     "date": 1787481835000,
     "titleSl": "\"To so bili pogumni policisti\": poklon policistom med sedmimi ubitimi v nesreči A66"
-   },
-   {
-    "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
-    "link": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-    "image": "https://i.guim.co.uk/img/media/3cc98ed45264c41995eb0d07bc84e2fcc0aa9201/234_0_2694_2155/master/2694.jpg?width=140&quality=85&auto=format&fit=max&s=e9523f0d2db064e000d2040995281958",
-    "date": 1787481459000,
-    "titleSl": "Rusija umaknila veleposlanika v Združenem kraljestvu, ker Kremelj pritiska na podporo Ukrajini"
    }
   ],
   "spiegel": [
    {
-    "title": "Nigeria: Bewaffnete Angreifer überfallen offenbar Dörfer und entführen zahlreiche Menschen",
-    "link": "https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/144d830d-87d1-4002-9f8e-1c595935368f_w520_r2.08_fpx36.66_fpy44.99.jpg",
-    "date": 1787480580000,
-    "titleSl": "Nigerija: Bewaffnete Angreifer überfallen offenbar Dörfer und entführen zahlreiche Menschen"
+    "title": "Erling Haaland überrascht mit kurzen Haaren",
+    "link": "https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/82ba0f01-8298-4aaa-a56d-cd7950724811_w520_r2.08_fpx53.99_fpy45.jpg",
+    "date": 1787484720000
+   },
+   {
+    "title": "Vier Tonnen tote Fische – Polen kämpft gegen giftige Goldalge in Oder-Nebengewässer",
+    "link": "https://www.spiegel.de/wissenschaft/natur/vier-tonnen-tote-fische-polen-kaempft-gegen-giftige-goldalge-in-oder-nebengewaesser-a-ef5aa310-20aa-4439-a6d4-407542110942#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/4b027e91-dea7-44a0-98c5-d735aebc4a86_w520_r2.08_fpx33.34_fpy50.jpg",
+    "date": 1787478180000
    },
    {
     "title": "Handball-Bundesliga der Frauen: Wenn Profis unter dem Mindestlohn spielen",
@@ -401,13 +406,6 @@
     "titleSl": "Avstralija: Pilzmörderin – Berufung wegen überfüllter Hotels möglich"
    },
    {
-    "title": "Prinz Harry und Meghan zurück in England: Schauspielpläne der Herzogin offenbar gescheitert",
-    "link": "https://www.spiegel.de/panorama/prinz-harry-und-meghan-zurueck-in-england-schauspielplaene-der-herzogin-offenbar-gescheitert-a-8f8a26a0-8788-4368-abd2-bf32e1e0c6b6#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/987e163e-cb34-497c-93e0-30a358fab0a6_w520_r2.08_fpx48.66_fpy44.98.jpg",
-    "date": 1787471820000,
-    "titleSl": "Princ Harry in Meghan zurück v Angliji: Schauspielpläne der Herzogin offenbar gescheitert"
-   },
-   {
     "title": "Russland: Die Angst vor einer neuen großen Mobilmachung der Armee wächst",
     "link": "https://www.spiegel.de/ausland/russland-die-angst-vor-einer-neuen-grossen-mobilmachung-der-armee-waechst-a-c432197d-e8b3-446a-bff5-8697c37b128a#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/a61ed458-c78c-4240-940e-0de58d8cb061_w520_r2.08_fpx66.64_fpy49.99.jpg",
@@ -415,6 +413,12 @@
    }
   ],
   "bild": [
+   {
+    "title": "Schneller als Usain Bolt - Hier läuft ein Roboter Weltrekord",
+    "link": "https://www.bild.de/news/ausland/schneller-hoeher-weiter-funkenschlag-bei-den-robo-olympia-6a899428c3692834ff6d9511",
+    "image": "https://images.bild.de/6a899428c3692834ff6d9511/7280e08c2b648a89ba4f3718990be468,410fc6e1?w=1280",
+    "date": 0
+   },
    {
     "title": "Polizei nimmt andere Frau fest - Tote Frau an der Alster in Hamburg gefunden",
     "link": "https://www.bild.de/regional/hamburg/tote-frau-an-der-alster-in-hamburg-gefunden-polizei-nimmt-andere-frau-fest-6a8aaf38511d4fd3bc4e0d99",
@@ -444,12 +448,6 @@
     "title": "Nach der Rasur ruft er Zlatan & Pep an - Haalands Haare ab!",
     "link": "https://www.bild.de/sport/fussball/erling-haaland-radikal-abgeschnitten-des-haalands-neue-haare-6a8ac4460e5ea956d6e4f492",
     "image": "https://images.bild.de/6a8ac4460e5ea956d6e4f492/e303a344842a5c09bed79ba6fd180265,c2fe4ab1?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Ex-BVB-Star völlig verändert - Die HAARland-Transformation im Video",
-    "link": "https://www.bild.de/sport/fussball/ex-bvb-star-voellig-veraendert-die-haarland-transformation-im-video-6a8acb52754ef96576a7319a",
-    "image": "https://images.bild.de/6a8acb52754ef96576a7319a/ed47aa7d31ecd21dcb27b9497a3890c7,8457fc71?w=1280",
     "date": 0
    }
   ],
@@ -495,6 +493,13 @@
   ],
   "rainews": [
    {
+    "title": "\"Quando l&#x27;hanno chiamato per nome ha aperto gli occhi\": Nicola, aggredito a Barcellona, si risveglia",
+    "link": "https://www.rainews.it/video/2026/08/quando-lhanno-chiamato-per-nome-ha-aperto-gli-occhi-nicola-aggredito-a-barcellona-si-risveglia-59bc23b9-0f58-4af3-8425-431e5b34e89d.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/16/1786881345204_rainewsadbccccfd.jpg",
+    "date": 1787485020000,
+    "titleSl": "\"Quando l'hano chiamato per nome ha aperto gli occhi\": Nicola, aggredito a Barcellona, si risveglia"
+   },
+   {
     "title": "​Donna di 34 anni trovata impiccata nella casa in fiamme, indagini in corso",
     "link": "https://www.rainews.it/articoli/2026/08/donna-trovata-impiccata-e-la-casa-in-fiamme-indagini-in-corso-00708f4c-bcb4-4a1a-a11a-d7410a4ab42f.html",
     "image": "https://www.rainews.it/dl/img/2026/08/23/1787477396487_noemi.jpg",
@@ -524,15 +529,16 @@
     "link": "https://www.rainews.it/maratona/2026/08/escalation-medio-oriente-condanna-piano-espansione-israeliano-1bb86cd4-bb48-4a00-94af-f278e22da9ef.html",
     "image": "https://www.rainews.it/dl/img/2026/02/03/1770097747868_NAB.jpg",
     "date": 1787482200000
-   },
-   {
-    "title": "Taranto 2026, dal nuoto prime medaglie: oro per Pilato, Mancini e Cesarano. Oro anche nella canoa",
-    "link": "https://www.rainews.it/maratona/2026/08/xx-edizione-giochi-del-mediterraneosegui-la-diretta-in-straming-su-rainewsit-422ff739-df85-4447-aba0-6bcfdaa150dd.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/22/1787411360290_BenedettaP.jfif",
-    "date": 1787481900000
    }
   ],
   "lemonde": [
+   {
+    "title": "Présidentielle : la surenchère des candidats du bloc central sur l’immigration",
+    "link": "https://www.lemonde.fr/societe/article/2026/08/23/presidentielle-la-surenchere-des-candidats-du-bloc-central-sur-l-immigration_6754133_3224.html",
+    "image": "https://img.lemde.fr/2026/08/21/489/0/5872/2936/644/322/60/0/2097c65_ftp-1-9pnexrsu6vya-5887436-01-06.jpg",
+    "date": 1787484837000,
+    "titleSl": "Présidentielle : la surenchère des candidats du bloc central sur l 'migration"
+   },
    {
     "title": "Championnats du monde de badminton : Alex Lanier remporte l’or du simple messieurs et parachève la belle histoire de l’équipe de France dans cette édition 2026",
     "link": "https://www.lemonde.fr/sport/article/2026/08/23/championnats-du-monde-de-badminton-alex-lanier-remporte-l-or-du-simple-messieurs-et-paracheve-la-belle-histoire-de-l-equipe-de-france-dans-cette-edition-2026_6754094_3243.html",
@@ -565,12 +571,6 @@
     "link": "https://www.lemonde.fr/pixels/article/2026/08/23/affaire-gisele-journo-les-influenceurs-une-nouvelle-fois-sommes-de-se-positionner-sur-la-question-de-la-guerre-a-gaza_6754027_4408996.html",
     "image": "https://img.lemde.fr/2026/08/21/59/0/1864/932/644/322/60/0/efe7205_upload-1-mitnofsnz3xx-image-7.png",
     "date": 1787473806000
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir attaqué des infrastructures énergétiques et de transport en Ukraine",
-    "link": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-estime-qu-organiser-des-elections-provoquerait-un-tsunami-qui-fracturerait-l-ukraine_6753793_3210.html",
-    "image": "https://img.lemde.fr/2026/08/23/379/0/5585/2792/644/322/60/0/3f19ab3_ftp-1-3reigygheew9-5902553-01-06.jpg",
-    "date": 1787473466000
    }
   ],
   "elpais": [
@@ -578,7 +578,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
     "link": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/O2ULBQ5L4ZJZVEGAQGSQHDMFVE.jpg?auth=3c0c728e43fcffe182b2ba4d394d7a885818c1dcad4027c8a430c6baf31ef080",
-    "date": 1787484769000,
+    "date": 1787485029000,
     "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por \"riesgo sanitario\" de sarna y tuberculosis"
    },
    {
