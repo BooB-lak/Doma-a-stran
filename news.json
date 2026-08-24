@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T13:28:26.705Z",
+ "generatedAt": "2026-08-24T13:30:58.675Z",
  "sources": {
   "siol": [
    {
@@ -15,7 +15,7 @@
     "date": 1787577660000
    },
    {
-    "title": "Cimosov lastnik terjatve pretvarja v kapital, družba lani zabeležila visoko izgubo",
+    "title": "Cimosov lastnik terjatve pretvarja v kapital, družba lani poslovala veliko izgubo",
     "link": "https://siol.net/novice/posel-danes/cimosov-lastnik-terjatve-pretvarja-v-kapital-druzba-lani-zabelezila-visoko-izgubo-699708",
     "image": "https://siol.net/media/img/5b/12/6bd9d1880eda7d7781f5.jpeg",
     "date": 1787576160000
@@ -53,6 +53,12 @@
     "date": 1787575613000
    },
    {
+    "title": "Bosta Harry in Meghan v Združenem kraljestvu ostala le eno leto?",
+    "link": "https://www.24ur.com/popin/tuja-scena/bosta-harry-in-meghan-v-zdruzenem-kraljestvu-ostala-le-eno-leto.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/2ba16cc07582f2155a9d_63636637.jpg?v=33a7&fop=fp:0.45:0.23",
+    "date": 1787575056000
+   },
+   {
     "title": "Ob polnoči rekordna cena dizla: prvič nad 1,9 evra za liter",
     "link": "https://www.24ur.com/novice/gospodarstvo/ob-polnoci-rekordna-cena-dizla-prvic-nad-19-evra-za-liter.html",
     "image": "https://images.24ur.com/media/images/213xX/May2026/68042a06c24ae852e462_63587137.jpg?v=e573&fop=fp:0.53:0.65",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/ljubljanska-avtobusna-postaja-na-novi-lokaciji.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/6e805b557c745094dd74_63636704.jpg?v=1b05&fop=fp:0.44:0.60",
     "date": 1787572727000
-   },
-   {
-    "title": "Žoga, ki se je je dotaknila 'božja roka', prodana za tri milijone",
-    "link": "https://www.24ur.com/sport/nogomet/zoga-ki-se-je-je-dotaknila-bozja-roka-prodana-za-tri-milijone.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/af40e821142216e483c8_63636693.jpg?v=cb43&fop=fp:0.48:0.42",
-    "date": 1787572176000
    }
   ],
   "rtvslo": [
@@ -243,11 +243,18 @@
   ],
   "bbc": [
    {
-    "title": "Snooker champion Graeme Dott guilty of child abuse",
+    "title": "Snooker champion Graeme Dott guilty of child sex abuse",
     "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-    "date": 1787577595000,
-    "titleSl": "Prvak v snookerju Graeme Dott kriv zlorabe otrok"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/1bee5490-9fbf-11f1-8648-8d7b77845e6d.jpg",
+    "date": 1787578092000,
+    "titleSl": "Prvak v snookerju Graeme Dott kriv spolne zlorabe otrok"
+   },
+   {
+    "title": "Former world champion Dott guilty of child abuse",
+    "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/1bee5490-9fbf-11f1-8648-8d7b77845e6d.jpg",
+    "date": 1787578092000,
+    "titleSl": "Nekdanji svetovni prvak Dott kriv zlorabe otrok"
    },
    {
     "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
     "date": 1787573854000,
     "titleSl": "Nova Zelandija bo uvedla zakon o prepovedi družbenih omrežij za mlajše od 16 let"
-   },
-   {
-    "title": "Reform says it will prioritise young British-born workers for social housing",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg",
-    "date": 1787573263000,
-    "titleSl": "Reforma pravi, da bo dala prednost mladim delavcem, rojenim v Veliki Britaniji, za socialna stanovanja"
    }
   ],
   "aljazeera": [
@@ -415,16 +415,17 @@
   ],
   "bild": [
    {
-    "title": "Als Kind bei Pflegefamilie - 38-Jährige gibt sich als 12-Jährige aus",
-    "link": "https://www.bild.de/news/ausland/brasilien-38-jaehrige-gibt-sich-als-kind-aus-und-zieht-bei-pflegefamilie-ein-6a8beedac08bf8a320188052",
-    "image": "https://images.bild.de/6a8beedac08bf8a320188052/1c5308940443a1426a083cb18725232e,7fc57bef?w=1280",
+    "title": "Sicherer Schulweg - Ab wann kann mein Kind alleine zur Schule gehen?",
+    "link": "https://www.bild.de/leben-wissen/bildung-schule-studium/sicherer-schulweg-kann-mein-kind-schon-alleine-gehen-64ae6a9ac29ea21ebf0e2bb5",
+    "image": "https://images.bild.de/64ae6a9ac29ea21ebf0e2bb5/9cf9bdb98175184529be79f8bf9810a9,ea1e6a52?w=1280",
     "date": 0
    },
    {
-    "title": "Nur Berlin-CDU macht nicht mit - Top-Kandidaten treffen sich bei Skandal-Moschee",
-    "link": "https://www.bild.de/politik/inland/berlins-spitzenkandidaten-treffen-sich-bei-skandal-moschee-nur-cdu-macht-nicht-mit-6a8c0c7b511d4fd3bc4e1f9d",
-    "image": "https://images.bild.de/6a8c0c7b511d4fd3bc4e1f9d/48ca258cee685f1e718586a29e7658ff,dc061efe?w=1280",
-    "date": 0
+    "title": "Ukraine feiert Unabhängigkeitstag - Selenskyj gedenkt der gefallenen Kriegshelden",
+    "link": "https://www.bild.de/news/ausland/unabhaengigkeitstag-der-ukraine-selenskyj-gedenkt-der-gefallenen-kriegshelden-6a8c1751511d4fd3bc4e20b9",
+    "image": "https://images.bild.de/6a8c1751511d4fd3bc4e20b9/f90dc3a2941d2872cc4d5b0b52bf1feb,283e82f9?w=1280",
+    "date": 0,
+    "titleSl": "Ukrajina feiert Unabhängigkeitstag - Selenskyj gedenkt der gefallenen Kriegshelden"
    },
    {
     "title": "Nach 100 Kilo Abnahme - Kreisliga-Ekstase nach Traumtor",
@@ -433,21 +434,21 @@
     "date": 0
    },
    {
-    "title": "Beeindruckende Statistik - Darum war's im Pokal für diesen Mainzer historisch",
-    "link": "https://www.bild.de/sport/fussball/dfb-pokal-darum-war-der-pokalstart-fuer-einen-mainz-star-historisch-6a8bf6456d71b45dbda0f327",
-    "image": "https://images.bild.de/6a8bf6456d71b45dbda0f327/f205f4118f270f5ecc4c6c71dcb3dfae,f6b20062?w=1280",
+    "title": "Als Kind bei Pflegefamilie - 38-Jährige gibt sich als 12-Jährige aus",
+    "link": "https://www.bild.de/news/ausland/brasilien-38-jaehrige-gibt-sich-als-kind-aus-und-zieht-bei-pflegefamilie-ein-6a8beedac08bf8a320188052",
+    "image": "https://images.bild.de/6a8beedac08bf8a320188052/1c5308940443a1426a083cb18725232e,7fc57bef?w=1280",
     "date": 0
    },
    {
-    "title": "Nach Tod des Mäzens - HSV-Profis ehren Kühne heute mit dieser Geste",
-    "link": "https://www.bild.de/sport/fussball/hsv-profis-ehren-kuehne-heute-mit-besonderer-geste-6a8c32f6511d4fd3bc4e238b",
-    "image": "https://images.bild.de/6a8c32f6511d4fd3bc4e238b/5f61eea9675524d35c399825c556d01a,4c4a44e0?w=1280",
+    "title": "Vorschau nach der Sommerpause - Was passiert diese Woche bei „Dahoam is Dahoam“?",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/dahoam-is-dahoam-vorschau-wie-geht-es-nach-der-sommerpause-weiter-6a8c2c7ec08bf8a3201886f9",
+    "image": "https://images.bild.de/6a8c2c7ec08bf8a3201886f9/67a30e0e21b4b5ceba2978aac970cabb,1c51c68e?w=1280",
     "date": 0
    },
    {
-    "title": "Kuriose Serie - Darum drückt Schalke Verl und Würzburg die Daumen",
-    "link": "https://www.bild.de/sport/fussball/kuriose-serie-darum-drueckt-schalke-verl-und-wuerzburg-die-daumen-6a8b4c6e511d4fd3bc4e173c",
-    "image": "https://images.bild.de/6a8b4c6e511d4fd3bc4e173c/5cc8f308ebb1d7697456a61a1a75a705,4a6de300?w=1280",
+    "title": "Nur Berlin-CDU macht nicht mit - Top-Kandidaten treffen sich bei Skandal-Moschee",
+    "link": "https://www.bild.de/politik/inland/berlins-spitzenkandidaten-treffen-sich-bei-skandal-moschee-nur-cdu-macht-nicht-mit-6a8c0c7b511d4fd3bc4e1f9d",
+    "image": "https://images.bild.de/6a8c0c7b511d4fd3bc4e1f9d/48ca258cee685f1e718586a29e7658ff,dc061efe?w=1280",
     "date": 0
    }
   ],
@@ -537,7 +538,7 @@
     "title": "EN DIRECT, guerre en Ukraine : lors de sa visite à Kiev, le président du Conseil européen, Antonio Costa, réaffirme que l’UE est « prête à accueillir l’Ukraine en son sein »",
     "link": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-lors-de-sa-visite-a-kiev-le-president-du-conseil-europeen-antonio-costa-reaffirme-que-l-ue-est-prete-a-accueillir-l-ukraine-en-son-sein_6753793_3210.html",
     "image": "https://img.lemde.fr/2026/08/24/563/0/2655/1327/644/322/60/0/9311a06_ftp-1-pbgznoune0ba-2026-08-24t125538z-106432663-rc2y4najqga1-rtrmadp-3-ukraine-crisis-independence-day.JPG",
-    "date": 1787577482000,
+    "date": 1787577477000,
     "titleSl": "EN DIRECT, guerre en Ukraine : lors de sa visite à Kiev, le président du Conseil européen, Antonio Costa, réaffirme que l'UE est «prête à accueillir l' Ukrajine en son sein »"
    },
    {
