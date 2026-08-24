@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T14:26:43.678Z",
+ "generatedAt": "2026-08-24T14:28:26.447Z",
  "sources": {
   "siol": [
    {
@@ -199,11 +199,25 @@
   ],
   "nyt": [
    {
+    "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+    "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-ukraine-ai-kill-05-pczt-promo/24int-ukraine-ai-kill-05-pczt-promo-mediumSquareAt3X.jpg",
+    "date": 1787581493000,
+    "titleSl": "Dron je ubil tri Ukrajince. V celoti ga je vodila umetna inteligenca"
+   },
+   {
     "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
     "link": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
     "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20biz-attiah-Karen-Attiah-klfz/20biz-attiah-Karen-Attiah-klfz-mediumSquareAt3X.jpg",
     "date": 1787581170000,
     "titleSl": "Washington Post je odredil, da se ponovno zaposli odpuščena kolumnistka Karen Attiah"
+   },
+   {
+    "title": "U.S. to Unveil Broader Campaign to Cripple Iran’s Economy",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24DC-IRAN-BESSENT-kvlh/24DC-IRAN-BESSENT-kvlh-mediumSquareAt3X.jpg",
+    "date": 1787581051000,
+    "titleSl": "ZDA bodo razkrile širšo kampanjo za pohabljenje iranskega gospodarstva"
    },
    {
     "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23pol-republicans-trump-economy-ftjk/23pol-republicans-trump-economy-ftjk-mediumSquareAt3X.jpg",
     "date": 1787578203000,
     "titleSl": "Trumpov gospodarski pristop vzbuja zaskrbljenost nekaterih republikancev"
-   },
-   {
-    "title": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
-    "link": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html",
-    "image": "https://static01.nyt.com/images/2026/08/24/us/24dc-military-boatstrike1/24dc-military-boatstrike1-mediumSquareAt3X.jpg",
-    "date": 1787576437000,
-    "titleSl": "Ameriška vojska ubila 2 človeka v napadu na čoln v Pacifiku"
-   },
-   {
-    "title": "The Ruthless Efficiency of Ultrapotent Street Drugs",
-    "link": "https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html",
-    "image": "https://static01.nyt.com/images/2026/06/16/multimedia/00HS-DRUGS-BALTIMOREnew-01-hltp/00HS-DRUGS-BALTIMOREnew-01-hltp-mediumSquareAt3X.jpg",
-    "date": 1787574649000,
-    "titleSl": "Neusmiljena učinkovitost ultramočnih uličnih drog"
    }
   ],
   "bbc": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Algeria’s schools put Shakespeare before Molière in break from France",
+    "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Image-1-1787403049.jpg?resize=1920%2C1440",
+    "date": 1787579326000,
+    "titleSl": "Alžirske šole so odmaknile Shakespeara pred Molièrom od Francije"
+   },
+   {
     "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Untitled-1-Recovered-1787577270.jpg?resize=1920%2C1417",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-24T055101Z_1827342676_RC25S9ADUPWQ_RTRMADP_3_SOUTHKOREA-USA-DRILLS-1787569469.jpg?resize=1920%2C1440",
     "date": 1787574506000,
     "titleSl": "Južna Koreja pravi, da so ZDA odpovedale prihajajoče skupne pomorske vaje zaradi iranske vojne"
-   },
-   {
-    "title": "Activists occupy UK aircraft parts factory over Israel links",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787573151.jpg?resize=1920%2C1080&quality=80",
-    "date": 1787573264000,
-    "titleSl": "Aktivisti zasedajo tovarno letalskih delov v Združenem kraljestvu prek povezav z Izraelom"
    }
   ],
   "guardian": [
@@ -400,8 +400,8 @@
     "date": 1787575620000
    },
    {
-    "title": "Halle Berry feiert »long ass celebrations« zu ihrem 60. Geburtstag",
-    "link": "https://www.spiegel.de/panorama/leute/halle-berry-feiert-long-ass-celebrations-zu-ihrem-60-geburtstag-a-0b2a9b0d-25ad-4875-a636-ef0ac181d8f9#ref=rss",
+    "title": "Halle Berry feiert »long ass celebrations« zu ihrem 60. Geburtstag in Mexiko",
+    "link": "https://www.spiegel.de/panorama/leute/halle-berry-feiert-long-ass-celebrations-zu-ihrem-60-geburtstag-in-mexiko-a-0b2a9b0d-25ad-4875-a636-ef0ac181d8f9#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/833593dd-a61f-4d9a-ba75-78cf62197fa6_w520_r2.08_fpx56.52_fpy53.jpg",
     "date": 1787575140000
    },
@@ -414,6 +414,18 @@
    }
   ],
   "bild": [
+   {
+    "title": "Weidel-Statistik im BILD-Check - „306.000 arbeitslose Flüchtlinge eingebürgert“ – stimmt das?",
+    "link": "https://www.bild.de/politik/inland/weidel-306-000-arbeitslose-fluechtlinge-eingebuergert-stimmt-das-6a8c0ef3c08bf8a3201883d5",
+    "image": "https://images.bild.de/6a8c0ef3c08bf8a3201883d5/e7474dd33c432103538cc2ca8e0da79b,afe5d40f?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Alles klar mit Wekesser - Schleusener verrät, wie es im Team aussieht",
+    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-fabian-schleusener-verraet-wie-es-im-team-aussieht-6a8c4af53819050268320d16",
+    "image": "https://images.bild.de/6a8c4af53819050268320d16/9c36ba4ad0ce635b347085784e59f800,d9159220?w=1280",
+    "date": 0
+   },
    {
     "title": "Nur Berlin-CDU macht nicht mit - Top-Kandidaten treffen sich bei Skandal-Moschee",
     "link": "https://www.bild.de/politik/inland/berlins-spitzenkandidaten-treffen-sich-bei-skandal-moschee-nur-cdu-macht-nicht-mit-6a8c0c7b511d4fd3bc4e1f9d",
@@ -437,18 +449,6 @@
     "title": "Drei Mega-Poker-Siege - Deutsche Zocker sorgen wieder für Furore",
     "link": "https://www.bild.de/sport/mehr-sport/poker-drei-mega-siege-deutsche-zocker-sorgen-wieder-fuer-furore-6a8bcbc6c3692834ff6da902",
     "image": "https://images.bild.de/6a8bcbc6c3692834ff6da902/3426117013bd5dfbee325024e69b08a3,47cacb21?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Brief an Weidel - AfDler kritisiert „Brandmauer“ innerhalb der AfD",
-    "link": "https://www.bild.de/politik/inland/afd-nrw-krauthausen-beklagt-interne-brandmauern-6a8bcaa5511d4fd3bc4e1a0a",
-    "image": "https://images.bild.de/6a8bcaa5511d4fd3bc4e1a0a/8b38b399eeb1886e88e83d0d3ff93d5a,fb0624ba?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Gegen Langeweile und Übergewicht - Braucht meine Katze wirklich ein Laufrad?",
-    "link": "https://www.bild.de/leben-wissen/haustiere/laufrad-fuer-katzen-wann-es-wirklich-sinnvoll-ist-6a86f95b2073297bd594c0c2",
-    "image": "https://images.bild.de/6a86f95b2073297bd594c0c2/fc8a32349bdd87acb90fadb86686a699,d071290b?w=1280",
     "date": 0
    }
   ],
@@ -493,16 +493,23 @@
   ],
   "rainews": [
    {
-    "title": "Terremoto Amatrice, Diego Della Valle: \"Serve manodopera per riportare industria nel territorio\"",
-    "link": "https://www.rainews.it/video/2026/08/terremoto-amatrice-diego-della-valle-serve-manodopera-per-riportare-industria-nel-territorio-a66943f5-d596-4750-b7cf-e6e283a90680.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/24/1787579955796_son_itv_diego_della_valle.jpg",
-    "date": 1787581260000
+    "title": "Quando il drone decide da solo chi colpire: è iniziata l&#x27;era delle armi autonome",
+    "link": "https://www.rainews.it/articoli/2026/08/quando-il-drone-decide-da-solo-chi-colpire-e-iniziata-lera-delle-armi-autonome-eeb8b340-8c04-4a40-a72a-bff16829d680.html",
+    "image": "https://www.rainews.it/dl/img/2025/01/06/1736136823883_vlcsnap.jpg",
+    "date": 1787581620000,
+    "titleSl": "Quando il drone decide da solo chi colpire: è iniziata l'era delle armi autonome"
    },
    {
     "title": "Dieci anni fa il terremoto di Amatrice, Mattarella: \"Ultimare ricostruzione\". Meloni: \"Acceleriamo\"",
     "link": "https://www.rainews.it/maratona/2026/08/dieci-anni-fa-il-terremoto-di-amatrice-diretta-video-mattarella-ricostruzione-meloni-commemorazione-d3b5d39a-2e45-419b-82aa-419395ae71ea.html",
     "image": "https://www.rainews.it/dl/img/2026/08/14/1786718933751_terremtoamatrice_.jpg",
-    "date": 1787580840000
+    "date": 1787581620000
+   },
+   {
+    "title": "Terremoto Amatrice, Diego Della Valle: \"Serve manodopera per riportare industria nel territorio\"",
+    "link": "https://www.rainews.it/video/2026/08/terremoto-amatrice-diego-della-valle-serve-manodopera-per-riportare-industria-nel-territorio-a66943f5-d596-4750-b7cf-e6e283a90680.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/24/1787579955796_son_itv_diego_della_valle.jpg",
+    "date": 1787581260000
    },
    {
     "title": "Altri due giorni di tagli sul gasolio, sconto di 17 cent. Pichetto: \"A ora non c&#x27;è un Cdm convocato\"",
@@ -522,13 +529,6 @@
     "link": "https://www.rainews.it/articoli/2026/08/condizionatori-oltre-9-edifici-scolastici-su-10-ne-sono-privi-9328e9a3-e470-43d3-8aa0-921efbcc54dd.html",
     "image": "https://www.rainews.it/dl/img/2024/02/18/1708258796577_classroom.jpg",
     "date": 1787577780000
-   },
-   {
-    "title": "L&#x27;Iran: \"Stati Uniti disperati, Hormuz resta chiuso\". Trump: \"Teheran sta collassando\"",
-    "link": "https://www.rainews.it/maratona/2026/08/medio-oriente-guerre-iran-usa-disperati-hormuz-resta-chiuso-bombe-israeliane-su-libano-gaza-cisgiordania-45f03401-97dd-4752-8c8b-00a159b72e75.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/24/1787577735825_Trump_e_Ghalibaf.jpg",
-    "date": 1787577720000,
-    "titleSl": "L'Iran: \"Stati Uniti disperati, Hormuz resta chiuso\". Trump: \"Teheran sta collassando\""
    }
   ],
   "lemonde": [
