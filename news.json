@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T12:30:53.018Z",
+ "generatedAt": "2026-08-24T12:32:26.235Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Počilo v delovni zapori, zaprt desni pas",
+    "link": "https://www.zurnal24.si/slovenija/pocilo-v-delovni-zapori-zaprt-desni-pas-464071",
+    "image": "https://www.zurnal24.si/media/img/2e/4e/d5da2aadeecc70b92b32.png",
+    "date": 1787574660000
+   },
+   {
     "title": "Tu je podražitev goriv, za liter dizla bo treba odšteti rekorden znesek",
     "link": "https://www.zurnal24.si/slovenija/tu-je-podrazitev-goriv-za-liter-dizla-bo-treba-odsteti-rekorden-znesek-464058",
     "image": "https://www.zurnal24.si/media/img/ed/95/20308f1a62fd03763f3d.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kosarka/medtem-ko-lakersi-uzivajo-v-sloveniji-v-los-angelesu-vre-464068",
     "image": "https://www.zurnal24.si/media/img/80/b0/97999c15bb7ff46362a8.jpeg",
     "date": 1787571120000
-   },
-   {
-    "title": "Prevčev veliki rival o sprejetju bolezni: \"Na neki točki spoznaš ...\"",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/prevcev-veliki-rival-o-sprejetju-bolezni-na-neki-tocki-spoznas-464055",
-    "image": "https://www.zurnal24.si/media/img/3d/3f/a340e1c9c51320839e6f.jpeg",
-    "date": 1787564160000
    }
   ],
   "reuters": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Activists occupy UK aircraft parts factory over Israel links",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787573151.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787573264000,
+    "titleSl": "Aktivisti zasedajo tovarno letalskih delov v Združenem kraljestvu prek povezav z Izraelom"
+   },
+   {
+    "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
+    "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260824__2291752878__v1__HighRes__IndianaFeverVChicagoSky-1787570549.jpg?resize=1920%2C1440",
+    "date": 1787573086000,
+    "titleSl": "Nekdanji igralec NBA Enes Kanter je bil izključen po soočenju z oblakom WNBA"
+   },
+   {
     "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
     "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/768769889-1787505063-copy-1787566410.jpg?resize=1920%2C1280&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-21T164704Z_983219370_RC213NA4ZYCI_RTRMADP_3_INDIA-POLITICS-1787568206.jpg?resize=1920%2C1440",
     "date": 1787568801000,
     "titleSl": "Indija je na protestih generacije Z uporabila pelete, granate: Kaj razkriva poročilo Amnestyja"
-   },
-   {
-    "title": "Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision",
-    "link": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-16T164810Z_2044188099_RC2GALAKJOJU_RTRMADP_3_MUSIC-EUROVISION-1787564346.jpg?resize=1920%2C1440",
-    "date": 1787568136000,
-    "titleSl": "Nizozemska javna radiotelevizija bojkotira \"ne več\" nevtralno Evrovizijo"
-   },
-   {
-    "title": "US threatens toughest sanctions yet against Iran: What we know",
-    "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a8bff5dae0a-1787559773.jpg?resize=1920%2C1440",
-    "date": 1787566991000,
-    "titleSl": "ZDA grozijo z najstrožjimi sankcijami proti Iranu doslej: Kaj vemo"
    }
   ],
   "guardian": [
@@ -415,11 +415,30 @@
   ],
   "bild": [
    {
+    "title": "Kracherwoche für Lok Leipzig - Erster Spieler haut Meister-Ansage heraus",
+    "link": "https://www.bild.de/sport/fussball/kracherwoche-fuer-lok-leipzig-erster-spieler-haut-meister-ansage-raus-6a8c1ffc6d71b45dbda0f794",
+    "image": "https://images.bild.de/6a8c1ffc6d71b45dbda0f794/5563b69331e1cc988ccc41f5d13c9d05-landscape,fbb508b5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Wechsel perfekt - Linksverteidiger Pedersen unterschreibt bei Hertha",
+    "link": "https://www.bild.de/sport/fussball/hertha-bsc-linksverteidiger-mats-pedersen-unterschreibt-bis-2027-6a8c2c3a511d4fd3bc4e22db",
+    "image": "https://images.bild.de/6a8c2c3a511d4fd3bc4e22db/a1594b5e961ff9dbea01c7d948f54dac,53e8b121?w=1280",
+    "date": 0
+   },
+   {
     "title": "BILD-Reporterin in Nidda - Was ich am Unfallort erlebte",
     "link": "https://www.bild.de/news/inland/bild-reporterin-in-nidda-was-ich-am-unfallort-erlebte-6a8ae3d7eefcff79c2401071",
     "image": "https://images.bild.de/6a8ae3d7eefcff79c2401071/60ddae758de4b9e1df273a3bfd0d7a28,f69206a2?w=1280",
     "date": 0,
     "titleSl": "BILD-Reporterin v Niddi - Was ich am Unfallort erlebte"
+   },
+   {
+    "title": "„Bares für Rares“ am 24. August 2026 - Antike Vase aus Japan begeistert Händler",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-heute-antikes-erbstueck-aus-japan-verbluefft-expertin-6a8c01cd511d4fd3bc4e1e59",
+    "image": "https://images.bild.de/6a8c01cd511d4fd3bc4e1e59/7a006b449e7fed343b7b6370e4db0880,dc5e9f65?w=1280",
+    "date": 0,
+    "titleSl": "„Bares für Rares“ am 24. Avgust 2026 - Antike Vase aus Japan begeistert Händler"
    },
    {
     "title": "Live-Ticker vor den Wahl-Krimis - WAHLKAMPF-ENDSPURT!",
@@ -432,35 +451,14 @@
     "link": "https://www.bild.de/regional/rostock/live-ticker-zum-mordprozess-um-fabian-gina-h-raeumt-alibi-deal-ein-69f2f4ded6078134c45a3b9c",
     "image": "https://images.bild.de/69f2f4ded6078134c45a3b9c/5b869a1f48e85bacac7a583c3bd05bf8,d9575225?w=1280",
     "date": 0
-   },
-   {
-    "title": "HSV-Mäzen und Lufthansa‑Großaktionär - Milliardär Kühne (89) gestorben",
-    "link": "https://www.bild.de/politik/medienberichte-logistik-milliardaer-klaus-michael-kuehne-89-gestorben-6a8c01c6511d4fd3bc4e1e50",
-    "image": "https://images.bild.de/6a8c01c6511d4fd3bc4e1e50/47c9ae8d3d55dde326a71de06d1b5e87,850156e?w=1280",
-    "date": 0,
-    "titleSl": "HSV-Mäzen und Lufthansa-Großaktionär- Milliardär Kühne (89) gestorben"
-   },
-   {
-    "title": "Amoklauf an Schule in Schweden - Die Pressekonferenz der Behörden",
-    "link": "https://www.bild.de/news/ausland/schwert-angriff-an-schule-in-schweden-pressekonferenz-der-behoerden-6a88bc216151efb61fdf18e0",
-    "image": "https://images.bild.de/6a88bc216151efb61fdf18e0/1c6bd190d98595470a4b0d9c78a50a51,5adfc23a?w=1280",
-    "date": 0,
-    "titleSl": "Amoklauf an Schule v Schweden - Die Pressekonferenz der Behörden"
-   },
-   {
-    "title": "Mann stoppt Würgeschlange - Plötzlich liegt ein 2-Meter-Python im Hausflur",
-    "link": "https://www.bild.de/news/zwei-meter-grosser-python-will-ins-haus-mann-stoppt-wuergeschlange-mit-haenden-6a80a27a2b5959749b19421a",
-    "image": "https://images.bild.de/6a80a27a2b5959749b19421a/5ddb0fe471cd28d6d02ebc851184ebd9,a890559?w=1280",
-    "date": 0,
-    "titleSl": "Mann stoppt Würgeschlange - Plötzlich liegt ein 2-metrski-Python im Hausflur"
    }
   ],
   "krone": [
    {
-    "title": "Vollmond-Finsternis - Diese Woche fliegt auf, was nicht funktioniert",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UQUJELW5mRm1MVVRtY1Frd0dxT3RCeXRyQnVfc2RGSjhmQmtrUXYzY0REQ0pkdjAzU0FnSWZHRXhFQQ?oc=5",
+    "title": "Studentin als Opfer - Falscher Bankberater zockte Wienerin ab: Erbe weg!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HdXFYQWtlazYwa1dNWVg5bHQ0RGJJVVBrLXZkYXRwaUxSampxQTdfQkZXb3JoTTJpRjZWRGtTaW1rdw?oc=5",
     "image": "",
-    "date": 1787574420000
+    "date": 1787574681000
    },
    {
     "title": "Morgenstern fleißig - Trainingslager wird von zwei Vierjährigen geleitet",
