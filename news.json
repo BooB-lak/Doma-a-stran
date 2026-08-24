@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T18:16:27.601Z",
+ "generatedAt": "2026-08-24T18:18:28.560Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "We’re in a New Era of Class Warfare. History Points to a Way Out.",
+    "link": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
+    "image": "",
+    "date": 1787595379000,
+    "titleSl": "Smo v novi dobi razrednega vojskovanja. Zgodovina kaže pot ven."
+   },
+   {
+    "title": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
+    "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24dc-trump-canada-jgqh/24dc-trump-canada-jgqh-mediumSquareAt3X.jpg",
+    "date": 1787595364000,
+    "titleSl": "Trump grozi z novimi 50-odstotnimi carinami na avtomobile, tovornjake in jeklo, ko se odvija trgovinska vojna med ZDA in Kanado"
+   },
+   {
     "title": "Research Firm’s Founder Explains $6 Million Payment to Fired Forbes Editor",
     "link": "https://www.nytimes.com/2026/08/24/business/media/forbes-randall-lane-shook.html",
     "image": "https://static01.nyt.com/images/2026/08/21/business/OakArticle-6a88740c/OakArticle-6a88740c-mediumSquareAt3X.jpg",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24pol-sc-graham-trump01-photo-tpzb/24pol-sc-graham-trump01-photo-tpzb-mediumSquareAt3X.jpg",
     "date": 1787594394000,
     "titleSl": "Trump tvega Darline Graham pred drugim krogom pogajanj v Južni Karolini"
-   },
-   {
-    "title": "Canada Said No to America. It Will Reverberate Far Beyond Its Borders.",
-    "link": "https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html",
-    "image": "https://static01.nyt.com/images/2026/08/25/multimedia/24marche-vtgk/24marche-vtgk-mediumSquareAt3X.jpg",
-    "date": 1787593790000,
-    "titleSl": "Kanada je Ameriki rekla ne. Prevrnil bo daleč preko svojih meja."
-   },
-   {
-    "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-    "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg",
-    "date": 1787593624000,
-    "titleSl": "Britanski premier Burnham prispel v Ukrajino, medtem ko Rusija opozarja"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
-    "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T193540Z_1306600256_RC2I7LA8H5U7_RTRMADP_3_NIGERIA-MILITARY-1785968014.jpg?resize=1920%2C1440",
-    "date": 1787594570000,
-    "titleSl": "Ugrabitelji objavijo videoposnetek, ki prikazuje na stotine ugrabljenih iz nigerijske mošeje"
-   },
-   {
     "title": "Trump administration announces global economic war on Iran",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-18.48.34-1787593857.png?resize=1200%2C675",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AA-20260729-42090373-42090372-UKRAINE_DRONE_ATTACK_PROMPTS_EVACUATION_OF_WILDBERRIES_LOGISTICS_HUB_IN_CENTRAL_RUSSIA-1-1785326903.jpg?resize=1200%2C630",
     "date": 1787590787000,
     "titleSl": "Rusija bo zasegla slabo zaščiteno infrastrukturo, medtem ko ukrajinski jez vztraja"
+   },
+   {
+    "title": "Former snooker world champion Graeme Dott convicted of child sex abuse",
+    "link": "https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8c6d48-1787587912_a263a7-1787587999.jpg?resize=1200%2C630&quality=80",
+    "date": 1787589357000,
+    "titleSl": "Nekdanji svetovni prvak v snookerju Graeme Dott obsojen zaradi spolne zlorabe otrok"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "US treasury secretary announces ‘onslaught’ of sanctions to isolate Iran from world economy – live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/3151c10737f2806cb91ee451302c949fecb34af4/270_0_3598_2878/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=7ce1294d85a31504993da655623b2e3b",
-    "date": 1787594650000,
+    "date": 1787595236000,
     "titleSl": "Ameriški finančni minister najavil \"napad\" sankcij za izolacijo Irana od svetovnega gospodarstva – v živo"
    },
    {
@@ -387,6 +387,12 @@
     "date": 1787590200000
    },
    {
+    "title": "News des Tages: Milliardär Klaus-Michael Kühne ist tot, Raphaël Glucksmann will französischer Präsident werden,Trinkgeld per Karte",
+    "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-milliardaer-klaus-michael-kuehne-ist-tot-raphael-glucksmann-will-franzoesischer-praesident-werden-trinkgeld-per-karte-a-2c7a46db-5987-4ab8-8eb8-4f86b12e5de6#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w520_r2.08_fpx28.09_fpy49.93.png",
+    "date": 1787588520000
+   },
+   {
     "title": "Donald Trump kündigt weitere Zölle von 50 Prozent gegen Kanada an",
     "link": "https://www.spiegel.de/ausland/donald-trump-kuendigt-weitere-zoelle-von-50-prozent-gegen-kanada-an-a-b550c783-bcf6-4135-a122-a8c4e66ee1cf#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/a1165a13-5688-4a72-a69d-bb6bd9639d0c_w520_r2.08_fpx21_fpy44.jpg",
@@ -403,13 +409,6 @@
     "link": "https://www.spiegel.de/mobilitaet/italien-regierung-plant-bussgelder-fuer-abgelenkte-fussgaenger-mit-handy-a-e99381c6-37f2-44d6-98fa-e73e02d311c4#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/f6a8c418-ba2e-426a-9a35-ad5d219097c4_w520_r2.08_fpx50.7_fpy49.99.jpg",
     "date": 1787581680000
-   },
-   {
-    "title": "Immobilien: Warum es gut wäre, wenn die Mieten stärker steigen dürften",
-    "link": "https://www.spiegel.de/wirtschaft/wohnungsmarkt-warum-es-gut-waere-wenn-die-mieten-staerker-steigen-duerften-a-e9b08667-e8ad-4e7d-8c4b-342b7a1b4728#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/13ff95a4-ea10-4df9-b97f-c8167e0f77cc_w520_r2.08_fpx31_fpy47.jpg",
-    "date": 1787579280000,
-    "titleSl": "Imobilien: Warum es gut wäre, wenn die Mieten stärker steigen dürften"
    }
   ],
   "bild": [
