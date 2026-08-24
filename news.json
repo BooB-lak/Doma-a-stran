@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T15:14:25.930Z",
+ "generatedAt": "2026-08-24T15:16:30.609Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,16 @@
   ],
   "24ur": [
    {
-    "title": "Še 25 km: Pogačar v dežju lovi ubežnika",
+    "title": "Še 25 km: Glavnina v dežju lovi ubežnika",
     "link": "https://www.24ur.com/sport/kolesarstvo/rdeci-pogacar-glavni-favorit-gorske-etape.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/e7fc547fea6d558830e6_63636348.jpg?v=0742&fop=fp:0.62:0.24",
-    "date": 1787584368000
+    "date": 1787584525000
+   },
+   {
+    "title": "Oceani 'gorijo': avgusta znova rekordne temperature",
+    "link": "https://www.24ur.com/novice/znanost-in-tehnologija/oceani-gorijo-avgusta-znova-rekordne-temperature.html",
+    "image": "https://images.24ur.com/media/images/213xX/Mar2022/08e073fad4fdd394cd52_62699209.jpg?v=0942&fop=fp:0.41:0.40",
+    "date": 1787584109000
    },
    {
     "title": "Policija zaradi katalonske zastave pretepla mladega navijača",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/med-cakanjem-na-helikopter-planinka-na-nosilih-in-zdravnik-zdrsnili-v-prepad.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/9bb4466faf3c36587c61_63636861.png?v=209f&fop=fp:0.15:0.67",
     "date": 1787581415000
-   },
-   {
-    "title": "Lakersi odleteli, njihov let najbolj spremljan",
-    "link": "https://www.24ur.com/novice/slovenija/slovo-lakersov-kaj-jih-caka-se-pred-odhodom-na-brnik.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/96310208d77a0d02ac3b_63636852.jpg?v=a070&fop=fp:0.49:0.41",
-    "date": 1787581105000
    }
   ],
   "rtvslo": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Umrl eden najbogatejših Evropejcev, njegov imperij je prisoten tudi v Sloveniji",
+    "link": "https://www.zurnal24.si/svet/umrl-eden-najbogatejsih-evropejcev-njegov-imperij-je-prisoten-tudi-v-sloveniji-464077",
+    "image": "https://www.zurnal24.si/media/img/0c/aa/566465e6deaae6a7d70e.jpeg",
+    "date": 1787583660000
+   },
+   {
     "title": "Nevaren virus že na Hrvaškem, okužene tri osebe",
     "link": "https://www.zurnal24.si/zdravje/nevaren-virus-ze-na-hrvaskem-okuzene-tri-osebe-464075",
     "image": "https://www.zurnal24.si/media/img/8b/4a/7bd8b9929480122131e4.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/uporabno/znizajte-stroske-hlajenja-ne-da-bi-se-odpovedali-udobju-464048",
     "image": "https://www.zurnal24.si/media/img/be/3c/45efb6f11d49950e568f.jpeg",
     "date": 1787574180000
-   },
-   {
-    "title": "Sedela na veji, ko se je ta odlomila: Posredoval helikopter",
-    "link": "https://www.zurnal24.si/slovenija/sedela-na-veji-ko-se-je-ta-odlomila-posredoval-helikopter-464070",
-    "image": "https://www.zurnal24.si/media/img/61/a2/45ec2bd522c383b4416f.jpeg",
-    "date": 1787573400000
    }
   ],
   "reuters": [
@@ -202,7 +202,7 @@
     "title": "U.S. to Unveil ‘Economic D-Day’ Sanctions Targeting Iran’s Economy",
     "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24DC-IRAN-BESSENT-kvlh/24DC-IRAN-BESSENT-kvlh-mediumSquareAt3X.jpg",
-    "date": 1787583604000,
+    "date": 1787584337000,
     "titleSl": "ZDA bodo razkrile sankcije \"gospodarskega dneva D\", ki ciljajo na iransko gospodarstvo"
    },
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+    "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7191/live/600d5190-9f7d-11f1-994f-5b14ccb35057.jpg",
+    "date": 1787584507000,
+    "titleSl": "'It's not Alton Towers' - vrstice izbruhnejo nad čakalno vrsto na najvišji gori Walesa"
+   },
+   {
     "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
     "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7356/live/324f6630-9fb4-11f1-aed2-8d6da8d75094.jpg",
@@ -259,7 +266,7 @@
    {
     "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27c8/live/7927c090-9fa3-11f1-bff6-57f1422ebb0b.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
     "date": 1787581868000,
     "titleSl": "Burnham obljubil podporo Ukrajini kljub \"nezaslišanim grožnjam\" Rusije"
    },
@@ -276,16 +283,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b534/live/65133f90-9fc5-11f1-b3e7-331c6d9a8046.jpg",
     "date": 1787581740000,
     "titleSl": "Nekdanji svetovni prvak v snookerju Dott kriv spolne zlorabe otrok"
-   },
-   {
-    "title": "Does Elliott have a Liverpool future after latest omission?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg",
-    "date": 1787581434000,
-    "titleSl": "Ali ima Elliott prihodnost v Liverpoolu po zadnji opustitvi?"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-15.45.12-1787582843.png?resize=1200%2C675",
+    "date": 1787582933000,
+    "titleSl": "V indijskem Manipurju gorijo hiše, ko izbruhne novo nasilje"
+   },
    {
     "title": "Algeria’s schools put Shakespeare before Molière in break from France",
     "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8c352a-1787573546.jpg?resize=1920%2C1440",
     "date": 1787575733000,
     "titleSl": "Štirje aretirani zaradi streljanja na južnoafriškega boksarja Zolanija Teteja"
-   },
-   {
-    "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-    "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-24T055101Z_1827342676_RC25S9ADUPWQ_RTRMADP_3_SOUTHKOREA-USA-DRILLS-1787569469.jpg?resize=1920%2C1440",
-    "date": 1787574506000,
-    "titleSl": "Južna Koreja pravi, da so ZDA odpovedale prihajajoče skupne pomorske vaje zaradi iranske vojne"
    }
   ],
   "guardian": [
@@ -375,6 +375,12 @@
   ],
   "spiegel": [
    {
+    "title": "Sebastian Vettel: Ex-Formel-1-Weltmeister will nun das Segeln lernen",
+    "link": "https://www.spiegel.de/sport/formel1/sebastian-vettel-ex-formel-1-weltmeister-will-nun-das-segeln-lernen-a-c924f0d1-fe9c-4aa3-b4a5-4085b0562f8c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/56211136-5ec0-4641-ae11-02abe21b67f1_w520_r2.08_fpx40.65_fpy50.98.jpg",
+    "date": 1787583540000
+   },
+   {
     "title": "Bizarrer Wahlkampf in Alaska: Dan Sullivan unterstützt Dan Sullivan – aber NICHT Dan Sullivan",
     "link": "https://www.spiegel.de/ausland/bizarrer-wahlkampf-in-alaska-dan-sullivan-unterstuetzt-dan-sullivan-aber-nicht-dan-sullivan-a-3aaf60e9-b13f-441c-8b9f-9cc0775e2ff4#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/dda80ac4-be1e-4c70-b3e1-88a45255198c_w520_r2.08_fpx37.23_fpy49.98.jpg",
@@ -406,12 +412,6 @@
     "link": "https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-erneutem-us-angriff-gegen-mutmassliches-drogenschmuggelboot-a-617803be-6588-43cf-8f89-b06011125b97#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/6c5deef6-d890-4a8b-850a-fffed7dd991f_w520_r2.08_fpx51.19_fpy44.99.jpg",
     "date": 1787576760000
-   },
-   {
-    "title": "Raphaël Glucksmann: Partnerin Léa Salamé gibt TV-Nachrichten wegen Präsidentschaftskandidatur ab",
-    "link": "https://www.spiegel.de/kultur/tv/raphael-glucksmann-partnerin-lea-salame-gibt-tv-nachrichten-wegen-praesidentschaftskandidatur-ab-a-533d94c7-0cd9-4822-a6e6-f11de82bc320#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/15938f36-b880-4dbf-a657-673a804e5a2f_w520_r2.08_fpx54.65_fpy50.jpg",
-    "date": 1787575620000
    }
   ],
   "bild": [
@@ -535,6 +535,12 @@
   ],
   "lemonde": [
    {
+    "title": "Intelligence artificielle : les publicités arrivent sur ChatGPT en France",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/24/intelligence-artificielle-les-publicites-arrivent-sur-chatgpt-en-france_6755543_3234.html",
+    "image": "https://img.lemde.fr/2026/05/13/358/0/8256/4128/644/322/60/0/af7f983_ftp-1-nmxa6kuluqt4-5015266-01-06.jpg",
+    "date": 1787584122000
+   },
+   {
     "title": "L’océan a atteint un record de température moyenne journalière à 21,1 °C samedi, selon Copernicus",
     "link": "https://www.lemonde.fr/planete/article/2026/08/24/l-ocean-a-atteint-un-record-de-temperature-moyenne-journaliere-a-21-1-c-samedi-selon-copernicus_6755509_3244.html",
     "image": "https://img.lemde.fr/2026/08/24/212/0/3420/1710/644/322/60/0/35e174c_upload-1-s1rbsvzyykzh-000-c62y2em.jpg",
@@ -567,12 +573,6 @@
     "image": "https://img.lemde.fr/2026/08/24/412/0/8000/4000/644/322/60/0/3b0670c_upload-1-qqdstlavhqk5-jmug260824001.jpg",
     "date": 1787579546000,
     "titleSl": "Franchises médicales : le gouvernement veut porter le plafond à 140 evrov par l 'Adoption d' un décret, après avoir renoncé à le doubleler"
-   },
-   {
-    "title": "Noël Godin, comique belge et « entarteur » en série, est mort",
-    "link": "https://www.lemonde.fr/disparitions/article/2026/08/24/noel-godin-comique-belge-et-entarteur-en-serie-est-mort_6755437_3382.html",
-    "image": "https://img.lemde.fr/2026/08/24/0/0/3643/1821/644/322/60/0/beff655_ftp-1-vose1foaanxn-5910959-01-06.jpg",
-    "date": 1787577976000
    }
   ],
   "elpais": [
