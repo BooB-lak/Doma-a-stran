@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T15:16:30.609Z",
+ "generatedAt": "2026-08-24T15:18:27.047Z",
  "sources": {
   "siol": [
    {
@@ -199,11 +199,25 @@
   ],
   "nyt": [
    {
+    "title": "The Ruthless Efficiency of Ultrapotent Street Drugs",
+    "link": "https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html",
+    "image": "https://static01.nyt.com/images/2026/06/16/multimedia/00HS-DRUGS-BALTIMOREnew-01-hltp/00HS-DRUGS-BALTIMOREnew-01-hltp-mediumSquareAt3X.jpg",
+    "date": 1787584371000,
+    "titleSl": "Neusmiljena učinkovitost ultramočnih uličnih drog"
+   },
+   {
     "title": "U.S. to Unveil ‘Economic D-Day’ Sanctions Targeting Iran’s Economy",
     "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24DC-IRAN-BESSENT-kvlh/24DC-IRAN-BESSENT-kvlh-mediumSquareAt3X.jpg",
     "date": 1787584337000,
     "titleSl": "ZDA bodo razkrile sankcije \"gospodarskega dneva D\", ki ciljajo na iransko gospodarstvo"
+   },
+   {
+    "title": "Firefighters Grapple With Nevada Blaze That Drove Thousands From Homes",
+    "link": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24nat-reno-zmck/24nat-reno-zmck-mediumSquareAt3X.jpg",
+    "date": 1787584171000,
+    "titleSl": "Gasilci se spopadajo z ognjem v Nevadi, ki je privedel na tisoče domov"
    },
    {
     "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/14/multimedia/00biz-hugging-face-02-fjvg/00biz-hugging-face-02-fjvg-mediumSquareAt3X.jpg",
     "date": 1787581234000,
     "titleSl": "Potem ko so A.I. agenti napadli objemni obraz, se je začel križarski pohod"
-   },
-   {
-    "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
-    "link": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
-    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20biz-attiah-Karen-Attiah-klfz/20biz-attiah-Karen-Attiah-klfz-mediumSquareAt3X.jpg",
-    "date": 1787581170000,
-    "titleSl": "Washington Post je odredil, da se ponovno zaposli odpuščena kolumnistka Karen Attiah"
-   },
-   {
-    "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
-    "link": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
-    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24biz-osb-lpvw/24biz-osb-lpvw-mediumSquareAt3X.jpg",
-    "date": 1787580219000,
-    "titleSl": "Cene nafte padajo pred zavezo ZDA, da bodo okrepile gospodarsko vojno proti Iranu"
    }
   ],
   "bbc": [
@@ -456,6 +456,12 @@
   ],
   "krone": [
    {
+    "title": "Intelligente Lichtchen - Lepro-Lampen im Test: Bringt KI die Erleuchtung?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5mbGQ2bGpydUpmYVItMnZpV2Q0eTZWYS03Q2tvM1pYRDdJeDhkM1dBdGt2aF9rMXVFbkZZWTBPS0Z3QQ?oc=5",
+    "image": "",
+    "date": 1787584320000
+   },
+   {
     "title": "„Das ist wirklich nur eine Geldmacherei“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPcDRDNjVEMklYV2haZWF2YlBmRjMwUFpodDNEVUpzWkZaNUhTQkllbWRhN2R4RXdxeGtLS1V6LUFyZw?oc=5",
     "image": "",
@@ -485,12 +491,6 @@
     "image": "",
     "date": 1787583600000,
     "titleSl": "Die Rechnung ist da - WM-Trip des Kanzlers kostet den Staat 100.000 EUR"
-   },
-   {
-    "title": "Mit 61 Jahren - Carmen Geiss zeigt ihre Mega-Bauchmuskeln",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tTzk3SThKd1VOVEVvN2w2cVJrM2hLbXFVZUpNZHZMRG1SU3RlUnZteXl1cHhpdEF4QzJRWGNXN2RjQQ?oc=5",
-    "image": "",
-    "date": 1787583600000
    }
   ],
   "rainews": [
@@ -580,7 +580,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno anuncia un mando único para gestionar la crisis de Ceuta",
     "link": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/MKKDGR5RLNG37GR4Z22HJQ7D7Y.jpg?auth=0733a0b6051891bb50e4edbcf20b10ea8c19d50242ca5fb84f9db21e4a1864ca",
-    "date": 1787584196000
+    "date": 1787584636000
    },
    {
     "title": "Trump anuncia aranceles del 50% para vehículos y acero de Canadá desde el 1 de enero de 2027",
