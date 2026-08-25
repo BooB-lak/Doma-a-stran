@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T00:36:23.721Z",
+ "generatedAt": "2026-08-25T00:38:24.482Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+    "link": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-canada-trade-economy-zmtg/24int-canada-trade-economy-zmtg-mediumSquareAt3X.jpg",
+    "date": 1787618014000,
+    "titleSl": "Ameriške tarife bi lahko kanadske družbe spravile iz ZDA in ogrozile na tisoče delovnih mest"
+   },
+   {
     "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
     "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24dc-trump-sanctions-hlcq/24dc-trump-sanctions-hlcq-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24nat-clancy-zhpb/24nat-clancy-zhpb-mediumSquareAt3X.jpg",
     "date": 1787614133000,
     "titleSl": "Verske reference v sodni jezi in obrambi Lindsay Clancy"
-   },
-   {
-    "title": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
-    "link": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
-    "image": "https://static01.nyt.com/images/2026/08/21/multimedia/00pol-usps-elections-alt2-vpth/00pol-usps-elections-alt2-vpth-mediumSquareAt3X.jpg",
-    "date": 1787612941000,
-    "titleSl": "Trump je tiho iskal nadzor nad poštnimi storitvami, da bi preoblikoval volitve v ZDA"
    }
   ],
   "bbc": [
@@ -458,6 +458,31 @@
   ],
   "krone": [
    {
+    "title": "Das freie Wort - Frau Meinl-Reisinger und die Pensionen",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XWEg4WjhrTDVwZm90WXhLTUUxd2E2X1VVYkZ2RERrX0VwdlM0RHEtbnRucUNrZkNFY04zUUVYOGlXS1VRZWlPUTluazVOVmg5WXVqMTlFUlprbXJEOTBHVDlFQ1dxeFVzSFhudw?oc=5",
+    "image": "",
+    "date": 1787618220000
+   },
+   {
+    "title": "Das freie Wort - Gehaltskürzungen.",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iT3RnRVd5RzhnUmZaT2lqbXVTak1kRVg0MVllVThXTlZBQWVJSWRjRDBLWmVTYUlFb3lnQ19NYTE3aUxHZVQ1ODNIR2tsN28wZGRWekc2N1F0ZmtqNkJPUU1OakF2ejNxcHJXMg?oc=5",
+    "image": "",
+    "date": 1787618217000
+   },
+   {
+    "title": "„Schnurrli“ überlebt Horror-Unfall",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qcEF2MzIzNmMxa28yVEVsU0hkbFhISmVmLW1pQ1pfZzN1NHQ1Tmw5RmswWUZ6ZkM0bHBMckkwbzktaXc4NGhvMVdhRWRZWTBLSERPbnJUS1l1T2hyeUcwMkcyRkxCRGt4ZlNmaw?oc=5",
+    "image": "",
+    "date": 1787618208000
+   },
+   {
+    "title": "Das freie Wort - Interview mit Ex-Kanzler Kurz",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwaFNqa1huR2JuN3lNUDlyN3h3UndMQXlGcDRWODJIVlNfNVBtZWR2MDB1NnlLRVAzc3l1NjQtQU5PbWRCZ2dMcFZUaHBlUERsazRZX1pEYUpqMDRoRDI0ZVpuVzZzRG93S3M3dQ?oc=5",
+    "image": "",
+    "date": 1787618176000,
+    "titleSl": "Das freie Wort - Intervju mit Ex-Kanzler Kurz"
+   },
+   {
     "title": "Bundesliga-Rückblick ++ Titel für Fils und Gauff",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IRTAxQnk4NGdLdEEzNzdZLWVXaVBwZ2NRWE5CWFkwSzQ4NEsyeGp0TGl5U3FpbGNqd3FkXzFkekpvdw?oc=5",
     "image": "",
@@ -465,33 +490,9 @@
    },
    {
     "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zSnJ5X042VDdSeGcxQTV3NEhqWWEyS1RZUVdUOWtSeTZMdkU2elBLa05nTlFRb2F1MFYzTGpmbzQ1OUFPRWVYU2JQczlEamtFT0Z3dlo0bw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03NUNadDBLNnViX2k0YjlXeUVpRmdKWjF1NzhWN3EwM3VoOFZXWUxLdVRheExZS2lNMXprNmVNVVV0ZkhBdHV6UVRoXzdjQTVzQlJGZkVPdw?oc=5",
     "image": "",
-    "date": 1787610942000
-   },
-   {
-    "title": "Einvernahme läuft - Heiße Spur zu möglichem Todeslenker von Globasnitz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WRnF5U1BiMlJjeUt6a3pjbDAydDEtTUlJNGRFNTB5VVFTYU9ZSktnaEZPalNBTXpKcFFKYjl1S2ctdw?oc=5",
-    "image": "",
-    "date": 1787605260000
-   },
-   {
-    "title": "„Iran versuchte einen meiner Söhne zu töten“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fcTlZcmhJQU5HNGprNDQ2aGRzNDVHcnZ3STJ1NmZIM1R2UW1yZkkwRnkzRW5LOUIyZnZGVUJGUU9kZw?oc=5",
-    "image": "",
-    "date": 1787605200000
-   },
-   {
-    "title": "Liverpool-Leihgabe - Levante holt Punkt – Ndukwe noch ohne Einsatz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PQmxaZUZ2QXE0bkFzVXBKd09nMm96UXUxUTJ1YTBUY2g1XzE1Zk54R3VSZjI3SHJTZmZoeUotdGluZw?oc=5",
-    "image": "",
-    "date": 1787603400000
-   },
-   {
-    "title": "Nach Kopfstoß - Rotsünder Schierl fehlt Lustenau zwei Spiele",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53U2ZvR3lCbXY3dVptZTJleFJCR1MxU3k1Mnc5ejcyMlZwZHJGQXRidk9pYW1oRzVaZEFEY2pONkJLQQ?oc=5",
-    "image": "",
-    "date": 1787603220000
+    "date": 1787611029000
    }
   ],
   "rainews": [
