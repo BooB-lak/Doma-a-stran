@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T19:16:26.765Z",
+ "generatedAt": "2026-08-25T19:18:25.844Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Po 36 letih znova neposredno iz Ljubljane v New York",
+    "link": "https://www.24ur.com/novice/slovenija/po-36-letih-znova-neposredno-iz-ljubljane-v-new-york.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2026/3ce529fc3d9ac6436fa5_63609217.jpg?v=f574&fop=fp:0.42:0.44",
+    "date": 1787685460000
+   },
+   {
     "title": "LASK – Celtic: Podjetnejši začetek domačih, a še brez golov",
     "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/lask-pred-domacimi-navijaci-lovi-cudez-proti-celticu.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/aa5b762936a574b583e0_63637035.jpg?v=60b3&fop=fp:0.43:0.33",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/priceske-nogometasev-skoraj-tako-pomembne-kot-njihovi-goli.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/5b69829c102188d9faf8_63637582.jpg?v=8356&fop=fp:0.49:0.18",
     "date": 1787682598000
-   },
-   {
-    "title": "'Potrebujemo več dreves, ne betona', občina: Obnova je načrtovana že več let",
-    "link": "https://www.24ur.com/novice/slovenija/potrebujemo-vec-dreves-ne-betona-obcina-obnova-je-nacrtovana-ze-vec-let.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/9f36b3a964afd22d8397_63637577.jpg?v=5e7f&fop=fp:0.52:0.40",
-    "date": 1787682077000
    }
   ],
   "rtvslo": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
+    "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ca/live/34f847c0-a0b4-11f1-8229-b91d73b62f74.jpg",
+    "date": 1787685100000,
+    "titleSl": "Španska vlada se prebivalcem Ceute opravičuje za migrantsko krizo"
+   },
+   {
     "title": "Littler's Players Championship hopes dented",
     "link": "https://www.bbc.co.uk/sport/darts/articles/c36ln69p1ldo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f7f/live/64a45140-a0ae-11f1-a54e-272d756c341e.jpg",
@@ -276,16 +283,30 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
     "date": 1787680443000,
     "titleSl": "Kanada napoveduje povračilne tarife \"dolar za dolar\" za ZDA do 50%"
-   },
-   {
-    "title": "Trump says all mines cleared from Strait of Hormuz",
-    "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e344/live/b6975340-a0a3-11f1-84a9-276d1a8e5a22.jpg",
-    "date": 1787679170000,
-    "titleSl": "Trump pravi, da so iz Hormuške ožine odstranjene vse mine"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Kurdish-led forces in Syria dissolve after merging with the army",
+    "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260821__C6924MH__v1__MidRes__SyriaMilitaryParadeKurds-1787684385.jpg?resize=1200%2C630",
+    "date": 1787685232000,
+    "titleSl": "Kurdske sile v Siriji se po združitvi z vojsko razpustijo"
+   },
+   {
+    "title": "Israeli protesters block aid trucks from reaching Gaza",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787684528.jpg?resize=1920%2C1071&quality=80",
+    "date": 1787684538000,
+    "titleSl": "Izraelski protestniki blokirajo tovornjake s pomočjo, da bi dosegli Gazo"
+   },
+   {
+    "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787683985.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787684041000,
+    "titleSl": "Video: Izraelske sile vdrejo v center ZN za usposabljanje in dvignejo izraelsko zastavo"
+   },
    {
     "title": "Syria’s economy poised for improvement after US sanctions removal",
     "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
@@ -301,32 +322,11 @@
     "titleSl": "Sirija se \"otrese\" preteklosti z odstranitvijo s seznama \"teroristov\" v ZDA, pravi al-Sharaa"
    },
    {
-    "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+    "title": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
     "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-31T200758Z_16775392_RC27PMAYEP67_RTRMADP_3_USA-TRUMP-1787674505.jpg?resize=1920%2C1440",
     "date": 1787680897000,
-    "titleSl": "Kremelj zanika načrtovane pogovore z ameriškimi odposlanci ob poročilih vodje Cie v Rusiji"
-   },
-   {
-    "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
-    "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP166943980957-1787654685.jpg?resize=1920%2C1371",
-    "date": 1787679562000,
-    "titleSl": "Fatah in blok Dahlan pred palestinskimi volitvami vodita pogovore o spravi"
-   },
-   {
-    "title": "Spain requests emergency funding from the EU over Ceuta migrants",
-    "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a80b1ace52b-1786818988.jpg?resize=1920%2C1440",
-    "date": 1787679069000,
-    "titleSl": "Španija zahteva nujno financiranje EU zaradi migrantov iz Ceute"
-   },
-   {
-    "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-    "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-08-14T235750Z_524130008_RC2B7GAP95UP_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1787674939.jpg?resize=1920%2C1440",
-    "date": 1787678821000,
-    "titleSl": "Večina ameriških demokratov v začetku leta 2028 primarne države nasprotujejo pomoči Izraelu: Anketa"
+    "titleSl": "Kremelj zanika pogovore z ZDA zaradi poročil direktorja Cie Ratcliffa v Rusiji"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Tributes pour in after country music legend Dolly Parton dies aged 80: ‘Thank you, Lord, for Dolly’ – latest updates",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
     "image": "https://i.guim.co.uk/img/media/0e08b227a9ae9781b9d354c759cf93763c741f16/363_0_4105_3284/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=51fb110178055dbfa34d397d06af9ac7",
-    "date": 1787685275000,
+    "date": 1787684995000,
     "titleSl": "Po 80. letu starosti umre legenda country glasbe Dolly Parton: \"Hvala, Gospod, za Dolly\" – najnovejše posodobitve"
    },
    {
@@ -542,7 +542,7 @@
     "title": "Les syndicats de policiers font monter la pression sur les questions budgétaires",
     "link": "https://www.lemonde.fr/societe/article/2026/08/25/les-syndicats-de-policiers-font-monter-la-pression-sur-les-questions-budgetaires_6756621_3224.html",
     "image": "https://img.lemde.fr/2026/08/25/403/0/5780/2890/644/322/60/0/6e82221_upload-1-f803iq9vsogf-000-97df8jn.jpg",
-    "date": 1787683548000
+    "date": 1787683545000
    },
    {
     "title": "Dolly Parton, reine de la musique country et autrice-interprète de la chanson culte « Jolene », est morte",
