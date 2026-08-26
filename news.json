@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26T21:02:26.922Z",
+ "generatedAt": "2026-08-26T21:04:26.687Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "Po zapravljeni priložnosti Kučysa sledi podaljšek (1:1)*",
+    "title": "V začetku podalška nevarnejši Slovan (1:1)*",
     "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/slovenija-diha-s-celjani-ki-so-korak-oddaljeni-od-zgodovine.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/bb00cd568327617e2f34_63638079.jpg?v=fda8&fop=fp:0.62:0.37",
-    "date": 1787778083000
+    "date": 1787778132000
    },
    {
     "title": "Nenadne poplave v Nepalu: 'Cele vasi so bile izbrisane'",
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
+    "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26208783888484-1787773972.jpg?resize=1920%2C1440",
+    "date": 1787777950000,
+    "titleSl": "ZDA pravijo, da so hekerji, povezani s Kitajci, napadli Naso, Senat in vladne agencije"
+   },
+   {
+    "title": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers",
+    "link": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8f2742dce4d-1787766594.jpg?resize=1920%2C1440",
+    "date": 1787777135000,
+    "titleSl": "Nigerija začenja lov za več sto ugrabljenih častilcev mošej"
+   },
+   {
     "title": "What’s behind the SDF’s deal with Damascus?",
     "link": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787774499.jpg?resize=1920%2C1080&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/WIDE-IMAGE-1787773256.jpg?resize=1920%2C1080&quality=80",
     "date": 1787773295000,
     "titleSl": "Video: Ukrajinski brezpilotni zrakoplovi ciljajo na spletno trgovsko vozlišče Wildberries v Rusiji"
-   },
-   {
-    "title": "Israel-Hamas truce failure ‘point of no return,’ envoy warns",
-    "link": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26238387733561-1787762555.jpg?resize=1920%2C1440",
-    "date": 1787772694000,
-    "titleSl": "Neuspeh premirja med Izraelom in Hamasom \"točka brez vrnitve\", opozarja odposlanec"
-   },
-   {
-    "title": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
-    "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8f2dd910bb8-1787768281.jpg?resize=1920%2C1440",
-    "date": 1787772304000,
-    "titleSl": "Vodja UNRWA obsoja izraelsko zasedbo centra za usposabljanje v vzhodnem Jeruzalemu"
    }
   ],
   "guardian": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Horror-Flug zu US Open - Wurden Tennis-Star und ihr Hund mies behandelt?",
+    "link": "https://www.bild.de/sport/mehr-sport/anastasia-potapova-stewardess-drohte-mir-mit-rauswurf-6a8f4ae0518a586e185597da",
+    "image": "https://images.bild.de/6a8f4ae0518a586e185597da/0393299e08372b5f39c89a652316c03b,7d763353?w=1280",
+    "date": 0
+   },
+   {
     "title": "Rassismus-Skandal an Uniklinik - Oberarzt gefeuert!",
     "link": "https://www.bild.de/politik/inland/rassismus-an-klinik-oberarzt-will-migranten-verbrennen-und-erschiessen-6a8eb8c6692b2e9e3efcb6c1",
     "image": "https://images.bild.de/6a8eb8c6692b2e9e3efcb6c1/2f621e0045c3bf68875b9e07cc02ed35,8d5b24ff?w=1280",
@@ -444,20 +450,27 @@
     "link": "https://www.bild.de/news/inland/zwei-eintraege-passen-nicht-das-raetsel-um-gina-h-s-bewegungsdaten-6a8f1e4b518a586e185595d3",
     "image": "https://images.bild.de/6a8f1e4b518a586e185595d3/89df8c00c4ec96726102956862ebcb02,a221d09e?w=1280",
     "date": 0
-   },
-   {
-    "title": "10:0 – Preußen gnadenlos - „Kleiner Schulle“ schnürt Viererpack",
-    "link": "https://www.bild.de/sport/fussball/10-0-preussen-gnadenlos-kleiner-schulle-schnuert-viererpack-6a8f471c8a7786c19f335421",
-    "image": "https://images.bild.de/6a8f471c8a7786c19f335421/c5a6645f47b3afa500007cd19c314514,dc592f59?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Harald Schmidt - Star-Entertainer tauschte Schiff gegen Schloss",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51M0RCMHpocEpCamZWYVlOSkpuZmlnSTdLeVlCY1NsVFhmNUdZQ0twT3Vmd2UyazZrNVJZYjBBSzhyUQ?oc=5",
+    "image": "",
+    "date": 1787778000000
+   },
    {
     "title": "Zugriff in Spanien - Polizei fasst den gefährlichen „Ausbruch-Zauberer“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBudUVHclkyM3VyQjVwdi1iNDNMUFFWLXgwRmNBNE1WOVBLZXFzNzNrUzlxQXF4c0lxOFhIUlZTRHdqdw?oc=5",
     "image": "",
     "date": 1787777700000
+   },
+   {
+    "title": "Champions League - St. Pölten nach 0:3 gegen Juventus vor dem Aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kWTdmbm9hU1BhdEFQellUbWt3RmlDbU5VMW5kdUVIa09Dcy1HU0x2MFhodFktTWJfODR2cUVoTldrZw?oc=5",
+    "image": "",
+    "date": 1787777400000,
+    "titleSl": "Liga prvakov - St. Pölten nach 0:3 gegen Juventus vor dem Aus"
    },
    {
     "title": "Sturzflut in Nepal - Hunderte Reisende vermisst: Video zeigt Todeswelle",
@@ -477,18 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwOHFMWERuUXZNckRHZ3otcGpJRkxGR0E5RDlwNGhiQzlyR0pjWG5QZFZWZkh0S1dnbjhIYjVPYzdzdw?oc=5",
     "image": "",
     "date": 1787776380000
-   },
-   {
-    "title": "Wo war die Kontrolle? - Tierschützer wollen vor Horror-Hof demonstrieren",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxV21sVG5BbktQWlVLUXVqUF85bHVCc19mZWw4cm5JYV9rUC04eEV1YUpKQ0lTS3F1N3NHaTZHTVNxUQ?oc=5",
-    "image": "",
-    "date": 1787776200000
-   },
-   {
-    "title": "„Natürlich ist es ein fürchterlicher Abend“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zVHcycExCbXEwMmtYUS01akQ0RU1FX3h5Nl80MHF4SFVNbTAyR2o2YndDek9xNUJtWG9VNXlVQlpyQQ?oc=5",
-    "image": "",
-    "date": 1787775420000
    }
   ],
   "rainews": [
@@ -572,10 +573,10 @@
   ],
   "elpais": [
    {
-    "title": "Real Madrid - Real Sociedad en directo | Mbappé marca su tercer tanto y sentencia el partido",
+    "title": "Real Madrid - Real Sociedad en directo | El Real Madrid doblega a la Real Sociedad con un triplete de Mbappé y un gol de Vinicius",
     "link": "https://elpais.com/deportes/futbol/2026-08-26/real-madrid-real-sociedad-en-directo-el-partido-de-la-liga-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/V6E7NZCG6NLRBOXPNK27ZEJCOU.jpg?auth=c7a516948823576bfa32ea67f2b5c631618bd60a0ef91a2dd595f104db63cbd9",
-    "date": 1787777823000
+    "date": 1787777973000
    },
    {
     "title": "Nvidia logra doblar ingresos y beneficios en plena resaca bursátil de la IA",
