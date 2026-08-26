@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26T12:40:49.937Z",
+ "generatedAt": "2026-08-26T12:45:15.554Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/slovenija/nagrada-za-bsh-in-ds-smith-zlato-priznanje-za-inovativno-embalazo-za-palicne-mesalnike-699871",
     "image": "https://siol.net/media/img/10/54/be3c7a9defa32b789711.jpeg",
     "date": 1787747700000
+   },
+   {
+    "title": "Katastrofa v Nepalu: izbrisana so celotna naselja, pogrešanih je ogromno #video",
+    "link": "https://siol.net/apokalipticna-katastrofa-v-nepalu-izbrisala-celotne-vasi-pogresanih-je-ogromno-video-699874",
+    "image": "https://siol.net/media/img/7e/d3/811f6cacbfb38234f1c1.jpeg",
+    "date": 1787747640000
    },
    {
     "title": "Tožilstvo zaključilo preiskavo: Ni dokazov, da je Snežič prejemal podkupnino",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/benjamin-netanjahu-ne-vidi-moznosti-za-diplomatski-dogovor-z-iranom-699867",
     "image": "https://siol.net/media/img/2e/dd/0527c5e285394b3980a1.jpeg",
     "date": 1787744640000
-   },
-   {
-    "title": "Ukrajina Elonu Musku podelila najvišje državno odlikovanje",
-    "link": "https://siol.net/novice/svet/ukrajina-elonu-musku-podelila-najvisje-drzavno-odlikovanje-699865",
-    "image": "https://siol.net/media/img/08/fd/278761c6feaaad2a3c88.jpeg",
-    "date": 1787744280000
    }
   ],
   "24ur": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+    "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d165/live/62eb5330-a149-11f1-aed2-8d6da8d75094.jpg",
+    "date": 1787747764000,
+    "titleSl": "Video prikazuje obseg hude poplave, ki je prizadela mejo med Nepalom in Tibetom"
+   },
+   {
     "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
     "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226e/live/30231dc0-a11c-11f1-a291-b542ee92de7c.jpg",
@@ -276,16 +283,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079f/live/4d3e8c50-a126-11f1-8c37-3f30331ac537.jpg",
     "date": 1787746303000,
     "titleSl": "Kako je Dolly Parton pomagala svetu - od otroških knjig do podpore Covid cepivu"
-   },
-   {
-    "title": "Prince Harry and Meghan land in UK",
-    "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64db/live/e2854ca0-a148-11f1-9311-09d4e1fc9016.jpg",
-    "date": 1787746052000,
-    "titleSl": "Princ Harry in Meghan pristaneta v Združenem kraljestvu"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Deadly flash floods sweep through northern Nepal",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787748154.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787748254000,
+    "titleSl": "Smrtonosne hude poplave se širijo po severnem Nepalu"
+   },
    {
     "title": "CCTV captures terrifying mudslide engulfing Nepal-China border",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8ea94508-1787734341.jpg?resize=1920%2C1440",
     "date": 1787745909000,
     "titleSl": "Iran in Oman se strinjata o začasni poti Hormuz: Kaj vemo"
-   },
-   {
-    "title": "Dead whale washes ashore on beach in Mexico",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787745611.jpg?resize=1200%2C675",
-    "date": 1787745862000,
-    "titleSl": "Mrtvi kit plava na obali v Mehiki"
    }
   ],
   "guardian": [
@@ -414,40 +414,42 @@
   ],
   "bild": [
    {
+    "title": "Familienumzug - Harry und Meghan in Großbritannien gelandet",
+    "link": "https://www.bild.de/unterhaltung/medienbericht-harry-und-meghan-kommen-schon-heute-in-grossbritannien-an-6a8ecd03518a586e18558ea3",
+    "image": "https://images.bild.de/6a8ecd03518a586e18558ea3/967988abfaecfb66569b75c4a99db13a,9d9bd836?w=1280",
+    "date": 0,
+    "titleSl": "Familienumzug - Harry in Meghan in Großbritannien gelandet"
+   },
+   {
+    "title": "Geldsegen für Finanzminister - Zuckersteuer bringt dem Staat vier Milliarden Euro",
+    "link": "https://www.bild.de/politik/inland/zuckersteuer-bringt-dem-staat-vier-milliarden-euro-mehr-ein-6a8ea8c40a3e8cd36757c780",
+    "image": "https://images.bild.de/6a8ea8c40a3e8cd36757c780/ec277082f9b40ff1a2d1c086868490d6,dbea5289?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Beauty-Alarm - Wer versteckt sich denn hier hinter der Maske?",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sie-glauben-nicht-wer-sich-hinter-der-maske-versteckt-6a8ecb61198bb9fbdfaffa21",
+    "image": "https://images.bild.de/6a8ecb61198bb9fbdfaffa21/71b1a4369e06100b02edf69bc3da39c8,9c81dac8?w=1280",
+    "date": 0
+   },
+   {
+    "title": "CIA-Direktor John Ratcliffe - Was macht Trumps Top-Agent in Moskau?",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/cia-direktor-john-ratcliffe-was-macht-trumps-top-agent-in-moskau-6a8e7a1e0797e27ac1de032b",
+    "image": "https://images.bild.de/6a8e7a1e0797e27ac1de032b/a3971f0dec7d1c3f37d4f78f4d9fb2f8,73ee3f53?w=1280",
+    "date": 0,
+    "titleSl": "Direktor CIA John Ratcliffe - Ali je bil Macht Trumps Top-Agent v Moskau?"
+   },
+   {
+    "title": "Polizei jagt Hooligans - Brutale Fan-Prügelei in Leipzig",
+    "link": "https://www.bild.de/sport/fussball/leipzig-gewalt-zwischen-chemie-und-lok-fans-polizei-sucht-zeugen-6a8ecb53518a586e18558e85",
+    "image": "https://images.bild.de/6a8ecb53518a586e18558e85/6c5d7a543b8076991a796d59f2287814,befb94cf?w=1280",
+    "date": 0,
+    "titleSl": "Polizei jagt Hooligans - Brutale Fan-Prügelei v Leipzigu"
+   },
+   {
     "title": "Fieses Virus wütet - Kabinen-Angst bei Lok Leipzig",
     "link": "https://www.bild.de/sport/fussball/uebles-virus-wuetet-kabinen-angst-bei-lok-leipzig-6a8ed4ba518a586e18558f90",
     "image": "https://images.bild.de/6a8ed4ba518a586e18558f90/e6ecb7bfb82ad5a5e732c0a971f4be8e,9e98c962?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Dörfer weggespült - Sturzflut in Nepal! Hunderte Touristen vermisst",
-    "link": "https://www.bild.de/news/doerfer-weggespuelt-sturzflut-in-nepal-291-touristen-vermisst-6a8ecb64518a586e18558e8c",
-    "image": "https://images.bild.de/6a8ecb64518a586e18558e8c/c9246ccdafb738a0e82227bd715c9cbb,c9c3ff59?w=1280",
-    "date": 0,
-    "titleSl": "Dörfer weggespült - Sturzflut v Nepalu! Hunderte Touristen vermisst"
-   },
-   {
-    "title": "Live-Ticker zum 73. Prozesstag - Hensel-Anwalt: „Block verstrickt sich weiter in ihr Lügengebäude“",
-    "link": "https://www.bild.de/regional/hamburg/live-ticker-zum-prozess-christina-block-spricht-wieder-vor-gericht-6a8da3b0e998204a5d80bb18",
-    "image": "https://images.bild.de/6a8da3b0e998204a5d80bb18/9eda1073867d3d6e6aa4fc13082d50f0,6243f28?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sie hat Millionen Fans - Golf-Star datet diese Eishockeyspielerin",
-    "link": "https://www.bild.de/sport/mehr-sport/golf-star-datet-eishockeyspielerin-6a8e86e9c3692834ff6dcdec",
-    "image": "https://images.bild.de/6a8e86e9c3692834ff6dcdec/3c4f81ac7c581cdd8bdbec35bc9220cb,6cc17cac?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Versöhnung ausgeschlossen - Wollitz rechnet mit Ex-Verein ab",
-    "link": "https://www.bild.de/sport/fussball/versoehnung-ausgeschlossen-wollitz-rechnet-mit-ex-verein-ab-6a8c2ab8c08bf8a3201886cd",
-    "image": "https://images.bild.de/6a8c2ab8c08bf8a3201886cd/446dee8e56eeab29156b64602445c580-landscape,7173c1dc?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Ein Bett aus flauschiger Baumwolle - Dolly Partons letzter Wunsch",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/dolly-partons-letzter-wunsch-ein-bett-aus-flauschiger-baumwolle-6a8eb163518a586e18558b61",
-    "image": "https://images.bild.de/6a8eb163518a586e18558b61/c98957e4dd171256a01332ad3a1ba6a0,74e7f405?w=1280",
     "date": 0
    }
   ],
@@ -561,11 +563,10 @@
     "titleSl": "Ayyoub Bouaddi s'engage à Manchester City, un transfert à l' étranger record pour un footballeur de Ligue 1"
    },
    {
-    "title": "Inondations au Népal : les autorités sans nouvelles de 384 touristes, dont une majorité d’étrangers",
+    "title": "Au Népal, des inondations massives font au moins 19 morts ; 384 touristes sont portés disparus",
     "link": "https://www.lemonde.fr/international/article/2026/08/26/des-inondations-massives-dans-le-nord-du-nepal-ont-fait-plusieurs-morts_6757359_3210.html",
     "image": "https://img.lemde.fr/2026/08/26/164/0/1600/800/644/322/60/0/207f96b_ftp-1-kzufyd8jw5k4-c5d19fc3acc545ccbab2e4e08656feca-0-c6b4db736c4043f1a644ce4fd9943ade.jpg",
-    "date": 1787738187000,
-    "titleSl": "Inondations au Népal : les autorités sans nouvelles de 384 touristes, dont une majorité d 'étrangers"
+    "date": 1787738187000
    },
    {
     "title": "Rougeole aux Etats-Unis : où en est l’épidémie et pourquoi elle inquiète",
