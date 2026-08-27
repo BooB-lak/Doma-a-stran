@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27T12:34:27.717Z",
+ "generatedAt": "2026-08-27T12:36:29.498Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Hackers steal data from millions of airport customers",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a051/live/71195ca0-a210-11f1-9090-b51af3a01fc2.jpg",
+    "date": 1787833712000,
+    "titleSl": "Hekerji kradejo podatke milijonom letaliških strank"
+   },
+   {
     "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
     "link": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea8/live/a21cf820-a210-11f1-9090-b51af3a01fc2.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a5/live/920028e0-a20b-11f1-9090-b51af3a01fc2.jpg",
     "date": 1787831548000,
     "titleSl": "Dame Jenni Murray je umrla nekaj dni po prometni nesreči, zasliši se preiskava"
-   },
-   {
-    "title": "Inquests open into A66 crash police deaths",
-    "link": "https://www.bbc.co.uk/news/articles/c70lz048y47o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png",
-    "date": 1787831053000,
-    "titleSl": "Odpirajo se poizvedbe o smrtnih žrtvah policije v prometni nesreči A66"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Yaya Toure becomes first African coach to lead a team into Champions League",
-    "link": "https://www.aljazeera.com/sports/2026/8/27/yaya-toure-becomes-first-african-coach-to-lead-a-team-into-champions-league?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2286460709-1787827579.jpg?resize=1920%2C1440",
-    "date": 1787832897000,
-    "titleSl": "Yaya Toure postane prvi afriški trener, ki vodi ekipo v Ligo prvakov"
-   },
    {
     "title": "Al Jazeera reports from hospital in flood-hit Nepal",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/al-jazeera-reports-from-hospital-in-flood-hit-nepal?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T080233Z_1712505677_RC2UTDAPR2KC_RTRMADP_3_NORWAY-ROYALS-KING-1787818764.jpg?resize=1920%2C1440",
     "date": 1787827211000,
     "titleSl": "Norveški kralj Harald v \"izjemno resnem\" stanju, pravi palača"
+   },
+   {
+    "title": "Kenya’s world record holder Sawe withdraws from Berlin Marathon",
+    "link": "https://www.aljazeera.com/sports/2026/8/27/kenyas-world-record-holder-sawe-withdraws-from-berlin-marathon?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-26T110050Z_788968399_UP1EM4Q0ULCTC_RTRMADP_3_ATHLETICS-LONDON-1777202693.jpg?resize=1920%2C1440",
+    "date": 1787827206000,
+    "titleSl": "Kenijski svetovni rekorder Sawe se umika z berlinskega maratona"
    }
   ],
   "guardian": [
@@ -416,6 +416,25 @@
   ],
   "bild": [
    {
+    "title": "Unwettergefahr steigt stündlich - Hier kracht es heute am heftigsten",
+    "link": "https://www.bild.de/news/wetter/unwettergefahr-steigt-stuendlich-hier-kracht-es-heute-am-heftigsten-6a9002d714f40f555e0a3548",
+    "image": "https://images.bild.de/6a9002d714f40f555e0a3548/7b1b0d792bf665c6311ab9061d2344c6,e21a3b8e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Morgen geht’s los ++ So bereit ist Ihr Klub - Der große Start-Check der Bundesliga",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-so-bereit-sind-die-vereine-fuer-den-saisonauftakt-6a8fddd58a7786c19f3358a4",
+    "image": "https://images.bild.de/6a8fddd58a7786c19f3358a4/7e5d1c6027f95e799c7b6810126c3a23,96b6f26c?w=1280",
+    "date": 0,
+    "titleSl": "Morgen geht's los ++ So bereit ist Ihr Klub - Der große Start-Check der Bundesliga"
+   },
+   {
+    "title": "Zustand „sehr ernst“ - Marius mit Fußfessel zu Opa Harald",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/zustand-von-koenig-harald-v-sehr-ernst-6a8fea310c649aabd97152d4",
+    "image": "https://images.bild.de/6a8fea310c649aabd97152d4/eaf163b3bd48a5c0e6156e30d14de72e,19fb781?w=1280",
+    "date": 0
+   },
+   {
     "title": "Tote am Airport Frankfurt - Wie lange überleben Malaria-Mücken am Flughafen?",
     "link": "https://www.bild.de/leben-wissen/medizin/flughafen-malaria-in-frankfurt-wie-gross-ist-die-gefahr-noch-6a8feb4e14f40f555e0a3240",
     "image": "https://images.bild.de/6a8feb4e14f40f555e0a3240/acfbbadbeb9bca36916d987cb0e6cdd6,d6012570?w=1280",
@@ -434,28 +453,15 @@
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-kommentar-so-ekelt-eintracht-markus-kroesche-raus-6a901a230c649aabd971586e",
     "image": "https://images.bild.de/6a901a230c649aabd971586e/751afe585cb251edcb43e4f8505fc8d8,f348777a?w=1280",
     "date": 0
-   },
-   {
-    "title": "Bundesländer-Quiz - Erkennen Sie es sofort?",
-    "link": "https://www.bild.de/leben-wissen/bundeslaender-quiz-erkennen-sie-es-sofort-6a4d11c0dfc0c82fa29093a8",
-    "image": "https://images.bild.de/6a4d11c0dfc0c82fa29093a8/4e653ff7e17afb5d5899835084d1e6ef-landscape,ff958203?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Unwettergefahr steigt stündlich - Hier kracht es heute am heftigsten",
-    "link": "https://www.bild.de/news/wetter/unwettergefahr-steigt-stuendlich-hier-kracht-es-heute-am-heftigsten-6a9002d714f40f555e0a3548",
-    "image": "https://images.bild.de/6a9002d714f40f555e0a3548/7b1b0d792bf665c6311ab9061d2344c6,e21a3b8e?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Hunderte Opfer in Nepal und China - Ein Gletscher-Kollaps löste diese Katastrophe aus",
-    "link": "https://www.bild.de/news/ausland/hunderte-tote-bei-sturzflut-ein-gletscher-kollaps-loeste-die-katastrophe-aus-6a8fcf1c8a7786c19f3357cd",
-    "image": "https://images.bild.de/6a8fcf1c8a7786c19f3357cd/bb8829a48120e3ed954c21415cd1b5c0,7b851b6b?w=1280",
-    "date": 0,
-    "titleSl": "Hunderte Opfer v Nepalu in na Kitajskem - Ein Gletscher-Kollaps löste diese Katastrophe aus"
    }
   ],
   "krone": [
+   {
+    "title": "„Kaltstart“: WKO-Kopf knöpft sich die Schulen vor",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1LNExNeHlmWUZOZ0lXR2FJeUtFZWJkNVBxVjFpUXN0eTkyc1dtQmRmdUZPR3gtdTVTTW5jaDhEa01CUQ?oc=5",
+    "image": "",
+    "date": 1787834100000
+   },
    {
     "title": "Elf von elf! - Die Violetten setzen auf „Made in Austria“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Cclh3TFBGeDN5ZFhEQW52Zmc5RlZHajVuTnRFdWZRdTlkNDcxeGhDWFZjQlExMjAtcUdmdC1aZ1ZSUQ?oc=5",
@@ -484,12 +490,6 @@
    {
     "title": "Wir zeigen es live! - Salzburg-Kicker haut am Samstag im Heuring drauf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDeUxyM193cUhFVGFoclloU3VoM1Z3N3hIM3AtTkc4Q29TQ3RrbUFWbTFvaHhSYjZCNGphY3gzWXNEdw?oc=5",
-    "image": "",
-    "date": 1787831880000
-   },
-   {
-    "title": "Offiziell verkündet: - F1-Team Alpine vergibt Cockpit für Saison 2027",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nb2dzNEJtdU9vejFIbHo3dld2cU9qZzBETFZmTDRhSXA0ZXBsQ0pOa2RncmxiRDlpWFR6SXEtSm5IQQ?oc=5",
     "image": "",
     "date": 1787831880000
    }
