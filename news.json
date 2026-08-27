@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27T07:42:32.845Z",
+ "generatedAt": "2026-08-27T07:44:29.759Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/sportal/nogomet/liga-europa-kvalifikacije-play-off-povratne-tekme-699913",
     "image": "https://siol.net/media/img/74/30/0888f6e4a5ae5cabd501.jpeg",
     "date": 1787816160000
+   },
+   {
+    "title": "Konec spora med ortopedom Kavčičem in novomeško bolnišnico. Možnost sodelovanja ostaja.",
+    "link": "https://siol.net/novice/slovenija/konec-spora-med-ortopedom-kavcicem-in-novomesko-bolnisnico-moznost-sodelovanja-ostaja-699929",
+    "image": "https://siol.net/media/img/15/e7/a3a70fdf06fb74c00e47.jpeg",
+    "date": 1787815980000
    },
    {
     "title": "Zlatan Ibrahimović je na Lošinju",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/zdravje-za-jutri/otroske-nezgode-so-del-odrascanja-dobro-nezgodno-zavarovanje-pa-del-priprave-nanje-699746",
     "image": "https://siol.net/media/img/f1/d2/b5ed2a30c97b2f5243fa.jpeg",
     "date": 1787813340000
-   },
-   {
-    "title": "Makadam po Pogačarjevem okusu, Rogliča čaka nov pomemben test",
-    "link": "https://siol.net/sportal/kolesarstvo/makadam-po-pogacarjevem-okusu-roglica-caka-nov-pomemben-test-699899",
-    "image": "https://siol.net/media/img/27/83/81963f0533564681cfa8.jpeg",
-    "date": 1787812200000
    }
   ],
   "24ur": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "What we know so far",
+    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ad/live/1848b820-a15f-11f1-aaf8-119f176ff4ce.jpg",
+    "date": 1787816584000,
+    "titleSl": "Kaj vemo doslej"
+   },
+   {
     "title": "Chelsea in talks to sign Atalanta defender Ahanor",
     "link": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9c9/live/6c39aa90-a1e4-11f1-b132-bb16290da3a7.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f91/live/de580c50-a1b9-11f1-966a-03e1c6a27aae.jpg",
     "date": 1787814454000,
     "titleSl": "Dve mrtvi in 10 ranjenih po tem, ko se je avtomobil zaletel v množico na severu Francije"
-   },
-   {
-    "title": "Why Herrera is playing for free in Spanish third division",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/aa73c5f0-a083-11f1-bfeb-dfb02ea642ef.jpg",
-    "date": 1787814170000,
-    "titleSl": "Zakaj Herrera brezplačno igra v španski tretji ligi"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Israel is not heading for civil war",
-    "link": "https://www.aljazeera.com/opinions/2026/8/27/israel-is-not-heading-for-civil-war?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8ef25860-1787753048.jpg?resize=1920%2C1440",
-    "date": 1787815499000,
-    "titleSl": "Izrael ne gre v državljansko vojno"
-   },
    {
     "title": "More than 1,300 missing in Nepal and China after deadly Himalayan flood",
     "link": "https://www.aljazeera.com/news/2026/8/27/more-than-1300-missing-in-nepal-and-china-after-deadly-himalayan-flood?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2024/10/AFP__20240618__34XD4CX__v3__Preview__TopshotIsraelPoliticsHistoryAnniversary-1729416270.jpg?resize=1200%2C630",
     "date": 1787810418000,
     "titleSl": "Potopljena ladja sproži boj na izraelski pravici zaradi nasilne zapuščine milice"
+   },
+   {
+    "title": "Czech pair Karolina Muchova and Jakub Mensik win US Open mixed doubles",
+    "link": "https://www.aljazeera.com/sports/2026/8/27/czech-pair-karolina-muchova-and-jakub-mensik-win-us-open-mixed-doubles?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a8fc58bcd29-1787807115.jpg?resize=1920%2C1440",
+    "date": 1787809666000,
+    "titleSl": "Češki par Karolina Muchova in Jakub Mensik osvojil US Open mešane dvojice"
    }
   ],
   "guardian": [
@@ -375,18 +375,24 @@
   ],
   "spiegel": [
    {
+    "title": "CIA-Chef John Ratcliffe: Warum seine mysteriöse Russland-Reise so brisant ist",
+    "link": "https://www.spiegel.de/ausland/cia-chef-john-ratcliffe-warum-seine-mysterioese-russland-reise-so-brisant-ist-a-e2bd5efe-eeb9-451c-9138-693dfda5d58e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/875c660a-96de-40d2-89d3-da21f37957d9_w520_r2.08_fpx45_fpy42.jpg",
+    "date": 1787816220000,
+    "titleSl": "CIA-Chef John Ratcliffe: Warum seine mysteryöse Russland-Reise so brisant ist"
+   },
+   {
+    "title": "Diskus: 106-jähriger Sawang Janpram wirft Weltrekord in seiner Altersklasse",
+    "link": "https://www.spiegel.de/sport/leichtathletik/diskus-106-jaehriger-sawang-janpram-wirft-weltrekord-in-seiner-altersklasse-a-4b7befdd-064d-4cac-96e7-fce0fe4554b8#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/1df5bc78-3623-48b9-bb17-cc5039511fb4_w520_r2.08_fpx49.26_fpy49.97.jpg",
+    "date": 1787815980000
+   },
+   {
     "title": "Migration: Wie Giorgia Meloni zum Risiko für Europas Zusammenhalt wird",
     "link": "https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird-a-d21eea97-94e7-4482-802a-f83d9d3380b1#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/55ba60bc-3fa2-4a4d-bed9-b31c5d0b1ad2_w520_r2.08_fpx33.34_fpy49.97.jpg",
     "date": 1787815440000,
     "titleSl": "Migracija: Wie Giorgia Meloni zum Risiko für Europas Zusammenhalt wird"
-   },
-   {
-    "title": "Russland: US-Medien berichten über Warnung des CIA-Chefs in Moskau",
-    "link": "https://www.spiegel.de/politik/russland-us-medien-berichten-ueber-warnung-des-cia-chefs-in-moskau-a-6966d429-ca69-4d66-9993-4227dd30bb55#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/b10841cb-d46d-4094-a22a-4310bb4a1492_w520_r2.08_fpx51.33_fpy45.jpg",
-    "date": 1787814000000,
-    "titleSl": "Russland: US-Medien berichten über Warnung des CIA-Chefs v Moskau"
    },
    {
     "title": "Yayoi Kusama ist tot: Weltberühmte japanische Künstlerin mit 97 Jahren gestorben",
@@ -407,16 +413,16 @@
     "image": "https://cdn.prod.www.spiegel.de/images/3a45e476-f379-44a7-84f4-366b1b2590bc_w520_r2.08_fpx63.33_fpy44.99.jpg",
     "date": 1787809800000,
     "titleSl": "Torsten Sträter bo Krebserkrankung nicht zum Comedy-Stoff machen"
-   },
-   {
-    "title": "Neuer SPIEGEL-Politik-Podcast »MAD KINGS«: Und plötzlich hätte Putin Zugriff auf die deutsche Innenpolitik",
-    "link": "https://www.spiegel.de/politik/deutschland/neuer-spiegel-politik-podcast-mad-kings-und-ploetzlich-haette-putin-zugriff-auf-die-deutsche-innenpolitik-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/f87c4b6e-c7b2-4ff7-a380-66eca17b7918_w520_r2.08_fpx51_fpy43.jpg",
-    "date": 1787808600000,
-    "titleSl": "Neuer SPIEGEL-Politik-Podcast »NORI KRALJI«: Und plötzlich hätte Putin Zugriff auf die deutsche Innenpolitik"
    }
   ],
   "bild": [
+   {
+    "title": "DNA-Test da! - Wal Timmy ist zu 99,91 Prozent tot",
+    "link": "https://www.bild.de/regional/niedersachsen/dna-test-da-wal-timmy-ist-zu-99-91-prozent-tot-6a8ea20f0a3e8cd36757c679",
+    "image": "https://images.bild.de/6a8ea20f0a3e8cd36757c679/d8324a2f8414c549ce59a31dac179e77,5bbbfca7?w=1280",
+    "date": 0,
+    "titleSl": "DNK-test da! - Wal Timmy ist zu 99,91 Prozent tot"
+   },
    {
     "title": "Nach Sturzflut im Himalaya - Zahl der Vermissten steigt auf fast 1500",
     "link": "https://www.bild.de/news/nach-sturzflut-im-himalaya-zahl-der-vermissten-steigt-auf-mehr-als-1300-6a8fbf958a7786c19f3356e4",
@@ -446,12 +452,6 @@
     "title": "„Schattendatenbank“ - So gefährlich ist der neue Rechtsstreit für die Schufa",
     "link": "https://www.bild.de/leben-wissen/sparfochs/schattendatenbank-so-gefaehrlich-ist-der-neue-rechtsstreit-fuer-die-schufa-6a702cb6dd06dd5ef2e42b37",
     "image": "https://images.bild.de/6a702cb6dd06dd5ef2e42b37/f506398c0edea67a39cb0d4f5b0ac820,d152b0d3?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Dollar schwächelt gegenüber dem Euro - Wird der USA-Urlaub jetzt billiger?",
-    "link": "https://www.bild.de/leben-wissen/reisen/usa-urlaub-wo-der-starke-euro-wirklich-geld-spart-6a8ed011692b2e9e3efcb963",
-    "image": "https://images.bild.de/6a8ed011692b2e9e3efcb963/276b0cb6904920d18593bae79de6a61b,304111af?w=1280",
     "date": 0
    }
   ],
@@ -495,18 +495,18 @@
   ],
   "rainews": [
    {
+    "title": "Crollo del ghiacciaio la causa dell&#x27;alluvione lampo: 165 i morti, 1.380 i dispersi",
+    "link": "https://www.rainews.it/maratona/2026/08/inondazione-fra-tibet-e-nepal-almeno-150-morti-e-centinaia-di-dispersi-2e370386-e729-4b82-93f6-f837f648dabf.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/27/1787793138748_CKHL.jpg",
+    "date": 1787816400000,
+    "titleSl": "Crollo del ghiacciaio la causa dell'alluvione lampo: 165 i morti, 1.380 i dispersi"
+   },
+   {
     "title": "\"Putin prepara un&#x27;escalation\", Londra aggiorna i piani di difesa. Bombe su Kiev nella notte",
     "link": "https://www.rainews.it/maratona/2026/08/guerra-in-ucraina-putin-prepara-escalation-londra-aggiorna-piani-difesa-bombe-su-kiev-66213bb1-839f-451a-84dd-9d56963bc58e.html",
     "image": "https://www.rainews.it/dl/img/2026/08/27/1787787440351_CKT.jpg",
     "date": 1787816280000,
     "titleSl": "»Putin prepara un'escalation«, Londra aggiorna i piani difesa. Bombe su Kijev nella notte"
-   },
-   {
-    "title": "Crollo del ghiacciaio la causa dell&#x27;alluvione lampo: 165 i morti, 1.380 i dispersi",
-    "link": "https://www.rainews.it/maratona/2026/08/inondazione-fra-tibet-e-nepal-almeno-150-morti-e-centinaia-di-dispersi-2e370386-e729-4b82-93f6-f837f648dabf.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/27/1787793138748_CKHL.jpg",
-    "date": 1787815560000,
-    "titleSl": "Crollo del ghiacciaio la causa dell'alluvione lampo: 165 i morti, 1.380 i dispersi"
    },
    {
     "title": "Raid ucraini contro i magazzini Wildberries, l&#x27;attacco nella regione russa di Tambov",
