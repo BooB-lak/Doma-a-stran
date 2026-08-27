@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27T09:44:26.281Z",
+ "generatedAt": "2026-08-27T09:46:28.215Z",
  "sources": {
   "siol": [
    {
@@ -118,7 +118,7 @@
   "zurnal": [
    {
     "title": "Na Planet TV se vrača priljubljen obraz!",
-    "link": "https://www.zurnal24.si/slovenija/na-planet-tv-se-vraca-priljubljen-obraz-464231",
+    "link": "https://www.zurnal24.si/magazin/film-glasba-tv/na-planet-tv-se-vraca-priljubljen-obraz-464231",
     "image": "https://www.zurnal24.si/media/img/f9/1b/accb52e0b7e0fd1d2350.jpeg",
     "date": 1787823300000
    },
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "How a 95 percent drop in Hormuz traffic changed global shipping",
-    "link": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-SHIPS-COVER-AUGUST-27-2026-copy-2-1787817926.png?resize=1200%2C630",
-    "date": 1787822946000,
-    "titleSl": "Kako je 95-odstotni upad prometa v Hormuzu spremenil globalno pošiljanje"
-   },
-   {
-    "title": "Photos: More than 1,300 missing in Nepal and Tibet after deadly floods",
-    "link": "https://www.aljazeera.com/gallery/2026/8/27/photos-more-than-1400-missing-in-nepal-and-tibet-after-deadly-floods?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T040700Z_1429273603_RC2S6NAJGSBE_RTRMADP_3_NEPAL-FLOODS-1787811133.jpg?resize=1920%2C1440",
-    "date": 1787822811000,
-    "titleSl": "Fotografije: Več kot 1.300 pogrešanih v Nepalu in Tibetu po smrtonosnih poplavah"
-   },
-   {
     "title": "Malaysia’s former PM Ismail Sabri charged with concealing assets",
     "link": "https://www.aljazeera.com/news/2026/8/27/malaysias-former-pm-ismail-sabri-charged-with-concealing-assets?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8fd089-1787809929.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787817584.jpg?resize=1920%2C1080&quality=80",
     "date": 1787817598000,
     "titleSl": "Strela udari v stolp z uro v Meki"
+   },
+   {
+    "title": "Yayoi Kusama, Japan’s ‘queen of polka dots’, dies at 97",
+    "link": "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8fbf4a-1787805514.jpg?resize=1920%2C1440",
+    "date": 1787817162000,
+    "titleSl": "Yayoi Kusama, japonska \"kraljica polka pik\", umre pri 97 letih"
+   },
+   {
+    "title": "Ben Shapiro’s anti-Muslim film is nothing new",
+    "link": "https://www.aljazeera.com/opinions/2026/8/27/ben-shapiros-anti-muslim-film-is-nothing-new?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8fe9b43e-1787816372.jpg?resize=1920%2C1440",
+    "date": 1787816619000,
+    "titleSl": "Protimuslimanski film Bena Shapira ni nič novega"
    }
   ],
   "guardian": [
@@ -413,6 +413,31 @@
   ],
   "bild": [
    {
+    "title": "Hunderte Opfer in Nepal und China - Ein Gletscher-Kollaps löste diese Katastrophe aus",
+    "link": "https://www.bild.de/news/ausland/hunderte-tote-bei-sturzflut-ein-gletscher-kollaps-loeste-die-katastrophe-aus-6a8fcf1c8a7786c19f3357cd",
+    "image": "https://images.bild.de/6a8fcf1c8a7786c19f3357cd/bb8829a48120e3ed954c21415cd1b5c0,7b851b6b?w=1280",
+    "date": 0,
+    "titleSl": "Hunderte Opfer v Nepalu in na Kitajskem - Ein Gletscher-Kollaps löste diese Katastrophe aus"
+   },
+   {
+    "title": "In der Nacht zum Freitag - Deutschland erlebt seltene partielle Mondfinsternis",
+    "link": "https://www.bild.de/news/inland/spektakel-freitagmorgen-ueber-deutschland-mond-verschwindet-fast-komplett-6a8e9a510a3e8cd36757c5c3",
+    "image": "https://images.bild.de/6a8e9a510a3e8cd36757c5c3/ce5eb0dec6ee027a413a8cfc3547f267,d62bce08?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Zustand „sehr ernst“ - Marius mit Fußfessel zu Opa Harald",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/zustand-von-koenig-harald-v-sehr-ernst-6a8fea310c649aabd97152d4",
+    "image": "https://images.bild.de/6a8fea310c649aabd97152d4/eaf163b3bd48a5c0e6156e30d14de72e,19fb781?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Große Promi-Umfrage - Réthy: Nur so hat Eintracht Chance auf Europa",
+    "link": "https://www.bild.de/sport/fussball/bela-rethy-nur-so-hat-eintracht-frankfurt-chance-auf-europa-6a8ffa120c649aabd97154ba",
+    "image": "https://images.bild.de/6a8ffa120c649aabd97154ba/96bdda020359a56baddd2dcf863a159e,ca48e95?w=1280",
+    "date": 0
+   },
+   {
     "title": "Transfer-Ticker - Wechsel-Wende bei Bayern-Profi!",
     "link": "https://www.bild.de/sport/fussball/transfer-ticker-barca-sticht-real-bei-weltmeister-aus-6a670d43dc2b0bab191a7b9c",
     "image": "https://images.bild.de/6a670d43dc2b0bab191a7b9c/1db72fcd14114d200d6732dc94a764d7,36bffef5?w=1280",
@@ -423,34 +448,15 @@
     "link": "https://www.bild.de/leben-wissen/wissenschaft/mond-fast-vollstaendig-verdeckt-so-sehen-sie-die-mondfinsternis-2026-6a8e9e950a3e8cd36757c625",
     "image": "https://images.bild.de/6a8e9e950a3e8cd36757c625/a1f0683d15b8ad4e4ccccb1c12a0a110,3469f192?w=1280",
     "date": 0
-   },
-   {
-    "title": "Pokal-Hit im HSV-Stadion - HEBC mit Linienbus zum Dortmund-Kracher",
-    "link": "https://www.bild.de/sport/fussball/dfb-pokal-dortmund-gegner-hebc-kommt-mit-linienbus-6a8fdbc1518a586e18559ba4",
-    "image": "https://images.bild.de/6a8fdbc1518a586e18559ba4/7886e6ae6398d8d76a519fa49047d19b,193cda8c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Haakon und Sonja sagen alle Termine ab - Zustand von König Harald V. „sehr ernst“",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/zustand-von-koenig-harald-v-sehr-ernst-6a8fea310c649aabd97152d4",
-    "image": "https://images.bild.de/6a8fea310c649aabd97152d4/eaf163b3bd48a5c0e6156e30d14de72e,19fb781?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Er kam für 17 Mio. - Stuttgart-Star kriegt Wechsel-Freigabe",
-    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-er-kam-fuer-17-mio-euro-stuttgart-star-kriegt-wechsel-freigabe-6a8ff54c14f40f555e0a339f",
-    "image": "https://images.bild.de/6a8ff54c14f40f555e0a339f/78957ae55cb9f048edaefa783befc8c5,9a7ce82?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Videospiel-Gigant zahlt 250 Mio. Euro - Bundesliga feiert neuen Rekord-Deal!",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-feiert-neuen-rekord-deal-mit-ea-6a8edb15198bb9fbdfaffbda",
-    "image": "https://images.bild.de/6a8edb15198bb9fbdfaffbda/a877eeae8d543d56c0d6db2f6ffdd2f3,e5674f3c?w=1280",
-    "date": 0,
-    "titleSl": "Videospiel-Gigant zahlt 250 milijonov Euro - Bundesliga feiert neuen Rekord-Deal!"
    }
   ],
   "krone": [
+   {
+    "title": "Frage des Tages - Soll es für Top-Manager Gehaltsobergrenzen geben?",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5sNk1oUTlTMFBEMUdpYzRaYVVoVHB5el9hMExBS3J1YnctdUlwenl2a1plRkhlNU04Wk16d3A1c1Q3TVU?oc=5",
+    "image": "",
+    "date": 1787823720000
+   },
    {
     "title": "„Können reißen“ - Hersteller ruft ultradünne Kondome zurück",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zSWYwYmp5YTFIMl83MG5SZnhFVU10Tk9KaXNVVUFIeUY0NTJJbzFQaDZabmlKWXk2ZWVjaHpscU9oUQ?oc=5",
@@ -480,12 +486,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wdVRCX1B0d28zYUhFZVFjenVHX0VLR283MDFON3BSd0VRa0piX2lCUTRZS0dtWXpxWW9IVG91SzhfZw?oc=5",
     "image": "",
     "date": 1787822820000
-   },
-   {
-    "title": "Kein Ersatz in Sicht - Spanien droht ein Flugzeugträger ohne Kampfjets",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9JUVpkS0g5c2NLQTZoVEkzd3doZFNIc0JjT2gwUVQzcEQ4LXRZYlVpckRua3BuQUtjX3FNcC1HbG9Wdw?oc=5",
-    "image": "",
-    "date": 1787822640000
    }
   ],
   "rainews": [
