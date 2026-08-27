@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27T11:08:26.981Z",
+ "generatedAt": "2026-08-27T11:10:43.134Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "Getting Kids Offline",
+    "link": "https://www.nytimes.com/2026/08/27/briefing/getting-kids-offline.html",
+    "image": "https://static01.nyt.com/images/2026/08/26/multimedia/27themorning-nl-FB/27themorning-nl-FB-mediumSquareAt3X.jpg",
+    "date": 1787828291000,
+    "titleSl": "Kako doseči, da so otroci nedosegljivi"
+   },
+   {
+    "title": "Survivors of Deadly Nepal Flood Recall Its Devastating Force",
+    "link": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-survivors.html",
+    "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27nepal-hospital-promo-gwqp/27nepal-hospital-promo-gwqp-mediumSquareAt3X.jpg",
+    "date": 1787828049000,
+    "titleSl": "Preživeli zaradi smrtonosne poplave v Nepalu opozarjajo na njeno uničujočo silo"
+   },
+   {
     "title": "Scenes From a Destroyed Barbershop in Lebanon",
     "link": "https://www.nytimes.com/video/world/middleeast/100000011005726/scenes-from-a-destroyed-barbershop-in-lebanon.html",
     "image": "",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27themorning-nl-ice-fhct/27themorning-nl-ice-fhct-mediumSquareAt3X.jpg",
     "date": 1787824810000,
     "titleSl": "Aretacije NA LEDU se dvigajo po vsej ZDA, Meta pa se strinja, da bo uvedla velike spremembe na Instagramu in Facebooku"
-   },
-   {
-    "title": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97",
-    "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-    "image": "",
-    "date": 1787823618000,
-    "titleSl": "Yayoi Kusama, japonski pop umetnik, znan po polka-dot slikah, umre pri 97 letih"
-   },
-   {
-    "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
-    "link": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-    "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27cli-dolly-parton-01-kpvj/27cli-dolly-parton-01-kpvj-mediumSquareAt3X.jpg",
-    "date": 1787822596000,
-    "titleSl": "Druga zapuščina Dolly Parton: Fortune Given Away, Dollar by Dollar"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
-    "link": "https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-25T155102Z_545359495_RC2Q5NAY0RDK_RTRMADP_3_IRAN-CRISIS-OMAN-1787675727_a264b5-1787823155.jpg?resize=1200%2C630&quality=80",
-    "date": 1787827839000,
-    "titleSl": "Ali se iranska vojna diplomacija povečuje, ko obiskujejo Katar, Oman, Pakistan?"
-   },
-   {
     "title": "Norway’s King Harald in ‘extremely serious’ condition, palace says",
     "link": "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T080233Z_1712505677_RC2UTDAPR2KC_RTRMADP_3_NORWAY-ROYALS-KING-1787818764.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260826__C6KH7ZT__v3__HighRes__FblAsean2026VieTha-1787821843.jpg?resize=1920%2C1440",
     "date": 1787825132000,
     "titleSl": "Italija umaknila podporo Infantinu, Cannavaro pa podpira šefa Fife"
+   },
+   {
+    "title": "Nepal-Tibet floods: What is a glacial collapse, how common is it?",
+    "link": "https://www.aljazeera.com/features/2026/8/27/nepal-tibet-floods-what-is-a-glacial-collapse-how-common-is-it?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260827__C6LJ4NQ__v2__MidRes__TopshotNepalWeatherLandslideFloods-1787818491.jpg?resize=1200%2C630",
+    "date": 1787824908000,
+    "titleSl": "Poplave Nepal-Tibet: Kaj je ledeniški kolaps, kako pogost je?"
    }
   ],
   "guardian": [
@@ -405,13 +405,37 @@
     "date": 1787820840000
    },
    {
-    "title": "Schwarz-Gruppe baut riesiges Rechenzentrum bei Rostock",
+    "title": "Rostock: Schwarz-Gruppe baut riesiges Rechenzentrum",
     "link": "https://www.spiegel.de/wirtschaft/unternehmen/schwarz-gruppe-baut-riesiges-rechenzentrum-bei-rostock-a-2ebdb5bb-33e6-4f2a-ab51-acffad5cb5c9#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/c5d004cd-6c46-42bf-8192-9a9038f6b260_w520_r2.08_fpx67.89_fpy54.99.jpg",
     "date": 1787820660000
    }
   ],
   "bild": [
+   {
+    "title": "Süßsteuer-Irrsinn - Regierung erwägt sogar Zuckersteuer auf Eis!",
+    "link": "https://www.bild.de/politik/suesssteuer-irrsinn-regierung-erwaegt-sogar-zuckersteuer-auf-eis-6a8eafdb0a3e8cd36757c876",
+    "image": "https://images.bild.de/6a8eafdb0a3e8cd36757c876/1690e0f82b39d420276ab48b7e988fc8,d569c6ac?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Pilze richtig ernten - Sollte man Pilze abschneiden oder herausdrehen?",
+    "link": "https://www.bild.de/leben-wissen/lifestyle/pilze-abschneiden-oder-herausdrehen-dieser-irrglaube-haelt-sich-6a88257db24f9237ede783e0",
+    "image": "https://images.bild.de/6a88257db24f9237ede783e0/a61c6a1729b7479103b66cf13783e5e3,45963efd?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Düstere KI-Prognose von Microsoft-Gründer - Bill Gates will Berufe für Menschen reservieren",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/essay-von-microsoft-gruender-bill-gates-will-wegen-ki-berufe-fuer-menschen-reservieren-6a8fddea518a586e18559bcc",
+    "image": "https://images.bild.de/6a8fddea518a586e18559bcc/ba74c2744bc46a6cc34004dd28cf8f3c,568e1a7b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Hochrangiger Militär getötet? - Tödliche Explosion in Putins Heimatstadt",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/bei-explosion-in-st-petersburg-russischer-oberstleutnant-getoetet-6a9008920c649aabd97156aa",
+    "image": "https://images.bild.de/6a9008920c649aabd97156aa/0f94e7b8fcdcd05f9d99a0a5d4be584e,71afaeed?w=1280",
+    "date": 0
+   },
    {
     "title": "Ein Bett aus flauschiger Baumwolle - Dolly Partons letzter Wunsch",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/dolly-partons-letzter-wunsch-ein-bett-aus-flauschiger-baumwolle-6a8eb163518a586e18558b61",
@@ -422,30 +446,6 @@
     "title": "Polizei ermittelt in Bielefeld - Frau auf Discounter-Parkplatz entführt?",
     "link": "https://www.bild.de/regional/nordrhein-westfalen/bielefeld-frau-auf-discounter-parkplatz-entfuehrt-6a8fda58518a586e18559b8b",
     "image": "https://images.bild.de/6a8fda58518a586e18559b8b/d1566232a0b8eacb11fccb57f467155d,14c2d818?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Bei Flucht durch Dortmund - Mercedes-Rambo fährt Polizisten um",
-    "link": "https://www.bild.de/news/inland/dortmund-mercedes-rambo-faehrt-polizisten-um-6a8f50226451e5b5c547b956",
-    "image": "https://images.bild.de/6a8f50226451e5b5c547b956/40e9b746e110b7e269d2104362c86b89,af5c7eaa?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Promis trauern um Dolly Parton (†80) - „Die Welt fühlt sich viel weniger glitzernd an“",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/promis-trauern-um-dolly-parton-80-die-welt-fuehlt-sich-ploetzlich-viel-weniger-glitzernd-an-6a8e710bc3692834ff6dccdd",
-    "image": "https://images.bild.de/6a8e710bc3692834ff6dccdd/543b3b63c3f3f7fd7b5640714b81748b,22c18d39?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Skandal um Ausländerbehörde in Coesfeld - Abschieben? Nein, Danke!",
-    "link": "https://www.bild.de/regional/koeln/skandal-um-auslaenderbehoerde-in-coesfeld-abschieben-nein-danke-6a8ee2eb0030825e3e9ccf94",
-    "image": "https://images.bild.de/6a8ee2eb0030825e3e9ccf94/3d2b036ed57b6f3aa683880e44d4b03c,9d2411fd?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Pokal-Hit im HSV-Stadion - HEBC mit Linienbus zum Dortmund-Kracher",
-    "link": "https://www.bild.de/sport/fussball/dfb-pokal-dortmund-gegner-hebc-kommt-mit-linienbus-6a8fdbc1518a586e18559ba4",
-    "image": "https://images.bild.de/6a8fdbc1518a586e18559ba4/7886e6ae6398d8d76a519fa49047d19b,193cda8c?w=1280",
     "date": 0
    }
   ],
