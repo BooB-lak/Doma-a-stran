@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28T09:16:28.828Z",
+ "generatedAt": "2026-08-28T09:18:30.292Z",
  "sources": {
   "siol": [
    {
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Children take cover behind shopping cart during Israeli drone fire",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-gaza-2808-1787907654.png?resize=1920%2C1080&quality=80",
-    "date": 1787907711000,
-    "titleSl": "Otroci se med izraelskim streljanjem brezpilotnih letal skrivajo za nakupovalnim vozičkom"
-   },
-   {
-    "title": "Norway’s King Harald V dies, succeeded by son",
-    "link": "https://www.aljazeera.com/news/2026/8/28/norways-king-harald-v-dies-succeeded-by-son?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a9131da-1787900378.jpg?resize=1200%2C675",
-    "date": 1787907254000,
-    "titleSl": "Umrl norveški kralj Harald V., nasledil ga je sin"
-   },
-   {
     "title": "‘Typical Trump, silly joke’: ‘Lake America’ has Canadians laughing",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/typical-trump-silly-joke-lake-america-has-canadians-laughing?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-lake-america-2808-1787904440.png?resize=1920%2C1080&quality=80",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-20T075308Z_837554484_RC2JHMASKFBM_RTRMADP_3_ANTHROPIC-AI-1787897726.jpg?resize=1920%2C1440",
     "date": 1787900324000,
     "titleSl": "Ameriški sodnik blokiral uvrstitev Pentagona na črno listo podjetja za umetno inteligenco Antropic"
+   },
+   {
+    "title": "Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers",
+    "link": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/873A3705-copy-1787867863.jpg?resize=1920%2C1440",
+    "date": 1787899510000,
+    "titleSl": "Reševalci iz Gaze, oboroženi s piščalko, storijo vse, kar je v njihovi moči, da bi rešili plavalce"
+   },
+   {
+    "title": "Six months on, Iran is still standing, but survival is becoming more costly",
+    "link": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a912bedb4-1787898861.jpg?resize=1920%2C1440",
+    "date": 1787898908000,
+    "titleSl": "Po šestih mesecih Iran še vedno stoji, vendar je preživetje vse dražje"
    }
   ],
   "guardian": [
@@ -415,6 +415,32 @@
   ],
   "bild": [
    {
+    "title": "Spanien, wir kommen! - Sonderflug für gerettete Beluga-Wale",
+    "link": "https://www.bild.de/news/spanien-wir-kommen-sonderflug-fuer-gerettete-beluga-wale-6a908fb7e81f5682a712e2b8",
+    "image": "https://images.bild.de/6a908fb7e81f5682a712e2b8/aa3b9372d62ed3ddac371e854f481823,2f21fbea?w=1280",
+    "date": 0
+   },
+   {
+    "title": "BILD-Reporterin erlebt bange Stunden am Krankenhaus - „Haakon saß am Sterbebett seines Vaters\"“",
+    "link": "https://www.bild.de/news/ausland/bild-reporterin-erlebt-bange-stunden-am-krankenhaus-haakon-sass-am-sterbebett-seines-vaters-6a913d38b3df30a6155288b4",
+    "image": "https://images.bild.de/6a913d38b3df30a6155288b4/6ebba22f5333acb6332887e28d49e9e5,10723402?w=1280",
+    "date": 0,
+    "titleSl": "BILD-Reporterin erlebt bange Stunden am Krankenhaus - „Haakon saß am Sterbebett plavarice Vaters““"
+   },
+   {
+    "title": "Norwegisches Königshaus bestätigt - König Harald V. (89) ist tot",
+    "link": "https://www.bild.de/unterhaltung/royals-adel/norwegisches-koenigshaus-bestaetigt-koenig-harald-ist-tot-68e4d83e453c0752a42df154",
+    "image": "https://images.bild.de/68e4d83e453c0752a42df154/30e8f377d7905d6afa5a736505ffff04,70d7020d?w=1280",
+    "date": 0,
+    "titleSl": "Norwegiangisches Königshaus bestätigt - König Harald V. (89) ist tot"
+   },
+   {
+    "title": "Weniger Kalorien, mehr Ballaststoffe - Mit diesem Trick werden Kartoffeln gesünder",
+    "link": "https://www.bild.de/leben-wissen/food-essen-trinken-rezepte/kartoffeln-vom-vortag-warum-sie-sogar-gesuender-sein-koennen-67add60d6da9a8373ed65f1a",
+    "image": "https://images.bild.de/67add60d6da9a8373ed65f1a/ef50efd70e03ec8c2f02d70282fb571a,33c1615f?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nach Hooligan-Schlägerei - 224 Stadionverbote gegen Fans von 7 Klubs!",
     "link": "https://www.bild.de/sport/fussball/fussball-7-klubs-involviert-dfb-verhaengt-224-stadionverbote-an-hooligans-6a91306f8a7786c19f336d36",
     "image": "https://images.bild.de/6a91306f8a7786c19f336d36/4890d2a0abc35a0602d061d77d4e70e2,4582cdca?w=1280",
@@ -426,33 +452,15 @@
     "link": "https://www.bild.de/politik/inland/weiter-ueber-drei-millionen-arbeitslosigkeit-im-august-erneut-leicht-gestiegen-6a913f75b3df30a6155288ed",
     "image": "https://images.bild.de/6a913f75b3df30a6155288ed/d14bf5d365ea022689004e6f1609dbf5,8b6e6ef2?w=1280",
     "date": 0
-   },
-   {
-    "title": "2 U-Boote und ein Schnellboot - Nazi-Wracks in Mittelmeer und Ostsee entdeckt",
-    "link": "https://www.bild.de/leben-wissen/menschen-schicksale/drei-nazi-wracks-entdeckt-zwei-sind-seekriegsgraeber-6a900a3d518a586e1855a025",
-    "image": "https://images.bild.de/6a900a3d518a586e1855a025/98db9630268e20608176003e5cb41773,1c811967?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Polizei-Einsatz in Millionen-Villa - TV-Star JP Kraemer soll Ehefrau verprügelt haben",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/jp-kraemer-annaeherungsverbot-nach-vorwuerfen-haeuslicher-gewalt-6a8feb3a14f40f555e0a3234",
-    "image": "https://images.bild.de/6a8feb3a14f40f555e0a3234/bfc609bf3a99087431a000a95c73927c,5001315b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Diät-Hype im Check - Was Chia-Wasser beim Abnehmen wirklich bringt",
-    "link": "https://www.bild.de/leben-wissen/ernaehrung-diaet/diaet-hype-im-check-was-chia-wasser-beim-abnehmen-wirklich-bringt-6a8eef37692b2e9e3efcbcf4",
-    "image": "https://images.bild.de/6a8eef37692b2e9e3efcbcf4/92615ed5d79effe20bf8402cc566795d,15784a7b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Einer der größten der Geschichte“ - Forscher filmen gigantischen Weißen Hai",
-    "link": "https://www.bild.de/news/ausland/forscher-filmen-riesigen-weissen-hai-einer-der-groessten-der-geschichte-6a90652e518a586e1855a871",
-    "image": "https://images.bild.de/6a90652e518a586e1855a871/cbb4c6e657b34c4dbe5c192481d0f1f9,8c02fd31?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QNGlPM1hXV1dOU0NhLTlQQURsOXNCU3lsV1VKb2hCUWxGNlFiRnVpWmJ2UzJXNnVoNEJfTmRQcHEtV0UxWkZTY3ZMR05uQ19OX3Rvekc5WQ?oc=5",
+    "image": "",
+    "date": 1787903932000
+   },
    {
     "title": "„Superzellen“: Heftige Böen und Gewitter möglich",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UU0lETWFTeHJmbDRCRjZoT1JKVk1ZN3djQW9Ob3BTQ2ZqT3l4T01HSko1a3NYbUczWHFHbHEzTUZydw?oc=5",
@@ -483,13 +491,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqV0EtdkcwYy1CN2M0aE1jemZOMnVnMzc5UlctQ0pFUUZ6UEJFYWRuSWpvMEg5YjZ1UkY4M2RZdVRFQQ?oc=5",
     "image": "",
     "date": 1787902080000
-   },
-   {
-    "title": "Landsmann kommt - Lionel Messi hat einen neuen Trainer in Miami",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jVThWLWMzQVB0WTdaTEtUNDJtMVZCWmpmaG1SU01wQUdnUEl3bExZaWl0OXNPa25ZZE5abGp4V3lxdw?oc=5",
-    "image": "",
-    "date": 1787901900000,
-    "titleSl": "Landsmann kommt - Lionel Messi hat einen neuen Trener v Miamiju"
    }
   ],
   "rainews": [
@@ -578,17 +579,17 @@
   ],
   "elpais": [
    {
+    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska defiende el retorno de los migrantes “que no cumplan las condiciones para quedarse”",
+    "link": "https://elpais.com/espana/2026-08-28/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/E6LJVJGAWZAIRJCXYY5QNVFJ74.jpg?auth=7bac8f60e9f8eddcef6f4e775a2eaecaf4af55de83962c07f404e33b100b453b",
+    "date": 1787908614000,
+    "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska defiende el retorno de los migrantes \"que no cumplan las condiciones para quedarse\""
+   },
+   {
     "title": "Detenido un hombre por el asesinato de su mujer en Huelva",
     "link": "https://elpais.com/sociedad/2026-08-28/detenido-un-hombre-por-el-asesinato-de-su-mujer-en-huelva.html",
     "image": "https://imagenes.elpais.com/resizer/v2/UMKWAFDX2RPWJAZE2JMGQU5LNE.jpg?auth=9aafd43808f8dbb423293583518511b6998893c14e86df7a124215883a5a5b15",
     "date": 1787908056000
-   },
-   {
-    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska defiende el retorno de los migrantes “que no cumplan las condiciones para quedarse”",
-    "link": "https://elpais.com/espana/2026-08-28/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/3DUQ2GWEQZBU7MGWQDNI6UO55M.jpg?auth=55c1e005b6143917861e45404b119016be5f70ff149b5dd55878449abec82562",
-    "date": 1787907415000,
-    "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska defiende el retorno de los migrantes \"que no cumplan las condiciones para quedarse\""
    },
    {
     "title": "Muere Harald V, rey de Noruega, a los 89 años",
