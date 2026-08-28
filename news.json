@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-28T20:26:25.724Z",
+ "generatedAt": "2026-08-28T20:28:26.244Z",
  "sources": {
   "siol": [
+   {
+    "title": "Bayern s petardo in zmago začel obrambo naslova",
+    "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-1-krog-700069",
+    "image": "https://siol.net/media/img/15/bb/f3b4e1c5c694b04f919b.jpeg",
+    "date": 1787948760000
+   },
    {
     "title": "Poljaki znova povedli, kakšen bo odgovor Slovencev? #prenos",
     "link": "https://siol.net/sportal/odbojka/wagnerjev-memorial-krakov-2026-699988",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-2-krog-700066",
     "image": "https://siol.net/media/img/e9/eb/261c8b501d5536497fc2.jpeg",
     "date": 1787944680000
-   },
-   {
-    "title": "Nekdanji trener Benjamina Šeška pred velikim izzivom na San Siru #vŽivo",
-    "link": "https://siol.net/sportal/nogomet/italijansko-prvenstvo-2-krog-2026-27-700059",
-    "image": "https://siol.net/media/img/d1/1a/dbf3c725abffc0c4e90c.jpeg",
-    "date": 1787943600000
    }
   ],
   "24ur": [
@@ -220,13 +220,6 @@
     "titleSl": "Sodnik zavrže ključno priznanje 11. septembra zaradi mučenja"
    },
    {
-    "title": "Why Putin Is Fighting On, Even as His Problems Multiply",
-    "link": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
-    "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28int-russia-putin-01-gwkp/28int-russia-putin-01-gwkp-mediumSquareAt3X.jpg",
-    "date": 1787945622000,
-    "titleSl": "Zakaj se Putin bori naprej, čeprav se njegove težave množijo"
-   },
-   {
     "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
     "link": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html",
     "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28dc-fed-warsh-jgqb/28dc-fed-warsh-jgqb-mediumSquareAt3X.jpg",
@@ -239,6 +232,13 @@
     "image": "",
     "date": 1787944076000,
     "titleSl": "Kaj je bilo potrebno za razstavitev najmočnejšega podjetja na svetu"
+   },
+   {
+    "title": "Social Media and the Myth of the Big Tobacco Moment",
+    "link": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
+    "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-meta-tobacco--01-vqml/28biz-meta-tobacco--01-vqml-mediumSquareAt3X.jpg",
+    "date": 1787943124000,
+    "titleSl": "Družbeni mediji in mit o velikem tobačnem trenutku"
    }
   ],
   "bbc": [
@@ -387,7 +387,7 @@
     "date": 1787939400000
    },
    {
-    "title": "Bundesliga-Saisonauftakt: Stuttgart stellt in München auf Unentschieden – für zwei Minuten",
+    "title": "Bundesliga-Saisonauftakt: Bayern München stellt sofort klar, wer der Titelfavorit ist",
     "link": "https://www.spiegel.de/sport/fussball/bundesliga-saisonauftakt-fc-bayern-empfaengt-vfb-stuttgart-zum-start-a-e14d0cff-f249-44f6-b50e-6d3b6c811af0#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/afd67b3f-5c41-4680-8820-f449054952d7_w520_r2.08_fpx42.5_fpy49.98.jpg",
     "date": 1787939340000
@@ -414,6 +414,19 @@
   ],
   "bild": [
    {
+    "title": "Bayern hauen Stuttgart weg - Kimmich-Show mit blutiger Socke!",
+    "link": "https://www.bild.de/sport/fussball/bayern-hauen-stuttgart-weg-kimmich-show-mit-blutiger-socke-6a919645d88567044d84842f",
+    "image": "https://images.bild.de/6a919645d88567044d84842f/6934aea2adf3336ba23a7bc67facf736,4f28dbaf?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Verstörendes Gewalt-Video aufgetaucht - Hier schubst und würgt JP Kraemer seine Frau",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/jp-kraemer-und-seine-frau-verstoerendes-gewaltvideo-aufgetaucht-6a91615e2ed18bbd042e70bb",
+    "image": "https://images.bild.de/6a91615e2ed18bbd042e70bb/f229db7b4689a5788c22d9aed1435897,88e59c53?w=1280",
+    "date": 0,
+    "titleSl": "Verstörendes Gewalt-Video aufgetaucht - Hier schubst und würgt JP Kraemer Seine Frau"
+   },
+   {
     "title": "Verstörendes Gewalt-Video - Hier schubst und würgt JP Kraemer seine Frau",
     "link": "https://www.bild.de/video/6a916f5c2ed18bbd042e720e",
     "image": "https://images.bild.de/6a916f5c2ed18bbd042e720e/9c40c965039e20216ff492de3a3e9818,96546116?w=1280",
@@ -438,21 +451,15 @@
     "link": "https://www.bild.de/sport/fussball/bundesliga-hingucker-auf-tribuene-wer-war-der-riese-neben-juergen-klopp-6a91e257518a586e1855be22",
     "image": "https://images.bild.de/6a91e257518a586e1855be22/bc632a5c81cc391500dee44fdfac575e,fc64e94b?w=1280",
     "date": 0
-   },
-   {
-    "title": "„Flo muss lernen ...“ - Klopp-Klartext zu Wirtz",
-    "link": "https://www.bild.de/sport/fussball/dfb-klartext-von-juergen-klopp-zu-florian-wirtz-6a91d3c4518a586e1855bd97",
-    "image": "https://images.bild.de/6a91d3c4518a586e1855bd97/fe6423548da911df0d579be0476b1065,eb191ea0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Müssen Ultras umziehen? - Urteil sorgt für Wirbel bei Ost-Klub",
-    "link": "https://www.bild.de/sport/fussball/muessen-ultras-umziehen-urteil-sorgt-fuer-kurvenwirbel-bei-carl-zeiss-jena-6a91804c518a586e1855b754",
-    "image": "https://images.bild.de/6a91804c518a586e1855b754/e6d28e20ca1ea3a4587cecb34cf32d6b,3e4682db?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Sechs Feuerwehren - Meterhohe Rauchsäulen nach Sperrmüllbrand in NÖ",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ramhPekZid2FSeWlWeDJqNm5JNnlhdXlWQ0F0S2tpWkJkWGpxTi12emJTQXNuQW9iemZobXc4SjVidw?oc=5",
+    "image": "",
+    "date": 1787948340000
+   },
    {
     "title": "Stadträtin unterwegs - Autofahrt mit Ulli Sima: „Staus nerven mich auch“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tVjc3SmZMMVVrNGRrYzRSQTJyX3NPeHNYMHVYZERjdERkdVhGUEJkNGhGX1hBY0JobXZsX0J0QjZKZw?oc=5",
@@ -480,12 +487,6 @@
    {
     "title": "Eishockey - KAC-Sieg gegen die Caps bei Heim-Testspielturnier",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBSazdnU2lZaEFzMlVpQTZJaEpJOWkydmozTDNvZ0F1bm5aSVBtWVdGNW4yOWhoX0JZWkE5aEQ3ZVRhQQ?oc=5",
-    "image": "",
-    "date": 1787945760000
-   },
-   {
-    "title": "Heftigere Angriffe - Selenskyj droht Russen mit „täglich 1000 Drohnen“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RMk9acnpCbW5ydDR0dklFeGx5bEdndWxfOGRDOWtIUzhVdHU5VXlYM3VCYVhtZUFZcTMyVmFKWVFqUQ?oc=5",
     "image": "",
     "date": 1787945760000
    }
