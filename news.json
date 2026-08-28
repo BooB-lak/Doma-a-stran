@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28T10:32:28.284Z",
+ "generatedAt": "2026-08-28T10:34:25.063Z",
  "sources": {
   "siol": [
    {
@@ -43,8 +43,14 @@
    {
     "title": "Našli 250-kilogramsko letalsko bombo, možna evakuacija prebivalstva",
     "link": "https://www.24ur.com/novice/slovenija/pri-urejanju-struge-save-nasli-250-kilogramsko-letalsko-bombo-v-slabem-stanju.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/8e318820027eb7eceb27_63638892.jpg?v=2824",
-    "date": 1787913078000
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/8e318820027eb7eceb27_63638892.jpg?v=b27b&fop=fp:0.48:0.59",
+    "date": 1787913156000
+   },
+   {
+    "title": "Slovenijo dosegel saharski prah: kako nevarno je trenutno onesnaženje?",
+    "link": "https://www.24ur.com/novice/slovenija/saharski-pesek.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/8add119a390c1ac36269_63638877.jpg?v=051e&fop=fp:0.32:0.43",
+    "date": 1787913150000
    },
    {
     "title": "Med žrtvami hude nesreče na primorski avtocesti dva otroka",
@@ -57,12 +63,6 @@
     "link": "https://www.24ur.com/sport/motogp/prvi-prosti-trening-pred-vn-aragonije.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/1bc656171ea4868cd947_63598603.jpg?v=e671&fop=fp:0.46:0.47",
     "date": 1787911633000
-   },
-   {
-    "title": "Slovenijo dosegel saharski prah: kako nevarno je trenutno onesnaženje?",
-    "link": "https://www.24ur.com/novice/slovenija/saharski-pesek.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/8add119a390c1ac36269_63638877.jpg?v=051e&fop=fp:0.32:0.43",
-    "date": 1787911576000
    },
    {
     "title": "Zakaj bo Simon Cowell nekaj časa odsoten iz oddaje Amerika ima talent?",
@@ -117,7 +117,7 @@
   ],
   "zurnal": [
    {
-    "title": "Na primorski avtocesti umrla tudi 2 otroka, stara 4 in 11 let",
+    "title": "Na primorski avtocesti umrla tudi otroka, stara 4 in 11 let",
     "link": "https://www.zurnal24.si/slovenija/prometna-nesreca-primorska-avtocesta-smrt-otroka-4-11-let-podrobnosti-policija-464302",
     "image": "https://www.zurnal24.si/media/img/1b/e9/f845c9a6b9c38736a0e8.jpeg",
     "date": 1787912580000
@@ -264,11 +264,11 @@
     "titleSl": "\"Ni dovolj daleč\" - ameriški starši in najstniki o novih omejitvah Meta za mlade uporabnike"
    },
    {
-    "title": "She was about to cross into Tibet for a long-awaited pilgrimage - then her messages stopped",
+    "title": "This Indian pilgrim was about to enter Tibet - then her WhatsApp messages stopped",
     "link": "https://www.bbc.co.uk/news/articles/c70d41g40njo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ad/live/9696afa0-a2c9-11f1-a291-b542ee92de7c.jpg",
     "date": 1787909502000,
-    "titleSl": "Nameravala je prečkati Tibet na dolgo pričakovano romanje - potem so se njena sporočila ustavila"
+    "titleSl": "Ta indijski romar je nameraval vstopiti v Tibet - potem so se njena sporočila WhatsApp ustavila"
    },
    {
     "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
@@ -286,6 +286,13 @@
    }
   ],
   "aljazeera": [
+   {
+    "title": "‘Where’s the humanity?’: Imran Khan’s sons fear for jailed ex-Pakistan PM",
+    "link": "https://www.aljazeera.com/news/2026/8/28/wheres-the-humanity-imran-khans-sons-fear-for-jailed-ex-pakistan-pm?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/f675eeae-0247-4477-9698-21fc953380d1-1787904366.jpg?resize=1200%2C630",
+    "date": 1787912282000,
+    "titleSl": "»Kje je človečnost? ’: Sinovi Imrana Khana se bojijo zaprtega nekdanjega pakistanskega premierja"
+   },
    {
     "title": "Liverpool vs Nottingham Forest: Premier League – preview, teams, prediction",
     "link": "https://www.aljazeera.com/sports/2026/8/28/liverpool-vs-nottingham-forest-premier-league-preview-team-news?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-lake-america-2808-1787904440.png?resize=1920%2C1080&quality=80",
     "date": 1787904561000,
     "titleSl": "‘Tipična Trump, neumna šala’: ‘Lake America’ se Kanadčani smejijo"
-   },
-   {
-    "title": "Nearly 470 killed in Nepal floods: What we know about rescue efforts",
-    "link": "https://www.aljazeera.com/news/2026/8/28/nearly-470-killed-in-nepal-floods-what-we-know-about-rescue-efforts?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14242831-1787832773.jpg?resize=1920%2C1440",
-    "date": 1787903466000,
-    "titleSl": "Skoraj 470 mrtvih v poplavah v Nepalu: Kaj vemo o reševalnih akcijah"
    }
   ],
   "guardian": [
@@ -414,23 +414,30 @@
   ],
   "bild": [
    {
+    "title": "Katastrophe im Himalaya - Deutsche Familie in Nepal gerettet",
+    "link": "https://www.bild.de/news/katastrophe-im-himalaya-deutsche-familie-in-nepal-gerettet-6a91606a518a586e1855b455",
+    "image": "https://images.bild.de/6a91606a518a586e1855b455/c26c29ae7c1ff77812e04ed62176d031,ae73b17c?w=1280",
+    "date": 0,
+    "titleSl": "Katastrofa im Himalaja - Deutsche Familie v Nepalu gerettet"
+   },
+   {
     "title": "Müsel direkt betroffen - Chávez setzt Magdeburgs Mittelfeld unter Strom",
     "link": "https://www.bild.de/sport/fussball/1-fc-magdeburg-muesel-greift-an-aber-viel-konkurrenz-im-mittelfeld-6a9094308a7786c19f3368ad",
     "image": "https://images.bild.de/6a9094308a7786c19f3368ad/b6ca0b7710f2ecfefa009ad9837308a4,5aee0355?w=1280",
     "date": 0
    },
    {
+    "title": "„Das zeigt Charakter“ - So will Hoffenheim Kölns Top-Star El Mala stoppen!",
+    "link": "https://www.bild.de/sport/fussball/tsg-hoffenheim-so-will-die-tsg-koelns-top-star-el-mala-stoppen-6a915736d88567044d847c5b",
+    "image": "https://images.bild.de/6a915736d88567044d847c5b/97d3ba93eddd46a4ae53f9f883f405bd,6617dd46?w=1280",
+    "date": 0,
+    "titleSl": "„Das zeigt Charakter“ - Tudi Hoffenheim Kölns Top-Star El Mala se bo ustavil!"
+   },
+   {
     "title": "Clever sparen und flexibel bleiben - Machen Sie mehr aus Ihrem Geld!",
     "link": "https://www.bild.de/service/productstory/anzeige-tagesgeldkonto-bei-bank-of-scotland-sicher-sparen-flexibel-bleiben-zinsen-mitnehmen-69a708b2be2b3018d7c1a2cd",
     "image": "https://images.bild.de/69a708b2be2b3018d7c1a2cd/95306a5331e518e2909af9a9b48e2d3e-landscape,be4eee68?w=1280",
     "date": 0
-   },
-   {
-    "title": "Katastrophe im Himalaya - Deutsche Familie in Nepal gerettet",
-    "link": "https://www.bild.de/news/katastrophe-im-himalaya-deutsche-familie-in-nepal-gerettet-6a91606a518a586e1855b455",
-    "image": "https://images.bild.de/6a91606a518a586e1855b455/abcb2257d431bbf7a2d1eac3f9001c2d,10a8885?w=1280",
-    "date": 0,
-    "titleSl": "Katastrofa im Himalaja - Deutsche Familie v Nepalu gerettet"
    },
    {
     "title": "Ach du Kacke! - Ekel-Trend sorgt für Ärger in Spaniens Freibädern",
@@ -444,24 +451,24 @@
     "image": "https://images.bild.de/6a91484d518a586e1855b141/eb668f220359a363219b068bb4d55b70,3c74c216?w=1280",
     "date": 0,
     "titleSl": "Trener Schuster erklärt - Warum der Backhaus-Bock Freiburg guttut"
-   },
-   {
-    "title": "In Begleitung von Tochter Ingrid Alexandra - Haakons erster Termin als König",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/haakons-erster-termin-als-koenig-in-begleitung-von-tochter-und-thronfolgerin-ingrid-alexandra-6a914c85b3df30a615528aaf",
-    "image": "https://images.bild.de/6a914c85b3df30a615528aaf/f8759ba97f89f57f5a437c4ae45c4d46,4c609565?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
     "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4cHZ2ZjhCWW05SFduMXZMTmJUTDVNR0ZRZUNsUWNuZllOSlQ4Wms0ZTJHQ1U1ajdDRTRRSy14RnFGZFFDRF95MnZmbUo5RFVnaDVUQ0xaNA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02TG1zN1REMlhlNTlkTUQwOFVlaFFaV3B1NUhTMWpuTWQ0SjhiSnJiVkZCX2xZTkdXOEQxM0xiU2piWGhBQTQzY3YzUHB5SE1lbGNOelM1MA?oc=5",
     "image": "",
-    "date": 1787908241000
+    "date": 1787908584000
    },
    {
     "title": "„Meterdicke Mauer“ und Superkabel für das Weltall",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYZGFZblFKMDMtOHZ5T0tLTjdhS3pOM3RhTW4tVjJQb0xnRXZfMzBnSW1IVW4xZXpmNWxBdTNpM1JGZw?oc=5",
+    "image": "",
+    "date": 1787904000000
+   },
+   {
+    "title": "Laufende Suchaktion - 61-jähriger Urlauber im Kleinwalsertal vermisst",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0td1JnRmxaMkN5aXM3QUt1a0NzS1VxSmxFcXR1bkNXSUJIOUQ4VHlIOXR6dlRCQmllR0NfMk5uYUpYUQ?oc=5",
     "image": "",
     "date": 1787904000000
    },
@@ -483,15 +490,16 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uNFdqNWxRX2xKME9hcDRxdTlpRFBkSmdPUXlGQ1ZYZEROMmhwRDRqdFp0Ulk2RTZ0eHdfZTV2VWRxQQ?oc=5",
     "image": "",
     "date": 1787902320000
-   },
-   {
-    "title": "Soziales Pulverfass - Proteste & Gewalt in Ceuta eskalieren nach Ansturm",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xeWwtT0lMOWVyX09GQjBmdU1vamdyVXVjYnIxRWREV1djNlFScERQeXV3b3JZMEJzeTNEUVJHaXNTZw?oc=5",
-    "image": "",
-    "date": 1787902260000
    }
   ],
   "rainews": [
+   {
+    "title": "Il Papa torna sull&#x27;IA: \"Il bene dell&#x27;umanità rischia di essere sacrificato a interessi privati\"",
+    "link": "https://www.rainews.it/articoli/2026/08/il-papa-torna-sullia-il-bene-dellumanita-rischia-di-essere-sacrificato-a-interessi-privati-74bb76c1-e352-42b1-892f-699b996517b3.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/23/1787440005061_son_Dello_Russo_Papa_Rimini_e_San_Marino.transferframe.jpeg",
+    "date": 1787912820000,
+    "titleSl": "Il Papa torna sull 'IA: \"Il bene dell' humanità rischia di essere sacrificato a interessi privati\""
+   },
    {
     "title": "Alta tensione Londra-Mosca, Lavrov: Gb ruolo più negativo di tutti. Trump: Putin non attaccherà Nato",
     "link": "https://www.rainews.it/maratona/2026/08/guerra-in-ucraina-cresce-tensione-tra-londra-e-mosca-trump-putin-non-attacchera-la-nato-688edd06-59de-4ad5-8484-efc7107c2041.html",
@@ -522,13 +530,6 @@
     "link": "https://www.rainews.it/articoli/2026/08/e-uscito-timeless-album-postumo-di-prince-con-10-tracce-inedite-c004c5ad-5716-40ec-9ce7-693b83335a40.html",
     "image": "https://www.rainews.it/dl/img/2026/08/28/1787908792310_image.jpg",
     "date": 1787908380000
-   },
-   {
-    "title": "TG2 Storie. I racconti della settimana del 28/08/2026",
-    "link": "https://www.rainews.it/rubriche/tg2storieiraccontidellasettimana/video/2026/08/TG2-Storie-I-racconti-della-settimana-del-28082026-e2932142-2ec7-42bd-b04b-5e05d91bc4c6.html",
-    "image": "https://www.rainews.it/dl/img/2025/11/05/1762340286839_Tg2_Storie_2048x1152.jpg",
-    "date": 1787907846000,
-    "titleSl": "TG2 Storie. I racconti della settimana del 28.08.2026"
    }
   ],
   "lemonde": [
@@ -575,11 +576,10 @@
   ],
   "elpais": [
    {
-    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Albares defiende la soberanía española de Ceuta y Melilla: “Y será así siempre”",
+    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Albares elogia la “comunicación con Marruecos” desde el primer momento",
     "link": "https://elpais.com/espana/2026-08-28/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/A47QHGOX6ZBYDOLCR6YGKRNAWQ.jpg?auth=af5e32b3a28002465788d1c561887fb46fbe629a4ba59e367a2fac3808ff0971",
-    "date": 1787912660000,
-    "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Albares defiende la soberanía española de Ceuta y Melilla: »Y será así siempre«"
+    "date": 1787913073000
    },
    {
     "title": "El riesgo de una segunda riada amenaza Nepal y Tíbet tras una catástrofe que deja ya al menos 543 muertos",
