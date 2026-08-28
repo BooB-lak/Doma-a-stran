@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28T18:38:30.463Z",
+ "generatedAt": "2026-08-28T18:40:44.710Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Nevihte že v severni Italiji, pomikajo se nad naše kraje",
+    "link": "https://www.24ur.com/novice/slovenija/na-severozahodu-ponoci-mozna-neurja-mocni-sunki-vetra-nalivi-tudi-toca.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/869f45c525c46ed8e74e_63639229.jpg?v=7a79&fop=fp:0.34:0.45",
+    "date": 1787942256000
+   },
+   {
     "title": "Za 11. oktober v DZ razpisali tri referendume",
     "link": "https://www.24ur.com/novice/tujina/zavrsalo-med-poslanci-koalicija-o-racionalizaciji-opozicija-o-manipulaciji.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/637b9be98ddcb136322a_63638956.jpg?v=faeb&fop=fp:0.45:0.56",
@@ -53,6 +59,12 @@
     "date": 1787942123000
    },
    {
+    "title": "Brave premierno na Hrvaškem, kraj dogajanja bo kultna pulska arena",
+    "link": "https://www.24ur.com/sport/borilni-sporti/brave-premierno-na-hrvaskem-kraj-dogajanja-bo-kultna-pulska-arena.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2026/3cb134724257c6bbbc13_63599528.jpg?v=f7fe&fop=fp:0.46:0.42",
+    "date": 1787942096000
+   },
+   {
     "title": "V Križankah domača premiera filma Gajin svet 3",
     "link": "https://www.24ur.com/popin/film_tv/v-krizankah-domaca-premiera-filma-gajin-svet-3.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/16121f13cebe32048d12_63639228.jpg?v=6cfa&fop=fp:0.42:0.34",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/pirc-musarjeva-ne-bom-tiho-ko-zunanja-politika-ne-bo-skladna-z-vrednotami-drzave.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/3281f84a71e4439bf9b6_63604092.jpg?v=49d7&fop=fp:0.40:0.17",
     "date": 1787941248000
-   },
-   {
-    "title": "V Nashvillu so se v ožjem krogu poslovili od Dolly Parton",
-    "link": "https://www.24ur.com/popin/tuja-scena/v-nashvillu-so-se-v-ozjem-krogu-poslovili-od-dolly-parton.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/486dbe5c1195465116e9_63639216.jpg?v=c938&fop=fp:0.58:0.26",
-    "date": 1787940863000
-   },
-   {
-    "title": "Na severozahodu ponoči možna neurja: močni sunki vetra, nalivi, tudi toča",
-    "link": "https://www.24ur.com/novice/slovenija/na-severozahodu-ponoci-mozna-neurja-mocni-sunki-vetra-nalivi-tudi-toca.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/35014a5ee485f9366d9a_63639065.jpg?v=4da3&fop=fp:0.34:0.37",
-    "date": 1787939180000
    }
   ],
   "rtvslo": [
@@ -202,7 +202,7 @@
     "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
     "link": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html",
     "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28dc-fed-warsh-jgqb/28dc-fed-warsh-jgqb-mediumSquareAt3X.jpg",
-    "date": 1787941737000,
+    "date": 1787942184000,
     "titleSl": "Predsednik FED-a Warsh skuša umiriti povečane pomisleke glede inflacije"
    },
    {
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
-    "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
-    "image": "https://i.guim.co.uk/img/media/354fbd9087f6426e4a815de18580298cf136cb3d/0_73_602_482/master/602.jpg?width=140&quality=85&auto=format&fit=max&s=08ce8ebaf9062913ec86625242402e69",
-    "date": 1787940459000,
-    "titleSl": "Poplave v Nepalu in Tibetu: število pogrešanih v Nepalu se je povečalo na 1.924 – najnovejše posodobitve"
+    "title": "At least 90 Americans missing in Nepal flood among 2,000 unaccounted for",
+    "link": "https://www.theguardian.com/world/2026/aug/28/nepal-flood-missing-americans",
+    "image": "https://i.guim.co.uk/img/media/dd3bedb646a99bb72d96fb70c681fbd9d8d79c7b/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ffb66e54430f6315b5637813b0426514",
+    "date": 1787942100000,
+    "titleSl": "Najmanj 90 Američanov pogrešanih v poplavah v Nepalu med 2.000 pogrešanih"
+   },
+   {
+    "title": "‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return",
+    "link": "https://www.theguardian.com/world/2026/aug/28/family-missing-australians-nepal-tibet-flash-floods",
+    "image": "https://i.guim.co.uk/img/media/766a0975f0025da29575ce7503f053e3e5127922/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=91bd9a711730d174aee13e07f2a4697f",
+    "date": 1787941977000,
+    "titleSl": "\"Tako obupno ljubljen\": član ADF med ducati Avstralcev, pogrešanih v poplavah v Nepalu, ko družine molijo za varno vrnitev"
    },
    {
     "title": "Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/29299872a9ec2777422d1a50204bc82a523a2d79/1454_0_7213_5768/master/7213.jpg?width=140&quality=85&auto=format&fit=max&s=9a8ee9282866b60c2f7761d72fd5692e",
-    "date": 1787940163000,
+    "date": 1787941721000,
     "titleSl": "Trumpova kmetijska sekretarka se zavezuje, da bo \"opustila birokracijo\", da bi rančerjem omogočila obdelavo in prodajo lastne govedine – v živo"
+   },
+   {
+    "title": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
+    "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+    "image": "https://i.guim.co.uk/img/media/354fbd9087f6426e4a815de18580298cf136cb3d/0_73_602_482/master/602.jpg?width=140&quality=85&auto=format&fit=max&s=08ce8ebaf9062913ec86625242402e69",
+    "date": 1787941499000,
+    "titleSl": "Poplave v Nepalu in Tibetu: število pogrešanih v Nepalu se je povečalo na 1.924 – najnovejše posodobitve"
    },
    {
     "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/52fa0198715e1df5b2ae80a8610f907294d1ccc8/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5c438e3cd21166a27ac94c5258697a1d",
     "date": 1787936702000,
     "titleSl": "Rusija \"vsak mesec izgubi 6.000 več vojakov v Ukrajini, kot jih lahko zaposli\""
-   },
-   {
-    "title": "New heart attack definition promises better care for women",
-    "link": "https://www.theguardian.com/society/2026/aug/28/doctors-care-revolution-agree-first-universal-definition-heart-attack",
-    "image": "https://i.guim.co.uk/img/media/1b7b639f4480d1af6b1e5b3a1d44bcf2820d2975/436_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=6ba029f4807fde795c68394618d17a44",
-    "date": 1787936403000,
-    "titleSl": "Nova definicija srčnega infarkta obljublja boljšo skrb za ženske"
-   },
-   {
-    "title": "London Science Museum cuts links with BP after decades of partnership",
-    "link": "https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership",
-    "image": "https://i.guim.co.uk/img/media/5bd10c212259b1d37911bc64ff61af88452b2d84/22_0_1501_1200/master/1501.jpg?width=140&quality=85&auto=format&fit=max&s=0b5f8ab54cac65ec97004c5fe9501d55",
-    "date": 1787936226000,
-    "titleSl": "Londonski znanstveni muzej po desetletjih partnerstva prekinja povezave s podjetjem BP"
    }
   ],
   "spiegel": [
@@ -416,6 +416,12 @@
   ],
   "bild": [
    {
+    "title": "Kontaktverbot! - Basketballerin darf sich Mitspielerinnen nicht nähern",
+    "link": "https://www.bild.de/sport/mehr-sport/kontaktverbot-deutsche-basketballerin-darf-sich-mitspielerinnen-nicht-naehern-6a91c6a2518a586e1855bd0b",
+    "image": "https://images.bild.de/6a91c6a2518a586e1855bd0b/9334ec465f6907f711736a6ca0b0d175,78ec4269?w=1280",
+    "date": 0
+   },
+   {
     "title": "Großbrand bei Wembley - Riesige Rauchwolke zieht über London",
     "link": "https://www.bild.de/news/ausland/grossbrand-bei-wembley-riesige-rauchwolke-ueber-london-6a91a2c6b3df30a6155293e9",
     "image": "https://images.bild.de/6a91a2c6b3df30a6155293e9/18bc3e09091ad84142addfd157c9c460,db7a31a9?w=1280",
@@ -445,12 +451,6 @@
     "title": "Damit hätten die Wenigsten gerechnet - Herthas wahnsinniger Saisonstart",
     "link": "https://www.bild.de/sport/fussball/herthas-wahnsinniger-saisonstart-in-der-2-liga-6a91a514d88567044d8485cc",
     "image": "https://images.bild.de/6a91a514d88567044d8485cc/4cf800bec45b6f078b00e52d8df59d11,86ba762c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "5:3 nach 0:2 - Spitzenreiter! Hertha mit Sensations-Comeback",
-    "link": "https://www.bild.de/sport/fussball/5-3-nach-0-2-spitzenreiter-hertha-mit-sensations-comeback-6a91a0372ed18bbd042e76b6",
-    "image": "https://images.bild.de/6a91a0372ed18bbd042e76b6/d3c1077d91f9245bbc1fd771a7dec583-landscape,8ccf3643?w=1280",
     "date": 0
    }
   ],
@@ -515,6 +515,12 @@
     "titleSl": "Srebrenica, l'eredità del massacro: la testimonianza del giornalista Alberto Negri"
    },
    {
+    "title": "Attentato Ranucci: la svolta con le prime ammissioni degli esecutori materiali",
+    "link": "https://www.rainews.it/video/2026/08/attentato-ranucci-la-svolta-con-le-prime-ammissioni-degli-esecutori-materiali-96557948-89de-483d-84e3-a89ed47c4830.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/28/1787939786559__.png",
+    "date": 1787939640000
+   },
+   {
     "title": "La Rai sostituisce Sigfrido Ranucci, due nuovi conduttori alla guida di Report",
     "link": "https://www.rainews.it/video/2026/08/la-rai-sostituisce-sigfrido-ranucci-due-nuovi-conduttori-alla-guida-di-report-45aac98c-504e-4123-983b-7a7d352136d7.html",
     "image": "https://www.rainews.it/dl/img/2026/08/28/1787939492386_.png",
@@ -525,12 +531,6 @@
     "link": "https://www.rainews.it/articoli/2026/08/esteri-europa-gran-bretagna-attacco-hacker-cyber-informatico-contro-tre-aeroporti-chiesto-riscatto-b72d8ea2-6a5c-442d-b351-6e5f8c402859.html",
     "image": "https://www.rainews.it/dl/img/2026/08/28/1787937535309_badecdbffdbda.jpg",
     "date": 1787939280000
-   },
-   {
-    "title": "Nuovi conduttori a Report, il post di Ranucci: \"Resisto a chi tradisce e specula\"",
-    "link": "https://www.rainews.it/video/2026/08/nuovi-conduttori-a-report-il-post-di-ranucci-resisto-a-chi-tradisce-e-specula-07a0ae91-e310-48de-a2e0-58c3d9ba6419.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/28/1787937179468_ran.PNG",
-    "date": 1787937060000
    }
   ],
   "lemonde": [
