@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28T05:38:24.344Z",
+ "generatedAt": "2026-08-28T05:40:43.109Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Filmski beg pred policijo: Avtomobil se je prevrnil, potniki zbežali v gozd",
+    "link": "https://www.zurnal24.si/svet/reka-viadukt-svilno-hrvaska-prometna-nesreca-avtomobil-bok-begunci-beg-policija-464273",
+    "image": "https://www.zurnal24.si/media/img/69/d0/84d98f607a438e767cf2.png",
+    "date": 1787895600000
+   },
+   {
     "title": "Tako so se obnašali v zastoju, medtem ko so otroško truplo pokrivali z belim pregrinjalom",
     "link": "https://www.zurnal24.si/slovenija/primorska-avtocesta-zastoj-obnasnje-prometna-nesreca-smrt-otrok-zavod-resevalni-pas-464271",
     "image": "https://www.zurnal24.si/media/img/85/88/c3b55a94b402d0b32f89.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/po-razhodu-nasa-voditeljica-ujeta-s-tem-markantnim-moskim-464234",
     "image": "https://www.zurnal24.si/media/img/78/f3/c057366e8cb015244932.jpeg",
     "date": 1787889300000
-   },
-   {
-    "title": "Podjetnik eno dekle davil do nezavesti, drugo naj bi vrgel iz avta",
-    "link": "https://www.zurnal24.si/slovenija/crna-kronika/podjetnik-eno-dekle-davil-do-nezavesti-drugo-naj-bi-vrgel-iz-avta-464254",
-    "image": "https://www.zurnal24.si/media/img/e6/17/55656c57b5b15d6239c2.jpeg",
-    "date": 1787889000000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+    "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
+    "date": 1787893876000,
+    "titleSl": "Matt Lucas in Hugh Bonneville med igralci, ki pozivajo k zakonu o kloniranju glasu umetne inteligence"
+   },
+   {
     "title": "E-bike and e-scooter battery fires cause of 18 deaths and nearly 700 injuries",
     "link": "https://www.bbc.co.uk/news/articles/cx2z8lr9l7wo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2d/live/1ff5d2e0-a20b-11f1-a291-b542ee92de7c.png",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a1/live/efb60850-a225-11f1-bd6a-3d72a7f54a3e.jpg",
     "date": 1787887105000,
     "titleSl": "Kralju \"strto srce\" zaradi smrtonosnih poplav v Nepalu"
-   },
-   {
-    "title": "What we know so far",
-    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa6/live/67c06430-a1f4-11f1-aed2-8d6da8d75094.jpg",
-    "date": 1787886935000,
-    "titleSl": "Kaj vemo doslej"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Algeria residents mourn neighbours lost in wildfire aftermath",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787894277.jpg?resize=1620%2C1080&quality=80",
-    "date": 1787894313000,
-    "titleSl": "Prebivalci Alžirije žalujejo za sosedi, izgubljenimi v požarih"
-   },
    {
     "title": "DRC begins vaccinating front-line healthcare workers against Ebola",
     "link": "https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a84d529-1787090217.jpg?resize=1920%2C1417",
     "date": 1787884335000,
     "titleSl": "ZDA se približujejo dogovoru o zavarovanju deleža na venezuelskih naftnih poljih, pravijo poznavalci"
+   },
+   {
+    "title": "Fired Stars and Stripes journalists sue Trump administration for censorship",
+    "link": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8621ba2aa03-1787175354.jpg?resize=1920%2C1440",
+    "date": 1787883410000,
+    "titleSl": "Odpuščeni novinarji Stars and Stripes tožijo Trumpovo administracijo zaradi cenzure"
    }
   ],
   "guardian": [
@@ -455,6 +455,19 @@
   ],
   "krone": [
    {
+    "title": "Das freie Wort - Ihre Leserbriefe auf krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zNnV0aEUweExlYVNfaHJraGkxM1h6enNRS1B1dnZyT0V3M3cwMTVwYnY4TUhFWlFrVXRUcElWUU54dTRBbnZVdjROYW9ua2dYclg1eDF1ckg?oc=5",
+    "image": "",
+    "date": 1787895518000
+   },
+   {
+    "title": "26 Minuten Gameplay - GTA VI: Rockstar gibt detaillierten Video-Einblick",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BY1VwRlFmV3RBRVN4cG95NjdKN0tqaW9TWUZ1azlDMnRoNm04LXFtc0JKbVEtT00tbDNnb3RXMXpuUQ?oc=5",
+    "image": "",
+    "date": 1787895480000,
+    "titleSl": "26 Minuten Gameplay - GTA VI: Rockstar gibt Detalierten Video-Einblick"
+   },
+   {
     "title": "Wird zugesperrt? - Asyl-Heim: Klare Worte von FPÖ-Landesrat gefordert",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10OHgwdk9vZnZaZkhkN3lIOHNINDcwRjlldTMzRDM1ZENBOHZBeW5RVVNvRDBMckQ3Y3hWeWloMHJvdw?oc=5",
     "image": "",
@@ -478,22 +491,15 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KaVlLMU9rUFoySi1DTTdCbVNyNzI0bVdUTGNXQy1nc3p3RDExSTN1RHVxdGZXUk5YWGhqY2JBRENPUQ?oc=5",
     "image": "",
     "date": 1787894760000
-   },
-   {
-    "title": "Wochenbettpsychose? - Mutter in den USA tötete ihre drei Kinder",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUdVRUckdxeV9yWGEtNmN1Q1BpVE1nZFljcHYzYlZaZHJzdVFnZndfZzZ5RXJycW54V3ZWTmRqYzZhQQ?oc=5",
-    "image": "",
-    "date": 1787894700000
-   },
-   {
-    "title": "Millionen betroffen - Passagierdaten von Flughafenbetreiber abgegriffen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvT3hXRW9aVGF0UEdzQS1JMFVlWHBVWE9KUkFFWmdGR3lWYjJhZUxBeHlGQVI3M3AzRXI0a3F4aWRKdw?oc=5",
-    "image": "",
-    "date": 1787894220000,
-    "titleSl": "Milijonska zaroka - Passagierdaten von Flughafenbetreiber abgegriffen"
    }
   ],
   "rainews": [
+   {
+    "title": "Viaggiava con cinque chili di cocaina nascosti nei \"biscotti della fortuna\". Arrestata 40enne cinese",
+    "link": "https://www.rainews.it/articoli/2026/08/sequestrati-oltre-5-kg-di-cocaina-nascosti-nei-biscotti-della-fortuna-arrestata-40enne-cinese-fa95d431-d345-47dd-8aae-3cc188651f23.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/28/1787894595343_neelamfortunecookies.jpg",
+    "date": 1787894520000
+   },
    {
     "title": "Eclissi lunare, le immagini della luna mangiata nel time-lapse visto dall&#x27;Italia",
     "link": "https://www.rainews.it/video/2026/08/eclissi-lunare-le-immagini-della-luna-mangiata-765a64e0-ae11-441b-86c6-f64d0169f307.html",
@@ -527,13 +533,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/28/1787891854827_SnapInsta.ton.jpg",
     "date": 1787891940000,
     "titleSl": "Benedetta Rossi annuncia l 'adozione di due bambine: \"Siamo ufficialmente una famiglia\""
-   },
-   {
-    "title": "Cresce la tensione tra Londra e Mosca, Trump: “Ho parlato con Putin, non attaccherà la Nato\"",
-    "link": "https://www.rainews.it/maratona/2026/08/guerra-in-ucraina-cresce-tensione-tra-londra-e-mosca-trump-putin-non-attacchera-la-nato-688edd06-59de-4ad5-8484-efc7107c2041.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/28/1787873239499_CMQCR.jpg",
-    "date": 1787890800000,
-    "titleSl": "Cresce la tensione tra Londra e Mosca, Trump: \"Ho parlato con Putin, non attaccherà la Nato\""
    }
   ],
   "lemonde": [
