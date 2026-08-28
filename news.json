@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-28T13:46:27.149Z",
+ "generatedAt": "2026-08-28T13:48:30.003Z",
  "sources": {
   "siol": [
+   {
+    "title": "Začenja se tudi v Nemčiji",
+    "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-1-krog-700069",
+    "image": "https://siol.net/media/img/03/1e/647829806c4d2fc61f1f.jpeg",
+    "date": 1787924820000
+   },
    {
     "title": "Slovenke po preobratu so prvega niza #vŽivo",
     "link": "https://siol.net/sportal/odbojka/ep-odbojka-z-osmi-dan-699986",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/drugi-sporti/pfeifer-brez-zelenega-polfinala-700065",
     "image": "https://siol.net/media/img/20/89/1204d0c024c597922759.jpeg",
     "date": 1787922660000
-   },
-   {
-    "title": "Se bo PSG pobral po uvodnem šoku?",
-    "link": "https://siol.net/sportal/nogomet/francosko-prvenstvo-2-krog-700064",
-    "image": "https://siol.net/media/img/d9/bc/9c5ebf3f8a78d5560595.jpeg",
-    "date": 1787922120000
    }
   ],
   "24ur": [
@@ -65,16 +65,16 @@
     "date": 1787923888000
    },
    {
+    "title": "Še 80 km: skupina petih ubežnikov vodi za minuto in 20 sekund",
+    "link": "https://www.24ur.com/sport/kolesarstvo/nova-zahtevna-etapa-za-pogacarja-in-druscino.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/e92706a9b9b9e59265fc_63638556.jpg?v=c2e4&fop=fp:0.47:0.35",
+    "date": 1787923432000
+   },
+   {
     "title": "Dramatično reševanje iz predora: 350 rešenih, bitka za še 100 se nadaljuje",
     "link": "https://www.24ur.com/novice/tujina/dramaticno-resevanje-iz-predora-350-resenih-bitka-za-se-100-se-nadaljuje.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/02a1bd4b5db48e46f6e2_63638900.png?v=a327&fop=fp:0.46:0.25",
     "date": 1787923103000
-   },
-   {
-    "title": "Ortola in Almansa razred zase v moto2 in moto3, na stezi 'kraljevi'",
-    "link": "https://www.24ur.com/sport/motogp/prvi-prosti-trening-pred-vn-aragonije.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jun2026/1bc656171ea4868cd947_63598603.jpg?v=e671&fop=fp:0.46:0.47",
-    "date": 1787922567000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-    "link": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-04-19T183221Z_211849232_RC2BSKABGIRI_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLEMENT-1787924249.jpg?resize=1920%2C1440",
-    "date": 1787924404000,
-    "titleSl": "Združeno kraljestvo ima milijarde v pogodbah s podjetji, povezanimi z nezakonitimi izraelskimi naselbinami"
-   },
-   {
     "title": "Europa League draw: Bournemouth, Sunderland get glamour ties with AC Milan",
     "link": "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a918621-1787921953.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-russia-attack2808-1787921948.png?resize=1920%2C1080&quality=80",
     "date": 1787921994000,
     "titleSl": "Ozek pobeg za žensko, ko ruski dron zadene stanovanjsko območje"
+   },
+   {
+    "title": "After six months of war, what have US, Iran gained and lost?",
+    "link": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T234756Z_81652867_RC227NALP62C_RTRMADP_3_IRAN-CRISIS-MINAB-SCHOOL-1787920932_505a7f-1787921004.jpg?resize=1200%2C630&quality=80",
+    "date": 1787920630000,
+    "titleSl": "Kaj so po šestih mesecih vojne pridobile in izgubile ZDA, Iran?"
    }
   ],
   "guardian": [
@@ -413,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "Mann festgenommen - Deutsche Touristin tot an Strand in Spanien entdeckt",
+    "link": "https://www.bild.de/news/ausland/mann-festgenommen-deutsche-touristin-tot-an-strand-in-spanien-entdeckt-6a918535d88567044d8481fc",
+    "image": "https://images.bild.de/6a918535d88567044d8481fc/d17487da15f5aa2f14635df00c18c7e9,6588950b?w=1280",
+    "date": 0
+   },
+   {
     "title": "Extremisten in Behörden - Stimmt es, dass Polizisten oft AfD‑Anhänger sind?",
     "link": "https://www.bild.de/politik/inland/extremisten-in-behoerden-stimmt-es-dass-polizisten-oft-afdanhaenger-sind-6a8fffc414f40f555e0a34db",
     "image": "https://images.bild.de/6a8fffc414f40f555e0a34db/0288ac73e0d57c84c695079ac7f6836a,7628a333?w=1280",
@@ -443,13 +449,6 @@
     "link": "https://www.bild.de/sport/fussball/werder-bremen-es-gab-redebedarf-thioune-ansage-an-zwei-profis-6a915b28b3df30a615528c52",
     "image": "https://images.bild.de/6a915b28b3df30a615528c52/816976796c73d05fa1ac37ed559ec3d3,762360af?w=1280",
     "date": 0
-   },
-   {
-    "title": "Ohne Smartphone - Diese KI-Kopfhörer zeichnen Gespräche auf",
-    "link": "https://www.bild.de/leben-wissen/digital/plaud-one-diese-ki-kopfhoerer-zeichnen-gespraeche-auf-6a9186692ed18bbd042e744c",
-    "image": "https://images.bild.de/6a9186692ed18bbd042e744c/aaf571114592fce5a50031d548bc077f,3cf2846f?w=1280",
-    "date": 0,
-    "titleSl": "Pametni telefon Ohne - Diese KI-Kopfhörer zeichnen Gespräche auf"
    }
   ],
   "krone": [
