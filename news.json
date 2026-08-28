@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28T10:56:24.630Z",
+ "generatedAt": "2026-08-28T10:58:27.224Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Med žrtvami hude nesreče na primorski avtocesti dva otroka",
     "link": "https://www.24ur.com/novice/crna-kronika/med-zrtvami-hude-nesrece-na-primorski-avtocesti-dva-otroka.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/5b93a316829608833972_63638891.png?v=f1c2&fop=fp:0.52:0.61",
-    "date": 1787914003000
+    "date": 1787914626000
    },
    {
     "title": "Dramatično reševanje iz predora: 350 rešenih, bitka za še 100 se nadaljuje",
@@ -79,8 +79,14 @@
   ],
   "rtvslo": [
    {
-    "title": "V četrtkovi hudi prometni nesreči na primorski avtocesti umrla 74-letnica in dva otroka",
-    "link": "https://www.rtvslo.si/crna-kronika/v-cetrtkovi-hudi-prometni-nesreci-na-primorski-avtocesti-umrla-74-letnica-in-dva-otroka/792153",
+    "title": "Kdo bodo celjski tekmeci v Evropski ligi?",
+    "link": "https://www.rtvslo.si/sport/nogomet/evropska-liga-pokal-uefa/kdo-bodo-celjski-tekmeci-v-evropski-ligi/792156",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/20/67074330.jpg",
+    "date": 1787914565000
+   },
+   {
+    "title": "V četrtkovi prometni nesreči na primorski avtocesti umrli 74-letnica in dva otroka",
+    "link": "https://www.rtvslo.si/crna-kronika/v-cetrtkovi-prometni-nesreci-na-primorski-avtocesti-umrli-74-letnica-in-dva-otroka/792153",
     "image": "https://img.rtvcdn.si/_up/upload/2026/04/14/67035427.jpg",
     "date": 1787913933000
    },
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/rusija-izvedla-nove-napade-na-kijev-in-okolico-ukrajinske-sile-napadle-rusko-rafinerijo/792145",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/28/67084351.jpg",
     "date": 1787911696000
-   },
-   {
-    "title": "Prvič po letu 2014 bi lahko v enem letu dobili štiri različne zmagovalce turnirjev za grand slam",
-    "link": "https://www.rtvslo.si/sport/sportni-sos/prvic-po-letu-2014-bi-lahko-v-enem-letu-dobili-stiri-razlicne-zmagovalce-turnirjev-za-grand-slam/791492",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/06/07/67050860.jpg",
-    "date": 1787910711000
    }
   ],
   "zurnal": [
@@ -250,11 +250,11 @@
     "titleSl": "\"Visoko tveganje\" za preboj jezera in povzročitev druge poplave, opozarja Kitajska"
    },
    {
-    "title": "Grieving police officers 'working through pain' to investigate Teesside crash and fire",
+    "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
     "link": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce27/live/b8e285f0-a2cb-11f1-941c-8741c1a72471.jpg",
     "date": 1787914200000,
-    "titleSl": "Žalujoči policisti \"delajo skozi bolečino\", da raziščejo nesrečo in požar v Teessideu"
+    "titleSl": "Nered ob izpustu balona za človeka, ki je umrl v prometni nesreči A66, \"ogroža življenja\", pravi poslanec"
    },
    {
     "title": "Who is Norway's new King Haakon VIII?",
@@ -415,66 +415,50 @@
   ],
   "bild": [
    {
+    "title": "„Da dachte ich kurz, das ist KI“ - Haben Sie diese spektakuläre BVB-Szene mitbekommen?",
+    "link": "https://www.bild.de/sport/fussball/da-dachte-ich-kurz-das-ist-ki-haben-sie-diese-spektakulaere-bvb-szene-mitbekommen-6a9143462ed18bbd042e6d2b",
+    "image": "https://images.bild.de/6a9143462ed18bbd042e6d2b/92280c9653ab677091a7afb04555f756-landscape,75d897df?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Katastrophe im Himalaya - Deutsche Familie in Nepal gerettet",
+    "link": "https://www.bild.de/news/katastrophe-im-himalaya-deutsche-familie-in-nepal-gerettet-6a91606a518a586e1855b455",
+    "image": "https://images.bild.de/6a91606a518a586e1855b455/c26c29ae7c1ff77812e04ed62176d031,ae73b17c?w=1280",
+    "date": 0,
+    "titleSl": "Katastrofa im Himalaja - Deutsche Familie v Nepalu gerettet"
+   },
+   {
+    "title": "Extremisten in Behörden - Stimmt es, dass Polizisten oft AfD‑Anhänger sind?",
+    "link": "https://www.bild.de/politik/inland/extremisten-in-behoerden-stimmt-es-dass-polizisten-oft-afdanhaenger-sind-6a8fffc414f40f555e0a34db",
+    "image": "https://images.bild.de/6a8fffc414f40f555e0a34db/0288ac73e0d57c84c695079ac7f6836a,7628a333?w=1280",
+    "date": 0
+   },
+   {
+    "title": "GTA-Fans legen Netflix lahm - Game-Szene feiert die ersten Spielausschnitte",
+    "link": "https://www.bild.de/unterhaltung/bildgg/gta-fans-legen-netflix-lahm-game-szene-feiert-die-ersten-spielausschnitte-6a915c8dd88567044d847d95",
+    "image": "https://images.bild.de/6a915c8dd88567044d847d95/372dcde63fae42099186a3f1e1f15546,59433dde?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Zu wenig Snacks! - Tate-Brüder jammern hinter Gittern",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/tate-brueder-jammern-hinter-gittern-wir-bekommen-zu-wenig-snacks-6a9147eb2ed18bbd042e6da0",
+    "image": "https://images.bild.de/6a9147eb2ed18bbd042e6da0/fd318b47983e6bf9aaa46b4429a4e118,b8a663b3?w=1280",
+    "date": 0,
+    "titleSl": "Zu wenig Prigrizki! - Tate-Brüder jammern hinter Gittern"
+   },
+   {
     "title": "Schlechtester AfD-Wert seit Anfang Mai - Ist der Siegmund-Rausch schon vorbei?",
     "link": "https://www.bild.de/politik/inland/sachsen-anhalt-ist-der-rausch-fuer-siegmund-schon-vorbei-6a9143ee518a586e1855b0ab",
     "image": "https://images.bild.de/6a9143ee518a586e1855b0ab/e9e338a9e52812880e9ce21f71c4976d,7849567f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Chlor für die Pflanzen - Kann man das Poolwasser im Garten entsorgen?",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/poolwasser-zum-giessen-nutzen-wann-es-im-garten-erlaubt-ist-6a8efa8a0030825e3e9cd26d",
-    "image": "https://images.bild.de/6a8efa8a0030825e3e9cd26d/5df03373f15c4a6350d4a57f4acd8a64,498035b0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Energie-Heimspiel am Samstag - Wollitz-Ansage an Greuther Fürth",
-    "link": "https://www.bild.de/sport/fussball/energie-cottbus-claus-dieter-wollitz-erklaert-sein-team-zum-favoriten-6a904caa0c649aabd9715e67",
-    "image": "https://images.bild.de/6a904caa0c649aabd9715e67/cf637ed94cef66b6b72a29aba169d584,c694b72d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Dolly Partons Sprüche - „Es ist ganz schön teuer, so billig auszusehen“",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/dolly-partons-sprueche-gehen-viral-es-ist-ganz-schoen-teuer-so-billig-auszusehen-6a913e272ed18bbd042e6c8d",
-    "image": "https://images.bild.de/6a913e272ed18bbd042e6c8d/bed291bfbed0bb8261f316945010f769,c7ac7258?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Herzversagen bei mehr als 40 Grad - Sohn von Ex-Chelsea-Profi stirbt in der Wüste",
-    "link": "https://www.bild.de/news/ausland/herzversagen-bei-mehr-als-40-grad-sohn-von-frueherem-profi-des-fc-chelsea-stirbt-in-wueste-6a909b208a7786c19f336905",
-    "image": "https://images.bild.de/6a909b208a7786c19f336905/238560c5aac1c8de0840b93bc5f0403a,dd2ac6b2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Brückentage 2027 - So werden aus 26 Urlaubstagen bis zu 53 freie Tage",
-    "link": "https://www.bild.de/leben-wissen/mein-recht-verbraucherportal/urlaub-2027-aus-26-urlaubstagen-53-freie-tage-zaubern-6a8f0223198bb9fbdfaffff4",
-    "image": "https://images.bild.de/6a8f0223198bb9fbdfaffff4/119d102d116496edaf7925032a5257d0,2ed2d53d?w=1280",
     "date": 0
    }
   ],
   "krone": [
    {
     "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02TG1zN1REMlhlNTlkTUQwOFVlaFFaV3B1NUhTMWpuTWQ0SjhiSnJiVkZCX2xZTkdXOEQxM0xiU2piWGhBQTQzY3YzUHB5SE1lbGNOelM1MA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4cHZ2ZjhCWW05SFduMXZMTmJUTDVNR0ZRZUNsUWNuZllOSlQ4Wms0ZTJHQ1U1ajdDRTRRSy14RnFGZFFDRF95MnZmbUo5RFVnaDVUQ0xaNA?oc=5",
     "image": "",
-    "date": 1787908584000
-   },
-   {
-    "title": "„Haben meine Mutter, Familie und Kinder beleidigt“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oakw1ZUo0UUd3YXlnaDVzR3dQS2I1ZVlDOWR6ZEtIakpCMjVIVGg0bnpNeDFLejV1S2NiWTNVTGwtdw?oc=5",
-    "image": "",
-    "date": 1787906220000
-   },
-   {
-    "title": "„Meterdicke Mauer“ und Superkabel für das Weltall",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYZGFZblFKMDMtOHZ5T0tLTjdhS3pOM3RhTW4tVjJQb0xnRXZfMzBnSW1IVW4xZXpmNWxBdTNpM1JGZw?oc=5",
-    "image": "",
-    "date": 1787904000000
-   },
-   {
-    "title": "Laufende Suchaktion - 61-jähriger Urlauber im Kleinwalsertal vermisst",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0td1JnRmxaMkN5aXM3QUt1a0NzS1VxSmxFcXR1bkNXSUJIOUQ4VHlIOXR6dlRCQmllR0NfMk5uYUpYUQ?oc=5",
-    "image": "",
-    "date": 1787904000000
+    "date": 1787908241000
    },
    {
     "title": "„Superzellen“: Heftige Böen und Gewitter möglich",
@@ -488,6 +472,24 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZUEJYem5qTXF0MG1vRHk3ak40Z2FsbW1ERVgzSVBCZTJGMmZrNTNQMVlYLTFXZWNkaVRoUXRiQjIwZw?oc=5",
     "image": "",
     "date": 1787902888000
+   },
+   {
+    "title": "Langzeitanalyse zeigt: - Zuckerzusatz Xylit kann das Herz schädigen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uNFdqNWxRX2xKME9hcDRxdTlpRFBkSmdPUXlGQ1ZYZEROMmhwRDRqdFp0Ulk2RTZ0eHdfZTV2VWRxQQ?oc=5",
+    "image": "",
+    "date": 1787902320000
+   },
+   {
+    "title": "Soziales Pulverfass - Proteste & Gewalt in Ceuta eskalieren nach Ansturm",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xeWwtT0lMOWVyX09GQjBmdU1vamdyVXVjYnIxRWREV1djNlFScERQeXV3b3JZMEJzeTNEUVJHaXNTZw?oc=5",
+    "image": "",
+    "date": 1787902260000
+   },
+   {
+    "title": "„Familien-Zusammenführung“ auf Greifvogelstation",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqV0EtdkcwYy1CN2M0aE1jemZOMnVnMzc5UlctQ0pFUUZ6UEJFYWRuSWpvMEg5YjZ1UkY4M2RZdVRFQQ?oc=5",
+    "image": "",
+    "date": 1787902080000
    }
   ],
   "rainews": [
@@ -579,7 +581,14 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Albares elogia la “comunicación con Marruecos” desde el primer momento",
     "link": "https://elpais.com/espana/2026-08-28/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/A47QHGOX6ZBYDOLCR6YGKRNAWQ.jpg?auth=af5e32b3a28002465788d1c561887fb46fbe629a4ba59e367a2fac3808ff0971",
-    "date": 1787914265000
+    "date": 1787914435000
+   },
+   {
+    "title": "La Comunidad de Madrid no renueva a decenas de profesores especializados en menores con autismo: “Perjudican a nuestros hijos”",
+    "link": "https://elpais.com/espana/madrid/2026-08-28/la-comunidad-de-madrid-no-renueva-a-decenas-de-profesores-especializados-en-menores-con-autismo-perjudican-a-nuestros-hijos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/YXUGUE5GD5BJVAC4EEHA2ZKVME.jpg?auth=db9f55601149529c9d3c3ef03aa354226e44e9f12afcf41c8a6ab0d3bbd4d10a",
+    "date": 1787914209000,
+    "titleSl": "La Comunidad de Madrid no renueva a decenas de profesores especializados en menores con autismo: \"Perjudican a nuestros hijos\""
    },
    {
     "title": "El riesgo de una segunda riada amenaza Nepal y Tíbet tras una catástrofe que deja ya al menos 543 muertos",
@@ -605,13 +614,6 @@
     "link": "https://elpais.com/espana/madrid/2026-08-28/madrid-vive-su-dia-de-agosto-mas-frio-del-siglo-xxi-21-grados-de-maxima.html",
     "image": "https://imagenes.elpais.com/resizer/v2/UUJTMKTMYFNYTKBLYGC2IGMQDQ.jpg?auth=da6608836d7fc505e4810629090687e4e9594ca252adfe559616d410c4f6adea",
     "date": 1787911707000
-   },
-   {
-    "title": "Roland Busch (Siemens): “Cualquier postura que vaya en contra de la diversidad no es buena para Alemania ni para la empresa”",
-    "link": "https://elpais.com/economia/2026-08-28/roland-busch-siemens-cualquier-postura-que-vaya-en-contra-de-la-diversidad-no-es-buena-para-alemania-ni-para-la-empresa.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZD6JHR33W5DARECMB3X62X3YBA.jpg?auth=8b7afa037c86534501597ac792125066a36566b1388da02738375d48b92cd1cb",
-    "date": 1787911209000,
-    "titleSl": "Roland Busch (Siemens): \"Cualquier postura que vaya en contra de la diversidad no es buena para Alemania ni para la empresa\""
    }
   ]
  },
