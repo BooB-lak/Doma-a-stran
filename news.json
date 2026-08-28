@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28T18:10:47.399Z",
+ "generatedAt": "2026-08-28T18:12:25.642Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Bizarna nesreča v zalivu Ieranto: Pred skokom ni videl kopalca",
+    "link": "https://www.zurnal24.si/svet/bizarna-nesreca-v-zalivu-ieranto-pred-skokom-ni-videl-kopalca-464320",
+    "image": "https://www.zurnal24.si/media/img/34/bf/6944af4305cd385c7787.jpeg",
+    "date": 1787940720000
+   },
+   {
     "title": "Dnevni horoskop za soboto, 29. avgusta",
     "link": "https://www.zurnal24.si/magazin/horoskop-in-numerologija/dnevni-horoskop-za-soboto-29-avgusta-464219",
     "image": "https://www.zurnal24.si/media/img/c4/4d/dc5a5b6bfe9aee01a531.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/svet/grska-lovca-posredovala-zaradi-turskega-drona-464316",
     "image": "https://www.zurnal24.si/media/img/63/c9/55f7c1e6ff5502f07306.jpeg",
     "date": 1787931060000
-   },
-   {
-    "title": "Huda prometna nesreča v Ljubljani: Bori se za življenje",
-    "link": "https://www.zurnal24.si/slovenija/crna-kronika/huda-prometna-nesreca-v-ljubljani-bori-se-za-zivljenje-464315",
-    "image": "https://www.zurnal24.si/media/img/f2/8f/1e8014c2b488369c3a95.jpeg",
-    "date": 1787930700000
    }
   ],
   "reuters": [
@@ -250,6 +250,13 @@
     "titleSl": "Kriket: Danes na testu"
    },
    {
+    "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
+    "link": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/393622b0-a2dc-11f1-a291-b542ee92de7c.png",
+    "date": 1787940688000,
+    "titleSl": "Nered ob izpustu balona za človeka, ki je umrl v prometni nesreči A66, \"ogroža življenja\", pravi poslanec"
+   },
+   {
     "title": "Seam quartet puts England on verge of series win",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/c9w4rneng8lo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e90/live/75af4220-a305-11f1-b109-879e35c24276.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787d/live/19ed92c0-a305-11f1-a291-b542ee92de7c.png",
     "date": 1787938614000,
     "titleSl": "Satelitski posnetki razkrivajo obseg poplav v nepalskih vaseh"
-   },
-   {
-    "title": "Videos show people survive floodwaters on balcony in Nepal",
-    "link": "https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c457/live/ed17c6a0-a2fd-11f1-a291-b542ee92de7c.png",
-    "date": 1787938322000,
-    "titleSl": "Videoposnetki prikazujejo ljudi, ki preživijo poplavne vode na balkonu v Nepalu"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-    "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a91b50810c0-1787933960.jpg?resize=1920%2C1440",
-    "date": 1787939237000,
-    "titleSl": "Izraelski napad ubil tri Palestince v Jeninu na Zahodnem bregu"
-   },
    {
     "title": "‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787936093.jpg?resize=1920%2C1080&quality=80",
     "date": 1787936183000,
     "titleSl": "Poročila Al Jazeere iz Nepala, ko preživeli pred poplavami bežijo pred novo grožnjo"
+   },
+   {
+    "title": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
+    "link": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a91af3c14e4c-1787932476.jpg?resize=1920%2C1440",
+    "date": 1787935485000,
+    "titleSl": "Odposlanec Sveta za mir Mladenov opozarja na nevarnost \"propada\" premirja v Gazi"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/29299872a9ec2777422d1a50204bc82a523a2d79/1454_0_7213_5768/master/7213.jpg?width=140&quality=85&auto=format&fit=max&s=9a8ee9282866b60c2f7761d72fd5692e",
-    "date": 1787940163000,
+    "date": 1787938967000,
     "titleSl": "Trumpova kmetijska sekretarka se zavezuje, da bo \"opustila birokracijo\", da bi rančerjem omogočila obdelavo in prodajo lastne govedine – v živo"
    },
    {
@@ -454,16 +454,16 @@
   ],
   "krone": [
    {
+    "title": "Stimmen zur Auslosung - Ingolitsch: „Geschichte, die der Fußball schreibt“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VbF9IRTNNaERNSVZZMjhhRlpSSE9IZjlKbG1TdGxhWVpZV0hlc3BOVlFnTjVoS0NvVjg2UjUzWTY0QQ?oc=5",
+    "image": "",
+    "date": 1787940600000
+   },
+   {
     "title": "Adabei Primetime - Trauer um Country-Ikone ++ Heimische Stars im Talk",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JcVVCM0N0a2YxNlBIT1dNekc0QTdyZ1lLX1hhRkFHQ0tERzhFV2hEc1JWWW5acklXVU1fLTZPMTVIZw?oc=5",
     "image": "",
     "date": 1787940401000
-   },
-   {
-    "title": "Stimmen zur Auslosung - Ingolitsch: „Geschichte, die der Fußball schreibt“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VbF9IRTNNaERNSVZZMjhhRlpSSE9IZjlKbG1TdGxhWVpZV0hlc3BOVlFnTjVoS0NvVjg2UjUzWTY0QQ?oc=5",
-    "image": "",
-    "date": 1787940360000
    },
    {
     "title": "Schwer verletzt - Biker (47) nach Crash über Autofront geschleudert",
@@ -574,13 +574,6 @@
   ],
   "elpais": [
    {
-    "title": "La llegada a Rusia de Kanye West conmociona al Kremlin: “Un enfermo mental de un hospital que pinta esvásticas en la pared”",
-    "link": "https://elpais.com/cultura/2026-08-28/la-llegada-a-rusia-de-kanye-west-conmociona-al-kremlin-un-enfermo-mental-de-un-hospital-que-pinta-esvasticas-en-la-pared.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/WVWGRQ46HZFQRLHDIHYPV5RLEU.jpg?auth=62be97cbda759876ed69324560da7d43f2bccebaa243c363bcda4851f910f687",
-    "date": 1787940089000,
-    "titleSl": "La llegada a Rusia de Kanye West conmociona al Kremlin: \"Un enfermo mental de un hospital que pinta esvásticas en la pared\""
-   },
-   {
     "title": "España pide a la UE el apoyo de Frontex para “agilizar” la clasificación de migrantes en Ceuta",
     "link": "https://elpais.com/espana/2026-08-28/espana-pide-a-la-ue-el-apoyo-de-frontex-para-agilizar-la-clasificacion-de-migrantes-en-ceuta.html",
     "image": "https://imagenes.elpais.com/resizer/v2/LNWIRVSZNRCFBM3IZ4B7TH5QEU.jpg?auth=c76b131e4055115b938b7b19e73bee6043e57e5d16dbd36be0b396ae97562513",
@@ -610,6 +603,12 @@
     "link": "https://elpais.com/deportes/futbol/2026-08-28/el-leganes-hace-oficial-el-fichaje-de-alvaro-morata.html",
     "image": "https://imagenes.elpais.com/resizer/v2/JGPKGSDV4NMENOFI3A3TMGFO5Q.jpg?auth=ab47ba55c8cb9b58da8f7ccb853f8bcc3645a57dacb16562af3e6db5e62bf4b7",
     "date": 1787933437000
+   },
+   {
+    "title": "Los vecinos de tres fincas desalojadas por el socavón del metro de Barcelona no podrán volver a casa hasta enero",
+    "link": "https://elpais.com/espana/catalunya/2026-08-28/los-vecinos-de-tres-fincas-desalojadas-por-el-socavon-del-metro-de-barcelona-no-podran-volver-a-casa-hasta-enero.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/U4XWM667XFCJTBKXRFT3DFTYZA.jpg?auth=638cef856614154f43fb4113149488d58fc5e6a9295ea0dc10a0b9aad1748d8a",
+    "date": 1787932410000
    }
   ]
  },
