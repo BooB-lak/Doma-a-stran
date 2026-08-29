@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29T17:10:44.014Z",
+ "generatedAt": "2026-08-29T17:12:27.245Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,16 @@
   ],
   "24ur": [
    {
-    "title": "Ali lahko prvoligaški novinec ustavi brezhiben niz Porta? 0:0*",
+    "title": "Porto ekspresno prevzel vodstvo proti Academicu 1:0*",
     "link": "https://www.24ur.com/sport/nogomet/ali-lahko-prvoligaski-novinec-ustavi-brezhiben-niz-porta.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/00e2b504190e362578b3_63639454.jpg?v=a435&fop=fp:0.47:0.40",
     "date": 1788023274000
+   },
+   {
+    "title": "Čudovita gesta vodilnega na Vuelti, namenjena nesrečnemu Pogačarju",
+    "link": "https://www.24ur.com/sport/kolesarstvo/cudovita-gesta-vodilnega-na-vuelti-namenjena-nesrecnemu-pogacarju.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/0abb65fe6cb7801e839b_63639459.jpg?v=3c2e&fop=fp:0.50:0.24",
+    "date": 1788023135000
    },
    {
     "title": "Slovenska vojska s preletom letal podprla premiero filma Gajin svet 3",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/safonov-med-ogrevanjem-za-tekmo-dozivel-grd-udarec-s-strani-pomocnika.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/d438f49375471c5ae6b4_63639452.jpg?v=5533&fop=fp:0.49:0.36",
     "date": 1788019445000
-   },
-   {
-    "title": "AI sama izbrala tarčo, trije mrtvi: 'Stroji ne poznajo usmiljenja'",
-    "link": "https://www.24ur.com/novice/znanost-in-tehnologija/ai-sama-izbrala-tarco-trije-mrtvi-stroji-ne-poznajo-usmiljenja.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2023/76520d63e5ec902a5421_62988321.jpg?v=0dc5&fop=fp:0.47:0.44",
-    "date": 1788018342000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788022346.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788022435000,
+    "titleSl": "Ruski napad na skladišče streliva sprožil smrtonosne eksplozije v bližini Kijeva"
+   },
+   {
     "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
     "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a920d01-1787956481.jpg?resize=1200%2C675",
@@ -320,22 +327,29 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788012099.jpg?resize=1920%2C1080&quality=80",
     "date": 1788012106000,
     "titleSl": "Ljudje so več dni obtičali na razpadajoči nigerijski avtocesti"
-   },
-   {
-    "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
-    "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Korean-borders-final-1787964192.jpg?resize=1620%2C1080&quality=80",
-    "date": 1788011476000,
-    "titleSl": "Koreja razdeljena: Sestrino dolgo čakanje in dezerterjeva ponudba, da reši svojo mamo"
    }
   ],
   "guardian": [
    {
+    "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
+    "link": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
+    "image": "https://i.guim.co.uk/img/media/d7eebc5aae6f8af39e6c04d3215ff89df5fb24c5/23_111_3820_3058/master/3820.jpg?width=140&quality=85&auto=format&fit=max&s=9b0ffc7f7fa088734489bfcac921403e",
+    "date": 1788023323000,
+    "titleSl": "Skrajno desni medijski provokator Milo Yiannopoulos, ki ga je ICE deportiral iz ZDA v Veliko Britanijo"
+   },
+   {
     "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – latest updates",
     "link": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
     "image": "https://i.guim.co.uk/img/media/81756ddc6447e58df37274f52fe2c34e1a22c386/746_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=0f9f81fdf1407fead34e90475ec88356",
-    "date": 1788020916000,
+    "date": 1788023045000,
     "titleSl": "Poplave v Nepalu in Tibetu: Nepal poziva k tehnični podpori za reševalna prizadevanja, saj se je število pogrešanih povečalo na skoraj 3.000 – najnovejše posodobitve"
+   },
+   {
+    "title": "Daughter traces mother and aunt’s last known location in Nepal through TikTok video",
+    "link": "https://www.theguardian.com/world/2026/aug/29/daughter-traces-mother-and-aunts-last-known-location-in-nepal-through-tiktok-video",
+    "image": "https://i.guim.co.uk/img/media/dde790af8d7195ea001629f5a97bda950a6c0fb2/62_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=9a44ec1c19d59eb53a854f631977e592",
+    "date": 1788022906000,
+    "titleSl": "Hči sledi zadnji znani lokaciji matere in tete v Nepalu prek videoposnetka TikTok"
    },
    {
     "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/820880042624f8349ea88d9cac61d09d5cca683b/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6ba4e0ea03ceb33245bf794b5dfcdb26",
     "date": 1788016073000,
     "titleSl": "Kandidat za senat Michigana Mike Rogers pravi, da je Bin Ladnovo telo videl z lastnimi očmi. Ni"
-   },
-   {
-    "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
-    "image": "https://i.guim.co.uk/img/media/122541fa99a260816b9ad3f83537a5a7f1c7cd6f/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=62bea17cf6d3adebeb2e60150722f165",
-    "date": 1788015967000,
-    "titleSl": "Kraljeva mornarica je tri dni iskala ruska plovila v vodah Združenega kraljestva"
-   },
-   {
-    "title": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
-    "link": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-    "image": "https://i.guim.co.uk/img/media/271a7f98e98406fa97e3618ad92eadccf60c69b2/1032_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=24570854a800e4a3d3241a90a961f355",
-    "date": 1788015637000,
-    "titleSl": "Število pogrešanih v Nepalu in Tibetu se je povečalo na skoraj 3.000, medtem ko se operacije nadaljujejo"
    }
   ],
   "spiegel": [
