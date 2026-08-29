@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-29T20:32:27.988Z",
+ "generatedAt": "2026-08-29T20:34:33.107Z",
  "sources": {
   "siol": [
+   {
+    "title": "PSG do točke po enakem scenariju kot v prvem krogu",
+    "link": "https://siol.net/sportal/nogomet/francosko-prvenstvo-2-krog-700064",
+    "image": "https://siol.net/media/img/56/94/f28ceb78746dc092a356.jpeg",
+    "date": 1788035520000
+   },
    {
     "title": "Oblaku se že smeji, Drkušić ostal praznih rok #vŽivo",
     "link": "https://siol.net/sportal/nogomet/spansko-prvenstvo-3-krog-700047",
@@ -13,12 +19,6 @@
     "link": "https://siol.net/sportal/nogomet/italijansko-prvenstvo-2-krog-2026-27-700059",
     "image": "https://siol.net/media/img/66/f4/dc987444cd41e46f3796.jpeg",
     "date": 1788034860000
-   },
-   {
-    "title": "PSG do točke po enakem scenariju kot v prvem krogu",
-    "link": "https://siol.net/sportal/nogomet/francosko-prvenstvo-2-krog-700064",
-    "image": "https://siol.net/media/img/56/94/f28ceb78746dc092a356.jpeg",
-    "date": 1788034740000
    },
    {
     "title": "Novo razočaranje za Olimpijo, Bravo se je približal vrhu",
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788033813.jpg?resize=1642%2C1080&quality=80",
+    "date": 1788033946000,
+    "titleSl": "Število smrtnih žrtev gozdnih požarov v Alžiriji naj bi se povečalo, saj preživeli pravijo, da ni ostalo nič"
+   },
+   {
     "title": "Can international diplomacy find a way forward in Libya?",
     "link": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788030952.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP25294539860856-1778876196.jpg?resize=1920%2C1440",
     "date": 1788029779000,
     "titleSl": "Ameriški sodnik odloča proti Trumpovim prizadevanjem za deportacijo propalestinskih študentov"
-   },
-   {
-    "title": "Haitian gangs release 13 captives after mass kidnapping in Kenscoff",
-    "link": "https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a9318c1-1788025025.jpg?resize=1920%2C1440",
-    "date": 1788028222000,
-    "titleSl": "Haitijske tolpe po množični ugrabitvi v Kenscoffu izpustijo 13 ujetnikov"
    }
   ],
   "guardian": [
@@ -414,6 +414,26 @@
   ],
   "bild": [
    {
+    "title": "Kommentar von BILD-Chef Robert Schneider - Schlechtes Handwerk",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-bild-chefredakteur-robert-schneider-schlechtes-handwerk-bei-der-regierung-6a930f72518a586e1855c99b",
+    "image": "https://images.bild.de/6a930f72518a586e1855c99b/d7f207d3f55af128998e9b54ef8b3f0e,61202c2f?w=1280",
+    "date": 0,
+    "titleSl": "Komentar von BILD-Chef Robert Schneider - Schlechtes Handwerk"
+   },
+   {
+    "title": "Kommentar - Stärke zeigen!",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-deutschland-muss-nach-attacke-von-leipzig-staerke-gegenueber-putin-zeigen-6a93121527cdbc5135d070aa",
+    "image": "https://images.bild.de/6a93121527cdbc5135d070aa/f20acb4394a7a33a354f4eb6651ea271,a44b1228?w=1280",
+    "date": 0,
+    "titleSl": "Komentar - Stärke zeigen!"
+   },
+   {
+    "title": "Sie überlebt Russen-Angriff nur knapp - Drohne schlägt direkt neben Frau ein",
+    "link": "https://www.bild.de/news/ausland/drohnenangriffe-auf-die-region-kiew-einsatzkraefte-kaempfen-gegen-feuer-6a92eff7518a586e1855c864",
+    "image": "https://images.bild.de/6a92eff7518a586e1855c864/057559f3f8f543eac7455173cc64cccf,da2d4da5?w=1280",
+    "date": 0
+   },
+   {
     "title": "Wegen Handelskrieg mit Kanada - Amis auf Klopapier-Jagd",
     "link": "https://www.bild.de/politik/ausland-und-internationales/hamsterkaeufe-wegen-neuer-zoelle-amerikaner-bunkern-jetzt-toilettenpapier-6a932b65d88567044d8497fd",
     "image": "https://images.bild.de/6a932b65d88567044d8497fd/1abc01f1e99ae43cfc06c931a05603ea,85d54f0e?w=1280",
@@ -429,24 +449,6 @@
     "title": "Rote Karte! - Dann feuert BVB-Star Flasche gegen Klub-Logo",
     "link": "https://www.bild.de/sport/fussball/rote-karte-dann-feuert-bvb-star-flasche-gegen-klub-logo-6a932176805dd0cb92dc3940",
     "image": "https://images.bild.de/6a932176805dd0cb92dc3940/c75d2a72456cac3159e082a068f13c82,96777c98?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nürnberg fertigt Bielefeld ab - Klose stürmt zurück an die Spitze",
-    "link": "https://www.bild.de/sport/fussball/nuernberg-fertigt-bielefeld-ab-klose-stuermt-zurueck-an-die-spitze-6a9326fa518a586e1855ca8d",
-    "image": "https://images.bild.de/6a9326fa518a586e1855ca8d/850bd6193a87159a667cd6ba7963add2,48dee1f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Startrekord eingestellt - Nürnberg-Gala nach Zoma-Transferknall",
-    "link": "https://www.bild.de/sport/fussball/fcn-startrekord-eingestellt-nuernberg-gala-nach-zoma-transferknall-6a933b22518a586e1855cb62",
-    "image": "https://images.bild.de/6a933b22518a586e1855cb62/851bce5217f20564d99e2a1b97137237,b366be94?w=1280",
-    "date": 0
-   },
-   {
-    "title": "RONZHEIMER-Doku - Viel Frust auf rechter Demo in Sachsen-Anhalt",
-    "link": "https://www.bild.de/politik/inland/ronzheimer-doku-viel-frust-auf-rechter-demo-in-sachsen-anhalt-6a92b0ac518a586e1855c556",
-    "image": "https://images.bild.de/6a92b0ac518a586e1855c556/65751b468e46e13e85a64bb429e2b65a,9602e538?w=1280",
     "date": 0
    }
   ],
@@ -478,16 +480,16 @@
     "titleSl": "GUTEN MORGEN - Erschöpfte Regierung | Für die FPÖ WERKEN"
    },
    {
-    "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56UzVsQy10bTZ0MlBTeTVhcnVkLXM4ZUM0bTFEdUxoVFJQeG1ldE9WWEdTSlBYc2pLN0FfbkRHTEdhb2xMN1pUZFVNdGEyZGwyaEJ2ZVRlZw?oc=5",
-    "image": "",
-    "date": 1788033029000
-   },
-   {
     "title": "Transfer-Knaller - Kalajdzic steht kurz vor der Rückkehr zum LASK",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PV01WQ3RDS19VeWFyV29QQnNqczBlcGdocmJiZ0Fhc3lqcktWek5GR2V2RGJ1NFRsbmJXeFNVUEpyUQ?oc=5",
     "image": "",
     "date": 1788032820000
+   },
+   {
+    "title": "Zweite Liga - FAC und Young Violets feiern 2:0-Siege",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pZlhtVHliS1l5MFphcXd0eUhrdXgyZmp3dUZIcEw2S1BvUmFlSndMSXRXbjUwUzJHajFCYzNOTXRKZw?oc=5",
+    "image": "",
+    "date": 1788032100000
    }
   ],
   "rainews": [
