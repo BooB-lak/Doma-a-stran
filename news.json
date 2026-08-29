@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29T07:40:44.067Z",
+ "generatedAt": "2026-08-29T07:42:28.385Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Odvetniki Uefe proti Infantinu",
+    "link": "https://www.24ur.com/sport/nogomet/odvetniki-uefe-proti-infantinu.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/2de7f7bdf2a325fa0b5f_63628481.jpg?v=f5b1&fop=fp:0.42:0.37",
+    "date": 1787989133000
+   },
+   {
     "title": "Po požaru v Omišu poškodbam podlegel 79-letni moški",
     "link": "https://www.24ur.com/novice/tujina/po-pozaru-v-omisu-poskodbam-podlegel-79-letni-moski.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/c0652bcb7744eed23584_63631764.jpg?v=5ba0&fop=fp:0.45:0.34",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/magazin/samuraj.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/3228b5609a7d82c989a3_63637271.jpg?v=21d0&fop=fp:0.39:0.18",
     "date": 1787988102000
-   },
-   {
-    "title": "Nova uredba za policiste z najzahtevnejšimi operativnimi nalogami",
-    "link": "https://www.24ur.com/novice/slovenija/nova-uredba-za-policiste-z-najzahtevnejsimi-operativnimi-nalogami.html",
-    "image": "https://images.24ur.com/media/images/213xX/Apr2025/31d0cb593fed916254e1_63399463.jpg?v=d453&fop=fp:0.61:0.22",
-    "date": 1787987961000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
-    "link": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a928a68-1787988584.jpg?resize=1920%2C1440",
-    "date": 1787988814000,
-    "titleSl": "Aston Villa podpisala napadalca Chelseaja Nicolasa Jacksona za klubski rekord"
-   },
-   {
     "title": "India and Pakistan are united in spending citizen lives like pocket change",
     "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a919be4c9b2-1787927524_636c74-1787987262.jpg?resize=1200%2C630&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787976936.jpg?resize=1920%2C1079&quality=80",
     "date": 1787976961000,
     "titleSl": "Kaj je v ameriški in venezuelski \"največji naftni posel v svetovni zgodovini?\""
+   },
+   {
+    "title": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787976881.jpg?resize=1920%2C1080&quality=80",
+    "date": 1787976891000,
+    "titleSl": "\"Dedek celotne države:\" Norveški kralj Harald V. umre star 89 let"
    }
   ],
   "guardian": [
@@ -414,6 +414,13 @@
   ],
   "bild": [
    {
+    "title": "Angriff auf 3000 Metern Höhe - Berg-Rambo: „Ich bin Bergführer, halt dein Maul!“",
+    "link": "https://www.bild.de/news/ausland/lebensgefaehrlicher-angriff-bergsteiger-geraten-auf-3000-metern-hoehe-in-streit-6a91929f2ed18bbd042e758d",
+    "image": "https://images.bild.de/6a91929f2ed18bbd042e758d/d73b2050f72d4eec70d4a2534b24a679,8261016c?w=1280",
+    "date": 0,
+    "titleSl": "Angriff auf 3000 Metern Höhe - Berg-Rambo: \"Ich bin Bergführer, halt dein Maul!\""
+   },
+   {
     "title": "Norwegens neue Kronprinzessin - Das enge Band von Ingrid Alexandra und Opa Harald",
     "link": "https://www.bild.de/unterhaltung/royals-adel/ingrid-alexandra-das-enge-band-der-thronfolgerin-und-opa-harald-6a91800ad88567044d84815b",
     "image": "https://images.bild.de/6a91800ad88567044d84815b/6512c6fa4404f7e7f7415f3fb34f3030,9ea6fe18?w=1280",
@@ -443,15 +450,21 @@
     "link": "https://www.bild.de/sport/fussball/bundesliga-fuenf-thesen-von-marcel-reif-zur-neuen-saison-6a91541ab3df30a615528b88",
     "image": "https://images.bild.de/6a91541ab3df30a615528b88/b2f3d088fd85456455a639fd09e29adf,1c9bb9ca?w=1280",
     "date": 0
-   },
-   {
-    "title": "Großbrand im Leipziger Norden - Meterhohe Flammen schlagen aus Gebäude",
-    "link": "https://www.bild.de/news/inland/grossbrand-im-leipziger-norden-meterhohe-flammen-schlagen-aus-gebaeude-6a92788026d42ae76ef7e912",
-    "image": "https://images.bild.de/6a92788026d42ae76ef7e912/8250630736bd870d42f93c038c55d4f9,41ea1aff?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Regierung feuert Derad - Was passiert nun mit den verurteilten Islamisten?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CY3FfS1U2NU9ZX1Q1Z1NyZnM1VW5INFFmME1TdThuUGF4Zlp6aEpzcjJ0R28zdU1sNVE3cm9LcTBFQQ?oc=5",
+    "image": "",
+    "date": 1787989258000
+   },
+   {
+    "title": "144 Fragen gestellt - Causa Asbest: ÖVP mit Anfrageflut ans Land",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE44ZU55LTlXN2ZtYklsZjJwTEkxejJhVmc5Y1A4RG1OYlVOYTI2MlVZUGIxVGVYZm4tR1FDQXNZT1VTZw?oc=5",
+    "image": "",
+    "date": 1787988600000
+   },
    {
     "title": "„Toter geworden“: Zverev übt vor US Open Kritik",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yNUxVdjVJVVo3SlBiSnA4TkNSbzNhMGRJSTNKMFhKWEpSYTVjZFBJME1ub2Nlb0lxZERENDRZdzc4Zw?oc=5",
@@ -473,18 +486,6 @@
    {
     "title": "„Krone“-Kommentar - Der Staat profitiert von hohen Energiepreisen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10NUwwcEpFVE1sXzBOMzBBQmVoRVJCdllYUkt3ck9ySW5QTXVPdVJ0OTU5MVFXNFJjZHV0RDZqSDhLQQ?oc=5",
-    "image": "",
-    "date": 1787986800000
-   },
-   {
-    "title": "Neue Ermittlungen - Benko soll eigenen Dienstvertrag gefälscht haben",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03UDJaTVVfQ1NmZ0o4RmJOa0JpWW05eExFLUNXMGlPajF0ekpFcGpvQ01MRXV1RDRPX2xNVnlMRlBPUQ?oc=5",
-    "image": "",
-    "date": 1787986800000
-   },
-   {
-    "title": "Thöni Gruppe jubelt - Familienunternehmen zieht Millionen-Deal an Land",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WS0xYaHBrNS11Z25DRVRhQTd6MUZaOTdOVUNFZUxwLU1ZZmc4eUU3WmhWU3hVMUVrM1BlaEdGYTNzQQ?oc=5",
     "image": "",
     "date": 1787986800000
    }
