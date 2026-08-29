@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-08-29T19:57:55.101Z",
+ "generatedAt": "2026-08-29T20:06:49.797Z",
  "sources": {
   "siol": [
+   {
+    "title": "AfD napoveduje izgone na milijone priseljencev: \"Nemčija lahko preživi s 60 milijoni ljudi\"",
+    "link": "https://siol.net/novice/svet/afd-napoveduje-izgone-na-milijone-priseljencev-nemcija-lahko-prezivi-s-60-milijoni-ljudi-700137",
+    "image": "https://siol.net/media/img/9b/55/78a542e2d002ccb1dda6.jpeg",
+    "date": 1788033900000
+   },
    {
     "title": "Trebanjci po drami in sedemmetrovkah do prvega superpokala",
     "link": "https://siol.net/sportal/rokomet/celjani-in-trebanjci-za-prvo-lovoriko-700115",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/znane-nove-informacije-pogacarja-caka-operacija-700135",
     "image": "https://siol.net/media/img/28/71/8ab648d0caebed0f34aa.jpeg",
     "date": 1788029580000
-   },
-   {
-    "title": "Celjani v ligi Europa najprej proti Bayerju iz Leverkusna",
-    "link": "https://siol.net/sportal/nogomet/celjani-v-ligi-europa-najprej-proti-bayerju-iz-leverkusna-700134",
-    "image": "https://siol.net/media/img/27/49/c9c14f563f514d9dba57.jpeg",
-    "date": 1788029160000
    }
   ],
   "24ur": [
@@ -202,7 +202,8 @@
     "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
     "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
     "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-nepal-tunnels-kpqh/29int-nepal-tunnels-kpqh-mediumSquareAt3X.jpg",
-    "date": 1788033320000
+    "date": 1788033320000,
+    "titleSl": "Nepalski reševalci so se prebili skozi predore, da bi poskušali doseči 900 delavcev, pogrešanih po poplavah"
    },
    {
     "title": "Milo Yiannopoulos, Right-Wing Agitator, Deported Home to U.K.",
@@ -245,7 +246,8 @@
     "title": "Normandy veteran who lied about age to enlist dies at 101",
     "link": "https://www.bbc.co.uk/news/articles/cy5z3e64vpyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37d/live/648ee050-a3d6-11f1-a291-b542ee92de7c.jpg",
-    "date": 1788032948000
+    "date": 1788032948000,
+    "titleSl": "Veteran Normandije, ki je lagal o starosti za vpis, umre pri 101 letu"
    },
    {
     "title": "Jaissle claims first Premier League win at lacklustre Spurs",
@@ -329,17 +331,25 @@
   ],
   "guardian": [
    {
+    "title": "Tennessee governor says he backs airport name change to honor Dolly Parton",
+    "link": "https://www.theguardian.com/music/2026/aug/29/tennessee-dolly-parton-airport-name-change",
+    "image": "https://i.guim.co.uk/img/media/8500502483ee733addf800774c3d71e830ec78a6/219_0_2041_1633/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=e27becde66f7d3a88578ea8301364bfe",
+    "date": 1788033475000,
+    "titleSl": "Guverner Tennesseeja pravi, da podpira spremembo imena letališča v čast Dolly Parton"
+   },
+   {
     "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – latest updates",
     "link": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
     "image": "https://i.guim.co.uk/img/media/81756ddc6447e58df37274f52fe2c34e1a22c386/746_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=0f9f81fdf1407fead34e90475ec88356",
-    "date": 1788033264000,
+    "date": 1788033456000,
     "titleSl": "Poplave v Nepalu in Tibetu: Nepal poziva k tehnični podpori za reševalna prizadevanja, saj se je število pogrešanih povečalo na skoraj 3.000 – najnovejše posodobitve"
    },
    {
     "title": "LAPD releases footage of death of man whom police handcuffed and beat",
     "link": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death",
     "image": "https://i.guim.co.uk/img/media/209609195f3db0b76d55fc663f53b62e2d326665/90_0_2819_2256/master/2819.jpg?width=140&quality=85&auto=format&fit=max&s=4167db70e8262d9a88e3efa7f8e6860a",
-    "date": 1788033158000
+    "date": 1788033158000,
+    "titleSl": "Policija v Los Angelesu objavila posnetek smrti moškega, ki ga je policija vklenila in pretepla"
    },
    {
     "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
@@ -361,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/934a49bb59b4a0d9614efd7246d047b435d3bab5/1330_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=3e7b3531da0a236e62c1c632f297ec3d",
     "date": 1788020685000,
     "titleSl": "James Cleverly odstopil iz kabineta v senci, da bi kandidiral za župana Londona"
-   },
-   {
-    "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
-    "link": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
-    "image": "https://i.guim.co.uk/img/media/019f4167d3d66d36a454b92c2a3b2d4d40c64dc7/1_1_6879_5503/master/6879.jpg?width=140&quality=85&auto=format&fit=max&s=f1bb6de52cef822cba4665721cbd28b9",
-    "date": 1788019417000,
-    "titleSl": "Astronavti Artemis II prejmejo najvišje vesoljsko priznanje za svoje uspešno snemanje lune"
    }
   ],
   "spiegel": [
@@ -411,6 +414,26 @@
   ],
   "bild": [
    {
+    "title": "Transfer-Ticker - Blockbuster-Transfer in der Premier League",
+    "link": "https://www.bild.de/sport/fussball/transfer-ticker-barca-sticht-real-bei-weltmeister-aus-6a670d43dc2b0bab191a7b9c",
+    "image": "https://images.bild.de/6a670d43dc2b0bab191a7b9c/aecef8750fec6e4592acac642c7be14f,ac4842f2?w=1280",
+    "date": 0,
+    "titleSl": "Transfer-Ticker - Blockbuster-Transfer v Premier League"
+   },
+   {
+    "title": "Dortmunds neuer Super-Grieche - Verdacht auf Kreuzbandriss",
+    "link": "https://www.bild.de/sport/fussball/bvb-verdacht-auf-kreuzbandriss-beim-neuen-super-griechen-konstantelias-6a932a05518a586e1855ca9f",
+    "image": "https://images.bild.de/6a932a05518a586e1855ca9f/f26aa2ad815c47f19fe4a14348b98f23,e0939b78?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Im Handelskrieg mit Kanada - Amerikaner hamstern jetzt Toilettenpapier",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/hamsterkaeufe-wegen-neuer-zoelle-amerikaner-bunkern-jetzt-toilettenpapier-6a932b65d88567044d8497fd",
+    "image": "https://images.bild.de/6a932b65d88567044d8497fd/1abc01f1e99ae43cfc06c931a05603ea,85d54f0e?w=1280",
+    "date": 0,
+    "titleSl": "Im Handelskrieg mit Kanada - Američan hamstern jetzt Toilettenpapier"
+   },
+   {
     "title": "Sprengstoff-Drohne auf Leipzigs Flughafen - Diese Beweise führen nach Russland",
     "link": "https://www.bild.de/politik/inland/drohne-mit-sprengstoff-auf-leipzigs-flughafen-diese-beweise-fuehren-nach-russland-6a92ea8727cdbc5135d06f1c",
     "image": "https://images.bild.de/6a92ea8727cdbc5135d06f1c/3e38d432da99025b4ee78bcf020f7455,358c3255?w=1280",
@@ -428,29 +451,15 @@
     "link": "https://www.bild.de/news/ausland/nach-katastrophe-in-nepal-maedchen-7-nach-vier-tagen-aus-schlammmassen-gerettet-6a930a47d88567044d849673",
     "image": "https://images.bild.de/6a930a47d88567044d849673/75ff1c2569438b3eb145a5e9c1331a11,718894e6?w=1280",
     "date": 0
-   },
-   {
-    "title": "Transfer-Knall mitten im Spiel - Nürnberg-Boss Chatzialexiou: Zoma bleibt!",
-    "link": "https://www.bild.de/sport/fussball/transfer-knall-mitten-im-spiel-fcn-boss-chatzialexiou-zoma-bleibt-6a93301fd88567044d849841",
-    "image": "https://images.bild.de/6a93301fd88567044d849841/e11e171e86eb9e20bbde68a0c3450113,d5907960?w=1280",
-    "date": 0
-   },
-   {
-    "title": "RONZHEIMER-Doku - Reportage zur Landtagswahl in Sachsen-Anhalt",
-    "link": "https://www.bild.de/politik/ronzheimer-doku-die-grosse-reportage-zur-landtagswahl-in-sachsen-anhalt-6a91e659518a586e1855be45",
-    "image": "https://images.bild.de/6a91e659518a586e1855be45/40b2b7d9a1ef4794fa9c917aedaff615,1c966679?w=1280",
-    "date": 0,
-    "titleSl": "RONZHEIMER-Doku - Reportaža zur Landtagswahl v Sachsen-Anhaltu"
-   },
-   {
-    "title": "Vorher trat er zum Islam über - Sohn (15) sticht Ukraine-Soldat Messer ins Herz",
-    "link": "https://www.bild.de/regional/ruhrgebiet/dortmund-sohn-soll-vater-auf-der-couch-erstochen-haben-6a8ef62a198bb9fbdfaffe87",
-    "image": "https://images.bild.de/6a8ef62a198bb9fbdfaffe87/910c74acf191f08a1a46fd21abfe7dcd,f1fdbef5?w=1280",
-    "date": 0,
-    "titleSl": "Vorher trat er zum Islam über - Sohn (15) sticht Ukrajina-Soldat Messer ins Herz"
    }
   ],
   "krone": [
+   {
+    "title": "Nach Flutkatastrophe - Mädchen (7) nach vier Tagen aus Schlamm gerettet!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xc25WdmxzMGpydlZoWXRzSDJsaS02cjdXV3BJRl95dS04OERoeDRNX0l6TGVvc1pBWTk2Wm9yY2FUZw?oc=5",
+    "image": "",
+    "date": 1788033900000
+   },
    {
     "title": "Transfer-Knaller - Kalajdzic steht kurz vor der Rückkehr zum LASK",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PV01WQ3RDS19VeWFyV29QQnNqczBlcGdocmJiZ0Fhc3lqcktWek5GR2V2RGJ1NFRsbmJXeFNVUEpyUQ?oc=5",
@@ -480,15 +489,15 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xU2pJQ0pnYVktbzFtWm15Q0x2WGpGUU1FNGY1dy10SHd3MGZnZ3BSQjZhNlFiTHFXT3dnNW54clcwZw?oc=5",
     "image": "",
     "date": 1788031020000
-   },
-   {
-    "title": "Durch Innsbruck - Pkw-Diebe liefern sich mit Polizei Verfolgungsjagd",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91VHM0X3ZpeWc0NDFfVUlELVRVZ2RxcW1QZUFfaDVFWlkxcGRzanJVREpKR0JoZXNxWUpiNjI4d1FLQQ?oc=5",
-    "image": "",
-    "date": 1788030960000
    }
   ],
   "rainews": [
+   {
+    "title": "TG2 Post del 29/08/2026",
+    "link": "https://www.rainews.it/rubriche/tg2post/video/2026/08/TG2-Post-del-29082026-e0ddff45-9531-483d-aafa-34ede3597ec3.html",
+    "image": "https://www.rainews.it/dl/img/2025/11/05/1762341808483_Tg2_Post_2048x1152.jpg",
+    "date": 1788033732000
+   },
    {
     "title": "Tania Terrin uccisa dall&#x27;ex, l&#x27;omelia del parroco: \"La prima responsabile è la politica\"",
     "link": "https://www.rainews.it/articoli/2026/08/camponogara-venezia-tania-terrin-uccisa-dallex-lomelia-del-parroco-la-prima-responsabile-e-la-politica-cfd48812-7d94-41de-885d-b4071eb56344.html",
@@ -521,12 +530,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/29/1788028902611_videoframe.png",
     "date": 1788028740000,
     "titleSl": "Intrappolato in auto durante la tromba d'aria: \"Pensavo di morire, cerco chi mi ha salvato"
-   },
-   {
-    "title": "Donna uccisa a coltellate in provincia di Udine, fermato il marito",
-    "link": "https://www.rainews.it/articoli/2026/08/donna-uccisa-a-coltellate-in-provincia-di-udine-fermato-il-compagno-c2c532c9-3dbe-4e47-a5be-181d01dd63d4.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/29/1788027725522_femminicidio_foto.PNG",
-    "date": 1788027960000
    }
   ],
   "lemonde": [
