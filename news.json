@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29T12:24:26.493Z",
+ "generatedAt": "2026-08-29T12:26:33.231Z",
  "sources": {
   "siol": [
    {
@@ -15,7 +15,7 @@
     "date": 1788005700000
    },
    {
-    "title": "Težko sporočilo za Putina: Predsednik, to preprosto ni mogoče!",
+    "title": "Težko sporočilo za Putina: Gospod predsednik, to preprosto ni mogoče!",
     "link": "https://siol.net/novice/svet/tezko-sporocilo-za-putina-predsednik-to-preprosto-ni-mogoce-700112",
     "image": "https://siol.net/media/img/ed/47/cb74ae4ec4a6f1c11766.jpeg",
     "date": 1788005160000
@@ -40,6 +40,12 @@
    }
   ],
   "24ur": [
+   {
+    "title": "Po vrnitvi Harryja in Meghan v domovini ponovno opazili tudi Sarah Ferguson",
+    "link": "https://www.24ur.com/popin/tuja-scena/po-vrnitvi-harryja-in-meghan-v-domovini-ponovno-opazili-tudi-sarah-ferguson.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/d80f53e723edfd13c817_63639298.jpg?v=aad1&fop=fp:0.41:0.41",
+    "date": 1788006184000
+   },
    {
     "title": "Na ravninski etapi nova priložnost za sprinterje",
     "link": "https://www.24ur.com/sport/kolesarstvo/na-ravninski-etapi-nova-priloznost-za-sprinterje.html",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/znan-desnicarski-provokator-ki-je-podpiral-deportacije-zdaj-caka-na-svojo.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/a6516b0766b1c7d0100f_63639380.jpg?v=31cf&fop=fp:0.50:0.51",
     "date": 1788001947000
-   },
-   {
-    "title": "Novo poglavje v Nemčiji? Skrajno desna stranka AfD ima vse več podpore",
-    "link": "https://www.24ur.com/novice/tujina/nova-poglavje-v-nemciji-skrajno-desna-strank-afd-ima-vse-vec-podpore.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jun2026/3202bf4efa8e27228e8c_63610552.jpg?v=e97a&fop=fp:0.46:0.34",
-    "date": 1788001261000
    }
   ],
   "rtvslo": [
@@ -199,18 +199,18 @@
   ],
   "nyt": [
    {
+    "title": "Goodbye, Harry and Meghan. Turns Out We Didn’t Need Actual Royals.",
+    "link": "https://www.nytimes.com/2026/08/29/opinion/prince-harry-meghan-markle-america.html",
+    "image": "https://static01.nyt.com/images/2026/08/29/opinion/29givhan/29givhan-mediumSquareAt3X.jpg",
+    "date": 1788006074000,
+    "titleSl": "Adijo, Harry in Meghan. Izkazalo se je, da nismo potrebovali dejanskih kraljevskih družin."
+   },
+   {
     "title": "37 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
     "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
     "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-ukraine-strikes-01-cqzh/29int-ukraine-strikes-01-cqzh-mediumSquareAt3X.jpg",
     "date": 1788005706000,
     "titleSl": "37 ubitih v bližini Kijeva, ko ruski dron Blitz razkriva vrzel v zračni obrambi"
-   },
-   {
-    "title": "Goodbye, Harry and Meghan. Turns Out We Didn’t Need Actual Royals.",
-    "link": "https://www.nytimes.com/2026/08/29/opinion/prince-harry-meghan-markle-america.html",
-    "image": "https://static01.nyt.com/images/2026/08/29/opinion/29givhan/29givhan-mediumSquareAt3X.jpg",
-    "date": 1788001217000,
-    "titleSl": "Adijo, Harry in Meghan. Izkazalo se je, da nismo potrebovali dejanskih kraljevskih družin."
    },
    {
     "title": "Democrats Have an Identity Politics Problem. Just Not the One You Think.",
@@ -308,11 +308,11 @@
     "titleSl": "Pogodba Liverpoola za podpis pogodbe s PSG Barcola za do 166 milijonov $: Poročila"
    },
    {
-    "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+    "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 27",
     "link": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a92a95fb4a9-1787996511.jpg?resize=1920%2C1440",
     "date": 1787999771000,
-    "titleSl": "Ruski napad na skladišče v bližini ukrajinskega Kijeva terjal najmanj 37 življenj"
+    "titleSl": "Ruski napad na skladišče v bližini ukrajinskega Kijeva zahteval najmanj 27 življenj"
    },
    {
     "title": "Far-right commentator Milo Yiannopoulos detained by ICE",
@@ -413,6 +413,25 @@
   ],
   "bild": [
    {
+    "title": "Liebe Isländer, hier sind … - Fünf Gründe, warum ihr heute „Já“ sagen solltet",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/liebe-islaender-hier-sind-fuenf-gruende-warum-ihr-heute-ja-sagen-solltet-6a927e6c27cdbc5135d069b1",
+    "image": "https://images.bild.de/6a927e6c27cdbc5135d069b1/a4514ab9fa2599103c92c214989b5f9f,d05aa39d?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach Drohnen-Attacke in Leipzig - Regierung bereitet Maßnahmen gegen Russland vor",
+    "link": "https://www.bild.de/politik/nach-drohnen-attacke-in-leipzig-regierung-bereitet-umfangreiche-massnahmen-gegen-russland-vor-6a92c045d88567044d8491f3",
+    "image": "https://images.bild.de/6a92c045d88567044d8491f3/d6968499333036e50a7374ba15ba0280,d399f447?w=1280",
+    "date": 0,
+    "titleSl": "Nach Drohnen-Attacke v Leipzigu - Regierung bereitet Maßnahmen gegen Russland vor"
+   },
+   {
+    "title": "Extrawurst in der U-Haft? - Marius bei König Haralds Trauerzug aufgetaucht",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/marius-borg-hiby-wie-konnte-er-trotz-haft-beim-trauerzug-fuer-koenig-harald-dabei-sein-6a926370518a586e1855c190",
+    "image": "https://images.bild.de/6a926370518a586e1855c190/5c0cab30c379b7a9bc591bd9bda4dabf,a3b5b687?w=1280",
+    "date": 0
+   },
+   {
     "title": "Plötzliche Entscheidung! - Schalke-Knall um Offensiv-Star",
     "link": "https://www.bild.de/sport/fussball/ploetzliche-entscheidung-schalke-knall-um-offensiv-star-6a92c71f27cdbc5135d06d69",
     "image": "https://images.bild.de/6a92c71f27cdbc5135d06d69/f2d3027fcb3e6ff58fd4a0f5616cd9a0,535b626a?w=1280",
@@ -428,24 +447,6 @@
     "title": "Spannend für alle Fans - 10 heiße Transfer-News zu Leverkusen",
     "link": "https://www.bild.de/sport/fussball/bayer-leverkusen-10-heisse-transfer-news-6a92adf9d88567044d8490af",
     "image": "https://images.bild.de/6a92adf9d88567044d8490af/cb58a4f7bf343e20bf8810737a5f6bd0,1fb077a3?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Noch sechs Deals in vier Tagen? - Ein Werder-Transfer wird heißer",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-noch-sechs-deals-in-vier-tagen-ein-transfer-wird-heisser-6a92bcf2d88567044d8491ab",
-    "image": "https://images.bild.de/6a92bcf2d88567044d8491ab/4ca42c8e097bf87bd7fd2e3d4584369b,24850ae0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Mette-Marit: Krank und Epstein-Vergangenheit - Wird Ingrid Alexandra jetzt die heimliche Königin?",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/mette-marit-krank-und-epstein-wirbel-wird-ingrid-alexandra-heimliche-koenigin-von-norwegen-6a9181a7d88567044d84817d",
-    "image": "https://images.bild.de/6a9181a7d88567044d84817d/2b92cf429800ce3addfc425968ef3502,eaf6d7e8?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Bei uns hat das nichts zu suchen“ - Sixx Paxx feuern Tänzer nach Sex-Spruch",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sixx-paxx-feuern-taenzer-nach-sex-ist-moeglich-spruch-6a929edbd88567044d848fa4",
-    "image": "https://images.bild.de/6a929edbd88567044d848fa4/4f8e6e22a146328476f2756a5f26f52a,fa73b14a?w=1280",
     "date": 0
    }
   ],
@@ -529,6 +530,13 @@
   ],
   "lemonde": [
    {
+    "title": "A Rock en Seine, la messe rock de Nick Cave & The Bad Seeds en apothéose d’une journée électrique",
+    "link": "https://www.lemonde.fr/culture/article/2026/08/29/a-rock-en-seine-la-messe-rock-de-nick-cave-the-bad-seeds-en-apotheose-d-une-journee-electrique_6760025_3246.html",
+    "image": "https://img.lemde.fr/2026/08/29/150/0/1800/900/644/322/60/0/23510c2_upload-1-n0rbuid2py3r-res26-jour03-nick-cave-and-the-bad-seeds-louis-comar-4.jpg",
+    "date": 1788006056000,
+    "titleSl": "A Rock en Seine, la messe rock de Nick Cave & The Bad Seeds en apothéose d'une journée électrique"
+   },
+   {
     "title": "UTMB : Ben Dhiman, le plus Pyrénéen des Américains, survole l’Ultra-Trail du Mont-Blanc en moins de 19 heures",
     "link": "https://www.lemonde.fr/sport/article/2026/08/29/utmb-ben-dhiman-le-plus-pyreneen-des-americains-survole-l-ultra-trail-du-mont-blanc-en-moins-de-19-heures_6760024_3242.html",
     "image": "https://img.lemde.fr/2026/08/29/412/0/6000/3000/644/322/60/0/585c8e4_upload-1-fgerfkyvxjdf-000-72vj8dr.jpg",
@@ -561,12 +569,6 @@
     "image": "https://img.lemde.fr/2026/08/28/576/0/2303/1151/644/322/60/0/50a4553_upload-1-1re9ayvtjqh1-pla-3526-nepal-crue-media-appel.png",
     "date": 1788001149000,
     "titleSl": "Les inondations au Népal et au Tibet, une catastrophe naturelle racontée en carte et en images par satelit"
-   },
-   {
-    "title": "Au Niger, le régime militaire dit « reprendre progressivement le contrôle » après un coup de force mené par des « soldats en rupture »",
-    "link": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-le-regime-militaire-dit-reprendre-progressivement-le-controle-face-a-des-mutins-apres-une-nuit-marquee-par-des-tirs-dans-la-capitale_6759501_3213.html",
-    "image": "https://img.lemde.fr/2026/01/29/583/0/9626/4813/644/322/60/0/8bd6391_ftp-1-ct2bwthbwxzj-2026-01-29t201600z-1901443252-rc2xajabwh11-rtrmadp-3-niger-security.JPG",
-    "date": 1788000762000
    }
   ],
   "elpais": [
