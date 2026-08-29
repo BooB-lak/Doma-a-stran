@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29T16:34:34.988Z",
+ "generatedAt": "2026-08-29T16:36:30.041Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,22 @@
   ],
   "24ur": [
    {
+    "title": "Zdravnica objavila Mladića, zahtevajo njeno takojšnjo odpoved",
+    "link": "https://www.24ur.com/novice/tujina/zdravnica-objavila-mladica-zahtevajo-njeno-takojsnjo-odpoved.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/240ac54c3ed0a58e5afc_63638435.jpg?v=396a&fop=fp:0.45:0.19",
+    "date": 1788021270000
+   },
+   {
     "title": "Hud padec Pogačarja, ki je okrvavljen končal z Vuelto",
     "link": "https://www.24ur.com/sport/kolesarstvo/na-ravninski-etapi-nova-priloznost-za-sprinterje.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/601c61ec8bc0db27424e_63639443.jpg?v=57bd&fop=fp:0.41:0.45",
     "date": 1788020000000
+   },
+   {
+    "title": "Safonov med ogrevanjem pred tekmo doživel grd udarec s strani pomočnika",
+    "link": "https://www.24ur.com/sport/nogomet/safonov-med-ogrevanjem-za-tekmo-dozivel-grd-udarec-s-strani-pomocnika.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/d438f49375471c5ae6b4_63639452.jpg?v=5533&fop=fp:0.49:0.36",
+    "date": 1788019445000
    },
    {
     "title": "AI sama izbrala tarčo, trije mrtvi: 'Stroji ne poznajo usmiljenja'",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/zarocila-se-je-najstarejsa-hci-sylvestra-stallonea.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/d0b8296d7133b7397f78_63639356.png?v=1f9e&fop=fp:0.45:0.17",
     "date": 1788014068000
-   },
-   {
-    "title": "Razbitine letala s truploma na globini 160 metrov: operacijo prekinili",
-    "link": "https://www.24ur.com/novice/tujina/razbitine-letala-s-truploma-na-globini-160-metrov-operacijo-prekinili.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/37fc0530f2149f3e1d0d_63639435.jpg?v=9663&fop=fp:0.42:0.42",
-    "date": 1788013962000
-   },
-   {
-    "title": "Marc Marquez po izjemnem startu prišel do sprinterske zmage v Aragonu",
-    "link": "https://www.24ur.com/sport/motogp/komu-bo-pripadla-sprintesrka-preizkusnja-v-aragoniji.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/86ba390f601a9763adf5_63639427.jpg?v=bdb7&fop=fp:0.52:0.48",
-    "date": 1788013076000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
-    "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a920d01-1787956481.jpg?resize=1200%2C675",
-    "date": 1788019412000,
-    "titleSl": "Obisk vodje RSS v ZDA označen kot \"turneja dobre volje\" za hindujski nacionalizem"
-   },
-   {
     "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
     "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a92f0855d931-1788014725.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Korean-borders-final-1787964192.jpg?resize=1620%2C1080&quality=80",
     "date": 1788011476000,
     "titleSl": "Koreja razdeljena: Sestrino dolgo čakanje in dezerterjeva ponudba, da reši svojo mamo"
+   },
+   {
+    "title": "Mladic died a happy man. He won",
+    "link": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP25155570622127-1788010119.jpg?resize=1920%2C1440",
+    "date": 1788010256000,
+    "titleSl": "Mladić je umrl srečen, zmagal je"
    }
   ],
   "guardian": [
@@ -600,7 +600,7 @@
     "date": 1788017744000
    },
    {
-    "title": "Marc Márquez responde al reto de Marco Bezzecchi ganando la ‘sprint’ del GP de Aragón",
+    "title": "Marc Márquez responde al reto de Marco Bezzecchi y gana la ‘sprint’ del GP de Aragón",
     "link": "https://elpais.com/deportes/motociclismo/2026-08-29/marc-marquez-responde-al-reto-de-marco-bezzecchi-en-el-gp-de-aragon.html",
     "image": "https://imagenes.elpais.com/resizer/v2/LZSVCT7A2FOYPHKN3YLJ4IAUBI.jpg?auth=53bbfd47000a4589c0c2487cfda8c58884ac932f56d3c63d8960ee5aee7f1faa",
     "date": 1788016828000
