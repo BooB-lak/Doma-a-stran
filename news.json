@@ -1,7 +1,19 @@
 {
- "generatedAt": "2026-08-30T16:08:27.606Z",
+ "generatedAt": "2026-08-30T16:10:46.788Z",
  "sources": {
   "siol": [
+   {
+    "title": "Roglič po Pogačarjevem odstopu: \"Zagotovo je odprto. Nikomur ne želim, da se mu to zgodi.\"",
+    "link": "https://siol.net/sportal/kolesarstvo/roglic-po-pogacarjevem-odstopu-zagotovo-je-odprto-nikomur-ne-zelim-da-se-mu-to-zgodi-700183",
+    "image": "https://siol.net/media/img/35/85/8fad744e4d832733229f.jpeg",
+    "date": 1788106080000
+   },
+   {
+    "title": "Netanjahu Janši: Hvala ti, Janez",
+    "link": "https://siol.net/novice/slovenija/netanjahu-jansi-hvala-ti-janez-700182",
+    "image": "https://siol.net/media/img/12/20/6113ecd05d580a86c693.jpeg",
+    "date": 1788106020000
+   },
    {
     "title": "Tako hitro kot Kokalj ni tekel še noben Slovenec, rekord pa ne velja",
     "link": "https://siol.net/sportal/atletika/tako-hitro-kot-kokalj-ni-tekel-se-noben-slovenec-rekord-pa-ne-velja-700184",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/trendi/moda-in-lepota/vplivnica-tika-hribar-opravljam-svoj-sanjski-poklic-ki-pa-nikakor-nima-samo-sanjskih-elementov-699858",
     "image": "https://siol.net/media/img/89/45/ed6ee1d7c1fe797f51da.jpeg",
     "date": 1788104580000
-   },
-   {
-    "title": "Šeškov United spet v težavah #vŽivo",
-    "link": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-2-krog-700066",
-    "image": "https://siol.net/media/img/9b/89/19f6742f25d63898053b.jpeg",
-    "date": 1788104220000
-   },
-   {
-    "title": "Roglič po garaški predstavi ostaja v boju za rdečo majico, Mas pokazal moč",
-    "link": "https://siol.net/sportal/kolesarstvo/vuelta-9-etapa-mas-roglic-peklenska-etapa-pogacar-700139",
-    "image": "https://siol.net/media/img/78/c0/89a27a7cf6647ebbe71e.jpeg",
-    "date": 1788104220000
    }
   ],
   "24ur": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
+    "link": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a944fd53d194-1788104661.jpg?resize=1920%2C1440",
+    "date": 1788105045000,
+    "titleSl": "Trump pravi, da bodo ZDA ponovno napolnile svoje zaloge nafte z venezuelsko nafto"
+   },
+   {
     "title": "Nepal flood victims fear more bodies are buried under mud",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-nepal-dispatch-dhading-jessica-fm?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788103797.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/nils-final-1787963447.jpg?resize=1620%2C1080&quality=80",
     "date": 1788099246000,
     "titleSl": "Kakšnega okusa je vaše ime? Nenavadna znanost o sinesteziji"
-   },
-   {
-    "title": "Iceland votes to reject EU accession talks: What happens next?",
-    "link": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26241525119272-1788096865.jpg?resize=1920%2C1440",
-    "date": 1788097074000,
-    "titleSl": "Islandija glasuje za zavrnitev pristopnih pogajanj z EU: Kaj sledi?"
    }
   ],
   "guardian": [
@@ -415,22 +415,34 @@
   ],
   "bild": [
    {
-    "title": "Fortschritte bei Union? - „Hausbauer“ Lustrinelli sorgt für Lacher",
-    "link": "https://www.bild.de/sport/fussball/union-berlin-lustrinelli-sorgt-mit-hausbau-metapher-fuer-lacher-6a941ca899cae3c1912aae02",
-    "image": "https://images.bild.de/6a941ca899cae3c1912aae02/3902c3377377f9798a83b93fee2b25cb,45489947?w=1280",
+    "title": "BVB bestätigt es - Schock-Diagnose für BVB-Star!",
+    "link": "https://www.bild.de/sport/fussball/bvb-schock-diagnose-fuer-giannis-konstantelias-6a93fbd2f45c7ed96fc6bd1d",
+    "image": "https://images.bild.de/6a93fbd2f45c7ed96fc6bd1d/a4db5389cf93a0c95520b606fde9dc77,4cb4717e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Große Sorge bei Lok Leipzig - Kapitän nach Abpfiff direkt in die Klinik",
+    "link": "https://www.bild.de/sport/fussball/grosse-sorge-bei-lok-leipzig-kapitaen-nach-abpfiff-direkt-in-die-klinik-6a944fdd99cae3c1912ab0ee",
+    "image": "https://images.bild.de/6a944fdd99cae3c1912ab0ee/4e9686a5e8ca67becccf33d852390f2d,46bffd23?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Später Schock für Lok - Bär lupft Aue ins Glück",
+    "link": "https://www.bild.de/sport/fussball/spaeter-schock-fuer-lok-leipzig-baer-lupft-aue-ins-glueck-6a93f6dcf45c7ed96fc6bcc0",
+    "image": "https://images.bild.de/6a93f6dcf45c7ed96fc6bcc0/957a868e4d7e0dbed3d053e3e8179677,c0fbef06?w=1280",
     "date": 0
    },
    {
     "title": "Hockey-Herren verteidigen den Titel - Wir sind Weltmeister!",
     "link": "https://www.bild.de/sport/mehr-sport/hockey-herren-verteidigen-den-titel-wir-sind-weltmeister-6a9430f1f45c7ed96fc6c06d",
-    "image": "https://images.bild.de/6a9430f1f45c7ed96fc6c06d/8e66705e093f3ca63a8823d99835330d,919214ad?w=1280",
+    "image": "https://images.bild.de/6a9430f1f45c7ed96fc6c06d/7a537eb52a24962210af14ebab2c61d8,c9d6bc83?w=1280",
     "date": 0,
     "titleSl": "Hokej-Herren verteidigen den Titel - Wir sind Weltmeister!"
    },
    {
-    "title": "BVB bestätigt es - Schock-Diagnose für BVB-Star!",
-    "link": "https://www.bild.de/sport/fussball/bvb-schock-diagnose-fuer-giannis-konstantelias-6a93fbd2f45c7ed96fc6bd1d",
-    "image": "https://images.bild.de/6a93fbd2f45c7ed96fc6bd1d/a4db5389cf93a0c95520b606fde9dc77,4cb4717e?w=1280",
+    "title": "Fortschritte bei Union? - „Hausbauer“ Lustrinelli sorgt für Lacher",
+    "link": "https://www.bild.de/sport/fussball/union-berlin-lustrinelli-sorgt-mit-hausbau-metapher-fuer-lacher-6a941ca899cae3c1912aae02",
+    "image": "https://images.bild.de/6a941ca899cae3c1912aae02/3902c3377377f9798a83b93fee2b25cb,45489947?w=1280",
     "date": 0
    },
    {
@@ -438,22 +450,22 @@
     "link": "https://www.bild.de/sport/fussball/klage-droht-wilder-wechsel-zoff-im-tiefen-fussball-osten-6a93e767d88567044d849e1f",
     "image": "https://images.bild.de/6a93e767d88567044d849e1f/8fb1df42298c071298a4b6278c01b206,1db8f6ac?w=1280",
     "date": 0
-   },
-   {
-    "title": "Shaboozeys knallhartes Training - Vom Plank-Versager zum Fitness-Monster",
-    "link": "https://www.bild.de/leben-wissen/fitness/shaboozeys-training-vom-plank-versager-zum-fitness-monster-6a8ec40b692b2e9e3efcb827",
-    "image": "https://images.bild.de/6a8ec40b692b2e9e3efcb827/43a53996d7b33bcdf63b3fa254e6cbc0,d8174982?w=1280",
-    "date": 0,
-    "titleSl": "Shaboozeys knallhartes Trening - Vom Plank-Versager zum Fitness-Monster"
-   },
-   {
-    "title": "Mein Haus, mein Job, mein Mann - „Meine beste Freundin hat mein Leben geklaut“",
-    "link": "https://www.bild.de/leben-wissen/verrat-der-besten-freundin-kostete-michelle-mann-job-und-zuhause-6a54bfc936e98236c4bc7335",
-    "image": "https://images.bild.de/6a54bfc936e98236c4bc7335/9ec71956b1996183749a9f3ce8e8e494,92754298?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "„Magna Man“ wird 94 - Franz Stronachs „letzter Wunsch für Österreich“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9YVkFDck5WUktlOWFkZ2ZkY0l6bFYtYXZGQl9ObU9PbUtIX3ZnOUxuZjVUNXJXcThkN1ViLTBYcl9CUQ?oc=5",
+    "image": "",
+    "date": 1788105600000
+   },
+   {
+    "title": "Jubel bei Gregor Bloéb - Mehr als 20.000 Besucher, 100 Prozent Auslastung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SOTZWQkJCYkw1anNPckxFSU45RTUyR0FsZE9JcWdhNmVibG9La2ZUTkdzMmNrd0tCRTdlQWdiZElWQQ?oc=5",
+    "image": "",
+    "date": 1788105600000,
+    "titleSl": "Jubel bei Gregor Bloéb - Mehr ALS 20.000 Besucher, 100 Prozent Auslastung"
+   },
    {
     "title": "Premier League - Alonsos Chelsea gewinnt Sieben-Tore-Spektakel!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKaUJqNWZLTVRqZXpTYklVV0ZLRWNGWE5jbTczLWpJdFFpUWd4UFNTUWsxY2hDQ2VFNVhqQmllc0F2dw?oc=5",
@@ -475,18 +487,6 @@
    {
     "title": "„Kreative Buchhaltung“: Grüne gießen Öl ins Feuer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxZVdua1Z2ZjJsS1VVY1pJV3FkbHYwQ2NwSzA5QlAzaGJmdUNIdE9QMXV4Tm9qdDhoZE9DWDdIV1VLdw?oc=5",
-    "image": "",
-    "date": 1788102000000
-   },
-   {
-    "title": "Schauplatz in Röschitz - Diese drei Geschwister starten das Weinherbst-Fest",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qMmh6M1JrbS1NVFdKZ0NRcGt5QWdqT1NBVTkxVTgwMUlod05VbHFkbjRLczlVUjBiMzhybndJVExEQQ?oc=5",
-    "image": "",
-    "date": 1788102000000
-   },
-   {
-    "title": "„Krone“-Besuch auf Gut - Weinlese in Tirol heuer so früh wie noch nie zuvor",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxeXdIWFNoTkFLeVUxdnNNWFp4cGw4Q2tLNm81bnQwVnhrMVVnWlM3TF9YdkNIQTlVTUZhN3FIbHMtQQ?oc=5",
     "image": "",
     "date": 1788102000000
    }
