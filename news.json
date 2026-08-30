@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-30T03:58:27.870Z",
+ "generatedAt": "2026-08-30T04:01:09.725Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Iceland EU referendum on a knife edge as counting continues",
+    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
+    "date": 1788062221000,
+    "titleSl": "Islandija referendum o EU o robu noža, medtem ko se štetje nadaljuje"
+   },
+   {
     "title": "I was told I was unworthy to be a mother, then they stole my baby",
     "link": "https://www.bbc.co.uk/news/articles/c2el0l0d38zo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61f/live/938f32a0-a071-11f1-b109-879e35c24276.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d4/live/e79454a0-a3fc-11f1-b109-879e35c24276.jpg",
     "date": 1788046129000,
     "titleSl": "'Healey eyes banks and oil tax' in 'X Factor comeback'"
-   },
-   {
-    "title": "British heavyweight Moses Itauma stretchered out after shock defeat in gruelling world title fight",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9c/live/a595bab0-a3fe-11f1-94f0-8d62ae00a5eb.jpg",
-    "date": 1788045363000,
-    "titleSl": "Britanski težkokategornik Moses Itauma se je raztegnil po šokantnem porazu v napornem boju za svetovni naslov"
    }
   ],
   "aljazeera": [
@@ -334,7 +334,7 @@
     "title": "Australia news live: ‘we owe it to history’ to defeat One Nation, PM tells Labor faithful; man dies after falling from eighth-floor balcony in Sydney",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/e4f0700cc93a6fb638c98ecf5b42de6146354abe/519_116_2967_2374/master/2967.jpg?width=140&quality=85&auto=format&fit=max&s=85a44ce403cc370d68a25c69d4b706be",
-    "date": 1788061170000,
+    "date": 1788061569000,
     "titleSl": "Avstralske novice v živo: \"dolžni smo zgodovini\", da premagamo One Nation, je povedal premier laburistom; moški umre po padcu z balkona v osmem nadstropju v Sydneyju"
    },
    {
@@ -455,6 +455,12 @@
   ],
   "krone": [
    {
+    "title": "Hier im Liveticker - Hartberg gegen Ried ab 17 Uhr LIVE",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9SQXgtX0dlaGtBd0NfTnZBQUNtdlNrLWRHMVB4eHNMOEtVYUhNNDZoMDlxOW9jOUptMFVnUjlTbUJLdw?oc=5",
+    "image": "",
+    "date": 1788061740000
+   },
+   {
     "title": "Hier im Liveticker - Augsburg gegen Schalke ab 17.30 Uhr LIVE",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBudVlyd1RhaXV2SkdoM0pLSEE5cmtLb1dScDllN250RWo4Wkd0Yl8yZmRhMXhfaVBwaU43VXZYQmU2QQ?oc=5",
     "image": "",
@@ -481,12 +487,6 @@
    {
     "title": "WERBUNG - Die Sonne zahlt Ihre Stromrechnung mit",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wempCcHh2UVVUa29WRDVkY2dWOW9HX0xxb1J6MTFMZmljaU8xcXFjb0RZTlhhUl9hTUMtRmFtdjNJZw?oc=5",
-    "image": "",
-    "date": 1788058800000
-   },
-   {
-    "title": "Start um 6:15 Uhr - Der Ötztaler Radmarathon heute hier im LIVESTREAM",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkRWdRUkpzb1RlVHJOT2dyQTBCRmZFM3M2cUc4ZDViN0IyTHFuLUZrWkNPN0xQMy1fN2VnU3hpTUhqZw?oc=5",
     "image": "",
     "date": 1788058800000
    }
@@ -575,41 +575,42 @@
   ],
   "elpais": [
    {
-    "title": "Automáticos o plegables: estos son los comederos para mascotas que más nos han gustado",
-    "link": "https://elpais.com/escaparate/comparativas/mejores-comederos-mascotas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/GJHGLJEEK5AJ3J6ZX6ZT47Q5ZA.png?auth=7943ea089013474b0a8f0b5c9198d8ecb9e00fb9e6d1dd8c8b93b44a4a992dab",
-    "date": 1788060600000
+    "title": "¿Cómo puede cambiar el acceso a las redes sociales de los menores de edad?",
+    "link": "https://elpais.com/videos/2026-08-30/como-puede-cambiar-el-acceso-a-las-redes-sociales-de-los-menores-de-edad.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260828/1208756_173454_video_1800.mp4",
+    "date": 1788061500000
    },
    {
-    "title": "Baena se disfraza de Julián para relanzar a un buen Atlético",
-    "link": "https://elpais.com/deportes/futbol/2026-08-29/baena-se-disfraza-de-julian-para-relanzar-a-un-buen-atletico.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/SFMMZTVQFFNNLKLFCISOY4QJ3M.jpg?auth=037845dcf0ad651529ebda90d97d674fa5e5df5ead01118366ea87ea1ab6553d",
-    "date": 1788041308000
+    "title": "Alexia Putellas: “Me hubiera encantado que las jugadoras de los 70 y 80 hubieran vivido lo que he vivido yo”",
+    "link": "https://elpais.com/eps/2026-08-30/alexia-putellas-me-hubiera-encantado-que-las-jugadoras-de-los-70-y-80-hubieran-vivido-lo-que-he-vivido-yo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/4WZSHG6CX5DAZL5PNF74NL5PQY.jpg?auth=684281c4832e4e4955c0ea78b0c66543bba023c7467bf0d9bb45bb3cf43f7b64",
+    "date": 1788061200000,
+    "titleSl": "Alexia Putellas: \"Me hubiera encantado que las jugadoras de los 70 y 80 hubieran vivido lo que he vivido yo\""
    },
    {
-    "title": "Las protestas ciudadanas se frenan en Ceuta por temor a que las vinculen con ultras",
-    "link": "https://elpais.com/espana/2026-08-29/las-protestas-ciudadanas-se-frenan-en-ceuta-por-temor-a-que-las-vinculen-con-ultras.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/2GZI4JLXQJE7BIF3RW6ADR4IYY.jpg?auth=359f69d9f41d1fa9a2c497b2f583acfc011d07e3e5878f7161c29f2b5d8b044a",
-    "date": 1788038293000
+    "title": "Teoría física de la gravitación en los pueblos",
+    "link": "https://elpais.com/eps/2026-08-30/teoria-fisica-de-la-gravitacion-en-los-pueblos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/MVAWGN4RTZEBXODPJTXU2MAWJU.jpg?auth=917d4df4fdf42935013646c8332b524e18c83d2c834f3f12f12a6660bf857cca",
+    "date": 1788061200000
    },
    {
-    "title": "El Ejército de EE UU derriba con láser tres drones cerca de la frontera con México",
-    "link": "https://elpais.com/mexico/2026-08-29/el-ejercito-de-ee-uu-derriba-con-laser-tres-drones-cerca-de-la-frontera-con-mexico.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/4JBVR7HHBFJA7AISGXNMV2RXCA.jpg?auth=0478bb106df0bed7bc38a9d7c810282d4be7ef7086517f913a605a0e630e039f",
-    "date": 1788035784000
+    "title": "Polvo de verano: ‘Paula’, por Diego Garrido",
+    "link": "https://elpais.com/eps/2026-08-29/polvo-de-verano-paula-por-diego-garrido.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/JAV4WUBYFRG4HBACTTAF5AJWIA.jpg?auth=b5e5fe38e0addcd17398f991504b4a588692c25c19c3970cc3dab10a730b14b2",
+    "date": 1788061200000,
+    "titleSl": "Polvo de verano: „Paula“, por Diego Garrido"
    },
    {
-    "title": "Estados Unidos deporta al Reino Unido a Milo Yiannopoulos, el activista de ultraderecha que defendía redadas masivas",
-    "link": "https://elpais.com/us/migracion/2026-08-29/estados-unidos-deporta-al-reino-unido-a-milo-yiannopoulos-el-activista-de-ultraderecha-que-defendia-redadas-masivas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6KPSCLBB45OCRFEVDDVHFBOAVE.jpg?auth=e711c734d579410fef2a618d1afcc83b88a72f57f97f4c8ffe73e976953cac00",
-    "date": 1788034431000,
-    "titleSl": "Estados Unidos deporta al Reino Unido a Milo Yiannopoulos, el activsta de ultraderecha que defendía redadas masivas"
+    "title": "Sánchez destina otros 165 millones a recuperar Ceuta y aplacar una crisis que altera el nuevo curso",
+    "link": "https://elpais.com/espana/2026-08-30/sanchez-destina-otros-165-millones-a-recuperar-ceuta-y-aplacar-una-crisis-que-altera-el-nuevo-curso.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/FLP3EB4LEBLGLELTDMQ4ZF4NNI.jpg?auth=5dce5a883c63e218425ce8aa486c99ecea24150df6c1da95e7bc53c0f08235b8",
+    "date": 1788060601000
    },
    {
-    "title": "Oyarzabal guía con dos asistencias el primer triunfo liguero de la Real Sociedad",
-    "link": "https://elpais.com/deportes/futbol/2026-08-29/oyarzabal-guia-con-dos-asistencias-el-primer-triunfo-liguero-de-la-real-sociedad.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/A4CQYHUSONI73CZ4SSHHEVJVQY.jpg?auth=f30ea045a3ae9f387631a3d4a2d8f5646a40ee5c42ee853debadcc36b29a12a0",
-    "date": 1788031512000
+    "title": "Ceuta: lo urgente y lo importante",
+    "link": "https://elpais.com/opinion/2026-08-30/ceuta-lo-urgente-y-lo-importante.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/RXWNTIOR7FBM3F4L3YFA66IT3M.jpg?auth=ce3fc09a2bfa646da441ea83ff88cf3f332c461a2169376a3f2a1c2b53275b4a",
+    "date": 1788060601000
    }
   ]
  },
