@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T15:34:27.349Z",
+ "generatedAt": "2026-08-31T15:36:32.081Z",
  "sources": {
   "siol": [
    {
@@ -41,7 +41,7 @@
   ],
   "24ur": [
    {
-    "title": "Slovenke dobro začele odločilni niz 3:3* (2:2)",
+    "title": "Odločilni niz: Nizozemke prevzele vodstvo 4:6* (2:2)",
     "link": "https://www.24ur.com/sport/ostalo/slovenke-proti-nizozemkam-po-zgodovinski-cetrtfinale.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/0025a5bc76502cbafff8_63640151.jpg?v=182e&fop=fp:0.45:0.45",
     "date": 1788189922000
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-16.15.56-1788189493.png?resize=1200%2C675",
+    "date": 1788189618000,
+    "titleSl": "V izraelskih napadih v mestu Gaza je umrlo najmanj pet Palestincev"
+   },
+   {
+    "title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes",
+    "link": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T125522Z_1548621550_RC2M9NAFIWQG_RTRMADP_3_IRAN-CRISIS-1788184271.jpg?resize=1920%2C1440",
+    "date": 1788189075000,
+    "titleSl": "Trump pravi, da je Iran \"mrtev\", obljublja, da se bo odzval po obnovljenih spopadih"
+   },
+   {
     "title": "Is Trump testing the limits of US power?",
     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788188429.jpg?resize=1920%2C1080&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a957094a9-1788178580.jpg?resize=1920%2C1440",
     "date": 1788187360000,
     "titleSl": "Vojna in vročina: Zakaj cene pšenice naraščajo?"
-   },
-   {
-    "title": "Sleeping in on weekends is good for the heart: What research has shown",
-    "link": "https://www.aljazeera.com/news/2026/8/31/sleeping-in-on-weekends-is-good-for-the-heart-what-research-has-shown?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/shutterstock_2767891749-1-1788184745.jpg?resize=1920%2C1440",
-    "date": 1788184886000,
-    "titleSl": "Spanje ob vikendih je dobro za srce: kaj so pokazale raziskave"
-   },
-   {
-    "title": "Greece signs $3.5bn air defence deal with Israel",
-    "link": "https://www.aljazeera.com/news/2026/8/31/greece-signs-3-5bn-air-defence-deal-with-israel?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-07T195452Z_337466632_RC27PLA3R1GS_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS-1780864930.jpg?resize=1920%2C1440",
-    "date": 1788184360000,
-    "titleSl": "Grčija z Izraelom podpisala sporazum o zračni obrambi v višini 3,5 milijarde $"
    }
   ],
   "guardian": [
@@ -414,9 +414,15 @@
   ],
   "bild": [
    {
-    "title": "Völlig wildes Transfer-Treiben - Eintracht-Star könnte plötzlich doch noch wechseln",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-bundesliga-star-doch-noch-nach-england-6a954e2ad7e51a6452b9e9d1",
-    "image": "https://images.bild.de/6a954e2ad7e51a6452b9e9d1/ade8cef44999c3c711de5d9ebbb08e40,34c38155?w=1280",
+    "title": "Condor-Chef warnt - Fliegen wird für alle teurer",
+    "link": "https://www.bild.de/leben-wissen/reisen/condor-chef-warnt-fliegen-wird-fuer-alle-teurer-6a9574eeec27d32fb526ac5c",
+    "image": "https://images.bild.de/6a9574eeec27d32fb526ac5c/72bfb1b730281e65371e26908883bae4,de053031?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Chefarzt sauer nach Kanzler-Kritik - So sieht der Klinikalltag wirklich aus, Herr Merz!",
+    "link": "https://www.bild.de/politik/klinikchef-nach-merz-aussage-zu-aerzten-das-ist-ein-schlag-ins-gesicht-6a9570a6518a586e1855e450",
+    "image": "https://images.bild.de/6a9570a6518a586e1855e450/7f8475e8fe77cb62ac4f7afed1711f5f,998e83ec?w=1280",
     "date": 0
    },
    {
@@ -426,27 +432,21 @@
     "date": 0
    },
    {
+    "title": "Iranisches Propaganda TV zeigt - Raketenangriff auf US-Stützpunkte in Jordanien",
+    "link": "https://www.bild.de/news/iranisches-propaganda-tv-zeigt-raketenangriff-auf-us-stuetzpunkte-in-jordanien-6a9518edec27d32fb526a34f",
+    "image": "https://images.bild.de/6a9518edec27d32fb526a34f/704d0a84173e63408bdbf59e764b56b7,3560d90?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Völlig wildes Transfer-Treiben - Eintracht-Star könnte plötzlich doch noch wechseln",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-bundesliga-star-doch-noch-nach-england-6a954e2ad7e51a6452b9e9d1",
+    "image": "https://images.bild.de/6a954e2ad7e51a6452b9e9d1/ade8cef44999c3c711de5d9ebbb08e40,34c38155?w=1280",
+    "date": 0
+   },
+   {
     "title": "Pokal-Fete beim HSV - Mit BVB-Kohle baut HEBC einen neuen Platz",
     "link": "https://www.bild.de/sport/fussball/dfb-pokal-hebc-baut-mit-kohle-aus-bvb-kracher-neuen-platz-6a95850be93222a77575ea76",
     "image": "https://images.bild.de/6a95850be93222a77575ea76/20020047e908523ababa876794714b3a,692492eb?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Tierquälerei im Zoo - Mutter und Kind reiten auf Schildkröte",
-    "link": "https://www.bild.de/news/ausland/tierquaelerei-im-zoo-mutter-reitet-mit-kind-auf-schildkroete-6a95762b518a586e1855e4f6",
-    "image": "https://images.bild.de/6a95762b518a586e1855e4f6/3f5c4ca7abae45d16fae22653f410db6,66d046f7?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Jahrhundertfußballer tritt zurück - Messis letztes Tor für Argentinien",
-    "link": "https://www.bild.de/sport/fussball/kurz-vor-schluss-die-messi-explosion-im-video-6a4d42e3bb0cf80de56a1651",
-    "image": "https://images.bild.de/6a4d42e3bb0cf80de56a1651/1830d0475254209df7508ce66cf6041d,5853dd8?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Ich würde es noch mal machen!“ - Streamer stürzt aus elf Metern Höhe",
-    "link": "https://www.bild.de/unterhaltung/bildgg/streamer-ronny-berger-knallt-aus-elf-metern-hoehe-ins-wasser-6a9005808a7786c19f335d3e",
-    "image": "https://images.bild.de/6a9005808a7786c19f335d3e/daafca581bfce143b7f9fde640427bc9,309c317f?w=1280",
     "date": 0
    }
   ],
