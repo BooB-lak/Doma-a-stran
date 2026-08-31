@@ -1,7 +1,19 @@
 {
- "generatedAt": "2026-08-31T09:38:28.235Z",
+ "generatedAt": "2026-08-31T09:40:50.983Z",
  "sources": {
   "siol": [
+   {
+    "title": "Uma Štader: filmska Gaja o prvem šolskem dnevu in fazaniranju",
+    "link": "https://siol.net/trendi/glasba-in-film/uma-stader-filmska-gaja-o-prvem-solskem-dnevu-in-fazaniranju-700221",
+    "image": "https://siol.net/media/img/ec/45/15be22fb7df2ebe38511.jpeg",
+    "date": 1788169140000
+   },
+   {
+    "title": "To za jutri napoveduje Zoran Janković: \"Promet bo grozen\"",
+    "link": "https://siol.net/novice/slovenija/to-za-jutri-napoveduje-zoran-jankovic-promet-bo-grozen-700240",
+    "image": "https://siol.net/media/img/9a/c9/d1c0cb0d7928e338203b.jpeg",
+    "date": 1788169140000
+   },
    {
     "title": "Odstopila direktorica ZD Ljubljana",
     "link": "https://siol.net/novice/slovenija/odstopila-direktorica-zd-ljubljana-700239",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/novice/slovenija/bik-napadel-in-poskodoval-moskega-s-helikopterjem-so-ga-odpeljali-v-ukc-ljubljana-700234",
     "image": "https://siol.net/media/img/80/65/32070c900663162f5ab8.jpeg",
     "date": 1788166680000
-   },
-   {
-    "title": "Arso razkril, kakšno vreme nas čaka ob začetku meteorološke jeseni",
-    "link": "https://siol.net/novice/slovenija/arso-razkril-kaksno-vreme-nas-caka-ob-zacetku-meteoroloske-jeseni-700231",
-    "image": "https://siol.net/media/img/28/70/3cfba3efd7b3f956712b.jpeg",
-    "date": 1788166440000
-   },
-   {
-    "title": "Tour de France v Sloveniji: doživite pravi kolesarski praznik",
-    "link": "https://siol.net/sportal/kolesarstvo/tour-de-france-v-sloveniji-dozivite-pravi-kolesarski-praznik-699834",
-    "image": "https://siol.net/media/img/18/cc/11aae9b724afbf38b097.jpeg",
-    "date": 1788166380000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Zvezdnica, ki je v 12 urah spala s 1057 moškimi, rodila deklico!",
+    "link": "https://www.zurnal24.si/magazin/vip/zvezdnica-ki-je-v-12-urah-spala-s-1057-moskimi-rodila-deklico-464409",
+    "image": "https://www.zurnal24.si/media/img/b1/4f/b540e7c7cd90ba943f56.jpeg",
+    "date": 1788169200000
+   },
+   {
     "title": "Kazalo je na konec, nato velik preobrat: Slovita smučarka spet v sedlu",
     "link": "https://www.zurnal24.si/sport/zimski-sporti/kazalo-je-na-konec-nato-velik-preobrat-slovita-smucarka-spet-v-sedlu-464406",
     "image": "https://www.zurnal24.si/media/img/8a/f9/05e96f4fe904a4528610.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/stevanovic-kazenski-pregon-goloba-selahko-zacne-464404",
     "image": "https://www.zurnal24.si/media/img/f5/08/fe4d538ac277e7da05dd.jpeg",
     "date": 1788162120000
-   },
-   {
-    "title": "\"Če bi bilo 10 minut kasneje, danes ne bi govoril z vami\"",
-    "link": "https://www.zurnal24.si/svet/ce-bi-bilo-10-minut-kasneje-danes-ne-bi-govoril-z-vami-464403",
-    "image": "https://www.zurnal24.si/media/img/96/60/cb146cad5fe5fc2ea120.jpeg",
-    "date": 1788160380000
    }
   ],
   "reuters": [
@@ -413,6 +413,31 @@
   ],
   "bild": [
    {
+    "title": "Täter vom Aarau Rave auf der Flucht - Maria (22) liebte den Techno, dann fielen Schüsse",
+    "link": "https://www.bild.de/news/ausland/italienerin-maria-22-bei-aarau-rave-in-der-schweiz-erschossen-6a9509e6d88567044d84abff",
+    "image": "https://images.bild.de/6a9509e6d88567044d84abff/5d7fd5e6bf38c8b800b441d98fe4c96c,9019e195?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Detlef Steves über JP Kraemer - „Ich finde sowas abstoßend“",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/detlef-steves-ueber-jp-kraemer-ich-finde-sowas-abstossend-6a953e69d88567044d84afa3",
+    "image": "https://images.bild.de/6a953e69d88567044d84afa3/edbaa3da8f42cd2a0b464189da444c71-landscape,19d281e3?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Zwei Gruppen gehen aufeinander los - Schüsse! Stiche! Sieben Verletzte in Niedersachsen",
+    "link": "https://www.bild.de/regional/niedersachsen/sieben-verletzte-in-niedersachsen-zwei-gruppen-gehen-aufeinander-los-6a948864518a586e1855d8d8",
+    "image": "https://images.bild.de/6a948864518a586e1855d8d8/47ed3768e28a4f71e9443f40126c6c17,5b0f210a?w=1280",
+    "date": 0,
+    "titleSl": "Zwei Gruppen gehen aufeinander los - Schüsse! Stiche! Sieben Verletzte v Niedersachsenu"
+   },
+   {
+    "title": "Apple legt sich mit Amazon an - Zoff um neuen James Bond!",
+    "link": "https://www.bild.de/unterhaltung/film-kino/apple-legt-sich-mit-amazon-an-zoff-um-neuen-james-bond-6a9522e9d88567044d84ad7b",
+    "image": "https://images.bild.de/6a9522e9d88567044d84ad7b/d556caccd110b3680464980a46dffe68,36e2bd65?w=1280",
+    "date": 0
+   },
+   {
     "title": "Großeinsatz der Polizei - Unbekannter schießt auf Café in Köln",
     "link": "https://www.bild.de/regional/koeln/grosseinsatz-der-polizei-unbekannter-schiesst-auf-cafe-in-koeln-6a9525acd7e51a6452b9e5e3",
     "image": "https://images.bild.de/6a9525acd7e51a6452b9e5e3/75d363e6dd0cf2a3b6ff4c40611045a6,bc791800?w=1280",
@@ -422,31 +447,6 @@
     "title": "Immer wieder Rumänien - Braunbär zerlegt Auto",
     "link": "https://www.bild.de/news/ausland/braunbaer-beisst-ins-auto-und-reisst-fast-die-verkleidung-vom-fahrzeug-6a941be1f45c7ed96fc6bef7",
     "image": "https://images.bild.de/6a941be1f45c7ed96fc6bef7/94023027e568dd4233901e099f8b9cda,de6e2e90?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Neue Studie - Herzrisiken zeigen sich deutlich früher als gedacht",
-    "link": "https://www.bild.de/leben-wissen/medizin/herzrisiken-zeigen-sich-frueher-als-gedacht-neue-methode-soll-helfen-6a919316b3df30a615529292",
-    "image": "https://images.bild.de/6a919316b3df30a615529292/dc5e8bb60e03e820f0de2c4599d05471,25b5df2e?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Tennis-Star übergibt sich - Lindsey Vonn sieht historisches Djokovic-Aus",
-    "link": "https://www.bild.de/sport/mehr-sport/novak-djokovic-erbrechen-und-traenen-beim-us-open-aus-6a94f6e8d88567044d84ab0d",
-    "image": "https://images.bild.de/6a94f6e8d88567044d84ab0d/8ee7798c2397994330620fe2e9a41bd9,4256f499?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach XXL-Transport in Hamburg - Hier rollen die ersten Züge über die Sternbrücke",
-    "link": "https://www.bild.de/news/inland/hier-rollen-die-ersten-zuege-nach-xxl-transport-in-hamburg-ueber-die-sternbruecke-6a950f2f518a586e1855dbe7",
-    "image": "https://images.bild.de/6a950f2f518a586e1855dbe7/5d10af26f61219dded34269925170cd1,e9353f94?w=1280",
-    "date": 0,
-    "titleSl": "Nach XXL-Transport v Hamburgu - Hier rollen die ersten Züge über die Sternbrücke"
-   },
-   {
-    "title": "Nachfolger von Tim Cook - So tickt der neue Apple-CEO John Ternus",
-    "link": "https://www.bild.de/leben-wissen/digital/john-ternus-der-neue-apple-chef-vor-seiner-groessten-bewaehrungsprobe-6a952713d88567044d84adc9",
-    "image": "https://images.bild.de/6a952713d88567044d84adc9/ab29ea31ee3f3633e198c71f7c12c719,d8f2b942?w=1280",
     "date": 0
    }
   ],
@@ -492,6 +492,12 @@
   ],
   "rainews": [
    {
+    "title": "Minaccia il nipote di nove anni con un coltello e ferisce la compagna",
+    "link": "https://www.rainews.it/articoli/2026/08/minaccia-il-nipote-di-nove-anni-con-un-coltello-e-ferisce-la-compagna-22135580-f237-43c0-a0f8-08595ade5890.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/18/1787082404858_polizia_archivio.jpg",
+    "date": 1788168720000
+   },
+   {
     "title": "L&#x27;Italia proroga la sospensione dell&#x27;Accordo di Schengen con la Spagna per altri 15 giorni",
     "link": "https://www.rainews.it/articoli/2026/08/litalia-proroga-la-sospensione-dellaccordo-di-schengen-con-la-spagna-per-altri-15-giorni-6140b456-65bc-4df3-9dea-d87dcb5962dd.html",
     "image": "https://www.rainews.it/dl/img/2026/08/07/1786112637632_rainewsefefeddbbbddc.jpg",
@@ -522,13 +528,6 @@
     "image": "https://www.rainews.it/dl/img/2026/08/31/1788131852034_CXJ.jpg",
     "date": 1788166140000,
     "titleSl": "Gli USA attaccano l'Iran dopo un mese di stop, morti a Larak. Missili iraniani contro la Giordania"
-   },
-   {
-    "title": "Dal video più visto di YouTube al K-pop: ecco com&#x27;è oggi il bambino di Baby Shark",
-    "link": "https://www.rainews.it/video/2026/08/dal-video-piu-visto-di-youtube-al-k-pop-ecco-come-oggi-il-bambino-di-baby-shark-bdfc8817-7f24-4f2f-b9c5-3ba7635db37b.html",
-    "image": "https://www.rainews.it/dl/img/2026/08/31/1788165680419_vlcsnaphms.png",
-    "date": 1788165420000,
-    "titleSl": "Dal video più visto di YouTube al K-pop: ecco com'è oggi il bambino di Baby Shark"
    }
   ],
   "lemonde": [
@@ -577,8 +576,20 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Rego asegura en el Congreso que los menores que entraron a Ceuta “no son invasores, sino víctimas” y que ninguno “ha causado esta crisis”",
     "link": "https://elpais.com/espana/2026-08-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/D3M26X5MCJHRHIOKRUYSUMX5VU.jpg?auth=3e0dac1e44d7b0ee0da91f23b4993c4b4d35568e9432cb86a026e4034196987c",
-    "date": 1788168437000,
+    "date": 1788168929000,
     "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Rego asegura en el Congreso que los menores que entraron a Ceuta \"no son invasores, sino víctimas\" y que ninguno \"ha causado esta crisis\""
+   },
+   {
+    "title": "La familia de Blanca Fernández Ochoa recuerda a la esquiadora siete años después en la ruta en la que falleció",
+    "link": "https://elpais.com/gente/2026-08-31/la-familia-de-blanca-fernandez-ochoa-recuerda-a-la-esquiadora-siete-anos-despues-en-la-ruta-en-la-que-fallecio.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/N5B34VE4PNCBROTIK6S2C7JD2M.jpg?auth=acbb856e459740a6de4ad971957d8365c0d88cb8a8304e16f7501b546f4508fd",
+    "date": 1788168722000
+   },
+   {
+    "title": "Unas inundaciones repentinas en el Gran Cañón dejan al menos un muerto y una veintena de desaparecidos",
+    "link": "https://elpais.com/internacional/2026-08-31/unas-inundaciones-repentinas-en-el-gran-canon-dejan-al-menos-un-muerto-y-una-veintena-de-desaparecidos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/XST6Q74I5NMW7OTM5KRD5J2R4E.jpg?auth=0a9fd26bad75a07fbce2c0e12596408208d8fffcd9ee82576b12335c9f74ed01",
+    "date": 1788168610000
    },
    {
     "title": "La policía investiga si el joven bangladesí muerto en el incendio de un trastero de Madrid vivía en él",
@@ -598,19 +609,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/WR6YMKRK2ZFZDO66F3HLWBVULI.jpg?auth=11abc985d6cb27d1251aac5fb9923c866718da301be090cd86de3ae9210db7fa",
     "date": 1788164987000,
     "titleSl": "El mejor queso Cabrales alcanza los 37.500 evrov en una subasta que bate el récord mundial"
-   },
-   {
-    "title": "Sánchez se muestra “dispuesto” a presentarse a las elecciones de 2027: “Hoy no tenemos una propuesta de alternancia”",
-    "link": "https://elpais.com/espana/2026-08-31/sanchez-se-muestra-dispuesto-a-presentarse-a-las-elecciones-de-2027-hoy-no-tenemos-una-propuesta-de-alternancia.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260831/1209322_081648_video_1800.mp4",
-    "date": 1788164622000
-   },
-   {
-    "title": "Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un ‘aticazo’ con la pasta de los madrileños para vivir en él”",
-    "link": "https://elpais.com/espana/2026-08-31/sanchez-sobre-el-piso-de-ayuso-esta-senora-ha-querido-comprarse-un-aticazo-con-la-pasta-de-los-madrilenos-para-vivir-en-el.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260831/1209316_080303_video_1800.mp4",
-    "date": 1788164233000,
-    "titleSl": "Sánchez, sobre el piso de Ayuso: ‚ Esta señora ha querido comprarse un ‘aticazo’ con la pasta de los madrileños para vivir en él '"
    }
   ]
  },
