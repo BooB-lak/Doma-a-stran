@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T15:28:27.388Z",
+ "generatedAt": "2026-08-31T15:31:00.066Z",
  "sources": {
   "siol": [
    {
@@ -129,7 +129,7 @@
     "date": 1788187380000
    },
    {
-    "title": "Drama v centru Maribora, policisti svarijo: Ne približujte se kraju dogodka!",
+    "title": "Drama v centru Maribora, policisti pozivajo: Ne približujte se kraju dogodka!",
     "link": "https://www.zurnal24.si/slovenija/drama-v-centru-maribora-policija-prijela-tri-osebe-druge-se-iscejo-464427",
     "image": "https://www.zurnal24.si/media/img/32/30/b2fa8205b481fc7375ec.jpeg",
     "date": 1788185100000
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Is Trump testing the limits of US power?",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788188429.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788188469000,
+    "titleSl": "Ali Trump preizkuša meje ameriške moči?"
+   },
+   {
+    "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
+    "link": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-09-25T041945Z_745137952_RC2G7AAYQZBF_RTRMADP_3_ISRAEL-PALESTINIANS-TEL-AVIV-1788181715.jpg?resize=1920%2C1440",
+    "date": 1788188276000,
+    "titleSl": "Zakaj je Grčija z Izraelom podpisala sporazum o raketah v višini 3,5 milijarde $?"
+   },
+   {
     "title": "Jason Arday mural displayed at London’s Notting Hill Carnival",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788187919.jpg?resize=1920%2C1080&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-07T195452Z_337466632_RC27PLA3R1GS_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS-1780864930.jpg?resize=1920%2C1440",
     "date": 1788184360000,
     "titleSl": "Grčija z Izraelom podpisala sporazum o zračni obrambi v višini 3,5 milijarde $"
-   },
-   {
-    "title": "Why is piracy picking up off Somalia’s coast again?",
-    "link": "https://www.aljazeera.com/news/2026/8/31/why-is-piracy-picking-up-off-somalias-coast-again?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP17074277283268-1736848363_c65950-1736848614.jpg?resize=1200%2C630&quality=80",
-    "date": 1788184335000,
-    "titleSl": "Zakaj se piratstvo spet širi ob somalski obali?"
-   },
-   {
-    "title": "Transfer day: What and when is the deadline for club football signings?",
-    "link": "https://www.aljazeera.com/sports/2026/8/31/transfer-deadline-day-2026-football-summer-signing-window-barcola-gakpo-alvarez?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-02T084344Z_196608161_RC2XP8ACY36B_RTRMADP_3_SOCCER-WORLDCUP-GROUPF-NETHERLANDS-1780560078.jpg?resize=1920%2C1440",
-    "date": 1788184322000,
-    "titleSl": "Dan prenosa: Kakšen in kdaj je rok za podpisovanje klubskega nogometa?"
    }
   ],
   "guardian": [
@@ -414,6 +414,12 @@
   ],
   "bild": [
    {
+    "title": "„Ich würde es noch mal machen!“ - Streamer stürzt aus elf Metern Höhe",
+    "link": "https://www.bild.de/unterhaltung/bildgg/streamer-ronny-berger-knallt-aus-elf-metern-hoehe-ins-wasser-6a9005808a7786c19f335d3e",
+    "image": "https://images.bild.de/6a9005808a7786c19f335d3e/daafca581bfce143b7f9fde640427bc9,309c317f?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nie wieder für Argentinien - Messi tritt aus Nationalelf zurück",
     "link": "https://www.bild.de/sport/fussball/fussball-hammer-messi-tritt-aus-nationalmannschaft-zurueck-6a959909e93222a77575ec24",
     "image": "https://images.bild.de/6a959909e93222a77575ec24/99ca781cd9d44c9bb720c1a10384ada9,156385d4?w=1280",
@@ -443,15 +449,15 @@
     "link": "https://www.bild.de/unterhaltung/bildgg/tiktok-vierfache-mutter-alyshia-rushing-26-verursacht-horrocrash-6a90339914f40f555e0a3ae8",
     "image": "https://images.bild.de/6a90339914f40f555e0a3ae8/c272952a21bec61032948c8ae71cffac,2138ca3a?w=1280",
     "date": 0
-   },
-   {
-    "title": "„Deutschland spricht“ – Jung und Alt diskutieren - „Wir in Deutschland sollen mal nicht jammern“",
-    "link": "https://www.bild.de/politik/deutschland-spricht-jung-und-alt-diskutieren-wir-in-deutschland-sollen-mal-nicht-jammern-6a958592d7e51a6452b9ef66",
-    "image": "https://images.bild.de/6a958592d7e51a6452b9ef66/53d39939c1c60aec3ce5767fabadd797,ae67468f?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Albiceleste-Rücktritt - Aus und vorbei! Lionel Messi beendet Teamkarriere",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83eGdjWmFyN1gxdGM2MXUzc1hLdmdEU2U1aUtHVno4YVJCRjhKb2dPcVExOC1UUXl2bW1ZcVdSUjFNdw?oc=5",
+    "image": "",
+    "date": 1788189480000
+   },
    {
     "title": "Aber es geht weiter - Abgewiesen! Nächste Pleite für den Chaos-Klub",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zYS0xcVpidm9XSTJWOEVRMFdwYnBwQ2dLS3FxamxhbTkxNEFqc2ZyQV9rby1xQ0d5dFdFUkNPT3kzdw?oc=5",
@@ -484,12 +490,6 @@
     "image": "",
     "date": 1788187920000,
     "titleSl": "agresija ohne grund - Ein Monat Krankenstand nach brutalem Faustschlag"
-   },
-   {
-    "title": "Flugplatz Altenrhein - Sieben Menschen bei Flugshow ins Spital gebracht",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE11XzIxbl9WWU9QTS1BbWMtV1hmM3VrOTh1RDRDVXludHZZYTNrSHBoMGdGZkROeDhfaXpXZUlmbVRzdw?oc=5",
-    "image": "",
-    "date": 1788187500000
    }
   ],
   "rainews": [
@@ -534,6 +534,13 @@
   ],
   "lemonde": [
    {
+    "title": "On a testé… « The Blood of Dawnwalker », trente jours et trente nuits dans une vallée vampirique des Carpates",
+    "link": "https://www.lemonde.fr/pixels/article/2026/08/31/on-a-teste-the-blood-of-dawnwalker-trente-jours-et-trente-nuits-dans-une-vallee-vampirique-des-carpates_6762594_4408996.html",
+    "image": "https://img.lemde.fr/2026/08/28/120/0/3840/1920/644/322/60/0/0b464c7_upload-1-fuq4g5g3edl7-2.jpg",
+    "date": 1788188409000,
+    "titleSl": "Na testeju… « The Blood of Dawnwalker», trente jours et trente nuits dans une vallée vampirique des Carpates"
+   },
+   {
     "title": "La Suède signe un contrat de 4,3 milliards d’euros pour l’acquisition de quatre frégates françaises",
     "link": "https://www.lemonde.fr/international/article/2026/08/31/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-francaises_6762592_3210.html",
     "image": "https://img.lemde.fr/2026/08/31/437/0/5235/2617/644/322/60/0/5e08c62_ftp-1-apynyqy9xlzz-5961875-01-06.jpg",
@@ -565,13 +572,6 @@
     "link": "https://www.lemonde.fr/international/article/2026/08/31/moyen-orient-premier-echange-de-frappes-entre-les-etats-unis-et-l-iran-depuis-un-mois_6762552_3210.html",
     "image": "https://img.lemde.fr/2026/08/31/518/0/6221/3110/644/322/60/0/f877a92_ftp-1-q5etz9rhzrxc-5960506-01-06.jpg",
     "date": 1788182419000
-   },
-   {
-    "title": "Bradley Barcola quitte le PSG pour Liverpool, nouvelle transaction record pour le départ d’un joueur de Ligue 1 à l’étranger",
-    "link": "https://www.lemonde.fr/sport/article/2026/08/31/bradley-barcola-quitte-le-psg-pour-liverpool-nouvelle-transaction-record-pour-le-depart-d-un-joueur-de-ligue-1-a-l-etranger_6762551_3242.html",
-    "image": "https://img.lemde.fr/2026/03/11/10/0/2067/1033/644/322/60/0/ff74446_ftp-1-kpapqtiaqnc6-5441666-01-06.jpg",
-    "date": 1788182245000,
-    "titleSl": "Bradley Barcola quitte le PSG pour Liverpool, nouvelle transaction record pour le départ d'un joueur de Ligue 1 à l' étranger"
    }
   ],
   "elpais": [
