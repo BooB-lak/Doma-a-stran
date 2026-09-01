@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-01T14:28:27.520Z",
+ "generatedAt": "2026-09-01T14:30:54.675Z",
  "sources": {
   "siol": [
+   {
+    "title": "Trumpova hči pritegnila poglede: tako uživa na razkošnih počitnicah v Španiji",
+    "link": "https://siol.net/trendi/zvezde-in-slavni/trumpova-hci-pritegnila-poglede-tako-uziva-na-razkosnih-pocitnicah-v-spaniji-700333",
+    "image": "https://siol.net/media/img/c1/03/e190f1dece05902705dd.jpeg",
+    "date": 1788272940000
+   },
    {
     "title": "Scott McTominay zaradi srčne aritmije brez tekem proti Sloveniji",
     "link": "https://siol.net/sportal/nogomet/scott-mctominay-zaradi-srca-brez-tekem-proti-sloveniji-700382",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/na-bledu-zelo-pomembno-sporocilo-zda-za-evropo-700378",
     "image": "https://siol.net/media/img/60/4b/670f2361d4f5a8c3b26a.jpeg",
     "date": 1788269760000
-   },
-   {
-    "title": "Maks Ciperle na posojo, v Stožice pa prihaja Osayi Osifo",
-    "link": "https://siol.net/sportal/kosarka/maks-ciperle-na-posojo-v-stozice-pa-prihaja-osayi-osifo-700377",
-    "image": "https://siol.net/media/img/4a/88/a36ed2a6476ba48c4e46.jpeg",
-    "date": 1788269400000
    }
   ],
   "24ur": [
@@ -79,10 +79,28 @@
   ],
   "rtvslo": [
    {
+    "title": "Večini bolnišnic samo z lastnimi ukrepi poslovanja ne bo uspelo uravnotežiti",
+    "link": "https://www.rtvslo.si/zdravje/vecini-bolnisnic-samo-z-lastnimi-ukrepi-poslovanja-ne-bo-uspelo-uravnoteziti/792511",
+    "image": "https://img.rtvcdn.si/_up/upload/2023/04/06/66072629.jpg",
+    "date": 1788272886000
+   },
+   {
     "title": "Novogoriška civilna iniciativa Vsi smo Kulturni dom začela zbirati podpise za razpis referenduma",
     "link": "https://www.rtvslo.si/kultura/drugo/novogoriska-civilna-iniciativa-vsi-smo-kulturni-dom-zacela-zbirati-podpise-za-razpis-referenduma/792509",
     "image": "https://img.rtvcdn.si/_up/upload/2026/02/14/67018998.jpg",
     "date": 1788272316000
+   },
+   {
+    "title": "Slovenije ni več med državami podpornicami blažitve pravice veta na zunanjepolitičnem področju",
+    "link": "https://www.rtvslo.si/evropska-unija/slovenije-ni-vec-med-drzavami-podpornicami-blazitve-pravice-veta-na-zunanjepoliticnem-podrocju/792510",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/01/67089509.jpg",
+    "date": 1788272245000
+   },
+   {
+    "title": "Janša zaradi predvolilnih izjav toži Mesca in Goloba",
+    "link": "https://www.rtvslo.si/slovenija/jansa-zaradi-predvolilnih-izjav-tozi-mesca-in-goloba/792512",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/28/67084876.jpg",
+    "date": 1788271976000
    },
    {
     "title": "Metropolitanski muzej odpovedal razstavo Johna Galliana zaradi oblikovalčevih antisemitskih izjav",
@@ -95,24 +113,6 @@
     "link": "https://www.rtvslo.si/sport/kosarka/jadranska-liga/cedevita-olimpija-nasla-afrisko-okrepitev-pod-obrocem/792506",
     "image": "https://img.rtvcdn.si/_up/upload/2026/04/13/67035088.jpg",
     "date": 1788270160000
-   },
-   {
-    "title": "Konec tedna v Kopru številčna slovenska zasedba z Janjo Garnbret na čelu",
-    "link": "https://www.rtvslo.si/sport/preostali-sporti/konec-tedna-v-kopru-stevilcna-slovenska-zasedba-z-janjo-garnbret-na-celu/792504",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/08/24/66953994.jpg",
-    "date": 1788268850000
-   },
-   {
-    "title": "Kajzer: Zunanja politika se osredotoča na okvire, v katerih ima Slovenija možnosti vplivanja",
-    "link": "https://www.rtvslo.si/slovenija/kajzer-zunanja-politika-se-osredotoca-na-okvire-v-katerih-ima-slovenija-moznosti-vplivanja/792503",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/31/67088284.jpg",
-    "date": 1788268133000
-   },
-   {
-    "title": "Vedno več vandalizma na tržnici Vrhnika",
-    "link": "https://www.rtvslo.si/lokalne-novice/vedno-vec-vandalizma-na-trznici-vrhnika/792388",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/01/67089404.jpg",
-    "date": 1788267245000
    }
   ],
   "zurnal": [
@@ -155,6 +155,13 @@
   ],
   "reuters": [
    {
+    "title": "Solar overtakes coal as China's largest source of installed power capacity",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFpxVF9Wa0NFeFRHNmNRc1pWZlRieWJ0OE9hSEVqM1czdHdOTlhwQzZOUk1FOWxfSDRSN09oaUVISEpLRTZPVzMwU3M2bEFKN2YwRFNwVm05alBreTc0aElPdGlMYWVOaUwzUVVDa0tsZjMxOWtBM0dJQzZUdlRKZmgwcGVRZmpGMDJ2Q0Vab1FSV0RnSXFLM2RjcEh1OThDc0VkYlhTbjljblM0ZktMLWY1UWhKMEVFZjln?oc=5",
+    "image": "",
+    "date": 1788271499000,
+    "titleSl": "Sončna energija prehiteva premog kot največji vir inštalirane moči na Kitajskem"
+   },
+   {
     "title": "Fervo signs 396-MW geothermal power supply deal with Google; shares jump",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkN0cENkZTJhN3hEaE9NYTNlX2R2c3lsd0p6Y0VySFNEUnZiVFlGYUNXS1NyRlNjZzl3b1pqQk5CdHoxNTBEa3liZHFOb3MxWlFOMjUyeVVCb2o5YV9ueV9ZcVkyTnplanp5Z1VJTG1yNlctNDFOeUJCb3lBblU2dkJ2NUZLbDRLTXhxWVpZSS1Iemk1QkJxYzNpY2VTQzFodFFBV0szT3V6M1JMU3FiOGI5cktGcWcyOU1NVEdDUlBzdw?oc=5",
     "image": "",
@@ -188,13 +195,6 @@
     "image": "",
     "date": 1788269696000,
     "titleSl": "ZDA naj na tehnološkem srečanju G20 pozovejo k regulaciji umetne inteligence, je dejal uradnik"
-   },
-   {
-    "title": "Majority of Americans oppose Trump's new Canada tariffs, renaming Lake Ontario, Reuters/Ipsos poll finds",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzZSUnIyajNpWUhlZTh5VFpoWk4tTTFuTEdRSXQtS18ySkZ4WUFvakh1bEt3Ul9ocllWbzFqdS0xRUFRMlZZWTQwLXI1SFdQQ2Q0ZWw5ZWxpUW1hX2NqVlRtOXJ3amhlX3VtWW82aS1QMG51LUphdVVTV21QX0FXaTRfVmwtZFRFUXA3OEJaZ1RNSktfY1VaUTN5VFd1bnBJX2ZPaUhVb1duR0lGT3lGczFRT0NrVEN0Vmc?oc=5",
-    "image": "",
-    "date": 1788269026000,
-    "titleSl": "Večina Američanov nasprotuje Trumpovim novim kanadskim tarifam in preimenuje jezero v Ontario, ugotavlja raziskava Reuters/Ipsos"
    }
   ],
   "nyt": [
@@ -204,13 +204,6 @@
     "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01Biz-Yen-Defender-01-fhcp/01Biz-Yen-Defender-01-fhcp-mediumSquareAt3X.jpg",
     "date": 1788271776000,
     "titleSl": "Satsuki Katayama, ženska v središču japonskega valutnega boja"
-   },
-   {
-    "title": "Ozempic Maker Novo Nordisk’s Investors Are Nervously Looking Into the Future",
-    "link": "https://www.nytimes.com/2026/09/01/business/novo-nordisk-ozempic-wegovy-glp1s-stocks.html",
-    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/Biz-Novo-Comeback-01-zbvt/Biz-Novo-Comeback-01-zbvt-mediumSquareAt3X.jpg",
-    "date": 1788271594000,
-    "titleSl": "Vlagatelji Ozempic Maker Novo Nordisk nervozno gledajo v prihodnost"
    },
    {
     "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
@@ -239,6 +232,13 @@
     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31met-times-square-shooting-01-pvzk/31met-times-square-shooting-01-pvzk-mediumSquareAt3X.jpg",
     "date": 1788269644000,
     "titleSl": "Ženska zabode 2, ubije enega, na Times Squareu in je ustreljena s strani N.Y.P.D."
+   },
+   {
+    "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+    "image": "https://static01.nyt.com/images/2026/09/01/world/01int-shanghai-g20-social-promo/01int-shanghai-g20-social-promo-mediumSquareAt3X.jpg",
+    "date": 1788269410000,
+    "titleSl": "Kitajska ali ZDA? Dva sestanka ponujata konkurenčne vitrine globalne moči."
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "How wildfires are scorching France’s wine industry",
-    "link": "https://www.aljazeera.com/news/2026/9/1/how-wildfires-are-scorching-frances-wine-industry?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2019-09-18T202112Z_2757349_RC1962AEC3C0_RTRMADP_3_GLOBAL-WINE-1788261734_59937f-1788263120.jpg?resize=1200%2C630&quality=80",
-    "date": 1788271367000,
-    "titleSl": "Kako požari žgejo francosko vinsko industrijo"
-   },
-   {
     "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
     "link": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9668f52ad5-1788242165.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260715__C2BA42W__v3__HighRes__TopshotFblWc2026Match102EngArg-1784370755_0f89f8-1784432327.jpg?resize=1200%2C630&quality=80",
     "date": 1788268419000,
     "titleSl": "Lionel Messi se upokoji: Katere rekorde in naslove drži legenda Argentine?"
+   },
+   {
+    "title": "Why China will not comply with US sanctions on Iran",
+    "link": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-04T053738Z_188766805_RC2T7KASRMG4_RTRMADP_3_OIL-ASIA-COLUMN-RUSSELL-1788263766.jpg?resize=1920%2C1440",
+    "date": 1788268094000,
+    "titleSl": "Zakaj Kitajska ne bo upoštevala ameriških sankcij proti Iranu"
    }
   ],
   "guardian": [
@@ -416,41 +416,40 @@
   ],
   "bild": [
    {
-    "title": "So tickt Dortmunds neuer Star - DFB-Weltmeister sorgte für Nwaneri-Durchbruch",
-    "link": "https://www.bild.de/sport/fussball/bvb-dfb-weltmeister-sorgte-fuer-nwaneri-durchbruch-6a96a896d32756d4be19b4a0",
-    "image": "https://images.bild.de/6a96a896d32756d4be19b4a0/29cc22b7b4f67c7b4a11a2cca788212e,69fa7568?w=1280",
+    "title": "Aufstiegsfeier eskaliert - Viele Schwerverletzte nach Platzsturm in Hamburg",
+    "link": "https://www.bild.de/sport/fussball/hsv-wilder-platzsturm-in-hamburg-fans-zerstoeren-das-aufstiegs-tor-682013e99166b6044ba05178",
+    "image": "https://images.bild.de/682013e99166b6044ba05178/748155f9cd76c77af0444fba51673aed,52daec99?w=1280",
     "date": 0,
-    "titleSl": "Torej tickt Dortmunds neuer Star - DFB-Weltmeister sorgte für Nwaneri-Durchbruch"
+    "titleSl": "Aufstiegsfeier eskaliert - Viele Schwerverletzte nach Platzsturm v Hamburgu"
    },
    {
-    "title": "Trainerin erklärt Ursachen - Darum meidet Ihr Hund auf einmal die Treppe",
-    "link": "https://www.bild.de/leben-wissen/haustiere/trainerin-erklaert-warum-ihr-hund-die-treppe-auf-einmal-meidet-6a958b1fe93222a77575eaf2",
-    "image": "https://images.bild.de/6a958b1fe93222a77575eaf2/d96f8bea40ddcb828f149daa9bc21709,7de2514?w=1280",
+    "title": "Vorschau für den 1. September 2026 - So geht es heute bei „Unter uns“ weiter",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/unter-uns-heute-im-tv-ute-setzt-alles-in-bewegung-6a8d44f1d8b561d618970d7c",
+    "image": "https://images.bild.de/6a8d44f1d8b561d618970d7c/a2b5542bd0e0ae60ed9171165349506b,b3e49e09?w=1280",
     "date": 0
    },
    {
-    "title": "Trauer um Film-Ikone - „Die Brücke“-Star Cordula Trantow (†83) ist tot",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/film-ikone-cordula-trantow-die-bruecke-star-ist-gestorben-6a96c7cb2a6051ae2e13f752",
-    "image": "https://images.bild.de/6a96c7cb2a6051ae2e13f752/073dc1b971caa424c4109f1ec0cd8c2d,10a3c093?w=1280",
+    "title": "Larsson, Kalimuendo, Bahoya, Chaïbi - ALLES zum Deadline-Wahnsinn bei Eintracht!",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-alles-zum-deadline-wahnsinn-bei-eintracht-6a967f1d7a8c285934e6e3eb",
+    "image": "https://images.bild.de/6a967f1d7a8c285934e6e3eb/f1419b4a2fc75ffa673695b6aa0d86fa,d5e2d116?w=1280",
     "date": 0
    },
    {
-    "title": "Platzsturm in Hamburg - HSV-Fans zerstören das Aufstiegs-Tor!",
-    "link": "https://www.bild.de/sport/fussball/hsv-wilder-platzsturm-in-hamburg-fans-zerstoeren-das-aufstiegs-tor-681fb37fc956e61cc27b4160",
-    "image": "https://images.bild.de/681fb37fc956e61cc27b4160/748155f9cd76c77af0444fba51673aed,52daec99?w=1280",
-    "date": 0,
-    "titleSl": "Platzsturm v Hamburgu - HSV-Fans zerstören das Aufstiegs-Tor!"
-   },
-   {
-    "title": "Aufstiegs-Explosion beim HSV! - „Als hätte jemand 7 Jahre Champagner geschüttelt“",
-    "link": "https://www.bild.de/sport/fussball/hsv-aufstieg-perfekt-zurueck-in-der-bundesliga-2555-tage-nach-dem-abstieg-681f8d49c956e61cc27b4027",
-    "image": "https://images.bild.de/681f8d49c956e61cc27b4027/98f729577023494321a34ed9a7408f65,4e0b674d?w=1280",
+    "title": "Live-Ticker zu Drohnen-Vorfällen - Reden Wadephul und Dobrindt jetzt Russen-Klartext?",
+    "link": "https://www.bild.de/politik/inland/live-ticker-reden-wadephul-und-dobrindt-jetzt-klartext-mit-russland-6a96d5482a6051ae2e13f900",
+    "image": "https://images.bild.de/6a96d5482a6051ae2e13f900/1ca85b526657fe9ab8b817ebcb8ba4ac,f13a5efd?w=1280",
     "date": 0
    },
    {
-    "title": "Nach 155 Jahren! - Deutsche Post legt Traditionsnamen ab",
-    "link": "https://www.bild.de/politik/inland/deutsche-post-legt-nach-155-jahren-traditionsnamen-ab-so-heisst-sie-jetzt-6a96794a7a8c285934e6e393",
-    "image": "https://images.bild.de/6a96794a7a8c285934e6e393/9d0b464a412be228af55331396580180,c1b7798a?w=1280",
+    "title": "Meister-Held mit Neapel - Herz-OP bei Serie-A-Star",
+    "link": "https://www.bild.de/sport/fussball/internationaler-fussball-herz-op-bei-neapel-star-scott-mctominay-6a96d0069452c5223822faa9",
+    "image": "https://images.bild.de/6a96d0069452c5223822faa9/43b7dd739291b84a562e49ad530b46f8,f3a86492?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach Beziehungs-Aus! - Brigitte Macrons Tochter (42) liebt Studenten (22)",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/brigitte-macrons-tochter-liebt-20-jahre-juengeren-studenten-6a968533518a586e1855f0d4",
+    "image": "https://images.bild.de/6a968533518a586e1855f0d4/366dc804c541d33a4216f6ca10d0878b,7477d594?w=1280",
     "date": 0
    }
   ],
@@ -540,6 +539,12 @@
     "date": 1788271236000
    },
    {
+    "title": "Les « Culottées » de Pénélope Bagieu font leur rentrée officielle au collège",
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/01/les-culottees-de-penelope-bagieu-font-leur-rentree-officielle-au-college_6763486_4500055.html",
+    "image": "https://img.lemde.fr/2026/09/01/455/0/1178/589/644/322/60/0/b53bfc6_ftp-1-4dcy2y4m690g-440518-3492576.jpg",
+    "date": 1788271212000
+   },
+   {
     "title": "Canicule : en 2026, le Royaume-Uni et la Belgique enregistrent leur été le plus chaud",
     "link": "https://www.lemonde.fr/planete/article/2026/09/01/canicule-en-2026-le-royaume-uni-et-la-belgique-enregistrent-leur-ete-le-plus-chaud_6763485_3244.html",
     "image": "https://img.lemde.fr/2026/08/13/41/0/3688/1844/644/322/60/0/f2ff498_ftp-1-lktbo1nfjlf4-2026-08-13t141945z-1586910575-rc2pxmac316c-rtrmadp-3-europe-weather-britain.JPG",
@@ -563,13 +568,6 @@
     "link": "https://www.lemonde.fr/international/live/2026/09/01/en-direct-guerre-en-ukraine-l-ue-denonce-la-presence-de-la-russie-au-g20-finances-organise-par-les-etats-unis_6760568_3210.html",
     "image": "https://img.lemde.fr/2026/08/31/78/0/2000/1000/644/322/60/0/2dd8518_ftp-1-ctk3g2vwjd7h-5a72a4c488f04ebbb2cbc2e5f85d5fc9-0-9116a6c97fab46ed929fb670c915a49a.jpg",
     "date": 1788267909000
-   },
-   {
-    "title": "Meurtre de Tupac Shakur : Duane Davis, ancienne figure d’un célèbre gang californien, reconnu coupable",
-    "link": "https://www.lemonde.fr/international/video/2026/09/01/meurtre-de-tupac-shakur-duane-davis-ancienne-figure-d-un-celebre-gang-californien-reconnu-coupable_6763480_3210.html",
-    "image": "https://img.lemde.fr/2026/09/01/306/0/3000/1500/644/322/60/0/07cd37e_ftp-1-vb0aggkdqxzb-5965797-01-06.jpg",
-    "date": 1788267077000,
-    "titleSl": "Meurtre de Tupac Shakur : Duane Davis, ancienne figure d'un célèbre gang californien, reconnu coupable"
    }
   ],
   "elpais": [
