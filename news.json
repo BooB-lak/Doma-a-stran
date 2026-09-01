@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T10:32:28.351Z",
+ "generatedAt": "2026-09-01T10:34:31.563Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Policijska intervencija na dolenjski avtocesti",
+    "link": "https://www.24ur.com/novice/slovenija/policijska-intervencija-na-dolenjski-avtocesti.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/af6e1eb18794876a075f_63640601.jpg?v=195c&fop=fp:0.46:0.45",
+    "date": 1788258802000
+   },
+   {
     "title": "Policija o včerajšnjem streljanju v središču Maribora",
     "link": "https://www.24ur.com/novice/crna-kronika/policija-o-vcerajsnjem-streljanju-v-srediscu-maribora.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2025/2d0aa63e6bbe1cd96d0d_63376530.jpg?v=62db&fop=fp:0.47:0.34",
@@ -57,12 +63,6 @@
     "link": "https://www.24ur.com/popin/film_tv/izbrani-filmi-letosnjega-muvit-a-zdaj-tudi-na-voyo.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/5f43d68f314e304d5f40_63636342.png?v=4cea&fop=fp:0.40:0.30",
     "date": 1788256739000
-   },
-   {
-    "title": "Policijska intervencija na dolenjski avtocesti",
-    "link": "https://www.24ur.com/novice/slovenija/policijska-intervencija-na-dolenjski-avtocesti.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/af6e1eb18794876a075f_63640601.jpg?v=195c&fop=fp:0.46:0.45",
-    "date": 1788256644000
    },
    {
     "title": "Lord Robertson: Kombinacija Trumpa in Putina dala lekcijo Evropejcem",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Policija sporočila podrobnosti intervencije na dolenjski avtocesti",
+    "link": "https://www.zurnal24.si/slovenija/policija-sporocila-podrobnosti-intervencije-na-dolenjski-avtocesti-464472",
+    "image": "https://www.zurnal24.si/media/img/82/ff/aa8c633e7d047da198d4.png",
+    "date": 1788258720000
+   },
+   {
     "title": "Foto: Na dolenjski avtocesti popolna zapora, v teku policijska intervencija",
     "link": "https://www.zurnal24.si/slovenija/na-dolenjski-avtocesti-popolna-zapora-v-teku-policijska-intervencija-464471",
     "image": "https://www.zurnal24.si/media/img/ce/17/e778fe17d010360bd65f.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/voditeljica-pop-tv-spela-bezjak-zrim-se-je-poslovila-z-ganljivim-zapisom-464464",
     "image": "https://www.zurnal24.si/media/img/02/97/24fd41e5fe68c640105c.jpeg",
     "date": 1788252540000
-   },
-   {
-    "title": "76-letnica povzročila nesrečo, nato je sledil še en šok",
-    "link": "https://www.zurnal24.si/slovenija/crna-kronika/76-letnica-povzrocila-nesreco-nato-je-sledil-se-en-sok-464463",
-    "image": "https://www.zurnal24.si/media/img/30/57/a3a2e50abe42c11e3236.jpeg",
-    "date": 1788252000000
    }
   ],
   "reuters": [
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Burnham chairs cabinet meeting before first statement to MPs as prime minister – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/b12510039639e71a205b094d28ebfa00749a1925/551_348_4422_3538/master/4422.jpg?width=140&quality=85&auto=format&fit=max&s=4d150ef1e89f4b06fc6a30940245a6b9",
-    "date": 1788257910000,
-    "titleSl": "Burnham predseduje seji kabineta pred prvo izjavo poslancem kot premier – politika Združenega kraljestva v živo"
+    "title": "Man, 23, appears in court charged with murder after Teesside house fire",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/01/man-23-charged-fatal-teesside-house-fire",
+    "image": "https://i.guim.co.uk/img/media/c4dcec442a9870d1593a07c0f8e9fad69c6fa252/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d31166ee88e37886592f28333b4aa654",
+    "date": 1788258579000,
+    "titleSl": "23-letni moški se pojavi na sodišču, obtožen umora po požaru v hiši Teesside"
+   },
+   {
+    "title": "House to vote on stopgap funding bill as lawmakers scramble to avoid government shutdown – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/0fafd2b75215ff71a3beb7882929074aa91e1fc1/196_0_3714_2971/master/3714.jpg?width=140&quality=85&auto=format&fit=max&s=ac455b9fe2f74a89cec982127e635f97",
+    "date": 1788258421000,
+    "titleSl": "House bo glasoval o ustavitvenem predlogu zakona o financiranju, medtem ko se zakonodajalci trudijo, da bi se izognili zaprtju vlade – ameriška politika v živo"
    },
    {
     "title": "At least 12 people killed in Russian overnight attacks on Ukraine – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/60505400551b478bb62cd3ad67d39aff507649c4/0_0_4232_3387/master/4232.jpg?width=140&quality=85&auto=format&fit=max&s=6857dc1e41dc3c1e1443a1df73095ce8",
-    "date": 1788257848000,
+    "date": 1788258100000,
     "titleSl": "V ruskih nočnih napadih na Ukrajino je umrlo najmanj 12 ljudi – Evropa v živo"
+   },
+   {
+    "title": "Burnham chairs cabinet meeting before first statement to MPs as prime minister – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/b12510039639e71a205b094d28ebfa00749a1925/551_348_4422_3538/master/4422.jpg?width=140&quality=85&auto=format&fit=max&s=4d150ef1e89f4b06fc6a30940245a6b9",
+    "date": 1788257910000,
+    "titleSl": "Burnham predseduje seji kabineta pred prvo izjavo poslancem kot premier – politika Združenega kraljestva v živo"
    },
    {
     "title": "First Thing: Duane Keith Davis found guilty of 1996 murder of Tupac Shakur",
@@ -352,25 +366,11 @@
     "titleSl": "Prva stvar: Duane Keith Davis je bil spoznan za krivega umora Tupaca Shakurja leta 1996"
    },
    {
-    "title": "House to vote on stopgap funding bill as lawmakers scramble to avoid government shutdown – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/0fafd2b75215ff71a3beb7882929074aa91e1fc1/196_0_3714_2971/master/3714.jpg?width=140&quality=85&auto=format&fit=max&s=ac455b9fe2f74a89cec982127e635f97",
-    "date": 1788257583000,
-    "titleSl": "House bo glasoval o ustavitvenem predlogu zakona o financiranju, medtem ko se zakonodajalci trudijo, da bi se izognili zaprtju vlade – ameriška politika v živo"
-   },
-   {
     "title": "London Stock Exchange to lose three more firms after takeover offers",
     "link": "https://www.theguardian.com/business/2026/sep/01/london-stock-exchange-to-lose-three-more-firms-after-takeover-offers",
     "image": "https://i.guim.co.uk/img/media/f6a091277ae4ad7493b8423a52117d91d11a3070/1185_452_3782_3026/master/3782.jpg?width=140&quality=85&auto=format&fit=max&s=1a8a367c484023a95541244abee56364",
     "date": 1788257282000,
     "titleSl": "Londonska borza bo po ponudbah za prevzem izgubila še tri podjetja"
-   },
-   {
-    "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-    "link": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
-    "image": "https://i.guim.co.uk/img/media/e9520f579e6ca9edd8cf949416cbd4d34caf03c2/609_0_4171_3338/master/4171.jpg?width=140&quality=85&auto=format&fit=max&s=2f551fbb718541d18fd90ad1fc93aee3",
-    "date": 1788257066000,
-    "titleSl": "Število smrtnih žrtev poplav v Nepalu in Tibetu je preseglo 1.000, saj policija prosi sorodnike za DNK za identifikacijo žrtev"
    }
   ],
   "spiegel": [
@@ -416,25 +416,6 @@
   ],
   "bild": [
    {
-    "title": "Festnahme in Spanien - Deutschlands meistgesuchter Drogenhändler gefasst",
-    "link": "https://www.bild.de/news/ausland/festnahme-in-spanien-deutschlands-meistgesuchter-drogenhaendler-gefasst-6a969796518a586e1855f30e",
-    "image": "https://images.bild.de/6a969796518a586e1855f30e/aaffe19b4134179c7664bd81b4c00278,d2b6a379?w=1280",
-    "date": 0,
-    "titleSl": "Festnahme v Španiji - Deutschlands meistgesuchter Drogenhändler gefasst"
-   },
-   {
-    "title": "Kai Pflaume traf JP Kraemer und warnte ihn - „Wenn du das mit deiner Frau versaust …“",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/kai-pflaume-warnte-jp-kraemer-wenn-du-das-mit-deiner-frau-versaust-6a95807cd7e51a6452b9eec4",
-    "image": "https://images.bild.de/6a95807cd7e51a6452b9eec4/8826458ce36867dcdc5695236aa7a3b0,f40c9bbb?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Fahrer im Krankenhaus - Speed-Boot überschlägt sich mit über 342 km/h",
-    "link": "https://www.bild.de/sport/mehr-sport/spektakulaerer-unfall-in-missouri-speedboot-ueberschlaegt-sich-mit-ueber-324-km-h-6a96864e9452c5223822f05e",
-    "image": "https://images.bild.de/6a96864e9452c5223822f05e/fec0ecc2c640ea39fd6f082b6bdd3d0c,3960c387?w=1280",
-    "date": 0
-   },
-   {
     "title": "Kompany: „Ein Riesen-Fehler“ - Torwart-Entscheidung um Neuer und Urbig gefallen",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-entscheidung-um-neuer-und-urbig-vor-dem-dfb-pokalspiel-in-osnabrueck-gefallen-6a968d079452c5223822f0f9",
     "image": "https://images.bild.de/6a968d079452c5223822f0f9/7f9853c3622a080ed5160e2d7a0cc1bf,911f47a3?w=1280",
@@ -447,13 +428,38 @@
     "date": 0
    },
    {
-    "title": "Nach Beziehungs-Aus! - Brigitte Macrons Tochter (42) liebt Studenten (22)",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/brigitte-macrons-tochter-liebt-20-jahre-juengeren-studenten-6a968533518a586e1855f0d4",
-    "image": "https://images.bild.de/6a968533518a586e1855f0d4/366dc804c541d33a4216f6ca10d0878b,802e6475?w=1280",
+    "title": "Festnahme in Spanien - Deutschlands meistgesuchter Drogenhändler gefasst",
+    "link": "https://www.bild.de/news/ausland/festnahme-in-spanien-deutschlands-meistgesuchter-drogenhaendler-gefasst-6a969796518a586e1855f30e",
+    "image": "https://images.bild.de/6a969796518a586e1855f30e/aaffe19b4134179c7664bd81b4c00278,d2b6a379?w=1280",
+    "date": 0,
+    "titleSl": "Festnahme v Španiji - Deutschlands meistgesuchter Drogenhändler gefasst"
+   },
+   {
+    "title": "Neue Details aufgetaucht - Neue AirPods sollen 1-MP-Fotos aufnehmen",
+    "link": "https://www.bild.de/leben-wissen/digital/apple-airpods-koennten-zwei-kameras-fuer-ki-nutzen-hinweise-im-code-6a968a3f9452c5223822f09f",
+    "image": "https://images.bild.de/6a968a3f9452c5223822f09f/a0722af072b6e6dea38434a52f241a06,a9fb10b2?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Kai Pflaume traf JP Kraemer und warnte ihn - „Wenn du das mit deiner Frau versaust …“",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/kai-pflaume-warnte-jp-kraemer-wenn-du-das-mit-deiner-frau-versaust-6a95807cd7e51a6452b9eec4",
+    "image": "https://images.bild.de/6a95807cd7e51a6452b9eec4/8826458ce36867dcdc5695236aa7a3b0,f40c9bbb?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Fahrer im Krankenhaus - Speed-Boot überschlägt sich mit über 342 km/h",
+    "link": "https://www.bild.de/sport/mehr-sport/spektakulaerer-unfall-in-missouri-speedboot-ueberschlaegt-sich-mit-ueber-324-km-h-6a96864e9452c5223822f05e",
+    "image": "https://images.bild.de/6a96864e9452c5223822f05e/fec0ecc2c640ea39fd6f082b6bdd3d0c,3960c387?w=1280",
     "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Regionalliga Nord: - Seekirchen entzaubert Wallern – Pinzgau ohne Sieg! - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ibFZWRVVkM3FuQnZyTGJ5ZUR6aVdfTFZjNVpTN050YWVOY3hFenpqaDZuZUFtR3h6ZmhuV2ctMWxIdw?oc=5",
+    "image": "",
+    "date": 1788258120000
+   },
    {
     "title": "Verwechslungsgefahr - Union-Kicker trennt sich für ÖFB-Ass von Haaren! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BUlZtNEtiTFpQMUFYbmE4Um9aTUE3Q2p3WFdVUFhJVEVDNDZYQ2Z6Um92UjM5aUZ1YnQ0YzFuYm5TUQ?oc=5",
@@ -483,12 +489,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJYzN5YnRpNUxWMHlBN0JWckxpSFZMUVFHbnltNlB4cnloM2FELWZtdXVqdGFPUTkyVHljYWFwM3hHdw?oc=5",
     "image": "",
     "date": 1788256200000
-   },
-   {
-    "title": "Mit Kamera, Munddusche - Dyson erfindet die elektrische Zahnbürste neu - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84bC1YdG5hOTFTTlFMczRLVG9SVll4LXVmTjIyMFBmdFJZOUt0akRmTnhvUDd0dHlrSWZSWmdDN2ZiZw?oc=5",
-    "image": "",
-    "date": 1788256138000
    }
   ],
   "rainews": [
@@ -577,7 +577,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas reclama el apoyo “de todos los españoles” y llama a sumarse a las protestas de mañana",
     "link": "https://elpais.com/espana/2026-09-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/H4DTEVEX6NJYZELIMZBZOAM3G4.jpg?auth=785abac7db7c4d6095e4784cb092572188e2f357583a0c4a15dd4129663143c4",
-    "date": 1788257857000,
+    "date": 1788258595000,
     "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas reclama el apoyo \"de todos los españoles\" y llama a sumarse a las protestas de mañana"
    },
    {
