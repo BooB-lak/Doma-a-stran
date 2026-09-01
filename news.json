@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-01T16:26:27.276Z",
+ "generatedAt": "2026-09-01T16:28:28.076Z",
  "sources": {
   "siol": [
+   {
+    "title": "Podjetje Victorie Beckham po 18 letih končno ustvarilo dobiček",
+    "link": "https://siol.net/trendi/moda-in-lepota/podjetje-victorie-beckham-po-18-letih-koncno-ustvarilo-dobicek-700357",
+    "image": "https://siol.net/media/img/72/05/b753007f3ac90403734b.jpeg",
+    "date": 1788280020000
+   },
    {
     "title": "Ameriški nakupi nemških podjetij, ki imajo ključna znanja. Kaj se dogaja?",
     "link": "https://siol.net/novice/svet/ameriski-nakupi-nemskih-podjetij-ki-imajo-kljucna-znanja-kaj-se-dogaja-700353",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/odstop-direktorice-zd-ljubljana-zoranu-jankovicu-je-zal-700391",
     "image": "https://siol.net/media/img/6d/cd/a076562659b1adda054e.jpeg",
     "date": 1788276960000
-   },
-   {
-    "title": "Poseben poklon Janji Garnbret v domačem Šmartnem: krožišče s pozlačeno silhueto plezalne kraljice",
-    "link": "https://siol.net/sportal/drugi-sporti/poseben-poklon-janji-garnbret-v-domacem-smartnem-krozisce-s-pozlaceno-silhueto-plezalne-kraljice-700386",
-    "image": "https://siol.net/media/img/0b/81/3ccd5ea7dbe1fda3edff.jpeg",
-    "date": 1788275700000
    }
   ],
   "24ur": [
@@ -79,8 +79,14 @@
   ],
   "rtvslo": [
    {
+    "title": "Trump \"preučuje\" ameriško podporo britanski suverenosti nad Falklandskim otočjem",
+    "link": "https://www.rtvslo.si/svet/trump-preucuje-amerisko-podporo-britanski-suverenosti-nad-falklandskim-otocjem/792524",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/01/67089657.jpg",
+    "date": 1788279777000
+   },
+   {
     "title": "Duševno zdravje otrok: \"Iz leta v leto vse več težjih primerov\"",
-    "link": "https://www.rtvslo.si/slovenija/dusevno-zdravje-otrok-iz-leta-v-leto-vse-vec-tezjih-primerov/792523",
+    "link": "https://www.rtvslo.si/zdravje/dusevno-zdravje-otrok-iz-leta-v-leto-vse-vec-tezjih-primerov/792523",
     "image": "https://img.rtvcdn.si/_up/upload/2024/10/08/66227939.jpg",
     "date": 1788279661000
    },
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/turisti-iz-vec-drzav-tudi-slovenije-na-tajsko-brez-vizuma-le-se-za-30-dni/792515",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/01/67089540.jpg",
     "date": 1788274491000
-   },
-   {
-    "title": "Zverev v prvem krogu proti Sonegu; Ribakino bo izzvala domačinka Frodin",
-    "link": "https://www.rtvslo.si/sport/tenis/teniski-turnirji/zverev-v-prvem-krogu-proti-sonegu-ribakino-bo-izzvala-domacinka-frodin/792514",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67065994.jpg",
-    "date": 1788273780000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Germany says Russia behind Leipzig airport drone attack",
+    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+    "date": 1788280015000,
+    "titleSl": "Nemčija pravi, da Rusija stoji za napadom z droni na letališču Leipzig"
+   },
+   {
     "title": "Celtic sign Parma's Sorensen, with more to come before deadline",
     "link": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea28/live/70af0eb0-a619-11f1-9ca2-a3e18de91b7b.jpg",
@@ -250,18 +257,18 @@
     "titleSl": "Keltski znak Sorensen v Parmi, še več jih bo prišlo pred rokom"
    },
    {
-    "title": "Germany says Russia behind Leipzig airport drone attack",
-    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
-    "date": 1788279228000,
-    "titleSl": "Nemčija pravi, da Rusija stoji za napadom z droni na letališču Leipzig"
-   },
-   {
     "title": "Trump says US position on Falklands 'one of many' under review",
     "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
     "date": 1788279183000,
     "titleSl": "Trump pravi, da je stališče ZDA o Falklandskih otokih \"eno od mnogih\", ki se pregleduje"
+   },
+   {
+    "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel engineer tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg",
+    "date": 1788279078000,
+    "titleSl": "Poplava me je lovila, ko sem tekel 20 minut, je za BBC povedal nepalski predorski inženir"
    },
    {
     "title": "Spaces in male prisons fall to lowest level of year, sources say",
@@ -276,16 +283,30 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/963c/live/66bc8170-a615-11f1-a291-b542ee92de7c.jpg",
     "date": 1788278374000,
     "titleSl": "Družina žaluje za \"globoko ljubljenim\" dekletom, ubitim v požaru v Middlesbroughu"
-   },
-   {
-    "title": "Man City agree £125m fee for Chelsea's Fernandez",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-    "date": 1788278110000,
-    "titleSl": "Man City se strinja s pristojbino v višini 125 milijonov £ za Fernandez v Chelseaju"
    }
   ],
   "aljazeera": [
+   {
+    "title": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/UK-fs-Ed-miliband-horizontal-thumb-1788279133.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788279301000,
+    "titleSl": "Zunanji minister Združenega kraljestva obsoja izraelska naselja na okupiranem Zahodnem bregu"
+   },
+   {
+    "title": "‘No one else like him’: Argentinians rally for Lionel Messi",
+    "link": "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-31T161722Z_667929282_RC2J8Y9TWVV1_RTRMADP_3_SOCCER-ARGENTINA-MESSI-1788276237.jpg?resize=1920%2C1440",
+    "date": 1788278234000,
+    "titleSl": "\"Nihče drug kot on\": Argentinci se zbirajo za Lionela Messija"
+   },
+   {
+    "title": "Iran and Russia vow to stand against US ‘unilateralism’",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iran-and-russia-vow-to-stand-against-us?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788278115.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788278125000,
+    "titleSl": "Iran in Rusija se zavezujeta, da bosta nasprotovala ameriškemu \"unilateralizmu\""
+   },
    {
     "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
@@ -306,27 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788276957.jpg?resize=1920%2C1080&quality=80",
     "date": 1788276968000,
     "titleSl": "Mansouri, ki so ga pretresli izraelski napadi, medtem ko prebivalci spet bežijo"
-   },
-   {
-    "title": "Photos: Nepal begins burying flood victims in mass graves",
-    "link": "https://www.aljazeera.com/gallery/2026/9/1/photos-nepal-buries-flood-victims-in-mass-grave?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T115346Z_973129429_RC2BANAJI1H1_RTRMADP_3_NEPAL-FLOODS-MASSBURIAL-1788263729.jpg?resize=1920%2C1440",
-    "date": 1788276920000,
-    "titleSl": "Fotografije: Nepal začne pokopavati žrtve poplav v množičnih grobiščih"
-   },
-   {
-    "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-    "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2024-04-23T120940Z_306174520_RC2AC7AFSSST_RTRMADP_3_ISRAEL-PALESTINIANS-QATAR-BRIEFING-1788266025.jpg?resize=1819%2C1080",
-    "date": 1788276588000,
-    "titleSl": "Katar pravi, da potekajo prizadevanja za končanje iransko-ameriške vojne in ponovno odprtje Hormuške ožine"
-   },
-   {
-    "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
-    "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T092725Z_671381877_RC25ANALWP4W_RTRMADP_3_ISRAEL-PALESTINIANS-SCHOOLS-1788262641.jpg?resize=1920%2C1440",
-    "date": 1788275986000,
-    "titleSl": "Stavka jeruzalemskih šol, potem ko je Izrael uveljavil učni načrt in prepovedal učiteljem"
    }
   ],
   "guardian": [
@@ -455,6 +455,12 @@
   ],
   "krone": [
    {
+    "title": "Bankzinsen im Check - So verschenken Sie beim Sparen nicht Ihr Geld",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCOEJsdkVmZi1FVE9WdTF4NlBnczdRRDB2UVNLVzBjOVhFWGh5VE4yalpwY0U4QjBhT194WTdNVkpfUQ?oc=5",
+    "image": "",
+    "date": 1788279180000
+   },
+   {
     "title": "Tod von Häftling (19) ++ Tragödie im Whirlpool",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxN0pHWDhtRnBJc2dFd25mZ0FiOGNWQUNLek5Eajd6bkNSYldrN2xkOVlteXlWSDI1dl9hUnN1Q3E0QQ?oc=5",
     "image": "",
@@ -481,12 +487,6 @@
    {
     "title": "Hauch von Nichts - Brooks Nader riskiert im sexy Fummel Busen-Panne",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wcFdmWVlpTHZESk9XNjVpUXc0RVFYb0dER0VIV0FqQ2wzYWJPMmxBZHJkZzFJdDQxNmlyQ1E4S2lMdw?oc=5",
-    "image": "",
-    "date": 1788278400000
-   },
-   {
-    "title": "Freizeitticket Tirol - Wie aus Saisonkarte die größte Verbundkarte wurde",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1hR2ZKX2k1SHcyUE02TGRlelJVVDVQMjM1eE9mT0tYMXpfY09BWG4xTXYtdzNGekF3QUc2ZEFhMEprUQ?oc=5",
     "image": "",
     "date": 1788278400000
    }
