@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T09:18:32.188Z",
+ "generatedAt": "2026-09-02T09:20:48.332Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Anton Rop bo kandidiral za župana Ljubljane",
+    "link": "https://www.24ur.com/novice/slovenija/anton-rop-bo-kandidiral-za-zupana-ljubljane.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/05a545ed8844907f46bb_63641219.jpg?v=6320&fop=fp:0.39:0.31",
+    "date": 1788340711000
+   },
+   {
     "title": "Nizozemec z BMW-jem divjal po avtocesti",
     "link": "https://www.24ur.com/novice/crna-kronika/namesto-130-kar-238-kmh-nizozemec-z-bmw-jem-divjal-po-avtocesti.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2025/3cd36218afa48a101bdc_63476282.jpg?v=2e0e&fop=fp:0.54:0.41",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/crna-kronika/traktor-se-je-prevrnil-51-letna-voznica-umrla-na-kraju-nesrece.html",
     "image": "https://images.24ur.com/media/images/213xX/Apr2024/78547e89629faf7f726c_63218618.jpg?v=2ae2&fop=fp:0.66:0.37",
     "date": 1788339579000
-   },
-   {
-    "title": "Uprli so se Trumpu in postali številka ena",
-    "link": "https://www.24ur.com/novice/znanost-in-tehnologija/uprli-so-se-trumpu-in-postali-stevilka-ena.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/87804f0d425e58551754_63641182.jpg?v=953d&fop=fp:0.31:0.43",
-    "date": 1788339442000
    }
   ],
   "rtvslo": [
@@ -330,13 +330,6 @@
   ],
   "guardian": [
    {
-    "title": "Range Rover launches its first electric vehicle, with starting price of £154,070",
-    "link": "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle",
-    "image": "https://i.guim.co.uk/img/media/0341bfdfd53313630d45c380ba693da6a70af3f6/728_0_4272_3419/master/4272.jpg?width=140&quality=85&auto=format&fit=max&s=2362bd81ce068ad5d50f37ed75ff6854",
-    "date": 1788340103000,
-    "titleSl": "Range Rover predstavlja svoje prvo električno vozilo z začetno ceno 154.070 £"
-   },
-   {
     "title": "Andy Burnham to face first PMQs as borrowing costs rise – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
     "image": "https://i.guim.co.uk/img/media/22264c236f97d8b0afe097891c172e6f9684ce6f/499_0_4415_3532/master/4415.jpg?width=140&quality=85&auto=format&fit=max&s=f62f2d28c1782eb371da7cc2a5f1021c",
@@ -370,6 +363,13 @@
     "image": "https://i.guim.co.uk/img/media/033de6884d460c7e8716c2a91cc0ed742c61f477/285_42_2840_2274/master/2840.jpg?width=140&quality=85&auto=format&fit=max&s=b0535491faa7d47a4f49a2a37f375d99",
     "date": 1788339292000,
     "titleSl": "Globalna razprodaja obveznic se krepi, saj napetosti med ZDA in Iranom povečujejo strah pred inflacijo"
+   },
+   {
+    "title": "Australia news live: NSW police investigating possible mistaken identity after fatal shooting in Sydney’s west",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/8fae3335b5e3af4f9c1bfb011b6dcd2ab1126055/909_0_4796_3837/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=1edb98bbf1f0572f121a1aa402da3b2b",
+    "date": 1788338897000,
+    "titleSl": "Avstralske novice v živo: Policija New Yorka preiskuje morebitno napačno identiteto po streljanju s smrtnim izidom na zahodu Sydneyja"
    }
   ],
   "spiegel": [
@@ -427,6 +427,12 @@
     "date": 0
    },
    {
+    "title": "Pilze richtig transportieren - Warum Plastiktüten beim Pilzesammeln tabu sind",
+    "link": "https://www.bild.de/leben-wissen/lifestyle/pilze-in-plastiktueten-sammeln-darum-ist-es-ein-absolutes-tabu-6a969e2c7a8c285934e6e752",
+    "image": "https://images.bild.de/6a969e2c7a8c285934e6e752/1599a86cfd9597b1fe51eb2157e5f1db,d6833a19?w=1280",
+    "date": 0
+   },
+   {
     "title": "True-Crime-Podcast „IM EINSATZ“ - „Sie war psychisch abhängig von JP Kraemer“",
     "link": "https://www.bild.de/news/inland/podcast-im-einsatz-diese-vorwuerfe-erhebt-jp-kraemers-ehefrau-julia-6a96bb5e518a586e1855f73b",
     "image": "https://images.bild.de/6a96bb5e518a586e1855f73b/c7de1c18fd92c70b370b151ac0ac0fe6,24c5f674?w=1280",
@@ -443,15 +449,16 @@
     "link": "https://www.bild.de/sport/fussball/krass-chemie-leipzig-loest-vertrag-mit-talent-von-lok-leipzig-wieder-auf-6a9694c2d32756d4be19b1fb",
     "image": "https://images.bild.de/6a9694c2d32756d4be19b1fb/d3895604f8c39972774a806089795496,e5e929c0?w=1280",
     "date": 0
-   },
-   {
-    "title": "Gewusst? - Nur diese 3 Menschen dürfen weltweit ohne Pass reisen",
-    "link": "https://www.bild.de/leben-wissen/reisen/gewusst-nur-diese-3-menschen-duerfen-weltweit-ohne-pass-reisen-6a97dd7ba33eb07b679456b3",
-    "image": "https://images.bild.de/6a97dd7ba33eb07b679456b3/906c793e9b32c588086aabb007a28c62,c3f48565?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Ehemann attackiert - Erst Schürhaken, dann Messer: Frau festgenommen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NR3hVQllJRzR5dG5qMVdzS2thZXRjSkVLY0xZckRQc2g4bWNqeXViVHVaTzVXNEp5bk9MenRpdUZUdw?oc=5",
+    "image": "",
+    "date": 1788340140000,
+    "titleSl": "Ehemann Attackiert - Erst Schürhaken, dann Messer: Frau festgenommen"
+   },
    {
     "title": "Crash auf Kreuzung - Motorradpolizist im Einsatz von Linienbus erfasst",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ENVFISWV6ZVFmUHhPeVBtUDFhYlZIYnlNeHo5SFZDRUhMVndTU2lxSG5FeGJRdzRsaTRVZExlRERqUQ?oc=5",
@@ -481,16 +488,16 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLcUw5TGpFZ2JnMGs2S0doUWk1aldzcklYX2ZPUGFlcWF4enNpWEZmQ0hEcnpjUUxwYWt6TGc1TFE5QQ?oc=5",
     "image": "",
     "date": 1788339420000
-   },
-   {
-    "title": "33,4 Millionen Minus - Nächster Pleite-Krimi um Traditionsmarke Simplon",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9NVF9XNkVCTVpCdS1kN3VIT0FKejhJd21vS3FZRVQzY28yMEt4LVB1ZGpFSk52VFBnVXpZS19KdUZLUQ?oc=5",
-    "image": "",
-    "date": 1788339300000,
-    "titleSl": "33,4 milijona minusov - Nächster Pleite-Krimi um Traditionsmarke Simplon"
    }
   ],
   "rainews": [
+   {
+    "title": "Sonego sfiora l&#x27;impresa ma passa Zverev. Musetti batte Fery, Cobolli rimonta 2 set e vince",
+    "link": "https://www.rainews.it/maratona/2026/09/al-via-gli-us-open-new-york-incorona-i-campioni-dellultimo-slam-dellanno-15000f14-a9d1-4b7c-870d-c1196afeedf3.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/02/1788333923159_Happy_to_be_back_in_NYC_See_you_out_there_for_R__.jpg",
+    "date": 1788340800000,
+    "titleSl": "Sonego sfiora l'impresa ma passa Zverev. Musetti batte Fery, Cobolli rimonta 2 set e vince"
+   },
    {
     "title": "Taranto 2026, Tamberi d’oro: Italia da record con 192 medaglie",
     "link": "https://www.rainews.it/maratona/2026/09/xx-edizione-giochi-del-mediterraneosegui-la-diretta-in-straming-su-rainewsit-422ff739-df85-4447-aba0-6bcfdaa150dd.html",
@@ -523,13 +530,6 @@
     "link": "https://www.rainews.it/video/2026/09/esplosione-alla-stazione-di-augusta-le-immagini-dei-sopralluoghi-della-polizia-sul-posto-26b2ccc4-84b0-44b5-93f5-86cc4df60898.html",
     "image": "https://www.rainews.it/dl/img/2026/9/02/1788337413932_vlcsnaphms.png",
     "date": 1788338220000
-   },
-   {
-    "title": "Sonego sfiora l&#x27;impresa ma passa Zverev. Musetti batte Fery, Cobolli rimonta 2 set e vince",
-    "link": "https://www.rainews.it/maratona/2026/09/al-via-gli-us-open-new-york-incorona-i-campioni-dellultimo-slam-dellanno-15000f14-a9d1-4b7c-870d-c1196afeedf3.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/02/1788333923159_Happy_to_be_back_in_NYC_See_you_out_there_for_R__.jpg",
-    "date": 1788337500000,
-    "titleSl": "Sonego sfiora l'impresa ma passa Zverev. Musetti batte Fery, Cobolli rimonta 2 set e vince"
    }
   ],
   "lemonde": [
@@ -574,6 +574,13 @@
   ],
   "elpais": [
    {
+    "title": "La italiana Lottomatica absorbe a la española Cirsa para crear la segunda mayor empresa mundial del juego",
+    "link": "https://cincodias.elpais.com/companias/2026-09-02/la-italiana-lottomatica-absorbe-a-la-espanola-cirsa-para-crear-la-segunda-mayor-empresa-mundial-del-juego.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/MHRFK2LUN5F27O66BYMXKABRSQ.jpg?auth=e7aa3e1c3510392aa56787c8435e7e9aca47b788047501ddb1410ded3db7c46d",
+    "date": 1788340772000,
+    "titleSl": "La italiana Lottomatica absorbe a la española Cirsa para crear la segunda Mayor empresa mundial del juego"
+   },
+   {
     "title": "Condenado el futbolista del Real Madrid Raúl Asencio por conducir ebrio en Gran Canaria",
     "link": "https://elpais.com/deportes/futbol/2026-09-02/condenado-el-futbolista-del-real-madrid-raul-asencio-por-conducir-ebrio-en-gran-canaria.html",
     "image": "https://imagenes.elpais.com/resizer/v2/UIOATMIKHROBTG7JYAK7VWIJ2Q.jpg?auth=e31e9426f2d3a10f24810d38bce480a0dd1059b4f904c4eef93dab1234c1dfe0",
@@ -596,13 +603,6 @@
     "link": "https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html",
     "image": "https://imagenes.elpais.com/resizer/v2/6R5CETP54VALLLUX6MLLIQFZZI.png?auth=21524a518b6d91ca34212a3565e9fcbc486708a45593c6b220a1f582a32291e8",
     "date": 1788336384000
-   },
-   {
-    "title": "La italiana Lottomatica absorbe a la española Cirsa para crear la segunda mayor empresa mundial del juego",
-    "link": "https://cincodias.elpais.com/companias/2026-09-02/la-italiana-lottomatica-absorbe-a-la-espanola-cirsa-para-crear-la-segunda-mayor-empresa-mundial-del-juego.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MHRFK2LUN5F27O66BYMXKABRSQ.jpg?auth=e7aa3e1c3510392aa56787c8435e7e9aca47b788047501ddb1410ded3db7c46d",
-    "date": 1788335108000,
-    "titleSl": "La italiana Lottomatica absorbe a la española Cirsa para crear la segunda Mayor empresa mundial del juego"
    },
    {
     "title": "Prisión sin fianza para la mujer que apuñaló mortalmente a un hombre en un bar de Valencia",
