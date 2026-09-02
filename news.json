@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T03:34:24.729Z",
+ "generatedAt": "2026-09-02T03:36:28.772Z",
  "sources": {
   "siol": [
    {
@@ -202,7 +202,7 @@
     "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
     "link": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html",
     "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01dc-g20-flhm/01dc-g20-flhm-mediumSquareAt3X.jpg",
-    "date": 1788319297000,
+    "date": 1788320069000,
     "titleSl": "Scott Bessent na srečanju G20 Kitajsko obtožuje, da je svet poplavila s poceni izvozom"
    },
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
-    "link": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-7.42.37-PM-1788306323.png?resize=1920%2C1302&quality=80",
-    "date": 1788319361000,
-    "titleSl": "Apple spremeni ime jezera Ontario v \"Lake America\" v aplikaciji Maps"
-   },
-   {
     "title": "Honduran court drops case against ex-President Hernandez after Trump pardon",
     "link": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9763dc0490-1788306396.jpg?resize=1920%2C1440",
@@ -315,11 +308,11 @@
     "titleSl": "Kaj je treba vedeti o obtožbah Nemčije za napad z brezpilotnim letalnikom na Rusijo"
    },
    {
-    "title": "Iran says US bombed a wedding party in Sirik, killing five people",
+    "title": "Iran says US bombed a wedding party in Sirik, killing five",
     "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a976d1b-1788308763.jpg?resize=1200%2C675",
     "date": 1788312895000,
-    "titleSl": "Iran pravi, da so ZDA bombardirale poročno zabavo v Siriku, pri čemer je umrlo pet ljudi"
+    "titleSl": "Iran pravi, da so ZDA bombardirale poročno zabavo v Siriku in ubile pet"
    },
    {
     "title": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9756d2adba5-1788303058.jpg?resize=1920%2C1440",
     "date": 1788312066000,
     "titleSl": "IAEA pravi, da je Sirija pod Al Asadom zgradila jedrski reaktor v Deir Az Zoru"
+   },
+   {
+    "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788311160.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788311179000,
+    "titleSl": "ZDA začenjajo nove napade na Iran, zanikajo svoje baze, ki so bile napadene v Jordaniji"
    }
   ],
   "guardian": [
@@ -577,41 +577,42 @@
   ],
   "elpais": [
    {
+    "title": "La escalada de precios de la energía presiona al Ejecutivo para renovar el escudo anticrisis",
+    "link": "https://elpais.com/economia/2026-09-02/la-escalada-de-precios-de-la-energia-presiona-al-ejecutivo-para-renovar-el-escudo-anticrisis.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/DR5IWBMHIBIJXBQAJVZUFZL7BI.jpg?auth=6900628806777767b8e6284fc0814779bddf1a50a4a6fe98ab2a5be87ec4c945",
+    "date": 1788319801000,
+    "titleSl": "La escalada de precios de la energía presiona al Ejecutivo para renovar el escudo antikriza"
+   },
+   {
+    "title": "Los vecinos de una macrourbanización junto a Doñana abren un nuevo frente para exigir una depuradora",
+    "link": "https://elpais.com/espana/2026-09-02/los-vecinos-de-una-macrourbanizacion-junto-a-donana-abren-un-nuevo-frente-para-exigir-una-depuradora.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VPZKSUHNNZEINADP7YL7VC6CCY.jpg?auth=a50601aa064c9c543a5a0f3e506d4fe0d0c3d2f03fd21536d829e3c51e494e0a",
+    "date": 1788319801000
+   },
+   {
+    "title": "‘Sacrificio de sangre’ y ‘Gloria’, crímenes y boxeo",
+    "link": "https://elpais.com/television/2026-09-02/sacrificio-de-sangre-y-gloria-crimenes-y-boxeo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SGSDAR5YUZFODI3ZCXGBFCQKVA.jpg?auth=00af165d3f2ea1d014bd00c393316d4713e1853e66985995984e8752f2516090",
+    "date": 1788319801000,
+    "titleSl": "„Sacrificio de sangre“ y „Gloria“, crímenes y boxeo"
+   },
+   {
+    "title": "La segunda transición energética",
+    "link": "https://elpais.com/planeta-futuro/2026-09-02/la-segunda-transicion-energetica.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/WQGVJHL4RNDLVJXKQR36TWELFQ.jpg?auth=6827d781d098c21fbd51a9a86f16cefcb458f9b7c49872ca88adc0449acc5312",
+    "date": 1788319801000
+   },
+   {
+    "title": "He probado la botella superventas de Amazon y ahora entiendo por qué acumula más de 60.000 valoraciones",
+    "link": "https://elpais.com/escaparate/estilo-de-vida/probamos-botella-superventas-amazon.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/K52TJQRZ6RFUPJ6FC5PPAPBDCQ.png?auth=935fba7155ff3a5098a6bc3c02c6b4e04799038e90fa98a8537c91074ef7ad79",
+    "date": 1788319800000
+   },
+   {
     "title": "Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura",
     "link": "https://elpais.com/economia/2026-09-02/puente-reestructura-la-cupula-de-transportes-para-acelerar-politicas-verdes-en-el-final-de-la-legislatura.html",
     "image": "https://imagenes.elpais.com/resizer/v2/OTQ3YIJU6NIVPBVJPELRLOPAC4.jpg?auth=b8eaea8d71bfde08e3adf5391352525ca7a039417e4a271958407c974f2b4cab",
     "date": 1788318900000
-   },
-   {
-    "title": "La victoria del malismo",
-    "link": "https://elpais.com/espana/catalunya/2026-09-02/la-victoria-del-malismo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/2IEFZTEJGFBRPNEEEPL6O4BZGI.jpg?auth=f3fc98dd9067bc7cc68923dcad9bc6e6a02e201e9a547cb35587e0648487ce04",
-    "date": 1788318900000
-   },
-   {
-    "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-    "link": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/4N2HSEGYOZGL7G65LGB44VFAWQ.jpg?auth=540f9fe4c1fbc15392efeafd061f951e208a00f952bec642b328b308ac6184c1",
-    "date": 1788317154000
-   },
-   {
-    "title": "Detenido en Bolivia ‘Jhon Pulpo’, jefe de una banda que extendió su red criminal por Sudamérica",
-    "link": "https://elpais.com/america/2026-09-01/detenido-en-bolivia-jhon-pulpo-jefe-de-una-banda-que-extendio-su-red-criminal-por-sudamerica.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260902/1209983_021427_video_1800.mp4",
-    "date": 1788305607000
-   },
-   {
-    "title": "Dani Ceballos regresa al Betis nueve años después",
-    "link": "https://elpais.com/deportes/futbol/2026-09-01/dani-ceballos-regresa-al-betis-nueve-anos-despues.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ECLTSNJMIBAF7KFTWQ2FFKHRXI.jpg?auth=a445c9bef772d2bcf59e56f5553a46949d712956254da103bb6e5757f314a661",
-    "date": 1788305271000
-   },
-   {
-    "title": "Washington defiende su asociación con el empresario Alejandro Betancourt en Venezuela: “No es que queramos pedir la canonización de nadie”",
-    "link": "https://elpais.com/us/2026-09-01/washington-defiende-su-asociacion-con-el-empresario-alejandro-betancourt-en-venezuela-no-es-que-queramos-pedir-la-canonizacion-de-nadie.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/WOZPET7I4BMBLAFEFKVPM7NITA.jpg?auth=fdd7b3bd908c79a5c6a2ca5c645eea4204e5a62c1365831e9bfb7060da9badf9",
-    "date": 1788303748000,
-    "titleSl": "Washington defiende su asociación con el empresario Alejandro Betancourt en Venezuela: \"No es que queramos pedir la canonización de nadie\""
    }
   ]
  },
