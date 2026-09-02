@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-02T06:06:33.007Z",
+ "generatedAt": "2026-09-02T06:08:27.724Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zakaj danes izbiramo delodajalce drugače?",
+    "link": "https://siol.net/novice/financni-nasveti/zakaj-danes-izbiramo-delodajalce-drugace-700362",
+    "image": "https://siol.net/media/img/5d/1b/d76e90d1849f176e5e83.jpeg",
+    "date": 1788329220000
+   },
    {
     "title": "Zverev se je pošteno namučil",
     "link": "https://siol.net/sportal/tenis/op-zda-tenis-3-dan-zverev-cobolli-700334",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/veljati-zacele-spremembe-zakona-o-lokalnih-volitvah-700409",
     "image": "https://siol.net/media/img/ed/01/94b1a0b649ec051602a2.jpeg",
     "date": 1788325980000
-   },
-   {
-    "title": "Legenda je nazaj: Mitsubishi vrača pajero, toda Evrope med trgi še niso omenili #foto",
-    "link": "https://siol.net/avtomoto/novice/legenda-je-nazaj-mitsubishi-vraca-pajero-toda-evrope-med-trgi-se-niso-omenili-foto-700408",
-    "image": "https://siol.net/media/img/6e/b1/c1dbbd4f0a31b0113324.jpeg",
-    "date": 1788325260000
    }
   ],
   "24ur": [
@@ -155,13 +155,6 @@
   ],
   "reuters": [
    {
-    "title": "US, Australia commit $580 million in support for Pacific Islands",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkVlT3hwbmptNlI5TjJpdTBBamVJSmlsbFpKU3BHV0U3QndwSzNTR0c1SVVxOE40S1VodXd1cmZaU25pMk1YNTJEQUhQRzhrRU1TYnpxRWJMMTNJaDItcTF4V28tSzctamlKOHZrXzR2dkVBYUJBUkcwOElhSnlVZE9uM0JfLUZSYS0ya2lwWE13ZFF4T0pkeUpwZlpaY1MtUkxhQVd3?oc=5",
-    "image": "",
-    "date": 1788325511000,
-    "titleSl": "ZDA in Avstralija namenjajo 580 milijonov $ za podporo pacifiškim otokom"
-   },
-   {
     "title": "Bond selloff deepens as inflation, oil prices jolt markets",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
     "image": "",
@@ -195,6 +188,13 @@
     "image": "",
     "date": 1788322409000,
     "titleSl": "Ameriška vojska pravi, da je zaključila najnovejši val napadov na Iran"
+   },
+   {
+    "title": "US, Australia commit $580 million in support for Pacific Islands",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkVlT3hwbmptNlI5TjJpdTBBamVJSmlsbFpKU3BHV0U3QndwSzNTR0c1SVVxOE40S1VodXd1cmZaU25pMk1YNTJEQUhQRzhrRU1TYnpxRWJMMTNJaDItcTF4V28tSzctamlKOHZrXzR2dkVBYUJBUkcwOElhSnlVZE9uM0JfLUZSYS0ya2lwWE13ZFF4T0pkeUpwZlpaY1MtUkxhQVd3?oc=5",
+    "image": "",
+    "date": 1788318240000,
+    "titleSl": "ZDA in Avstralija namenjajo 580 milijonov $ za podporo pacifiškim otokom"
    }
   ],
   "nyt": [
@@ -330,6 +330,27 @@
   ],
   "guardian": [
    {
+    "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+    "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+    "image": "https://i.guim.co.uk/img/media/52efe842cca5785b2f13b82605be6d0460ca734c/741_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ff6e31d932863b2776099b74f66511e7",
+    "date": 1788328825000,
+    "titleSl": "Strokovnjaki ugotavljajo, da se skoraj polovica kmetov na svetu vsako leto zastrupi s pesticidi"
+   },
+   {
+    "title": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
+    "link": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy",
+    "image": "https://i.guim.co.uk/img/media/f0335ba4886636c8fc1fd776203b757ce37aa46e/0_0_4305_3445/master/4305.jpg?width=140&quality=85&auto=format&fit=max&s=8cc22e73c094ecd782e53b69985e0287",
+    "date": 1788328825000,
+    "titleSl": "Ukrajinski filmski ustvarjalec kritizira EU, potem ko je prekinila financiranje Beneškega bienala zaradi polemike z Rusijo"
+   },
+   {
+    "title": "UK must end all trade with Israel, says co-founder of BDS movement",
+    "link": "https://www.theguardian.com/world/2026/sep/02/uk-must-end-all-trade-with-israel-says-co-founder-of-bds-movement",
+    "image": "https://i.guim.co.uk/img/media/0f1949c6d59f53071a1d4389128f79c6e7bef9fe/114_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=3f14c630887165b02d6c74838afba97d",
+    "date": 1788328824000,
+    "titleSl": "Velika Britanija mora končati vso trgovino z Izraelom, pravi soustanovitelj gibanja BDS"
+   },
+   {
     "title": "Queensland police investigate after 5,500 sheep worth $1.7m stolen from farm",
     "link": "https://www.theguardian.com/australia-news/2026/sep/02/queensland-police-investigate-after-5500-sheep-worth-17m-stolen-from-farm-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/4f9f7e2dc825810e1d330af4ccb1d547ef42577b/271_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=5dfe7b3a55961266815bacd6f43ac66c",
@@ -349,27 +370,6 @@
     "image": "https://i.guim.co.uk/img/media/b06cb76a8d1930cd7908c77e28a524a5ece8ed02/671_0_6725_5381/master/6725.jpg?width=140&quality=85&auto=format&fit=max&s=fe8e2e76ce6c0706bca02e3b94a5dca1",
     "date": 1788327942000,
     "titleSl": "Poročanje v sredo: ​Kaj se skriva za globalnim odzivom na podatkovna središča?"
-   },
-   {
-    "title": "Japan halves speed limit to 30km/h on all narrow city streets",
-    "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
-    "image": "https://i.guim.co.uk/img/media/239bad6d4d630d5c23de374c64025bb65a23c595/0_1123_3620_2894/master/3620.jpg?width=140&quality=85&auto=format&fit=max&s=2bcfa64cab661c8716f891c459c56790",
-    "date": 1788326100000,
-    "titleSl": "Japonska prepolovi omejitev hitrosti na 30 km/h na vseh ozkih mestnih ulicah"
-   },
-   {
-    "title": "Jury in Bruce Lehrmann’s Queensland rape trial may face questions about prior knowledge of case",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/02/bruce-lehrmann-queensland-rape-trial-jury-prior-knowledge-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/7260186e1e82568b15bca4789158a45a65fc053d/625_0_4981_3985/master/4981.jpg?width=140&quality=85&auto=format&fit=max&s=0f80b5a0ab975f02071ab09655c00cb3",
-    "date": 1788325328000,
-    "titleSl": "Porota v sojenju za posilstvo Brucea Lehrmanna v Queenslandu se lahko sooči z vprašanji o predhodnem poznavanju primera"
-   },
-   {
-    "title": "British man deported from Sweden despite living there since childhood",
-    "link": "https://www.theguardian.com/world/2026/sep/02/british-man-deported-from-sweden-despite-living-there-since-childhood",
-    "image": "https://i.guim.co.uk/img/media/70d8578212a00fd82f4c8824245e1ff0e02cdbd7/0_865_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=fa3d46edfb7377bcb00b8bf56b0de023",
-    "date": 1788325224000,
-    "titleSl": "Britanec izgnan iz Švedske kljub temu, da je tam živel že od otroštva"
    }
   ],
   "spiegel": [
