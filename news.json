@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T03:36:28.772Z",
+ "generatedAt": "2026-09-02T03:38:24.780Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "\"Sem policist, to je šest indicev, da se vas bom odločil ustaviti\"",
+    "link": "https://www.zurnal24.si/avto/sem-policist-to-je-sest-indicev-da-se-vas-bom-odlocil-ustaviti-464454",
+    "image": "https://www.zurnal24.si/media/img/73/4f/861f5fd62513ff07b3a7.jpeg",
+    "date": 1788320280000
+   },
+   {
     "title": "Citroën BX GTi: francoski štiridesetletnik posebne sorte",
     "link": "https://www.zurnal24.si/avto/citroen-bx-gti-francoski-stiridesetletnik-posebne-sorte-464491",
     "image": "https://www.zurnal24.si/media/img/1b/fc/add42df10f9f314c87fa.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/usoden-padec-na-stajerskem-umrl-46-letnik-464500",
     "image": "https://www.zurnal24.si/media/img/e3/0b/138e93a97cba9fa780cf.jpeg",
     "date": 1788283680000
-   },
-   {
-    "title": "Bivši predsednik zveze priznal, da je z goljufijo prišel do 60 tisočakov",
-    "link": "https://www.zurnal24.si/sport/bivsi-predsednik-zveze-priznal-da-je-z-goljufijo-prisel-do-60-tisocakov-464499",
-    "image": "https://www.zurnal24.si/media/img/a4/91/cc0d55cafc3c4445bca6.jpeg",
-    "date": 1788282840000
    }
   ],
   "reuters": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
+    "link": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-7.42.37-PM-1788306323.png?resize=1920%2C1302&quality=80",
+    "date": 1788319361000,
+    "titleSl": "Apple spremeni ime jezera Ontario v \"Lake America\" v aplikaciji Maps"
+   },
+   {
     "title": "Honduran court drops case against ex-President Hernandez after Trump pardon",
     "link": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9763dc0490-1788306396.jpg?resize=1920%2C1440",
@@ -308,11 +315,11 @@
     "titleSl": "Kaj je treba vedeti o obtožbah Nemčije za napad z brezpilotnim letalnikom na Rusijo"
    },
    {
-    "title": "Iran says US bombed a wedding party in Sirik, killing five",
+    "title": "Iran says US bombed a wedding party in Sirik, killing five people",
     "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a976d1b-1788308763.jpg?resize=1200%2C675",
     "date": 1788312895000,
-    "titleSl": "Iran pravi, da so ZDA bombardirale poročno zabavo v Siriku in ubile pet"
+    "titleSl": "Iran pravi, da so ZDA bombardirale poročno zabavo v Siriku, pri čemer je umrlo pet ljudi"
    },
    {
     "title": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9756d2adba5-1788303058.jpg?resize=1920%2C1440",
     "date": 1788312066000,
     "titleSl": "IAEA pravi, da je Sirija pod Al Asadom zgradila jedrski reaktor v Deir Az Zoru"
-   },
-   {
-    "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788311160.jpg?resize=1920%2C1080&quality=80",
-    "date": 1788311179000,
-    "titleSl": "ZDA začenjajo nove napade na Iran, zanikajo svoje baze, ki so bile napadene v Jordaniji"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "News live: Australians splurging on EVs and not travelling overseas, ABS data shows; economy grows by 2.1% in year to June",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/2db4e5198e2cb657c1855f01959a9df1807fd4a8/306_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5d1e251aa37b30e457929055171993d0",
-    "date": 1788318802000,
+    "date": 1788319449000,
     "titleSl": "Novice v živo: Avstralci se razmetavajo z električnimi vozili in ne potujejo v tujino, kažejo podatki ABS; gospodarstvo se je do junija letos povečalo za 2,1%"
    },
    {
@@ -555,11 +555,10 @@
     "date": 1788314524000
    },
    {
-    "title": "Honduras : l’ex-président Juan Orlando Hernandez blanchi par la justice après sa grâce par Donald Trump",
-    "link": "https://www.lemonde.fr/international/article/2026/09/02/honduras-l-ex-president-juan-orlando-hernandez-blanchi-par-la-justice-apres-sa-grace-par-donald-trump_6763662_3210.html",
-    "image": "https://img.lemde.fr/2026/09/01/46/0/4205/2102/644/322/60/0/c9216b7_ftp-1-4mxr0z6wd08t-0346ff1f3c7141ebbbf84b6525eb270a-0-5349f62772f94d70bfd060948f18c71b.jpg",
-    "date": 1788310736000,
-    "titleSl": "Honduras : l'ex-président Juan Orlando Hernandez blanchi par la justice après sa grâce par Donald Trump"
+    "title": "Au Nicaragua, une réforme du président Ortega exclut les opposants des élections et porte le mandat présidentiel de six à sept ans",
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/au-nicaragua-la-reforme-du-president-ortega-exclut-les-opposants-des-elections-et-porte-le-mandat-presidentiel-de-six-a-sept-ans_6763695_3210.html",
+    "image": "https://img.lemde.fr/2026/09/02/347/0/3188/1594/644/322/60/0/88000d3_ftp-1-nfi1vzntcofk-5974285-01-06.jpg",
+    "date": 1788312428000
    },
    {
     "title": "Après la séquence de cyberattaques par des IA en test, OpenAI va « bientôt » lancer son modèle de pointe, Astra, mais corseté",
