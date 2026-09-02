@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-02T13:30:59.851Z",
+ "generatedAt": "2026-09-02T13:32:31.526Z",
  "sources": {
   "siol": [
+   {
+    "title": "Arso: Česa takega v Sloveniji še nismo videli",
+    "link": "https://siol.net/novice/slovenija/arso-cesa-takega-v-sloveniji-se-nismo-videli-700470",
+    "image": "https://siol.net/media/img/50/76/6b28ad757d9e89ffa28b.jpeg",
+    "date": 1788355860000
+   },
    {
     "title": "Uradno: Petar Stojanović spet v dresu Maribora",
     "link": "https://siol.net/sportal/nogomet/nogometna-trznica-2-september-2026-700419",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/svet-ukc-ljubljana-z-mesta-generalnega-direktorja-razresil-marka-juga-700464",
     "image": "https://siol.net/media/img/ed/26/af511360201eebf4d054.jpeg",
     "date": 1788353460000
-   },
-   {
-    "title": "Envy: Peugeot 208 in 2008 še z več sloga",
-    "link": "https://siol.net/avtomoto/novice/envy-peugeot-208-in-2008-se-z-vec-sloga-700448",
-    "image": "https://siol.net/media/img/bc/29/d31034db69179d360d85.jpeg",
-    "date": 1788352920000
    }
   ],
   "24ur": [
@@ -153,15 +153,51 @@
     "date": 1788347760000
    }
   ],
-  "reuters": [],
-  "nyt": [
+  "reuters": [
    {
-    "title": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
-    "link": "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html",
-    "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01met-victims-01-khqb/01met-victims-01-khqb-mediumSquareAt3X.jpg",
-    "date": 1788355767000,
-    "titleSl": "Ženska, ki je bila ubita na Times Squareu, je bila identificirana kot podpredsednica Bank of America"
+    "title": "China's Xi urges new Middle East security framework during Egypt visit",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZS1HRXhpY18xZjJMeV8tOU5UcFVxOFkzSVRKT3ZSR1Myak1oRHZZN081aVY2MldCemZNa1c0U1hKaUtyOHRJaUVjb0U0S2xCWC14cGIyN2QxQzVzVFhfZl85dkhRdFZtMjBCeGVpV2lQQ0g5alBZVnFiUGg5MDkzdDF3eGozTkg4Sm9kc2FIcHZNbXA3TVZoLW4zZ001ejY1UWFaOVdB?oc=5",
+    "image": "",
+    "date": 1788353993000,
+    "titleSl": "Kitajski predsednik Xi med obiskom v Egiptu poziva k novemu bližnjevzhodnemu varnostnemu okviru"
    },
+   {
+    "title": "Good chance that trapped workers are still alive in Nepal hydropower plant, official says",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZPXzQxWXM4RUJQaEJBandibmgtV2xrc1RGSXBiUTZ0cmZwYTQxN21KNVlhVVY3V0hEZ0FpYTVWbnNta09ReTNwWGJaMnRrbTlDeU9xQlBTQlJUdXRjUWNWLWdxQkJHOVhpZ0hRZ1JOeDFUYzZWaXhucG9sd29UeDdWVjc0aVBSSWZhQ3VNMTVjOV9ycFVzRzJYTnpOTFJVb0hFYTR4XzBfdGJmeThNUV9zMGVjcHhRcEJMMmd6UmtkRjYtVmhj?oc=5",
+    "image": "",
+    "date": 1788353985000,
+    "titleSl": "Velika verjetnost, da so ujeti delavci še vedno živi v nepalski hidroelektrarni, pravi uradnik"
+   },
+   {
+    "title": "Rising Treasury yields could rattle US stocks as earnings season ends",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5",
+    "image": "",
+    "date": 1788353291000,
+    "titleSl": "Naraščajoči donosi državnih obveznic bi lahko pretresli ameriške delnice, ko se konča sezona zaslužkov"
+   },
+   {
+    "title": "Chevron expands Venezuela bet with $7 billion plan to double output in five years",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
+    "image": "",
+    "date": 1788351901000,
+    "titleSl": "Chevron razširi stavo v Venezueli z načrtom v višini 7 milijard $ za podvojitev proizvodnje v petih letih"
+   },
+   {
+    "title": "Gold falls to lowest in more than three weeks on stronger dollar and inflation risks",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
+    "image": "",
+    "date": 1788351625000,
+    "titleSl": "Zlato pade na najnižjo raven v več kot treh tednih zaradi močnejšega dolarja in inflacijskih tveganj"
+   },
+   {
+    "title": "From street names to supply chains, Canadians pull away from US as rift grows",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl91c3ctMThSR18yUGRXLTlrdkpueHBUZHRHNTloRHdmWFlmZTZHLW5OeGVZWXZOTGhjQVdLeGZsYXhNd2J5Z2xIRjFLRlBzT3NCRFlqTFRxb0JkLWxaNzNOUmVuN0x4RWY5czV3a1hyNWdzX1MzR1lKb1g5QTIydVljbThpOWJOTE5mM2pTa18tZ1NINWZoVktVc21IZ3lVbFVNTUlwN00?oc=5",
+    "image": "",
+    "date": 1788351246000,
+    "titleSl": "Kanadčani se od uličnih imen do dobavnih verig odmikajo od nas, ko narašča razkol"
+   }
+  ],
+  "nyt": [
    {
     "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
     "link": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html",
@@ -184,6 +220,13 @@
     "titleSl": "Šel sem na Princeton, da bi postal tako-tako Indijanec"
    },
    {
+    "title": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
+    "link": "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html",
+    "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01met-victims-01-khqb/01met-victims-01-khqb-mediumSquareAt3X.jpg",
+    "date": 1788353923000,
+    "titleSl": "Ženska, ki je bila ubita na Times Squareu, je bila identificirana kot podpredsednica Bank of America"
+   },
+   {
     "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
     "link": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02iran-US-Strikes-01-hpkv/02iran-US-Strikes-01-hpkv-mediumSquareAt3X.jpg",
@@ -203,7 +246,7 @@
     "title": "Woods banned from driving for five years after March's crash arrest",
     "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0c8/live/b24f0110-a6cb-11f1-b0c9-07afcdd8053c.jpg",
-    "date": 1788355581000,
+    "date": 1788355892000,
     "titleSl": "Gozdovi so po marčevski aretaciji prepovedali vožnjo za pet let"
    },
    {
@@ -288,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Four in court after baby stabbed to death in Sheffield",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/02/charged-newborn-baby-stabbed-death-sheffield",
-    "image": "https://i.guim.co.uk/img/media/6e1751c11d74e05105ba2eb8a675b2838cbdca58/59_866_1477_1182/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=b0f0a183c2e5a3e475a9960dc0e01979",
-    "date": 1788354986000,
-    "titleSl": "Štirje na sodišču, potem ko je dojenček zaboden do smrti v Sheffieldu"
+    "title": "‘Timidity is a virus’: Paul Keating fights the fading of the light as he seeks to enshrine his legacy",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/02/timidity-is-a-virus-paul-keating-fights-the-fading-of-the-light-as-he-seeks-to-enshrine-his-legacy",
+    "image": "https://i.guim.co.uk/img/media/e4c8444a529e4bb28f6e09ca3b39d1032138d4a1/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dcd9060e5b2c792b5210b1fd0be8501d",
+    "date": 1788355490000,
+    "titleSl": "\"Plahost je virus\": Paul Keating se bori proti izginjanju svetlobe, ko poskuša ohraniti svojo zapuščino"
    },
    {
     "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/39b009bb00a81a03ec0a41fc5abe236eca0fc968/158_0_1531_1225/master/1531.jpg?width=140&quality=85&auto=format&fit=max&s=d67111adfea0d0e6530d83699342e52a",
-    "date": 1788354671000,
+    "date": 1788355459000,
     "titleSl": "Rusija vse bolj nepremišljena, pravi Natova Rutte, medtem ko Nemčija krivi Moskvo za incident z dronom v Leipzigu – Evropa v živo"
+   },
+   {
+    "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI",
+    "link": "https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting",
+    "image": "https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&quality=85&auto=format&fit=max&s=dd084ea8eff0a89d37edf644c6807fce",
+    "date": 1788355377000,
+    "titleSl": "Žrtve množičnega streljanja Tumbler Ridge vložijo 30 novih tožb proti OpenAI"
+   },
+   {
+    "title": "Four in court after newborn baby girl stabbed to death in Sheffield",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/02/charged-newborn-baby-stabbed-death-sheffield",
+    "image": "https://i.guim.co.uk/img/media/6e1751c11d74e05105ba2eb8a675b2838cbdca58/59_866_1477_1182/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=b0f0a183c2e5a3e475a9960dc0e01979",
+    "date": 1788354986000,
+    "titleSl": "Štirje na sodišču po tem, ko je novorojena deklica zabodena do smrti v Sheffieldu"
    },
    {
     "title": "Hakeem Jeffries vows ‘serious response’ after two House Democrats vote with Republicans – US politics live",
@@ -314,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/7dfc2c0eb8c5bf3ce5856085ec6e62262aa75ec9/0_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=3543fd3affda0d3fb974362bc42dc337",
     "date": 1788353963000,
     "titleSl": "Švedski minister zagovarja strogo odstranitev Britancev po brexitu"
-   },
-   {
-    "title": "US woman gets 38 stitches after being bitten by otter in Lake Tahoe",
-    "link": "https://www.theguardian.com/us-news/2026/sep/02/lake-tahoe-otter-attack",
-    "image": "https://i.guim.co.uk/img/media/8bfa5db7fe047998eefe16ea54973bface04b980/729_755_3341_2673/master/3341.jpg?width=140&quality=85&auto=format&fit=max&s=9633e03f50bedcd67b4e7681a5351f0c",
-    "date": 1788353745000,
-    "titleSl": "Američanka dobi 38 šivov, potem ko jo je ugriznila vidra v jezeru Tahoe"
-   },
-   {
-    "title": "Andy Burnham pressed on borrowing costs and spending at first PMQs – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/f89dcc944b11e120270f68907c76b430c496ed95/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=4c48c1f90ccd3872c93d826ac7ca3c02",
-    "date": 1788353266000,
-    "titleSl": "Andy Burnham je pritisnil na stroške izposojanja in porabo na prvih PMQ - politika Združenega kraljestva v živo"
    }
   ],
   "spiegel": [
@@ -372,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Ermittler prüfen mögliches Sexritual - Mann nach Hamster-Massaker verhaftet",
+    "link": "https://www.bild.de/news/ausland/japan-mann-soll-50-hamster-in-liebeshotels-getoetet-haben-6a97a94e518a586e18560367",
+    "image": "https://images.bild.de/6a97a94e518a586e18560367/9bd5290019c4078e16ea936af12cc82e,2464e83a?w=1280",
+    "date": 0
+   },
+   {
     "title": "Panik um Millionen-Karte - Post Malone bringt Sammlerstück in Gefahr",
     "link": "https://www.bild.de/unterhaltung/bildgg/post-malone-er-setzt-sammelkarte-mit-millionenwert-aufs-spiel-6a8577e83f3b2550f6df4732",
     "image": "https://images.bild.de/6a8577e83f3b2550f6df4732/0aac0c8254872f229d955280dd50db47,51a60c3?w=1280",
@@ -401,27 +450,58 @@
     "image": "https://images.bild.de/6a9812519452c522382315e8/e01ad5fdf04949a4974a91720c781f84,ecd6f290?w=1280",
     "date": 0,
     "titleSl": "Medienbericht - Zwei Drohnen-Bomber von Leipzig identiziert"
-   },
-   {
-    "title": "Ex-Bundestrainerin geht in die Schweiz - Ära Tecklenburg bei Fortuna beendet",
-    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-aera-tecklenburg-beendet-6a98190f9452c52238231727",
-    "image": "https://images.bild.de/6a98190f9452c52238231727/7de127a1aafd790d8ba32274308eef59,78499fea?w=1280",
-    "date": 0
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Aufsteirern-Bieranstich - Krone-Vorteilswelt",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hU2diWU83SUNxU0MwWlZlSUZoem9tUzNDd0NwVjUxTU1nNEx1NXJSakRhS1NqQTR1X212QVhId2J4U1o2QmtzTXNlb0RyLXNFMDZhYS1SV2M5VjJsQUk5a1FENDZlc0ZCaXBKb1E0NnQ?oc=5",
+    "image": "",
+    "date": 1788354944000
+   },
+   {
+    "title": "„Eine Kakistokratie“ - Venedig: George Clooney kritisiert US-Regierung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16Qmt6akhTMEhKa2FpeFB6OHpCYzlyZnNwdzNhWVJVdmZnSDdtcFN2LWZ0Ykk0R1piUGZhSUZEXzlRQQ?oc=5",
+    "image": "",
+    "date": 1788354600000
+   },
+   {
+    "title": "Die Ziele sind hoch - Salzburgs Handballer legten Grundstein für Erfolg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WQ0RVTHY5aFFkbVFXVnJ2THFjc1N6RHVhT1pkTzkyV2x5WjBGZ2IxaExHQUpGZWJablI2cnp4ZlhZZw?oc=5",
+    "image": "",
+    "date": 1788354000000
+   },
+   {
+    "title": "Sanierung oder Abriss - Lokal schließt: Große Park-Pläne nach Pizzeria-Aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yTlFKTEdyZW1CdDZuU20zRkJoLVBmRmk5WkVQbUFwU1Y0RWFEcC1wMmw4LVlmU0NIbzZJWXAyOTJZUQ?oc=5",
+    "image": "",
+    "date": 1788354000000
+   },
+   {
+    "title": "Event rückt näher - Fest der Volkskultur: Zwei Sessel zum „Zaumhaltn“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Ed1llU1B6cUZCQkcxOHpuUmYwWUpfaXNDUkd3YWFkell5SGtrSDJ1bVA4VF9PYS1qUlpvMGRoVEVIZw?oc=5",
+    "image": "",
+    "date": 1788354000000
+   },
+   {
+    "title": "Vertriebene fassen Fuß - Neues Leben: Ein Stück Ukraine mitten in Graz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKRllVMDVZdnp0U1FhcFZVOWF4SUZ3eXZzZW5wUVVKaURPMjRFNU1FUVdWaWduOXJLakFremRjLWl2UQ?oc=5",
+    "image": "",
+    "date": 1788354000000
+   }
+  ],
   "rainews": [
+   {
+    "title": "Coppa Italia: in campo Sassuolo-Frosinone e alle 18 Udinese-Venezia",
+    "link": "https://www.rainews.it/maratona/2026/09/calcio-coppa-italia-2026-2027-3b28a5a0-a5b2-4c92-ba57-87bba4007f3e.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/02/1788355233876_medium.jpg",
+    "date": 1788355920000
+   },
    {
     "title": "Valter Lavitola schiaffeggiato da alcuni detenuti in carcere a Rebibbia. I legali: \"Sta bene\"",
     "link": "https://www.rainews.it/articoli/2026/09/valter-lavitola-aggredito-in-carcere-a-rebibbia-sarebbe-stato-schiaffeggiato-da-alcuni-detenuti-c55adea7-d9e8-4030-b936-f0697ef7cc2e.html",
     "image": "https://www.rainews.it/dl/img/2026/07/06/1783369652538_rainewscaceffcccffdf.jpg",
     "date": 1788354300000
-   },
-   {
-    "title": "Coppa Italia: in campo Sassuolo-Frosinone e alle 18 Udinese-Venezia",
-    "link": "https://www.rainews.it/maratona/2026/09/calcio-coppa-italia-2026-2027-3b28a5a0-a5b2-4c92-ba57-87bba4007f3e.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/02/1788346271538_MapeiStadium.jpeg",
-    "date": 1788354240000
    },
    {
     "title": "Taranto 2026, Tamberi d’oro. Medagliere record: l&#x27;Italia supera il primato di Bari 1997",
@@ -452,11 +532,25 @@
   ],
   "lemonde": [
    {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev prévient les instances internationales que « l’espace aérien russe n’est pas sûr »",
+    "link": "https://www.lemonde.fr/international/live/2026/09/02/en-direct-guerre-en-ukraine-kiev-previent-les-instances-internationales-que-l-espace-aerien-russe-n-est-pas-sur_6760568_3210.html",
+    "image": "https://img.lemde.fr/2026/08/24/378/0/4541/2270/644/322/60/0/4b7b4aa_ftp-1-1tmbmelphbpo-ff4a055e87e14abc953aa891a6d93815-0-363a64cdcc7d48818c31610b4c570afc.jpg",
+    "date": 1788355775000,
+    "titleSl": "EN DIRECT, guerre en Ukraine : Kiev prévient les instances internationales que « l 'espace aérien russe n' est pas sûr »"
+   },
+   {
     "title": "Les Pays-Bas transfèrent 86 tonnes d’or des Etats-Unis et du Canada vers le Royaume-Uni, invoquant « l’instabilité géopolitique croissante »",
     "link": "https://www.lemonde.fr/economie/article/2026/09/02/les-pays-bas-transferent-86-tonnes-d-or-des-etats-unis-et-du-canada-vers-le-royaume-uni-invoquant-l-instabilite-geopolitique-croissante_6764385_3234.html",
     "image": "https://img.lemde.fr/2026/09/02/230/0/4323/2161/644/322/60/0/5df0b2e_upload-1-vtqx3f0r2blz-000-was6826804.jpg",
     "date": 1788354320000,
     "titleSl": "Les Pays-Bas transfèrent 86 tons d'or des Etats-Unis et du Canada vers le Royaume-Uni, invoquant « l'instabilité géopolitique croissante »"
+   },
+   {
+    "title": "« La trajectoire d’Edouard Balladur offre un certain nombre de leçons aux prétendants d’aujourd’hui »",
+    "link": "https://www.lemonde.fr/politique/article/2026/09/02/la-trajectoire-d-edouard-balladur-offre-un-certain-nombre-de-lecons-aux-pretendants-d-aujourd-hui_6764384_823448.html",
+    "image": "https://img.lemde.fr/2026/09/02/774/0/1658/829/644/322/60/0/db3a464_upload-1-liod9i6b1b5n-000-par2004012276582.jpg",
+    "date": 1788354009000,
+    "titleSl": "« La trajectoire d 'Edouard Balladur offre un certain nombre de leçons aux prétendants d' aujourd 'hui »"
    },
    {
     "title": "Fibre Excellence : la région Occitanie appelle l’Etat à la rescousse et demande une nationalisation temporaire du papetier",
@@ -478,29 +572,21 @@
     "image": "https://img.lemde.fr/2026/08/26/565/0/5774/2887/644/322/60/0/fcf4a55_ftp-1-pksbvohbsnr9-5926164-01-06.jpg",
     "date": 1788350772000,
     "titleSl": "Au Venezuela, Chevron obtient de nouveaux gisements de pétrole alors que le ministre de l'énergie américain est en visite dans le pays"
-   },
-   {
-    "title": "« J’ai su profiter des taux faibles, je gagne de l’argent dans cette affaire » : le T3 d’Alexandre, jeune banquier, à Valenciennes",
-    "link": "https://www.lemonde.fr/campus/article/2026/09/02/j-ai-su-profiter-des-taux-faibles-je-gagne-de-l-argent-dans-cette-affaire-le-t3-d-alexandre-jeune-banquier-a-valenciennes_6764370_4401467.html",
-    "image": "https://img.lemde.fr/2026/07/01/901/0/4252/2126/644/322/60/0/6b9feaa_upload-1-xf039hydsh61-ouhabitestuvalenciennes-17.JPG",
-    "date": 1788346809000,
-    "titleSl": "« J'ai su profiter des taux faibles, je gagne de l' argent dans cette affaire » : le T3 d'Alexandre, jeune banquier, à Valenciennes"
-   },
-   {
-    "title": "En Allemagne, les autorités ouvrent une enquête antiterroriste après une explosion près d’une centrale thermique dans l’est du pays",
-    "link": "https://www.lemonde.fr/international/article/2026/09/02/en-allemagne-les-autorites-ouvrent-une-enquete-antiterroriste-apres-une-explosion-pres-d-une-centrale-thermique-dans-l-est-du-pays_6764369_3210.html",
-    "image": "https://img.lemde.fr/2026/09/02/375/0/6000/3000/644/322/60/0/f34d346_ftp-1-fqwpazb7n7jh-2722c2288be54bd0af9878227e646377-0-e0f48d5b36bc4470b81577b923fce385.jpg",
-    "date": 1788346719000,
-    "titleSl": "En Allemagne, les autorités ouvrent une enquête antiterroriste après une explosion près d'une centrale thermique dans l' est du pays"
    }
   ],
   "elpais": [
    {
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El director de la Policía asegura a Marlaska que el informe no “atribuye a Marruecos la planificación” de la crisis migratoria",
     "link": "https://elpais.com/espana/2026-09-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/3WOUIFB64FEWDMAFD55AEOE22Y.jpg?auth=6a6ec24a62444ede588fff907ffb061594e01f1b60aa8a302a4b11fbb484eb49",
-    "date": 1788355410000,
+    "image": "https://imagenes.elpais.com/resizer/v2/PEGJ7ADOLVFPTOHZWESBN5NR64.jpg?auth=f8c518b10c1b631c740ca8a6103bfce8ecc60414f2bd3ef17c5c6d1f6b694b09",
+    "date": 1788355954000,
     "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El director de la Policía asegura a Marlaska que el informe no \"atribuye a Marruecos la planificación\" de la crisis migratoria"
+   },
+   {
+    "title": "Las parejas de ‘La isla de las tentaciones 11′ incluyen un Borbón",
+    "link": "https://elpais.com/television/2026-09-02/las-parejas-de-la-isla-de-las-tentaciones-11-incluyen-un-borbon.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/4JZGASSWVZHDHHRQOLGWLLSBLE.webp?auth=08ed0dca7d038f51fbb68802fa562747d61f65497a4b185e51563eda631f2fcb",
+    "date": 1788354907000
    },
    {
     "title": "El COAM anuncia que convocará nuevas elecciones para salir de la crisis institucional que ya dura más de una año",
@@ -526,13 +612,6 @@
     "link": "https://cincodias.elpais.com/companias/2026-09-02/telefonica-cierra-la-venta-de-su-historica-sede-en-gran-via-a-tomas-olivo-por-mas-de-200-millones.html",
     "image": "https://imagenes.elpais.com/resizer/v2/4FXOFYAMNFCDDAJ5NFOHOS4DX4.png?auth=1fc1e9826042a1946b6b896d00f7c7da82b83e5f0052e0197c1655020edcf917",
     "date": 1788352538000
-   },
-   {
-    "title": "Maggie Gyllenhaal, presidenta del jurado del Festival de Venecia: “Existe un problema sistémico” que perjudica a las directoras",
-    "link": "https://elpais.com/cultura/cine/2026-09-02/maggie-gyllenhaal-presidenta-del-jurado-del-festival-de-venecia-existe-un-problema-sistemico-que-perjudica-a-las-directoras.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZHDEQI4SCVJEDHMIVT4XBKU3JM.jpg?auth=b8b82250cb20ec3c7230c82bc9520bf438393886a188061100657d09f0ba4961",
-    "date": 1788352088000,
-    "titleSl": "Maggie Gyllenhaal, Presidenta del jurado del Festival de Venecia: \"Existe un problema sistémico\" que perjudica a las directoras"
    }
   ]
  },
