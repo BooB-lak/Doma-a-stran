@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-02T05:50:40.982Z",
+ "generatedAt": "2026-09-02T05:52:28.497Z",
  "sources": {
   "siol": [
+   {
+    "title": "Putin nemške ukrepe proti Rusiji po incidentu z dronom označil za napako",
+    "link": "https://siol.net/novice/svet/putin-nemske-ukrepe-proti-rusiji-po-incidentu-z-dronom-oznacil-za-napako-700411",
+    "image": "https://siol.net/media/img/ee/41/1ad96e6b2528c7f98f6c.jpeg",
+    "date": 1788327960000
+   },
    {
     "title": "Strokovnjak o nesreči: Varnostna razdalja pri 150 kilometrih na uro je bila premajhna",
     "link": "https://siol.net/novice/slovenija/strokovnjak-o-nesreci-varnostna-razdalja-pri-150-kilometrih-na-uro-je-bila-premajhna-700407",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/naj-planinska-koca/postarski-dom-na-vrsicu-izlet-z-razgledi-na-julijske-alpe-699671",
     "image": "https://siol.net/media/img/6c/7c/9fe621e15c252f375b39.jpeg",
     "date": 1788322500000
-   },
-   {
-    "title": "DZ o imuniteti Goloba za nadaljevanje postopkov v zadevi Bobnar",
-    "link": "https://siol.net/novice/slovenija/dz-o-imuniteti-goloba-za-nadaljevanje-postopkov-v-zadevi-bobnar-700404",
-    "image": "https://siol.net/media/img/3d/3d/1819b758a3ff5b56b629.jpeg",
-    "date": 1788322380000
    }
   ],
   "24ur": [
@@ -286,13 +286,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Palestinian artist Saint Levant delays tour amid US visa complications",
-    "link": "https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a97ae2ddd-1788325421.jpg?resize=1920%2C1440",
-    "date": 1788327193000,
-    "titleSl": "Palestinski umetnik Saint Levant zaradi zapletov z vizumi v ZDA zamuja z ogledom"
-   },
-   {
     "title": "Syria’s restrained approach to Israel carries risks",
     "link": "https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-23T225356Z_2015578359_RC2M4NA1AE72_RTRMADP_3_SYRIA-ISRAEL-1788325567.jpg?resize=1920%2C1440",
@@ -326,6 +319,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a958dc596954-1788186053.jpg?resize=1920%2C1440",
     "date": 1788321668000,
     "titleSl": "Tunizijska civilna družba se sooča z vse večjim pritiskom, ko se zatiranje širi"
+   },
+   {
+    "title": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US",
+    "link": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-01-182507-1788301545.png?resize=1200%2C675",
+    "date": 1788319943000,
+    "titleSl": "\"Res prestrašen\": Milo Yiannopoulos spregovori po deportaciji iz ZDA"
    }
   ],
   "guardian": [
@@ -454,17 +454,17 @@
   ],
   "krone": [
    {
+    "title": "Wagt neuen Anlauf - Trump will härter gegen Geburtstourismus vorgehen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3X0xuSW1Cd3pRYVlCLWtPWk1SRVNIRW5rWm5xN0NtYVR0dmxmYUxmYldVdC05dXppd0I1ZDhpWml1Zw?oc=5",
+    "image": "",
+    "date": 1788328140000,
+    "titleSl": "Wagt neuen Anlauf - Trump bo härter gegen Geburtstourismus vorgehen"
+   },
+   {
     "title": "Tragischer Unfall - 47-Jähriger prallt mit Auto gegen Steinmauer – tot",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBsQW9JOGpXRmpmaWxITHE5YmVfS0FUTWxFUk95aXNMSHdETThEWmc4YWlocm5xOS00WW54SXJ6Tjh4UQ?oc=5",
     "image": "",
     "date": 1788328020000
-   },
-   {
-    "title": "Wagt neuen Anlauf - Trump will härter gegen Geburtstourismus vorgehen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3X0xuSW1Cd3pRYVlCLWtPWk1SRVNIRW5rWm5xN0NtYVR0dmxmYUxmYldVdC05dXppd0I1ZDhpWml1Zw?oc=5",
-    "image": "",
-    "date": 1788327960000,
-    "titleSl": "Wagt neuen Anlauf - Trump bo härter gegen Geburtstourismus vorgehen"
    },
    {
     "title": "Findet er neuen Klub? - Vertrag aufgelöst! Tiefschlag für Ex-Bayern-Juwel",
@@ -548,11 +548,11 @@
     "date": 1788324225000
    },
    {
-    "title": "Voile, retraites : le malaise perceptible de Jordan Bardella vis-à-vis du programme présidentiel de Marine Le Pen",
+    "title": "Jordan Bardella mal à l’aise pour défendre le programme présidentiel de Marine Le Pen sur le voile et les retraites",
     "link": "https://www.lemonde.fr/politique/article/2026/09/02/voile-retraites-le-malaise-perceptible-de-jordan-bardella-vis-a-vis-du-programme-presidentiel-de-marine-le-pen_6763870_823448.html",
     "image": "https://img.lemde.fr/2026/08/29/154/0/3000/1500/644/322/60/0/2abfcd0_upload-1-pj2jzbdxx640-asurp-lm-rn-bardellafoirechalons-108860.jpg",
-    "date": 1788321621000,
-    "titleSl": "Voile, retraites : le malaksalost zaznavna de Jordan Bardella vis-à-vis du programme présidentiel de Marine Le Pen"
+    "date": 1788321620000,
+    "titleSl": "Jordan Bardella mal à l'aise pour défendre le programme présidentiel de Marine Le Pen sur le voile et les retraites"
    },
    {
     "title": "En Belgique, les brasseurs en croisade contre le nouveau slogan de prévention contre l’alcool",
