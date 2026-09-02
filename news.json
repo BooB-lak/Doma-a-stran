@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T16:01:10.904Z",
+ "generatedAt": "2026-09-02T16:02:27.118Z",
  "sources": {
   "siol": [
    {
@@ -123,6 +123,12 @@
     "date": 1788363840000
    },
    {
+    "title": "Netanjahu: Ne bomo se umaknili iz Gaze",
+    "link": "https://www.zurnal24.si/svet/netanjahu-ne-bomo-se-umaknili-iz-gaze-464565",
+    "image": "https://www.zurnal24.si/media/img/eb/5f/5565eea44baa075044e5.jpeg",
+    "date": 1788362520000
+   },
+   {
     "title": "Pripravljen nov interventni zakon, vlada na pomoč avtoprevoznikom in kmetom",
     "link": "https://www.zurnal24.si/slovenija/pripravljen-nov-interventni-zakon-vlada-na-pomoc-avtoprevoznikom-in-kmetom-464562",
     "image": "https://www.zurnal24.si/media/img/b9/e8/68c63f487b67b33edd03.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/nogomet/po-pol-leta-v-brinju-enej-marsetic-odsel-na-cesko-brinje-grosuplje-slovan-liberec-464559",
     "image": "https://www.zurnal24.si/media/img/cb/75/0a93d0315586c561d246.jpeg",
     "date": 1788359040000
-   },
-   {
-    "title": "Pozor, ta igrača je nevarna, vrnite jo na mesto nakupa!",
-    "link": "https://www.zurnal24.si/zdravje/s-polic-umikajo-nevarno-igraco-vrnite-jo-na-mesto-nakupa-464558",
-    "image": "https://www.zurnal24.si/media/img/98/c2/7fddd2116047cbc80ad3.jpeg",
-    "date": 1788357240000
    }
   ],
   "reuters": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-16.41.28-1788363845.png?resize=1200%2C630",
-    "date": 1788363954000,
-    "titleSl": "Izraelski premier Netanjahu v Gazi: \"Ne umikamo se\""
-   },
-   {
-    "title": "China’s Xi urges new Middle East security framework during rare Egypt visit",
-    "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260902__C76B4ZT__v1__HighRes__EgyptChinaPoliticsDiplomacy-1788358904.jpg?resize=1920%2C1440",
-    "date": 1788363721000,
-    "titleSl": "Kitajski predsednik Xi poziva k novemu varnostnemu okviru na Bližnjem vzhodu med redkim obiskom v Egiptu"
-   },
-   {
     "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
     "link": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-04-26T183243Z_1384602915_UP1EM4Q1FIHB4_RTRMADP_3_SOCCER-FRANCE-OM-NIC-1788359742.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260814__C4P67WE__v2__MidRes__UkraineRussiaConflict-1788347329.jpg?resize=1200%2C630",
     "date": 1788360916000,
     "titleSl": "Ali lahko ukrajinski brezpilotni zrakoplovi zaprejo ruski zračni prostor? Kaj to pomeni za letalske prevoznike"
+   },
+   {
+    "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-15.41.13-1788360211.png?resize=1200%2C675",
+    "date": 1788360326000,
+    "titleSl": "Delavec civilne zaščite v Gazi pod ruševinami najde 21 sorodnikov"
+   },
+   {
+    "title": "How Trumpism is changing the world",
+    "link": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8c6d008b28-1787587840.jpg?resize=1920%2C1440",
+    "date": 1788358517000,
+    "titleSl": "Kako Trumpizem spreminja svet"
    }
   ],
   "guardian": [
@@ -414,6 +414,12 @@
   ],
   "bild": [
    {
+    "title": "Krisensitzung bei Eintracht Frankfurt - Womit Krösche den Aufsichtsrat beeindruckte",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-so-beeindruckte-kroesche-den-aufsichtsrat-6a9843849452c52238231cdf",
+    "image": "https://images.bild.de/6a9843849452c52238231cdf/6bee5c0463e508e97954e60f17eabac6,7731a6bf?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Da können wir nicht einknicken“ - CDU-Aufstand gegen Klingbeils Steuerpläne",
     "link": "https://www.bild.de/politik/inland/steuern-heimliche-steuererhoehung-politiker-der-cdu-revoltieren-gegen-plaene-von-klingbeil-6a9833909452c52238231b2c",
     "image": "https://images.bild.de/6a9833909452c52238231b2c/638aaaa825eb211fab4fc014973953e9,8efbe8d2?w=1280",
@@ -442,15 +448,28 @@
     "link": "https://www.bild.de/news/vom-blitz-getroffen-dieser-mann-steht-auf-und-geht-einfach-weiter-6a98383f3ae913be367b6d06",
     "image": "https://images.bild.de/6a98383f3ae913be367b6d06/72ddb2a2557fe3425cf84a480c6823d7,ee3609b9?w=1280",
     "date": 0
-   },
-   {
-    "title": "Unbezahlte Schulden - Kommen die Villen von Capital Bra unter den Hammer?",
-    "link": "https://www.bild.de/unterhaltung/capital-bra-kommen-seine-haeuser-unter-den-hammer-6a9097b07088e6afaaa6fe98",
-    "image": "https://images.bild.de/6a9097b07088e6afaaa6fe98/a74ace15e2b8cdf39063626062ede091,67c4583c?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "An Kinder verteilt - Sex-Sprüche auf dem Eis: harmlos oder schädlich?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96SlNNcE9xcENwWExqQ1poRm5XNEd2NmhrX1dSaWhTNkFOdWVpY1k2RWtsMFFucXdERlRjZkZ6Yll5UQ?oc=5",
+    "image": "",
+    "date": 1788364920000,
+    "titleSl": "Kinder verteilt - Sex-Sprüche auf dem Eis: harmlos oder schädlich?"
+   },
+   {
+    "title": "Professorin klärt auf - Diese Tropen-Viren bedrohen jetzt Österreich",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Jai1EMlVNUWJGVUdHSHp6bExJMm9TMnhsc1VCMW1BMVM1bXlCaW82U2hnb0F0WVJmZ2praU5BNW9Qdw?oc=5",
+    "image": "",
+    "date": 1788364860000
+   },
+   {
+    "title": "Nur vier Lehrlinge - Kärntner Forstbranche ringt um Nachwuchs",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10ekxheUxQNWwtcmZSanpRMWs5T0N0WW5fdEZ6azlpcWMtb1dEQnBzQWx4WFRfYU9Vbk1vd0ZTVTBGQQ?oc=5",
+    "image": "",
+    "date": 1788364800000
+   },
    {
     "title": "Vuelta a España 2026 - Debütant Brennan feiert bereits 3. Etappensieg!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZaXBnaW5aVi1JdzdHQVNHSnkxMTRsUEJLV3ZzRkNZeEdhU2JxV3ViNDYtS3FncVcxcVM1aVhvUThuZw?oc=5",
@@ -468,27 +487,16 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LRW8zdGs3U1VVa0pzdzE0MHJHdnNoVWVmUElndWxjejVXWEJZcl9ZbFpiZXVrSjNub2ZaTFQ2RW1kUQ?oc=5",
     "image": "",
     "date": 1788364080000
-   },
-   {
-    "title": "Gescheiterter Drohenanschlag ++ Mädchen angeklagt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UbVJTeldJQkxKTUUyNEt0Rl9KVldETXczeEtpcVYxYUFCbktIcWwyZmdWcXIxTnpoM2RLQ2FKSWZyZw?oc=5",
-    "image": "",
-    "date": 1788363360000
-   },
-   {
-    "title": "Hantelstange als Waffe - Zivilcourage in Wien endete mit Schädelbruch",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56d3RmeUhtZl94VFUyWnI0QmRMcE5ZVFlMX0dZRGNXdWtWaGZ1aVVZUFNXZDd4ZHdpUkt6VzBzakstQQ?oc=5",
-    "image": "",
-    "date": 1788363000000
-   },
-   {
-    "title": "Für Papst Leo XIV. - Zwei originale Mozart-Geigen erklingen im Vatikan",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vMldGX25xckdhQ1AtTk1ydmIwSWdXS1FUQ3VXMHlKUkdEekVULWVzWTRWOWpVcmc0ZHlVV0lhcUoxdw?oc=5",
-    "image": "",
-    "date": 1788363000000
    }
   ],
   "rainews": [
+   {
+    "title": "L&#x27;Europa chiude in rosso sui rialzi dei prezzi di petrolio e gas",
+    "link": "https://www.rainews.it/articoli/2026/09/leuropa-chiude-in-rosso-sui-rialzi-dei-prezzi-di-petrolio-e-gas-86faecb5-cbdb-4ea3-84b4-98e21e8abe4a.html",
+    "image": "https://www.rainews.it/dl/img/2023/11/16/1700153641653_Immagine.jpg",
+    "date": 1788364680000,
+    "titleSl": "L'Europa chiude in rosso sui rialzi dei prezzi di petrolio e gas"
+   },
    {
     "title": "Coppa Italia, in campo Udinese-Venezia: Mrozek e Lauberbach titolari",
     "link": "https://www.rainews.it/maratona/2026/09/calcio-coppa-italia-2026-2027-3b28a5a0-a5b2-4c92-ba57-87bba4007f3e.html",
@@ -519,12 +527,6 @@
     "link": "https://www.rainews.it/video/2026/09/danny-boyle-racconta-ink-il-giornalismo-e-in-pericolo-59603016-9209-4144-9176-cd5d418d6f5e.html",
     "image": "https://www.rainews.it/dl/img/2026/9/02/1788362376512_son_Danny_Boyle.transferframe.jpeg",
     "date": 1788363840000
-   },
-   {
-    "title": "Caro bollette, Arera: rialzo del gas +7% ad agosto rispetto al mese precedente",
-    "link": "https://www.rainews.it/articoli/2026/09/caro-bollette-arera-rialzo-del-gas-7-ad-agosto-rispetto-al-mese-precedente-af1ddf16-2d5d-4a16-8cd4-15bf96111526.html",
-    "image": "https://www.rainews.it/dl/img/2022/02/15/1644943545106_rainewsdfeabaeee.jpg",
-    "date": 1788363000000
    }
   ],
   "lemonde": [
@@ -533,6 +535,12 @@
     "link": "https://www.lemonde.fr/societe/article/2026/09/02/medecine-esthetique-un-encadrement-des-pratiques-se-dessine-pour-lutter-contre-les-injections-illegales_6764474_3224.html",
     "image": "https://img.lemde.fr/2026/08/30/245/0/2185/1092/644/322/60/0/f43ef6e_upload-1-uvumdlz4ygrv-le-monde-chirurgie-esthetique-hd.jpg",
     "date": 1788364539000
+   },
+   {
+    "title": "Vanuatu : la France réaffirme sa souveraineté sur les îles Matthew et Hunter, après la requête déposée devant la CIJ",
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/vanuatu-la-france-reaffirme-sa-souverainete-sur-les-iles-matthew-et-hunter-apres-la-requete-deposee-devant-la-cij_6764473_3210.html",
+    "image": "https://img.lemde.fr/2026/09/01/126/0/2068/1034/644/322/60/0/9feed4f_upload-1-et1t6jo7ewkh-matthew-island-cut.jpg",
+    "date": 1788364419000
    },
    {
     "title": "Une semaine après la crue dans l’Himalaya, le bilan dépasse les 1 200 morts",
@@ -560,12 +568,6 @@
     "image": "https://img.lemde.fr/2026/08/24/152/0/4604/2302/644/322/60/0/079730b_ftp-1-yt1efbwzgsgb-2026-08-24t184219z-1225272422-rc2c0nafzujr-rtrmadp-3-iran-crisis-israel-netanyahu.JPG",
     "date": 1788361724000,
     "titleSl": "« Nous ne nous pensionrons pas », promet Benyamin Nétanyahou lors d'un déplacement dans la bande de Gaza"
-   },
-   {
-    "title": "Prix Goncourt 2026 : la première liste de seize écrivains dévoilée, parmi lesquels Lilia Hassaine et Philippe Jaenada",
-    "link": "https://www.lemonde.fr/culture/article/2026/09/02/prix-goncourt-2026-la-premiere-liste-de-seize-ecrivains-devoilee-parmi-lesquels-lilia-hassaine-et-philippe-jaenada_6764463_3246.html",
-    "image": "https://img.lemde.fr/2025/10/28/354/0/4256/2128/644/322/60/0/aa7b345_upload-1-cwa4smfbt1sf-gettyimages-1785855504.jpg",
-    "date": 1788360540000
    }
   ],
   "elpais": [
