@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T16:08:28.654Z",
+ "generatedAt": "2026-09-02T16:10:43.359Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Na čelu družbe Gen-I tudi uradno Jure Soklič",
+    "link": "https://www.rtvslo.si/gospodarstvo/na-celu-druzbe-gen-i-tudi-uradno-jure-soklic/792636",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/02/67090789.jpg",
+    "date": 1788365293000
+   },
+   {
     "title": "Število žrtev poplav in plazu v Nepalu in Tibetu preseglo 1200. Iskanje in reševanje se nadaljuje.",
     "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/stevilo-zrtev-poplav-in-plazu-v-nepalu-in-tibetu-preseglo-1200-iskanje-in-resevanje-se-nadaljuje/792637",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/02/67090816.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/gospodarstvo/kmetom-in-avtoprevoznikom-bodo-subvencionirali-nakup-pnevmatik-ter-goriva/792631",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/27/67083131.jpg",
     "date": 1788362543000
-   },
-   {
-    "title": "Tanja Fajon bo poslovno sodelovala z nemškim lobističnim podjetjem",
-    "link": "https://www.rtvslo.si/slovenija/tanja-fajon-bo-poslovno-sodelovala-z-nemskim-lobisticnim-podjetjem/792632",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/14/67061284.jpg",
-    "date": 1788362495000
    }
   ],
   "zurnal": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
+    "link": "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html",
+    "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01met-victims-01-khqb/01met-victims-01-khqb-mediumSquareAt3X.jpg",
+    "date": 1788365167000,
+    "titleSl": "Ženska, ki je bila ubita na Times Squareu, je bila identificirana kot podpredsednica Bank of America"
+   },
+   {
     "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
     "link": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html",
     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02nat-montana-forstag-1-tcvl/02nat-montana-forstag-1-tcvl-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01dc-scotus-roberts-mlkc/01dc-scotus-roberts-mlkc-mediumSquareAt3X.jpg",
     "date": 1788363783000,
     "titleSl": "V Trumpovi plesni dvorani se predsednik vrhovnega sodišča znajde na nenavadnem mestu: v nesoglasju"
-   },
-   {
-    "title": "Is Steve Hilton the Future of Trumpism?",
-    "link": "https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html",
-    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02earle1-gzhv/02earle1-gzhv-mediumSquareAt3X.jpg",
-    "date": 1788362619000,
-    "titleSl": "Ali je Steve Hilton prihodnost Trumpizma?"
    }
   ],
   "bbc": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules",
+    "link": "https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26245495851438-1788359929.jpg?resize=1920%2C1435",
+    "date": 1788364413000,
+    "titleSl": "Razrešitev nekdanjega ameriškega vojaka Bergdahla je bila neveljavna, sodišče odloča"
+   },
+   {
     "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-16.41.28-1788363845.png?resize=1200%2C630",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a97f983d508-1788344707_a590e2-1788355585.jpg?resize=1200%2C630&quality=80",
     "date": 1788361230000,
     "titleSl": "Kitajski Xi obišče egiptovski el-Sisi: Zakaj je to pomembno"
-   },
-   {
-    "title": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
-    "link": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260814__C4P67WE__v2__MidRes__UkraineRussiaConflict-1788347329.jpg?resize=1200%2C630",
-    "date": 1788360916000,
-    "titleSl": "Ali lahko ukrajinski brezpilotni zrakoplovi zaprejo ruski zračni prostor? Kaj to pomeni za letalske prevoznike"
    }
   ],
   "guardian": [
@@ -455,38 +455,39 @@
   ],
   "krone": [
    {
-    "title": "Moskau gegen Berlin - Putins Psychokrieg: „Die Angst ist bereits da“ - krone.at",
+    "title": "Moskau gegen Berlin - Putins Psychokrieg: „Die Angst ist bereits da“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIME9CN3BUdjRzUDBDcGVmNVpiNzdwMTFQYWRZQ3p5WVdzeU1rOVRuV2p2T2N0MEtReG96Z244dl9nQQ?oc=5",
     "image": "",
     "date": 1788365160000
    },
    {
-    "title": "Ex-Chef in U-Haft - kika/Leiner: Gutachten belegt Hochwasser-Abzocke - krone.at",
+    "title": "Ex-Chef in U-Haft - kika/Leiner: Gutachten belegt Hochwasser-Abzocke",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5mdVdMcDhMeHJOMFhHTGRiMV9Tb3BSTEhyN1VKUHE2TUhLTXplYUkxaUlSYTRyd2VIQU5iNnpOeXBDUQ?oc=5",
     "image": "",
-    "date": 1788365003000
+    "date": 1788365003000,
+    "titleSl": "Nekdanji kuhar v U-Haft - kika/Leiner: Gutachten belegt Hochwasser-Abzocke"
    },
    {
-    "title": "An Kinder verteilt - Sex-Sprüche auf dem Eis: harmlos oder schädlich? - krone.at",
+    "title": "An Kinder verteilt - Sex-Sprüche auf dem Eis: harmlos oder schädlich?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96SlNNcE9xcENwWExqQ1poRm5XNEd2NmhrX1dSaWhTNkFOdWVpY1k2RWtsMFFucXdERlRjZkZ6Yll5UQ?oc=5",
     "image": "",
     "date": 1788364920000,
-    "titleSl": "Kinder verteilt - Sex-Sprüche auf dem Eis: harmlos oder schädlich? - krone.at"
+    "titleSl": "Kinder verteilt - Sex-Sprüche auf dem Eis: harmlos oder schädlich?"
    },
    {
-    "title": "Professorin klärt auf - Diese Tropen-Viren bedrohen jetzt Österreich - krone.at",
+    "title": "Professorin klärt auf - Diese Tropen-Viren bedrohen jetzt Österreich",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Jai1EMlVNUWJGVUdHSHp6bExJMm9TMnhsc1VCMW1BMVM1bXlCaW82U2hnb0F0WVJmZ2praU5BNW9Qdw?oc=5",
     "image": "",
     "date": 1788364860000
    },
    {
-    "title": "Nur vier Lehrlinge - Kärntner Forstbranche ringt um Nachwuchs - krone.at",
+    "title": "Nur vier Lehrlinge - Kärntner Forstbranche ringt um Nachwuchs",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10ekxheUxQNWwtcmZSanpRMWs5T0N0WW5fdEZ6azlpcWMtb1dEQnBzQWx4WFRfYU9Vbk1vd0ZTVTBGQQ?oc=5",
     "image": "",
     "date": 1788364800000
    },
    {
-    "title": "Vuelta a España 2026 - Debütant Brennan feiert bereits 3. Etappensieg! - krone.at",
+    "title": "Vuelta a España 2026 - Debütant Brennan feiert bereits 3. Etappensieg!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZaXBnaW5aVi1JdzdHQVNHSnkxMTRsUEJLV3ZzRkNZeEdhU2JxV3ViNDYtS3FncVcxcVM1aVhvUThuZw?oc=5",
     "image": "",
     "date": 1788364620000
