@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T13:24:25.994Z",
+ "generatedAt": "2026-09-03T13:26:25.811Z",
  "sources": {
   "siol": [
    {
@@ -47,6 +47,12 @@
     "date": 1788441841000
    },
    {
+    "title": "Janša: podporniki Hamasa so grožnja nacionalni varnosti",
+    "link": "https://www.24ur.com/novice/slovenija/jansa-podporniki-hamasa-so-groznja-nacionalni-varnosti.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/a53421b92fcff104b1d8_63641606.jpg?v=2c83&fop=fp:0.51:0.52",
+    "date": 1788441809000
+   },
+   {
     "title": "Trump se veseli selitve Harryja in Meghan: Nikoli nisem bil njun oboževalec",
     "link": "https://www.24ur.com/popin/tuja-scena/trump-se-veseli-selitve-harryja-in-meghan-nikoli-nisem-bil-njun-obozevalec.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/903cf34e078f3e184ae1_63641985.jpg?v=390c&fop=fp:0.42:0.16",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/gospodarstvo/vodenje-sdh-bo-oktobra-prevzel-branko-bracko.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2026/db40d0b53fb7e1377ee7_63549443.jpg?v=1268&fop=fp:0.30:0.52",
     "date": 1788435488000
-   },
-   {
-    "title": "Cena bencina v Nemčiji rekordno visoka",
-    "link": "https://www.24ur.com/novice/gospodarstvo/cena-bencina-v-nemciji-rekordno-visoka.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2020/cfdd95e962600ef5b79b_62437584.jpg?v=415c&fop=fp:0.49:0.28",
-    "date": 1788434227000
    }
   ],
   "rtvslo": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
+    "link": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
+    "image": "",
+    "date": 1788441753000,
+    "titleSl": "Gloria Steinem je prišla v New York, da bi postala pisateljica. Postala je Gibanje."
+   },
+   {
     "title": "Can the Lindsay Clancy Jury Break Its Deadlock?",
     "link": "https://www.nytimes.com/2026/09/03/us/lindsay-clancy-trial-hung-jury.html",
     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03nat-clancy-hungjury-SWAP-gbpq/03nat-clancy-hungjury-SWAP-gbpq-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/00biz-nvidia-huggingface-hfo-lhtb/00biz-nvidia-huggingface-hfo-lhtb-mediumSquareAt3X.jpg",
     "date": 1788440503000,
     "titleSl": "Nvidia kupi objemni obraz v 12,9 milijarde $"
-   },
-   {
-    "title": "Trump Administration Renews Push to Strip Schools of Tax-Exempt Status",
-    "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
-    "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03dc-irs-nonprofits-vwlg/03dc-irs-nonprofits-vwlg-mediumSquareAt3X.jpg",
-    "date": 1788440420000,
-    "titleSl": "Trumpova administracija obnavlja pritisk, da se šolam odvzame status davčno oproščenih"
    }
   ],
   "bbc": [
@@ -375,6 +375,12 @@
   ],
   "spiegel": [
    {
+    "title": "Glücksgefühle-Festival entschuldigt sich nach Ausladung von Alphaville – und lädt die Band wieder ein",
+    "link": "https://www.spiegel.de/kultur/musik/gluecksgefuehle-festival-entschuldigt-sich-nach-ausladung-von-alphaville-und-laedt-die-band-wieder-ein-a-159c75dc-a0e0-437d-aff2-adffa2a5fac5#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/92d1579e-987b-44cc-938e-66e25b0f3295_w520_r2.08_fpx49.3_fpy50.jpg",
+    "date": 1788441600000
+   },
+   {
     "title": "Pawel Pawlikowski über »Vaterland«, Thomas Mann und das Jonglieren mit Fakten",
     "link": "https://www.spiegel.de/kultur/kino/pawel-pawlikowski-ueber-vaterland-thomas-mann-und-das-jonglieren-mit-fakten-a-3a535b81-f058-45e4-9adb-cc1ef5d74485#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/940eb0ec-791f-4fc4-9154-24ad07d571c3_w520_r2.08_fpx66.64_fpy49.99.jpg",
@@ -403,19 +409,25 @@
     "link": "https://www.spiegel.de/politik/friedrich-merz-olympiasieger-ronald-rauhe-wird-sport-staatsminister-a-ae1cf6bd-3e22-4b17-8415-19f521a3c2b4#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/eede253e-2333-476b-bb1e-bd3481b3d4a7_w520_r2.08_fpx44.67_fpy54.99.jpg",
     "date": 1788437040000
-   },
-   {
-    "title": "Spinnen: Wie Sie versuchen können, die Tiere aus der Wohnung fernzuhalten",
-    "link": "https://www.spiegel.de/wissenschaft/natur/arachnophobie-so-halten-sie-spinnen-von-ihrem-schlafzimmer-fern-a-a5c22c16-16a5-43d3-982d-3e09d797259f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/0083acb6-4973-4ee4-8826-77599476fb3d_w520_r2.08_fpx57_fpy49.jpg",
-    "date": 1788433140000
    }
   ],
   "bild": [
    {
+    "title": "Tragödie an französischer Atlantikküste - Zwei deutsche Urlauber ertrinken im Meer",
+    "link": "https://www.bild.de/news/ausland/tragoedie-an-franzoesischer-atlantikkueste-zwei-deutsche-urlauber-ertrinken-im-meer-6a9968477cdc6e46442b6070",
+    "image": "https://images.bild.de/6a9968477cdc6e46442b6070/5545a9819f72c505c50e559612ab9c3a,b91c3b9f?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Wenn ich das Gefühl habe, dass ...“ - Was man sich bei Klopp nicht erlauben darf",
     "link": "https://www.bild.de/sport/fussball/juergen-klopp-was-man-sich-beim-neuen-bundestrainer-nicht-erlauben-darf-6a991fc4c53a6557d48ddf8a",
     "image": "https://images.bild.de/6a991fc4c53a6557d48ddf8a/a6e65b884f0791a6ee8d99e6bb1b49fc,1deb3db1?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Olympiasiegerin jetzt TV-Expertin - „Es geht ein Basketball-Push durch Deutschland“",
+    "link": "https://www.bild.de/sport/mehr-sport/tv-expertin-sonja-greinacher-so-stehen-die-chancen-bei-der-basketball-wm-6a9971337cdc6e46442b61ed",
+    "image": "https://images.bild.de/6a9971337cdc6e46442b61ed/3d801c4a5808d2765d873b0f4ce4657d,482a9973?w=1280",
     "date": 0
    },
    {
@@ -436,22 +448,49 @@
     "image": "https://images.bild.de/6a9969777cdc6e46442b60ac/09e9a095e43bcd4aac1e8e9f1d3eea9c,b8ce6be4?w=1280",
     "date": 0,
     "titleSl": "Oh, ohr! - Formel-1-Star legt peinlichen Auftritt hin"
-   },
-   {
-    "title": "Sicherheitsexperten warnen - China ist „potentere Gefahr“ als Russland",
-    "link": "https://www.bild.de/politik/inland/neue-sorge-um-deutschlands-sicherheit-china-ist-potentere-gefahr-als-russland-6a994883ca00b4462f069d88",
-    "image": "https://images.bild.de/6a994883ca00b4462f069d88/fd822ee11a17b9034c0072685349f2fb,dca401cc?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Drogen-Vorwürfe! - Spahn erstattet Strafanzeige gegen Rapper Ski Aggu",
-    "link": "https://www.bild.de/politik/inland/ski-aggu-jens-spahn-stellt-strafanzeige-gegen-den-star-rapper-6a99306b240b302c8a8379c1",
-    "image": "https://images.bild.de/6a99306b240b302c8a8379c1/566085b570d6928d8d2f6006282cc80b,30c096fe?w=1280",
-    "date": 0,
-    "titleSl": "Drogen-Vorwürfe! - Spahn erstattet Strafanzeige gegen raper Ski Aggu"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "„Geister-Signalhorn“ bringt Anrainer um den Schlaf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxeHpwVVBLTDJSOFIzS0hsLV9MWUQ5XzBabUJoeDV0bjNnRmY2blRJV1daYzVwN0Nta1R6R1JabmxJdw?oc=5",
+    "image": "",
+    "date": 1788441837000
+   },
+   {
+    "title": "Trotz Kanzler-Visite - Nächster Umfrage-Schock für CDU in Sachsen-Anhalt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5mQnVsOG1xekNuZmQ2VDMwMzVTcmJRa0ozUkIzd2J4cS02Z01rWWF3TWRJZXZ2djl2S0RXVkY5UVhaQQ?oc=5",
+    "image": "",
+    "date": 1788441420000,
+    "titleSl": "Trotz Kanzler-Visite - Nächster Umfrage-Schock für CDU v Sachsen-Anhaltu"
+   },
+   {
+    "title": "Sorge um die Existenz - Wiens Schokoladenkönig Leschanz hofft auf Spenden",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mNkpQd21GTXhIMUpESG55b3poaWhTVklIajA4V2lCS3Q2WEZZUE1IeGxPX3dFS3ZxeHV6ejRpTWhhdw?oc=5",
+    "image": "",
+    "date": 1788440700000
+   },
+   {
+    "title": "Gesetz jetzt schärfer - Prüflinge wollten schwindeln: 18 Monate gesperrt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sTVVBZlFMdFFCZGI0a1Z1N29hQmpNWE1VV0lDTW5DblhnVWUxbkZ4cnJkcGZwSlZyd3dvUnRVVUJBdw?oc=5",
+    "image": "",
+    "date": 1788440400000
+   },
+   {
+    "title": "TIPP DER WOCHE - NÖKISS Kinder-Sommerspiele in Herzogenburg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aYlVuQTRYZGVCd0xWSThpZE5VMWRrODhiQjV2X0tVU0lVUjFZVW5FNV9jeGNSUVRKR2ZfNVpLUFRiQQ?oc=5",
+    "image": "",
+    "date": 1788440400000,
+    "titleSl": "TIPP DER WOCHE - NÖKISS Kinder-Sommerspiele v Herzogenburgu"
+   },
+   {
+    "title": "„Erfahre Gegenwind“ - Elliot Page: Trotz „Odyssee“ keine neuen Rollen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zRlBHc3I1U0tnYV9jeDZOWmtHVVR3RVY0YklVRkNfT3hGcVJBcFY2VDB4YkNld1RHeVNac2hOTjhudw?oc=5",
+    "image": "",
+    "date": 1788440400000,
+    "titleSl": "„Erfahre Gegenwind“ - Elliot Stran: Trotz „Odyssee“ keine neuen Rollen"
+   }
+  ],
   "rainews": [
    {
     "title": "Taranto 2026, Settebello d’oro: Italia batte il Montenegro 18-14 nella finale di pallanuoto",
