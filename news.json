@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T10:01:07.973Z",
+ "generatedAt": "2026-09-03T10:02:27.312Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Bežal pred policisti, se zaletel, nato izbruhnil še požar",
+    "link": "https://www.zurnal24.si/slovenija/bezal-pred-policisti-se-zaletel-nato-izbruhnil-se-pozar-464603",
+    "image": "https://www.zurnal24.si/media/img/26/20/51ff2f4bc647fd99a415.jpeg",
+    "date": 1788429660000
+   },
+   {
     "title": "Olimpijska prvakinja, velika zvezdnica atletika, udeležena v čelno trčenje",
     "link": "https://www.zurnal24.si/sport/olimpijska-prvakinja-velika-zvezdnica-atletika-udelezena-v-celno-trcenje-464601",
     "image": "https://www.zurnal24.si/media/img/02/9d/db5685e89f83bbb281a1.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kolesarstvo/pred-roglicem-pravi-pekel-poglejte-kaksen-test-ga-caka-danes-464596",
     "image": "https://www.zurnal24.si/media/img/71/38/c800208c86e2886107bf.jpeg",
     "date": 1788425220000
-   },
-   {
-    "title": "Znano, kdo se bo pridružil oddaji 24UR!",
-    "link": "https://www.zurnal24.si/magazin/film-glasba-tv/znano-kdo-se-bo-pridruzil-oddaji-24ur-464592",
-    "image": "https://www.zurnal24.si/media/img/aa/e9/992f3fdf7ac05b3b6d5b.jpeg",
-    "date": 1788424260000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics",
+    "link": "https://www.nytimes.com/2026/09/03/podcasts/the-headlines/us-iran-wedding-attack-influencers-politics.html",
+    "image": "",
+    "date": 1788429607000,
+    "titleSl": "Ameriški napad prizadene iransko poroko, vplivneži pa so tiho plačani, da se pogovarjajo o politiki"
+   },
+   {
     "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
     "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03int-ukraine-russia-escalation-01-klvg/03int-ukraine-russia-escalation-01-klvg-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03Italy-AC-01-tcbq/03Italy-AC-01-tcbq-mediumSquareAt3X.jpg",
     "date": 1788426193000,
     "titleSl": "Mnogi Italijani se že dolgo upirajo klimatizaciji. Potem je Evropa postala bolj vroča."
-   },
-   {
-    "title": "Reading Jonathan Franzen’s ‘The Corrections,’ 25 Years Later",
-    "link": "https://www.nytimes.com/2026/09/03/books/review/the-corrections-jonathan-franzen-25th-anniversary.html",
-    "image": "https://static01.nyt.com/images/2026/09/03/books/03tbr-corrections-critics/03tbr-corrections-critics-mediumSquareAt3X.jpg",
-    "date": 1788426114000,
-    "titleSl": "Branje knjige Jonathana Franzena The Corrections, 25 Years Later"
    }
   ],
   "bbc": [
@@ -415,6 +415,25 @@
   ],
   "bild": [
    {
+    "title": "Exklusive Einblicke nach Pokalspiel - SO sieht es in der Bayern-Kabine aus",
+    "link": "https://www.bild.de/sport/fussball/bayern-muenchen-so-sieht-es-in-der-kabine-beim-deutschen-rekordmeister-aus-6a991871f4aff45fc7b342c7",
+    "image": "https://images.bild.de/6a991871f4aff45fc7b342c7/5747ebb2b1f42f33d67a78dda8a617c3,4bddace4?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Axel-Springer-Chef - Mathias Döpfner warnt vor Koalitionen mit der AfD",
+    "link": "https://www.bild.de/politik/inland/axel-springer-chef-mathias-doepfner-warnt-vor-koalitionen-mit-der-afd-6a9923b0c53a6557d48ddfc5",
+    "image": "https://images.bild.de/6a9923b0c53a6557d48ddfc5/adc14214be3664b075bcb5068f2548e1,95dec9d6?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Hammer-Entscheidung - VW will Seat vom Markt nehmen",
+    "link": "https://www.bild.de/politik/inland/volkswagen-vor-seat-aus-cupra-soll-die-zukunft-des-konzerns-sein-6a992841c53a6557d48de033",
+    "image": "https://images.bild.de/6a992841c53a6557d48de033/1038c536d0010894a0de9173df111d83,66df38d9?w=1280",
+    "date": 0,
+    "titleSl": "Hammer-Entscheidung - VW bo Seat vom Markt nehmen"
+   },
+   {
     "title": "Klub-Patron Kind deutet es an - Holt Hannover noch einen Arbeitslosen?",
     "link": "https://www.bild.de/sport/fussball/hannover-96-kind-deutet-es-an-kommt-noch-ein-arbeitsloser-6a983cdb9452c52238231c3f",
     "image": "https://images.bild.de/6a983cdb9452c52238231c3f/124d8b6e043e1299ccfd76595498c8d1,bee8d8c5?w=1280",
@@ -432,79 +451,64 @@
     "image": "https://images.bild.de/6a990a67f4aff45fc7b34203/6ce3daceb986f041f936dccbf367ea95,354f57e3?w=1280",
     "date": 0,
     "titleSl": "Sydney Sweeney beim Filmfestival Venedig - Sie hat mal je bil!"
-   },
-   {
-    "title": "Exklusive Einblicke nach Pokalspiel - SO sieht es in der Bayern-Kabine aus",
-    "link": "https://www.bild.de/sport/fussball/bayern-muenchen-so-sieht-es-in-der-kabine-beim-deutschen-rekordmeister-aus-6a991871f4aff45fc7b342c7",
-    "image": "https://images.bild.de/6a991871f4aff45fc7b342c7/5747ebb2b1f42f33d67a78dda8a617c3,4bddace4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Immer donnerstags, nur mit BILDplus - Hier die aktuelle Folge vom „Trash Table“ schauen",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/trash-table-die-neuen-reality-news-bei-bild-und-joyn-6a79d7c335268e5027024892",
-    "image": "https://images.bild.de/6a79d7c335268e5027024892/5f8317033122339508edd132c5a488d6,e4ef5122?w=1280",
-    "date": 0,
-    "titleSl": "Immer donnerstags, nur mit BILDplus - Hier die aktuelle Folge vom \"Trash Table\" schauen"
-   },
-   {
-    "title": "Motiv Israel-Hass - Linksextreme zünden mehrere Betonmischer an",
-    "link": "https://www.bild.de/news/motiv-israel-hass-linksextreme-zuenden-mehrere-betonmischer-an-6a9935837cdc6e46442b5a1b",
-    "image": "https://images.bild.de/6a9935837cdc6e46442b5a1b/beae077ad7e0118c5b96613a2097bff7-landscape,59585be8?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Highlights: 4. Runde - Video: Sturm rettet Remis gegen Lustenau",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qQlFSNlhkRDNJNTNQdDFyRFdnWGNLNTNMSkwzcWJFVjRpRDNGaWpqRXV1b2RxV2NDVFZCVmVBMlFnUQ?oc=5",
+    "title": "Highlights: 4. Runde - Video: Hartberg siegt dank Last-Minute-Treffer",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrOFpLMUpMeDF6LTBUNDdreG40aFo5d0xQZTQ4QjliTnE4MnBDNnlqQUxuZU1XWlpkTVQxWFZ4V19Cdw?oc=5",
+    "image": "",
+    "date": 1788429683000,
+    "titleSl": "Poudarki: 4. Runde - Video: Hartberg siegt dank Last-Minute-Treffer"
+   },
+   {
+    "title": "Highlights der Partie - Video: Austria bleibt gegen WSG Tabellenletzter",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zVEF1YVl1NW9LRWgtQVlSWjVHU1Fxcy1NNlE0LXRoMWFzd25QTGxLZGN6RVBDbFJuT0tCdk1HSURHUQ?oc=5",
+    "image": "",
+    "date": 1788429681000,
+    "titleSl": "Poudarki der Partie - Video: Austria bleibt gegen WSG Tabellenletzter"
+   },
+   {
+    "title": "„Bullen“ entfesselt - Video: Irre Torgala bei Red Bull Salzburg – Rapid",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uQUFPTW95SlhuYXNxSWU1ZjM2dG8wcVF1OWNrcF9CREhxWHF1UzJQT0RMLXV0ZmtyemFNc212Y2gzUQ?oc=5",
+    "image": "",
+    "date": 1788429660000,
+    "titleSl": "\"Bullen\" entfesselt - Video: Irre Torgala bei Red Bull Salzburg – Rapid"
+   },
+   {
+    "title": "Highlights: 4. Runde - Video: Goldtor von Sissoko lässt Ried jubeln",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tbVB5TkFsYnItUnJqYWMwYXNzbnJtZDI1SkxKRUFhdUtDSWJ4dE5JUTQ3Z0Qyendvc3hDY21waWdEZw?oc=5",
     "image": "",
     "date": 1788429650000,
-    "titleSl": "Poudarki: 4. Runde - Video: Sturm rettet Remis gegen Lustenau"
+    "titleSl": "Poudarki: 4. Runde - Video: Goldtor von Sissoko lässt Ried jubeln"
    },
    {
-    "title": "Neues zum Vertrag - Benko: „Das Geld fließt nicht aus der Steckdose“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9JcmFPRFNYVG5UMTZjam1VX2I3VE1sZzdlTDV6N0kzREg1N2I1ZDZoNnBtSWFCbXRSckduMzd2OS1TZw?oc=5",
+    "title": "Entscheid angenommen - Ortschefin zum Pacht-Streit in der Badesiedlung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ULVdDTU4xVWZ2NDRQMzhhUnlVeW4zMVRJQ3J1b2hicm12UzM0UFdtN3JNd281bzUyMWx3WDF4YVlndw?oc=5",
     "image": "",
-    "date": 1788429300000
+    "date": 1788429600000
    },
    {
-    "title": "Wie Europas Könige - Trump ließ sein Konterfei auf Münzgeld prägen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FWUQ5WEIzWjRnNjg3dDVnVEhNbDE1SFJ1SG40bllteFRldFR4ckpkbDBvX0V0Qk9qNlFfejNMSVFTQQ?oc=5",
+    "title": "„Krone“ in Kanada - Habsburg eröffnet große Juwelen-Millionenshow",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9uQWtOc3NvQ3pZWDl4bFhJV0xWclZuaS0wSENxQmxRUmZLbkszYUpkOVJLNWY3RENoNXFtSVlCOGZ2QQ?oc=5",
     "image": "",
-    "date": 1788429120000
-   },
-   {
-    "title": "Frage des Tages - Soll Verbot des politischen Islam in Verfassung?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9HaFYycjhoMHUxX0xPVFhsWjRxYk1JV3NYMHVhSUFUb2M2UzBOU1Bla2FMU05Da3Fmc2VMeDV1SXNpUQ?oc=5",
-    "image": "",
-    "date": 1788429000000
-   },
-   {
-    "title": "Mordalarm! - Spielende Kinder fanden an Flussufer Frauenleiche",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tTGhNbnpsdmZ3TXk1dnc5WkVUeHNyWXJPd3BPdW9uc0E4ODBEbXRmd28yNkpmOWUyX1dTSVZmZHpWUQ?oc=5",
-    "image": "",
-    "date": 1788427965000
-   },
-   {
-    "title": "Frauenleiche gefunden - Obduktion bestätigt Verdacht auf Fremdverschulden",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKWlpkMkVmNEcxTDgzWmt6WkpFbXJQMDhvem8zOHhHbmM5YnkyM2tBbVR1VkRCVFQ0cmgtQTZzcTRGQQ?oc=5",
-    "image": "",
-    "date": 1788427740000
+    "date": 1788429600000,
+    "titleSl": "\"Krone\" v Kanadi - Habsburg eröffnet große Juwelen-Millionenshow"
    }
   ],
   "rainews": [
+   {
+    "title": "Coppa Italia, alle 18 Palermo-Mantova e alle 21 Cagliari-Hellas Verona",
+    "link": "https://www.rainews.it/maratona/2026/09/calcio-coppa-italia-2026-2027-3b28a5a0-a5b2-4c92-ba57-87bba4007f3e.html",
+    "image": "https://www.rainews.it/dl/img/2022/06/12/1655051704130_palermo_stadio.jpeg",
+    "date": 1788429720000
+   },
    {
     "title": "Taranto 2026, medagliere record: l&#x27;Italia supera il primato di Bari 1997 con 223 podi",
     "link": "https://www.rainews.it/maratona/2026/09/xx-edizione-giochi-del-mediterraneosegui-la-diretta-in-straming-su-rainewsit-422ff739-df85-4447-aba0-6bcfdaa150dd.html",
     "image": "https://www.rainews.it/dl/img/2026/9/03/1788429379068_Cattura.PNG",
     "date": 1788429420000,
     "titleSl": "Taranto 2026, medagliere zapis: l'Italia supera il primato di Bari 1997 con 223 podi"
-   },
-   {
-    "title": "Coppa Italia, alle 18 Palermo-Mantova e alle 21 Cagliari-Hellas Verona",
-    "link": "https://www.rainews.it/maratona/2026/09/calcio-coppa-italia-2026-2027-3b28a5a0-a5b2-4c92-ba57-87bba4007f3e.html",
-    "image": "https://www.rainews.it/dl/img/2022/06/12/1655051704130_palermo_stadio.jpeg",
-    "date": 1788427020000
    },
    {
     "title": "Cavo elettrico tranciato sulla Varese-Milano: 300 evacuati dal treno",
