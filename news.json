@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T12:32:29.878Z",
+ "generatedAt": "2026-09-03T12:34:28.081Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Koper bo v znamenju sladic",
+    "link": "https://www.rtvslo.si/zabava-in-slog/napovedujemo/koper-bo-v-znamenju-sladic/792722",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/03/67091887.jpg",
+    "date": 1788438824000
+   },
+   {
     "title": "Po ulicah Nove Gorice hrumeli starodobni dirkalniki",
     "link": "https://www.rtvslo.si/zabava-in-slog/popkultura/retro/po-ulicah-nove-gorice-hrumeli-starodobni-dirkalniki/792707",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/03/67091873.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/vesner-ticic-okrepil-celje-koderman-znova-v-ljudskem-vrtu/792715",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/03/67091853.jpg",
     "date": 1788435131000
-   },
-   {
-    "title": "El Nino se krepi: svet v prihodnjih mesecih čaka ekstremno vreme",
-    "link": "https://www.rtvslo.si/okolje/el-nino-se-krepi-svet-v-prihodnjih-mesecih-caka-ekstremno-vreme/792716",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/03/67091843.jpg",
-    "date": 1788434848000
    }
   ],
   "zurnal": [
@@ -199,18 +199,18 @@
   ],
   "nyt": [
    {
+    "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+    "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+    "image": "https://static01.nyt.com/images/2026/08/27/multimedia/00biz-nvidia-huggingface-hfo-lhtb/00biz-nvidia-huggingface-hfo-lhtb-mediumSquareAt3X.jpg",
+    "date": 1788438728000,
+    "titleSl": "Nvidia kupi objemni obraz v 12,9 milijarde $"
+   },
+   {
     "title": "Gloria Steinem’s Glamour Was a Means to an End",
     "link": "https://www.nytimes.com/2026/09/03/style/gloria-steinem-style-feminism.html",
     "image": "https://static01.nyt.com/images/2026/08/26/multimedia/ST-STEINEM-STYLE-01-wbzq/ST-STEINEM-STYLE-01-wbzq-mediumSquareAt3X.jpg",
     "date": 1788438654000,
     "titleSl": "Glamur Glorie Steinem je bil sredstvo za dosego cilja"
-   },
-   {
-    "title": "Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face",
-    "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-    "image": "https://static01.nyt.com/images/2026/08/27/multimedia/00biz-nvidia-huggingface-hfo-lhtb/00biz-nvidia-huggingface-hfo-lhtb-mediumSquareAt3X.jpg",
-    "date": 1788437991000,
-    "titleSl": "Nvidia podaljša porabo A.I. z 12,9 milijarde $ za objem obraza"
    },
    {
     "title": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High",
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Feminist icon Gloria Steinem dies aged 92",
+    "link": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2019/07/a5c9d9728a7d4b86a5854b6457c3df35_18.jpeg?resize=1200%2C675",
+    "date": 1788437634000,
+    "titleSl": "Feministična ikona Gloria Steinem umre pri 92 letih"
+   },
+   {
     "title": "Families perform symbolic funerals for missing Nepal flood victims",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-nepal-0309-1788436649.png?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-10T200034Z_517165612_RC28RLA2LGTC_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-DOCTOR-1-1788435920.jpg?resize=1200%2C630",
     "date": 1788434519000,
     "titleSl": "Brez konca mučenja zdravnika iz Gaze Abu Safije v izraelskem zaporu: Kaj je treba vedeti"
-   },
-   {
-    "title": "Legendary Bosnian striker Edin Dzeko to retire from international football",
-    "link": "https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a995160-1788432736_6c7d53-1788433027.jpg?resize=1200%2C630&quality=80",
-    "date": 1788433841000,
-    "titleSl": "Legendarni bosanski napadalec Edin Džeko se bo upokojil iz mednarodnega nogometa"
    }
   ],
   "guardian": [
@@ -413,83 +413,45 @@
   ],
   "bild": [
    {
-    "title": "Notlandung in Russland - Hubschrauber kracht in Straßengraben",
-    "link": "https://www.bild.de/news/notlandung-in-russland-hubschrauber-kracht-in-strassengraben-6a983dcda33eb07b679460cc",
-    "image": "https://images.bild.de/6a983dcda33eb07b679460cc/64d0a53c3e696f71206912ff6fcb1091,ab4de0a?w=1280",
-    "date": 0,
-    "titleSl": "Notlandung v Rusiji - Hubschrauber kracht v Straßengrabnu"
-   },
-   {
-    "title": "82 Jahre verschollen - Hier liegt ein U-Boot der Nazis im Ärmelkanal",
-    "link": "https://www.bild.de/news/ausland/wrack-nach-82-jahren-gefunden-hier-liegt-ein-u-boot-der-nazis-im-aermelkanal-6a92c7eed88567044d849282",
-    "image": "https://images.bild.de/6a92c7eed88567044d849282/459176d9a1b05733501dd01593847680,38349ddb?w=1280",
+    "title": "Nach langer Suche - Merz ernennt neuen Sportminister",
+    "link": "https://www.bild.de/politik/inland/ronald-rauhe-merz-findet-neuen-staatsminister-fuer-sport-6a9954a7240b302c8a837e24",
+    "image": "https://images.bild.de/6a9954a7240b302c8a837e24/d98394e2ce3d0e67f530019809156a97,419d7f39?w=1280",
     "date": 0
    },
    {
-    "title": "Turbo-Transfer aus England - Spannendes Vertrags-Detail bei Herthas Adewumi",
-    "link": "https://www.bild.de/sport/fussball/hertha-bsc-turbo-transfer-so-schnappte-sich-hertha-rakete-adewumi-6a992c9f26f72e6fc72ecb48",
-    "image": "https://images.bild.de/6a992c9f26f72e6fc72ecb48/21527603c87a2ab7d5394331f30bfa80,20dd5ec1?w=1280",
+    "title": "Céline Dion überrascht Fans in Paris - Sie singt wieder, und wie!",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/celine-dion-ueberrascht-fans-in-paris-sie-singt-wieder-und-wie-6a97da2b3ae913be367b633c",
+    "image": "https://images.bild.de/6a97da2b3ae913be367b633c/6ab7fe0063194327ba7a8bee444fa1fe,e20c6616?w=1280",
+    "date": 0,
+    "titleSl": "Céline Dion überrascht Ventilatorji v Parizu - Sie singt wieder, und wie!"
+   },
+   {
+    "title": "Tür bei 200 km/h geöffnet - ICE muss in Tunnel nothalten",
+    "link": "https://www.bild.de/news/bei-200-km-h-oeffnet-sich-tuer-ice-muss-in-tunnel-nothalten-6a97e423c53a6557d48dcf04",
+    "image": "https://images.bild.de/6a97e423c53a6557d48dcf04/475149e18fdde9355dd45d6b52f12dd7,55fe4d85?w=1280",
     "date": 0
    },
    {
-    "title": "Drogen-Vorwürfe! - Spahn erstattet Strafanzeige gegen Rapper Ski Aggu",
-    "link": "https://www.bild.de/politik/inland/ski-aggu-jens-spahn-stellt-strafanzeige-gegen-den-star-rapper-6a99306b240b302c8a8379c1",
-    "image": "https://images.bild.de/6a99306b240b302c8a8379c1/566085b570d6928d8d2f6006282cc80b,30c096fe?w=1280",
-    "date": 0,
-    "titleSl": "Drogen-Vorwürfe! - Spahn erstattet Strafanzeige gegen raper Ski Aggu"
-   },
-   {
-    "title": "Das passierte bei Bayerns Aufsichtsratssitzung - Kompromiss bei Eberl! Freund soll verlängern!",
-    "link": "https://www.bild.de/sport/fussball/bayern-muenchen-kompromiss-bei-eberl-freund-soll-verlaengern-6a97f20a9452c52238231142",
-    "image": "https://images.bild.de/6a97f20a9452c52238231142/2b12afdbf85cd4c693ab1cb85977b968,d2aeb162?w=1280",
+    "title": "Drohnen fliegen in Umspannwerk - Nächster Anschlag auf Infrastruktur?",
+    "link": "https://www.bild.de/news/inland/drohnen-fliegen-in-umspannwerk-naechster-anschlag-auf-infrastruktur-6a97a97b518a586e1856036b",
+    "image": "https://images.bild.de/6a97a97b518a586e1856036b/2d6ac99866a6968d22ee0cf87ed0ffb7-landscape,e91e8298?w=1280",
     "date": 0
    },
    {
-    "title": "OP in Finnland - Arzt verrät Schock-Diagnose bei Werder-Star",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-arzt-verraet-schock-diagnose-bei-stage-6a992582f4aff45fc7b343e9",
-    "image": "https://images.bild.de/6a992582f4aff45fc7b343e9/4160a8bd3f5141d81d5dfce0278f0ad1,d53243f8?w=1280",
+    "title": "Ihr letztes Konzert! - Ariana Grande den Tränen nah",
+    "link": "https://www.bild.de/unterhaltung/ariana-grande-verabschiedet-sich-aus-der-oeffentlichkeit-danke-von-ganzem-herzen-6a97f513c53a6557d48dd146",
+    "image": "https://images.bild.de/6a97f513c53a6557d48dd146/21d0c28cef9c7f87971d92041e186cbf,3eb8b99b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Are You The One?“ - Was RTL zu den Verbrennungen sagt",
+    "link": "https://www.bild.de/unterhaltung/are-you-the-one-was-rtl-zu-den-verbrennungen-sagt-6a98602a9452c52238231ed4",
+    "image": "https://images.bild.de/6a98602a9452c52238231ed4/3cb5505c48ced510a7be50e01e0de82b,aaca5acf?w=1280",
     "date": 0,
-    "titleSl": "OP na Finskem - Arzt verrät Schock-Diagnose bei Werder-Star"
+    "titleSl": "»Si ti tisti pravi?“ - Was RTL zu den Verbrennungen sagt"
    }
   ],
-  "krone": [
-   {
-    "title": "Auch in Ihrer Nähe - Taranteln sind im Herbst wieder auf Wanderschaft",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Sb3JoNlc1THJvcFJqaHJrbV9ZOUszbVRaM1IxVnMycFZyd0xFUFBQYUJaWlBPRUItLW9TamFVV3VBZw?oc=5",
-    "image": "",
-    "date": 1788438540000
-   },
-   {
-    "title": "Aus Gebäude geschüttet - Flüssigkeits-Attacke auf AfD-Stand: Neun Verletzte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xb3oyLVE4ZnlQR3hoQUZCei1UeDdZWDUwMWhma211dWFvVkNHdmdSd0N2MFpTVm5xcGpRZmkxd0xwdw?oc=5",
-    "image": "",
-    "date": 1788438476000
-   },
-   {
-    "title": "„Unfassbar, wie die sich im Gericht aufführen“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmN3psOUtMa1RlN1g1ci0zRVNTZnRiT1hYZ0h5YjdpaS0tMms5VEx4bUxvTEV1VGZKb2lBR0lEY0w2UQ?oc=5",
-    "image": "",
-    "date": 1788438465000
-   },
-   {
-    "title": "Mordalarm! - Spielende Kinder fanden an Flussufer Frauenleiche",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tTGhNbnpsdmZ3TXk1dnc5WkVUeHNyWXJPd3BPdW9uc0E4ODBEbXRmd28yNkpmOWUyX1dTSVZmZHpWUQ?oc=5",
-    "image": "",
-    "date": 1788438376000
-   },
-   {
-    "title": "Zu Haft verurteilt - Gastarbeiter missbrauchte zehnjähriges Mädchen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBSN2t2b1phbHRmTDVvbTZEa0UyMDBfZ0trb2JUNzR3ZEtSOFJ6dloyTk1pZ3RvamwyRTRxUDhIb2ZKZw?oc=5",
-    "image": "",
-    "date": 1788438287000
-   },
-   {
-    "title": "„Skandalöse Situation“ - Kiewer Geheimdienste beschießen sich gegenseitig",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhejhNTkxtNFZ0d0hxblU0ZXhhRmlFRGdGN2VYbFBsOGdMbVZ0VGZ4OWFlN0dPYllPVEVBaXA1Smp0UQ?oc=5",
-    "image": "",
-    "date": 1788437636000
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Taranto 2026, finale pallanuoto, Italia-Montenegro: 13-10. Diretta Rainews",
