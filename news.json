@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T06:48:28.569Z",
+ "generatedAt": "2026-09-03T06:50:39.987Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Še šest dni poletja, potem izrazito hladna fronta?",
+    "link": "https://www.24ur.com/novice/slovenija/se-sest-dni-poletja-potem-izrazito-hladna-fronta.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/6f24c59b32e9ea2cb549_63641779.jpg?v=c60b&fop=fp:0.52:0.44",
+    "date": 1788417623000
+   },
+   {
     "title": "Srbski študenti tarča izraelske vohunske opreme Pegasus",
     "link": "https://www.24ur.com/novice/tujina/srbski-studenti-tarca-izraelske-vohunske-opreme-pegasus.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/36a0cbc60272f23a195c_63641773.jpg?v=4376&fop=fp:0.45:0.53",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/tv-oddaje/whitney-houston-in-kevin-costner-v-filmu-ki-ga-je-nemogoce-pozabiti.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/66303bda3836507f1890_63641153.jpg?v=047a&fop=fp:0.34:0.09",
     "date": 1788415203000
-   },
-   {
-    "title": "Huda kazen za Clipperse zaradi kršitve pravil o plačnih omejitvah",
-    "link": "https://www.24ur.com/sport/kosarka/huda-denarna-kazen-za-clipperse-zaradi-krsitve-pravil.html",
-    "image": "https://images.24ur.com/media/images/213xX/Feb2026/9489956ba9a3bdb7fbc4_63537370.jpg?v=85b3&fop=fp:0.34:0.15",
-    "date": 1788415002000
    }
   ],
   "rtvslo": [
@@ -155,46 +155,40 @@
   ],
   "reuters": [
    {
-    "title": "Iran war escalation raises concern over civilian death toll",
+    "title": "Iran war escalation raises concern over civilian death toll - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
     "image": "",
-    "date": 1788414172000,
-    "titleSl": "Eskalacija vojne v Iranu zbuja zaskrbljenost zaradi števila smrtnih žrtev med civilisti"
+    "date": 1788414172000
    },
    {
-    "title": "Shares, bonds rally as markets await Fed signals; yen jumps",
+    "title": "Shares, bonds rally as markets await Fed signals; yen jumps - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
     "image": "",
-    "date": 1788412865000,
-    "titleSl": "Delnice, obveznice se krepijo, medtem ko trgi čakajo na Fedove signale; jen skoči"
+    "date": 1788412865000
    },
    {
-    "title": "Financials lead Indian shares higher after recent decline",
+    "title": "Financials lead Indian shares higher after recent decline - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmx3ekk2V0VXSlJYX04xM2x3WHVkOW1id2dsUlVJTDI5U1hWekdqeGZSRHlJUnR1U09RZ3FVRzFUa09uNFgyeng0Z0VuYjltTFFwMGVqb3dxRFlOaGZzTGtKS1FhN19vaWl5V3poemFDVFRwTWRuQlJPcnkxdTB0b19TS2VCQnR4NVZzaHU0NU9KMHR5TzdqSnBuR1oyTExNTmlXbFIzNWVtTHhBbV9ET0FzbjBpSjQ0MFpXT2hQOGJnZw?oc=5",
     "image": "",
-    "date": 1788411392000,
-    "titleSl": "Financiranje vodi k povečanju indijskih delnic po nedavnem upadu"
+    "date": 1788411392000
    },
    {
-    "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight",
+    "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
     "image": "",
-    "date": 1788409998000,
-    "titleSl": "Zlato se je povečalo za več kot 1%, poročajo ameriške nekmetijske plačilne liste v središču pozornosti"
+    "date": 1788409998000
    },
    {
-    "title": "Yen climbs on hawkish BOJ repricing",
+    "title": "Yen climbs on hawkish BOJ repricing - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
     "image": "",
-    "date": 1788405728000,
-    "titleSl": "Jen se vzpenja po jastrebovskih CENAH BOJ"
+    "date": 1788405728000
    },
    {
-    "title": "Chinese students marooned in floods unleashed by Typhoon Saudel's rains",
+    "title": "Chinese students marooned in floods unleashed by Typhoon Saudel's rains - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE5iQlhuYXA5NkdlOG1RSDFCZVNnSkUzR1lZdExfdXNiaXFPM1BiaFphYWw4YnN5YndKTWR4RnFTU1R5dUxSUXJYZUMwektKSGtlWVBINFJ0dllCSHp6X3hnZ29PSEtGd29iOWo0dE4waUtsYXpoSVotVU05ai05WUJja2RWTXRQY1NTY1VIblZnelBaZUFTcDdZTktPTi1KRmFXR1hHMWMyUzdnWDN1dTNZTU1YeGhXNlZzUUthSkZsdw?oc=5",
     "image": "",
-    "date": 1788404400000,
-    "titleSl": "Kitajski študenti so obtičali v poplavah, ki jih je sprožil tajfun Saudel"
+    "date": 1788404400000
    }
   ],
   "nyt": [
@@ -249,6 +243,12 @@
     "titleSl": "Oglejte si: Prečkanje majhnih čolnov prisili tihotapce, da se prilagodijo"
    },
    {
+    "title": "Ranking the most game-changing transfers in Premier League history",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c65/live/13d238e0-a5f9-11f1-8348-fb0cb1cd9761.jpg",
+    "date": 1788416258000
+   },
+   {
     "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
     "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg",
@@ -275,16 +275,15 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/878f9ea0-a610-11f1-8637-5b46bde23e50.jpg",
     "date": 1788411795000,
     "titleSl": "Vdova, katere mož je po padcu v gnojevko umrl, opozarja na pritisk na kmete"
-   },
-   {
-    "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-    "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95be/live/db2ecf80-a701-11f1-aed2-8d6da8d75094.jpg",
-    "date": 1788411604000,
-    "titleSl": "Tolpe, ki tihotapijo kanale, se zatekajo k \"mega-dinghies\", saj zatiranje omejuje oskrbo majhnih čolnov"
    }
   ],
   "aljazeera": [
+   {
+    "title": "EU remains divided over trade sanctions on illegal Israeli settlements",
+    "link": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a98d48f9dec-1788400783.jpg?resize=1920%2C1440",
+    "date": 1788417318000
+   },
    {
     "title": "Eto’o calls on African football federations to support FIFA chief Infantino",
     "link": "https://www.aljazeera.com/sports/2026/9/3/etoo-calls-on-african-football-federations-to-support-fifa-chief-infantino?traffic_source=rss",
@@ -319,13 +318,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788410690.jpg?resize=1920%2C1080&quality=80",
     "date": 1788410698000,
     "titleSl": "Nekdanji predsednik kampanje: Trump \"najbolj skrbi za Trumpa\""
-   },
-   {
-    "title": "Girl rescued by free-climbing neighbour from balcony in Turkiye",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/girl-rescued-by-free-climbing-neighbour-from-balcony-in-turkiye?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788410236.jpg?resize=1920%2C1079&quality=80",
-    "date": 1788410254000,
-    "titleSl": "Dekle, ki ga je rešil prosto plezajoči sosed z balkona v Turkiyeju"
    }
   ],
   "guardian": [
@@ -412,6 +404,24 @@
   ],
   "bild": [
    {
+    "title": "„Ihr seid lächerlich“ - Tennis-Queen Sabalenka pampt Reporter heftig an!",
+    "link": "https://www.bild.de/sport/mehr-sport/ihr-seid-laecherlich-tennis-queen-sabalenka-pampt-reporter-heftig-an-6a99150587159f3cd0820d56",
+    "image": "https://images.bild.de/6a99150587159f3cd0820d56/0ac459e91cfb2d43aa9523817c85ce2e-landscape,a87f879d?w=1280",
+    "date": 0
+   },
+   {
+    "title": "GOLDENER COMPUTER 2026 - Das ist die beste Technik des Jahres",
+    "link": "https://www.bild.de/leben-wissen/digital/goldener-computer-2026-diese-technik-sieger-stehen-fest-6a9692959452c5223822f1c7",
+    "image": "https://images.bild.de/6a9692959452c5223822f1c7/d2bab5ade347a3ad0f1a226b5fb512e4,5626946e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Mini-Fan (10) begeistert Stadion - Über 3000-mal Ball hochgehalten, und dann DAS!",
+    "link": "https://www.bild.de/sport/fussball/emotionaler-hintergrund-10-jaehriger-mit-mega-aktion-vor-dem-spiel-6a97d384c53a6557d48dcd56",
+    "image": "https://images.bild.de/6a97d384c53a6557d48dcd56/1ca98c3e589c2c547075ccd4a82aa2f1,98d46742?w=1280",
+    "date": 0
+   },
+   {
     "title": "Trump über den Umzug von Harry und Meghan - „Ich freue mich darüber, ich war kein Fan“",
     "link": "https://www.bild.de/unterhaltung/royals-adel/donald-trump-ueber-den-umzug-von-harry-und-meghan-ich-freue-mich-darueber-ich-war-kein-fan-6a9903fc9452c5223823239b",
     "image": "https://images.bild.de/6a9903fc9452c5223823239b/87b7e2ae7b7f49f52ca45908a0983c84,26cd4699?w=1280",
@@ -427,24 +437,6 @@
     "title": "Anschläge aufs Stromnetz - So werden unsere Umspannwerke jetzt geschützt",
     "link": "https://www.bild.de/news/inland/anschlaege-auf-stromnetz-polizei-kontrolliert-umspannwerke-6a9838a03ae913be367b6d14",
     "image": "https://images.bild.de/6a9838a03ae913be367b6d14/77bb42892b7147d351c8b56b0da110c0,9f0e4ff2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Langlebiges Kochgeschirr - Die richtige Pflege für Gusseisenpfannen",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/gusseisenpfanne-reinigen-dieser-fehler-zerstoert-die-patina-6a8fdeb58a7786c19f3358b5",
-    "image": "https://images.bild.de/6a8fdeb58a7786c19f3358b5/8e5cf73b9197432d889c906b09818e90,ace0d87f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Steckbrief - Wie Bademeister Paco Herb ein Realitystar wurde",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/paco-herb-im-steckbrief-so-tickt-der-reality-stratege-privat-624af604f857a30b3f7893d1",
-    "image": "https://images.bild.de/624af604f857a30b3f7893d1/fe1030cc2dbcd4ca7e25aff2ffd7a497,6e2e5a6a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Löwen raus im Pokal - Peinlich-Pleite für 1860 München!",
-    "link": "https://www.bild.de/sport/fussball/1860-muenchen-peinlich-pleite-im-landespokal-jetzt-muessen-die-loewen-meister-werden-6a97f8f8a33eb07b67945a22",
-    "image": "https://images.bild.de/6a97f8f8a33eb07b67945a22/bb396cfd69b5ab79884c3a963f77c0dc,d5c97d25?w=1280",
     "date": 0
    }
   ],
