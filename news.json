@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T12:40:41.774Z",
+ "generatedAt": "2026-09-03T12:42:25.887Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/sportal/kolesarstvo/dirka-po-spaniji-12-etapa-roglic-mas-omrzel-700487",
     "image": "https://siol.net/media/img/80/38/622cb7cc8ea31b030af4.jpeg",
     "date": 1788438180000
+   },
+   {
+    "title": "S spremenjenimi pogoji lažje do Zoisove štipendije",
+    "link": "https://siol.net/novice/slovenija/s-spremenjenimi-pogoji-lazje-do-zoisove-stipendije-700558",
+    "image": "https://siol.net/media/img/96/10/73b468221c398d565b4a.jpeg",
+    "date": 1788438060000
    },
    {
     "title": "Šok v Rusiji: pomembnega generala ustrelili v obraz",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/skotskega-zvezdnika-zaradi-tezav-s-srcno-aritmijo-ne-bo-proti-sloveniji-700551",
     "image": "https://siol.net/media/img/37/6a/8157db7e97fb539bd734.jpeg",
     "date": 1788436620000
-   },
-   {
-    "title": "Rusija posnema Elona Muska, a dobili so slabe novice",
-    "link": "https://siol.net/novice/digisvet/rusija-posnema-elona-muska-a-dobili-so-slabe-novice-700519",
-    "image": "https://siol.net/media/img/25/e5/da5102c5c16b7c9d1172.jpeg",
-    "date": 1788436560000
    }
   ],
   "24ur": [
@@ -246,7 +246,7 @@
     "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
     "link": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc07/live/9cad4bc0-a76e-11f1-993c-a325009c1935.jpg",
-    "date": 1788437987000,
+    "date": 1788439306000,
     "titleSl": "Zack Polanski pravi, da bo kandidiral za sedež nekdanjega premierja Starmerja na nadomestnih volitvah"
    },
    {
@@ -334,8 +334,15 @@
     "title": "Badenoch condemns Reform UK’s ‘authoritarian’ press bans – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/1f2a0a3fe32174a75270d3c2a9fb0443ca8f9968/555_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d7a0c6e00df13897918eeee9413d55c5",
-    "date": 1788438539000,
+    "date": 1788438785000,
     "titleSl": "Badenoch obsoja \"avtoritarne\" prepovedi tiska v Združenem kraljestvu – britanska politika v živo"
+   },
+   {
+    "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
+    "link": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
+    "image": "https://i.guim.co.uk/img/media/35addbfcdf9acb152b2c3df46eb207dfc5f6dbcf/159_4_1441_1153/master/1441.jpg?width=140&quality=85&auto=format&fit=max&s=470cff007a166e58e19c02568fb4960b",
+    "date": 1788438638000,
+    "titleSl": "Avstralska znanstvena nagrada, podeljena raziskovalcu, ki preučuje natančnost spomina preživelih žrtev nasilja v družini"
    },
    {
     "title": "Reform UK gets another £4m from crypto billionaire pardoned by Donald Trump",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=c45d55214b9c33ad27cfe0e81baa5d7a",
     "date": 1788436829000,
     "titleSl": "Priprava na apokalipso ali čisti pragmatizem: kaj se skriva za selitvijo Petra Thiela v Argentino?"
-   },
-   {
-    "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-    "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-    "image": "https://i.guim.co.uk/img/media/b258258b4224aca28e3a1d3e6d43221a4a6a36bb/970_15_4875_3903/master/4875.jpg?width=140&quality=85&auto=format&fit=max&s=0f53a2a8562c6f4c22de58d86bd09ddc",
-    "date": 1788434925000,
-    "titleSl": "Jen se dviga, ko je Banka Japonske dala napitnino za dvig obrestnih mer"
    }
   ],
   "spiegel": [
@@ -413,83 +413,44 @@
   ],
   "bild": [
    {
-    "title": "Angriff auf Rüstungsunternehmen - Kampfmittelroboter am Anschlagsort",
-    "link": "https://www.bild.de/news/inland/roboter-entschaerft-brandsaetze-lka-bayern-vermutet-anschlagversuch-auf-ruestungsunternehmen-6a9918499452c5223823254a",
-    "image": "https://images.bild.de/6a9918499452c5223823254a/0b247100f8aba1ad7286114afc1c2a15,f2a3b8a2?w=1280",
+    "title": "True-Crime-Podcast „IM EINSATZ“ - „Sie war psychisch abhängig von JP Kraemer“",
+    "link": "https://www.bild.de/news/inland/podcast-im-einsatz-diese-vorwuerfe-erhebt-jp-kraemers-ehefrau-julia-6a96bb5e518a586e1855f73b",
+    "image": "https://images.bild.de/6a96bb5e518a586e1855f73b/c7de1c18fd92c70b370b151ac0ac0fe6,24c5f674?w=1280",
     "date": 0
    },
    {
-    "title": "JP Kraemer zeigt Reue - „Ich möchte mich vor allem bei dir entschuldigen, Julia“",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/jp-kraemer-will-firma-nicht-mehr-weiterfuehren-ich-moechte-mich-vor-allem-bei-dir-entschuldigen-julia-6a96b6d8d32756d4be19b609",
-    "image": "https://images.bild.de/6a96b6d8d32756d4be19b609/55ea6f1e71556f0d5654ab27afebeaf7,229c38d3?w=1280",
+    "title": "Rettung aus 15 Metern Höhe - Achterbahn bleibt mit 27 Personen stecken",
+    "link": "https://www.bild.de/news/ausland/in-15-metern-hoehe-achterbahn-bleibt-mit-27-personen-stecken-6a97e5dd9452c52238230e60",
+    "image": "https://images.bild.de/6a97e5dd9452c52238230e60/286902a526fa2ee436dac58e468c9c4b,9ed1af04?w=1280",
     "date": 0
    },
    {
-    "title": "Wetterexperte sicher - „Freitag bis zu 35 Grad möglich”",
-    "link": "https://www.bild.de/news/spaetsommer-gibt-herbst-einen-korb-freitag-bis-zu-35-grad-moeglich-6a97ed07a33eb07b67945856",
-    "image": "https://images.bild.de/6a97ed07a33eb07b67945856/21fcc17d7b110dad0de4e468eec8ed83,53d3a3be?w=1280",
+    "title": "„Das neue Gold“ - Preis bei 50.000! Lohnt sich der Kupfer-Einstieg?",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/kupfer-bei-50-000-dollar-pro-tonne-geht-der-kurs-weiter-durch-die-decke-6a96c5d52a6051ae2e13f726",
+    "image": "https://images.bild.de/6a96c5d52a6051ae2e13f726/3ca52f7baad7c6f4cfa0e53da09381fd,32d0fbc5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Es ist widerlich!“ - Stalker verfolgt Frau während Live-Stream",
+    "link": "https://www.bild.de/news/inland/stalker-verfolgt-frau-waehrend-live-stream-es-ist-widerlich-6a992b409452c5223823273f",
+    "image": "https://images.bild.de/6a992b409452c5223823273f/9ebb4a8a1bc1e04a1c5f1014a9b68384,b4b5477d?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Wochenvorschau vom 31. August 2026 - „Sturm der Liebe“ nach der Sommerpause",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/sturm-der-liebe-vorschau-kilian-stellt-fanny-zur-rede-6a953c0cec27d32fb526a61d",
+    "image": "https://images.bild.de/6a953c0cec27d32fb526a61d/4312513fbbe007346dce84a0eb7c4d3f,d555e6eb?w=1280",
     "date": 0,
-    "titleSl": "Wetterexperte sicher - „Freitag bis zu 35 Grad möglich“"
+    "titleSl": "Wochenvorschau vom 31. avgust 2026 - \"Sturm der Liebe\" nach der Sommerpause"
    },
    {
-    "title": "„Glücksgefühle“-Macher entschuldigt sich - Wende im Alphaville-Eklat",
-    "link": "https://www.bild.de/unterhaltung/musik/gluecksgefuehle-macher-entschuldigt-sich-wende-im-alphaville-eklat-6a995809dde98c92361801a5",
-    "image": "https://images.bild.de/6a995809dde98c92361801a5/ba0350e731a13fd33837df0b480c17f2,15e7108d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Tierschützer finden kollabierte Affen - Feuer bedrohen Orang-Utans auf Borneo",
-    "link": "https://www.bild.de/news/schwere-feuer-bedrohen-orang-utans-auf-borneo-tierschuetzer-finden-erneut-kollabierte-affen-6a9857d79452c52238231e3b",
-    "image": "https://images.bild.de/6a9857d79452c52238231e3b/8e6b42669d9bb58ff0cbc13b875a68f2,3836f232?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Vor Urlaubsparadies Phuket - Rettungsschwimmer retten kranke Riesenschildkröte",
-    "link": "https://www.bild.de/news/ausland/vor-phuket-rettungsschwimmer-retten-kranke-riesenschildkroete-6a994f97ca00b4462f069e28",
-    "image": "https://images.bild.de/6a994f97ca00b4462f069e28/2ec01e285ef71139f8bcc70da2f7a9bf,a5aa4a3b?w=1280",
+    "title": "Sachsen-Anhalt - Wurde einer Seniorin (95) im Heim die Stimme geklaut?",
+    "link": "https://www.bild.de/politik/inland/sachsen-anhalt-verdacht-auf-wahlbetrug-wurde-einer-seniorin-95-im-heim-die-stimme-geklaut-6a992f35ca00b4462f069b1a",
+    "image": "https://images.bild.de/6a992f35ca00b4462f069b1a/7d6ef8c1dc3978dccf22526bb9ff1c2a,e385ea3e?w=1280",
     "date": 0
    }
   ],
-  "krone": [
-   {
-    "title": "Mordalarm! - Spielende Kinder fanden an Flussufer Frauenleiche",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tTGhNbnpsdmZ3TXk1dnc5WkVUeHNyWXJPd3BPdW9uc0E4ODBEbXRmd28yNkpmOWUyX1dTSVZmZHpWUQ?oc=5",
-    "image": "",
-    "date": 1788438987000
-   },
-   {
-    "title": "Passaffäre in Linz - Land erhöht Druck auf Staatsbürgerschaftsabteilung",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIek5zLVVHYUF3MGFFeGl4U2tjUzFhX3RDMjhoUlF6a0tybU9UUlVHdm5PcElLa0hpc3V6NVBKalhGQQ?oc=5",
-    "image": "",
-    "date": 1788438600000,
-    "titleSl": "Passaffäre v Linzu - Land erhöht Druck auf Staatsbürgerschaftsabteilung"
-   },
-   {
-    "title": "Fokus auf Prävention - Leichtes Minus bei Suiziden in Vorarlberg",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCdmJTRmZvbmJrc0Nua3RzdGktWVp5TkF4cFpnR1BkbDJoS1JHRkY5bEFXcHItXzllakpyck5aUF8tZw?oc=5",
-    "image": "",
-    "date": 1788438600000,
-    "titleSl": "Fokus auf Prävention - Leichtes Minus bei Suiziden v Vorarlbergu"
-   },
-   {
-    "title": "Haus für Intensivtäter - Auszeit-WG: 13-Jähriger zog aus, neues Kind folgte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5SOUE2TWtCUF9oTVVRTGZXOUU5R09yWUVXb3J3bkNGcmxaOVhNN0ZUT2lBNEZzUXZ4MDR6MldfUE5LUQ?oc=5",
-    "image": "",
-    "date": 1788438600000
-   },
-   {
-    "title": "Auch in Ihrer Nähe - Taranteln sind im Herbst wieder auf Wanderschaft",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Sb3JoNlc1THJvcFJqaHJrbV9ZOUszbVRaM1IxVnMycFZyd0xFUFBQYUJaWlBPRUItLW9TamFVV3VBZw?oc=5",
-    "image": "",
-    "date": 1788438540000
-   },
-   {
-    "title": "Aus Gebäude geschüttet - Flüssigkeits-Attacke auf AfD-Stand: Neun Verletzte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xb3oyLVE4ZnlQR3hoQUZCei1UeDdZWDUwMWhma211dWFvVkNHdmdSd0N2MFpTVm5xcGpRZmkxd0xwdw?oc=5",
-    "image": "",
-    "date": 1788438476000
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Taranto 2026, finale pallanuoto, Italia-Montenegro: 15-11. Diretta Rainews",
