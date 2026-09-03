@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T16:44:28.568Z",
+ "generatedAt": "2026-09-03T16:46:31.061Z",
  "sources": {
   "siol": [
    {
@@ -47,6 +47,12 @@
     "date": 1788453336000
    },
    {
+    "title": "'Trener Mitrović je velik razlog za moj prihod k Olimpiji'",
+    "link": "https://www.24ur.com/sport/kosarka/trener-mitrovic-je-eden-od-glavnih-razlogov-za-moj-prihod-k-olimpiji.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/33221b44ae6ec7336928_63642110.jpg?v=9c37&fop=fp:0.45:0.16",
+    "date": 1788453151000
+   },
+   {
     "title": "Burleska: Vučić potuje po Srbiji, se prepira z državljani in trosi obljube",
     "link": "https://www.24ur.com/novice/tujina/vucic_3.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/6e342ef4d48b2699ca06_63642115.png?v=3197&fop=fp:0.41:0.31",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/stiri-neizprosne-preizkusnje-na-prvem-izlocitvenem-testu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/43229058656a17045c4c_63641853.jpg?v=6f17&fop=fp:0.41:0.40",
     "date": 1788444804000
-   },
-   {
-    "title": "'Ne bi me šokiralo, če bi se Antikrist sprehajal med nami'",
-    "link": "https://www.24ur.com/novice/tujina/ne-bi-me-sokiralo-ce-bi-se-antikrist-sprehajal-med-nami.html",
-    "image": "https://images.24ur.com/media/images/213xX/May2026/2466c443f635dbc05b03_63593630.jpg?v=4323&fop=fp:0.44:0.38",
-    "date": 1788444448000
    }
   ],
   "rtvslo": [
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "MAGA Is Feeding a Separatist Surge in Canada",
+    "link": "https://www.nytimes.com/2026/09/03/opinion/canada-alberta-separatists-trump-maga.html",
+    "image": "https://static01.nyt.com/images/2026/08/19/multimedia/00gillespie-updated-gbjk/00gillespie-updated-gbjk-mediumSquareAt3X-v12.jpg",
+    "date": 1788453732000,
+    "titleSl": "MAGA hrani separatistični porast v Kanadi"
+   },
+   {
+    "title": "Trump’s D.C. Makeover Projects Are ‘Only an Idea,’ Until They’re Much More",
+    "link": "https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html",
+    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00up-trump-construction-02-vhzq/00up-trump-construction-02-vhzq-mediumSquareAt3X.jpg",
+    "date": 1788453665000,
+    "titleSl": "Trumpovi projekti preobrazbe v Washingtonu so \"samo ideja\", dokler niso veliko več"
+   },
+   {
     "title": "Schools Giving Aid to Minority Students Could Lose Tax Exemptions Under Trump’s New Rules",
     "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03dc-irs-nonprofits-vwlg/03dc-irs-nonprofits-vwlg-mediumSquareAt3X.jpg",
@@ -213,13 +227,6 @@
     "titleSl": "The Athletic pravi, da je odnos Dianne Russini z Mikom Vrabelom kršil njene standarde"
    },
    {
-    "title": "Trump’s D.C. Makeover Projects Are ‘Only an Idea,’ Until They’re Much More",
-    "link": "https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html",
-    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00up-trump-construction-02-vhzq/00up-trump-construction-02-vhzq-mediumSquareAt3X.jpg",
-    "date": 1788452335000,
-    "titleSl": "Trumpovi projekti preobrazbe v Washingtonu so \"samo ideja\", dokler niso veliko več"
-   },
-   {
     "title": "What Did Jurassic Forests Sound Like? Like This.",
     "link": "https://www.nytimes.com/2026/09/03/science/what-did-jurassic-forests-sound-like-like-this.html",
     "image": "https://static01.nyt.com/images/2026/09/02/science/02SCI-JURASSIC-SOUNDS/02SCI-JURASSIC-SOUNDS-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01met-assisted-dying--01-gtvw/01met-assisted-dying--01-gtvw-mediumSquareAt3X.jpg",
     "date": 1788451580000,
     "titleSl": "Zagon, ki pomaga ljudem umreti"
-   },
-   {
-    "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-    "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-    "image": "https://static01.nyt.com/images/2026/08/27/multimedia/00biz-nvidia-huggingface-hfo-lhtb/00biz-nvidia-huggingface-hfo-lhtb-mediumSquareAt3X.jpg",
-    "date": 1788451166000,
-    "titleSl": "Nvidia kupi objemni obraz v 12,9 milijarde $"
    }
   ],
   "bbc": [
@@ -406,7 +406,7 @@
     "date": 1788451380000
    },
    {
-    "title": "Frecciarossa im Testbetrieb: Können wir Deutsche so gut Bahnfahren wie die Italiener?",
+    "title": "Frecciarossa im Testbetrieb: Können wir Deutsche so gut Bahn fahren wie die Italiener?",
     "link": "https://www.spiegel.de/reise/frecciarossa-im-testbetrieb-koennen-wir-deutsche-so-gut-bahnfahren-wie-die-italiener-a-c95a56a2-0000-4298-a7a1-32996548d6ae#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/49561853-a722-41a4-b908-68897ec0adca_w520_r2.08_fpx21_fpy56.jpg",
     "date": 1788450840000
@@ -458,6 +458,12 @@
     "date": 1788453809000
    },
    {
+    "title": "„Unfassbar, wie die sich im Gericht aufführen“ - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmN3psOUtMa1RlN1g1ci0zRVNTZnRiT1hYZ0h5YjdpaS0tMms5VEx4bUxvTEV1VGZKb2lBR0lEY0w2UQ?oc=5",
+    "image": "",
+    "date": 1788453808000
+   },
+   {
     "title": "Mitmachen & gewinnen - Mit der „Krone“ zum Motorrad-Highlight - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZTUpWQUxZVDU3QnVwTHR3bnQwbHhZU3B2TjRaNlJFUzAydXQtdjJ5UUwyVFd6eFphUkxHTjZrMm5PQQ?oc=5",
     "image": "",
@@ -480,12 +486,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GbzNGNy1FeUNyZ2JrWmF3eE5KZnVsSWI3MXNaVjh1c21FVEhHVXQxcWNaM1pTdkp6ZlVYb1c5OFlqdw?oc=5",
     "image": "",
     "date": 1788452760000
-   },
-   {
-    "title": "Nur bei Olympia nicht - FIS fixiert jährlich Ski-Weltmeisterschaften - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94STVYa3BIM3dPamFEQndDYTVheUVLbTlhMmxSbHY1RU0wMEpNZWVrN2FBMDJSdzBHZi10a1pvclYzdw?oc=5",
-    "image": "",
-    "date": 1788451560000
    }
   ],
   "rainews": [
@@ -557,16 +557,16 @@
     "titleSl": "Chidimma Adetshina, la Miss dont l'Afrique du Sud, en pleine nejasna xénophobe, ne veut pas"
    },
    {
-    "title": "« Biens mal acquis » : une plainte cible le président de Djibouti et allié militaire de la France, Ismaïl Omar Guelleh, et son entourage",
-    "link": "https://www.lemonde.fr/international/article/2026/09/03/biens-mal-acquis-une-plainte-cible-le-president-de-djibouti-et-allie-militaire-de-la-france-ismail-omar-guelleh-et-son-entourage_6765187_3210.html",
-    "image": "https://img.lemde.fr/2026/04/08/542/0/6499/3249/644/322/60/0/f2ff225_ftp-1-zxkdnsluq7l3-5705888-01-06.jpg",
-    "date": 1788451200000
-   },
-   {
     "title": "Israël annonce la libération de cinq civils libanais",
     "link": "https://www.lemonde.fr/international/article/2026/09/03/israel-annonce-la-liberation-de-cinq-civils-libanais_6765181_3210.html",
     "image": "https://img.lemde.fr/2026/08/21/560/0/6720/3360/644/322/60/0/83fc3a2_ftp-1-e4hst0c0yjin-5887967-01-06.jpg",
     "date": 1788449654000
+   },
+   {
+    "title": "Présidentielle 2027 : Raphaël Glucksmann se pose en figure de la « révolution écologique » à gauche",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/03/presidentielle-2027-raphael-glucksmann-se-pose-en-figure-de-la-revolution-ecologique-a-gauche_6765180_4355770.html",
+    "image": "https://img.lemde.fr/2026/08/23/549/0/6585/3292/644/322/60/0/4bef334_ftp-1-0zq5mzzt9hxq-5906047-01-06.jpg",
+    "date": 1788449636000
    }
   ],
   "elpais": [
