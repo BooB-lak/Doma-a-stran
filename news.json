@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T04:30:54.323Z",
+ "generatedAt": "2026-09-04T04:32:27.959Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Čudež po apokalipsi v Nepalu: iz tunela po devetih dneh rešili dve osebi",
+    "link": "https://www.24ur.com/novice/tujina/cudez-po-apokalipsi-v-nepalu-iz-tunela-vec-kot-teden-kaseneje-resili-dve-osebi.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/1d720d57a4f0886361d1_63642248.jpg?v=6c72&fop=fp:0.42:0.40",
+    "date": 1788496302000
+   },
+   {
     "title": "Od sanj do svežega kruha: zgodba iz škotskega višavja",
     "link": "https://www.24ur.com/novice/tujina/od-sanj-do-svezega-kruha-zgodba-iz-skotskega-visavja.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/774efff76d15bc3f2f4c_63642215.jpg?v=b5be&fop=fp:0.49:0.31",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/kdo-je-v-imenu-slovenije-blokiral-izjavo-eu-po-sestih-urah-sejo-prekinili.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/174d6f885f05aa989d06_63597789.jpg?v=cf43&fop=fp:0.58:0.25",
     "date": 1788468699000
-   },
-   {
-    "title": "Gradbeno dovoljenje v 60 dneh, sosedje ne bodo avtomatično vključeni v postopke",
-    "link": "https://www.24ur.com/novice/slovenija/gradbeno-dovoljenje-v-60-dneh-sosedje-ne-bodo-avtomaticno-vkljuceni-v-postopke.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/389db536e58d1ed8be35_63642232.jpg?v=4223&fop=fp:0.56:0.32",
-    "date": 1788465497000
    }
   ],
   "rtvslo": [
@@ -260,7 +260,8 @@
     "title": "The Papers: 'Foreign donations sting' and 'Argentina threat to Falklands'",
     "link": "https://www.bbc.co.uk/news/articles/c5yml8lxx2ko?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c05a/live/1b1ac820-a7e7-11f1-a291-b542ee92de7c.jpg",
-    "date": 1788485232000
+    "date": 1788485232000,
+    "titleSl": "The Papers: \"Tuje donacije grožnja\" in \"Argentinska grožnja Falklandom\""
    },
    {
     "title": "Volkswagen board approves plan to cut another 50,000 jobs",
@@ -384,7 +385,8 @@
     "title": "Sachsen-Anhalt: Wie die AfD auch ohne Mehrheit an die Macht käme",
     "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-die-afd-auch-ohne-mehrheit-an-die-macht-kaeme-a-a163e03a-f3d0-4ea0-ba46-2312c56522a3#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/ac8214fe-1f42-451b-966e-52cdb7063a8f_w520_r2.08_fpx35.99_fpy49.99.jpg",
-    "date": 1788494460000
+    "date": 1788494460000,
+    "titleSl": "Saška-Anhalt: Kako bi AfD prišla na oblast tudi brez večine"
    },
    {
     "title": "News: Wahl in Sachsen-Anhalt, AfD, Ceuta, Annalena Baerbock",
@@ -404,13 +406,15 @@
     "title": "Dormagen: Polizei geht von versuchter Sabotage an Umspannwerk aus",
     "link": "https://www.spiegel.de/panorama/justiz/dormagen-polizei-geht-von-versuchter-sabotage-an-umspannwerk-aus-a-db938d81-30d9-4f87-8a98-c8a8f147795d#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/76ce5207-af96-4d4f-bcac-1d5aa800b3b5_w520_r2.08_fpx46.67_fpy50.jpg",
-    "date": 1788483960000
+    "date": 1788483960000,
+    "titleSl": "Dormagen: Policija domneva poskus sabotaže na postaji"
    },
    {
     "title": "Donald Trump: Präsident will Supreme-Court-Entscheid zu schärferen Briefwahlregeln",
     "link": "https://www.spiegel.de/ausland/donald-trump-praesident-will-supreme-court-entscheid-zu-schaerferen-briefwahlregeln-a-2f0fdda6-cbfb-4f5d-aacb-f559794bbf7c#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/c959133b-6d05-41c1-9585-641daf4c1ba0_w520_r2.08_fpx33.34_fpy49.99.jpg",
-    "date": 1788481560000
+    "date": 1788481560000,
+    "titleSl": "Donald Trump: Predsednik želi odločitev vrhovnega sodišča o strožjih pravilih glasovanja po pošti"
    }
   ],
   "bild": [
@@ -418,79 +422,97 @@
     "title": "Axel-Springer-Chef - Döpfner warnt vor Koalitionen mit AfD und Linken",
     "link": "https://www.bild.de/politik/inland/axel-springer-chef-mathias-doepfner-warnt-vor-koalitionen-mit-der-afd-6a9923b0c53a6557d48ddfc5",
     "image": "https://images.bild.de/6a9923b0c53a6557d48ddfc5/5be6694f8a14c0953d5897b75ee54034,95dec9d6?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Šef Axel Springerja - Döpfner svari pred koalicijami z AfD in Levico"
    },
    {
     "title": "Pilzarten richtig bestimmen - Die wichtigsten Pilzarten in Deutschland",
     "link": "https://www.bild.de/leben-wissen/lifestyle/pilze-bestimmen-und-sammeln-bei-diesen-arten-ist-vorsicht-geboten-64f042b5ecb47b73941e47e7",
     "image": "https://images.bild.de/64f042b5ecb47b73941e47e7/2f96bf1bed4ef409ca468775dc4d40ac,96ed4041?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Pravilno določite vrste gob - najpomembnejša vrsta gob v Nemčiji"
    },
    {
     "title": "Makler verrät - Diese Umbauten steigern den Wert Ihrer Immobilie",
     "link": "https://www.bild.de/leben-wissen/wohnen-living/diese-investitionen-koennen-den-wert-einer-immobilie-erhoehen-6a96d9fe9452c5223822fc43",
     "image": "https://images.bild.de/6a96d9fe9452c5223822fc43/2393d1845c0c5f166a8ebad921e817f9,b376cee1?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Agent razkrije - Te konverzije povečajo vrednost vaše nepremičnine"
    },
    {
     "title": "Deutschlands schärfste Wettergrenze - Wo der Sommer heute abkassiert",
     "link": "https://www.bild.de/news/wetter/deutschlands-schaerfste-wettergrenze-wo-der-sommer-heute-abkassiert-6a9947c27cdc6e46442b5c80",
     "image": "https://images.bild.de/6a9947c27cdc6e46442b5c80/521ea8b21330b49cfdc71d013da5448e,d7594ba8?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Najtežja vremenska meja v Nemčiji – kjer poletje danes unovčuje"
    },
    {
     "title": "Hier ausrechnen - Diese THG-Prämie könnte Ihnen dieses Jahr zustehen",
     "link": "https://www.bild.de/leben-wissen/auto/thg-praemie-2026-berechnen-das-bekommen-sie-fuer-e-auto-zurueck-6a6309feefccf0c0d5537822",
     "image": "https://images.bild.de/6a6309feefccf0c0d5537822/65fa972c2701f05630564555fbf5945c,5db5a8cf?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Izračunajte tukaj - letos bi lahko bili upravičeni do tega bonusa za toplogredne pline"
    },
    {
     "title": "„Wird ein großer Tag“ - Bundesliga-Legende feiert Vorstoß von DFB-Boss",
     "link": "https://www.bild.de/sport/fussball/neuen-regionalliga-bundesliga-legende-ulf-kirsten-feiert-reform-vorstoss-von-dfb-boss-6a992a9bc53a6557d48de074",
     "image": "https://images.bild.de/6a992a9bc53a6557d48de074/2040c3ea3019fa7893dea03ed0431376,3094cee7?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "\"To bo odličen dan\" - legenda Bundeslige slavi potezo šefa DFB"
    }
   ],
   "krone": [
    {
-    "title": "„Durch dick und dünn“ - Küssend präsentiert die Austria ihr neues Trikot - krone.at",
+    "title": "„Durch dick und dünn“ - Küssend präsentiert die Austria ihr neues Trikot",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5TUHhGU2ViVG5ZUWg3VUpObncyR2RFMUNualNKbHdlQ1VOWXdxeW5sMnM3VldwOEExQ3lsbWRhbUpIQQ?oc=5",
     "image": "",
-    "date": 1788494700000
+    "date": 1788494700000,
+    "titleSl": "“Skozi debelo in tanko” - Avstrija s poljubom predstavi svoj novi dres"
    },
    {
-    "title": "Lehrer berichtet - In der Sommerschule: 15 Kinder mit 18 Sprachen - krone.at",
+    "title": "Lehrer berichtet - In der Sommerschule: 15 Kinder mit 18 Sprachen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nZUkzcDZPTjR0VFVmbHM1ZFJTUFpGLVJSb0JSQVhYVjRPbUNXeTd3cGp1bWJ4XzlMa2w0cHV3b0FNUQ?oc=5",
     "image": "",
-    "date": 1788494400000
+    "date": 1788494400000,
+    "titleSl": "Poročila učiteljev - V poletni šoli: 15 otrok z 18 jeziki"
    },
    {
-    "title": "Steiermark-Rundblick - Rekordtrockenheit: Wo wildes Wasser handzahm wurde - krone.at",
+    "title": "Steiermark-Rundblick - Rekordtrockenheit: Wo wildes Wasser handzahm wurde",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCc0JLcTZyZ1Y3WlgyZ2pfdEhPRHA4V1Q0SExaaEYwX1JWMmx3dVhXdHpnXzVhcEl6c1VlN3VWb2wzQQ?oc=5",
     "image": "",
-    "date": 1788494400000
+    "date": 1788494400000,
+    "titleSl": "Panorama Štajerske - rekordna suša: kjer je divja voda postala krotka"
    },
    {
-    "title": "Keine Frage! - Haben etwa Sie dieses Diamantcollier entwendet? - krone.at",
+    "title": "Keine Frage! - Haben etwa Sie dieses Diamantcollier entwendet?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmTm9TMW1nSjJDVWdOdHNfQ3I4dkZxbmdTeWVGRWdJdGI1d2hjOHVJTzJSVE9uV3MzS0lhVnBsUFB3dw?oc=5",
     "image": "",
-    "date": 1788494400000
+    "date": 1788494400000,
+    "titleSl": "Brez vprašanja! - Si ti ukradel to diamantno ogrlico?"
    },
    {
-    "title": "Politik ist gefordert - Dürre-Drama bei Bauern: „Das war erst der Anfang!“ - krone.at",
+    "title": "Politik ist gefordert - Dürre-Drama bei Bauern: „Das war erst der Anfang!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMMVJ1LXBDY0ZYTEZ1RHgwUFJwTG54Skt2X1F4WlRxM0ZZbzlFQ1hUb3NyQkROYkpqQjNBYzlZQ3B4UQ?oc=5",
     "image": "",
-    "date": 1788494400000
+    "date": 1788494400000,
+    "titleSl": "Zahteva se politika – sušna drama med kmeti: “To je bil šele začetek!”"
    },
    {
-    "title": "Kabarettist im Podcast - Dann weiß „Opi“ Vitasek: „Jetzt is‘ nimmer lustig“ - krone.at",
+    "title": "Kabarettist im Podcast - Dann weiß „Opi“ Vitasek: „Jetzt is‘ nimmer lustig“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yZXB6S1FjcHFhRFA1M2ZFM2JPQ1Z4NWRlZm83blRrVWV6RnNaQ2M3WXpWQ1B4U3NjeVBkdTRXdngxZw?oc=5",
     "image": "",
     "date": 1788494400000,
-    "titleSl": "Kabarettist im Podcast - Dann weiß „Opi“ Vitasek: „Jetzt is ‘nimmer lustig“ - krone.at"
+    "titleSl": "Kabaretist v podcastu - Potem ve \"dedek\" Vitasek: \"Zdaj ni nikoli smešno\""
    }
   ],
   "rainews": [
+   {
+    "title": "L&#x27;addio a Noemi e Desirèe morte a 11 e 4 anni: palloncini, lacrime e lutto cittadino",
+    "link": "https://www.rainews.it/articoli/2026/09/paderno-si-ferma-per-il-funerale-delle-piccole-noemi-e-desiree-c79b505a-346c-4aac-a638-ba8360547c86.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/03/1788453199097_CHIESA_FUNERALE.jpeg",
+    "date": 1788495960000,
+    "titleSl": "L'addio a Noemi e Desirèe morte a 11 e 4 anni: palloncini, lacrime e lutto cittadino"
+   },
    {
     "title": "&#x27;&#x27;Per sempre insieme&#x27;&#x27;, l&#x27;ultimo saluto a Noemi e Desirèe morte nello schianto sulla Pontebbana",
     "link": "https://www.rainews.it/video/2026/09/per-sempre-insieme-lultimo-saluto-alle-due-sorelline-noemi-e-desiree-6a0747f6-291a-4e14-ae93-8191db4d442f.html",
@@ -523,13 +545,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/04/1788482488435_proteste.jpg",
     "date": 1788481920000,
     "titleSl": "Rabbia e fischi dopo l 'assoluzione di Fenech da mandante dell'omicidio di Daphne Caruana Galizia"
-   },
-   {
-    "title": "Malta sotto shock per l&#x27;assoluzione di Fenech per il delitto Caruana Galizia: rabbia e proteste",
-    "link": "https://www.rainews.it/articoli/2026/09/malta-sotto-shock-per-lassoluzione-di-fenech-rabbia-e-proteste-per-il-delitto-caruana-galizia-7738943c-a3f0-494a-a725-6222a193b851.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/04/1788482488435_proteste.jpg",
-    "date": 1788479580000,
-    "titleSl": "Malta sotto shock per l'assoluzione di Fenech per il delitto Caruana Galizia: rabbia e proteste"
    }
   ],
   "lemonde": [
