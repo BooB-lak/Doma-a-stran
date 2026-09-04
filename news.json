@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-04T06:54:29.166Z",
+ "generatedAt": "2026-09-04T06:56:25.169Z",
  "sources": {
   "siol": [
+   {
+    "title": "Radarska slika padavin – aktualna vremenska slika za Slovenijo",
+    "link": "https://siol.net/novice/slovenija/radarska-slika-padavin-aktualna-vremenska-slika-za-slovenijo-664368",
+    "image": "https://siol.net/media/img/fc/e8/04a39738d32ef800c163.jpeg",
+    "date": 1788504900000
+   },
    {
     "title": "Dan po veliki zmagi Jakoba Omrzela nova priložnost za ubežnike?",
     "link": "https://siol.net/sportal/kolesarstvo/dirka-po-spaniji-13-etapa-700591",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/tenis/kyrgiosu-se-je-iztekla-prepoved-nastopanja-zaradi-kokaina-700603",
     "image": "https://siol.net/media/img/db/28/3cfe35befe2085604551.jpeg",
     "date": 1788501360000
-   },
-   {
-    "title": "Uspešen dan za favoritinje, drugi igralki sveta se je mudilo",
-    "link": "https://siol.net/sportal/tenis/op-zda-wta-5-dan-2-krog-swiatek-osaka-700536",
-    "image": "https://siol.net/media/img/31/6d/928d15f447545d4797be.jpeg",
-    "date": 1788500700000
    }
   ],
   "24ur": [
@@ -45,6 +45,12 @@
     "link": "https://www.24ur.com/novice/slovenija/tomo-cesen-ko-pridem-na-vrh-ze-razmisljam-o-spustu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/585568564ca7e0f79560_63640718.jpg?v=994f&fop=fp:0.46:0.23",
     "date": 1788504272000
+   },
+   {
+    "title": "Utrujeni kontrolorji: v enem mesecu šest skorajšnjih trkov letal",
+    "link": "https://www.24ur.com/novice/tujina/sydney_3.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2019/15ec6d1d0d_62297357.jpg?v=1630&fop=fp:0.46:0.38",
+    "date": 1788503698000
    },
    {
     "title": "Navijaški spektakel, ki je osupnil svet: vlak smrti na tribunah",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/cudez-po-apokalipsi-v-nepalu-iz-tunela-vec-kot-teden-kaseneje-resili-dve-osebi.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/28ce12490ad1b82997cd_63642262.jpg?v=0fd9&fop=fp:0.49:0.33",
     "date": 1788499932000
-   },
-   {
-    "title": "Za mnoga dekleta se skrbi ne končajo pri šolskih potrebščinah",
-    "link": "https://www.24ur.com/novice/slovenija/sola-in-menstrualna-revscina.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/dc5fc10a01440a7f682b_63637810.jpg?v=60c8&fop=fp:0.38:0.48",
-    "date": 1788498220000
    }
   ],
   "rtvslo": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Workers Rescued From Tunnel in Nepal 9 Days After Flood",
+    "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-floods-rescue-tunnel-worker.html",
+    "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-nepal-rescue-twcj/04int-nepal-rescue-twcj-mediumSquareAt3X.jpg",
+    "date": 1788500633000,
+    "titleSl": "Delavci, rešeni iz predora v Nepalu 9 dni po poplavi"
+   },
+   {
     "title": "Something Alarming Is About to Happen in Germany",
     "link": "https://www.nytimes.com/2026/09/04/opinion/afd-germany-saxony-anhalt.html",
     "image": "https://static01.nyt.com/images/2026/09/06/opinion/04kundnani/04kundnani-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03trump-news-army-secretary1-gkfq/03trump-news-army-secretary1-gkfq-mediumSquareAt3X.jpg",
     "date": 1788484735000,
     "titleSl": "Trump Taps Army Engineering Uradnik kot v.d. sekretarja"
-   },
-   {
-    "title": "Steinem’s N.Y.C. Brownstone Will Continue to Be a Sanctuary for Feminism",
-    "link": "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html",
-    "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03met-steinem-home-01-hpqf/03met-steinem-home-01-hpqf-mediumSquareAt3X.jpg",
-    "date": 1788483606000,
-    "titleSl": "Steinem's N.Y.C. Brownstone bo še naprej svetišče za feminizem"
    }
   ],
   "bbc": [
@@ -334,8 +334,15 @@
     "title": "Australia news live: Anthony Albanese extends ‘deepest condolences’ to Nepal’s PM after deadly floods; total fire ban for greater Sydney on Saturday",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/46799d5f3c1071e829610a0634cf393dfc735c81/1170_4_3430_2744/master/3430.jpg?width=140&quality=85&auto=format&fit=max&s=661338e4457d7a6844ce0adff37aaca8",
-    "date": 1788503701000,
+    "date": 1788504665000,
     "titleSl": "Avstralske novice v živo: Anthony Albanese izreka \"najgloblje sožalje\" nepalskemu premierju po smrtonosnih poplavah; popolna prepoved požarov za večji Sydney v soboto"
+   },
+   {
+    "title": "British army told to halt non-essential training exercises to save money",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/04/british-army-halt-non-essential-training-exercises-save-money",
+    "image": "https://i.guim.co.uk/img/media/3c7a4bbf1f9bd4fffe968c4025bab14c7db7b59f/256_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=e785f9acb8fa14f0f80f2f1912bb1581",
+    "date": 1788504279000,
+    "titleSl": "Britanska vojska je naročila, naj prenehajo z nenujnimi vajami, da bi prihranili denar"
    },
    {
     "title": "Charles Perrottet denies asking brother as premier to appoint cabinet minister, Icac hears",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/88ecd893ee0294639f322ff0921e11724729f71e/347_0_1158_926/master/1158.jpg?width=140&quality=85&auto=format&fit=max&s=ac12d7811eb5bc0e3c5dbc4c7a7d6eb2",
     "date": 1788501600000,
     "titleSl": "Razkrito: kako podjetja \"skrivaj\" porabijo milijarde litrov javne vode v Angliji, ki jo je prizadela suša"
-   },
-   {
-    "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-    "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-    "image": "https://i.guim.co.uk/img/media/749a5b9872bc62ee30d484d1911b551515d8058a/225_0_4237_3390/master/4237.jpg?width=140&quality=85&auto=format&fit=max&s=18ccfa4edfc37d6c379453a5b9e00194",
-    "date": 1788498213000,
-    "titleSl": "Predsednik Javier Milei pravi, da \"vetrovi sprememb\" podpirajo zahtevo Argentine po Falklandskih otokih"
    }
   ],
   "spiegel": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Es geht um ein Vertrags-Detail - BVB-Bosse lernten aus pikantem Fehler",
+    "link": "https://www.bild.de/sport/fussball/nwaneri-bvb-bosse-lernten-aus-pikantem-fehler-6a998a31dde98c92361807c8",
+    "image": "https://images.bild.de/6a998a31dde98c92361807c8/e55ab17013742e534d4fd962cfe2d03a,4dca357a?w=1280",
+    "date": 0
+   },
+   {
     "title": "Thüringens Ex-Landeschef - Bodo Ramelow zieht es nach Italien",
     "link": "https://www.bild.de/politik/inland/thueringens-ex-landeschef-bodo-ramelow-zieht-es-nach-italien-6a9a6093b3e0470a1975b264",
     "image": "https://images.bild.de/6a9a6093b3e0470a1975b264/5741984c1b76c411efb8f226a9b314f9,8fc83112?w=1280",
@@ -444,13 +450,6 @@
     "link": "https://www.bild.de/politik/inland/33-grosse-firmen-in-nur-sechs-monaten-pleite-6a9a3e07dde98c9236180ef9",
     "image": "https://images.bild.de/6a9a3e07dde98c9236180ef9/75a3e2f5c73aec733a09fd50bacca660,65c7f99f?w=1280",
     "date": 0
-   },
-   {
-    "title": "Wieder Strom-Sabotage? - Polizei umstellt Umspannwerk in Niedersachsen",
-    "link": "https://www.bild.de/regional/niedersachsen/ganderkesee-polizeieinsatz-an-umspannwerk-wegen-verdachtsmomenten-6a9a483e240b302c8a8389e7",
-    "image": "https://images.bild.de/6a9a483e240b302c8a8389e7/f971312e021b4aeab983e4cad626b1a6,e77796cb?w=1280",
-    "date": 0,
-    "titleSl": "Wieder Strom-Sabotaža? - Polizei umstellt Umspannwerk v Niedersachsenu"
    }
   ],
   "krone": [
@@ -468,6 +467,13 @@
     "date": 1788503460000
    },
    {
+    "title": "Arsonore Graz - Viele starke Stimmen singen für die Liebe",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xSkpYZnVzb2tIXzdLd3lXZWV0Tl9DVEhJMU5KcS1tdlFiZmVBWkh4UE5pTERSU0N0eV8xaHJMWWJXZw?oc=5",
+    "image": "",
+    "date": 1788503400000,
+    "titleSl": "Požar Gradec - Viele starke Stimmen singen für die Liebe"
+   },
+   {
     "title": "Wertvolle Rohstoffe - Milliardenwerte in EU-Elektroschrott ungenutzt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FaFB6YWxxMGk0ejhTbl92RW12YU8zTkJoczUtTTNIRWUyRTI3NDRzUnl5ZzN2aUdmSXYtWlRRWG9adw?oc=5",
     "image": "",
@@ -482,12 +488,6 @@
    {
     "title": "„Verdächtige Umstände“ - Wieder Alarm! Umspannwerk in Deutschland umstellt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xVDBFazcxd3M5WFpjVDlOeEI5NHZ1MVdLMXNFdlFlUnkxeEFyMkhsU2FFUzYxdWlUYVVneVJqWEZlQQ?oc=5",
-    "image": "",
-    "date": 1788501900000
-   },
-   {
-    "title": "Streit um Face ID - BASF verklagt Apple wegen Patentverletzung",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVaFprVHJldGtoU0FxcjZIZ3UtUVRaRmVsV01saW90b3ZJa1VhMWdMVFNwa3Q1c2M4LWI0SzZHbG1NZw?oc=5",
     "image": "",
     "date": 1788501900000
    }
