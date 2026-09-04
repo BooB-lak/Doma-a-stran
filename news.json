@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T10:46:25.695Z",
+ "generatedAt": "2026-09-04T10:48:26.473Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "Trenutno v vodstvu Russel pred Norrisom",
+    "title": "Trenutno v vodstvu Russel pred Hamiltonom",
     "link": "https://www.24ur.com/sport/formula1/na-sporedu-prvi-prosti-trening.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2026/2e140b87be9ea17c41a0_63548218.jpg?v=9844&fop=fp:0.47:0.55",
-    "date": 1788518676000
+    "date": 1788518814000
    },
    {
     "title": "Navijaški spektakel: vlak smrti na tribunah",
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html",
+    "image": "https://static01.nyt.com/images/2026/09/03/multimedia/4pol-nc-mail-ballots-qgzp/4pol-nc-mail-ballots-qgzp-mediumSquareAt3X-v2.jpg",
+    "date": 1788517783000,
+    "titleSl": "Severna Karolina pošilja prve volilne liste jeseni, medtem ko jih Trump poskuša omejiti"
+   },
+   {
     "title": "Families Turn to Symbolic Cremation After Nepal Floods",
     "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-nepal-rites-hlcq/04int-nepal-rites-hlcq-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04goldberg-zpgm/04goldberg-zpgm-mediumSquareAt3X-v2.jpg",
     "date": 1788512695000,
     "titleSl": "Česa nas lahko nauči Gloria Steinem"
-   },
-   {
-    "title": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
-    "link": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
-    "image": "",
-    "date": 1788512619000,
-    "titleSl": "Trgi obveznic dvigujejo obrestne mere. Ali bodo centralne banke sledile?"
    }
   ],
   "bbc": [
@@ -246,7 +246,7 @@
     "title": "Woman sentenced after cousin killed in XL bully attack",
     "link": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45ce/live/b01c6320-a84b-11f1-b1d1-d7cca3b85b1e.jpg",
-    "date": 1788518333000,
+    "date": 1788518787000,
     "titleSl": "Ženska obsojena zaradi umora bratranca v napadu ustrahovalca XL"
    },
    {
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Farage says Reform has ‘broken no laws’ after party suspends officials over donations sting – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
+    "title": "Reform UK suspends two senior officials after undercover report on donations",
+    "link": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-aides-step-down-reform-uk-investigation-political-donation-rules-breach",
     "image": "https://i.guim.co.uk/img/media/878526afaa236ee3c1103937ba50a80570bdcca3/638_0_2012_1610/master/2012.jpg?width=140&quality=85&auto=format&fit=max&s=d1789c02590908ed7631fb31248312d8",
-    "date": 1788517537000,
-    "titleSl": "Farage pravi, da reforma \"ni prekršila zakonov\", potem ko je stranka suspendirala uradnike zaradi donacij – britanska politika v živo"
+    "date": 1788518238000,
+    "titleSl": "Reforma Združenega kraljestva suspendira dva visoka uradnika po tajnem poročilu o donacijah"
    },
    {
     "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/8c1c80569d9fb0916b1112efcf33b000a9e2e4d3/324_0_3287_2632/master/3287.jpg?width=140&quality=85&auto=format&fit=max&s=8867c7111fa37de18ae3428bd78d4a8f",
-    "date": 1788517428000,
+    "date": 1788518201000,
     "titleSl": "Romunski tožilci obtožujejo Andrewa Tateja zaradi trgovine z mladoletniki, pranja denarja – Evropa V živo"
+   },
+   {
+    "title": "Missouri supreme court blocks congressional maps backed by Trump for midterms – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/1b64d780d138f983eb00807f780354fab89e93b6/157_0_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=5092852d87cd25a01d2ee7e4609c456a",
+    "date": 1788518067000,
+    "titleSl": "Vrhovno sodišče Missourija blokira kongresne zemljevide, ki jih je Trump podprl za vmesne izpite – ameriška politika v živo"
+   },
+   {
+    "title": "Farage says Reform has ‘broken no laws’ after party suspends officials over donations sting – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/878526afaa236ee3c1103937ba50a80570bdcca3/638_0_2012_1610/master/2012.jpg?width=140&quality=85&auto=format&fit=max&s=d1789c02590908ed7631fb31248312d8",
+    "date": 1788517537000,
+    "titleSl": "Farage pravi, da reforma \"ni prekršila zakonov\", potem ko je stranka suspendirala uradnike zaradi donacij – britanska politika v živo"
    },
    {
     "title": "Iranian town mourns after deadly strike on wedding",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/48855307f6ce4ed9ec2e91a7134eb5658c9fe585/214_0_1066_853/master/1066.jpg?width=140&quality=85&auto=format&fit=max&s=ab34fbdcd935e2372a69cbed2c4a2650",
     "date": 1788515345000,
     "titleSl": "Dva delavca sta preživela iz predora devet dni po poplavah v Nepalu in Tibetu"
-   },
-   {
-    "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-    "link": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-    "image": "https://i.guim.co.uk/img/media/691351e2fe2e0941e4795eede71342a8aaa5dad0/233_0_4611_3689/master/4611.jpg?width=140&quality=85&auto=format&fit=max&s=ba6474f941b393c577bd13e97de8beb3",
-    "date": 1788515038000,
-    "titleSl": "Volkswagen bo odpustil nadaljnjih 50.000 delovnih mest, saj končuje spor s sindikatom glede načrta oživitve"
-   },
-   {
-    "title": "Thieves target mail order sales as Pokémon card prices soar",
-    "link": "https://www.theguardian.com/games/2026/sep/04/thieves-target-mail-order-sales-as-pokemon-card-prices-soar",
-    "image": "https://i.guim.co.uk/img/media/05554e18fe4956642294dcff54102f9d2802f722/1019_1820_3265_2612/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=a981073e46b2ae7405453225cd406622",
-    "date": 1788514503000,
-    "titleSl": "Tatovi ciljajo na prodajo po pošti, saj cene Pokémon kartic naraščajo"
    }
   ],
   "spiegel": [
@@ -416,15 +416,15 @@
   ],
   "bild": [
    {
-    "title": "Schwiegermutter fuhr Fluchtwagen - Politiker tritt nach Verbrechen von Stade zurück",
-    "link": "https://www.bild.de/politik/inland/politiker-tritt-nach-verbrechen-von-stade-zurueck-schwiegermutter-fuhr-fluchtwagen-6a9a66cfdde98c9236181149",
-    "image": "https://images.bild.de/6a9a66cfdde98c9236181149/f4510bb1f0100bb0d13a404f269aaa11,c49ac48e?w=1280",
-    "date": 0
-   },
-   {
     "title": "Nach Thüringen-Beben - BSW-Rebellen halten an Regierungskoalition fest",
     "link": "https://www.bild.de/politik/inland/nach-thueringen-beben-bsw-rebellen-halten-an-regierungskoalition-fest-6a9a9603240b302c8a838f9f",
     "image": "https://images.bild.de/6a9a9603240b302c8a838f9f/fc14ceef3ae3fde1bec2131764d31da1,9afb71cb?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Schwiegermutter fuhr Fluchtwagen - Politiker tritt nach Verbrechen von Stade zurück",
+    "link": "https://www.bild.de/politik/inland/politiker-tritt-nach-verbrechen-von-stade-zurueck-schwiegermutter-fuhr-fluchtwagen-6a9a66cfdde98c9236181149",
+    "image": "https://images.bild.de/6a9a66cfdde98c9236181149/f4510bb1f0100bb0d13a404f269aaa11,c49ac48e?w=1280",
     "date": 0
    },
    {
@@ -460,6 +460,12 @@
     "date": 1788518699000
    },
    {
+    "title": "Pro und Contra - Ist dieses Salzburger Team Stadionbesuch wert?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TOE5FRlltUUZnNUd4OVB3OVlVbDVpeVBmQk56aThyXzVfOVVRdFN1dTdsTlgwc1B6NFAweTZhR3hqQQ?oc=5",
+    "image": "",
+    "date": 1788517800000
+   },
+   {
     "title": "Tragödie in Italien - Österreicher (59) stirbt am Strand von Caorle",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4tYmpORHkxTnluZjFsRy1KUlBkeUJLZlQ0R2ZjR1I0RHZzZTRnbWdaSnNEUGZiLXI5LVNQakJQRTZSZw?oc=5",
     "image": "",
@@ -482,13 +488,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1qS2l3QVBPWDN5UXNOYU9aek1BRlR2Y29yeHRPT0R3ckkwcDBLNzJUTFM3RmJldUwtWHVsTGZZUEdTdw?oc=5",
     "image": "",
     "date": 1788516240000
-   },
-   {
-    "title": "„USS Abraham Lincoln“ von Bug bis Heck verrostet",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xMHlEdXZ5eVhLMDRLWkQ5YzFjcjg2cXZqM2otT0JselZOZ19BWm5Ea01OSWt6RmJsZE5XMlJDRGxaQQ?oc=5",
-    "image": "",
-    "date": 1788516240000,
-    "titleSl": "\"USS Abraham Lincoln\" von Bug bis Heck verrostet"
    }
   ],
   "rainews": [
