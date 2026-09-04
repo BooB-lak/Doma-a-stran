@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T15:28:25.484Z",
+ "generatedAt": "2026-09-04T15:30:56.817Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Bulega lahko v Franciji že osvoji naslov prvaka v razredu Superbike",
     "link": "https://www.24ur.com/sport/ostalo/bulega-lahko-v-franciji-ze-osvoji-naslov-prvaka-v-razredu-superbike.html",
     "image": "https://images.24ur.com/media/images/213xX/May2026/b83982f06c594cd65b89_63579915.jpg?v=cdd5&fop=fp:0.51:0.44",
-    "date": 1788535540000
+    "date": 1788535726000
    },
    {
     "title": "Wout van Aert junak 13. etape, Roglič in Omrzel zadržala svoji mesti",
@@ -117,7 +117,7 @@
   ],
   "zurnal": [
    {
-    "title": "Napad na znano slovensko podjetje: Proizvodnjo so morali ustaviti",
+    "title": "Napad na slovensko podjetje: Proizvodnjo so morali ustaviti",
     "link": "https://www.zurnal24.si/slovenija/incom-hekerski-napad-464679",
     "image": "https://www.zurnal24.si/media/img/1b/bc/4c1b0e6eae18e14d6f7b.jpeg",
     "date": 1788535620000
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+    "link": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+    "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-israel-lebanon-1-zhlc/04int-israel-lebanon-1-zhlc-mediumSquareAt3X.jpg",
+    "date": 1788535524000,
+    "titleSl": "Izrael pravi, da utrjuje svoje oporišče v južnem Libanonu"
+   },
+   {
     "title": "Inside Mamdani’s Private Army of Public Influencers",
     "link": "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html",
     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00met-mamdani-influencers-02-zmgw/00met-mamdani-influencers-02-zmgw-mediumSquareAt3X.jpg",
@@ -232,22 +239,22 @@
     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/00biz-diesel-record-hkmz/00biz-diesel-record-hkmz-mediumSquareAt3X.jpg",
     "date": 1788533960000,
     "titleSl": "Cene dizelskega goriva v ZDA so dosegle novo najvišjo vrednost"
-   },
-   {
-    "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
-    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "image": "https://static01.nyt.com/images/2026/08/29/business/00OPEN-SOURCE-AI/00OPEN-SOURCE-AI-mediumSquareAt3X.png",
-    "date": 1788533738000,
-    "titleSl": "Korporativna Amerika postaja zasvojena z odprtokodnim AI"
    }
   ],
   "bbc": [
    {
-    "title": "Gatwick flights disrupted after plane gets stuck",
+    "title": "Farage unveils small boats deal with French National Rally party",
+    "link": "https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c3/live/fa997a60-a86d-11f1-bbad-43eaf67b94b6.jpg",
+    "date": 1788535819000,
+    "titleSl": "Farage razkriva dogovor o majhnih čolnih s francosko stranko National Rally"
+   },
+   {
+    "title": "Planes grounded at Gatwick after aircraft stuck on runway",
     "link": "https://www.bbc.co.uk/news/articles/c0klx2y08j0o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d9/live/79acc660-a867-11f1-b109-879e35c24276.jpg",
     "date": 1788535226000,
-    "titleSl": "Letalo Gatwick je prekinjeno, ker se je letalo zagozdilo"
+    "titleSl": "Letala so pristala na Gatwicku, potem ko je letalo obstalo na stezi"
    },
    {
     "title": "Schools close early for A66 crash funeral",
@@ -269,13 +276,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecdc/live/c1c0cbb0-a86f-11f1-bbad-43eaf67b94b6.jpg",
     "date": 1788534040000,
     "titleSl": "Donald in Crocombe dobita vpoklic za angleško belo žogo"
-   },
-   {
-    "title": "Farage unveils small boats deal with French National Rally party",
-    "link": "https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c3/live/fa997a60-a86d-11f1-bbad-43eaf67b94b6.jpg",
-    "date": 1788533817000,
-    "titleSl": "Farage razkriva dogovor o majhnih čolnih s francosko stranko National Rally"
    },
    {
     "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
@@ -421,7 +421,7 @@
    {
     "title": "Zugriff am Braunkohletagebau - SEK stürmt Lkw von Strom-Saboteur",
     "link": "https://www.bild.de/news/zugriff-am-braunkohletagebau-sek-stuermt-lkw-von-strom-saboteur-6a9adabddde98c9236181fa4",
-    "image": "https://images.bild.de/6a9adabddde98c9236181fa4/abcb2257d431bbf7a2d1eac3f9001c2d,10a8885?w=1280",
+    "image": "https://images.bild.de/6a9adabddde98c9236181fa4/2e174dc47d25d8534fb426accbf0cf2e,dcc50103?w=1280",
     "date": 0,
     "titleSl": "Dostop do površinskega rudnika rjavega premoga - SEK napade tovornjak saboterja električne energije"
    },
