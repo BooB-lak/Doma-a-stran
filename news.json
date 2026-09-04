@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T14:22:26.305Z",
+ "generatedAt": "2026-09-04T14:24:23.841Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,13 @@
     "title": "Trenutno na drugem treningu v ospredju dirkača Mercedesov",
     "link": "https://www.24ur.com/sport/formula1/na-sporedu-prvi-prosti-trening.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2026/2e140b87be9ea17c41a0_63548218.jpg?v=9844&fop=fp:0.47:0.55",
-    "date": 1788531628000
+    "date": 1788531814000
+   },
+   {
+    "title": "Pevec Blaž Gec se je razveselil rojstva drugorojenca",
+    "link": "https://www.24ur.com/popin/domaca-scena/pevec-blaz-gec-se-je-razveselil-rojstva-drugorojenca.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/238d530f92bbeb51c18b_63642478.jpg?v=209d&fop=fp:0.30:0.32",
+    "date": 1788531613000
    },
    {
     "title": "Kosova zaradi Mladića odpovedala obisk Srbije, Vučić: Pojasnilo je kratko in neumno",
@@ -59,22 +65,16 @@
     "date": 1788531249000
    },
    {
+    "title": "Nove sankcije proti Kubi: 'Cilj je ustvariti stisko in trpljenje med prebivalstvom'",
+    "link": "https://www.24ur.com/novice/tujina/nove-sankcije-proti-kubi-cilj-je-ustvariti-stisko-in-trpljenje-med-prebivalstvom.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2026/f79c26a19f659fd66135_63599485.jpg?v=42ce&fop=fp:0.45:0.32",
+    "date": 1788530345000
+   },
+   {
     "title": "Čokoladna replika znamenitega spomenika za Modija ni preživela poti",
     "link": "https://www.24ur.com/novice/tujina/belgija-cokoladna-replika-znamenitega-spomenika-za-modija-ni-prezivela-poti.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/c34f906eec3a03dfdc40_63642502.jpg?v=1543&fop=fp:0.42:0.41",
     "date": 1788529746000
-   },
-   {
-    "title": "Gasly zaradi McLarna ponovno brez stopničk na VN Monaka",
-    "link": "https://www.24ur.com/sport/formula1/gasly-zaradi-mclarna-brez-stopnick-na-vn-monaka.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jun2026/819dbdfdc0b24183a22c_63608714.jpg?v=8597&fop=fp:0.49:0.46",
-    "date": 1788527137000
-   },
-   {
-    "title": "Zgodovinski preboj: prašičja ledvica bolniku omogočila devet mesecev brez dialize",
-    "link": "https://www.24ur.com/novice/tujina/zgodovinski-preboj-prasicja-ledvica-bolniku-omogocila-devet-mesecev-brez-dialize.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/9d73d1b266c35c7ca9ee_63642493.jpg?v=c9c0&fop=fp:0.44:0.23",
-    "date": 1788527022000
    }
   ],
   "rtvslo": [
@@ -199,18 +199,18 @@
   ],
   "nyt": [
    {
+    "title": "Can a ‘Prairie Populist’ Democrat Win a Senate Seat in Trump’s Iowa?",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html",
+    "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03pol-turek-ball-wqhp/03pol-turek-ball-wqhp-mediumSquareAt3X.jpg",
+    "date": 1788531595000,
+    "titleSl": "Ali lahko 'prerijski populist' demokrat osvoji sedež v senatu v Trumpovi Iowi?"
+   },
+   {
     "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
     "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00biz-openai-investigation-01-ktwg/00biz-openai-investigation-01-ktwg-mediumSquareAt3X.jpg",
     "date": 1788531322000,
     "titleSl": "Kako je OpenAI omejil raziskavo vdora svojih robotov v Hugging Face"
-   },
-   {
-    "title": "A Paralympian Takes His Shot Despite Republicans’ Home Court Advantage",
-    "link": "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html",
-    "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03pol-turek-ball-wqhp/03pol-turek-ball-wqhp-mediumSquareAt3X.jpg",
-    "date": 1788529427000,
-    "titleSl": "Paraolimpijec se ustreli kljub prednosti republikancev na domačem sodišču"
    },
    {
     "title": "What Gloria Steinem Can Teach Us",
@@ -463,49 +463,63 @@
   ],
   "krone": [
    {
-    "title": "Musical „No(n)sens“ - Fünf „Himmelhühner“ sorgen für jede Menge Wirbel - krone.at",
+    "title": "Kein Wort der Reue - Nach Todesfahrt: Pfarrer fordert wieder Freispruch",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4LXVCUlFIOGxCa0lodkhyaDQ5VVk5dUZtanlWOTluZ3NTbGRjWkVQaWwyRWJJeHMyMU1zdjY3YjdaZw?oc=5",
+    "image": "",
+    "date": 1788530640000,
+    "titleSl": "Niti besede obžalovanja - Po smrti: Pastor znova poziva k oprostitvi"
+   },
+   {
+    "title": "Buch zu 50er-Jubiläum - Geburtstag für ein Bade- und Erholungsparadies",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94U0U1VDRMQkJIUFZMQnN4dXFfa2FQUG5sSVpjN0xHaXJTYWFDdVdGZmYyb2Nhc0k2dG14aExSMGhUUQ?oc=5",
+    "image": "",
+    "date": 1788530400000,
+    "titleSl": "Knjiga za 50-letnico - rojstni dan za kopalni in sprostitveni raj"
+   },
+   {
+    "title": "Arsonore Graz - Der Liebestraum wurde zu fünft weitergeträumt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zNmY2dVVsT1lleDJRa3dRN3JZTkVKYk9DUGkyVkM5VnUyVU9HbmpwSUt4eGVBak5uOE1Gc3Z2aXZJQQ?oc=5",
+    "image": "",
+    "date": 1788530400000,
+    "titleSl": "Arsonore Graz - Sanje o ljubezni smo še naprej sanjali nas pet"
+   },
+   {
+    "title": "Musical „No(n)sens“ - Fünf „Himmelhühner“ sorgen für jede Menge Wirbel",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXYmMyeGdjeTRvM2kzT2JLNDY0Zkx1dkVFVlExUWh3eU90MkFxV2U5UTEtM3FXdzRSLVVuejJRa1UwZw?oc=5",
     "image": "",
     "date": 1788530400000,
-    "titleSl": "Muzikal “No(n)sens” - Pet “Himmelhühner” povzroča veliko navdušenja - krone.at"
+    "titleSl": "Muzikal “No(n)sens” - Pet “Hens of Heaven” povzroča veliko navdušenja"
    },
    {
-    "title": "50.000 Jobs weg - VW-Aufsichtsrat beschließt Sparmaßnahmen - krone.at",
+    "title": "Hat sie, oder nicht? - Jennifer Lawrence packt über Beauty-OPs aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCajAybnZpYUVScjNVNUp6bXRlNG5mSS1NMmtka2t6bGVlWTd6MWVjLU4zNEZ2QllGcEw5eE5RN2RKdw?oc=5",
+    "image": "",
+    "date": 1788530400000,
+    "titleSl": "Saj je, kajne? - Jennifer Lawrence spregovori o lepotni kirurgiji"
+   },
+   {
+    "title": "50.000 Jobs weg - VW-Aufsichtsrat beschließt Sparmaßnahmen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aU2F1Wm1JQjgzTTZaM3QzdGU2OThSVlkxRVVGN0UtQUpqbTQ0SDRvaTJzMXFMakxOSnR6NDFyT3VmZw?oc=5",
     "image": "",
     "date": 1788529626000,
-    "titleSl": "Izginilo 50.000 delovnih mest - nadzorni svet VW odloča o varčevalnih ukrepih - krone.at"
-   },
-   {
-    "title": "Gebäude in Flammen - Geheimdienst-Zentrale in Kiew von Drohne getroffen - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zX1pUM3BLNXpyLU5FVXV2bEd6RmVPNHNPdF8yb2dqZ182aTU1b0VrcjdEYnN3cU9FdVVlV3BOYmJGdw?oc=5",
-    "image": "",
-    "date": 1788529560000,
-    "titleSl": "Stavba v plamenih - sedež tajne službe v Kijevu zadel dron - krone.at"
-   },
-   {
-    "title": "Auf 13. Etappe - Mühlberger muss nach Sturz bei Vuelta aufgeben - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03S2FYbjQ2UmNuZnBtY0VVNlhiUDZPMGtMRHdCVGMxQ2FqLWE3V085Q255Y1Rhd05GSVZvR3V0YzM4UQ?oc=5",
-    "image": "",
-    "date": 1788529380000,
-    "titleSl": "Na 13. etapi - Mühlberger mora odnehati po padcu na Vuelti - krone.at"
-   },
-   {
-    "title": "Klub bestätigte es! - Nach heftigem Check: Neo-Eisbulle fällt aus - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ZVE1nRlBZb3Zpd2dINDNlMUFTWERkV1hqaDhyRGkzbUpzMl9VUXdEbTNqWld4MUN6Rl9reXBvQkdhZw?oc=5",
-    "image": "",
-    "date": 1788528720000,
-    "titleSl": "Klub je potrdil! - Po težkem preverjanju: Neo-Eisbulle je preklican - krone.at"
-   },
-   {
-    "title": "Festnahme, Anzeige! - Ortungsfunktion: Besitzer verfolgte Rad und Dieb - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94V25VM2FvX0VjdzdsVnlZaEExUmdFWVlnM3kzRTh3c3ZVaTlMVTNZcWs4VWdEMDdhZjI4UWdVWVN2dw?oc=5",
-    "image": "",
-    "date": 1788528720000,
-    "titleSl": "Prijeti, prijaviti! - Lokacijska funkcija: lastnik sledi kolesu in tatu - krone.at"
+    "titleSl": "Izginilo 50.000 delovnih mest - nadzorni svet VW odloča o varčevalnih ukrepih"
    }
   ],
   "rainews": [
+   {
+    "title": "La morte di Melissa Echevarria, la svolta nell&#x27;inchiesta: è stata strangolata, un 44enne confessa",
+    "link": "https://www.rainews.it/articoli/2026/09/la-morte-di-melissa-echevarria-la-svolta-nellinchiesta-e-stata-strangolata-un-44enne-confessa-6012273e-fd35-4620-8aa7-e76f68058aa1.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/04/1788527113269_melissaechevarria.jpeg",
+    "date": 1788531780000,
+    "titleSl": "Smrt Melisse Echevarria, prelomnica v preiskavi: zadavljena je bila, priznal 44-letnik"
+   },
+   {
+    "title": "Forum Cernobbio, Mattarella: \"Ue assuma iniziative per ordinamento internazionale equo\"",
+    "link": "https://www.rainews.it/maratona/2026/09/forum-cernobbio-mattarella-ue-ambrosetti-economia-geopolitica-tajani-urso-monti-bardella-vannacci-opposizioni-politiche-energetiche-fd5f444f-cc99-4e0f-8c6d-1232fa77bd24.html",
+    "image": "https://www.rainews.it/dl/img/2026/07/30/1785428461783_ranframe.jpeg",
+    "date": 1788531780000,
+    "titleSl": "Forum Cernobbio, Mattarella: \"EU sprejema pobude za pošten mednarodni red\""
+   },
    {
     "title": "Sindacati proclamano sciopero di 8 ore in tutti gli stabilimenti Electrolux",
     "link": "https://www.rainews.it/articoli/2026/09/sindacati-proclamano-sciopero-di-8-ore-in-tutti-gli-stabilimenti-electrolux-57a4b7a0-af3b-4858-9c98-f4d4f915b48a.html",
@@ -528,25 +542,11 @@
     "titleSl": "GP d'Italia, Ferrari davanti nelle prime \"libere\". Antonelli dovrà partire ultimo"
    },
    {
-    "title": "Governo Meloni il più longevo: in carica da 1.413 giorni. Oggi la festa a Bari di Fratelli d&#x27;Italia",
-    "link": "https://www.rainews.it/articoli/2026/09/il-governo-meloni-in-carica-da-1413-giorni-diventa-il-piu-longevo-oggi-la-festa-a-bari-fratelli-italia-bfeacaf9-8a3a-41c1-bbb7-c8171b9b3fcf.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/04/1788527784061_vlcsnaphms.png",
-    "date": 1788529980000,
-    "titleSl": "Governo Meloni il più longevo: in carica da 1.413 giorni. Oggi la festa a Bari di Fratelli d'Italia"
-   },
-   {
     "title": "Meloni in partenza per Bari per celebrare il suo record di governo: \"Ingerenze russe? Monitoriamo\"",
     "link": "https://www.rainews.it/video/2026/09/meloni-in-partenza-per-bari-per-celebrare-il-suo-record-di-governo-ingerenze-russe-monitoriamo-sicurezza-f4156051-d0e6-4ba3-840b-311526a07c36.html",
     "image": "https://www.rainews.it/dl/img/2026/9/04/1788527784061_vlcsnaphms.png",
     "date": 1788529860000,
     "titleSl": "Meloni odhaja v Bari, da bi proslavil svoj vladni rekord: \"Rusko vmešavanje? Spremljajmo\""
-   },
-   {
-    "title": "Un piccolo serpente sul volo Lampedusa- Palermo: l&#x27;allarme da passeggeri e equipaggio",
-    "link": "https://www.rainews.it/articoli/2026/09/serpente-sul-volo-lampedusa-palermo-lallarme-da-passeggeri-e-equipaggio-22d5c0bf-48e5-4955-852d-5608c010368e.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/04/1788520929342_SerpentecolubrodalcappucciorinvenutoabordodelvoloLampedusaPalermoscaled.jpg",
-    "date": 1788528780000,
-    "titleSl": "Un piccolo serpente sul volo Lampedusa- Palermo: l 'arme da passeggeri e equipaggio"
    }
   ],
   "lemonde": [
