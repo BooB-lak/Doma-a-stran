@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T16:12:26.276Z",
+ "generatedAt": "2026-09-04T16:14:26.570Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/slovenija/vila-bojana-krizaja-ze-nekaj-let-isce-novega-lastnika-cena-zanjo-znasa-skoraj-milijon-700617",
     "image": "https://siol.net/media/img/56/b8/51adea6798bea593f22b.jpeg",
     "date": 1788538320000
+   },
+   {
+    "title": "V prvo ligo se vračata Žan Žužek in Milan Tučić",
+    "link": "https://siol.net/sportal/nogomet/nogometna-trznica-4-september-zuzek-tucic-700610",
+    "image": "https://siol.net/media/img/0d/d6/1af5fb0c78f32054bf7f.jpeg",
+    "date": 1788538200000
    },
    {
     "title": "Drugo slovensko zlato: zmagala še Leila Mazouzi",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-3-krog-2026-700619",
     "image": "https://siol.net/media/img/df/48/fdff3e414a566f05c2c5.jpeg",
     "date": 1788535800000
-   },
-   {
-    "title": "Janša: Slovenske prioritete v pogajanjih o proračunu EU prehranska, energetska in kibernetska varnost",
-    "link": "https://siol.net/novice/slovenija/jansa-slovenske-prioritete-v-pogajanjih-o-proracunu-eu-prehranska-energetska-in-kibernetska-varnost-700544",
-    "image": "https://siol.net/media/img/47/53/6176f0242ea2e09e5ded.jpeg",
-    "date": 1788535260000
    }
   ],
   "24ur": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+    "image": "https://static01.nyt.com/images/2026/09/05/business/00roose-hugging-face/00roose-hugging-face-mediumSquareAt3X.jpg",
+    "date": 1788538339000,
+    "titleSl": "Zakaj bi vas moralo Hugging Face Hack bolj skrbeti za A.I."
+   },
+   {
     "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
     "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-ukraine-attack-01-glmq/04int-ukraine-attack-01-glmq-mediumSquareAt3X.jpg",
@@ -232,29 +239,22 @@
     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04dc-iran-intel-chgv/04dc-iran-intel-chgv-mediumSquareAt3X.jpg",
     "date": 1788535303000,
     "titleSl": "Po šestih mesecih vojne z ZDA se pojavlja samozavestnejši Iran"
-   },
-   {
-    "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-    "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
-    "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04dc-ukraine-vftq/04dc-ukraine-vftq-mediumSquareAt3X.jpg",
-    "date": 1788535269000,
-    "titleSl": "Kushner in Witkoff bosta odšla v Rusijo in Ukrajino, da bi oživila mirovna pogajanja"
    }
   ],
   "bbc": [
+   {
+    "title": "Farage says his aides' donor comments were 'loose pub talk'",
+    "link": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e95/live/c6320bb0-a873-11f1-824a-0fc4c5d895ae.jpg",
+    "date": 1788538109000,
+    "titleSl": "Farage pravi, da so bile pripombe donatorjev njegovih pomočnikov \"ohlapne pubske besede\""
+   },
    {
     "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
     "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg",
     "date": 1788537752000,
     "titleSl": "Zelenski pravi, da je Rusija z dronom napadla ukrajinski varnostni štab"
-   },
-   {
-    "title": "Farage unveils small boats deal with French National Rally party",
-    "link": "https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c3/live/fa997a60-a86d-11f1-bbad-43eaf67b94b6.jpg",
-    "date": 1788536942000,
-    "titleSl": "Farage razkriva dogovor o majhnih čolnih s francosko stranko National Rally"
    },
    {
     "title": "Richarlison omission not my decision - De Zerbi",
@@ -419,11 +419,11 @@
   ],
   "bild": [
    {
-    "title": "Merz klatschend in der Halle - Bundeskanzler bei Basketball-WM aufgetaucht!",
-    "link": "https://www.bild.de/sport/mehr-sport/friedrich-merz-bei-frauen-wm-in-berlin-aufgetaucht-6a9ae744b3e0470a1975bf8b",
-    "image": "https://images.bild.de/6a9ae744b3e0470a1975bf8b/b6a7d4bc24f73e6a62b8075f80a0c933,2c09ae49?w=1280",
+    "title": "25.000 Zuschauer erwartet - Downhill-Wahnsinn in Stuttgart",
+    "link": "https://www.bild.de/sport/mehr-sport/red-bull-cerro-abajo-stuttgart-wird-zur-krassen-downhill-arena-6a955667d7e51a6452b9eac8",
+    "image": "https://images.bild.de/6a955667d7e51a6452b9eac8/3cc56ebde806a30bc7c735f0723cd7dc,cfa07d9f?w=1280",
     "date": 0,
-    "titleSl": "Merz ploskal v dvorani - Kanclerka nastopila na SP v košarki!"
+    "titleSl": "Pričakovanih 25.000 gledalcev - spust norišnica v Stuttgartu"
    },
    {
     "title": "Zugriff am Braunkohletagebau - SEK stürmt Lkw von Strom-Saboteur",
@@ -433,32 +433,32 @@
     "titleSl": "Dostop do površinskega rudnika rjavega premoga - SEK napade tovornjak saboterja električne energije"
    },
    {
+    "title": "„Glücksgefühle“-Festival im Live-Ticker - Hubschrauber-Einsatz bei Mia Julia",
+    "link": "https://www.bild.de/unterhaltung/musik/gluecksgefuehle-das-festival-im-liveticker-6a9959bd240b302c8a837eb7",
+    "image": "https://images.bild.de/6a9959bd240b302c8a837eb7/e7bd92717905a84effc8d449bf59bac0,bcc423b9?w=1280",
+    "date": 0,
+    "titleSl": "Festival “Feelings of Happiness” v oddaji v živo - uporaba helikopterja z Mio Julio"
+   },
+   {
+    "title": "Kaum zu stoppen! - Erster WM-Auftritt der China-Gigantin (2,23m)",
+    "link": "https://www.bild.de/sport/mehr-sport/kaum-zu-stoppen-erster-wm-auftritt-der-china-gigantin-2-23m-6a9aebf4b3e0470a1975bfee",
+    "image": "https://images.bild.de/6a9aebf4b3e0470a1975bfee/62688ec0e2f68d106a0320803a9d286d,b783ddb0?w=1280",
+    "date": 0,
+    "titleSl": "Težko se je ustaviti! - Prvi nastop v svetovnem pokalu za kitajskega velikana (2,23 m)"
+   },
+   {
+    "title": "Merz klatschend in der Halle - Bundeskanzler bei Basketball-WM aufgetaucht!",
+    "link": "https://www.bild.de/sport/mehr-sport/friedrich-merz-bei-frauen-wm-in-berlin-aufgetaucht-6a9ae744b3e0470a1975bf8b",
+    "image": "https://images.bild.de/6a9ae744b3e0470a1975bf8b/b6a7d4bc24f73e6a62b8075f80a0c933,2c09ae49?w=1280",
+    "date": 0,
+    "titleSl": "Merz ploskal v dvorani - Kanclerka nastopila na SP v košarki!"
+   },
+   {
     "title": "Nach Aufsichtsratswahl - AfD-Wirbel um Chefin von Bundesligist",
     "link": "https://www.bild.de/sport/fussball/afd-wirbel-um-chefin-von-bundesligist-union-berlin-6a9a87e4dde98c92361814c7",
     "image": "https://images.bild.de/6a9a87e4dde98c92361814c7/c5d2f1d24161bc7a77fd978d41ca1251,6b13a7d9?w=1280",
     "date": 0,
     "titleSl": "Po volitvah nadzornega sveta - AfD pretresi okoli vodje bundesligaša"
-   },
-   {
-    "title": "Nach Regenfrust auf Max Schradins Tour - MontanaBlack bittet Fans ums Daumendrücken",
-    "link": "https://www.bild.de/unterhaltung/bildgg/rentner-tour-2-0-von-max-schradin-im-live-ticker-montanablack-in-unfall-verwickelt-6a97e471c53a6557d48dcf15",
-    "image": "https://images.bild.de/6a97e471c53a6557d48dcf15/184f0af8d7c1d7ef13713e4180465046,afc1eb7e?w=1280",
-    "date": 0,
-    "titleSl": "Po razočaranju zaradi dežja na turneji Maxa Schradina - MontanaBlack prosi oboževalce, naj držijo pesti"
-   },
-   {
-    "title": "Staatsschutz ermittelt - Brandanschlag auf Innenministerium von BaWü",
-    "link": "https://www.bild.de/regional/baden-wuerttemberg/baden-wuerttemberg-brandanschlag-auf-innenministerium-in-stuttgart-6a9adb47dde98c9236181fb7",
-    "image": "https://images.bild.de/6a9adb47dde98c9236181fb7/50120eca14d9a629a85e780bf1e01267,671c7e1a?w=1280",
-    "date": 0,
-    "titleSl": "Državna varnost preiskuje požig notranjega ministrstva BaWü"
-   },
-   {
-    "title": "Sechsfachmord - Frau des Killers prügelte auf sterbende Frau ein",
-    "link": "https://www.bild.de/regional/niedersachsen/sechsfach-mord-von-stade-frau-des-killers-pruegelte-auf-sterbende-sozialarbeiterin-ein-6a9827c6a33eb07b67945ebd",
-    "image": "https://images.bild.de/6a9827c6a33eb07b67945ebd/ffd8cd1fd9d23ac2c98c6f73b3c64f37,59aeca23?w=1280",
-    "date": 0,
-    "titleSl": "Šestkratni umor - morilčeva žena je pretepla umirajočo"
    }
   ],
   "krone": [
@@ -595,13 +595,6 @@
   ],
   "elpais": [
    {
-    "title": "La jueza de la dana responde a Mazón: “A nadie se le escapa que la falta de avisos sobre el riesgo al bajar a los garajes resultó mortal”",
-    "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-04/la-jueza-de-la-dana-responde-a-mazon-a-nadie-se-le-escapa-que-la-falta-de-avisos-sobre-el-riesgo-al-bajar-a-los-garajes-resulto-mortal.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/LH5XCSORKBCMNDBRJCNLFV3U7A.jpg?auth=244abf57282bcb44b4754da3671b49c3cd888fcb18e86e56709b8b2c040a8186",
-    "date": 1788538211000,
-    "titleSl": "Sodnik Dana odgovarja Mazonu: \"Nihče se ne zaveda, da je bilo pomanjkanje opozoril o tveganju pri spuščanju v garaže usodno.\""
-   },
-   {
     "title": "Illa cierra dos días de contactos políticos en Ucrania con su apoyo a la adhesión a la UE: “Defender Ucrania es defender Europa”",
     "link": "https://elpais.com/espana/catalunya/2026-09-04/illa-cierra-dos-dias-de-contactos-politicos-en-ucrania-con-su-apoyo-a-la-adhesion-a-la-ue-defender-ucrania-es-defender-europa.html",
     "image": "https://imagenes.elpais.com/resizer/v2/IICEMSX4KFP7JPQHWISXBEOTXQ.jpg?auth=738dbf55f252b26700de1cd3651b697be4c35a151641d4bf5c2626640434e381",
@@ -628,6 +621,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/H2EUR44F5NNDJGWHVZSLFGZVFE.jpg?auth=d0b2c6acd23cdf9280b09fb59ce91100f04e7f8fe6cc32d05fdce499a61fe6f9",
     "date": 1788536709000,
     "titleSl": "Sodnik grozi, da bo razglasil zamolčenje Lindsay Clancy zaradi umora njenih treh otrok zaradi blokiranja porote"
+   },
+   {
+    "title": "La jueza de la dana responde a Mazón: “A nadie se le escapa que la falta de avisos sobre el riesgo al bajar a los garajes resultó mortal”",
+    "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-04/la-jueza-de-la-dana-responde-a-mazon-a-nadie-se-le-escapa-que-la-falta-de-avisos-sobre-el-riesgo-al-bajar-a-los-garajes-resulto-mortal.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/LH5XCSORKBCMNDBRJCNLFV3U7A.jpg?auth=244abf57282bcb44b4754da3671b49c3cd888fcb18e86e56709b8b2c040a8186",
+    "date": 1788536645000,
+    "titleSl": "Sodnik Dana odgovarja Mazonu: \"Nihče se ne zaveda, da je bilo pomanjkanje opozoril o tveganju pri spuščanju v garaže usodno.\""
    },
    {
     "title": "El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto",
