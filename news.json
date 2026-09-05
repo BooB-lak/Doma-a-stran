@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05T05:18:27.148Z",
+ "generatedAt": "2026-09-05T05:20:39.451Z",
  "sources": {
   "siol": [
    {
@@ -79,8 +79,14 @@
   ],
   "rtvslo": [
    {
-    "title": "\"Neprimerni prostori so simptom, s katerim se slovenski arhivi v celoti soočamo\"",
-    "link": "https://www.rtvslo.si/kultura/intervju/neprimerni-prostori-so-simptom-s-katerim-se-slovenski-arhivi-v-celoti-soocamo/792835",
+    "title": "RTV je tudi slovenski zvočni NUK",
+    "link": "https://www.rtvslo.si/rtv-vsebine/rtv-je-tudi-slovenski-zvocni-nuk/792794",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/04/67092912.jpg",
+    "date": 1788585549000
+   },
+   {
+    "title": "\"Neprimerni prostori so simptom, s katerim se spopadamo slovenski arhivi\"",
+    "link": "https://www.rtvslo.si/kultura/intervju/neprimerni-prostori-so-simptom-s-katerim-se-spopadamo-slovenski-arhivi/792835",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/04/67093089.jpg",
     "date": 1788585378000
    },
@@ -107,17 +113,11 @@
     "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/trump-pravi-da-witkoff-in-kushner-v-moskvo-in-kijev-prinasata-predlog-za-koncanje-vojne/792861",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/04/67093482.jpg",
     "date": 1788552383000
-   },
-   {
-    "title": "Ostrostrelec Maroša zagotovil Nafti zmago nad Radomljani",
-    "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/ostrostrelec-marosa-zagotovil-nafti-zmago-nad-radomljani/792851",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/04/67093295.jpg",
-    "date": 1788545745000
    }
   ],
   "zurnal": [
    {
-    "title": "Huda nesreča na Gorenjskem: Poskušali so ga oživljati skoraj uro, a jim ni uspelo",
+    "title": "Tragedija na Gorenjskem: Omahnil je v globino, ni mu bilo več pomoči",
     "link": "https://www.zurnal24.si/slovenija/jadralni-padalec-smrt-bohinj-zaprto-padalo-padec-464689",
     "image": "https://www.zurnal24.si/media/img/03/79/fe176289e191af19115a.png",
     "date": 1788585360000
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Families of missing Ecuadorian fishermen allege US involvement",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788584872.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788584895000,
+    "titleSl": "Družine pogrešanih ekvadorskih ribičev trdijo, da so vpletene ZDA"
+   },
+   {
     "title": "‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire",
     "link": "https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/PXL_20260903_125734282.PORTRAIT-1788469308_8962ff-1788582537.jpg?resize=1200%2C630&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788579876.jpg?resize=1619%2C1080&quality=80",
     "date": 1788579980000,
     "titleSl": "Ali je izraelsko uničenje Gaze poslabšalo njeno krizo z vodo?"
-   },
-   {
-    "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788578672.jpg?resize=1620%2C1080&quality=80",
-    "date": 1788578746000,
-    "titleSl": "Trump z novim mirovnim načrtom poslal odposlance v Rusijo in Ukrajino"
    }
   ],
   "guardian": [
@@ -416,6 +416,13 @@
   ],
   "bild": [
    {
+    "title": "Elfer-Zoff in der 2. Liga - Beide Trainer schimpfen auf den Schiri",
+    "link": "https://www.bild.de/sport/fussball/elfer-zoff-in-der-2-liga-beide-trainer-schimpfen-auf-den-schiri-6a9b3cc0181cb962d488421b",
+    "image": "https://images.bild.de/6a9b3cc0181cb962d488421b/d769721d72912fafa8addde43a436e12,8090bed4?w=1280",
+    "date": 0,
+    "titleSl": "Elfer-Zoff v der 2. Liga - Beide Trainer schimpfen auf den Schiri"
+   },
+   {
     "title": "Hoch bringt Hitze zurück - Wann und wo die 30-Grad-Marke wackelt",
     "link": "https://www.bild.de/news/wetter/hoch-bringt-hitze-zurueck-wann-und-wo-die-30-grad-marke-wackelt-6a9a88cbdde98c92361814f7",
     "image": "https://images.bild.de/6a9a88cbdde98c92361814f7/62ddc0191e142fe194b1df4f85ed2442,d15d27e5?w=1280",
@@ -444,16 +451,33 @@
     "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-das-transfer-zeugnis-fuer-xxl-shopper-samir-arabi-6a9b3239fb727c4a1026545d",
     "image": "https://images.bild.de/6a9b3239fb727c4a1026545d/f6be652c8067c67c2a748e2b85dda734,ec25f8fb?w=1280",
     "date": 0
-   },
-   {
-    "title": "Elfer-Zoff in der 2. Liga - Beide Trainer schimpfen auf den Schiri",
-    "link": "https://www.bild.de/sport/fussball/elfer-zoff-in-der-2-liga-beide-trainer-schimpfen-auf-den-schiri-6a9b3cc0181cb962d488421b",
-    "image": "https://images.bild.de/6a9b3cc0181cb962d488421b/d769721d72912fafa8addde43a436e12,8090bed4?w=1280",
-    "date": 0,
-    "titleSl": "Elfer-Zoff v der 2. Liga - Beide Trainer schimpfen auf den Schiri"
    }
   ],
   "krone": [
+   {
+    "title": "Verbreiterung geplant - Nadelöhr am Radweg Stiglingen wird beseitigt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QaFdha19qT1poemtzWXk0SGwtd09XUXIzR3c1WmRDM1FtZ0s4VllZaU1zN2VaYkM5NXVGelZucDBBUQ?oc=5",
+    "image": "",
+    "date": 1788584400000
+   },
+   {
+    "title": "Zu dreist diskutiert - Aus 100-Euro-Strafzettel wurden 3000 Euro Geldbuße",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WNDF0aU1KajJFNERhMXBma0JlTjVSQkpVejdoR3ZKbDMxaGxTQnBFUWc1LTZtYXZqUGFjVEhHZlF0dw?oc=5",
+    "image": "",
+    "date": 1788584400000
+   },
+   {
+    "title": "Für Schüler, Lehrlinge - Was hinter Preissprung bei Öffi-Tickets steckt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1iMGpRYTZ3M3MxR3huRzFfUzQ1V3VfQWRXbWNTOUFrdVgwUGhqTjBDY0hZbWFDb1gzYnZ1US1SbVgydw?oc=5",
+    "image": "",
+    "date": 1788584400000
+   },
+   {
+    "title": "Einsatz auf der Katrin - Hilferufe am Berg könnten nur „Spaß“ gewesen sein",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LVkdwcmtTNW9BQXBRZ0dKQ3MxREVMVWQ4ZDVkVDFzUWxQTzFYMmNiaExJLXp6QVZXZmVPcVg1UWltdw?oc=5",
+    "image": "",
+    "date": 1788584400000
+   },
    {
     "title": "Wie Rakete abgehoben - Teammanagerin zog sich für den „Playboy“ aus",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ON0dOVmw2d1hPSjRacW5VekM0S1djcVBsaF9fcEY1a2M2Q0VDb193b2ZMRG9PODhneG1JSzB4MmVJZw?oc=5",
@@ -466,30 +490,6 @@
     "image": "",
     "date": 1788582600000,
     "titleSl": "\"Warum auch nicht ein zweites Mal schaffen?\""
-   },
-   {
-    "title": "Neue Verordnung - Biber: „Der Abschuss ist der allerletzte Ausweg“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaZVgtSjlmYldHaFhsZGZVWlhHN0hOTFNUXzI4WU9ucHVNaFZsdk5ZUVBSVHMxbXRpaTQ4ZFg4V0h1dw?oc=5",
-    "image": "",
-    "date": 1788582600000
-   },
-   {
-    "title": "Österreichweite Zahlen - Der Islam dominiert bereits an den Wiener Schulen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55SmdCck5QeFMwd1RJbkdja283dWRtUElBNV8yZjFqZzFSSEV1SHJRbTI4ZHpsU2Y1enZCMGVTelZrUQ?oc=5",
-    "image": "",
-    "date": 1788582600000
-   },
-   {
-    "title": "Mit 7 Schrauben zurück - Klubarzt des LASK operierte BW-Linz-Star Ronivaldo",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43c0pzLUpNbEdLMGhNY3k4c2JueG1qVWFRbE9iaUVwTUFDOU5rTlJLWHVtekhNamd2Q05EZldlbm5IZw?oc=5",
-    "image": "",
-    "date": 1788582600000
-   },
-   {
-    "title": "Das Spiel der Spiele - So viel Sturm steckt im Cup-Gegner Voitsberg",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpWTQzdVdpYzNvQlRrNGU2Ui1ISHkySVRGNHppYjI4Q0lyd1ljQktWWlc1X3BuYnVWMGJpemlKbHpNUQ?oc=5",
-    "image": "",
-    "date": 1788582600000
    }
   ],
   "rainews": [
