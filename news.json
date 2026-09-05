@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-05T06:28:26.137Z",
+ "generatedAt": "2026-09-05T06:30:58.135Z",
  "sources": {
   "siol": [
+   {
+    "title": "Lyles odpovedal nastop v Budimpešti in končal sezono",
+    "link": "https://siol.net/sportal/atletika/lyles-odpovedal-nastop-v-budimpesti-in-koncal-sezono-700695",
+    "image": "https://siol.net/media/img/37/b7/276b0925e806eae0f279.jpeg",
+    "date": 1788589680000
+   },
    {
     "title": "Po Evropi že več kot tisoč primerov okužbe z virusom Zahodnega Nila",
     "link": "https://siol.net/novice/svet/po-evropi-ze-vec-kot-tisoc-primerov-okuzbe-z-virusom-zahodnega-nila-700694",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/avtomoto/novice/tesla-razkril-cybercab-a-brez-velikega-spektakla-celo-elon-musk-je-ostal-doma-700665",
     "image": "https://siol.net/media/img/15/ac/011b17388c07827c4c00.jpeg",
     "date": 1788584760000
-   },
-   {
-    "title": "Arso z novimi temperaturnimi rekordi. Kje so jih izmerili?",
-    "link": "https://siol.net/novice/slovenija/arso-izmeril-nove-temperaturne-rekorde-kje-so-jih-namerili-700691",
-    "image": "https://siol.net/media/img/28/b8/d381b0cf2ad84a0533f2.jpeg",
-    "date": 1788584580000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Bolivian military barracks explosion kills at least 10",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-07.07.25-1788588554.png?resize=1200%2C675",
-    "date": 1788588665000,
-    "titleSl": "V eksploziji v bolivijski vojašnici je umrlo najmanj 10 ljudi"
-   },
-   {
     "title": "US imposes sanctions on Turkish bank, prompting legal threat",
     "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9b9ba52a81-1788582821.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9b801acfa1-1788575770.jpg?resize=1920%2C1440",
     "date": 1788580576000,
     "titleSl": "V eksplozijah v bolivijski vojaški bazi je umrlo najmanj 10 ljudi, na ducate jih je bilo ranjenih"
+   },
+   {
+    "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
+    "link": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9b7fe2481b-1788575714.jpg?resize=1920%2C1440",
+    "date": 1788580097000,
+    "titleSl": "Malezija je razglasila izredne razmere v Sarawaku, saj se meglica iz Indonezije slabša"
    }
   ],
   "guardian": [
@@ -416,6 +416,12 @@
   ],
   "bild": [
    {
+    "title": "Unternehmer schlagen Alarm - Wie die AfD Sachsen-Anhalts Wirtschaft verändern könnte",
+    "link": "https://www.bild.de/politik/unternehmer-schlagen-alarm-wie-die-afd-sachsen-anhalts-wirtschaft-veraendern-koennte-6a9ba719240b302c8a839e18",
+    "image": "https://images.bild.de/6a9ba719240b302c8a839e18/e54daef158d3e8ce5ca1e9c3c5e96378-landscape,eff85874?w=1280",
+    "date": 0
+   },
+   {
     "title": "AfD-Mann zu BILD - Siegmund reichen auch drei Stimmen Mehrheit nicht!",
     "link": "https://www.bild.de/politik/inland/sachsen-anhalt-ulrich-siegmund-reichen-auch-drei-stimmen-mehrheit-nicht-6a9acf6908c763dcf81f4615",
     "image": "https://images.bild.de/6a9acf6908c763dcf81f4615/099cbcc865b92e0cf351b8c906dcd349,6bb34af0?w=1280",
@@ -445,48 +451,43 @@
     "link": "https://www.bild.de/sport/fussball/bundesliga-alle-infos-und-aufstellungen-zum-2-spieltag-6a9a89b6b3e0470a1975b5c5",
     "image": "https://images.bild.de/6a9a89b6b3e0470a1975b5c5/bc3ee7936f79a6074730d874c2c881ab,7075cd43?w=1280",
     "date": 0
-   },
-   {
-    "title": "Kommentar von Peter Tiede - Kein Schwarz-Rot-Gold? Das ist Fahnen-Flucht vor der AfD!",
-    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-kein-schwarz-rot-gold-das-ist-fahnen-flucht-vor-der-afd-6a9ae70ab3e0470a1975bf83",
-    "image": "https://images.bild.de/6a9ae70ab3e0470a1975bf83/468339a5ca1a031beb199a3c20d7bfcb,78d8b093?w=1280",
-    "date": 0,
-    "titleSl": "Komentar Peter Tiede - Kein Schwarz-Rot-Gold? Das ist Fahnen-Flucht vor der AfD!"
    }
   ],
   "krone": [
    {
-    "title": "Ging um Laienrichter - Verfahren gegen Kammer wurde nun eingestellt - krone.at",
+    "title": "Ging um Laienrichter - Verfahren gegen Kammer wurde nun eingestellt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5kQ05qS09CLVo2QVRrMnFXR1A2SXZuLWJlbWozQUtRV0ZkSm1adHlXLUd0Uk11Vk5laHpQaG91RGlIZw?oc=5",
     "image": "",
     "date": 1788588000000
    },
    {
-    "title": "Fieber und Durchfall - Afrikanische Mini-Mücke setzt unseren Rindern zu - krone.at",
+    "title": "Fieber und Durchfall - Afrikanische Mini-Mücke setzt unseren Rindern zu",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE82TWowOC1sV0hEZHFjM2pOMmliUkd4dUJBVWJZLURmbVVSRWRFeXFVMV84Z3FObFR3VnBZU01yc3VTdw?oc=5",
     "image": "",
     "date": 1788588000000
    },
    {
-    "title": "„Maulkorb“ für Chatgruppe des NÖ-Wirtschaftsbundes - krone.at",
+    "title": "„Maulkorb“ für Chatgruppe des NÖ-Wirtschaftsbundes",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pVzMyOGw4bGlIdHlLaklYN1FkRFpsaG5sem81NlBrdzg4N3pzRk5LTmRHdnkxUW5BdGNteU9rS0ZrUQ?oc=5",
     "image": "",
     "date": 1788588000000
    },
    {
-    "title": "„Verspreche keine Wunder, aber Verlässlichkeit!“ - krone.at",
+    "title": "„Verspreche keine Wunder, aber Verlässlichkeit!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WbENtdjFIRVl0T3VEa2JhaGJsbjVpb3pENV91WWg2VWc2bTFpMjRNa1VWQ25VQ241VVVZV2ZUeXRpUQ?oc=5",
     "image": "",
-    "date": 1788588000000
+    "date": 1788588000000,
+    "titleSl": "\"Verspreche keine Wunder, aber Verlässlichkeit!\""
    },
    {
-    "title": "Outfit geändert - Alcaraz: „Man hat zu oft meine Nippel gesehen“ - krone.at",
+    "title": "Outfit geändert - Alcaraz: „Man hat zu oft meine Nippel gesehen“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBNUUNhR29hRWhjcDlQVkphOFlSNG53RlZybklEYjJSa3QybHM4dW5lUk9fU0hsY280WVhJaXI4NDQzdw?oc=5",
     "image": "",
-    "date": 1788587700000
+    "date": 1788587700000,
+    "titleSl": "Outfit geändert - Alcaraz: \"Man hat zu oft meine Nippel gesehen\""
    },
    {
-    "title": "Beide stürzten ab - Zwei Tote bei Wanderunfällen in der Steiermark - krone.at",
+    "title": "Beide stürzten ab - Zwei Tote bei Wanderunfällen in der Steiermark",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDZVdYU21kc29SUGpuQXRtT0tJU2VDMEYtUFh1RTFSanNnTnI1RkRrLW9fVEV5SURid2tkaTlISTBiUQ?oc=5",
     "image": "",
     "date": 1788587160000
