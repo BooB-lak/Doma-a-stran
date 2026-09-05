@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05T11:42:24.554Z",
+ "generatedAt": "2026-09-05T11:44:23.804Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/sportal/rokomet/liga-prvakinj-1-krog-700712",
     "image": "https://siol.net/media/img/f7/12/b1f117f604cf090348b5.jpeg",
     "date": 1788608100000
+   },
+   {
+    "title": "Korošci pričakujejo švicarskega prvaka",
+    "link": "https://siol.net/sportal/hokej/hokejska-liga-prvakov-druge-tekme-700713",
+    "image": "https://siol.net/media/img/5e/9f/10502189d102d545579d.jpeg",
+    "date": 1788607980000
    },
    {
     "title": "Olimpija zmagala na Koroškem, Jeseničani doma",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/moski-je-krical-sopotniki-so-ga-privezali-z-lepilnim-trakom-700711",
     "image": "https://siol.net/media/img/c0/eb/a99a5833b8d68124a740.jpg",
     "date": 1788606480000
-   },
-   {
-    "title": "Kdo v veliki finale in boj za zlato?",
-    "link": "https://siol.net/sportal/odbojka/ep-odbojka-z-polfinale-2026-700709",
-    "image": "https://siol.net/media/img/75/2e/042ce5b8b8a4e65be589.jpeg",
-    "date": 1788604980000
    }
   ],
   "24ur": [
@@ -44,7 +44,7 @@
     "title": "Protestniki napolnili trg Bana Jelačića: 'Izdaja, Izdaja!'",
     "link": "https://www.24ur.com/novice/tujina/proti-strupenim-odpadkom-avtobusi-protestnikov-z-baklami-iz-like-in-dalmacije.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/0e772c8b4f9aa289e764_63642777.jpg?v=ea7f&fop=fp:0.45:0.38",
-    "date": 1788608500000
+    "date": 1788608628000
    },
    {
     "title": "Tretji prosti trening v Monzi dobil Russell pred Hamiltonom in Verstappnom",
@@ -331,11 +331,39 @@
   ],
   "guardian": [
    {
+    "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
+    "image": "https://i.guim.co.uk/img/media/65221c4d71bb8f0a612a43c5a17d4f810e567007/54_0_994_795/master/994.jpg?width=140&quality=85&auto=format&fit=max&s=96289fba6ea2e04e780f59c14aab064c",
+    "date": 1788608273000,
+    "titleSl": "Protestniki v črnih oblačilih na balaclavah blokirajo cesto v pristanišču Dover v Kentu"
+   },
+   {
+    "title": "Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented",
+    "link": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia",
+    "image": "https://i.guim.co.uk/img/media/16dc4200e4a467e790ff98429051e32dbf61d690/126_0_1048_838/master/1048.jpg?width=140&quality=85&auto=format&fit=max&s=f6fad6135a87544c809aaa08bced029d",
+    "date": 1788608175000,
+    "titleSl": "Preskušanje Alzheimerjeve bolezni za testiranje zdravila na ljudeh brez simptomov, da bi ugotovili, ali ga je mogoče preprečiti"
+   },
+   {
     "title": "Farage and Jenrick to speak on final day of Reform conference marred by scandal and protests – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/ff798d47182bd44a2a839c9d41e02e5f52812bbe/97_0_3836_3070/master/3836.jpg?width=140&quality=85&auto=format&fit=max&s=19e33de3b9c1eacfa7a4d6c7e3b81367",
-    "date": 1788607302000,
+    "date": 1788607675000,
     "titleSl": "Farage in Jenrick bosta spregovorila na zadnji dan reformne konference, ki so jo zaznamovali škandali in protesti – britanska politika v živo"
+   },
+   {
+    "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
+    "link": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
+    "image": "https://i.guim.co.uk/img/media/feb9c88177581160f921205e47175bc1ec1ef119/862_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a0ee2c763df375380375203a5761d4a0",
+    "date": 1788607610000,
+    "titleSl": "John Healey opozarja na težak prvi proračun, saj bližnjevzhodna vojna pritiska na gospodarstvo"
+   },
+   {
+    "title": "Rescuers in Nepal find two more people alive after flood disaster",
+    "link": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
+    "image": "https://i.guim.co.uk/img/media/356053e87dbc439eb0b994c9d15f52080395bb6b/15_0_1970_1575/master/1970.jpg?width=140&quality=85&auto=format&fit=max&s=f6cc499c86a59ac3ba051983b6803d9c",
+    "date": 1788607590000,
+    "titleSl": "Reševalci v Nepalu po poplavni katastrofi najdejo še dve živi osebi"
    },
    {
     "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
@@ -343,34 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/07dcae18edb859f43f16e9b15b3db1e8ebbaabf5/0_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=65e34f1baa351a9478025d380637f41f",
     "date": 1788606511000,
     "titleSl": "\"Krivda združenja\": zakaj je bilo v izraelskem zračnem napadu ubitih sedem mednarodnih humanitarnih delavcev"
-   },
-   {
-    "title": "Kardashian curves: M&S launches £28 bodysuit with exaggerated hip padding",
-    "link": "https://www.theguardian.com/fashion/2026/sep/05/kardashian-curves-ms-launches-28-bodysuit-with-exaggerated-hip-padding",
-    "image": "https://i.guim.co.uk/img/media/da308337c3b259c2c22b2587e2ada06f2a52c20c/0_269_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=f37f1befc343388be3297672319ee313",
-    "date": 1788606036000,
-    "titleSl": "Kardashian krivulje: M&S lansira bodi v vrednosti 28 £ s pretiranim oblazinjenjem bokov"
-   },
-   {
-    "title": "First professional St Nick with Down’s syndrome inducted into International Santa Claus Hall of Fame",
-    "link": "https://www.theguardian.com/us-news/2026/sep/05/first-professional-santa-claus-downs-syndrome-hall-of-fame",
-    "image": "https://i.guim.co.uk/img/media/865ce1b9653571395a8a8ac0a50fd2c2f139539a/0_216_3344_2675/master/3344.jpg?width=140&quality=85&auto=format&fit=max&s=bd5dab176694418aca72f4ff4af2636f",
-    "date": 1788606036000,
-    "titleSl": "Prvi strokovnjak St Nick z Downovim sindromom, sprejet v Mednarodni Dvorano slavnih Božička"
-   },
-   {
-    "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
-    "link": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
-    "image": "https://i.guim.co.uk/img/media/94a35d9501122320820ef52ab6c8435e33744e8c/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1833a3804d2cb658ad530e9403243afb",
-    "date": 1788606035000,
-    "titleSl": "Evropa ne bi mogla vzdržati vojne izčrpavanja z Rusijo, pravijo obrambni uradniki"
-   },
-   {
-    "title": "Reform continues to cast doubt on climate science. Do its supporters agree?",
-    "link": "https://www.theguardian.com/politics/2026/sep/05/reform-continues-to-cast-doubt-on-climate-science-do-its-supporters-agree",
-    "image": "https://i.guim.co.uk/img/media/f70a411fe9ba9a7689c8f6d5b4c3970eccf06558/399_0_4963_3971/master/4963.jpg?width=140&quality=85&auto=format&fit=max&s=2aa5dd24b65a3baa397a2042accc5248",
-    "date": 1788606034000,
-    "titleSl": "Reforma še naprej vzbuja dvom o podnebni znanosti. Ali se njeni podporniki strinjajo?"
    }
   ],
   "spiegel": [
@@ -576,6 +576,12 @@
   ],
   "elpais": [
    {
+    "title": "Malí impone su físico y sorprende a España: 82-73",
+    "link": "https://elpais.com/deportes/baloncesto/2026-09-05/mali-impone-su-fisico-y-sorprende-a-espana-82-73.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VO267Z233BLKDN3MOGGQJGDI7M.jpg?auth=fdc447335ae5a4362a821881a89853db68363fee64923c95f0e82527461ccb7c",
+    "date": 1788607956000
+   },
+   {
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo acusa al Gobierno de “alentar a que le gente se juegue la vida y la pierda para venir a España”",
     "link": "https://elpais.com/espana/2026-09-05/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/CQ53VAOXVBOVPDQEH2ZB27HL6I.jpg?auth=22efb41324d3560fca1bf57beefe8f8c06bffde1f5699943514e1c523af53e4a",
@@ -607,12 +613,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/EKVRZHMDIFC3X6YSJVD5HJWIN4.jpg?auth=a8daa2a6dd2d9df6d6632549dbeb96dd42bcaa45da940ba43e6d0999c81255c8",
     "date": 1788600687000,
     "titleSl": "Varias exploes cerca de la isla de Jarg, principal terminal del crudo de Teherán y blanco de las amenazas de Trump"
-   },
-   {
-    "title": "Hallada en Albacete la cabeza de una escultura de un joven íbero del siglo IV a. C.",
-    "link": "https://elpais.com/cultura/2026-09-05/hallada-en-albacete-la-cabeza-de-una-escultura-de-un-joven-ibero-del-siglo-iv-a-c.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/WFBPNK63MBD37ANJVVWVVVWJ6I.jpg?auth=7399c9101666f62430fac442988a0f0bdf113f04f03e226eefc538c694fae41c",
-    "date": 1788600070000
    }
   ]
  },
