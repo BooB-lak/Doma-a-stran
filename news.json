@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T05:10:44.331Z",
+ "generatedAt": "2026-09-06T05:12:26.480Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1788671340000
    },
    {
-    "title": "Skrajno desni AfD se obeta prepričljiva zmaga",
+    "title": "AfD se obeta prepričljiva zmaga",
     "link": "https://siol.net/novice/svet/skrajno-desni-afd-se-obeta-prepricljiva-zmaga-700741",
     "image": "https://siol.net/media/img/85/84/6f9d011149bc02de1063.jpeg",
     "date": 1788671100000
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Zaradi odstranjevanja letalske bombe velja ukrep o evakuaciji in zaklanjanju",
+    "link": "https://www.24ur.com/novice/slovenija/zaradi-odstranjevanja-letalske-bombe-velja-ukrep-o-evakuaciji-in-zaklanjanju.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/8e318820027eb7eceb27_63638892.jpg?v=b27b&fop=fp:0.48:0.59",
+    "date": 1788671448000
+   },
+   {
     "title": "Stožice: od športnega ponosa do velike sramote. Je na obzorju novi lastnik?",
     "link": "https://www.24ur.com/stozice-od-sportnega-ponosa-do-velike-sramote-je-na-obzorju-novi-lastnik-na-obzorju.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/f9cc88c63a803e3b5dbc_63642137.png?v=0d9e&fop=fp:0.48:0.48",
@@ -69,15 +75,21 @@
     "link": "https://www.24ur.com/sport/borilni-sporti/brave-108.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/02245e92895f54ced7eb_63642943.jpg?v=782a&fop=fp:0.46:0.43",
     "date": 1788645073000
-   },
-   {
-    "title": "Saj ni res, pa je: Olimpija Brinju nasula tri zadetke",
-    "link": "https://www.24ur.com/sport/nogomet/saj-ni-res-pa-je-olimpija-brinju-nasula-tri-zadetke.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/1cbe237d6956d0a3fb2f_63642997.jpg?v=0c22&fop=fp:0.47:0.41",
-    "date": 1788642865000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Sto let od poplav na nekdanjem Kranjskem, ene večjih naravnih nesreč prostora med obema vojnama",
+    "link": "https://www.rtvslo.si/kultura/dediscina/sto-let-od-poplav-na-nekdanjem-kranjskem-ene-vecjih-naravnih-nesrec-prostora-med-obema-vojnama/792907",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/04/67093140.jpg",
+    "date": 1788671500000
+   },
+   {
+    "title": "Svet v primežu dražje nafte in vse višjih donosnosti obveznic",
+    "link": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/svet-v-primezu-drazje-nafte-in-vse-visjih-donosnosti-obveznic/792901",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/05/67094254.jpg",
+    "date": 1788671457000
+   },
    {
     "title": "Trimo in Slovenj Gradec sta se razšla z delitvijo točk",
     "link": "https://www.rtvslo.si/sport/rokomet/drzavno-rokometno-prvenstvo/trimo-in-slovenj-gradec-sta-se-razsla-z-delitvijo-tock/792927",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/ali-bo-novi-intervencijski-zakon-o-dolgotrajni-oskrbi-resil-najvecje-zagate-dolgotrajne-oskrbe/792926",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/05/67094541.jpg",
     "date": 1788631235000
-   },
-   {
-    "title": "Podvig olimpijske prvakinje Šinven Dženg",
-    "link": "https://www.rtvslo.si/sport/tenis/podvig-olimpijske-prvakinje-sinven-dzeng/792924",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/05/67094529.jpg",
-    "date": 1788631014000
-   },
-   {
-    "title": "Finale Diamantne lige: Šutej tretja, Guček sedmi",
-    "link": "https://www.rtvslo.si/sport/atletika/finale-diamantne-lige-sutej-tretja-gucek-sedmi/792923",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/05/67094628.jpg",
-    "date": 1788627969000
    }
   ],
   "zurnal": [
@@ -271,11 +271,11 @@
     "titleSl": "Britanija se \"obdavčuje do smrti\" in \"Nekateri bi lahko zašli\""
    },
    {
-    "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+    "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
     "date": 1788661456000,
-    "titleSl": "Ameriški odposlanci se po srečanju s Putinom v Moskvi pripravljajo na pogovore v Ukrajini"
+    "titleSl": "Ameriški odposlanci se po srečanju s Putinom v Rusiji pripravljajo na pogovore v Ukrajini"
    },
    {
     "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
@@ -286,6 +286,13 @@
    }
   ],
   "aljazeera": [
+   {
+    "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788670694.jpg?resize=1620%2C1080&quality=80",
+    "date": 1788670768000,
+    "titleSl": "Izraelski premier Netanjahu pravi, da je \"Katar sovražna država\""
+   },
    {
     "title": "More than 20 killed in fire at wedding party in DR Congo",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9cbcfbe0b64-1788656891.jpg?resize=1920%2C1440",
     "date": 1788663391000,
     "titleSl": "Skoraj 9.000 mrtvih v izraelskih napadih na Libanon od leta 2023"
-   },
-   {
-    "title": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-cms-cleanup-boy-1788658660.png?resize=1920%2C1080&quality=80",
-    "date": 1788658732000,
-    "titleSl": "\"Ljudje so se mi smejali\": Indijska mladina čisti reko, polno smeti"
    }
   ],
   "guardian": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Achtelfinale der US Open erreicht - Zweite Grand-Slam-Titel für Zverev rückt näher",
+    "link": "https://www.bild.de/sport/mehr-sport/alexander-zverev-im-achtelfinale-der-us-open-nun-gegen-darderi-6a9cce72240b302c8a83a9ee",
+    "image": "https://images.bild.de/6a9cce72240b302c8a83a9ee/1ca80ed6656b38462b79618135da7798,3bd43d41?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Anschläge und Drohungen gegen Deutschland - Im Nebel des Bösen",
+    "link": "https://www.bild.de/politik/inland/hybrider-krieg-deutschlands-kampf-gegen-unsichtbare-feinde-6a9c507d240b302c8a83a67e",
+    "image": "https://images.bild.de/6a9c507d240b302c8a83a67e/f4872bdf197f9c31241c910583846e47,80b21be?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Weniger TikTok gucken oder was weiß ich“ - Kleindienst attackiert seine Mitspieler",
     "link": "https://www.bild.de/sport/fussball/gladbach-tim-kleindienst-attackiert-mitspieler-weniger-tiktok-gucken-6a9c8a91240b302c8a83a8fc",
     "image": "https://images.bild.de/6a9c8a91240b302c8a83a8fc/17eddf3e7540e36f9593f94c4b0c4b12,9e76bf6?w=1280",
@@ -437,18 +449,6 @@
     "image": "https://images.bild.de/6a999206ca00b4462f06a4ec/ce74ce412db29efcecd0c8e4a209811c,cd8ec747?w=1280",
     "date": 0,
     "titleSl": "Amon-Ra St. Brown - NFL-Star bo für Deutschland spielen"
-   },
-   {
-    "title": "Hammer-Los im DFB-Pokal - Bayern scheiterte schon mal am 1. FC Magdeburg",
-    "link": "https://www.bild.de/sport/fussball/1-fc-magdeburg-bayern-wartet-im-dfb-pokal-gelingt-die-sensation-6a9c449b240b302c8a83a607",
-    "image": "https://images.bild.de/6a9c449b240b302c8a83a607/afa025453a60c7d08fd014248540b07a,94c7b8a6?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Beide haben 0 Bundesliga-Minuten - 2 Eintracht-Stars sind für Hütter unersetzbar",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-diese-zwei-stars-sind-fuer-adi-huetter-unersetzbar-6a9ae6d5dde98c92361820cf",
-    "image": "https://images.bild.de/6a9ae6d5dde98c92361820cf/be1880fa1cab42fdf8c0dcf80141a034,1f90e58a?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -492,6 +492,13 @@
   ],
   "rainews": [
    {
+    "title": "Come in Star Wars: ecco i robot pulitori che si aggirano per i parchi cinesi a Pechino",
+    "link": "https://www.rainews.it/video/2026/09/come-in-star-wars-ecco-i-robot-pulitori-che-si-aggirano-per-i-parchi-cinesi-a-pechino-video-d73511c3-6b79-46d0-8b29-64843ca13292.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/06/1788671338319_vlcsnap.jpg",
+    "date": 1788671400000,
+    "titleSl": "Pridite v Star Wars: ecco i robot pulitori che si aggirano per i parchi cinesi a Pechino"
+   },
+   {
     "title": "La fiammata verso l&#x27;alto, l&#x27;impressionante eruzione del vulcano Krakatau: voli cancellati",
     "link": "https://www.rainews.it/video/2026/09/la-fiammata-verso-lalto-limpressionante-eruzione-del-vulcano-krakatau-voli-cancellati-indonesia-f5d76df0-a35d-4456-9c37-c687a3970d60.html",
     "image": "https://www.rainews.it/dl/img/2026/9/06/1788670539954_vlcsnap.jpg",
@@ -524,12 +531,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/05/1788626045421_.png",
     "date": 1788666720000,
     "titleSl": "Pallavolo femminile, l'Italia lotta ed ora è in finale europea, Polonia battuta 3-1"
-   },
-   {
-    "title": "Fiorentina - Torino 1-2, la sintesi della partita",
-    "link": "https://www.rainews.it/video/2026/09/fiorentina-torino-1-2-la-sintesi-della-partita-87d80d19-0c9d-42f3-8226-8abe87a244b2.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/05/1788620459993_large.jpg",
-    "date": 1788665160000
    }
   ],
   "lemonde": [
