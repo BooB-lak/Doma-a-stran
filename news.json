@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T11:08:25.634Z",
+ "generatedAt": "2026-09-06T11:10:41.751Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Huda nesreča voznika na dirki Porsche Sprint Challenge v Kaliforniji",
+    "link": "https://www.24ur.com/sport/ostalo/manuel-gil-del-real-udelezen-v-hudi-nerseci.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/429c4c3ce8a601b53806_63643090.jpg?v=2381&fop=fp:0.47:0.56",
+    "date": 1788692818000
+   },
+   {
     "title": "Zastoji na štajerski in primorski avtocesti",
     "link": "https://www.24ur.com/novice/slovenija/zastoji-na-stajerski-in-primorski-avtocesti.html",
     "image": "https://images.24ur.com/media/images/213xX/May2026/409db15cb7a838bf3a45_63590834.jpg?v=5e35&fop=fp:0.36:0.33",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/natalie-portman-dobila-tretjega-otroka-prvega-z-novim-partnerjem.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/bc0506d2f00504c6273b_63643026.png?v=9189&fop=fp:0.48:0.26",
     "date": 1788689906000
-   },
-   {
-    "title": "Dva motorista huje poškodovana, dva voznika pijana",
-    "link": "https://www.24ur.com/novice/slovenija/pestro-dogajanje-dva-motorista-huje-poskodovana-dva-voznika-pijana.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2025/20ff111bfa81036486d9_63455500.jpg?v=d565&fop=fp:0.45:0.38",
-    "date": 1788689822000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+    "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9d2225ab96-1788682789.jpg?resize=1920%2C1440",
+    "date": 1788691762000,
+    "titleSl": "ZDA in Iran v tankerski vojni: Kam vodi večmesečni konflikt?"
+   },
+   {
+    "title": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+    "link": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26249324848188-1788685807.jpg?resize=1920%2C1440",
+    "date": 1788691334000,
+    "titleSl": "Palestinci v Gazi pokopali ostanke 100 ljudi, ki so jih našli v ruševinah"
+   },
+   {
     "title": "LIVE: Everton vs Manchester United – Premier League",
     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T154307Z_1831941386_UP1EM8U17NUHS_RTRMADP_3_SOCCER-ENGLAND-MUN-IPS-1788691824.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788684202.jpg?resize=1918%2C1080&quality=80",
     "date": 1788684243000,
     "titleSl": "Izrael bombardira več mest v južnem Libanonu"
-   },
-   {
-    "title": "Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic",
-    "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9d0ade7cd9-1788676830.jpg?resize=1920%2C1440",
-    "date": 1788681544000,
-    "titleSl": "Zverev in Gauff sta v zadnjih 16 letih popustila na OP ZDA, Alex Eala pa je padel na Jovića"
-   },
-   {
-    "title": "How do you arrest 50,000 people quietly?",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/BTN_Thumbnail_Landscape_V07-1788680621.png?resize=1920%2C1008&quality=80",
-    "date": 1788680708000,
-    "titleSl": "Kako tiho aretirati 50.000 ljudi?"
    }
   ],
   "guardian": [
@@ -414,9 +414,22 @@
   ],
   "bild": [
    {
+    "title": "Strom-Sabotage - Polizei startet Einsatz am Hambacher Forst",
+    "link": "https://www.bild.de/news/strom-sabotage-polizei-startet-einsatz-am-hambacher-forst-6a9d45f16067248f60a52a41",
+    "image": "https://images.bild.de/6a9d45f16067248f60a52a41/3c3e7cb04746154063a6fc98416c38fd,cea6e8?w=1280",
+    "date": 0,
+    "titleSl": "Strom-Sabotaža - Polizei startet Einsatz am Hambacher Forst"
+   },
+   {
     "title": "Vor der Premiere gegen Mainz - HSV-Fans im Vieira-Rausch",
     "link": "https://www.bild.de/sport/fussball/hsv-fans-vor-der-premiere-gegen-mainz-im-vieira-rausch-6a9d3fb2240b302c8a83aee4",
     "image": "https://images.bild.de/6a9d3fb2240b302c8a83aee4/531d32fd93cace3e49a4b696fb17c1d4,f7802245?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Gelb-Rot für Elversberg-Coach - „Wir sind verfangen in unserer Kleingeistigkeit“",
+    "link": "https://www.bild.de/sport/fussball/gelb-rot-fuer-elversberg-coach-wir-sind-verfangen-in-unserer-kleingeistigkeit-6a9d3c2c3c4ff4f6c5cfee72",
+    "image": "https://images.bild.de/6a9d3c2c3c4ff4f6c5cfee72/6f4ac8efd35a69e15ef0d927c0955cc4,4268047b?w=1280",
     "date": 0
    },
    {
@@ -435,19 +448,6 @@
     "title": "Nach Handschlag mit Putin - Diese Umarmung lässt uns hoffen",
     "link": "https://www.bild.de/politik/nach-besuch-bei-kreml-herrscher-putin-kushner-und-witkoff-in-kiew-gelandet-6a9d3c5a181cb962d488557b",
     "image": "https://images.bild.de/6a9d3c5a181cb962d488557b/6a07de90a1a912d9fdeb276388612275,8824ccf7?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Strom-Sabotage - Polizei startet Einsatz am Hambacher Forst",
-    "link": "https://www.bild.de/news/strom-sabotage-polizei-startet-einsatz-am-hambacher-forst-6a9d45f16067248f60a52a41",
-    "image": "https://images.bild.de/6a9d45f16067248f60a52a41/3c3e7cb04746154063a6fc98416c38fd,cea6e8?w=1280",
-    "date": 0,
-    "titleSl": "Strom-Sabotaža - Polizei startet Einsatz am Hambacher Forst"
-   },
-   {
-    "title": "Magendrehung - Diese Symptome können Ihrem Hund das Leben kosten",
-    "link": "https://www.bild.de/leben-wissen/haustiere/magendrehung-beim-hund-diese-warnzeichen-sollten-halter-kennen-6a9a90abdde98c923618162b",
-    "image": "https://images.bild.de/6a9a90abdde98c923618162b/2e5f89aef0afbe5467bdb3ec2f20a382,db55d880?w=1280",
     "date": 0
    }
   ],
@@ -492,6 +492,13 @@
   ],
   "rainews": [
    {
+    "title": "Witkoff e Kushner a Kiev dopo l&#x27;incontro con Putin. Lavrov: \"Accuse tedesche, inizio di una guerra\"",
+    "link": "https://www.rainews.it/maratona/2026/09/guerra-ucraina-berlino-accusa-russia-dietro-droni-a-lipsia-guerra-ibrida-mosca-accuse-assurde-6a75fc7d-6b16-40a3-aeba-c8872753d3cc.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/06/1788691992974_WhatsApp_Image__at_...jpeg",
+    "date": 1788692940000,
+    "titleSl": "Witkoff e Kushner a Kiev dopo l 'incontro con Putin. Lavrov: »Accuse tedesche, inizio di una guerra«"
+   },
+   {
     "title": "A Monza sfilata di Vip. La pole è di Gasly, Ferrari in seconda fila. La gara alle 15",
     "link": "https://www.rainews.it/maratona/2026/09/motori-formula-1-f1-gp-italia-monza-antonelli-norris-leclerc-hamilton-ferrari-news-aggiornamenti-live-be9f24ed-e127-4d61-83f0-ec1457ac755f.html",
     "image": "https://www.rainews.it/dl/img/2026/9/05/1788621309961_IPA.jpg",
@@ -503,13 +510,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/03/1788464932762_rainewsdeafccdeafaabbea.jpg",
     "date": 1788692700000,
     "titleSl": "Femminicidio-suicidio sull'A1, l 'ultimo sms del killer: \"Tua figlia è morta\". Ipotesi premeditazione"
-   },
-   {
-    "title": "Witkoff e Kushner a Kiev dopo l&#x27;incontro con Putin. Tregua violata: raid russi a Zaporizhzhia",
-    "link": "https://www.rainews.it/maratona/2026/09/guerra-ucraina-berlino-accusa-russia-dietro-droni-a-lipsia-guerra-ibrida-mosca-accuse-assurde-6a75fc7d-6b16-40a3-aeba-c8872753d3cc.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/06/1788691992974_WhatsApp_Image__at_...jpeg",
-    "date": 1788692340000,
-    "titleSl": "Witkoff e Kushner a Kiev dopo l 'incontro con Putin. Tregua violata: raid russi a Zaporizhzhia"
    },
    {
     "title": "Un bus precipita in un burrone a Capo Verde: almeno 25 morti, tra le vittime adolescenti e bambini",
