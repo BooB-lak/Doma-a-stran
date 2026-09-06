@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T19:18:27.374Z",
+ "generatedAt": "2026-09-06T19:20:42.389Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Two killed as car hits group of cyclists",
+    "link": "https://www.bbc.co.uk/news/articles/c62k8r60lw3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d7/live/2b7ef7e0-aa21-11f1-8046-e7e0d3946c1a.jpg",
+    "date": 1788722136000,
+    "titleSl": "Dva ubita, ko je avtomobil zadel skupino kolesarjev"
+   },
+   {
     "title": "German far-right set for big win in eastern state, projections show",
     "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a736/live/b70d9ab0-aa25-11f1-aed2-8d6da8d75094.jpg",
     "date": 1788715112000,
     "titleSl": "Man Utd ne more prezreti več padlih točk kljub pozitivnim"
-   },
-   {
-    "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-    "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
-    "date": 1788714056000,
-    "titleSl": "Iran svari pred \"hitrejšim, težjim, bolj bolečim odzivom\" na ameriške napade"
    }
   ],
   "aljazeera": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "„Besser als Patriot-Raketen“ - Selenskyj-Scherz bei Besuch von Trump-Schwiegersohn",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/makabrer-scherz-nach-gipfel-in-kiew-selenskyj-witkoff-und-kushner-besser-als-patriot-raketen-6a9d9e4bc0adcd67d87bbc45",
+    "image": "https://images.bild.de/6a9d9e4bc0adcd67d87bbc45/2fa51587263ab4ec475beb674c93754c,ab671e53?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach Angriff auf Berliner Verwaltung - Hacker stellen geheime Zugangsdaten ins Netz",
+    "link": "https://www.bild.de/politik/inland/hacker-stellen-geheime-zugangsdaten-ins-netz-6a9daf36181cb962d4885dbe",
+    "image": "https://images.bild.de/6a9daf36181cb962d4885dbe/e214f0a72502ed4787161a7ba0e7491f,160866ed?w=1280",
+    "date": 0
+   },
+   {
     "title": "Wahl in Sachsen-Anhalt - AfD halbiert die CDU",
     "link": "https://www.bild.de/politik/wahl-in-sachsen-anhalt-afd-halbiert-die-cdu-6a9ac29108c763dcf81f4413",
     "image": "https://images.bild.de/6a9ac29108c763dcf81f4413/a1ba6af776c3ff56c174b8cf15f38ad5,102366ff?w=1280",
@@ -436,18 +448,6 @@
     "title": "Nach Judo-Skandal in der Bundesliga - Kieferbruch! Prügel-Opfer muss WM abschreiben",
     "link": "https://www.bild.de/sport/nach-judo-skandal-in-der-bundesliga-kieferbruch-pruegel-opfer-muss-wm-abschreiben-6a9d7b6fc0adcd67d87bb9d2",
     "image": "https://images.bild.de/6a9d7b6fc0adcd67d87bb9d2/94de1df328f7ad980fad8149275a6b2c,66ebe8f2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Schweigers vs. Pahde bei „Schlag den Star“ - Die Hauptstadt von Thailand? Vietnam!",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/schlag-den-star-valentina-pahde-verwechselt-vietnam-mit-bangkok-6a9d0dd708cb24cd569f77ba",
-    "image": "https://images.bild.de/6a9d0dd708cb24cd569f77ba/41f66d293f26b46d44fe6c2487c72f99,9bf9b3dc?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Jovic (18) gilt als kommender Superstar - Sie ist das neue Ass am Tennis-Himmel",
-    "link": "https://www.bild.de/sport/mehr-sport/iva-jovic-amerikas-tennis-hoffnung-fordert-coco-gauff-heraus-6a9d7c08c0adcd67d87bb9e1",
-    "image": "https://images.bild.de/6a9d7c08c0adcd67d87bb9e1/5e7404bea21d2958b4872cfdaaa8d324,eefc6dcd?w=1280",
     "date": 0
    }
   ],
@@ -584,7 +584,7 @@
     "title": "Tommy Paul - Carlos Alcaraz en directo | Alcaraz se lleva el primer set del partido",
     "link": "https://elpais.com/deportes/tenis/2026-09-06/tommy-paul-carlos-alcaraz-en-directo-el-partido-de-octavos-de-final-del-us-open-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/Y3X2SL6ESBMIRFH3ZSGBE2ZEXU.jpg?auth=8d255fefcad3b2fab07b6f379a55ee9d8cd3b6b9f4116392b45d25347c197133",
-    "date": 1788722225000
+    "date": 1788721904000
    },
    {
     "title": "Susan Sarandon encarna el último amor loco de Bertolucci",
