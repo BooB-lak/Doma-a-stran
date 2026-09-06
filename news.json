@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-06T17:28:24.855Z",
+ "generatedAt": "2026-09-06T17:30:54.929Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zelenski pogovore ocenil pozitivno, a pričakuje nadaljevanje vojne v zimo",
+    "link": "https://siol.net/novice/svet/trumpova-odposlanca-danes-na-obisk-v-kijev-700740",
+    "image": "https://siol.net/media/img/84/26/5f9e0e20c7241ea434d2.jpeg",
+    "date": 1788715740000
+   },
    {
     "title": "Šeško zabil, a po drami ostal brez zmage. Derbi po preobratu Arsenalu.",
     "link": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-3-krog-2026-1-700619",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/tenis/arino-sabalenko-caka-neugodna-nasprotnica-na-delu-tudi-slovenka-700746",
     "image": "https://siol.net/media/img/9c/2e/d98172ca39d7edcb0d3a.jpeg",
     "date": 1788714000000
-   },
-   {
-    "title": "Lavrov: Nemčija z obtožbami o incidentu v Leipzigu začenja \"pravo vojno\"",
-    "link": "https://siol.net/novice/svet/lavrov-nemcija-z-obtozbami-o-incidentu-v-leipzigu-zacenja-pravo-vojno-700765",
-    "image": "https://siol.net/media/img/39/2c/ba42141d4f92e1430768.jpeg",
-    "date": 1788713280000
    }
   ],
   "24ur": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
+    "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
+    "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06biz-opecplus-production-topart-jlch/06biz-opecplus-production-topart-jlch-mediumSquareAt3X.jpg",
+    "date": 1788715481000,
+    "titleSl": "OPEC Plus ohranja stabilno proizvodnjo nafte ob nadaljevanju ameriško-iranskih stavk"
+   },
+   {
     "title": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
     "link": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06dc-scotus-mailvoting1-fwzk/06dc-scotus-mailvoting1-fwzk-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06int-ukraine-meeting-sub-pbtq/06int-ukraine-meeting-sub-pbtq-mediumSquareAt3X.jpg",
     "date": 1788706793000,
     "titleSl": "Ameriška odposlanca Witkoff in Kushner po pogovorih s Putinom prispeta v Kijev"
-   },
-   {
-    "title": "Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
-    "link": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
-    "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06nat-mail-voting-1-gkpj/06nat-mail-voting-1-gkpj-mediumSquareAt3X.jpg",
-    "date": 1788706682000,
-    "titleSl": "Trumpova vojna za glasovanje po pošti je zmedla volivce. V tem je morda bistvo."
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
-    "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-1.10.04-PM-1788689661.png?resize=1920%2C1440",
-    "date": 1788714200000,
-    "titleSl": "Palestinski kmetje se borijo proti sabotaži naseljencev, da bi rešili hebronske pridelke, živino"
-   },
-   {
     "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
     "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9d8b69d6-1788709737.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-06T150119Z_2098160080_UP1EM9615Q3CL_RTRMADP_3_SOCCER-ENGLAND-EVE-MUN-1788707507.jpg?resize=1920%2C1440",
     "date": 1788710696000,
     "titleSl": "Maitland-Niles osupne Manchester United, ko Everton zahteva zadnjo točko"
+   },
+   {
+    "title": "Niger military accuses France of orchestrating failed mutiny: What to know",
+    "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T193531Z_1766492566_RC259NA2BGFP_RTRMADP_3_NIGER-SECURITY-1788700077.jpg?resize=1920%2C1440",
+    "date": 1788709320000,
+    "titleSl": "Vojska Nigra obtožuje Francijo, da je organizirala neuspel upor: Kaj je treba vedeti"
    }
   ],
   "guardian": [
@@ -416,6 +416,25 @@
   ],
   "bild": [
    {
+    "title": "Landtagswahl in Sachsen-Anhalt - Die Qual nach der Wahl: Droht die Unregierbarkeit?",
+    "link": "https://www.bild.de/politik/inland/sachsen-anhalt-nach-der-wahl-droht-die-unregierbarkeit-6a9bbd05181cb962d4884534",
+    "image": "https://images.bild.de/6a9bbd05181cb962d4884534/9aa081d916f154c308fdc515832f83da,214ec9c6?w=1280",
+    "date": 0,
+    "titleSl": "Landtagswahl v Sachsen-Anhalt - Die Qual nach der Wahl: Droht die Unregierbarkeit?"
+   },
+   {
+    "title": "BILD sprach mit Insidern - So könnten die Hacker in Berlins Netze eingebrochen sein",
+    "link": "https://www.bild.de/politik/inland/bild-hat-mit-insidern-gesprochen-so-koennten-die-hacker-in-berlins-netze-eingebrochen-sein-6a9d5aa76067248f60a52c20",
+    "image": "https://images.bild.de/6a9d5aa76067248f60a52c20/cdf6e520fa6bd175ecf0400b7b783af2,6ddc5528?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Traumtor gegen Ex-Klub - Havertz schockt Alonso!",
+    "link": "https://www.bild.de/sport/fussball/gegen-seinen-ex-klub-havertz-fuehrt-arsenal-zum-derby-sieg-gegen-alonso-6a9d8f04240b302c8a83b416",
+    "image": "https://images.bild.de/6a9d8f04240b302c8a83b416/e6fff383d945d1339bc04e0b2d43ea44,9aa6d59e?w=1280",
+    "date": 0
+   },
+   {
     "title": "Verlorenes Vertrauen ++ Neue Philosophie - Der große Gladbach-Krisen-Report",
     "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-der-grosse-gladbacher-krisen-report-6a9d190a6a3073fc0d248438",
     "image": "https://images.bild.de/6a9d190a6a3073fc0d248438/1434d83ac08e351f6d81ca3d8c2112b6,dd20b4cd?w=1280",
@@ -432,28 +451,15 @@
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-103-sekunden-kippen-huetters-heim-debuet-gegen-fca-6a9d7eefc0adcd67d87bba2c",
     "image": "https://images.bild.de/6a9d7eefc0adcd67d87bba2c/a66ef2292fba03de19252eb466781c8e,1d344045?w=1280",
     "date": 0
-   },
-   {
-    "title": "Philipp Amthor - „Das sind Erschütterungen für die Parteien“",
-    "link": "https://www.bild.de/politik/inland/philipp-amthor-das-sind-erschuetterungen-fuer-die-parteien-6a9d9c346067248f60a5325e",
-    "image": "https://images.bild.de/6a9d9c346067248f60a5325e/3632099802c83846e04bb56cfee81dc0-landscape,daf829cd?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Boss verlängert langfristig - Der 64-Millionen-Dollar-Mann der NFL macht weiter",
-    "link": "https://www.bild.de/sport/mehr-sport/nfl-der-64-millionen-dollar-mann-macht-weiter-6a9d9d33181cb962d4885c86",
-    "image": "https://images.bild.de/6a9d9d33181cb962d4885c86/874d98a9b422f5cd9a61a69a2174ee96,ede23bf0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Kein Wüsten-Wechsel mehr - Hofmann bleibt in Leverkusen!",
-    "link": "https://www.bild.de/sport/fussball/bayer-leverkusen-kein-wuesten-wechsel-mehr-jonas-hofmann-bleibt-endgueltig-in-leverkusen-6a9d8dda181cb962d4885b08",
-    "image": "https://images.bild.de/6a9d8dda181cb962d4885b08/9d234e27e6bc7e3fa661454e673832fc,69ca78b1?w=1280",
-    "date": 0,
-    "titleSl": "Kein Wüsten-Wechsel mehr - Hofmann bleibt v Leverkusnu!"
    }
   ],
   "krone": [
+   {
+    "title": "Deutscher geborgen - Auf Stein ausgerutscht: Verletzter beim Canyoning",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MNEZUallvd0VkZjl4dUdENjBTemhOQUFsNnFYRE8xcXl4UXlLcS1jSS1pY0k1bFhWRF9aRlgtSEktUQ?oc=5",
+    "image": "",
+    "date": 1788714840000
+   },
    {
     "title": "Pkw gegen Pkw - Kollision an Kreuzung forderte eine Verletzte",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8td0EwSlN4b2xzZ1FfTXZOSmhKQ09uXzJtRE1UZnhHM25BQUJrMHN2RmlkZkF4RmxJWDNMNGI2dXlDdw?oc=5",
@@ -485,12 +491,6 @@
     "image": "",
     "date": 1788714000000,
     "titleSl": "Wirtschaftsmesse - Obvestite lockte rund 18.000 Besucher nach Oberwart"
-   },
-   {
-    "title": "„Vereine auflösen“ - DSN-Chefin warnt vor islamistischer Gefahr",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yTmxKSEhGVVJMOUNrODFiLTlQTERkcEtsWUlacHNhYjVLcGh5UnR3MUNpSEVLOHh2WktaYUEwcXA3dw?oc=5",
-    "image": "",
-    "date": 1788714000000
    }
   ],
   "rainews": [
