@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T06:02:24.914Z",
+ "generatedAt": "2026-09-07T06:04:24.762Z",
  "sources": {
   "siol": [
    {
@@ -21,7 +21,7 @@
     "date": 1788757560000
    },
    {
-    "title": "AfD v Saški-Anhalt kljub prepričljivi zmagi ni osvojila absolutne večine",
+    "title": "AfD v Saški - Anhaltu kljub prepričljivi zmagi ni osvojila absolutne večine",
     "link": "https://siol.net/novice/svet/afd-v-saski-anhalt-kljub-prepricljivi-zmagi-ni-osvojila-absolutne-vecine-700778",
     "image": "https://siol.net/media/img/6c/f3/8a11c0ed4ff1c672f03c.jpeg",
     "date": 1788757200000
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Skrajno desna AfD zmagovalka volitev, a brez absolutne večine",
+    "link": "https://www.24ur.com/novice/tujina/skrajno-desna-afd-zmagovalka-volitev-a-brez-absolutne-vecine.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/48809b850f8328ac78a7_63643274.jpg?v=bb59&fop=fp:0.46:0.29",
+    "date": 1788760831000
+   },
+   {
     "title": "Primorska avtocesta zaprta proti Kopru",
     "link": "https://www.24ur.com/novice/slovenija/primorska-avtocesta-zaprta-proti-kopru.html",
     "image": "https://images.24ur.com/media/images/213xX/May2026/2dec4c337facf68f5a2b_63580949.jpg?v=da58&fop=fp:0.51:0.36",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/novice/tujina/v-nesreci-tovornega-letala-na-letaliscu-v-miamiju-najmanj-pet-mrtvih.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/d62ad2943976160d99cc_63643251.jpg?v=213d&fop=fp:0.55:0.39",
     "date": 1788760113000
-   },
-   {
-    "title": "Prepričljiva zmaga AfD",
-    "link": "https://www.24ur.com/novice/tujina/afd-pred-zgodovinskim-uspehom.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/a2ab975e971cdeef5c52_63643189.jpg?v=563c&fop=fp:0.44:0.44",
-    "date": 1788759851000
    },
    {
     "title": "Novi zvezki, stare stiske: zakaj je september za mnoge družine najtežji mesec v letu",
@@ -334,7 +334,7 @@
     "title": "Australia politics live: Coalition targets Labor over ‘plummeting’ Sydney house prices; PM speaks of ‘horror’ of Nepal floods",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/cb3b9cface8fc80f5b026acce57357fa8855a148/1632_23_6370_5096/master/6370.jpg?width=140&quality=85&auto=format&fit=max&s=50aba509c42d4930be10003bd0be7ad2",
-    "date": 1788759605000,
+    "date": 1788760761000,
     "titleSl": "Avstralska politika v živo: Koalicija cilja na delo zaradi \"padajočih\" cen nepremičnin v Sydneyju; premier govori o \"grozi\" poplav v Nepalu"
    },
    {
@@ -416,11 +416,23 @@
   ],
   "bild": [
    {
+    "title": "Passagiere klebten ihn fest - Immobilienmakler nach Flugzeug-Randale gefeuert",
+    "link": "https://www.bild.de/news/ausland/passagiere-klebten-ihn-fest-das-ist-der-gefesselte-flugzeug-randalierer-6a9dc4a8240b302c8a83b7d0",
+    "image": "https://images.bild.de/6a9dc4a8240b302c8a83b7d0/c9add5f3034b6bda48b52e658d2309b4,6c12d615?w=1280",
+    "date": 0
+   },
+   {
     "title": "Schütze auf der Flucht - Mann in Berlin erschossen",
     "link": "https://www.bild.de/regional/berlin/berlin-mann-erschossen-schuetze-auf-der-flucht-6a9e4b92181cb962d488632a",
     "image": "https://images.bild.de/6a9e4b92181cb962d488632a/449590d8b8db84d88ae9fd3dfa645a40,fe51b754?w=1280",
     "date": 0,
     "titleSl": "Schütze auf der Flucht - Mann v Berlinu erschossen"
+   },
+   {
+    "title": "Wahl-Beben - Heute Schmerz-Tag!",
+    "link": "https://www.bild.de/politik/inland/merz-und-die-koalition-cdu-und-spd-beraten-nach-wahldesaster-6a9ae78d08c763dcf81f48e6",
+    "image": "https://images.bild.de/6a9ae78d08c763dcf81f48e6/2ed19a7091dd51c120de946bf76c8d76,85e91a7e?w=1280",
+    "date": 0
    },
    {
     "title": "3 Monate nach Leverkusen-Aus - Hjulmand als Trainer in Afrika aufgetaucht",
@@ -441,22 +453,21 @@
     "image": "https://images.bild.de/6a9e3928181cb962d48861df/d3b49d2ce44e3ee16a5c17380386bc7e,dc199630?w=1280",
     "date": 0,
     "titleSl": "Wieder Strom-Sabotaža? - Feuer an Berliner Umspannwerk"
-   },
-   {
-    "title": "Trotz Rekord-Ergebnis in Sachsen-Anhalt - In einem Wahlkreis hatte die AfD keine Chance",
-    "link": "https://www.bild.de/politik/inland/sachsen-anhalt-in-einem-wahlkreis-hatte-die-afd-gar-keine-chance-6a9e200f240b302c8a83ba2b",
-    "image": "https://images.bild.de/6a9e200f240b302c8a83ba2b/4aba4165f9c7d8733af24e5f67bc908d,d4ec69bc?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sabotage-Anschlag in NRW? - Unbekannte dringen ins Umspannwerk Wesel ein",
-    "link": "https://www.bild.de/news/inland/sabotage-anschlag-in-nrw-unbekannte-dringen-ins-umspannwerk-wesel-ein-6a9e4cabcd516b2d1a1c55c2",
-    "image": "https://images.bild.de/6a9e4cabcd516b2d1a1c55c2/42a684a6461ec67cc6ab86497ce6ada6,45851283?w=1280",
-    "date": 0,
-    "titleSl": "Sabotaža-Anschlag v NRW? - Unbekannte dringen ins Umspannwerk Wesel ein"
    }
   ],
   "krone": [
+   {
+    "title": "Heikle Szenen ... - Wolff: „Hätten versuchen müssen, das zu vermeiden“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zTi1VU3V0QnFkVTJjTUg4OTl6aFVvTXpCNU8yb2tUOUduVDlDelV1MXYwZjA0WVBtY2tzemdaOGlKUQ?oc=5",
+    "image": "",
+    "date": 1788759540000
+   },
+   {
+    "title": "Augenzeuge löschte - Während Toilettenbesuchs ging Auto in Flammen auf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91RjlWcDI5VWdISTlQNHJTRXlRM1NaaG5TUzhVSlM1aVkyUklWTlR0VV9wUjV3d3hQb0tBRHBvbngxQQ?oc=5",
+    "image": "",
+    "date": 1788759360000
+   },
    {
     "title": "Ihr Mondkalender",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mLTc0dm41Q2NXRkJyUkNxOHp0WDV6Q0FFZXRSTHRFOGxIQUx5dXluLWpoVUtmOEw3Z1dCZXBwQWxVbXdpdWdpZWJzQ1k3ZmNGQmlXMHh4cw?oc=5",
@@ -481,18 +492,6 @@
     "image": "",
     "date": 1788757200000,
     "titleSl": "Aufbauarbeiten starten - Ärztin v Nepalu: „Tal ist wie mit Besen ausgefegt“"
-   },
-   {
-    "title": "Einbrecher gefasst - Kuriose Strafzettel-Flut: Autobesitzer im Knast!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zWk5Qb3pyTmdsZ29kdzNIUkVaSmlkLXBIaVpHREZMMWxZZkdsNzdnWXpWdmh3ZVNJb0FvWEVfMkQ4Zw?oc=5",
-    "image": "",
-    "date": 1788757200000
-   },
-   {
-    "title": "Attacke auf Nachbarn - Warum ein Teppich einen Messer-Mord verhinderte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45UHFwRXNub3c3c0xKVmhQUDIxUjNjSjZLd0tCcE12NVVtRG1MR0VjeEhuU1B2dHptcHcyZzM5R1VrZw?oc=5",
-    "image": "",
-    "date": 1788756900000
    }
   ],
   "rainews": [
