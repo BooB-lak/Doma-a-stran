@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T05:52:26.441Z",
+ "generatedAt": "2026-09-07T05:54:24.922Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Primorska avtocesta zaprta proti Kopru",
+    "link": "https://www.24ur.com/novice/slovenija/primorska-avtocesta-zaprta-proti-kopru.html",
+    "image": "https://images.24ur.com/media/images/213xX/May2026/2dec4c337facf68f5a2b_63580949.jpg?v=da58&fop=fp:0.51:0.36",
+    "date": 1788760248000
+   },
+   {
     "title": "V nesreči Amazonovega letala na letališču v Miamiju najmanj pet mrtvih",
     "link": "https://www.24ur.com/novice/tujina/v-nesreci-tovornega-letala-na-letaliscu-v-miamiju-najmanj-pet-mrtvih.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/d62ad2943976160d99cc_63643251.jpg?v=213d&fop=fp:0.55:0.39",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/zakaj-jennifer-lawrence-v-javnosti-pogosto-nosi-naglavno-ruto.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/13aef70bcbb939ff7fa9_63642780.png?v=e810&fop=fp:0.44:0.14",
     "date": 1788757215000
-   },
-   {
-    "title": "Začenja se zbiranje podpisov podpore za kandidate na lokalnih volitvah",
-    "link": "https://www.24ur.com/novice/slovenija/zacenja-se-zbiranje-podpisov-podpore-za-kandidate-na-lokalnih-volitvah.html",
-    "image": "https://images.24ur.com/media/images/213xX/Dec2022/b8b4cfe8b5bd2e85e200_62868622.jpg?v=07e7&fop=fp:0.51:0.42",
-    "date": 1788755106000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Six children among 11 people killed in Indonesian market fire",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788759445.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788759452000,
+    "titleSl": "Šest otrok od 11 mrtvih v požaru na indonezijski tržnici"
+   },
+   {
     "title": "Ten killed and dozens injured in Mexico fireworks blast",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788756990.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788748909.jpg?resize=1920%2C1080&quality=80",
     "date": 1788748916000,
     "titleSl": "Iran bo razglasil območje z omejitvami zunaj Hormuške ožine"
-   },
-   {
-    "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
-    "link": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20251209__87HR3Z4__v1__HighRes__AustraliaInternetBan-1788741598.jpg?resize=1920%2C1440",
-    "date": 1788748514000,
-    "titleSl": "Avstralski predlagani zakon o izvzetju cilja na algoritme velike tehnologije"
    }
   ],
   "guardian": [
@@ -417,6 +417,13 @@
   ],
   "bild": [
    {
+    "title": "Schütze auf der Flucht - Mann in Berlin erschossen",
+    "link": "https://www.bild.de/regional/berlin/berlin-mann-erschossen-schuetze-auf-der-flucht-6a9e4b92181cb962d488632a",
+    "image": "https://images.bild.de/6a9e4b92181cb962d488632a/449590d8b8db84d88ae9fd3dfa645a40,fe51b754?w=1280",
+    "date": 0,
+    "titleSl": "Schütze auf der Flucht - Mann v Berlinu erschossen"
+   },
+   {
     "title": "3 Monate nach Leverkusen-Aus - Hjulmand als Trainer in Afrika aufgetaucht",
     "link": "https://www.bild.de/sport/fussball/bayer-leverkusen-ex-bayer-coach-kasper-hjulmand-ist-als-trainer-in-afrika-aufgetaucht-6a9d5c7a240b302c8a83b10b",
     "image": "https://images.bild.de/6a9d5c7a240b302c8a83b10b/c39d11e6d35e2eab67bf2a6467fad26d,8f251051?w=1280",
@@ -448,48 +455,42 @@
     "image": "https://images.bild.de/6a9e4cabcd516b2d1a1c55c2/42a684a6461ec67cc6ab86497ce6ada6,45851283?w=1280",
     "date": 0,
     "titleSl": "Sabotaža-Anschlag v NRW? - Unbekannte dringen ins Umspannwerk Wesel ein"
-   },
-   {
-    "title": "BILD-Protokoll - So lief die wilde Partynacht der AfD",
-    "link": "https://www.bild.de/politik/inland/afd-so-lief-die-wilde-partynacht-das-grosse-bild-protokoll-6a9dfb65181cb962d488607f",
-    "image": "https://images.bild.de/6a9dfb65181cb962d488607f/c85382921a84409b389e69bb6c4e7e51,662b5e9c?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "„Habe ihn gespürt, das war unheimlich emotional“ - krone.at",
+    "title": "„Habe ihn gespürt, das war unheimlich emotional“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BWnRwdms4X3RCd28ySWdIZ3h0cnhTTmVRbTE2ckQ3S2ZhclV6TnVWaFhVU25QQ2tDZHRCd2VXa3lCQQ?oc=5",
     "image": "",
     "date": 1788757740000
    },
    {
-    "title": "Schredder-Spezialist - Firmenchef: „Seit sechs Jahren im Krisenmodus!“ - krone.at",
+    "title": "Schredder-Spezialist - Firmenchef: „Seit sechs Jahren im Krisenmodus!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE80UFVtR3U0NVFmV1BJd1RSenNKZkhQUHhHdUZTS05CalBYdllja0tiSnRfNFNBNkRQUHV3YkFVOXE4Zw?oc=5",
     "image": "",
     "date": 1788757200000
    },
    {
-    "title": "Aufbauarbeiten starten - Ärztin in Nepal: „Tal ist wie mit Besen ausgefegt“ - krone.at",
+    "title": "Aufbauarbeiten starten - Ärztin in Nepal: „Tal ist wie mit Besen ausgefegt“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1mTWZQUWFZak9UT1F1bFFNdUphekw5M0pfNVhDRjllcUlvQkRYbnBOalNNSU90QklieUVpRERXdzZ4QQ?oc=5",
     "image": "",
     "date": 1788757200000,
-    "titleSl": "Aufbauarbeiten starten - Ärztin v Nepalu: „Tal ist wie mit Besen ausgefegt“ - krone.at"
+    "titleSl": "Aufbauarbeiten starten - Ärztin v Nepalu: „Tal ist wie mit Besen ausgefegt“"
    },
    {
-    "title": "Einbrecher gefasst - Kuriose Strafzettel-Flut: Autobesitzer im Knast! - krone.at",
+    "title": "Einbrecher gefasst - Kuriose Strafzettel-Flut: Autobesitzer im Knast!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zWk5Qb3pyTmdsZ29kdzNIUkVaSmlkLXBIaVpHREZMMWxZZkdsNzdnWXpWdmh3ZVNJb0FvWEVfMkQ4Zw?oc=5",
     "image": "",
     "date": 1788757200000
    },
    {
-    "title": "Attacke auf Nachbarn - Warum ein Teppich einen Messer-Mord verhinderte - krone.at",
+    "title": "Attacke auf Nachbarn - Warum ein Teppich einen Messer-Mord verhinderte",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45UHFwRXNub3c3c0xKVmhQUDIxUjNjSjZLd0tCcE12NVVtRG1MR0VjeEhuU1B2dHptcHcyZzM5R1VrZw?oc=5",
     "image": "",
     "date": 1788756900000
    },
    {
-    "title": "Täter geflüchtet - Streit eskaliert: 64-Jährigen zu Boden gestoßen - krone.at",
+    "title": "Täter geflüchtet - Streit eskaliert: 64-Jährigen zu Boden gestoßen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54aDE0Mi1LazNORkNYZEZFSk5lOGx6TVhSekhESjFQT1BNUktURmZxcVk5dVBaQmhvczYyWkNYWEdZZw?oc=5",
     "image": "",
     "date": 1788756360000
@@ -549,8 +550,8 @@
    {
     "title": "Avec « Adieu, Panic Beach », l’écrivaine suédoise Sara Stridsberg livre un roman familial cristallin sur les drames passés",
     "link": "https://www.lemonde.fr/livres/article/2026/09/07/avec-adieu-panic-beach-l-ecrivaine-suedoise-sara-stridsberg-livre-un-roman-familial-cristallin-sur-les-drames-passes_6767809_3260.html",
-    "image": "https://asset.lemde.fr/medias/img/social-network/default.png",
-    "date": 1788757213000,
+    "image": "https://img.lemde.fr/2026/09/02/666/0/4420/2210/644/322/60/0/34b13f6_upload-1-4dufbkg4yd75-pagje260609b-04-1.jpg",
+    "date": 1788757209000,
     "titleSl": "Avec « Adieu, Panic Beach », l'écrivaine suédoise Sara Stridsberg livre un roman familial cristallin sur les drames passés"
    },
    {
