@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08T16:36:28.916Z",
+ "generatedAt": "2026-09-08T16:40:41.726Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/sportal/nogomet/liga-prvakov-ligaski-del-1-krog-torek-2026-700906",
     "image": "https://siol.net/media/img/6b/3e/d6878c4901456631c558.jpeg",
     "date": 1788885240000
+   },
+   {
+    "title": "Iz koalicije predlog razrešitve podpredsednice DZ Avšič Bogovič iz Svobode",
+    "link": "https://siol.net/novice/slovenija/iz-koalicije-predlog-razresitve-podpredsednice-dz-avsic-bogovic-iz-svobode-700926",
+    "image": "https://siol.net/media/img/93/36/ee68d0d5790e7e9d2782.jpeg",
+    "date": 1788885180000
    },
    {
     "title": "Pri Rogliču imajo izračun za Masa: nato gredo na vse ali nič",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/nominiranci-za-zlato-zogo-2026-700923",
     "image": "https://siol.net/media/img/fd/2b/5f151a52bb78a51e99f7.jpeg",
     "date": 1788881760000
-   },
-   {
-    "title": "Pred vrati burna sprememba: močne nevihte, nalivi, tudi toča #animacija",
-    "link": "https://siol.net/novice/slovenija/pred-vrati-burna-sprememba-mocne-nevihte-nalivi-tudi-toca-animacija-700897",
-    "image": "https://siol.net/media/img/9d/d5/fe28ec7d9c2e27043ab0.jpeg",
-    "date": 1788881340000
    }
   ],
   "24ur": [
@@ -44,7 +44,7 @@
     "title": "Slovenski 15-letniki vse dlje od vrha: pri matematiki in branju pod povprečjem",
     "link": "https://www.24ur.com/novice/slovenija/slovenski-15-letniki-vse-dlje-od-vrha-pri-matematiki-in-branju-pod-povprecjem.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/ed186cf29eda949af90b_63643387.jpg?v=a989&fop=fp:0.45:0.59",
-    "date": 1788884997000
+    "date": 1788885346000
    },
    {
     "title": "Rončević napovedal veliko šolsko reformo: devetletke ne bo več, vrača se osemletka",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Tega poklica po novem več ne bo mogel opravljati kar vsak: Izdajali bodo licence",
+    "link": "https://www.zurnal24.si/zdravje/fizioterapija-licence-fizoterapevti-464848",
+    "image": "https://www.zurnal24.si/media/img/ef/ae/166c9c57e75b2c13e5a6.jpeg",
+    "date": 1788885480000
+   },
+   {
     "title": "To je v Sloveniji 'zabeležil' Dončićev soigralec",
     "link": "https://www.zurnal24.si/sport/kosarka/to-je-v-sloveniji-zabelezil-doncicev-soigralec-464847",
     "image": "https://www.zurnal24.si/media/img/e8/81/8137399d8d3ab8987a1b.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/slovenija-brani-bron-izpred-treh-let-464843",
     "image": "https://www.zurnal24.si/media/img/cf/14/2726b681b99ba6b55aea.jpeg",
     "date": 1788878700000
-   },
-   {
-    "title": "Kriminalistom predal naprave in gesla, nato ostro obračunal z Resnico",
-    "link": "https://www.zurnal24.si/slovenija/andrej-ribic-hisna-preiksava-podkupovanje-resnica-odzivi-opozicija-464842",
-    "image": "https://www.zurnal24.si/media/img/a8/f5/17c03ead2b8399530fcd.jpeg",
-    "date": 1788877560000
    }
   ],
   "reuters": [
@@ -199,18 +199,25 @@
   ],
   "nyt": [
    {
+    "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
+    "link": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html",
+    "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-iceland-map-gbzf/08int-iceland-map-gbzf-mediumSquareAt3X.jpg",
+    "date": 1788885415000,
+    "titleSl": "Islandija povabila ameriškega veleposlanika zaradi provokativnega Trumpovega zemljevida"
+   },
+   {
+    "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
+    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+    "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08xp-saudi-tbwm/08xp-saudi-tbwm-mediumSquareAt3X.jpg",
+    "date": 1788885307000,
+    "titleSl": "Savdska Arabija in jemenski Hutiji se vračajo na rob vojne"
+   },
+   {
     "title": "Which Senate Candidates Are Skipping Trump’s Republican Convention?",
     "link": "https://www.nytimes.com/2026/09/08/us/politics/republican-senate-candidates-trump-convention.html",
     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08pol-rnc-attendance-promo/08pol-rnc-attendance-chvw-mediumSquareAt3X.jpg",
     "date": 1788885080000,
     "titleSl": "Kateri kandidati za senat preskočijo Trumpovo republikansko konvencijo?"
-   },
-   {
-    "title": "Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War",
-    "link": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html",
-    "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08xp-bombardier1-qcwh/08xp-bombardier1-qcwh-mediumSquareAt3X.jpg",
-    "date": 1788884938000,
-    "titleSl": "Bombardier, kanadski izdelovalec letal, je ena od tarč v Trumpovi trgovinski vojni"
    },
    {
     "title": "RFK Jr. Promised Children’s Health Reforms. Here’s How He Did.",
@@ -220,28 +227,35 @@
     "titleSl": "RFK Jr. Obljubljene zdravstvene reforme za otroke. Tukaj je, kako je to storil."
    },
    {
+    "title": "A Timeline of Trump’s Pressure Campaign Against the Smithsonian",
+    "link": "https://www.nytimes.com/2026/07/06/arts/design/president-trump-smithsonian-timeline.html",
+    "image": "https://static01.nyt.com/images/2026/07/06/multimedia/06cul-smithsonian-timeline-wlfh/06cul-smithsonian-timeline-wlfh-mediumSquareAt3X.jpg",
+    "date": 1788884640000,
+    "titleSl": "Časovnica Trumpove kampanje pritiska proti Smithsonianu"
+   },
+   {
     "title": "‘Democrats Are Behind’: PAC Wants Party to Catch Up on A.I.",
     "link": "https://www.nytimes.com/2026/09/08/us/politics/democrats-ai-pac.html",
     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08pol-ai-dems-topart-01-clbp/08pol-ai-dems-topart-01-clbp-mediumSquareAt3X.jpg",
     "date": 1788884449000,
     "titleSl": "\"Demokrati so za nami\": pac želi, da stranka dohiti umetno inteligenco"
-   },
-   {
-    "title": "Thieves Steal Artworks From Renoir Museum in France",
-    "link": "https://www.nytimes.com/2026/09/08/arts/renoir-museum-artworks-theft-france.html",
-    "image": "https://static01.nyt.com/images/2026/09/09/arts/08cul-renoir-theft/08cul-renoir-theft-mediumSquareAt3X.jpg",
-    "date": 1788884396000,
-    "titleSl": "Tatovi kradejo umetnine iz muzeja Renoir v Franciji"
-   },
-   {
-    "title": "Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.",
-    "link": "https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html",
-    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00dc-marshall-jvbl/00dc-marshall-jvbl-mediumSquareAt3X.jpg",
-    "date": 1788884324000,
-    "titleSl": "Roger Marshall je tožil 700 bolnikov zaradi dolgov; 81 jih je bilo aretiranih. Zdaj je senator."
    }
   ],
   "bbc": [
+   {
+    "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+    "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e0/live/0e3c16f0-ab92-11f1-aa04-efbf6a882854.png",
+    "date": 1788885407000,
+    "titleSl": "V stavbi ukrajinske televizije, ki jo je zadel ruski dron, je v Kijevu umrlo pet ljudi"
+   },
+   {
+    "title": "Prince George attends first day at Eton College",
+    "link": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f51d/live/a2af8e40-ab9f-11f1-8e72-a346833ed029.jpg",
+    "date": 1788885126000,
+    "titleSl": "Princ George se je udeležil prvega dne na kolidžu Eton"
+   },
    {
     "title": "Irish Open will feel 'different' with Trump visit",
     "link": "https://www.bbc.co.uk/sport/golf/articles/c86x0lzld74o?at_medium=RSS&at_campaign=rss",
@@ -269,23 +283,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03e/live/bff67fd0-ab8c-11f1-b109-879e35c24276.jpg",
     "date": 1788882258000,
     "titleSl": "Odvetnik Lindsay Clancy upa na dogovor s tožilci po razveljavitvi sojenja"
-   },
-   {
-    "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg",
-    "date": 1788881794000,
-    "titleSl": "Na Zahodnem bregu kmetje tehtajo vpliv sankcij Združenega kraljestva na izraelske naseljence"
-   },
-   {
-    "title": "Kane among three of England's World Cup stars to make Ballon d'Or shortlist",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg",
-    "date": 1788881229000,
-    "titleSl": "Kane je med tremi zvezdami svetovnega pokala v Angliji, ki so se uvrstile v ožji izbor Ballon d'Or"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Israeli strikes transform Lebanese city into ghost town",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788884382.jpg?resize=1920%2C1080&quality=80",
+    "date": 1788884392000,
+    "titleSl": "Izraelske stavke spremenijo libanonsko mesto v mesto duhov"
+   },
    {
     "title": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
@@ -320,16 +327,37 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T120827Z_2076266068_RC20FNAMBIAB_RTRMADP_3_HUNGARY-POLITICS-RUSSIA-1788870136.jpg?resize=1920%2C1440",
     "date": 1788882014000,
     "titleSl": "Madžarska izgnala 10 ruskih diplomatov, Moskva obljublja oster odziv"
-   },
-   {
-    "title": "What is BAPS, the Hindu group whose demands led to Eiffel Tower closure?",
-    "link": "https://www.aljazeera.com/news/2026/9/8/what-is-baps-the-hindu-group-whose-demands-led-to-eiffel-tower-closure?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa01a2f9f47-1788877359.jpg?resize=1920%2C1440",
-    "date": 1788880865000,
-    "titleSl": "Kaj je BAPS, hindujska skupina, katere zahteve so pripeljale do zaprtja Eifflovega stolpa?"
    }
   ],
   "guardian": [
+   {
+    "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/f8146bd977e6ffc6e30c7088acbecc0b9c97b379/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=710556a5a514868ee2009e3920da962b",
+    "date": 1788885218000,
+    "titleSl": "Izrael bo zaprl konzulat Združenega kraljestva v Jeruzalemu po sankcijah proti nezakonitim naselbinam – britanska politika v živo"
+   },
+   {
+    "title": "UK air traffic control fix issue that cancelled 300 flights but disruption to continue into evening – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/2305b85b82056ae8b434e171d8f3b83097055300/77_0_1051_841/master/1051.jpg?width=140&quality=85&auto=format&fit=max&s=fcbf7095731b059b2f3d8fff72fae183",
+    "date": 1788885121000,
+    "titleSl": "Kontrola zračnega prometa v Združenem kraljestvu je odpravila težavo, zaradi katere je bilo odpovedanih 300 letov, vendar se je motnja nadaljevala tudi zvečer –"
+   },
+   {
+    "title": "Democrats hit back at Trump after president floats changing name of New Mexico to ‘New America’ - US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/a560bfbcc538df9b688933b605df01ff226ecc48/944_10_2089_1671/master/2089.jpg?width=140&quality=85&auto=format&fit=max&s=0bbf18448f3494d513ac9346ad07588d",
+    "date": 1788884963000,
+    "titleSl": "Demokrati so Trumpu vrnili udarec, potem ko je predsednik spremenil ime Nove Mehike v \"Nova Amerika\" - ameriška politika v živo"
+   },
+   {
+    "title": "Flight disruption across UK continues after air traffic control technical issue",
+    "link": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+    "image": "https://i.guim.co.uk/img/media/949c17c5fa9d02b802fc680e80bdcdc696963c54/0_0_7240_5792/master/7240.jpg?width=140&quality=85&auto=format&fit=max&s=8796bb5d6d26eed69b7a0da61d1271f9",
+    "date": 1788884732000,
+    "titleSl": "Motnje letov v Združenem kraljestvu se nadaljujejo po tehnični težavi kontrole zračnega prometa"
+   },
    {
     "title": "Hurricane Lowell brings threat of floods, mudslides and tornadoes to Hawaii",
     "link": "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
@@ -338,39 +366,11 @@
     "titleSl": "Orkan Lowell na Havaje prinaša nevarnost poplav, zemeljskih plazov in tornadov"
    },
    {
-    "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/f8146bd977e6ffc6e30c7088acbecc0b9c97b379/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=710556a5a514868ee2009e3920da962b",
-    "date": 1788884094000,
-    "titleSl": "Izrael bo zaprl konzulat Združenega kraljestva v Jeruzalemu po sankcijah proti nezakonitim naselbinam – britanska politika v živo"
-   },
-   {
-    "title": "Recovery from UK flight disruption ‘will take some time’ after almost 300 flight cancellations – business live",
-    "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/2305b85b82056ae8b434e171d8f3b83097055300/77_0_1051_841/master/1051.jpg?width=140&quality=85&auto=format&fit=max&s=fcbf7095731b059b2f3d8fff72fae183",
-    "date": 1788883919000,
-    "titleSl": "Okrevanje po motnji letov v Združenem kraljestvu \"bo trajalo nekaj časa\" po skoraj 300 odpovedih letov – poslovno v živo"
-   },
-   {
-    "title": "Democrats hit back at Trump after president floats changing name of New Mexico to ‘New America’ - US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/a560bfbcc538df9b688933b605df01ff226ecc48/944_10_2089_1671/master/2089.jpg?width=140&quality=85&auto=format&fit=max&s=0bbf18448f3494d513ac9346ad07588d",
-    "date": 1788883911000,
-    "titleSl": "Demokrati so Trumpu vrnili udarec, potem ko je predsednik spremenil ime Nove Mehike v \"Nova Amerika\" - ameriška politika v živo"
-   },
-   {
     "title": "Police overlooked tip-off day before far-right agitators blocked Dover roads",
     "link": "https://www.theguardian.com/world/2026/sep/08/kent-police-dover-unrest-far-right-village",
     "image": "https://i.guim.co.uk/img/media/1d3264f3f0b1f662787fd1ed956a1aef214bc47c/882_0_2343_1875/master/2343.jpg?width=140&quality=85&auto=format&fit=max&s=1e2a0698bb433e078de7e5c38c756407",
     "date": 1788883681000,
     "titleSl": "Policija je spregledala dan, ko so skrajno desni agitatorji blokirali ceste Dover"
-   },
-   {
-    "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/038af15df82ab51d97dfb4ac7ef9022e491f76b1/1204_127_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=0b5260c5073e46f8ed1636c8d56f0778",
-    "date": 1788883523000,
-    "titleSl": "Rusija pravi, da bo dala \"oster in boleč\" odziv po tem, ko Madžarska izžene 10 diplomatov - Evropa v živo"
    }
   ],
   "spiegel": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Verletzungsschock nach Traumtor - Dynamo-Leihspieler fällt Monate aus",
+    "link": "https://www.bild.de/sport/fussball/fussball-schock-leihspieler-von-dynamo-dresden-faellt-monate-aus-6a9eaf38240b302c8a83c535",
+    "image": "https://images.bild.de/6a9eaf38240b302c8a83c535/e0296e55a44503182ddfcb86d58afc5c,f00234ed?w=1280",
+    "date": 0
+   },
+   {
     "title": "Gäste & Themen am 8. September 2026 - Wer ist heute Abend bei Maischberger zu Gast?",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/maischberger-heute-markus-soeder-zur-sachsen-anhalt-wahl-6a9ff9b5181cb962d4887f2c",
     "image": "https://images.bild.de/6a9ff9b5181cb962d4887f2c/80fac06635754d4a768cab434f195239,29db37fd?w=1280",
@@ -445,12 +451,6 @@
     "image": "https://images.bild.de/6aa02eb21c634564db633003/0e9efc88b1a4ca202b3a7e584fedba4c,1f2ae2f6?w=1280",
     "date": 0,
     "titleSl": "Streit um Siedlungen eskaliert - Israel schließt britisches Konsulat v Jeruzalemu"
-   },
-   {
-    "title": "BILD 100 - Die Frage des Abends - Wie schaffen wir ein besseres Deutschland?",
-    "link": "https://www.bild.de/news/inland/bild-100-die-frage-des-abends-wie-schaffen-wir-ein-besseres-deutschland-6a9ff5091c634564db6327c4",
-    "image": "https://images.bild.de/6a9ff5091c634564db6327c4/f2196c374c7538e8fd1e4dcf0e92bf94-landscape,23bafe3a?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -535,6 +535,18 @@
   ],
   "lemonde": [
    {
+    "title": "Le romancier Kamel Daoud relaxé dans un procès en diffamation",
+    "link": "https://www.lemonde.fr/societe/article/2026/09/08/le-romancier-kamel-daoud-relaxe-dans-un-proces-en-diffamation_6768422_3224.html",
+    "image": "https://img.lemde.fr/2026/09/08/1257/0/7539/3769/644/322/60/0/961bd36_upload-1-ebtilt1075rk-000-36y77kg.jpg",
+    "date": 1788885365000
+   },
+   {
+    "title": "A la tête de la start-up franco-allemande The Exploration Company, Hélène Huby incarne l’ambition du spatial européen face à SpaceX",
+    "link": "https://www.lemonde.fr/economie/article/2026/09/08/a-la-tete-de-la-start-up-franco-allemande-the-exploration-company-helene-huby-incarne-l-ambition-du-spatial-europeen-face-a-spacex_6768417_3234.html",
+    "image": "https://img.lemde.fr/2026/09/08/140/0/1620/810/644/322/60/0/6cf7ff5_upload-1-lq6e40ev8wgd-043-dpa-pa-250623-99-248566-dpai.jpg",
+    "date": 1788883206000
+   },
+   {
     "title": "Le manque d’eau se fait toujours sévèrement sentir en France malgré quelques pluies",
     "link": "https://www.lemonde.fr/planete/article/2026/09/08/le-manque-d-eau-se-fait-toujours-severement-sentir-en-france-malgre-quelques-pluies_6768414_3244.html",
     "image": "https://img.lemde.fr/2026/08/29/560/0/6720/3360/644/322/60/0/11138f1_upload-1-bni3ejamu7pd-vn20260826-figeac-eau-092.jpg",
@@ -560,23 +572,16 @@
     "link": "https://www.lemonde.fr/pixels/article/2026/09/08/l-australie-veut-permettre-aux-utilisateurs-de-desactiver-les-algorithmes-sur-les-reseaux-sociaux_6768406_4408996.html",
     "image": "https://img.lemde.fr/2026/09/08/720/0/8640/4320/644/322/60/0/2ada0da_ftp-1-5yfsbfkzqokk-304bde07aa894025a048b383fdc7308f-0-31279f7ee9ca4308923a383778658309.jpg",
     "date": 1788879969000
-   },
-   {
-    "title": "Le CESE lance une convention citoyenne sur les finances publiques",
-    "link": "https://www.lemonde.fr/politique/article/2026/09/08/le-cese-lance-une-convention-citoyenne-sur-les-finances-publiques_6768403_823448.html",
-    "image": "https://img.lemde.fr/2026/09/08/0/0/7156/3578/644/322/60/0/298b69e_upload-1-jfq6fqvcry1t-000-b8y269e.jpg",
-    "date": 1788879618000,
-    "titleSl": "Le CESE lance une Convention citoyenne sur les finances publiques"
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine a assuré à Donald Trump que la Russie n’avait pas de « visée agressive » à l’égard de l’Europe, rapporte le Kremlin",
-    "link": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-vladimir-poutine-a-assure-a-donald-trump-que-la-russie-n-avait-pas-de-visee-agressive-a-l-egard-de-l-europe-rapporte-le-kremlin_6766818_3210.html",
-    "image": "https://img.lemde.fr/2026/09/05/415/0/4982/2491/644/322/60/0/abac893_ftp-1-nexnzp6lyvkv-5005798-01-06.jpg",
-    "date": 1788878964000,
-    "titleSl": "EN DIRECT, guerre en Ukraine : Vladimir Poutine a assuré à Donald Trump que la Russie n 'avait pas de «visée agressive» à l' égard de l'Europe, rapporte le Kremlin"
    }
   ],
   "elpais": [
+   {
+    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Rey se reunió con Margarita Robles y mandos militares para “examinar la situación en Ceuta desde el punto de vista de la defensa”",
+    "link": "https://elpais.com/espana/2026-09-08/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/QRNHWYV575EMTMTIZMI4GPWCGQ.jpg?auth=1d0d27326629c7a5de50353dc621c5191030db11d48d5d6ec0a042f80510bfd1",
+    "date": 1788885469000,
+    "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Rey se reunió con Margarita Robles y mandos militares para \"examinar la situación en Ceuta desde el punto de vista de la defensa\""
+   },
    {
     "title": "La Federación de Fútbol cubrirá la congelación de óvulos a jugadoras y árbitras con cinco años de mantenimiento",
     "link": "https://elpais.com/sociedad/2026-09-08/la-federacion-de-futbol-cubrira-la-congelacion-de-ovulos-a-jugadoras-y-arbitras-con-cinco-anos-de-mantenimiento.html",
@@ -607,12 +612,6 @@
     "link": "https://elpais.com/internacional/2026-09-08/once-paises-europeos-y-canada-anuncian-sanciones-contra-productos-de-los-asentamientos-israelies.html",
     "image": "https://imagenes.elpais.com/resizer/v2/AJLW7VHIQZAKRAHIUIRAAGIUFM.jpg?auth=5cd6f1cc9021151130b37e376b938eab00f15b6edfd99cbe4184c6d76d8151f8",
     "date": 1788883412000
-   },
-   {
-    "title": "El juez Peinado mantiene este martes la audiencia preliminar de Begoña Gómez tras un pulso con las defensas",
-    "link": "https://elpais.com/espana/2026-09-08/begona-gomez-insiste-en-aplazar-la-audiencia-preliminar-de-este-martes-ante-el-plan-del-juez-peinado-de-mantenerla.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/4CX6JLEPINBIHOAA6YG4KOSWVQ.jpg?auth=24130066beb9a35503e2106cf9ef41b3be6f241f8cd8b07926516c8e5b78451e",
-    "date": 1788883108000
    }
   ]
  },
