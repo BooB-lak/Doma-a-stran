@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08T17:42:27.827Z",
+ "generatedAt": "2026-09-08T17:44:24.534Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Čeh v Zagrebu brez konkurence",
+    "link": "https://www.24ur.com/sport/ostalo/ceh-zmagal-v-zagrebu-z-novim-metom-prek-70-m.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/0e0196189465fad5fb1b_63631727.jpg?v=ed4c&fop=fp:0.45:0.40",
+    "date": 1788889408000
+   },
+   {
     "title": "Subvencije kmetom in avtoprevoznikom: kaj bo krila država?",
     "link": "https://www.24ur.com/novice/gospodarstvo/subvencije-kmetom-in-avtoprevoznikom-kaj-bo-krila-drzava.html",
     "image": "https://images.24ur.com/media/images/213xX/Feb2026/0a81439e13180592eb89_63541754.jpg?v=3388&fop=fp:0.41:0.41",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/novice/slovenija/hisne-preiskave-pri-andreju-ribicu.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/66bcf7cfd230050233c1_63612557.jpg?v=ab05&fop=fp:0.41:0.45",
     "date": 1788888652000
-   },
-   {
-    "title": "Čeh zmagal v Zagrebu brez konkurence",
-    "link": "https://www.24ur.com/sport/ostalo/ceh-zmagal-v-zagrebu-z-novim-metom-prek-70-m.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/0e0196189465fad5fb1b_63631727.jpg?v=ed4c&fop=fp:0.45:0.40",
-    "date": 1788888477000
    },
    {
     "title": "'Izobraževanje ni piškot, ki ga dvakrat obrneš in je pečen'",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Oče umrl, nosečnica in otrok v smrtni nevarnosti – povzročitelj nesreče pa na begu",
+    "link": "https://www.zurnal24.si/svet/prometna-nesreca-smrt-oce-nocecnica-3-letni-otrok-smrtna-nevarnost-povzrocitelj-nesrece-beg-tovornjak-464850",
+    "image": "https://www.zurnal24.si/media/img/98/9a/b87cf8d45992db5157f9.jpeg",
+    "date": 1788889380000
+   },
+   {
     "title": "Izraelskega ministra bi ob prihodu v Slovenijo lahko pričakala aretacija",
     "link": "https://www.zurnal24.si/slovenija/izrael-minister-gideon-sar-kazenska-ovadba-aretacija-464849",
     "image": "https://www.zurnal24.si/media/img/2e/17/8cfcd3435e574917e71b.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kolesarstvo/mladi-brtanec-dvignil-stiri-prste-464845",
     "image": "https://www.zurnal24.si/media/img/92/02/815a3ee113257d5ece40.jpeg",
     "date": 1788881400000
-   },
-   {
-    "title": "V parlamentu je počilo: Stevanović pod vse hujšim pritiskom",
-    "link": "https://www.zurnal24.si/slovenija/zoran-stevanovic-pravnomocne-obsodbe-spor-asta-vrecko-464844",
-    "image": "https://www.zurnal24.si/media/img/66/59/34ba36d595eba624dbb8.jpeg",
-    "date": 1788881340000
    }
   ],
   "reuters": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "US won’t join UK ban on trade with illegal Israeli settlements",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788888190.jpg?resize=1920%2C1075&quality=80",
-    "date": 1788888276000,
-    "titleSl": "ZDA se ne bodo pridružile prepovedi trgovine z nezakonitimi izraelskimi naselbinami v Združenem kraljestvu"
-   },
-   {
-    "title": "‘A bit too late, but important’: UK bans goods from Israeli settlements",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/a-bit-too-late-but-important-uk-bans-goods-from-israeli-settlements?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788887461.jpg?resize=1920%2C1080&quality=80",
-    "date": 1788887476000,
-    "titleSl": "\"Malo prepozno, a pomembno\": Združeno kraljestvo prepoveduje blago iz izraelskih naselij"
-   },
-   {
     "title": "Israeli strikes devastate homes, displace families across Gaza",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788886992.jpg?resize=1920%2C1080&quality=80",
@@ -327,36 +313,29 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788883452.jpg?resize=1920%2C1080&quality=80",
     "date": 1788883538000,
     "titleSl": "Sankcije Združenega kraljestva izraelskim naselbinam pomenijo \"potresni\" premik, pravi Albanese"
+   },
+   {
+    "title": "Israeli academia accused of systemic apartheid against Palestinians",
+    "link": "https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP18135487411057-1788857467.jpg?resize=1920%2C1440",
+    "date": 1788883482000,
+    "titleSl": "Izraelska akademija obtožena sistemskega apartheida proti Palestincem"
+   },
+   {
+    "title": "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-26T204838Z_399949035_UP1EM8Q1LT1PD_RTRMADP_3_SOCCER-SPAIN-RMA-RSO-1788889092.jpg?resize=1920%2C1440",
+    "date": 1788882445000,
+    "titleSl": "V ŽIVO: Real Madrid proti Interju Milano – Liga prvakov UEFA"
    }
   ],
   "guardian": [
    {
-    "title": "Glastonbury tickets break £400 for first time as on-sale date is announced",
-    "link": "https://www.theguardian.com/music/2026/sep/08/glastonbury-tickets-break-400-for-first-time-as-on-sale-date-is-announced",
-    "image": "https://i.guim.co.uk/img/media/f8645d521e4a632b810408c7a2496203942a7253/336_0_3357_2687/master/3357.jpg?width=140&quality=85&auto=format&fit=max&s=77bd357d2cc8dbc2dcacf6d61acfeb30",
-    "date": 1788888810000,
-    "titleSl": "Vstopnice Glastonburyja prvič stanejo 400 £, ko je objavljen datum prodaje"
-   },
-   {
-    "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/f8146bd977e6ffc6e30c7088acbecc0b9c97b379/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=710556a5a514868ee2009e3920da962b",
-    "date": 1788888684000,
-    "titleSl": "Izrael bo zaprl konzulat Združenega kraljestva v Jeruzalemu po sankcijah proti nezakonitim naselbinam – britanska politika v živo"
-   },
-   {
     "title": "UK air traffic control fix issue that cancelled more than 400 flights but disruption to continue into evening – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/2305b85b82056ae8b434e171d8f3b83097055300/77_0_1051_841/master/1051.jpg?width=140&quality=85&auto=format&fit=max&s=fcbf7095731b059b2f3d8fff72fae183",
-    "date": 1788888402000,
+    "date": 1788887999000,
     "titleSl": "Kontrola zračnega prometa v Združenem kraljestvu je odpravila težavo, zaradi katere je bilo odpovedanih več kot 400 letov, vendar je prišlo do motenj, ki so se nadaljevale"
-   },
-   {
-    "title": "Smithsonian chief Lonnie Bunch III to resign amid Trump administration pressure on institution - US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/bc21fc9fa3eaad6ec7468baed60d4d09527bee81/453_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=76a6a7f85b80f0ae1b473dcee5024ea2",
-    "date": 1788888355000,
-    "titleSl": "Šef Smithsoniana Lonnie Bunch III odstopil zaradi pritiska Trumpove administracije na institucije - ameriška politika v živo"
    },
    {
     "title": "Victims of deadly Amazon cargo plane crash identified, as two more remain critical",
@@ -371,6 +350,27 @@
     "image": "https://i.guim.co.uk/img/media/bfd654bd04184dd9df503629644ed1f8431a334e/349_0_4382_3506/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=4596f5db28dddf7f8101cd29611ce3e1",
     "date": 1788887635000,
     "titleSl": "Motnje na letališču v Združenem kraljestvu: kakšne so vaše pravice, če ste bili prizadeti?"
+   },
+   {
+    "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/f8146bd977e6ffc6e30c7088acbecc0b9c97b379/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=710556a5a514868ee2009e3920da962b",
+    "date": 1788887504000,
+    "titleSl": "Izrael bo zaprl konzulat Združenega kraljestva v Jeruzalemu po sankcijah proti nezakonitim naselbinam – britanska politika v živo"
+   },
+   {
+    "title": "Smithsonian chief Lonnie Bunch III to resign amid Trump administration pressure on institution - US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/bc21fc9fa3eaad6ec7468baed60d4d09527bee81/453_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=76a6a7f85b80f0ae1b473dcee5024ea2",
+    "date": 1788886916000,
+    "titleSl": "Šef Smithsoniana Lonnie Bunch III odstopil zaradi pritiska Trumpove administracije na institucije - ameriška politika v živo"
+   },
+   {
+    "title": "Ukraine’s prosecutor general quits after anti-corruption agents raid his office",
+    "link": "https://www.theguardian.com/world/2026/sep/08/ukraine-prosecutor-general-ruslan-kravchenko-quits-anti-corruption-agents-raid-office",
+    "image": "https://i.guim.co.uk/img/media/9aed06dcc23a4ac6440be63eeac3f594329138a8/16_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=9e8e965b6339fcd8182c222e7c11f8f3",
+    "date": 1788886831000,
+    "titleSl": "Ukrajinski generalni tožilec je odstopil, potem ko so protikorupcijski agenti vdrli v njegovo pisarno"
    }
   ],
   "spiegel": [
@@ -415,6 +415,33 @@
   ],
   "bild": [
    {
+    "title": "Schock-Moment bei Basketball-WM - Japanerin muss hinter XL-Plane abgeschirmt werden",
+    "link": "https://www.bild.de/sport/mehr-sport/schock-moment-bei-basketball-wm-japanerin-muss-hinter-xl-plane-abgeschirmt-werden-6aa04257240b302c8a83dd36",
+    "image": "https://images.bild.de/6aa04257240b302c8a83dd36/712f53ec94e785f25527cc61b63bdd52,48066397?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Freundin Laura übergibt sich - Schwanger im „Sommerhaus“? Nico Legat in Sorge",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sommerhaus-der-stars-nico-legat-und-freundin-laura-machen-einen-schwangerschaftstest-6aa02644181cb962d4888416",
+    "image": "https://images.bild.de/6aa02644181cb962d4888416/165879532f2e01c55c3d557dd8dac882,c22fc207?w=1280",
+    "date": 0,
+    "titleSl": "Freundin Laura übergibt sich - Schwanger im „Sommerhaus“? Nico Legat v Sorgeju"
+   },
+   {
+    "title": "Erstes Foto nach dem Ehe-Aus! - Carpendales gemeinsam in Wien",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/annemarie-und-wayne-carpendale-nach-ehe-aus-gemeinsam-in-wien-6aa022e8240b302c8a83db4b",
+    "image": "https://images.bild.de/6aa022e8240b302c8a83db4b/aa0bff3e5a8bfe1c810ebd5d724d9194,387588cc?w=1280",
+    "date": 0,
+    "titleSl": "Erstes Foto nach dem Ehe-Aus! - Carpendales gemeinsam na Dunaju"
+   },
+   {
+    "title": "Genialer Trick beim Beamen - So verschwanden Spock und Kirk",
+    "link": "https://www.bild.de/unterhaltung/film-kino/beamen-wie-bei-raumschiff-enterprise-so-verschwinden-kirk-und-spock-68f4b791e848f25b0682edcb",
+    "image": "https://images.bild.de/68f4b791e848f25b0682edcb/97d9e498787987346fc45ac398f3f093,f4ab2d8f?w=1280",
+    "date": 0,
+    "titleSl": "Genialer Trick Beam Beamen - So verschwanden Spock und Kirk"
+   },
+   {
     "title": "60 Jahre Star Trek - Haben Sie Mr. Spock schon mal rauchen sehen?",
     "link": "https://www.bild.de/unterhaltung/60-jahre-star-trek-haben-sie-mr-spock-schonmal-rauchen-sehen-68c2c3797ecf6b1bfe3e1bfc",
     "image": "https://images.bild.de/68c2c3797ecf6b1bfe3e1bfc/acc51d93f8fc9e500febe5b4bb365446,34d04d65?w=1280",
@@ -424,30 +451,6 @@
     "title": "Was die BVB-Bosse jetzt erwarten - Kohle-Auftrag an Kovac!",
     "link": "https://www.bild.de/sport/fussball/bvb-kohle-auftrag-an-kovac-6a9ec3d4721eb476650a2c0c",
     "image": "https://images.bild.de/6a9ec3d4721eb476650a2c0c/42677c11b8287767a7eee847b13969a5,7ad50356?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Hoffnung für Raubkatzen - Tiger-Drillinge sollen bedrohte Art bewahren",
-    "link": "https://www.bild.de/news/hoffnung-fuer-raubkatzen-tiger-drillinge-sollen-bedrohte-art-bewahren-6aa028b754ff84194d4cb49f",
-    "image": "https://images.bild.de/6aa028b754ff84194d4cb49f/2ba85e49d3b08086e46a2e782373d9d8,e2b89899?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Raubtier-Alarm in den Rocky Mountains - Bär springt plötzlich aus Pickup-Truck",
-    "link": "https://www.bild.de/news/raubtier-alarm-in-den-rocky-mountains-baer-springt-ploetzlich-aus-pickup-truck-6aa01ebe1c634564db632e5a",
-    "image": "https://images.bild.de/6aa01ebe1c634564db632e5a/f9736a521daae7a38b1c654908afa4dd,82abc00a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Unzufriedenheit in Gerstungen - Gemeinde will Thüringen den Rücken kehren",
-    "link": "https://www.bild.de/politik/inland/gerstungen-thueringer-gemeinde-denkt-ueber-wechsel-nach-hessen-nach-6aa01841240b302c8a83da34",
-    "image": "https://images.bild.de/6aa01841240b302c8a83da34/0dc952e5712a8ada9aeb9fb1c13644fa,6cf3b410?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Höchster Stand seit 2012 - Dispo-Alarm! So viele Haushalte im Minus wie noch nie",
-    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/rekord-beim-dispo-jeder-siebte-rutscht-ins-kontominus-6a9e7cc9181cb962d4886756",
-    "image": "https://images.bild.de/6a9e7cc9181cb962d4886756/305e8bf9105accd1cbbe9cdfdd3b08ba,c3322fe0?w=1280",
     "date": 0
    }
   ],
