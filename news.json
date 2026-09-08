@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08T08:08:26.563Z",
+ "generatedAt": "2026-09-08T08:10:45.275Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "PRENOS V ŽIVO: Dron ogrožal helikopter med intervencijo. Kaj so ugotovili?",
+    "title": "PRENOS V ŽIVO: Pilot: Izgubljamo čas, ko je pacient še na krovu",
     "link": "https://www.24ur.com/novice/slovenija/dron-ogrozal-helikopter-med-intervencijo-kaj-so-ugotovili.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/b3853191c6b322c53c66_63643895.jpg?v=dc09&fop=fp:0.44:0.27",
-    "date": 1788854560000
+    "date": 1788854952000
    },
    {
     "title": "300 novih zaposlitev: Revoz začenja proizvodnjo modela Dacia spring",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Nov šok v New Yorku! Kvalifikantka usodna za Swiatkovo!",
+    "link": "https://www.zurnal24.si/sport/novo-sok-v-new-yorku-kvalifikantka-usodna-za-swiatkovo-464813",
+    "image": "https://www.zurnal24.si/media/img/57/29/2bf334ec26a29c9a5998.jpeg",
+    "date": 1788854940000
+   },
+   {
     "title": "Črn september: Slovenija je izgubila kar dve veliki imeni",
     "link": "https://www.zurnal24.si/magazin/vip/crn-september-slovenija-je-izgubila-kar-dve-veliki-imeni-464810",
     "image": "https://www.zurnal24.si/media/img/d1/b1/a795394982f98a722bc2.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/vreme-se-bo-prelomilo-mozne-silovite-nevihte-toca-in-veter-464807",
     "image": "https://www.zurnal24.si/media/img/cb/10/ba1a60f8f5d8da0245b9.jpeg",
     "date": 1788845700000
-   },
-   {
-    "title": "Nepričakovano umrla misica Lucia Sisic",
-    "link": "https://www.zurnal24.si/magazin/vip/nepricakovano-umrla-misica-lucia-sisic-464806",
-    "image": "https://www.zurnal24.si/media/img/58/4e/66151c594f60503134ee.jpeg",
-    "date": 1788845520000
    }
   ],
   "reuters": [
@@ -252,7 +252,7 @@
    {
     "title": "The firms turning recruitment into X Factor-style competitions",
     "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b8d/live/45ef6260-8c29-11f1-9488-69577cd5e4e0.jpg",
     "date": 1788853395000,
     "titleSl": "Podjetja, ki zaposlovanje spreminjajo v tekmovanja v slogu X Factor"
    },
@@ -417,6 +417,25 @@
   ],
   "bild": [
    {
+    "title": "Kaum ist die US-Friedensdelegation weg - Russland feuert Raketen und Drohnen auf Kiew",
+    "link": "https://www.bild.de/news/neue-angriffswelle-russland-feuert-raketen-und-drohnen-auf-kiew-6a9fa56faf5e847e9c999779",
+    "image": "https://images.bild.de/6a9fa56faf5e847e9c999779/0d6d58ec4dcf80f8529490dde411c810,9a5422f3?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Fall JP Kraemer - Jetzt sprechen die Tuner",
+    "link": "https://www.bild.de/news/fall-jp-kraemer-jetzt-sprechen-die-tuner-ich-faends-schoen-wenn-es-irgendwann-ein-comeback-geben-koennte-6a9c6364fd8102779ee4a705",
+    "image": "https://images.bild.de/6a9c6364fd8102779ee4a705/010efd80fe8b33a2400ac3001057cbe1,a20c8ff3?w=1280",
+    "date": 0,
+    "titleSl": "Padec JP Kraemer - Jetzt sprechen die Tuner"
+   },
+   {
+    "title": "Am Flughafen Frankfurt - Culcha-Candela-Star aus Flugzeug geschmissen",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/am-flughafen-frankfurt-culcha-candela-star-aus-flugzeug-geschmissen-6a9e7e54240b302c8a83bf5c",
+    "image": "https://images.bild.de/6a9e7e54240b302c8a83bf5c/60e7c2e0b830ae75ef49aab9e2aa46cf,98f15229?w=1280",
+    "date": 0
+   },
+   {
     "title": "Bei Anti-AfD-Protesten in Halle/S. - Schüsse aus Druckluftwaffe auf Demonstranten",
     "link": "https://www.bild.de/news/auf-demo-in-halle-an-der-saale-staatsschutz-ermittelt-zu-schuessen-aus-druckluftwaffe-6a9fba7d240b302c8a83d0a3",
     "image": "https://images.bild.de/6a9fba7d240b302c8a83d0a3/a54f218dc62601546b4dfd585d34e00c,40ed4fdb?w=1280",
@@ -432,24 +451,6 @@
     "title": "Für Felix von Jascheroff ist bald Schluss - Er tritt Johns GZSZ-Erbe an",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/gzsz-fuer-felix-von-jascheroff-ist-bald-schluss-julian-krenn-tritt-johns-erbe-an-6a9f99f5181cb962d4887695",
     "image": "https://images.bild.de/6a9f99f5181cb962d4887695/b79ff96aae92bf35d1a6539b9faab652,23a2d67?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Zoff-Jubel von Königsdörffer - Auch Amiri schießt gegen den HSV",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-auch-mainz-05-star-amiri-schiesst-gegen-den-hamburger-sv-6a9fb60e54ff84194d4ca778",
-    "image": "https://images.bild.de/6a9fb60e54ff84194d4ca778/efd0c2335ac71237a7d8254d9abbca06,38bd5c4c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Viertelfinaleinzug bei US Open - Welche Frage Zverev nicht beantworten wollte",
-    "link": "https://www.bild.de/sport/mehr-sport/alexander-zverev-unter-druck-nee-komm-naechste-frage-6a9fa279240b302c8a83cf0c",
-    "image": "https://images.bild.de/6a9fa279240b302c8a83cf0c/15ad0b0d17ca13cc95665cb2345b2e0e,333c4a8d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Live-Ticker zur Haushaltsdebatte - Zoff um Milliarden-Etat: Grüne zählen Klingbeil an",
-    "link": "https://www.bild.de/politik/inland/haushalt-im-bundestag-die-debatte-und-rede-von-lars-klingbeil-im-live-ticker-6a9fb0ca181cb962d48877fb",
-    "image": "https://images.bild.de/6a9fb0ca181cb962d48877fb/748df08d0a70571cd442b186c2265d54,7b179764?w=1280",
     "date": 0
    }
   ],
@@ -480,20 +481,27 @@
     "date": 1788851520000
    },
    {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCR1Q0NFFyZUZINmgzWUJBdWM5ZHM1TEhtT3hUYVA2c3pWSGNSUVBPTTl1cmVEd3E0bjl3a1pjeE5XQWVrSHJMdlJic3h3X2JYV1FSalAxNA?oc=5",
+    "image": "",
+    "date": 1788851452000
+   },
+   {
     "title": "Plötzliches Statement - Charles stellt klar: Harry und Meghan? Draußen!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40SU53WUwwYTNlNzRqNDcxVExLcG1IODZOVGYxQ3dFWDJkRVdFc3NxRVY4aFR1TGdtVGh6b0lSQ2FCdw?oc=5",
     "image": "",
     "date": 1788851400000,
     "titleSl": "Izjava Plötzliches - Charles stellt klar: Harry in Meghan? Draußen!"
-   },
-   {
-    "title": "Biker schwer gestürzt - Motorradfahrer (62) von Auto „abgeschossen“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Pd0RTM2FzMWFGTVdnNEdtbkYwZTZHMFFqQmVHY3gydnpXWERObnAzTVlMTlR0eVVnNlZOblpWOFhTQQ?oc=5",
-    "image": "",
-    "date": 1788850920000
    }
   ],
   "rainews": [
+   {
+    "title": "Russia riprende attacchi dopo la tregua: raid su Kiev, almeno due morti e sette feriti",
+    "link": "https://www.rainews.it/maratona/2026/09/russia-riprende-attacchi-su-kiev-dopo-tregua-scandalo-corruzione-si-dimette-procuratore-generale-7edc6a7c-f751-42d1-8a94-1ae5a9830c4c.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/05/1788559242510_CCMF.jpg",
+    "date": 1788854940000,
+    "titleSl": "Rusija riprende attacchi dopo la tregua: raid su Kiev, almeno due morti e sette feriti"
+   },
    {
     "title": "Trump: \"Prezzo petrolio scenderà quando vinceremo guerra. Teheran non avrà mai un&#x27;arma nucleare\"",
     "link": "https://www.rainews.it/maratona/2026/09/trump-prezzo-petrolio-scendera-quando-vinceremo-guerra-teheran-non-avra-mai-unarma-nucleare-10189ebd-b55c-4739-9234-a19a336f7952.html",
@@ -526,12 +534,6 @@
     "link": "https://www.rainews.it/articoli/2026/09/petrolio-e-gas-corrono-ancora-brent-a-986-dollari-al-barile-0a82a79c-eea8-41d6-8647-3840f04ce3a0.html",
     "image": "https://www.rainews.it/dl/img/2022/11/04/1667580634747_Immagine.png",
     "date": 1788853140000
-   },
-   {
-    "title": "Rubati quattro quadri di Renoir dal museo di Cagnes-sur-Mer in Costa Azzurra",
-    "link": "https://www.rainews.it/articoli/2026/09/rubati-quattro-quadri-di-renoir-dal-museo-di-cagnes-sur-mer-sulla-costa-azzurra--5c722592-f648-4a34-9abc-3e62df306125.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/08/1788852397992_CagnessurMerMuseRenoirMaison.JPG",
-    "date": 1788853020000
    }
   ],
   "lemonde": [
@@ -556,12 +558,6 @@
     "titleSl": "PISA 2025 : le décrochage inédit des résultats des élèves en France, comme dans l'ensemble de l' OCDE"
    },
    {
-    "title": "Le Musée Renoir de Cagnes-sur-mer cambriolé, trois œuvres dérobées",
-    "link": "https://www.lemonde.fr/societe/article/2026/09/08/le-musee-renoir-a-cagnes-sur-mer-cambriole-trois-oeuvres-derobees_6768126_3224.html",
-    "image": "https://img.lemde.fr/2026/03/17/250/0/2000/1000/644/322/60/0/8db8ee1_upload-1-b762a8u72e2a-renoirinlove.jpg",
-    "date": 1788850814000
-   },
-   {
     "title": "Arthur Gea, dernier Français engagé à l’US Open, éliminé en huitièmes de finale",
     "link": "https://www.lemonde.fr/sport/article/2026/09/08/arthur-gea-dernier-francais-engage-a-l-us-open-elimine-en-huitiemes-de-finale_6768124_3242.html",
     "image": "https://img.lemde.fr/2026/09/08/16/0/4604/2302/644/322/60/0/0084dab_ftp-1-1uxucurcwisj-5024192-01-06.jpg",
@@ -574,9 +570,23 @@
     "image": "https://img.lemde.fr/2026/09/08/175/0/2048/1024/644/322/60/0/9fe8a7a_upload-1-wsvepipqgeqp-maxnewsspecialtwo714491.jpg",
     "date": 1788849773000,
     "titleSl": "Stanislas Hutin, figura moral engagementgée contre la torture obesek la guerre d'Algérie, est mort"
+   },
+   {
+    "title": "Arabie saoudite : les attaques menées par les houthistes ont fait 73 blessés et provoqué l’interruption de certains sites énergétiques",
+    "link": "https://www.lemonde.fr/international/article/2026/09/08/arabie-saoudite-les-attaques-menees-par-les-houthistes-ont-fait-73-blesses-et-provoque-l-interruption-de-certains-sites-energetiques_6768122_3210.html",
+    "image": "https://img.lemde.fr/2026/09/08/104/0/3448/1724/644/322/60/0/f540d8b_ftp-1-xyfo9puolzzb-2026-09-08t011743z-1255130506-rc2hena50ed1-rtrmadp-3-iran-crisis-yemen-saudi.JPG",
+    "date": 1788849410000,
+    "titleSl": "Arabie saoudite : les attaques menées par les houthistes ont fait 73 blessés et provoqué l 'interrupt de certains sites énergétiques"
    }
   ],
   "elpais": [
+   {
+    "title": "30 chollos de Amazon por menos de 30 euros para ahorrar en la vuelta a la rutina",
+    "link": "https://elpais.com/escaparate/ofertas-y-descuentos/chollos-amazon-menos-30-euros.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/P4E6R57YABB5RDZYQKUUTYEISA.png?auth=a087dfed822f3b8264c68048bcfaafee19439c0ee2374636835dce8d8a9a6242",
+    "date": 1788854760000,
+    "titleSl": "30 chollos de Amazon por menos de 30 evrov para ahorrar en la vuelta a la rutina"
+   },
    {
     "title": "Setembre: sospirs a la llum de la lluna i aire condicionat",
     "link": "https://elpais.com/quadern/2026-09-08/setembre-sospirs-a-la-llum-de-la-lluna-i-aire-condicionat.html",
@@ -586,7 +596,7 @@
    {
     "title": "La Torre Eiffel reabre tras una huelga por excluir a las empleadas durante una visita privada de un grupo hindú",
     "link": "https://elpais.com/internacional/2026-09-08/la-torre-eiffel-reabre-tras-una-huelga-por-excluir-a-las-empleadas-durante-una-visita-privada-de-un-grupo-hindu.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/AU4BWSQ4UNIW3NDEZBVUIVQ3CY.jpg?auth=93d970c85004eff46c29a7a9f848b09d4241bbf59adb0d6a00c2aa2239878aac",
+    "image": "https://imagenes.elpais.com/resizer/v2/W6NNR7Z26NB37PH55IFVOT3VYU.jpg?auth=f4c59f163f56c01c4ccf44ec75be5f13d4c2c3a58d32b45d2e690bb62247470a",
     "date": 1788853812000
    },
    {
@@ -606,12 +616,6 @@
     "link": "https://elpais.com/espana/catalunya/2026-09-08/cataluna-se-aferra-a-las-evaluaciones-propias-tras-el-fiasco-que-la-llevo-a-quedar-excluida-de-pisa.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TUPE3XMSJBBURNVYGPS3DZKKDQ.jpg?auth=bd80260b7f521b8ed854aaedc0be47662163d6c512889f7f7a1119751b510d5f",
     "date": 1788852765000
-   },
-   {
-    "title": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
-    "link": "https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/V7AMKR7IA5DBJGQBPNDCBP3W34.jpg?auth=a3e001516576edbde530aa829a8f6ad7c0156e5fdd428831cd415b3e1c7bb482",
-    "date": 1788852617000
    }
   ]
  },
