@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T08:44:27.330Z",
+ "generatedAt": "2026-09-09T08:46:26.649Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Vstopnice za Glastonbury poskočile v nebo",
+    "link": "https://www.rtvslo.si/zabava-in-slog/glasba/vstopnice-za-glastonbury-poskocile-v-nebo/793209",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67098968.jpg",
+    "date": 1788943538000
+   },
+   {
     "title": "Muanis Sinanović: Modra svetloba",
     "link": "https://www.rtvslo.si/kultura/beremo/muanis-sinanovic-modra-svetloba/793214",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67098911.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/na-obisk-prihaja-izraelski-zunanji-minister-v-ljubljani-napovedani-protesti/793204",
     "image": "https://img.rtvcdn.si/_up/upload/2025/09/10/66958768.jpg",
     "date": 1788938365000
-   },
-   {
-    "title": "Margareta: Pravega prijatelja prepoznaš šele z leti",
-    "link": "https://www.rtvslo.si/moja-generacija/margareta-pravega-prijatelja-prepoznas-sele-z-leti/786236",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/07/67096379.jpg",
-    "date": 1788937604000
    }
   ],
   "zurnal": [
@@ -334,22 +334,8 @@
     "title": "Miliband defends sanctions on Israeli settlements and pushes back against chief rabbi’s criticism – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/deda518e9acdc114ef6b78b3bef4361df6248f8b/220_0_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=dbe6a185423222a3165e5659af12a2d9",
-    "date": 1788943113000,
+    "date": 1788942326000,
     "titleSl": "Miliband zagovarja sankcije proti izraelskim naselbinam in se upira kritikam glavnega rabina – britanska politika v živo"
-   },
-   {
-    "title": "Supercar maker McLaren to create 1,000 UK jobs as part of £450m tech investment",
-    "link": "https://www.theguardian.com/business/2026/sep/09/supercar-maker-mclaren-to-create-1000-uk-jobs-tech-investment",
-    "image": "https://i.guim.co.uk/img/media/0418e9a7d30df48f161c9a35e8f96703e50326ee/1492_702_2905_2325/master/2905.jpg?width=140&quality=85&auto=format&fit=max&s=839acb2e0a64dfd34d04d2e79ea9b7be",
-    "date": 1788942863000,
-    "titleSl": "Proizvajalec superavtomobilov McLaren bo ustvaril 1.000 delovnih mest v Združenem kraljestvu kot del tehnološke naložbe v višini 450 milijonov £"
-   },
-   {
-    "title": "‘Too little response’ to Russian strikes on Ukraine, Zelenskyy says after latest deadly attacks – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/9b1d232236d435e26c29fba5b32820e9beeb2ba6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f71c285c137fc8a41591173d605b136b",
-    "date": 1788942829000,
-    "titleSl": "\"Premalo odziva\" na ruske napade na Ukrajino, pravi Zelenski po zadnjih smrtonosnih napadih – Evropa v živo"
    },
    {
     "title": "UK airport disruption: what are your rights if you have been affected?",
@@ -357,6 +343,13 @@
     "image": "https://i.guim.co.uk/img/media/bfd654bd04184dd9df503629644ed1f8431a334e/349_0_4382_3506/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=4596f5db28dddf7f8101cd29611ce3e1",
     "date": 1788942277000,
     "titleSl": "Motnje na letališču v Združenem kraljestvu: kakšne so vaše pravice, če ste bili prizadeti?"
+   },
+   {
+    "title": "‘Too little response’ to Russian strikes on Ukraine, Zelenskyy says after latest deadly attacks – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/9b1d232236d435e26c29fba5b32820e9beeb2ba6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f71c285c137fc8a41591173d605b136b",
+    "date": 1788942104000,
+    "titleSl": "\"Premalo odziva\" na ruske napade na Ukrajino, pravi Zelenski po zadnjih smrtonosnih napadih – Evropa v živo"
    },
    {
     "title": "White Australia party is ‘modern manifestation’ of Nazi movement and should be banned, commonwealth tells high court",
@@ -371,6 +364,13 @@
     "image": "https://i.guim.co.uk/img/media/c601f3cefd8c2ed9566d6f0f45ec20f5e9f80c3e/593_0_6014_4810/master/6014.jpg?width=140&quality=85&auto=format&fit=max&s=86e72a595fdc683d68f6ada740fed6de",
     "date": 1788940803000,
     "titleSl": "Družina britanskega moškega, ki so ga našli mrtvega v Grenadi, prosi lokalno policijo, naj sodeluje z britanskimi preiskov"
+   },
+   {
+    "title": "Liberal operative says request to be wired before meeting was ‘silly’ comment, Icac hears",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/09/liberal-operative-denies-he-invented-pink-paper-record-of-agreement-with-fugitive-developer-icac-hears-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/73858def9927874c3d93a6ec636ea9d990d5824b/0_0_1173_938/master/1173.jpg?width=140&quality=85&auto=format&fit=max&s=995521fa1216911f661746374089bfd5",
+    "date": 1788940159000,
+    "titleSl": "Liberalni operativec pravi, da je bila zahteva za žično povezavo pred sestankom \"neumen\" komentar, sliši Icac"
    }
   ],
   "spiegel": [
@@ -415,6 +415,25 @@
   ],
   "bild": [
    {
+    "title": "Bundestag LIVE: hitzige Redeschlacht - Pfiffe! Tumulte! Geschrei! Klöckner droht mit Rauswurf",
+    "link": "https://www.bild.de/politik/inland/generaldebatte-live-ticker-erleben-wir-jetzt-einen-neuen-merz-6aa0f7f47864931663e71562",
+    "image": "https://images.bild.de/6aa0f7f47864931663e71562/f2f9971d82136ee4c718205f4747892b,540e291?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Was das für Zverev bedeutet - Alcaraz bei US Open raus!",
+    "link": "https://www.bild.de/sport/mehr-sport/carlos-alcaraz-raus-bei-den-us-open-6aa0f397240b302c8a83e3ac",
+    "image": "https://images.bild.de/6aa0f397240b302c8a83e3ac/f1a98762003a04d15edea30f3dfce6a7,6c94331b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Shelton haut Alcaraz raus - „Das war Krieg!“",
+    "link": "https://www.bild.de/sport/mehr-sport/ben-shelton-schlaegt-carlos-alcaraz-das-war-ein-krieg-6aa11368639d45f0a23cee7f",
+    "image": "https://images.bild.de/6aa11368639d45f0a23cee7f/0168573b7b54040b98b217762b37e5e1,94ac0069?w=1280",
+    "date": 0,
+    "titleSl": "Shelton haut Alcaraz raus - \"Das war Krieg!\""
+   },
+   {
     "title": "Gegen die Sperre für Trainer Wagner - Elversberg legt noch einmal Einspruch ein!",
     "link": "https://www.bild.de/sport/fussball/elversberg-legt-nochmal-einspruch-gegen-die-sperre-von-wagner-ein-6aa11299181cb962d4888f3e",
     "image": "https://images.bild.de/6aa11299181cb962d4888f3e/9e1fe787588bf9f1e879a8788d4a884a,b42ab7a7?w=1280",
@@ -427,29 +446,9 @@
     "date": 0
    },
    {
-    "title": "Shelton haut Alcaraz raus - „Das war Krieg!“",
-    "link": "https://www.bild.de/sport/mehr-sport/ben-shelton-schlaegt-carlos-alcaraz-das-war-ein-krieg-6aa11368639d45f0a23cee7f",
-    "image": "https://images.bild.de/6aa11368639d45f0a23cee7f/0168573b7b54040b98b217762b37e5e1,94ac0069?w=1280",
-    "date": 0,
-    "titleSl": "Shelton haut Alcaraz raus - \"Das war Krieg!\""
-   },
-   {
     "title": "60 Jahre Star Trek - Haben Sie Mr. Spock schon mal rauchen sehen?",
     "link": "https://www.bild.de/unterhaltung/60-jahre-star-trek-haben-sie-mr-spock-schon-mal-rauchen-sehen-68c2c3797ecf6b1bfe3e1bfc",
     "image": "https://images.bild.de/68c2c3797ecf6b1bfe3e1bfc/acc51d93f8fc9e500febe5b4bb365446,34d04d65?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Er will dem Tier nur helfen - Mann von Leopard attackiert",
-    "link": "https://www.bild.de/news/ausland/mann-von-leopard-attackiert-dabei-wollte-er-dem-tier-helfen-6a9fe9ab240b302c8a83d5c0",
-    "image": "https://images.bild.de/6a9fe9ab240b302c8a83d5c0/eb51fe3fc009c5ef617de9239099419a,353b572e?w=1280",
-    "date": 0,
-    "titleSl": "Er bo DEM Tier nur helfen - Mann von Leopard Attackiert"
-   },
-   {
-    "title": "Liebe kennt kein Alter - Jean (88) und Robert (97) sind heimlich durchgebrannt",
-    "link": "https://www.bild.de/leben-wissen/psychologie-liebe/jean-und-robert-heiraten-heimlich-mit-88-und-97-in-gretna-green-6a9fd56054ff84194d4caa84",
-    "image": "https://images.bild.de/6a9fd56054ff84194d4caa84/3f56480990590fa8793da52136da3598,f7a730d7?w=1280",
     "date": 0
    }
   ],
@@ -581,7 +580,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo acusa a Sánchez de “desproteger” a España ante una “agresión consentida o impulsada por Marruecos” y él replica: “Volveremos a ganar en las urnas”",
     "link": "https://elpais.com/espana/2026-09-09/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/MYGUR3ZUBFFE3C6HRCE5SWEB5M.jpg?auth=7a4d55fe0319404d7d22f1f7e7e7dec141a07cc281525b9e8d7fe87239ce2a8d",
-    "date": 1788943287000,
+    "date": 1788943424000,
     "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo acusa a Sánchez de “desproteger” a España ante una “agresión consentida o impulsada por Marruecos” y él replika: “Volveremos a ganar en las urnas”"
    },
    {
