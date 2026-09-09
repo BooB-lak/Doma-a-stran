@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-09T04:20:42.561Z",
+ "generatedAt": "2026-09-09T04:24:13.256Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na izredni seji sveta RTVS o posledicah ukinitve rtv-prispevka",
+    "link": "https://siol.net/novice/slovenija/na-izredni-seji-sveta-rtvs-o-posledicah-ukinitve-rtv-prispevka-700942",
+    "image": "https://siol.net/media/img/b3/1a/2ff76a58b408cb8834a1.jpeg",
+    "date": 1788927600000
+   },
    {
     "title": "Pred odborom DZ predlog zakona o testiranju funkcionarjev na droge",
     "link": "https://siol.net/novice/slovenija/pred-odborom-dz-predlog-zakona-o-testiranju-funkcionarjev-na-droge-700941",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/psg-slovan-andraz-sporar-700935",
     "image": "https://siol.net/media/img/ff/5f/f36d708751be67c1d750.jpeg",
     "date": 1788919200000
-   },
-   {
-    "title": "Na današnji dan (9. september)",
-    "link": "https://siol.net/sportal/sportal-plus/na-danasnji-dan-9-september-425461",
-    "image": "https://siol.net/media/img/76/bf/70c923ee0158405c51a7.jpeg",
-    "date": 1788919200000
    }
   ],
   "24ur": [
@@ -45,6 +45,12 @@
     "link": "https://www.24ur.com/novice/tujina/199-otrok-bioloski-oce-pa-eden.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/d7624e800cdf2c28b308_63629366.jpg?v=529b&fop=fp:0.35:0.52",
     "date": 1788927006000
+   },
+   {
+    "title": "Justin Bieber delil družinske utrinke z ženo Hailey in dveletnim sinom",
+    "link": "https://www.24ur.com/popin/tuja-scena/justin-bieber-delil-druzinske-utrinke-z-zeno-hailey-in-dveletnim-sinom.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/ff9fd98fcfdd5ec5ea6f_63644028.png?v=029e&fop=fp:0.42:0.28",
+    "date": 1788926403000
    },
    {
     "title": "Oblak se vrača na Anfield, tam bo tudi užaljeni Alvarez",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/ameriska-vojska-po-navedbah-teherana-ob-otoku-harg-napadla-iranski-tanker.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2026/70ad3cbe9188c51336d7_63555258.jpg?v=88dc&fop=fp:0.31:0.43",
     "date": 1788901062000
-   },
-   {
-    "title": "Radikalna šolska reforma, SVIZ na nogah",
-    "link": "https://www.24ur.com/novice/slovenija/radikalna-solska-reforma-sviz-na-nogah.html",
-    "image": "https://images.24ur.com/media/images/213xX/Apr2026/bffb5a24d5a9ca9dbb07_63572165.jpg?v=ec5f&fop=fp:0.41:0.33",
-    "date": 1788897966000
    }
   ],
   "rtvslo": [
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
+    "title": "Politics live: Trump administration warns Australia after social media algorithm reform; Albanese mourns ‘true one-off’ in d’Alpuget",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/11387341cfdab50eccfd07af8a8a4fe95a5a28db/807_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=30ade9ae4702c82ecb74a3617545962b",
+    "date": 1788927226000,
+    "titleSl": "Politika v živo: Trumpova administracija opozarja Avstralijo po reformi algoritma družbenih medijev; Albanese žaluje \"resnično enkratno\" v d ’Alpugetu"
+   },
+   {
     "title": "Babies born to anaemic mothers have smaller brains, study finds",
     "link": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
     "image": "https://i.guim.co.uk/img/media/b51e55df330640864b621f7eafdfd622daf8756e/1297_888_3180_2544/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=df3f4a0cc5e7a1153c834b40c1d32543",
     "date": 1788926458000,
     "titleSl": "Dojenčki, rojeni anemičnim materam, imajo manjše možgane, ugotavlja študija"
-   },
-   {
-    "title": "Politics live: Trump administration warns Australia after social media algorithm reform; Albanese mourns ‘true one-off’ in d’Alpuget",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/11387341cfdab50eccfd07af8a8a4fe95a5a28db/807_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=30ade9ae4702c82ecb74a3617545962b",
-    "date": 1788926409000,
-    "titleSl": "Politika v živo: Trumpova administracija opozarja Avstralijo po reformi algoritma družbenih medijev; Albanese žaluje \"resnično enkratno\" v d ’Alpugetu"
    },
    {
     "title": "UK air traffic control breakdown strands hundreds of thousands of passengers",
@@ -416,15 +416,21 @@
   ],
   "bild": [
    {
-    "title": "Gigantischer Krater vor Luxus-Villa des Hollywood-Stars - Nicoloch Cage!",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/nicolas-cage-gigantisches-loch-vor-seiner-luxus-villa-in-malibu-6aa0d35a181cb962d4888af4",
-    "image": "https://images.bild.de/6aa0d35a181cb962d4888af4/f46d21502e0862f781d285171d09cd55,fed7151?w=1280",
-    "date": 0
-   },
-   {
     "title": "Pegula bei US Open im Halbfinale - Zehn Milliarden schlagen zwei Milliarden",
     "link": "https://www.bild.de/sport/mehr-sport/jessica-pegula-duell-der-milliarden-erbinnen-bei-den-us-open-6aa0d420240b302c8a83e204",
     "image": "https://images.bild.de/6aa0d420240b302c8a83e204/94237d7482c8393044073678bda7ebfb,d9f15dd6?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Besucher im Garten - Diese Pflanzen locken nachts besondere Insekten an",
+    "link": "https://www.bild.de/leben-wissen/wohnen-living/welche-pflanzen-nachtfalter-lieben-und-warum-sie-wichtig-sind-6a9e9436680fe93dc7d873f1",
+    "image": "https://images.bild.de/6a9e9436680fe93dc7d873f1/d4bb477e199565248ef490ec1fed33e2,c18c8131?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Gigantischer Krater vor Luxus-Villa des Hollywood-Stars - Nicoloch Cage!",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/nicolas-cage-gigantisches-loch-vor-seiner-luxus-villa-in-malibu-6aa0d35a181cb962d4888af4",
+    "image": "https://images.bild.de/6aa0d35a181cb962d4888af4/f46d21502e0862f781d285171d09cd55,fed7151?w=1280",
     "date": 0
    },
    {
@@ -443,12 +449,6 @@
     "title": "„Sieht sehr, sehr gut aus“ - Warum Mattuschka von Magdeburg so schwärmt",
     "link": "https://www.bild.de/sport/fussball/1-fc-magdeburg-sky-experte-schwaermt-von-zwei-fcm-profis-6a9fcf881c634564db632272",
     "image": "https://images.bild.de/6a9fcf881c634564db632272/da83ee2fc1573ae5ca14affe3bcb3983,2f745ed4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Alles plötzlich anders - Das sind Schalkes 4 Bayern-Verlierer!",
-    "link": "https://www.bild.de/sport/fussball/alles-ploetzlich-anders-bei-schalke-04-das-sind-die-4-bayern-verlierer-6aa03dd554ff84194d4cb5e9",
-    "image": "https://images.bild.de/6aa03dd554ff84194d4cb5e9/096fd3d3e662d473749495319187c976,a107656a?w=1280",
     "date": 0
    }
   ],
@@ -540,6 +540,12 @@
     "titleSl": "Hongkong : mort de Tung Chee-hwa, premier chef de l 'exécutif après la rétrocession du territoire à la Chine"
    },
    {
+    "title": "La Jordanie ciblée par Téhéran après des frappes américaines contre des pétroliers iraniens dans la région du Golfe",
+    "link": "https://www.lemonde.fr/international/article/2026/09/09/teheran-cible-la-jordanie-apres-des-frappes-americaines-contre-des-petroliers-iraniens-dans-la-region-du-golfe_6768518_3211.html",
+    "image": "https://img.lemde.fr/2026/09/08/937/0/5708/2854/644/322/60/0/135c7e9_ftp-1-4w1chuix8nuv-8d4445d574cc4c088418e53eb24fd46e-0-e923f132ddef41389c073b491a001e0d.jpg",
+    "date": 1788912635000
+   },
+   {
     "title": "En tournée en Amérique latine, Marco Rubio promet une « coopération sans précédent » avec la Colombie",
     "link": "https://www.lemonde.fr/international/article/2026/09/09/en-tournee-en-amerique-latine-marco-rubio-promet-une-cooperation-sans-precedent-avec-la-colombie_6768687_3210.html",
     "image": "https://img.lemde.fr/2026/09/08/508/0/6047/3023/644/322/60/0/7625680_ftp-1-zft0szvlnlot-2026-09-08t223817z-1936029243-rc29fnawze52-rtrmadp-3-usa-colombia.JPG",
@@ -550,12 +556,6 @@
     "link": "https://www.lemonde.fr/international/article/2026/09/09/conflit-commercial-avec-les-etats-unis-le-canada-riposte-aux-surtaxes-americaines_6768686_3210.html",
     "image": "https://img.lemde.fr/2026/09/01/953/906/2094/1047/644/322/60/0/65190a4_ftp-1-uzvpytihd484-9ab2714eb78041d29b8c52dd393f8816-1-587bac050c34413daeb11a4f0c7f202e.jpg",
     "date": 1788910091000
-   },
-   {
-    "title": "Etats-Unis : le secrétaire de la Smithsonian Institution, Lonnie Bunch, quitte son poste sur fond de pressions politiques",
-    "link": "https://www.lemonde.fr/international/article/2026/09/09/etats-unis-le-secretaire-de-la-smithsonian-institution-lonnie-bunch-quitte-son-poste-sur-fond-de-pressions-politiques_6768620_3210.html",
-    "image": "https://img.lemde.fr/2026/09/08/583/0/5472/2736/644/322/60/0/de31d47_ftp-1-ycrum1beoip6-8af673a0946842e7838dac9927799aac-0-71d88e9ea031487a90eb2703cf07add7.jpg",
-    "date": 1788906328000
    },
    {
     "title": "Ligue des champions : le résumé de la défaite frustrante du LOSC contre le Betis Séville",
