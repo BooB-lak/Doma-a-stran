@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T12:28:25.463Z",
+ "generatedAt": "2026-09-09T12:30:57.000Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Eden izgubil 68.000, drugi 37.000 evrov",
+    "link": "https://www.24ur.com/novice/crna-kronika/eden-izgubil-68000-drugi-37000-evrov.html",
+    "image": "https://images.24ur.com/media/images/213xX/Dec2025/0909e9bb43edb6b732ec_63506486.jpg?v=a0c5&fop=fp:0.70:0.34",
+    "date": 1788956340000
+   },
+   {
     "title": "Nad Slovenijo nevihta linija: v Ljubljani sunek 91 km/h",
     "link": "https://www.24ur.com/novice/tujina/slovo-vrocega-poletja-na-zahodu-mogoce-mocnejse-nevihte.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/851f6dd230f751e67844_63644751.jpg?v=8400&fop=fp:0.43:0.65",
@@ -69,15 +75,21 @@
     "link": "https://www.24ur.com/popin/tuja-scena/12-dni-po-smrti-z-drzavniskimi-castmi-pokopali-norveskega-kralja-haralda.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/99e4b1f91ddc921a2757_63644710.jpg?v=a0e8&fop=fp:0.34:0.23",
     "date": 1788954112000
-   },
-   {
-    "title": "Zaradi nesreče zaprta avtocesta med Gruškovjem in Zaklom",
-    "link": "https://www.24ur.com/novice/slovenija/zaradi-nesrece-zaprta-avtocesta-med-gruskovjem-in-zaklom.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/41696fc8d73172c3ced6_63625600.jpg?v=240d&fop=fp:0.62:0.40",
-    "date": 1788953018000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Peterica vrhunsko prevedenih del v boju za Sovretovo nagrado",
+    "link": "https://www.rtvslo.si/kultura/knjige/peterica-vrhunsko-prevedenih-del-v-boju-za-sovretovo-nagrado/793260",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67099197.jpg",
+    "date": 1788956997000
+   },
+   {
+    "title": "Svoboda naj bi vložila ustavno obtožbo zoper Janšo, predvsem zaradi odnosa vlade do Izraela",
+    "link": "https://www.rtvslo.si/slovenija/svoboda-naj-bi-vlozila-ustavno-obtozbo-zoper-janso-predvsem-zaradi-odnosa-vlade-do-izraela/793259",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67099208.jpg",
+    "date": 1788956852000
+   },
    {
     "title": "Žensko reprezentanco čakajo priprave pred evropskim prvenstvom",
     "link": "https://www.rtvslo.si/sport/rokomet/zensko-reprezentanco-cakajo-priprave-pred-evropskim-prvenstvom/793256",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/vrecko-izhodisca-za-solsko-reformo-imajo-pridih-tega-kar-propagira-nemski-afd/793251",
     "image": "https://img.rtvcdn.si/_up/upload/2025/06/30/66833716.jpg",
     "date": 1788954616000
-   },
-   {
-    "title": "Vučić razpisal predčasne parlamentarne volitve",
-    "link": "https://www.rtvslo.si/svet/evropa/vucic-razpisal-predcasne-parlamentarne-volitve/793250",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67099142.jpg",
-    "date": 1788953760000
-   },
-   {
-    "title": "Krafft menja prizorišče, ohranja pa temo: festival, posvečen igralski umetnosti",
-    "link": "https://www.rtvslo.si/kultura/film-in-tv/krafft-menja-prizorisce-ohranja-pa-temo-festival-posvecen-igralski-umetnosti/793247",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67099101.jpg",
-    "date": 1788952816000
    }
   ],
   "zurnal": [
@@ -416,11 +416,29 @@
   ],
   "bild": [
    {
+    "title": "Raubkatze auf Beutezug - Leopard verbeißt sich in Hund Rocky",
+    "link": "https://www.bild.de/news/hund-wehrt-leoparden-ab-immer-mehr-wildtiere-in-siedlungen-durch-abholzung-6aa11d3a7864931663e71853",
+    "image": "https://images.bild.de/6aa11d3a7864931663e71853/efd293220c2b37d189f15409f03006b3,f46665a9?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Skandal im Nachwuchs - Gegner von Lok Leipzig boykottierte Spiel",
+    "link": "https://www.bild.de/sport/fussball/skandal-im-nachwuchs-gegner-von-lok-leipzig-boykottierte-spiel-6aa10e7f181cb962d4888eb1",
+    "image": "https://images.bild.de/6aa10e7f181cb962d4888eb1/119ad78b81346692c76ce5acfed0155d,7b94c16e?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nach nächstem Griechen-Schock - Geht‘s noch, BVB-Fans?",
     "link": "https://www.bild.de/sport/fussball/bvb-finale-entscheidung-zu-jadon-sancho-in-dortmund-gefallen-6aa11ee77864931663e71898",
     "image": "https://images.bild.de/6aa11ee77864931663e71898/b3cb63aa9e6b12e4e4a7228e43e329fd,85f00f1b?w=1280",
     "date": 0,
     "titleSl": "Nach nächstem Griechen-Schock - Geht's noch, BVB-Fans?"
+   },
+   {
+    "title": "„Wir sind immer noch im Trauma“ - „Fauda“-Star Lior Raz packt über Netflix-Hit aus",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/fauda-serienstar-lior-raz-spricht-ueber-das-drama-hinter-staffel-5-immer-noch-im-trauma-6aa01c181c634564db632de4",
+    "image": "https://images.bild.de/6aa01c181c634564db632de4/13f04a276aeee1c6db72367978e5a046,a17ac448?w=1280",
+    "date": 0
    },
    {
     "title": "Von Hoffnung bis Grauen - Das ist die XXL-Comebackliste von Lok Leipzig",
@@ -432,25 +450,6 @@
     "title": "Sicherheitsrisiken, sensible Daten, E-Mails - Das steckt in den geheimen Daten aus Berlin",
     "link": "https://www.bild.de/geld/wirtschaft/hackerangriff-in-berlin-das-steckt-in-den-daten-aus-den-berlin-leaks-6a9e9bab721eb476650a2722",
     "image": "https://images.bild.de/6a9e9bab721eb476650a2722/b727e5fd526610644d2ba1aa3a5eb9bd,c5c4c040?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Richter: „Er hat die Hosen runtergelassen“ - So rutschte Eike Immel in den Kokain-Sumpf",
-    "link": "https://www.bild.de/news/inland/eike-immel-so-rutsche-der-ex-bvb-star-in-den-drogensumpf-6aa142717864931663e71e5e",
-    "image": "https://images.bild.de/6aa142717864931663e71e5e/95d01cc0d349b9c9f4463dd901281f97,1e627f97?w=1280",
-    "date": 0
-   },
-   {
-    "title": "William und Kate begleiten Sohn - Erster Schultag für Prinz George in Eton",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/prinz-george-tritt-in-die-fussstapfen-seines-vaters-in-eton-erster-schultag-in-begleitung-von-kate-und-william-6aa0188a240b302c8a83da3c",
-    "image": "https://images.bild.de/6aa0188a240b302c8a83da3c/2cb8ee4930a6aad358db36eb1bafa917,d2f1f2a8?w=1280",
-    "date": 0,
-    "titleSl": "William in Kate begleiten Sohn - Erster Schultag für Prinz George in Eton"
-   },
-   {
-    "title": "„Es würde mir alles bedeuten!“ - Neuer startet letzte Triple-Mission mit Bayern!",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-manuel-neuer-startet-seine-letzte-triple-mission-es-wuerde-mir-alles-bedeuten-6aa131e5639d45f0a23cf393",
-    "image": "https://images.bild.de/6aa131e5639d45f0a23cf393/af72353ef8a0241204f971707516b606,d353337a?w=1280",
     "date": 0
    }
   ],
@@ -584,7 +583,20 @@
     "title": "La gerente del PSOE descarga en Cerdán la responsabilidad de los encargos a los imputados en el ‘caso Leire Díez’",
     "link": "https://elpais.com/espana/2026-09-09/la-gerente-del-psoe-descarga-en-cerdan-la-responsabilidad-de-los-encargos-a-los-imputados-en-el-caso-leire-diez.html",
     "image": "https://imagenes.elpais.com/resizer/v2/PAIKQNY74RK2FLLDHM6R547K7E.jpg?auth=017a94797a4b76a00532b80b3dc42cc8090990b2a961467ff1017cdab987ce5f",
-    "date": 1788956660000
+    "date": 1788956735000
+   },
+   {
+    "title": "UGT rechaza que la Seguridad Social solo se comunique vía telemática con los trabajadores de baja",
+    "link": "https://elpais.com/economia/2026-09-09/ugt-rechaza-que-la-seguridad-social-solo-se-comunique-via-telematica-con-los-trabajadores-de-baja.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/6AGK4ZB55VN6TMBIIWJ36FKI7Q.jpg?auth=da3776e5a1626e120cef1864a5f01f3f145831c541dce2d52c6c15ae4abe850e",
+    "date": 1788956531000
+   },
+   {
+    "title": "Chris Rock carga contra el mundo “retorcido” de Hollywood: “La gente es capaz de cualquier cosa para hacer realidad sus sueños”",
+    "link": "https://elpais.com/gente/2026-09-09/chris-rock-carga-contra-el-mundo-retorcido-de-hollywood-la-gente-es-capaz-de-cualquier-cosa-para-hacer-realidad-sus-suenos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/YDJ2VSXC6NDNVNVKQUFRQJV37E.jpg?auth=a591f0eef36dc5978fb8986a3239929fb1b7e579e40c20fe359818037003db81",
+    "date": 1788956093000,
+    "titleSl": "Chris Rock carga contra el mundo \"retorcido\" de Hollywood: \"La gente es capaz de cualquier cosa para hacer realidad sus sueños\""
    },
    {
     "title": "La acusada de desfalcar a su padre mientras lo cuidaba: “Es una manipulación de mi hermano para quedarse con la herencia”",
@@ -600,23 +612,10 @@
     "date": 1788955252000
    },
    {
-    "title": "Sánchez y Ayuso chocan en el Constitucional por la ley de Madrid para perseguir protestas como la anti-Israel de la Vuelta",
-    "link": "https://elpais.com/espana/madrid/2026-09-09/sanchez-y-ayuso-chocan-en-el-constitucional-por-la-ley-de-madrid-para-perseguir-protestas-como-la-anti-israel-de-la-vuelta.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MYU4GWGLKZBMHAN35MXEPII7ZI.JPG?auth=83fb6e7efc0a77cc480152713430c43f2b7c0990bd0aefc9e07332693dd74cf8",
-    "date": 1788953911000,
-    "titleSl": "Sánchez y Ayuso chocan en el Constitucional por la ley de Madrid para perseguir protestas como la anti-Izrael de la Vuelta"
-   },
-   {
-    "title": "El Gobierno Vasco concede el tercer grado al exdirigente de ETA Henri Parot",
-    "link": "https://elpais.com/espana/2026-09-09/el-gobierno-vasco-concede-el-tercer-grado-al-exdirigente-de-eta-henri-parot.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MPCVB6KQPVARPJRLX5NWMA4B54.JPG?auth=8226f24f2f28c4ec448f724f6de22f432535db48fd4b57d1f6688a34165dc811",
-    "date": 1788953566000
-   },
-   {
-    "title": "‘La ruleta de la suerte’ toma una decisión histórica: sustituye a Laura Moure por un hombre que descubrirá las letras",
-    "link": "https://elpais.com/television/2026-09-09/la-ruleta-de-la-suerte-toma-una-decision-historica-y-sustituye-a-laura-moure-por-un-hombre.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZUTZZTVRCJGNJGRE35ASVX2AC4.webp?auth=5c42c3b3ef5a964a724ba37b994fa18743be0a14514484cbc61c2c88cc07b482",
-    "date": 1788953507000
+    "title": "Sílvia Catà, la primera comisaria jefa de Mossos y defensora de una policía de proximidad",
+    "link": "https://elpais.com/espana/catalunya/2026-09-09/silvia-cata-la-primera-comisaria-jefa-de-mossos-y-defensora-de-una-policia-de-proximidad.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/PI5BLGY6VRH43J6QF6AMFXFO7U.jpg?auth=46488e6c65ea8e07c91dbbeaac2545ac1878d23372a377b8363a6059d09da7ee",
+    "date": 1788954225000
    }
   ]
  },
