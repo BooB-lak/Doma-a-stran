@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T15:18:31.937Z",
+ "generatedAt": "2026-09-09T15:20:49.835Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Uvodni krog: ob 18.45: Zagreb - Celje Pivovarna Laško",
+    "link": "https://www.rtvslo.si/sport/rokomet/liga-prvakov-v-rokometu/uvodni-krog-ob-18-45-zagreb-celje-pivovarna-lasko/793282",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67099364.jpg",
+    "date": 1788967102000
+   },
+   {
     "title": "Kosovski poslanci in poslanke izvolili predsednico parlamenta. Kriza traja že več kot leto dni.",
     "link": "https://www.rtvslo.si/svet/evropa/kosovski-poslanci-in-poslanke-izvolili-predsednico-parlamenta-kriza-traja-ze-vec-kot-leto-dni/793280",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67099363.jpg",
@@ -107,15 +113,15 @@
     "link": "https://www.rtvslo.si/slovenija/cigler-kralj-poskusali-bomo-izboljsati-veljavne-stare-prehranske-smernice/793274",
     "image": "https://img.rtvcdn.si/_up/upload/2026/07/03/67058218.jpg",
     "date": 1788962737000
-   },
-   {
-    "title": "Slovenska črna komedija o kleptomanu in \"superjunakinji\" sprejeta na ugledne žanrske festivale",
-    "link": "https://www.rtvslo.si/kultura/film-in-tv/slovenska-crna-komedija-o-kleptomanu-in-superjunakinji-sprejeta-na-ugledne-zanrske-festivale/793273",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67099293.jpg",
-    "date": 1788962660000
    }
   ],
   "zurnal": [
+   {
+    "title": "Smučišče mora turistom vrniti denar",
+    "link": "https://www.zurnal24.si/popotnik/smucisce-mora-turistom-vrniti-denar-464904",
+    "image": "https://www.zurnal24.si/media/img/ab/9f/fa1ac44ed98bd32d3341.jpeg",
+    "date": 1788967200000
+   },
    {
     "title": "Prvi Slovenec v dresu Lakers opazil ključno spremembo pri Luki: \"Končno je ...\"",
     "link": "https://www.zurnal24.si/sport/kosarka/prvi-slovenec-v-dresu-lakers-opazil-drasticno-spremembo-pri-luki-koncno-je-464903",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/danes-odprtje-izraelskega-veleposlanistva-zahteva-za-preimovanje-ceste-464870",
     "image": "https://www.zurnal24.si/media/img/80/c3/a08416987495f2335933.png",
     "date": 1788959580000
-   },
-   {
-    "title": "Poštar s penzijami pobegnil na Tajsko",
-    "link": "https://www.zurnal24.si/svet/postar-penzije-pobeg-tajska-bosna-in-hercegovina-464895",
-    "image": "https://www.zurnal24.si/media/img/a0/85/b11cd5d96511a96f9747.jpeg",
-    "date": 1788955500000
    }
   ],
   "reuters": [
@@ -415,16 +415,23 @@
   ],
   "bild": [
    {
+    "title": "Blutiger Angriff - Tödliche Messerattacke im Supermarkt",
+    "link": "https://www.bild.de/regional/schleswig-holstein/blutiger-angriff-in-ratzeburg-toedliche-messerattacke-im-lidl-6aa16979240b302c8a83efd2",
+    "image": "https://images.bild.de/6aa16979240b302c8a83efd2/6e2603a145afb0e99d627fbe5258d245,5496a038?w=1280",
+    "date": 0
+   },
+   {
     "title": "Abschied von König Harald V. (†89) - Königin Sonja am Sarg ihrer Lebensliebe",
     "link": "https://www.bild.de/unterhaltung/royals-adel/koenig-harald-von-norwegen-beisetzung-und-abschied-im-live-ticker-6aa0ec4d639d45f0a23ceb70",
     "image": "https://images.bild.de/6aa0ec4d639d45f0a23ceb70/ef74ff8a822b1f4e149a1f42f9e94f53,109f0dc6?w=1280",
     "date": 0
    },
    {
-    "title": "Blutiger Angriff - Tödliche Messerattacke im Lidl",
-    "link": "https://www.bild.de/regional/schleswig-holstein/blutiger-angriff-in-ratzeburg-toedliche-messerattacke-im-lidl-6aa16979240b302c8a83efd2",
-    "image": "https://images.bild.de/6aa16979240b302c8a83efd2/6e2603a145afb0e99d627fbe5258d245,604d2f19?w=1280",
-    "date": 0
+    "title": "Website nicht erreichbar - Sponsoren-Wirrwarr bei Frauen-WM",
+    "link": "https://www.bild.de/sport/mehr-sport/website-nicht-erreichbar-sponsoren-wirrwarr-bei-frauen-wm-6aa16500181cb962d488982a",
+    "image": "https://images.bild.de/6aa16500181cb962d488982a/0f60b1da9dd0dea858a80e7e30357c89,63bf6704?w=1280",
+    "date": 0,
+    "titleSl": "Spletna stran nicht erreichbar - Sponsoren-Wirrwarr bei Frauen-WM"
    },
    {
     "title": "Kreisliga-Zlatan - So ein Tor haben Sie noch nicht gesehen",
@@ -443,12 +450,6 @@
     "title": "Schock-Prozess in den USA - Mutter erhängt zweijährigen Sohn im Keller",
     "link": "https://www.bild.de/news/ausland/drei-andere-kinder-verschonte-sie-mutter-erhaengt-zweijaehrigen-sohn-6aa035a354ff84194d4cb58f",
     "image": "https://images.bild.de/6aa035a354ff84194d4cb58f/d1836bc2cc31ab9f70b2f6c80aa42e79,afc5c613?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Tropensturm „Marie“ trifft auf Kalifornien - Monster-Wellen fluten Küstenorte",
-    "link": "https://www.bild.de/news/hurrikan-marie-trifft-auf-kalifornien-sturmfluten-ueberschwemmen-kuestenorte-6a9ee4ff721eb476650a2f63",
-    "image": "https://images.bild.de/6a9ee4ff721eb476650a2f63/0c6567b8dc90aab0be91303bd3b3a2a3,738c47ba?w=1280",
     "date": 0
    }
   ],
@@ -576,7 +577,7 @@
     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno publica los informes policiales y de inteligencia sobre la entrada masiva de migrantes en Ceuta",
     "link": "https://elpais.com/espana/2026-09-09/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/3K3J6ODZ7RDCPJU2HBNOW67QYY.jpg?auth=1a012a3a9c4ef8d0a19dc1ca198d3f21e17b110195e7fc2f7be244a3b61ad56f",
-    "date": 1788966863000
+    "date": 1788967115000
    },
    {
     "title": "Merz acusa a la extrema derecha de querer llevar a cabo “una limpieza étnica” en Alemania",
