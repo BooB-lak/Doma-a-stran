@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-09T14:26:27.493Z",
+ "generatedAt": "2026-09-09T14:28:28.911Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na meji z Rusijo ni iluzij: evropska država se pripravlja na območje smrti",
+    "link": "https://siol.net/novice/svet/na-meji-z-rusijo-ni-iluzij-evropska-drzava-se-pripravlja-na-obmocje-smrti-700972",
+    "image": "https://siol.net/media/img/b8/36/3dc831e2e4ba440a7f27.jpeg",
+    "date": 1788963960000
+   },
    {
     "title": "Pred Comovo prvo tekmo v ligi prvakov vodstvo kluba odstopilo vstopnice navijačem",
     "link": "https://siol.net/sportal/nogomet/pred-comovo-prvo-tekmo-v-ligi-prvakov-vodstvo-kluba-odstopilo-vstopnice-navijacem-701009",
@@ -9,7 +15,7 @@
     "date": 1788963000000
    },
    {
-    "title": "Roglič in favoriti se držijo na varnem, Visma in Cofidis garata #vŽivo",
+    "title": "Roglič in favoriti se držijo na varnem, sprinterji se pripravljajo na spopad #vŽivo",
     "link": "https://siol.net/sportal/kolesarstvo/dirka-po-spaniji-17-etapa-zatisje-pred-nevihto-roglicev-veliki-napad-700924",
     "image": "https://siol.net/media/img/fa/cb/6e8687df078422c2e7ec.jpeg",
     "date": 1788962100000
@@ -30,12 +36,6 @@
     "title": "Rekordna udeležba na veteranskem SP na Bledu",
     "link": "https://siol.net/sportal/drugi-sporti/rekordna-udelezba-na-veteranskem-sp-na-bledu-701006",
     "image": "https://siol.net/media/img/96/4e/2c23efd1fbd95e0e589a.jpeg",
-    "date": 1788961320000
-   },
-   {
-    "title": "Jan Kozamernik: Na koncu je prav to ponavadi najtežja naloga",
-    "link": "https://siol.net/sportal/odbojka/jan-kozamernik-na-koncu-je-prav-to-ponavadi-najtezja-naloga-701005",
-    "image": "https://siol.net/media/img/96/f7/bd9d225f1560a86ff077.jpeg",
     "date": 1788961320000
    }
   ],
@@ -199,18 +199,18 @@
   ],
   "nyt": [
    {
-    "title": "New Accuser Sues Foundations With Ties to Cesar Chavez",
-    "link": "https://www.nytimes.com/2026/09/09/us/cesar-chavez-lawsuit.html",
-    "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08nat-chavez-lawsuit-01-qckz/08nat-chavez-lawsuit-01-qckz-mediumSquareAt3X.jpg",
-    "date": 1788963925000,
-    "titleSl": "Novi tožilec toži fundacije, povezane s Cesarjem Chavezom"
-   },
-   {
     "title": "Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year",
     "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html",
     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09dc-trump-gifts-01-alert-vbkq/09dc-trump-gifts-01-alert-vbkq-mediumSquareAt3X-v2.jpg",
     "date": 1788962810000,
     "titleSl": "Trump je lani Natalie Harp in drugim sodelavcem podaril 45.000 $ v gotovini"
+   },
+   {
+    "title": "New Accuser Sues Foundations With Ties to Cesar Chavez",
+    "link": "https://www.nytimes.com/2026/09/09/us/cesar-chavez-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08nat-chavez-lawsuit-01-qckz/08nat-chavez-lawsuit-01-qckz-mediumSquareAt3X.jpg",
+    "date": 1788962575000,
+    "titleSl": "Novi tožilec toži fundacije, povezane s Cesarjem Chavezom"
    },
    {
     "title": "He’s Seen Images of 9/11 From Just About Every Angle. Except This One.",
@@ -286,6 +286,27 @@
   ],
   "aljazeera": [
    {
+    "title": "Hutu and Tutsi: The history behind the divide",
+    "link": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2019/04/9981e563ee3f4bb59accffa7bb9b6362_18.jpeg?resize=1200%2C675",
+    "date": 1788963748000,
+    "titleSl": "Hutuji in Tutsiji: zgodovina ločnice"
+   },
+   {
+    "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+    "link": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14275396-1788933521.jpg?resize=1920%2C1440",
+    "date": 1788963540000,
+    "titleSl": "Kaj je jordansko oporišče Al-Azraq in zakaj ga Iran napada?"
+   },
+   {
+    "title": "Pakistan all out for 133 in third Test vs England after squad changes",
+    "link": "https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260909__C7RH69U__v1__HighRes__776465667-1788961689.jpg?resize=1920%2C1440",
+    "date": 1788963326000,
+    "titleSl": "Pakistan je osvojil 133 točk v tretjem testu proti Angliji po menjavi moštva"
+   },
+   {
     "title": "Dortmund’s Karetsas hospitalised after collapsing in Champions League match",
     "link": "https://www.aljazeera.com/sports/2026/9/9/dortmunds-karetsas-hospitalised-after-collapsing-in-champions-league-match?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260908__C7Q34X8__v1__HighRes__FootballUefaChampionsLeague1stRoundDay1Borussia-1788960038.jpg?resize=1920%2C1440",
@@ -305,27 +326,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26252399345510-1788960553.jpg?resize=1920%2C1440",
     "date": 1788958958000,
     "titleSl": "Najmanj 14 mrtvih v eksploziji v skladišču orožja v sirskem Idlibu, poroča državna televizija"
-   },
-   {
-    "title": "Journalists missing after Indonesian volcanic eruption",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788958232.jpg?resize=1920%2C1080&quality=80",
-    "date": 1788958272000,
-    "titleSl": "Novinarji pogrešani po izbruhu vulkana v Indoneziji"
-   },
-   {
-    "title": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788957928.jpg?resize=1918%2C1080&quality=80",
-    "date": 1788957936000,
-    "titleSl": "Raziskovalec na področju umetne inteligence je zapustil skupino Anthropic in dejal, da bi nas rasa umetne inteligence \"lahko"
-   },
-   {
-    "title": "Video: Why are Republicans hosting a midterm convention?",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-why-are-republicans-hosting-a-midterm-convention?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788957653.jpg?resize=1920%2C1080&quality=80",
-    "date": 1788957678000,
-    "titleSl": "Videoposnetek: Zakaj republikanci gostijo vmesno konvencijo?"
    }
   ],
   "guardian": [
@@ -374,6 +374,12 @@
   ],
   "spiegel": [
    {
+    "title": "Annalena Baerbock: Was New York mit der Ex-Außenministerin gemacht hat",
+    "link": "https://www.spiegel.de/ausland/annalena-baerbock-was-new-york-mit-der-ex-aussenministerin-gemacht-hat-a-70df2f3d-74ee-4738-abd6-e451fd9bfdc7#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/c5aa4df5-1cbc-4af4-88fa-2ad64f7e094c_w520_r2.08_fpx46_fpy51.jpg",
+    "date": 1788963720000
+   },
+   {
     "title": "Ratko Mladić: Serbien verherrlicht einen Kriegsverbrecher – und Europa schaut hilflos zu",
     "link": "https://www.spiegel.de/ausland/ratko-mladic-serbien-verherrlicht-einen-kriegsverbrecher-und-europa-schaut-hilflos-zu-a-b5f2372c-12d5-40c5-b680-87647f8d83b3#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/535bdd79-69ec-4187-a3f0-834fab3eddb8_w520_r2.08_fpx51.31_fpy45.jpg",
@@ -406,15 +412,15 @@
     "image": "https://cdn.prod.www.spiegel.de/images/8a27848d-0c3c-4bbc-9e78-095419f85b20_w520_r2.08_fpx49.98_fpy52.98.jpg",
     "date": 1788960180000,
     "titleSl": "Hausdurchsuchung bei SPD-Spitzenkandidat Steffen Krach v Berlinu in Hannovru"
-   },
-   {
-    "title": "Polen: Wie wird der AfD-Wahlsieg gesehen? »Man bekommt hier Gänsehaut«",
-    "link": "https://www.spiegel.de/ausland/polen-wie-wird-der-afd-wahlsieg-gesehen-man-bekommt-hier-gaensehaut-a-6aa4efaa-a7a0-43f4-86d1-fdf567c0f5a1#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8140c3f4-fffc-49cd-90f1-4d5d2b1d6b70_w520_r2.08_fpx52.61_fpy54.96.jpg",
-    "date": 1788959760000
    }
   ],
   "bild": [
+   {
+    "title": "Tierschützerin von Esel-Treiber attackiert - „Er hat mir ins Gesicht geschlagen“",
+    "link": "https://www.bild.de/news/frau-von-esel-treiber-auf-santorini-attackiert-er-hat-mir-ins-gesicht-geschlagen-6a9f13df34f59e68553f35b8",
+    "image": "https://images.bild.de/6a9f13df34f59e68553f35b8/234c16c8b51f815b4ab2b07ec9e80649,ea35bfb2?w=1280",
+    "date": 0
+   },
    {
     "title": "Sicherheitsrisiken, sensible Daten, E-Mails - Das steckt in den geheimen Daten aus Berlin",
     "link": "https://www.bild.de/geld/wirtschaft/hackerangriff-in-berlin-das-steckt-in-den-daten-aus-den-berlin-leaks-6a9e9bab721eb476650a2722",
@@ -444,49 +450,43 @@
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-an-diese-umstellungen-denkt-huetter-jetzt-6aa13cdd181cb962d4889456",
     "image": "https://images.bild.de/6aa13cdd181cb962d4889456/a05feb24ce84761eae65df4debfd8767,f72be5ab?w=1280",
     "date": 0
-   },
-   {
-    "title": "Neuer Bildungs-Schock in Deutschland - Wie gut sind Sie beim PISA-Test?",
-    "link": "https://www.bild.de/politik/inland/pisa-2025-schaffen-sie-die-echten-aufgaben-6a9f99ebc02035bc2d238201",
-    "image": "https://images.bild.de/6a9f99ebc02035bc2d238201/1ca2e5cbead9f6c77173b162dd505dbf,201432e8?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Neuwahl am 25. Oktober - Parlament aufgelöst: Wechselt Vucic nun das Amt?",
+    "title": "„Krone“ enthüllt - Teuflischer Missbrauchs-Plan: So lief Horror-Nacht - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPTF9CYVdHYTNwLWZKc1U3cVoyMV9JSG0tM1BzeE55TEprekNMdk90QWdqSmJYWHVYUVNmdmI4ODRjZw?oc=5",
+    "image": "",
+    "date": 1788963710000
+   },
+   {
+    "title": "Neuwahl am 25. Oktober - Parlament aufgelöst: Wechselt Vucic nun das Amt? - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBEbDZNb0FIb3dBbE9Cb1hHdHE4aEcteWFwVWQ3bU5xNmFqRlpOaUtBVWZLQzFzR1NpdnRKNGVseHZkZw?oc=5",
     "image": "",
     "date": 1788963060000,
-    "titleSl": "Neuwahl am 25. Oktober - Parlament aufgelöst: Wechselt Vučić nun das Amt?"
+    "titleSl": "Neuwahl am 25. Oktober - Parlament aufgelöst: Wechselt Vučić nun das Amt? - krone.at"
    },
    {
-    "title": "Experte überzeugt - Ralf Schumacher: „Das macht was mit einem Fahrer“",
+    "title": "Experte überzeugt - Ralf Schumacher: „Das macht was mit einem Fahrer“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQlQyLWNBN1F0MEJSS01QYVNUMUh5cHo1c3N0b3NVajhxOEl6Wk56ZnlCcGJjT2E4UlJpYk1sa2FpQQ?oc=5",
     "image": "",
     "date": 1788962820000
    },
    {
-    "title": "Reformpaket - Bundesmillionen für Vorarlbergs Schulen",
+    "title": "Reformpaket - Bundesmillionen für Vorarlbergs Schulen - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fSXVXd08xbG12aFp2NG1QdHh6M1lMbzlIS05JYjZENXItdTQwX2RuUXRaeDZ6NXRmdUN2M2dyVkc2UQ?oc=5",
     "image": "",
     "date": 1788962700000
    },
    {
-    "title": "Schummelprodukte - Worüber ärgern Sie sich am meisten?",
+    "title": "Schummelprodukte - Worüber ärgern Sie sich am meisten? - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBiY1hJbDhmQ1Q5S0FXR1VwdEZFaXFmT3lpSy1rcThnaEpXWUc2eFk4OHFaWlFwNGN3Y2FYWmEzZVNEZw?oc=5",
     "image": "",
     "date": 1788962400000
    },
    {
-    "title": "Sommer zurück - Rihanna heizt mit sexy Pics nochmal richtig ein",
+    "title": "Sommer zurück - Rihanna heizt mit sexy Pics nochmal richtig ein - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fVkt4RjFIZF9SNksxMGVPc01oVEU4WUZTWElZeVhvSnVjWTFvY3VLUHVzSS12ZGZ3d2VPaEt3SHRMUQ?oc=5",
-    "image": "",
-    "date": 1788962400000
-   },
-   {
-    "title": "„Der Park 2.5“: Wo Kunst auf die Natur trifft",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBuVlBIQ291NXhITUJDOXVIb0tJODBHTk1SREtvYkltVTUxTURhYklGWHBudFN2TFk0aXZTOTVicDJHQQ?oc=5",
     "image": "",
     "date": 1788962400000
    }
@@ -582,6 +582,13 @@
     "date": 1788963452000
    },
    {
+    "title": "La Xunta de Galicia busca abogados con experiencia para enfrentarse al “cartel de los pañales”",
+    "link": "https://elpais.com/espana/galicia/2026-09-09/la-xunta-de-galicia-busca-abogados-con-experiencia-para-enfrentarse-al-cartel-de-los-panales.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/LOKNIFNXZNDXFHBFKMFB7ZMEU4.jpg?auth=3076ffa78692102634e18c03d3fdad3dbabfd1c391cf0c8d85bc53c30cbb7336",
+    "date": 1788963359000,
+    "titleSl": "La Xunta de Galicia busca abogados con experiencia para enfrentarse al ‚ cartel de los pañales '"
+   },
+   {
     "title": "Cónclave de egiptólogos en Barcelona: un apasionante baño de tumbas, templos, momias y cocodrilos",
     "link": "https://elpais.com/cultura/2026-09-09/conclave-de-egiptologos-en-barcelona-un-apasionante-bano-de-tumbas-templos-momias-y-cocodrilos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/GDJ4VNQ22RFHBAHJ6UFJ76EQVA.jpg?auth=129468da1594033ba9c60c482aaf31967c51261906dcb01212eb5b1b1d04870a",
@@ -592,13 +599,6 @@
     "link": "https://elpais.com/deportes/futbol/2026-09-09/el-betis-un-dolor-de-muelas-para-la-familia-mbappe.html",
     "image": "https://imagenes.elpais.com/resizer/v2/C4D3GTCRCNMHJCYA6FVCRZFBQI.jpg?auth=665052876fe199bf711f513d60f6ed80a3bcab858d7ddc342ba954a12e5012cc",
     "date": 1788961183000
-   },
-   {
-    "title": "Trump entregó 116.000 euros en efectivo a tres de sus más cercanas asesoras, entre ellas Natalie Harp",
-    "link": "https://elpais.com/internacional/2026-09-09/trump-regalo-mas-de-38000-euros-en-efectivo-a-natalie-harp-y-a-dos-colaboradoras-mas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/N7UXEILAH5F4TBGFTJZEQYUQTM.jpg?auth=a394180dcb626bee1c9b4b83d5094a4b50aee437a923888fc58526395b660dff",
-    "date": 1788960835000,
-    "titleSl": "Trump entregó 116.000 evrov en efectivo a tres de sus más cercanas asesoras, entre ellas Natalie Harp"
    },
    {
     "title": "Moreno anuncia un nuevo paquete de ayudas de 46 millones de euros por los terremotos de Granada para acallar las críticas por la falta de respuesta de la Junta",
