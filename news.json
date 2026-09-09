@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T09:39:35.883Z",
+ "generatedAt": "2026-09-09T09:42:27.559Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1788946620000
    },
    {
-    "title": "Slovenski smukači v Čilu zaradi požara v hotelu v apartmaje",
+    "title": "Slovenske smučarje na pripravah pregnal požar #video",
     "link": "https://siol.net/sportal/zimski-sporti/slovenski-smukaci-v-cilu-zaradi-pozara-v-hotelu-v-apartmaje-700977",
     "image": "https://siol.net/media/img/91/7f/5ef3cbb698c9be7fe022.jpeg",
     "date": 1788946200000
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Na Vuelti danes najbrž še zadnje zatišje pred velikim viharjem",
+    "link": "https://www.rtvslo.si/sport/kolesarstvo/dirka-po-spaniji/na-vuelti-danes-najbrz-se-zadnje-zatisje-pred-velikim-viharjem/793229",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/01/12/67009556.jpg",
+    "date": 1788946745000
+   },
+   {
     "title": "Šport za svojo vrednost ne potrebuje nenehne prisotnosti",
     "link": "https://www.rtvslo.si/kolumne/slavko-jeric/sport-za-svojo-vrednost-ne-potrebuje-nenehne-prisotnosti/793112",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/08/67097624.jpg",
@@ -91,6 +97,12 @@
     "date": 1788945381000
    },
    {
+    "title": "Del poslancev koalicije Avšič Bogovič očita kršenje poslovnika med izredno sejo konec avgusta",
+    "link": "https://www.rtvslo.si/slovenija/del-poslancev-koalicije-avsic-bogovic-ocita-krsenje-poslovnika-med-izredno-sejo-konec-avgusta/793230",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/10/03/66975486.jpg",
+    "date": 1788945186000
+   },
+   {
     "title": "Saša Lešnjek in Stiskači v Prvi vrsti",
     "link": "https://www.rtvslo.si/zabava-in-slog/glasba/sasa-lesnjek-in-stiskaci-v-prvi-vrsti/793210",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67098901.jpg",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/glasba/vstopnice-za-glastonbury-poskocile-v-nebo/793209",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67098968.jpg",
     "date": 1788943538000
-   },
-   {
-    "title": "Muanis Sinanović: Modra svetloba",
-    "link": "https://www.rtvslo.si/kultura/beremo/muanis-sinanovic-modra-svetloba/793214",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67098911.jpg",
-    "date": 1788940617000
-   },
-   {
-    "title": "Novi napadi na Ukrajino in Rusijo, žrtve na jugu Rusije in ob moldavsko-ukrajinski meji",
-    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/novi-napadi-na-ukrajino-in-rusijo-zrtve-na-jugu-rusije-in-ob-moldavsko-ukrajinski-meji/793213",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/09/67098920.jpg",
-    "date": 1788940600000
    }
   ],
   "zurnal": [
@@ -331,6 +331,27 @@
   ],
   "guardian": [
    {
+    "title": "Miliband defends sanctions on Israeli settlements and pushes back against chief rabbi’s criticism – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/deda518e9acdc114ef6b78b3bef4361df6248f8b/220_0_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=dbe6a185423222a3165e5659af12a2d9",
+    "date": 1788946779000,
+    "titleSl": "Miliband zagovarja sankcije proti izraelskim naselbinam in se upira kritikam glavnega rabina – britanska politika v živo"
+   },
+   {
+    "title": "‘Russia’s frontline moving west,’ Moldova’s president warns after border checkpoint attack – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/9b1d232236d435e26c29fba5b32820e9beeb2ba6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f71c285c137fc8a41591173d605b136b",
+    "date": 1788946134000,
+    "titleSl": "\"Ruska frontna črta se premika proti zahodu,\" po napadu na mejni kontrolni točki opozarja predsednik Moldavije – Evropa v živo"
+   },
+   {
+    "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+    "link": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+    "image": "https://i.guim.co.uk/img/media/1d187438efe895eb93e14842350bd18880f9373a/0_0_6341_5072/master/6341.jpg?width=140&quality=85&auto=format&fit=max&s=c2e6d7c79b8f8af0961142cfdc6b410c",
+    "date": 1788946027000,
+    "titleSl": "Cene nafte so se prvič po juliju dvignile nad 100 $ za sodček, ko se je vojna v Iranu stopnjevala"
+   },
+   {
     "title": "Miliband rejects chief rabbi’s claim that West Bank sanctions put UK Jews at risk",
     "link": "https://www.theguardian.com/politics/2026/sep/09/ed-miliband-rejects-chief-rabbi-claim-west-bank-sanctions-british-jews-less-safe",
     "image": "https://i.guim.co.uk/img/media/22d464cbcb274ddc42618f3aa169ea47804374a1/48_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=3320e16b124e6b88b7830f962fb0e5f3",
@@ -345,32 +366,11 @@
     "titleSl": "Na parkirišču v Sydneyju so ustrelili moškega"
    },
    {
-    "title": "Miliband defends sanctions on Israeli settlements and pushes back against chief rabbi’s criticism – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/deda518e9acdc114ef6b78b3bef4361df6248f8b/220_0_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=dbe6a185423222a3165e5659af12a2d9",
-    "date": 1788944858000,
-    "titleSl": "Miliband zagovarja sankcije proti izraelskim naselbinam in se upira kritikam glavnega rabina – britanska politika v živo"
-   },
-   {
-    "title": "‘Russia’s frontline moving west,’ Moldova’s president warns after border checkpoint attack – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/9b1d232236d435e26c29fba5b32820e9beeb2ba6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f71c285c137fc8a41591173d605b136b",
-    "date": 1788944839000,
-    "titleSl": "\"Ruska frontna črta se premika proti zahodu,\" po napadu na mejni kontrolni točki opozarja predsednik Moldavije – Evropa v živo"
-   },
-   {
     "title": "Supercar maker McLaren to create 1,000 UK jobs as part of £450m tech investment",
     "link": "https://www.theguardian.com/business/2026/sep/09/supercar-maker-mclaren-to-create-1000-uk-jobs-tech-investment",
     "image": "https://i.guim.co.uk/img/media/41544de8925e5ea72039f6a3b68e617c05a8e474/300_187_4626_3701/master/4626.jpg?width=140&quality=85&auto=format&fit=max&s=e1e3404a11700964482ffb6e36868b9f",
     "date": 1788942863000,
     "titleSl": "Proizvajalec superavtomobilov McLaren bo ustvaril 1.000 delovnih mest v Združenem kraljestvu kot del tehnološke naložbe v višini 450 milijonov £"
-   },
-   {
-    "title": "UK airport disruption: what are your rights if you have been affected?",
-    "link": "https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham",
-    "image": "https://i.guim.co.uk/img/media/bfd654bd04184dd9df503629644ed1f8431a334e/349_0_4382_3506/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=4596f5db28dddf7f8101cd29611ce3e1",
-    "date": 1788942277000,
-    "titleSl": "Motnje na letališču v Združenem kraljestvu: kakšne so vaše pravice, če ste bili prizadeti?"
    }
   ],
   "spiegel": [
@@ -413,6 +413,31 @@
   ],
   "bild": [
    {
+    "title": "Alice Weidel im Bundestag - „Energiewende ist verbranntes Geld“",
+    "link": "https://www.bild.de/politik/alice-weidel-im-bundestag-energiewende-ist-verbranntes-geld-6aa11b367864931663e71828",
+    "image": "https://images.bild.de/6aa11b367864931663e71828/5b147a1d8e4941e880e421b809679881-landscape,7293e254?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Ein Jahr nach ihrem Tod - Große Ehre für Laura Dahlmeier",
+    "link": "https://www.bild.de/sport/mehr-sport/laura-dahlmeier-grosse-fuer-verstorbene-biathletin-ein-jahr-nach-ihrem-tod-6aa009db1c634564db632b79",
+    "image": "https://images.bild.de/6aa009db1c634564db632b79/4ac4345fca550f68c353ba61ecc563be,19bac806?w=1280",
+    "date": 0
+   },
+   {
+    "title": "In Betrugs-Prozess - Torwart-Legende Eike Immel legt Kokain-Beichte ab",
+    "link": "https://www.bild.de/regional/hessen/in-betrugs-prozess-torwart-legende-eike-immel-legt-kokain-beichte-ab-6aa10f7a181cb962d4888ecb",
+    "image": "https://images.bild.de/6aa10f7a181cb962d4888ecb/f283eb3d5ff81abba9f7d0b182511e6a,9ebaf0e3?w=1280",
+    "date": 0,
+    "titleSl": "V Betrugs-Prozess - Torwart-Legende Eike Immel legt Kokain-Beichte ab"
+   },
+   {
+    "title": "BILD-Reporter Jan-Henrik Dobers - „Ich glaube, dass Frau Block vieles nicht wusste“",
+    "link": "https://www.bild.de/news/inland/christina-block-vor-gericht-was-ihre-erklaerung-bewirken-koennte-6a996d8b7cdc6e46442b6138",
+    "image": "https://images.bild.de/6a996d8b7cdc6e46442b6138/5eecc31845e4a59de688b3da824452c6,e8103c69?w=1280",
+    "date": 0
+   },
+   {
     "title": "Heikler Bericht über Alarm-Anruf - Haben die Emirate Netanjahu vor dem 7. Oktober gewarnt?",
     "link": "https://www.bild.de/politik/ausland-und-internationales/bericht-ueber-alarm-anruf-haben-die-emirate-netanjahu-vor-dem-7-oktober-gewarnt-6aa0efa5cea174365e85a4eb",
     "image": "https://images.bild.de/6aa0efa5cea174365e85a4eb/62702e84119c642ac1a7a601ff281dbc,fe87f03a?w=1280",
@@ -422,30 +447,6 @@
     "title": "Neue Enthüllungen zum 7. Oktober - Ignorierte Netanjahu konkrete Warnungen?",
     "link": "https://www.bild.de/politik/neue-enthuellungen-zum-7-oktober-ignorierte-netanjahu-konkrete-warnungen-6aa04e7c240b302c8a83ddb7",
     "image": "https://images.bild.de/6aa04e7c240b302c8a83ddb7/f5629e7d2ecd89f70d670c412da4ac04,3226d36d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Alice Weidel im Bundestag - „Energiewende ist verbranntes Geld“",
-    "link": "https://www.bild.de/politik/alice-weidel-im-bundestag-energiewende-ist-verbranntes-geld-6aa11b367864931663e71828",
-    "image": "https://images.bild.de/6aa11b367864931663e71828/5b147a1d8e4941e880e421b809679881-landscape,7293e254?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Um 12 Uhr beginnt der Trauerzug durch Oslo - So läuft heute der Abschied von König Harald",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/koenig-harald-von-norwegen-so-laeuft-heute-der-abschied-ab-6a9e81d05b4ed46cf0f0514c",
-    "image": "https://images.bild.de/6a9e81d05b4ed46cf0f0514c/3677b43f84ef8d3d42cc5df5c91f526d,a2cb9c26?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Rührender Abschiedsbrief - WWE-Superstar trauert um seinen Hund",
-    "link": "https://www.bild.de/sport/mehr-sport/wwe-cody-rhodes-trauert-mit-einem-ruehrenden-abschiedsbrief-um-seinen-hund-6aa11cf7181cb962d488905c",
-    "image": "https://images.bild.de/6aa11cf7181cb962d488905c/390db7e6930d1f7ba66a080a99fe16dc,284072a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Es gibt schon lange Probleme - Darum feuert Eintracht wichtigen Mitarbeiter",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-darum-wurde-ein-wichtiger-mitarbeiter-gefeuert-6aa117dd7864931663e717c9",
-    "image": "https://images.bild.de/6aa117dd7864931663e717c9/aab23f8fc3617353940ed68f27dcb984,a1fdb9c1?w=1280",
     "date": 0
    }
   ],
@@ -579,6 +580,13 @@
     "titleSl": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez admite que el Estado tiene que prepararse mejor ante \"ataques\" como el de Ceuta"
    },
    {
+    "title": "Gwyneth Paltrow revela la historia detrás de su vela con olor a vagina y por qué dejó de venderla: “Distraía a la gente”",
+    "link": "https://elpais.com/gente/2026-09-09/gwyneth-paltrow-revela-la-historia-detras-de-su-vela-con-olor-a-vagina-y-por-que-dejo-de-venderla-distraia-a-la-gente.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZC5LF5S5G5FJBK7PMMSV4JKFPM.jpg?auth=0c60724f6a62960171634160c0b97dad48e2721a7050bcc3715c097d124dc2c3",
+    "date": 1788946168000,
+    "titleSl": "Gwyneth Paltrow revela la historia detrás de su vela con olor a vagina y por qué dejó de venderla: \"Distraía a la gente\""
+   },
+   {
     "title": "Adif corta la línea Madrid-Barcelona para reparar daños causados por el temporal en Cataluña",
     "link": "https://elpais.com/economia/2026-09-09/adif-corta-la-linea-madrid-barcelona-para-reparar-danos-causados-por-el-temporal-en-cataluna.html",
     "image": "https://imagenes.elpais.com/resizer/v2/UI42DVKLXBBVNJNXXFVP3I2JVQ.JPG?auth=12eed078ae04ca6af0d1725d3c4d945e8b551510c5e5d55051ba8e3d1da36abd",
@@ -602,12 +610,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260909/1212408_080357_video_1800.mp4",
     "date": 1788943951000,
     "titleSl": "Feijóo y Abascal acusan al presidente de no ser libre con Rabat y Sánchez replika que no tiene amo"
-   },
-   {
-    "title": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
-    "link": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
-    "date": 1788943492000
    }
   ]
  },
