@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T11:16:28.493Z",
+ "generatedAt": "2026-09-10T11:18:28.555Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "PRENOS V ŽIVO: Janša: Sprejeli smo rebalans proračuna",
     "link": "https://www.24ur.com/novice/slovenija/na-seji-vlade-o-rebalansu-proracuna-in-dolgotrajni-oskrbi.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/b7502d7af60a3f9a3c99_63645417.jpg?v=1095&fop=fp:0.54:0.32",
-    "date": 1789038736000
+    "date": 1789038960000
    },
    {
     "title": "Zaročil se je starejši sin Pamele Anderson in Tommyja Leeja",
@@ -59,7 +59,7 @@
     "date": 1789037777000
    },
    {
-    "title": "Na OŠ Koseze naj bi bilo odsotnih 300 otrok zaradi prebavnih težav",
+    "title": "Na OŠ Koseze odsotnih 300 otrok, preventivno zaprli kuhinjo",
     "link": "https://www.24ur.com/novice/slovenija/na-os-koseze-naj-bi-bilo-odsotnih-300-otrok-zaradi-prebavnih-tezav.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/ce31932bff6f71676d3f_63612360.jpg?v=2371&fop=fp:0.47:0.34",
     "date": 1789037099000
@@ -78,6 +78,12 @@
    }
   ],
   "rtvslo": [
+   {
+    "title": "Manj denarja za javne medije ima lahko bistvene posledice za kulturo",
+    "link": "https://www.rtvslo.si/kultura/drugo/manj-denarja-za-javne-medije-ima-lahko-bistvene-posledice-za-kulturo/793349",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/10/67100465.jpg",
+    "date": 1789039018000
+   },
    {
     "title": "Timu Farčniku se obeta predsedniško mesto Mednarodne biatlonske zveze",
     "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-biatlonu/timu-farcniku-se-obeta-predsednisko-mesto-mednarodne-biatlonske-zveze/793350",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/okolje/v-furlaniji-julijski-krajini-umrla-zenska-poplavljenih-vec-krajev-tezave-v-prometu/793345",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/10/67100415.jpg",
     "date": 1789035999000
-   },
-   {
-    "title": "Prva zlata rola za Gajin svet 3, novo poglavje o dekletu, ki se pogumno bori za tisto, kar je prav",
-    "link": "https://www.rtvslo.si/kultura/film-in-tv/prva-zlata-rola-za-gajin-svet-3-novo-poglavje-o-dekletu-ki-se-pogumno-bori-za-tisto-kar-je-prav/793341",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/08/12/66949974.jpg",
-    "date": 1789033999000
    }
   ],
   "zurnal": [
@@ -414,17 +414,17 @@
   ],
   "bild": [
    {
+    "title": "Technologische Trümmer - Forscher wollen auf dem Mond Alien-Spuren suchen",
+    "link": "https://www.bild.de/leben-wissen/wissenschaft/seti-forscher-aliens-koennten-spuren-im-mondstaub-hinterlassen-6aa281c34efdd38dc3e69ac5",
+    "image": "https://images.bild.de/6aa281c34efdd38dc3e69ac5/aae1a2f13309907e0b5379ff6a4b3344,f23e5286?w=1280",
+    "date": 0
+   },
+   {
     "title": "So schaffen Sie das auch - „Mein Haus am Meer kostete nur 50.000 Euro!“",
     "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/diese-muenchnerin-kaufte-ein-haus-am-meer-in-italien-fuer-nur-50-000-euro-6a7d9a39dc674b59e6e1d0e2",
     "image": "https://images.bild.de/6a7d9a39dc674b59e6e1d0e2/b30d503bb259314beb21d0218d5a0cf1,7a0f340e?w=1280",
     "date": 0,
     "titleSl": "Torej schaffen Sie das auch - \"Mein Haus am Meer kostete nur 50.000 evrov!\""
-   },
-   {
-    "title": "Technologische Trümmer - Forscher wollen auf dem Mond Alien-Spuren suchen",
-    "link": "https://www.bild.de/leben-wissen/wissenschaft/seti-forscher-aliens-koennten-spuren-im-mondstaub-hinterlassen-6aa281c34efdd38dc3e69ac5",
-    "image": "https://images.bild.de/6aa281c34efdd38dc3e69ac5/aae1a2f13309907e0b5379ff6a4b3344,f23e5286?w=1280",
-    "date": 0
    },
    {
     "title": "Verkehrssünder entlarvt - Diese Automarken sammeln die meisten Punkte",
@@ -454,6 +454,12 @@
   ],
   "krone": [
    {
+    "title": "720 Kilo Drogen - Größte Cannabisplantage Österreichs: „Habe Lizenz“ - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xWUlHT1lmZGQ0a3ZocHFXMWd5MURoRTdHU0VXQ2Q5R0JPUGk0NjBTT2RIMlFBNno5bWtPeUVaUlkzQQ?oc=5",
+    "image": "",
+    "date": 1789038960000
+   },
+   {
     "title": "Trotz Nachfrage - So viele Gemeinden haben keinen Bankomat mehr - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBydFhPNDBjNG93Y0ZLa2V2X09IQ3lvenBCOElFVFVsaUNjTUMyQ2ZaT3NRcnRQYlJjS293Y3JtRHVwdw?oc=5",
     "image": "",
@@ -482,12 +488,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yb3N2bG42c1FiT1hsSEVyVHBoVmJQc0Y0a25YMUpaaFNiTWJGSlJISER0Wk5na2MzZGp1QTVPclV2UQ?oc=5",
     "image": "",
     "date": 1789037520000
-   },
-   {
-    "title": "DURCHSCHNITTSALTER 77 - Tischtennis: 308-jähriges Team im Unruhestand - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0waHo5cy1KR3ZaN3FMTTFSaUdWM1hFbFlhY3FuTVhMamhobXBaU3l4amdWUEZTU21vNDQ2d3lnc1hhdw?oc=5",
-    "image": "",
-    "date": 1789037220000
    }
   ],
   "rainews": [
