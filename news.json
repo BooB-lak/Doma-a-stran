@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-10T06:22:27.623Z",
+ "generatedAt": "2026-09-10T06:24:27.208Z",
  "sources": {
   "siol": [
+   {
+    "title": "Motorist izgubil življenje na avtocesti",
+    "link": "https://siol.net/novice/slovenija/motorist-izgubil-zivljenje-na-avtocesti-701033",
+    "image": "https://siol.net/media/img/46/76/46f4b8c3d2d479482a8f.jpeg",
+    "date": 1789021320000
+   },
    {
     "title": "Boštjan Udovič: Te volitve niso nikakršen potres ali izbruh vulkana",
     "link": "https://siol.net/mnenja/kolumne/bostjan-udovic-te-volitve-niso-nikakrsen-potres-ali-izbruh-vulkana-701026",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/kaj-se-zgodi-ko-na-zeleznici-odpove-sistem-ki-ga-potniki-sploh-ne-vidijo-700627",
     "image": "https://siol.net/media/img/6f/96/c6e23f04929d268010fa.jpeg",
     "date": 1789016400000
-   },
-   {
-    "title": "Donald Trump v Dallasu o menjavi Luke Dončića: Tega posla ne razumem",
-    "link": "https://siol.net/sportal/kosarka/donald-trump-luka-doncic-los-angeles-lakers-dallas-mavericks-701027",
-    "image": "https://siol.net/media/img/3c/02/e9a1976e4cab5d745aaf.jpeg",
-    "date": 1789016220000
    }
   ],
   "24ur": [
@@ -45,6 +45,18 @@
     "link": "https://www.24ur.com/novice/slovenija/drzavo-bodo-zajele-padavine-za-vecji-del-velja-oranzno-opozorilo.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/2398067d583a19133c7b_63645247.jpg?v=1314&fop=fp:0.43:0.49",
     "date": 1789021194000
+   },
+   {
+    "title": "Zelenski obtičal v Moldaviji, zaradi ruskega drona vzletel z zamudo",
+    "link": "https://www.24ur.com/novice/tujina/zelenski-obtical-v-moldaviji-zaradi-ruskega-drona-vzletel-z-zamudo.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/3f2731d5f635918be4ec_63645249.jpg?v=2d52&fop=fp:0.46:0.32",
+    "date": 1789020804000
+   },
+   {
+    "title": "Trump se je obregnil (tudi) ob Dončićevo menjavo: Najslabša kupčija v zgodovini športa",
+    "link": "https://www.24ur.com/sport/kosarka/trump-se-je-obregnil-ob-doncicevo-menjavo-najslabsa-kupcija-v-zgodovini-sporta.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/8459daccf83c372c5f8b_63641986.jpg?v=1c3e&fop=fp:0.52:0.35",
+    "date": 1789020500000
    },
    {
     "title": "Iraola: Veseli me, da je Barcola dodana vrednost za Liverpool",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/ena-isce-spostovanje-druga-energetsko-ujemanje.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/3227df073ef05a61a5f5_63644936.jpg?v=6384&fop=fp:0.48:0.19",
     "date": 1789019848000
-   },
-   {
-    "title": "Ogura je upal do zadnjega: zaradi poškodbe palca ob dirko v Misanu",
-    "link": "https://www.24ur.com/sport/motogp/ogura-je-upal-do-zadnjega-zaradi-poskodbe-palca-ob-dirko-v-san-marinu.html",
-    "image": "https://images.24ur.com/media/images/213xX/Apr2026/7440a30d8a9ac45322ae_63570545.jpg?v=893d&fop=fp:0.49:0.48",
-    "date": 1789018951000
-   },
-   {
-    "title": "Vlah lastnoročno pripeljal Kielce do premierne zmage v Ligi prvakov",
-    "link": "https://www.24ur.com/sport/ostalo/vlah-lastnorocno-pripeljal-kielce-do-premierne-zmage-v-ligi-prvakov.html",
-    "image": "https://images.24ur.com/media/images/213xX/Apr2025/5c7d2f27f66431bf4bc6_63392461.jpg?v=fd20&fop=fp:0.49:0.22",
-    "date": 1789018491000
    }
   ],
   "rtvslo": [
@@ -421,6 +421,12 @@
     "date": 0
    },
    {
+    "title": "Fünf Tote, 87 vermisst - Fährunglück auf den Philippinen",
+    "link": "https://www.bild.de/news/ausland/fuenf-tote-87-vermisst-faehrunglueck-auf-den-philippinen-6aa24871994a2b48a93c1891",
+    "image": "https://images.bild.de/6aa24871994a2b48a93c1891/ceeb57dbd2ebb7d53a93516a23cb3ca7,cbd3c358?w=1280",
+    "date": 0
+   },
+   {
     "title": "Schnell und platzsparend - Lohnt sich ein Wäschetrockner für mich?",
     "link": "https://www.bild.de/leben-wissen/wohnen-living/waeschetrockner-erklaert-technik-kosten-und-nutzen-im-haushalt-6a9e8fbf181cb962d48869c4",
     "image": "https://images.bild.de/6a9e8fbf181cb962d48869c4/27dc3c16e94535338f78513af8b9f1bd-landscape,cdf2efdd?w=1280",
@@ -442,12 +448,6 @@
     "title": "Neue Studie - Jede Stunde mehr Sitzen erhöht das Krebssterberisiko",
     "link": "https://www.bild.de/leben-wissen/medizin/krebssterberisiko-warum-langes-sitzen-zum-problem-werden-kann-6a9a9d8508c763dcf81f3f49",
     "image": "https://images.bild.de/6a9a9d8508c763dcf81f3f49/b171f66f21c864b0770d9e79a2a99429,429f81e8?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Expertin verrät - 8 Gründe, die gegen einen Hund sprechen",
-    "link": "https://www.bild.de/leben-wissen/haustiere/expertin-verraet-diese-gruende-sprechen-gegen-einen-hund-6aa165397864931663e72204",
-    "image": "https://images.bild.de/6aa165397864931663e72204/4ca272c82304a2591a99ead467fa00df,504c9d9d?w=1280",
     "date": 0
    }
   ],
