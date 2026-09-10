@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T06:14:27.087Z",
+ "generatedAt": "2026-09-10T06:16:27.518Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/mnenja/kolumne/bostjan-udovic-te-volitve-niso-nikakrsen-potres-ali-izbruh-vulkana-701026",
     "image": "https://siol.net/media/img/ca/7f/fc6cf7a3dbbf1d068b65.jpeg",
     "date": 1789020600000
+   },
+   {
+    "title": "Marco Rubio branil sporne ameriške vojaške napade na čolne",
+    "link": "https://siol.net/novice/svet/marco-rubio-branil-sporne-ameriske-vojaske-napade-na-colne-701032",
+    "image": "https://siol.net/media/img/ab/7e/a43bd4a34c52ec63d6ba.jpeg",
+    "date": 1789020420000
    },
    {
     "title": "Trump: Kdor bo prišel na volitve, bo dobil 5.000 dolarjev",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kosarka/donald-trump-luka-doncic-los-angeles-lakers-dallas-mavericks-701027",
     "image": "https://siol.net/media/img/3c/02/e9a1976e4cab5d745aaf.jpeg",
     "date": 1789016220000
-   },
-   {
-    "title": "Tri hiše, trije računi: za koga je sončna elektrarna z baterijo smiselna izbira?",
-    "link": "https://siol.net/novice/posel-danes/tri-hise-trije-racuni-za-koga-je-soncna-elektrarna-z-baterijo-smiselna-izbira-700949",
-    "image": "https://siol.net/media/img/31/1d/0ab99ac6f49f69375231.jpg",
-    "date": 1789014720000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Europe’s far right: Putin’s best friend?",
-    "link": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa24648b6-1789019720.jpg?resize=1920%2C1440",
-    "date": 1789019757000,
-    "titleSl": "Skrajna desnica Evrope: Putinov najboljši prijatelj?"
-   },
-   {
     "title": "Zverev defeats Van de Zandschulp in straight sets to enter US Open semis",
     "link": "https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa23ce1d99b4-1789017313_73cf1d-1789017671.jpg?resize=1200%2C630&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789014299.jpg?resize=1621%2C1080&quality=80",
     "date": 1789014350000,
     "titleSl": "Trump: Vsak Američan dobi 5.000 $, če republikanci zmagajo v predstavniškem domu in senatu"
+   },
+   {
+    "title": "Five dead, dozens missing in Philippines ferry fire",
+    "link": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260909__C7UR9VL__v1__HighRes__PhilippinesTransportAccidentFerry-1789005424.jpg?resize=1920%2C1170",
+    "date": 1789011798000,
+    "titleSl": "Pet mrtvih, več deset pogrešanih v požaru na filipinskem trajektu"
    }
   ],
   "guardian": [
@@ -454,46 +454,52 @@
   ],
   "krone": [
    {
-    "title": "„Unfassbar!“ CL-Hattrick-Held in elitärem Kreis - krone.at",
+    "title": "„Unfassbar!“ CL-Hattrick-Held in elitärem Kreis",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WUEFyUDVZLWJZeC1kYlFiUkQxRUs3SXpQTW1sRnFDcjFPcW5hcm9WczJLXzhpaGJBNTNfUVJxWllVQQ?oc=5",
     "image": "",
     "date": 1789020240000
    },
    {
-    "title": "Horror von Marchtrenk - Ex-Frau: Nase gebrochen und auch Hund geprügelt - krone.at",
+    "title": "Horror von Marchtrenk - Ex-Frau: Nase gebrochen und auch Hund geprügelt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01RXN5X2gwdUgxSEp1VmI0UDFwT2VSU3ZXbjZGY1RTazdSMTRWYjV2bWZBTlVhdkFxZlZvVWl0Qjdxdw?oc=5",
     "image": "",
     "date": 1789020203000
    },
    {
-    "title": "E-Kiosks im Visier - Drogenverdacht! Polizei räumte Automatenshop aus - krone.at",
+    "title": "E-Kiosks im Visier - Drogenverdacht! Polizei räumte Automatenshop aus",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wYUdaaDhJRERrR3l4OWxtdkViTE5BRWNvc3RRUFVZa0o1TTBsN0lZV195d280ZVJmM0pCT2RCMGVJUQ?oc=5",
     "image": "",
     "date": 1789020000000
    },
    {
-    "title": "Pensionist als Opfer - Pfleger (41) stahl Gold im Wert von 296.000 Euro - krone.at",
+    "title": "Pensionist als Opfer - Pfleger (41) stahl Gold im Wert von 296.000 Euro",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91MTlIMDl5Vkt6QjN0QzJkQkdxa3FZOExIMWhjNkZfWkkwSUJ2QVpzYmMybUpGbnNTTklTeXF4WXkydw?oc=5",
     "image": "",
     "date": 1789020000000,
-    "titleSl": "Penzionist ALS Opfer - Pfleger (41) stahl Gold im Wert von 296.000 EUR - krone.at"
+    "titleSl": "Penzionist ALS Opfer - Pfleger (41) stahl Gold im Wert von 296.000 EUR"
    },
    {
-    "title": "Appell an US-Kongress - OpenAI fordert verpflichtende KI-Sicherheitsregeln - krone.at",
+    "title": "Appell an US-Kongress - OpenAI fordert verpflichtende KI-Sicherheitsregeln",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDd1o5ZDZMUHJNMXZXSW9razFQNHVXeG9nSkI1cEpIM2lTWGRVS0NqWlB1c1NTcDIyTnRQRElOc0R3dw?oc=5",
     "image": "",
     "date": 1789019760000,
-    "titleSl": "Pritožba na US-Kongress - OpenAI fordert verpflichtende KI-Sicherheitsregeln - krone.at"
+    "titleSl": "Pritožba na US-Kongress - OpenAI fordert verpflichtende KI-Sicherheitsregeln"
    },
    {
-    "title": "Museum im Nirgendwo - Was steckt hinter der „Villa Yeti“ in Osttirol? - krone.at",
+    "title": "Museum im Nirgendwo - Was steckt hinter der „Villa Yeti“ in Osttirol?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RU3d1Vk9VYko3cG4tUTlWR0Y3NGY5WEtnRTlMZm9nMjNEdHc5aDZ4aldsYkphWXhaVEJ4RXUyZGswdw?oc=5",
     "image": "",
     "date": 1789019460000,
-    "titleSl": "Museum im Nirgendwo - Was steckt hinter der \"Villa Yeti\" in Osttirol? - krone.at"
+    "titleSl": "Museum im Nirgendwo - Was steckt hinter der \"Villa Yeti\" in Osttirol?"
    }
   ],
   "rainews": [
+   {
+    "title": "Certificati di malattia, cosa cambia da settembre: riconosciuto anche il giorno prima della visita",
+    "link": "https://www.rainews.it/articoli/2026/09/certificati-di-malattia-cosa-cambia-da-settembre-riconosciuto-anche-il-giorno-prima-della-visita-fe4eaaa6-2bc4-4ab2-a436-6a8b86be97fd.html",
+    "image": "https://www.rainews.it/dl/img/2022/02/23/1645621566429_pxfuel.com_.jpg",
+    "date": 1789020240000
+   },
    {
     "title": "Lo scheletro del traghetto andato in fumo nelle Filippine: le immagini dal drone",
     "link": "https://www.rainews.it/video/2026/09/lo-scheletro-del-traghetto-andato-in-fumo-nelle-filippine-le-immagini-dal-drone-43715859-a6b7-45dd-bca5-d70da824010a.html",
@@ -524,12 +530,6 @@
     "link": "https://www.rainews.it/video/2026/09/a-3-anni-dalla-sparizione-di-kata-inchiesta-archiviata-lavvocata-ci-opporremo-9383d313-7796-4b8d-bff6-1edf1b56e279.html",
     "image": "https://www.rainews.it/dl/img/2026/9/9/1788984264025_kata.PNG",
     "date": 1789017780000
-   },
-   {
-    "title": "Kata, scomparsa a Firenze: la procura chiede di archiviare le indagini. Legale: \"Ci opporremo\"",
-    "link": "https://www.rainews.it/articoli/2026/09/bimba-scomparsa-a-firenze-procura-chiede-di-archiviare-le-indagini-legale-ci-opporremo-62bf2f90-a8a8-4285-8678-9c0897e1cf8b.html",
-    "image": "https://www.rainews.it/dl/img/2024/06/10/1718023248786_BeFunkycollage.jpg",
-    "date": 1789017480000
    }
   ],
   "lemonde": [
