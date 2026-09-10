@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T04:56:26.188Z",
+ "generatedAt": "2026-09-10T04:58:25.604Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Trump v svojem slogu: Vsakemu Američanu bom izplačal 5.000 dolarjev!",
+    "link": "https://www.zurnal24.si/svet/trump-v-svojem-slogu-vsakemu-americanu-bom-izplacal-5-000-dolarjev-464920",
+    "image": "https://www.zurnal24.si/media/img/9d/d3/b92d94b90671ab7063f2.jpeg",
+    "date": 1789015860000
+   },
+   {
     "title": "Werner iskreno o zakonu, priznava, da je bilo \"morje\" tudi \"razburkano\"",
     "link": "https://www.zurnal24.si/magazin/vip/werner-iskreno-o-zakonu-priznava-da-je-bilo-morje-tudi-razburkano-464875",
     "image": "https://www.zurnal24.si/media/img/a8/90/55431345cccb6225e19f.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kolesarstvo/nezadovoljni-uae-na-vodstvo-dirke-naslovil-radikalen-predlog-464919",
     "image": "https://www.zurnal24.si/media/img/26/22/22b42b60c5365b6a92fb.jpeg",
     "date": 1789012920000
-   },
-   {
-    "title": "Plača tudi 2.300 EUR ali več, delno financirana osebna potovanja",
-    "link": "https://www.zurnal24.si/moj-sanjski-siht/placa-tudi-2-300-eur-ali-vec-delno-financirana-osebna-potovanja-464876",
-    "image": "https://www.zurnal24.si/media/img/69/85/d9f5797b7c1d46b6075d.jpeg",
-    "date": 1789012560000
    }
   ],
   "reuters": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Ukrainian drones strike Russian Caspian Sea port in Dagestan",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789015260.jpg?resize=1920%2C1080&quality=80",
+    "date": 1789015266000,
+    "titleSl": "Ukrajinski brezpilotni zrakoplovi napadejo pristanišče ruskega Kaspijskega morja v Dagestanu"
+   },
+   {
+    "title": "Trump: Every American gets $5,000 if Republicans win House & Senate",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789014299.jpg?resize=1621%2C1080&quality=80",
+    "date": 1789014350000,
+    "titleSl": "Trump: Vsak Američan dobi 5.000 $, če republikanci zmagajo v predstavniškem domu in senatu"
+   },
+   {
     "title": "Five dead, dozens missing in Philippines ferry fire",
     "link": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260909__C7UR9VL__v1__HighRes__PhilippinesTransportAccidentFerry-1789005424.jpg?resize=1920%2C1170",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa20f13953ca-1789005587.jpg?resize=1920%2C1440",
     "date": 1789009315000,
     "titleSl": "Trump obljublja, da bo v središču ameriških vmesnih volitev: republikanska konvencija"
-   },
-   {
-    "title": "Thousands protest in Ljubljana as Slovenia opens Israel’s first embassy",
-    "link": "https://www.aljazeera.com/news/2026/9/10/thousands-protest-in-ljubljana-as-slovenia-opens-israels-first-embassy?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T191830Z_2079566820_RC2TFNA1Q8A7_RTRMADP_3_SLOVENIA-ISRAEL-PROTEST-1789001209.jpg?resize=1920%2C1440",
-    "date": 1789008878000,
-    "titleSl": "Tisoči protestirajo v Ljubljani, ko Slovenija odpira prvo izraelsko veleposlaništvo"
-   },
-   {
-    "title": "Several dead, dozens missing after ferry fire in Philippines tourist spot",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789008630.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789008636000,
-    "titleSl": "Več mrtvih, na ducate pogrešanih po požaru na trajektu v turističnem kraju na Filipinih"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Australia politics live: Taylor targets Labor on ‘negative equity’ linked to housing prices; Chalmers says Coalition was ‘doing better under Sussan Ley’",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/c43cffc846bb8c24aa10ab69fdf953dd7ffecb0a/394_0_3940_3152/master/3940.jpg?width=140&quality=85&auto=format&fit=max&s=f9841274fe4832ccac3a460c68b37224",
-    "date": 1789014819000,
+    "date": 1789016059000,
     "titleSl": "Avstralska politika v živo: Taylor usmerja delo na \"negativni kapital\", povezan s cenami stanovanj; Chalmers pravi, da je koaliciji \"šlo bolje pod Sussan Ley\""
    },
    {
@@ -479,14 +479,14 @@
     "date": 1789014600000
    },
    {
-    "title": "Was ist denn da los? - Warum Salzburgs Basketballer jetzt pink tragen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aTF5aE1fR0hLY1hVWVRXcXhPTDlQb29rbHlEbzRfZmJDX2x4TUxnZ0dzNUs1LUd2dElxVm9Qc3NRQQ?oc=5",
+    "title": "Ski-Präsident erklärt: - Darum muss der Kärntner Nachwuchs in die Skihalle",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yUTV3dGlreldBck5HUmdXVHNMWERHcGYyZjFJc2llNXZkYzVZMHl2Q1ZEdXlkSm5PMzBOYkpLdjlGZw?oc=5",
     "image": "",
     "date": 1789014600000
    },
    {
-    "title": "Ski-Präsident erklärt: - Darum muss der Kärntner Nachwuchs in die Skihalle",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yUTV3dGlreldBck5HUmdXVHNMWERHcGYyZjFJc2llNXZkYzVZMHl2Q1ZEdXlkSm5PMzBOYkpLdjlGZw?oc=5",
+    "title": "Was ist denn da los? - Warum Salzburgs Basketballer jetzt pink tragen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aTF5aE1fR0hLY1hVWVRXcXhPTDlQb29rbHlEbzRfZmJDX2x4TUxnZ0dzNUs1LUd2dElxVm9Qc3NRQQ?oc=5",
     "image": "",
     "date": 1789014600000
    }
