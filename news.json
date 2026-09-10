@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T17:24:29.921Z",
+ "generatedAt": "2026-09-10T17:26:29.473Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "A Sprint to Decipher U.S.-Canada Tariffs: ‘Are Sprinkles on the List?’",
+    "link": "https://www.nytimes.com/2026/09/10/business/economy/canada-tariffs-sprinkles.html",
+    "image": "https://static01.nyt.com/images/2026/09/11/multimedia/BIZ-SPRINKLES-1-kpgz/BIZ-SPRINKLES-1-kpgz-mediumSquareAt3X.jpg",
+    "date": 1789060941000,
+    "titleSl": "Sprint za dešifriranje ameriško-kanadskih tarif: \"Ali so škropiva na seznamu?\""
+   },
+   {
     "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
     "link": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
     "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10biz-techfix-1-cmvg/10biz-techfix-1-cmvg-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10met-911-jill-jake-jeanne-top-bhkq/10met-911-jill-jake-jeanne-top-bhkq-mediumSquareAt3X-v2.jpg",
     "date": 1789059555000,
     "titleSl": "Mamo je izgubil 11. septembra. Odraščal je v njeni otroški spalnici."
-   },
-   {
-    "title": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html",
-    "image": "https://static01.nyt.com/images/2026/09/10/multimedia/00dc-scotus-missouri-mgkc/00dc-scotus-missouri-mgkc-mediumSquareAt3X.jpg",
-    "date": 1789059328000,
-    "titleSl": "Vrhovno sodišče ponovno blokira volilni zemljevid Missourija, ki ga podpirajo republikanci"
    }
   ],
   "bbc": [
@@ -415,11 +415,23 @@
   ],
   "bild": [
    {
+    "title": "Live-Ticker - US-Verhandler reisen nach Moskau und Kiew",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+    "image": "https://images.bild.de/644b966a2dffef69047a7edc/25139d1551247106a086d159da96de2b,2b1ff0f3?w=1280",
+    "date": 0
+   },
+   {
     "title": "Unsere Heldinnen schlagen Belgien - SENSATIONS-SIEG!",
     "link": "https://www.bild.de/sport/mehr-sport/unsere-heldinnen-schlagen-belgien-sensations-sieg-6aa2bd90240b302c8a84052d",
     "image": "https://images.bild.de/6aa2bd90240b302c8a84052d/e3837e8b5535c0aef4feedea58e08360,4169e943?w=1280",
     "date": 0,
     "titleSl": "Unsere Heldinnen schlagen Belgien - SENZACIJE-SIEG!"
+   },
+   {
+    "title": "Medienberichte - Söhne-Mannheims-Rapper auf Jamaika erschossen?",
+    "link": "https://www.bild.de/news/ausland/soehne-mannheims-rapper-marlon-b-soll-auf-jamaika-erschossen-worden-sein-6aa2be6d240b302c8a840546",
+    "image": "https://images.bild.de/6aa2be6d240b302c8a840546/118a3036972d8ac91d90d1f2fbac9357,1e3befb?w=1280",
+    "date": 0
    },
    {
     "title": "Wie die Sängerin ihren Bruder wiederfand - Familien-Wunder bei Konzert von Annett Louisan",
@@ -437,18 +449,6 @@
     "title": "Halbfinale der US Open - Zverevs Gegner unterstützt Putins Krieg",
     "link": "https://www.bild.de/sport/mehr-sport/karen-khachanov-warum-der-putin-freund-weiter-tennis-spielen-darf-6aa2ba59240b302c8a8404d1",
     "image": "https://images.bild.de/6aa2ba59240b302c8a8404d1/ee4d68a06b55d459791c95e898d414ac,b87afd43?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Tödlicher Unfall - E-Scooter-Fahrer (23) stirbt bei Crash",
-    "link": "https://www.bild.de/news/inland/unfall-e-scooter-fahrer-23-stirbt-bei-kollision-6aa29451181cb962d488aa43",
-    "image": "https://images.bild.de/6aa29451181cb962d488aa43/95db8fcf7682758e18b5d0380abe4398,4d5a733f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Was die Bosse fordern & die Fans fürchten - Millionen-Rätsel um diesen Köln-Star",
-    "link": "https://www.bild.de/sport/fussball/1-fc-koeln-was-die-bosse-fordern-und-die-fans-fuerchten-millionen-raetsel-um-koeln-star-6aa11dc8240b302c8a83e728",
-    "image": "https://images.bild.de/6aa11dc8240b302c8a83e728/2e47ae86611d21010c4a89cf50a15433,b4a7f293?w=1280",
     "date": 0
    }
   ],
@@ -548,11 +548,10 @@
     "titleSl": "Pour les marchés du pétrole, l 'énigme du trafic dans un détroit d'Ormuz mi-ouvert mi-fermé"
    },
    {
-    "title": "Qu’est-ce que le phénomène El Niño, qui déstabilise le climat et pourrait être « le plus puissant » jamais enregistré ?",
+    "title": "El Niño : tout comprendre au phénomène qui déstabilise le climat et pourrait être cette année « le plus puissant jamais enregistré »",
     "link": "https://www.lemonde.fr/planete/article/2026/09/10/qu-est-ce-que-le-phenomene-el-nino-qui-destabilise-le-climat-et-pourrait-etre-le-plus-puissant-jamais-enregistre_6769968_3244.html",
     "image": "https://img.lemde.fr/2026/09/02/500/0/6048/3024/644/322/60/0/e04aa1c_ftp-1-blkbq515uolk-5980715-01-06.jpg",
-    "date": 1789059619000,
-    "titleSl": "Qu'est-ce que le phénomène El Niño, qui déstabilise le climat et pourrait être « le plus puissant » jamais enregistré ?"
+    "date": 1789059619000
    },
    {
     "title": "Rentrée scolaire : plus de la moitié des collèges et des lycées n’ont pas tous leurs professeurs, selon deux syndicats",
