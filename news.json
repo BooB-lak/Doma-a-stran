@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T05:56:26.442Z",
+ "generatedAt": "2026-09-10T05:58:24.998Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Državo bodo zajele padavine, za večji del velja oranžno opozorilo",
     "link": "https://www.24ur.com/novice/slovenija/drzavo-bodo-zajele-padavine-za-vecji-del-velja-oranzno-opozorilo.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/f4948f18ab084c48c6f3_63645239.jpg?v=1757&fop=fp:0.42:0.49",
-    "date": 1789019270000
+    "date": 1789019798000
    },
    {
     "title": "Vlah lastnoročno pripeljal Kielce do premierne zmage v Ligi prvakov",
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Apple predstavil iPhone Duo, svoj prvi zložljivi telefon",
+    "link": "https://www.rtvslo.si/znanost-in-tehnologija/apple-predstavil-iphone-duo-svoj-prvi-zlozljivi-telefon/793305",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/10/67100064.jpg",
+    "date": 1789019797000
+   },
+   {
     "title": "Vse manj umetnikov uporablja slovenske izraze",
     "link": "https://www.rtvslo.si/lokalne-novice/notranjska/vse-manj-umetnikov-uporablja-slovenske-izraze/793025",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/10/67100072.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/s-in-j-amerika/trump-v-primeru-zmage-republikancev-na-vmesnih-volitvah-vsakemu-americanu-obljubil-5000-dolarjev/793303",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/10/67100018.jpg",
     "date": 1789017080000
-   },
-   {
-    "title": "Rok Možič: S Šternom bi imeli več širine v igri, a imamo rešitve",
-    "link": "https://www.rtvslo.si/sport/odbojka/ep-v-odbojki-2026/rok-mozic-s-sternom-bi-imeli-vec-sirine-v-igri-a-imamo-resitve/793069",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/06/10/67051576.jpg",
-    "date": 1789016413000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Iran war will not end until after November US elections, says Trump",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a150/live/628e6b60-aca8-11f1-a540-61c3f7fc4e6c.jpg",
+    "date": 1789019798000,
+    "titleSl": "Iranska vojna se bo končala šele po novembrskih ameriških volitvah, pravi Trump"
+   },
+   {
     "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6356/live/471fff50-ab87-11f1-83f1-8f6cbf03142e.png",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d6/live/c9412220-ac31-11f1-b483-f5be285e6b7e.jpg",
     "date": 1789014600000,
     "titleSl": "Pogreb drugega častnika, ki je umrl v nesreči A66, bo potekal"
-   },
-   {
-    "title": "Iran war will not end until after November US elections, says Trump",
-    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a150/live/628e6b60-aca8-11f1-a540-61c3f7fc4e6c.jpg",
-    "date": 1789014060000,
-    "titleSl": "Iranska vojna se bo končala šele po novembrskih ameriških volitvah, pravi Trump"
    }
   ],
   "aljazeera": [
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "The ABC and the Guardian call on One Nation to reverse media ban amid censorship concerns",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/10/guardian-australia-abc-media-ban-one-nation-pauline-hanson-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/a4e4cc75282302e5e130deadc0440b0707e9d2b4/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=bb52cf5459312bf17129ef8426b8e626",
-    "date": 1789018678000,
-    "titleSl": "ABC in Guardian pozivata One Nation k odpravi prepovedi medijev zaradi pomislekov glede cenzure"
+    "title": "Deadly Philippines ferry fire triggers search for scores of missing",
+    "link": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
+    "image": "https://i.guim.co.uk/img/media/55b9cd889690d005daf9eee26ee8255560228fea/162_0_1462_1170/master/1462.jpg?width=140&quality=85&auto=format&fit=max&s=0ad57223454ac03e685012027880d1ad",
+    "date": 1789019654000,
+    "titleSl": "Smrtonosni požar na trajektu na Filipinih sproži iskanje številnih manjkajočih"
+   },
+   {
+    "title": "Thursday briefing: 68 facts about the Bayeux tapestry as it goes on display",
+    "link": "https://www.theguardian.com/world/2026/sep/10/thursday-briefing-68-facts-about-the-bayeux-tapestry-as-it-goes-on-display",
+    "image": "https://i.guim.co.uk/img/media/6630095a4c8605c0965d5051b3c9954ee9794d71/574_0_3997_3199/master/3997.jpg?width=140&quality=85&auto=format&fit=max&s=6a8d4f6a9bc438713ba1f00671fc2ba7",
+    "date": 1789019235000,
+    "titleSl": "Četrtkova predstavitev: 68 dejstev o tapiseriji Bayeux, ko je razstavljena"
    },
    {
     "title": "Australia politics live: Albanese faces more questions over $6m golf club grant; Chalmers says Coalition was ‘doing better under Sussan Ley’",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/bd120224c30108eb0ea2a36bf0489ef497a10759/1254_630_6062_4850/master/6062.jpg?width=140&quality=85&auto=format&fit=max&s=6437d9a219f5325b3f479d07c0b8f544",
-    "date": 1789018633000,
+    "date": 1789018845000,
     "titleSl": "Avstralska politika v živo: Albanese se sooča z več vprašanji glede nepovratnih sredstev za golf klub v višini 6 milijonov $; Chalmers pravi, da je koaliciji \"šlo bolje pod Sussan Ley\""
+   },
+   {
+    "title": "ABC and the Guardian call on One Nation to reverse media ban amid censorship concerns",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/10/guardian-australia-abc-media-ban-one-nation-pauline-hanson-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/a4e4cc75282302e5e130deadc0440b0707e9d2b4/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=bb52cf5459312bf17129ef8426b8e626",
+    "date": 1789018678000,
+    "titleSl": "ABC in Guardian pozivata One Nation k odpravi prepovedi medijev zaradi pomislekov glede cenzure"
    },
    {
     "title": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/291b01545b3eb128557aca96872c94a433d3678d/528_0_4194_3357/master/4194.jpg?width=140&quality=85&auto=format&fit=max&s=deae19b359defc6d74284e8b9d594014",
     "date": 1789018006000,
     "titleSl": "Ameriški državljani bodo prejeli 5.000 $, če bodo republikanci zmagali na vmesnih volitvah, trdi Trump v dolgem konvencijskem govoru"
-   },
-   {
-    "title": "Man charged with sexual abuse of children linked to former Adelaide youth detention centre",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/10/south-australian-man-charged-with-sexual-abuse-of-children-linked-to-former-adelaide-youth-detention-centre-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/d3860c0aff9d3c96ae4fb0b2821c19b41d0bc333/1013_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1224a395fcdc268d08f676128e0f4efa",
-    "date": 1789017294000,
-    "titleSl": "Moški, obtožen spolne zlorabe otrok, povezanih z nekdanjim mladinskim centrom v Adelaidi"
-   },
-   {
-    "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
-    "link": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
-    "image": "https://i.guim.co.uk/img/media/bbeff90b9d0fe8a0fe2dcce8132ba466aa52fee8/400_107_3369_2697/master/3369.jpg?width=140&quality=85&auto=format&fit=max&s=34aacc2fb93d920af041c1b062a8b772",
-    "date": 1789016926000,
-    "titleSl": "Severna Koreja je zgradila nov obrat za uran, da bi razširila jedrski arzenal, pravi agencija ZN"
    }
   ],
   "spiegel": [
@@ -455,6 +455,13 @@
   ],
   "krone": [
    {
+    "title": "Appell an US-Kongress - OpenAI fordert verpflichtende KI-Sicherheitsregeln",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDd1o5ZDZMUHJNMXZXSW9razFQNHVXeG9nSkI1cEpIM2lTWGRVS0NqWlB1c1NTcDIyTnRQRElOc0R3dw?oc=5",
+    "image": "",
+    "date": 1789019760000,
+    "titleSl": "Pritožba na US-Kongress - OpenAI fordert verpflichtende KI-Sicherheitsregeln"
+   },
+   {
     "title": "Museum im Nirgendwo - Was steckt hinter der „Villa Yeti“ in Osttirol?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RU3d1Vk9VYko3cG4tUTlWR0Y3NGY5WEtnRTlMZm9nMjNEdHc5aDZ4aldsYkphWXhaVEJ4RXUyZGswdw?oc=5",
     "image": "",
@@ -484,12 +491,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1UNW5rckdNR3JYOEFvVG9YeVVURWNjNkJJRk9JTW1ac0NMQmtiVDFteEplcldGTU53QVBZUnpySm53QQ?oc=5",
     "image": "",
     "date": 1789017600000
-   },
-   {
-    "title": "Über Filmbranche - Breitebner: „Lange noch keine Gleichberechtigung!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKdWFZYmNndDFoSnNXdF84aTAzTTR4dHRsNWhiNzlzVEZsVGtpSFI0YU9fQ2tGT1pCQk9wcUN6QWtqUQ?oc=5",
-    "image": "",
-    "date": 1789017360000
    }
   ],
   "rainews": [
