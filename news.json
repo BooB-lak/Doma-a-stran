@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T04:20:42.962Z",
+ "generatedAt": "2026-09-11T04:22:27.880Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Ob 8:46: trenutek, ko je svet postal nepovratno drugačen",
+    "link": "https://www.24ur.com/novice/tujina/ob-846-trenutek-ko-je-svet-postal-nepovratno-drugacen.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2025/3e066a9f94a19325e74b_63467024.jpg?v=c709&fop=fp:0.41:0.29",
+    "date": 1789100336000
+   },
+   {
     "title": "Za preprečevanje požarov uporabljajo koze",
     "link": "https://www.24ur.com/novice/tujina/za-gasenje-pozarov-uporabljajo-koze.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/62ab23ae983e3828182c_63645747.jpg?v=3ff6&fop=fp:0.55:0.40",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/motogp/karavana-motogp-se-seli-v-misano-lahko-bezzecchi-skoci-na-vrh-lestvice.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/a15be739fa1a120bf444_63629766.jpg?v=cb3a&fop=fp:0.49:0.48",
     "date": 1789099218000
-   },
-   {
-    "title": "Šeško začel, Šeško zabil: Slovenec s soigralci do visoke zmage proti Sabahu",
-    "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/ognjeni-evropski-krst-za-seska-na-kultnem-teatru-sanj.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/ec6f6d0e54dc212cd846_63645769.jpg?v=87f7&fop=fp:0.41:0.28",
-    "date": 1789076700000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789099656.jpg?resize=1920%2C1080&quality=80",
+    "date": 1789099664000,
+    "titleSl": "Trump se šali, da lahko republikanci \"goljufajo kot hudič\" na vmesnih volitvah"
+   },
+   {
     "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
     "link": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa376e2-1789097698.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa32efa-1789079290.jpg?resize=1920%2C1440",
     "date": 1789092290000,
     "titleSl": "Brazilsko vrhovno sodišče se predčasno zapre, ko narašča politični kaos"
-   },
-   {
-    "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789089856.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789089867000,
-    "titleSl": "Razkritje kipa Charlieja Kirka sproži kaos na Times Squareu"
    }
   ],
   "guardian": [
@@ -415,6 +415,18 @@
   ],
   "bild": [
    {
+    "title": "Experte ordnet ein - Kann eine App wirklich erkennen, ob ein Pilz essbar ist?",
+    "link": "https://www.bild.de/leben-wissen/wohnen-living/experte-erklaert-wie-sicher-ki-bei-der-bestimmung-von-pilzen-ist-6aa2a6ae181cb962d488ac3c",
+    "image": "https://images.bild.de/6aa2a6ae181cb962d488ac3c/dfaf54ffd95cd6855f65cf349d220ddf,b0aaaebf?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Vor teils leeren Rängen - Trump mit mächtig Eigenlob auf dem Parteitag",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/vor-teils-leeren-raengen-trump-mit-maechtig-eigenlob-auf-dem-parteitag-6aa37f44181cb962d488b4ff",
+    "image": "https://images.bild.de/6aa37f44181cb962d488b4ff/eeb2cbda0adf63656e9d195c2cff9267-landscape,7a591e6?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kommunalwahl am Sonntag - DFB-Pokalsieger will Bürgermeister werden",
     "link": "https://www.bild.de/sport/fussball/hannover-96-rechne-mir-chancen-aus-torwart-legende-will-buergermeister-werden-6aa2b81e240b302c8a840497",
     "image": "https://images.bild.de/6aa2b81e240b302c8a840497/733ea9fbd84bea3edd75afdc99100422,78dda4e9?w=1280",
@@ -438,60 +450,48 @@
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/tatort-hannover-schon-bald-erhaelt-lindholm-wieder-unterstuetzung-68da3c4488300c7476b9ad24",
     "image": "https://images.bild.de/68da3c4488300c7476b9ad24/59cef899931f5fbcba7c9bf9b9397867,9be1f3ea?w=1280",
     "date": 0
-   },
-   {
-    "title": "Vier Scorer in drei Ligaspielen - Dajaku macht bei Hansa den Unterschied",
-    "link": "https://www.bild.de/sport/fussball/hansa-rostock-unterschiedsspieler-dajaku-soll-fuer-den-aufstieg-sorgen-6aa291b04efdd38dc3e69ce2",
-    "image": "https://images.bild.de/6aa291b04efdd38dc3e69ce2/a78f06298a05014d3989e79a7da91e68,a6632719?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Dresdner steigt am Sachsenring wieder ein - Nach Crash und Brüchen! Paul-Comeback in der DTM",
-    "link": "https://www.bild.de/sport/mehr-sport/dresdner-steigt-am-sachsenring-ein-nach-crash-und-bruechen-paul-comeback-in-der-dtm-6aa2d225240b302c8a8406e3",
-    "image": "https://images.bild.de/6aa2d225240b302c8a8406e3/7219612069eff2b75841034a8925f81b,7e7579bb?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "„Mit ihm und Rangnick hat’s nicht so funktioniert“",
+    "title": "„Mit ihm und Rangnick hat’s nicht so funktioniert“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwdU96bTRndjZHS3Jhb0h3aU5lR0YyRzFfOWpTVmZhNWlRZy11ZU1kQmlwQWU3aE5fQVhBN2kxY1hydw?oc=5",
     "image": "",
     "date": 1789099620000,
-    "titleSl": "„Mit ihm und Rangnick hat's nicht so funktioniert“"
+    "titleSl": "„Mit ihm und Rangnick hat's nicht so funktioniert“ - krone.at"
    },
    {
-    "title": "Der ewige Stau V - Die Formel! So entsteht Salzburgs Verkehrskollaps",
+    "title": "Der ewige Stau V - Die Formel! So entsteht Salzburgs Verkehrskollaps - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PcjQzeUZFMVpISGtybmlSUFlrMDN1U0VXQ0hER0JBRmN0U2VxelhsV0lhYWxtRmtzWHZfeE9rVXp0UQ?oc=5",
     "image": "",
     "date": 1789099200000,
-    "titleSl": "Der ewige Stau V - Die Formel! Torej entsteht Salzburgs Verkehrskollaps"
+    "titleSl": "Der ewige Stau V - Die Formel! Torej entsteht Salzburgs Verkehrskollaps - krone.at"
    },
    {
-    "title": "5:0-Gala in der CL - Bayern: Nach dem Probealarm hielt die Rekord-Serie",
+    "title": "5:0-Gala in der CL - Bayern: Nach dem Probealarm hielt die Rekord-Serie - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tbDlYa0l0LUViZFRUbWtOTnZ3ZDAwZG4xS1VQckxKVmlVTzdwZkpHMTFyRkFSNUV4YmZxaHFIeFVGdw?oc=5",
     "image": "",
     "date": 1789098780000
    },
    {
-    "title": "Chaos nach Auftakt - CL: Trainer schmeißt hin – Präsident legt Veto ein",
+    "title": "Chaos nach Auftakt - CL: Trainer schmeißt hin – Präsident legt Veto ein - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52Mm1BQzNLUno0SzZJRTJQX3QwYm9UTGhmNVFqYzJIV2hQWkhUMTJlYkt1d0R0N3pKenJZSXRiem1xUQ?oc=5",
     "image": "",
     "date": 1789097640000,
-    "titleSl": "Chaos nach Auftakt - CL: Trener schmeißt hin – Präsident legt Veto ein"
+    "titleSl": "Chaos nach Auftakt - CL: Trener schmeißt hin – Präsident legt Veto ein - krone.at"
    },
    {
-    "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53YzZlcE51VnFWbEF0NDlIYWdHNzlDRDhGbXJUS3lzendiMkJHYmkxWWJxT0pTeUlvQ19kTm5ENFRGUjJBdWp1ODc0aTQ5ZGpIODBPM1hoYw?oc=5",
-    "image": "",
-    "date": 1789097060000
-   },
-   {
-    "title": "Duell der Topstars - US Open: Die zwei Finalistinnen stehen fest!",
+    "title": "Duell der Topstars - US Open: Die zwei Finalistinnen stehen fest! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BbDNLQzBNYVVrNVhCbmo3M0hZRVg5U093Y1FSd3Z0akpsZGNWNmZ4Y0syR1VPOVdkaXNWenA2Ums2Zw?oc=5",
     "image": "",
     "date": 1789096980000,
-    "titleSl": "Duell der Topstars - Odprto prvenstvo ZDA: Die zwei Finalistinnen stehen fest!"
+    "titleSl": "Duell der Topstars - Odprto prvenstvo ZDA: Die zwei Finalistinnen stehen fest! - krone.at"
+   },
+   {
+    "title": "Wirbel um heiklen Fall - Missbrauchsverdacht beschäftigt nun Gemeinderat - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9wQXdBaHJZdnMySmFNRHFBWHVPbWR2TDJCZ2U0ZndidWVTSUxDOEd0bkp6czhQSGJHRVZqQTBhRmRsdw?oc=5",
+    "image": "",
+    "date": 1789095600000
    }
   ],
   "rainews": [
