@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T16:56:27.397Z",
+ "generatedAt": "2026-09-11T16:58:26.248Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "This Is Really Bad",
+    "link": "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html",
+    "image": "",
+    "date": 1789145625000,
+    "titleSl": "To je res slabo"
+   },
+   {
     "title": "AARP Projects 2027 Social Security COLA at 3.6%",
     "link": "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html",
     "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11biz-inflation-COLA-1-fcqp/11biz-inflation-COLA-1-fcqp-mediumSquareAt3X.jpg",
@@ -232,16 +239,16 @@
     "image": "https://static01.nyt.com/images/2026/09/11/lens/11DC-intel-911/11DC-intel-911-mediumSquareAt3X.jpg",
     "date": 1789142539000,
     "titleSl": "CIA objavila obveščevalne podatke, poslane Clintonu in Bushu o Al Kaidi pred napadi 11. septembra"
-   },
-   {
-    "title": "The Incredible Art of Being Jeff Koons",
-    "link": "https://www.nytimes.com/2026/09/11/t-magazine/jeff-koons-sculpture-art.html",
-    "image": "",
-    "date": 1789141907000,
-    "titleSl": "Neverjetna umetnost biti Jeff Koons"
    }
   ],
   "bbc": [
+   {
+    "title": "Why did MPs reject the assisted dying bill?",
+    "link": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg",
+    "date": 1789145387000,
+    "titleSl": "Zakaj so poslanci zavrnili predlog zakona o pomoči pri umiranju?"
+   },
    {
     "title": "Police to crack down on face coverings at protests",
     "link": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png",
     "date": 1789142459000,
     "titleSl": "Norveška princesa Astrid umre dva dni po pogrebu brata kralja Haralda"
-   },
-   {
-    "title": "MPs vote against fresh attempt to legalise assisted dying",
-    "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg",
-    "date": 1789142086000,
-    "titleSl": "Poslanci glasujejo proti novemu poskusu legalizacije asistirane smrti"
    }
   ],
   "aljazeera": [
@@ -413,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "Ihr Foto ging um die Welt - Rachel Uchitel im Liebesglück",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/rachel-im-liebesglueck-der-engel-aus-der-asche-lebt-jetzt-auf-wolke-7-6a9e48f1f22008170fcc8212",
+    "image": "https://images.bild.de/6a9e48f1f22008170fcc8212/917669dc8d76e29e95a400fbc54b4be0,f24dc35d?w=1280",
+    "date": 0
+   },
+   {
     "title": "Wissenschaftsformat der ARD - WDR kennt Unterschied zwischen Rechts und Hitler nicht",
     "link": "https://www.bild.de/politik/quarks-nach-kommentar-in-der-kritik-wdr-raeumt-fehler-ein-6aa41ade181cb962d488c276",
     "image": "https://images.bild.de/6aa41ade181cb962d488c276/945219b2f9e2f6bf33099d29824e019d,7ce59bef?w=1280",
@@ -441,21 +447,9 @@
     "link": "https://www.bild.de/sport/mehr-sport/king-of-the-hill-trailer-race-amerika-sucht-den-einpark-koenig-6aa41eaf23332697d596d060",
     "image": "https://images.bild.de/6aa41eaf23332697d596d060/394644a403ba108cdc0b4d4689eb82c0,e9fc3bea?w=1280",
     "date": 0
-   },
-   {
-    "title": "Nächste Öl-Route bedroht - Wird tanken jetzt noch teurer?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/naechste-oelroute-bedroht-wird-tanken-jetzt-noch-teurer-6aa412c7926eb8aa921d7967",
-    "image": "https://images.bild.de/6aa412c7926eb8aa921d7967/a09f8fe65c57b59044dee98ef8ab6e90,eb3bb8e3?w=1280",
-    "date": 0
    }
   ],
   "krone": [
-   {
-    "title": "Besuch in München - Gewinn entfachte die alte Liebe zum FC Bayern neu",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hWWNhQ1gxaEE1YWN4UGE2b05oX1QzRjBrN00wbmRwX2JYdUl3UkdDdGRoNHRGTmNfcXVyeDdoQTh4UQ?oc=5",
-    "image": "",
-    "date": 1789144200000
-   },
    {
     "title": "Umfassende Sanierung - Lärchbergtunnel ab Sonntag komplett gesperrt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBcVZHWFFDU1hkcldlVmllRXNMZWE5Ri1ZY3dSZzduLTJyQzdlWHV4Qkp1bzJSSEw5RnhLZU1hSWpZdw?oc=5",
@@ -465,6 +459,12 @@
    {
     "title": "„Für Altach gibt es keine leichten Gegner!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qWGZjMlVzV2Z0dTBWUmpPV0xWZXNJN3VIeFFuQ1ZLU01rcTdYUkY3N0hObFNOTVBWbTZGZXd2VHUwZw?oc=5",
+    "image": "",
+    "date": 1789144200000
+   },
+   {
+    "title": "Besuch in München - Gewinn entfachte die alte Liebe zum FC Bayern neu",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hWWNhQ1gxaEE1YWN4UGE2b05oX1QzRjBrN00wbmRwX2JYdUl3UkdDdGRoNHRGTmNfcXVyeDdoQTh4UQ?oc=5",
     "image": "",
     "date": 1789144200000
    },
