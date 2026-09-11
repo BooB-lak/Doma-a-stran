@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T22:18:30.302Z",
+ "generatedAt": "2026-09-11T22:20:45.517Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Donald Trump Is Not Going Anywhere",
+    "link": "https://www.nytimes.com/2026/09/11/opinion/trump-convention-republicans-dallas.html",
+    "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11cottle-blpt/11cottle-blpt-mediumSquareAt3X.jpg",
+    "date": 1789165042000,
+    "titleSl": "Donald Trump ne gre nikamor"
+   },
+   {
     "title": "Attacks on Saudi Pipeline Rattle Energy Markets",
     "link": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
     "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10biz-diesel-prices1-lpgc/10biz-diesel-prices1-lpgc-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11met-ceremony-01-tgpj/11met-ceremony-01-tgpj-mediumSquareAt3X.jpg",
     "date": 1789162355000,
     "titleSl": "New York že petindvajsetič obeležuje pretresljivo izgubo 11. septembra"
-   },
-   {
-    "title": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
-    "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
-    "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11dc-factcheck-kmzp/11dc-factcheck-kmzp-mediumSquareAt3X.jpg",
-    "date": 1789162095000,
-    "titleSl": "Preverjanje dejstev o Trumpovih napadih na demokratske kandidate za senat"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
-    "link": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/3-1787563480-copy-1787745818.jpg?resize=1920%2C1280&quality=80",
-    "date": 1789163614000,
-    "titleSl": "Izraelska rušenja ogrožajo šole in domove v Masafer Yatti"
-   },
-   {
     "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
     "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa466375933-1789158967.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa2d13a6eeb2-1789055290.jpg?resize=1920%2C1440",
     "date": 1789160391000,
     "titleSl": "Ameriški zakonodajalci potiskajo zakone o varnosti umetne inteligence sredi opozoril o izumrtju ljudi"
+   },
+   {
+    "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+    "link": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/2024-11-20T100129Z_435853067_RC2R3Z9BXYCO_RTRMADP_3_OPENAI-TEACHERS-1734127670.jpg?resize=1920%2C1440",
+    "date": 1789159325000,
+    "titleSl": "Ameriški odvetnik navaja lažne priče v primeru umora, krivi ChatGPT"
    }
   ],
   "guardian": [
@@ -414,6 +414,12 @@
   ],
   "bild": [
    {
+    "title": "Zwei Rekorde für unsere Nummer 1 - Zverev im Finale der US Open!",
+    "link": "https://www.bild.de/sport/mehr-sport/zwei-rekorde-fuer-unsere-nummer-1-zverev-im-finale-der-us-open-6aa44d2b240b302c8a841d0d",
+    "image": "https://images.bild.de/6aa44d2b240b302c8a841d0d/a9c4ddabbc931eb3feda2328072760cd,cebb897c?w=1280",
+    "date": 0
+   },
+   {
     "title": "Wichtige Ölpipeline stillgelegt - Satellitenbilder zeigen Rauchwolken",
     "link": "https://www.bild.de/news/nach-huthi-angriff-satellitenbilder-zeigen-rauchwolken-an-oel-pipeline-6aa460c9181cb962d488c673",
     "image": "https://images.bild.de/6aa460c9181cb962d488c673/d57f1ee58951cb0ec3d7aa3934e78ad2,12b33474?w=1280",
@@ -441,12 +447,6 @@
     "title": "Spiel 9 Minuten unterbrochen - Schiri-K.o. bei Schalke-Sieg",
     "link": "https://www.bild.de/sport/fussball/union-schalke-1-3-spiel-9-minuten-unterbrochen-wegen-schiri-k-o-6aa445c0181cb962d488c500",
     "image": "https://images.bild.de/6aa445c0181cb962d488c500/da643b82d84d284d030c70e292e2318f-landscape,b1ad3f28?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nächste Öl-Route bedroht - Wird Tanken jetzt noch teurer?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/naechste-oelroute-bedroht-wird-tanken-jetzt-noch-teurer-6aa412c7926eb8aa921d7967",
-    "image": "https://images.bild.de/6aa412c7926eb8aa921d7967/b64925ecfd864c4cc4a0ab00b1fa981d,582c86c0?w=1280",
     "date": 0
    }
   ],
