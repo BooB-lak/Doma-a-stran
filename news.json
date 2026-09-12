@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12T13:24:27.749Z",
+ "generatedAt": "2026-09-12T13:26:25.337Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,13 @@
     "title": "Marc Marquez je prepričljivo dobil sprint dirko.",
     "link": "https://www.24ur.com/sport/motogp/bo-bezzecchi-formo-iz-kvalifikacij-prenesel-tudi-na-sprint-dirko.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/ed6f349b0770b4c7ca8d_63609906.jpg?v=4518&fop=fp:0.47:0.53",
-    "date": 1789219316000
+    "date": 1789219456000
+   },
+   {
+    "title": "Žena Brucea Willisa o njegovem zdravju: Smo v neprestanem stanju žalovanja",
+    "link": "https://www.24ur.com/popin/tuja-scena/zena-brucea-willisa-o-njegovem-zdravju-smo-v-neprestanem-stanju-zalovanja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/37eb58a5357b03167105_63646118.jpg?v=d2c8&fop=fp:0.60:0.34",
+    "date": 1789219282000
    },
    {
     "title": "Še 80 kilometrov: Glavnina je zopet skupaj, Roglič in Mas še vedno skupaj",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/v-iztirjenju-vlaka-v-franciji-vec-kot-40-poskodovanih-policija-sumi-na-sabotazo.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/670f7bd4b4734d4f16da_63646734.jpg?v=5fcc&fop=fp:0.50:0.47",
     "date": 1789217245000
-   },
-   {
-    "title": "'Ko je človečnost na preizkušnji, potrebujemo pogum, da ostanemo ljudje'",
-    "link": "https://www.24ur.com/novice/slovenija/ob-prazniku-prikljucitve-primorske-predsednica-izpostavila-pomen-miru-solidarnosti-in-enakosti.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/a4a526acdec849a5d131_63646709.jpg?v=8545&fop=fp:0.57:0.18",
-    "date": 1789215724000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
-    "link": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa547eedc57-1789216750.jpg?resize=1920%2C1440",
-    "date": 1789218365000,
-    "titleSl": "\"Božanska zmaga\": Iran praznuje zavzetje jemenske obale Rdečega morja s strani Hutijev"
-   },
-   {
     "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-13.15.00-1789215469.png?resize=1200%2C675",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A2268-copy-3-1789209822.jpg?resize=1920%2C1440",
     "date": 1789213408000,
     "titleSl": "Ostajajo brez vsega, ljudje v Gazi so prisiljeni najemati generatorje na uro"
+   },
+   {
+    "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-12.27.02-1789212556.png?resize=1200%2C675",
+    "date": 1789212722000,
+    "titleSl": "Hutiji praznujejo prevzem nadzora nad jemensko obalo Rdečega morja"
    }
   ],
   "guardian": [
@@ -414,11 +414,23 @@
   ],
   "bild": [
    {
+    "title": "Ölpreis-Schock - Ruinieren diese Huthis jetzt unsere Weltwirtschaft?",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/oelpreis-schock-ruinieren-diese-huthis-jetzt-unsere-weltwirtschaft-6aa50b28240b302c8a8422df",
+    "image": "https://images.bild.de/6aa50b28240b302c8a8422df/e5f87ffcc461a53b51225a7eba5956bf,937ed6df?w=1280",
+    "date": 0
+   },
+   {
     "title": "In Berlin - Judenhasser verletzen Frau (43) mit Glasflasche",
     "link": "https://www.bild.de/news/in-berlin-judenhasser-verletzen-frau-43-mit-glasflasche-6aa5509bcdb463e19b9345c1",
-    "image": "https://images.bild.de/6aa5509bcdb463e19b9345c1/abcb2257d431bbf7a2d1eac3f9001c2d,10a8885?w=1280",
+    "image": "https://images.bild.de/6aa5509bcdb463e19b9345c1/f403306600a80ab8f0e1eb63041ffce4,ba789f3f?w=1280",
     "date": 0,
     "titleSl": "V Berlinu - Judenhasser verletzen Frau (43) mit Glasflasche"
+   },
+   {
+    "title": "90 Jahre altes Gemälde - Ist dieses Bild der Beweis für Zeitreisen?",
+    "link": "https://www.bild.de/unterhaltung/90-jahre-altes-gemaelde-ist-dieses-bild-der-beweis-fuer-zeitreisen-6aa2ab5de63dfef5db084742",
+    "image": "https://images.bild.de/6aa2ab5de63dfef5db084742/66854625b2705faa21571c2fce0a085f,c33dfb70?w=1280",
+    "date": 0
    },
    {
     "title": "Nach Elversberg-Einspruch - Kompany reagiert auf Sperren-Wende bei Wagner",
@@ -437,19 +449,6 @@
     "link": "https://www.bild.de/sport/fussball/die-2-bundesliga-am-samstag-lautern-geht-in-magdeburg-baden-6aa52943cdb463e19b9343da",
     "image": "https://images.bild.de/6aa52943cdb463e19b9343da/5744c655d299129b4ec67d50e715c6a8,86cfa99b?w=1280",
     "date": 0
-   },
-   {
-    "title": "Der Spätsommer kämpft gegen das Herbstgrau - Bis 28 Grad in Deutschland",
-    "link": "https://www.bild.de/news/wetter/wetter-am-wochenende-der-spaetsommer-kaempft-gegen-das-herbstgrau-6aa3c6f856f343d9f4dd187e",
-    "image": "https://images.bild.de/6aa3c6f856f343d9f4dd187e/4cbf49574e905faee5f96a87d5165aa7,a5a8d920?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nordirland-Konflikt - Donald Trump fordert Wiedervereinigung Irlands",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/amerikanische-praesident-mischt-sich-in-konflikt-in-nordirland-ein-donald-trump-fordert-wiedervereinigung-irlands-6aa54ad5240b302c8a84263f",
-    "image": "https://images.bild.de/6aa54ad5240b302c8a84263f/6484848b37af94a4d2bff994b4e6a9c1,a29cfd81?w=1280",
-    "date": 0,
-    "titleSl": "Nordirland-Konflikt - Donald Trump fordert Wiedervereinigung Irska"
    }
   ],
   "krone": [
