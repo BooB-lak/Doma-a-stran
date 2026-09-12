@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12T11:56:24.662Z",
+ "generatedAt": "2026-09-12T11:58:25.797Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Putin žuga Evropi: \"To pomeni vojno z Rusijo\"",
+    "link": "https://www.zurnal24.si/svet/putin-zuga-evropi-to-pomeni-vojno-z-rusijo-465036",
+    "image": "https://www.zurnal24.si/media/img/24/bc/05a3007d50e01c9821d6.jpeg",
+    "date": 1789214220000
+   },
+   {
     "title": "Bezzecchi na progi v Misanu spisal zgodovino",
     "link": "https://www.zurnal24.si/sport/moto-sporti/bezzecchi-na-progi-v-misanu-spisal-zgodovino-465035",
     "image": "https://www.zurnal24.si/media/img/16/45/db63fd7c661b1720ea08.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/po-soncnem-vikendu-prihaja-preobrat-znova-mozne-nevihte-in-nalivi-465031",
     "image": "https://www.zurnal24.si/media/img/85/4b/f5f2e414a034a8ee7293.jpeg",
     "date": 1789207140000
-   },
-   {
-    "title": "Skrajšali bi poletne počitnice",
-    "link": "https://www.zurnal24.si/svet/skrajsali-bi-poletne-pocitnice-465030",
-    "image": "https://www.zurnal24.si/media/img/42/52/fb092e5834431f681b36.jpeg",
-    "date": 1789203300000
    }
   ],
   "reuters": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+    "link": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A2268-copy-3-1789209822.jpg?resize=1920%2C1440",
+    "date": 1789213408000,
+    "titleSl": "Ostajajo brez vsega, ljudje v Gazi so prisiljeni najemati generatorje na uro"
+   },
+   {
     "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-12.27.02-1789212556.png?resize=1200%2C675",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789210045.jpg?resize=1920%2C1080&quality=80",
     "date": 1789210267000,
     "titleSl": "Skrajno desničarski protestniki na obletnico 11. septembra protestirajo proti islamu"
-   },
-   {
-    "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
-    "link": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-31T121601Z_429476533_UP1EM7V0Y2O5V_RTRMADP_3_SOCCER-FRIENDLY-MCI-INT-PREVIEW-1789207957.jpg?resize=1920%2C1440",
-    "date": 1789209430000,
-    "titleSl": "Dva moška prejmeta zaporno kazen zaradi nasilnega vloma v Donnarummo v Man Cityju"
    }
   ],
   "guardian": [
@@ -414,10 +414,11 @@
   ],
   "bild": [
    {
-    "title": "Kinofilm über Holocaust-Überlebenden - Auschwitz war immer in seinem Kopf",
-    "link": "https://www.bild.de/leben-wissen/menschen-schicksale/kino-start-bewegender-film-ueber-auschwitz-ueberlebenden-6aa3c224240b302c8a841146",
-    "image": "https://images.bild.de/6aa3c224240b302c8a841146/d9adc410f88160b8ac59495c379c8e7d,4bfb687c?w=1280",
-    "date": 0
+    "title": "Dramatische Szenen in Hamburg - Frau suchte Zuflucht im Bus, dann fielen Schüsse",
+    "link": "https://www.bild.de/regional/hamburg/schuesse-auf-linienbus-in-hamburg-6aa4d71b240b302c8a84207b",
+    "image": "https://images.bild.de/6aa4d71b240b302c8a84207b/79adcb1c55e74048b2b77006e29ada7c,486119c0?w=1280",
+    "date": 0,
+    "titleSl": "Dramatische Szenen v Hamburgu - Frau suchte Zuflucht im Bus, dann fielen Schüsse"
    },
    {
     "title": "Union-Partie 9 Minuten unterbrochen - So geht es dem K.o.-Schiri vom Schalke-Spiel",
@@ -426,29 +427,28 @@
     "date": 0
    },
    {
+    "title": "Ermittler enttarnen zwei Verdächtige - Das Terror-Duo von Leipzig",
+    "link": "https://www.bild.de/politik/inland/neue-ermittlungsdetails-zur-leipzig-bombe-russland-agenten-verbauten-sprengstoff-in-gemuesedose-6aa443808348744ba66f29b3",
+    "image": "https://images.bild.de/6aa443808348744ba66f29b3/3b714323a398f5e932511e43aa320901,ef5a4230?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Im Stadion wiederbelebt ++ Stille in Arena - Fan in Braunschweig in Lebensgefahr",
+    "link": "https://www.bild.de/sport/fussball/2-bundesliga-fan-in-braunschweig-in-lebensgefahr-6aa53b0e181cb962d488ce41",
+    "image": "https://images.bild.de/6aa53b0e181cb962d488ce41/7a70a7a1484d13d2bfc0bccc7177bfa2,f4d6c4be?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Kinofilm über Holocaust-Überlebenden - Auschwitz war immer in seinem Kopf",
+    "link": "https://www.bild.de/leben-wissen/menschen-schicksale/kino-start-bewegender-film-ueber-auschwitz-ueberlebenden-6aa3c224240b302c8a841146",
+    "image": "https://images.bild.de/6aa3c224240b302c8a841146/d9adc410f88160b8ac59495c379c8e7d,4bfb687c?w=1280",
+    "date": 0
+   },
+   {
     "title": "CDU-Mann fordert ihren Rücktritt - „Was soll das?“ Klingbeil wütet nach Angriff auf Bas",
     "link": "https://www.bild.de/politik/inland/was-soll-das-klingbeil-wuetet-nach-angriff-auf-bas-6aa4ffd1240b302c8a842261",
     "image": "https://images.bild.de/6aa4ffd1240b302c8a842261/22b8595b5ca050ca8f78e7b6ad9e51b4,d3ec9ba0?w=1280",
     "date": 0
-   },
-   {
-    "title": "Mit Heli in Klinik geflogen - Schwerer Reitunfall bei Reality-Star Paulina",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/schwerer-reitunfall-reality-star-paulina-ljubas-mit-heli-in-klinik-6aa51ede181cb962d488cca3",
-    "image": "https://images.bild.de/6aa51ede181cb962d488cca3/37f3c58da2083d89d4bca93210adbf25,9213b11f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Ganz süß“ ++ „Toll!“ - Plötzlich reden Kaulitz-Brüder über Basketball-Heldinnen",
-    "link": "https://www.bild.de/sport/mehr-sport/ploetzlich-sprechen-kaulitz-brueder-ueber-unsere-basketballerinnen-6aa523d9cdb463e19b93437b",
-    "image": "https://images.bild.de/6aa523d9cdb463e19b93437b/8e494d0c19d3e65a60f7106e9ffe24b6,481434ce?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Wir führen einen Existenzkampf“ - Nächstes Bundesland will Wahlkampf ohne Merz",
-    "link": "https://www.bild.de/politik/inland/bundespolitik-steht-in-der-kritik-naechstes-bundesland-will-wahlkampf-ohne-merz-6aa4ff67181cb962d488cae2",
-    "image": "https://images.bild.de/6aa4ff67181cb962d488cae2/28f217595626ced435fd888c59927151,c4ed3f0c?w=1280",
-    "date": 0,
-    "titleSl": "„Wir führen einen Existenzkampf“ - Nächstes Bundesland bo Wahlkampf ohne Merz"
    }
   ],
   "krone": [
