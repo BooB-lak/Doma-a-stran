@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T14:12:29.910Z",
+ "generatedAt": "2026-09-14T14:14:29.883Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Nova podražitev bencina, dizla in kurilnega olja",
+    "link": "https://www.rtvslo.si/gospodarstvo/nova-podrazitev-bencina-dizla-in-kurilnega-olja/793730",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/03/16/67027297.jpg",
+    "date": 1789395196000
+   },
+   {
     "title": "Voditelji Škotske, Walesa in Severne Irske: Čas Westminstra se izteka",
     "link": "https://www.rtvslo.si/svet/evropa/voditelji-skotske-walesa-in-severne-irske-cas-westminstra-se-izteka/793729",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104327.jpg",
@@ -107,17 +113,11 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/znani/raper-lil-durk-oproscen-obtozb-o-narocilu-umora/793713",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104308.jpg",
     "date": 1789390118000
-   },
-   {
-    "title": "Zimzeleni trio: Valverde, Thomas in Roglič",
-    "link": "https://www.rtvslo.si/sport/sportni-sos/zimzeleni-trio-valverde-thomas-in-roglic/793598",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/13/67103747.jpg",
-    "date": 1789389173000
    }
   ],
   "zurnal": [
    {
-    "title": "Novi rekordi na črpalkah, dizel, bencin in kurilno olje še dražji",
+    "title": "Nov rekord na črpalkah, dizel, bencin in kurilno olje še dražji",
     "link": "https://www.zurnal24.si/slovenija/cena-bencina-dizel-kurilno-olje-rekord-podrazitev-465117",
     "image": "https://www.zurnal24.si/media/img/56/a7/9a5b78d4c18e5e6bb616.jpeg",
     "date": 1789394700000
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
+    "link": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
+    "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14tech-stocks-jptg/14tech-stocks-jptg-mediumSquareAt3X.jpg",
+    "date": 1789394988000,
+    "titleSl": "Tehnološke delnice se sesuvajo, potem ko voditelji na področju umetne inteligence pozivajo industrijo k upočasnitvi"
+   },
+   {
     "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
     "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
     "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14Ukraine-Europe-mpcz/14Ukraine-Europe-mpcz-mediumSquareAt3X.jpg",
@@ -218,13 +225,6 @@
     "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-russia-digital-01-vchw/14int-russia-digital-01-vchw-mediumSquareAt3X.jpg",
     "date": 1789394265000,
     "titleSl": "Nova Moskva: digitalna utopija, ki se podvaja kot nadzorna past"
-   },
-   {
-    "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
-    "link": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
-    "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14tech-stocks-jptg/14tech-stocks-jptg-mediumSquareAt3X.jpg",
-    "date": 1789393129000,
-    "titleSl": "Tehnološke delnice se sesuvajo, potem ko voditelji na področju umetne inteligence pozivajo industrijo k upočasnitvi"
    },
    {
     "title": "What Happens on the Subway Doesn’t Stay on the Subway",
@@ -414,6 +414,30 @@
   ],
   "bild": [
    {
+    "title": "Darum ist der Spritpreis nicht überall gleich: - „Mineralöl-Konzerne schaffen Preisblasen“",
+    "link": "https://www.bild.de/politik/darum-ist-der-spritpreis-nicht-ueberall-gleich-mineraloel-konzerne-schaffen-preisblasen-6aa7c92077bd109fcdd00982",
+    "image": "https://images.bild.de/6aa7c92077bd109fcdd00982/2c9f470cbe3c94393b84029f4a637601,d91f6508?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Es wird nicht besser - Nächste schlechte Abwehr-Nachricht beim HSV",
+    "link": "https://www.bild.de/sport/fussball/hsv-die-naechste-schlechte-abwehr-nachricht-6aa7cb3277bd109fcdd009c3",
+    "image": "https://images.bild.de/6aa7cb3277bd109fcdd009c3/260e6819efbc1422cfc7d4358bfc7469,ae1ce98f?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Sensible Daten preisgegeben - Revolut verrät sensible Daten nach Betrug",
+    "link": "https://www.bild.de/leben-wissen/digital/revolut-faellt-auf-fake-mails-rein-und-gibt-sensible-daten-preis-6a44bb432847437fc50efd44",
+    "image": "https://images.bild.de/6a44bb432847437fc50efd44/fb4ab58f24a79c285d4b00b259a1c9bf,c20e065e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nächster Dämpfer für Ex-Kapitän - Jetzt ist sogar VfB-Talent Spalt vor Karazor",
+    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-naechster-daempfer-jetzt-ist-sogar-vfb-talent-yanik-spalt-vor-atakan-karazor-6aa7a129181cb962d488e930",
+    "image": "https://images.bild.de/6aa7a129181cb962d488e930/8f86c68cdcba4e4e624e2e700c9dfe10,b9dde017?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nach Angriffen in Saudi-Arabien - Wichtige Öl-Pipeline fällt mehrere Wochen aus",
     "link": "https://www.bild.de/politik/ausland-und-internationales/nach-angriffen-in-saudi-arabien-oel-pipeline-fuer-wochen-ausser-betrieb-6aa7ead61e576e6f7a14cf03",
     "image": "https://images.bild.de/6aa7ead61e576e6f7a14cf03/7d3c25cfb2e39b23e96b2da4bfe6f23b,8a47f6ef?w=1280",
@@ -424,30 +448,6 @@
     "title": "Harald Schmidt zu Sachsen-Anhalt - „Würde mir gerne Sorgen machen, aber mache mir keine“",
     "link": "https://www.bild.de/politik/inland/harald-schmidt-zum-afd-sieg-ich-mache-mir-keine-sorgen-6aa7df9e77bd109fcdd00ba1",
     "image": "https://images.bild.de/6aa7df9e77bd109fcdd00ba1/d7d69a04e34f87b156a60766966778a3,c8dde8c2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Kloses neuer Abwehr-Chef - Nürnberg hat jetzt einen flotten Otto",
-    "link": "https://www.bild.de/sport/fussball/fcn-nuernbergs-neuer-abwehr-chef-klose-hat-jetzt-einen-flotten-otto-6aa66aef181cb962d488dac1",
-    "image": "https://images.bild.de/6aa66aef181cb962d488dac1/355ae388df8375432b81c4d21b52aa6b,37890df9?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Spinnenschwanzviper - Diese Schlange lockt Beute mit kuriosem Trick an",
-    "link": "https://www.bild.de/leben-wissen/haustiere/ist-das-eine-schlange-oder-eine-spinne-diese-viper-taeuscht-ihre-beute-6aa7f7b119aba9f8407b445c",
-    "image": "https://images.bild.de/6aa7f7b119aba9f8407b445c/a5579ded43d8816f98f45dc075022a98-landscape,ee11ee4f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Schalkes ALLES-Könner - Traum-Kapitän Karaman!",
-    "link": "https://www.bild.de/sport/fussball/alles-koenner-bei-schalke-04-traum-kapitaen-kenan-karaman-6aa6e358240b302c8a843855",
-    "image": "https://images.bild.de/6aa6e358240b302c8a843855/50ee6e79ad4c41853309b598aea236ae,1dec7ac8?w=1280",
-    "date": 0
-   },
-   {
-    "title": "2 Tore nach Defensiv-Tadel - Uzun schlägt gegen seine Kritiker zurück",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-uzun-schlaegt-gegen-seine-kritiker-zurueck-6aa7ddd177bd109fcdd00b79",
-    "image": "https://images.bild.de/6aa7ddd177bd109fcdd00b79/82a9b455e42dbfc5f7149e4a3e067928,6b9fbfc?w=1280",
     "date": 0
    }
   ],
@@ -536,7 +536,7 @@
     "title": "EN DIRECT, présidentielle 2027 : suivez les derniers développements de la campagne",
     "link": "https://www.lemonde.fr/politique/live/2026/09/14/en-direct-presidentielle-2027-suivez-les-derniers-developpements-de-la-campagne_6770586_823448.html",
     "image": "https://img.lemde.fr/2026/09/12/159/0/1920/960/644/322/60/0/3c1765c_upload-1-6k500sidoaub-mmagnin-live-campus-jeunes-lr-9.jpg",
-    "date": 1789394563000
+    "date": 1789394560000
    },
    {
     "title": "En Pologne, la droite nationaliste au cœur d’un scandale lié à une plateforme de cryptomonnaies",
