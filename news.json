@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T08:02:37.710Z",
+ "generatedAt": "2026-09-14T08:04:28.267Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Enajst let prejemala kemoterapijo zaradi raka, ki ga ni imela",
+    "link": "https://www.24ur.com/novice/tujina/enajst-let-je-prejemala-kemoterapijo-zaradi-raka-ki-ga-ni-imela.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/83da8e8f5eb1478c0d55_63647305.jpg?v=88a8&fop=fp:0.40:0.36",
+    "date": 1789372766000
+   },
+   {
     "title": "'Ključ do nove zmage bosta pravi pristop in zbranost'",
     "link": "https://www.24ur.com/sport/odbojka/kljuc-do-nove-zmage-bosta-pravi-pristop-in-zbranost.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/b4869f5ba11aa475d0ca_63647256.jpg?v=a4a3&fop=fp:0.46:0.22",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/domaca-scena/ladu-bizovicarju-se-bodo-na-odru-pridruzili-znani-slovenski-fotri.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/6d2e318d396eb4b1ed10_63642320.png?v=432c&fop=fp:0.47:0.32",
     "date": 1789365691000
-   },
-   {
-    "title": "Dežuje, vode pa je vse manj: kam izginjajo evropske zaloge?",
-    "link": "https://www.24ur.com/novice/tujina/dezuje-vode-pa-je-vse-manj-kam-izginjajo-evropske-zaloge.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/7d5b3fbf4d0f742ec2d2_63626851.jpg?v=b471&fop=fp:0.50:0.47",
-    "date": 1789365248000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Why Bangladesh is struggling against measles epidemic despite 20m vaccines",
-    "link": "https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26252148108353-1789369463.jpg?resize=1920%2C1440",
-    "date": 1789372493000,
-    "titleSl": "Zakaj se Bangladeš kljub 20 milijonom cepiv bori proti epidemiji ošpic"
-   },
-   {
     "title": "US Kennedy Center faces bankruptcy, Washington Post reports",
     "link": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-29T193733Z_479264515_RC2J8NAE6QO0_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-1789366365.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789347997.jpg?resize=1711%2C1080&quality=80",
     "date": 1789361425000,
     "titleSl": "Po vsej Siriji izbruhnili protesti zaradi zvišanja cen goriva"
+   },
+   {
+    "title": "Residents help battle forest fires threatening homes in Ecuadorian capital",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/13-09-sv-residents-battle-wildfire-in-quito-ecuador?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789359984.jpg?resize=1630%2C1080&quality=80",
+    "date": 1789360080000,
+    "titleSl": "Prebivalci pomagajo v boju proti gozdnim požarom, ki ogrožajo domove v ekvadorski prestolnici"
    }
   ],
   "guardian": [
@@ -452,7 +452,45 @@
     "titleSl": "Nach 68 Jahren - DDR-ICE navijalo!"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "„Krone“-Gastkommentar - Angezählt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1scmdZLTE0SWtqU1duX3NOcVNDTl9mN2Z2cmFRN2IzUEZfN2hZX0ZCMVFUdGpiOXNJOXllMzhnSlhFZw?oc=5",
+    "image": "",
+    "date": 1789372800000
+   },
+   {
+    "title": "Lenker verletzt - Pinzgauer Traktor stürzte in den Graben ab",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9YZGItNzE5dkM4anBoNHY2Rkl5N3ZMTnRaal9UTEc1T2IxOWh1cmRpTVFkX2ZhZXpPSTYydXJkMExNQQ?oc=5",
+    "image": "",
+    "date": 1789372500000
+   },
+   {
+    "title": "Raffiniertes Oberteil - Brad Pitts schöne Freundin Ines sorgt für Aufsehen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aaE1oa1gta3dLSnh5U2tQRlRTZzRfTlNYdWhfSmxPNmdLY2E4RXYwQ0hmQ2I4SkQyejBhOEZqWHFhUQ?oc=5",
+    "image": "",
+    "date": 1789371660000
+   },
+   {
+    "title": "„War nicht polemisch“ - Nach AfD/Trump-Posting: Meta sperrt Bürgermeister",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6cEZCTWMyY0xZNU5zaTY3SVFnVi1Rd1lJSms3aXF4NVh6dTY3MDQxTHNvSEdGSVNjYW5jVE1pd0tNZw?oc=5",
+    "image": "",
+    "date": 1789371316000
+   },
+   {
+    "title": "In Rechtskurve - Wilde Kollision: Zwei Motorradlenker stürzten",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LNVFVTkdRWC1NdkNkUWFNV2ZIakNjWGFjUGFaaldxcFpoanRPYW9Ba29OWl9MX2VvME52aGdYTGNWdw?oc=5",
+    "image": "",
+    "date": 1789371300000,
+    "titleSl": "V Rechtskurve - Wilde Kollision: Zwei Motorradlenker stürzten"
+   },
+   {
+    "title": "Endspiel für Merz? - Szenarien für einen Kanzler-Wechsel in Deutschland",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkYVlGLVhFYy1EbXYzZ09hMUpFSi1QMHZqTlo2R1I5anRzcDRibC16bG9wMTlWeFFSbGtaQVFnSkFaUQ?oc=5",
+    "image": "",
+    "date": 1789371240000
+   }
+  ],
   "rainews": [
    {
     "title": "Etna, allerta rossa: nube vulcanica di 4 km. Arrivi sospesi fino alle 16 all&#x27;aeroporto di Catania",
@@ -503,7 +541,7 @@
     "titleSl": "En Cisjordanie occupée, Israël porte un projet d’«élimination » des Palestiniens, accuse l' ONG B’Tselem"
    },
    {
-    "title": "Primaire du PS : la candidature contrariée de Matthieu Pigasse à la primaire de gauche",
+    "title": "Primaire du PS : la candidature contrariée de Matthieu Pigasse",
     "link": "https://www.lemonde.fr/politique/article/2026/09/14/primaire-du-ps-la-candidature-contrariee-de-matthieu-pigasse-a-la-primaire-de-gauche_6773501_823448.html",
     "image": "https://img.lemde.fr/2026/09/12/0/0/6720/3360/644/322/60/0/69e8e87_upload-1-1ftigfgsq7rv-cbi1334100.jpg",
     "date": 1789367983000
@@ -538,6 +576,12 @@
   ],
   "elpais": [
    {
+    "title": "El salto judicial de Ceuta condiciona la política",
+    "link": "https://elpais.com/espana/2026-09-14/el-salto-judicial-de-ceuta-condiciona-la-politica.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/L6V44OLWWNBOVD5EDKZFMXGZX4.jpg?auth=446f851dcb3b0c10a56eaf6a22b9b45add96369bd9e6c5794179b14b3fdb2baf",
+    "date": 1789372552000
+   },
+   {
     "title": "Otra semana de calor de pleno verano, salvo por el paso de un frente el miércoles",
     "link": "https://elpais.com/el-tiempo/2026-09-14/otra-semana-de-calor-de-pleno-verano-salvo-por-el-paso-de-un-frente-el-miercoles.html",
     "image": "https://imagenes.elpais.com/resizer/v2/Z7NL2JNSE5MCVGTOPFVVG5NDUM.jpg?auth=61a1ff54f9aadb68ae8eab180710eb0b7c84eb864e3a34346882a257e60911bc",
@@ -567,13 +611,6 @@
     "link": "https://elpais.com/aniversario/branded/un-futuro-por-escribir/2026-09-14/el-maestro-que-hizo-de-iberoamerica-y-europa-una-casa-comun.html",
     "image": "https://imagenes.elpais.com/resizer/v2/GLIS4OFLPRF6HGLCZWMARDXZHI.jpg?auth=66d7d74bdd4530a231e3a266c76604ca27bc5545cbbd7ed30cfeefffb238c09d",
     "date": 1789367270000
-   },
-   {
-    "title": "‘El Pulso’ de ‘Hoy por Hoy’ en directo, en EL PAÍS",
-    "link": "https://elpais.com/videos/2026-09-14/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896",
-    "date": 1789366716000,
-    "titleSl": "„El Pulso“ de „Hoy por Hoy“ en directo, en EL PAÍS"
    }
   ]
  },
