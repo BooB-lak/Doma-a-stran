@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T16:38:28.699Z",
+ "generatedAt": "2026-09-14T16:40:48.527Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Hutijevci napadli vojaške objekte v Savdski Arabiji",
+    "link": "https://www.rtvslo.si/svet/bliznji-vzhod/hutijevci-napadli-vojaske-objekte-v-savdski-arabiji/793747",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104367.jpg",
+    "date": 1789403960000
+   },
+   {
     "title": "V breznu pri Črnomlju našli človeške kosti",
     "link": "https://www.rtvslo.si/crna-kronika/v-breznu-pri-crnomlju-nasli-cloveske-kosti/793745",
     "image": "https://img.rtvcdn.si/_up/upload/2020/09/10/65697595.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/lokalne-novice/dolenjska/nesojeni-dom-starejsih-prodajajo-za-400-000-evrov/793699",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104345.jpg",
     "date": 1789399015000
-   },
-   {
-    "title": "Zeljković bo na klopi Celja zamenjal Campelosa",
-    "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/zeljkovic-bo-na-klopi-celja-zamenjal-campelosa/793738",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104349.jpg",
-    "date": 1789398039000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Man admits drugging and raping wife for 20 years",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "date": 1789403912000,
+    "titleSl": "Moški priznal, da je 20 let drogiral in posiljeval ženo"
+   },
+   {
     "title": "Former top civil servant received near-£860,000 pay-off",
     "link": "https://www.bbc.co.uk/news/articles/cq7703kjvzlpo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983d/live/99bb56f0-b0b7-11ef-a0f2-fd81ae5962f4.jpg",
@@ -276,16 +283,37 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add8/live/9297cc10-ccea-11ef-94cb-5f844ceb9e30.jpg",
     "date": 1789401085000,
     "titleSl": "Porota razrešena na sojenju poročni parceli Borisa Johnsona"
-   },
-   {
-    "title": "Uganda will now take part in Harry's Invictus Games after King's reassurance",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6330drkzo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e9/live/9b830a50-ac55-11f1-9e64-05835b0b18f8.jpg",
-    "date": 1789400003000,
-    "titleSl": "Uganda bo zdaj po kraljevem zagotovilu sodelovala na Harryjevih igrah Invictus"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Man dies after French police officer throws him on the ground",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/man-dies-after-french-police-officer-throws-him-on-the-ground?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-17.16.23-1789402762.png?resize=1200%2C675",
+    "date": 1789402915000,
+    "titleSl": "Moški umre, ko ga francoski policist vrže na tla"
+   },
+   {
+    "title": "Leaders of Scotland, Wales, Northern Ireland unite for self-determination",
+    "link": "https://www.aljazeera.com/news/2026/9/14/leaders-of-scotland-wales-northern-ireland-unite-for-self-determination?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14290623-1789400770.jpg?resize=1920%2C1440",
+    "date": 1789402579000,
+    "titleSl": "Voditelji Škotske, Walesa in Severne Irske se združujejo za samoodločbo"
+   },
+   {
+    "title": "Pakistan fined, docked 11 points in Edgbaston Test for slow over rate",
+    "link": "https://www.aljazeera.com/sports/2026/9/14/pakistan-fined-docked-11-points-in-edgbaston-test-for-slow-over-rate?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa7d29b0df2-1789383323.jpg?resize=1920%2C1440",
+    "date": 1789402252000,
+    "titleSl": "Pakistan je bil kaznovan, privezan na 11 točk v testu Edgbaston za počasno previsoko stopnjo"
+   },
+   {
+    "title": "North Korea thrash Bangladesh 10-0 in Asian Games women’s football",
+    "link": "https://www.aljazeera.com/sports/2026/9/14/north-korea-thrash-bangladesh-10-0-in-asian-games-womens-football?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260914__C89F2KE__v1__HighRes__FblAsiad2026PrkBan-1789388606.jpg?resize=1920%2C1413",
+    "date": 1789401931000,
+    "titleSl": "Severna Koreja je premagala Bangladeš z 10: 0 v ženskem nogometu na Azijskih igrah"
+   },
    {
     "title": "Eto’o faces allegations of embezzlement in Cameroon FA presidency role",
     "link": "https://www.aljazeera.com/sports/2026/9/14/etoo-faces-allegations-of-embezzlement-in-cameroon-fa-presidency-role?traffic_source=rss",
@@ -299,34 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP7702230355-1789399029.jpg?resize=1920%2C1440",
     "date": 1789399233000,
     "titleSl": "Ali je stranka lahko levičarska in sionistična?"
-   },
-   {
-    "title": "Going to school under Israeli occupation",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789398836.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789398907000,
-    "titleSl": "Hoditi v šolo pod izraelsko okupacijo"
-   },
-   {
-    "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
-    "link": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa80afc0a-1789397756.jpg?resize=1920%2C1440",
-    "date": 1789397918000,
-    "titleSl": "Burnham mora vzpostaviti preiskavo o vlogi Britanije v genocidu v Gazi"
-   },
-   {
-    "title": "China rejects AI ‘threat narratives’, urges global cooperation",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/china-rejects-ai-threat-narratives-urges-global-cooperation?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-15.46.54-1789397362.png?resize=1665%2C1080",
-    "date": 1789397455000,
-    "titleSl": "Kitajska zavrača \"pripovedi o grožnjah\" umetne inteligence, poziva k globalnemu sodelovanju"
-   },
-   {
-    "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
-    "link": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa6f6a0-1789327008.jpg?resize=1920%2C1440",
-    "date": 1789396465000,
-    "titleSl": "Fiskalni pritisk iz iranske vojne zamegli ameriške načrte porabe zalivskih držav"
    }
   ],
   "guardian": [
@@ -465,6 +465,12 @@
     "date": 1789403400000
    },
    {
+    "title": "Nach 1:2 gegen Sturm - LASK-Motto muss heißen: Bitte wieder mit Strom!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yNkF2WHZhNVBEQkthNzdjb085X2hmc2hFc29kUHdyUHZKMnVFTXNDOV8tb1BQY3I2UlprZlY0ZE1zQQ?oc=5",
+    "image": "",
+    "date": 1789403400000
+   },
+   {
     "title": "Und das vor Schönbrunn - So ein gutes heimisches Ergebnis gab es noch nie",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvYTdtcEh4Y3BZRHNnWHFLVlVUZXkza1VvRGxTVDMySVpiMWlvYnhlVnVvLVBiQ0x6bEN0OTZsMjRmZw?oc=5",
     "image": "",
@@ -482,12 +488,6 @@
     "image": "",
     "date": 1789403400000,
     "titleSl": "Rennes klobuk Glamour - Kommt auch Hollywood - Beauty zum Sturm-Spiel?"
-   },
-   {
-    "title": "Zukunft ungewiss - Wann sehen wir David Alaba wieder im ÖFB-Dress?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5adGpWOHlQcDhwQlRQVXlxTWtaWFU5cEFwX21OdFp2bHM5S3Q5S05Idkxabi13a1NJRktFa2hnQ2FfZw?oc=5",
-    "image": "",
-    "date": 1789403100000
    }
   ],
   "rainews": [
@@ -582,6 +582,12 @@
     "date": 1789403818000
    },
    {
+    "title": "Detenido en Alemania uno de los hijos del jeque Nasser Al Thani, acusado de irregularidades en la gestión del Málaga CF",
+    "link": "https://elpais.com/deportes/futbol/2026-09-14/detenido-en-alemania-uno-de-los-hijos-del-jeque-nasser-al-thani-acusado-de-irregularidades-en-la-gestion-del-malaga-cf.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/BA3DTLTH5NHKLHPHVA7P75MDEI.jpg?auth=6f2d385e0a3a4fa77ef3f34a6d21c8492e67d81a5c45380e7ae2188a0b69e025",
+    "date": 1789403516000
+   },
+   {
     "title": "Zapatero pide a la Audiencia que excluya del ‘caso Plus Ultra’ sus negocios en Bolivia y advierte de la “patente de corso” del juez en sus pesquisas",
     "link": "https://elpais.com/espana/2026-09-14/zapatero-pide-a-la-audiencia-que-excluya-del-caso-plus-ultra-su-negocios-en-bolivia-y-advierte-de-la-patente-de-corso-del-juez-en-sus-pesquisas.html",
     "image": "https://imagenes.elpais.com/resizer/v2/QZUESOP5XNEBPFRFGVT2FIGMDM.jpg?auth=f69bfe013c6823ab67c639d916ff2baf0a30eda46381da0255bdfcc481a67dd6",
@@ -605,13 +611,6 @@
     "link": "https://elpais.com/gente/2026-09-14/el-boicot-a-macklemore-por-su-defensa-de-palestina-termina-con-el-artista-fuera-de-la-gira-de-ed-sheeran.html",
     "image": "https://imagenes.elpais.com/resizer/v2/6EU77N4JGVCOPIHTC7LIW5BLNY.jpg?auth=75404010e00ea97646b17011bab7ff4d327932161ed2250eef67f2f3e9cefd8b",
     "date": 1789401177000
-   },
-   {
-    "title": "“¡Esas palmas!”: Vigo añora y reivindica su “irrepetible” Movida",
-    "link": "https://elpais.com/espana/galicia/2026-09-14/esas-palmas-vigo-anora-y-reivindica-su-irrepetible-movida.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/7DOP4XMZI5FT3JRUL5YN4SRQZ4.JPG?auth=bee47fb065c782b9f356b7b3894181455407a97952f3ac7901a52dee2e8b05ae",
-    "date": 1789400958000,
-    "titleSl": "\"¡Esas palmas!\": Vigo añora y reivindica su \"nepopravljiva\" Movida"
    }
   ]
  },
