@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T08:08:29.063Z",
+ "generatedAt": "2026-09-14T08:10:44.809Z",
  "sources": {
   "siol": [
    {
@@ -245,7 +245,7 @@
    {
     "title": "MPs and Lords call for new law to address AI threat to human rights",
     "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a4/live/68cf0160-b013-11f1-a540-61c3f7fc4e6c.jpg",
     "date": 1789373228000,
     "titleSl": "Poslanci in lordovi pozivajo k novemu zakonu za obravnavo grožnje umetne inteligence človekovim pravicam"
    },
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Why Bangladesh is struggling against measles epidemic despite 20m vaccines",
+    "link": "https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26252148108353-1789369463.jpg?resize=1920%2C1440",
+    "date": 1789372493000,
+    "titleSl": "Zakaj se Bangladeš kljub 20 milijonom cepiv bori proti epidemiji ošpic"
+   },
+   {
     "title": "US Kennedy Center faces bankruptcy, Washington Post reports",
     "link": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-29T193733Z_479264515_RC2J8NAE6QO0_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-1789366365.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789347997.jpg?resize=1711%2C1080&quality=80",
     "date": 1789361425000,
     "titleSl": "Po vsej Siriji izbruhnili protesti zaradi zvišanja cen goriva"
-   },
-   {
-    "title": "Residents help battle forest fires threatening homes in Ecuadorian capital",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/13-09-sv-residents-battle-wildfire-in-quito-ecuador?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789359984.jpg?resize=1630%2C1080&quality=80",
-    "date": 1789360080000,
-    "titleSl": "Prebivalci pomagajo v boju proti gozdnim požarom, ki ogrožajo domove v ekvadorski prestolnici"
    }
   ],
   "guardian": [
@@ -415,17 +415,23 @@
   ],
   "bild": [
    {
+    "title": "Benzinpreise steigen immer weiter - „Man wird von der Regierung abgezogen“",
+    "link": "https://www.bild.de/news/inland/benzinpreise-steigen-weiter-man-wird-an-der-tanksaeule-von-der-regierung-abgezogen-6aa788f6240b302c8a843d53",
+    "image": "https://images.bild.de/6aa788f6240b302c8a843d53/fd94a932c9129e5fbe8b147da1b9688c,c83f9ded?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Sonst droht ein Joghurt-Problem - Warum Krüger mit den HSV-Trainern verlängern MUSS",
+    "link": "https://www.bild.de/sport/fussball/hsv-kommentar-warum-krueger-mit-den-trainern-verlaengern-muss-6aa7a00cde8c5c2071e4dd78",
+    "image": "https://images.bild.de/6aa7a00cde8c5c2071e4dd78/975619c830e97334346023d380e9704b,8eee4ccf?w=1280",
+    "date": 0
+   },
+   {
     "title": "Dreister geht’s kaum! - Chaoten besprühen Berliner U-Bahn",
     "link": "https://www.bild.de/news/berlin-mehringdamm-vermummte-bespruehen-u-bahn-mit-graffiti-6aa792ba2c4aba9420236674",
     "image": "https://images.bild.de/6aa792ba2c4aba9420236674/1b695d5f5e78489b0e00421410c6e472,f6d4382e?w=1280",
     "date": 0,
     "titleSl": "Dreister geht's kaum! - Chaoten besprühen Berliner U-Bahn"
-   },
-   {
-    "title": "Benzinpreise steigen immer weiter - „Man wird von der Regierung abgezogen“",
-    "link": "https://www.bild.de/news/inland/benzinpreise-steigen-weiter-man-wird-an-der-tanksaeule-von-der-regierung-abgezogen-6aa788f6240b302c8a843d53",
-    "image": "https://images.bild.de/6aa788f6240b302c8a843d53/fd94a932c9129e5fbe8b147da1b9688c,c83f9ded?w=1280",
-    "date": 0
    },
    {
     "title": "Vor Kälteeinbruch - Was im Herbst im Garten zu tun ist",
@@ -444,15 +450,16 @@
     "link": "https://www.bild.de/leben-wissen/laender-quiz-erkennen-sie-die-loesung-direkt-6aa2ab21e63dfef5db084732",
     "image": "https://images.bild.de/6aa2ab21e63dfef5db084732/317725d40b3395e828b18c0b94690dbe,fb9b85ae?w=1280",
     "date": 0
-   },
-   {
-    "title": "Finaaaaleeeee! - Zverevs Krimi-Sieg im VIDEO",
-    "link": "https://www.bild.de/sport/mehr-sport/zverevs-sieg-im-halbfinale-der-us-open-im-video-6aa4eb2d181cb962d488c9ca",
-    "image": "https://images.bild.de/6aa4eb2d181cb962d488c9ca/715530681c510b0d76d0bd466e4a38a0-landscape,5821fb72?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Strand gesperrt - Australien: Hai zerfleischt Surfer (56) das Bein",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rQ21uMmpHdUJ1bmlrV3ZhcE1CaVF6TTlQVFBKbjdLYWJnVEZHZEVBZFBnLUxpSU5VRWY4d3BwejNQUQ?oc=5",
+    "image": "",
+    "date": 1789373280000,
+    "titleSl": "Strand gesperrt - Avstralija: Hai zerfleischt Surfer (56) das Bein"
+   },
    {
     "title": "„Krone“-Gastkommentar - Angezählt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1scmdZLTE0SWtqU1duX3NOcVNDTl9mN2Z2cmFRN2IzUEZfN2hZX0ZCMVFUdGpiOXNJOXllMzhnSlhFZw?oc=5",
@@ -482,13 +489,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6cEZCTWMyY0xZNU5zaTY3SVFnVi1Rd1lJSms3aXF4NVh6dTY3MDQxTHNvSEdGSVNjYW5jVE1pd0tNZw?oc=5",
     "image": "",
     "date": 1789371316000
-   },
-   {
-    "title": "In Rechtskurve - Wilde Kollision: Zwei Motorradlenker stürzten",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LNVFVTkdRWC1NdkNkUWFNV2ZIakNjWGFjUGFaaldxcFpoanRPYW9Ba29OWl9MX2VvME52aGdYTGNWdw?oc=5",
-    "image": "",
-    "date": 1789371300000,
-    "titleSl": "V Rechtskurve - Wilde Kollision: Zwei Motorradlenker stürzten"
    }
   ],
   "rainews": [
