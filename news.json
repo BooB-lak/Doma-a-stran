@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T15:20:48.235Z",
+ "generatedAt": "2026-09-14T15:22:29.103Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "V bližini obale Baltskega morja našli domnevni ruski dron",
+    "link": "https://www.24ur.com/novice/tujina/v-blizini-obale-baltskega-morja-nasli-domnevni-ruski-dron.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/f29448f839bb1637e376_63647725.jpg?v=1675&fop=fp:0.42:0.44",
+    "date": 1789398797000
+   },
+   {
     "title": "Kdo je neiskren in med kom ni kemije?",
     "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/kdo-je-neiskren-in-med-kom-ni-kemije.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/18119e440f9653ba82db_63647703.png?v=b4af&fop=fp:0.49:0.38",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/prvi-boj-za-imuniteto-danes-gremo-na-noz.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/ff0aa59b563249a2497c_63647492.jpg?v=76bf&fop=fp:0.50:0.31",
     "date": 1789395362000
-   },
-   {
-    "title": "Nova podražitev goriv: cena dizla znova rekordna",
-    "link": "https://www.24ur.com/novice/gospodarstvo/nova-podrazitev-goriv-cena-dizla-znova-rekordna.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/a760662a323c08855dbd_63646813.jpg?v=16b2&fop=fp:0.44:0.43",
-    "date": 1789394844000
    }
   ],
   "rtvslo": [
@@ -83,6 +83,12 @@
     "link": "https://www.rtvslo.si/lokalne-novice/notranjska/nesojeni-dom-starejsih-prodajajo-za-400-000-evrov/793699",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104345.jpg",
     "date": 1789399015000
+   },
+   {
+    "title": "Zeljković bo na klopi Celja zamenjal Campelosa",
+    "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/zeljkovic-bo-na-klopi-celja-zamenjal-campelosa/793738",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104349.jpg",
+    "date": 1789398039000
    },
    {
     "title": "Monumentalni oltar Jožefa Strauba po letih prenove spet v cerkvi sv. Areha na Pohorju",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/evropa/voditelji-skotske-walesa-in-severne-irske-cas-westminstra-se-izteka/793729",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104327.jpg",
     "date": 1789393952000
-   },
-   {
-    "title": "Nepridipravi vdrli v večje število računov slovenskih uporabnikov na omrežju X",
-    "link": "https://www.rtvslo.si/crna-kronika/nepridipravi-vdrli-v-vecje-stevilo-racunov-slovenskih-uporabnikov-na-omrezju-x/793727",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104313.jpg",
-    "date": 1789393284000
    }
   ],
   "zurnal": [
@@ -246,7 +246,7 @@
     "title": "No collusion in sectarian killing but multiple police failings in murder inquiry",
     "link": "https://www.bbc.co.uk/news/articles/cmpwlkk9dgr7o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/265e/live/f8a506f0-28d3-11ef-80aa-699d54c46324.jpg",
-    "date": 1789398438000,
+    "date": 1789399296000,
     "titleSl": "Nobenega dogovarjanja pri sektaškem ubijanju, vendar več policijskih napak pri preiskavi umora"
    },
    {
@@ -414,10 +414,29 @@
   ],
   "bild": [
    {
+    "title": "Illegale Gemüse-Lieferung sichergestellt - Warum dieser Kohl Millionen wert ist",
+    "link": "https://www.bild.de/news/warum-dieser-kohl-millionen-wert-ist-illegale-lieferung-sichergestellt-6aa7d36419aba9f8407b3ff8",
+    "image": "https://images.bild.de/6aa7d36419aba9f8407b3ff8/93ad318d6cc823854bd0937030919727,bfeead0?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Erstmals seit 2009 - Oasis kündigt Konzerte in Deutschland an",
+    "link": "https://www.bild.de/unterhaltung/erstmals-seit-2009-britpopband-oasis-kuendigt-konzerte-in-deutschland-an-6aa80d22ecebd74717d78a59",
+    "image": "https://images.bild.de/6aa80d22ecebd74717d78a59/30ed730d306eee4a93c4418b9f0215c9,c777e9ec?w=1280",
+    "date": 0
+   },
+   {
     "title": "Diaz trieb ihn zur Weißglut - Frust-Explosion bei Bayern-Star",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-luis-diaz-trieb-ihn-zur-weissglut-frust-explosion-bei-bayern-star-6aa7c4dd1e576e6f7a14caf7",
     "image": "https://images.bild.de/6aa7c4dd1e576e6f7a14caf7/ad6b9f540fdb620ba7f03bb7504b76aa,efe95616?w=1280",
     "date": 0
+   },
+   {
+    "title": "„Es sieht nicht gut aus“ - Schock für Klopp! DFB-Star droht lange Pause",
+    "link": "https://www.bild.de/sport/fussball/rb-leipzig-es-sieht-nicht-gut-aus-schock-fuer-klopp-assan-ouedraogo-droht-lange-pause-6aa7b1da77bd109fcdd00714",
+    "image": "https://images.bild.de/6aa7b1da77bd109fcdd00714/fa27112f5fc1d715c3ef4c94a016b0d6,b2272cd1?w=1280",
+    "date": 0,
+    "titleSl": "„Es sieht nicht gut aus“ - Schock für Klopp! DFB-Star droht lange Premor"
    },
    {
     "title": "Unfall-Tragödie auf der Landstraße - Zwei Männer tot im Gebüsch entdeckt",
@@ -429,26 +448,6 @@
     "title": "Die schnellsten Kurzbeine Englands - Hier rennen Dackel um den Derby-Titel",
     "link": "https://www.bild.de/leben-wissen/die-schnellsten-schlappohren-englands-hier-rennen-dackel-um-den-derby-titel-6aa7f91fff39bd7ec154a778",
     "image": "https://images.bild.de/6aa7f91fff39bd7ec154a778/237be92f8bdfcdc45b728bdb972fdffe,d9e64ec?w=1280",
-    "date": 0
-   },
-   {
-    "title": "So erzieht die Prinzessin ihre Kinder - Kate: Freundlichkeit so wichtig wie gute Schulnoten",
-    "link": "https://www.bild.de/unterhaltung/prinzessin-kate-freundlichkeit-zaehlt-genauso-wie-mathe-und-sport-6aa80116e453142c1f5215eb",
-    "image": "https://images.bild.de/6aa80116e453142c1f5215eb/201e113397651313778680faf558fc03,d0c557d?w=1280",
-    "date": 0,
-    "titleSl": "Torej erzieht die Prinzessin ihre Kinder - Kate: Freundlichkeit so wichtig wie gute Schulnoten"
-   },
-   {
-    "title": "Fans verspotten toten Portugal-Star - Ronaldo fordert Stadionverbot",
-    "link": "https://www.bild.de/sport/fussball/ruben-neves-fans-verhoehnen-ihn-mit-sprechchoeren-ueber-diogo-jota-6aa7f9d2ff39bd7ec154a794",
-    "image": "https://images.bild.de/6aa7f9d2ff39bd7ec154a794/6072da0e7ffe63c12bb4bbccb3ed409f,3f738550?w=1280",
-    "date": 0,
-    "titleSl": "Ventilatorji verspotten toten Portugal-Star - Ronaldo fordert Stadionverbot"
-   },
-   {
-    "title": "Erstmals seit 2009 - Oasis kündigt Konzerte in Deutschland an",
-    "link": "https://www.bild.de/unterhaltung/erstmals-seit-2009-britpopband-oasis-kuendigt-konzerte-in-deutschland-an-6aa80d22ecebd74717d78a59",
-    "image": "https://images.bild.de/6aa80d22ecebd74717d78a59/30ed730d306eee4a93c4418b9f0215c9,c777e9ec?w=1280",
     "date": 0
    }
   ],
