@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T13:40:48.118Z",
+ "generatedAt": "2026-09-14T13:42:27.790Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/trendi/kulinarika/pet-jedi-za-popoln-italijanski-brunch-in-to-brez-kuhanja-701182",
     "image": "https://siol.net/media/img/88/e1/7cd3d69a71d099a9006e.jpeg",
     "date": 1789393140000
+   },
+   {
+    "title": "Napad na vlak za Rutteja znamenje Putinove obupanosti",
+    "link": "https://siol.net/novice/svet/napad-na-vlak-za-rutteja-znamenje-putinove-obupanosti-701399",
+    "image": "https://siol.net/media/img/b9/cf/9d127437b779b3275bbd.jpeg",
+    "date": 1789392120000
    },
    {
     "title": "Komisar Türk: Umetna inteligenca povečuje tveganja za vse vidike našega življenja",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/financni-nasveti/vlagate-pritozbo-ta-pravila-morate-poznati-701093",
     "image": "https://siol.net/media/img/27/6e/7f5ea554e1374d89b09c.jpg",
     "date": 1789389780000
-   },
-   {
-    "title": "Pozabite na klasičen glos: ta lepotni trend bo vaše ustnice poudaril na najbolj nežen način",
-    "link": "https://siol.net/trendi/moda-in-lepota/pozabite-na-klasicen-glos-ta-lepotni-trend-bo-vase-ustnice-poudaril-na-najbolj-nezen-nacin-701353",
-    "image": "https://siol.net/media/img/03/73/0ad4ecd6b43f21dd8369.jpeg",
-    "date": 1789389060000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Nepridipravi vdrli v večje število računov slovenskih uporabnikov na X-u",
+    "link": "https://www.rtvslo.si/crna-kronika/nepridipravi-vdrli-v-vecje-stevilo-racunov-slovenskih-uporabnikov-na-x-u/793727",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104313.jpg",
+    "date": 1789393284000
+   },
+   {
     "title": "V steklo ujeta tišina – kiparski premislek o krhkosti posameznika in našega okolja",
     "link": "https://www.rtvslo.si/kultura/vizualna-umetnost/v-steklo-ujeta-tisina-kiparski-premislek-o-krhkosti-posameznika-in-nasega-okolja/793723",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104320.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/crna-kronika/poskus-uboja-z-nozem-v-vinici-pastorek-napadel-ocima/793717",
     "image": "https://img.rtvcdn.si/_up/upload/2024/07/03/66199224.jpg",
     "date": 1789388193000
-   },
-   {
-    "title": "V Zagrebu po petkovem napadu na srednji šoli protest za večjo varnost in nadzor v šolah",
-    "link": "https://www.rtvslo.si/svet/evropa/v-zagrebu-po-petkovem-napadu-na-srednji-soli-protest-za-vecjo-varnost-in-nadzor-v-solah/793716",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104307.jpg",
-    "date": 1789387945000
    }
   ],
   "zurnal": [
@@ -414,6 +414,32 @@
   ],
   "bild": [
    {
+    "title": "Harry & Meghan - Ist DIESES Video ein Versöhnungsangebot?",
+    "link": "https://www.bild.de/unterhaltung/royals-adel/harry-meghan-ist-dieses-video-ein-versoehnungsangebot-6aa6ec5d181cb962d488e2dd",
+    "image": "https://images.bild.de/6aa6ec5d181cb962d488e2dd/92a0bbfb5cef39f86bdb554030d3d3fe,ef5eefe5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach Angriffen in Saudi Arabien - Wichtige Pipeline mehrere Wochen außer Betrieb",
+    "link": "https://www.bild.de/politik/nach-angriffen-in-saudi-arabien-wichtige-pipeline-mehrere-wochen-ausser-betrieb-6aa7ead61e576e6f7a14cf03",
+    "image": "https://images.bild.de/6aa7ead61e576e6f7a14cf03/7d3c25cfb2e39b23e96b2da4bfe6f23b,8a47f6ef?w=1280",
+    "date": 0,
+    "titleSl": "Nach Angriffen v Savdski Arabiji - Wichtige Pipeline mehrere Wochen außer Betrieb"
+   },
+   {
+    "title": "Tödliche Tragödie in Hamburg - Mann springt vor U-Bahn, Retter (36) überrollt",
+    "link": "https://www.bild.de/news/toedliche-tragoedie-in-hamburg-mann-springt-vor-u-bahn-retter-26-ueberrollt-6aa7b89619aba9f8407b3c75",
+    "image": "https://images.bild.de/6aa7b89619aba9f8407b3c75/01b2661ed3da0bd4fb5359571586065c,600343b3?w=1280",
+    "date": 0,
+    "titleSl": "Tödliche Tragödie v Hamburgu - Mann springt vor U-Bahn, Retter (36) überrollt"
+   },
+   {
+    "title": "Zwitschern wie früher - Hier wird noch analog getwittert",
+    "link": "https://www.bild.de/leben-wissen/vogelimitationsmeisterschaft-in-warschau-wer-zwitschert-am-besten-6aa7c2fb19aba9f8407b3dc9",
+    "image": "https://images.bild.de/6aa7c2fb19aba9f8407b3dc9/c5eca8671ad82af1edcf560d12b24741,465dfead?w=1280",
+    "date": 0
+   },
+   {
     "title": "100.000 Arbeiter gegen den Job-Kahlschlag - IG Metall plant Mega-Demo",
     "link": "https://www.bild.de/news/ig-metall-mobilisiert-100-000-beschaeftigte-zukunft-statt-kahlschlag-6aa7f45277bd109fcdd00de9",
     "image": "https://images.bild.de/6aa7f45277bd109fcdd00de9/1319efcc9af0d79d4d306c099619a3e8,fd98d728?w=1280",
@@ -426,71 +452,46 @@
     "image": "https://images.bild.de/6aa7ac5dde8c5c2071e4de6b/7e57fc9a5b295c3d984d45f5cecf4dc1,edf05cf0?w=1280",
     "date": 0,
     "titleSl": "Werner Mang - Tochter von Nasen-Papst dedič v St. Tropezu"
-   },
-   {
-    "title": "„Mein Klub“ vom 14. September - Der HSV zwischen Mega-Krise und Vuskovic-Comeback",
-    "link": "https://www.bild.de/sport/fussball/hsv-zwischen-krise-und-vuskovics-trainigscomeback-6aa7e59a19aba9f8407b41db",
-    "image": "https://images.bild.de/6aa7e59a19aba9f8407b41db/501bced8f3c58357219ceb4dda3f11fe-landscape,98436459?w=1280",
-    "date": 0,
-    "titleSl": "\"Mein Klub\" vom 14. September - Der HSV zwischen Mega-Krise und Vuskovic-Comeback"
-   },
-   {
-    "title": "Fahndung nach diesem Mann - Schalke-Fan nach Bayern-Spiel gewürgt",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/versuchter-totschlag-schalke-fan-nach-bayern-spiel-gewuergt-6aa7da9977bd109fcdd00b04",
-    "image": "https://images.bild.de/6aa7da9977bd109fcdd00b04/da537ba114b8fc1c47c94ee32447d868,e28784cf?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Trabi-Parade am Sachsenring - 50 Trabis, 115 km - Kultfilm-Schauspielerin dabei",
-    "link": "https://www.bild.de/news/50-trabis-115-kilometer-ein-kultfilm-so-lief-die-erste-red-bull-trabi-rallye-am-sachsenring-6aa7d34677bd109fcdd00a55",
-    "image": "https://images.bild.de/6aa7d34677bd109fcdd00a55/abe20e271ac8382ef12501384448b153,820ff00a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sollten mit iOS 27 erscheinen - Apple verschiebt zwei neue iPhone-Funktionen",
-    "link": "https://www.bild.de/leben-wissen/digital/ios-27-apple-verschiebt-zwei-neue-iphone-funktionen-6aa7ea2319aba9f8407b42c0",
-    "image": "https://images.bild.de/6aa7ea2319aba9f8407b42c0/b01215d280b1360b296a5a292d7f5c7c,4bdad279?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Diskussion um Eckstoß - Rapid-Treffer irregulär? Die Szene hier im Video",
+    "title": "Diskussion um Eckstoß - Rapid-Treffer irregulär? Die Szene hier im Video - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WbDhjdWZWWU9wanEwMlJRWXVwR2oyMTdvY2JkM25ZRGs5U05CN3hxVXlLN0d5Wk1PaTFHQ2I0eHl0QQ?oc=5",
     "image": "",
     "date": 1789393136000
    },
    {
-    "title": "„War nicht polemisch“ - Nach AfD/Trump-Posting: Meta sperrt Bürgermeister",
+    "title": "„War nicht polemisch“ - Nach AfD/Trump-Posting: Meta sperrt Bürgermeister - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6cEZCTWMyY0xZNU5zaTY3SVFnVi1Rd1lJSms3aXF4NVh6dTY3MDQxTHNvSEdGSVNjYW5jVE1pd0tNZw?oc=5",
     "image": "",
     "date": 1789392932000
    },
    {
-    "title": "Hilft selber planen? - So fliegen Sie günstig in die Herbstferien",
+    "title": "Hilft selber planen? - So fliegen Sie günstig in die Herbstferien - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaSkJXZzNaYTk3VHRBZVNnUVJYLU1mNUFjVGh1T2gxTjF4YnliS3NmNG1TRURvS254YjdFb3p5a090UQ?oc=5",
     "image": "",
     "date": 1789392900000
    },
    {
-    "title": "Fast nackt für Sport - Athletinnen toben gegen hüllenlose Sydney Sweeney",
+    "title": "Fast nackt für Sport - Athletinnen toben gegen hüllenlose Sydney Sweeney - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hU1RMckFfLXRUbDN0aTd3Vi1MbEN6aGFTSFk3TU55SnpBWG4xSXFFNHhJd2FXY0x3VUc4YkNNaDJlUQ?oc=5",
     "image": "",
     "date": 1789392710000
    },
    {
-    "title": "„Secret Sale“ startet: Luxuswohnen auf der Mahü",
+    "title": "„Secret Sale“ startet: Luxuswohnen auf der Mahü - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pNFRkaklaWTlnRmY2MkphX18weVFQdWhXVDB5QlRmb3RfMG1ZZXhRSzM1MGhDLWpUd1g5NFRBQlF6QQ?oc=5",
     "image": "",
     "date": 1789392660000,
-    "titleSl": "\"Skrivna prodaja\" startet: Luxuswohnen auf der Mahü"
+    "titleSl": "\"Skrivna prodaja\" startet: Luxuswohnen auf der Mahü - krone.at"
    },
    {
-    "title": "„Greenwashing-Trick“ - Plug-in-Hybrid: Die unterschätzte CO2-Schleuder",
+    "title": "„Greenwashing-Trick“ - Plug-in-Hybrid: Die unterschätzte CO2-Schleuder - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VYk80V2JIeElma0tJbFItTWZ6d19Sb3dkbkhkLVJkTjlTc29md2YwcktMMlpQSnI1Q0o1aW1ZZDNnZw?oc=5",
     "image": "",
     "date": 1789392600000,
-    "titleSl": "\"Greenwashing-Trick\" - Plug-in-Hybrid: Die unterschätzte CO2-Schleuder"
+    "titleSl": "\"Greenwashing-Trick\" - Plug-in-Hybrid: Die unterschätzte CO2-Schleuder - krone.at"
    }
   ],
   "rainews": [
