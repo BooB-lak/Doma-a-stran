@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-14T13:46:28.711Z",
+ "generatedAt": "2026-09-14T13:48:31.981Z",
  "sources": {
   "siol": [
+   {
+    "title": "Razkritje iz raziskave IKEA: skoraj dve tretjini Slovencev ima doma \"predal za navlako\"",
+    "link": "https://siol.net/trendi/dom/razkritje-iz-raziskave-ikea-skoraj-dve-tretjini-slovencev-ima-doma-predal-za-navlako-701395",
+    "image": "https://siol.net/media/img/c5/f0/d3f07ee51e77a29cb07b.jpeg",
+    "date": 1789393620000
+   },
    {
     "title": "Pet jedi za popoln italijanski \"brunch\" – in to brez kuhanja!",
     "link": "https://siol.net/trendi/kulinarika/pet-jedi-za-popoln-italijanski-brunch-in-to-brez-kuhanja-701182",
@@ -11,7 +17,7 @@
    {
     "title": "Napad na vlak za Rutteja znamenje Putinove obupanosti",
     "link": "https://siol.net/novice/svet/napad-na-vlak-za-rutteja-znamenje-putinove-obupanosti-701399",
-    "image": "https://siol.net/media/img/b9/cf/9d127437b779b3275bbd.jpeg",
+    "image": "https://siol.net/media/img/ea/6f/cb541326a161d90106f2.png",
     "date": 1789392120000
    },
    {
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/pred-clani-odbora-dz-za-pravosodje-predlog-zakona-o-skoku-701334",
     "image": "https://siol.net/media/img/27/6e/ead1f35ae4995d161ed4.jpeg",
     "date": 1789390620000
-   },
-   {
-    "title": "Vlagate pritožbo? Ta pravila morate poznati",
-    "link": "https://siol.net/novice/financni-nasveti/vlagate-pritozbo-ta-pravila-morate-poznati-701093",
-    "image": "https://siol.net/media/img/27/6e/7f5ea554e1374d89b09c.jpg",
-    "date": 1789389780000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "\"To kaže, kako obupan je postal Putin\"",
+    "link": "https://www.zurnal24.si/svet/to-kaze-kako-obupan-je-postal-putin-465132",
+    "image": "https://www.zurnal24.si/media/img/24/4c/146bc876024d1f25745c.jpeg",
+    "date": 1789393680000
+   },
+   {
     "title": "Slovenija osvojila četrto mesto",
     "link": "https://www.zurnal24.si/sport/kosarka/slovenija-osvojila-cetrto-mesto-465131",
     "image": "https://www.zurnal24.si/media/img/e7/61/48002de4ad2ffbbc0b8a.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/med-vracanjem-z-obiska-ocima-z-nozem-napadel-v-avtu-465124",
     "image": "https://www.zurnal24.si/media/img/f2/8f/1e8014c2b488369c3a95.jpeg",
     "date": 1789388100000
-   },
-   {
-    "title": "Sin legende zabil za zmago, nekaj ur kasneje povzročil hudo nesrečo",
-    "link": "https://www.zurnal24.si/sport/nogomet/sin-legende-zabil-za-zmago-nekaj-ur-kasneje-povzrocil-hudo-nesreco-465122",
-    "image": "https://www.zurnal24.si/media/img/db/f7/51e5216d8cbfe2a9e506.jpeg",
-    "date": 1789385820000
    }
   ],
   "reuters": [
@@ -414,46 +414,62 @@
   ],
   "bild": [
    {
-    "title": "BILD weiß, was stattdessen läuft - ZDF streicht Silvester-Show mit Kiwi und Kerner",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/zdf-silvester-ohne-live-show-von-kiwi-und-kerner-6a99277ff4aff45fc7b34412",
-    "image": "https://images.bild.de/6a99277ff4aff45fc7b34412/dee9124e892af32a7aa05f57a2b9ca55,bec06924?w=1280",
+    "title": "Eigener Werkstoff entwickelt - Hier kommt die Flöte aus dem 3D-Drucker",
+    "link": "https://www.bild.de/leben-wissen/mein-recht-verbraucherportal/sigo-floete-warum-selbst-ein-musiker-von-hans-zimmer-sie-spielt-6a8c4571437c391dae0a152f",
+    "image": "https://images.bild.de/6a8c4571437c391dae0a152f/84a0e2f1846a53014453df679b108a35,ac50a97?w=1280",
     "date": 0
    },
    {
-    "title": "Nach Angriffen in Saudi-Arabien - Wichtige Pipeline mehrere Wochen außer Betrieb",
-    "link": "https://www.bild.de/politik/nach-angriffen-in-saudi-arabien-wichtige-pipeline-mehrere-wochen-ausser-betrieb-6aa7ead61e576e6f7a14cf03",
-    "image": "https://images.bild.de/6aa7ead61e576e6f7a14cf03/7d3c25cfb2e39b23e96b2da4bfe6f23b,8a47f6ef?w=1280",
-    "date": 0,
-    "titleSl": "Nach Angriffen v Savdski Arabiji - Wichtige Pipeline mehrere Wochen außer Betrieb"
-   },
-   {
-    "title": "Roboter attackiert Mensch - Angriff der KI oder nur Technik-Aussetzer?",
-    "link": "https://www.bild.de/leben-wissen/digital/humanoider-roboter-warum-der-virale-angriff-keine-rebellion-beweist-6aa7b15e19aba9f8407b3bb9",
-    "image": "https://images.bild.de/6aa7b15e19aba9f8407b3bb9/b6444678adb2a433bf772e8824ccfa10,4c59a368?w=1280",
-    "date": 0,
-    "titleSl": "Robot Attackiert Mensch - Angriff der KI oder nur Technik-Aussetzer?"
-   },
-   {
-    "title": "Werdegang und Privates - Comedy-Star Oliver Pocher im Steckbrief",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/oliver-pocher-im-steckbrief-wird-es-eine-neue-dokusoap-mit-ihm-geben-62a1a190783d1871d27a3479",
-    "image": "https://images.bild.de/62a1a190783d1871d27a3479/1c51538868edc2bf954e456631257fb1,85eb64b1?w=1280",
+    "title": "E10 so teuer wie nie - Söder fordert Spritpreis-Gipfel!",
+    "link": "https://www.bild.de/politik/inland/markus-soeder-fordert-hilfe-bei-hohen-preisen-fuer-benzin-und-diesel-6aa7ec5c77bd109fcdd00cde",
+    "image": "https://images.bild.de/6aa7ec5c77bd109fcdd00cde/9f80fcc2ef37527e7f085a7287a9eaf3,29350667?w=1280",
     "date": 0
    },
    {
-    "title": "Harry & Meghan - Ist DIESES Video ein Versöhnungsangebot?",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/harry-meghan-ist-dieses-video-ein-versoehnungsangebot-6aa6ec5d181cb962d488e2dd",
-    "image": "https://images.bild.de/6aa6ec5d181cb962d488e2dd/92a0bbfb5cef39f86bdb554030d3d3fe,ef5eefe5?w=1280",
+    "title": "Nach verunglücktem Saisonstart - Trainer-Rauswurf in der 3. Liga!",
+    "link": "https://www.bild.de/sport/fussball/3-liga-trainer-rauswurf-bei-wehen-wiesbaden-6aa7dd4e77bd109fcdd00b67",
+    "image": "https://images.bild.de/6aa7dd4e77bd109fcdd00b67/bb7390106ae3a6b90b728de4937c720f,15ebd0db?w=1280",
+    "date": 0,
+    "titleSl": "Nach verunglücktem Saisonstart - trener-Rauswurf v der 3. Ligi!"
+   },
+   {
+    "title": "Hund und Katze schützen - Diese Putzmittel könnten Ihr Haustier töten",
+    "link": "https://www.bild.de/leben-wissen/haustiere/reinigungsmittel-im-haushalt-was-hund-und-katze-schaden-kann-6a9fdb60181cb962d4887c1a",
+    "image": "https://images.bild.de/6a9fdb60181cb962d4887c1a/244f633726238368290f8abd770b4223,faa9c1f?w=1280",
     "date": 0
    },
    {
-    "title": "Tödliche Tragödie in Hamburg - Mann springt vor U-Bahn, Retter (36) überrollt",
-    "link": "https://www.bild.de/news/toedliche-tragoedie-in-hamburg-mann-springt-vor-u-bahn-retter-26-ueberrollt-6aa7b89619aba9f8407b3c75",
-    "image": "https://images.bild.de/6aa7b89619aba9f8407b3c75/01b2661ed3da0bd4fb5359571586065c,600343b3?w=1280",
-    "date": 0,
-    "titleSl": "Tödliche Tragödie v Hamburgu - Mann springt vor U-Bahn, Retter (36) überrollt"
+    "title": "Jahrgang 2026 - Rekord-Hitze sorgt für ein Extra im Champagner",
+    "link": "https://www.bild.de/leben-wissen/champagner-2026-frankreich-hebt-alkoholgrenze-auf-15-prozent-6aa649caee7f1293f4ce3e96",
+    "image": "https://images.bild.de/6aa649caee7f1293f4ce3e96/18cbb608efd751a9a14b4c1b963c8f4b,a8e13dad?w=1280",
+    "date": 0
+   },
+   {
+    "title": "3 Top-Spiele frei für alle - Kostenlos-Knaller bei DAZN!",
+    "link": "https://www.bild.de/sport/fussball/3-top-spiele-frei-fuer-alle-kostenlos-knaller-bei-dazn-6aa7c8a71e576e6f7a14cb8f",
+    "image": "https://images.bild.de/6aa7c8a71e576e6f7a14cb8f/f5378031be574fb06c0a5d630a588d61,d1f79eb8?w=1280",
+    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Bürgermeister gesperrt - So ausgeliefert sind wir US-Social-Media-Konzernen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0TDdxYk9pRjUwc0hpWDJZY0lpWktEQlAzU0tRWk5TSTJNdDUwUldnNW5lY0JRdnUzV3k3M1ZqWERrZw?oc=5",
+    "image": "",
+    "date": 1789393620000
+   },
+   {
+    "title": "Die Familie wächst - Nicht mehr lange! Bald sind die Laimers zu viert",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBTQ19YdlRfd08yVXhSamtNbzQ4R3FSQk5NWXdwTEZEeW40RlBKRUFRQmplZWJBV2MwVjBLUDRRNnJBdw?oc=5",
+    "image": "",
+    "date": 1789393620000
+   },
+   {
+    "title": "Fast nackt für Sport - Athletinnen toben gegen hüllenlose Sydney Sweeney",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hU1RMckFfLXRUbDN0aTd3Vi1MbEN6aGFTSFk3TU55SnpBWG4xSXFFNHhJd2FXY0x3VUc4YkNNaDJlUQ?oc=5",
+    "image": "",
+    "date": 1789393488000
+   },
    {
     "title": "Neuzugang beim ÖFB - Kühbauers Co-Trainer schließt sich Nationalteam an",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yblRKVzVJVm5obno4OVlneDRNSm1Ic3NhSnVkQWV6aXktdzl2bk9pa0o0WHI3UmJ6VGxrTnoyZGVKQQ?oc=5",
@@ -471,24 +487,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WbDhjdWZWWU9wanEwMlJRWXVwR2oyMTdvY2JkM25ZRGs5U05CN3hxVXlLN0d5Wk1PaTFHQ2I0eHl0QQ?oc=5",
     "image": "",
     "date": 1789393136000
-   },
-   {
-    "title": "„War nicht polemisch“ - Nach AfD/Trump-Posting: Meta sperrt Bürgermeister",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6cEZCTWMyY0xZNU5zaTY3SVFnVi1Rd1lJSms3aXF4NVh6dTY3MDQxTHNvSEdGSVNjYW5jVE1pd0tNZw?oc=5",
-    "image": "",
-    "date": 1789392932000
-   },
-   {
-    "title": "Hilft selber planen? - So fliegen Sie günstig in die Herbstferien",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaSkJXZzNaYTk3VHRBZVNnUVJYLU1mNUFjVGh1T2gxTjF4YnliS3NmNG1TRURvS254YjdFb3p5a090UQ?oc=5",
-    "image": "",
-    "date": 1789392900000
-   },
-   {
-    "title": "Fast nackt für Sport - Athletinnen toben gegen hüllenlose Sydney Sweeney",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hU1RMckFfLXRUbDN0aTd3Vi1MbEN6aGFTSFk3TU55SnpBWG4xSXFFNHhJd2FXY0x3VUc4YkNNaDJlUQ?oc=5",
-    "image": "",
-    "date": 1789392710000
    }
   ],
   "rainews": [
