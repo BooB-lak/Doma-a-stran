@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T00:48:24.372Z",
+ "generatedAt": "2026-09-14T00:50:38.366Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Kennedy Center Warns of Bankruptcy Unless Trump’s Name Is Added",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/trump-kennedy-center-bankruptcy-closure.html",
+    "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13cul-kennedy-center-khgl/13cul-kennedy-center-khgl-mediumSquareAt3X.jpg",
+    "date": 1789346189000,
+    "titleSl": "Kennedy Center opozarja na stečaj, če ne bo dodano Trumpovo ime"
+   },
+   {
     "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
     "link": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
     "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-ukraine-strike-HFO-lkfq/13int-ukraine-strike-HFO-lkfq-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/13/us/13dc-cong-ai-promo/13dc-cong-ai-promo-mediumSquareAt3X.png",
     "date": 1789332556000,
     "titleSl": "Najpomembnejši zakonodajalci se strinjajo, da se tveganja AI povečujejo, vendar pravijo, da nimajo hitre rešitve"
-   },
-   {
-    "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
-    "link": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
-    "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-uk-king-ai-tqzw/13int-uk-king-ai-tqzw-mediumSquareAt3X.jpg",
-    "date": 1789331027000,
-    "titleSl": "Kralj Charles bo sklical voditelje UI ob pozivih k počasnemu razvoju"
    }
   ],
   "bbc": [
@@ -286,6 +286,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
+    "link": "https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa73365-1789342565.jpg?resize=1920%2C1440",
+    "date": 1789346232000,
+    "titleSl": "Kip Charlieja Kirka je bil vandaliziran pred sedežem podjetja Turning Point USA"
+   },
+   {
     "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-houthis-yemen-1789344808.png?resize=1920%2C1080&quality=80",
@@ -319,13 +326,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260913__C88D6J4__v1__HighRes__776489269-1789338597.jpg?resize=1920%2C1440",
     "date": 1789338814000,
     "titleSl": "Zverev je v štirih nizih premagal Sheltona in osvojil svoj prvi naslov na OP ZDA"
-   },
-   {
-    "title": "Could AI really kill us within a decade?",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789337754.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789337835000,
-    "titleSl": "Ali nas lahko umetna inteligenca v desetih letih resnično ubije?"
    }
   ],
   "guardian": [
@@ -454,6 +454,12 @@
   ],
   "krone": [
    {
+    "title": "Das freie Wort - Kein Park für Lugner?",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CQ01KRkI1RkNiMGx5OXl6V2M5UFh4U1R4TmZIcGdTQktpTHNmRDQxSUZJbk01dTdrc1lsbkxTX1dOS2VieTlIVU9NaXZnVlFiZ0FGbTNia3dTQklPZXoxb2dhLVd3UmN3OGxoZg?oc=5",
+    "image": "",
+    "date": 1789346172000
+   },
+   {
     "title": "Das freie Wort - Wirtschaftskammer und Ferien",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRGR1UXJtQjVXTDdETU1ISnlZTjNiOUNuVnBROUNDY2I1c3ZuMzIxcHhJanpqa1NVTVdxU0ZaLW04N1VHVGhSNVVDZ2Q1QU56TkZQbG5zMGZUQ1dGMWROS1BhMlhWNTBXRlFyTQ?oc=5",
     "image": "",
@@ -480,12 +486,6 @@
    {
     "title": "Das freie Wort - Schulbeginn im Rest des Landes",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oMmRJYlZ0STRmTHdWVGNLVmdkZmRuVi1TcDItZDRqWWdwYnpIRGg3UWhCNy1jUTkwUU9sODBGRmtFLWtnd2hJdXlMei14VDVGQnhlTTdYUUVseEJFZnR0d0hMaGNRMEdURktOTA?oc=5",
-    "image": "",
-    "date": 1789346025000
-   },
-   {
-    "title": "Das freie Wort - Kürzere Sommerferien?",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93QnBELU1JczNKT1k2SlVKNXRLTnZhTGRWakVuRGZQeFI2N0Nqck5pX280NkRsSTU4NzRrVWdmbDVBb2g2bU13RFh6dEhJbm1ySVFXSVRKaldWUFExZXgxa0F5akgxSVc2M1FCZw?oc=5",
     "image": "",
     "date": 1789346025000
    }
