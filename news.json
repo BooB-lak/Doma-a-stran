@@ -1,7 +1,19 @@
 {
- "generatedAt": "2026-09-15T09:54:26.081Z",
+ "generatedAt": "2026-09-15T09:58:25.769Z",
  "sources": {
   "siol": [
+   {
+    "title": "Danska poroča o incidentu z rusko fregato v Baltskem morju",
+    "link": "https://siol.net/novice/svet/danska-poroca-o-incidentu-z-rusko-fregato-v-baltskem-morju-701469",
+    "image": "https://siol.net/media/img/2f/ca/d4aa80097ec821a1247c.jpeg",
+    "date": 1789466220000
+   },
+   {
+    "title": "Janša: Primorska je za vedno in od vedno slovenska",
+    "link": "https://siol.net/novice/slovenija/jansa-primorska-je-za-vedno-in-od-vedno-slovenska-701474",
+    "image": "https://siol.net/media/img/2c/16/35a84370c0e08d6b486f.jpeg",
+    "date": 1789465560000
+   },
    {
     "title": "Slovenski skoki ob eno mesto, pred zimo še brez miru",
     "link": "https://siol.net/sportal/zimski-sporti/slovenski-skoki-ob-eno-mesto-pred-zimo-se-brez-miru-701407",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/novice/slovenija/radarska-slika-padavin-aktualna-vremenska-slika-za-slovenijo-664368",
     "image": "https://siol.net/media/img/fc/e8/04a39738d32ef800c163.jpeg",
     "date": 1789464660000
-   },
-   {
-    "title": "Slovenija z odzivnejšim internetom kot Francija, Združeno kraljestvo, Španija …",
-    "link": "https://siol.net/novice/digisvet/slovenija-z-odzivnejsim-internetom-kot-francija-zdruzeno-kraljestvo-spanija-701461",
-    "image": "https://siol.net/media/img/1c/37/64c997aa56bbe1345de9.jpeg",
-    "date": 1789464600000
-   },
-   {
-    "title": "L'Oréal v središču škandala: izdelki za ravnanje las naj bi skrivali nevarno tveganje",
-    "link": "https://siol.net/trendi/moda-in-lepota/l-oreal-v-srediscu-skandala-izdelki-za-ravnanje-las-naj-bi-skrivali-nevarno-tveganje-701458",
-    "image": "https://siol.net/media/img/65/9a/388b700d49f7df9e8d7b.jpeg",
-    "date": 1789463760000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Bor Zuljan predstavil prvo pesem po koncu kariere pri Šank Rocku",
+    "link": "https://www.zurnal24.si/magazin/film-glasba-tv/bor-zuljan-predstavil-prvo-pesem-po-koncu-kariere-pri-sank-rocku-465163",
+    "image": "https://www.zurnal24.si/media/img/09/b9/2e8b6a50cbf19c968a5e.jpeg",
+    "date": 1789465140000
+   },
+   {
     "title": "NBA zvezdnik, odgovoren za največji škandal v zgodovini lige, ima nov klub",
     "link": "https://www.zurnal24.si/sport/kosarka/nba-zvezdnik-odgovoren-za-najvecji-skandal-v-zgodovini-lige-ima-nov-klub-465161",
     "image": "https://www.zurnal24.si/media/img/86/9b/41043e840f5a113ae54e.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/vec-kot-milijon-ljudi-zaluje-za-24-letno-zvezdnico-465154",
     "image": "https://www.zurnal24.si/media/img/a6/28/2f91cddeb8b831de58f9.jpeg",
     "date": 1789458780000
-   },
-   {
-    "title": "Pojdite na pohod, zato bodo nekatere stavbe zasijale v oranžni barvi",
-    "link": "https://www.zurnal24.si/zdravje/pojdite-na-pohod-zato-bodo-nekatere-stavbe-zasijale-v-oranzni-barvi-465155",
-    "image": "https://www.zurnal24.si/media/img/82/43/65b3e9dfb3ff2b52e046.jpeg",
-    "date": 1789457160000
    }
   ],
   "reuters": [
@@ -199,20 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
-    "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14dc-immig-visa-1-cjwt/14dc-immig-visa-1-cjwt-mediumSquareAt3X.jpg",
-    "date": 1789465455000,
-    "titleSl": "Sodnik blokira Trumpovo pravilo, namenjeno mednarodnim študentom in novinarjem"
-   },
-   {
-    "title": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
-    "image": "https://static01.nyt.com/images/2026/09/09/multimedia/00dc-scotus-ballots-gqkf/00dc-scotus-ballots-gqkf-mediumSquareAt3X.jpg",
-    "date": 1789464793000,
-    "titleSl": "Vrhovno sodišče blokira načrt Trumpove administracije za preverjanje glasovanja po pošti"
-   },
-   {
     "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
     "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
     "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15xp-space-weapons-vckz/15xp-space-weapons-vckz-mediumSquareAt3X.jpg",
@@ -220,25 +206,39 @@
     "titleSl": "ZDA so v vesolje namestile orožje, pravi sekretar letalskih sil"
    },
    {
-    "title": "The ‘But China!’ Dilemma Driving the A.I. Race",
-    "link": "https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html",
-    "image": "https://static01.nyt.com/images/2026/09/15/opinion/15eks-sheehan-image-01/15eks-sheehan-image-01-mediumSquareAt3X.jpg",
-    "date": 1789462989000,
-    "titleSl": "\"Ampak Kitajska!\" Dilema, ki poganja A.I. DIRKO"
+    "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+    "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+    "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-kyrgyzstan-economy-01-cbjk/10int-kyrgyzstan-economy-01-cbjk-mediumSquareAt3X.jpg",
+    "date": 1789463609000,
+    "titleSl": "Čas je za razcvet v Kirgiziji, vljudnost v delu vojne v Ukrajini"
    },
    {
-    "title": "‘Every Awards Show Could Be Sponsored by Botox, but This One Stood Out’: 3 Writers Assess the Emmys",
-    "link": "https://www.nytimes.com/2026/09/15/opinion/emmys-widows-bay-the-pitt.html",
-    "image": "https://static01.nyt.com/images/2026/09/15/opinion/15-roundtable/15-roundtable-mediumSquareAt3X.jpg",
-    "date": 1789456967000,
-    "titleSl": "\"Vsako oddajo nagrad bi lahko sponzoriral Botox, vendar je ta izstopal\": 3 pisatelji ocenjujejo emmyje"
+    "title": "Best and Worst Moments From the 2026 Emmys",
+    "link": "https://www.nytimes.com/2026/09/15/arts/television/emmys-best-worst-moments.html",
+    "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15cul-emmys-best-worst-07-zbtj/15cul-emmys-best-worst-07-zbtj-mediumSquareAt3X.jpg",
+    "date": 1789463068000,
+    "titleSl": "Najboljši in najslabši trenutki iz emmyjev leta 2026"
    },
    {
-    "title": "Jimmy Fallon Doesn’t Trust Trump to Handle A.I. Concerns",
-    "link": "https://www.nytimes.com/2026/09/15/arts/television/jimmy-fallon-trump-ai.html",
-    "image": "",
-    "date": 1789450341000,
-    "titleSl": "Jimmy Fallon ne zaupa Trumpu, da bo obravnaval skrbi glede umetne inteligence"
+    "title": "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
+    "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15POL-VOTER-CONFUSION-qmjw/15POL-VOTER-CONFUSION-qmjw-mediumSquareAt3X.jpg",
+    "date": 1789463066000,
+    "titleSl": "Z blokiranimi Trumpovimi načrti si države prizadevajo obnoviti zaupanje v glasovanje po pošti"
+   },
+   {
+    "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15int-canada-carney-invest-vtmk/15int-canada-carney-invest-vtmk-mediumSquareAt3X.jpg",
+    "date": 1789463044000,
+    "titleSl": "Carney predstavlja Kanado kot raj za stabilnost naložb v kaotičnem svetu"
+   },
+   {
+    "title": "Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates",
+    "link": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
+    "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15DC-FED-1-vkmq/15DC-FED-1-vkmq-mediumSquareAt3X.jpg",
+    "date": 1789463043000,
+    "titleSl": "Warsh se pripravlja na obračun s Trumpom, ko se Fed sooča s pritiskom za dvig obrestnih mer"
    }
   ],
   "bbc": [
@@ -331,6 +331,34 @@
   ],
   "guardian": [
    {
+    "title": "Pensioners are ‘big winners’ with triple-lock set to rise by 3.9%, lifting state pension to £13,000 – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates",
+    "image": "https://i.guim.co.uk/img/media/f2f9599d15cc295c15a25418367cb77c148c6a83/1542_1383_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=ddbf1768ac1c5d36dedbc7efac04718a",
+    "date": 1789465719000,
+    "titleSl": "Upokojenci so \"veliki zmagovalci\" s trojno ključavnico, ki naj bi se povečala za 3,9%, s čimer se bo državna pokojnina dvignila na 13.000 £ – poslovno v živo"
+   },
+   {
+    "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+    "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+    "image": "https://i.guim.co.uk/img/media/1dd6cbd1af236b5615a41ecdabc642499b19d602/2_0_3941_3155/master/3941.jpg?width=140&quality=85&auto=format&fit=max&s=260ffbc6e7c472b53dae9682451890da",
+    "date": 1789465572000,
+    "titleSl": "Ruska vojna ladja izstreljuje rakete na danski helikopter, medtem ko Natova letala sestreljujejo brezpilotna letala nad Litvo"
+   },
+   {
+    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&quality=85&auto=format&fit=max&s=6c51247cdb74b2e7d314085df6b665fb",
+    "date": 1789465213000,
+    "titleSl": "Litva obvešča zaveznike EU po tem, ko so nato čez noč sestrelili brezpilotno letalo – Evropa v živo"
+   },
+   {
+    "title": "One of Sydney’s largest councils joins ban on ‘pervert’ glasses at local swimming pools",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/15/one-of-sydneys-largest-councils-joins-ban-on-pervert-glasses-at-local-swimming-pools-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/cba9de4612508c641eed574bfa4340265058f355/291_0_1948_1559/master/1948.jpg?width=140&quality=85&auto=format&fit=max&s=3798efe7fe36090a22b59c93c9bff94f",
+    "date": 1789465080000,
+    "titleSl": "Eden največjih svetov v Sydneyju se je pridružil prepovedi \"perverznih\" očal na lokalnih bazenih"
+   },
+   {
     "title": "Louise Haigh: UK must heed warnings from AI experts",
     "link": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
     "image": "https://i.guim.co.uk/img/media/a725dd07e2ae5e7c8ef13c06bdecc2ba0bbae768/250_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=e0ef591f3a4ecd2be4fab9a97f020235",
@@ -343,34 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/319ede727f93aa0da1da84beb0fda39afdd49ebf/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=af07e1e175f888a8132d7e327578e68f",
     "date": 1789464758000,
     "titleSl": "Farage pravi, da bi reformna vlada Združenega kraljestva ustavila sindikate, ki financirajo delo, če blokirajo donacije v višini 72 milijonov £ – britanska politika v živo"
-   },
-   {
-    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&quality=85&auto=format&fit=max&s=6c51247cdb74b2e7d314085df6b665fb",
-    "date": 1789463829000,
-    "titleSl": "Litva obvešča zaveznike EU po tem, ko so nato čez noč sestrelili brezpilotno letalo – Evropa v živo"
-   },
-   {
-    "title": "Parents seek out school uniform deals, cutting average spend to £54.53",
-    "link": "https://www.theguardian.com/business/2026/sep/15/school-uniform-deals-spend-grocery-inflation",
-    "image": "https://i.guim.co.uk/img/media/d41608b9d322c810a4fde39f4cf3d14da9b6886b/304_45_3937_3150/master/3937.jpg?width=140&quality=85&auto=format&fit=max&s=932ecc426962feb29acac2a1a9b837d3",
-    "date": 1789462895000,
-    "titleSl": "Starši iščejo šolske uniforme, s čimer se povprečna poraba zmanjša na 54,53 £"
-   },
-   {
-    "title": "Australia’s Indigenous population estimated at 2.2m before ‘demographic catastrophe’ of colonisation",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/15/australia-indigenous-population-before-colonisation-underestimated-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/e2009ea9527d314d1b8db783959fc226df5e54a3/1117_0_5586_4468/master/5586.jpg?width=140&quality=85&auto=format&fit=max&s=304828bc11b823b25d5db2f7e5763047",
-    "date": 1789462831000,
-    "titleSl": "Domorodno prebivalstvo Avstralije je bilo ocenjeno na 2,2 milijona pred \"demografsko katastrofo\" kolonizacije"
-   },
-   {
-    "title": "Make NHS and military uniforms in UK, fashion firms urge Burnham",
-    "link": "https://www.theguardian.com/business/2026/sep/15/nhs-mod-uniforms-uk-fashion-firms-andy-burnham",
-    "image": "https://i.guim.co.uk/img/media/9ad231a6446265e220ed9ddc3e0f374900457b51/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=51743303a7ce802d76d04dc96bdd621f",
-    "date": 1789459849000,
-    "titleSl": "Izdelujejo NZS in vojaške uniforme v Združenem kraljestvu, modna podjetja pozivajo Burnhama"
    }
   ],
   "spiegel": [
@@ -421,6 +421,12 @@
     "date": 0
    },
    {
+    "title": "„Bares für Rares“ am 15. September 2026 - 10-Karat-Saphir aus Rom verkauft",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-heute-anhaenger-mit-10-karat-bringt-ueber-6000-euro-ein-6aa900858191ba86095119b4",
+    "image": "https://images.bild.de/6aa900858191ba86095119b4/28dcb07dead733a36e8e386bcf85e185,583880ae?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kind-Lob und Kohle-Verzicht - So läuft der Wagner-Poker bei Hannover 96",
     "link": "https://www.bild.de/sport/fussball/hannover-96-kind-lob-und-kohle-verzicht-so-laeuft-der-wagner-poker-6aa8fd2e14e96b91c66facd4",
     "image": "https://images.bild.de/6aa8fd2e14e96b91c66facd4/aca423db6fbf84aaa138b9f0380fb51b,cc7a5012?w=1280",
@@ -443,15 +449,21 @@
     "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/eltif-so-oeffnet-sich-an-der-boerse-die-vip-lounge-der-superreichen-6aa3eaaa56f343d9f4dd1cbb",
     "image": "https://images.bild.de/6aa3eaaa56f343d9f4dd1cbb/de680375e0446d66704146d60f621c97,46c42e4f?w=1280",
     "date": 0
-   },
-   {
-    "title": "Nachbarn sprechen nach ihrem Drogen-Tod - Hayden Panettiere bekam „kleine Tütchen“ geliefert",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/hayden-panettiere-36-nachbarn-sahen-wie-sie-kleine-tuetchen-geliefert-bekam-6aa8d99d77bd109fcdd017a4",
-    "image": "https://images.bild.de/6aa8d99d77bd109fcdd017a4/d8ae20da85a0cabb44d2c5be1f342887,e175e5a7?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Rohre auf den Gleisen - Niederlande: Bahnverkehr nach Sabotageakt gestört",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrVVJpMEJNSmVNd0Z1cWZYWWtHeElrRzV1VmJfNEV3cmw4dThON1lkZUh3NXE2R1YwVHUwVVV4UkRGQQ?oc=5",
+    "image": "",
+    "date": 1789466100000
+   },
+   {
+    "title": "„Macht alles falsch“: Presse zerreißt Woltemade",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fOXkweHBiaWU5MzJjclJTa1FIek9GMVpZRG9PTzZWbVV3RFA5M2lRU0luRlIyX1hTbVkyT005cXpLZw?oc=5",
+    "image": "",
+    "date": 1789465980000
+   },
    {
     "title": "Überfall in Tschechien - Fluchtauto nach Raub im Weinviertel gestoppt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1YlI1Q0ROYTVjb0FSZ3FvQTVWVldkWm4xTjdQUnUwQzgtR1FjVGRHLW9Va2RJVzVyZWQ5dTROLTlqZw?oc=5",
@@ -465,13 +477,6 @@
     "date": 1789465500000
    },
    {
-    "title": "90 Prozent Frauen - Mehr als 100.000 Menschen in Japan älter als 100",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01NFJ6eEFmMW9MN1lZMjM4XzRoWUUwdml2Q2p2Ykppb3IyR3RxSU11OWNpRUl2NzBvOWhLam5tdFBldw?oc=5",
-    "image": "",
-    "date": 1789465200000,
-    "titleSl": "90 Prozent Frauen - Mehr ALS 100.000 Menschen na Japonskem älter ALS 100"
-   },
-   {
     "title": "Unvorsichtiger Dealer - Kiloweise Drogen in zwei Bunkerwohnungen in Wien",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DZGI3d2dCSkRxVEozcW1wR3BHTVZwREI1OF9sc3JpcGFSLVhrYUFHR25IRFlpZFRvMExFQVU1d0xidw?oc=5",
     "image": "",
@@ -483,15 +488,15 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10a3ltRkN1Tkduc1c5MkxwSkxTUUxLQUVCc2ZCN3RjWUpuUDFPbmg1aUhvZWY0b1dMckdKYW5yWV9sdw?oc=5",
     "image": "",
     "date": 1789464600000
-   },
-   {
-    "title": "„Vom Stolz der Straße“ - Mashood Khan: „Monster werden nicht geboren“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4tNmZKaEpCUW56RHdETnZvZGkxVnhVUmhObzdnakRCdzVxUFk0R1NfRlNkNU1PSmJfSXExLTJWTkV6dw?oc=5",
-    "image": "",
-    "date": 1789464240000
    }
   ],
   "rainews": [
+   {
+    "title": "Europa League al via: Milan e Juve a caccia di riscatto",
+    "link": "https://www.rainews.it/maratona/2026/09/europa-league-calcio-fase-campionato-giornata-1-milan-juventus-news-aggiornamenti-video-cronaca-testuale-117a2262-5769-4c56-8d55-c573d6772e8a.html",
+    "image": "https://www.rainews.it/dl/img/2026/05/03/1777831144870_large.jpg",
+    "date": 1789465560000
+   },
    {
     "title": "Teheran esclude \"ogni dialogo con Usa nelle condizioni attuali\".",
     "link": "https://www.rainews.it/maratona/2026/09/guerre-medio-oriente-netanyahu-contro-naza-il-documentario-sulle-stragi-civili-a-gaza-incita-antisemitismo-127bcdce-e80f-4165-8160-9c008c018ce3.html",
@@ -524,12 +529,6 @@
     "link": "https://www.rainews.it/articoli/2026/09/harry-e-meghan-trasferiscono-figli-in-una-nuova-scuola-ragioni-di-sicurezza-regno-unito-b06adb03-0888-4b4e-a209-01a4a6ef8465.html",
     "image": "https://www.rainews.it/dl/img/2026/9/08/1788867876651_rainewsfafdecadebeddf.jpg",
     "date": 1789462560000
-   },
-   {
-    "title": "Spiava i conti di Mattarella e Meloni, chiuse indagini su ex dipendente banca",
-    "link": "https://www.rainews.it/articoli/2026/09/spiava-i-conti-di-mattarella-e-meloni-chiuse-indagini-su-ex-dipendente-banca-70e931d7-3e0e-49c8-b46a-a0b210ce730e.html",
-    "image": "https://www.rainews.it/dl/img/2023/06/07/1686126274172_work.jpg",
-    "date": 1789460280000
    }
   ],
   "lemonde": [
