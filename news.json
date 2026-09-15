@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15T01:56:24.962Z",
+ "generatedAt": "2026-09-15T01:58:24.388Z",
  "sources": {
   "siol": [
    {
@@ -202,7 +202,7 @@
     "title": "Emmy Winners 2026: See the Updating List",
     "link": "https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html",
     "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14cul-emmy-winners-list-RHYS-Widow-tcml/14cul-emmy-winners-list-RHYS-Widow-tcml-mediumSquareAt3X.jpg",
-    "date": 1789436867000,
+    "date": 1789437269000,
     "titleSl": "Dobitniki emmyjev 2026: Oglejte si seznam za posodabljanje"
    },
    {
@@ -243,11 +243,25 @@
   ],
   "bbc": [
    {
+    "title": "Lucy Letby public inquiry findings set to be published",
+    "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d7/live/7536f240-4ead-11f1-a4e8-2309d38aa073.jpg",
+    "date": 1789437275000,
+    "titleSl": "Ugotovitve javne poizvedbe Lucy Letby bodo objavljene"
+   },
+   {
     "title": "Emmys 2026: The winners and nominations list",
     "link": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02f2/live/2ca28070-b09c-11f1-9e7d-cb2f675dfcb0.jpg",
     "date": 1789435522000,
     "titleSl": "Emmys 2026: Seznam zmagovalcev in nominacij"
+   },
+   {
+    "title": "Mass nesting brings swarms of turtles to Mexican beach",
+    "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2069/live/6f3c6140-b0a0-11f1-9e7d-cb2f675dfcb0.jpg",
+    "date": 1789434535000,
+    "titleSl": "Množično gnezdenje prinaša roje želv na mehiško plažo"
    },
    {
     "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
@@ -269,20 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg",
     "date": 1789431048000,
     "titleSl": "Nato sestrelil dron, ki je vstopil v litovski zračni prostor"
-   },
-   {
-    "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
-    "link": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35b4/live/c58e1460-b093-11f1-b56d-af55c73eb94c.jpg",
-    "date": 1789430674000,
-    "titleSl": "Na slikah: Zvezde na rdeči preprogi na podelitvi nagrad Emmy v Los Angelesu"
-   },
-   {
-    "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
-    "link": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf1/live/bf5aa010-b091-11f1-abf3-2144c1c3dc24.jpg",
-    "date": 1789429863000,
-    "titleSl": "Chris Mason: Prepir glede reformnih mega donacij ima še kilometrino"
    }
   ],
   "aljazeera": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Seit fast 6 Monaten verschwunden - Britische Tee-Erbin soll ihre Söhne entführt haben",
+    "link": "https://www.bild.de/news/ausland/britische-tee-erbin-soll-ihre-soehne-entfuehrt-haben-6aa8316fecebd74717d78cc8",
+    "image": "https://images.bild.de/6aa8316fecebd74717d78cc8/3336e2a7ac04d6f2ec80f8e0499201b3,842e758e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Der Bürger muss draufzahlen“ - Nach diesem Chrupalla-Satz platzt Künast der Kragen",
+    "link": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/der-buerger-muss-draufzahlen-nach-diesem-chrupalla-satz-platzt-kuenast-der-kragen-6aa891f3250f8ce245e4ceb6",
+    "image": "https://images.bild.de/6aa891f3250f8ce245e4ceb6/799b825b6f0da60f1046010d5501342d,4080147d?w=1280",
+    "date": 0
+   },
+   {
     "title": "Hessen - 60-Jähriger niedergeschossen!",
     "link": "https://www.bild.de/news/inland/dietzenbach-mann-60-durch-schuss-getoetet-6aa898ca250f8ce245e4cecf",
     "image": "https://images.bild.de/6aa898ca250f8ce245e4cecf/8965012a6291c8f40e66909cf55e261f,5f078e35?w=1280",
@@ -436,54 +448,41 @@
     "link": "https://www.bild.de/leben-wissen/haeufige-elternfragen-sind-meine-sorgen-normal-herr-erziehungspapst-6a9e79d1721eb476650a21c3",
     "image": "https://images.bild.de/6a9e79d1721eb476650a21c3/ff035a0eb295e17f8effe63f4457ee42,326fa840?w=1280",
     "date": 0
-   },
-   {
-    "title": "Titel-Hammer um Roman Reigns - Jetzt LIVE „RAW“ aus Mexico City schauen!",
-    "link": "https://www.bild.de/bild-plus/sport/mehr-sport/wrestling/hier-gibt-es-wwe-raw-live-bei-bild-86588196.bild.html",
-    "image": "https://images.bild.de/65915db7136f1033ebf1ee6e/1623cc0cad97bf0598ae743ed87f3889,c86cf930?w=1280",
-    "date": 0,
-    "titleSl": "Titel-Hammer um Roman Reigns - Jetzt LIVE \"RAW\" aus Mexico City schauen!"
-   },
-   {
-    "title": "US-Präsident poltert los - Trump spricht von „kranker Verschwörung gegen KI“",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-spricht-von-kranker-verschwoerung-gegen-ki-6aa87d68250f8ce245e4ce6b",
-    "image": "https://images.bild.de/6aa87d68250f8ce245e4ce6b/c413fd6188983e543fbb6c0e6ec24378,56ff190?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Das freie Wort - Erinnerung an Jörg Haider - krone.at",
+    "title": "Das freie Wort - Erinnerung an Jörg Haider",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZ1hmV2tNeTJRVFFOQlMxSXNHSU4ydU14ZHlHTHFUbHc4VkdXaHRUbDEwaUcyN2tIdWlfc0NvVHBkdDdGQ2U1ZkdwTXA0TGNWRVRtTWdwVmQ3ZXBwSzctOHBSZ1NkZmFQNExZbg?oc=5",
     "image": "",
     "date": 1789432512000
    },
    {
-    "title": "Das freie Wort - Zu wenig Lehrstellen - krone.at",
+    "title": "Das freie Wort - Zu wenig Lehrstellen",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wUHpsczNoakw4ZTFLTUpoZ0tydF9MWmdyaE5MMGhpOW81MVdUWWc2aEQyRFhCMGc5cUlReUV2U2tOUVc0QzljT3ZvUmRrcXNWcHdlRlg3SzIyRWxlTTN4T1Q1WE9oQUFVdjJ6Tg?oc=5",
     "image": "",
     "date": 1789432511000
    },
    {
-    "title": "Das freie Wort - Er schreibt Radsport-Geschichte - krone.at",
+    "title": "Das freie Wort - Er schreibt Radsport-Geschichte",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LMjNtOVpnNHlkVkZRVGFPeTF6OFZ3RUtmYVBtXzFnbGQ1aUhCaXNBRDVBcUk0bFRjVFRISjNvMmV2SHdDdklIUllaQ1AzdUVGUTNudVdScHdzOHdkQ1NhbC15bFE2UHh6SjJ5Qg?oc=5",
     "image": "",
     "date": 1789432426000
    },
    {
-    "title": "Das freie Wort - Diskussion um das Antrittsalter - krone.at",
+    "title": "Das freie Wort - Diskussion um das Antrittsalter",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yWjJvUzNtMXRnOUpHS0NBN19McUJVcUNoNUx2OXN3NGFvZzc3WGxKZVBoOTlhYU5pYTBjLWQwbkMzZHRXcXRjcFFMRDBpUlBnam1VVEVta1dPa201U3NYbEdNaEJLd0tPTzY2eg?oc=5",
     "image": "",
     "date": 1789432426000
    },
    {
-    "title": "Das freie Wort - Artikel zu Céline Dion - krone.at",
+    "title": "Das freie Wort - Artikel zu Céline Dion",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQkV5TENBcnVmcmt1bGtHQ09EQi1PeC04dW9QWkJUVGNVa2ZlVWdSVDJ0QmZxZVY1TmQxRVBOa3plSGZnLVp5UC1qQlE2U2J4OHlrU3RWa2NkMWpNRFJXLWg2dmJxQzlINU82Vg?oc=5",
     "image": "",
     "date": 1789432426000
    },
    {
-    "title": "Das freie Wort - Pensionsalter 67 - krone.at",
+    "title": "Das freie Wort - Pensionsalter 67",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUHFmS0dtbHUtY1BYbjJZN1pnLTJnTm11NzNQc1NXSnQ4UW1rb0hPZGVNU3l6RkJRUmFneVdaZjFOekVWakZCREpBVzNwSV9LbGt5bTVLRndnX21HWVRxclZPd1ZnUDBHWjB3dg?oc=5",
     "image": "",
     "date": 1789432370000
