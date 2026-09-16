@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T09:48:24.786Z",
+ "generatedAt": "2026-09-16T09:50:41.784Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,16 @@
   ],
   "24ur": [
    {
-    "title": "Sodišče v Haagu Thacija obsodilo na 25 let zapora zaradi vojnih zločinov",
+    "title": "Sodišče v Haagu Thacija obsodilo na 25 let zapora",
     "link": "https://www.24ur.com/novice/tujina/thaciju-bodo-izrekli-sodbo-kosovo-in-srbija-cakata-na-razplet.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/9f111d85f6d1b39df9e1_63648686.jpg?v=d49d&fop=fp:0.44:0.38",
-    "date": 1789551726000
+    "date": 1789552065000
+   },
+   {
+    "title": "Voznik streljal v zrak, policisti ob cesti našli tulce",
+    "link": "https://www.24ur.com/novice/crna-kronika/pri-novem-mestu-voznik-streljal-v-zrak-policisti-nasli-tulce.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/06493788194663933018_63648698.jpg?v=0e1b&fop=fp:0.49:0.47",
+    "date": 1789552010000
    },
    {
     "title": "Omejitev družbenih omrežij: do 13. leta prepoved, do 18. le ena ura na dan",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/epilog-manchesterskega-derbija-za-sodnisko-napako-je-kriv-tunelski-vid.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/607085e400a5be62218f_63634513.jpg?v=fb85&fop=fp:0.50:0.22",
     "date": 1789547730000
-   },
-   {
-    "title": "Hutijevci naj bi sestrelili savdsko lovsko letalo F-15",
-    "link": "https://www.24ur.com/novice/tujina/hutijevci-naj-bi-sestrelili-savdsko-lovsko-letalo-f-15.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/b90656ff4e8996f907eb_63648650.jpg?v=44d3&fop=fp:0.48:0.49",
-    "date": 1789547434000
    }
   ],
   "rtvslo": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "NBC Local News Helicopter Crashes in Los Angeles, Killing at Least 3",
+    "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
+    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-helicopter/16xp-helicopter-mediumSquareAt3X-v2.jpg",
+    "date": 1789552025000,
+    "titleSl": "NBC Local News Helikopterska nesreča v Los Angelesu, najmanj 3 mrtvih"
+   },
+   {
     "title": "Trump Bars Some South Africans Over Claims of Anti-White Discrimination",
     "link": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html",
     "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-trump-safrica-visas-vwcq/15int-trump-safrica-visas-vwcq-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/xp-mecca-vfbl/xp-mecca-vfbl-mediumSquareAt3X.jpg",
     "date": 1789547155000,
     "titleSl": "Hutiji pravijo, da so sestrelili savdsko lovsko letalo in zanikajo ciljanje Meke"
-   },
-   {
-    "title": "News Helicopter Crashes in Los Angeles, Killing at Least 3",
-    "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
-    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-helicopter/16xp-helicopter-mediumSquareAt3X-v2.jpg",
-    "date": 1789546235000,
-    "titleSl": "Novice Helikopterska nesreča v Los Angelesu, pri čemer je umrlo najmanj 3 ljudi"
    }
   ],
   "bbc": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Verrückte Lage an manchen Flughäfen - Flüssigkeiten-Witz: Es entscheidet die Kontrollspur",
+    "link": "https://www.bild.de/leben-wissen/reisen/verrueckte-lage-an-manchen-flughaefen-fluessigkeiten-witz-die-kontrollspur-entscheidet-6aaa3cddbfb40073cb2f32ef",
+    "image": "https://images.bild.de/6aaa3cddbfb40073cb2f32ef/fa181da0182237d307bc74ff4cd156c9,73e0ee3?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Ärzte warnen - So können Laptops unserer Haut schaden",
+    "link": "https://www.bild.de/leben-wissen/digital/laptop-hitze-kann-toasted-skin-syndrom-ausloesen-6aa2bc374efdd38dc3e6a397",
+    "image": "https://images.bild.de/6aa2bc374efdd38dc3e6a397/f99196769705a5ab864bef9b5c67384a,4a70fbb2?w=1280",
+    "date": 0
+   },
+   {
     "title": "Wegen Kriegsverbrechen - 25 Jahre Haft für Kosovos Ex-Präsident",
     "link": "https://www.bild.de/politik/ausland-und-internationales/in-den-haag-wegen-kriegsverbrechen-25-jahre-haft-fuer-kosovos-ex-praesident-6aaa62d9a9420481bd2134cf",
     "image": "https://images.bild.de/6aaa62d9a9420481bd2134cf/e36a47fe967500bcb9df68e176b161a7,c202fa70?w=1280",
@@ -438,18 +450,6 @@
     "image": "https://images.bild.de/6aaa6006a9420481bd21345a/30f3996348bbb63c395543d3ba9937fc,76f4d32c?w=1280",
     "date": 0,
     "titleSl": "Dvojni nahrbtnik Zeigt Bauch - Ratifos Tattoo-Botschaft an die HFC-Fans"
-   },
-   {
-    "title": "Welches BILDplus Abo-Modell passt zu mir? - Darum lohnt sich BILDplus Premium",
-    "link": "https://www.bild.de/sonstiges/welches-abo-modell-passt-zu-mir-darum-lohnt-sich-bildplus-premium-6917044cc7cd0ff6c6201986",
-    "image": "https://images.bild.de/6917044cc7cd0ff6c6201986/4deff9da67d5ae66b0b2f8b0067b252f,bee9ed2a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "BILD kennt den Plan - DANN soll Lautern-Knipser Prtajin wieder spielen!",
-    "link": "https://www.bild.de/sport/fussball/1-fc-kaiserslautern-dann-soll-knipser-prtajin-wieder-spielen-6aaa528691d8cffaad47b14b",
-    "image": "https://images.bild.de/6aaa528691d8cffaad47b14b/9739950771d8f23e846b5105844e7e52,c13cf67a?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -581,7 +581,7 @@
     "title": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se acusan mutuamente de “cronificar” la crisis de Ceuta",
     "link": "https://elpais.com/espana/2026-09-16/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/BVLB7A2MP5CZ7OJPPFWEBWDHMQ.jpg?auth=128fe65ff43ee157aab415d3885e2fff55f7d50152e0ade04eb38b06b1499d62",
-    "date": 1789552014000,
+    "date": 1789552100000,
     "titleSl": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se acusan mutuamente de \"cronificar\" la crisis de Ceuta"
    },
    {
