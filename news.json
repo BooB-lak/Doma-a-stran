@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T08:28:27.564Z",
+ "generatedAt": "2026-09-16T08:31:09.245Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "PRENOS V ŽIVO: Von der Leyen: EU omejuje družbena omrežja za najmlajše: meja pri 13 letih",
+    "title": "Von der Leyen: EU omejuje družbena omrežja za najmlajše: meja pri 13 letih",
     "link": "https://www.24ur.com/novice/tujina/von-der-leyen-o-umetni-inteligenci-in-zasciti-otrok-na-spletu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/67e02819849cc099ab18_63648644.jpg?v=0409&fop=fp:0.48:0.16",
-    "date": 1789547269000
+    "date": 1789547378000
    },
    {
     "title": "Bizarno: gledalec brcnil odvrženi bidon med glavnino in povzročil padec kolesarja",
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Houthis Say They Downed a Saudi Fighter Jet and Deny Targeting Mecca",
+    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
+    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/xp-mecca-vfbl/xp-mecca-vfbl-mediumSquareAt3X.jpg",
+    "date": 1789547155000,
+    "titleSl": "Hutiji pravijo, da so sestrelili savdsko lovsko letalo in zanikajo ciljanje Meke"
+   },
+   {
     "title": "News Helicopter Crashes in Los Angeles, Killing at Least 3",
     "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-helicopter/16xp-helicopter-mediumSquareAt3X-v2.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15db-openai-funding-pczb/15db-openai-funding-pczb-mediumSquareAt3X.jpg",
     "date": 1789531290000,
     "titleSl": "OpenAI razmišlja o novem financiranju po vrednotenju 1,5 bilijona $"
-   },
-   {
-    "title": "House Directs Trump to Halt War With Iran or Secure Congress’s Approval",
-    "link": "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html",
-    "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15dc-warpowers-mqlb/15dc-warpowers-mqlb-mediumSquareAt3X.jpg",
-    "date": 1789527661000,
-    "titleSl": "House naroča Trumpu, naj ustavi vojno z Iranom ali zagotovi odobritev kongresa"
    }
   ],
   "bbc": [
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
+    "title": "Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/7233fe5cf08b77d78c9080c39da75951c6889fd8/232_0_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=d813f03e67fe06bd0e6348989eed5bcf",
+    "date": 1789547248000,
+    "titleSl": "Kanada bi lahko postala prva \"pridružena članica\" EU, predlaga von der Leyen – Evropa v živo"
+   },
+   {
+    "title": "Lisa Nandy brands Musk’s X a ‘disgrace’ as she pledges crackdown on social media doxxing – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/d7910fee2be333e8519832d795a27ed4ca929027/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c149bdba17e0cf98b6766446e2721371",
+    "date": 1789546839000,
+    "titleSl": "Lisa Nandy Muskov X označuje za \"sramoto\", ko obljublja zatiranje družbenih medijev doxxing – britanska politika v živo"
+   },
+   {
+    "title": "Mayors and other local leaders could be given powers to oversee water firms",
+    "link": "https://www.theguardian.com/business/2026/sep/16/mayors-and-other-local-leaders-could-be-given-powers-to-oversee-water-firms",
+    "image": "https://i.guim.co.uk/img/media/bb1b3da0ef93093608155086282ee78349f26d1c/480_415_3846_3079/master/3846.jpg?width=140&quality=85&auto=format&fit=max&s=bb4e2a27a03bb6431bbdd879673c7156",
+    "date": 1789546488000,
+    "titleSl": "Župani in drugi lokalni voditelji bi lahko dobili pooblastila za nadzor vodnih podjetij"
+   },
+   {
     "title": "Australia politics live: Minns says Molly Ticehurst’s murderer deserved longer sentence for ‘vicious’ crime’; Sarah Abo and Hugh Riminton announce departures",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/ea9660eb62a69eca3e16ea16ecfdfc45ff1e47e0/255_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=c484778ff0dcfc5ad25ac41139cf54d5",
-    "date": 1789546144000,
+    "date": 1789546291000,
     "titleSl": "Avstralska politika v živo: Minns pravi, da si je morilec Molly Ticehurst zaslužil daljšo kazen za \"zloben\" zločin; Sarah Abo in Hugh Riminton napovedujeta odhod"
-   },
-   {
-    "title": "EU ‘most precarious’ it has ever been as it faces openly hostile world, von der Leyen warns – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/7233fe5cf08b77d78c9080c39da75951c6889fd8/232_0_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=d813f03e67fe06bd0e6348989eed5bcf",
-    "date": 1789546056000,
-    "titleSl": "EU je bila \"najbolj negotova\" doslej, ko se je soočala z odkrito sovražnim svetom, opozarja von der Leyen – Evropa v živo"
    },
    {
     "title": "McLaren to build SUVs geared towards Formula One fans with children",
@@ -352,25 +366,11 @@
     "titleSl": "McLaren bo izdeloval SUV-je, namenjene ljubiteljem Formule 1 z otroki"
    },
    {
-    "title": "Lisa Nandy brands Musk’s X a ‘disgrace’ as she pledges crackdown on social media doxxing – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/d7910fee2be333e8519832d795a27ed4ca929027/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c149bdba17e0cf98b6766446e2721371",
-    "date": 1789545462000,
-    "titleSl": "Lisa Nandy Muskov X označuje za \"sramoto\", ko obljublja zatiranje družbenih medijev doxxing – britanska politika v živo"
-   },
-   {
     "title": "English village votes to leave UK in protest over migrant housing plan",
     "link": "https://www.theguardian.com/uk-news/2026/sep/16/english-village-piddington-leave-uk-protest-migrant-housing-plan",
     "image": "https://i.guim.co.uk/img/media/9b0ab25abe29fb438688af68090cfe7a476bd76c/553_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=562bf8235ab1e67a38f92cd70c36c4eb",
     "date": 1789545169000,
     "titleSl": "Angleška vas glasuje za odhod iz Združenega kraljestva v znak protesta zaradi stanovanjskega načrta migrant"
-   },
-   {
-    "title": "Foreign students to face tough restrictions on bringing in family under Labor’s immigration plan",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/16/labor-migration-overhaul-australia-visa-crack-down-tony-burke-speech",
-    "image": "https://i.guim.co.uk/img/media/db5f34658eedd1f991f58606442f3214db770673/366_0_3350_2680/master/3350.jpg?width=140&quality=85&auto=format&fit=max&s=53ee27891e3f56a1e785859e2a88233e",
-    "date": 1789544006000,
-    "titleSl": "Tuji študenti se bodo soočili s strogimi omejitvami pri vključevanju družin v skladu z načrtom pri"
    }
   ],
   "spiegel": [
@@ -408,7 +408,7 @@
    {
     "title": "Investitionen: Chinesisches Engagement in Deutschland stößt auf Skepsis",
     "link": "https://www.spiegel.de/wirtschaft/investitionen-chinesisches-engagement-in-deutschland-stoesst-auf-skepsis-a-7d03aad7-8e7d-405b-a797-18c47f3fca5f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8a1ca78f-056d-41ec-b783-901efdfa879a_w520_r2.08_fpx30_fpy44.99.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/2828c522-a098-4990-a0bf-c817acaac9f2_w520_r2.08_fpx50_fpy48.jpg",
     "date": 1789544160000
    }
   ],
@@ -458,7 +458,7 @@
     "date": 1789547160000
    },
    {
-    "title": "Jüngster war erst 13 - Teenager brachen in Pizzeria ein: Festnahmen",
+    "title": "Jüngster war erst 13 - Teenager brachen in Pizzeria ein: Festnahmen!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2THF0UnlWbXljZHhwS2hFa0drdFdKMDU4ZVlFOFJBdURJZHJEUi1Zckcxd3Vrc25Cak5wTXpYd3VqUQ?oc=5",
     "image": "",
     "date": 1789547100000
