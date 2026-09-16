@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T13:16:28.477Z",
+ "generatedAt": "2026-09-16T13:18:27.749Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Sodišče v Haagu Hashima Thacija obsodilo na 25 let zapora",
+    "link": "https://www.24ur.com/novice/tujina/thaciju-bodo-izrekli-sodbo-kosovo-in-srbija-cakata-na-razplet.html",
+    "image": "https://images.24ur.com/media/images/213xX/Apr2023/723640c5485e58f07db2_62931563.jpg?v=f212&fop=fp:0.54:0.29",
+    "date": 1789564629000
+   },
+   {
     "title": "Kanada prva pridružena članica EU?",
     "link": "https://www.24ur.com/novice/tujina/kanada-eu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/e7674ef7733837ac4f06_63648708.jpg?v=0f79&fop=fp:0.48:0.48",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/ostalo/dokovic-potrdil-nastop-v-pekingu-tam-se-nikoli-ni-izgubil.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/e1f47dead3f76b4726fa_63639842.jpg?v=130d&fop=fp:0.52:0.17",
     "date": 1789558425000
-   },
-   {
-    "title": "Po napadu v Mariboru prijeli tri moške, tudi mladoletnika",
-    "link": "https://www.24ur.com/novice/crna-kronika/po-napadu-v-mariboru-prejeli-tri-moske-tudi-mladoletnika.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jun2025/fd1ec8869f73242df1fc_63434068.jpg?v=46cc&fop=fp:0.49:0.38",
-    "date": 1789557971000
    }
   ],
   "rtvslo": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "A Colorful Undercover Recording Spurs Fresh Outrage Over Graft in Ukraine",
+    "link": "https://www.nytimes.com/2026/09/16/world/europe/ukraine-corruption.html",
+    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-ukraine-corruption-qhvf/16int-ukraine-corruption-qhvf-mediumSquareAt3X.jpg",
+    "date": 1789564449000,
+    "titleSl": "Barvito snemanje pod krinko sproži novo ogorčenje nad presadki v Ukrajini"
+   },
+   {
     "title": "News Helicopter Crash and Bus Accident in Los Angeles Leave at Least 5 Dead",
     "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-helicopter/16xp-helicopter-mediumSquareAt3X-v2.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-russia-election-mood-top/16int-russia-election-mood-hp-mkcq-mediumSquareAt3X.jpg",
     "date": 1789562657000,
     "titleSl": "Izid ruskih volitev ne bo šokanten. Kaj sledi bi lahko bilo."
-   },
-   {
-    "title": "Trump Administration Outlines Plan for Signs Outside Smithsonian Museum",
-    "link": "https://www.nytimes.com/2026/09/16/arts/design/trump-signs-smithsonian-history-museum.html",
-    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16cul-Smithsonian-Signs-qzbk/16cul-Smithsonian-Signs-qzbk-mediumSquareAt3X.jpg",
-    "date": 1789562326000,
-    "titleSl": "Trumpova administracija opisuje načrt za znake pred muzejem Smithsonian"
    }
   ],
   "bbc": [
@@ -287,76 +287,62 @@
   ],
   "aljazeera": [
    {
+    "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+    "link": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaa7e7bce-1789558395.jpg?resize=1920%2C1440",
+    "date": 1789564191000,
+    "titleSl": "Kitajska je pripravljena \"zaščititi legitimne pravice Irana\", pravi uradnik"
+   },
+   {
+    "title": "FIFA to present review of Infantino’s shelved investment plan to Council",
+    "link": "https://www.aljazeera.com/sports/2026/9/16/fifa-to-present-review-of-infantinos-shelved-investment-plan-to-council?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-12T125240Z_1286451365_RC2UTX9J53EB_RTRMADP_3_SOCCER-FIFA-1789562443.jpg?resize=1920%2C1440",
+    "date": 1789563902000,
+    "titleSl": "FIFA bo Svetu predstavila pregled Infantinovega odloženega naložbenega načrta"
+   },
+   {
+    "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
+    "link": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aaa6d3ef183-1789553983.jpg?resize=1920%2C1440",
+    "date": 1789563673000,
+    "titleSl": "Duterte osebno na ICC prvič zaradi ubojev \"vojne proti drogam\""
+   },
+   {
+    "title": "Photos: Gaza building collapse kills 20, including women and children",
+    "link": "https://www.aljazeera.com/gallery/2026/9/16/photos-gaza-building-collapse-kills-20-including-women-and-children?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-16T062043Z_1865094588_RC24KNAPSQH1_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-BUILDING-COLLAPSE-1789546490.jpg?resize=1920%2C1440",
+    "date": 1789563402000,
+    "titleSl": "Fotografije: Zrušitev stavbe v Gazi terjala 20 življenj, vključno z ženskami in otroki"
+   },
+   {
+    "title": "What is BRICS Pay, and can it rival the West’s SWIFT payments system?",
+    "link": "https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa691c60958-1789301190_149e05-1789557010.jpg?resize=1200%2C630&quality=80",
+    "date": 1789563187000,
+    "titleSl": "Kaj je BRICS Pay in ali lahko tekmuje z zahodnim plačilnim sistemom SWIFT?"
+   },
+   {
     "title": "US political rivals Sanders and Bannon unite on AI warning",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789562085.jpg?resize=1920%2C1080&quality=80",
     "date": 1789562387000,
     "titleSl": "Ameriška politična tekmeca Sanders in Bannon se združita glede opozorila o umetni inteligenci"
-   },
-   {
-    "title": "At least 20 killed as multi-storey building collapses in Gaza City",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789561942.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789561967000,
-    "titleSl": "V zrušitvi večnadstropne stavbe v mestu Gaza je umrlo najmanj 20 ljudi"
-   },
-   {
-    "title": "In Sweden, many breathe sigh of relief as far right suffers election losses",
-    "link": "https://www.aljazeera.com/features/2026/9/16/in-sweden-many-breathe-sigh-of-relief-as-far-right-suffers-election-losses?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/DSCF8806-1789506575.jpg?resize=1920%2C1440",
-    "date": 1789561345000,
-    "titleSl": "Na Švedskem mnogi oddahnejo, saj skrajna desnica utrpi volilne izgube"
-   },
-   {
-    "title": "Taiz camps overflow with Yemenis fleeing fighting after Houthi offensive",
-    "link": "https://www.aljazeera.com/features/2026/9/16/taiz-camps-overflow-with-yemenis-fleeing-fighting-after-houthi-offensive?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/%D9%86%D8%A7%D8%B2%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%A7%D8%B1%D9%81-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%BA%D8%B2%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D8%A8%D9%85%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B1%D9%8A%D9%86-%D8%B5%D9%88%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B0%D8%A8%D8%AD%D8%A7%D9%86%D9%8A-1789545226.jpg?resize=1920%2C1440",
-    "date": 1789560655000,
-    "titleSl": "Taborišča v Taizu so preplavljena z Jemenci, ki bežijo pred spopadi po ofenzivi Hutijev"
-   },
-   {
-    "title": "US set to approve 60,000 heavy bombs for Israel: What that means",
-    "link": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-05-06T192344Z_2020859353_RC2P34ANHY4Q_RTRMADP_3_USA-PULITZER-1718251599.jpg?resize=1920%2C1440",
-    "date": 1789560585000,
-    "titleSl": "ZDA bodo Izraelu odobrile 60.000 težkih bomb: kaj to pomeni"
-   },
-   {
-    "title": "Alex Eala firm on Asian Games participation despite threat of WTA fine",
-    "link": "https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26245153760816-1789558288.jpg?resize=1920%2C1440",
-    "date": 1789558129000,
-    "titleSl": "Podjetje Alex Eala o sodelovanju na azijskih igrah kljub grožnji, da bo WTA kaznovan"
    }
   ],
   "guardian": [
    {
-    "title": "Battle of Chile director Patricio Guzmán dies aged 85",
-    "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
-    "image": "https://i.guim.co.uk/img/media/43b24454f17b84b616666f19f2c396e773ad772e/0_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=c45821b728caf00418e1c2a704c6d34e",
-    "date": 1789564502000,
-    "titleSl": "Direktor bitke za Čile Patricio Guzmán je umrl star 85 let"
-   },
-   {
     "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/0b0af3e09690fa2ca1fd2107b309c936a94651f9/136_188_3096_2477/master/3096.jpg?width=140&quality=85&auto=format&fit=max&s=4807504371f5eb03389577fe1f8a6eaa",
-    "date": 1789564450000,
+    "date": 1789563754000,
     "titleSl": "Nekdanji kosovski predsednik Thaçi, ki ga je mednarodno sodišče v Haagu obsodilo na 25 let zapora – Evropa v živo"
    },
    {
     "title": "House votes for a third time to end Iran war in symbolic move as conflict drags on – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/b8ffcf1157f85ab206570f3c9123e029c6e3dc54/588_0_5883_4706/master/5883.jpg?width=140&quality=85&auto=format&fit=max&s=38c87565b8fddd436b619fb489d61804",
-    "date": 1789564277000,
+    "date": 1789562790000,
     "titleSl": "Predstavniški dom že tretjič glasuje za končanje iranske vojne v simbolični potezi, ko se konflikt vleče naprej – ameriška politika v živo"
-   },
-   {
-    "title": "Kosovo’s former president jailed for 25 years over war crimes",
-    "link": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
-    "image": "https://i.guim.co.uk/img/media/368db6336bace6a16f68f55b6c1b4158d1396dc2/1368_0_3894_3115/master/3894.jpg?width=140&quality=85&auto=format&fit=max&s=9fffb408fa48cb3204ac3f94e6b65785",
-    "date": 1789564181000,
-    "titleSl": "Nekdanji predsednik Kosova zaradi vojnih zločinov obsojen na 25 let zapora"
    },
    {
     "title": "Burnham says budget will be ‘challenging’ and denies he is just ‘tax and spend socialist’ – UK politics live",
@@ -366,11 +352,25 @@
     "titleSl": "Burnham pravi, da bo proračun \"zahteven\" in zanika, da je samo \"obdavčen in porabljen socialist\" – britanska politika v živo"
    },
    {
-    "title": "Houthis appear to target Mecca as House votes to end Trump’s war on Iran | First Thing",
+    "title": "First Thing: Houthis appear to target Mecca as House votes to end Trump’s war on Iran",
     "link": "https://www.theguardian.com/us-news/2026/sep/16/first-thing-houthis-target-mecca-house-votes-end-trump-war-iran",
     "image": "https://i.guim.co.uk/img/media/a2ba6ddd16347d7801923aeaa828903436c00c2b/283_0_2835_2267/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=60bb48a2bce11ee565a446301eca2df3",
     "date": 1789562182000,
-    "titleSl": "Zdi se, da hutiji ciljajo na Meko, saj House glasuje za konec Trumpove vojne proti Iranu | Prva stvar"
+    "titleSl": "Prva stvar: Zdi se, da hutiji ciljajo na Meko, saj House glasuje za konec Trumpove vojne proti Iranu"
+   },
+   {
+    "title": "US to bar some South Africans over claims of anti-white discrimination",
+    "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
+    "image": "https://i.guim.co.uk/img/media/af275bdce91fada2840bbeff88c174be75ad0ef8/1199_200_4496_3597/master/4496.jpg?width=140&quality=85&auto=format&fit=max&s=62cd6efcce656bcda532a6c0e2e3d5d5",
+    "date": 1789562145000,
+    "titleSl": "ZDA bodo nekaterim Južnoafričanom prepovedale obtožbe protibele diskriminacije"
+   },
+   {
+    "title": "Texas to execute man convicted in triple murder as a Georgia execution is put on hold",
+    "link": "https://www.theguardian.com/us-news/2026/sep/16/texas-georgia-executions",
+    "image": "https://i.guim.co.uk/img/media/d0c4167e5ef6a06aed92fd32cb06e112108431b0/270_0_3854_3083/master/3854.jpg?width=140&quality=85&auto=format&fit=max&s=2ff28f48e925fdbea10b2033420e78ee",
+    "date": 1789561924000,
+    "titleSl": "Teksas za usmrtitev moškega, obsojenega za trojni umor, saj je usmrtitev v Georgii odložena"
    }
   ],
   "spiegel": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "„Assoziierte Mitgliedschaft“ - Kanada soll Premium-Partner der EU werden",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/von-der-leyen-schlaegt-assoziierte-mitgliedschaft-vor-kanada-soll-premium-partner-der-eu-werden-6aaa4c7b3e0af7910e520a9a",
+    "image": "https://images.bild.de/6aaa4c7b3e0af7910e520a9a/373c24cdd7ae7e297d2ba9783bf8677e,8afa89c3?w=1280",
+    "date": 0
+   },
+   {
     "title": "Riesen-Veränderung zum Vorjahr - Womit Fortuna vor allem die Bosse glücklich macht",
     "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-womit-das-team-vor-allem-die-bosse-gluecklich-macht-6aaa2b7c569f88cbe8e3f65a",
     "image": "https://images.bild.de/6aaa2b7c569f88cbe8e3f65a/dc6ca2fa69801b2e8c889ff0bc92edf1,e20dd0db?w=1280",
@@ -444,12 +450,6 @@
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/die-geissens-im-tv-alle-sendetermine-und-infos-zur-show-66432f4812a5991534ddfce0",
     "image": "https://images.bild.de/66432f4812a5991534ddfce0/4395a2ef26da2cdb15e411621d95e7ea,b2f4b591?w=1280",
     "date": 0
-   },
-   {
-    "title": "CDU-Regenten stützen Kanzler - Warum unterschrieb Söder den Merz-Brief nicht?",
-    "link": "https://www.bild.de/politik/inland/cdu-laenderchefs-staerken-merz-brief-offenbart-autoritaetsproblem-6aaa5d81a9420481bd21340e",
-    "image": "https://images.bild.de/6aaa5d81a9420481bd21340e/cb51294a9294b71d29b4003a9106ee7f,8cde2e36?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -467,6 +467,12 @@
     "titleSl": "Trener verlängerte - Erfolgscoach bleibt Regionalligist erhalten"
    },
    {
+    "title": "Eklat auch um Gegner - Wilde Szenen! WM-Kicker rastet während Match aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TZTJwSzFlMG4yUTNvZkVvNS1GNFNFMzZXYWVmQ19GcWN2Ylpuc29xRzBJWTFOdDZFUkFXTy16NngzUQ?oc=5",
+    "image": "",
+    "date": 1789564200000
+   },
+   {
     "title": "„Schutz der Sprache“ - Europarat rügt zwei österreichische Bundesländer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lUlhWOEk5QnI5SF9KZmRhQzVwcDV3YVBHSThLa1l6aWVNS0dVYVdzd2dxalhGc0tmZUR1bThGOXZPdw?oc=5",
     "image": "",
@@ -481,12 +487,6 @@
    {
     "title": "Klopeiner See - Letzter Promenaden-Zauber zum Saisonausklang",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1qTU1uVHdrUGVkNlZrNFl4UWtTUWF4dlhLVThKMnVHTDFVd01DLUFEUlhYSl80Vjc1T3FkeGtVRW1YQQ?oc=5",
-    "image": "",
-    "date": 1789563600000
-   },
-   {
-    "title": "Auch reden unmöglich - Schlaflähmung: „Versteinert“ nach dem Aufwachen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtcUFBN2xWVGMtUWplNmFpYWlFZEliYkY1bDNCVjV6bWVwRGN5eUJPS1A4Sjh6YTVHdVQ5Y2lja0xUUQ?oc=5",
     "image": "",
     "date": 1789563600000
    }
@@ -542,7 +542,7 @@
     "title": "EN DIRECT, guerre en Ukraine : Sergueï Lavrov, le ministre des affaires étrangères russe, menace l’Europe « d’une guerre très courte » en cas d’attaque contre la Russie",
     "link": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-serguei-lavrov-le-ministre-des-affaires-etrangeres-russe-menace-l-europe-d-une-guerre-tres-courte-en-cas-d-attaque-contre-la-russie_6772184_3210.html",
     "image": "https://img.lemde.fr/2026/09/12/226/0/2715/1357/644/322/60/0/e9d6b3d_ftp-1-c4otfnygsjss-5066304-01-06.jpg",
-    "date": 1789563447000,
+    "date": 1789563444000,
     "titleSl": "EN DIRECT, guerre en Ukraine : Sergueï Lavrov, le ministre des affaires étrangères russe, menace l'Europe « d' une guerre très courte » en cas d'attaque contre la Russie"
    },
    {
