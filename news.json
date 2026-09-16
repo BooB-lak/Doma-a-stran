@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T01:32:24.289Z",
+ "generatedAt": "2026-09-16T01:34:25.915Z",
  "sources": {
   "siol": [
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Saudi-led coalition intercepts drone headed for Mecca",
-    "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa9c572-1789511026.jpg?resize=1920%2C1440",
-    "date": 1789520994000,
-    "titleSl": "Savdska koalicija prestregla brezpilotno letalo, namenjeno v Meko"
-   },
-   {
     "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789519337.jpg?resize=1200%2C675",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789516069.jpg?resize=1920%2C1080&quality=80",
     "date": 1789516076000,
     "titleSl": "Panika na iranskem letalu, ko nasilno tresenje raztrga kabino"
+   },
+   {
+    "title": "Argentina intensifies campaign against Falklands oil companies",
+    "link": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-15T202927Z_1702424807_RC2WJNADKLX1_RTRMADP_3_BRITAIN-ARGENTINA-FALKLANDS-1789509427.jpg?resize=1920%2C1440",
+    "date": 1789513432000,
+    "titleSl": "Argentina krepi kampanjo proti falklandskim naftnim družbam"
    }
   ],
   "guardian": [
@@ -449,7 +449,44 @@
     "date": 0
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Das freie Wort",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMHRzZEwwb0RYMzNYeHR5RzFzcnhrU3cyYjhQZngyZjF5b1FvR3lhQWN0dWQzMFNQSDlHd25Ld2ZQWmZWQzRuTGdYSkRqemE1VUxNRFVjc1Q?oc=5",
+    "image": "",
+    "date": 1789520654000
+   },
+   {
+    "title": "Das freie Wort - Céline Dion ist zurück",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QWnJpbnhtTVF2a21EN2JRdXA1aVdLdUdfS0NfQ2tCU0hmcHhxWFAya0x2WUYxaDJlN2MtaHNjaEN6TDBtYkhfTnctaXN3ek12cHpGQTdhUGxEbzJMVS1SU2FyTTlqUmhZNzVUZQ?oc=5",
+    "image": "",
+    "date": 1789518808000
+   },
+   {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uTXc0LUE3Tll5UlBLdU5FU3FWTjhMTXg4QVUzY0xLa2NOa3ZCT3VITlZneUFlMWFsS2pMSkVhMThYb2VmdGZYSkhTa1E0TmpjRTFwZFhEbw?oc=5",
+    "image": "",
+    "date": 1789508667000
+   },
+   {
+    "title": "Spanische Liga - Last-Minute-Tor bewahrt Real vor Blamage bei Elche",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41SFlTX3lYWklfdS16RXYyQndYOEN2VDVhQXpUSTl1YTh4RWF4c21sUGdwNExCVFBCcGpEd3phdWpMdw?oc=5",
+    "image": "",
+    "date": 1789507680000
+   },
+   {
+    "title": "Am 6. Oktober - Messi erhält Abschiedsspiel im Argentinien-Dress!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE95a2pIS04xSnN6MVhYakF6eXcyV21qei0ySzlmcjlVSzJzdFp0SzJYbzlUd0hnRXpnWUR6ZzdRRTFLdw?oc=5",
+    "image": "",
+    "date": 1789506840000
+   },
+   {
+    "title": "Take The A-Train - Musikfestival am Bahnhof war fast voll ausgelastet",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sX3FxbjZ6aG8yV253R2RtODNzV05sQ2JfT3hQUDVrc19JMzcydGFkYlcxUkFHeWZlZjNob0NJQWNJZw?oc=5",
+    "image": "",
+    "date": 1789506000000
+   }
+  ],
   "rainews": [
    {
     "title": "Due caccia italiani abbattono un drone in Lituania, Crosetto a Vilnius: \"Provenienza incerta\"",
