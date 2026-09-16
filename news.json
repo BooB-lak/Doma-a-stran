@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T18:26:27.165Z",
+ "generatedAt": "2026-09-16T18:28:27.203Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Kaj sledi po izločitvi ključnih dokazov?",
+    "link": "https://www.24ur.com/novice/slovenija/kaj-sledi-po-izlocitvi-kljucnih-dokazov.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2025/996ceb152ed310a3cbb7_63456217.jpg?v=3b82&fop=fp:0.46:0.42",
+    "date": 1789583125000
+   },
+   {
     "title": "Dopisovanje pred obiskom na Policiji: 'Da ne bo Hajdi grešni kozel za vse'",
     "link": "https://www.24ur.com/novice/slovenija/razkrivamo-podrobnosti-afere-knovs-da-ne-bo-zdaj-hajdi-gresni-kozel-za-vse.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2025/6a75694a8b0f2ef6005e_63436307.jpg?v=b310&fop=fp:0.49:0.24",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/zeleno-luc-docakal-se-cetrti-odsek-ovir-za-sekcijsko-merjenje-ni-vec.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/405affa5b7e39c164e84_63649027.jpg?v=2f09&fop=fp:0.40:0.37",
     "date": 1789579322000
-   },
-   {
-    "title": "Novo razočaranje pri iskanju zdravila za ALS: Novartis ustavil razvoj eksperimentalnega zdravila",
-    "link": "https://www.24ur.com/novice/znanost-in-tehnologija/novo-razocaranje-pri-iskanju-zdravila-za-als-novartis-ustavil-razvoj-eksperimentalnega-zdravila.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2025/4486202344a231b4a9f5_63498114.jpg?v=86c3&fop=fp:0.52:0.49",
-    "date": 1789577582000
    }
   ],
   "rtvslo": [
@@ -199,11 +199,25 @@
   ],
   "nyt": [
    {
+    "title": "How the Fed’s Rate Increase Affects Your Finances.",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/how-the-feds-move-affects-your-finances.html",
+    "image": "",
+    "date": 1789582975000,
+    "titleSl": "Kako povečanje obrestne mere Fed vpliva na vaše finance."
+   },
+   {
     "title": "What to Know About the Victims in the NBC4 Helicopter Crash in Los Angeles",
     "link": "https://www.nytimes.com/2026/09/16/us/la-helicopter-crash-victims-eliana-moreno-george-marciniw.html",
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-la-victims-01-fcjl/16xp-la-victims-01-fcjl-mediumSquareAt3X.jpg",
     "date": 1789582813000,
     "titleSl": "Kaj morate vedeti o žrtvah helikopterske nesreče NBC4 v Los Angelesu"
+   },
+   {
+    "title": "Why the Fed Might Raise Interest Rates When Borrowing Costs Are Surging",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html",
+    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16biz-fed-consumers-1-mtjz/16biz-fed-consumers-1-mtjz-mediumSquareAt3X.jpg",
+    "date": 1789582764000,
+    "titleSl": "Zakaj bi Fed lahko dvignil obrestne mere, ko se stroški izposojanja povečujejo"
    },
    {
     "title": "Annie Dillard, Meditative Author of ‘Pilgrim at Tinker Creek,’ Dies at 81",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16texas-gop-ticket-1b-mqkl/16texas-gop-ticket-1b-mqkl-mediumSquareAt3X.jpg",
     "date": 1789579499000,
     "titleSl": "Bo French se sooča z reakcijo zaradi objav o študentih Univerze v Teksasu"
-   },
-   {
-    "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-Gaza-Building-01-pqwf/16int-Gaza-Building-01-pqwf-mediumSquareAt3X.jpg",
-    "date": 1789579088000,
-    "titleSl": "Najmanj 21 mrtvih v Gazi po zrušitvi stavbe, pravijo uradniki"
-   },
-   {
-    "title": "Julia Louis-Dreyfus Is Ready to Make a Meal of Broadway",
-    "link": "https://www.nytimes.com/2026/09/16/theater/julia-louis-dreyfus-broadway-other-desert-cities.html",
-    "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20CUL-NEW-LOUIS-DREYFUS-promo/20CUL-NEW-LOUIS-DREYFUS-promo-mediumSquareAt3X.jpg",
-    "date": 1789577120000,
-    "titleSl": "Julia Louis-Dreyfus je pripravljena pripraviti obrok na Broadwayu"
    }
   ],
   "bbc": [
@@ -451,37 +451,38 @@
   ],
   "krone": [
    {
-    "title": "Maltschacher See - Neue Ära beginnt! Millionen-Investition für Gäste - krone.at",
+    "title": "Maltschacher See - Neue Ära beginnt! Millionen-Investition für Gäste",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00em5vY2FSU29KVklNWnphVDdNUHBQdkJwNUpTa2RkQ3FOa1l5Q0N1ZDlRUmlfQnN0a1FLaXo2Mmpldw?oc=5",
     "image": "",
     "date": 1789582523000
    },
    {
-    "title": "Erstmals seit 2023 - US-Notenbank trotzt Trump: Leitzinsen erhöht - krone.at",
+    "title": "Erstmals seit 2023 - US-Notenbank trotzt Trump: Leitzinsen erhöht",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE50U21lamc5N1JCWGllSEVHaklVNkVGODdaQWhHN2ZzS2NoNm10VlhaR0FtOWItZTRaWWMtQjhucHYxZw?oc=5",
     "image": "",
     "date": 1789582500000
    },
    {
-    "title": "Hier im Video: - Sturm-Fans: „ … dann ist alles möglich heute“ - krone.at",
+    "title": "Hier im Video: - Sturm-Fans: „ … dann ist alles möglich heute“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9feFJ5YTltV0tIQVYzbnZIX3BJREhBZ2cwbUNSMTNjZ0pyRm9zZDhnSEFFb25nM3RDWXlHOWI1UE9jQQ?oc=5",
     "image": "",
     "date": 1789582260000
    },
    {
-    "title": "Marsch unterstützt es - Flitterwochen statt Länderspiel für Bayerns Davies - krone.at",
+    "title": "Marsch unterstützt es - Flitterwochen statt Länderspiel für Bayerns Davies",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oNk1lNW9zbDRueEswZzE0cFFDZ2pnWGJYQWlIMGpIM2RfazI2NVNwTHVWekV6NjF5T3diWEZrUFdoQQ?oc=5",
     "image": "",
     "date": 1789581780000
    },
    {
-    "title": "Großer Circus in Wien - Roncallis wunderbare Reise zum Regenbogen - krone.at",
+    "title": "Großer Circus in Wien - Roncallis wunderbare Reise zum Regenbogen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wYkUyeTVDU0FaakFmdzBMODdQSUVLWENodFNlQU1ucjBKbklLVzBRb2E1TVd3SUFNRGl5OVlwaTRRUQ?oc=5",
     "image": "",
-    "date": 1789581780000
+    "date": 1789581780000,
+    "titleSl": "Großer Circus na Dunaju - Roncallis wunderbare Reise zum Regenbogen"
    },
    {
-    "title": "Epidemie im Kongo - WHO sieht Fortschritte im Kampf gegen Ebola - krone.at",
+    "title": "Epidemie im Kongo - WHO sieht Fortschritte im Kampf gegen Ebola",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxWjVkMzFZWDZkLUhxUWxrUGFlM0NPOFNRRmdwTkczVUl2QjZodUhtQ29OY0NqNzIydlNfUU1JQnlBUQ?oc=5",
     "image": "",
     "date": 1789581720000
@@ -572,11 +573,10 @@
   ],
   "elpais": [
    {
-    "title": "La Reserva Federal desafía a Trump al subir por unanimidad los tipos de interés 25 puntos básicos",
+    "title": "La Reserva Federal desafía a Trump al subir por unanimidad los tipos de interés a mes y medio de las elecciones",
     "link": "https://elpais.com/economia/2026-09-16/la-reserva-federal-desafia-a-trump-con-una-subida-de-tipos-de-25-puntos-basicos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/Y3PNT3ZJ65LCZE7ZN6UFWTLNPA.jpg?auth=e6b38598fef37e9b17b24b2c2d7add7d820e18cbba6e1be8a4911c71b28ca576",
-    "date": 1789582868000,
-    "titleSl": "La Reserva Federal desafía a Trump al subir por unianimidad los tipos de interés 25 puntos básicos"
+    "date": 1789583202000
    },
    {
     "title": "Trump saca a Venezuela de la lista de países que no luchan contra el narcotráfico y mantiene a Colombia",
