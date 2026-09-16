@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-16T08:32:25.657Z",
+ "generatedAt": "2026-09-16T08:34:27.253Z",
  "sources": {
   "siol": [
+   {
+    "title": "V Škofji Loki po žaljenju voznika avtobusa v pridržanje",
+    "link": "https://siol.net/novice/slovenija/v-skofji-loki-po-zaljenju-voznika-avtobusa-v-pridrzanje-701554",
+    "image": "https://siol.net/media/img/d0/a3/97a65a4456cb08322690.jpeg",
+    "date": 1789547580000
+   },
    {
     "title": "Iz Exatlona na Otok ljubezni: Slovenka pritegnila pozornost v novem šovu",
     "link": "https://siol.net/trendi/zvezde-in-slavni/iz-exatlona-na-otok-ljubezni-slovenka-pritegnila-pozornost-v-novem-sovu-701551",
@@ -31,20 +37,14 @@
     "link": "https://siol.net/novice/svet/ursula-von-der-leyen-o-stanju-v-eu-vzivo-701543",
     "image": "https://siol.net/media/img/e4/d9/939a013f57e33f072364.jpeg",
     "date": 1789543680000
-   },
-   {
-    "title": "Ovečkin zaradi podpore Putinu tarča kritik",
-    "link": "https://siol.net/sportal/hokej/oveckin-zaradi-podpore-putinu-tarca-kritik-701540",
-    "image": "https://siol.net/media/img/c0/2a/ef8d03987ed6e94d5daf.jpeg",
-    "date": 1789542660000
    }
   ],
   "24ur": [
    {
-    "title": "EU omejuje družbena omrežja za najmlajše: meja pri 13 letih",
+    "title": "EU omejuje družbena omrežja za otroke: meja pri 13 letih",
     "link": "https://www.24ur.com/novice/tujina/von-der-leyen-o-umetni-inteligenci-in-zasciti-otrok-na-spletu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/67e02819849cc099ab18_63648644.jpg?v=0409&fop=fp:0.48:0.16",
-    "date": 1789547469000
+    "date": 1789547560000
    },
    {
     "title": "Bizarno: gledalec brcnil odvrženi bidon med glavnino in povzročil padec kolesarja",
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Zvezde žalujejo za \"sultanom bleščic\" Bobom Mackiejem",
+    "link": "https://www.rtvslo.si/zabava-in-slog/popkultura/moda/zvezde-zalujejo-za-sultanom-blescic-bobom-mackiejem/793896",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/16/67104720.jpg",
+    "date": 1789547548000
+   },
+   {
     "title": "Na jesenskem roku splošne mature uspešna manj kot polovica kandidatov",
     "link": "https://www.rtvslo.si/slovenija/na-jesenskem-roku-splosne-mature-uspesna-manj-kot-polovica-kandidatov/793906",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/16/67104700.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/ob-osmih/brankica-petkovic-kot-zrela-demokracija-moramo-depolitizirati-financiranje-javnih-medijev/793895",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/16/67104675.jpg",
     "date": 1789542285000
-   },
-   {
-    "title": "Kdo ima pravico razumeti? Dogodki projekta ENACT letos sočasno z Avdiofestivalom",
-    "link": "https://www.rtvslo.si/rtv/za-medije/sporocila-za-javnost/kdo-ima-pravico-razumeti-dogodki-projekta-enact-letos-socasno-z-avdiofestivalom/793836",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/15/67104572.jpg",
-    "date": 1789541890000
    }
   ],
   "zurnal": [
@@ -414,43 +414,49 @@
   ],
   "bild": [
    {
+    "title": "Autor gibt Tipps - Diese Dörfer im Harz sollte man unbedingt besuchen",
+    "link": "https://www.bild.de/leben-wissen/reisen/autor-gibt-tipps-diese-4-doerfer-im-harz-sollte-man-unbedingt-besuchen-6aa8f88b8191ba86095118cd",
+    "image": "https://images.bild.de/6aa8f88b8191ba86095118cd/3886eb8e0a1f969c7db76d065edee785,ac714428?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Medienbericht vor Nominierung - Undav-Knaller von Klopp?",
+    "link": "https://www.bild.de/sport/fussball/nominiert-juergen-klopp-undav-nicht-fuer-das-dfb-team-6aaa4b46a9420481bd213254",
+    "image": "https://images.bild.de/6aaa4b46a9420481bd213254/a9db6d4758459b40e5291813c8ca2ac1,4098a564?w=1280",
+    "date": 0
+   },
+   {
+    "title": "VW ID.3 GTI - VW will den GTI ins Elektro-Zeitalter retten",
+    "link": "https://www.bild.de/leben-wissen/auto/vw-id-3-gti-vw-will-den-gti-ins-elektro-zeitalter-retten-6aa93d6f04c45a39956edefb",
+    "image": "https://images.bild.de/6aa93d6f04c45a39956edefb/accb0f2a33bff4317c598e026b635a15,562330e2?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Gemeinsam mit dem Bundeskanzler“ - ALLE CDU-Ministerpräsidenten stellen sich hinter Merz",
+    "link": "https://www.bild.de/politik/gemeinsam-mit-dem-bundeskanzler-alle-cdu-ministerpraesidenten-stellen-sich-hinter-merz-6aaa52e33e0af7910e520b5b",
+    "image": "https://images.bild.de/6aaa52e33e0af7910e520b5b/abcb2257d431bbf7a2d1eac3f9001c2d,10a8885?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Neue Ära in der Marine - Erste Frau übernimmt Schiffskommando",
+    "link": "https://www.bild.de/news/warum-diese-frau-marinegeschichte-schreibt-6aaa3b8d2d702c6becc9baba",
+    "image": "https://images.bild.de/6aaa3b8d2d702c6becc9baba/6bebf5fb387ee699dcab6ac470547e41,94b05186?w=1280",
+    "date": 0
+   },
+   {
     "title": "Live-Ticker zum Ukraine-Krieg - Drohne tötet fünf Menschen in Bus",
     "link": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
     "image": "https://images.bild.de/644b966a2dffef69047a7edc/eed42ab4eb01bb016c0124c103d0cfd2,930452a9?w=1280",
     "date": 0
-   },
-   {
-    "title": "Türkisblaues Wasser, bewaldete Berge - Hier liegt das Thailand Europas",
-    "link": "https://www.bild.de/leben-wissen/reisen/tuerkisblaues-wasser-bewaldete-berge-hier-liegt-das-thailand-europas-6aa3ce550f417ae59102e7b6",
-    "image": "https://images.bild.de/6aa3ce550f417ae59102e7b6/7ef514b306405e725486aa3f02f6a418,35ffc37d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Es wären 10.440 Euro Mahngebühren fällig - Magazin nach 132 Jahren in Bibliothek abgegeben",
-    "link": "https://www.bild.de/news/ausland/10-440-euro-mahngebuehren-zeitschrift-nach-132-jahren-in-bibliothek-abgegeben-6aaa3171a3450cf42e453775",
-    "image": "https://images.bild.de/6aaa3171a3450cf42e453775/207de5eb164cbc09ba002c494de7542b,c54126e6?w=1280",
-    "date": 0
-   },
-   {
-    "title": "QVC-Modedesigner Steffen Schraut - Wie ich meinen Eltern sagte, dass ich schwul bin",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/steffen-schraut-wie-ich-meinen-eltern-sagte-dass-ich-schwul-bin-6aa64716240b302c8a842f30",
-    "image": "https://images.bild.de/6aa64716240b302c8a842f30/d28855759a5d11119bce6ff5bfb4de78,f262e687?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Größtes Kartrennen der Welt - Verstappen fordert 100 Fahrer gleichzeitig heraus",
-    "link": "https://www.bild.de/sport/mehr-sport/groesstes-kartrennen-der-welt-verstappen-fordert-100-fahrer-gleichzeitig-heraus-6aa92babce1a73b32a4fc592",
-    "image": "https://images.bild.de/6aa92babce1a73b32a4fc592/e835ca3b536c499466cbb621eb814157,ab7cb15f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Auch auf Wunsch des Trainers - Bayern-Star macht Flitterwochen statt Länderspiele",
-    "link": "https://www.bild.de/sport/fussball/alphonso-davies-flitterwochen-statt-laenderspiele-fuer-kanada-6aaa4722a9420481bd21320e",
-    "image": "https://images.bild.de/6aaa4722a9420481bd21320e/fc42891499e9da1702b15a6036c0a826-landscape,66cc7f2?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Superstar zeigt Haut! - Tom Cruise sorgt mit offenem Hemd für Aufsehen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41a0VTeW5GRHNvcTljeFdJT0RNb2Nvc3RLRjVDVHdQa2ZYcHZSblc1VVNPazNVWlpFbTY5a0hldFBtdw?oc=5",
+    "image": "",
+    "date": 1789547520000
+   },
    {
     "title": "Unfall in Bayern - Radfahrer stirbt nach Kollision mit einem Hirsch",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tSlY5aVMxYXp3QmVIbmhsTzNHNFVZQmVTNFJwZVVueUVsQ0tHTzJjbTQ0YTBIQ3VMVm40SlNVcTZPZw?oc=5",
@@ -480,12 +486,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQVWg2QXZHUFlSa2dseDV0anVJN2R1bkFHM0F3cFFmQ2VpV2wzcHRIYkVqYW1HMTVQSHR3dmRGYXE5UQ?oc=5",
     "image": "",
     "date": 1789545600000
-   },
-   {
-    "title": "Nahe am Mast gepflügt - Landwirt ließ 170 Haushalte im Finstern sitzen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBFc0xvNFVHbEFtQkt0ellWbUNqTlJ5Wm1OWFFRYUNkM09URWNNZWhBc3NMQmYwU3JDX0U4c3dtTzBFUQ?oc=5",
-    "image": "",
-    "date": 1789545540000
    }
   ],
   "rainews": [
@@ -574,7 +574,7 @@
     "title": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se acusan mutuamente de “cronificar” la crisis de Ceuta",
     "link": "https://elpais.com/espana/2026-09-16/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/BVLB7A2MP5CZ7OJPPFWEBWDHMQ.jpg?auth=128fe65ff43ee157aab415d3885e2fff55f7d50152e0ade04eb38b06b1499d62",
-    "date": 1789547158000,
+    "date": 1789547543000,
     "titleSl": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se acusan mutuamente de \"cronificar\" la crisis de Ceuta"
    },
    {
@@ -582,6 +582,18 @@
     "link": "https://elpais.com/espana/madrid/2026-09-16/la-policia-investiga-la-desaparicion-en-torrejon-de-ardoz-de-un-anciano-con-alzheimer.html",
     "image": "https://imagenes.elpais.com/resizer/v2/VCNW5LW6VJCYHJ4DIDV5GWVM7U.jpeg?auth=c3a9c5b2a43719e469265da2a138739ce97c8fb4a7a0ef3e5f5563a0a9ebeb4f",
     "date": 1789547016000
+   },
+   {
+    "title": "Hong Kong adopta su primer plan quinquenal y refuerza su integración con China",
+    "link": "https://elpais.com/internacional/2026-09-16/hong-kong-adopta-su-primer-plan-quinquenal-y-refuerza-su-integracion-con-china.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/YYOZFFMOFVKA5HOACGNGJLZUPQ.jpg?auth=5c51ecebf9decfc68154e3467b169293ad8b08113c951b97646fe9550cb1cc01",
+    "date": 1789546698000
+   },
+   {
+    "title": "La Academia de cine anuncia la película que representará a España en los Oscar, en directo",
+    "link": "https://elpais.com/cultura/cine/2026-09-16/la-academia-de-cine-anuncia-la-pelicula-que-representara-a-espana-en-los-oscar.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/DRNU54D7MJC3RNIIAJWE5H6D7E.jpg?auth=a07e7c416fa2f0f0cdee98b8fa9e06752bb360b7a2f2a5fc789d76ff6ee46394",
+    "date": 1789545337000
    },
    {
     "title": "Jesse Williams, de ‘Anatomía de Grey’, y Alejandra Onieva, padres de su primer hijo en común",
@@ -594,18 +606,6 @@
     "link": "https://elpais.com/internacional/2026-09-16/estados-unidos-prepara-la-venta-a-israel-de-40000-bombas-de-casi-una-tonelada-muy-destructivas.html",
     "image": "https://imagenes.elpais.com/resizer/v2/WZNX5S2ISRKZNNUMQ7LOGWBLSY.jpg?auth=796a4fe5d2b170c5d18432d10da90014a557eb042c7558acea1884303f438b6d",
     "date": 1789544631000
-   },
-   {
-    "title": "Tres muertos al estrellarse un helicóptero de prensa en Los Angeles",
-    "link": "https://elpais.com/internacional/2026-09-16/tres-muertos-al-estrellarse-un-helicoptero-de-prensa-en-los-angeles.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/PBUHHHCDENGLTETGFKRINPQPIQ.JPG?auth=b3ed7d2850704005528c1a13668100a2c5fc5f0209076ee7467661bdf045cb28",
-    "date": 1789543802000
-   },
-   {
-    "title": "Ayuso planta a los rectores en el inicio del curso académico y evita así una protesta universitaria",
-    "link": "https://elpais.com/educacion/2026-09-16/ayuso-planta-a-los-rectores-en-el-inicio-del-curso-academico-para-evitar-una-protesta-universitaria.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/2N55BNHAONJXFK636MLJA6AO54.jpg?auth=b7606b991e14a4f75dad8f305bdedb9b51eeb4a1dbdd8ef3b19cde32d4a438d0",
-    "date": 1789542642000
    }
   ]
  },
