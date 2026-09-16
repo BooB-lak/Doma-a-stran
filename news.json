@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T08:12:27.019Z",
+ "generatedAt": "2026-09-16T08:14:26.669Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,19 @@
     "title": "PRENOS V ŽIVO: Von der Leyen: Prihajajoča zima bo za Ukrajino težka",
     "link": "https://www.24ur.com/novice/tujina/von-der-leyen-o-umetni-inteligenci-in-zasciti-otrok-na-spletu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/67e02819849cc099ab18_63648644.jpg?v=0409&fop=fp:0.48:0.16",
-    "date": 1789546256000
+    "date": 1789546378000
+   },
+   {
+    "title": "Posnetek, ki je sprožil val ogorčenja: 'Ducati mi tega ne bo dovolil'",
+    "link": "https://www.24ur.com/sport/motogp/bagnaia-razburil-ducati-tega-mi-ne-bodo-dovolili.html",
+    "image": "https://images.24ur.com/media/images/213xX/May2026/9b1cadb1f81c2f5c9fc5_63583850.jpg?v=6b4d&fop=fp:0.48:0.45",
+    "date": 1789545691000
+   },
+   {
+    "title": "ZDA naj bi kmalu odobrile nov paket orožja za Izrael",
+    "link": "https://www.24ur.com/novice/tujina/zda-naj-bi-kmalu-odobrile-nov-paket-orozja-za-izrael.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2026/94674721b71c340049d0_63602574.jpg?v=9b3a&fop=fp:0.41:0.22",
+    "date": 1789545688000
    },
    {
     "title": "Odpornost dobavnih verig v času globalnih sprememb: kakšna bo vloga Slovenije?",
@@ -59,22 +71,10 @@
     "date": 1789542901000
    },
    {
-    "title": "Ovečkin zaradi podpore Putinu tarča kritik",
-    "link": "https://www.24ur.com/sport/hokej/oveckin-zaradi-podpore-putinu-tarca-kritik.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2025/91fe1dffcb0a1e455ed6_63485229.jpg?v=1284&fop=fp:0.49:0.19",
-    "date": 1789542893000
-   },
-   {
     "title": "Ed Sheeran zaradi pritiskov 'odpustil' Macklemora in ostal brez podpore glasbenikov",
     "link": "https://www.24ur.com/popin/glasba/ed-sheeran-zaradi-pritiskov-odpustil-macklemora-in-ostal-brez-podpore-glasbenikov.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/1d78f7242ea06e61fb18_63648083.jpg?v=96c4&fop=fp:0.46:0.33",
     "date": 1789542531000
-   },
-   {
-    "title": "Na postaji žalila voznika avtobusa in ovirala delo policistov",
-    "link": "https://www.24ur.com/novice/crna-kronika/na-postaji-zalila-voznika-avtobusa-in-ovirala-delo-policistov.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2023/b43c073958923644a98c_63107128.jpg?v=4f14&fop=fp:0.50:0.27",
-    "date": 1789542039000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
-    "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-faces-verdict-for-alleged-war-crimes?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaa2c9a0d-1789537434.jpg?resize=1920%2C1440",
-    "date": 1789544970000,
-    "titleSl": "Nekdanjemu kosovskemu predsedniku Hashimu Thaciju grozi obsodba za domnevne vojne zločine"
-   },
-   {
     "title": "US charges five people over alleged Russian plots",
     "link": "https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aaa1fa3b3e83-1789534115.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2290796747-1789469038.jpg?resize=1920%2C1440",
     "date": 1789536290000,
     "titleSl": "Kaj je kanal Pinglu, nov kitajski prehod v jugovzhodno Azijo?"
+   },
+   {
+    "title": "Republican forces Congress to hold impeachment vote for Pete Hegseth",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789536068.jpg?resize=1620%2C1080&quality=80",
+    "date": 1789536078000,
+    "titleSl": "Republikanci prisilijo kongres, da glasuje o odstavitvi Peta Hegsetha"
    }
   ],
   "guardian": [
@@ -417,14 +417,14 @@
     "title": "Kameras und KI überwachen das Oktoberfest - Security-Rekord! So wird die Wiesn zur Festung",
     "link": "https://www.bild.de/news/inland/oktoberfest-security-rekord-so-wird-die-wiesn-zur-sicherheitsfestung-6aa7cce377bd109fcdd009ec",
     "image": "https://images.bild.de/6aa7cce377bd109fcdd009ec/a123d699840992132985c6d308ce89f7,8e72dfa?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Kameras und KI überwachen das Oktoberfest - Security-Rekord! Torej wird die Wiesn zur Festung"
    },
    {
-    "title": "Rede zur Zukunft der EU - Von der Leyen will bei KI auf die Bremse treten!",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/eu-zukunftsrede-ursula-von-der-leyen-will-bei-ki-auf-die-bremse-treten-6aaa46df91d8cffaad47b04e",
-    "image": "https://images.bild.de/6aaa46df91d8cffaad47b04e/f49df6b424506bd619da3ecc2c68563a,cbe78aa0?w=1280",
-    "date": 0,
-    "titleSl": "Rede zur Zukunft der EU - Von der Leyen bo KI auf die Bremse treten!"
+    "title": "TV-Team stürzt in den Tod - Die letzten Sekunden im Helikopter",
+    "link": "https://www.bild.de/news/ausland/tv-team-stuerzt-in-den-tod-die-letzten-sekunden-im-helikopter-6aaa4c823e0af7910e520aa2",
+    "image": "https://images.bild.de/6aaa4c823e0af7910e520aa2/e325c0cb8f65f2ba0313b5db6d9b0f41,cf5fe2da?w=1280",
+    "date": 0
    },
    {
     "title": "Top-Secret-Treffen in Deutschland - Formten die Armee-Chefs hier eine Anti-Huthi-Allianz?",
@@ -534,6 +534,13 @@
   ],
   "lemonde": [
    {
+    "title": "Prix des carburants : nouveau blocage d’un dépôt pétrolier dans l’Hérault par une centaine de pêcheurs",
+    "link": "https://www.lemonde.fr/planete/article/2026/09/16/prix-des-carburants-nouveau-blocage-d-un-depot-petrolier-dans-l-herault-par-une-centaine-de-pecheurs_6775142_3244.html",
+    "image": "https://img.lemde.fr/2026/09/16/711/0/8256/4128/644/322/60/0/933a152_ftp-1-x0igq6zp5ibx-5102151-01-06.jpg",
+    "date": 1789545930000,
+    "titleSl": "Prix des carburants : nouveau blocage d'un dépôt pétrolier dans l' Hérault par une centaine de pêcheurs"
+   },
+   {
     "title": "« La Ligne bleue » : un film qui sort de l’oubli le Struthof, camp de concentration nazi installé en Alsace",
     "link": "https://www.lemonde.fr/culture/article/2026/09/16/la-ligne-bleue-un-film-qui-sort-de-l-oubli-le-struthof-camp-de-concentration-nazi-installe-en-alsace_6775064_3246.html",
     "image": "https://img.lemde.fr/2026/09/09/110/0/3840/1920/644/322/60/0/8ecb238_upload-1-u0555x0avsiv-photo-4-la-ligne-bleue-dulac-productions-et-salaud-morisset-6a97dbef0cf9a.jpg",
@@ -541,18 +548,11 @@
     "titleSl": "« La Ligne bleue » : un film qui sort de l 'ooubli le Struthof, camp de concentration nazi installé en Alsace"
    },
    {
-    "title": "EN DIRECT, discours d’Ursula von der Leyen : la présidente de la Commission souhaite que le « Canada devienne le premier membre associé de l’Union européenne »",
+    "title": "EN DIRECT, discours d’Ursula von der Leyen : la présidente de la Commission veut « ouvrir la porte au Canada pour qu’il devienne le premier membre associé de l’UE »",
     "link": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-ursula-von-der-leyen-tient-son-discours-annuel-sur-l-etat-de-l-union_6775063_3210.html",
     "image": "https://img.lemde.fr/2026/09/16/300/0/4432/2216/644/322/60/0/530506f_ftp-1-srkm5atr9xao-2026-09-16t072749z-925003491-rc27knas3l10-rtrmadp-3-eu-stateofunion.JPG",
     "date": 1789540385000,
-    "titleSl": "EN DIRECT, discours d'Ursula von der Leyen : la présidente de la Commission souhaite que le « Canada devienne le premier membre associé de l' Union européenne »"
-   },
-   {
-    "title": "Après la manifestation des syndicats de policiers, le ministre de l’intérieur, Laurent Nuñez, joue la montre",
-    "link": "https://www.lemonde.fr/societe/article/2026/09/16/face-aux-syndicats-de-policiers-en-colere-le-ministre-de-l-interieur-laurent-nunez-joue-la-montre_6775062_3224.html",
-    "image": "https://img.lemde.fr/2026/09/15/583/0/3502/1751/644/322/60/0/5cf7910_ftp-1-ffdmax8zmkmi-5095504-01-06.jpg",
-    "date": 1789540288000,
-    "titleSl": "Après la manifestation des syndicats de policiers, le ministre de l 'intérieur, Laurent Nuñez, joue la montre"
+    "titleSl": "EN DIRECT, discours d 'Ursula von der Leyen : la présidente de la Commission veut «ouvrir la porte au Canada pour qu' il devienne le premier membre associé de l'UE »"
    },
    {
     "title": "Jean-Pierre Serre, un monument des mathématiques qui fête son centenaire",
