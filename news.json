@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T04:12:26.913Z",
+ "generatedAt": "2026-09-16T04:14:25.456Z",
  "sources": {
   "siol": [
    {
@@ -59,6 +59,12 @@
     "date": 1789531494000
    },
    {
+    "title": "Robotski parkirni asistenti, ki olajšajo začetek potovanja",
+    "link": "https://www.24ur.com/novice/tujina/robotski-asistenti-ki-olajsajo-zacetek-potovanja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/a18839a13612ab90ff75_63648535.jpg?v=8ff7&fop=fp:0.43:0.75",
+    "date": 1789531474000
+   },
+   {
     "title": "Kdo je Slovenka, ki bo v Otoku ljubezni Adria mešala glave?",
     "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/kdo-je-slovenka-ki-bo-v-otoku-ljubezni-adria-mesala-glave.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/02a2f766c251c3ccf9ef_63648029.jpg?v=3278&fop=fp:0.44:0.16",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/spektakularen-debi-zeljkovica-na-klopi-celja.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/35027370326c10d2f93d_63626053.jpg?v=03b4&fop=fp:0.48:0.49",
     "date": 1789531201000
-   },
-   {
-    "title": "Ne le en, v vilo tokrat kar dva 'bombshella'!",
-    "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/ne-le-en-v-vilo-tokrat-kar-dva-bombshella.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/44b6917ae3e0406e101c_63648392.jpg?v=ed36&fop=fp:0.48:0.41",
-    "date": 1789502678000
    }
   ],
   "rtvslo": [
@@ -199,11 +199,18 @@
   ],
   "nyt": [
    {
-    "title": "Helicopter Crashes in Los Angeles County, Killing At Least 3",
+    "title": "News Helicopter Crashes in Los Angeles County, Killing At Least 3",
     "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-helicopter/16xp-helicopter-mediumSquareAt3X-v2.jpg",
-    "date": 1789531643000,
-    "titleSl": "Helikopterska nesreča v okrožju Los Angeles, najmanj trije mrtvi"
+    "date": 1789531888000,
+    "titleSl": "Novice Helikopterska nesreča v okrožju Los Angeles, pri čemer je umrlo najmanj 3 ljudi"
+   },
+   {
+    "title": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
+    "link": "https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html",
+    "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15db-openai-funding-pczb/15db-openai-funding-pczb-mediumSquareAt3X.jpg",
+    "date": 1789531290000,
+    "titleSl": "OpenAI razmišlja o novem financiranju po vrednotenju 1,5 bilijona $"
    },
    {
     "title": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/15/multimedia/2026-09-15-truth-social-ai-index/2026-09-15-truth-social-ai-index-mediumSquareAt3X-v6.jpg",
     "date": 1789521659000,
     "titleSl": "Trump je branil podatkovne centre AI o družbenih resnicah, komentatorji pa so ploskali nazaj"
-   },
-   {
-    "title": "Trump, the Supreme Court and the Postal Service: A History of Mail Voting",
-    "link": "https://www.nytimes.com/2026/09/15/us/politics/postal-service-trump-democracy-history.html",
-    "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15XP-POSTALSERVICE-01/15XP-POSTALSERVICE-01-mediumSquareAt3X.jpg",
-    "date": 1789520965000,
-    "titleSl": "Trump, vrhovno sodišče in poštna služba: zgodovina glasovanja po pošti"
    }
   ],
   "bbc": [
@@ -451,8 +451,52 @@
     "titleSl": "V Los Angelesu - Mindestens 3 Tote bei Hubschrauber-Absturz"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Neuer Messepark - Ein Blick hinter die Kulissen der Großbaustelle",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45UGxjUEVKTnJZbG92VERJZG5jZVZSQ3VTS0l0YlFSZDBBVEN4XzFhaXBISjBSaUo3T0xWM1dqc3QxZw?oc=5",
+    "image": "",
+    "date": 1789531560000
+   },
+   {
+    "title": "Das freie Wort",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMHRzZEwwb0RYMzNYeHR5RzFzcnhrU3cyYjhQZngyZjF5b1FvR3lhQWN0dWQzMFNQSDlHd25Ld2ZQWmZWQzRuTGdYSkRqemE1VUxNRFVjc1Q?oc=5",
+    "image": "",
+    "date": 1789531457000
+   },
+   {
+    "title": "„Krone“-Stopplicht - MotoGP in Spielberg: Das große Fragezeichen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1hWmJFc1hKSzRxeHhjQW5tTFp1RnNkbndvVkhJbTBTLVVNZU9kbkFzS1pIa2pabWl3bnNvdHRIcHNsUQ?oc=5",
+    "image": "",
+    "date": 1789531380000,
+    "titleSl": "„Krone“-Stopplicht - MotoGP v Spielbergu: Das große Fragezeichen"
+   },
+   {
+    "title": "Niagara gefällt - Renault bringt coolen Pick-up – mit einem Haken",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PaXJYellYTUtMdExtNlhLdEloX3BuOW9QbkpqN3hVSGo2Z2YxVE9KTUhGc0RBNE5JdGpMZlVKanBadw?oc=5",
+    "image": "",
+    "date": 1789531260000
+   },
+   {
+    "title": "In der neuen Saison: - Kein Alkohol mehr bei den Linzer Volleyballerinnen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wc3JUT3dtT1ZfUG81bHc4OW41eHd1S2ZyejFydDh2eW1sYzh0MHdSbmpPSE5Vc1Ffa18yRVNPc041QQ?oc=5",
+    "image": "",
+    "date": 1789531200000
+   },
+   {
+    "title": "Rekordpreise - Wer soll sich den Sprit noch leisten können?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1LeGpGbXVFeHY4OGVzQk5ndkNIeUQzVWVTVjVyTFZ2VGw3Q241S2ZVZVdFckRkRTRiaUVtUUFaVk44UQ?oc=5",
+    "image": "",
+    "date": 1789531200000
+   }
+  ],
   "rainews": [
+   {
+    "title": "I giornali di oggi nella rassegna stampa di Rainews24",
+    "link": "https://www.rainews.it/video/2026/09/i-giornali-di-oggi-nella-rassegna-stampa-di-rainews24-eb8ddc6b-e65c-43a6-a350-bb87827b49b0.html",
+    "image": "https://www.rainews.it/dl/img/2024/12/06/1733462563127_rassstampatappo.PNG",
+    "date": 1789531320000
+   },
    {
     "title": "L&#x27;elicottero di una tv precipita in una zona residenziale: le fiamme altissime e i primi soccorsi",
     "link": "https://www.rainews.it/video/2026/09/a-canoga-park-un-incidente-in-elicottero-ha-provocato-un-incendio-tra-gli-edifici-234adb48-1f64-4199-84f7-3239546c3a04.html",
@@ -485,13 +529,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/16/1789515607949_CCZQ.jpg",
     "date": 1789521360000,
     "titleSl": "L'armedell' Fbi: \"Servizi russi pianificano omicidi mirati in Usa ed Europa\""
-   },
-   {
-    "title": "Il Congresso USA: \"La guerra all&#x27;Iran è già costata 38 miliardi di dollari\"",
-    "link": "https://www.rainews.it/maratona/2026/09/guerre-medio-oriente-congresso-usa-la-guerra-a-iran-gia-costata-38-miliardi-di-dollari-a94a0c99-7295-40c4-a3d4-5a512c564dac.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/16/1789515344191_CDG.jpg",
-    "date": 1789519920000,
-    "titleSl": "Il Congresso ZDA: \"La guerra all'Iran è già costata 38 miliardi di dollari\""
    }
   ],
   "lemonde": [
