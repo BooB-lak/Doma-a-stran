@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T08:38:25.746Z",
+ "generatedAt": "2026-09-16T08:40:42.151Z",
  "sources": {
   "siol": [
    {
@@ -33,7 +33,7 @@
     "date": 1789543740000
    },
    {
-    "title": "Ursula Von der Leyen o stanju v EU #vŽivo",
+    "title": "Ursula Von der Leyen o stanju v EU",
     "link": "https://siol.net/novice/svet/ursula-von-der-leyen-o-stanju-v-eu-vzivo-701543",
     "image": "https://siol.net/media/img/e4/d9/939a013f57e33f072364.jpeg",
     "date": 1789543680000
@@ -44,7 +44,13 @@
     "title": "EU omejuje družbena omrežja za otroke: meja pri 13 letih",
     "link": "https://www.24ur.com/novice/tujina/von-der-leyen-o-umetni-inteligenci-in-zasciti-otrok-na-spletu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/67e02819849cc099ab18_63648644.jpg?v=0409&fop=fp:0.48:0.16",
-    "date": 1789547853000
+    "date": 1789548037000
+   },
+   {
+    "title": "Hutijevci naj bi sestrelili savdsko lovsko letalo F-15",
+    "link": "https://www.24ur.com/novice/tujina/hutijevci-naj-bi-sestrelili-savdsko-lovsko-letalo-f-15.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/b90656ff4e8996f907eb_63648650.jpg?v=44d3&fop=fp:0.48:0.49",
+    "date": 1789547434000
    },
    {
     "title": "Bizarno: gledalec brcnil odvrženi bidon med glavnino in povzročil padec kolesarja",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/zda-naj-bi-kmalu-odobrile-nov-paket-orozja-za-izrael.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/94674721b71c340049d0_63602574.jpg?v=9b3a&fop=fp:0.41:0.22",
     "date": 1789545688000
-   },
-   {
-    "title": "Odpornost dobavnih verig v času globalnih sprememb: kakšna bo vloga Slovenije?",
-    "link": "https://www.24ur.com/novice/slovenija/odpornost-dobavnih-verig-v-casu-globalnih-sprememb-kaksna-bo-vloga-slovenije.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/309b3621b65349fb1c34_63648622.jpg?v=48b9&fop=fp:0.43:0.37",
-    "date": 1789544950000
    }
   ],
   "rtvslo": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
+    "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e4/live/1857ffa0-b1a0-11f1-bc1f-3f186ca4140c.jpg",
+    "date": 1789547967000,
+    "titleSl": "Vas na simboličnem referendumu glasuje za odhod iz Združenega kraljestva zaradi stanovanjskega načrta za azil"
+   },
+   {
     "title": "New job? Here's how we survived the first few days",
     "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -269,13 +276,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefb/live/40cdf840-b1a0-11f1-b1d1-571ed4d7ff2c.jpg",
     "date": 1789545195000,
     "titleSl": "Gozdovi, prvič vidni na dometu po prometni nesreči"
-   },
-   {
-    "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
-    "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e4/live/1857ffa0-b1a0-11f1-bc1f-3f186ca4140c.jpg",
-    "date": 1789543430000,
-    "titleSl": "Vas na simboličnem referendumu glasuje za odhod iz Združenega kraljestva zaradi stanovanjskega načrta za azil"
    },
    {
     "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
@@ -414,9 +414,21 @@
   ],
   "bild": [
    {
+    "title": "„Gemeinsam mit dem Bundeskanzler“ - ALLE CDU-Ministerpräsidenten stellen sich hinter Merz",
+    "link": "https://www.bild.de/politik/gemeinsam-mit-dem-bundeskanzler-alle-cdu-ministerpraesidenten-stellen-sich-hinter-merz-6aaa52e33e0af7910e520b5b",
+    "image": "https://images.bild.de/6aaa52e33e0af7910e520b5b/389e06a50f8f6a9c520ed1fd14a68356,ba82ee37?w=1280",
+    "date": 0
+   },
+   {
     "title": "Medienbericht vor Nominierung - Undav-Knaller von Klopp?",
     "link": "https://www.bild.de/sport/fussball/nominiert-juergen-klopp-undav-nicht-fuer-das-dfb-team-6aaa4b46a9420481bd213254",
     "image": "https://images.bild.de/6aaa4b46a9420481bd213254/a9db6d4758459b40e5291813c8ca2ac1,4098a564?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Sieben Tage vor Veröffentlichung - Neues Diana-Buch von Laster geklaut!",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sieben-tage-vor-veroeffentlichung-diana-buch-von-laster-geklaut-6aaa3af846c2b72ce0eda746",
+    "image": "https://images.bild.de/6aaa3af846c2b72ce0eda746/f222e189c9ed585e1d5c0a98cb33d960,3b415c6?w=1280",
     "date": 0
    },
    {
@@ -436,21 +448,15 @@
     "link": "https://www.bild.de/leben-wissen/reisen/autor-gibt-tipps-diese-4-doerfer-im-harz-sollte-man-unbedingt-besuchen-6aa8f88b8191ba86095118cd",
     "image": "https://images.bild.de/6aa8f88b8191ba86095118cd/3886eb8e0a1f969c7db76d065edee785,ac714428?w=1280",
     "date": 0
-   },
-   {
-    "title": "VW ID.3 GTI - VW will den GTI ins Elektro-Zeitalter retten",
-    "link": "https://www.bild.de/leben-wissen/auto/vw-id-3-gti-vw-will-den-gti-ins-elektro-zeitalter-retten-6aa93d6f04c45a39956edefb",
-    "image": "https://images.bild.de/6aa93d6f04c45a39956edefb/accb0f2a33bff4317c598e026b635a15,562330e2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Gemeinsam mit dem Bundeskanzler“ - ALLE CDU-Ministerpräsidenten stellen sich hinter Merz",
-    "link": "https://www.bild.de/politik/gemeinsam-mit-dem-bundeskanzler-alle-cdu-ministerpraesidenten-stellen-sich-hinter-merz-6aaa52e33e0af7910e520b5b",
-    "image": "https://images.bild.de/6aaa52e33e0af7910e520b5b/abcb2257d431bbf7a2d1eac3f9001c2d,10a8885?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Mittels Tau geborgen - Forstarbeiter (27) von Eisenkeil am Kopf getroffen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1iYkpyYXNJa0RCY1ZWdmhsVmVmQXZ0Z3JiLUU3V3kyQWRGYi1mVkZEZ1I2c0JUV3ZMbW1sR1VVOHpUQQ?oc=5",
+    "image": "",
+    "date": 1789547880000
+   },
    {
     "title": "Das freie Wort",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMHRzZEwwb0RYMzNYeHR5RzFzcnhrU3cyYjhQZngyZjF5b1FvR3lhQWN0dWQzMFNQSDlHd25Ld2ZQWmZWQzRuTGdYSkRqemE1VUxNRFVjc1Q?oc=5",
@@ -480,12 +486,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzQy1tRGZWM3JDTXgtVk1maG5jR084RFJJN0NCU1BNeWN3bTZqTnJoejZtQ01URDRRX0h4R1M2ZDA3dw?oc=5",
     "image": "",
     "date": 1789546680000
-   },
-   {
-    "title": "„Folgte ihr zurück“ - Wintersport-Ikone findet neue Liebe auf Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRZ180R0pSQm9majAwdDBreWIwYklUak5RVnF5R3NHajZab1JjVmx4dVQ5ek5yRXdab1BpV2J6Z0Q3Zw?oc=5",
-    "image": "",
-    "date": 1789546080000
    }
   ],
   "rainews": [
@@ -574,7 +574,7 @@
     "title": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se acusan mutuamente de “cronificar” la crisis de Ceuta",
     "link": "https://elpais.com/espana/2026-09-16/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/BVLB7A2MP5CZ7OJPPFWEBWDHMQ.jpg?auth=128fe65ff43ee157aab415d3885e2fff55f7d50152e0ade04eb38b06b1499d62",
-    "date": 1789547543000,
+    "date": 1789547893000,
     "titleSl": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se acusan mutuamente de \"cronificar\" la crisis de Ceuta"
    },
    {
@@ -590,7 +590,7 @@
     "date": 1789546698000
    },
    {
-    "title": "La Academia de cine anuncia la película que representará a España en los Oscar, en directo",
+    "title": "‘La bola negra’, candidata por España en los premios Oscar a la estatuilla a mejor película internacional",
     "link": "https://elpais.com/cultura/cine/2026-09-16/la-academia-de-cine-anuncia-la-pelicula-que-representara-a-espana-en-los-oscar.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DRNU54D7MJC3RNIIAJWE5H6D7E.jpg?auth=a07e7c416fa2f0f0cdee98b8fa9e06752bb360b7a2f2a5fc789d76ff6ee46394",
     "date": 1789545337000
