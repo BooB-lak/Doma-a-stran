@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T11:31:01.136Z",
+ "generatedAt": "2026-09-16T11:32:30.735Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Bars Some South Africans Over Claims of Anti-White Discrimination",
+    "link": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html",
+    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-trump-safrica-visas-vwcq/15int-trump-safrica-visas-vwcq-mediumSquareAt3X.jpg",
+    "date": 1789558237000,
+    "titleSl": "Trump obsoja nekatere Južnoafričane zaradi trditev o protibeli diskriminaciji"
+   },
+   {
     "title": "E.U. Offers to Make Canada ‘Associate Member’ as U.S. Ties Weaken for Both",
     "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-europe-canada-security-tmjv/16int-europe-canada-security-tmjv-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-ukraine-corruption-qhvf/16int-ukraine-corruption-qhvf-mediumSquareAt3X.jpg",
     "date": 1789555024000,
     "titleSl": "Primer korupcije povzroča spomine in ogorčenje med Ukrajinci"
-   },
-   {
-    "title": "News Helicopter Crash and Bus Accident in Los Angeles Leave at Least 5 Dead",
-    "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
-    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-helicopter/16xp-helicopter-mediumSquareAt3X-v2.jpg",
-    "date": 1789554985000,
-    "titleSl": "Novice Helikopterska nesreča in avtobusna nesreča v Los Angelesu, najmanj 5 mrtvih"
    }
   ],
   "bbc": [
@@ -255,6 +255,13 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a47a/live/03cba170-b1c0-11f1-bc1f-3f186ca4140c.jpg",
     "date": 1789557681000,
     "titleSl": "Burnham se zahvaljuje dobrotnikom po očetovi smrti"
+   },
+   {
+    "title": "Parents of Southport attack victim 'devastated' by data breach",
+    "link": "https://www.bbc.co.uk/news/articles/c6n4523y5490o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b1/live/5b480a30-b1b9-11f1-bdcf-d393eb724fa3.png",
+    "date": 1789557344000,
+    "titleSl": "Starši žrtve napada v Southportu \"uničeni\" zaradi kršitve podatkov"
    },
    {
     "title": "Carney's new love-in with EU has everything to do with Trump",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b431/live/3960b020-b1b9-11f1-bdcf-d393eb724fa3.jpg",
     "date": 1789556393000,
     "titleSl": "Šef EU podpira načrt, da Kanada postane \"pridružena članica\""
-   },
-   {
-    "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
-    "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e4/live/1857ffa0-b1a0-11f1-bc1f-3f186ca4140c.jpg",
-    "date": 1789556358000,
-    "titleSl": "Vas na simboličnem referendumu glasuje za odhod iz Združenega kraljestva zaradi stanovanjskega načrta za azil"
    }
   ],
   "aljazeera": [
@@ -415,6 +415,19 @@
   ],
   "bild": [
    {
+    "title": "Große Airport-Liste - Flüssigkeiten im Handgepäck: Was gilt denn jetzt?",
+    "link": "https://www.bild.de/leben-wissen/reisen/verrueckte-lage-an-manchen-flughaefen-fluessigkeiten-witz-die-kontrollspur-entscheidet-6aaa3cddbfb40073cb2f32ef",
+    "image": "https://images.bild.de/6aaa3cddbfb40073cb2f32ef/fa181da0182237d307bc74ff4cd156c9,73e0ee3?w=1280",
+    "date": 0,
+    "titleSl": "Letališče Große-Liste - Flüssigkeiten im Handgepäck: Je bil pozlačen denn jetzt?"
+   },
+   {
+    "title": "Riesen-Wirbel bei Real Madrid - Mbappé und Vinicius wollen Ceuta-Shirts nicht zeigen",
+    "link": "https://www.bild.de/sport/fussball/real-madrid-riesen-wirbel-kylian-mbappe-und-vinicius-wollen-ceuta-shirts-nicht-zeigen-6aaa35fb46c2b72ce0eda6ef",
+    "image": "https://images.bild.de/6aaa35fb46c2b72ce0eda6ef/3d0a971e6b8eea01f5e6dfef725918f5,dc40d2ba?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kabine, Sprache, Taktik - Wie heftig krempelt Wagner Hannover um?",
     "link": "https://www.bild.de/sport/fussball/hannover-96-wie-heftig-krempelt-sandro-wagner-den-klub-um-trainer-poker-vorm-abschluss-6aaa520991d8cffaad47b139",
     "image": "https://images.bild.de/6aaa520991d8cffaad47b139/091946b6c0c2b27514b639aca870471c,2b511eeb?w=1280",
@@ -439,58 +452,46 @@
     "image": "https://images.bild.de/6aaa5300a9420481bd2132f9/0df40ad594c5ba085fb7e0ab1283b944,262666a6?w=1280",
     "date": 0,
     "titleSl": "Einsatz fraglich - Weiter Sorgen um DIESEN EINTRACHT-STAR"
-   },
-   {
-    "title": "Mini-Ablöse enthüllt - ER ist Eintrachts neues Mega-Schnäppchen",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-mini-abloese-enthuellt-er-ist-das-mega-schnaeppchen-6aaa61d8a9420481bd21349d",
-    "image": "https://images.bild.de/6aaa61d8a9420481bd21349d/e9dd84634352888c185b7e821a978dc1,3920886?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Wochenvorschau vom 14. September 2026 - So geht es bei „Sturm der Liebe“ weiter",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/sturm-der-liebe-vorschau-fanny-wird-klar-wem-ihr-herz-gehoert-6aa7b9331e576e6f7a14ca02",
-    "image": "https://images.bild.de/6aa7b9331e576e6f7a14ca02/4312513fbbe007346dce84a0eb7c4d3f,d555e6eb?w=1280",
-    "date": 0,
-    "titleSl": "Wochenvorschau vom 14. september 2026 - So geht es bei „Sturm der Liebe“ weiter"
    }
   ],
   "krone": [
+   {
+    "title": "Kurz nach Schulstart - 55 Kopftuch-Fälle landen jetzt bei der Behörde",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EQk1LMlZXV1JCZXEzWWRNTkowNEFTLS1pdGtzemVIa0xBQVZYd2ViWmlSNlkyLUdRTDBJWDNTMHc1Zw?oc=5",
+    "image": "",
+    "date": 1789558264000
+   },
+   {
+    "title": "„Schutz der Sprache“ - Europarat rügt zwei österreichische Bundesländer",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lUlhWOEk5QnI5SF9KZmRhQzVwcDV3YVBHSThLa1l6aWVNS0dVYVdzd2dxalhGc0tmZUR1bThGOXZPdw?oc=5",
+    "image": "",
+    "date": 1789558257000
+   },
+   {
+    "title": "Interne Ermittlungen - Echte Polizisten schützten „falschen“ Amazon-Boss",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yVFd3QzUyUTZWaXpVTnhKbkdKamlxbVlYSWxhamtZMTBBZm8tX19GY1VNWmxOMzlGUU1DU2FudC11Zw?oc=5",
+    "image": "",
+    "date": 1789558200000
+   },
+   {
+    "title": "2 Mio. Euro Schulden - PAV Präzisionstechnik Austria ist pleite",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DU0Y0VWRwVzlsTUhySGxTeWc2RjY0X0djNWI4cnpqOTJfVHJ0Q0Q3bU1acXdEZE5LbDI0ME5jM3o5UQ?oc=5",
+    "image": "",
+    "date": 1789558200000,
+    "titleSl": "2 Mio. Euro Schulden - pav Präzisionstechnik Austria ist pleite"
+   },
+   {
+    "title": "Hoher Besuch - Patriarch genoss die steirische Gastfreundschaft",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WVWg3NzhLSkZHTzhzc051N19tNmN6RjhMVUp5WTlXOExOSTFrTmVJVkRSZUx1ZmxIMVNzdVMwd3JZUQ?oc=5",
+    "image": "",
+    "date": 1789558200000,
+    "titleSl": "Hoher Besuch - patriarh genoss die steirische Gastfreundschaft"
+   },
    {
     "title": "Italiens Kaderumbruch - Gerüchteküche brodelt: Historische Nominierung?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5UUFnb3o1X0dGOEpNTlBPZTNZWml5bUMwQXNxZVExcmduS0hWamNiVThQNnNEbElpS0pneTVOUVpFUQ?oc=5",
     "image": "",
     "date": 1789557720000
-   },
-   {
-    "title": "Alexander Kirchner - Manager der Energie AG wechselt jetzt nach Wien",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGenY1aXBJclFWMFp0ekNEUEFDcU1vcExpRnZORGFJNURpOFFPT3lCY3NxVEFEY1hCRFpORmxVcFZhQQ?oc=5",
-    "image": "",
-    "date": 1789557600000
-   },
-   {
-    "title": "Großeinsatz ausgelöst - Mann mit Spielzeugpistole in Spital gesichtet",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KWHUzRURfeVdkdkVWcTBRZThnWWhnNHRlMHhFd1VvdmN0czgxcG5lZE14MmtSS1ZtX3l5d1B6Sk5iUQ?oc=5",
-    "image": "",
-    "date": 1789557360000
-   },
-   {
-    "title": "Polizisten angegriffen - Wirbel bei Festnahme von Ladendieb mitten in Stadt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PVnpUVVBQLUhJQ053QTgtdkx6T0hUblpTZ3pNdGo2M1dWeWlnTS1sOGk0V3pXVmpKajh0N0pDS081UQ?oc=5",
-    "image": "",
-    "date": 1789557240000,
-    "titleSl": "Polizisten angegriffen - Wirbel bei Festnahme von Ladendieb palčniki v mestu"
-   },
-   {
-    "title": "U-Haft für Täter - Wird Tierquälerei jetzt endlich ernst genommen?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA3SjktcTdfRFZua0dscUZ6RDQwbGZWQ2dKX0d3NGJyVkg4SFBVckQ0MHpuQ0RjenItU2VDMmE5VjBrdw?oc=5",
-    "image": "",
-    "date": 1789556640000
-   },
-   {
-    "title": "Die Summen steigen - Mehr Salzburger rutschen in den Privatkonkurs",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmYnZjMHFBeDlKeVRENHlQb0dHQk00T3c5V3lEclJJZWlqVFR2X1ZsdlJlWGdrV0pSd3JFM0JBYkh0dw?oc=5",
-    "image": "",
-    "date": 1789556400000
    }
   ],
   "rainews": [
@@ -576,6 +577,12 @@
   ],
   "elpais": [
    {
+    "title": "Los 50 mejores hoteles del mundo, en imágenes: el Rosewood Hong Kong repite liderazgo y el lujo asiático se consolida en los primeros puestos",
+    "link": "https://elpais.com/elviajero/2026-09-16/los-50-mejores-hoteles-del-mundo-en-imagenes-el-rosewood-hong-kong-repite-liderazgo-y-el-lujo-asiatico-se-consolida-en-los-primeros-puestos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/TNHTBFZGA5BB3MMLGDPCF3XCG4.jpg?auth=1250dd1e1ca04ccc0753c172adcad4ab933b7d6c8075b861b74c90a966a0081e",
+    "date": 1789557755000
+   },
+   {
     "title": "El PP, sobre el gesto de Vinicius, Mbappé y Konaté: “Me dio bastante vergüenza ajena”",
     "link": "https://elpais.com/deportes/futbol/2026-09-16/el-pp-sobre-el-gesto-de-vinicius-mbappe-y-konate-me-dio-bastante-verguenza-ajena.html",
     "image": "https://imagenes.elpais.com/resizer/v2/S5KMVCP65JDEVIB7LG4VUVY3IE.jpg?auth=6b82a00f1ece9a3f3cd2201374c19c9f7eb1818796b1089f2c1bb1d785d9b067",
@@ -606,12 +613,6 @@
     "link": "https://elpais.com/internacional/2026-09-16/el-pais-organiza-la-tercera-edicion-de-dialogos-para-la-seguridad-centrada-en-el-papel-de-europa-en-un-mundo-en-crisis.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EBCTXT3DZJEEDDSGFIJ4J7IPKA.png?auth=5612285d05ebeb86c7ed4a55309cb221abedd73d33e83fc1a88293e906d83b53",
     "date": 1789556406000
-   },
-   {
-    "title": "Arabia Saudí culpa a los hutíes del lanzamiento de un dron contra la ciudad sagrada de la Meca",
-    "link": "https://elpais.com/internacional/2026-09-16/arabia-saudi-culpa-a-los-huties-del-lanzamiento-de-un-dron-contra-la-ciudad-sagrada-de-la-meca.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ENWSBJG3K5MH3LXONGKQJFR3L4.jpg?auth=f1e31447346d8b9ba2391a128edea5f4bb7006362226dc719be3afd28c4018b8",
-    "date": 1789555992000
    }
   ]
  },
