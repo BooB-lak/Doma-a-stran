@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T14:10:45.993Z",
+ "generatedAt": "2026-09-16T14:12:38.400Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "What's gone wrong for Chelsea talent Kendry Paez?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/d9ecc7d0-b1b0-11f1-8b77-cd7827f05bee.jpg",
+    "date": 1789567500000,
+    "titleSl": "Kaj je šlo narobe s Chelseajevim talentom Kendryjem Paezom?"
+   },
+   {
     "title": "Charlotte to host WTA Finals from 2027",
     "link": "https://www.bbc.co.uk/sport/tennis/articles/cmly495rnkq7o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5004/live/73456520-b14a-11f1-a383-57f33d64a166.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
     "date": 1789565326000,
     "titleSl": "Osem otrok od 21 ubitih po zrušitvi stavbe v Gazi, ki je bila poškodovana v vojni, pravijo reševalci"
-   },
-   {
-    "title": "Earl Spencer's unreleased book on sister Diana stolen in the Netherlands",
-    "link": "https://www.bbc.co.uk/news/articles/cjqlw4773rqyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae9e/live/3142dec0-9aff-11f1-a27d-25dca26018ed.jpg",
-    "date": 1789564936000,
-    "titleSl": "Neizdana knjiga Earla Spencerja o sestri Diani, ukradena na Nizozemskem"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Why are election officials in the US preparing for chaos before midterms?",
-    "link": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aaa8367e010-1789559655.jpg?resize=1920%2C1440",
-    "date": 1789566971000,
-    "titleSl": "Zakaj se volilni uradniki v ZDA pripravljajo na kaos pred vmesnimi volitvami?"
-   },
    {
     "title": "Maresca defends VAR while lamenting row dominating win at Manchester United",
     "link": "https://www.aljazeera.com/sports/2026/9/16/maresca-defends-var-while-lamenting-row-dominating-win-at-manchester-united?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa9b031c60a6-1789505585_765252-1789561048.jpg?resize=1200%2C630&quality=80",
     "date": 1789565244000,
     "titleSl": "Umetniki, ki so se umaknili s turneje Eda Sheerana po Palestini"
+   },
+   {
+    "title": "Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789564980.jpg?resize=1918%2C1080&quality=80",
+    "date": 1789565035000,
+    "titleSl": "Džibuti v pripravljenosti, ko ljudje bežijo iz Jemna, potem ko so Huti prevzeli Mayyun"
    }
   ],
   "guardian": [
@@ -413,6 +413,31 @@
   ],
   "bild": [
    {
+    "title": "Wahnsinn in der Nachspielzeit - Ex-Dynamo schießt Eigentor des Jahres",
+    "link": "https://www.bild.de/sport/fussball/fussball-wahnsinn-in-nachspielzeit-eigentor-des-jahres-in-der-3-liga-6aaa4bcc91d8cffaad47b0a6",
+    "image": "https://images.bild.de/6aaa4bcc91d8cffaad47b0a6/486d6e39b032de50b780d64e2430b10e,7ce80811?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Eishockey-Traum reloaded - Mit Rekord-Etat zum Wiederaufstieg",
+    "link": "https://www.bild.de/sport/mehr-sport/eishockey-dresdner-eisloewen-wollen-mit-rekord-etat-in-del-zurueck-6aaa907b3e0af7910e521418",
+    "image": "https://images.bild.de/6aaa907b3e0af7910e521418/387f94cc08c09f768bb4a50dea565b19,83889745?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Auch Superzellen sind möglich - Unwetterwarnung in Bayern",
+    "link": "https://www.bild.de/news/wetter/auch-superzellen-sind-moeglich-unwetter-ueber-muenchen-6aaa95e6a9420481bd213a26",
+    "image": "https://images.bild.de/6aaa95e6a9420481bd213a26/35c06da4645b1ed06a565f26b903bf55,e7929a13?w=1280",
+    "date": 0,
+    "titleSl": "Auch Superzellen sind möglich - Unwetterwarnung v Bayernu"
+   },
+   {
+    "title": "Nationalspieler stimmt über Olympia ab - München oder Köln? Goretzkas schwere Entscheidung",
+    "link": "https://www.bild.de/sport/olympia/leon-goretzka-vor-olympia-votum-seine-stimme-koennte-entscheidend-sein-6aaa904cbfb40073cb2f3b0c",
+    "image": "https://images.bild.de/6aaa904cbfb40073cb2f3b0c/8197d7f08c5e5647fcd2ab748b198ed9,971bb6a1?w=1280",
+    "date": 0
+   },
+   {
     "title": "Zwillingsbrüder auf E-Scooter überfahren - Totraser muss nur 3 Jahre ins Gefängnis",
     "link": "https://www.bild.de/regional/frankfurt/brueder-auf-e-scooter-ueberfahren-totraser-muss-3-jahre-ins-gefaengnis-6aaa59d991d8cffaad47b210",
     "image": "https://images.bild.de/6aaa59d991d8cffaad47b210/3636227512c610ff699c1e23c792184f,fc9a9503?w=1280",
@@ -422,30 +447,6 @@
     "title": "Heidi Klums Dirndl-Überraschung - In BILD verrät sie ihre Oktoberfest-Geheimnisse",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/heidi-klums-dirndl-ueberraschung-in-bild-verraet-sie-ihre-oktoberfest-geheimnisse-6aaa748abfb40073cb2f389c",
     "image": "https://images.bild.de/6aaa748abfb40073cb2f389c/479846511c21ca027aeff941d071763b,49f261b2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Unabhängige Prüfungen - Künstliche Intelligenz bekommt TÜV-Check",
-    "link": "https://www.bild.de/leben-wissen/digital/ki-tuev-drei-freiwillige-zertifizierungen-ab-ende-2026-6aaa689cbfb40073cb2f36f5",
-    "image": "https://images.bild.de/6aaa689cbfb40073cb2f36f5/111848408a7508557b0f72ae87bc6ad0,3b18e14?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Bittere Nachrichten - Union ohne Schlüsselspieler bei den Bayern",
-    "link": "https://www.bild.de/sport/fussball/union-berlin-bittere-verletzung-vor-spiel-gegen-bayern-muenchen-6aaa73bfa9420481bd213666",
-    "image": "https://images.bild.de/6aaa73bfa9420481bd213666/a21e5082a1559fb7178db6e04d52dbb5,47e9d7a9?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Es geht um die Bosse - Watzke trifft wichtige BVB-Entscheidung",
-    "link": "https://www.bild.de/sport/fussball/es-geht-um-die-bosse-watzke-trifft-wichtige-bvb-entscheidung-6aaa435d3e0af7910e5209e9",
-    "image": "https://images.bild.de/6aaa435d3e0af7910e5209e9/bfffa0e5e8fd6e43e024054c4bd8f77d,2d23db4c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Emotionales Geständnis von Lok-Spieler - Mein Glaube verhalf mir zum Comeback",
-    "link": "https://www.bild.de/sport/fussball/emotionales-gestaendnis-von-fussball-profi-mein-glaube-verhalf-mir-zum-comeback-6aaa4e81bfb40073cb2f3410",
-    "image": "https://images.bild.de/6aaa4e81bfb40073cb2f3410/cdeebf7ac5fad7f72f4873696c8efe3d,8844c2aa?w=1280",
     "date": 0
    }
   ],
