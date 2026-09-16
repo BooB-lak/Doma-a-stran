@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T16:16:30.014Z",
+ "generatedAt": "2026-09-16T16:18:29.999Z",
  "sources": {
   "siol": [
    {
@@ -199,11 +199,11 @@
   ],
   "nyt": [
    {
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/federal-reserve-interest-rates-warsh",
+    "title": "Annie Dillard, Meditative Author of ‘Pilgrim at Tinker Creek,’ Dies at 81",
+    "link": "https://www.nytimes.com/2026/09/16/books/annie-dillard-dead.html",
     "image": "",
-    "date": 1789574941000,
-    "titleSl": "Tukaj je najnovejše."
+    "date": 1789575465000,
+    "titleSl": "Annie Dillard, meditativna avtorica romarja pri Tinker Creeku, umre pri 81 letih"
    },
    {
     "title": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
@@ -211,6 +211,20 @@
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/xp-mecca-vfbl/xp-mecca-vfbl-mediumSquareAt3X.jpg",
     "date": 1789573825000,
     "titleSl": "Hutiji in Savdijci trdijo, da se vojaški napadi zaradi stopnjevanja konfliktov stopnjujejo"
+   },
+   {
+    "title": "News Choppers Gathered in the Los Angeles Sky. Then One Fell to Earth.",
+    "link": "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html",
+    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16nat-ca-newscopter-sub-bzjf/16nat-ca-newscopter-sub-bzjf-mediumSquareAt3X.jpg",
+    "date": 1789573824000,
+    "titleSl": "Novičarski helikopterji, zbrani na letališču Los Angeles Sky. Potem je Eden padel na Zemljo."
+   },
+   {
+    "title": "Billions in Taxes Go Unpaid. Under Trump, the I.R.S. Won’t Say How Much.",
+    "link": "https://www.nytimes.com/2026/09/16/business/trump-irs-tax-gap.html",
+    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16dc-IRS-taxgap-1-jwfv/16dc-IRS-taxgap-1-jwfv-mediumSquareAt3X.jpg",
+    "date": 1789573366000,
+    "titleSl": "Milijarde davkov ostanejo neplačane. Pod Trumpom davčna uprava ne bo povedala, koliko."
    },
    {
     "title": "Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-europe-canada-security-tmjv/16int-europe-canada-security-tmjv-mediumSquareAt3X.jpg",
     "date": 1789571361000,
     "titleSl": "EU Pogovori o tem, da bi Kanada postala prva \"pridružena članica\", saj so ameriške vezi oslabljene"
-   },
-   {
-    "title": "The University of California Dumped the SAT. Let’s Not Bring It Back.",
-    "link": "https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html",
-    "image": "",
-    "date": 1789570803000,
-    "titleSl": "Kalifornijska univerza je odvrgla SAT. Ne vračajmo ga nazaj."
-   },
-   {
-    "title": "News Helicopter Crash and Bus Accident in Los Angeles Leave at Least 5 Dead",
-    "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
-    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-helicopter/16xp-helicopter-mediumSquareAt3X-v2.jpg",
-    "date": 1789569803000,
-    "titleSl": "Novice Helikopterska nesreča in avtobusna nesreča v Los Angelesu, najmanj 5 mrtvih"
    }
   ],
   "bbc": [
@@ -453,13 +453,57 @@
     "date": 0
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Zwei Bezirke vorne - 55 Kopftuch-Fälle landen jetzt bei der Behörde",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EQk1LMlZXV1JCZXEzWWRNTkowNEFTLS1pdGtzemVIa0xBQVZYd2ViWmlSNlkyLUdRTDBJWDNTMHc1Zw?oc=5",
+    "image": "",
+    "date": 1789575288000
+   },
+   {
+    "title": "Neue Supermaschine - CERN plant 15-Milliarden-Jagd auf große Unbekannte",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUeXNzVTNGdzZtcmMxaUZiVzIzNUlSRUwwZW04cnFMVHNfOW1uZEQ1RUh5MEVnTmVMUWlUbzBiNTdOUQ?oc=5",
+    "image": "",
+    "date": 1789574700000,
+    "titleSl": "Neue Supermaschine - obrat CERN 15-Milliarden-Jagd auf große Unbekannte"
+   },
+   {
+    "title": "„Schutz der Sprache“ - Europarat rügt zwei österreichische Bundesländer",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lUlhWOEk5QnI5SF9KZmRhQzVwcDV3YVBHSThLa1l6aWVNS0dVYVdzd2dxalhGc0tmZUR1bThGOXZPdw?oc=5",
+    "image": "",
+    "date": 1789574486000
+   },
+   {
+    "title": "Toter in Gefängnis - Wenn Mohamed H. sich ärgert, sterben Menschen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9odlF0dE50ZHY0M2FESDJGN1BVbDRXT3lNb2ZQSVcwSDhzZEtxekFKWE5DakJubHBVWkhCVHg0ekZuUQ?oc=5",
+    "image": "",
+    "date": 1789574400000
+   },
+   {
+    "title": "„Lizenz zum Blitzen“ in weiteren drei Gemeinden",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XUzV6ZXJBc25jSXlKSmNjNy1GdVNPaUk1TnFaRUtmQUNVQUtKMUtOMzV3VjBlNTUwVG5TN3lUZG5HZw?oc=5",
+    "image": "",
+    "date": 1789574400000
+   },
+   {
+    "title": "Ungewöhnlicher Alarm - Abgestürzt! Totes Pferd lag mitten auf Terrasse",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15dTFPZHNub1VjYnBRNUgyUUhDQ2VvRmNkbEdENy1sMEo4X1hGczdseWpWM0c2dWZZdUI5RFlxVkJ4QQ?oc=5",
+    "image": "",
+    "date": 1789574400000
+   }
+  ],
   "rainews": [
    {
     "title": "Gaza, crolla una palazzina danneggiata dai bombardamenti israeliani: almeno 21 i morti",
     "link": "https://www.rainews.it/maratona/2026/09/guerre-medio-oriente-congresso-usa-la-guerra-a-iran-gia-costata-38-miliardi-di-dollari-a94a0c99-7295-40c4-a3d4-5a512c564dac.html",
     "image": "https://www.rainews.it/dl/img/2026/9/16/1789538235140_TZLOPRPRTRMADPBASEIMAGEXISRAELPALESTINIANSGAZABUILDINGCOLLAPSE.JPG",
     "date": 1789575000000
+   },
+   {
+    "title": "Da Monica Guerritore a Nanni Moretti: 21 film italiani in corsa per gli Oscar",
+    "link": "https://www.rainews.it/articoli/2026/09/da-monica-guerritore-a-nanni-moretti-21-film-italiani-in-corsa-per-gli-oscar-ee2549b2-9400-41f4-9984-3c47dd20b3e1.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/16/1789575066396_rainewseccdeaaece.jpg",
+    "date": 1789574940000
    },
    {
     "title": "Cdm approva decreto, via il bollo su auto piccole e taglio delle accise fino al 5 ottobre",
@@ -486,13 +530,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/16/1789561576520_Schermata__alle_...png",
     "date": 1789573620000,
     "titleSl": "L'ex presidente kosovaro Hashim Thaci condannato a 25 anni"
-   },
-   {
-    "title": "Negli incanti di Eros: applausi al Teatro dell&#x27;Opera per \"Le Nozze di Figaro\" di Mozart",
-    "link": "https://www.rainews.it/video/2026/09/negli-incanti-di-eros-applausi-al-teatro-dellopera-per-le-nozze-di-figaro-di-mozart-2758e042-2017-43ea-bc61-d969b105dc28.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/16/1789572582440_Le_nozze_di_Figaro_Martina_Russomanno_SusannaErwin_Schrott_Figaro__Fabrizio_SansoniTeatro_dellOpera_di_Roma.jpg",
-    "date": 1789572444000,
-    "titleSl": "Negli incanti di Eros: applausi al Teatro dell 'Opera per \"Le Nozze di Figaro\" di Mozart"
    }
   ],
   "lemonde": [
@@ -514,7 +551,7 @@
     "title": "Fashion week de Paris : le défi de trouver un lieu où défiler",
     "link": "https://www.lemonde.fr/m-styles/article/2026/09/16/fashion-week-de-paris-le-defi-de-trouver-un-lieu-ou-defiler_6775416_4497319.html",
     "image": "https://img.lemde.fr/2026/09/15/1376/0/8256/4128/644/322/60/0/5e323e5_upload-1-ordnljq4bev5-000-34kh4eu-chloe.jpg",
-    "date": 1789570811000,
+    "date": 1789570804000,
     "titleSl": "Teden mode v Parizu : le défi de trouver un lieu où défiler"
    },
    {
