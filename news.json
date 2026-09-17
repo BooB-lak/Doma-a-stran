@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17T13:54:27.156Z",
+ "generatedAt": "2026-09-17T13:56:26.078Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "V Ljubljani prijeli 23-letnega Američana, osumljenega umora 15-letnice v ZDA",
+    "title": "Američan, osumljen umora, slovenski policiji trdil, da je iz Kanade",
     "link": "https://www.24ur.com/novice/slovenija/v-sloveniji-prijeli-americana.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/ceece3f77949bc221dc1_63649423.jpg?v=eed5&fop=fp:0.46:0.42",
-    "date": 1789653129000
+    "date": 1789653317000
    },
    {
     "title": "Devet let od zgodovinskega pohoda slovenske košarke na vrh Evrope",
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "As a New Oil Power, China Gains More Sway Over Energy Markets",
+    "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+    "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17biz-china-oil-1-pfvb/17biz-china-oil-1-pfvb-mediumSquareAt3X.jpg",
+    "date": 1789652584000,
+    "titleSl": "Kitajska kot nova naftna sila pridobiva več vpliva na energetske trge"
+   },
+   {
     "title": "The $15,000 Settlement That Destroyed My Father’s Life",
     "link": "https://www.nytimes.com/2026/09/17/opinion/social-security-disability-insurance-father-suicide.html",
     "image": "",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17pol-campaign-top-1lt5-hgqb/17pol-campaign-top-1lt5-hgqb-mediumSquareAt3X.jpg",
     "date": 1789647804000,
     "titleSl": "Kdo bo zmagal na vmesnih volitvah? Republikanci so na kolenih."
-   },
-   {
-    "title": "Trump Looks Isolated on Interest Rates",
-    "link": "https://www.nytimes.com/2026/09/17/business/dealbook/trump-fed-rates.html",
-    "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17db-warsh-vfjh/17db-warsh-vfjh-mediumSquareAt3X-v2.jpg",
-    "date": 1789647222000,
-    "titleSl": "Trump je videti izoliran od obrestnih mer"
    }
   ],
   "bbc": [
@@ -255,6 +255,13 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/773f/live/c12af1b0-b29e-11f1-b1d1-571ed4d7ff2c.jpg",
     "date": 1789653177000,
     "titleSl": "Ostanki, najdeni po požaru v Londonu, ki je bil od leta 2019 ugotovljen kot pogrešana mati treh otrok"
+   },
+   {
+    "title": "Verified video shows wreck of Saudi warplane shot down over Yemen",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8e4/live/aa203af0-b29b-11f1-bc1f-3f186ca4140c.png",
+    "date": 1789652856000,
+    "titleSl": "Preverjeni videoposnetek prikazuje razbitino savdskega letala, ki je strmoglavilo nad Jemnom"
    },
    {
     "title": "Ninth woman's body found as South African police investigate string of deaths",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5209/live/46dc49c0-b291-11f1-9b18-ad61bef6e34f.jpg",
     "date": 1789650160000,
     "titleSl": "Klopp želi \"povrniti\" zastavo med nemškimi volitvami"
-   },
-   {
-    "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-    "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c3b/live/aeda9940-b29c-11f1-bc1f-3f186ca4140c.jpg",
-    "date": 1789649898000,
-    "titleSl": "Kralj Charles opozarja na \"eksistencialno nevarnost\", da umetna inteligenca pade v napačne roke"
    }
   ],
   "aljazeera": [
@@ -414,9 +414,27 @@
   ],
   "bild": [
    {
+    "title": "Wegen Israels Teilnahme - Irland boykottiert ESC erneut",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/esc-2027-irland-boykottiert-erneut-und-zeigt-show-nicht-im-tv-6aabd061fc82e30f94af31ff",
+    "image": "https://images.bild.de/6aabd061fc82e30f94af31ff/6290bf1707d45c96d42891f732953621,90bd11f8?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Top-Wissenschaftler rechnen vor - DAS kostet Sie eine 5 in Mathe später beim Gehalt",
+    "link": "https://www.bild.de/politik/inland/mathe-noten-und-gehalt-tausende-euro-mehr-im-monat-moeglich-6aa810c31e576e6f7a14d2e6",
+    "image": "https://images.bild.de/6aa810c31e576e6f7a14d2e6/448ea7959fc1c0f39ee089ca1005435f,79c8b71b?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Er muss jetzt weg“ - Liga-Boss Watzke feuert gegen Infantino",
     "link": "https://www.bild.de/sport/fussball/er-muss-jetzt-weg-ohne-wenn-und-aber-liga-boss-watzke-feuert-gegen-infantino-6aabdf19a9420481bd214d8e",
     "image": "https://images.bild.de/6aabdf19a9420481bd214d8e/e3464be2a6936183121a99dbb43fa850-landscape,ccd92cfd?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Polizei rollt „Fall Hannes S.“ wieder auf - Podcast deckt neue Spuren zum Tod von Fußball-Fan auf",
+    "link": "https://www.bild.de/regional/sachsen-anhalt/tod-von-fussball-fan-hannes-podcast-liefert-neue-spur-zeugen-gesucht-6aabaab76c12d34b7f43d689",
+    "image": "https://images.bild.de/6aabaab76c12d34b7f43d689/67576cc85cc11ee20c52fb9b83c7029e,d67d9f81?w=1280",
     "date": 0
    },
    {
@@ -431,24 +449,6 @@
     "image": "https://images.bild.de/6aab9710fc82e30f94af2989/2c4dd0e35b650507ce880c38004db675,567cdb3c?w=1280",
     "date": 0,
     "titleSl": "Malaria-Fälle v Frankfurtu - Flughafen-Anwohner sollen lange Kleidung tragen"
-   },
-   {
-    "title": "„Das Passive ist nicht unseres“ - Justvan verrät Nürnberger Siegesformel",
-    "link": "https://www.bild.de/sport/fussball/fcn-julian-justvan-ueber-pressing-ballbesitz-und-neue-torgefahr-6aa930fe77bd109fcdd01fd9",
-    "image": "https://images.bild.de/6aa930fe77bd109fcdd01fd9/6980e9bb2b50908cbee06ca6b87601f0,bb68192b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nahe Frankfurter Flughafen - Neuer Todesfall nach Malaria-Infektion",
-    "link": "https://www.bild.de/news/nahe-frankfurter-flughafen-neuer-todesfall-nach-malariainfektion-6aabe65d3e0af7910e522deb",
-    "image": "https://images.bild.de/6aabe65d3e0af7910e522deb/0972e6538ac985c15badafe2cea38b57,bf05a664?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Blitz-Aus bei Gladbach - Dieser Star-Trainer jetzt für Schröder greifbar",
-    "link": "https://www.bild.de/sport/fussball/nach-blitz-rauswurf-star-trainer-jetzt-fuer-gladbach-greifbar-6aab2604a9420481bd2140fd",
-    "image": "https://images.bild.de/6aab2604a9420481bd2140fd/b7845578acea7f4fc0868135333a9511,d9a3a7d7?w=1280",
-    "date": 0
    }
   ],
   "krone": [
