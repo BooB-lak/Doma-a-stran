@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18T08:10:42.306Z",
+ "generatedAt": "2026-09-18T08:12:28.031Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Neurje v Dalmaciji poplavilo ceste in poškodovalo infrastrukturo",
+    "link": "https://www.24ur.com/novice/tujina/neurje-v-dalmaciji-poplavilo-ceste-in-poskodovalo-infrastrukturo.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/95a3fa08dbe4d4d3b74f_63649906.png?v=83f3&fop=fp:0.44:0.53",
+    "date": 1789718921000
+   },
+   {
     "title": "Radovedni sosed sprožil alarm na novem posestvu Taylor Swift in Travisa Kelceja",
     "link": "https://www.24ur.com/popin/tuja-scena/radovedni-sosed-sprozil-alarm-na-novem-posestvu-taylor-swift-in-travisa-kelceja.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/7ab5da3e66d9329dca83_63649499.png?v=70f6&fop=fp:0.49:0.52",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/crna-kronika/zamaskiranca-s-pistolami-zagrozila-zaposlenemu-in-oropala-bencinski-servis.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/a5de70c58565aaafe0b5_63649886.jpg?v=6105&fop=fp:0.50:0.38",
     "date": 1789716955000
-   },
-   {
-    "title": "Zasegli 100.000 tablet s podobo Gadafija",
-    "link": "https://www.24ur.com/novice/tujina/zasegli-100000-tablet-s-podobo-gadafija.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/612894ccbfbeca996bae_63649877.jpg?v=148a&fop=fp:0.47:0.35",
-    "date": 1789715200000
    }
   ],
   "rtvslo": [
@@ -287,11 +287,18 @@
   ],
   "aljazeera": [
    {
-    "title": "Philippines school shooting kills at least two",
+    "title": "Indonesia acquires first aircraft carrier amid military upgrade",
+    "link": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aacd92d0271-1789712685.jpg?resize=1920%2C1440",
+    "date": 1789718089000,
+    "titleSl": "Indonezija ob vojaški nadgradnji kupila prvo letalonosilko"
+   },
+   {
+    "title": "Philippines school shooting leaves at least two dead",
     "link": "https://www.aljazeera.com/news/2026/9/18/philippines-school-shooting-kills-at-least-two?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782187758.jpg?resize=1705%2C1080&quality=80",
     "date": 1789717643000,
-    "titleSl": "Streljanje v šolah na Filipinih je ubilo vsaj dva"
+    "titleSl": "V streljanju na filipinski šoli sta umrla vsaj dva"
    },
    {
     "title": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabd9b8-1789647288.jpg?resize=1200%2C630",
     "date": 1789711328000,
     "titleSl": "Omanska naftna ubežna pot: Kako delujejo prenosi z ladje na ladjo — kljub velikim tveganjem"
-   },
-   {
-    "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
-    "link": "https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdd9c-1789648284.jpg?resize=1920%2C1440",
-    "date": 1789709866000,
-    "titleSl": "Ruske parlamentarne volitve: Kdo je na volitvah in zakaj je to pomembno"
    }
   ],
   "guardian": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Ihr Einzug überraschte sie selbst! - Noch ein Paar rückt im „Sommerhaus“ nach",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/ihr-einzug-ueberraschte-sie-selbst-noch-ein-paar-rueckt-im-sommerhaus-nach-6aac1cf2e63576cfb102905d",
+    "image": "https://images.bild.de/6aac1cf2e63576cfb102905d/4c11a6565d805580cc5ffba5a6455cdd,4fc80237?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Gebrauchter Audi Q2 - Crossover vom Audi punktet mit solider TÜV-Bilanz",
+    "link": "https://www.bild.de/leben-wissen/auto/audi-q2-im-tuev-check-stark-im-alter-schwaechen-bei-den-bremsen-6a9a8b64b3e0470a1975b604",
+    "image": "https://images.bild.de/6a9a8b64b3e0470a1975b604/b44f2cd02e1edd2ed76e5e3c3802a701,7a59921f?w=1280",
+    "date": 0
+   },
+   {
     "title": "Hertha-Torwart kämpft um jeden Einsatz - Gersbeck: „Ich habe eine hohe Schmerzgrenze“",
     "link": "https://www.bild.de/sport/fussball/hertha-torwart-kaempft-um-jeden-einsatz-gersbeck-ich-habe-eine-hohe-schmerzgrenze-6aabb8c43e0af7910e5226fe",
     "image": "https://images.bild.de/6aabb8c43e0af7910e5226fe/509b41b0326aa521f58a50e3c6a8be69-landscape,39e15778?w=1280",
@@ -437,19 +449,6 @@
     "image": "https://images.bild.de/6aacc8f77a2a14cb01becc0d/ea9d204c282de02cc7351321e44c3c2e,d8cd2644?w=1280",
     "date": 0,
     "titleSl": "Braut (25) halbseitig gelähmt - Schlaganfall! Hochzeit endet v Notaufnahmeju"
-   },
-   {
-    "title": "Plötzlich tritt er zu - KI-Roboter greift Entwickler an",
-    "link": "https://www.bild.de/news/ausland/ploetzlich-tritt-er-zu-ki-roboter-greift-entwickler-an-6aa79345240b302c8a843e22",
-    "image": "https://images.bild.de/6aa79345240b302c8a843e22/8a7eb64c4f8aacbd4869a0d287e6aded,3fe4180d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Cocker-Spaniel geht viral - Wenn er sich freut, fällt er um",
-    "link": "https://www.bild.de/news/welpe-verzaubert-das-internet-er-schlaeft-ein-wenn-er-aufgeregt-ist-6aaa6e71bfb40073cb2f37f5",
-    "image": "https://images.bild.de/6aaa6e71bfb40073cb2f37f5/87fe9620e1fff3bedfb2554c3593e80f,6ec9a482?w=1280",
-    "date": 0,
-    "titleSl": "Cocker-Spaniel geht virus - Wenn er sich freut, fällt er um"
    }
   ],
   "krone": [
@@ -495,13 +494,13 @@
     "title": "Volley, Italia-Slovenia 3-2: Azzurri primi nel girone. Agli ottavi sfida con la Danimarca",
     "link": "https://www.rainews.it/maratona/2026/09/pallavolo-volley-maschile-europei-2026-de-giorgi-azzurri-italia-diretta-rainewsit-live-aggiornamenti-news-video-e5aee10e-f4d3-46a8-9f85-83af3ff3b204.html",
     "image": "https://www.rainews.it/dl/img/2026/9/17/1789675647903__ITALIA__SLOVENIA_.jpg",
-    "date": 1789718940000,
+    "date": 1789719120000,
     "titleSl": "Volley, Italija-Slovenija 3-2: Azzurri primi nel girone. Agli ottavi sfida con la Danimarca"
    },
    {
     "title": "Incornato da uno dei tori che alleva per hobby, 63enne in rianimazione",
     "link": "https://www.rainews.it/articoli/2026/09/incornato-da-uno-dei-tori-che-alleva-per-hobby-63enne-in-rianimazione-brescia-9b0e90ee-c619-405c-8b1f-17941f5acb09.html",
-    "image": "https://www.rainews.it/dl/img/2021/11/1600x900_1636282815329.Ospedale_Brescia.jpg",
+    "image": "https://www.rainews.it/dl/img/2026/9/18/1789719082559_toroulivi.jpg",
     "date": 1789718520000
    },
    {
@@ -573,6 +572,12 @@
   ],
   "elpais": [
    {
+    "title": "El alcalde Jaume Collboni viaja a Nueva York y se reunirá con su homólogo, Zohran Mamdani",
+    "link": "https://elpais.com/espana/catalunya/2026-09-18/el-alcalde-jaume-collboni-viaja-a-nueva-york-y-se-reunira-con-su-homologo-zohran-mamdani.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/Z4GENMQYKZMQHPDWN4PLQEVZUQ.jpg?auth=f4de3e4e4674f890b521976daa2a7f7e1f9efc19fdeb85d259deb57a27699346",
+    "date": 1789718593000
+   },
+   {
     "title": "Crisis en Ceuta y actualidad política, en directo | Tensión y nerviosismo entre los migrantes en el traslado desde las playas al puerto de Ceuta",
     "link": "https://elpais.com/espana/2026-09-18/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/XIF6WECQZFHU5HKNNEZTE5YZSM.jpg?auth=45d33175c9175a4f6ca01f0c27d15cb620bc7b69b54d51325712cae5b153d06f",
@@ -601,12 +606,6 @@
     "link": "https://elpais.com/escaparate/lo-mas-vendido/cardigan-de-mujer.html",
     "image": "https://imagenes.elpais.com/resizer/v2/ZT7FJWR6IJC3NAJP2EXV4MA2RA.png?auth=535ae42a1b45ced5e6f184db1d733ae2184de08006ec73949c28acf183de5517",
     "date": 1789706700000
-   },
-   {
-    "title": "Chollo en hogar: el centro de planchado de Cecotec más vendido con un 16% de descuento",
-    "link": "https://elpais.com/escaparate/estilo-de-vida/centro-de-planchado.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/JVYC54VERNC2LA6ZPRB2KNCW7I.png?auth=2fd0df4f8aad6bf593e1c7c95d214da0f03653cc8ddf1eeb8056176e99293cae",
-    "date": 1789705800000
    }
   ]
  },
