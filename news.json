@@ -1,7 +1,19 @@
 {
- "generatedAt": "2026-09-18T10:48:25.912Z",
+ "generatedAt": "2026-09-18T10:50:39.611Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zvezdan Mitrović v skrbeh: To se mi še ni zgodilo",
+    "link": "https://siol.net/sportal/kosarka/zvezdan-mitrovic-v-skrbeh-to-se-mi-se-ni-zgodilo-701736",
+    "image": "https://siol.net/media/img/f1/8d/1e331f1dc60094430149.jpeg",
+    "date": 1789728540000
+   },
+   {
+    "title": "Zaplet v New Yorku: Knicksi zaradi napake ustavili prodajo vstopnic",
+    "link": "https://siol.net/sportal/kosarka/zaplet-v-new-yorku-knicksi-zaradi-napake-ustavili-prodajo-vstopnic-701768",
+    "image": "https://siol.net/media/img/45/f1/497e74850b2471ac7fbd.jpeg",
+    "date": 1789728480000
+   },
    {
     "title": "Darko Jorgić v Kazahstanu preskočil kitajsko oviro",
     "link": "https://siol.net/sportal/drugi-sporti/darko-jorgic-v-kazahstanu-preskocil-kitajsko-oviro-701763",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/novice/svet/v-rusiji-se-zacenjajo-parlamentarne-volitve-701711",
     "image": "https://siol.net/media/img/f1/d4/a769e75c7ff9b009c0bf.jpeg",
     "date": 1789725300000
-   },
-   {
-    "title": "Na Hrvaškem strmoglavilo manjše letalo, pilot umrl",
-    "link": "https://siol.net/novice/svet/na-hrvaskem-strmoglavilo-manjse-letalo-pilot-umrl-701753",
-    "image": "https://siol.net/media/img/d1/65/7cde27b83d20bf0d16eb.jpeg",
-    "date": 1789724340000
-   },
-   {
-    "title": "Notino v Aleji odprl svojo prvo trgovino v Sloveniji",
-    "link": "https://siol.net/trendi/moda-in-lepota/notino-v-aleji-odprl-svojo-prvo-trgovino-v-sloveniji-701740",
-    "image": "https://siol.net/media/img/8a/92/20bb3139d6a1260cb5fe.jpeg",
-    "date": 1789723320000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Legendarni kolesar brutalno nad Tadejevega pomočnika, rojaku očita izdajstvo",
+    "link": "https://www.zurnal24.si/sport/kolesarstvo/legendarni-kolesar-brutalno-nad-tadejevega-pomocnika-rojaku-ocita-izdajstvo-465344",
+    "image": "https://www.zurnal24.si/media/img/89/f1/f6e7d7bfba1e6fbc827b.jpeg",
+    "date": 1789728540000
+   },
+   {
     "title": "Veliko časa namenjenega Stevanovićevi razrešitvi",
     "link": "https://www.zurnal24.si/slovenija/veliko-casa-namenjenega-stevanovicevi-razresitvi-465342",
     "image": "https://www.zurnal24.si/media/img/f3/02/d318643e433a6e9013e8.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/pri-radljah-ob-dravi-je-mocno-pocilo-oba-voznika-huje-poskodovana-465334",
     "image": "https://www.zurnal24.si/media/img/af/2a/e04c53c5db64e6b432bb.jpeg",
     "date": 1789722300000
-   },
-   {
-    "title": "Radikalen Trumpov rez: Najprej na udaru tri evropske države",
-    "link": "https://www.zurnal24.si/svet/radikalen-trumpov-rez-najprej-na-udaru-tri-evropske-drzave-465335",
-    "image": "https://www.zurnal24.si/media/img/d5/da/85e782c806d9605e5391.jpeg",
-    "date": 1789722240000
    }
   ],
   "reuters": [
@@ -287,46 +287,46 @@
   ],
   "aljazeera": [
    {
+    "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+    "link": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2269303361-1789726281.jpg?resize=1200%2C675",
+    "date": 1789728573000,
+    "titleSl": "Palmer in Alexander-Arnold sta se po zavrnitvi svetovnega pokala v Angliji spomnila"
+   },
+   {
+    "title": "United Nations says US may have committed war crimes in Iran: What it means",
+    "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aacf044-1789718596_d675ba-1789722229.jpg?resize=1200%2C630&quality=80",
+    "date": 1789728198000,
+    "titleSl": "Združeni narodi pravijo, da so ZDA morda zagrešile vojne zločine v Iranu: Kaj to pomeni"
+   },
+   {
+    "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+    "link": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2024-01-31T112833Z_177588029_RC2XS5A84N8N_RTRMADP_3_INDIA-BUDGET-1789723433.jpg?resize=1920%2C1440",
+    "date": 1789727602000,
+    "titleSl": "\"Moji otroci niso napadli Irana\": 2 milijardi južnih Azijcev trpi zaradi oddaljene vojne"
+   },
+   {
+    "title": "Israel is killing the people who could end its wars",
+    "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/getty_69bbecbb07-1773923515.jpg?resize=1920%2C1440",
+    "date": 1789727374000,
+    "titleSl": "Izrael ubija ljudi, ki bi lahko končali njegove vojne"
+   },
+   {
+    "title": "Ukraine fires drone barrage as Russia launches elections",
+    "link": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-18T064208Z_577540486_RC2HLNALW8J9_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-ELECTION-1789715197.jpg?resize=1920%2C1440",
+    "date": 1789727297000,
+    "titleSl": "Ukrajina strelja na brezpilotne letalnike, medtem ko Rusija začenja volitve"
+   },
+   {
     "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
     "link": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2011/01/201111754339419734_20.jpeg?resize=1200%2C675",
     "date": 1789726723000,
     "titleSl": "V bombnem napadu na pakistansko mošejo najmanj 15 mrtvih, 50 ranjenih"
-   },
-   {
-    "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
-    "link": "https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26258423654720-1789724350.jpg?resize=1920%2C1440",
-    "date": 1789724623000,
-    "titleSl": "\"To je vojna\": Južna Afrika se bori s femicidom, ko se kopičijo ženska telesa"
-   },
-   {
-    "title": "India star Sooryavanshi urged to be patient by coach Gambhir",
-    "link": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-09T164805Z_832986245_UP1EM791AO3VZ_RTRMADP_3_CRICKET-T20-ENG-IND-1789721238.jpg?resize=1920%2C1440",
-    "date": 1789724077000,
-    "titleSl": "Indijska zvezda Sooryavanshi je trenerja Gambhirja pozvala k potrpežljivosti"
-   },
-   {
-    "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
-    "link": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-18T232856Z_826536996_UP1EM7I1T86S2_RTRMADP_3_SOCCER-WORLDCUP-FRA-ENG-1789720690.jpg?resize=1920%2C1440",
-    "date": 1789722729000,
-    "titleSl": "Bayern in Anglež Kane se kljub 73-ciljni sezoni nista osredotočila na Ballon d'Or"
-   },
-   {
-    "title": "Why the Kremlin fears even the ‘managed opposition’ in Russia",
-    "link": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aacfffe1d10c-1789722622.jpg?resize=1920%2C1440",
-    "date": 1789722642000,
-    "titleSl": "Zakaj se Kremelj boji celo \"upravljane opozicije\" v Rusiji"
-   },
-   {
-    "title": "Video: Influencers accused of exploiting Nepal flood survivors",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789721861.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789721928000,
-    "titleSl": "Videoposnetek: Influencerji, obtoženi izkoriščanja preživelih poplav v Nepalu"
    }
   ],
   "guardian": [
@@ -414,15 +414,21 @@
   ],
   "bild": [
    {
-    "title": "Erstes Wiesn-Wochenende - So wird das Wetter zum Oktoberfest",
-    "link": "https://www.bild.de/news/wetter/das-wetter-gibt-zum-oktoberfest-einen-aus-wie-das-erste-wiesn-wochenende-wird-6aabb0df6c12d34b7f43d729",
-    "image": "https://images.bild.de/6aabb0df6c12d34b7f43d729/5d497ed1d9cba7939d0545da96a107c8,4558c555?w=1280",
-    "date": 0
-   },
-   {
     "title": "Knapp 32 Kilogramm schwer - Das ist die längste Salami der Welt",
     "link": "https://www.bild.de/news/130-meter-lang-und-knapp-32-kilogramm-schwer-das-ist-die-laengste-salami-der-welt-6aa314461f0f824cf2378e43",
     "image": "https://images.bild.de/6aa314461f0f824cf2378e43/029526e673c117849460624a93932e2a,ee5db2ee?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Unfall auf Kreisstraße - 1 Toter! Streifenwagen erfasst E-Bike",
+    "link": "https://www.bild.de/regional/thueringen/thueringen-e-bike-fahrer-35-stirbt-nach-crash-mit-polizeiauto-6aacf2eeb1857e86757a5c63",
+    "image": "https://images.bild.de/6aacf2eeb1857e86757a5c63/3ec690cf214c3861e0ef56c3e8642a52,3e602390?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Erstes Wiesn-Wochenende - So wird das Wetter zum Oktoberfest",
+    "link": "https://www.bild.de/news/wetter/erstes-wiesn-wochenende-so-wird-das-wetter-zum-oktoberfest-6aabb0df6c12d34b7f43d729",
+    "image": "https://images.bild.de/6aabb0df6c12d34b7f43d729/5d497ed1d9cba7939d0545da96a107c8,39a23674?w=1280",
     "date": 0
    },
    {
@@ -442,12 +448,6 @@
     "title": "Knaller-Auftakt steht bevor - So lief der XXL-Umbruch beim Top-Favoriten",
     "link": "https://www.bild.de/sport/mehr-sport/eishockey-so-macht-der-xxl-umbruch-dresden-zum-top-favoriten-6aacf699b1857e86757a5ca6",
     "image": "https://images.bild.de/6aacf699b1857e86757a5ca6/b8ed6dec69e2359e42ea1fd5e472a63d,1d5a10cb?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Abzocke in Italien - Jetzt kassieren Restaurants sogar für Musik",
-    "link": "https://www.bild.de/leben-wissen/reisen/restaurant-gebuehren-im-urlaub-7-euro-fuer-musik-und-andere-extras-6aad09b67a2a14cb01bed376",
-    "image": "https://images.bild.de/6aad09b67a2a14cb01bed376/8c6669fa451df648ea79afec7847e4db,976613f2?w=1280",
     "date": 0
    }
   ],
@@ -504,16 +504,17 @@
     "date": 1789727160000
    },
    {
+    "title": "Da \"I figli della scimmia\" con Scamarcio a \"Dov&#x27;è la Fiesta\", a \"Normal\": le uscite cinematografiche",
+    "link": "https://www.rainews.it/video/2026/09/da-i-figli-della-scimmia-con-scamarcio-a-dove-la-fiesta-a-normal-le-uscite-cinematografiche-f83ac880-7030-447e-a115-9922019cd923.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/18/1789728409073_NormalD.jpeg",
+    "date": 1789726980000,
+    "titleSl": "Da \"I figli della scimmia\" con Scamarcio a \"Dov'è la Fiesta\", a \"Normal\": le uscite cinematografiche"
+   },
+   {
     "title": "Il Pd, \"sciogliere il partito di Vannacci\". Il governo: la Carta garantisce la libertà di pensiero",
     "link": "https://www.rainews.it/articoli/2026/09/interrogazione-pd-sciogliere-il-partito-di-vannacci-il-governo-liberta-di-pensiero-nella-carta-a8bbcb1d-99c2-444c-b204-8fdc713de105.html",
     "image": "https://www.rainews.it/dl/img/2026/06/13/1781359257440_rainewsebfcfeeccfeccda.jpg",
     "date": 1789725660000
-   },
-   {
-    "title": "Maltempo, è allerta gialla su 12 regioni: tempeste e violenti temporali",
-    "link": "https://www.rainews.it/maratona/2026/09/maltempo-e-allerta-gialla-su-12-regioni-tempeste-e-violenti-temporali-il-meteo-162a8b8d-10c1-4079-ae9d-921bbcd650d5.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/17/1789667343417_rainewsbfefeceeaaa.jpg",
-    "date": 1789725540000
    },
    {
     "title": "MotoGp Austria, Marquez-Martin alla pari: Bezzecchi in agguato per il titolo",
@@ -530,6 +531,12 @@
    }
   ],
   "lemonde": [
+   {
+    "title": "EN DIRECT, guerre en Ukraine : un missile touche un train de banlieue dans la région de Kharkiv",
+    "link": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-un-missile-touche-un-train-de-banlieue-dans-la-region-de-kharkiv_6772184_3210.html",
+    "image": "https://img.lemde.fr/2026/09/18/132/0/1600/800/644/322/60/0/a4290a9_ftp-1-xckdnhwp52lb-2026-09-18t101944z-235888507-rc2mlna1z4hx-rtrmadp-3-ukraine-crisis-attack-kharkiv-region.JPG",
+    "date": 1789728236000
+   },
    {
     "title": "Prix des carburants : le gouvernement ouvre la porte à de nouvelles aides, sur fond de tension sociale",
     "link": "https://www.lemonde.fr/politique/article/2026/09/18/prix-des-carburants-le-gouvernement-ouvre-la-porte-a-de-nouvelles-aides-sur-fond-de-tension-sociale_6776774_823448.html",
@@ -562,12 +569,6 @@
     "image": "https://img.lemde.fr/2026/09/18/664/0/7971/3985/644/322/60/0/d7d01de_upload-1-i2akygcls2jx-000-87fe8eh.jpg",
     "date": 1789720845000,
     "titleSl": "Le Danemark inaugure l'un des premiers sites de stockage de CO₂ « à grande échelle » en Europe"
-   },
-   {
-    "title": "En quoi les infographies de W.E.B. Du Bois ont-elles fait avancer la cause des Afro-Américains ?",
-    "link": "https://www.lemonde.fr/videos/video/2026/09/18/en-quoi-les-infographies-de-w-e-b-du-bois-ont-elles-fait-avancer-la-cause-des-afro-americains_6776753_1669088.html",
-    "image": "https://img.lemde.fr/2026/09/16/60/0/1920/960/644/322/60/0/eddb575_upload-1-zplphllvur7p-tile-5-2.jpg",
-    "date": 1789718409000
    }
   ],
   "elpais": [
