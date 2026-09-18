@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18T17:38:23.623Z",
+ "generatedAt": "2026-09-18T17:40:41.346Z",
  "sources": {
   "siol": [
    {
@@ -331,11 +331,25 @@
   ],
   "guardian": [
    {
+    "title": "San Diego police investigate case of family of three found fatally shot in home",
+    "link": "https://www.theguardian.com/us-news/2026/sep/18/san-diego-police-investigate-family-found-dead",
+    "image": "https://i.guim.co.uk/img/media/7e28286f905cce424ff01fb3d938d346deefe8d8/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=cd1586f6939b073b95cf5b7ad414d2db",
+    "date": 1789752705000,
+    "titleSl": "Policija v San Diegu preiskuje primer tričlanske družine, ki so jo doma ustrelili s smrtnim izidom"
+   },
+   {
     "title": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/f6287da7fd9bd90a7b12e08e76992e99d8a890bc/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a4410cf1247c60d23748a3cc90d244f1",
-    "date": 1789751693000,
+    "date": 1789752506000,
     "titleSl": "Zgodnje glasovanje se začne sredi volitev, saj se kampanja osredotoča na življenjske stroške in vojno v Iranu – ameriška politika v živo"
+   },
+   {
+    "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
+    "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
+    "image": "https://i.guim.co.uk/img/media/c7585407e277e5b2acbc2922de46ff2e5bce772e/887_0_3946_3158/master/3946.jpg?width=140&quality=85&auto=format&fit=max&s=99714df4e222982675790a9a88059ab8",
+    "date": 1789752459000,
+    "titleSl": "Preživeli pripovedujejo o paniki in boju za dihanje v nigerijski zaporniški celici, kjer jih je umrlo 37"
    },
    {
     "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
@@ -343,20 +357,6 @@
     "image": "https://i.guim.co.uk/img/media/d9bf03b2031b6b969de3c13c9e3564bc2d6bebce/426_0_4300_3440/master/4300.jpg?width=140&quality=85&auto=format&fit=max&s=7498002e910f87f9233c4e74cef3a7f6",
     "date": 1789751437000,
     "titleSl": "Brazilka Lula pred volitvami napoveduje višja plačila socialnega varstva in brezplačno hujšanje"
-   },
-   {
-    "title": "Trump administration sued over threat to deploy federal law enforcement at voting sites",
-    "link": "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-sued-federal-law-enforcement-voting",
-    "image": "https://i.guim.co.uk/img/media/6625bbe0d5ff794f931ee581e7ecbae419c2d4f8/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=c0fc245bc70c9a2586bb3757c3be1b35",
-    "date": 1789751009000,
-    "titleSl": "Trumpova administracija je tožila zaradi grožnje z razporeditvijo zveznih organov pregona na volišča"
-   },
-   {
-    "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
-    "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-    "image": "https://i.guim.co.uk/img/media/c7585407e277e5b2acbc2922de46ff2e5bce772e/887_0_3946_3158/master/3946.jpg?width=140&quality=85&auto=format&fit=max&s=99714df4e222982675790a9a88059ab8",
-    "date": 1789750870000,
-    "titleSl": "Preživeli pripovedujejo o paniki in boju za dihanje v nigerijski zaporniški celici, kjer jih je umrlo 37"
    },
    {
     "title": "Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors",
@@ -374,6 +374,12 @@
    }
   ],
   "spiegel": [
+   {
+    "title": "Volkswagen kappt Gewinnerwartung für 2026 – Aktie rauscht ab",
+    "link": "https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab-a-896b0f60-5375-43d4-b517-8a732d4fea3b#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/ae97a049-44c1-4f4f-97e4-74c5b04251aa_w520_r2.08_fpx39.33_fpy44.98.jpg",
+    "date": 1789752900000
+   },
    {
     "title": "Rente mit 63 ist besonders in Ostdeutschland ein Reizthema – zu Recht?",
     "link": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss",
@@ -405,28 +411,21 @@
     "image": "https://cdn.prod.www.spiegel.de/images/56d35ddf-57fa-4a13-9455-c48d85f1d672_w520_r2.08_fpx29.98_fpy55.jpg",
     "date": 1789746240000,
     "titleSl": "Afganistan: Tagebuch der Entrechtung einer jungen Frau – Podcast"
-   },
-   {
-    "title": "Ukraine: Israelis pilgern trotz Krieg zu Rosch-ha-Schana-Feier",
-    "link": "https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier-a-5ca1c979-70be-48d3-91ce-2937e95d9bbb#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c25b579f-3795-47d5-8e24-a2fe9bc99a49_w520_r2.08_fpx64.29_fpy50.jpg",
-    "date": 1789746120000,
-    "titleSl": "Ukrajina: izraelski romarski trotz Krieg zu Rosch-ha-Schana-Feier"
    }
   ],
   "bild": [
+   {
+    "title": "Aufstellung da! - Ein Bayern-Star fällt kurzfristig aus",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-aufstellung-gegen-union-berlin-da-6aad6b5f4453e0520be1a24d",
+    "image": "https://images.bild.de/6aad6b5f4453e0520be1a24d/b3a305e26f4006de3f8f6df10934a0c8,cae97f64?w=1280",
+    "date": 0
+   },
    {
     "title": "TikTok-Videos kopiert? - „Elevator Boy“ entschuldigt sich bei Influencerin",
     "link": "https://www.bild.de/unterhaltung/bildgg/elevator-boy-bene-schulz-entschuldigt-sich-bei-influencerin-6aa928c4ce1a73b32a4fc522",
     "image": "https://images.bild.de/6aa928c4ce1a73b32a4fc522/83e07189fd7f47921106512890694811,1aa0618c?w=1280",
     "date": 0,
     "titleSl": "TikTok-Videos kopiert? - \"Elevator Boy\" entschuldigt sich bei Influencerin"
-   },
-   {
-    "title": "Aufstellung da! - Ein Bayern-Star fällt kurzfristig aus",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-aufstellung-gegen-union-berlin-da-6aad6b5f4453e0520be1a24d",
-    "image": "https://images.bild.de/6aad6b5f4453e0520be1a24d/b3a305e26f4006de3f8f6df10934a0c8,cae97f64?w=1280",
-    "date": 0
    },
    {
     "title": "Medienbericht - Saudi-Arabien liefert Europa im Oktober kein Öl",
@@ -454,6 +453,13 @@
    }
   ],
   "krone": [
+   {
+    "title": "Massive Schwächung - Bitterer Ausfall! Laimer fällt fürs ÖFB-Team aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83ZElPNDFKMWxhZnZkb0JFcE8tNjQxUkd5T1pnM1Vxc3hCem44ZVBES1FzX1dsUVhtRElpcjJpZFZWQQ?oc=5",
+    "image": "",
+    "date": 1789753080000,
+    "titleSl": "Masivni Schwächung - Bitterer Ausfall! Laimer fällt fürs ÖFB-Team aus"
+   },
    {
     "title": "Von Senior übersehen - Motorradlenker (82) stirbt nach Kollision mit Pkw",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QR3lKc0RSZGNpSUVFM3hLcDd3ZFZOT0dGRmFWanhhcDZyWnRObm9zQWxUVFlWdDR2clRJenhmM3RaQQ?oc=5",
@@ -483,12 +489,6 @@
    {
     "title": "Eine Erfolgsgeschichte - Aufsteirern: Jetzt träumen die Macher von New York",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nZjNuRThqdEFPUUlBTmJBRExWOHUzZ2M0Qk13QzdyZmp2YmtOaFU0QnRobXVyYzVmZ2dqLXNjR1RrQQ?oc=5",
-    "image": "",
-    "date": 1789750800000
-   },
-   {
-    "title": "Wasser aus Spülwagen - Schneller als Feuerwehr: Kanalteam löscht Brand",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vU2ZmQVRIUzJ6clF3eE51SlZ0VXNhZ0JacWptdFQ3UG56bndPazdKMGVQNDZsdHJQY3BFbm8yUlB3dw?oc=5",
     "image": "",
     "date": 1789750800000
    }
