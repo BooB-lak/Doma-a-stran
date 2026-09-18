@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-18T19:24:26.945Z",
+ "generatedAt": "2026-09-18T19:26:27.041Z",
  "sources": {
   "siol": [
+   {
+    "title": "Dron zadel hladilni stolp jedrske elektrarne Kursk v Rusiji",
+    "link": "https://siol.net/novice/svet/dron-zadel-hladilni-stolp-jedrske-elektrarne-kursk-v-rusiji-701820",
+    "image": "https://siol.net/media/img/da/f7/64b999af142157a40715.jpeg",
+    "date": 1789759260000
+   },
    {
     "title": "Drama: humanoidni robot brcnil programerja in mu izbil ... #video",
     "link": "https://siol.net/novice/svet/drama-humanoidni-robot-brcnil-programerja-video-701802",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-5-krog-sesko-manchester-701737",
     "image": "https://siol.net/media/img/78/a5/1e51643cd49909a61d15.jpeg",
     "date": 1789757400000
-   },
-   {
-    "title": "Hokejisti Olimpije sezono odprli z zmago na Madžarskem",
-    "link": "https://siol.net/sportal/hokej/liga-ice-hokej-18-september-hkolimpija-701692",
-    "image": "https://siol.net/media/img/68/73/54c5ddc97ee79971e636.jpg",
-    "date": 1789757100000
    }
   ],
   "24ur": [
@@ -286,6 +286,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+    "link": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aad798eb2d2-1789753742.jpg?resize=1920%2C1440",
+    "date": 1789758881000,
+    "titleSl": "Dva ranjena v izraelskem bombardiranju, ko so vojaki napredovali v južnem Libanonu"
+   },
+   {
     "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
     "link": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad88eb-1789757675.jpg?resize=1920%2C1440",
@@ -319,13 +326,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2011/10/2011101162254258734_20.jpeg?resize=1200%2C675",
     "date": 1789756344000,
     "titleSl": "Warren Buffett odstopa kot predsednik Berkshire Hathaway"
-   },
-   {
-    "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-    "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T080709Z_2010010280_RC2WENA4CXDO_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1789739173.jpg?resize=1920%2C1440",
-    "date": 1789755587000,
-    "titleSl": "Ruska brezpilotna letala ogrožajo zahodne uradnike, ki so vezani na Kijev, medtem ko vojna zavlačuje"
    }
   ],
   "guardian": [
@@ -333,7 +333,7 @@
     "title": "Trump on war in Iran, Houthi advance in Yemen: ‘It’ll all work out’ – live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/e67f7b512a54abe6a18033429ff1e5235ed567e2/1352_456_2648_2119/master/2648.jpg?width=140&quality=85&auto=format&fit=max&s=0d245fc7feaf2ec82c227ecff6a3d904",
-    "date": 1789758202000,
+    "date": 1789759146000,
     "titleSl": "Trump o vojni v Iranu, Huti napredujejo v Jemnu: \"Vse se bo izšlo\" – v živo"
    },
    {
@@ -414,41 +414,42 @@
   ],
   "bild": [
    {
-    "title": "Pöbel-Attacke im EU-Parlament - Griechin beschimpft von der Leyen als „Rassistin“",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/poebel-attacke-im-eu-parlament-griechin-nennt-von-der-leyen-rassistin-6aad3b1e708e760b5e06334a",
-    "image": "https://images.bild.de/6aad3b1e708e760b5e06334a/ea056311d9ebf36b7fd6f104a2e19792,b46abf34?w=1280",
-    "date": 0
+    "title": "Zoff um Enthüllungsbuch: Dianas Bruder attackiert König Charles",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYmE5VkhpeWNJX0puZmZwM2lnNkdibnRLaDYxNEdMMklaZENqcHFCYS1yZ0xTczJmczRNdUlNb0s2aUxfZndEQU9DaHl1NW9nTWMyQWpNNW1uNG5ycGJDRks3d0Jzd1hNNDZoazBRLXhCUnBRZ0JmamVkZmFxU0JjVWRuU3BpbDd4NE05ZXpvTHg3X3FPSXZGTU1xUTNiZHVVbmpvNTFyMWw5TnB6Vmc0Tll0T2dUeURfTmRQUzVNUExwNldhTURrZFFZUWItUnE0aElGUA?oc=5",
+    "image": "",
+    "date": 1789758032000,
+    "titleSl": "Zoff um Enthüllungsbuch: Dianas Bruder ataše König Charles"
    },
    {
-    "title": "Sillah-Treffer rettet Punkt - Wieder kein Heimsieg für Fürth",
-    "link": "https://www.bild.de/sport/fussball/fuerth-sillahs-treffer-rettet-punkt-aber-wieder-kein-heimsieg-6aad802ed20af9e08b2b5978",
-    "image": "https://images.bild.de/6aad802ed20af9e08b2b5978/8566ff9158792c89bf286db8b7be46bd,8e7ee271?w=1280",
-    "date": 0
+    "title": "2. Bundesliga: Nach 247 Tagen endlich ein Heimsieg: Wolfsburg-Erlösung vs. Darmstadt",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmFhdlhfYWhIUDVFM1l1WDNMSWZ0NnV2eGtja014X0I2MjZWMnhlQVZCOFJ2WlIzbk13VVptSE5IR3JlMmdhSHk4TWh4dXpQSktEcGhBd256T1k2WGZHUzNBNkFTbnFQVE5rMkRZQV9kNlZ6WG80NWhqc0VtUFo2LUdiQXNmN0hqTll2RlFjZkhVelA3WlNRZ1BuUGY5b1FGYzRrQy0zWHE0S05wV2hnWnhWeG1fQU8tQ3BPbkhNMjVzX016NHVleG5tU042b25QbHRQc3B5TVQ?oc=5",
+    "image": "",
+    "date": 1789757804000
    },
    {
-    "title": "Sprit-Durchbruch - Einigung! Tankrabatt und Preisdeckel kommen",
-    "link": "https://www.bild.de/politik/nachrichtenagentur-meldet-einigung-mit-laendern-tankrabatt-und-preisdeckel-kommen-6aad7b014453e0520be1a309",
-    "image": "https://images.bild.de/6aad7b014453e0520be1a309/7bd890ad9e5a5b132608a97cbc75a272,c3d1fe3a?w=1280",
-    "date": 0
+    "title": "Guildo Horn plötzlich muskulös! Was steckt dahinter?",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1E3MlRhV2JOZWxFZGZFOHpIT0M2WGNFMEZMRzhIYVIyUC1ULS1LOHdwSmd3d3pqTW1nM0hHLTJhX0pxVG5qWmNBUTdHTEtLYnUxd0UwYUdaRzNNZDB5V2U0djh3SGc0ZHMtamdTV1ZzV1JZZFdZZkE4WkZ4NDNscnhrWXo4SkFkTldpX3FWRDJRMWNfODJrbHdmdkk5VG1vaXBfbEpyTndzMll5Skwta2ptaVcyUUEzUEc0V3R6MFVYdU82?oc=5",
+    "image": "",
+    "date": 1789757176000,
+    "titleSl": "Guildo Horn plötzlich muskulös! Je bil Steckt Dahinter?"
    },
    {
-    "title": "Es geht um Corona-Zertifikate - Staatsanwalt ermittelt gegen Xhaka!",
-    "link": "https://www.bild.de/sport/fussball/staatsanwalt-ermittelt-gegen-granit-xhaka-es-geht-um-corona-zertifikate-6aad87ac708e760b5e06389d",
-    "image": "https://images.bild.de/6aad87ac708e760b5e06389d/d67b51763ffde5699adacc36c47d4982,2b4a1b0b?w=1280",
-    "date": 0
+    "title": "Tom Cruise peitscht sein Maskenteam mit Stoppuhr an",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzNIYkZpSWZUTHY4NXhKcmdXbzJERk1iN1daVVl3Mmh0Sk5UZmdaYXRVM0R1NTVWNnlnMzZDSEJOaTByMEtzak9OVFJxTW1hT01lamdhYjNZbEpHeFdwdzRfTUd1Y2hrWXJoZlpiWTVpS3hYNUFzVWlnYXI1WlFoMGJmYklQY0w4WjJIMmJ6ZmRiaTNCWXRZN0NmeXNoUFVIeVFaVEtHRDVkV09XUHlYbnpWN2FUNUp0R3VfN1g4NUdjYms?oc=5",
+    "image": "",
+    "date": 1789756593000
    },
    {
-    "title": "Sie fanden Drogen und Nazi-Zeug - Razzia bei Mitarbeiter der AfD-Spitzenfrau!",
-    "link": "https://www.bild.de/politik/inland/razzia-bei-mitarbeiter-der-berliner-afd-spitzenfrau-sie-fanden-drogen-und-nazi-zeug-statt-waffen-6aad7aab4453e0520be1a303",
-    "image": "https://images.bild.de/6aad7aab4453e0520be1a303/91276505ac653bfbb8607c6f51c42434,cd6099c2?w=1280",
-    "date": 0
+    "title": "FCN: Zweitliga-Bankdrücker vor Länderspiel-Debüt",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTgxejZfWUZfVjdSS29aU0hTWW1MamliVTM0RFl2dm1Ed1hWaWw2aEZZaWRkMFNDUE1zcjFkX1RZN2Fna0VGbDNoM1VXODh1SHFzMURicUFxT2tBWkZKSEFPSXlFcy15aWxsUS1EdVhQbG1XSHgzRktHYjhCVlY3cGZsWDF2UERCZHdxa3FVcGpvQmF6WHlydGdUcUpadm52ZUgtTGRaX21vMDk1ZXRj?oc=5",
+    "image": "",
+    "date": 1789755788000
    },
    {
-    "title": "Zoff um Enthüllungsbuch - Dianas Bruder attackiert König Charles",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/zoff-um-enthuellungsbuch-dianas-bruder-attackiert-koenig-charles-6aad71e94453e0520be1a28c",
-    "image": "https://images.bild.de/6aad71e94453e0520be1a28c/31a93a8f8fd760505ae82c31d1785487,94e2b599?w=1280",
-    "date": 0,
-    "titleSl": "Zoff um Enthüllungsbuch - Dianas Bruder Attackiert König Charles"
+    "title": "Eurojackpot am Freitag, 18.9.2026: Die Gewinnzahlen von heute",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1VBb0duWGotZUhuRUVyTXJxdThmTGxzVEpYb0phdTRMLXVsS1laMmhDWS0xUk4xUUVMcDM2T21SOXJaWGNWdEU3VTNCbTg1RGNlNGVJSXdyR21VRUJYYVByZ0dDWFRRTGhoaWUzcHZiVGJscGExQnhsMlhtVVd6UGNKSXBNZVhlZ1VMOFpLdktyYW1BZHZpSGZGVExTUXpfMGZ6YzBNZV9PNVYxLS02VVBQaTJvbXM?oc=5",
+    "image": "",
+    "date": 1789755122000
    }
   ],
   "krone": [
