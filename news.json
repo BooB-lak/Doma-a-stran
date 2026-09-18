@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-18T14:38:26.310Z",
+ "generatedAt": "2026-09-18T14:41:17.397Z",
  "sources": {
   "siol": [
+   {
+    "title": "Rusi zaplenili premoženje Nestleja in treh drugih evropskih družb",
+    "link": "https://siol.net/novice/svet/rusi-zaplenili-premozenje-nestleja-in-treh-drugih-evropskih-druzb-701797",
+    "image": "https://siol.net/media/img/ef/84/a0f5a62b07e58cc496cb.jpeg",
+    "date": 1789741860000
+   },
    {
     "title": "Matoz napovedal ločen plačni steber za policiste do konca leta",
     "link": "https://siol.net/novice/slovenija/matoz-napovedal-locen-placni-steber-za-policiste-do-konca-leta-701796",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/pogresan-je-38-letnik-z-obmocja-ptuja-701792",
     "image": "https://siol.net/media/img/f7/8f/9881e6576772810e492f.jpg",
     "date": 1789738320000
-   },
-   {
-    "title": "Slovo še zadnjih treh slovenskih tenisačic v Tivoliju",
-    "link": "https://siol.net/sportal/tenis/slovo-se-zadnjih-treh-slovenskih-tenisacic-v-tivoliju-701789",
-    "image": "https://siol.net/media/img/cf/b4/406ffface80d4a5c265e.jpeg",
-    "date": 1789738200000
    }
   ],
   "24ur": [
@@ -117,7 +117,7 @@
   ],
   "zurnal": [
    {
-    "title": "Tako bi Matoz rešil kadrovsko stisko v Policiji",
+    "title": "Kaj se bo zgodilo s plačami policistov? To pravi Matoz",
     "link": "https://www.zurnal24.si/slovenija/tako-bi-matoz-resil-kadrovsko-stisko-v-policiji-465359",
     "image": "https://www.zurnal24.si/media/img/53/ef/3e23633761cffaa4c7fe.jpeg",
     "date": 1789741860000
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "We have a duty to 'progress' Good Friday Agreement, taoiseach tells PM",
+    "link": "https://www.bbc.co.uk/news/articles/cked7zjq57n5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fa5/live/2d20bd10-b34d-11f1-b949-71f91f81d1ab.jpg",
+    "date": 1789742375000,
+    "titleSl": "Dolžni smo \"napredovati\" po Velikonočnem sporazumu, je povedal premier"
+   },
+   {
     "title": "Flight chaos caused by software defect in space of a millisecond, report says",
     "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4691/live/77015f80-b36a-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -276,16 +283,37 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab6/live/00496b80-b360-11f1-8f19-bd786ea30d0b.jpg",
     "date": 1789739984000,
     "titleSl": "Najstnik, ki je pilotiral čoln Channel s 165 migranti, zaprt"
-   },
-   {
-    "title": "'Insufficient funds' to pay Brewdog creditors and unpaid wages after takeover deal",
-    "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb5a/live/c4324ac0-170d-11f1-b048-c9424b2cf5fd.jpg",
-    "date": 1789737574000,
-    "titleSl": "\"Nezadostna sredstva\" za izplačilo upnikov Brewdog in neizplačanih plač po dogovoru o prevzemu"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+    "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-26T191504Z_496366748_UP1EM8Q1HH3L8_RTRMADP_3_SOCCER-SPAIN-RMA-RSO-1789741177.jpg?resize=1920%2C1440",
+    "date": 1789742250000,
+    "titleSl": "Predsednik Real Madrida pravi, da obisk Ceute ni povezan z \"nedavnimi novicami\""
+   },
+   {
+    "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
+    "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad41d4-1789739476.jpg?resize=1920%2C1397",
+    "date": 1789741818000,
+    "titleSl": "Kylian Mbappe iz Real Madrida je prekinil partnerstvo z Nike in se pridružil švicarski blagovni znamki On"
+   },
+   {
+    "title": "New Bolivian cat claws its way into species list: What we meow",
+    "link": "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad2112-1789731090.jpg?resize=1920%2C1440",
+    "date": 1789741553000,
+    "titleSl": "Nova bolivijska mačka si utira pot na seznam vrst: Kaj mijavkamo"
+   },
+   {
+    "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
+    "link": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aad2c2daecf3-1789733933.jpg?resize=1920%2C1440",
+    "date": 1789741040000,
+    "titleSl": "Rusija zasegla premoženje francoskih podjetij, pozvala odposlanca Združenega kraljestva zaradi podpore Ukrajini"
+   },
    {
     "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
     "link": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
@@ -299,41 +327,34 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260916__C8H86MQ__v1__MidRes__YemenIranUsIsraelWar-1789581728.jpg?resize=1200%2C630",
     "date": 1789739569000,
     "titleSl": "Stroški iranskega regionalnega vzvoda"
-   },
-   {
-    "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
-    "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-08T080800Z_632051431_MT1USATODAY29350844_RTRMADP_3_SOCCER-FIFA-WORLD-CUP-2026-ROUND-OF-16-PORTUGAL-V-SPAIN-1789737404.jpg?resize=1920%2C1440",
-    "date": 1789738618000,
-    "titleSl": "Ronaldo ohranja mesto Portugalske za Ligo narodov, saj Jezus imenuje prvo ekipo"
-   },
-   {
-    "title": "Video: Students flee deadly school shooting in the Philippines",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789738210.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789738216000,
-    "titleSl": "Video: Študenti bežijo pred smrtonosnim streljanjem v šolah na Filipinih"
-   },
-   {
-    "title": "US voter opposition to war on Iran grows to new highs: Poll",
-    "link": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aacf60c6b4a-1789720076.jpg?resize=1920%2C1440",
-    "date": 1789736967000,
-    "titleSl": "Nasprotovanje ameriških volivcev vojni proti Iranu naraste na nove vrhunce: Anketa"
-   },
-   {
-    "title": "FIFA’s Infantino ‘must go, no ifs or buts’, blasts German FA vice president",
-    "link": "https://www.aljazeera.com/sports/2026/9/18/fifas-infantino-must-go-no-ifs-or-buts-says-german-fa-vice-president?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-24T095642Z_1525738303_UP1EM7O0RMGQG_RTRMADP_3_GERMANY-SOCCER-DFB-1789735025.jpg?resize=1920%2C1440",
-    "date": 1789736735000,
-    "titleSl": "FIFA Infantino \"mora oditi, brez če ali ampak\", razstreljuje nemški podpredsednik FA"
    }
   ],
   "guardian": [
    {
+    "title": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/f6287da7fd9bd90a7b12e08e76992e99d8a890bc/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a4410cf1247c60d23748a3cc90d244f1",
+    "date": 1789741705000,
+    "titleSl": "Zgodnje glasovanje se začne sredi volitev, saj se kampanja osredotoča na življenjske stroške in vojno v Iranu – ameriška politika v živo"
+   },
+   {
+    "title": "BrewDog creditors owed £190m will not be paid in full, say administrators",
+    "link": "https://www.theguardian.com/business/2026/sep/18/brewdog-creditors-not-paid-in-full-administrators",
+    "image": "https://i.guim.co.uk/img/media/8f114d4321a949a69ffc4fdb4647609ac1799fbe/0_1080_2655_2124/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=312c8e9add4d2449981c78b26e2ae0b5",
+    "date": 1789741498000,
+    "titleSl": "Upniki pivovarne BrewDog, ki dolgujejo 190 milijonov £, ne bodo poplačani v celoti, pravijo skrbniki"
+   },
+   {
+    "title": "BBC cash reserves hit lowest level in a decade after big single-year spend",
+    "link": "https://www.theguardian.com/media/2026/sep/18/bbc-cash-reserves-drop-lowest-level-decade",
+    "image": "https://i.guim.co.uk/img/media/f2efab8a5ffc273d5388b0d62db613184d29f65e/7_0_4824_3860/master/4824.jpg?width=140&quality=85&auto=format&fit=max&s=3f0ca9cd362970603a54037e96a90278",
+    "date": 1789741297000,
+    "titleSl": "BBC denarne rezerve so dosegle najnižjo raven v desetletju po veliki enoletni porabi"
+   },
+   {
     "title": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
     "link": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary",
-    "image": "https://i.guim.co.uk/img/media/cf146466145cfffbf7728b92deb1c49ebe26eaa1/371_0_4568_3654/master/4568.jpg?width=140&quality=85&auto=format&fit=max&s=7f73f3d982cfc7e764aecbf2ea32771a",
+    "image": "https://i.guim.co.uk/img/media/42c5fd693330e5aa287376addf1798dab75f977e/105_0_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=03d48d4535ed94f0523fd206aee35932",
     "date": 1789741128000,
     "titleSl": "Oxford United se opravičuje za lansiranje kolekcije oblačil \"United 93\" okoli 11. septembra"
    },
@@ -350,30 +371,21 @@
     "image": "https://i.guim.co.uk/img/media/fafc5119093045161ab8a9678f5934c781b67d05/45_160_5152_4121/master/5152.jpg?width=140&quality=85&auto=format&fit=max&s=f2132b7599116d2c9dd7c45b35b14eb7",
     "date": 1789740730000,
     "titleSl": "Jemenske protihutijevske sile začenjajo preiskavo nenadnega vojaškega propada"
-   },
-   {
-    "title": "Flight chaos for hundreds of thousands was caused in ‘millisecond’ by software error",
-    "link": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk",
-    "image": "https://i.guim.co.uk/img/media/3180b828104c9bdba1fbeda67b755c7a40924203/28_96_6449_5162/master/6449.jpg?width=140&quality=85&auto=format&fit=max&s=12d828912c709ad09acac14728573173",
-    "date": 1789740694000,
-    "titleSl": "Letalski kaos za več sto tisoč ljudi je v \"milisekundi\" povzročil programska napaka"
-   },
-   {
-    "title": "US veterans have greater levels of Pfas in their blood than civilians, new study finds",
-    "link": "https://www.theguardian.com/environment/2026/sep/18/pfas-veterans-blood-forever-chemicals",
-    "image": "https://i.guim.co.uk/img/media/8ccc8a3e0e28ac0bd45cc2a0026fdc3b6c371400/412_0_2676_2141/master/2676.jpg?width=140&quality=85&auto=format&fit=max&s=4c5fdef04854fb4179aacfaf07e34686",
-    "date": 1789740019000,
-    "titleSl": "Ameriški veterani imajo višje ravni Pfas v krvi kot civilisti, ugotavlja nova študija"
-   },
-   {
-    "title": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/f6287da7fd9bd90a7b12e08e76992e99d8a890bc/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a4410cf1247c60d23748a3cc90d244f1",
-    "date": 1789739883000,
-    "titleSl": "Zgodnje glasovanje se začne sredi volitev, saj se kampanja osredotoča na življenjske stroške in vojno v Iranu – ameriška politika v živo"
    }
   ],
   "spiegel": [
+   {
+    "title": "Russland-Wahl: Der Kreml hat Frieden vom Stimmzettel gestrichen",
+    "link": "https://www.spiegel.de/ausland/russland-wahl-der-kreml-hat-frieden-vom-stimmzettel-gestrichen-a-50a45fd8-e39b-48ca-b855-c70b927477ea#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/066eb3c3-20bb-4c2b-b94b-2ba977ff1362_w520_r2.08_fpx49_fpy47.jpg",
+    "date": 1789741980000
+   },
+   {
+    "title": "Bundeswehr: Boris Pistorius nimmt ersten F-35-Tarnkappenjet in den USA entgegen",
+    "link": "https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/3816160e-3c01-4878-bdfd-612aa6fdaf50_w520_r2.08_fpx54_fpy45.jpg",
+    "date": 1789741440000
+   },
    {
     "title": "Putins Krieg in der Ukraine: Uno-Bericht dokumentiert mehr als tausend Fälle sexueller Gewalt",
     "link": "https://www.spiegel.de/ausland/putins-krieg-in-der-ukraine-uno-bericht-dokumentiert-mehr-als-tausend-faelle-sexueller-gewalt-a-d1d9d2e5-3a86-42c5-8fa1-397351ecac4c#ref=rss",
@@ -397,21 +409,21 @@
     "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen-a-c538972b-6781-4f1e-afa3-51f87915619f#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/a0158872-40d3-4427-86bb-e6f0f7c1548f_w520_r2.08_fpx53_fpy46.jpg",
     "date": 1789737060000
-   },
-   {
-    "title": "Oktoberfest 2026: Alles zu Preisen, Reservierungen und Geschichte der Wiesn",
-    "link": "https://www.spiegel.de/panorama/gesellschaft/oktoberfest-2026-alles-zu-preisen-reservierungen-und-geschichte-der-wiesn-a-b8ff2d76-6a2d-4280-bb18-89ca021ff655#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/9ea65658-331d-4175-85eb-cb8dfc704dd6_w520_r2.08_fpx55.72_fpy50.jpg",
-    "date": 1789736400000
-   },
-   {
-    "title": "Großspende aus dem östlichen Mittelmeer: AfD erhält 50.000 Euro aus Zypern",
-    "link": "https://www.spiegel.de/panorama/grossspende-aus-dem-oestlichen-mittelmeer-afd-erhaelt-50-000-euro-aus-zypern-a-223708cf-7872-4dd2-a799-b66967aea6c5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/aebd15ae-53d0-48bc-a757-50d35d91231b_w520_r2.08_fpx46_fpy49.jpg",
-    "date": 1789735860000
    }
   ],
   "bild": [
+   {
+    "title": "BILD enthüllt neue Lufthansa-Strategie - Günstig zum Senator-Status in vier Tagen",
+    "link": "https://www.bild.de/leben-wissen/sparfochs/bild-enthuellt-neue-lufthansa-strategie-guenstig-zum-senator-status-an-vier-tagen-6aaa4b8f91d8cffaad47b0a2",
+    "image": "https://images.bild.de/6aaa4b8f91d8cffaad47b0a2/f8ce8d9938eadaed2602218b0f80590a,30beab0f?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Druckspiel für Hannover 96 - Übernimmt Wagner auf einem Abstiegsplatz?",
+    "link": "https://www.bild.de/sport/fussball/druckspiel-fuer-hannover-96-uebernimmt-wagner-auf-einem-abstiegsplatz-6aad2cbcb1857e86757a621f",
+    "image": "https://images.bild.de/6aad2cbcb1857e86757a621f/ce4de01602a8e97126ebe359735dbb8a,c3262c15?w=1280",
+    "date": 0
+   },
    {
     "title": "Vorschau für den 18. September 2026 - So geht es heute bei „Unter uns“ weiter",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/unter-uns-heute-im-tv-ferhat-sucht-nach-der-wahrheit-6aa3d016240b302c8a8412b0",
@@ -435,32 +447,20 @@
     "link": "https://www.bild.de/politik/inland/ricarda-lang-erwartet-vormarsch-das-gendern-ist-staerker-als-markus-soeder-6aacc8957a2a14cb01becc03",
     "image": "https://images.bild.de/6aacc8957a2a14cb01becc03/d2f88bda25c8618ada32a8784bbf6849,523269ef?w=1280",
     "date": 0
-   },
-   {
-    "title": "Drittliga-Spitzenspiel im Pott - Wann wird Hansas Wackel-Abwehr endlich dicht?",
-    "link": "https://www.bild.de/sport/fussball/hansa-rostock-bei-rot-weiss-essen-kein-neuer-trainer-und-wann-endet-gegentorflut-6aad34664453e0520be19dda",
-    "image": "https://images.bild.de/6aad34664453e0520be19dda/8af26eb0fe9e38ad43b46c12ca0eae4b,8fa8ef2a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Alle Infos und Aufstellungen zum 4. Spieltag - Lange verletzter Bayern-Star vor Comeback",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-lang-verletzter-star-vor-comeback-alle-infos-zum-4-spieltag-6aace77e7a2a14cb01bece8f",
-    "image": "https://images.bild.de/6aace77e7a2a14cb01bece8f/fee6a01bd5fd4a1b995c551144927475,54af13c4?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "MotoGP - KTM-Pilot rast in Spielberg zu Trainingsbestzeit",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQanpmdl8yckxBT2lTOEF2U0hrQUt6Q2NzTm02U0ZEM2E1TzhzdWJGb21Ydjh5V25kX0FlVmpNRDJOQQ?oc=5",
+    "image": "",
+    "date": 1789742220000
+   },
    {
     "title": "Geheime Dokumente - Rote Gewerkschaft rückt von SPÖ-Chef Babler ab",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OTnpCUzhKSzJ4RDJLRnJmckx3cTJ6RkkySDAzUFAwb1FDTHcxR0dkcXJoazNPTkEwQjJrQXozOTRfQQ?oc=5",
     "image": "",
     "date": 1789740271000
-   },
-   {
-    "title": "„Das war hirnlos“ - Dekadenz regte auf: Käse-König im Netz beleidigt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUZUVSMENRdV9lVm1nQkZLSzJ4VzVSWEtzMFZlMmY2TDhOWjNSQTA0UlgxT25pV3FTSG9zRjFEUFNpQQ?oc=5",
-    "image": "",
-    "date": 1789740244000
    },
    {
     "title": "Neue Perspektiven - Imagefilm: Kitzbühel stellt sich die „Luxus-Frage“",
@@ -529,6 +529,13 @@
   ],
   "lemonde": [
    {
+    "title": "Netflix est devenu le premier financeur privé de la production française en 2025 et devrait dépasser France Télévisions en 2030, selon l’Arcom",
+    "link": "https://www.lemonde.fr/economie/article/2026/09/18/netflix-est-devenu-le-premier-financeur-prive-de-la-production-francaise-en-2025-et-devrait-depasser-france-televisions-en-2030-selon-l-arcom_6776803_3234.html",
+    "image": "https://img.lemde.fr/2026/09/08/632/0/5059/2529/644/322/60/0/937cd32_ftp-1-ny1du3dfm2kc-2026-09-08t183912z-1363823878-rc26fnazk0rb-rtrmadp-3-film-call-my-agent.JPG",
+    "date": 1789740823000,
+    "titleSl": "Netflix est devenu le premier financeur privé de la production française en 2025 et devrait dépasser France Télévisions en 2030, selon l 'Arcom"
+   },
+   {
     "title": "Le Cojop des Alpes 2030 promet un « plan d’action » pour répondre aux « dysfonctionnements » en interne",
     "link": "https://www.lemonde.fr/sport/article/2026/09/18/le-cojop-des-alpes-2030-promet-un-plan-d-action-pour-repondre-aux-dysfonctionnements-en-interne_6776798_3242.html",
     "image": "https://img.lemde.fr/2026/09/16/586/0/6000/3000/644/322/60/0/729ad65_ftp-1-ltmfdvh3k7fs-5103855-01-06.jpg",
@@ -560,16 +567,28 @@
     "image": "https://img.lemde.fr/2026/09/18/1192/0/8000/4000/644/322/60/0/1c622a1_upload-1-2kbayfgvui6d-jmug260918081.jpg",
     "date": 1789735533000,
     "titleSl": "EN DIRECT, présidentielle 2027 : ce qu'il faut retenir de l' allocution d 'Emmanuel Macron après sa rencontre à l' Elysée avec les chefs de partis"
-   },
-   {
-    "title": "Budget 2027 : une quarantaine d’associations s’opposent au délai de carence pour certaines allocations aux étrangers proposé par Sébastien Lecornu",
-    "link": "https://www.lemonde.fr/politique/article/2026/09/18/budget-2027-une-quarantaine-d-associations-s-opposent-au-delai-de-carence-pour-certaines-allocations-aux-etrangers-propose-par-sebastien-lecornu_6776788_823448.html",
-    "image": "https://img.lemde.fr/2026/09/18/403/0/4833/2416/644/322/60/0/55efcbc_ftp-1-miethdlhvifl-2026-09-18t095633z-2142134683-rc2llnafkxr9-rtrmadp-3-france-budget-fuel.JPG",
-    "date": 1789735179000,
-    "titleSl": "Proračun 2027 : une quarantaine d 'associations s' opposent au délai de carence pour certaines allocations aux étrangers proposé par Sébastien Lecornu"
    }
   ],
   "elpais": [
+   {
+    "title": "Putin convierte las elecciones legislativas de Rusia en un referéndum sobre la continuidad de la guerra en Ucrania",
+    "link": "https://elpais.com/internacional/2026-09-18/putin-convierte-las-elecciones-legislativas-de-rusia-en-un-referendum-sobre-la-continuidad-de-la-guerra-en-ucrania.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/NUQYNVTMPRN65IV7IBGEIQGXAM.jpg?auth=5a9b6b1d8a0f147fb2c4c67bc3fee6542716397e1a8d262f95d2d2fd24666244",
+    "date": 1789741808000
+   },
+   {
+    "title": "La prima de riesgo francesa supera los 100 puntos básicos por primera vez desde 2012",
+    "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-18/la-prima-de-riesgo-francesa-supera-los-100-puntos-basicos-por-primera-vez-desde-2012.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/LZ6QKRE3XBDOZMYPEOJ776KOS4.JPG?auth=e073c8d7cdfd38a3ce0f01fa97a8674917ae624ce25e65d6b37b222b08413a6e",
+    "date": 1789741751000
+   },
+   {
+    "title": "Lagarde vuelve a sugerir la opción de abandonar el BCE antes de tiempo: “Veremos”",
+    "link": "https://elpais.com/economia/2026-09-18/lagarde-vuelve-a-sugerir-la-opcion-de-abandonar-el-bce-antes-de-tiempo-veremos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/7LV44SUQOBPT5DBGB5DJAPJPJQ.jpg?auth=36c92e137076d2c582fecc2513aa07960bc228869090fb8044eeabf2bd949441",
+    "date": 1789740708000,
+    "titleSl": "Lagarde vuelve a sugerir la opción de abandonar el BCE antes de tiempo: \"Veremos\""
+   },
    {
     "title": "Caos y disparos al aire: la operación de realojo termina con miles de inmigrantes de vuelta a las playas",
     "link": "https://elpais.com/espana/2026-09-18/tension-y-caos-en-el-traslado-de-los-migrantes-de-la-playa-benitez-al-puerto-de-ceuta.html",
@@ -589,24 +608,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/JOMNE47TRJOPPI6W7KZK73JTXU.jpg?auth=12161e760eab81ed68e1bc881e52b4d33705007934cd365a640460224d611c2c",
     "date": 1789737864000,
     "titleSl": "Crisis en Ceuta y actualidad política, en directo | El Gobierno cree que el operativo en Ceuta ha salido muy bien para lo difícil que era y llama \"neodgovorno\" a Feijóo"
-   },
-   {
-    "title": "Naomi Watts ya está en San Sebastián: su ‘look’ cómodo y otoñal para llegar al Festival",
-    "link": "https://elpais.com/smoda/moda/2026-09-18/naomi-watts-ya-esta-en-san-sebastian-su-look-comodo-y-otonal-para-llegar-al-festival.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/RGIOWAFS55BE5GXADATNWB7JJ4.jpg?auth=bd34909a99f71d578ada2030de75d2a4e471070b99f692fb357537812670ffa2",
-    "date": 1789737811000
-   },
-   {
-    "title": "Protestas en varias capitales de Europa contra la persecución LGTBIQ+ de Turquía: “Se está atacando a toda la sociedad”",
-    "link": "https://elpais.com/sociedad/lgtb/2026-09-18/protestas-en-varias-capitales-de-europa-contra-la-persecucion-lgtbiq-de-turquia-se-esta-atacando-a-toda-la-sociedad.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/3OFOOHMV6RBCLL4M74MZFOQHNA.jpg?auth=f9200d94c2f4ff06be2b11b1e0e0e10ea1a9062575c92ca9e6110ea9d72f2cae",
-    "date": 1789737152000
-   },
-   {
-    "title": "Macron ordena reforzar la protección de infraestructuras críticas frente a los ataques rusos",
-    "link": "https://elpais.com/internacional/2026-09-18/macron-ordena-reforzar-la-proteccion-de-infraestructuras-criticas-frente-a-los-ataques-rusos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/GALJSOCY3FINZDWUJB2M4OALZI.jpg?auth=8c48186bceab2e63f6d62687836a15a4fe9474d7e1c1528503bcc591d61ada1a",
-    "date": 1789737003000
    }
   ]
  },
