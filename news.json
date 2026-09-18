@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18T22:14:26.244Z",
+ "generatedAt": "2026-09-18T22:16:28.699Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "US and Denmark reach deal over Greenland's security",
+    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
+    "date": 1789769424000,
+    "titleSl": "ZDA in Danska dosegli dogovor o varnosti Grenlandije"
+   },
+   {
     "title": "Brentford stay unbeaten as they put three past Chelsea",
     "link": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b9d/live/4de77c90-b3a8-11f1-bc1f-3f186ca4140c.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
     "date": 1789762670000,
     "titleSl": "Najmanj 21 mrtvih po tem, ko je vozilo naloženo z razstrelivom Ovnova Pakistanska mošeja"
-   },
-   {
-    "title": "McIlroy in mix heading into weekend at Wentworth",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/c94gm0gg6mm7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bef/live/e0a94c10-b390-11f1-ae81-31b49a394756.jpg",
-    "date": 1789758325000,
-    "titleSl": "McIlroy in mix se odpravlja na vikend v Wentworth"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
-    "link": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C630",
-    "date": 1789768895000,
-    "titleSl": "Trump trdi, da dogovor z Dansko daje ZDA \"stalen nadzor\" nad Grenlandijo"
-   },
    {
     "title": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
     "link": "https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789763867.jpg?resize=1920%2C1080&quality=80",
     "date": 1789763880000,
     "titleSl": "\"Hči Damaska\" Assala nastopa v Siriji po 15-letnem izgnanstvu"
+   },
+   {
+    "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+    "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9ee95d-1788799325.jpg?resize=1920%2C1440",
+    "date": 1789762823000,
+    "titleSl": "Sirija aretirala pet nekdanjih častnikov iz obdobja Al Asada zaradi napadov na civiliste"
    }
   ],
   "guardian": [
@@ -414,17 +414,17 @@
   ],
   "bild": [
    {
+    "title": "„Dauerhafte Kontrolle“ - Trump verkündet Grönland-Deal mit Dänemark",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/usa-donald-trump-verkuendet-groenland-deal-mit-daenemark-6aadada5b1857e86757a6ae3",
+    "image": "https://images.bild.de/6aadada5b1857e86757a6ae3/fb327ec9b03fec3ea56f3f8af7d9b43d,f48ace15?w=1280",
+    "date": 0
+   },
+   {
     "title": "Angebliche „Fake News“ - Trump verbannt CNN und „Politico“ aus dem Weißen Haus",
     "link": "https://www.bild.de/politik/ausland-und-internationales/trump-verbannt-cnn-und-politico-aus-dem-weissen-haus-fake-news-medien-6aad90a5708e760b5e063936",
     "image": "https://images.bild.de/6aad90a5708e760b5e063936/b21c9446b601d375f2adb6393997e151,f259ab0f?w=1280",
     "date": 0,
     "titleSl": "Angebliche \"Fake News\" - Trump verbannt CNN und \"Politico\" aus dem Weißen Haus"
-   },
-   {
-    "title": "„Dauerhafte Kontrolle“ - Trump verkündet Grönland-Deal mit Dänemark",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/usa-donald-trump-verkuendet-groenland-deal-mit-daenemark-6aadada5b1857e86757a6ae3",
-    "image": "https://images.bild.de/6aadada5b1857e86757a6ae3/fb327ec9b03fec3ea56f3f8af7d9b43d,f48ace15?w=1280",
-    "date": 0
    },
    {
     "title": "Europas lustigster Raumfahrer - Dieser Pikachu lebte 67 Tage lang im All",
@@ -451,45 +451,7 @@
     "date": 0
    }
   ],
-  "krone": [
-   {
-    "title": "Messerangriff in Wien ++ Prozess gegen „Gunkl“ - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ZVEFzWVplRVdsZ2NQbE9lWUVtWGNTYTd2bkxsWnpaS21hR2VwdTRtMGdzTjVwRDZ5MEw2aFkyNGx0Zw?oc=5",
-    "image": "",
-    "date": 1789767344000,
-    "titleSl": "Messerangriff na Dunaju ++ Prozess gegen „Gunkl“ - krone.at"
-   },
-   {
-    "title": "Adabei Primetime - Glamour pur: Stars, Style und Zirkuszauber in Wien - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FQ2oxek10UmdqZ2F1eHJqZFExdy1TRUtDd2VLQzRPTi0zcGtkU0lzam9LNjZKcE9FNTF4RmRva0E0dw?oc=5",
-    "image": "",
-    "date": 1789765242000
-   },
-   {
-    "title": "Verflixter Auftakt - Unrühmliche Capitals-Serie fand ihre Fortsetzung - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIRWMzcm9xQTRMZzloOWJVcEhzZXdrbUdZZW1EeUo2VnhZSkhRT2VLZF8zTFVxSWREWEExZlRSREh4Zw?oc=5",
-    "image": "",
-    "date": 1789765080000
-   },
-   {
-    "title": "Nach Rapid – WSG Tirol - WSG-Coach sauer: „Das kann ich nicht mehr hören!“ - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Zby1OdVlYaC1nbHM2NWVKWW83VnlwcWlhdjN0Ry1JbTZmVXZrLUdMMkJ3U0pwWnV5V3ZPZGgwVm43Zw?oc=5",
-    "image": "",
-    "date": 1789764540000
-   },
-   {
-    "title": "7. Runde – 2. Liga - Top-Duo Vienna und BW Linz siegt im Gleichschritt - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXYzVzY1Ezclp4Si0xcEVTb1p0bnNYZjl5V2txT04xdXp5S1k3elJ5dGphUjU3RHR3cS14VGZVUm5Fdw?oc=5",
-    "image": "",
-    "date": 1789763880000
-   },
-   {
-    "title": "Profis zeigen Können - Internationale Tanzgala kommt in die Mozartstadt - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vRTZCOXRUVzBIUlZVNzZiVW1oT2JVLXZaMzFaWFhhWEJLaElDUkdmNkhhOG8zUVV0XzJ6QTgtOGZPdw?oc=5",
-    "image": "",
-    "date": 1789761600000
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Lady Gaga, la bebè è nata con la maternità surrogata",
