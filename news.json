@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-18T15:58:27.466Z",
+ "generatedAt": "2026-09-18T16:01:07.612Z",
  "sources": {
   "siol": [
+   {
+    "title": "Bayern igra že nocoj, saj se jutri začenja Oktoberfest",
+    "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-4-krog-701801",
+    "image": "https://siol.net/media/img/84/00/5079cd686b8cce969514.jpeg",
+    "date": 1789747200000
+   },
    {
     "title": "Umrl je nekdanji direktor Sove Drago Ferš",
     "link": "https://siol.net/novice/slovenija/umrl-je-nekdanji-direktor-sove-drago-fers-701804",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/levica-s-pozivom-pomagaj-nam-to-ni-prvi-poskus-podtikanja-701790",
     "image": "https://siol.net/media/img/18/bf/b7acfce03c851ac317ac.jpeg",
     "date": 1789744740000
-   },
-   {
-    "title": "Viralna zgodba dobiva nadaljevanje: od bidona do podpisa pogodbe s podmladkom Visme",
-    "link": "https://siol.net/sportal/kolesarstvo/viralna-zgodba-dobiva-nadaljevanje-od-bidona-do-podpisa-pogodbe-s-podmladkom-visme-701793",
-    "image": "https://siol.net/media/img/12/d2/923de89d17040b7ad62b.jpeg",
-    "date": 1789743600000
    }
   ],
   "24ur": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Brother didn't match description of 'Putney pusher', suspect's sisters tell BBC",
+    "link": "https://www.bbc.co.uk/news/videos/c623xzx1pnleo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98d/live/fcb6cfe0-b354-11f1-bc1f-3f186ca4140c.jpg",
+    "date": 1789746957000,
+    "titleSl": "Brat se ni ujemal z opisom \"Putneyjevega potiskalca\", so za BBC povedale sestre osumljenca"
+   },
+   {
     "title": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
     "link": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ea/live/aa7cf650-b35e-11f1-8f19-bd786ea30d0b.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
     "date": 1789744092000,
     "titleSl": "Najmanj 17 mrtvih, ko je vozilo naloženo z razstrelivom v pakistanski mošeji"
-   },
-   {
-    "title": "Gabriel, 15, in Barcelona amid speculation over future",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c679052dq30ro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28e0/live/1dab5c20-b36e-11f1-b1d1-571ed4d7ff2c.jpg",
-    "date": 1789743741000,
-    "titleSl": "15-letni Gabriel v Barceloni ob špekulacijah glede prihodnosti"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-    "link": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad4dd8-1789742552.jpg?resize=1920%2C1440",
-    "date": 1789746345000,
-    "titleSl": "Nigerijske sile streljajo na protestnike, ki se zbirajo zaradi smrti pridržanih rudarjev"
-   },
    {
     "title": "Police hit migrants with batons during camp transfer in Ceuta",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad2112-1789731090.jpg?resize=1920%2C1440",
     "date": 1789741553000,
     "titleSl": "Nova bolivijska mačka si utira pot na seznam vrst: Kaj mijavkamo"
+   },
+   {
+    "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
+    "link": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aad2c2daecf3-1789733933.jpg?resize=1920%2C1440",
+    "date": 1789741040000,
+    "titleSl": "Rusija zasegla premoženje francoskih podjetij, pozvala odposlanca Združenega kraljestva zaradi podpore Ukrajini"
    }
   ],
   "guardian": [
@@ -416,15 +416,21 @@
   ],
   "bild": [
    {
-    "title": "Vorschau für den 18. September 2026 - So geht es heute bei GZSZ weiter",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-heute-im-tv-kommt-es-zum-kuss-zwischen-katrin-und-kaltenbach-6aa3c17256f343d9f4dd17d8",
-    "image": "https://images.bild.de/6aa3c17256f343d9f4dd17d8/f899e8f34b8f43c6222cc5fd2a0bc2f6,a053a13b?w=1280",
-    "date": 0
-   },
-   {
     "title": "China-Geschäft - Absatzprobleme! VW-Aktie stürzt ab",
     "link": "https://www.bild.de/politik/china-geschaeft-absatzprobleme-vw-aktie-stuerzt-ab-6aad5b174453e0520be1a179",
     "image": "https://images.bild.de/6aad5b174453e0520be1a179/d976b4835194b119e09a3ec6671bf0c7,98ce9f07?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Angebliche Diskriminierung - 5000 Bewerbungen, um Firmen abzuzocken?",
+    "link": "https://www.bild.de/regional/bayern/angebliche-diskriminierung-5000-bewerbungen-um-firmen-abzuzocken-6aad16ec4453e0520be19a9e",
+    "image": "https://images.bild.de/6aad16ec4453e0520be19a9e/c45cea2945b4dd1f00341619aff232c6,add55a36?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Vorschau für den 18. September 2026 - So geht es heute bei GZSZ weiter",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-heute-im-tv-kommt-es-zum-kuss-zwischen-katrin-und-kaltenbach-6aa3c17256f343d9f4dd17d8",
+    "image": "https://images.bild.de/6aa3c17256f343d9f4dd17d8/f899e8f34b8f43c6222cc5fd2a0bc2f6,a053a13b?w=1280",
     "date": 0
    },
    {
@@ -444,15 +450,22 @@
     "link": "https://www.bild.de/unterhaltung/royals-adel/koenig-haakon-erbt-nicht-nur-die-krone-sondern-auch-das-maertha-problem-6aacf3857a2a14cb01bed0a6",
     "image": "https://images.bild.de/6aacf3857a2a14cb01bed0a6/5791b96253b36f62d09fa5fad66b2304,7efbdd73?w=1280",
     "date": 0
-   },
-   {
-    "title": "Jetzt offiziell beschlossen - DFB gibt Frauen-Bundesliga ab",
-    "link": "https://www.bild.de/sport/fussball/frauenfussball-dfb-gibt-frauen-bundesliga-ab-ausgliederung-einstimmig-beschlossen-6aad44d2708e760b5e063436",
-    "image": "https://images.bild.de/6aad44d2708e760b5e063436/f36f02ce03a12ebe2b20588ee09d3c78,2eb6a70a?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Frauen-Bundesliga - Druck am Kessel! Salzburg beim LASK unter Zugzwang",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFByemtYbmhoS19LbkEtUnluQmZucWUwTjZwTXVSUktjTHJhLTZhY0xPTzh6NUNjMlh5RVlOT2c5SU5kdw?oc=5",
+    "image": "",
+    "date": 1789747200000
+   },
+   {
+    "title": "Wegen Gaslieferungen - Insider: AfD-Spitze will Putin-Berater treffen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yaGs1Y1U3cVI2cWJ2Q2pYTlR0SHptbmVKZ3FGMkRkYi14NHpWdWw4RF8wWjdYbWhSeGMxYXZhS2xqUQ?oc=5",
+    "image": "",
+    "date": 1789747080000,
+    "titleSl": "Wegen Gaslieferungen - Insider: AfD-Spitze bo Putin-Berater treffen"
+   },
    {
     "title": "„Halb so wild“: Jäger schießen gegen Werbekampagne",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GMUpBVUphVjlFWGdyYkhUTjJuajdCcWx2emNpNkhLNVlXa3pTVUtCbFQ4ejVpUmZaa0djS19jTl9PZw?oc=5",
@@ -478,19 +491,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94dFFraFFrZkYyNFpWZGRGaHlnTmxpdlVrbnl4U29pRzZFVVplS21zY1g2TG90NDd0U29xbE1CTjJ1QQ?oc=5",
     "image": "",
     "date": 1789745340000
-   },
-   {
-    "title": "Politik-Streit in Graz - Nach Kahr-Attacke: Jetzt kontert Kammerpräsident",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaSU9aekV6Z3NMUTlLRlFJX3ZWcWtTLTNiOFZ2aWhUQnVEUkxDXzE4OWFzQ2d5OTVHTFBpUTN1d1oydw?oc=5",
-    "image": "",
-    "date": 1789744980000,
-    "titleSl": "Politik-Streit v Gradcu - Nach Kahr-Attacke: Jetzt kontert Kammerpräsident"
-   },
-   {
-    "title": "Zu wenige Plätze - Tumulte bei Verlegung von Migranten in Ceuta",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ISXNsd1ZpM1lWY0N1X2x6Q1BRU19mcTRZTDFvcHVfWmFvb0J0Z25Db25HX3dubUsxRnMtYVp5TTBpUQ?oc=5",
-    "image": "",
-    "date": 1789744560000
    }
   ],
   "rainews": [
@@ -562,26 +562,38 @@
     "titleSl": "Rima Hassan porte plainte contre le ministre Laurent Nuñez devant la Cour de justice de la République pour « violation du secret de l 'enquête »"
    },
    {
-    "title": "Kylian Mbappé quitte Nike pour l’équipementier On, qui « s’attaque au football » avec fracas",
-    "link": "https://www.lemonde.fr/sport/article/2026/09/18/kylian-mbappe-quitte-nike-pour-l-equipementier-on-qui-s-attaque-au-football-avec-fracas_6776805_3242.html",
-    "image": "https://img.lemde.fr/2026/09/15/345/0/4141/2070/644/322/60/0/604e425_ftp-1-zyweme8kqeq1-5099796-01-06.jpg",
-    "date": 1789741832000,
-    "titleSl": "Kylian Mbappé quitte Nike pour l 'équipementier On, qui « s' attaque au football » avec fracas"
-   },
-   {
     "title": "Netflix est devenu le premier financeur privé de la production française en 2025 et devrait dépasser France Télévisions en 2030, selon l’Arcom",
     "link": "https://www.lemonde.fr/economie/article/2026/09/18/netflix-est-devenu-le-premier-financeur-prive-de-la-production-francaise-en-2025-et-devrait-depasser-france-televisions-en-2030-selon-l-arcom_6776803_3234.html",
     "image": "https://img.lemde.fr/2026/09/08/632/0/5059/2529/644/322/60/0/937cd32_ftp-1-ny1du3dfm2kc-2026-09-08t183912z-1363823878-rc26fnazk0rb-rtrmadp-3-film-call-my-agent.JPG",
     "date": 1789740823000,
     "titleSl": "Netflix est devenu le premier financeur privé de la production française en 2025 et devrait dépasser France Télévisions en 2030, selon l 'Arcom"
+   },
+   {
+    "title": "L’Etat dénonce « l’incurie » du liquidateur et reprend en main la sécurité de l’usine de pâte à papier de Tarascon",
+    "link": "https://www.lemonde.fr/economie/article/2026/09/18/fibre-excellence-l-etat-denonce-l-incurie-du-liquidateur-et-reprend-en-main-la-securite-de-l-usine-de-pate-a-papier-de-tarascon-classee-seveso_6776797_3234.html",
+    "image": "https://img.lemde.fr/2026/09/18/475/0/5706/2853/644/322/60/0/d18150e_upload-1-ii5s4vz42k6z-000-a7q73yp.jpg",
+    "date": 1789737566000,
+    "titleSl": "L’Etat dénonce « l' incurie» du liquidateur et reprend en main la sécurité de l' usine de pâte à papier de Tarascon"
    }
   ],
   "elpais": [
+   {
+    "title": "El festival de Granada Cultur Alh prescinde de la escritora Ariana Harwicz por su postura contraria al boicot del mundo de la cultura a Israel",
+    "link": "https://elpais.com/cultura/2026-09-18/el-festival-de-granada-cultur-alh-prescinde-de-la-escritora-ariana-harwicz-por-su-postura-contraria-al-boicot-del-mundo-de-la-cultura-a-israel.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/MJLWFRX3WZHETNSR7MPDPTYAEI.jpg?auth=7a296c2341b4f83c86f9c02fa9d486aadeaa04678ed1d9e6665e9b0639ece106",
+    "date": 1789746694000
+   },
    {
     "title": "El Gobierno propone incorporar progresivamente a 45.000 estudiantes con discapacidad a la escuela ordinaria",
     "link": "https://elpais.com/educacion/2026-09-18/el-gobierno-propone-incorporar-progresivamente-a-45000-estudiantes-con-discapacidad-a-la-escuela-ordinaria.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TMT3QP4GZZF7HAOANR67ATEMLU.jpg?auth=777bf23b00bb13c7dc958d7d46f9c8bfee1f6446ce280c1515dd3722797dbe10",
     "date": 1789746293000
+   },
+   {
+    "title": "Un estudiante de 13 años apuñala a su profesora en Roma y graba el ataque",
+    "link": "https://elpais.com/internacional/2026-09-18/un-estudiante-de-13-anos-apunala-a-su-profesora-en-roma-y-graba-el-ataque.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/NVYFE32RA5ENNOKACMN5GR673Q.jpg?auth=afae3430535abbf7a994e0506cf3cc4c68432dbb991a4ca4b6d588b9c0a75a35",
+    "date": 1789746228000
    },
    {
     "title": "Mueren dos ancianos y una mujer resulta herida por un escape de gas en una casa de Salamanca",
@@ -601,20 +613,6 @@
     "link": "https://elpais.com/economia/2026-09-18/mbappe-rompe-con-nike-y-ficha-por-on-la-marca-de-zapatillas-participada-por-federer.html",
     "image": "https://imagenes.elpais.com/resizer/v2/VTY7WPZH6VMEXC6LHLBOAXBVQE.jpg?auth=23aa2409207e6bed4e51e1ea35cdafe3c49bb9669b48bdd9de7a510d637ea5c1",
     "date": 1789745448000
-   },
-   {
-    "title": "Phoebe Dynevor, protagonista de ‘Los Bridgerton’, comparte las fotos de su boda secreta con el actor Cameron Fuller",
-    "link": "https://elpais.com/gente/2026-09-18/phoebe-dynevor-protagonista-de-los-bridgerton-comparte-las-fotos-de-su-boda-secreta-con-el-actor-cameron-fuller.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MPB7GPN4WJGVVFVYFDDCDUXYAU.jpg?auth=255f00404592373e0562a8e3628590b6564a43ad4f33b70db6cbdccce6709a87",
-    "date": 1789745318000,
-    "titleSl": "Phoebe Dynevor, protagonistka ‘Los Bridgerton’, primerjava las fotos de su boda secreta con el igralec Cameron Fuller"
-   },
-   {
-    "title": "La asociación de los activistas agredidos en Oviedo denuncia dos nuevos ataques",
-    "link": "https://elpais.com/espana/2026-09-18/la-asociacion-de-los-activistas-agredidos-en-oviedo-denuncia-dos-nuevos-ataques.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/KROIS6BCTVGSXP3F7VJG2D36L4.jpeg?auth=33df6f7c2d54c1cfc02fa3bdf94a48b8c272f06757362c51496a13bcffeaceb8",
-    "date": 1789744818000,
-    "titleSl": "La asociación de los activstas agredidos en Oviedo denuncia dos nuevos ataques"
    }
   ]
  },
