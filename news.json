@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-19T05:10:44.421Z",
+ "generatedAt": "2026-09-19T05:12:29.874Z",
  "sources": {
   "siol": [
+   {
+    "title": "Jakob Omrzel po uspešni Vuelti izpušča svetovno prvenstvo v Montrealu",
+    "link": "https://siol.net/sportal/kolesarstvo/jakob-omrzel-po-uspesni-vuelti-izpusca-svetovno-prvenstvo-v-montrealu-701824",
+    "image": "https://siol.net/media/img/a1/49/37de22c81f20ac5602c1.jpeg",
+    "date": 1789794000000
+   },
    {
     "title": "Slovenija bo ob dnevu krvnih bolezni zasijala v rdečem",
     "link": "https://siol.net/novice/slovenija/slovenija-bo-ob-dnevu-krvnih-bolezni-zasijala-v-rdecem-701823",
@@ -30,12 +36,6 @@
     "title": "Sveta Greta in njena teleta",
     "link": "https://siol.net/mnenja/kolumne/sveta-greta-in-njena-teleta-701800",
     "image": "https://siol.net/media/img/85/b4/bb55e7c7ce51c6d128d7.jpeg",
-    "date": 1789783200000
-   },
-   {
-    "title": "Matic Ian Guček podira mejnike, pa še niti ni v najboljših letih",
-    "link": "https://siol.net/sportal/atletika/matic-ian-gucek-podira-mejnike-pa-se-niti-ni-v-najboljsih-letih-701819",
-    "image": "https://siol.net/media/img/cb/7f/450bd7cb844d53c0e45f.jpeg",
     "date": 1789783200000
    }
   ],
@@ -331,6 +331,20 @@
   ],
   "guardian": [
    {
+    "title": "‘Cost of housing’ crunch looms for low-income families, warns Resolution Foundation",
+    "link": "https://www.theguardian.com/business/2026/sep/19/cost-of-housing-crunch-looms-for-low-income-families-warns-resolution-foundation",
+    "image": "https://i.guim.co.uk/img/media/d1b6369ff026f365552cf29611e194b26124d200/404_0_3493_2794/master/3493.jpg?width=140&quality=85&auto=format&fit=max&s=d8eb6886bc58379d8fe029c8566e1d0c",
+    "date": 1789794040000,
+    "titleSl": "\"Stroški stanovanja\" so na pragu za družine z nizkimi dohodki, opozarja Fundacija za reševanje"
+   },
+   {
+    "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
+    "link": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
+    "image": "https://i.guim.co.uk/img/media/7f4696cddd8f12a4e477ae728ff4459d9231e8c5/448_86_3786_3030/master/3786.jpg?width=140&quality=85&auto=format&fit=max&s=35aa4e4a02674f6fff9e43029ab4da77",
+    "date": 1789794037000,
+    "titleSl": "Od ovacij v Benetkah do groženj s smrtjo v Izraelu: ekstremni odzivi na dokumentarec naza"
+   },
+   {
     "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
     "link": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores",
     "image": "https://i.guim.co.uk/img/media/7239a213f6a6b870f38cdd441ceed98b5b55d3a3/0_328_1448_1157/master/1448.jpg?width=140&quality=85&auto=format&fit=max&s=8db22c85200d6f7f573a2e03c2634188",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/54ca295d8d727a7f89913d8b330ce47733d11451/0_0_8256_5504/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5d46c7a091ece4221a07825597e15b9",
     "date": 1789781828000,
     "titleSl": "Več kot 35 žensk se je javilo v primeru proti lažni igralki 49ers, obtoženi goljufije"
-   },
-   {
-    "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
-    "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
-    "image": "https://i.guim.co.uk/img/media/2682fb6ff4a3009a14304ef15d3a2c645b8bd00c/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=077fe757626a325f8f5959aef9c70c3a",
-    "date": 1789779697000,
-    "titleSl": "ZDA in Danska dosegla varnostni dogovor po Trumpovih grožnjah, da bo prevzel Grenlandijo"
-   },
-   {
-    "title": "Google says its Gemini AI model hacked three other companies",
-    "link": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-    "image": "https://i.guim.co.uk/img/media/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/master/3586.jpg?width=140&quality=85&auto=format&fit=max&s=5f60df9c0852bbd10181586d7c6d70d8",
-    "date": 1789779200000,
-    "titleSl": "Google pravi, da je njegov model Gemini AI vdrl v tri druga podjetja"
    }
   ],
   "spiegel": [
@@ -453,39 +453,40 @@
   ],
   "krone": [
    {
-    "title": "Statistik Austria - Burgenland punktet mit den günstigsten Mieten",
+    "title": "Statistik Austria - Burgenland punktet mit den günstigsten Mieten - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9IN0hjZzhQMkVaMWl2bjdINjkwalRMN3V3VEJUVVFJclFCRWxKdUw4NnF0Q2JMWXJ4MDBncHVudmpoUQ?oc=5",
     "image": "",
-    "date": 1789794240000
+    "date": 1789794240000,
+    "titleSl": "Statistik Avstrija - Gradiščanski punktet mit den günstigsten Mieten - krone.at"
    },
    {
-    "title": "Verkehrssicherheit: - Lustenaus Straßen sollen entschärft werden",
+    "title": "Verkehrssicherheit: - Lustenaus Straßen sollen entschärft werden - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkUzRaUnRzNGxzMllyOVM4ZHVLQWM5cTlIa0Y3eVRTbURkS2t0VXM5YVBJLWZZdVdsSEFXdUpSdTFuZw?oc=5",
     "image": "",
     "date": 1789794000000
    },
    {
-    "title": "„Wir können auch dem LASK weh tun!“",
+    "title": "„Wir können auch dem LASK weh tun!“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BQmZnMGozTzZCYjZUQWMwM0c5OUU2QS1GVUI4M29VNkc3VTQyNm9TRU5kMS1OWXZEV3gtRXBuM2k1Zw?oc=5",
     "image": "",
     "date": 1789794000000,
-    "titleSl": "\"Wir können auch dem LASK weh tun!\""
+    "titleSl": "„Wir können auch dem LASK WEH tun!“ - krone.at"
    },
    {
-    "title": "HLA Meisterliga - HANDBALL LIVE: BT Füchse empfangen den UHK Krems",
+    "title": "HLA Meisterliga - HANDBALL LIVE: BT Füchse empfangen den UHK Krems - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OV3Z1SGg1TUFkdWNGb3RSekc4UGpYdi16NTRkWEIzOGJ2RVdxbGRjajhuelV6V3dVelIyQ0dCazRzUQ?oc=5",
     "image": "",
     "date": 1789794000000,
-    "titleSl": "Hla Meisterliga - ROKOMET V ŽIVO: BT Füchse empfangen den UHK Krems"
+    "titleSl": "Hla Meisterliga - ROKOMET V ŽIVO: BT Füchse empfangen den UHK Krems - krone.at"
    },
    {
-    "title": "3:0 gegen Tirol - Rapid: „Die Entscheidung hat uns richtig gezündet“",
+    "title": "3:0 gegen Tirol - Rapid: „Die Entscheidung hat uns richtig gezündet“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIZWNyQ05saE9qd2ZZNkQwbS1kX0w0UC13Wk1BSjUtV3AtUmd2Sk1RcTBWR1ZLZHRlZ0w4MWdnNk1fdw?oc=5",
     "image": "",
     "date": 1789793940000
    },
    {
-    "title": "Druck von den USA - Südkorea erwägt Einsatz in Straße von Hormuz",
+    "title": "Druck von den USA - Südkorea erwägt Einsatz in Straße von Hormuz - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jdEVmTEZoYlVrb1pVMWY0YXhFbzMxU2hRSHpGc01jREZGVGpzb3BOTEd1eE5KTmhJbVdJbDVHRkZ1dw?oc=5",
     "image": "",
     "date": 1789792800000
