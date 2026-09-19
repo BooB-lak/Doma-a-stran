@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-19T15:01:07.429Z",
+ "generatedAt": "2026-09-19T15:02:29.970Z",
  "sources": {
   "siol": [
+   {
+    "title": "Poljaki pokazali mišice",
+    "link": "https://siol.net/sportal/odbojka/evropsko-prvenstvo-izlocilni-boji-osmina-finala-701836",
+    "image": "https://siol.net/media/img/39/24/1680499907d8d5f7b392.jpeg",
+    "date": 1789830060000
+   },
    {
     "title": "Arsenal in nekdanji trener Maribora v težavah #vŽivo",
     "link": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-5-krog-sobota-701737",
@@ -30,12 +36,6 @@
     "title": "Bayern se je igral: Kane zabil stoti in 101. gol, Olise pa hat-trick",
     "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-4-krog-bayern-harry-kane-olise-hattrick-701801",
     "image": "https://siol.net/media/img/63/b3/086539c09d040f0ebc6a.jpeg",
-    "date": 1789828680000
-   },
-   {
-    "title": "Barcelona zvečer v Sevilli, Drkušićevi izgubili z igralcem več",
-    "link": "https://siol.net/sportal/nogomet/spansko-prvenstvo-7-krog-drkusic-poraz-701811",
-    "image": "https://siol.net/media/img/05/d8/153544f56d7ce75b89bd.jpeg",
     "date": 1789828680000
    }
   ],
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Aston Villa compound Tottenham’s misery despite Spurs ending goal drought",
+    "link": "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aae96c1-1789826753.jpg?resize=1920%2C1440",
+    "date": 1789828501000,
+    "titleSl": "Aston Villa je zaokrožila Tottenhamovo bedo kljub temu, da je Spurs končal cilj suše"
+   },
+   {
     "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
     "link": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aad33c677cbc-1789735878.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-16T124137Z_1739314588_RC26KNAQN15M_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1789819405.jpg?resize=1920%2C1440",
     "date": 1789822771000,
     "titleSl": "Otrok med tremi Palestinci, ubitimi v izraelskih napadih po Gazi"
-   },
-   {
-    "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
-    "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aae70854109-1789816965.jpg?resize=1920%2C1440",
-    "date": 1789822303000,
-    "titleSl": "Kaj se skriva za poročili, da izraelski vojski primanjkuje vojakov, opreme?"
    }
   ],
   "guardian": [
@@ -415,6 +415,24 @@
   ],
   "bild": [
    {
+    "title": "Aus 583 Kilometern im All - Berliner Satelliten schützen Pipelines und Bahntrassen",
+    "link": "https://www.bild.de/politik/inland/aus-583-kilometern-im-all-berliner-satelliten-schuetzen-pipelines-und-bahntrassen-6aa95de0176f7c20b935df5d",
+    "image": "https://images.bild.de/6aa95de0176f7c20b935df5d/0fd8a95f47fabe3989fe142443c7ccbb,2cbda944?w=1280",
+    "date": 0
+   },
+   {
+    "title": "US-Medien bestätigen - Trump lässt Journalisten wirklich nicht rein!",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/erster-us-sender-bestaetigt-trump-laesst-journalisten-wirklich-nicht-rein-6aae814ad43840926585a9be",
+    "image": "https://images.bild.de/6aae814ad43840926585a9be/b21c9446b601d375f2adb6393997e151,f259ab0f?w=1280",
+    "date": 0
+   },
+   {
+    "title": "JP Kraemers Noch-Ehefrau - „Ich bin bei ihm geblieben, weil ich Angst hatte“",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/julia-meck-ueber-jp-kraemer-ich-bin-bei-ihm-geblieben-weil-ich-angst-hatte-6aaa3ee6a9420481bd2131a6",
+    "image": "https://images.bild.de/6aaa3ee6a9420481bd2131a6/2522a1cb95b172d7c02eabf8a9c23d00,fdca81df?w=1280",
+    "date": 0
+   },
+   {
     "title": "Irres 2:2 im Ost-Kracher - Witz-Elfer, Pyro-Pause, Ausgleich in 101. Minute",
     "link": "https://www.bild.de/sport/fussball/irres-2-2-zwischen-erfurt-und-aue-witz-elfer-pyro-pause-und-last-minute-schock-6aae9263b1857e86757a7518",
     "image": "https://images.bild.de/6aae9263b1857e86757a7518/24b5419bbe6a86d70779ab6efefd6cba,9b091b7f?w=1280",
@@ -433,60 +451,42 @@
     "link": "https://www.bild.de/sport/fussball/1-fc-kaiserslautern-sechsmal-note-2-fuer-die-gewinner-6aae5a27f9697bf26fd01921",
     "image": "https://images.bild.de/6aae5a27f9697bf26fd01921/7861ce9cc09559d8365132cf6399bcaa,6300a5a1?w=1280",
     "date": 0
-   },
-   {
-    "title": "BILD-Kolumnistin Julia Ruhs - „Mit falscher Art von Migration viele Opfer produziert“",
-    "link": "https://www.bild.de/politik/inland/bild-kolumnistin-julia-ruhs-bei-gedenken-an-gewaltopfer-das-kann-ich-nicht-mehr-hoeren-6aae76cec8e0b1ae1ffed8bd",
-    "image": "https://images.bild.de/6aae76cec8e0b1ae1ffed8bd/09e63ba7a09ee7bda59cee4c1080bc0c,be3dd3c3?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Klitschko-Ex über Panettiere (36†) - „Vielleicht wirst du jetzt mein Engel“",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/klitschko-ex-natalia-yegorova-ueber-hayden-panettiere-vielleicht-wirst-du-jetzt-mein-engel-6aab64463e0af7910e521efe",
-    "image": "https://images.bild.de/6aab64463e0af7910e521efe/27e6870ea1223326cda6a5e89a6dcd5d,b5d4af8?w=1280",
-    "date": 0
-   },
-   {
-    "title": "FCN-Coach über Zomas Nominierung - Klose: „Zomas Augen fingen an zu leuchten!“",
-    "link": "https://www.bild.de/sport/fussball/fcn-klose-ueber-zomas-nominierung-zomas-augen-fingen-an-zu-leuchten-6aae97c6b1857e86757a757e",
-    "image": "https://images.bild.de/6aae97c6b1857e86757a757e/462a17fcc444ec89ce5914122eff58ec,2458b926?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Schneiders Brille - Als die Welt zerbrach, begann er zu singen - krone.at",
+    "title": "Schneiders Brille - Als die Welt zerbrach, begann er zu singen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zcjdWZUo1N2hYZUUyMU40ck5tbXg5TEt2TWJyRXhsRDFZY2ViUjllVVpRZVFmTnRlajVCWmtfYm05Zw?oc=5",
     "image": "",
     "date": 1789829340000,
-    "titleSl": "Schneiders Brille - Als die Welt zerbrach, startedn er zu singen - krone.at"
+    "titleSl": "Schneiders Brille - Als die Welt zerbrach, startedn er zu singen"
    },
    {
-    "title": "Ausweise abgenommen - Weißes Haus ließ Journalistinnen nicht hinein - krone.at",
+    "title": "Ausweise abgenommen - Weißes Haus ließ Journalistinnen nicht hinein",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GSlREV0o2WnpaM0tZd3VVS0lUQ0Z1RTNPTnkyZVhocTBwWTVjTU5tTlBkaXlvMXJENzFXR00yVk42QQ?oc=5",
     "image": "",
     "date": 1789828620000
    },
    {
-    "title": "Bitter für Edtstadler - Ehemaliger ÖVP-Kronprinz vor Abgang aus Politik - krone.at",
+    "title": "Bitter für Edtstadler - Ehemaliger ÖVP-Kronprinz vor Abgang aus Politik",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jX2czYkNXRXg5RDR3MGwycVk3OUNxMUMwUVdCUjA4QXBCTnU3dTQtbnlMUDVSZm01YXpLX25QX1lfQQ?oc=5",
     "image": "",
     "date": 1789828560000
    },
    {
-    "title": "Neues Positionspapier - NEOS wollen Privatunis den Geldhahn zudrehen - krone.at",
+    "title": "Neues Positionspapier - NEOS wollen Privatunis den Geldhahn zudrehen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Wak10ZUI1T3pxOXZRU24xQmk5S2dra0hibjZKQktvdEU0Qmh2R2Fmd3F4ekVpYUM2ZjJybTNxaFp0dw?oc=5",
     "image": "",
     "date": 1789828428000
    },
    {
-    "title": "Viel Sonnenschein - Samstag wartet mit perfektem Ausflugswetter auf - krone.at",
+    "title": "Viel Sonnenschein - Samstag wartet mit perfektem Ausflugswetter auf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1iTHR4dkJHVURSLVhyTzNHa3plN2dwSkJDRDA0Q0ZfVVlOb3BTQmhRekE3SnZRVkwyaTk5Y2FsZjVhUQ?oc=5",
     "image": "",
     "date": 1789828428000
    },
    {
-    "title": "Gegen hohe Kosten - Spritpreisbremse könnte ab Oktober stark steigen - krone.at",
+    "title": "Gegen hohe Kosten - Spritpreisbremse könnte ab Oktober stark steigen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE92clZMR3BNLVhVdTdyR2s2TGF4UDNmODRIdExGRGFMeHVYR3JyZUJSXzlpbFphRmVJdk8tcjJtQjJkdw?oc=5",
     "image": "",
     "date": 1789827394000
