@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T12:22:25.988Z",
+ "generatedAt": "2026-09-19T12:24:24.388Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,18 @@
   ],
   "24ur": [
    {
+    "title": "Ni mu všeč, kako poročajo, zato jim je prepovedal vstop v Belo hišo",
+    "link": "https://www.24ur.com/novice/tujina/ni-mu-vsec-kako-porocajo-zato-jim-je-prepovedal-vstop-v-belo-hiso.html",
+    "image": "https://images.24ur.com/media/images/213xX/May2023/8fa3b2eb4ba29d0cd05f_62951626.jpg?v=d343&fop=fp:0.54:0.14",
+    "date": 1789820373000
+   },
+   {
+    "title": "Upokojenka ostala brez 200.000 evrov",
+    "link": "https://www.24ur.com/novice/tujina/upokojenka-ostala-brez-200000-evrov.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/a18eb9331e8737043b5d_63620021.jpg?v=ffe2&fop=fp:0.48:0.34",
+    "date": 1789820368000
+   },
+   {
     "title": "Nika Vodan v Stamsu druga, Nika Prevc tik za njo",
     "link": "https://www.24ur.com/sport/zimski_sporti/nika-vodan-v-stamsu-druga-nika-prevc-tik-za-njo.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/0fcdfef64fee3733031e_63643972.jpg?v=c9be&fop=fp:0.49:0.38",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/lady-gaga-ima-hcerko-ki-ji-je-dala-ime-rose.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/54633cf69d79ed128f60_63650016.jpg?v=8923&fop=fp:0.32:0.64",
     "date": 1789817332000
-   },
-   {
-    "title": "Po smrti moškega Avstralci v lov za morskim psom",
-    "link": "https://www.24ur.com/novice/tujina/po-smrti-moskega-avstralci-v-lov-za-morskim-psom.html",
-    "image": "https://images.24ur.com/media/images/213xX/Apr2024/05d7a31763ba86f19666_63228686.jpg?v=0e7e&fop=fp:0.49:0.61",
-    "date": 1789816932000
-   },
-   {
-    "title": "V Iranu usmrtili domnevnega vohuna za Izrael",
-    "link": "https://www.24ur.com/novice/tujina/v-iranu-usmrtili-domnevnega-vohuna-za-izrael.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/31d85d7b7088fd0c5f6d_63650452.jpg?v=8db4&fop=fp:0.35:0.33",
-    "date": 1789815297000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Doomsday AI: panic, regulation and the China fear",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/YT2a-TX34-FULL-EPISODE-THUMB-1789819766.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789819821000,
-    "titleSl": "UI sodnega dne: panika, regulacija in strah pred Kitajsko"
-   },
-   {
     "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
     "link": "https://www.aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789710043.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789814530.jpg?resize=1920%2C1080&quality=80",
     "date": 1789814564000,
     "titleSl": "Nigerijske sile streljajo na protestnike, ki se zbirajo zaradi smrti pridržanih rudarjev"
+   },
+   {
+    "title": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-19-at-11.33.58-1789814287.png?resize=1920%2C1218",
+    "date": 1789814412000,
+    "titleSl": "Zvezdnica lige NFL Azeez Al-Shaair spregovori po kazni preko sporočila Hind Rajab"
    }
   ],
   "guardian": [
@@ -414,6 +414,12 @@
   ],
   "bild": [
    {
+    "title": "Historische Medaille! - Deutscher Läufer ist Weltmeister",
+    "link": "https://www.bild.de/sport/mehr-sport/leichtathletik-deutscher-laeufer-robert-farken-ist-weltmeister-6aae6296af56f555055d8eb3",
+    "image": "https://images.bild.de/6aae6296af56f555055d8eb3/88c4bb12dc25a84fcc4fe7499b63e59e,182cab18?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kriminalstatistik belegt - Mehr Morde, mehr Vergewaltigungen!",
     "link": "https://www.bild.de/news/inland/kriminalstatistik-zeigt-mehr-morde-und-mehr-vergewaltigungen-6aae54aff9697bf26fd018b4",
     "image": "https://images.bild.de/6aae54aff9697bf26fd018b4/b128999e51b20ead5c549a565e195e64,1fed69a4?w=1280",
@@ -443,53 +449,9 @@
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/oktoberfest-groessen-aus-politik-wirtschaft-und-unterhaltung-bei-der-bild-wiesn-6aae66fdb1857e86757a71ba",
     "image": "https://images.bild.de/6aae66fdb1857e86757a71ba/91e3ea913077a610c8fa867f0ab88175,709bb866?w=1280",
     "date": 0
-   },
-   {
-    "title": "Tee statt Müll - So werden alte Teebeutel zum Haushaltshelfer",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/gebrauchte-teebeutel-sinnvoll-nutzen-so-helfen-sie-im-haushalt-6aa268854efdd38dc3e6962d",
-    "image": "https://images.bild.de/6aa268854efdd38dc3e6962d/67dabb26b2e786853ba8c6bceddffddc-landscape,c6f435d0?w=1280",
-    "date": 0
    }
   ],
-  "krone": [
-   {
-    "title": "Wehrdienstreform - Regierung lädt am Sonntag zum Geheimgipfel",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pRm5HWWJqUkRmVXhQWGoycC1DRHVydXIzeGFkYUJCSkxuTEgwSFFUZk16ZXFsQjltcWlucHM4c1JNZw?oc=5",
-    "image": "",
-    "date": 1789819200000
-   },
-   {
-    "title": "Beim Hadnfest eröffnet - Pavillon verbindet Genuss, Kultur und Bewegung",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1aTnd5aEowaXNfRW15ckFwNjdMb3lYRDdRMnZYZ3g0LWh0eWIyeC03M0pXSGhsZk5IejJNcGRiTGlSdw?oc=5",
-    "image": "",
-    "date": 1789819200000
-   },
-   {
-    "title": "Polizei sucht Zeugen - Vandalen demolierten mehrere Autos auf Parkplatz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBuVFR5aFJldjNJemNrc0JfaGM0bFU0eWFHLVQ2Yl9fRHQ4YTlqQTJGMGc5WTA5dlpRd1Q4OF83SnZBZw?oc=5",
-    "image": "",
-    "date": 1789819200000
-   },
-   {
-    "title": "„Wunderbarer Anblick“ - Hafenlotse entdeckt 15 Grindwale in der Themse",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4tbzNabnV0dFFtSkNBejRzUWkyNjQxQ2dDRXlCaGtJUjlHLXUtbmlPN2h6aXpCR1R2TUdSMGhFd3hIdw?oc=5",
-    "image": "",
-    "date": 1789818900000
-   },
-   {
-    "title": "Liveticker aus Graz - Eine Stadt in Tracht: Das Aufsteirern ist eröffnet",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fNjBSVzdEckJseWVXYnlBN3FkYTdBTE50R01zQjB3T3hCZExRcUNZaHdwb2xibjJqM01FRkVZbXVOQQ?oc=5",
-    "image": "",
-    "date": 1789818300000
-   },
-   {
-    "title": "Mitspielen & Gewinnen - 100 Jahre Basketball-Magie in Wien",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAteUtyVy1FSHQxOWtHT2ZqVi0za3Z0Tks4dGhEdGQ0Ym13anVZeDNhbm5sNUsyWVBSbVdpRHhyaFZXQQ?oc=5",
-    "image": "",
-    "date": 1789818180000,
-    "titleSl": "Mitspielen & Gewinnen - Košarka 100 Jahre-Magie na Dunaju"
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Caro energia, le famiglie italiane rischiano di spendere mille euro per gli aumenti in bolletta",
@@ -580,17 +542,10 @@
     "date": 1789819677000
    },
    {
-    "title": "Detenido un hombre por matar a una mujer de 47 años en el distrito de Arganzuela de Madrid",
+    "title": "Detenido un hombre por la muerte de una mujer de 47 años en el distrito de Arganzuela de Madrid",
     "link": "https://elpais.com/sociedad/2026-09-19/detenido-un-hombre-por-la-muerte-de-una-mujer-de-47-en-madrid.html",
     "image": "https://imagenes.elpais.com/resizer/v2/BKSC3EENDBGXLDAF7MX7JKRZXM.jpeg?auth=c7ac35deb797217233d9f8acc377d50acf202b0c8df59f7a731b0e4aa63409d2",
     "date": 1789819608000
-   },
-   {
-    "title": "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia",
-    "link": "https://elpais.com/internacional/2026-09-19/la-otan-acoge-con-satisfaccion-el-acuerdo-de-ee-uu-y-dinamarca-sobre-groenlandia.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/UEHRSU5YBJED7HAACPR3ZSUZEY.jpg?auth=db28bcfe8bbea1e60c4dc4734b607d926fab033efbc59fb82df7b7876ccdde2c",
-    "date": 1789818897000,
-    "titleSl": "La OTAN acoge con \"satisfacción\" el acuerdo de EE UU y Dinamarca sobre Groenlandia"
    },
    {
     "title": "Lotería Nacional: comprobar sorteo del sábado 19 de septiembre",
@@ -610,6 +565,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/7Y6AANIBZNFORB66XAAZNRPZOY.jpg?auth=22b7bc126072d510ad034a79479ca1a46aee1684f6464f8adefd24408975b16e",
     "date": 1789812872000,
     "titleSl": "Naomi Watts, premio Donostia: \"El odio está creciendo y lo que ocurre en el mundo asusta\""
+   },
+   {
+    "title": "Trump anuncia un acuerdo con Dinamarca para asumir el “control permanente de la seguridad” de Groenlandia",
+    "link": "https://elpais.com/internacional/2026-09-18/trump-anuncia-un-acuerdo-militar-historico-con-dinamarca-sobre-groenlandia.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/T7WE34BMVNIYHFRYSFIEV2IW4A.jpg?auth=74a347397e907ab151fdc8a04856fdcec66178a377dad78b92a5299950dcc5a3",
+    "date": 1789808615000,
+    "titleSl": "Trump anuncia un acuerdo con Dinamarca para asumir el \"control permanente de la seguridad\" de Groenlandia"
    }
   ]
  },
