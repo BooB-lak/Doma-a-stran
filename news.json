@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T13:34:26.037Z",
+ "generatedAt": "2026-09-19T13:36:27.492Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Martin dobil sprint dirko v Avstriji",
     "link": "https://www.24ur.com/sport/motogp/komu-bo-pripadel-sprint-v-spielbergu.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2024/b4d82c3d178153e7c086_63279477.jpg?v=8c20&fop=fp:0.49:0.34",
-    "date": 1789824619000
+    "date": 1789824957000
    },
    {
     "title": "Kako je 'veriga ubijanja' za vojaški cilj izbrala šolo in ubila 123 otrok",
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+    "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aae7d7185-1789820273.jpg?resize=1920%2C1440",
+    "date": 1789824112000,
+    "titleSl": "Nedostopen avtomobilski trg poudarja krizo stroškov življenja v Iranu"
+   },
+   {
+    "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789823563.jpg?resize=1920%2C1080&quality=80",
+    "date": 1789823599000,
+    "titleSl": "Tajvan upogiba vojaške zmogljivosti pred pogovori Trump-Xi"
+   },
+   {
     "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
     "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-16T124137Z_1739314588_RC26KNAQN15M_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1789819405.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2023/01/Treasury.jpg?resize=1200%2C675",
     "date": 1789821277000,
     "titleSl": "ZDA odpravile sankcije proti Eritreji \"za napredovanje ameriških regionalnih interesov\" v Rdečem morju"
-   },
-   {
-    "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789820956.jpg?resize=1620%2C1080&quality=80",
-    "date": 1789820991000,
-    "titleSl": "Pogreb po smrtonosnem napadu na mošejo v pakistanskem Kohatu"
-   },
-   {
-    "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-19-at-13.03.54-1789819771.png?resize=1200%2C675",
-    "date": 1789820461000,
-    "titleSl": "Pomorska koalicija pod vodstvom Savdske Arabije se pripravlja na zavarovanje plovnih poti po Rdečem morju"
    }
   ],
   "guardian": [
@@ -375,43 +375,50 @@
   ],
   "spiegel": [
    {
+    "title": "KI-Warnung: Donald Trump ist die Börsenparty wichtiger als das Überleben der Menschheit",
+    "link": "https://www.spiegel.de/ausland/ki-warnung-donald-trump-ist-die-boersenparty-wichtiger-als-das-ueberleben-der-menschheit-a-be3c1832-606f-4577-bd15-0cf8f038431f#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/634b723d-aaca-4dfc-a886-aad6454fcc90_w520_r2.08_fpx34_fpy55.01.jpg",
+    "date": 1789824300000
+   },
+   {
+    "title": "Chor aus Ghana in Sachsen-Anhalt: »Wir lieben Germany« – und Magdeburg liebt sie",
+    "link": "https://www.spiegel.de/panorama/chor-aus-ghana-in-sachsen-anhalt-wir-lieben-germany-und-magdeburg-liebt-sie-a-9c600eea-2332-4ced-be7c-8350965e89d7#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/625236af-0945-4702-81be-e2bdedc23e5a_w520_r2.08_fpx51.41_fpy49.99.jpg",
+    "date": 1789823940000,
+    "titleSl": "Chor aus Gana in Sachsen-Anhalt: »Wir lieben Germany« – und Magdeburg liebt sie"
+   },
+   {
+    "title": "Granit Xhaka: Ermittlungen wegen Corona-Impfzertifikaten",
+    "link": "https://www.spiegel.de/sport/fussball/granit-xhaka-ermittlungen-wegen-corona-impfzertifikaten-a-7c26667a-6396-46db-b1b9-32266ccf8cee#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/e93a3893-4e29-4137-bdcb-5d6282654b39_w520_r2.08_fpx55.33_fpy45.jpg",
+    "date": 1789823820000
+   },
+   {
+    "title": "Russland: Pussy Riot-Aktivistin Rita Flores über ihre Angst als FSB-Spitzel",
+    "link": "https://www.spiegel.de/ausland/russland-pussy-riot-aktivistin-rita-flores-ueber-ihre-angst-als-fsb-spitzel-a-6a6500f1-758b-4364-83b7-bc59fe7581c2#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/d6d47997-7604-4982-ba08-3f77c0d87da7_w520_r2.08_fpx67.33_fpy54.98.jpg",
+    "date": 1789823580000
+   },
+   {
     "title": "F-35: Wichtige Flugzeugteile offenbar per Post nach Hongkong umgeleitet",
     "link": "https://www.spiegel.de/panorama/f-35-wichtige-flugzeugteile-offenbar-per-post-nach-hongkong-umgeleitet-a-4e290405-441a-4607-b76a-93fd17ef02e1#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/69bf7c0c-3c23-4fe7-bc94-184c801763c7_w520_r2.08_fpx61.81_fpy49.98.jpg",
     "date": 1789820040000
    },
    {
-    "title": "Porsche: Personalabbau könnte drastischer ausfallen – weitere 4000 Jobs bedroht",
-    "link": "https://www.spiegel.de/wirtschaft/porsche-personalabbau-koennte-drastischer-ausfallen-weitere-4000-jobs-bedroht-a-8d3666e5-11e0-41f7-b799-7a14f6830353#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/96470e5a-a62c-4c59-b7c3-8a2851da69e1_w520_r2.08_fpx52.63_fpy52.97.jpg",
-    "date": 1789818720000
-   },
-   {
     "title": "Nordkorea: Unterirdische Atomtests lösen noch Jahre später Erdbeben aus",
     "link": "https://www.spiegel.de/wissenschaft/nordkorea-unterirdische-atomtests-loesen-noch-jahre-spaeter-erdbeben-aus-a-238a7eac-d1ff-4324-9dfb-b66d2a90c0ea#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/af66bce4-d6e9-41e0-a936-c35d2ff825ba_w520_r2.08_fpx36.1_fpy50.jpg",
     "date": 1789815540000
-   },
-   {
-    "title": "Sandro Mazzola ist tot: Der Maestro – Nachruf auf eine Inter-Legende",
-    "link": "https://www.spiegel.de/sport/fussball/sandro-mazzola-ist-tot-der-maestro-nachruf-auf-eine-inter-legende-a-696be2d4-1461-4c9f-9495-05e08217f4e2#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/28077988-9cff-418b-8eb7-ec64649f902f_w520_r2.08_fpx75_fpy5.jpg",
-    "date": 1789815360000
-   },
-   {
-    "title": "Helga-Maria Schmid: Die Top-Diplomatin über die Kunst des Verhandelns",
-    "link": "https://www.spiegel.de/kultur/helga-maria-schmid-die-top-diplomatin-ueber-die-kunst-des-verhandelns-a-fe921914-0933-42e8-a416-7265e85e247b#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/e530cec7-9be9-48b3-b5c6-69016f60f08c_w520_r2.08_fpx68.59_fpy44.85.jpg",
-    "date": 1789814280000
-   },
-   {
-    "title": "FC Bayern München: Sieben besondere Tore die zeigen, was diese Bayern ausmacht",
-    "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieben-besondere-tore-die-zeigen-was-diese-bayern-ausmacht-a-191479a3-b097-46bf-873c-360ea5da3e0d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/92cbe8ed-0564-4fa3-a385-6dd4e5a2c3b3_w520_r2.08_fpx65.35_fpy50.jpg",
-    "date": 1789812780000
    }
   ],
   "bild": [
+   {
+    "title": "Lebensfreude auf der BILD-Wiesn - Deutschland kann vom Oktoberfest lernen",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/oktoberfest-groessen-aus-politik-wirtschaft-und-unterhaltung-bei-der-bild-wiesn-6aae66fdb1857e86757a71ba",
+    "image": "https://images.bild.de/6aae66fdb1857e86757a71ba/91e3ea913077a610c8fa867f0ab88175,709bb866?w=1280",
+    "date": 0
+   },
    {
     "title": "„Öffentlichkeit noch nicht rausbekommen“ - Gladbach-Manager verkündet Trainer-News!",
     "link": "https://www.bild.de/sport/fussball/gladbach-manager-verkuendet-trainer-news-6aae8613b1857e86757a741c",
@@ -442,15 +449,15 @@
     "link": "https://www.bild.de/leben-wissen/wissenschaft/spekulationen-um-trumps-neue-kampfdrohne-mit-alien-technologie-entwickelt-6aabcd613e0af7910e522a76",
     "image": "https://images.bild.de/6aabcd613e0af7910e522a76/515046a9b2aa216b8f91ee0369c61c98,5b844e98?w=1280",
     "date": 0
-   },
-   {
-    "title": "Seltsames Verhalten - Spannender Verdacht zu Bayern und Olise",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-spannender-verdacht-zu-michael-olise-6aae8183708e760b5e064212",
-    "image": "https://images.bild.de/6aae8183708e760b5e064212/d508163f57445f29f8daea7b19d27f2c,7bd13549?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Plus Transportkosten - 30.000 € Steuergeld für Foto von Wolfgang Sobotka",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VaW1Cc29uLVlmV0I0RVJwODZ2cFJSblIwRDMxSmJEbzd4UW5CY19fb3F1OTd5MW9vUm91aDQwZEFTdw?oc=5",
+    "image": "",
+    "date": 1789824954000
+   },
    {
     "title": "„Stimmung schlecht“ - Dieser Supermarkt-Riese senkt jetzt 3000 Preise",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40cDk2U2MyWXRLSmlneV8yTV8tcE5NbUFEdXFBSElhSDEzYXN3S2YxLURUUE5ORG5YUDR1TUJpVENadw?oc=5",
@@ -480,12 +487,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GR0JTQ2JvdEpqeGcyajljTF9EY3ZCOWVrT1FpYjlfY3hlZV9jVGJqNXIzNnVIUUJKMUh4MHhwazlGZw?oc=5",
     "image": "",
     "date": 1789822800000
-   },
-   {
-    "title": "Ernüchternde Bilanz - Bregenzer kämpfen in St. Pölten gegen Torfluch",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41akFjREI0NWQxNzFXQkZxTTlYc3dqMG82aUdpYTMxeVdTSEpaYVhhQ041ZndDd2dtNk1wZVhXYnl2UQ?oc=5",
-    "image": "",
-    "date": 1789822500000
    }
   ],
   "rainews": [
