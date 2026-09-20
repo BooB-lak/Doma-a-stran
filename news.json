@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20T18:01:09.175Z",
+ "generatedAt": "2026-09-20T18:02:30.045Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Golf: PGA Championship",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0031yr8?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbbn6k.jpg",
+    "date": 1789927225000,
+    "titleSl": "Golf: Prvenstvo PGA"
+   },
+   {
     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
     "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
     "date": 1789922203000,
     "titleSl": "Trump pravi, da bo slavolok vojaški kompleks z brezpilotnimi letali in ostrostrelci"
-   },
-   {
-    "title": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1732/live/e8376180-b50a-11f1-91cc-c5691e33b858.jpg",
-    "date": 1789922080000,
-    "titleSl": "Popolnih 24 ur za Maresco, saj Man City pritiska na Arsenal"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
-    "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/DSLR_PRUIM80-1789051513.jpg?resize=1920%2C1440",
-    "date": 1789925712000,
-    "titleSl": "Trumpove tarife so prizadele kanadske proizvajalce mleka, saj je prodaja v ZDA zastala"
-   },
    {
     "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
     "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aaf9f2229988-1789894434.jpg?resize=1920%2C1440",
     "date": 1789919868000,
     "titleSl": "Zakaj so ameriški tožilci označili kitajski Huawei za kriminalno podjetje?"
+   },
+   {
+    "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+    "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aafb6a5-1789900453.jpg?resize=1920%2C1440",
+    "date": 1789918210000,
+    "titleSl": "Kenijski Ngetich za sekundo podrl svetovni rekord v polmaratonu za ženske"
    }
   ],
   "guardian": [
@@ -420,6 +420,18 @@
     "date": 0
    },
    {
+    "title": "Handball-Hammer - Zeitstrafe für Wiegert, Höchststrafe für Magdeburg",
+    "link": "https://www.bild.de/sport/mehr-sport/handball-hammer-zeitstrafe-fuer-wiegert-hoechststrafe-fuer-magdeburg-6ab01d6a79d37abec14f15de",
+    "image": "https://images.bild.de/6ab01d6a79d37abec14f15de/3f65f6e7cafa51975591c81f66cf2373,6d03f454?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Schlapp-Auftritt bei Waldhof - Schiri bestraft müde Preußen!",
+    "link": "https://www.bild.de/sport/fussball/schlapp-auftritt-bei-waldhof-schiri-bestraft-muede-preussen-6aaff598fc619be80f3c45c8",
+    "image": "https://images.bild.de/6aaff598fc619be80f3c45c8/24910c03388060ddbef15395bc43782a,af91d273?w=1280",
+    "date": 0
+   },
+   {
     "title": "Berlin und Mecklenburg-Vorpommern - Diese Themen haben die Wahlen entschieden",
     "link": "https://www.bild.de/politik/inland/berlin-und-mecklenburg-vorpommern-diese-themen-haben-die-wahlen-entschieden-6aaeac81556d2f0b574e9228",
     "image": "https://images.bild.de/6aaeac81556d2f0b574e9228/fef49bb7caf25b8d755ff56de19cee13,73b52470?w=1280",
@@ -437,21 +449,21 @@
     "image": "https://images.bild.de/6aafd96e708e760b5e065216/be86ecafdef8aba9f5d5411351926a34,cdeb3a16?w=1280",
     "date": 0,
     "titleSl": "Nach Pfiffen! - Pikado-Star Littler schießt gegen Ventilatorji"
-   },
-   {
-    "title": "Wahl in Berlin und Mecklenburg-Vorpommern - Linksaußen in Berlin, Rechtsaußen in Meck-Pomm",
-    "link": "https://www.bild.de/politik/inland/wahlen-in-berlin-und-mecklenburg-vorpommern-die-ergebnisse-6aafbe78b1857e86757a8281",
-    "image": "https://images.bild.de/6aafbe78b1857e86757a8281/f6adc217c1d7c4334bdf0aefa29f7b98,4c2ff6e3?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Reaktion auf die Wahl-Klatsche - CDU-Spitzenkandidat Stefan Evers im BILD-Interview",
-    "link": "https://www.bild.de/politik/reaktion-auf-die-wahl-klatsche-cdu-spitzenkandidat-stefan-evers-im-bild-interview-6ab019e3708e760b5e065766",
-    "image": "https://images.bild.de/6ab019e3708e760b5e065766/0a2dfbe6e5f729aaf1b99f4f9c5b1bc2,2dd0496d?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Paradigmenwechsel - Regierung hebt jetzt das CO2-Speicherverbot auf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52Vnk2WUVaZFp5S3NjNld2T2xoMFRWZ190SHJqWjU1YnYxY1dqamgzNWJkOXpMUGVNNE84VGN3ZXVtdw?oc=5",
+    "image": "",
+    "date": 1789927200000
+   },
+   {
+    "title": "Im Klagenfurter Ventil - Am Kardinalplatz: Selbsterkundung nach Noten",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05VEEtRWJKYjE2Z2g2ZWI0Zm4zRmZTZW9YUktOajdVckdDMnVRNUFuTXptWklfQU8zOGVWY2xDY1Nldw?oc=5",
+    "image": "",
+    "date": 1789927200000
+   },
    {
     "title": "„Er muss sich schonen“ - Geburtstagsparty für Heinz Hoenig abgesagt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TbUR0eGhYaXdHYnctdXJxR0FQMm5ob1laSlh1VHNJWFZDdDUtblZHSlBURjY4MHQzRFJkUEh0bDJIZw?oc=5",
@@ -475,19 +487,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfRVlSQm9nclFreDgxcnNGdUZSQzM2U202NEtwNFVzUnh5VlBHNDZaQ092dDJQTlROcFFyRTVVTmwxQQ?oc=5",
     "image": "",
     "date": 1789926300000
-   },
-   {
-    "title": "Pflege-Kostenschock - Gipfel soll Zugriff auf 13. und 14. Pension klären",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tQVVQel84NnNwM3c4RHhzNXRYZDFzS2lFaWdYYnNFX3RrZGpxNUpwMXBtTTVvWlJ0TU1tODRMS0V5QQ?oc=5",
-    "image": "",
-    "date": 1789926120000
-   },
-   {
-    "title": "Wechsel in der SPÖ? - Zeiler-Umfeld plant die Operation „roter Oktober“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14NnNvVjBDTDlzYl9NajV0QzZreW5PYjZOdHducm1qZUJHeThucEZkRzJEWVdUTjdLeURWb0JQRE81Zw?oc=5",
-    "image": "",
-    "date": 1789925587000,
-    "titleSl": "Wechsel in der SPÖ? - Delovanje naprave Zeiler-Umfeld „roter Oktober“"
    }
   ],
   "rainews": [
