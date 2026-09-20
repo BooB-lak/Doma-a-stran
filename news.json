@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20T10:56:25.979Z",
+ "generatedAt": "2026-09-20T10:58:23.657Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Sveža vremenska napoved: Pripravite topla oblačila",
+    "link": "https://www.zurnal24.si/slovenija/sveza-vremenska-napoved-pripravite-topla-oblacila-465410",
+    "image": "https://www.zurnal24.si/media/img/a9/b1/6f0c93e459d35e4a54bb.jpeg",
+    "date": 1789901760000
+   },
+   {
     "title": "Razgrajal in napadel policiste: posredoval tudi službeni pes",
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/moski-tako-razgrajal-da-so-nanj-poslali-celo-policijskega-psa-465409",
     "image": "https://www.zurnal24.si/media/img/24/bb/b8956ce7049322ef42e1.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/zimski-sporti/deja-vu-v-stamsu-prerojena-avstrijka-se-drugic-ugnala-obe-niki-465405",
     "image": "https://www.zurnal24.si/media/img/6c/fa/ce446a1a1b47eea5bf58.jpeg",
     "date": 1789894440000
-   },
-   {
-    "title": "Smučarski svet izgubil človeka, ki je zaznamoval generacije",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/smucarski-svet-izgubil-cloveka-ki-je-zaznamoval-generacije-465401",
-    "image": "https://www.zurnal24.si/media/img/7b/d8/bbdb952143985dba1929.jpeg",
-    "date": 1789893660000
    }
   ],
   "reuters": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Trump’s Greenland deal: A triumph of optics?",
+    "link": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-04-17T081033Z_361997988_RC29HJA1I8U3_RTRMADP_3_GREENLAND-US-TRUMP-1789901249.jpg?resize=1920%2C1440",
+    "date": 1789901350000,
+    "titleSl": "Trumpov dogovor z Grenlandijo: Zmaga optike?"
+   },
+   {
     "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
     "link": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T114756Z_1682804238_RC28MNAJERYX_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1-1789892142.jpg?resize=1200%2C630",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2022/09/1-1.jpg?resize=1920%2C1440",
     "date": 1789893165000,
     "titleSl": "Echoicide: Kdo odloča, katere resnice preživijo v Gazi?"
-   },
-   {
-    "title": "Former England and Tottenham star Andros Townsend run over by pitch roller",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789890952.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789890958000,
-    "titleSl": "Nekdanji zvezdnik Anglije in Tottenhama Andros Townsend, ki ga je povozil pitch roller"
    }
   ],
   "guardian": [
@@ -416,17 +416,29 @@
   ],
   "bild": [
    {
+    "title": "Attacke auf dem Bahnhof in Freiburg - Mann wollte meinem Sohn (14) das Auge ausreißen",
+    "link": "https://www.bild.de/regional/baden-wuerttemberg/bahnhof-freiburg-ein-mann-wollte-meinem-sohn-14-das-auge-ausreissen-6aa6b8d0181cb962d488e032",
+    "image": "https://images.bild.de/6aa6b8d0181cb962d488e032/d50fa2cb6c61c68fee3717d24c128acf,fe181f21?w=1280",
+    "date": 0,
+    "titleSl": "Attacke auf dem Bahnhof v Freiburgu - Mann wollte meinem Sohn (14) das Auge ausreißen"
+   },
+   {
+    "title": "Anwohner hörten einen Knall - Explosion? Kita eingestürzt",
+    "link": "https://www.bild.de/regional/niedersachsen/wolfsburg-gasexplosion-vermutet-kita-in-wolfsburg-eingestuerzt-6aafb078708e760b5e064f32",
+    "image": "https://images.bild.de/6aafb078708e760b5e064f32/804a3d4e7102ee98f7bb6c82f86f07a8,72cfe495?w=1280",
+    "date": 0
+   },
+   {
+    "title": "11 Tore in 33 Minuten - Häfner (37) ist der beste Handball-Oldie der Welt",
+    "link": "https://www.bild.de/sport/mehr-sport/11-tore-in-33-minuten-haefner-37-ist-der-beste-handball-oldie-der-welt-6aaf97cbb1857e86757a7ede",
+    "image": "https://images.bild.de/6aaf97cbb1857e86757a7ede/cd7ab4f51898b8d10a5b902639b99846,28476c2f?w=1280",
+    "date": 0
+   },
+   {
     "title": "NFL greift ein! - Neue Regel soll Videowand-Schummel stoppen",
     "link": "https://www.bild.de/sport/mehr-sport/nfl-greift-ein-neue-regel-soll-videowand-schummel-stoppen-6aafa43a79d37abec14f0d41",
     "image": "https://images.bild.de/6aafa43a79d37abec14f0d41/f0db5e91cf3c73d57d3f6f51fc2ed8f1,234b5021?w=1280",
     "date": 0
-   },
-   {
-    "title": "Anwohner hörten einen Knall - Explosion? Kita eingestürzt!",
-    "link": "https://www.bild.de/regional/niedersachsen/wolfsburg-gasexplosion-vermutet-kita-in-wolfsburg-eingestuerzt-6aafb078708e760b5e064f32",
-    "image": "https://images.bild.de/6aafb078708e760b5e064f32/804a3d4e7102ee98f7bb6c82f86f07a8,7e867376?w=1280",
-    "date": 0,
-    "titleSl": "Anwohner hörten einen Knall - Eksplozija? Kita eingestürzt!"
    },
    {
     "title": "„Es wird etwas passieren …“ - Wiesn-Spannung um Bayerns Olise",
@@ -440,18 +452,6 @@
     "image": "https://images.bild.de/6aafa62e708e760b5e064e99/bb13e0335e5a50020d368cd0656615b6,e61c97a6?w=1280",
     "date": 0,
     "titleSl": "Heftiger ukrainischer Drohnenangriff - Raffinerie brennt v Moskau"
-   },
-   {
-    "title": "Kolumne von Carsten Spengemann - Der Bears-Hype hat einen Haken",
-    "link": "https://www.bild.de/sport/mehr-sport/nfl-59-punkte-doch-der-bears-hype-hat-einen-haken-spengemann-kolumne-6aae6036708e760b5e064009",
-    "image": "https://images.bild.de/6aae6036708e760b5e064009/a64008bd961b665c3b69508ce68feb6e,d94364ba?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Räuber aus Madagaskar - Darum tötet die Fossa ganze Hühnerbestände",
-    "link": "https://www.bild.de/leben-wissen/haustiere/fossa-warum-sie-manchmal-ganze-huehnerstaelle-leer-raeumt-6aad4c89708e760b5e063527",
-    "image": "https://images.bild.de/6aad4c89708e760b5e063527/13e414afa3bacc56c86cab9adcc5b276,e552ce59?w=1280",
-    "date": 0
    }
   ],
   "krone": [
