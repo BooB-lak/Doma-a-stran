@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-20T12:36:27.702Z",
+ "generatedAt": "2026-09-20T12:38:26.856Z",
  "sources": {
   "siol": [
+   {
+    "title": "Domen Prevc prvič po zmagoviti sezoni na stopničkah",
+    "link": "https://siol.net/sportal/zimski-sporti/smucarski-skoki-celinski-pokal-stams-701901",
+    "image": "https://siol.net/media/img/be/6e/9cb30595cb1a75b0bf3f.jpeg",
+    "date": 1789907760000
+   },
    {
     "title": "Pogrešano osebo so našli pod vodo v Soči: znane so nove podrobnosti",
     "link": "https://siol.net/novice/slovenija/pogresano-osebo-so-nasli-pod-vodo-v-soci-701894",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/1-snl-10-krog-2026-1-701832",
     "image": "https://siol.net/media/img/99/cf/754da49b8c8834f64846.jpeg",
     "date": 1789905420000
-   },
-   {
-    "title": "ZDA opozarjajo na nevarnost zaostritve sovražnosti med Savdsko Arabijo in hutijevci",
-    "link": "https://siol.net/novice/svet/zda-opozarjajo-na-nevarnost-zaostritve-sovraznosti-med-savdsko-arabijo-in-hutijevci-701899",
-    "image": "https://siol.net/media/img/f9/d1/934552ee1b5eef0ea6b6.jpeg",
-    "date": 1789900380000
    }
   ],
   "24ur": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
+    "link": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295195941-1789897432.jpg?resize=1920%2C1440",
+    "date": 1789906282000,
+    "titleSl": "Izraelske sile ubijajo Palestince v bližini Jenina na okupiranem Zahodnem bregu"
+   },
+   {
     "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789905599.jpg?resize=1918%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260919__C8RE9WM__v1__HighRes__Asiad2026JpnOpening-1789900462.jpg?resize=1920%2C1440",
     "date": 1789903101000,
     "titleSl": "Himne, prevoz, stanovanje: Kaj je šlo narobe na Azijskih igrah na Japonskem?"
-   },
-   {
-    "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aaf75bac003b-1789883834_37b269-1789884209.jpg?resize=1200%2C630&quality=80",
-    "date": 1789902600000,
-    "titleSl": "V ŽIVO: Atletico Madrid proti Real Madridu – La Liga"
    }
   ],
   "guardian": [
@@ -416,6 +416,12 @@
   ],
   "bild": [
    {
+    "title": "Die BILD-Wahlsendung - Michael Engelberg vom Konrad-Adenauer-Haus",
+    "link": "https://www.bild.de/politik/die-bild-wahlsendung-michael-engelberg-vom-konrad-adenauer-haus-6aad3bf6b1857e86757a63c2",
+    "image": "https://images.bild.de/6aad3bf6b1857e86757a63c2/7e306e9fe0cb4d4fb02553237f63df9c-landscape,2c5c8673?w=1280",
+    "date": 0
+   },
+   {
     "title": "Rettungseinsatz im Saarland läuft - Kind in Brunnenschacht gestürzt",
     "link": "https://www.bild.de/regional/bayern/rettungseinsatz-im-saarland-laeuft-kind-in-brunnenschacht-gestuerzt-6aafccf2708e760b5e06512a",
     "image": "https://images.bild.de/6aafccf2708e760b5e06512a/ff4821878d4363f1d77b4e4f8648b72c,e738d5de?w=1280",
@@ -446,12 +452,6 @@
     "image": "https://images.bild.de/6aafb0a8c15deed547b306a1/741697160dc7e6a21bbe6375eec07987,d900e4bf?w=1280",
     "date": 0,
     "titleSl": "Trauerwache v Frankfurtu - „Es war bewegend, wie Menschen mit Verlust umgehen“"
-   },
-   {
-    "title": "Ausnahmezustand in Wittlich - Tuner liefern sich Krawall-Nacht mit der Polizei",
-    "link": "https://www.bild.de/news/inland/ausnahmezustand-in-wittlich-tuner-liefern-sich-krawall-nacht-mit-der-polizei-6aafc705b1857e86757a8353",
-    "image": "https://images.bild.de/6aafc705b1857e86757a8353/97dfcaff1e08ea8c5ea77541e3442133,a3a47938?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -541,10 +541,11 @@
     "titleSl": "En Birmanie, une mine d 'étain géante reprend son activité"
    },
    {
-    "title": "En Belgique, la patience des bouddhistes mise à rude épreuve",
-    "link": "https://www.lemonde.fr/international/article/2026/09/20/en-belgique-la-patience-des-bouddhistes-mise-a-rude-epreuve_6778375_3210.html",
-    "image": "https://img.lemde.fr/2026/09/18/0/0/6720/3360/644/322/60/0/72b761e_upload-1-duiwpkpyfrda-sipa-sipahub60163354-000110.jpg",
-    "date": 1789905604000
+    "title": "Droits télé de la Ligue 1 : Nasser Al-Khelaïfi visé par une enquête pour prise illégale d’intérêts",
+    "link": "https://www.lemonde.fr/societe/article/2026/09/20/droits-tele-de-la-ligue-1-nasser-al-khelaifi-vise-par-une-enquete-pour-prise-illegale-d-interets_6778374_3224.html",
+    "image": "https://img.lemde.fr/2026/09/20/522/0/4159/2079/644/322/60/0/be8dbd0_ftp-1-ywk8zkun6tpn-5135056-01-06.jpg",
+    "date": 1789904340000,
+    "titleSl": "Droits télé de la Ligue 1 : Nasser Al-Khelaïfi visé par une enquête pour prise illégale d 'intérêts"
    },
    {
     "title": "Au Royaume-Uni, masques, cagoules… et burqas proscrits lors de manifestations antimigrants",
@@ -563,7 +564,7 @@
     "title": "Violences près de Tours après une collision entre un motard et un véhicule de police",
     "link": "https://www.lemonde.fr/societe/article/2026/09/20/violences-pres-de-tours-apres-une-collision-entre-un-motard-et-un-vehicule-de-police_6778367_3224.html",
     "image": "https://img.lemde.fr/2026/06/16/250/0/3000/1500/644/322/60/0/cabaade_upload-1-yyclbmzye3cs-frame-1160.jpg",
-    "date": 1789898309000
+    "date": 1789898307000
    },
    {
     "title": "Budget 2027 : Amélie de Montchalin alerte sur l’état de la dette : « Chaque mois d’inaction aggrave l’asphyxie financière »",
@@ -578,7 +579,7 @@
     "title": "GP de Austria en directo | Comienza la carrera",
     "link": "https://elpais.com/deportes/motociclismo/2026-09-20/gp-de-austria-en-directo-la-carrera-de-motogp-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DSGPY7FFENLD3OKYC3AX3DT4JY.jpg?auth=a0a29351d5fb2548d4d87e52af4e8289bd32229b0e7bbf4ab18b96f62335f1a3",
-    "date": 1789907665000
+    "date": 1789907785000
    },
    {
     "title": "Brad Pitt llega al festival de San Sebastián para presentar su nueva película, ‘En el corazón de la bestia’",
