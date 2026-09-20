@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20T06:18:26.112Z",
+ "generatedAt": "2026-09-20T06:20:47.618Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Opazili smo: Luksuzni avto, ki ga na evropskih cestah težko vidite",
+    "link": "https://www.zurnal24.si/avto/opazili-smo-luksuzni-avto-ki-ga-na-evropskih-cestah-tezko-vidite-465268",
+    "image": "https://www.zurnal24.si/media/img/13/b3/16ec9d347188e43e1fc4.jpeg",
+    "date": 1789885200000
+   },
+   {
     "title": "Tragedija pri slapu Savica: Ena oseba umrla, drugo odpeljali s helikopterjem",
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/tragedija-pri-slapu-savica-ena-oseba-umrla-drugo-odpeljali-s-helikopterjem-465396",
     "image": "https://www.zurnal24.si/media/img/48/39/31a50de320a96caa4fa5.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/11-let-mlajsa-to-je-janovo-kmetija-novo-dekle-465331",
     "image": "https://www.zurnal24.si/media/img/1a/fd/d4ca988e516a09504369.png",
     "date": 1789880100000
-   },
-   {
-    "title": "Koliko časa se še splača voziti v službo? Slovenci med rekorderji",
-    "link": "https://www.zurnal24.si/moj-sanjski-siht/koliko-casa-se-se-splaca-voziti-v-sluzbo-slovenci-med-rekorderji-465350",
-    "image": "https://www.zurnal24.si/media/img/0d/fa/d2b8f13c2448a50499e0.jpeg",
-    "date": 1789879920000
    }
   ],
   "reuters": [
@@ -245,7 +245,7 @@
    {
     "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
     "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719d/live/40d8a330-b4ac-11f1-bc1f-3f186ca4140c.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
     "date": 1789884997000,
     "titleSl": "Rusija pravi, da sta v \"množičnem\" napadu ukrajinskih brezpilotnih letal na moskovsko regijo umrla dva"
    },
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331",
-    "link": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260920__2296162547__v1__HighRes__Ufc331VanVPantoja-1789882334.jpg?resize=1920%2C1440",
-    "date": 1789884194000,
-    "titleSl": "Mjanmarski Van je premagal Pantojo in obdržal naslov v UFC 331"
-   },
-   {
     "title": "Journalists locked out of the White House after Trump ban",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789882901.jpg?resize=1920%2C1080&quality=80",
@@ -301,11 +294,11 @@
     "titleSl": "Novinarji zaklenjeni iz Bele hiše po Trumpovi prepovedi"
    },
    {
-    "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+    "title": "Two German states go to the polls after far-right gains",
     "link": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260918__C8PX4PM__v1__HighRes__GermanyPoliticsVoteStateMecklenburgWesternPomer-1789876168.jpg?resize=1920%2C1440",
     "date": 1789882970000,
-    "titleSl": "Nemški Berlin, zvezne države Mecklenburg - Zahodna Pomorjanska se odpravijo na volitve"
+    "titleSl": "Dve nemški državi gresta na volitve po zmagi skrajne desnice"
    },
    {
     "title": "Jammertest: Arctic exercise to counter satellite jamming",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_6182-1789877256.jpg?resize=1920%2C1440",
     "date": 1789880133000,
     "titleSl": "Tunizijski protestniki zahtevajo izpustitev štirih aktivistov Sumuda"
+   },
+   {
+    "title": "How did the US recall a billion products in six months?",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/BTN_Thumbnail_Landscape_V07-1789877890.png?resize=1920%2C1008&quality=80",
+    "date": 1789877935000,
+    "titleSl": "Kako so ZDA v šestih mesecih odpoklicale milijardo izdelkov?"
    }
   ],
   "guardian": [
@@ -455,43 +455,57 @@
   ],
   "krone": [
    {
-    "title": "Notversorgung nötig - Grieskirchner Trinkwasser legt weiten Weg zurück",
+    "title": "Notversorgung nötig - Grieskirchner Trinkwasser legt weiten Weg zurück - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyRkZTbmhtczN2dTN4cGNJM1EyYVpnQ0RESHc2bHYySlhyZW0ydUZBSVg4ZUFZM2JJVFRKeGtoUjViZw?oc=5",
     "image": "",
     "date": 1789884000000
    },
    {
-    "title": "Mitten in der Nacht - Geparkter Lkw brannte: Lenker (65) schwer verletzt",
+    "title": "Mitten in der Nacht - Geparkter Lkw brannte: Lenker (65) schwer verletzt - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KVkJtUUVfLXhzM3lPaHVIQ0xuN0NNeXZRQVdtVy1sRFFMLUlpVzcxcFJuYnRhTFhLVHJ0NnRTR2l6Zw?oc=5",
     "image": "",
     "date": 1789884000000
    },
    {
-    "title": "Vorauers Spezialbrille - Dieses Spiel bedeutete für KAC-Goalie die Wende",
+    "title": "Vorauers Spezialbrille - Dieses Spiel bedeutete für KAC-Goalie die Wende - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqdi1sQ3dQenpQRzR5VVhlb28xc0dwWjd1NzRKbk50eTBEVExTSVpsOUpLemxRLWg3OUh3TE5xd3M5UQ?oc=5",
     "image": "",
     "date": 1789883820000
    },
    {
-    "title": "Dafür nur Gelb? - Ex-Sturm-Kicker lässt Arsenals Rice ausflippen",
+    "title": "Dafür nur Gelb? - Ex-Sturm-Kicker lässt Arsenals Rice ausflippen - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE50cy12TzlMVmpiRmZ5UzVPOVd0LTNJWkVYcWx6b2lreFpzZHhKTlNoWTE3WXRMVjZmWWQ4WmtsSVZwQQ?oc=5",
     "image": "",
     "date": 1789883700000
    },
    {
-    "title": "Auszeit am Mittelmeer - Alica Schmidt macht Urlaub: Das Leben ist schön",
+    "title": "Auszeit am Mittelmeer - Alica Schmidt macht Urlaub: Das Leben ist schön - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CUzZTNk9PUFVrN0hHcGxHTFAta3RSNzBzMTkxNk5UYWk2Z3U3Tk5yLWczMWZoemcycmM3VE9zbERWZw?oc=5",
     "image": "",
     "date": 1789882620000
    },
    {
-    "title": "„Kranke Verschwörung“ - Trump kündigt „AI Force“ zur KI-Regulierung an",
+    "title": "„Kranke Verschwörung“ - Trump kündigt „AI Force“ zur KI-Regulierung an - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lWE5xdjlGMnFBNjBEOTV1MFo0ckJQYjlLYWNsXzh4TnJRcGJEWklhdE5PcG1pTE1URHNoNWthNFBrZw?oc=5",
     "image": "",
     "date": 1789882560000
    }
   ],
   "rainews": [
+   {
+    "title": "TG2 Cinematinée del 19/09/2026",
+    "link": "https://www.rainews.it/rubriche/tg2cinematinee/video/2026/09/TG2-Cinematinee-del-19092026-4e68142d-ac31-4629-ba6c-9dd761aa5fe1.html",
+    "image": "https://www.rainews.it/dl/components/img/tappo-rainews.png",
+    "date": 1789885249000,
+    "titleSl": "TG2 Cinematinée del 19.09.2026"
+   },
+   {
+    "title": "TG2 Mizar del 19/09/2026",
+    "link": "https://www.rainews.it/rubriche/tg2mizar/video/2026/09/TG2-Mizar-del-19092026-cb1e5dcd-6dad-42ac-b7a8-07aa9c14a671.html",
+    "image": "https://www.rainews.it/dl/components/img/tappo-rainews.png",
+    "date": 1789885173000,
+    "titleSl": "TG2 Mizar del 19.09.2026"
+   },
    {
     "title": "TG2 Achab Libri del 20/09/2026",
     "link": "https://www.rainews.it/rubriche/tg2achablibri/video/2026/09/TG2-Achab-Libri-del-20092026-167774dc-db1b-485b-a993-527e2fb3a7ea.html",
@@ -519,19 +533,6 @@
     "image": "https://www.rainews.it/dl/img/2026/09/19/1789841147980_vlcsnap-2026-09-19-20h07m40s300.png",
     "date": 1789883107000,
     "titleSl": "Tg2 Storie. I racconti della settimana - Puntata del 19.09.2026"
-   },
-   {
-    "title": "Riad nel mirino degli Houthi: Trump torna da Camp David. Ambasciate USA in MO rinnovano l&#x27;allerta",
-    "link": "https://www.rainews.it/maratona/2026/09/trump-torna-in-anticipo-da-camp-david-allerta-dellambasciata-usa-a-gerusalemme-b6e558de-325e-43cb-a672-5eaf57eaaf4d.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/20/1789883642860_CPY.jpg",
-    "date": 1789882200000,
-    "titleSl": "Riad nel mirino degli Houthi: Trump torna da Camp David. Ambasciate USA in MO rinnovano l 'erta"
-   },
-   {
-    "title": "Attacco su Mosca, centinaia di droni ucraini sulla capitale e la regione",
-    "link": "https://www.rainews.it/maratona/2026/09/zelensky-nuove-operazioni-in-profondita-in-territorio-russo-6b00e302-6675-4f4d-bf6d-e187fc5359e7.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/20/1789881874070_MOSCA_DRONI_UCRAINI.jpg",
-    "date": 1789881840000
    }
   ],
   "lemonde": [
