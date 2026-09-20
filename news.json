@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20T05:08:28.671Z",
+ "generatedAt": "2026-09-20T05:10:44.010Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Osem ur ni ves dan: Poklon delavskemu razredu kot ogledalo časa",
+    "link": "https://www.rtvslo.si/kultura/gledamo/osem-ur-ni-ves-dan-poklon-delavskemu-razredu-kot-ogledalo-casa/794253",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/19/67105467.jpg",
+    "date": 1789880962000
+   },
+   {
     "title": "Naftni šoki morda bolj škodijo ZDA kot Kitajski",
     "link": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/naftni-soki-morda-bolj-skodijo-zda-kot-kitajski/794220",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/18/67105360.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/golob-vsak-upor-proti-nacizmu-in-fasizmu-mora-ostati-spostovan-in-cenjen/794286",
     "image": "https://img.rtvcdn.si/_up/upload/2026/05/31/67048528.jpg",
     "date": 1789843018000
-   },
-   {
-    "title": "Ruske sile izvedle obsežne napade v Ukrajini. Ubitih osem ljudi.",
-    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/ruske-sile-izvedle-obsezne-napade-v-ukrajini-ubitih-osem-ljudi/794285",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/19/67105541.jpg",
-    "date": 1789841603000
    }
   ],
   "zurnal": [
@@ -250,6 +250,13 @@
     "titleSl": "Oglejte si: Dianin brat pravi, da ima tisk \"rakav vpliv\" na življenje Harryja in Meghan"
    },
    {
+    "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719d/live/40d8a330-b4ac-11f1-bc1f-3f186ca4140c.jpg",
+    "date": 1789880694000,
+    "titleSl": "Rusija pravi, da sta v \"množičnem\" napadu ukrajinskih brezpilotnih letal na moskovsko regijo umrla dva"
+   },
+   {
     "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
     "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4608/live/c645c2f0-b475-11f1-9fae-2bf33efa8644.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
     "date": 1789861766000,
     "titleSl": "Hutiji trdijo, da so savdsko prestolnico ciljali z balističnimi izstrelki"
-   },
-   {
-    "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
-    "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55eb/live/fb40eb10-b28b-11f1-8096-b33a1297275a.jpg",
-    "date": 1789859926000,
-    "titleSl": "\"Ljudje pozabljamo, da obstajamo\": Zakaj se starejša skupnost LGBTQ+ boji izgube identitete"
    }
   ],
   "aljazeera": [
@@ -415,6 +415,19 @@
   ],
   "bild": [
    {
+    "title": "So ticken die Berlin-Kandidaten - Warum sollte man Sie wählen?",
+    "link": "https://www.bild.de/politik/so-ticken-die-kandidaten-warum-sollte-man-sie-waehlen-6aae9295b1857e86757a751e",
+    "image": "https://images.bild.de/6aae9295b1857e86757a751e/a57025eb10776f8c628ef285478f41d7,c02e983d?w=1280",
+    "date": 0,
+    "titleSl": "Torej ticken die Berlin-Kandidaten - Warum sollte man Sie wählen?"
+   },
+   {
+    "title": "Wiesn-Hits im Check - Diese Lieder prägen das Oktoberfest dieses Jahr",
+    "link": "https://www.bild.de/regional/muenchen/oktoberfest-lieder-2026-dieser-song-koennte-der-neue-wiesn-hit-werden-68c28a02d265e67995afbd72",
+    "image": "https://images.bild.de/68c28a02d265e67995afbd72/71dd2216e68b8ac7b3a6d3fe3068578e,50e6463e?w=1280",
+    "date": 0
+   },
+   {
     "title": "China-Geschäft - Absatzprobleme! VW-Aktie stürzt ab",
     "link": "https://www.bild.de/politik/china-geschaeft-absatzprobleme-vw-aktie-stuerzt-ab-6aad5b174453e0520be1a179",
     "image": "https://images.bild.de/6aad5b174453e0520be1a179/d976b4835194b119e09a3ec6671bf0c7,98ce9f07?w=1280",
@@ -438,55 +451,42 @@
     "image": "https://images.bild.de/5ba21583851978000171954b/3a1e9008d6dc44ed4e403ae0fcbae95b,892b7309?w=1280",
     "date": 0,
     "titleSl": "Weltkindertag am 20. september - Muss ich meinem Kind Taschengeld zahlen?"
-   },
-   {
-    "title": "Eine Region bleibt sonnig - Wolken und Regen wandern über Deutschland",
-    "link": "https://www.bild.de/news/wetter/wolken-und-regen-wandern-ueber-deutschland-eine-region-bleibt-sonnig-6aae59f7af56f555055d8e1b",
-    "image": "https://images.bild.de/6aae59f7af56f555055d8e1b/888e566f09936eea888565615e3d1fd9,3cac3255?w=1280",
-    "date": 0,
-    "titleSl": "Regija Eine bleibt sonnig - Wolken und Regen wandern über Deutschland"
-   },
-   {
-    "title": "Essbar oder giftig? - Diese Kastanien können Sie bedenkenlos essen",
-    "link": "https://www.bild.de/leben-wissen/food-essen-trinken-rezepte/essbare-oder-giftige-kastanien-so-erkennen-sie-den-unterschied-6aa8f783ce1a73b32a4fbfd0",
-    "image": "https://images.bild.de/6aa8f783ce1a73b32a4fbfd0/8abfb977df54464286fe51f6fef18f13,dafd87bd?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Stars im Wiesn-Fieber - Was die Promis wirklich über das Oktoberfest sagen",
+    "title": "Stars im Wiesn-Fieber - Was die Promis wirklich über das Oktoberfest sagen - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tREk2RHlrRXpKZmlvTWhXTjUycXlyQUZ3WkZEOG5lXzRhSlFqcWtjaDVEYjNEMHRuUDY5ZmdWV1Q5Zw?oc=5",
     "image": "",
     "date": 1789880609000
    },
    {
-    "title": "Freiwillig eingerückt - Jung, weiblich, kampfbereit: Osttirolerin erzählt",
+    "title": "Freiwillig eingerückt - Jung, weiblich, kampfbereit: Osttirolerin erzählt - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tQ1MybndPLU52UmhhRjJmdDMyQVZkZC03a0tpVTFmNHBuRHZnNHhRQ25fM1JwSWtGYUdhSnlXNFlWQQ?oc=5",
     "image": "",
     "date": 1789880400000
    },
    {
-    "title": "In den Pflichtschulen - 6557 Schüler benötigten zusätzliche Hilfe",
+    "title": "In den Pflichtschulen - 6557 Schüler benötigten zusätzliche Hilfe - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pRmhkQjVPNVZRdUdLcHduWjZWWDVYYWYteW5YbEZQZFN2d1g2OUd5Xy1LXzhobnVlYnZoWUYyUkRiUQ?oc=5",
     "image": "",
     "date": 1789880400000
    },
    {
-    "title": "Uraufführung: „2073“ - Theater im Bahnhof blickt in die eigene Zukunft",
+    "title": "Uraufführung: „2073“ - Theater im Bahnhof blickt in die eigene Zukunft - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52M0ZjTWtvWEdDNFVZaktiRGFpbjFpMHpSOENPbWExX3pUeWtodEt6NWJmdnhlZl9rbnFHcncyVHhYQQ?oc=5",
     "image": "",
     "date": 1789880400000
    },
    {
-    "title": "Das freie Wort - Eine letzte Duftmarke",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MdEZmOUo1djA5QUV0cndrUFZqOGsxa3NiZl9hdzU1dHhCLW5pcGMxamlubW81V0tYWk8xOHVXd3hiUjhVS1NiYmJFYXhSTEVaNlhDRjFJdF9DWFRxcU91SkxZRk0wU251MHRLRw?oc=5",
+    "title": "Das freie Wort - Sobotka und unser Steuergeld - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10R0NLM3lVZDJYTUxFellHVzVHNVRESy1LVzFXbDBCRDVKaTdiakdwM3YwNHNfVWU4MUFob05wZVFVZmROb3ZjdE1LclJ0cnZMajJXQzUxSUhKd1RKQ1NLRkNORlZuWnBmeDRONg?oc=5",
     "image": "",
     "date": 1789879417000
    },
    {
-    "title": "Das freie Wort - Premiere für die Union",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwYmlxY3FjY0ZHUEpWTVBBRmFnOS1obEUtZXBqLWFpZ0Z0dm5KV0NKMUxfeFNQdndQQXFfU29teWZibUVWMmJjZWtkbWVVemY3Z2hITmk3RmNNNkZBMGFpeWdoYjBmYWpLbWsyQw?oc=5",
+    "title": "Das freie Wort - Eine letzte Duftmarke - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MdEZmOUo1djA5QUV0cndrUFZqOGsxa3NiZl9hdzU1dHhCLW5pcGMxamlubW81V0tYWk8xOHVXd3hiUjhVS1NiYmJFYXhSTEVaNlhDRjFJdF9DWFRxcU91SkxZRk0wU251MHRLRw?oc=5",
     "image": "",
     "date": 1789879417000
    }
@@ -506,7 +506,7 @@
     "date": 1789880400000
    },
    {
-    "title": "L’IA è già entrata a scuola ma 8 studenti su 10 la usano regolarmente",
+    "title": "L’IA è entrata a scuola ma 8 studenti su 10 già la usano regolarmente",
     "link": "https://www.rainews.it/articoli/2026/09/lia-e-gia-entrata-a-scuola-ma-8-studenti-su-10-la-usano-regolarmente-fb89693b-585b-459b-a8fa-0b3ea88fe44e.html",
     "image": "https://www.rainews.it/dl/img/2026/9/01/1788242654586_cbebeaaeacede.jpg",
     "date": 1789879860000
