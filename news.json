@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T08:54:24.971Z",
+ "generatedAt": "2026-09-21T08:56:28.368Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Slovenska atletska asa v boju za ugledni evropski priznanji",
     "link": "https://www.24ur.com/sport/ostalo/slovenska-atletska-asa-v-boju-za-ugledni-evropski-priznanji.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/4d69badfd7ec76e51616_63633680.jpg?v=adef&fop=fp:0.47:0.22",
-    "date": 1789980538000
+    "date": 1789980829000
    },
    {
     "title": "Zeljković 'eksplodiral' po tekmi z Muro: Žalili so mojo družino",
@@ -117,10 +117,16 @@
   ],
   "zurnal": [
    {
-    "title": "POP TV: So ženo smučarskega skakalca Jerneja Damjana umaknili s položaja urednice?",
+    "title": "POP TV: So ženo skakalca Jerneja Damjana umaknili s položaja urednice?",
     "link": "https://www.zurnal24.si/magazin/vip/pop-tv-so-zeno-smucarskega-skakalca-jerneja-damjana-umaknili-s-polozaja-urednice-465443",
     "image": "https://www.zurnal24.si/media/img/1b/b0/a54dfddc009f9c86cb95.jpeg",
     "date": 1789980780000
+   },
+   {
+    "title": "Po petih letih boja so ga izgnali: Ženo in dom moral pustiti za seboj",
+    "link": "https://www.zurnal24.si/svet/po-petih-letih-boja-so-ga-izgnali-zeno-in-dom-moral-pustiti-za-seboj-465446",
+    "image": "https://www.zurnal24.si/media/img/cc/7f/50fe7007a521572a12c5.jpeg",
+    "date": 1789980060000
    },
    {
     "title": "Norija ob odprtju trgovine v Sloveniji: Dolge vrste, pritoževanje ...",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/po-vrocini-prihaja-obcutna-ohladitev-na-vidiku-nove-padavine-465439",
     "image": "https://www.zurnal24.si/media/img/ee/63/4abc20d8d855ef39710f.png",
     "date": 1789974720000
-   },
-   {
-    "title": "Po hudem padcu se je oglasil Slovenec: Stanje vzbuja skrb",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/po-hudem-padcu-se-je-oglasil-slovenec-stanje-vzbuja-skrb-465435",
-    "image": "https://www.zurnal24.si/media/img/ed/a7/af52e80a67c542fa1d1a.jpeg",
-    "date": 1789974300000
    }
   ],
   "reuters": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Australia’s deaths to outnumber births by 2060s, report says",
-    "link": "https://www.aljazeera.com/economy/2026/9/21/australias-deaths-to-outnumber-births-by-2060s-report-says?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20250416__42GG9NQ__v1__MidRes__AustraliaEconomyTourism-1789965841_048725-1789974647.jpg?resize=1200%2C630&quality=80",
-    "date": 1789980811000,
-    "titleSl": "Poročilo pravi, da bo število smrti v Avstraliji do leta 2060 preseglo število rojstev"
-   },
-   {
-    "title": "Russia election results show Putin’s party winning: What we know",
-    "link": "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab0dbfa65913-1789975546.jpg?resize=1920%2C1440",
-    "date": 1789980426000,
-    "titleSl": "Rezultati ruskih volitev kažejo zmago Putinove stranke: Kaj vemo"
-   },
-   {
     "title": "Three South Korean military officers wounded in explosion near border",
     "link": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab0caa49185f-1789971108.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789971439.jpg?resize=1920%2C1080&quality=80",
     "date": 1789971447000,
     "titleSl": "Zakaj ZN ne morejo ustaviti vojn?"
+   },
+   {
+    "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789970172.jpg?resize=1920%2C1080&quality=80",
+    "date": 1789970187000,
+    "titleSl": "Meloni obljublja prepoved burk in nikabov v italijanskih šolah"
+   },
+   {
+    "title": "Iran’s military says US preparing to resume strikes",
+    "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295730026-1789929183.jpg?resize=1920%2C1440",
+    "date": 1789968101000,
+    "titleSl": "Iranska vojska pravi, da se ZDA pripravljajo na nadaljevanje napadov"
    }
   ],
   "guardian": [
@@ -416,6 +416,12 @@
   ],
   "bild": [
    {
+    "title": "Polizei sucht zwei Täter in NRW - 15-Jähriger nach Party erstochen",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/marsberg-15-jaehriger-nach-party-erstochen-6ab0d77c708e760b5e065f6e",
+    "image": "https://images.bild.de/6ab0d77c708e760b5e065f6e/564bba8e1e5072c5b0fddb1f208c75ca,c05d3d7d?w=1280",
+    "date": 0
+   },
+   {
     "title": "Sohn von Cindy Crawford gestorben - Im März war Presley (†27) noch voller Hoffnung!",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/presley-gerber-sohn-von-cindy-crawford-machte-geheime-therapie-6ab0c02e708e760b5e065dc2",
     "image": "https://images.bild.de/6ab0c02e708e760b5e065dc2/b7ee55a4b7fdf8a850a45980a140196f,ac24ffd3?w=1280",
@@ -444,13 +450,6 @@
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/natalia-yegorova-ueber-ex-mann-vitali-klitschko-ich-glaube-innerlich-ist-er-stolz-auf-mich-6aab5bc43e0af7910e521ed0",
     "image": "https://images.bild.de/6aab5bc43e0af7910e521ed0/997ff275f3ceed9d9c0085f986537125,46264c22?w=1280",
     "date": 0
-   },
-   {
-    "title": "Es geht um arbeitslose Syrer - Dobrindt plant neuen Abschiebe-Hammer",
-    "link": "https://www.bild.de/politik/inland/dobrindt-plant-neuen-abschiebe-hammer-es-geht-um-arbeitslose-syrer-6ab0e1d70b0dd38676db9981",
-    "image": "https://images.bild.de/6ab0e1d70b0dd38676db9981/c56e3f3e5f8ff64484df53fcbf418d9f,b21942da?w=1280",
-    "date": 0,
-    "titleSl": "Es geht um arbeitslose Syrer - Dobrindt rastlina neuen Abschiebe-Hammer"
    }
   ],
   "krone": [
@@ -585,6 +584,13 @@
     "date": 1789980561000
    },
    {
+    "title": "‘Gènesi’ destripa elBulli para contar la revolución gastronómica de Ferran Adrià",
+    "link": "https://elpais.com/espana/catalunya/2026-09-21/genesi-destripa-elbulli-para-contar-la-revolucion-gastronomica-de-ferran-adria.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260921/1216447_083435_video_1800.mp4",
+    "date": 1789980091000,
+    "titleSl": "„Gènesi“ destripa elBulli para contar la revolución gastronómica de Ferran Adrià"
+   },
+   {
     "title": "Mazón regresa al Congreso para responder de nuevo sobre su papel en la gestión de la dana",
     "link": "https://elpais.com/espana/2026-09-21/mazon-regresa-al-congreso-para-responder-de-nuevo-sobre-su-papel-en-la-gestion-de-la-dana.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TC2CJZ7JSVDXZNRCOQNSJYWTT4.JPG?auth=2bdc26630345a63ca7fb8692fa6b5278abfa7ceff4a6176259f69544c8093e18",
@@ -601,12 +607,6 @@
     "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
     "image": "https://imagenes.elpais.com/resizer/v2/UJBC3XSFAVJ6ZM4AJRFNM5MDPA.jpg?auth=52dc234124ce21a4d8e6de0eb170cd0400620e25890c6513407ec332b6ac27ea",
     "date": 1789979459000
-   },
-   {
-    "title": "Detenido un hombre en Alicante por asesinar a su pareja en Leganés",
-    "link": "https://elpais.com/espana/madrid/2026-09-21/detenido-un-hombre-en-alicante-por-la-muerte-de-su-pareja-en-leganes.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260921/1216436_080551_video_1800.mp4",
-    "date": 1789976689000
    }
   ]
  },
