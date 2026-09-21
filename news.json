@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T13:04:27.856Z",
+ "generatedAt": "2026-09-21T13:06:30.374Z",
  "sources": {
   "siol": [
    {
@@ -257,6 +257,13 @@
     "titleSl": "\"Kakšna igra!\" - Chase catch vodi NFL igre tedna"
    },
    {
+    "title": "Granit Xhaka under investigation over Covid-19 certificate",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b39a/live/f4f040d0-b5b5-11f1-8d1d-a985658d9d3a.jpg",
+    "date": 1789993312000,
+    "titleSl": "Granit Xhaka v preiskavi zaradi certifikata Covid-19"
+   },
+   {
     "title": "British Museum bans visitors from photographing Bayeux Tapestry",
     "link": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b6/live/4a7eb910-b5ab-11f1-a430-4d16ee157c41.jpg",
@@ -276,30 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16e7/live/1b8f2f80-b5b6-11f1-b1d1-571ed4d7ff2c.jpg",
     "date": 1789993062000,
     "titleSl": "\"Druge generacije so jo pravkar pokopale\" - mladi delijo svoje skrbi glede duševnega zdravja"
-   },
-   {
-    "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f80/live/a313f290-b5a9-11f1-a430-4d16ee157c41.jpg",
-    "date": 1789992536000,
-    "titleSl": "Ameriški napadi na domnevne ladje z mamili bi lahko bili zločini proti človečnosti, pravijo ZN"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Moroccan parties mobilise in markets and online for parliamentary elections",
-    "link": "https://www.aljazeera.com/news/2026/9/21/moroccan-parties-mobilise-in-markets-and-online-for-parliamentary-elections?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260912__C84F3GR__v1__MidRes__MoroccoPoliticsElection-1789565328.jpg?resize=1200%2C630",
-    "date": 1789994963000,
-    "titleSl": "Maroške stranke se mobilizirajo na trgih in na spletu za parlamentarne volitve"
-   },
-   {
-    "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789994785.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789994947000,
-    "titleSl": "Azeez Al-Shaair iz lige NFL odaje priznanje še eni palestinski deklici, ki jo je ubil Izrael"
-   },
    {
     "title": "Israeli attacks on Gaza kill three, including a child",
     "link": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8e94f0461f-1787729136.jpg?resize=1920%2C1440",
     "date": 1789989760000,
     "titleSl": "Zakaj humanitarna premirja v Sudanu še vedno ne uspejo in kdo je kriv?"
+   },
+   {
+    "title": "Why is the US trying ‘regime change’ again?",
+    "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/HOR-1789988349.png?resize=1920%2C1080&quality=80",
+    "date": 1789988449000,
+    "titleSl": "Zakaj ZDA spet poskušajo \"spremeniti režim\"?"
+   },
+   {
+    "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
+    "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab0e85b3c47-1789978715.jpg?resize=1920%2C1440",
+    "date": 1789987121000,
+    "titleSl": "Kako so se izgube nafte in plina med vojno zmanjšale za 10 odstotkov BDP Irana"
    }
   ],
   "guardian": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Nach nur 15 Spielen - Deutscher Trainer fliegt bei Erstligist raus",
+    "link": "https://www.bild.de/sport/fussball/nach-1-5-klatsche-grasshopper-zuerich-feuert-trainer-peter-zeidler-6ab1101fb1857e86757a9806",
+    "image": "https://images.bild.de/6ab1101fb1857e86757a9806/cb9933ce1447a901ee42c66567a62147,5720dd09?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Südafrika - War es ein Serienkiller? Neun Frauen getötet",
+    "link": "https://www.bild.de/news/ausland/suedafrika-war-es-ein-serienkiller-neun-frauen-in-zwei-monaten-getoetet-6aabf12aa9420481bd214ff9",
+    "image": "https://images.bild.de/6aabf12aa9420481bd214ff9/4fcf72cd1e6e482eaf4aa63adc16c51c,c3eb8c63?w=1280",
+    "date": 0
+   },
+   {
     "title": "Ratlosigkeit beim Kanzler - Hier erklärt Merz das Wahl-Debakel",
     "link": "https://www.bild.de/politik/hier-gibt-merz-zu-wir-haben-auf-zu-viele-fragen-keine-antwort-6ab11e864607f89d76e3d000",
     "image": "https://images.bild.de/6ab11e864607f89d76e3d000/acc130435aeb8fedb56dda700eb1b5f0,8b121a1c?w=1280",
@@ -432,21 +444,9 @@
     "date": 0
    },
    {
-    "title": "Behörden warnen Frauen in Südafrika - War es ein Serienkiller? Neun Frauen getötet",
-    "link": "https://www.bild.de/news/ausland/suedafrika-war-es-ein-serienkiller-neun-frauen-in-zwei-monaten-getoetet-6aabf12aa9420481bd214ff9",
-    "image": "https://images.bild.de/6aabf12aa9420481bd214ff9/4fcf72cd1e6e482eaf4aa63adc16c51c,c3eb8c63?w=1280",
-    "date": 0
-   },
-   {
     "title": "Zum Oktoberfest - Lederhosen waschen leicht gemacht",
     "link": "https://www.bild.de/leben-wissen/mode-fashion/bier-auf-der-lederhose-waschen-buersten-oder-lieber-nicht-66e83f52fe73281543a951e2",
     "image": "https://images.bild.de/66e83f52fe73281543a951e2/7ddebb685bbb3c82e983fdba59fcd16d,19bc73b6?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Claudia Schmutzler spielte Jacqueline - Star aus „Go Trabi Go“ ist jetzt 60",
-    "link": "https://www.bild.de/news/go-trabi-go-machte-sie-beruehmt-claudia-schmutzler-feiert-60-geburtstag-6ab0f653708e760b5e066248",
-    "image": "https://images.bild.de/6ab0f653708e760b5e066248/eb1515f7408089c5a7ea4c41ce6010ce,88bca82c?w=1280",
     "date": 0
    }
   ],
@@ -492,6 +492,12 @@
   ],
   "rainews": [
    {
+    "title": "Adf primo in Pomerania, dramma Cdu fuori dal Parlamentino. Merz: \"Cesura ma il voto non è su di me\"",
+    "link": "https://www.rainews.it/articoli/2026/09/adf-vince-anche-in-pomerania-il-dramma-cdu-fuori-dal-parlamento-del-land-merz-si-arrocca-94340faa-c425-4dd8-8792-f339704aefaf.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/21/1789989459748_CVVC.jpg",
+    "date": 1789995780000
+   },
+   {
     "title": "Italia-Belgio, Mancini fissa gli obiettivi: \"Per vincere dovremo giocare bene\"",
     "link": "https://www.rainews.it/maratona/2026/09/calcio-nations-league-azzurri-mancini-italia-belgio-turchia-francia-news-aggiornamenti-diretta-live-video-4b84e65d-9e91-40ac-a5a2-708fe719c404.html",
     "image": "https://www.rainews.it/dl/img/2026/9/21/1789993667136_.png",
@@ -521,12 +527,6 @@
     "link": "https://www.rainews.it/articoli/2026/09/mario-adinolfi-torna-in-carcere-usava-i-social-dai-domiciliari-aggravamento-della-misura-roma-9abd77a4-89fe-4d17-8dc9-32e0862bb936.html",
     "image": "https://www.rainews.it/dl/img/2026/07/13/1783955069432_rainewsfdcadcedeab.jpg",
     "date": 1789992960000
-   },
-   {
-    "title": "In carcere Mario Adinolfi: dai domiciliari continuava a usare telefono e social",
-    "link": "https://www.rainews.it/video/2026/09/in-carcere-mario-adinolfi-dai-domiciliari-continuava-a-usare-telefono-e-social-4de0ea9b-62d3-440b-b8e6-1697fa0a6d13.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/21/1789991644682_.png",
-    "date": 1789992900000
    }
   ],
   "lemonde": [
