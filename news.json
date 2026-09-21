@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T09:08:27.994Z",
+ "generatedAt": "2026-09-21T09:10:47.077Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Opozicija vložila interpelacijo zoper zunanjega ministra Kajzerja",
+    "link": "https://www.24ur.com/novice/slovenija/opozicija-z-interpelacijo-kajzerja-ta-o-viharju-v-kozarcu-vode.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2026/bc32c4376ae51877a3a4_63597714.jpg?v=6886&fop=fp:0.44:0.58",
+    "date": 1789981714000
+   },
+   {
     "title": "Slovenska atletska asa v boju za ugledni evropski priznanji",
     "link": "https://www.24ur.com/sport/ostalo/slovenska-atletska-asa-v-boju-za-ugledni-evropski-priznanji.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/4d69badfd7ec76e51616_63633680.jpg?v=adef&fop=fp:0.47:0.22",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/kek-ostaja-strup-za-hajduk-na-hrvaskem-navduseni-nad-slovencem.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/5a07d1027ecc027cc8be_63650855.jpg?v=e48e&fop=fp:0.40:0.33",
     "date": 1789976964000
-   },
-   {
-    "title": "Skrivnostna smrt mame in hčerke: na vzorcih iz hiše našli ricin",
-    "link": "https://www.24ur.com/novice/tujina/skrivnostna-smrt-mame-in-hcerke-na-vzorcih-iz-hise-nasli-ricin.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/27344389e90a7db63cbf_63650850.jpg?v=70b1&fop=fp:0.49:0.34",
-    "date": 1789976913000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Australia’s deaths to outnumber births by 2060s, report says",
+    "link": "https://www.aljazeera.com/economy/2026/9/21/australias-deaths-to-outnumber-births-by-2060s-report-says?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20250416__42GG9NQ__v1__MidRes__AustraliaEconomyTourism-1789965841_048725-1789974647.jpg?resize=1200%2C630&quality=80",
+    "date": 1789980811000,
+    "titleSl": "Poročilo pravi, da bo število smrti v Avstraliji do leta 2060 preseglo število rojstev"
+   },
+   {
+    "title": "Russia election results show Putin’s party winning: What we know",
+    "link": "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab0dbfa65913-1789975546.jpg?resize=1920%2C1440",
+    "date": 1789980426000,
+    "titleSl": "Rezultati ruskih volitev kažejo zmago Putinove stranke: Kaj vemo"
+   },
+   {
     "title": "Three South Korean military officers wounded in explosion near border",
     "link": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab0caa49185f-1789971108.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789971439.jpg?resize=1920%2C1080&quality=80",
     "date": 1789971447000,
     "titleSl": "Zakaj ZN ne morejo ustaviti vojn?"
-   },
-   {
-    "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789970172.jpg?resize=1920%2C1080&quality=80",
-    "date": 1789970187000,
-    "titleSl": "Meloni obljublja prepoved burk in nikabov v italijanskih šolah"
-   },
-   {
-    "title": "Iran’s military says US preparing to resume strikes",
-    "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295730026-1789929183.jpg?resize=1920%2C1440",
-    "date": 1789968101000,
-    "titleSl": "Iranska vojska pravi, da se ZDA pripravljajo na nadaljevanje napadov"
    }
   ],
   "guardian": [
@@ -454,14 +454,14 @@
   ],
   "krone": [
    {
-    "title": "UNO-Generaldebatte - Mamdani ruft zu Protesten gegen Netanyahu auf",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQeHRSRGV1YnJzWlJFX3U1NndnU3FUX1ROV2dINE5BeHhtUXgyVDZrb2QxZzVvYUs1eTc2eHhDZElpUQ?oc=5",
+    "title": "SIEG AM GRÜNEN TISCH - Nach Verletzungsabbruch: OEFV gibt Gschwandt Recht",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NTjMxWlVRMjU2UXR4VUlkV2ZvUVN5SUVHdEpVckRsVGN2Y3JCam9wNG43N2pfSF9xY1R5RWZEa29RZw?oc=5",
     "image": "",
     "date": 1789981320000
    },
    {
-    "title": "SIEG AM GRÜNEN TISCH - Nach Verletzungsabbruch: OEFV gibt Gschwandt Recht",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NTjMxWlVRMjU2UXR4VUlkV2ZvUVN5SUVHdEpVckRsVGN2Y3JCam9wNG43N2pfSF9xY1R5RWZEa29RZw?oc=5",
+    "title": "UNO-Generaldebatte - Mamdani ruft zu Protesten gegen Netanyahu auf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQeHRSRGV1YnJzWlJFX3U1NndnU3FUX1ROV2dINE5BeHhtUXgyVDZrb2QxZzVvYUs1eTc2eHhDZElpUQ?oc=5",
     "image": "",
     "date": 1789981320000
    },
@@ -533,6 +533,13 @@
   ],
   "lemonde": [
    {
+    "title": "« La smicardisation des travailleurs n’est pas qu’un problème de pouvoir d’achat, c’est une crise de la progression et de la reconnaissance »",
+    "link": "https://www.lemonde.fr/idees/article/2026/09/21/la-smicardisation-des-travailleurs-n-est-pas-qu-un-probleme-de-pouvoir-d-achat-c-est-une-crise-de-la-progression-et-de-la-reconnaissance_6778912_3232.html",
+    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/f730fee_upload-1-hedokdjarjae-frame-843.jpg",
+    "date": 1789981599000,
+    "titleSl": "« La smicardisation des travailleurs n'est pas qu' un problème de pouvoir d’achat, c'est une crise de la progression et de la reconnaissance»"
+   },
+   {
     "title": "EN DIRECT, guerre en Ukraine : l’UE déplore « l’érosion continue et croissante de la démocratie » en Russie, après les législatives",
     "link": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-le-parti-de-poutine-serait-sans-surprise-largement-en-tete-des-elections-legislatives-russes-meme-si-volodymyr-zelensky-estime-que-les-frappes-ukrainiennes-ont-eu-un-impact-tres-important-dans-la-region-de-moscou_6777944_3210.html",
     "image": "https://img.lemde.fr/2026/09/20/416/0/5000/2500/644/322/60/0/cdcca83_ftp-1-z64hyvrusjjr-b3880279dfe64d339cf3e760d77c0de9-1-fe37c71cf9954af0ba26bcc8c57a7fac.jpg",
@@ -563,15 +570,15 @@
     "image": "https://img.lemde.fr/2026/09/21/290/0/3483/1741/644/322/60/0/15c18bc_ftp-1-xbp4j46a2bnp-f74f375d147548d6811b0591093a60d4-1-28ff4469713e43b991bd7726153c25f9.jpg",
     "date": 1789978035000,
     "titleSl": "La Chine confirmme une visite d'Etat de son président, Xi Jinping, aux Etats-Unis cette semaine pour rencontrer Donald Trump"
-   },
-   {
-    "title": "Tout savoir sur les élections sénatoriales, scrutin peu connu mais très important",
-    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/21/elections-senatoriales-comment-sont-elus-les-membres-du-palais-du-luxembourg_6778737_4355770.html",
-    "image": "https://img.lemde.fr/2026/06/30/360/0/7969/3984/644/322/60/0/3fb2bba_ftp-1-2jlegwnstjlj-5488805-01-06.jpg",
-    "date": 1789967210000
    }
   ],
   "elpais": [
+   {
+    "title": "Mazón se niega a responder ante la comisión del Congreso sobre la dana: “Estimo que lo procedente es no hacer ninguna declaración pública”",
+    "link": "https://elpais.com/espana/2026-09-21/mazon-regresa-al-congreso-para-responder-de-nuevo-sobre-su-papel-en-la-gestion-de-la-dana.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZY35XBD3SRHNRASXZLINNM2WSM.JPG?auth=16e9949cce9ad42ee63e4fc7ec164b58b22aed2b8e32f9422c37cd2203116d6e",
+    "date": 1789981873000
+   },
    {
     "title": "La inversión extranjera en España se dispara en la primera mitad del año y roza los 12.500 millones de euros",
     "link": "https://elpais.com/economia/2026-09-21/la-inversion-extranjera-en-espana-se-dispara-en-la-primera-mitad-del-ano-y-roza-los-12500-millones-de-euros.html",
@@ -587,18 +594,6 @@
     "titleSl": "El jefe del Ramón y Cajal que alteró las listas de espera: \"No avisé porque tengo 29 años de experiencia\""
    },
    {
-    "title": "Crisis en Ceuta y actualidad política, directo | Albares dice que trabaja con Rabat para prevenir una nueva entrada masiva a Ceuta el día 23",
-    "link": "https://elpais.com/espana/2026-09-21/crisis-en-ceuta-y-actualidad-politica-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/7TJNPONIDJEQBC453XVOQY45NQ.jpg?auth=c0ffd5756ac3b3b968ea0d7960e6a54789f71c47a511e5dd85daa19a4fc1ed46",
-    "date": 1789980630000
-   },
-   {
-    "title": "De Uma Thurman y Ethan Hawke a Naomi Watts y Billy Cudrup: 38 parejas de estrellas que se enamoraron rodando",
-    "link": "https://elpais.com/smoda/2026-09-17/parejas-que-se-enamoraron-durante-el-rodaje-y-llevaron-su-historia-de-amor-mas-alla-de-la-pantalla.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/XJFNR67LQZAQBI6CYFXYR2GZCA.jpg?auth=b2ddcfdc6b3754e3ee7cc4ddf874db2a81c3bb9b2362fc701e2c416307b6a705",
-    "date": 1789980561000
-   },
-   {
     "title": "‘Gènesi’ destripa elBulli para contar la revolución gastronómica de Ferran Adrià",
     "link": "https://elpais.com/espana/catalunya/2026-09-21/genesi-destripa-elbulli-para-contar-la-revolucion-gastronomica-de-ferran-adria.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260921/1216447_083435_video_1800.mp4",
@@ -606,10 +601,16 @@
     "titleSl": "„Gènesi“ destripa elBulli para contar la revolución gastronómica de Ferran Adrià"
    },
    {
-    "title": "Mazón regresa al Congreso para responder de nuevo sobre su papel en la gestión de la dana",
-    "link": "https://elpais.com/espana/2026-09-21/mazon-regresa-al-congreso-para-responder-de-nuevo-sobre-su-papel-en-la-gestion-de-la-dana.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZY35XBD3SRHNRASXZLINNM2WSM.JPG?auth=16e9949cce9ad42ee63e4fc7ec164b58b22aed2b8e32f9422c37cd2203116d6e",
-    "date": 1789980063000
+    "title": "España estrenará esta semana el otoño con los termómetros disparados hasta los 38 grados",
+    "link": "https://elpais.com/el-tiempo/2026-09-21/espana-estrenara-esta-semana-el-otono-con-los-termometros-disparados-hasta-los-38-grados.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/HEP65YV2TBP53N3D6OMYQLWWN4.jpg?auth=26684469eac5ce82c644c42ba8144f6ec81d05e07f9a90ad7baa5b677e0c8f8f",
+    "date": 1789979865000
+   },
+   {
+    "title": "Sánchez reclama “un nuevo contrato social” para abordar la IA: “La autorregulación no funciona”",
+    "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/UJBC3XSFAVJ6ZM4AJRFNM5MDPA.jpg?auth=52dc234124ce21a4d8e6de0eb170cd0400620e25890c6513407ec332b6ac27ea",
+    "date": 1789979459000
    }
   ]
  },
