@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T11:40:51.485Z",
+ "generatedAt": "2026-09-21T11:42:27.569Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Na festivalu v Torontu slavje španske generacijske drame o treh istospolno usmerjenih moških",
+    "link": "https://www.rtvslo.si/kultura/film-in-tv/na-festivalu-v-torontu-slavje-spanske-generacijske-drame-o-treh-istospolno-usmerjenih-moskih/794383",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/21/67105804.jpg",
+    "date": 1789990826000
+   },
+   {
     "title": "Ah, ta leta! Moj, tvoj, naš jezik",
     "link": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ah-ta-leta-moj-tvoj-nas-jezik/794173",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/18/67105244.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/znani/brat-princese-diane-vztraja-da-je-vse-kar-pise-v-knjigi-resnicno-ni-rekel-da-tega-ni-rekel/794366",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/21/67105783.jpg",
     "date": 1789985150000
-   },
-   {
-    "title": "Petrol: Cenovni model se spremembam na trgu ne prilagaja dovolj hitro in ne upošteva stroškov nabave",
-    "link": "https://www.rtvslo.si/gospodarstvo/petrol-cenovni-model-se-spremembam-na-trgu-ne-prilagaja-dovolj-hitro-in-ne-uposteva-stroskov-nabave/794376",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/03/31/67031607.jpg",
-    "date": 1789985079000
    }
   ],
   "zurnal": [
@@ -202,7 +202,7 @@
     "title": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access",
     "link": "https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html",
     "image": "https://static01.nyt.com/images/2026/09/20/multimedia/00biz-trump-ban-hfo-tpfg/00biz-trump-ban-hfo-tpfg-mediumSquareAt3X-v2.jpg",
-    "date": 1789988509000,
+    "date": 1789990705000,
     "titleSl": "CNN, MS in Politico bodo tožili Trumpovo administracijo zaradi dostopa do Bele hiše"
    },
    {
@@ -413,9 +413,21 @@
   ],
   "bild": [
    {
+    "title": "Er ist schon am Stadion - Neuer Gladbach-Trainer steht fest",
+    "link": "https://www.bild.de/sport/fussball/neuer-gladbach-trainer-steht-fest-er-ist-schon-am-stadion-6ab0fd630b0dd38676db9d60",
+    "image": "https://images.bild.de/6ab0fd630b0dd38676db9d60/113f56df4358d4cdc02c202247d23ec4,cad0db6d?w=1280",
+    "date": 0
+   },
+   {
     "title": "Der Tränen-Auftritt von Ed Sheeran - „Ich fühle so viel Liebe von euch“",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/der-traenen-auftritt-von-ed-sheeran-ich-fuehle-so-viel-liebe-von-euch-6ab0f3cd0b0dd38676db9b6f",
     "image": "https://images.bild.de/6ab0f3cd0b0dd38676db9b6f/6c207d72c00e775ef6aec222d94874bd,d868e4d7?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Klamotten-Panne bei Bayer - Kapitän Tapsoba spielte seinen Trainer an",
+    "link": "https://www.bild.de/sport/fussball/bayer-04-leverkusen-klamotten-panne-bei-bayer-kapitaen-tapsoba-spielte-seinen-trainer-an-6ab02df0708e760b5e0658db",
+    "image": "https://images.bild.de/6ab02df0708e760b5e0658db/9b2893ead3a38a2f1bf6615581430682,bae74167?w=1280",
     "date": 0
    },
    {
@@ -435,18 +447,6 @@
     "title": "Kommentar von Sport-Vize Walter M. Straten - Berlin, raus aus Olympia!",
     "link": "https://www.bild.de/sport/olympia/kommentar-nach-der-wahl-berlin-sofort-raus-aus-olympia-6ab0fdc0b1857e86757a95e1",
     "image": "https://images.bild.de/6ab0fdc0b1857e86757a95e1/7d30e76287752bd535fe5fd27ae3a604,300f542b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Im Duell mit „Betrüger“ - Deutsche Schach-Sensation",
-    "link": "https://www.bild.de/sport/mehr-sport/bei-wm-deutsche-schach-sensation-gegen-analperlen-betrueger-6ab0ecf8b1857e86757a93b5",
-    "image": "https://images.bild.de/6ab0ecf8b1857e86757a93b5/a13a112a3b44638c98286278553b1441,ca0f1a80?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Familien-Wirbel - NBA-Superstar schreibt herzzerreißend an Töchter",
-    "link": "https://www.bild.de/sport/mehr-sport/luka-doncic-nba-superstar-schreibt-herzzerreissend-an-toechter-6ab0e4d30b0dd38676db99ad",
-    "image": "https://images.bild.de/6ab0e4d30b0dd38676db99ad/10e5cbb11ae81b13c62ebcd17eabb50b,d59a9f94?w=1280",
     "date": 0
    }
   ],
@@ -577,10 +577,16 @@
   ],
   "elpais": [
    {
+    "title": "El juez Peinado abre juicio con jurado a Begoña Gómez por delitos de tráfico de influencias y malversación",
+    "link": "https://elpais.com/espana/2026-09-21/el-juez-peinado-abre-juicio-oral-a-begona-gomez-por-delitos-de-trafico-de-influencias-y-malversacion.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/4AE2JUGEEJC3VBBXP3U56KQ7KI.jpg?auth=20cfa2733bf2e8059c10cc4c5272bfa52b8fc7f4c5483f257096066c33487803",
+    "date": 1789990791000
+   },
+   {
     "title": "Crisis en Ceuta y actualidad política, directo | Vivas y Feijóo cargan contra el Gobierno por la “inaceptable” gestión de la crisis en Ceuta",
     "link": "https://elpais.com/espana/2026-09-21/crisis-en-ceuta-y-actualidad-politica-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/E22UNYK7ERFVXMNR7D2R53MRLQ.jpg?auth=98002170faf0c29a6772e3b00974ba522f4e0b41d49abccc56ce31b51c4698c0",
-    "date": 1789990563000,
+    "date": 1789990763000,
     "titleSl": "Crisis en Ceuta y actualidad política, directo | Vivas y Feijóo cargan contra el Gobierno por la \"nesprejemljivo\" gestión de la crisis en Ceuta"
    },
    {
@@ -589,12 +595,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/W25GG6EOIFBKTPHILD44DET2HQ.jpg?auth=d77404e7ebbe48c6571c057dc5f8a0d637b6d62aa76097b18c01004f210537fe",
     "date": 1789990146000,
     "titleSl": "El Gobierno ‚ condena 'la ‚ persecución judicial' a Begoña Gómez tras la decisión de apertura de juicio oral"
-   },
-   {
-    "title": "El juez Peinado abre juicio con jurado a Begoña Gómez por delitos de tráfico de influencias y malversación",
-    "link": "https://elpais.com/espana/2026-09-21/el-juez-peinado-abre-juicio-oral-a-begona-gomez-por-delitos-de-trafico-de-influencias-y-malversacion.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/4AE2JUGEEJC3VBBXP3U56KQ7KI.jpg?auth=20cfa2733bf2e8059c10cc4c5272bfa52b8fc7f4c5483f257096066c33487803",
-    "date": 1789989874000
    },
    {
     "title": "Al menos 28 muertos en ataques aéreos de Pakistán en Afganistán",
