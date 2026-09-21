@@ -1,7 +1,19 @@
 {
- "generatedAt": "2026-09-21T17:42:27.704Z",
+ "generatedAt": "2026-09-21T17:44:25.699Z",
  "sources": {
   "siol": [
+   {
+    "title": "Novinarji brez meja pozivajo k ohranitvi rtv-prispevka",
+    "link": "https://siol.net/novice/slovenija/novinarji-brez-meja-pozivajo-k-ohranitvi-rtv-prispevka-702014",
+    "image": "https://siol.net/media/img/d5/a9/99192730dbf0b3deb434.jpeg",
+    "date": 1790012520000
+   },
+   {
+    "title": "Šeška ne bo v Slovenijo: Manchester United razkril, kaj se dogaja",
+    "link": "https://siol.net/sportal/nogomet/seska-ne-bo-v-slovenijo-manchester-united-razkril-kaj-se-dogaja-702011",
+    "image": "https://siol.net/media/img/a9/3c/719087c5ab5659847048.jpeg",
+    "date": 1790012520000
+   },
    {
     "title": "Nove cene goriv: dizel čez 2 evra, dražji bo tudi bencin",
     "link": "https://siol.net/novice/slovenija/nove-cene-goriv-dizel-cez-2-evra-drazji-bo-tudi-bencin-702013",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/novice/slovenija/ortopedski-kirurg-iz-bolnisnice-valdoltra-razvil-novo-tehniko-hkratne-rekonstrukcije-kolenskih-vezi-702009",
     "image": "https://siol.net/media/img/dd/83/5b21588c917018c89e10.jpeg",
     "date": 1790011020000
-   },
-   {
-    "title": "Slovenke začele prvi sklop priprav na decembrski vrhunec reprezentančne sezone",
-    "link": "https://siol.net/sportal/rokomet/slovenke-zacele-prvi-sklop-priprav-na-decembrski-vrhunec-reprezentancne-sezone-702008",
-    "image": "https://siol.net/media/img/ab/ba/468a985779ace19e6a72.png",
-    "date": 1790010960000
-   },
-   {
-    "title": "Veliko presenečenje: darilo Evrope za Putinova oligarha",
-    "link": "https://siol.net/novice/svet/veliko-presenecenje-darilo-evrope-za-putinova-oligarha-702007",
-    "image": "https://siol.net/media/img/db/15/9ec9984002157a308c9c.jpeg",
-    "date": 1790009520000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Poljsko ministrstvo o padcu diplomata s 3. nadstropja v Ljubljani: Ni padel skozi okno",
+    "link": "https://www.rtvslo.si/slovenija/poljsko-ministrstvo-o-padcu-diplomata-s-3-nadstropja-v-ljubljani-ni-padel-skozi-okno/794432",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/21/67105903.jpg",
+    "date": 1790012070000
+   },
+   {
     "title": "Vodilne ameriške televizije v znak podpore CNN-u omejujejo poročanje o Trumpu",
     "link": "https://www.rtvslo.si/svet/s-in-j-amerika/vodilne-ameriske-televizije-v-znak-podpore-cnn-u-omejujejo-porocanje-o-trumpu/794431",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/21/67105900.jpg",
@@ -91,8 +97,8 @@
     "date": 1790008102000
    },
    {
-    "title": "Cesar o poškodbi Šeška: Neugodno, a največja kakovost Slovenije je bila vedno ekipa",
-    "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/cesar-o-poskodbi-seska-neugodno-a-najvecja-kakovost-slovenije-je-bila-vedno-ekipa/794425",
+    "title": "Šporar o poškodbi Šeška: Neugodno, a največja kakovost Slovenije je bila vedno ekipa",
+    "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/sporar-o-poskodbi-seska-neugodno-a-najvecja-kakovost-slovenije-je-bila-vedno-ekipa/794425",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/21/67105896.jpg",
     "date": 1790007382000
    },
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/citat/george-orwell/794424",
     "image": "https://img.rtvcdn.si/_up/upload/2023/06/25/66094770.jpg",
     "date": 1790006678000
-   },
-   {
-    "title": "Aretacija dvojice, ki je v bližini Mone Lize za šalo razobesila svoji avtoportretni umetnini",
-    "link": "https://www.rtvslo.si/kultura/vizualna-umetnost/aretacija-dvojice-ki-je-v-blizini-mone-lize-za-salo-razobesila-svoji-avtoportretni-umetnini/794421",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/21/67105892.jpg",
-    "date": 1790005566000
    }
   ],
   "zurnal": [
@@ -202,7 +202,8 @@
     "title": "Trump Is Lashing Out at the Media to Distract From His Failures",
     "link": "https://www.nytimes.com/2026/09/21/opinion/trump-journalists-ban-white-house.html",
     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/21pressban-editorial-jbvq/21pressban-editorial-jbvq-mediumSquareAt3X-v2.jpg",
-    "date": 1790010870000
+    "date": 1790010870000,
+    "titleSl": "Trump napada medije, da bi odvrnil pozornost od svojih neuspehov"
    },
    {
     "title": "Paramount to Settle States’ Lawsuit, Clearing Way for Warner Bros. Merger",
@@ -226,17 +227,18 @@
     "titleSl": "Združeni narodi iščejo ustreznost v zvezi z umetno inteligenco, ko ZDA in Kitajska tekma napredujeta"
    },
    {
+    "title": "Mistakes? We’ve Made a Few",
+    "link": "https://www.nytimes.com/2026/09/20/business/media/new-york-times-journalism-errors.html",
+    "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00projects-nagourney/00projects-nagourney-mediumSquareAt3X.png",
+    "date": 1790008390000,
+    "titleSl": "Napake? Naredili smo jih nekaj"
+   },
+   {
     "title": "Republicans Enter Final Midterm Stretch With a Significant Financial Edge",
     "link": "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html",
     "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21pol-midterm-money-hmwt/21pol-midterm-money-hmwt-mediumSquareAt3X.jpg",
     "date": 1790008152000,
     "titleSl": "Republikanci vstopajo v končno vmesno obdobje s pomembno finančno prednostjo"
-   },
-   {
-    "title": "At 92, the Bard of Bollywood Is Still Writing About Love",
-    "link": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
-    "image": "https://static01.nyt.com/images/2026/08/25/multimedia/00int-india-gulzar-profile-01-wjvg/00int-india-gulzar-profile-01-wjvg-mediumSquareAt3X.jpg",
-    "date": 1790008065000
    }
   ],
   "bbc": [
@@ -285,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/clean-1-1790011184.jpg?resize=1920%2C1080&quality=80",
+    "date": 1790011199000,
+    "titleSl": "Jerusalem Daily: Ben-Gvir zahteva smrtno kazen za Palestinca, ki je ubil"
+   },
+   {
     "title": "How is Europe dealing with ‘hybrid war’?",
     "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab1693ad5c9-1790011706_2e43b3-1790011776.jpg?resize=1200%2C630&quality=80",
@@ -318,12 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab130144f7c-1789997076.jpg?resize=1920%2C1440",
     "date": 1790003892000,
     "titleSl": "ZDA grozijo, da bodo od srede prizemljile iranske letalske družbe po vsem svetu"
-   },
-   {
-    "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
-    "link": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T092053Z_361654913_RC2GNNAQZSR8_RTRMADP_3_SYRIA-SECURITY-WEAPONS-EXPLOSIONS-1789995956.jpg?resize=1920%2C1440",
-    "date": 1790003763000
    }
   ],
   "guardian": [
@@ -410,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "Auf Autobahn auf 27 km/h abgebremst - Polizei kassiert fünf Schleich-Lamborghinis ein",
+    "link": "https://www.bild.de/news/fuenf-lamborghinis-kassiert-polizei-stoppt-sportwagenkolonne-in-manchester-6ab0f0b84607f89d76e3c8de",
+    "image": "https://images.bild.de/6ab0f0b84607f89d76e3c8de/ec1b3bcc837a462243f6769c296eed7c,674d2deb?w=1280",
+    "date": 0
+   },
+   {
     "title": "Mercedes-Vorstand macht Ansage - Kosten runter oder Aus für zwei deutsche Werke!",
     "link": "https://www.bild.de/politik/ausland-und-internationales/mercedes-vorstand-macht-ansage-kosten-runter-oder-wir-schliessen-zwei-deutsche-werke-6ab15996708e760b5e066c91",
     "image": "https://images.bild.de/6ab15996708e760b5e066c91/eb6773a76c0432e4dfa42272e426953c,abb724c?w=1280",
@@ -438,50 +447,48 @@
     "link": "https://www.bild.de/sport/mehr-sport/handball-bundesliga-absteiger-zittert-nach-neun-tore-fuehrung-6ab0372bde44819a4bcff9f8",
     "image": "https://images.bild.de/6ab0372bde44819a4bcff9f8/3ad070ac9b9d4b3bacb0a5840596aeb0,323f4155?w=1280",
     "date": 0
-   },
-   {
-    "title": "Erschütternder Prozess - Vater zeugt mit eigener Tochter (12) ein Kind",
-    "link": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-vater-zeugt-mit-seiner-eigenen-tochter-12-ein-kind-6aace9ee7a2a14cb01beced4",
-    "image": "https://images.bild.de/6aace9ee7a2a14cb01beced4/583309f28a710882d6512d07f08cecc9,66d6e8fc?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Nations-League-Auftakt - ÖFB-Training vor den Augen von gefeuertem Schöttel",
+    "title": "Nations-League-Auftakt - ÖFB-Training vor den Augen von gefeuertem Schöttel - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5abXNFMVUzaXJuTk1xM2xRdkdnTWIyejJRd2RSc3F1NEpBWXVjaXh1ckNaUVI1cmJmRERuX0Z5WTJMZw?oc=5",
     "image": "",
     "date": 1790012160000
    },
    {
-    "title": "Alle Highlights - Video: Hier krönt sich Lustenau zum Ländle-Primus!",
+    "title": "Alle Highlights - Video: Hier krönt sich Lustenau zum Ländle-Primus! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDUmFlVTNaU1ZEbDdRUmV5N3pTaGk3WWpZNmxVNTdkUDVqbHIxUG53cXpHNmthaEVEMHFhWnRMeVMyUQ?oc=5",
     "image": "",
-    "date": 1790011906000
+    "date": 1790011906000,
+    "titleSl": "Vsi poudarki - Video: Hier krönt sich Lustenau zum Ländle-Primus! - krone.at"
    },
    {
-    "title": "Alle Highlights - Video: Hier schießt Rapid die WSG Tirol ab!",
+    "title": "Alle Highlights - Video: Hier schießt Rapid die WSG Tirol ab! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tTGhBR0VSR0hWYkJ4NEVHc2FNcGhINkRJVS10LVRLTU5Eb3dNUU8tSlhOSF82a1Z6N3lQUndkVER2QQ?oc=5",
     "image": "",
-    "date": 1790011906000
+    "date": 1790011906000,
+    "titleSl": "Vsi poudarki - Video: Hier schießt Rapid die WSG Tirol ab! - krone.at"
    },
    {
-    "title": "Alle Highlights - Video: Hartberg und LASK im irren 3:3-Torfestival",
+    "title": "Alle Highlights - Video: Hartberg und LASK im irren 3:3-Torfestival - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55VEM3YV9nVGxuRDVpTGw0Z2Nmc01WRmhtMGZkcEhXMWQ3bHBvanY1ZDNIR2JRZW5RZVJGblR0TnViZw?oc=5",
     "image": "",
-    "date": 1790011906000
+    "date": 1790011906000,
+    "titleSl": "Vsi poudarki - Video: Hartberg und lask im irren 3:3-Torfestival - krone.at"
    },
    {
-    "title": "Auch Mercedes kämpft - Harter Sparkurs: Zeichen bei VW „stehen auf Sturm“",
+    "title": "Auch Mercedes kämpft - Harter Sparkurs: Zeichen bei VW „stehen auf Sturm“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GbkZnd1dtVzFBN1ZFY2xkcE1GVTRNTjFSck5ydlNvek9seER1ODBoVUE1SlY4MXFWa0dEQU9zUFJvQQ?oc=5",
     "image": "",
     "date": 1790011080000
    },
    {
-    "title": "„Ich dachte mir ...“ - Deutscher TV-Star ließ Lewis Hamilton abblitzen",
+    "title": "„Ich dachte mir ...“ - Deutscher TV-Star ließ Lewis Hamilton abblitzen - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jN2xEbHpDX3MxSy1tRUdYWDJnenQzaW1yNFVYcjlXYzlYLVhid2FValFGMzdqSUxrY2lFR0EtZFl3Zw?oc=5",
     "image": "",
-    "date": 1790010120000
+    "date": 1790010120000,
+    "titleSl": "\"Ich dachte mir ...\" - Deutscher TV-Star ließ Lewis Hamilton abblitzen - krone.at"
    }
   ],
   "rainews": [
