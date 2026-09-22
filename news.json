@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T15:52:30.648Z",
+ "generatedAt": "2026-09-22T15:54:29.646Z",
  "sources": {
   "siol": [
    {
@@ -242,6 +242,13 @@
   ],
   "bbc": [
    {
+    "title": "Father admits causing death of his son in hotel fall",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg",
+    "date": 1790092355000,
+    "titleSl": "Oče priznava, da je v hotelski jeseni povzročil smrt svojega sina"
+   },
+   {
     "title": "Martha's Rule rolled out at every A&E department in England",
     "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg",
@@ -275,13 +282,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ec/live/9312ec00-b691-11f1-99b0-21d40bed432b.jpg",
     "date": 1790090257000,
     "titleSl": "Obdukcija kaže, da je Hayden Panettiere umrl zaradi prevelikega odmerka drog"
-   },
-   {
-    "title": "Earl Spencer apologises to Piers Morgan over factual error in Diana book",
-    "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f7/live/9a0bfd70-b697-11f1-bc1f-3f186ca4140c.png",
-    "date": 1790090187000,
-    "titleSl": "Earl Spencer se opravičuje Piersu Morganu zaradi dejanske napake v knjigi Diana"
    }
   ],
   "aljazeera": [
@@ -374,6 +374,12 @@
   ],
   "spiegel": [
    {
+    "title": "Hayden Panettiere starb an Überdosis",
+    "link": "https://www.spiegel.de/kultur/hayden-panettiere-starb-an-ueberdosis-a-23bd12d7-430b-4d48-b893-e46e680acacd#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a7c66a26-0413-4604-9088-393d643a9af2_w520_r2.08_fpx41_fpy40.jpg",
+    "date": 1790090280000
+   },
+   {
     "title": "DFB-Trainingslager mit Jürgen Klopp: Wie er bei der Nationalmannschaft auf die neuen Spieler baut, um seinen Stil durchzusetzen",
     "link": "https://www.spiegel.de/sport/fussball/dfb-trainingslager-mit-juergen-klopp-wie-er-bei-der-nationalmannschaft-auf-die-neuen-spieler-baut-um-seinen-stil-durchzusetzen-a-f403582f-2686-4c74-945b-127918e0345a#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/2e28e53d-d882-41b2-af22-0ffc4e6653b1_w520_r2.08_fpx76_fpy1.jpg",
@@ -393,12 +399,6 @@
     "titleSl": "Markus Söder: Warum der CSU-Chef plavarica Kanzlerchancen über Umwege sucht"
    },
    {
-    "title": "René Benko in neuem Verfahren zu zweieinhalb Jahren Haft verurteilt",
-    "link": "https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-in-neuem-verfahren-zu-zweieinhalb-jahren-haft-verurteilt-a-f72ebb4c-b656-4675-b1db-ead264e20f62#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/3eca5093-f2ac-4692-95ca-bc6057e7e22f_w520_r2.08_fpx38_fpy45.jpg",
-    "date": 1790088000000
-   },
-   {
     "title": "IG Metall will fünf Prozent mehr Lohn fordern",
     "link": "https://www.spiegel.de/wirtschaft/ig-metall-wird-offenbar-fuenf-prozent-mehr-lohn-fordern-a-cb61bed9-620e-494e-b13c-e9c012003874#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/c02cd197-fa94-48bd-bcab-3ceb698df9f1_w520_r2.08_fpx67.22_fpy49.87.jpg",
@@ -415,10 +415,29 @@
   ],
   "bild": [
    {
+    "title": "Bänderriss bei Abwehrchef - Mega-Problem für Lok Leipzig vorm Erfurt-Kracher",
+    "link": "https://www.bild.de/sport/fussball/baenderriss-bei-abwehrchef-mega-problem-fuer-lok-leipzig-vorm-erfurt-kracher-6ab268a2a15a9fecb668b758",
+    "image": "https://images.bild.de/6ab268a2a15a9fecb668b758/debb72d8c67f17fa17c1968ea8282f27,a190a5f5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Bauer fand sie nahe Fliegerhorst - Offenbar Sprengstoff an Wunstorf-Drohne",
+    "link": "https://www.bild.de/politik/nahe-bundeswehr-fliegerhorst-offenbar-sprengstoff-an-wunstorf-drohne-6ab29ec278c3aee053a3d631",
+    "image": "https://images.bild.de/6ab29ec278c3aee053a3d631/ba8a0b65c7fe138ebc96e19b134d8243,a470fda2?w=1280",
+    "date": 0
+   },
+   {
     "title": "Hovemann als Sass-Ersatz - Preußen spricht mit Fortunas Ex-Finanz-Boss",
     "link": "https://www.bild.de/sport/fussball/hovemann-als-sass-ersatz-preussen-spricht-mit-fortunas-finanz-vorstand-6ab274fc78c3aee053a3d118",
     "image": "https://images.bild.de/6ab274fc78c3aee053a3d118/f3c9ef6b28bcfd9b11575aa87644deea,99ffc484?w=1280",
     "date": 0
+   },
+   {
+    "title": "Trump bei der UN-Generalversammlung - „Kuba ist ein gescheiterter Staat“",
+    "link": "https://www.bild.de/politik/trump-bei-der-un-generalversammlung-kuba-ist-ein-gescheiterter-staat-6ab2a0eba15a9fecb668be7c",
+    "image": "https://images.bild.de/6ab2a0eba15a9fecb668be7c/9cf24aaece916f45fe08bee9794aafdf-landscape,18358ff4?w=1280",
+    "date": 0,
+    "titleSl": "Trump bei der UN Generalversammlung - „Kuba ist ein gescheiterter Staat“"
    },
    {
     "title": "„Unter offensichtlichen Schmerzen“ - NFL-Experte sorgt sich um Star-Quarterback",
@@ -431,27 +450,15 @@
     "link": "https://www.bild.de/sport/fussball/bundesliga-baumann-rechnet-mit-hoffenheim-ab-6ab24d0578c3aee053a3cc05",
     "image": "https://images.bild.de/6ab24d0578c3aee053a3cc05/9e72704ac0ba0afba6c9594ab5165f7c,3daeaa2d?w=1280",
     "date": 0
-   },
-   {
-    "title": "Was beim Bundestrainer auffiel ++ „Kuscheln“ - So lief das erste Klopp-Training mit allen Spielern",
-    "link": "https://www.bild.de/sport/fussball/nations-league-huckepack-spass-bei-klopps-erstem-dfb-training-6ab293e6a15a9fecb668bd0f",
-    "image": "https://images.bild.de/6ab293e6a15a9fecb668bd0f/e4282a90db1e1af39fa77b0dfab141bc,2a1b516c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Auf US-Basis - F-16-Kampfjet in der Eifel abgestürzt",
-    "link": "https://www.bild.de/news/spangdahlem-militaerjet-abgestuerzt-ein-mensch-verletzt-grosseinsatz-6ab28e72a15a9fecb668bc71",
-    "image": "https://images.bild.de/6ab28e72a15a9fecb668bc71/4a22a8b2b1c91c5885f8f65a18fca8bd,180bb64d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Neu aufgerollter Prozess - Zweieinhalb Jahre Haft für René Benko",
-    "link": "https://www.bild.de/unterhaltung/eilmeldung-zweieinhalb-jahre-haft-fuer-rene-benko-6ab28df5a15a9fecb668bc5b",
-    "image": "https://images.bild.de/6ab28df5a15a9fecb668bc5b/d74b117c4870705ec1e168dc7acc16ad,39b247ec?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "„Bringt nichts“ - Russische Regierung lehnt begrenzte Waffenruhe ab",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBNNlFqNlozSjFjZS13SEh1b2ozSmdsSzEzQXJjVGxnY2RGUDg0OXVabk40RDlEVGZGaW8yNTNBTk5lZw?oc=5",
+    "image": "",
+    "date": 1790092380000
+   },
    {
     "title": "Europas junge Rechte - Diese Frau will Südtirol von Italien abspalten",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9jTDBzNUQ3TWI0OE85dUlSNi0yZVVERnVUdTBZZ0Y5UHlld2JhalhZZUtuaEdMd01MMEo3M1E0eGxCUQ?oc=5",
@@ -482,12 +489,6 @@
     "image": "",
     "date": 1790090160000,
     "titleSl": "Amoklauf v Kanadi - Was wusste KI? British Columbia verklagt OpenAI"
-   },
-   {
-    "title": "Millionen für Umbau - Tourismusschule GASCHT wird umstrukturiert",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00Si1Da0ZSbTk3MF9ubUc4RnVBTHo0YWFndlpvalFrWmZsV2QxeTZUdTRnc2VKV0tTby1tWDJpOVFKZw?oc=5",
-    "image": "",
-    "date": 1790089980000
    }
   ],
   "rainews": [
@@ -575,8 +576,8 @@
    {
     "title": "Últimas noticias de la Asamblea General de la ONU, en directo | Trump amenaza con “aniquilar” Irán si no hay pacto, pero augura un acuerdo tras las elecciones de noviembre",
     "link": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/S7ADOAEMJZAARL7KHXXJWVVSIY.jpg?auth=48b17f9d81e64d0f79ac9522b2816953f84a8c1ce0cdd6d5602dd8eb8fb700fc",
-    "date": 1790091946000,
+    "image": "https://imagenes.elpais.com/resizer/v2/CN5KRTUFS5ETHJRN7S4JTQPALU.JPG?auth=b345b01885f18b94d9e02fd466636c76b9099cf920dfb7ff98a5b283f3d25ba0",
+    "date": 1790092273000,
     "titleSl": "Últimas noticias de la Asamblea General de la Onu, en directo | Trump amenaza con “aniquilar” Irán si no hay pacto, pero augura un acuerdo tras las elecciones de noviembre"
    },
    {
@@ -586,29 +587,30 @@
     "date": 1790091229000
    },
    {
-    "title": "Fede Valverde sufre un esguince grave de tobillo y podría estar hasta tres semanas de baja",
-    "link": "https://elpais.com/deportes/futbol/2026-09-22/fede-valverde-sufre-un-esguince-grave-de-tobillo-y-podria-estar-hasta-tres-meses-de-baja.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/BOIAVFRYIFOSHBJZVJVSN2XSIY.jpg?auth=7b791444529af4bfd92668ed6d887389228cb06d4d88f57c1c4700442f65ca8e",
-    "date": 1790087877000
+    "title": "Crisis en Ceuta y actualidad política, directo | Interior presupuesta 9 millones para reforzar la frontera marítima de El Tarajal e impedir la entrada a nado de migrantes",
+    "link": "https://elpais.com/espana/2026-09-22/crisis-en-ceuta-y-actualidad-politica-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/7R43OV6H7FHCFIBZ52MYCPF4UE.jpg?auth=6a5a89481751473e50b5a500188957828b441e405e6daa31f92e4d4e89d4a014",
+    "date": 1790090471000
    },
    {
-    "title": "Prada, el poder de la falda",
-    "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-22/prada-el-poder-de-la-falda.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/PGFDVOECERJR5DIQ6JXLZNJUGA.jpg?auth=fe669d201c1a992260cbe932840e7a6f1953ac74f87e2ca57a942ae7eaf13e0d",
-    "date": 1790087575000
+    "title": "Ceuta y Melilla son España",
+    "link": "https://elpais.com/opinion/2026-09-22/ceuta-y-melilla-son-espana.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/WSYRGLESCZJUXJGDR6DREFMWHM.jpg?auth=c903a841de8343d8e6ca077208a6f1a335b5f649f67987b76e93575719218339",
+    "date": 1790089987000
    },
    {
-    "title": "El Gobierno traslada a la Audiencia Nacional la extradición a EE UU de un activista propalestino, pero recuerda que la decisión no es “definitiva”",
-    "link": "https://elpais.com/espana/2026-09-22/el-gobierno-traslada-a-la-audiencia-nacional-la-extradicion-a-ee-uu-de-un-activista-propalestino-pero-recuerda-que-la-decision-no-es-definitiva.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/INF4WZCK5BG4BN4F6CCRFTMXNM.jpg?auth=1f2b42f841d308f572c9d15f44d2deb951d3954fb2e83456e487671cb0880e6f",
-    "date": 1790086489000,
-    "titleSl": "El Gobierno traslada a la Audiencia Nacional la extradición a EE UU de un activsta propalestino, pero recuerda que la decisión no es \"definitiva\""
+    "title": "Sánchez y Delcy Rodríguez se ven en la ONU y acuerdan mantener el contacto sobre el futuro de Venezuela",
+    "link": "https://elpais.com/espana/2026-09-22/sanchez-y-delcy-rodriguez-se-cruzan-en-la-onu-y-se-comprometen-a-mantener-el-contacto-sobre-el-futuro-de-venezuela.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ODDVZFSWQBKFNFA5WUPBUVPJZQ.jpg?auth=f047c22237eceea3c4a98f11beb2c51fb589ad1e83a70536ce2a7d810d16435a",
+    "date": 1790089582000,
+    "titleSl": "Sánchez y Delcy Rodríguez se ven en la Onu y acuerdan mantener el contacto sobre el futuro de Venezuela"
    },
    {
-    "title": "La UE y Filipinas llegan a un acuerdo de libre comercio que elimina el 94% de los aranceles",
-    "link": "https://elpais.com/economia/2026-09-22/la-ue-y-filipinas-llegan-a-un-acuerdo-de-libre-comercio-que-elimina-el-94-de-los-aranceles.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/JGAYKCNMKJIV5G6D54J2DFM63U.jpg?auth=1c46d557c8a702b6096bdc0369bc37812904a01ee03ecfa802b29d41b45b41af",
-    "date": 1790084015000
+    "title": "Vivir y comer a 63 grados: la ‘ameba de fuego’ rompe el récord de temperatura a la que prospera la vida compleja",
+    "link": "https://elpais.com/ciencia/2026-09-22/vivir-y-comer-a-63-grados-la-ameba-de-fuego-rompe-el-record-de-temperatura-a-la-que-prospera-la-vida-compleja.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/5XC7O3QZ6BG65EEUBWMLGUI3FM.jpg?auth=1c51b59ea28a4763c923f0e0bac574047ba326b828a8e69f4defc2ab44f2495f",
+    "date": 1790089200000,
+    "titleSl": "Vivir y comer a 63 grados: la ‘ameba de fuego’ rompe el récord de temperature a la que prospera la vida complementja"
    }
   ]
  },
