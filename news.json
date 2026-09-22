@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-22T15:58:25.084Z",
+ "generatedAt": "2026-09-22T16:01:16.049Z",
  "sources": {
   "siol": [
+   {
+    "title": "Slalomisti na divjih vodah lahko presežejo lanska tri odličja",
+    "link": "https://siol.net/sportal/drugi-sporti/slalomisti-na-divjih-vodah-lahko-presezejo-lanska-tri-odlicja-702115",
+    "image": "https://siol.net/media/img/be/fa/a1cb7a418d1531727593.jpeg",
+    "date": 1790092800000
+   },
    {
     "title": "Objavljene satelitske fotografije skrivnostne jedrske podmornice. Kje je?",
     "link": "https://siol.net/novice/svet/objavljene-satelitske-fotografije-skrivnostne-jedrske-podmornice-kje-je-702063",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/mladi-zak-erzen-odlicno-zacel-dirko-po-hrvaski-702116",
     "image": "https://siol.net/media/img/26/11/a910190bee25e3630b34.jpeg",
     "date": 1790090100000
-   },
-   {
-    "title": "Tišina je hujša od prepira: ti znaki horoskopa ne prenesejo ignoriranja",
-    "link": "https://siol.net/trendi/horoskop/tisina-je-hujsa-od-prepira-ti-znaki-horoskopa-ne-prenesejo-ignoriranja-701963",
-    "image": "https://siol.net/media/img/0a/c0/5838f955a7f0438f1972.jpeg",
-    "date": 1790089020000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Strokovni svet NIJZ nasprotuje prodaji alkohola v šolah, ko ni pouka",
+    "link": "https://www.rtvslo.si/zdravje/strokovni-svet-nijz-nasprotuje-prodaji-alkohola-v-solah-ko-ni-pouka/794551",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/14/67104329.jpg",
+    "date": 1790092861000
+   },
+   {
     "title": "Pogačar na seznamu prijavljenih za EP, a to še ne pomeni nič",
     "link": "https://www.rtvslo.si/sport/kolesarstvo/svetovno-prvenstvo-v-kolesarstvu/pogacar-na-seznamu-prijavljenih-za-ep-a-to-se-ne-pomeni-nic/794548",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065160.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/nogomet/anglesko-nogometno-prvenstvo/arteta-za-osvojitev-naslova-z-arsenalom-nagrajen-z-izboljsano-pogodbo/794543",
     "image": "https://img.rtvcdn.si/_up/upload/2026/05/04/67040179.jpg",
     "date": 1790087962000
-   },
-   {
-    "title": "Vrtovec: Zagotavljajo mi, da se cene plina med ogrevalno sezono \"ne bodo zviševale v nedogled\"",
-    "link": "https://www.rtvslo.si/gospodarstvo/vrtovec-zagotavljajo-mi-da-se-cene-plina-med-ogrevalno-sezono-ne-bodo-zvisevale-v-nedogled/794539",
-    "image": "https://img.rtvcdn.si/_up/upload/2022/04/22/65982190.jpg",
-    "date": 1790085936000
    }
   ],
   "zurnal": [
@@ -286,13 +286,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Trump TV: Can the US president bypass mainstream media?",
-    "link": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab27742bda8-1790080834.jpg?resize=1920%2C1440",
-    "date": 1790091202000,
-    "titleSl": "Trump TV: Ali lahko ameriški predsednik obide mainstream medije?"
-   },
-   {
     "title": "The return of Palestinian football: ‘We are a people who must live’",
     "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/DSC05463-1790072896.jpg?resize=1920%2C1440",
@@ -326,6 +319,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260920__C8TV9YR__v1__HighRes__FrancePoliceJusticeDemo-1790081997_935b79-1790085545.jpg?resize=1200%2C630&quality=80",
     "date": 1790089279000,
     "titleSl": "Kaj se skriva za francoskimi protesti proti novemu zakonu o policiji?"
+   },
+   {
+    "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
+    "link": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab27647e500-1790080583.jpg?resize=1920%2C1440",
+    "date": 1790088445000,
+    "titleSl": "Zakaj se Houthi borijo za jemenske gore Kahboub?"
    }
   ],
   "guardian": [
@@ -415,44 +415,70 @@
   ],
   "bild": [
    {
-    "title": "Bauer fand sie nahe Fliegerhorst - Offenbar Sprengstoff an Wunstorf-Drohne",
-    "link": "https://www.bild.de/politik/nahe-bundeswehr-fliegerhorst-offenbar-sprengstoff-an-wunstorf-drohne-6ab29ec278c3aee053a3d631",
-    "image": "https://images.bild.de/6ab29ec278c3aee053a3d631/ba8a0b65c7fe138ebc96e19b134d8243,a470fda2?w=1280",
+    "title": "Malle-Star sagt, was Sache ist - Isi Glück gegen Hass-Kommentare",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/malle-star-isi-glueck-mit-botschaft-zu-hasskommentaren-halt-die-fresse-6aafb650c15deed547b30710",
+    "image": "https://images.bild.de/6aafb650c15deed547b30710/5befe67ad02f6f90e37c3130700d1764,cbd4c39?w=1280",
     "date": 0
    },
    {
-    "title": "Bänderriss bei Abwehrchef - Mega-Problem für Lok Leipzig vorm Erfurt-Kracher",
-    "link": "https://www.bild.de/sport/fussball/baenderriss-bei-abwehrchef-mega-problem-fuer-lok-leipzig-vorm-erfurt-kracher-6ab268a2a15a9fecb668b758",
-    "image": "https://images.bild.de/6ab268a2a15a9fecb668b758/debb72d8c67f17fa17c1968ea8282f27,a190a5f5?w=1280",
+    "title": "BILD an der explodierten Kita - „Trümmerteile liegen zwischen Kinderspielzeug, Kuscheltieren und Büchern“",
+    "link": "https://www.bild.de/news/inland/bild-an-der-explodierten-kita-truemmerteile-liegen-zwischen-kinderspielzeug-kuscheltieren-und-buechern-6ab0fd540b0dd38676db9d5a",
+    "image": "https://images.bild.de/6ab0fd540b0dd38676db9d5a/fedbc243f8ec2f7bba928521518981fa,9170e283?w=1280",
     "date": 0
    },
    {
-    "title": "Hovemann als Sass-Ersatz - Preußen spricht mit Fortunas Ex-Finanz-Boss",
-    "link": "https://www.bild.de/sport/fussball/hovemann-als-sass-ersatz-preussen-spricht-mit-fortunas-finanz-vorstand-6ab274fc78c3aee053a3d118",
-    "image": "https://images.bild.de/6ab274fc78c3aee053a3d118/f3c9ef6b28bcfd9b11575aa87644deea,99ffc484?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Trump bei der UN-Generalversammlung - „Kuba ist ein gescheiterter Staat“",
-    "link": "https://www.bild.de/politik/trump-bei-der-un-generalversammlung-kuba-ist-ein-gescheiterter-staat-6ab2a0eba15a9fecb668be7c",
-    "image": "https://images.bild.de/6ab2a0eba15a9fecb668be7c/9cf24aaece916f45fe08bee9794aafdf-landscape,18358ff4?w=1280",
+    "title": "Neulich in Disneyland - Tochter trifft Goofy, Mama übersieht Hollywoodstar",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/mama-filmt-ihre-tochter-mit-goofy-aber-erkennt-matt-damon-nicht-6ab0fdc44607f89d76e3cad2",
+    "image": "https://images.bild.de/6ab0fdc44607f89d76e3cad2/63ab7d9705f8d49474eb93c04815ca37,7b49f1fa?w=1280",
     "date": 0,
-    "titleSl": "Trump bei der UN Generalversammlung - „Kuba ist ein gescheiterter Staat“"
+    "titleSl": "Neulich v Disneylandu - Tochter trifft Goofy, Mama übersieht Hollywoodstar"
    },
    {
-    "title": "„Unter offensichtlichen Schmerzen“ - NFL-Experte sorgt sich um Star-Quarterback",
-    "link": "https://www.bild.de/sport/mehr-sport/unter-offensichtlichen-schmerzen-nfl-experte-sorgt-sich-um-star-quarterback-6ab278fda15a9fecb668b9a5",
-    "image": "https://images.bild.de/6ab278fda15a9fecb668b9a5/c4cb00c6246f46cfa3ffb6975d88fe70-landscape,3c668754?w=1280",
+    "title": "Junge hat richtig Glück - Drei-Meter-Sturz mit Rad endet glimpflich",
+    "link": "https://www.bild.de/news/junge-hat-richtig-glueck-sturz-mit-rad-aus-drei-metern-endet-glimpflich-6ab1206a4d159e92cb0ab6f7",
+    "image": "https://images.bild.de/6ab1206a4d159e92cb0ab6f7/aeb592ee16f2ff835257b7abb3b39f36,618f20fa?w=1280",
     "date": 0
    },
    {
-    "title": "„Zu sorglos“ - Baumann rechnet mit Hoffenheim ab",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-baumann-rechnet-mit-hoffenheim-ab-6ab24d0578c3aee053a3cc05",
-    "image": "https://images.bild.de/6ab24d0578c3aee053a3cc05/9e72704ac0ba0afba6c9594ab5165f7c,3daeaa2d?w=1280",
+    "title": "Schwerer Unfall in Hamburg - Betrunkener Fußgänger von Auto erfasst",
+    "link": "https://www.bild.de/news/inland/schwerer-unfall-in-hamburg-betrunkener-fussgaenger-von-suv-erfasst-6aaf7ba1704407fe8a975341",
+    "image": "https://images.bild.de/6aaf7ba1704407fe8a975341/0077679d70e3d315d730ddc44b28893a,865b7855?w=1280",
+    "date": 0,
+    "titleSl": "Schwerer Unfall v Hamburgu - Betrunkener Fußgänger von Auto erfasst"
+   },
+   {
+    "title": "Raserunfall oder Straßenrennen? - Auto stürzt metertief auf Gleise",
+    "link": "https://www.bild.de/regional/berlin/raserunfall-oder-strassenrennen-auto-stuerzt-metertief-auf-gleise-6aae28ecb1857e86757a6dd6",
+    "image": "https://images.bild.de/6aae28ecb1857e86757a6dd6/02b81e6f3b26bcf028f28c8913d7dead-landscape,85462b01?w=1280",
     "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Heftig unter Kritik - Spritpreisbremse ist „eine reine Alibi-Handlung“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqLVdSU2ZoOWNJa1AtaFczTFVrT1FJNUZEQjg3Q3BDTWNYOWFVSkZySF9NUFBLTENFMy02VzNWLXE5dw?oc=5",
+    "image": "",
+    "date": 1790092800000
+   },
+   {
+    "title": "St. Florian, Wien - Die Orgeln in unseren Kirchen im Trockenstress",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jeGp2YXFQbF9YYmRmM2phYU0wSC1mVnFycnRKakNNMGVyNnhCcFl4c29OVjEybjBjSDFiazVqLVIyUQ?oc=5",
+    "image": "",
+    "date": 1790092800000
+   },
+   {
+    "title": "Hart erspart, nun weg: - Internet-Betrüger ergaunern mehr als 200.000 Euro",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtbE9wRW14WGsxNThRa292RVMweFFGZVlYTERyWG52YXlXMkhfYS1UQjFtVFhsNTkwSVltVmdPeVVkZw?oc=5",
+    "image": "",
+    "date": 1790092800000,
+    "titleSl": "Hart erspart, nun weg: - Internet-Betrüger ergaunern mehr als 200.000 EUR"
+   },
+   {
+    "title": "Einen Monat nach Tod - Todesursache von Hayden Panettiere bekannt gegeben",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5DcXJOX0ZfVWF0NXZfM1EtWENRRnpRT1JIaUV0T0lHZVJKQjloaEpCa203a2dPSTNvZFpuZUs3cFp4QQ?oc=5",
+    "image": "",
+    "date": 1790092740000
+   },
    {
     "title": "„Nicht stark genug“ - Zverev-Bruder stichelt gegen Sinner und Alcaraz",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40dERzWVhhMzV5VUd4Y25RdjN2ZnFiNDVlc0dhWTlzcldxRllyZlZNMW9ZNkc3QmtkLWtSbF9XUmJ2UQ?oc=5",
@@ -464,30 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBNNlFqNlozSjFjZS13SEh1b2ozSmdsSzEzQXJjVGxnY2RGUDg0OXVabk40RDlEVGZGaW8yNTNBTk5lZw?oc=5",
     "image": "",
     "date": 1790092380000
-   },
-   {
-    "title": "Europas junge Rechte - Diese Frau will Südtirol von Italien abspalten",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9jTDBzNUQ3TWI0OE85dUlSNi0yZVVERnVUdTBZZ0Y5UHlld2JhalhZZUtuaEdMd01MMEo3M1E0eGxCUQ?oc=5",
-    "image": "",
-    "date": 1790091300000
-   },
-   {
-    "title": "Harte Forderungen - Wirbel vor ÖFB-Spiel! Fliegt Israel aus der UEFA?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ra2JwZnR4bm1QcVI3ZU5GSTRGUFZMaG5CZ3pZTzhQcUR4MXFsNVNJLVF1QUFmdWh1MkZZOWhNbC1Pdw?oc=5",
-    "image": "",
-    "date": 1790091060000
-   },
-   {
-    "title": "Unwissende Eltern - Diese Handy-Mutprobe bringt unsere Kids in Gefahr",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TYUg1TTFQckRKZnJJQ2xSc2wtclhodk1FRmRUR2RDVE5qd3kyYUtDNmJFem5OOXFGcDZud1FfbmZzZw?oc=5",
-    "image": "",
-    "date": 1790091000000
-   },
-   {
-    "title": "Ballett der Oper Graz - Elwert geht: „Erfolg wird nicht wertgeschätzt“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1UaG5FMnh5RFUxbXpYMGcyaWN1SWQ0eEl5OGI4aGhBTjVrdWg3TkRXUDBEZ180NTV4YngzeEI5VDlBUQ?oc=5",
-    "image": "",
-    "date": 1790091000000
    }
   ],
   "rainews": [
@@ -575,7 +577,7 @@
     "title": "Últimas noticias de la Asamblea General de la ONU, en directo | Trump amenaza con “aniquilar” Irán si no hay pacto, pero augura un acuerdo tras las elecciones de noviembre",
     "link": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/CN5KRTUFS5ETHJRN7S4JTQPALU.JPG?auth=b345b01885f18b94d9e02fd466636c76b9099cf920dfb7ff98a5b283f3d25ba0",
-    "date": 1790092273000,
+    "date": 1790092631000,
     "titleSl": "Últimas noticias de la Asamblea General de la Onu, en directo | Trump amenaza con “aniquilar” Irán si no hay pacto, pero augura un acuerdo tras las elecciones de noviembre"
    },
    {
@@ -583,6 +585,12 @@
     "link": "https://elpais.com/escaparate/estilo-de-vida/cinta-de-correr.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DBZODRZCEZFGZCHXH2QV7JUT7I.png?auth=c5cac859104b1ae5c633dae857215beb9b39ef682a036eed2a1f62c58e3d28ce",
     "date": 1790091229000
+   },
+   {
+    "title": "Los expertos alertan de que el creciente coste de las pensiones obliga a desatender la sanidad o la educación",
+    "link": "https://elpais.com/economia/2026-09-22/los-expertos-alertan-de-que-el-creciente-coste-de-las-pensiones-obliga-a-desatender-la-sanidad-o-la-educacion.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/4UH6G4OO7BILJN5PPO7RVDFFG4.jpg?auth=58837398946c79d8c4d7a0ea783067eb2d44198937239242f25e16f5269769be",
+    "date": 1790090894000
    },
    {
     "title": "Crisis en Ceuta y actualidad política, directo | Interior presupuesta 9 millones para reforzar la frontera marítima de El Tarajal e impedir la entrada a nado de migrantes",
@@ -597,18 +605,11 @@
     "date": 1790089987000
    },
    {
-    "title": "Sánchez y Delcy Rodríguez se ven en la ONU y acuerdan mantener el contacto sobre el futuro de Venezuela",
-    "link": "https://elpais.com/espana/2026-09-22/sanchez-y-delcy-rodriguez-se-cruzan-en-la-onu-y-se-comprometen-a-mantener-el-contacto-sobre-el-futuro-de-venezuela.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ODDVZFSWQBKFNFA5WUPBUVPJZQ.jpg?auth=f047c22237eceea3c4a98f11beb2c51fb589ad1e83a70536ce2a7d810d16435a",
-    "date": 1790089582000,
-    "titleSl": "Sánchez y Delcy Rodríguez se ven en la Onu y acuerdan mantener el contacto sobre el futuro de Venezuela"
-   },
-   {
-    "title": "Vivir y comer a 63 grados: la ‘ameba de fuego’ rompe el récord de temperatura a la que prospera la vida compleja",
-    "link": "https://elpais.com/ciencia/2026-09-22/vivir-y-comer-a-63-grados-la-ameba-de-fuego-rompe-el-record-de-temperatura-a-la-que-prospera-la-vida-compleja.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/5XC7O3QZ6BG65EEUBWMLGUI3FM.jpg?auth=1c51b59ea28a4763c923f0e0bac574047ba326b828a8e69f4defc2ab44f2495f",
-    "date": 1790089200000,
-    "titleSl": "Vivir y comer a 63 grados: la ‘ameba de fuego’ rompe el récord de temperature a la que prospera la vida complementja"
+    "title": "Hayden Panettiere murió de una sobredosis accidental de fentanilo y otras cuatro drogas",
+    "link": "https://elpais.com/us/entretenimiento/2026-09-22/hayden-panettiere-murio-de-una-sobredosis-accidental-de-fentanilo-y-otras-cuatro-drogas.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/QE4QUVY25NFTBLMVD7LC56PDKM.jpg?auth=afab059100f185e74a4dc38526ffa3a2b3e63fa9eb45eda350be232660478583",
+    "date": 1790089986000,
+    "titleSl": "Hayden Panettiere murió de una sobredosis randomental de fentanilo y otras cuatro drogas"
    }
   ]
  },
