@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T09:42:29.355Z",
+ "generatedAt": "2026-09-22T09:44:28.073Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Policisti pregledali mopede štirim mladoletnikom in osupnili",
+    "link": "https://www.zurnal24.si/slovenija/maribor-mopedi-mladoletniki-policija-465518",
+    "image": "https://www.zurnal24.si/media/img/a8/f3/4008e0854b236498757f.jpeg",
+    "date": 1790070120000
+   },
+   {
     "title": "Vojna se je dvignila na novo raven: V 18 urah so zavzeli celotno obalo",
     "link": "https://www.zurnal24.si/svet/vojna-hutiji-savdska-arabija-bab-al-mandab-iran-nafta-465516",
     "image": "https://www.zurnal24.si/media/img/77/21/418eb07ba59444a60103.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/v-postojni-se-je-pred-lokalom-steplo-20-mladostnikov-465513",
     "image": "https://www.zurnal24.si/media/img/bc/1d/3871ae609ee4ae3edcd2.jpeg",
     "date": 1790065620000
-   },
-   {
-    "title": "AMZS test zimskih pnevmatik: kar devet pnevmatik ne sodi na cesto",
-    "link": "https://www.zurnal24.si/avto/dosje-avto/amzs-test-zimskih-pnevmatik-2026-r-185-65-r15-225-50-r17-kar-devet-pnevmatik-ne-sodi-na-cesto-465508",
-    "image": "https://www.zurnal24.si/media/img/b3/7d/5d211c9bb7b20b6b6bca.jpeg",
-    "date": 1790065080000
    }
   ],
   "reuters": [
@@ -286,6 +286,13 @@
   ],
   "aljazeera": [
    {
+    "title": "India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final",
+    "link": "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C8YF28Y__v1__HighRes__CricketAsiad2026-1790067968.jpg?resize=1920%2C1440",
+    "date": 1790068375000,
+    "titleSl": "Indija je premagala Šrilanko za 147 tekov, medtem ko Mandhana sije v finalu Azijskih iger"
+   },
+   {
     "title": "Gunman opens fire near high school in western Turkiye, wounding eight",
     "link": "https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab234ccf3ac-1790063821.jpg?resize=1920%2C1440",
@@ -319,13 +326,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP8409240473-1790062675_a145c2-1790062945.jpg?resize=1200%2C630&quality=80",
     "date": 1790062957000,
     "titleSl": "Spodkopavanje ZN ni nova politika ZDA"
-   },
-   {
-    "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
-    "link": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2236513292-1790062105.jpg?resize=1920%2C1440",
-    "date": 1790062404000,
-    "titleSl": "\"Upanje\" narašča v berlinskih priseljenskih skupnostih, ko zmaga levica med pridobivanjem AfD"
    }
   ],
   "guardian": [
@@ -412,44 +412,51 @@
   ],
   "bild": [
    {
+    "title": "Van der Vaart packt aus - „Glitzer und Glamour brauche ich nicht mehr“",
+    "link": "https://www.bild.de/sport/fussball/rafael-van-der-vaart-willst-du-mich-heiraten-seine-erste-sms-6ab222c867ff1f5bff586949",
+    "image": "https://images.bild.de/6ab222c867ff1f5bff586949/c19602066930b5864064cd662596748c,92a23365?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach Klopp-Nominierung - „Albtraumabend!“ Scharfe Kritik an ter Stegen",
+    "link": "https://www.bild.de/sport/fussball/dfb-nach-klopp-nominierung-scharfe-kritik-an-ter-stegen-albtraumabend-6ab0f14d4607f89d76e3c8fc",
+    "image": "https://images.bild.de/6ab0f14d4607f89d76e3c8fc/b5ad138e26a7090c7421ed403a6dcb2b,2e47316d?w=1280",
+    "date": 0,
+    "titleSl": "Nach Klopp-Nominierung - \"Albtraumabend!\" Scharfe Kritik an ter Stegen"
+   },
+   {
+    "title": "Wegen Speicherkrise - Smartphone-Hersteller Nothing teilt sich auf",
+    "link": "https://www.bild.de/leben-wissen/digital/cmf-wird-eigenstaendig-nothing-reagiert-auf-speicherkrise-6ab241fcb1857e86757aa7ca",
+    "image": "https://images.bild.de/6ab241fcb1857e86757aa7ca/b2bb2d8394dc59c02f7a7d659b8ce1d4,45524c53?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Wegen Trauerfeier - DFB-Gegner verschiebt wichtige Termine",
+    "link": "https://www.bild.de/sport/fussball/wegen-trauerfeier-dfb-gegner-verschiebt-wichtige-termine-6ab23ba1b1857e86757aa72c",
+    "image": "https://images.bild.de/6ab23ba1b1857e86757aa72c/4f08ad5e9256128e3cc4e55bc13617a1,7dbb1384?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Phrasenmäher vom 22.11.26 - Die ganze Folge mit van der Vaart - Teil 1",
+    "link": "https://www.bild.de/sport/fussball/phrasenmaeher-vom-22-11-26-die-ganze-folge-mit-van-der-vaart-teil-1-6ab245b4a15a9fecb668b340",
+    "image": "https://images.bild.de/6ab245b4a15a9fecb668b340/7b28a74dd00cae71512c152d70d3cb34,6267dcdb?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kater nach dem Oktoberfest - So beugen Sie Kopfschmerzen nach der Wiesn vor",
     "link": "https://www.bild.de/leben-wissen/medizin/was-tun-gegen-einen-kater-10-tipps-gegen-das-boese-erwachen-66e159ecfd0c4e5b09928d22",
     "image": "https://images.bild.de/66e159ecfd0c4e5b09928d22/eb045dfe58d2d211b2686e2e541d6ed0,4912e5bf?w=1280",
     "date": 0
-   },
-   {
-    "title": "Ärger um Standortdaten - 403 Millionen Euro Strafe für Google",
-    "link": "https://www.bild.de/leben-wissen/digital/aerger-um-standortdaten-403-millionen-euro-strafe-fuer-google-6ab23a7d67ff1f5bff586b01",
-    "image": "https://images.bild.de/6ab23a7d67ff1f5bff586b01/1187780f11449cfcc5afedfb15e864c8,34204fab?w=1280",
-    "date": 0,
-    "titleSl": "Ärger um Standortdaten - 403 milijonov EUR Euro Strafe za Google"
-   },
-   {
-    "title": "Akku zu groß - iPhone 18 Pro Max zu gefährlich für Versand",
-    "link": "https://www.bild.de/leben-wissen/digital/iphone-18-pro-max-apple-entlaedt-akku-fuer-den-versand-6ab238aa708e760b5e067507",
-    "image": "https://images.bild.de/6ab238aa708e760b5e067507/d250a223611be1a628ec161d883b9666,20fe5e64?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Auf Autobahn auf 27 km/h abgebremst - Polizei kassiert fünf Schleich-Lamborghinis ein",
-    "link": "https://www.bild.de/news/warum-polizisten-fuenf-lamborghinis-auf-einmal-kassierten-6ab0f0b84607f89d76e3c8de",
-    "image": "https://images.bild.de/6ab0f0b84607f89d76e3c8de/ec1b3bcc837a462243f6769c296eed7c,5b969f0a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Neue Marschroute für die Koalition? - Dieses SPD-Papier wird der CDU jetzt gar nicht gefallen",
-    "link": "https://www.bild.de/politik/inland/crashkurs-fuer-die-koalition-dieses-spd-papier-wird-der-cdu-jetzt-gar-nicht-gefallen-6ab22955b1857e86757aa598",
-    "image": "https://images.bild.de/6ab22955b1857e86757aa598/71538b5df36d5edf2487b67316bfbba7,54956931?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Letzte Chance im September - Diese Inhalte finden Sie nicht mehr auf Netflix",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/netflix-diese-beliebten-filme-und-serien-fliegen-im-september-raus-6a9689f2d32756d4be19b111",
-    "image": "https://images.bild.de/6a9689f2d32756d4be19b111/ed4542047f2f7f6d5843886ddcdefe10,ba39cec1?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Coup in Italien - Wein um Hunderttausende Euro gestohlen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10eHFybms3RDhuLUxUWXI3NTJWVTlodG1RR0wwOVBIVU9VNWZDQ1VKajNNT0ltTHF5N3habXhESGFvZw?oc=5",
+    "image": "",
+    "date": 1790070180000,
+    "titleSl": "Državni udar v Italiji - Wein um Hunderttausende Euro gestohlen"
+   },
    {
     "title": "Emotionale Nachricht - Presley Gerbers Ex nach seinem Tod „sehr wütend“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBlZ1dpejJvMXpCVzJrMHNDbVQ2MTR3M1ExSHdqZ2RFOTJUa3cteFhSZmpydUc3V1FkYWZydklQaWlvdw?oc=5",
@@ -480,12 +487,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3WlUzYWhlekFDalZTNm9sNmZZX0NQNDZIa1lxRjZCaGRvX0hhZEtfSXU1d1U1Mmlzd2xXSnhoNERDQQ?oc=5",
     "image": "",
     "date": 1790069220000
-   },
-   {
-    "title": "Vor UNO-Generaldebatte - KI-Regulierung: Über 20 Länder unterstützen Aufruf",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16Z05WbllMZFBBRGZfdlQ2TjJxQ29JREhjbXdTcW1IZG1TZzVIVUFzUXdwRFJXYW5xNnNaNFdPelU0QQ?oc=5",
-    "image": "",
-    "date": 1790069160000
    }
   ],
   "rainews": [
