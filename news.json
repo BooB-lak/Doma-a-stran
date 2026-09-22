@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T01:09:57.667Z",
+ "generatedAt": "2026-09-22T01:23:53.963Z",
  "sources": {
   "siol": [
    {
@@ -206,6 +206,13 @@
     "titleSl": "George W. Bush in Cornyn izpustita Paxtona, ko zbirata denar za kandidate za senat"
    },
    {
+    "title": "Man Shot by ICE Agent Says His Car Was Struck Twice Before He Was Shot",
+    "link": "https://www.nytimes.com/2026/09/21/us/ice-shooting-austin-texas.html",
+    "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21nat-ice-austin-02-lqgc/21nat-ice-austin-02-lqgc-mediumSquareAt3X.jpg",
+    "date": 1790037067000,
+    "titleSl": "Moški, ki ga je ustrelil agent ICE, pravi, da je bil njegov avto dvakrat udarjen, preden je bil ustreljen"
+   },
+   {
     "title": "South Korean President Calls for Easing Sanctions on the North",
     "link": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22int-china-xi-01-zcfw/22int-china-xi-01-zcfw-mediumSquareAt3X.jpg",
@@ -232,12 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00nat-missouri-redistricting-2-gctm/00nat-missouri-redistricting-2-gctm-mediumSquareAt3X.jpg",
     "date": 1790032752000,
     "titleSl": "Pritožbeno sodišče stoji na strani republikancev Missourija na na novo narisanem zemljevidu hiše"
-   },
-   {
-    "title": "Technical Problems Ground Flights at Major East Coast Airports",
-    "link": "https://www.nytimes.com/2026/09/21/us/east-coast-flights-ground-stop-communication-failure.html",
-    "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21dc-ground-stop-01-qckv/21dc-ground-stop-01-qckv-mediumSquareAt3X.jpg",
-    "date": 1790030911000
    }
   ],
   "bbc": [
@@ -245,13 +246,15 @@
     "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
     "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/7803b480-b600-11f1-a9e9-23cf66fffff0.jpg",
-    "date": 1790038732000
+    "date": 1790038732000,
+    "titleSl": "Združeno kraljestvo bo Savdski Arabiji zagotovilo \"obrambno\" vojaško podporo, pravi Burnham"
    },
    {
     "title": "The Papers: 'Air traffic out of control' and 'RAF to help Saudis'",
     "link": "https://www.bbc.co.uk/news/articles/cmj4jpj9144wo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3388/live/21337b30-b610-11f1-bc1f-3f186ca4140c.png",
-    "date": 1790037991000
+    "date": 1790037991000,
+    "titleSl": "Dokumenti: \"Zračni promet brez nadzora\" in \"RAF za pomoč Savdijcem\""
    },
    {
     "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
@@ -325,24 +328,23 @@
   ],
   "guardian": [
    {
-    "title": "Trump and Mamdani appear friendly after ‘wide-ranging’ meeting at Gracie Mansion",
-    "link": "https://www.theguardian.com/us-news/2026/sep/21/trump-and-mamdani-meeting-gracie-mansion",
-    "image": "https://i.guim.co.uk/img/media/2fcea1bd1f4dbfcba43ce148d6bd7ed065909342/423_0_4225_3380/master/4225.jpg?width=140&quality=85&auto=format&fit=max&s=4aa63c78123481b9131238eb6c47eb93",
-    "date": 1790038677000
-   },
-   {
-    "title": "Australia news live: Chalmers says ‘monetised misogyny’ fuelling DV; Bragg to propose using super to secure mortgages",
+    "title": "Australia news live: Liberal MP to propose using super to secure mortgages; ingredient in cold and flu supplements banned over allergy risk",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/b14a7051adfb48d8c726dc76cbe60d1833d1fbd4/854_223_4080_3265/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=32d6b51f3e3ef98305ea4d420d52066d",
-    "date": 1790038528000,
-    "titleSl": "Avstralske novice v živo: Chalmers pravi, da \"monetizirana mizoginija\" napaja DV; Bragg predlaga uporabo super za zavarovanje hipotek"
+    "image": "https://i.guim.co.uk/img/media/b06c26fee67921b63fb2dbcddc3756678154bb4d/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8f5f270caaed202642caa66cf1fdb9a1",
+    "date": 1790039701000
    },
    {
     "title": "Trump says he’ll probably lose lawsuit brought by news outlets he banned from White House, blaming judge appointed by ‘TRUMP’ – live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/391afde06b50619679a3695bb68d5fc07a0b10c4/703_0_4553_3642/master/4553.jpg?width=140&quality=85&auto=format&fit=max&s=aff3bd88b63d669a41a47ed29b90e3f8",
-    "date": 1790037491000,
+    "date": 1790039288000,
     "titleSl": "Trump pravi, da bo verjetno izgubil tožbo, ki so jo vložile medijske hiše, ki jih je prepovedal v Beli hiši, in krivi sodnika, ki ga je imenoval \"TRUMP\" – v živo"
+   },
+   {
+    "title": "Trump and Mamdani appear friendly after ‘wide-ranging’ meeting at Gracie Mansion",
+    "link": "https://www.theguardian.com/us-news/2026/sep/21/trump-and-mamdani-meeting-gracie-mansion",
+    "image": "https://i.guim.co.uk/img/media/2fcea1bd1f4dbfcba43ce148d6bd7ed065909342/423_0_4225_3380/master/4225.jpg?width=140&quality=85&auto=format&fit=max&s=4aa63c78123481b9131238eb6c47eb93",
+    "date": 1790038677000
    },
    {
     "title": "No avoiding the cost of inaction on climate, Anthony Albanese says ahead of UN general assembly",
@@ -453,9 +455,9 @@
    },
    {
     "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SZWlTOGd4TGpnX3dXNURjZVdaWVB0U1JSanA4dHFuQ0ZHZEtyY3JCc1ZhQ2FmbW1EdEtvVjNlaGF3TXJWX1drZnJuOUNCSEtGUGNic2d6NA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yaWg5dm9uZEcyeHRGakl0cmNXSEYyUEh0RUpval9HYkdza3V1T0szM3ZsQVhSOHFZcW15MmRwVzF0YTBVOXdvTkFOV0ZJQkZGUE9YTXZzbw?oc=5",
     "image": "",
-    "date": 1790035467000
+    "date": 1790037081000
    },
    {
     "title": "Starb im Spital - Horrorunfall auf der A1 endet für Lenker tödlich",
@@ -556,7 +558,7 @@
     "title": "Intelligence artificielle : plus de vingt pays, dont l’Allemagne et le Canada, appellent à une supervision humaine renforcée",
     "link": "https://www.lemonde.fr/pixels/article/2026/09/22/intelligence-artificielle-plus-de-vingt-pays-dont-l-allemagne-et-le-canada-appellent-a-une-supervision-humaine-renforcee_6779412_4408996.html",
     "image": "https://img.lemde.fr/2026/09/17/201/0/3000/1500/644/322/60/0/6f36581_ftp-1-ejzs2ovppr5z-5115163-01-06.jpg",
-    "date": 1790030187000,
+    "date": 1790030185000,
     "titleSl": "Intelligence artificielle : plus de vingt pays, dont l&#39;Allemagne et le Canada, appellent à une supervision humaine renforcée"
    },
    {
@@ -567,6 +569,12 @@
    }
   ],
   "elpais": [
+   {
+    "title": "Albares asegura que Marruecos le ha garantizado que impedirá un salto a Ceuta el 23",
+    "link": "https://elpais.com/espana/2026-09-22/albares-asegura-que-marruecos-le-ha-garantizado-que-impedira-un-salto-a-ceuta-el-23.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/BKD26UEOIBMZZO55IIEASXX33Q.jpg?auth=50eebfea609494c5a8fbf6549fdf59cde4da2f65a5ef5001a3f8bc2f9b2665d8",
+    "date": 1790039989000
+   },
    {
     "title": "California blinda las ‘midterms’ ante una posible injerencia de Trump",
     "link": "https://elpais.com/us/2026-09-21/california-blinda-las-midterms-ante-una-posible-injerencia-de-trump.html",
@@ -597,12 +605,6 @@
     "link": "https://elpais.com/us/entretenimiento/2026-09-21/presley-gerber-el-hijo-de-cindy-crawford-murio-de-una-sobredosis.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260921/1216491_095943_video_1800.mp4",
     "date": 1790019071000
-   },
-   {
-    "title": "La paz resuena en el Congreso de los Diputados con los ecos de Pau Casals",
-    "link": "https://elpais.com/cultura/2026-09-21/la-paz-resuena-en-el-congreso-de-los-diputados-con-los-ecos-de-pau-casals.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/F776NIFBFVA7LIZ5KOCEHCSV4Y.jpg?auth=0c25fbff475dc582d647361d7748d3be73645160d9e6371f80a2aae658bceca6",
-    "date": 1790018811000
    }
   ]
  },
