@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T08:16:51.826Z",
+ "generatedAt": "2026-09-22T08:18:28.532Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Objavljen posnetek: Mesec v službenem BMW-ju z modro lučjo",
     "link": "https://www.24ur.com/novice/slovenija/posnetek-o-katerem-je-govoril-smodej-mesec-v-sluzbenem-bmw-ju-z-modrimi-lucmi.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/79cae6c2b0528412a34a_63651550.jpg?v=8d10&fop=fp:0.49:0.45",
-    "date": 1790064222000
+    "date": 1790065051000
    },
    {
     "title": "'Če bi želeli natisniti vse napake v prid Reala, bi zmanjkalo gozdov'",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "AMZS test zimskih pnevmatik: kar devet pnevmatik ne sodi na cesto",
+    "link": "https://www.zurnal24.si/avto/amzs-test-zimskih-pnevmatik-2026-r-185-65-r15-225-50-r17-kar-devet-pnevmatik-ne-sodi-na-cesto-465508",
+    "image": "https://www.zurnal24.si/media/img/b3/7d/5d211c9bb7b20b6b6bca.jpeg",
+    "date": 1790065080000
+   },
+   {
     "title": "Petrol uvaja prelomno novost: Po novem boste lahko v poslovalnicah ...",
     "link": "https://www.zurnal24.si/slovenija/petrol-uvaja-prelomno-novost-po-novem-boste-lahko-v-poslovalnicah-465507",
     "image": "https://www.zurnal24.si/media/img/eb/61/beed2ad8dc8f318520cb.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/najmocnejsi-el-nino-vreme-napoved-465497",
     "image": "https://www.zurnal24.si/media/img/4d/68/99cadc8f73ca8e968607.png",
     "date": 1790057340000
-   },
-   {
-    "title": "Paparac: Prvi posnetki Cindy Crawford po sinovi smrti",
-    "link": "https://www.zurnal24.si/magazin/vip/paparac-prvi-posnetki-cindy-crawford-po-sinovi-smrti-465496",
-    "image": "https://www.zurnal24.si/media/img/20/65/185ebc2d47636c915cd7.jpeg",
-    "date": 1790057220000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "England fast bowler Wood retires from internationals",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c8/live/90b8dd80-f601-11f0-b5f7-49f0357294ff.jpg",
+    "date": 1790064936000,
+    "titleSl": "Anglija hitri kegljač Wood se upokoji na mednarodnih tekmovanjih"
+   },
+   {
     "title": "Scientists discover why Kent meningitis outbreak was so severe",
     "link": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8901/live/48fac930-b650-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -276,16 +283,23 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de9/live/2f1c8fd0-b63c-11f1-b5fe-031254885cd0.jpg",
     "date": 1790061252000,
     "titleSl": "Iran mora prenehati oboroževati Hutije v Jemnu, pravi G7 pred Generalno skupščino ZN"
-   },
-   {
-    "title": "Martha's Rule rolled out at every A&E department in England",
-    "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg",
-    "date": 1790060097000,
-    "titleSl": "Marthino pravilo se je uveljavilo v vseh oddelkih A&E v Angliji"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
+    "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-22T053546Z_1600282267_RC24ONAKSRR2_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1790058644.jpg?resize=1920%2C1440",
+    "date": 1790064433000,
+    "titleSl": "Ruski napadi na Ukrajino trikrat usmrtili Zelenskega v ZDA za vrh ZN"
+   },
+   {
+    "title": "Why young people are paying to get hired",
+    "link": "https://www.aljazeera.com/video/money-works/2026/9/22/why-young-people-are-paying-to-get-hired?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/16x9-1790063847.jpg?resize=1920%2C1080&quality=80",
+    "date": 1790064157000,
+    "titleSl": "Zakaj mladi plačujejo za zaposlitev"
+   },
    {
     "title": "Undermining the UN is not a new US policy",
     "link": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy?traffic_source=rss",
@@ -313,64 +327,50 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A1711-copy-1790012069.jpg?resize=1920%2C1440",
     "date": 1790061976000,
     "titleSl": "Palestinci se obrnejo na skupne peči, da bi v Gazi pekli kruh"
-   },
-   {
-    "title": "The most memorable moments at UNGA",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/the-most-memorable-moments-at-unga?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790061774.jpg?resize=1918%2C1080&quality=80",
-    "date": 1790061784000,
-    "titleSl": "Najbolj nepozabni trenutki na Generalni skupščini ZN"
-   },
-   {
-    "title": "ISIL-linked detainees report night raids, extortion, violence at Roj camp",
-    "link": "https://www.aljazeera.com/features/2026/9/22/isil-linked-detainees-report-night-raids-extortion-violence-at-roj-camp?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2025/05/DSCF8612-1746384611.jpg?resize=1920%2C1440",
-    "date": 1790061181000,
-    "titleSl": "Priporniki, povezani z ISIL, poročajo o nočnih racijah, izsiljevanju, nasilju v taborišču Roj"
    }
   ],
   "guardian": [
    {
-    "title": "Australia news live: Mother charged with murder after alleged stabbing in Blue Mountains left one child dead and two critically injured",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/2fc89dd994e15cb51276bf052279f0c0f03c67e2/131_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0cb2154703e665fdb7632025c7d43f1c",
-    "date": 1790063737000,
-    "titleSl": "Avstralske novice v živo: Mati je obtožena umora po domnevnem zabadanju v Modrih gorah, pri čemer je en otrok umrl, dva pa sta bila kritično ranjena"
-   },
-   {
     "title": "Middle East crisis live: Iran’s Revolutionary Guards warns it will ‘change geography of war’ if US escalates conflict",
     "link": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/e00d5233867122762952c873775398cd28e09749/342_0_3048_2438/master/3048.jpg?width=140&quality=85&auto=format&fit=max&s=7bbc8067f09febb81db6b841f9d03228",
-    "date": 1790063690000,
+    "date": 1790064848000,
     "titleSl": "Bližnjevzhodna kriza v živo: Iranska revolucionarna garda opozarja, da bo \"spremenila geografijo vojne\", če bodo ZDA stopnjevale konflikt"
    },
    {
-    "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
-    "link": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong",
-    "image": "https://i.guim.co.uk/img/media/a39f41f02071478bd5938c44ee0b0ba45faca378/249_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3ffad68720a8174b36f1e092795c3dd0",
-    "date": 1790062585000,
-    "titleSl": "Avstralija preiskuje, kako so v Hongkongu izginili deli lovskega letala F-35, namenjeni v ZDA"
+    "title": "UK not ‘on the slide’, Burnham to tell UN as he gears up for first meeting with Trump – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/22/andy-burnham-donald-trump-un-general-assembly-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/56c58cb40b5288e4e7aa737a6ca86e97e2953c92/391_0_2459_1968/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=5a0620aa998d3e646e21da74d6419610",
+    "date": 1790064458000,
+    "titleSl": "Združeno kraljestvo ni \"na diapozitivu\", Burnham naj pove ZN, ko se pripravlja na prvo srečanje s Trumpom – politika Združenega kraljestva v živo"
    },
    {
-    "title": "Private investigator surveilled Liberal minister and supplied Jean Nassif with recording devices, Icac hears",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/22/private-investigator-secretly-recorded-mp-david-elliott-jean-nassif-icac-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/a2354e053c63d0b1c5602959eadebd92d979e722/0_0_2416_1932/master/2416.jpg?width=140&quality=85&auto=format&fit=max&s=eb406518045710f3135e897380ad662a",
-    "date": 1790062227000,
-    "titleSl": "Zasebni preiskovalec je nadzoroval liberalnega ministra in oskrbel Jeana Nassifa s snemalnimi napravami, zasliši Icac"
+    "title": "Former cop Beau Lamarre-Condon argues self-defence in double murder trial, citing struggle over gun",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/22/nsw-cop-beau-lamarre-condon-argues-self-defence-double-murder-trial-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/9d63059b5ec2b3b95e44913aa725afea85426260/0_0_649_519/master/649.jpg?width=140&quality=85&auto=format&fit=max&s=b9eab0bfbf2544a907f367efb2a1cf7b",
+    "date": 1790064050000,
+    "titleSl": "Nekdanji policist Beau Lamarre-Condon trdi, da gre za samoobrambo na sojenju za dvojni umor, pri čemer navaja boj za orožje"
    },
    {
-    "title": "Angus Taylor distances himself from Andrew Bragg’s proposal to let first home buyers use super",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/22/angus-taylor-andrew-bragg-first-home-buyers-use-super-offset",
-    "image": "https://i.guim.co.uk/img/media/4504ac2dde06c5fcd610b416e7a53d814a6ae839/16_457_4793_3836/master/4793.jpg?width=140&quality=85&auto=format&fit=max&s=df10c748cc42492bc10c81457546c818",
-    "date": 1790061585000,
-    "titleSl": "Angus Taylor se distancira od predloga Andrewa Bragga, da bi prvi kupci doma uporabljali super"
+    "title": "Caution versus ambition: strategy debate dominates Lib Dem conference",
+    "link": "https://www.theguardian.com/politics/2026/sep/22/caution-versus-ambition-strategy-debate-dominates-lib-dem-conference",
+    "image": "https://i.guim.co.uk/img/media/3ac752535a516d00505752ed6e1e8f407452cd3e/757_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=3dbda392cfe68254c07b7ad893d81031",
+    "date": 1790064039000,
+    "titleSl": "Previdnost v primerjavi z ambicijo: strateška razprava prevladuje na konferenci Lib Dem"
    },
    {
-    "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
-    "link": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-    "image": "https://i.guim.co.uk/img/media/040038c8899a7aba8593f60af39e6376db7d2fc3/375_0_3731_2984/master/3731.jpg?width=140&quality=85&auto=format&fit=max&s=23fe6dc50b81c739bd2882b76070b65a",
-    "date": 1790061382000,
-    "titleSl": "Združeno kraljestvo si je avgusta izposodilo 18 milijard £, kar je pritisk na Healeyja pred proračunom"
+    "title": "Andy Burnham fails to rule out Brexit reversal being in next Labour manifesto",
+    "link": "https://www.theguardian.com/politics/2026/sep/22/andy-burnham-fails-rule-out-brexit-reversal-next-labour-manifesto",
+    "image": "https://i.guim.co.uk/img/media/ad85ba20a419ec8f553591a82f5de6b76d3cd9ba/449_0_2220_1776/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=e3392b7a126a658016abcb084bcbc3ac",
+    "date": 1790064038000,
+    "titleSl": "Andy Burnham ne izključuje možnosti, da bo preobrat Brexita v naslednjem manifestu Laburistične stranke"
+   },
+   {
+    "title": "Australia news live: Mother charged with murder after alleged stabbing in Blue Mountains left one child dead and two critically injured",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/2fc89dd994e15cb51276bf052279f0c0f03c67e2/131_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0cb2154703e665fdb7632025c7d43f1c",
+    "date": 1790064034000,
+    "titleSl": "Avstralske novice v živo: Mati je obtožena umora po domnevnem zabadanju v Modrih gorah, pri čemer je en otrok umrl, dva pa sta bila kritično ranjena"
    }
   ],
   "spiegel": [
@@ -415,6 +415,26 @@
   ],
   "bild": [
    {
+    "title": "Hauptsächlich in Deutschland - Evonik kündigt Abbau von 3200 Stellen an",
+    "link": "https://www.bild.de/politik/hauptsaechlich-in-deutschland-evonik-kuendigt-abbau-von-3200-stellen-an-6ab22c4178c3aee053a3c862",
+    "image": "https://images.bild.de/6ab22c4178c3aee053a3c862/945807de341de1abd034e304ab9babdc,387f0cfc?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Chirurg erklärt, was möglich ist - Penisverlängerung ohne OP?",
+    "link": "https://www.bild.de/video/clip/ratgeber/trend-fuer-maenner-penis-verlaengerung-ohne-op-so-gehts-86127782.bild.html",
+    "image": "https://images.bild.de/6557440ea6d49f71fc450909/483108b4f808a5c86ced3f18c85619b9,ca68f6ca?w=1280",
+    "date": 0,
+    "titleSl": "Chirurg erklärt, je bil möglich ist - Penisverlängerung ohne OP?"
+   },
+   {
+    "title": "Neulich in Disneyland - Tochter trifft Goofy, Mama übersieht Hollywoodstar",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/mama-filmt-ihre-tochter-mit-goofy-aber-erkennt-matt-damon-nicht-6ab0fdc44607f89d76e3cad2",
+    "image": "https://images.bild.de/6ab0fdc44607f89d76e3cad2/63ab7d9705f8d49474eb93c04815ca37,7b49f1fa?w=1280",
+    "date": 0,
+    "titleSl": "Neulich v Disneylandu - Tochter trifft Goofy, Mama übersieht Hollywoodstar"
+   },
+   {
     "title": "Rückendeckung nach Fan-Wut - Köln-Boss verteidigt seinen Trainer",
     "link": "https://www.bild.de/sport/fussball/1-fc-koeln-nach-fan-wut-und-pfiffen-koeln-boss-verteidigt-seinen-trainer-6ab2306b67ff1f5bff586a3d",
     "image": "https://images.bild.de/6ab2306b67ff1f5bff586a3d/c0625f672dda41237904b0f8522a6739,28cca388?w=1280",
@@ -432,27 +452,15 @@
     "link": "https://www.bild.de/politik/inland/skandale-nach-berlin-wahl-darum-lieben-arabische-clans-die-linken-6ab21da267ff1f5bff5868fe",
     "image": "https://images.bild.de/6ab21da267ff1f5bff5868fe/11256461a4088f714ef9e4e56e7c3d25,63793531?w=1280",
     "date": 0
-   },
-   {
-    "title": "Beim Wiesn-Besuch im Käfer-Zelt - Bosse-Update zum Kane-Vertrag!",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-beim-wiesn-besuch-im-kaefer-update-von-hainer-und-dreesen-zum-kane-vertrag-6ab0514cb1857e86757a8d54",
-    "image": "https://images.bild.de/6ab0514cb1857e86757a8d54/8f53418eac18fd6a890c2ba8b2b314c5,3c5a8156?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Einbürgerung als Wahlstrategie? - Linke profitiert von muslimischen Wählern",
-    "link": "https://www.bild.de/politik/inland/einbuergerung-als-wahlstrategie-linke-profitiert-von-muslimischen-waehlern-in-berlin-6ab102a10b0dd38676db9e42",
-    "image": "https://images.bild.de/6ab102a10b0dd38676db9e42/91ec38e86c403b5b24ce23f82711b3b8,f613f2ea?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Virus breitet sich auf Fidschi rasant aus - Urlaubs-Inseln rufen HIV-Notstand aus",
-    "link": "https://www.bild.de/news/ausland/angst-vor-aids-fidschi-inseln-rufen-hiv-notstand-aus-6ab21d74708e760b5e0672f1",
-    "image": "https://images.bild.de/6ab21d74708e760b5e0672f1/8346b8b74878da6efbfe8171d45bb85a,abdec27c?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Kein TV-Team da - Bizarrer Auftritt: Trump spricht, niemand hört ihn",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3dnRYS2lLMmJiczlmUXlNUXZQczZ2YmlUYzhSLVJyanhuNVprVzRxb3d2TDNxLW1lOTNwWjdxem9Ldw?oc=5",
+    "image": "",
+    "date": 1790065033000
+   },
    {
     "title": "Mit Paul Csitkovics - Neues Burgenland-Musical feiert demnächst Premiere",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1sRUZyVUpBaU1PNXRxT0lJMUZyd0hqZXM0VTgtb2pselk4U1NBN0Q3ZktabGJwVXdSa21uSUVwOXpMdw?oc=5",
@@ -471,12 +479,6 @@
     "image": "",
     "date": 1790064120000,
     "titleSl": "Wie kam es dazu? - Ungewöhnliche Situation für Sabitzer v Dortmundu"
-   },
-   {
-    "title": "Kein TV-Team da - Bizarrer Auftritt: Trump spricht, niemand hört ihn",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3dnRYS2lLMmJiczlmUXlNUXZQczZ2YmlUYzhSLVJyanhuNVprVzRxb3d2TDNxLW1lOTNwWjdxem9Ldw?oc=5",
-    "image": "",
-    "date": 1790064035000
    },
    {
     "title": "Schwerer Betrug - Schönheitsdoktor wurde schon wieder verurteilt",
@@ -574,12 +576,6 @@
   ],
   "elpais": [
    {
-    "title": "Salvador Illa plantea prohibir la inteligencia artificial en las escuelas hasta los 14 años",
-    "link": "https://elpais.com/espana/catalunya/2026-09-22/salvador-illa-plantea-prohibir-la-inteligencia-artificial-en-las-escuelas-hasta-los-14-anos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/KEX5Q7XAHNJYHB575W4A2MIK6Q.jpg?auth=55490b6530410e852365938eba78ce753317195bea1149a1b4b1e45011be5609",
-    "date": 1790064263000
-   },
-   {
     "title": "Los Mossos investigan el secuestro de un hombre obligado a subir a un coche en Barcelona y liberado más tarde en Girona",
     "link": "https://elpais.com/espana/catalunya/2026-09-22/los-mossos-investigan-el-secuestro-de-un-hombre-obligado-a-subir-a-un-coche-en-barcelona-y-liberado-mas-tarde-en-girona.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260921/1216511_103723_video_1800.mp4",
@@ -609,6 +605,12 @@
     "link": "https://elpais.com/espana/madrid/2026-09-22/mas-madrid-denuncia-a-la-fiscalia-las-supuestas-irregularidades-en-las-listas-del-ramon-y-cajal.html",
     "image": "https://imagenes.elpais.com/resizer/v2/4JHEFQNBWFECVPE7TMYH63JEQU.jpg?auth=e40cd363c9e888e6227f55850e9052929cc1b4016344e1b7804e697fb827de45",
     "date": 1790057217000
+   },
+   {
+    "title": "¿De verdad importa qué paño de cocina compras? Probamos cuatro para salir de dudas",
+    "link": "https://elpais.com/escaparate/comparativas/mejores-panos-de-cocina.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/6D7SSCFQCRAB7EE5FGXG7N5YKM.jpg?auth=df2c6cefeb552d8a4725ce9295c257d3d3602eadfad9e35630ebdc29b7d88ffd",
+    "date": 1790054400000
    }
   ]
  },
