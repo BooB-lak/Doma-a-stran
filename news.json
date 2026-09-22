@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T12:54:39.253Z",
+ "generatedAt": "2026-09-22T12:56:26.750Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Afera Karigador: KPK pri Golobu ugotovila okoliščine nasprotja interesov",
     "link": "https://www.24ur.com/novice/slovenija/afera-karigador-kpk-pri-golobu-ugotovila-okoliscine-nasprotja-interesov.html",
     "image": "https://images.24ur.com/media/images/213xX/Apr2025/3c73478394411b64820b_63396519.png?v=3396&fop=fp:0.82:0.55",
-    "date": 1790081552000
+    "date": 1790081674000
    },
    {
     "title": "Sporni plakati po Sloveniji, Štrukelj napovedal kazensko ovadbo",
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "KSJS bo vložil kazenski ovadbi zoper neznanega storilca zaradi zlorabe njihovih plakatov",
+    "link": "https://www.rtvslo.si/slovenija/ksjs-bo-vlozil-kazenski-ovadbi-zoper-neznanega-storilca-zaradi-zlorabe-njihovih-plakatov/794531",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/22/67106130.jpg",
+    "date": 1790080970000
+   },
+   {
     "title": "Znani tekmeci rokometašev iz Trebnjega, Slovenj Gradca in Velenja",
     "link": "https://www.rtvslo.si/sport/rokomet/znani-tekmeci-rokometasev-iz-trebnjega-slovenj-gradca-in-velenja/794519",
     "image": "https://img.rtvcdn.si/_up/upload/2021/11/28/65943954.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/se-vedno-ni-jasno-kako-se-bodo-delila-sredstva-od-vstopnin-v-sotesko-vintgar/794515",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/22/67106054.jpg",
     "date": 1790078146000
-   },
-   {
-    "title": "Sporočanja ruskih elit ne smemo jemati za suho zlato",
-    "link": "https://www.rtvslo.si/svet/evropa/sporocanja-ruskih-elit-ne-smemo-jemati-za-suho-zlato/794495",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/20/67105575.jpg",
-    "date": 1790077954000
    }
   ],
   "zurnal": [
@@ -250,11 +250,11 @@
     "titleSl": "Šrilanško sodišče obsodilo 15 moških zaradi smrtonosnih bombnih napadov na velikonočno nedeljo"
    },
    {
-    "title": "What is the White House press pool and why is it in a row with Trump?",
+    "title": "How Trump's media ban sparked a broadcaster boycott",
     "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ffa/live/e7abbca0-b665-11f1-b785-7d19738c6de2.png",
     "date": 1790079991000,
-    "titleSl": "Kaj je skupina za medije Bele hiše in zakaj je v vrsti s Trumpom?"
+    "titleSl": "Kako je Trumpova prepoved medijev sprožila bojkot izdajatelja televizijskega programa"
    },
    {
     "title": "'Our disbelief at release of killer who is now on the run' - victim's family",
@@ -415,6 +415,18 @@
   ],
   "bild": [
    {
+    "title": "Niroomand will Gespräch mit Eralp - Olympia-Krach nach Berlin-Wahl",
+    "link": "https://www.bild.de/sport/olympia/elif-eralp-gegen-olympia-erledigt-berlin-vor-dem-showdown-6ab262a1a15a9fecb668b67a",
+    "image": "https://images.bild.de/6ab262a1a15a9fecb668b67a/cb76506ec98b08b6bde93897d2c2b034,722ec9d2?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Beu Schüssen auf Kollegen abgehauen - Polizistinnen verlieren ihre Jobs",
+    "link": "https://www.bild.de/news/inland/kollegen-im-kugelhagel-zurueckgelassen-polizistinnen-verlieren-ihren-beamtenstatus-6ab2462078c3aee053a3caf8",
+    "image": "https://images.bild.de/6ab2462078c3aee053a3caf8/7e5971828bc5c4cd2b85dbdfd217f593,bb604fc7?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Ich will das nicht mehr!“ - „Sommerhaus“-Lady droht während Dreh mit Trennung",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/sommerhaus-der-stars-hati-suarez-droht-waehrend-dreh-mit-trennung-6ab26e6278c3aee053a3cffc",
     "image": "https://images.bild.de/6ab26e6278c3aee053a3cffc/3bccc2cf8282542ae150a5b4f36664d1-landscape,4697b4ff?w=1280",
@@ -428,27 +440,15 @@
     "date": 0
    },
    {
+    "title": "Jetzt spricht der Rückkehrer - Diaby: „Leverkusen hat seine Mentalität verändert“",
+    "link": "https://www.bild.de/sport/fussball/bayer-leverkusen-moussa-diaby-leverkusen-hat-seine-mentalitaet-veraendert-6ab2398a67ff1f5bff586ae9",
+    "image": "https://images.bild.de/6ab2398a67ff1f5bff586ae9/4a0c81cb7fe7e28da17f593adbd89bb5,dc2a960c?w=1280",
+    "date": 0
+   },
+   {
     "title": "Phrasenmäher vom 22.09.26 - Die ganze Folge mit van der Vaart - Teil 1",
     "link": "https://www.bild.de/sport/fussball/phrasenmaeher-vom-22-11-26-die-ganze-folge-mit-van-der-vaart-teil-1-6ab245b4a15a9fecb668b340",
     "image": "https://images.bild.de/6ab245b4a15a9fecb668b340/7b28a74dd00cae71512c152d70d3cb34,6267dcdb?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Hoeneß über XXL-Pause - „Aus Vereins-Sicht nicht besonders gut“",
-    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-sebastian-hoeness-ueber-xxl-pause-aus-vereins-sicht-nicht-besonders-gut-6ab2744467ff1f5bff587282",
-    "image": "https://images.bild.de/6ab2744467ff1f5bff587282/0a4130c3310fc26a68ad1ce33843161c,9715744f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Rausschmiss von CNN und Co. - Trump plötzlich ohne Ton",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/rausschmiss-von-cnn-und-co-trump-ploetzlich-ohne-ton-6ab2287267ff1f5bff5869a8",
-    "image": "https://images.bild.de/6ab2287267ff1f5bff5869a8/607c4e2f7ddca46a64b8269b3f2816bd,585eab55?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Wärmeres Meerwasser schmilzt Gletscher - Grönland und Antarktis verlieren immer mehr Eis",
-    "link": "https://www.bild.de/leben-wissen/meerwasser-schmilzt-gletscher-groenland-und-antarktis-verlieren-immer-schneller-eis-6ab27191a15a9fecb668b890",
-    "image": "https://images.bild.de/6ab27191a15a9fecb668b890/fba7936e0d307386257e8bacf31944b3,e1c99805?w=1280",
     "date": 0
    }
   ],
@@ -577,6 +577,19 @@
   ],
   "elpais": [
    {
+    "title": "Últimas noticias de la Asamblea General de la ONU, en directo | EE UU se abre a reunirse con Irán en el marco de la cumbre para reanudar el diálogo sobre Ormuz",
+    "link": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/NWDHYEAPGBBPHKBFVVWD5WCVEE.JPG?auth=7e70348e8068c3919b2084b084d1be417cc486338c86656b20b5c83d8aafba17",
+    "date": 1790081701000,
+    "titleSl": "Últimas noticias de la Asamblea General de la Onu, en directo | EE UU se abre a reunirse con Irán en el marco de la cumbre para reanudar el diálogo sobre Ormuz"
+   },
+   {
+    "title": "El Congreso insta al Gobierno a adelantar la jubilación de las tripulantes de cabina",
+    "link": "https://elpais.com/economia/2026-09-22/el-congreso-insta-al-gobierno-a-adelantar-la-jubilacion-de-las-tripulantes-de-cabina.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/HCHLFXBTDJD35BR7JTAOS6ZUNU.jpg?auth=678563b467d5d159d36138f52344acdfa019b68ed67af7bb69aa2d39bf2919a0",
+    "date": 1790081447000
+   },
+   {
     "title": "El huracán ‘Polo’ alcanza la categoría 5 y mantiene en alerta a cinco Estados de la costa del Pacífico mexicano",
     "link": "https://elpais.com/mexico/2026-09-21/huracan-polo-se-intensifica-frente-a-mexico-esta-es-su-trayectoria-y-el-pronostico-de-lluvias.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DH4X6645EZFTTLFJZRRTIKHBNA.jpg?auth=509981ebf65b29095311077d2432b7db9ecccffedfe4b88c38dac8a4635cdacf",
@@ -589,13 +602,6 @@
     "date": 1790081008000
    },
    {
-    "title": "Últimas noticias de la Asamblea General de la ONU, en directo | EE UU se abre a reunirse con Irán en el marco de la cumbre para reanudar el diálogo sobre Ormuz",
-    "link": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/NWDHYEAPGBBPHKBFVVWD5WCVEE.JPG?auth=7e70348e8068c3919b2084b084d1be417cc486338c86656b20b5c83d8aafba17",
-    "date": 1790080898000,
-    "titleSl": "Últimas noticias de la Asamblea General de la Onu, en directo | EE UU se abre a reunirse con Irán en el marco de la cumbre para reanudar el diálogo sobre Ormuz"
-   },
-   {
     "title": "La policía cree que los asesinos a tiros de un joven en Málaga se equivocaron de persona",
     "link": "https://elpais.com/espana/2026-09-22/la-policia-cree-que-los-asesinos-a-tiros-de-un-joven-en-malaga-se-equivocaron-de-persona.html",
     "image": "https://imagenes.elpais.com/resizer/v2/7B2GS43IQNENPGT2ARCQZHUEKU.jpg?auth=54d86ed974abdc40c448dc46929f0ecbc86ba6249434c9419bf3553f3be1e88c",
@@ -606,12 +612,6 @@
     "link": "https://elpais.com/espana/2026-09-22/el-constitucional-devuelve-la-ponencia-que-se-opone-a-amnistiar-la-malversacion-a-los-lideres-del-proces.html",
     "image": "https://imagenes.elpais.com/resizer/v2/BM7P4X4DIFIZTNM6D6JNANF6XY.jpg?auth=0afff364c5fc257939aeefbd0852ad17914c51958def8ff81d804155f8c1f6ec",
     "date": 1790080044000
-   },
-   {
-    "title": "Los hutíes prosiguen su avance en Yemen y acarician el control total del estrecho de Bab el Mandeb",
-    "link": "https://elpais.com/internacional/2026-09-22/los-huties-prosiguen-su-avance-en-yemen-y-acarician-el-control-total-del-estrecho-de-bab-el-mandeb.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/X3X2IH7LGVN4LILYTS5YTYH3ZE.jpg?auth=7e89ac8d991eb3f0048c950a0f7442781567f71f4829b42d42c4cade9a7847f6",
-    "date": 1790079886000
    }
   ]
  },
