@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T18:48:29.270Z",
+ "generatedAt": "2026-09-22T18:50:53.235Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+    "image": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-07-30-paid-influence-index/2026-07-30-paid-influence-index-mediumSquareAt3X.jpg",
+    "date": 1790102872000,
+    "titleSl": "Vojska plačanih ustvarjalcev splet prekriva s politično vsebino"
+   },
+   {
     "title": "Will Alexandria Ocasio-Cortez Run for President in 2028? Here’s What She Said.",
     "link": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22pol-ocasio-cortez-top-fqjh/22pol-ocasio-cortez-top-fqjh-mediumSquareAt3X.jpg",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-09-18-trump-harp-index/2026-09-18-trump-harp-index-mediumSquareAt3X.jpg",
     "date": 1790102232000,
     "titleSl": "Slika Trumpa, ki poljublja žensko, je bila lažna. Vseeno se je razširil."
-   },
-   {
-    "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
-    "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-    "image": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-07-30-paid-influence-index/2026-07-30-paid-influence-index-mediumSquareAt3X.jpg",
-    "date": 1790102107000,
-    "titleSl": "Vojska plačanih ustvarjalcev splet prekriva s politično vsebino"
    },
    {
     "title": "Hispanic Voters, Abandoning Trump, Are Transforming the Midterm Map",
@@ -242,6 +242,13 @@
    }
   ],
   "bbc": [
+   {
+    "title": "US to build two military bases in Greenland under new deal with Denmark",
+    "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg",
+    "date": 1790102609000,
+    "titleSl": "ZDA gradijo dve vojaški oporišči na Grenlandiji v skladu z novim dogovorom z Dansko"
+   },
    {
     "title": "Plot targeting Manchester's Jewish community disrupted, say police",
     "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebad/live/b5f04860-b69d-11f1-ba3d-1d5c8a47f823.png",
     "date": 1790096275000,
     "titleSl": "Kolesar, ki se je oblačil kot moški, da bi se izognil talibanom, je osvojil"
-   },
-   {
-    "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-    "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efbc/live/4e7c88d0-b696-11f1-bc1f-3f186ca4140c.jpg",
-    "date": 1790095829000,
-    "titleSl": "Davey obljublja znižanje davkov za milijone, če se Združeno kraljestvo ponovno pridruži enotnemu trgu EU"
    }
   ],
   "aljazeera": [
@@ -415,6 +415,19 @@
   ],
   "bild": [
    {
+    "title": "Arktis, Iran und Kuba - Die wichtigsten Sätze aus Trumps UN-Rede",
+    "link": "https://www.bild.de/politik/trump-spricht-an-die-welt-die-wichtigsten-saetze-seiner-rede-bei-der-un-6ab2adba6738b9433e6e28bc",
+    "image": "https://images.bild.de/6ab2adba6738b9433e6e28bc/cb4d4fbf5a14966afb0c9d322c373922,8ccc4bf4?w=1280",
+    "date": 0,
+    "titleSl": "Arktis, Iran in Kuba - Die wichtigsten Sätze aus Trumps UN-Rede"
+   },
+   {
+    "title": "Van der Vaart packt aus - Was ich jeden Tag mit Sané machen würde",
+    "link": "https://www.bild.de/sport/fussball/van-der-vaart-packt-aus-was-ich-jeden-tag-mit-sane-machen-wuerde-6ab2360567ff1f5bff586aa9",
+    "image": "https://images.bild.de/6ab2360567ff1f5bff586aa9/e913e2b28975d932f64fbde89ea196e0,a035c363?w=1280",
+    "date": 0
+   },
+   {
     "title": "Start-up aus Baden-Württemberg - Ex-KSK-Soldat schießt Waffenspeicher ins All",
     "link": "https://www.bild.de/regional/baden-wuerttemberg/atmos-space-cargo-ex-soldat-baut-fedex-fuer-den-weltraum-6aa25170240b302c8a83fa26",
     "image": "https://images.bild.de/6aa25170240b302c8a83fa26/13b2e442244b1d3fdeb26ea8daae1f49,1c43ba5e?w=1280",
@@ -424,12 +437,6 @@
     "title": "Ex-Parteifreunde über Merz - „Es funktioniert nicht mehr mit ihm“",
     "link": "https://www.bild.de/politik/inland/cdu-abrechnung-mit-friedrich-merz-es-funktioniert-nicht-mehr-mit-ihm-6ab2b2a0b1857e86757ab3f9",
     "image": "https://images.bild.de/6ab2b2a0b1857e86757ab3f9/9a0c1497604204ae648fbdfe6ea034e6,771b9ff4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Van der Vaart packt aus - Was ich jeden Tag mit Sané machen würde",
-    "link": "https://www.bild.de/sport/fussball/van-der-vaart-packt-aus-was-ich-jeden-tag-mit-sane-machen-wuerde-6ab2360567ff1f5bff586aa9",
-    "image": "https://images.bild.de/6ab2360567ff1f5bff586aa9/e913e2b28975d932f64fbde89ea196e0,a035c363?w=1280",
     "date": 0
    },
    {
@@ -443,48 +450,42 @@
     "link": "https://www.bild.de/politik/inland/neue-jobs-fuellen-parteikasse-grosser-geldregen-fuer-die-linke-6ab1819f0834b87f5b883590",
     "image": "https://images.bild.de/6ab1819f0834b87f5b883590/3717d182fe934973b5e616862d150ed9,adca7124?w=1280",
     "date": 0
-   },
-   {
-    "title": "Sie soll Mohammed beleidigt haben - 9 Jahre Haft! Schüler wollte Lehrerin töten",
-    "link": "https://www.bild.de/regional/duesseldorf/9-jahre-haft-schueler-stach-wegen-mohammed-beleidigung-auf-lehrerin-ein-6ab2a136b1857e86757ab28d",
-    "image": "https://images.bild.de/6ab2a136b1857e86757ab28d/08fd241f34d608e5b729380dde00d842,5bdf7dea?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "17-Jähriger entkräftet - Stunden unter Teambus! Klub leistet Erste Hilfe - krone.at",
+    "title": "17-Jähriger entkräftet - Stunden unter Teambus! Klub leistet Erste Hilfe",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXNXVEaldyY1dvTm5nUEFJa01QQUYwYXRlclh0MGRlNzBWX1BjUVktaHF5b1BwZ0RSSFRrWm02bDNtUQ?oc=5",
     "image": "",
     "date": 1790102700000,
-    "titleSl": "17-Jähriger entkräftet - Stunden unter Teambus! Klubski list Erste Hilfe - krone.at"
+    "titleSl": "17-Jähriger entkräftet - Stunden unter Teambus! Klubski list Erste Hilfe"
    },
    {
-    "title": "Unfall im Stubaital - 83-Jährige stürzte von Wanderweg 25 Meter ab - krone.at",
+    "title": "Unfall im Stubaital - 83-Jährige stürzte von Wanderweg 25 Meter ab",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sSm5BZElhVlB2Zm9Yemh1ZFNTOF9zb3dobGZMYnlfWE1ZNUdfYjcxZ3B0Vk9ueVBuWEJMZUxibGlnUQ?oc=5",
     "image": "",
     "date": 1790102700000
    },
    {
-    "title": "Verliert den Rückhalt - Kurz vor Midterms: Trump in Umfrage auf Rekordtief - krone.at",
+    "title": "Verliert den Rückhalt - Kurz vor Midterms: Trump in Umfrage auf Rekordtief",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wakZOZzhvVE1zbENNblFRakhxcGZ6TS1GSmU3bE92UFprOWhvcDQtaVBia0pDXzFYMFVxelo4VDMzZw?oc=5",
     "image": "",
     "date": 1790101860000
    },
    {
-    "title": "Altkanzlerin deutlich - Nach CDU-Debakel: Merkel zieht Adenauer-Vergleich - krone.at",
+    "title": "Altkanzlerin deutlich - Nach CDU-Debakel: Merkel zieht Adenauer-Vergleich",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rdE10WlFWOE1BX3pPY3JHTnhHMjZTMm1OZ0dQbDlYUUc1QkVvSThwaERWcUtodjVQMEdQU0V6Ui1Gdw?oc=5",
     "image": "",
     "date": 1790100780000
    },
    {
-    "title": "EINWÜRFE: FOLGE 109 - Spitzenwechsel und Abseits-Wirbel im Unterhaus - krone.at",
+    "title": "EINWÜRFE: FOLGE 109 - Spitzenwechsel und Abseits-Wirbel im Unterhaus",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9uMFFrb0ZiUWZycVVUUk5kY1M0TFY4UGdMYXp0VGhDYWJiN1dydE9nSW90cU9YQ2loMGxfVndBc0JFQQ?oc=5",
     "image": "",
     "date": 1790100072000
    },
    {
-    "title": "Heli flog Masten ein - Für Nachtspringen geht Bergisel endlich Licht auf - krone.at",
+    "title": "Heli flog Masten ein - Für Nachtspringen geht Bergisel endlich Licht auf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KZ2ZaOFFocjdjN29zM3RfT29maERTcF9NcGYwM0xCTFBtT0EwYmtCT3VkUDVMTmRIVTBRVnctZ3lWdw?oc=5",
     "image": "",
     "date": 1790100026000
