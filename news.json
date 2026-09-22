@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T19:54:26.131Z",
+ "generatedAt": "2026-09-22T19:56:32.440Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1790106720000
    },
    {
-    "title": "Nataša Avšič Bogovič ostaja podpredsednica DZ",
+    "title": "Nataša Avšič Bogovič ostaja podpredsednica DZ, med poslanci zavrelo",
     "link": "https://siol.net/novice/slovenija/natasa-avsic-bogovic-ostaja-podpredsednica-dz-702132",
     "image": "https://siol.net/media/img/97/fe/ab19ca89338db8ecfb48.jpeg",
     "date": 1790106660000
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Avšič Bogovičeva ostaja na položaju podpredsednice DZ",
+    "link": "https://www.24ur.com/novice/slovenija/dz-glasuje-o-razresitvi-avsic-bogovic-razprava-se-je-razvnela.html",
+    "image": "https://images.24ur.com/media/images/213xX/May2026/a6026f060b75d7494cf7_63591906.jpg?v=ab5e&fop=fp:0.47:0.35",
+    "date": 1790106870000
+   },
+   {
     "title": "Štiri jedi brez napak, a Tadej je šel še korak dlje",
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/stiri-jedi-brez-napak-a-tadej-je-sel-se-korak-dlje.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/bb6fff556cf6e00178c5_63651512.jpg?v=14b7&fop=fp:0.40:0.39",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/novice/tujina/guterres-in-trump-bosta-odprla-splosno-razpravo-voditeljev-na-zn.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/127a96189345ddfdc2ab_63652102.jpg?v=92ec&fop=fp:0.66:0.39",
     "date": 1790105630000
-   },
-   {
-    "title": "Poslanci o razrešitvi Avšič Bogovičeve, razprava se je razvnela",
-    "link": "https://www.24ur.com/novice/slovenija/dz-glasuje-o-razresitvi-avsic-bogovic-razprava-se-je-razvnela.html",
-    "image": "https://images.24ur.com/media/images/213xX/May2026/a6026f060b75d7494cf7_63591906.jpg?v=ab5e&fop=fp:0.47:0.35",
-    "date": 1790105604000
    },
    {
     "title": "Dejan Dogaja: Želim delati glasbo, ob kateri se imajo ljudje lepo",
@@ -117,7 +117,7 @@
   ],
   "zurnal": [
    {
-    "title": "Dvakrat morali prekiniti sejo, odločitev poslancev o usodi Avšič Bogovič je sprejeta",
+    "title": "Dvakrat morali prekiniti sejo, odločitev o podpredsednici sprejeta",
     "link": "https://www.zurnal24.si/slovenija/dvakrat-morali-prekiniti-sejo-odlocitev-poslancev-o-usodi-avsic-bogovic-je-sprejeta-465561",
     "image": "https://www.zurnal24.si/media/img/24/b2/3c0f21a218e0f4ed3302.jpeg",
     "date": 1790105280000
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/fbi-susan-collins-donor.html",
+    "image": "https://static01.nyt.com/images/2026/09/22/multimedia/dc-fbi1-hbqp/dc-fbi1-hbqp-mediumSquareAt3X.jpg",
+    "date": 1790106689000,
+    "titleSl": "FBI je prekinil preiskavo v zvezi z največjim zaveznikom senatorke Susan Collins"
+   },
+   {
     "title": "Fact-Checking Trump’s Speech at the United Nations",
     "link": "https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html",
     "image": "https://static01.nyt.com/images/2026/09/22/us/22DC-FACT-CHECK/22DC-FACT-CHECK-mediumSquareAt3X.jpg",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/09/22/opinion/22Waxman-ellison/22Waxman-ellison-mediumSquareAt3X.jpg",
     "date": 1790105504000,
     "titleSl": "Hollywood se preda imperiju Ellison"
-   },
-   {
-    "title": "F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins",
-    "link": "https://www.nytimes.com/2026/09/22/us/politics/fbi-susan-collins-donor.html",
-    "image": "https://static01.nyt.com/images/2026/09/22/multimedia/dc-fbi1-hbqp/dc-fbi1-hbqp-mediumSquareAt3X.jpg",
-    "date": 1790105093000,
-    "titleSl": "FBI je prekinil preiskavo v zvezi z največjim zaveznikom senatorke Susan Collins"
    },
    {
     "title": "Hispanic Voters, Abandoning Trump, Are Transforming the Midterm Map",
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
+    "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/fd3d54e78610502dcdc3d7f85a3039e191f836db/651_287_3396_2718/master/3396.jpg?width=140&quality=85&auto=format&fit=max&s=4bb4728edcfaf434b2e6f8c8b7b63e55",
+    "date": 1790106017000,
+    "titleSl": "Trump zagovarja dejanja v Iranu in Venezueli v nagovoru Generalne skupščine ZN sredi naraščajočih napetosti z zavezniki – v živo"
+   },
+   {
     "title": "DoorDash to pay $131.5m after underpaying New York workers",
     "link": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement",
     "image": "https://i.guim.co.uk/img/media/6045a820bbc2f8aa0efdc9b84c104bc81c37fc5b/438_0_4380_3504/master/4380.jpg?width=140&quality=85&auto=format&fit=max&s=5d412313da8ab8e8d5f3c8af86e1562f",
     "date": 1790104737000,
     "titleSl": "DoorDash plača 131,5 milijona $ po tem, ko je premalo plačal delavce v New Yorku"
-   },
-   {
-    "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/fd3d54e78610502dcdc3d7f85a3039e191f836db/651_287_3396_2718/master/3396.jpg?width=140&quality=85&auto=format&fit=max&s=4bb4728edcfaf434b2e6f8c8b7b63e55",
-    "date": 1790104662000,
-    "titleSl": "Trump zagovarja dejanja v Iranu in Venezueli v nagovoru Generalne skupščine ZN sredi naraščajočih napetosti z zavezniki – v živo"
    },
    {
     "title": "Middle East crisis: Trump says Iran will make a deal after US midterms – as it happened",
