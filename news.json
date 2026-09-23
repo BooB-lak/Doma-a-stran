@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T07:42:27.559Z",
+ "generatedAt": "2026-09-23T07:44:26.883Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/novice/slovenija/policisti-ustavili-voznika-in-odkrili-vec-vreck-kokaina-702152",
     "image": "https://siol.net/media/img/58/86/f3a936394d5c45df0cab.jpeg",
     "date": 1790148120000
+   },
+   {
+    "title": "Enega od osumljencev mafijske likvidacije na Brdu izpustili iz pripora",
+    "link": "https://siol.net/novice/slovenija/enega-od-osumljencev-mafijske-likvidacije-na-brdu-izpustili-iz-pripora-702153",
+    "image": "https://siol.net/media/img/0b/b5/54dc00b9a4dc9381a13e.png",
+    "date": 1790148060000
    },
    {
     "title": "Pogačar na seznamu za domače EP, iz UAE prišlo jasno pojasnilo",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/policisti-iscejo-roparja-bencinskega-servisa-na-dobrovi-702148",
     "image": "https://siol.net/media/img/42/87/632629a8b67ff54829dd.jpeg",
     "date": 1790145600000
-   },
-   {
-    "title": "Donald Trump mlajši zaradi ruskega financiranja poroke pod drobnogledom",
-    "link": "https://siol.net/novice/svet/donald-trump-mlajsi-zaradi-ruskega-financiranja-poroke-pod-drobnogledom-702140",
-    "image": "https://siol.net/media/img/b4/e2/b9c7348f72e9aa68eee4.jpeg",
-    "date": 1790145480000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Pakistan’s new drone deal is with Trump-backed firm also selling to India",
-    "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/045ce01c-bc3f-4ff7-845a-24893e48cc3b-1790078066.jpg?resize=1600%2C1080",
-    "date": 1790147934000,
-    "titleSl": "Novi dogovor Pakistana z brezpilotnim letalnikom je s podjetjem, ki ga podpira Trump, prodal tudi Indiji"
-   },
-   {
     "title": "WHO’S FUTURE IS IT: CHINA OR THE WEST?",
     "link": "https://www.aljazeera.com/video/doha-debates/2026/9/23/whos-future-is-it-china-or-the-west?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790146716.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790139449.jpg?resize=1920%2C1080&quality=80",
     "date": 1790139488000,
     "titleSl": "Šestletnik dvakrat v treh dneh postavil svetovni rekord v Rubikovi kocki"
+   },
+   {
+    "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+    "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-22T195848Z_1311607095_RC2JONACONJH_RTRMADP_3_USA-TRUMP-GULF-1790143066.jpg?resize=1920%2C1440",
+    "date": 1790138535000,
+    "titleSl": "V ZDA in Iranu potekajo pogovori Generalne skupščine ZN o končanju vojne in odprtju Hormuške ožine"
    }
   ],
   "guardian": [
@@ -414,6 +414,19 @@
   ],
   "bild": [
    {
+    "title": "Heimkehr zum Jugendverein - Mühl trainiert als Gast bei Nürnbergs U23",
+    "link": "https://www.bild.de/sport/fussball/fcn-heimkehr-zum-jugendverein-muehl-trainiert-bei-nuernbergs-u23-6ab37a10a15a9fecb668c65d",
+    "image": "https://images.bild.de/6ab37a10a15a9fecb668c65d/72a642546306bdcceaa7475c46d0cd9f,84ce226b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Reaktion nach Kritik - Jetzt will Real einen neuen Liga-Boss",
+    "link": "https://www.bild.de/sport/fussball/real-madrid-gegen-javier-tebas-klub-fordert-neuen-liga-chef-6ab38001174ceb992b6e708d",
+    "image": "https://images.bild.de/6ab38001174ceb992b6e708d/112c279f37a00cb2ee99257ade7a7dde,9ed0c64d?w=1280",
+    "date": 0,
+    "titleSl": "Reaktion nach Kritik - Jetzt bo Real einen neuen Liga-Boss"
+   },
+   {
     "title": "Aktivistengruppe Robin Wood - Umweltschützer besetzen CDU-Zentrale in Berlin",
     "link": "https://www.bild.de/news/aktivistengruppe-robin-wood-umweltschuetzer-besetzen-cdu-zentrale-in-berlin-6ab37e2c26bf333ba996b6d1",
     "image": "https://images.bild.de/6ab37e2c26bf333ba996b6d1/d7b5f3bbc6319665f58d2d2e9bb0be78,30007042?w=1280",
@@ -439,54 +452,42 @@
     "image": "https://images.bild.de/6ab37f9a174ceb992b6e7085/6a51ad6fc41b492f3f6a95fcc4a0e297,18e4a87d?w=1280",
     "date": 0,
     "titleSl": "Mehrere Festnahmen - Riesige Waffen-Razzia v Berlinu"
-   },
-   {
-    "title": "Neue brisante Dokumente aufgetaucht - Hitlers Alibi zum Tod seiner Nichte geplatzt",
-    "link": "https://www.bild.de/news/inland/adolf-hitler-alibi-des-diktators-zum-tod-seiner-nichte-geplatzt-6ab35ed6a15a9fecb668c4d9",
-    "image": "https://images.bild.de/6ab35ed6a15a9fecb668c4d9/92b01f904323385396337066ae3f8fa2,ec1af3fd?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Überraschendes Profi-Debüt - Dynamo-Coach Stamm überrumpelt Neininger",
-    "link": "https://www.bild.de/sport/fussball/dynamo-dresden-profi-debuet-coach-stamm-ueberrumpelt-neininger-6ab37365274d1bab27b61ab1",
-    "image": "https://images.bild.de/6ab37365274d1bab27b61ab1/867b2ecf2a19bb0e8d0aba674e1439ac,5b1827cf?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "„Fat Bear“-Contest: Kann „Chunk“ den Titel holen?",
+    "title": "„Fat Bear“-Contest: Kann „Chunk“ den Titel holen? - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16cmlsSjlYUDBYTGJ1UkNkOVBOTlhfdlFndHdyNFBsNWlJZzdQMTk1VnlyY0lFbzVDWHFRcWlOaXNEdw?oc=5",
     "image": "",
     "date": 1790149200000,
-    "titleSl": "\"Fat Bear\"- Tekmovanje: Kann \"Chunk\" den Titel holen?"
+    "titleSl": "\"Fat Bear\"- Tekmovanje: Kann \"Chunk\" den Titel holen? - krone.at"
    },
    {
-    "title": "Für Karten angefeindet - Pilzjäger schießen scharf gegen einen „Verräter“",
+    "title": "Für Karten angefeindet - Pilzjäger schießen scharf gegen einen „Verräter“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90S0ZEalZvQ3lRWGJaMnVNTDdUdlUzOEwxYW9HRXpQREc1eVVjd3hvSzdpZUpYU1V6eWhadi0tWk91dw?oc=5",
     "image": "",
     "date": 1790148682000
    },
    {
-    "title": "„Vielleicht spürte Larissa ihren zu frühen Tod“",
+    "title": "„Vielleicht spürte Larissa ihren zu frühen Tod“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aWWEzQURGdm9Kb2did2F2YXJYRXdwampMWHBiWTl1d2dGVlR4OWJUTnVXODNPNi1Wd25hd1FQLU1OWTFHWVF3?oc=5",
     "image": "",
     "date": 1790148480000
    },
    {
-    "title": "Will EU-Sondergipfel - Fico schimpft über „gierige Ölfirmen“",
+    "title": "Will EU-Sondergipfel - Fico schimpft über „gierige Ölfirmen“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zR21hYTZoTlI2Tmt4Ujd6RzNzUi1xWlNETUNtblRadnJyNzN3Y3FiUEpITXJLUjhWejN6VTVoZTFGdw?oc=5",
     "image": "",
     "date": 1790148420000
    },
    {
-    "title": "Fahndung nach Tätern - Nächtliche Einbrecher plünderten Baucontainer",
+    "title": "Fahndung nach Tätern - Nächtliche Einbrecher plünderten Baucontainer - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMcUVseEVBWlg0bzJvalNaSFl4TkRTOVpPRGFWV0JTc1FNOWQxU21mUnphZ1Itd3ZzTy1MTWNCNEs2Zw?oc=5",
     "image": "",
     "date": 1790148180000
    },
    {
-    "title": "Steirischer Besuch - Schwarzenegger endlich mit Heather auf der Wiesn",
+    "title": "Steirischer Besuch - Schwarzenegger endlich mit Heather auf der Wiesn - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ITTdmMVVCczJ3eVp1Z1FWOEpUYm92TTF4T3gxc1JDYU8xZndyM3p2S2hlSEdGM05EN05CM3hBUndEdw?oc=5",
     "image": "",
     "date": 1790147820000
