@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T17:32:28.054Z",
+ "generatedAt": "2026-09-23T17:34:28.732Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Protesti zaradi prisilne izselitve 87-letnice, ki ni mogla več plačevati oderuške najemnine",
+    "link": "https://www.rtvslo.si/svet/evropa/protesti-zaradi-prisilne-izselitve-87-letnice-ki-ni-mogla-vec-placevati-oderuske-najemnine/794676",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/23/67106418.jpg",
+    "date": 1790184372000
+   },
+   {
     "title": "Linz - Olimpija",
     "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/linz-olimpija/794675",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/18/67105373.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/okolje/kmetijstvo/svoboda-vlozila-intervencijski-zakon-vlade-v-senci-za-pomoc-kmetom-po-susi/794669",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/13/67067326.jpg",
     "date": 1790178720000
-   },
-   {
-    "title": "Črnigoj z Apeninskega polotoka na Ciper",
-    "link": "https://www.rtvslo.si/sport/nogomet/crnigoj-z-apeninskega-polotoka-na-ciper/794666",
-    "image": "https://img.rtvcdn.si/_up/upload/2021/05/28/65894759.jpg",
-    "date": 1790178205000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Family 'heartbroken' after mother and three children died in fire",
+    "link": "https://www.bbc.co.uk/news/articles/ckpq03g8940po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74dd/live/e565c490-b773-11f1-a7b2-f3bdba1cd194.png",
+    "date": 1790184809000,
+    "titleSl": "Družina \"zlomljenega srca\", potem ko so mama in trije otroci umrli v požaru"
+   },
+   {
     "title": "Home secretary says undetected migrant landings 'unacceptable'",
     "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/7f7784d0-b772-11f1-a430-4d16ee157c41.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg",
     "date": 1790181619000,
     "titleSl": "Harvey Weinstein obsojen na 15 let zapora zaradi spolnega napada"
-   },
-   {
-    "title": "Is Burnham right to blame Russia for spreading online disinformation?",
-    "link": "https://www.bbc.co.uk/news/articles/ckd79wldjzl4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b421/live/92f50c40-b76c-11f1-bc1f-3f186ca4140c.png",
-    "date": 1790181311000,
-    "titleSl": "Ali ima Burnham pravico kriviti Rusijo za širjenje dezinformacij na spletu?"
    }
   ],
   "aljazeera": [
@@ -331,46 +331,46 @@
   ],
   "guardian": [
    {
+    "title": "No signs Chagos deal can be adapted to suit Trump, UK officials believe",
+    "link": "https://www.theguardian.com/world/2026/sep/23/no-signs-chagos-deal-adapted-suit-donald-trump-officials-believe",
+    "image": "https://i.guim.co.uk/img/media/156523eec2f23040517498bcd70e8465f7a15210/0_17_4650_3720/master/4650.jpg?width=140&quality=85&auto=format&fit=max&s=91267c1b26058d957e0f18084b24161d",
+    "date": 1790184360000,
+    "titleSl": "Nobenih znakov Chagosa ni mogoče prilagoditi, da bi ustrezal Trumpu, menijo uradniki Združenega kraljestva"
+   },
+   {
+    "title": "FBI investigates breach of jobs website as hackers claim ‘very sensitive data’ stolen",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/fbi-jobs-website-hacked",
+    "image": "https://i.guim.co.uk/img/media/c0eb95dd1bbe3257a542e0f1cb37ddb22d8a9961/0_182_4774_3818/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=1e17b36cf763c5d11373bb66a27c6706",
+    "date": 1790184345000,
+    "titleSl": "FBI preiskuje kršitev spletnega mesta za delovna mesta, saj hekerji trdijo, da so ukradeni \"zelo občutljivi podatki\""
+   },
+   {
+    "title": "UK to launch military squadron to protect satellites in space",
+    "link": "https://www.theguardian.com/politics/2026/sep/23/uk-raf-military-squadron-protect-satellites-in-space",
+    "image": "https://i.guim.co.uk/img/media/4cc8b1b94262a1149261a28684b773cac7485f5d/128_0_1297_1038/master/1297.jpg?width=140&quality=85&auto=format&fit=max&s=b3d423c4d05da4ee4c350514527534ce",
+    "date": 1790184313000,
+    "titleSl": "Velika Britanija bo lansirala vojaško eskadriljo za zaščito satelitov v vesolju"
+   },
+   {
+    "title": "Philadelphia teacher admits to lying about being Palestinian and Black: ‘I hid the truth’",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/philadelphia-teacher-palestine-activist-lies",
+    "image": "https://i.guim.co.uk/img/media/b0389f03eb66100f411b0fba906afc2e68d5c537/0_0_1310_1048/master/1310.jpg?width=140&quality=85&auto=format&fit=max&s=7dadb76fee12d15f78b5080cbedac14d",
+    "date": 1790184207000,
+    "titleSl": "Učitelj iz Filadelfije priznava, da je lagal o tem, da je Palestinec in črnec: »Skril sem resnico«"
+   },
+   {
     "title": "Trump lawyers defend president banning journalists from White House ahead of court hearing – live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/63bf1057cdaadff5f64df3ae63779f9062a47e7d/690_335_4245_3396/master/4245.jpg?width=140&quality=85&auto=format&fit=max&s=d7995526330b6a77636de28ea9db2416",
-    "date": 1790182851000,
+    "date": 1790184102000,
     "titleSl": "Trumpovi odvetniki branijo predsednika, ki novinarjem pred sodno obravnavo prepoveduje vstop v Belo hišo – v živo"
    },
    {
-    "title": "Argentina’s Milei slams ‘useless’ UN at its summit, saying it ‘looked the other way’ over Falkland Islands - live",
+    "title": "Iran’s president says his country’s people have been ‘victims of terrorism’ by the United States - live",
     "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/30719d636b6e20f9c5bb06780da248584ac5f7b7/468_0_4272_3416/master/4272.jpg?width=140&quality=85&auto=format&fit=max&s=f68527b3427da0d4074c2925e389d60a",
+    "image": "https://i.guim.co.uk/img/media/113ac011f946b612d245beadcf40fcbb44fcc39b/379_0_3292_2635/master/3292.jpg?width=140&quality=85&auto=format&fit=max&s=fc10184f33cc83df6e9a3ed19ed52a2e",
     "date": 1790182306000,
-    "titleSl": "Argentinski Milei na svojem vrhu kritizira \"neuporabne\" Združene narode in pravi, da je \"pogledal v drugo smer\" nad Falklandskimi otoki - v živo"
-   },
-   {
-    "title": "Iran’s leader hits out at ‘bully’ Trump in UN speech but signals willingness to talk",
-    "link": "https://www.theguardian.com/world/2026/sep/23/iranian-leader-hits-back-at-bully-trump-signals-willingness-to-talk",
-    "image": "https://i.guim.co.uk/img/media/aece55705f95ae54a84d9e97036afc15bcf48fca/225_0_2735_2188/master/2735.jpg?width=140&quality=85&auto=format&fit=max&s=c33dd92ec59d3507736853f701b05540",
-    "date": 1790181897000,
-    "titleSl": "Iranski vodja je v govoru v ZN udaril na Trumpa \"nasilneža\", vendar je pokazal pripravljenost na pogovore"
-   },
-   {
-    "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
-    "link": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
-    "image": "https://i.guim.co.uk/img/media/59fd8a58d4e3f18740bed48db7f7c27b26cf7d44/60_0_2443_1954/master/2443.jpg?width=140&quality=85&auto=format&fit=max&s=42351be44920cf4c175677f962fcd135",
-    "date": 1790181472000,
-    "titleSl": "Nemčija se zavezuje, da bo prvič postopoma opustila fosilna goriva s ciljem 2045"
-   },
-   {
-    "title": "Does Airtel Money mark the end of London’s listing drought? Not yet | Nils Pratley",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/23/airtel-money-london-stock-exchange-listing-drought",
-    "image": "https://i.guim.co.uk/img/media/0cb421007ba094b5dcf6229414bc0d79c7772fbc/491_506_4284_3429/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=b38d503a5c3c049a084f6a8885461e10",
-    "date": 1790180757000,
-    "titleSl": "Ali Airtel Money označuje konec suše v vnosu v Londonu? Ne še | Nils Pratley"
-   },
-   {
-    "title": "UK politics: PM’s new anti-disinformation unit gets cross-party backing, as Farage declares it an attack on free speech – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/526ccf6c90c147ffc87eb6535ffade18003b1264/29_232_4550_3640/master/4550.jpg?width=140&quality=85&auto=format&fit=max&s=7c63c55a029423c56a8e48bbfafc00f1",
-    "date": 1790179254000,
-    "titleSl": "Politika Združenega kraljestva: Premierjeva nova protidezinformacijska enota ima medstrankarsko podporo, saj jo Farage razglaša za napad na svobodo govora – kot se je zgodilo"
+    "titleSl": "Iranski predsednik pravi, da so bili ljudje njegove države \"žrtve terorizma\" Združenih držav - v živo"
    }
   ],
   "spiegel": [
@@ -455,6 +455,19 @@
   ],
   "krone": [
    {
+    "title": "Von Kamera gefilmt - Diebischer Mitarbeiter war heimlicher Fleischtiger",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GclFPTDVGRVlPdk9DNWJra2ZZa1QzREpEUXFERG8xSlhNa1VlOXdrdXBoMmNsRUJiRXNYZWNHREJiUQ?oc=5",
+    "image": "",
+    "date": 1790184720000,
+    "titleSl": "Von Kamera gefilmt - Diebischer Mitarbeiter vojni heimlicher Fleischtiger"
+   },
+   {
+    "title": "Gegner zeigt Respekt - Israel-Teamchef: „Österreicher sind sehr stark“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE80VnZvNlhKZFgtb2thMklDckNuUmYyVEEtaktHZzZ2VjdJODc3eDF2RTk2VGhodldWTk1sS2MySWhBQQ?oc=5",
+    "image": "",
+    "date": 1790184720000
+   },
+   {
     "title": "Polizei prüft Sabotage - Kugelbombe nahe Hochspannungsmast gefunden",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RX2pTb0s1VEloMzBRODdLVXlVeVIzUjJHOFVSV1Nfd3dSQmllLUdCV3RLVWRaU0o5bEpLNkJrbkIzdw?oc=5",
     "image": "",
@@ -477,18 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9EaVlaUUMycWlfaTZzamNTZjZzRUJfNEViTW1QeFh4d1htdDFhdFFpRmxuejVXamxKaXdlRnotSXpFZw?oc=5",
     "image": "",
     "date": 1790183700000
-   },
-   {
-    "title": "Auch das noch - Salzburg muss auf Schlüsselspieler verzichten",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4WkI3RnNTa3VDRnpHVW9WMU9rMWJia09NZ1N3QWtyQllLWHRmY3dMaXUzWmltZXp4SWJIeHV6Y1NqZw?oc=5",
-    "image": "",
-    "date": 1790182860000
-   },
-   {
-    "title": "Kaum noch Freiwillige - Essen auf Rädern: „Wir brauchen dringend Helfer“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pc0FsakVXSWdfY251RnNPZ3NpdVdXVFFYUGtybVRYNWxIQlFOQ3dHS1l3MXROb1hWOGpBWmZxQzRRdw?oc=5",
-    "image": "",
-    "date": 1790182800000
    }
   ],
   "rainews": [
@@ -537,7 +538,7 @@
    {
     "title": "Bernard-Henri Lévy au miroir des autres : « Le Monde » publie des extraits de ses Mémoires",
     "link": "https://www.lemonde.fr/livres/article/2026/09/23/bernard-henri-levy-au-miroir-des-autres-le-monde-publie-des-extraits-de-ses-memoires_6780950_3260.html",
-    "image": "https://img.lemde.fr/2026/09/23/167/0/2000/1000/644/322/60/0/557539c_upload-1-fyjybsfi4h30-abacanewsroy-989329-001.jpg",
+    "image": "https://img.lemde.fr/2026/09/18/0/0/6984/3492/644/322/60/0/3e34186_upload-1-zwjzau9glazs-000-324992a.jpg",
     "date": 1790182809000
    },
    {
