@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T09:32:26.024Z",
+ "generatedAt": "2026-09-23T09:34:27.719Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Nissan pixo: novomeška trojka ima zdaj vse člane",
+    "link": "https://www.zurnal24.si/avto/na-strom/nissan-pixo-novomeska-trojka-ima-zdaj-vse-clane-465423",
+    "image": "https://www.zurnal24.si/media/img/80/3b/31459348b72beedc7e7a.jpeg",
+    "date": 1790155980000
+   },
+   {
     "title": "Tu so podrobnosti o Petrolovi novosti: Toliko denarja boste lahko dvignili",
     "link": "https://www.zurnal24.si/slovenija/tu-so-dodatne-informacije-o-petrolovi-novosti-toliko-denarja-boste-lahko-dvignili-465588",
     "image": "https://www.zurnal24.si/media/img/56/2f/c6d4912366f858414e08.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kolesarstvo/pogacar-med-prijavljenimi-za-ep-oglasil-se-je-uae-465579",
     "image": "https://www.zurnal24.si/media/img/1e/67/e0154a1714c9b566e959.jpeg",
     "date": 1790148060000
-   },
-   {
-    "title": "Serija drznih tatvin, pazite se dveh suhcev na skiroju",
-    "link": "https://www.zurnal24.si/slovenija/serija-drznih-tatvin-pazite-se-dveh-suhcev-na-skiroju-465578",
-    "image": "https://www.zurnal24.si/media/img/ce/b3/984bb9f90b372794d3fc.png",
-    "date": 1790147580000
    }
   ],
   "reuters": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "UN General Assembly quiz: Who said these 10 famous quotes?",
+    "link": "https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/UNGA-faces-quiz-2026-1789997486.jpg?resize=1200%2C675",
+    "date": 1790154401000,
+    "titleSl": "Kviz Generalne skupščine ZN: Kdo je izrekel teh 10 znanih citatov?"
+   },
+   {
+    "title": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
+    "link": "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2191583725-1790149057.jpg?resize=1920%2C1440",
+    "date": 1790154122000,
+    "titleSl": "Katarski prvak v reliju Dakar Nasser Al-Attiyah zmagal na Azijskih igrah"
+   },
+   {
     "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
     "link": "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab37e8f7b-1790148239_372df8-1790149615.jpg?resize=1200%2C630&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/HS2KBsIWcAIwqt-1790148644.jpeg?resize=1200%2C675",
     "date": 1790152835000,
     "titleSl": "Katar pravi, da \"ni alternative diplomaciji\" , saj Belgija in Ruanda obnavljata vezi"
-   },
-   {
-    "title": "At least 11 people killed in South Africa township shooting",
-    "link": "https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-23T080742Z_1402804925_RC2WONANEYI2_RTRMADP_3_SAFRICA-CRIME-1790153032.jpg?resize=1920%2C1440",
-    "date": 1790148718000,
-    "titleSl": "V streljanju v južnoafriškem okrožju je umrlo najmanj 11 ljudi"
-   },
-   {
-    "title": "Pakistan’s latest Trump bet is on drone firm already selling to India",
-    "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/045ce01c-bc3f-4ff7-845a-24893e48cc3b-1790078066.jpg?resize=1600%2C1080",
-    "date": 1790147934000,
-    "titleSl": "Najnovejša Trumpova stava Pakistana je na podjetje za brezpilotna letala, ki že prodaja Indiji"
    }
   ],
   "guardian": [
@@ -415,10 +415,16 @@
   "bild": [
    {
     "title": "Wegen Zusammenbrüchen - Wann Musiala seine DFB-Kollegen einweihte",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-wegen-zusammenbruechen-wann-musiala-seine-dfb-kollegen-einweihte-6ab25942a15a9fecb668b5a7",
+    "link": "https://www.bild.de/sport/fussball/dfb-jamal-musiala-weihte-seine-kollegen-bei-der-nationalmannschaft-ein-6ab25942a15a9fecb668b5a7",
     "image": "https://images.bild.de/6ab25942a15a9fecb668b5a7/9ece10a0b12784f00b8014f05bb0f25b,3ac9b510?w=1280",
     "date": 0,
     "titleSl": "Wegen Zusammenbrüchen - Wann Musiala potegalka DFB-Kollegen einweihte"
+   },
+   {
+    "title": "Nach Malocher-Ansage - Die Wahrheit über Kölns XXL-Pause",
+    "link": "https://www.bild.de/sport/fussball/1-fc-koeln-nach-malocher-ansage-die-wahrheit-ueber-koelns-xxl-pause-6ab254eab1857e86757aaa2f",
+    "image": "https://images.bild.de/6ab254eab1857e86757aaa2f/fe5b597840723c65b33bb1cf56553b24,f109a1a4?w=1280",
+    "date": 0
    },
    {
     "title": "„Robin Wood“ - Umweltaktivisten besetzen CDU-Zentrale in Berlin",
@@ -445,12 +451,6 @@
     "image": "https://images.bild.de/6ab38b25e5b1ca08382b52b2/17dd5c87a1919d8f90c86603f0053a73,a31bb06b?w=1280",
     "date": 0,
     "titleSl": "Wieder Darum läuft! - Anzünd-Befehl für die Werder-Stars"
-   },
-   {
-    "title": "Tanz-Video mit Knall - Ihre Schritte sitzen, bis der Spiegel fällt",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/millionen-sehen-zu-taenzerin-erlebt-heftigen-spiegel-crash-mitten-in-der-choreo-6aad3c43b1857e86757a63d6",
-    "image": "https://images.bild.de/6aad3c43b1857e86757a63d6/f498aeec910f855518d051e3dd638cbf,963b9b42?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -559,7 +559,7 @@
     "title": "Carburants : l’aide aux grands rouleurs est « une usine à gaz » qui ne « répond pas au problème », dénonce Sophie Binet, la secrétaire générale de la CGT",
     "link": "https://www.lemonde.fr/economie/article/2026/09/23/carburants-l-aide-aux-grands-rouleurs-est-une-usine-a-gaz-qui-ne-repond-pas-au-probleme-denonce-sophie-binet-la-secretaire-generale-de-la-cgt_6780797_3234.html",
     "image": "https://img.lemde.fr/2026/09/12/0/0/6720/3360/644/322/60/0/f5362ad_upload-1-swg1jrc0t6rv-cbi1334016.jpg",
-    "date": 1790149890000,
+    "date": 1790149888000,
     "titleSl": "Carburants : l'aide aux grands rouleurs est « une usine à gaz » qui ne « répond pas au problème », dénonce Sophie Binet, la secrétaire générale de la CGT"
    },
    {
@@ -581,7 +581,7 @@
     "title": "Crisis en Ceuta y actualidad política, en directo | Calma en las fronteras blindadas de Ceuta y Melilla en un día de alerta por la amenaza de un nuevo salto masivo",
     "link": "https://elpais.com/espana/2026-09-23/crisis-en-ceuta-y-actualidad-politica-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/YI22SLBUIVGZBP4WUFBIJAYRRU.jpg?auth=e9f1bef5dcc0779018f049c425193f6ea10c78eae37124bb51d0a45177879f6a",
-    "date": 1790155387000
+    "date": 1790155732000
    },
    {
     "title": "Armengol obliga a la diputada popular Ana Vázquez a abandonar el Congreso tras sacar un bote de gas pimienta",
