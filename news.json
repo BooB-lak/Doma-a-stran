@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T07:48:27.648Z",
+ "generatedAt": "2026-09-23T07:50:43.466Z",
  "sources": {
   "siol": [
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "At least 11 people killed in South Africa township shooting",
-    "link": "https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/SA_KWA-NATAL_MAP-1790147741.png?resize=1920%2C1080&quality=80",
-    "date": 1790148718000,
-    "titleSl": "V streljanju v južnoafriškem okrožju je umrlo najmanj 11 ljudi"
-   },
-   {
     "title": "Pakistan’s new drone deal is with Trump-backed firm also selling to India",
     "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/045ce01c-bc3f-4ff7-845a-24893e48cc3b-1790078066.jpg?resize=1600%2C1080",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790139982.jpg?resize=1920%2C1080&quality=80",
     "date": 1790140046000,
     "titleSl": "Cilj Generalne skupščine ZN je sodelovanje, vendar ali je to mogoče?"
+   },
+   {
+    "title": "Six-year-old sets Rubik’s Cube world record twice in three days",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790139449.jpg?resize=1920%2C1080&quality=80",
+    "date": 1790139488000,
+    "titleSl": "Šestletnik dvakrat v treh dneh postavil svetovni rekord v Rubikovi kocki"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Australia news live: Shoebridge says US submission on online safety laws an ‘extraordinary intervention in our domestic politics’",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/98b753eeb5a84fba3fbb814a3c6f5daef51d18f4/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7954f247979ee83553fbfec0ba5671a5",
-    "date": 1790148569000,
+    "date": 1790148660000,
     "titleSl": "Avstralske novice v živo: Shoebridge pravi, da je predložitev ameriških zakonov o spletni varnosti \"izredni poseg v našo notranjo politiko\""
    },
    {
@@ -421,6 +421,18 @@
     "titleSl": "Mehrere Festnahmen - Riesige Waffen-Razzia v Berlinu"
    },
    {
+    "title": "Bänderriss bei Abwehrchef - Mega-Problem für Lok Leipzig vorm Erfurt-Kracher",
+    "link": "https://www.bild.de/sport/fussball/baenderriss-bei-abwehrchef-mega-problem-fuer-lok-leipzig-vorm-erfurt-kracher-6ab268a2a15a9fecb668b758",
+    "image": "https://images.bild.de/6ab268a2a15a9fecb668b758/debb72d8c67f17fa17c1968ea8282f27,a190a5f5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Er spielte für Lok Leipzig und Chemie - Neuer Trainer-Job für Fußball-Weltenbummler",
+    "link": "https://www.bild.de/sport/fussball/er-spielte-fuer-lok-und-chemie-neuer-trainer-job-fuer-weltenbummler-6ab2446fb1857e86757aa803",
+    "image": "https://images.bild.de/6ab2446fb1857e86757aa803/651252db7c0f4959b16e6811583b8eab,6229723a?w=1280",
+    "date": 0
+   },
+   {
     "title": "Aktivistengruppe Robin Wood - Umweltschützer besetzen CDU-Zentrale in Berlin",
     "link": "https://www.bild.de/news/aktivistengruppe-robin-wood-umweltschuetzer-besetzen-cdu-zentrale-in-berlin-6ab37e2c26bf333ba996b6d1",
     "image": "https://images.bild.de/6ab37e2c26bf333ba996b6d1/d7b5f3bbc6319665f58d2d2e9bb0be78,30007042?w=1280",
@@ -438,59 +450,45 @@
     "link": "https://www.bild.de/sport/fussball/fcn-heimkehr-zum-jugendverein-muehl-trainiert-bei-nuernbergs-u23-6ab37a10a15a9fecb668c65d",
     "image": "https://images.bild.de/6ab37a10a15a9fecb668c65d/72a642546306bdcceaa7475c46d0cd9f,84ce226b?w=1280",
     "date": 0
-   },
-   {
-    "title": "Reaktion nach Kritik - Jetzt will Real einen neuen Liga-Boss",
-    "link": "https://www.bild.de/sport/fussball/real-madrid-gegen-javier-tebas-klub-fordert-neuen-liga-chef-6ab38001174ceb992b6e708d",
-    "image": "https://images.bild.de/6ab38001174ceb992b6e708d/112c279f37a00cb2ee99257ade7a7dde,9ed0c64d?w=1280",
-    "date": 0,
-    "titleSl": "Reaktion nach Kritik - Jetzt bo Real einen neuen Liga-Boss"
-   },
-   {
-    "title": "Spontaner Roadtrip könnte Problem werden - Werden US-Einreisekontrollen heimlich strenger?",
-    "link": "https://www.bild.de/leben-wissen/sparfochs/us-einreise-wann-grenzer-bei-reiseplaenen-genauer-nachfragen-6ab23b6078c3aee053a3c9fc",
-    "image": "https://images.bild.de/6ab23b6078c3aee053a3c9fc/1b654d50dda8e2910b79987bd23eba8b,b252799b?w=1280",
-    "date": 0,
-    "titleSl": "Spontaner Roadtrip könnte Problem werden - Werden US-Einreisekontrollen heimlich Strenger?"
    }
   ],
   "krone": [
    {
-    "title": "„Fat Bear“-Contest: Kann „Chunk“ den Titel holen? - krone.at",
+    "title": "103 Mrd. US-Dollar - KI-Boom beflügelt Taiwans Technologieexporte",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WNUU2NjIzNVhGMXJWZktzU2hNc28wS2NXbjA4UTVhdFloQ081dEV1Z252OEdEWkhOOWNmRkJFVU1Mdw?oc=5",
+    "image": "",
+    "date": 1790149680000
+   },
+   {
+    "title": "„Fat Bear“-Contest: Kann „Chunk“ den Titel holen?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16cmlsSjlYUDBYTGJ1UkNkOVBOTlhfdlFndHdyNFBsNWlJZzdQMTk1VnlyY0lFbzVDWHFRcWlOaXNEdw?oc=5",
     "image": "",
     "date": 1790149200000,
-    "titleSl": "\"Fat Bear\"- Tekmovanje: Kann \"Chunk\" den Titel holen? - krone.at"
+    "titleSl": "\"Fat Bear\"- Tekmovanje: Kann \"Chunk\" den Titel holen?"
    },
    {
-    "title": "Für Karten angefeindet - Pilzjäger schießen scharf gegen einen „Verräter“ - krone.at",
+    "title": "Für Karten angefeindet - Pilzjäger schießen scharf gegen einen „Verräter“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90S0ZEalZvQ3lRWGJaMnVNTDdUdlUzOEwxYW9HRXpQREc1eVVjd3hvSzdpZUpYU1V6eWhadi0tWk91dw?oc=5",
     "image": "",
     "date": 1790148682000
    },
    {
-    "title": "„Vielleicht spürte Larissa ihren zu frühen Tod“ - krone.at",
+    "title": "„Vielleicht spürte Larissa ihren zu frühen Tod“",
     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aWWEzQURGdm9Kb2did2F2YXJYRXdwampMWHBiWTl1d2dGVlR4OWJUTnVXODNPNi1Wd25hd1FQLU1OWTFHWVF3?oc=5",
     "image": "",
     "date": 1790148480000
    },
    {
-    "title": "Will EU-Sondergipfel - Fico schimpft über „gierige Ölfirmen“ - krone.at",
+    "title": "Will EU-Sondergipfel - Fico schimpft über „gierige Ölfirmen“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zR21hYTZoTlI2Tmt4Ujd6RzNzUi1xWlNETUNtblRadnJyNzN3Y3FiUEpITXJLUjhWejN6VTVoZTFGdw?oc=5",
     "image": "",
     "date": 1790148420000
    },
    {
-    "title": "Fahndung nach Tätern - Nächtliche Einbrecher plünderten Baucontainer - krone.at",
+    "title": "Fahndung nach Tätern - Nächtliche Einbrecher plünderten Baucontainer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMcUVseEVBWlg0bzJvalNaSFl4TkRTOVpPRGFWV0JTc1FNOWQxU21mUnphZ1Itd3ZzTy1MTWNCNEs2Zw?oc=5",
     "image": "",
     "date": 1790148180000
-   },
-   {
-    "title": "Steirischer Besuch - Schwarzenegger endlich mit Heather auf der Wiesn - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ITTdmMVVCczJ3eVp1Z1FWOEpUYm92TTF4T3gxc1JDYU8xZndyM3p2S2hlSEdGM05EN05CM3hBUndEdw?oc=5",
-    "image": "",
-    "date": 1790147820000
    }
   ],
   "rainews": [
@@ -500,6 +498,13 @@
     "image": "https://www.rainews.it/dl/img/2026/9/23/1790148705539_videoframe.png",
     "date": 1790148240000,
     "titleSl": "Prix Italia, Marsilio: \"L'Aquila protagonista, l' Abruzzo valorizza cultura e audiovisivo\""
+   },
+   {
+    "title": "Al via a L&#x27;Aquila la 78esima edizione del Prix Italia, l&#x27;uomo al centro della creatività",
+    "link": "https://www.rainews.it/articoli/2026/09/al-via-a-laquila-il-prix-italia-luomo-al-centro-della-creativita-4c235ece-65b4-4c1a-aafe-faa22669ef07.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/23/1790141988376___PROMO_di_Creativa.jpg",
+    "date": 1790145600000,
+    "titleSl": "Al via a L'Aquila la 78esima edizione del Prix Italia, l 'uomo al centro della creatività"
    },
    {
     "title": "Incidente sul lavoro al Colosseo: morto un operaio di 22 anni",
@@ -526,13 +531,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/23/1790143224632_videoframe.png",
     "date": 1790142900000,
     "titleSl": "Prix Italia, Giampaolo Rossi: \"L 'impegno RAI nel segno della qualità e del valore dell'humano\""
-   },
-   {
-    "title": "Prix Italia sceglie L&#x27;Abruzzo: tra natura incontaminata e capolavori architettonici",
-    "link": "https://www.rainews.it/video/2026/09/il-prix-italia-2026-sceglie-labruzzo-laquila-al-centro-della-creativita-tra-cultura-e-audiovisivo-2f867bb0-d665-42bb-be83-6275ac29ebab.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/23/1790142658632___Clip_muta_Tappeto_immagini_Abruzzo.jpg",
-    "date": 1790142660000,
-    "titleSl": "Prix Italia sceglie L'Abruzzo: tra natura incontaminata e capolavori architettonici"
    }
   ],
   "lemonde": [
