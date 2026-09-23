@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T22:19:02.449Z",
+ "generatedAt": "2026-09-23T22:20:45.690Z",
  "sources": {
   "siol": [
    {
@@ -206,6 +206,13 @@
     "titleSl": "Medtem ko Trump pozdravlja Xija, ima več Američanov pozitiven pogled na Kitajsko"
    },
    {
+    "title": "Melania Trump’s Busy Schedule: A New Show, a Foster-Care Bill and Reading Executive Orders",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html",
+    "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23dc-melania-01-jlfm/23dc-melania-01-jlfm-mediumSquareAt3X.jpg",
+    "date": 1790200625000,
+    "titleSl": "Melania Trump's Busy Schedule: A New Show, a Foster-Care Bill and Reading Executive Orders"
+   },
+   {
     "title": "Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records",
     "link": "https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23dc-hack-01-fmjv/23dc-hack-01-fmjv-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23dc-g20-russia-mqvz/23dc-g20-russia-mqvz-mediumSquareAt3X.jpg",
     "date": 1790199628000,
     "titleSl": "Trump povabil Putina na vrh skupine 20 v Miamiju"
-   },
-   {
-    "title": "Could Hurricane Polo Bring Rain to Southern California? Probably Not.",
-    "link": "https://www.nytimes.com/2026/09/23/weather/hurricane-polo-los-angeles.html",
-    "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23wea-socal-polo-01-mbpq/23wea-socal-polo-01-mbpq-mediumSquareAt3X.jpg",
-    "date": 1790199521000,
-    "titleSl": "Bi lahko orkan Polo prinesel dež v južno Kalifornijo? Verjetno ne."
    }
   ],
   "bbc": [
@@ -331,20 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Australia news live: OECD says Australia will struggle to get inflation below 3%; Qantas staff strike",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/5b7b2c0b76de4f45911fde0e78448880dab94231/166_0_2490_1992/master/2490.jpg?width=140&quality=85&auto=format&fit=max&s=591b685d38a0559392159be6bcdfb56c",
-    "date": 1790201077000,
-    "titleSl": "Avstralske novice v živo: OECD pravi, da se bo Avstralija borila, da bi inflacija padla pod 3%; stavka zaposlenih v Qantasu"
-   },
-   {
-    "title": "Judge promises to rule soon on Trump’s ban of journalists from the White House – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/63bf1057cdaadff5f64df3ae63779f9062a47e7d/690_335_4245_3396/master/4245.jpg?width=140&quality=85&auto=format&fit=max&s=d7995526330b6a77636de28ea9db2416",
-    "date": 1790200978000,
-    "titleSl": "Sodnik obljublja, da bo kmalu odločil o Trumpovi prepovedi novinarjev iz Bele hiše – v živo"
-   },
-   {
     "title": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
     "link": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
     "image": "https://i.guim.co.uk/img/media/dd16f1da40b5257810a4803658b554187cae221e/424_0_2688_2150/master/2688.jpg?width=140&quality=85&auto=format&fit=max&s=c565f8a174e4df3431901ccec3028457",
@@ -352,11 +338,25 @@
     "titleSl": "Milijoni v Angliji se ne zavedajo, da imajo stanje \"tihega morilca\", kažejo raziskave"
    },
    {
+    "title": "Australia news live: OECD says Australia will struggle to get inflation below 3%; travel woes as Qantas staff strike",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/5b7b2c0b76de4f45911fde0e78448880dab94231/166_0_2490_1992/master/2490.jpg?width=140&quality=85&auto=format&fit=max&s=591b685d38a0559392159be6bcdfb56c",
+    "date": 1790200651000,
+    "titleSl": "Novice iz Avstralije v živo: OECD pravi, da se bo Avstralija borila, da bi inflacija padla pod 3%; težave s potovanji zaradi stavke osebja Qant"
+   },
+   {
     "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
     "link": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
     "image": "https://i.guim.co.uk/img/media/37f9612332334c7d5cf7d41edbd2497e2170babd/639_0_6393_5114/master/6393.jpg?width=140&quality=85&auto=format&fit=max&s=87d180b8e1851db4d444f6733d08ac04",
     "date": 1790200530000,
     "titleSl": "Anthony Albanese pravi, da je agent OpenAI vdrl v Medicare in izrazil \"izjemno zaskrbljenost\" Samu Altmanu"
+   },
+   {
+    "title": "Judge promises to rule soon on Trump’s ban of journalists from the White House – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/63bf1057cdaadff5f64df3ae63779f9062a47e7d/690_335_4245_3396/master/4245.jpg?width=140&quality=85&auto=format&fit=max&s=d7995526330b6a77636de28ea9db2416",
+    "date": 1790200145000,
+    "titleSl": "Sodnik obljublja, da bo kmalu odločil o Trumpovi prepovedi novinarjev iz Bele hiše – v živo"
    },
    {
     "title": "‘We are not the ones seeking confrontation,’ Polish president says about Russia during UN address – live",
@@ -539,6 +539,13 @@
   ],
   "lemonde": [
    {
+    "title": "En Cisjordanie, le fils de l’ambassadeur israélien aux Etats-Unis grièvement blessé dans une attaque à la voiture-bélier",
+    "link": "https://www.lemonde.fr/international/article/2026/09/24/en-cisjordanie-le-fils-de-l-ambassadeur-israelien-aux-etats-unis-grievement-blesse-dans-une-attaque-a-la-voiture-belier_6781091_3210.html",
+    "image": "https://img.lemde.fr/2026/09/23/393/0/4349/2174/644/322/60/0/151c4a5_ftp-1-wbkae5frog9t-2026-09-23t155428z-1880489177-rc23pna09hb6-rtrmadp-3-israel-palestinians-ramming.JPG",
+    "date": 1790201928000,
+    "titleSl": "En Cisjordanie, le fils de l’ambassadeur israélien aux Etats-Unis grièvement Blessé dans une attaque à la voiture-bélier"
+   },
+   {
     "title": "Polémique Thélyson Orélien : comment fonctionne le détecteur de textes générés par IA, Pangram, et à quel point est-il fiable ?",
     "link": "https://www.lemonde.fr/pixels/article/2026/09/23/pangram-comment-fonctionnent-les-detecteurs-de-textes-generes-par-ia-et-a-quel-point-sont-ils-fiables_6781025_4408996.html",
     "image": "https://img.lemde.fr/2026/09/23/175/0/3000/1500/644/322/60/0/caa90b2_upload-1-ee9lbngxudb9-ia-edition-livres.jpg",
@@ -565,13 +572,6 @@
     "titleSl": "Israël : les partis arabes, cibles d'une campagne politique de la droite et de l' extrême droite, à un mois des élections législatives"
    },
    {
-    "title": "Philippe Baptiste, ministre de l’enseignement, supérieur veut imposer un débat sur « le rôle du bac » lors de la campagne présidentielle",
-    "link": "https://www.lemonde.fr/campus/article/2026/09/23/le-ministre-de-l-enseignement-superieur-veut-imposer-un-debat-sur-le-role-du-bac-lors-de-la-campagne-presidentielle_6780958_4401467.html",
-    "image": "https://img.lemde.fr/2026/09/09/1376/0/8256/4128/644/322/60/0/598fcda_ftp-1-uqyhr7vk6azd-5036791-01-06.jpg",
-    "date": 1790191610000,
-    "titleSl": "Philippe Baptiste, ministre de l'enseignement, supérieur veut imposer un débat sur « le rôle du bac » lors de la campagne présidentielle"
-   },
-   {
     "title": "Teddy Riner visé par des messages racistes en ligne, le parquet de Paris ouvre une enquête",
     "link": "https://www.lemonde.fr/politique/article/2026/09/23/teddy-riner-vise-par-des-messages-racistes-le-parquet-de-paris-ouvre-une-enquete_6780956_823448.html",
     "image": "https://img.lemde.fr/2026/09/23/451/0/5585/2792/644/322/60/0/dd80865_ftp-1-xbaehdrxzoot-5164251-01-06.jpg",
@@ -580,6 +580,18 @@
    }
   ],
   "elpais": [
+   {
+    "title": "Los marroquíes votan el ‘Gobierno del Mundial de Fútbol’ con una abstención del 62%",
+    "link": "https://elpais.com/internacional/2026-09-23/los-marroquies-votan-el-gobierno-del-mundial-de-futbol-en-medio-de-una-baja-participacion.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/4THLD3XGGRNKLFTITUJHIXL5RU.jpg?auth=c71a20e591505e362f9b0d25a167a34bb918a037eaf7f401b33f9d9858e07031",
+    "date": 1790201686000
+   },
+   {
+    "title": "Graham Hansen abre el camino del Barcelona en la Champions",
+    "link": "https://elpais.com/deportes/futbol/2026-09-23/graham-hansen-abre-el-camino-del-barcelona-en-la-champions.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/L7PFF3D2JJFXJP6YDEF5L5XHGI.JPG?auth=f5d3a44a69100689409433806e4b5cf7ba519f35c4b7bce08b10660058e8bd2c",
+    "date": 1790199022000
+   },
    {
     "title": "Un juez federal admite que Trump no siguió el procedimiento debido para vetar a CNN, Politico y MS Now de la Casa Blanca",
     "link": "https://elpais.com/us/2026-09-23/un-juez-federal-admite-que-trump-no-siguio-el-procedimiento-debido-para-vetar-a-cnn-politico-y-ms-now-de-la-casa-blanca.html",
@@ -606,19 +618,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/RPXSIXELIBPLHC6PTBLE7NUO6U.jpg?auth=08512076bdb19780f399bd9709d77148339b28eca431dff3f8727f5dece614d1",
     "date": 1790194682000,
     "titleSl": "Últimas noticias de la Asamblea General de la Onu, en directo | Volodímir Zelenski: \"Esta guerra ridícula con Ucrania debe acabar\""
-   },
-   {
-    "title": "Zelenski, ante la ONU: “Esta guerra ridícula e interminable debe acabar”",
-    "link": "https://elpais.com/internacional/2026-09-23/zelenski-ante-la-onu-esta-guerra-ridicula-e-interminable-debe-acabar.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/EADINM6E7RJZRCBXYEOPVMYRLU.jpg?auth=f2609c2e510ef9a0b62fa896b729844b72dd16b64de7fd972cf6d884c6c6380b",
-    "date": 1790193131000,
-    "titleSl": "Zelenski, ante la Onu: “Esta guerra ridícula e interminable debe acabar”"
-   },
-   {
-    "title": "Trump ultima un plan para prohibir las exportaciones de diésel durante 90 días",
-    "link": "https://elpais.com/economia/2026-09-23/trump-ultima-un-plan-para-prohibir-las-exportaciones-de-diesel-durante-90-dias.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6CBZLN2ABJOU3F47YWJGUS72G4.jpg?auth=32f42c08db8dca5fd615c732618c462d057db9a257f42f09c9d4fb2f4806438d",
-    "date": 1790188805000
    }
   ]
  },
