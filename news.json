@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T15:26:26.856Z",
+ "generatedAt": "2026-09-23T15:28:27.155Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Pravosodni minister Zupančič napoveduje novelo zakona o kazenskem postopku",
+    "link": "https://www.rtvslo.si/slovenija/pravosodni-minister-zupancic-napoveduje-novelo-zakona-o-kazenskem-postopku/794664",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/23/67106401.jpg",
+    "date": 1790177203000
+   },
+   {
     "title": "Pravna mreža: Kljub razveljavitvi dela zakona o parlamentarni preiskavi varovalke ostajajo v veljavi",
     "link": "https://www.rtvslo.si/slovenija/pravna-mreza-kljub-razveljavitvi-dela-zakona-o-parlamentarni-preiskavi-varovalke-ostajajo-v-veljavi/794652",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/23/67106394.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/gospodarstvo/kaj-storiti-glede-vse-visjih-cen-energentov/794658",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/18/67105216.jpg",
     "date": 1790172845000
-   },
-   {
-    "title": "Spor okrog Pravopisa 8.0: Kdo bo imel zadnjo besedo pred izdajo?",
-    "link": "https://www.rtvslo.si/kultura/jezik/spor-okrog-pravopisa-8-0-kdo-bo-imel-zadnjo-besedo-pred-izdajo/794657",
-    "image": "https://img.rtvcdn.si/_up/upload/2021/04/10/65878809.jpg",
-    "date": 1790172636000
    }
   ],
   "zurnal": [
@@ -214,7 +214,7 @@
    },
    {
     "title": "Bessent Failed to Report Holdings of JP Morgan Stock",
-    "link": "https://www.nytimes.com/2026/09/23/business/bessent-failed-to-report-holdings-of-jp-morgan-stock.html",
+    "link": "https://www.nytimes.com/2026/09/23/business/bessent-jp-morgan-stock.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23dc-bessent-ghkz/23dc-bessent-ghkz-mediumSquareAt3X.jpg",
     "date": 1790176343000,
     "titleSl": "Bessent ni uspel poročati o deležih v JP Morgan Stock"
@@ -243,18 +243,18 @@
   ],
   "bbc": [
    {
+    "title": "Moment pilots eject as RAF jet crashes in Anglesey",
+    "link": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b5/live/a5cec8b0-b75d-11f1-bc1f-3f186ca4140c.jpg",
+    "date": 1790177029000,
+    "titleSl": "Trenutni piloti se izstrelijo, ko RAF-ovo letalo strmoglavi v Angleseyju"
+   },
+   {
     "title": "Government orders urgent investigation after two migrant boats reach UK undetected",
     "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e50a/live/1b7d87e0-b759-11f1-8e7f-6f99c81f3136.jpg",
     "date": 1790176925000,
     "titleSl": "Vlada odredi nujno preiskavo, potem ko dva migrantska čolna neopaženo prideta v Združeno kraljestvo"
-   },
-   {
-    "title": "Two pilots eject and parachute out of RAF plane before crash",
-    "link": "https://www.bbc.co.uk/news/articles/cq62k1947l7po?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3760/live/eb893980-b758-11f1-bc1f-3f186ca4140c.jpg",
-    "date": 1790176720000,
-    "titleSl": "Dva pilota se pred nesrečo izstrelita in padeta iz letala RAF"
    },
    {
     "title": "Killer arrested after nine days on the run",
@@ -415,10 +415,23 @@
   ],
   "bild": [
    {
+    "title": "Auf dem Oktoberfest - Mann filmt unter Dirndl – Festnahme!",
+    "link": "https://www.bild.de/news/auf-dem-oktoberfest-mann-filmt-unter-dirndl-festnahme-6ab3e848e5b1ca08382bc5ae",
+    "image": "https://images.bild.de/6ab3e848e5b1ca08382bc5ae/63339da60ba485551fcaecad92804b38,47a6bc54?w=1280",
+    "date": 0
+   },
+   {
     "title": "Wichtig für alle Eltern - Fünf Kinderkrankentage weniger ab 2027",
     "link": "https://www.bild.de/politik/inland/wichtig-fuer-alle-eltern-fuenf-kinderkrankentage-weniger-ab-2027-6ab3e6fd274d1bab27b69a2a",
     "image": "https://images.bild.de/6ab3e6fd274d1bab27b69a2a/106f053a433649e9b6760baf330ebd09,7666328?w=1280",
     "date": 0
+   },
+   {
+    "title": "McDonald’s, Burger King & Co - Wie Sie mit Fastfood jetzt fette Gewinne machen",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/mcdonalds-burger-king-co-wie-sie-mit-fastfood-jetzt-fette-gewinne-machen-6ab233b9708e760b5e06747f",
+    "image": "https://images.bild.de/6ab233b9708e760b5e06747f/14dfee19babfff0099a7e9fa2604ae50,dbe683df?w=1280",
+    "date": 0,
+    "titleSl": "McDonald's, Burger King & Co - Wie Sie mit Fastfood jetzt fette Gewinne machen"
    },
    {
     "title": "Anruf ohne Ansage? - Diese Frage brauchen viele Deutsche vor jedem Anruf",
@@ -437,18 +450,6 @@
     "title": "Lok Leipzig empfängt Spitzenreiter - Bärenstarke Erfurter gegen die Heim-Schluffis",
     "link": "https://www.bild.de/sport/fussball/lok-leipzig-gegen-spitzenreiter-baerenstarke-erfurter-bei-den-heim-schluffis-6ab3b554a15a9fecb668d992",
     "image": "https://images.bild.de/6ab3b554a15a9fecb668d992/8d3ff54ab9a45580acd41bc4753cd7de,67254329?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Milliarden-Streit um EU-Haushalt - Warum plötzlich alle über DIESES Foto reden",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/eu-haushalt-bezahlt-haben-wir-aber-eingeladen-haben-wir-nicht-6ab3a702174ceb992b6e74f1",
-    "image": "https://images.bild.de/6ab3a702174ceb992b6e74f1/797debcc2c08a6251448b22c1678dbe6,6120f691?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Mehr Kraft - Diese Übungen machen Ihre Unterarme stärker",
-    "link": "https://www.bild.de/leben-wissen/fitness/mehr-kraft-diese-uebungen-machen-ihre-unterarme-staerker-6aabb300a9420481bd214813",
-    "image": "https://images.bild.de/6aabb300a9420481bd214813/73da24a877922fbea0d2fbec13763333,633e89f2?w=1280",
     "date": 0
    }
   ],
