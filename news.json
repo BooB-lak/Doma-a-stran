@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T10:00:36.212Z",
+ "generatedAt": "2026-09-23T10:02:33.997Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Stanovanjske nepremičnine so se na medletni ravni podražile za več kot devet odstotkov",
+    "link": "https://www.rtvslo.si/gospodarstvo/stanovanjske-nepremicnine-so-se-na-medletni-ravni-podrazile-za-vec-kot-devet-odstotkov/794614",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/05/18/67044382.jpg",
+    "date": 1790156889000
+   },
+   {
     "title": "Iz Ukrajine poročajo o smrti kapitana po ruskem napadu na trgovsko ladjo. V Kijevu ubit človek.",
     "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/iz-ukrajine-porocajo-o-smrti-kapitana-po-ruskem-napadu-na-trgovsko-ladjo-v-kijevu-ubit-clovek/794609",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/23/67106298.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/evropa/po-odpravi-sankcij-za-ruskega-milijarderja-predsednik-azerbajdzana-pomilostil-francoskega-drzavljana/794602",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/23/67106275.jpg",
     "date": 1790151817000
-   },
-   {
-    "title": "V goščah jezera Jasna prisotni cianotoksini in morebiti toksične bentoške cianobakterije",
-    "link": "https://www.rtvslo.si/okolje/v-goscah-jezera-jasna-prisotni-cianotoksini-in-morebiti-toksicne-bentoske-cianobakterije/794603",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/27/67083408.jpg",
-    "date": 1790151408000
    }
   ],
   "zurnal": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump’s Major Retreat on Greenland, and Why Texas Hit Pause on New Data Centers",
+    "link": "https://www.nytimes.com/2026/09/23/podcasts/the-headlines/trump-greenland-texas-data-centers.html",
+    "image": "https://static01.nyt.com/images/2026/09/22/multimedia/23theheadlines-greenland/22dc-unga-greenland-zmtb-mediumSquareAt3X.jpg",
+    "date": 1790157611000,
+    "titleSl": "Trumpov velik umik na Grenlandiji in zakaj je Teksas prekinil z novimi podatkovnimi centri"
+   },
+   {
     "title": "‘It’s Really Busy Out There’: Storms in the Pacific Threaten Hawaii and Mexico",
     "link": "https://www.nytimes.com/2026/09/23/weather/pacific-hurricanes-hawaii-polo.html",
     "image": "https://static01.nyt.com/images/2026/09/20/multimedia/cyclone-tracker-2025-seventeen-e-ep172026-satellite_map/cyclone-tracker-2025-seventeen-e-ep172026-satellite_map-mediumSquareAt3X-v65.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/23/opinion/23eks-huang-image-01/23eks-huang-image-01-mediumSquareAt3X.jpg",
     "date": 1790154122000,
     "titleSl": "Jensen Huang proti A.I. DOOMERS"
-   },
-   {
-    "title": "The Big Beautiful Bill Is Starting to Bite Before the Election",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
-    "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20nat-big-beautiful-bill--01-cpkm/20nat-big-beautiful-bill--01-cpkm-mediumSquareAt3X.jpg",
-    "date": 1790154062000,
-    "titleSl": "Veliki čudoviti zakon je začel zagrizati pred volitvami"
    }
   ],
   "bbc": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Klartext vom DFB-Kapitän - WM-Debakel war für Kimmich „das härteste Ausscheiden“",
+    "link": "https://www.bild.de/sport/fussball/nationalmannschaft-wm-debakel-war-fuer-kimmich-das-haerteste-ausscheiden-6ab38909e5b1ca08382b5295",
+    "image": "https://images.bild.de/6ab38909e5b1ca08382b5295/6f5780187d8a2ea85ae7663199abb3b3,4267145e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Hätten Sie sie erkannt? - Sport-Superstar gibt Laufsteg-Debüt",
+    "link": "https://www.bild.de/sport/fashion-week-sport-superstar-gibt-debuet-auf-dem-laufsteg-6ab38e49174ceb992b6e71f7",
+    "image": "https://images.bild.de/6ab38e49174ceb992b6e71f7/c220ac96e5908cb77c831dbd61845f97,2609fd9c?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Dummheit, Ignoranz und Heuchelei“ - Mega-Zoff vor Nations-League-Spiel",
     "link": "https://www.bild.de/sport/fussball/irland-vs-israel-mega-zoff-vor-nations-league-spiel-dummheit-ignoranz-und-heuchelei-6ab375db26bf333ba996b638",
     "image": "https://images.bild.de/6ab375db26bf333ba996b638/db907882715e204ddc4b7acc1a75e8a0,68ed1b1d?w=1280",
@@ -437,21 +449,27 @@
     "image": "https://images.bild.de/6ab37b5a174ceb992b6e703e/2134f0c872422c813dc4767a00d48396,96c415eb?w=1280",
     "date": 0,
     "titleSl": "US-Präsident im Änderungs-Wahn - Jetzt bo Trump sogar \"KI\" umbenennen"
-   },
-   {
-    "title": "Nach Abstieg in der Schweiz - Mühl plötzlich zurück beim Club",
-    "link": "https://www.bild.de/sport/fussball/fcn-heimkehr-zum-jugendverein-muehl-trainiert-bei-nuernbergs-u23-6ab37a10a15a9fecb668c65d",
-    "image": "https://images.bild.de/6ab37a10a15a9fecb668c65d/72a642546306bdcceaa7475c46d0cd9f,84ce226b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Kurios! - Lautern-Trainer scherzt über eigenen Rauswurf",
-    "link": "https://www.bild.de/sport/fussball/1-fc-kaiserslautern-lieberknecht-scherzt-ueber-eigenen-rauswurf-6ab393cca15a9fecb668c909",
-    "image": "https://images.bild.de/6ab393cca15a9fecb668c909/99cd00f3331a7661abf95a0d77d73a03,be6e84fc?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Krautzer (100) erzählt - Als Bachmann in der Schulzeit noch „Hibou“ hieß",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwWklTZFFJVUg1MkhJUE9wcDVHUlRtNkhqbDlNMzZnc3ZtM0VJUVBsY0JWWktQUE9ZeFBFRHdXSG1CUQ?oc=5",
+    "image": "",
+    "date": 1790157600000
+   },
+   {
+    "title": "Weinviertler Gemeinde - Hotel für einen Euro verkauft – Gemeinderat geht",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yRjZQZkFVeFpqMGFOYlNOM1hnenhROVZnVWlXQWRvbm5Qb2tfNzkwWkx6STR0aVFOTHBTOGFiVXJkUQ?oc=5",
+    "image": "",
+    "date": 1790157600000
+   },
+   {
+    "title": "Nach Unfall mit Bus - Kind ist außer Lebensgefahr, aber Sorgen bleiben",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBVmpDaWp0cmdVQmRkVHRtVEpqdXN4T0l6bzZSdjJtOW0yM1VFTFBuTWh0NmhoeThHaThXc0I4d1dVdw?oc=5",
+    "image": "",
+    "date": 1790157600000
+   },
    {
     "title": "Nächste „Ohrfeige“! - OGH: Golduhren-Urteil gegen Benko rechtskräftig",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xRDFMeXN1Z2ZDOGxsSFRONUN6VWpUYTBwZW1FMmVDa3hTa0ZUM1VWbUJpTy1rMXJQYXFfT2VoZkQ4dw?oc=5",
@@ -469,24 +487,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaOVk1eFZsZG42c0hCT2pvdXZCeUdMa2liWU42YXZ5VXdWXzdkdnpyb0NmU25zN2FlRndpVkppQWhKdw?oc=5",
     "image": "",
     "date": 1790156820000
-   },
-   {
-    "title": "In der Nations League - Diese Trainerstars geben ihr Debüt bei Topnationen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vY29YZUh1LWVEdy1FcHJtR2IzYkZZT0tkb2NCTzR3eERnQTJweGFQT3N6T19tU01SSENkS3VyWDMtZw?oc=5",
-    "image": "",
-    "date": 1790156760000
-   },
-   {
-    "title": "Verfahren gestoppt - Knalleffekt in Betrugsprozess gegen Kassenärztin",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZdmdSd052dzQ3VWZRNXVjREtXRWZHNFNCOTJNSnd2cVYwSTRXbXRzNHpkS0c3QUd4V0hrQzlPQWRYdw?oc=5",
-    "image": "",
-    "date": 1790156700000
-   },
-   {
-    "title": "Bundestierschutzpreis - Höchste Auszeichnung für Tierschutz-Helden",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhN2Z0UF8wbHlIVGJZc0IwbDB4WDF2cTBMRzdINUVHUUI2am10UlZ5YXo1RzQ5bm9FTmFydFhYN3pUQQ?oc=5",
-    "image": "",
-    "date": 1790156280000
    }
   ],
   "rainews": [
@@ -576,7 +576,7 @@
    {
     "title": "La policía lanza gas pimienta para ejecutar el desahucio de Maricarmen ante la negativa del fondo a conceder una prórroga",
     "link": "https://elpais.com/espana/madrid/2026-09-23/maricarmen-se-queda-un-centenar-de-activistas-espera-junto-a-la-anciana-a-la-comision-judicial.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/WKHO3ZPEBZA5BFSPWKJVV32KFQ.jpg?auth=74a2964d1011a1b901b91988e913afa8b152a8ac4ba3bf618a92044501cf7828",
+    "image": "https://imagenes.elpais.com/resizer/v2/GKRSC7JE7FGSRLLNH5T76NBYMQ.jpg?auth=04fc5245812320be38edcc407816fa196cfd193d78b96e62e9b35ff1fc8cffaf",
     "date": 1790157436000
    },
    {
