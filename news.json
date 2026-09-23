@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T15:18:26.866Z",
+ "generatedAt": "2026-09-23T15:20:47.821Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "Slovenija - Belgija (4:5*) 3. niz (2:0)",
+    "title": "Slovenija - Belgija (8:10*) 3. niz (2:0)",
     "link": "https://www.24ur.com/sport/ostalo/slovenija-proti-belgiji-za-vstopnico-v-polfinale-evropskega-prvenstva.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/e01bf498fe36205818fc_63652721.jpg?v=edc7&fop=fp:0.49:0.44",
-    "date": 1790176543000
+    "date": 1790176817000
    },
    {
     "title": "Po ceni dizel najdražji na Danskem, po kupni moči v BiH",
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
+    "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+    "image": "https://static01.nyt.com/images/2026/09/21/multimedia/00biz-autonomous-cars-fhbk/00biz-autonomous-cars-fhbk-mediumSquareAt3X.jpg",
+    "date": 1790176701000,
+    "titleSl": "Samovozeči avtomobili postajajo vse boljši. Tveganja postajajo vse večja."
+   },
+   {
     "title": "Chris Wright Sells Trump’s ‘Energy Dominance’ Vision",
     "link": "https://www.nytimes.com/2026/09/23/climate/the-former-fracking-executive-selling-trumps-energy-dominance-vision.html",
     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/00cli-wright-01-pzlh/00cli-wright-01-pzlh-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "",
     "date": 1790174870000,
     "titleSl": "Vmesni izpiti so prvi veliki preizkus za novo gibanje"
-   },
-   {
-    "title": "One Big Beautiful Bill Is Starting to Bite Before the Election",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
-    "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20nat-big-beautiful-bill--01-cpkm/20nat-big-beautiful-bill--01-cpkm-mediumSquareAt3X.jpg",
-    "date": 1790173852000,
-    "titleSl": "En velik čudovit zakon je začel zagrizati pred volitvami"
    }
   ],
   "bbc": [
@@ -246,7 +246,7 @@
     "title": "Two pilots eject and parachute out of RAF plane before crash",
     "link": "https://www.bbc.co.uk/news/articles/cq62k1947l7po?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3760/live/eb893980-b758-11f1-bc1f-3f186ca4140c.jpg",
-    "date": 1790175706000,
+    "date": 1790176720000,
     "titleSl": "Dva pilota se pred nesrečo izstrelita in padeta iz letala RAF"
    },
    {
@@ -264,11 +264,11 @@
     "titleSl": "Smrtnost zaradi drog na Škotskem se je povečala za 11%, saj se država bori z najnižjo stopnjo v Evropi"
    },
    {
-    "title": "The moment Antonelli knew he had been transformed as an F1 driver",
+    "title": "Antonelli on 'stepping up' after 2024 crash 'stayed in my head for a very long time'",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8918/live/fe3a4800-b738-11f1-aa9c-3d062fa3aea7.jpg",
     "date": 1790173607000,
-    "titleSl": "V trenutku, ko je Antonelli vedel, da se je spremenil v dirkača Formule 1"
+    "titleSl": "Antonelli o \"pospeševanju\" po nesreči leta 2024 \"je ostal v moji glavi zelo dolgo časa\""
    },
    {
     "title": "Man Utd still £1bn in debt with £63.5m spent on new stadium",
@@ -584,6 +584,19 @@
     "titleSl": "Últimas noticias de la Asamblea General de la Onu, en directo | El presidente de Irán respondde a Trump: \"Hemos sido las víctimas del terrorismo\""
    },
    {
+    "title": "El Reino Unido cede a la presión de Trump y anuncia que revisará la devolución del archipiélago de Chagos",
+    "link": "https://elpais.com/internacional/2026-09-23/el-reino-unido-cede-a-la-presion-de-trump-y-anuncia-que-revisara-la-devolucion-del-archipielago-de-chagos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/RW5WFH26TBLPRPKFSTPLSI7II4.jpg?auth=c6a2e94cf45e1e84ca6acfebdbdac1194a0ac8989590a0c5baa32a052adfe3c7",
+    "date": 1790176017000,
+    "titleSl": "El Reino Unido odstopi a la presión de Trump y anuncia que revisará la devolución del archipiélago de Chagos"
+   },
+   {
+    "title": "Un helicóptero ruso viola el espacio aéreo polaco junto al enclave de Kaliningrado",
+    "link": "https://elpais.com/internacional/2026-09-23/un-helicoptero-ruso-viola-el-espacio-aereo-polaco-junto-al-enclave-de-kaliningrado.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/JYU2LUT5INFQ5KGNUGGEBQDHDM.jpg?auth=2c09a415b56faf323cedcd2d68bacb1892321e4efb871b57a67caac1dcebfa07",
+    "date": 1790176016000
+   },
+   {
     "title": "Crisis en Ceuta y actualidad política, en directo | La ministra Diana Morant pide a Marruecos que sea “más diligente con sus responsabilidades”",
     "link": "https://elpais.com/espana/2026-09-23/crisis-en-ceuta-y-actualidad-politica-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/YI22SLBUIVGZBP4WUFBIJAYRRU.jpg?auth=e9f1bef5dcc0779018f049c425193f6ea10c78eae37124bb51d0a45177879f6a",
@@ -601,18 +614,6 @@
     "link": "https://elpais.com/sociedad/2026-09-23/el-maltrato-de-genero-deja-huella-en-la-cuenta-bancaria-anos-antes-de-que-la-victima-lo-denuncie.html",
     "image": "https://imagenes.elpais.com/resizer/v2/WPV7AOVDTRBXDKSLN3A2YCDNOM.jpg?auth=98714de40b47c6e011105a1b2ec7cd8f037957516d3609f105bbc05757753d20",
     "date": 1790175600000
-   },
-   {
-    "title": "Echar al entrenador, el recurso fácil",
-    "link": "https://elpais.com/espana/catalunya/2026-09-23/echar-al-entrenador-el-recurso-facil.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ERKQ4GIYI5KLZFXHIIADIG3F64.jpg?auth=bde98042cc72b6798261c496f8a0b770f95ed992656945f4b81e2aebdc76212d",
-    "date": 1790175434000
-   },
-   {
-    "title": "España vence a Italia y alcanza la final del Mundial sub-20",
-    "link": "https://elpais.com/deportes/futbol/2026-09-23/espana-vence-a-italia-y-alcanza-la-final-del-mundial-sub-20.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/KCGWOEP3CVIX5IIBA36SU7JWYU.jpg?auth=22f5d4f9d514e70d3d1234ded8060ac985c76f9716a2a10c9f912f3050417900",
-    "date": 1790175321000
    }
   ]
  },
