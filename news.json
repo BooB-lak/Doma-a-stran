@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T10:10:51.975Z",
+ "generatedAt": "2026-09-24T10:12:27.944Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/svet/jansa-se-bo-v-new-yorku-srecal-z-netanjahujem-702284",
     "image": "https://siol.net/media/img/07/51/7a593ef3ffae109bbc92.jpeg",
     "date": 1790244480000
+   },
+   {
+    "title": "Nujna sanacija na primorski avtocesti: sledi zoženje ceste",
+    "link": "https://siol.net/novice/slovenija/nujna-sanacija-na-primorski-avtocesti-sledi-zozenje-ceste-702285",
+    "image": "https://siol.net/media/img/bc/08/d95d906834c97182fafe.jpeg",
+    "date": 1790244300000
    },
    {
     "title": "Cristiano Ronaldo že razmišljal o slovesu, a ...",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/zimski-sporti/nova-prisilna-selitev-slovenske-smukace-v-cilu-presenetil-izbruh-vulkana-702275",
     "image": "https://siol.net/media/img/b6/19/5c41e99c244fec20ad84.jpeg",
     "date": 1790242020000
-   },
-   {
-    "title": "Melania Trump spregovorila o otroštvu v Sloveniji: Paziti si moral, kaj počneš",
-    "link": "https://siol.net/novice/svet/melania-trump-spregovorila-o-otrostvu-v-sloveniji-paziti-si-moral-kaj-pocnes-702264",
-    "image": "https://siol.net/media/img/4e/d8/a4afb9c4f190b1565200.jpeg",
-    "date": 1790241600000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Cristiano Ronaldo",
+    "link": "https://www.rtvslo.si/sport/citat-za-prebrat/cristiano-ronaldo/794742",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/07/06/67059283.jpg",
+    "date": 1790244681000
+   },
+   {
     "title": "Poveljnik Civilne zaščite Šestan naj bi postal še generalni direktor Uprave za zaščito in reševanje",
     "link": "https://www.rtvslo.si/slovenija/poveljnik-civilne-zascite-sestan-naj-bi-postal-se-generalni-direktor-uprave-za-zascito-in-resevanje/794737",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106560.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/gospodarstvo/hrvaski-studenac-zaradi-obseznega-dolga-vlozil-predlog-za-zacetek-predstecajnega-postopka/794733",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106556.jpg",
     "date": 1790242584000
-   },
-   {
-    "title": "Aleksander Mervar: Poraba električne energije v gospodinjstvih se povečuje vse hitreje",
-    "link": "https://www.rtvslo.si/slovenija/ob-osmih/aleksander-mervar-poraba-elektricne-energije-v-gospodinjstvih-se-povecuje-vse-hitreje/794728",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106554.jpg",
-    "date": 1790242206000
    }
   ],
   "zurnal": [
@@ -413,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "Nach Ausfall im Mercedes - Feuerlöscher-Panne bei der Formel 1",
+    "link": "https://www.bild.de/sport/mehr-sport/formel-1-panne-mit-feuerloeschern-nach-ausfall-von-antonelli-6ab4de8ca15a9fecb66939d1",
+    "image": "https://images.bild.de/6ab4de8ca15a9fecb66939d1/1261b7c37cbf2a569914d74fb15704d8,b340848d?w=1280",
+    "date": 0
+   },
+   {
     "title": "Gebrauchtwagen-Check - Der Audi A1 ist beim TÜV nicht immer 1A",
     "link": "https://www.bild.de/leben-wissen/auto/audi-a1-als-gebrauchtwagen-diese-maengel-nennt-der-tuev-6a8c1118511d4fd3bc4e200d",
     "image": "https://images.bild.de/6a8c1118511d4fd3bc4e200d/1bce2907c4f8c18e27036f3668eff1ad,dcda38ae?w=1280",
@@ -442,12 +448,6 @@
     "image": "https://images.bild.de/6ab4e26573f58c92adee737c/d93c15b107d6162bee4d3f1c4c7ed039,c553afb9?w=1280",
     "date": 0,
     "titleSl": "V Berlinu Wohnung - Mann soll 14-Jährige missbraucht haben"
-   },
-   {
-    "title": "Beste HSV-Zahlen aller Zeiten - Was die XXL-Kohle für neue Stars bedeutet",
-    "link": "https://www.bild.de/sport/fussball/hsv-beste-zahlen-aller-zeiten-was-die-kohle-fuer-neue-stars-bedeutet-6ab3e948e5b1ca08382bc5c9",
-    "image": "https://images.bild.de/6ab3e948e5b1ca08382bc5c9/d23ca5d5bb8a0dc9a330ef2e7b00d53b,7b157cdc?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -478,14 +478,14 @@
     "date": 1790244000000
    },
    {
-    "title": "Helfer ziehen um - Nach nur 7 Monaten geben Johanniter Stützpunkt auf - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yQm1kX2Zuci1GdjlQX2ZMV1pvSjBGamdoRzYwM3EtaWFRRnpsVTRkamZhRldZUlRNWGpCR0hoTUVOZw?oc=5",
+    "title": "Tägliche Bewegung - Innsbruck dockt beim Sportprogramm für Kinder an - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xYTlsMV9YZ0F3emZLLUtHai1ha2h3clZ2YzJZRlNKemR4aExWZ0ZqR2xtM0RNTS02aFFKaVE4QkZtZw?oc=5",
     "image": "",
     "date": 1790244000000
    },
    {
-    "title": "Tägliche Bewegung - Innsbruck dockt beim Sportprogramm für Kinder an - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xYTlsMV9YZ0F3emZLLUtHai1ha2h3clZ2YzJZRlNKemR4aExWZ0ZqR2xtM0RNTS02aFFKaVE4QkZtZw?oc=5",
+    "title": "Helfer ziehen um - Nach nur 7 Monaten geben Johanniter Stützpunkt auf - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yQm1kX2Zuci1GdjlQX2ZMV1pvSjBGamdoRzYwM3EtaWFRRnpsVTRkamZhRldZUlRNWGpCR0hoTUVOZw?oc=5",
     "image": "",
     "date": 1790244000000
    }
