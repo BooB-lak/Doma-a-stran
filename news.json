@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T14:56:28.204Z",
+ "generatedAt": "2026-09-24T14:58:27.048Z",
  "sources": {
   "siol": [
    {
@@ -7,12 +7,6 @@
     "link": "https://siol.net/novice/slovenija/voznici-med-voznjo-postalo-slabo-trcila-v-tovornjak-s-16-tonami-kamenja-702321",
     "image": "https://siol.net/media/img/57/cb/b418e0876864c3397807.jpeg",
     "date": 1790261520000
-   },
-   {
-    "title": "Nikola Grbić kritično o sporedu zaključka EP in pritisku, ki ga občuti prva reprezentanca sveta",
-    "link": "https://siol.net/sportal/odbojka/nikola-grbic-poljska-odbojkarska-reprezentanca-slovenija-evropsko-prvenstvo-702310",
-    "image": "https://siol.net/media/img/aa/40/702e14a6290a453c0553.jpeg",
-    "date": 1790260800000
    },
    {
     "title": "Dars ima nove nadzornike",
@@ -31,6 +25,12 @@
     "link": "https://siol.net/novice/posel-danes/gzs-zadovoljna-z-odnosom-vlade-do-gospodarstva-pricakuje-dodatne-ukrepe-702319",
     "image": "https://siol.net/media/img/f2/35/469f2bb467e147667597.jpeg",
     "date": 1790260020000
+   },
+   {
+    "title": "Nikola Grbić kritično o sporedu zaključka EP in pritisku, ki ga občuti prva reprezentanca sveta",
+    "link": "https://siol.net/sportal/odbojka/nikola-grbic-poljska-odbojkarska-reprezentanca-slovenija-evropsko-prvenstvo-702310",
+    "image": "https://siol.net/media/img/aa/40/702e14a6290a453c0553.jpeg",
+    "date": 1790259000000
    },
    {
     "title": "Krvavi napad v poljskem samostanu: en mrtev, več ranjenih",
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Small boat migrant arrivals reach 781 in one day, breaking 2026 record",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f193/live/2999b1a0-b80d-11f1-a430-4d16ee157c41.jpg",
+    "date": 1790261805000,
+    "titleSl": "Prihodi migrantov z majhnimi čolni dosežejo 781 v enem dnevu, s čimer so podrli rekord iz leta 2026"
+   },
+   {
     "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
     "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg",
@@ -255,13 +262,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1b2/live/b86b4a70-b811-11f1-a430-4d16ee157c41.jpg",
     "date": 1790260654000,
     "titleSl": "Nemški tožilci preiskujejo 105-letnika zaradi zločinov v nacističnem taborišču za vojne ujetnike"
-   },
-   {
-    "title": "Small boat migrant arrivals reach 781 in one day, breaking 2026 record",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f193/live/2999b1a0-b80d-11f1-a430-4d16ee157c41.jpg",
-    "date": 1790260489000,
-    "titleSl": "Prihodi migrantov z majhnimi čolni dosežejo 781 v enem dnevu, s čimer so podrli rekord iz leta 2026"
    },
    {
     "title": "Drinking at football matches - would fans welcome it?",
@@ -413,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "TV-Moderatorin Andrea Kiewel im Steckbrief - SIE ist die Frohnatur des „ZDF-Fernsehgarten“",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/andrea-kiewel-im-steckbrief-darum-ist-moderatorin-kiwi-so-beliebt-6834504e5f7a8d25a5be28cd",
+    "image": "https://images.bild.de/6834504e5f7a8d25a5be28cd/fa516e2c832ddf36bdff01c64b5050cc,3535be7?w=1280",
+    "date": 0
+   },
+   {
     "title": "Trotz Futkeu-Treffer - Elversberg verliert Test in Mannheim",
     "link": "https://www.bild.de/sport/fussball/trotz-futkeu-tor-sv-elversberg-verliert-test-bei-waldhof-mannheim-6ab5162ae0200f794f12e8bd",
     "image": "https://images.bild.de/6ab5162ae0200f794f12e8bd/b62d58adf26aeaea8a10a892f469152d,a9e9a857?w=1280",
@@ -442,58 +448,66 @@
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/milli-vanilli-star-legt-finanzen-offen-frueher-weltstar-heute-kaum-erspartes-6ab4c358a15a9fecb6693796",
     "image": "https://images.bild.de/6ab4c358a15a9fecb6693796/553a358cd59fcfc78d9307682f4927af,bbc0c95d?w=1280",
     "date": 0
-   },
-   {
-    "title": "Wahllos Menschen attackiert - Eindringling (31) ersticht Priester in Kloster",
-    "link": "https://www.bild.de/news/ausland/eindringling-in-kloster-auf-menschen-eingestochen-priester-stirbt-6ab51831b2d23610d25cacde",
-    "image": "https://images.bild.de/6ab51831b2d23610d25cacde/e7c599930ec0640c95739aca84d79c23,b6344f8f?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Trotz Rettungsboje - Mann beim Schwimmen am Klopeinersee verstorben - krone.at",
+    "title": "Trotz Rettungsboje - Mann beim Schwimmen am Klopeinersee verstorben",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxczd2anByVjRnS3RFbEQxemVybkJJTGdzREttRU9rMmpobTQ3UTZTRW5oVWNlOEhCWlFEMWNtTDQtdw?oc=5",
     "image": "",
     "date": 1790261340000
    },
    {
-    "title": "„Rhythmus beibehalten“ - Kuriose Vorbereitung! Rätselraten um Skisprung-Ass - krone.at",
+    "title": "„Rhythmus beibehalten“ - Kuriose Vorbereitung! Rätselraten um Skisprung-Ass",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wdU5WeDNWd2JyVXlYM1VpUHE0U0NOUEg5U3l3dWhTSFppWWhZd0Y2SFZ5ZTM4MVVxa1NsaTRjOVpGUQ?oc=5",
     "image": "",
     "date": 1790260920000
    },
    {
-    "title": "Neues Angebot - Betriebsanalyse von Experten soll Firma stärken - krone.at",
+    "title": "Neues Angebot - Betriebsanalyse von Experten soll Firma stärken",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZX19xRElWNWljOEVFdHFva2ZuUXlMcDF1QjFPakRrVXphWjFSbW5idlJpVVNRR21yUGF2SmpCbS1ldw?oc=5",
     "image": "",
     "date": 1790260860000
    },
    {
-    "title": "Alaba nicht mehr - Diese Fußball-Stars hängen noch in Warteschleife! - krone.at",
+    "title": "Alaba nicht mehr - Diese Fußball-Stars hängen noch in Warteschleife!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE80ZDc1Tk9qd3MwOUFtQldPamdyTG9BblltV1BZd3k2MVhCbm9kMGh2SURFM2NPLVhTcEJzUnczcGw0QQ?oc=5",
     "image": "",
     "date": 1790260500000
    },
    {
-    "title": "„Daybreak“-Programm - OpenAI liefert KI für die Cyberabwehr an Ukraine - krone.at",
+    "title": "„Daybreak“-Programm - OpenAI liefert KI für die Cyberabwehr an Ukraine",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE44bzVyWjdyYTdRTldmdk90eDUyM2JjckYyZDllMzlrQVpFWV9YMGt0bzkxSTVjT0xJUXI5RHljeUMwUQ?oc=5",
     "image": "",
     "date": 1790259960000
    },
    {
-    "title": "Anthropic, OpenAI & Co - Cyberangriffe: Chronologie des KI-Kontrollverlusts - krone.at",
+    "title": "Anthropic, OpenAI & Co - Cyberangriffe: Chronologie des KI-Kontrollverlusts",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42Q0tuMW9XYkxDTHFxQV92dGl1dlNiS2V2bXRaTmFSRjViaUIxcWk5NV9TTmZicEFlcVdweGtNY1RoQQ?oc=5",
     "image": "",
-    "date": 1790259600000
+    "date": 1790259600000,
+    "titleSl": "Antropic, OpenAI & Co - Cyberangriffe: Chronologie des KI-Kontrollverlusts"
    }
   ],
   "rainews": [
+   {
+    "title": "Oasis, aggiunta la terza data a Roma: all’Olimpico anche il 26 luglio 2027",
+    "link": "https://www.rainews.it/articoli/2026/09/oasis-aggiunta-una-terza-data-a-roma-allolimpico-anche-il-26-luglio-2027-5d681640-9951-4c80-a61c-f3e27b20f7b2.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/14/1789358499925_oasistourroma.jpg",
+    "date": 1790261880000,
+    "titleSl": "Oasis, aggiunta la terza data a Roma: all 'Olimpico anche il 26 luglio 2027"
+   },
    {
     "title": "Trump accoglie Xi: \"Vera grande amicizia tra noi, visita in un momento importante della storia Usa\"",
     "link": "https://www.rainews.it/articoli/2026/09/esteri-nord-america-stati-uniti-cina-xi-jinping-visita-di-stato-accoglienza-donald-trump-934e7faf-863d-456c-8b8c-8c640cd5588f.html",
     "image": "https://www.rainews.it/dl/img/2026/9/24/1790260532541_.jpg",
     "date": 1790261280000
+   },
+   {
+    "title": "Morte del cantante Michele Merlo, per il Tribunale si è trattato di una tragica fatalità",
+    "link": "https://www.rainews.it/video/2026/09/morte-di-michele-merlo-nessun-risarcimento-ai-familiari-2b782a36-6ba2-4efb-bc43-c2cd762b9357.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/24/1790260944045_videoframe.png",
+    "date": 1790260860000
    },
    {
     "title": "Tetto per gli stranieri nelle classi in cdm, Valditara: \"Riguarderà da quest&#x27;anno i nuovi arrivi\"",
@@ -513,19 +527,6 @@
     "link": "https://www.rainews.it/articoli/2026/09/modena-50-giovani-saccheggiano-discount-e-filmano-il-raid-i-video-sui-social-75cb4373-f50e-41d2-80d5-eb5d90c11a27.html",
     "image": "https://www.rainews.it/dl/img/2026/9/24/1790246941474_AssaltoMD.png",
     "date": 1790259840000
-   },
-   {
-    "title": "Arrestato Riccardo Bossi, il figlio del fondatore della Lega deve scontare 5 anni e 9 mesi",
-    "link": "https://www.rainews.it/articoli/2026/09/arrestato-riccardo-bossi-deve-scontare-5-anni-e-9-mesi-umberto-bossi-fondatore-lega-97a373b0-5eca-4344-b14c-39de56616942.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/24/1790258735991_bossi.png",
-    "date": 1790259720000
-   },
-   {
-    "title": "Melania Trump a Fox News Business: \"Ho avuto un&#x27;infanzia bellissima sotto il comunismo\"",
-    "link": "https://www.rainews.it/articoli/2026/09/melania-trump-a-fox-news-business-ho-avuto-uninfanzia-bellissima-sotto-il-comunismo-063779d5-47eb-432f-b132-22421bc28d6f.html",
-    "image": "https://www.rainews.it/dl/img/2025/01/20/1737399748348_aaaabacio.PNG",
-    "date": 1790259360000,
-    "titleSl": "Melania Trump a Fox News Business: \"Ho avuto un 'infanzia bellissima sotto il comunismo\""
    }
   ],
   "lemonde": [
@@ -543,7 +544,7 @@
     "date": 1790258406000
    },
    {
-    "title": "En Ariège, la première réserve naturelle souterraine en gestation pour préserver chauves-souris et amphibiens rares",
+    "title": "Pour préserver chauves-souris et amphibiens rares, un projet de réserve naturelle souterraine en Ariège",
     "link": "https://www.lemonde.fr/planete/article/2026/09/24/en-ariege-la-premiere-reserve-naturelle-souterraine-en-gestation-pour-preserver-chauves-souris-et-amphibiens-rares_6781530_3244.html",
     "image": "https://img.lemde.fr/2026/09/23/688/0/8256/4128/644/322/60/0/fad7ed5_upload-1-n6seu4xw26vi-000-c3zx29e.jpg",
     "date": 1790258406000
