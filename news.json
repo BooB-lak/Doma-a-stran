@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T06:02:26.223Z",
+ "generatedAt": "2026-09-24T06:04:25.277Z",
  "sources": {
   "siol": [
    {
@@ -123,6 +123,12 @@
     "date": 1790229420000
    },
    {
+    "title": "Čelno trčenje, štirje poškodovani",
+    "link": "https://www.zurnal24.si/slovenija/crna-kronika/celno-trcenje-stirje-poskodovani-465626",
+    "image": "https://www.zurnal24.si/media/img/81/2b/32921d9320d7ebfceb6d.jpeg",
+    "date": 1790229420000
+   },
+   {
     "title": "Trumpu slabo kaže, za vsak slučaj je že napadel sodnika",
     "link": "https://www.zurnal24.si/svet/trumpu-slabo-kaze-za-vsak-slucaj-je-ze-napadel-sodnika-465625",
     "image": "https://www.zurnal24.si/media/img/89/c3/65644ee84716da096926.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/lindsey-vonn-v-zvezi-z-11-let-mlajsim-zvezdnikom-465623",
     "image": "https://www.zurnal24.si/media/img/31/c8/61884548d82e05b838ad.png",
     "date": 1790228040000
-   },
-   {
-    "title": "Na vladi prvi poseg v šole in vrtce",
-    "link": "https://www.zurnal24.si/slovenija/na-vladi-prvi-poseg-v-sole-in-vrtce-465621",
-    "image": "https://www.zurnal24.si/media/img/61/78/4a9d5946b1fa2126409d.jpeg",
-    "date": 1790225340000
    }
   ],
   "reuters": [
@@ -202,7 +202,7 @@
     "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
     "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23biz-media-ban-ruling-hfo-hclw/23biz-media-ban-ruling-hfo-hclw-mediumSquareAt3X.jpg",
-    "date": 1790229435000,
+    "date": 1790229555000,
     "titleSl": "Sodišče blokira Trumpovo prepoved Bele hiše za CNN, MS NOW in Politico"
    },
    {
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Harry Kane eyes career as NFL kicker after football retirement",
-    "link": "https://www.aljazeera.com/sports/2026/9/24/harry-kane-eyes-career-as-nfl-kicker-after-football-retirement?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261696118997-1790228029.jpg?resize=1920%2C1440",
-    "date": 1790229326000,
-    "titleSl": "Harry Kane si po upokojitvi v nogometu prizadeva za kariero kickerja lige NFL"
-   },
-   {
-    "title": "Trump and Xi summit may just be a ‘horse and pony show’, experts say",
-    "link": "https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26266797892558-1790202676.jpg?resize=1200%2C675",
-    "date": 1790229310000,
-    "titleSl": "Vrh Trumpa in Xija je lahko samo \"predstava konj in ponijev\", pravijo strokovnjaki"
-   },
-   {
     "title": "OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790226485.jpg?resize=1620%2C1080&quality=80",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-05T185337Z_1549778064_RC2UNLA81928_RTRMADP_3_ANTHROPIC-AI-1790213605_a0a451-1790220375.jpg?resize=1200%2C630&quality=80",
     "date": 1790223994000,
     "titleSl": "Model umetne inteligence Claude odkrije encimski sistem, podoben CRISPR, pravi Anthropic"
+   },
+   {
+    "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+    "link": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-23T082909Z_1627711264_RC2VONA8IMW1_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-OLIVE-TREES-1790215211.jpg?resize=1920%2C1440",
+    "date": 1790220748000,
+    "titleSl": "\"Vse so izkoreninili\": Izrael buldožerji oljčnih nasadov v lasti Palestincev"
+   },
+   {
+    "title": "Spain’s Sanchez warns of far-right threat in UNGA speech",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790220538.jpg?resize=1920%2C1080&quality=80",
+    "date": 1790220658000,
+    "titleSl": "Španski predsednik Sanchez v govoru na Generalni skupščini ZN opozarja na skrajno desno grožnjo"
    }
   ],
   "guardian": [
@@ -414,6 +414,26 @@
   ],
   "bild": [
    {
+    "title": "Türke ist in Heilbronn geboren - Totraser für 8 Jahre aus Deutschland ausgewiesen",
+    "link": "https://www.bild.de/news/inland/totraser-ausgewiesen-tuerke-muss-deutschland-fuer-8-jahre-verlassen-6ab3aad8174ceb992b6e754f",
+    "image": "https://images.bild.de/6ab3aad8174ceb992b6e754f/c57864ee3de7bf0a82dc9166e145c195,30b49d83?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Unterwelt-Krieg in Hamburg - Snapchat-Killer sollte Hells-Angels-Boss töten",
+    "link": "https://www.bild.de/regional/hamburg/unterwelt-krieg-in-hamburg-snapchat-killer-sollte-hells-angels-boss-toeten-6ab2e5af274d1bab27b6172c",
+    "image": "https://images.bild.de/6ab2e5af274d1bab27b6172c/02f1081a7be2c960ad8f432113b3befa,2dec6cca?w=1280",
+    "date": 0,
+    "titleSl": "Unterwelt-Krieg v Hamburgu - Snapchat-Killer sollte Hells-Angels-Boss töten"
+   },
+   {
+    "title": "Fans entdecken verräterisches Detail - So realistisch soll „GTA 6“ werden",
+    "link": "https://www.bild.de/unterhaltung/bildgg/gta-6-so-realistisch-soll-der-spielehit-von-rockstar-werden-6ab3d2bde5b1ca08382bc2c7",
+    "image": "https://images.bild.de/6ab3d2bde5b1ca08382bc2c7/86e38d87be32c6c6c4e690bb8c0c69ed,9e3f8038?w=1280",
+    "date": 0,
+    "titleSl": "Ventilatorji entdecken verräterisches Detail - So realistisch soll „GTA 6“ werden"
+   },
+   {
     "title": "Es ist eine Basketball-Legende - Bayern bekommt neuen Vize-Präsidenten!",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-bekommt-einen-neuen-vize-praesidenten-6ab3e429174ceb992b6ed75d",
     "image": "https://images.bild.de/6ab3e429174ceb992b6ed75d/ebaef766e7da1182b8a968dbf40b1b2e,c7d373c8?w=1280",
@@ -432,26 +452,6 @@
     "image": "https://images.bild.de/6ab3ded0e5b1ca08382bc464/3e5dd46778ced71ec5b16ad9f030b39f,cb3a94?w=1280",
     "date": 0,
     "titleSl": "Trener spricht von \"Kaltem Krieg\" - Spionage-Zoff v der NFL!"
-   },
-   {
-    "title": "„Sie fand einen Weg, Sperren zu umgehen“ - KI hackt australische Regierung",
-    "link": "https://www.bild.de/news/ausland/sie-fand-einen-weg-sperren-zu-umgehen-ki-hackt-australische-regierung-6ab4a7fc274d1bab27b6a278",
-    "image": "https://images.bild.de/6ab4a7fc274d1bab27b6a278/759076ce447c5ab5fe96e06d99b1691a,e2c6ea65?w=1280",
-    "date": 0
-   },
-   {
-    "title": "In Thüringen brennt‘s seit 13 Wochen - Nicht löschbar!",
-    "link": "https://www.bild.de/regional/thueringen/seit-13-wochen-der-unloeschbare-brand-von-meuselwitz-in-thueringen-6aa915048191ba8609511c6c",
-    "image": "https://images.bild.de/6aa915048191ba8609511c6c/568ae9286c81ee0976157a8ca98559bb,4f4d30df?w=1280",
-    "date": 0,
-    "titleSl": "V Thüringen brennt's seit 13 Wochen - Nicht löschbar!"
-   },
-   {
-    "title": "In Statistiken vorn, aber nur zwei Treffer - Zweitliga-Star steckt in der Torkrise",
-    "link": "https://www.bild.de/sport/fussball/mateusz-zukowski-fcm-vertraut-trotz-torflaute-weiter-auf-den-stuermer-6ab2aba2b1857e86757ab35b",
-    "image": "https://images.bild.de/6ab2aba2b1857e86757ab35b/3aca82249e3d96b3f2543cbed810f037-landscape,f31802d2?w=1280",
-    "date": 0,
-    "titleSl": "V Statistiken vorn, aber nur zwei Treffer - Zweitliga-Star steckt in der Torkrise"
    }
   ],
   "krone": [
@@ -582,6 +582,12 @@
   ],
   "elpais": [
    {
+    "title": "Un juez levanta la prohibición de acceso a la Casa Blanca impuesta por Trump a CNN, MS NOW y Politico",
+    "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/C2KRVQ7ZO5A3VBHYH5FC2EMA4M.jpg?auth=01f268c5af836cc2b0adeb2b29bdae6738e4e0993bce347f3fcf4a0b47f0cfeb",
+    "date": 1790229732000
+   },
+   {
     "title": "El partido más próximo al rey gana las elecciones en Marruecos con una abstención del 62%",
     "link": "https://elpais.com/internacional/2026-09-24/el-partido-mas-proximo-al-rey-gana-las-elecciones-en-marruecos-con-una-abstencion-del-62.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DULSSORP4VBLFOGY7MWTC6NSPI.jpg?auth=3375e543213229265a86dbb0fe063f3d84070d5b4bc25a2f706a6aecc9aebee3",
@@ -610,12 +616,6 @@
     "link": "https://elpais.com/escaparate/belleza/masajeador-electrico-cuero-cabelludo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/E4FN4XD7LZHNBNF6CCLFV6YJVI.png?auth=22d1772ec67049c602b76a8dfe46c524d86e390c49c86c4bda1ad87cf1a8e81b",
     "date": 1790223300000
-   },
-   {
-    "title": "Para reformar la Casa Blanca o vetar a periodistas: la seguridad nacional, el ardid de Trump para desbloquear sus planes más polémicos",
-    "link": "https://elpais.com/us/2026-09-24/para-reformar-la-casa-blanca-o-vetar-a-periodistas-la-seguridad-nacional-el-ardid-de-trump-para-desbloquear-sus-planes-mas-polemicos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/HZG4YMSYRBONZNKIMH6LH7B7IM.jpg?auth=8452e6d4c7e1d14edc42903631ca705ba55ea47b3e8acd20cd0d751394860424",
-    "date": 1790222400000
    }
   ]
  },
