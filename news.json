@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T18:10:47.094Z",
+ "generatedAt": "2026-09-24T18:12:29.517Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Goreče vozilo zaprlo ljubljansko obvoznico",
+    "link": "https://www.24ur.com/novice/slovenija/gorece-vozilo-zaprlo-ljubljansko-obvoznico-nastaja-zastoj.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/eee225e7889c9fcddc5a_63653504.jpg?v=cd3d&fop=fp:0.47:0.49",
+    "date": 1790273512000
+   },
+   {
     "title": "Kako varni smo državljani in država pred kibernetskimi napadi?",
     "link": "https://www.24ur.com/novice/slovenija/kako-varni-smo-drzavljani-in-drzava-pred-kibernetskimi-napadi.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/02c1b52fde1fbe2038d9_63629308.jpg?v=727f&fop=fp:0.48:0.38",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/sport/ostalo/bencinski-spektakel-v-novi-gorici.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/d27248860504ef37bc77_63653542.jpg?v=d52d&fop=fp:0.51:0.51",
     "date": 1790271979000
-   },
-   {
-    "title": "Goreče vozilo zaprlo ljubljansko obvoznico, zastoj ostaja",
-    "link": "https://www.24ur.com/novice/slovenija/gorece-vozilo-zaprlo-ljubljansko-obvoznico-nastaja-zastoj.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/eee225e7889c9fcddc5a_63653504.jpg?v=cd3d&fop=fp:0.47:0.49",
-    "date": 1790271674000
    },
    {
     "title": "Poljaki na papirju favoriti, a pozor: Slovenci vedo, kako jih vreči s prestola!",
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Sex offender bailed to flat near playground",
+    "link": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01cc/live/d8062300-b83e-11f1-bc1f-3f186ca4140c.jpg",
+    "date": 1790272672000,
+    "titleSl": "Spolni prestopnik je plačal varščino za stanovanje v bližini igrišča"
+   },
+   {
     "title": "'It has broken us as a family,' mother of poison seller victim tells hearing",
     "link": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cb/live/590dcc50-b835-11f1-b4bc-39c67eb36497.png",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
     "date": 1790265629000,
     "titleSl": "Poljska pravi, da je požar na postaji Starlink sabotaža, saj Danska opozarja na naraščajočo rusko grožnjo"
-   },
-   {
-    "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9660/live/3a490bd0-b831-11f1-b1d1-571ed4d7ff2c.jpg",
-    "date": 1790265475000,
-    "titleSl": "Moški obsojen na dve leti zapora zaradi metanja steklenic na protest priseljencev v Portsmouthu"
    }
   ],
   "aljazeera": [
@@ -417,7 +417,8 @@
     "title": "Nach tödlichem Unfall seiner Mutter (32) - Junge (14) erhält 65 Mio. Dollar Schmerzensgeld",
     "link": "https://www.bild.de/news/ausland/usa-junge-14-erhaelt-65-millionen-dollar-schmerzensgeld-6ab52c14b2d23610d25caf08",
     "image": "https://images.bild.de/6ab52c14b2d23610d25caf08/78c422c8666e83c7485ed21b8b720f49,1f56e846?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Nach tödlichem Unfall seiner Mutter (32) - Junge (14) erhält 65 mio. Dollar Schmerzensgeld"
    },
    {
     "title": "Es flutscht bei „Love Island VIP“ - Wofür Sylvie Meis Vaseline braucht",
@@ -534,6 +535,26 @@
   ],
   "lemonde": [
    {
+    "title": "Pour le président du Medef, la CGT et la CFDT jettent « une ombre suspecte » sur « la démocratie sociale » en combattant le RN",
+    "link": "https://www.lemonde.fr/politique/article/2026/09/24/pour-le-president-du-medef-la-cgt-et-la-cfdt-jettent-une-ombre-suspecte-sur-la-democratie-sociale-en-combattant-le-rn_6781574_823448.html",
+    "image": "https://img.lemde.fr/2026/08/26/112/0/5859/2929/644/322/60/0/401d59e_ftp-1-jieagjmbfzq8-2026-08-26t132001z-928994488-rc2d6namy3xt-rtrmadp-3-france-business.JPG",
+    "date": 1790272560000
+   },
+   {
+    "title": "Budget 2027 : la « taxe au tonnage », la niche fiscale des armateurs, de nouveau sur la sellette",
+    "link": "https://www.lemonde.fr/politique/article/2026/09/24/budget-2027-la-taxe-au-tonnage-la-niche-fiscale-des-armateurs-de-nouveau-sur-la-sellette_6781573_823448.html",
+    "image": "https://img.lemde.fr/2026/09/24/435/0/5222/2611/644/322/60/0/5d88e6c_upload-1-zweshxvrhmxc-000-b8px7gq.jpg",
+    "date": 1790272158000,
+    "titleSl": "Proračun 2027 : la « taxe au tonnage », la niche fiscale des armateurs, de nouveau sur la sellette"
+   },
+   {
+    "title": "Au Maroc, les leçons des législatives : recomposition au sein de la coalition gouvernementale, retour des islamistes, abstention…",
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/24/les-lecons-des-legislatives-marocaines-recomposition-au-sein-de-la-coalition-gouvernementale-retour-des-islamistes-abstention_6781572_3212.html",
+    "image": "https://img.lemde.fr/2026/09/24/1117/0/8745/4372/644/322/60/0/046e2c1_ftp-1-4fitwzmqwazj-5172540-01-06.jpg",
+    "date": 1790271960000,
+    "titleSl": "Au Maroc, les leçons des législatives : rekompozicija au sein de laalition gouvernementale, retour des islamistes, vzdržan glas…"
+   },
+   {
     "title": "« Cette très belle boîte a été tuée » : les salariés de SFR manifestent en nombre contre les conditions du rachat de l’opérateur par Bouygues Telecom, Free et Orange",
     "link": "https://www.lemonde.fr/economie/article/2026/09/24/cette-tres-belle-boite-a-ete-tuee-les-salaries-de-sfr-manifestent-en-nombre-contre-les-conditions-du-rachat-de-l-operateur-par-bouygues-telecom-free-et-orange_6781570_3234.html",
     "image": "https://img.lemde.fr/2026/09/24/504/0/5877/2938/644/322/60/0/3927b00_upload-1-mgeqxs6ulkm3-000-c99k8c3.jpg",
@@ -547,31 +568,11 @@
     "date": 1790267133000
    },
    {
-    "title": "Le référent intégrité de Santé publique France démissionne après sa mise en cause pour des liens avec Pfizer",
-    "link": "https://www.lemonde.fr/planete/article/2026/09/24/le-referent-integrite-de-sante-publique-france-demissionne-apres-sa-mise-en-cause-pour-des-liens-avec-pfizer_6781556_3244.html",
-    "image": "https://img.lemde.fr/2026/09/22/684/0/8192/4096/644/322/60/0/9bacbe7_upload-1-s1omvdrk3uut-maxnewsfrsix166856.jpg",
-    "date": 1790266383000
-   },
-   {
-    "title": "EN DIRECT, interview d’Emmanuel Macron : suivez la prise de parole du chef de l’Etat, sur TF1 et France 2, à sept mois de l’élection présidentielle",
+    "title": "EN DIRECT, interview d’Emmanuel Macron : suivez la prise de parole du chef de l’Etat, sur TF1 et France 2",
     "link": "https://www.lemonde.fr/politique/live/2026/09/24/en-direct-interview-d-emmanuel-macron-suivez-la-prise-de-parole-du-chef-de-l-etat-sur-tf1-et-france-2-a-sept-mois-de-l-election-presidentielle_6781553_823448.html",
     "image": "https://img.lemde.fr/2026/09/18/269/0/8000/4000/644/322/60/0/4841a23_upload-1-qpurtqwvkjxh-jmug260918076.jpg",
     "date": 1790265750000,
-    "titleSl": "EN DIRECT, interview d 'Emmanuel Macron : suivez la prise de parole du chef de l' Etat, sur TF1 et France 2, à sept mois de l 'élection présidentielle"
-   },
-   {
-    "title": "Entre l’Afrique du Sud et les Etats-Unis, le bras de fer diplomatique reprend",
-    "link": "https://www.lemonde.fr/international/article/2026/09/24/entre-l-afrique-du-sud-et-les-etats-unis-le-bras-de-fer-diplomatique-reprend_6781551_3210.html",
-    "image": "https://img.lemde.fr/2026/09/23/1388/0/8329/4164/644/322/60/0/ab39916_ftp-1-lpbvntbzveew-2026-09-23t145425z-1156063774-rc22pnazpt72-rtrmadp-3-un-assembly-rubio.JPG",
-    "date": 1790265606000,
-    "titleSl": "Entre l'Afrique du Sud et les Etats-Unis, le bras de fer diplomatique reprend"
-   },
-   {
-    "title": "Muse, l’assistant d’IA que Meta veut imposer dans la vie quotidienne",
-    "link": "https://www.lemonde.fr/economie/article/2026/09/24/avec-muse-meta-veut-imposer-son-assistant-d-ia-dans-la-vie-quotidienne_6781549_3234.html",
-    "image": "https://img.lemde.fr/2026/09/24/500/0/6000/3000/644/322/60/0/9e62cfa_ftp-1-zyqux9cfbxnk-2026-09-24t001018z-1185084798-rc2cpnafi1wf-rtrmadp-3-meta-platforms-conference.JPG",
-    "date": 1790265290000,
-    "titleSl": "Muse, l 'asistent d'IA que Meta veut imposer dans la vie quotidienne"
+    "titleSl": "EN DIRECT, interview d'Emmanuel Macron : suivez la prise de parole du chef de l' Etat, sur TF1 et France 2"
    }
   ],
   "elpais": [
