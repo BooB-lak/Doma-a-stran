@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T06:06:25.940Z",
+ "generatedAt": "2026-09-24T06:08:25.316Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Od leta 2015 v polfinalu EP-jev največkrat odbojkarji Slovenije",
+    "link": "https://www.rtvslo.si/sport/sportni-sos/od-leta-2015-v-polfinalu-ep-jev-najveckrat-odbojkarji-slovenije/794687",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106515.jpg",
+    "date": 1790229976000
+   },
+   {
     "title": "Vid Simoniti: Optimisti",
     "link": "https://www.rtvslo.si/kultura/beremo/vid-simoniti-optimisti/794693",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106513.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zdravje/polarizacija-in-radikalizacija-spolnosti-tlakujeta-pot-v-tehnofasizem/794688",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106478.jpg",
     "date": 1790226436000
-   },
-   {
-    "title": "Trump na letališču osebno sprejel Šija na prvem državniškem obisku v ZDA po več kot desetih letih",
-    "link": "https://www.rtvslo.si/svet/s-in-j-amerika/trump-na-letaliscu-osebno-sprejel-sija-na-prvem-drzavniskem-obisku-v-zda-po-vec-kot-desetih-letih/794691",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106480.jpg",
-    "date": 1790226346000
    }
   ],
   "zurnal": [
@@ -290,13 +290,15 @@
     "title": "Harry Kane eyes career as NFL kicker after football retirement",
     "link": "https://www.aljazeera.com/sports/2026/9/24/harry-kane-eyes-career-as-nfl-kicker-after-football-retirement?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261696118997-1790228029.jpg?resize=1920%2C1440",
-    "date": 1790229326000
+    "date": 1790229326000,
+    "titleSl": "Harry Kane si po upokojitvi v nogometu prizadeva za kariero kickerja lige NFL"
    },
    {
     "title": "Trump and Xi summit may just be a ‘horse and pony show’, experts say",
     "link": "https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26266797892558-1790202676.jpg?resize=1200%2C675",
-    "date": 1790229310000
+    "date": 1790229310000,
+    "titleSl": "Vrh Trumpa in Xija je lahko samo \"predstava konj in ponijev\", pravijo strokovnjaki"
    },
    {
     "title": "OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy",
@@ -329,11 +331,25 @@
   ],
   "guardian": [
    {
-    "title": "Australia news live: Senior gallery worker accused of funnelling $8 million in mobile phone scheme; interest rate hike still likely after jobless rise",
+    "title": "Australia news live: Senior gallery worker accused of funnelling $8m in mobile phone scheme; interest rate hike still likely after jobless rise",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/f69299974503c6423e6cb9156ac0d3a3cecd7a0e/390_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a9e5d4700f30057505a720d5d5f4251b",
-    "date": 1790228488000,
+    "image": "https://i.guim.co.uk/img/media/f02fe6612d20f9d138bb234767bce58adad9a78b/441_0_4312_3450/master/4312.jpg?width=140&quality=85&auto=format&fit=max&s=ee94c16202c588310ab9aaee88c3aa97",
+    "date": 1790229824000,
     "titleSl": "Avstralske novice v živo: Višji galerijski delavec obtožen preusmerjanja 8 milijonov $ v shemo mobilnih telefonov; zvišanje obrestnih mer je še vedno verjetno po povečanju brezposelnosti"
+   },
+   {
+    "title": "Greek PM: deal to return Parthenon marbles could still be reached with ‘political will and courage’",
+    "link": "https://www.theguardian.com/artanddesign/2026/sep/24/greek-pm-deal-to-return-parthenon-marbles-could-still-be-reached-with-political-will-and-courage",
+    "image": "https://i.guim.co.uk/img/media/2ab41ef770f7eaa6fe24932a2b3206036248abda/848_0_6336_5070/master/6336.jpg?width=140&quality=85&auto=format&fit=max&s=eda72699731d3bbe43cd7ede66b1f60c",
+    "date": 1790229611000,
+    "titleSl": "Grški premier: dogovor o vrnitvi partenonskega frnikola je še vedno mogoče doseči s \"politično voljo in pogumom\""
+   },
+   {
+    "title": "‘Cash to trash’ levy on house developers too low to offset damage to Norfolk Broads, say critics",
+    "link": "https://www.theguardian.com/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage",
+    "image": "https://i.guim.co.uk/img/media/4a6626810103c1e9e1f4510cfe996cfe77e6191f/448_0_4483_3587/master/4483.jpg?width=140&quality=85&auto=format&fit=max&s=dac054cff26ec2345c225f17b9489cdb",
+    "date": 1790229609000,
+    "titleSl": "\"Cash to trash\" dajatev na graditelje hiš je prenizka, da bi nadomestila škodo Norfolk Broads, pravijo kritiki"
    },
    {
     "title": "Judge orders Trump White House to restore access to CNN, MS Now and Politico",
@@ -355,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/08edea32efd91546dcb0110620c7c6ad4fa08469/305_60_2320_1856/master/2320.jpg?width=140&quality=85&auto=format&fit=max&s=9bb6130326f2f03590011612dec70f31",
     "date": 1790225916000,
     "titleSl": "Rodríguez je povedal ZN, da se je Venezuela \"prerodila\" – kot se je zgodilo"
-   },
-   {
-    "title": "Are pubs and pups a good mix? Dog owners delight as Victoria looks to follow Europe’s lead",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/24/victoria-labor-election-dogs-pubs-extend-opening-hours-3am",
-    "image": "https://i.guim.co.uk/img/media/9bb353238195b29e588c0c55e482ce9ffa881164/2_0_6122_4900/master/6122.jpg?width=140&quality=85&auto=format&fit=max&s=bbdad6e5d2c7bb510488c278177f1164",
-    "date": 1790224898000,
-    "titleSl": "So pubi in mladiči dobra mešanica? Lastniki psov uživajo, saj Victoria želi slediti evropskemu vodstvu"
-   },
-   {
-    "title": "UK losing up to £6.5bn a year in EU trade due to mismatched product rules",
-    "link": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-    "image": "https://i.guim.co.uk/img/media/e8f34616a89eb687ef51aa6aa3542d0569d4d6f6/508_163_3615_2892/master/3615.jpg?width=140&quality=85&auto=format&fit=max&s=bada05ab333892249a669d5273840825",
-    "date": 1790222410000,
-    "titleSl": "Združeno kraljestvo izgubi do 6,5 milijarde £ na leto v trgovini EU zaradi neusklajenih pravil o izdelkih"
    }
   ],
   "spiegel": [
@@ -412,6 +414,13 @@
   ],
   "bild": [
    {
+    "title": "Comeback von Europe - „The Final Countdown“-Band meldet sich zurück",
+    "link": "https://www.bild.de/unterhaltung/musik/comeback-von-europe-the-final-countdown-band-meldet-sich-zurueck-6ab3cc5ca15a9fecb6692c63",
+    "image": "https://images.bild.de/6ab3cc5ca15a9fecb6692c63/9c5b5408581891df923114d12b4b7f71,24a08a04?w=1280",
+    "date": 0,
+    "titleSl": "Comeback von Europe - \"The Final Countdown\"-Band meldet sich zurück"
+   },
+   {
     "title": "Türke ist in Heilbronn geboren - Totraser für 8 Jahre aus Deutschland ausgewiesen",
     "link": "https://www.bild.de/news/inland/totraser-ausgewiesen-tuerke-muss-deutschland-fuer-8-jahre-verlassen-6ab3aad8174ceb992b6e754f",
     "image": "https://images.bild.de/6ab3aad8174ceb992b6e754f/c57864ee3de7bf0a82dc9166e145c195,30b49d83?w=1280",
@@ -443,16 +452,15 @@
     "image": "https://images.bild.de/6ab432d965c5f92d38700ffa/da2db538d82f143e782ffa0e3d066cc0,d7c92d2?w=1280",
     "date": 0,
     "titleSl": "Začnite v die neue DFB-Ära - Heute schlägt unser Fußball-Herz KLOPP, KLOPP, KLOPP!"
-   },
-   {
-    "title": "Trainer spricht von „Kaltem Krieg“ - Spionage-Zoff in der NFL!",
-    "link": "https://www.bild.de/sport/mehr-sport/spionage-zoff-in-der-nfl-trainer-spricht-von-kaltem-krieg-6ab3ded0e5b1ca08382bc464",
-    "image": "https://images.bild.de/6ab3ded0e5b1ca08382bc464/3e5dd46778ced71ec5b16ad9f030b39f,cb3a94?w=1280",
-    "date": 0,
-    "titleSl": "Trener spricht von \"Kaltem Krieg\" - Spionage-Zoff v der NFL!"
    }
   ],
   "krone": [
+   {
+    "title": "Litt an Parkinson - Trauer bei Mike Tindall nach Tod seines Vaters",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5DdEo1VmctMzdZNDZkV1FmT2hXdmxIYVMwTENCQmJPVi1JSHJwd1hCRXNDTkJWZl9jVzctazgyYTQwZw?oc=5",
+    "image": "",
+    "date": 1790229960000
+   },
    {
     "title": "Spur im Waldviertel - Auf uralten Pfaden eines großen Minnesängers",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBocGRVbGNkQUtoc1gxUmU3R0xZaGVjWGpkQmMzUVZKLUhqYlRXeEpCOFg5dEt1aU1MdE5lamJzQm9OQQ?oc=5",
@@ -484,12 +492,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hcjNaaDlxcnhjbGhjdkN0RlVFZ2IyTUk5LWxaWEpadHNWa1p0ZW1jZkl5OGJuSHhMT3NJd1dCQWJyZw?oc=5",
     "image": "",
     "date": 1790227680000
-   },
-   {
-    "title": "Neffe gefeuert! - Streit um Dolly Partons Millionenerbe entbrannt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GWi1iajUwd2laQVJOSDlQalBxZWpOVnN3U1pObm53NDZfN0gybTUxMHhoNmxjcmp1SzJpWE5mWkZIZw?oc=5",
-    "image": "",
-    "date": 1790226360000
    }
   ],
   "rainews": [
