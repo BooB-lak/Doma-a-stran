@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-25T06:38:25.500Z",
+ "generatedAt": "2026-09-25T06:40:43.326Z",
  "sources": {
   "siol": [
+   {
+    "title": "Iran ZDA predložil načrt za končanje vojne #vŽivo",
+    "link": "https://siol.net/novice/svet/iran-zda-predlozil-nacrt-za-koncanje-vojne-vzivo-702362",
+    "image": "https://siol.net/media/img/5d/29/3ca0ccc9008b22c7d16a.jpeg",
+    "date": 1790318340000
+   },
    {
     "title": "Medved ubil očeta ruskega hokejista Andreja Kuzmenka v ligi NHL",
     "link": "https://siol.net/sportal/hokej/medved-ubil-oceta-ruskega-hokejista-andreja-kuzmenka-v-ligi-nhl-702361",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kosarka/bob-pettit-1932-2026-702354",
     "image": "https://siol.net/media/img/c9/d7/84ee7bdf63bf6e69fb81.jpeg",
     "date": 1790312220000
-   },
-   {
-    "title": "Lani dizelski superb, zdaj električni audi: Poljak je postavil nov rekord pri dosegu",
-    "link": "https://siol.net/avtomoto/novice/lani-dizelski-superb-zdaj-elektricni-audi-poljak-je-postavil-nov-rekord-pri-dosegu-702350",
-    "image": "https://siol.net/media/img/cc/dc/396ed7f5c880c3348949.jpeg",
-    "date": 1790311500000
    }
   ],
   "24ur": [
@@ -45,6 +45,12 @@
     "link": "https://www.24ur.com/novice/tujina/pred-govorom-netanjahuja-delegati-mnozicno-zapustili-dvorano.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/6f2887e46c1e44e14be9_63653680.jpg?v=dc72&fop=fp:0.42:0.23",
     "date": 1790318032000
+   },
+   {
+    "title": "Medved poskrbel za bizarno smrt v družini Kopitarjevega nekdanjega soigralca",
+    "link": "https://www.24ur.com/sport/hokej/medved-poskrbel-za-bizarno-smrt-v-druzini-kopitarjevega-nekdanjega-soigralca.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/1ef5cc49a50de7ca8047_63653667.jpg?v=1bab&fop=fp:0.65:0.18",
+    "date": 1790317257000
    },
    {
     "title": "Messi se poslavlja, navijači se v deliriju borijo za vstopnice",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/trump-nikoli-se-nisva-bolje-razumela-si.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/9b365121187d49360fee_63653633.jpg?v=bbbf&fop=fp:0.75:0.21",
     "date": 1790315200000
-   },
-   {
-    "title": "Elektrifikacija logistike: zakaj zgolj menjava vozil ne bo dovolj",
-    "link": "https://www.24ur.com/platforma/elektrifikacija-logistike-zakaj-zgolj-menjava-vozil-ne-bo-dovolj.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2023/93c62aa9e6d8c4f6c9a8_63114999.jpg?v=7284&fop=fp:0.46:0.38",
-    "date": 1790313046000
    }
   ],
   "rtvslo": [
@@ -243,6 +243,20 @@
   ],
   "bbc": [
    {
+    "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
+    "date": 1790318418000,
+    "titleSl": "ZDA in Kitajska morata skupaj delovati kot odgovorni sili, pravi Xi, ko Trump nazdravlja prijateljstvu na državni večerji"
+   },
+   {
+    "title": "Education, Barcelona & Basque culture - why Spain are dominating football",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a4e/live/1d070840-adfc-11f1-8169-6fdea7f79791.jpg",
+    "date": 1790317257000,
+    "titleSl": "Izobraževanje, Barcelona in baskovska kultura - zakaj Španija prevladuje v nogometu"
+   },
+   {
     "title": "One person taken to hospital after barracks fire",
     "link": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be4/live/47cff050-b86a-11f1-a430-4d16ee157c41.jpg",
@@ -264,25 +278,11 @@
     "titleSl": "Zidane je čakal na Francijo - ali lahko zdaj izkoristi njihovo zvezdno moč?"
    },
    {
-    "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
-    "date": 1790314965000,
-    "titleSl": "ZDA in Kitajska morata skupaj delovati kot odgovorni sili, pravi Xi, ko Trump nazdravlja prijateljstvu na državni večerji"
-   },
-   {
     "title": "Our son's death could have been prevented by FA, say parents of striker Billy Vigar",
     "link": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/958d/live/8cf37e80-b848-11f1-a2ec-c153af45023f.jpg",
     "date": 1790313929000,
     "titleSl": "Smrt najinega sina bi lahko preprečila FA, pravijo starši napadalca Billyja Vigarja"
-   },
-   {
-    "title": "Our son's death could have been prevented by FA - Billy Vigar's parents",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/958d/live/8cf37e80-b848-11f1-a2ec-c153af45023f.jpg",
-    "date": 1790313929000,
-    "titleSl": "Smrt najinega sina bi lahko preprečila FA - starši Billyja Vigarja"
    }
   ],
   "aljazeera": [
@@ -331,6 +331,20 @@
   ],
   "guardian": [
    {
+    "title": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+    "link": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+    "image": "https://i.guim.co.uk/img/media/f8bf1d8867f33d6a507ea583a29ccb3ef2271128/659_79_3365_2693/master/3365.jpg?width=140&quality=85&auto=format&fit=max&s=f765cef514590fe349830d0244b4c471",
+    "date": 1790318005000,
+    "titleSl": "Organi NZS v Angliji nalagajo dveletno minimalno čakanje na ocene ADHD in avtizma"
+   },
+   {
+    "title": "Two-year waiting times highlight NHS struggle with rise in ADHD and autism awareness",
+    "link": "https://www.theguardian.com/society/2026/sep/25/two-year-nhs-waiting-times-reveal-struggle-rise-adhd-autism-awareness",
+    "image": "https://i.guim.co.uk/img/media/d8a30509368edb4ddd569bcf88437a85b24b566c/624_0_3120_2496/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=a3e6b0f6417f3e5540229f50dd5b79e5",
+    "date": 1790317933000,
+    "titleSl": "Dveletni čakalni časi poudarjajo boj NZS z naraščanjem ADHD in ozaveščanjem o avtizmu"
+   },
+   {
     "title": "Australia news live: PM says he learned of OpenAI’s Medicare breach in New York; retrial date set in Yung Filly rape case",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/0f146466cd44b35019114fd56743207f90fdbcce/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=aca0f1cb6ee81d7b22e55e7a18679340",
@@ -352,25 +366,11 @@
     "titleSl": "PM zavrača \"nesmiselne\" sugestije, da je odložil razkritje hekanja OpenAI Medicare, saj delo razmišlja o spremembi zakonov"
    },
    {
-    "title": "Two-year NHS waiting times reveal system’s struggle with rise in ADHD and autism awareness",
-    "link": "https://www.theguardian.com/society/2026/sep/25/two-year-nhs-waiting-times-reveal-struggle-rise-adhd-autism-awareness",
-    "image": "https://i.guim.co.uk/img/media/d8a30509368edb4ddd569bcf88437a85b24b566c/624_0_3120_2496/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=a3e6b0f6417f3e5540229f50dd5b79e5",
-    "date": 1790312441000,
-    "titleSl": "Dveletni čakalni časi NZS razkrivajo boj sistema z naraščanjem ADHD in ozaveščanjem o avtizmu"
-   },
-   {
     "title": "‘Devastating’: council rejects Frome residents’ bid for regeneration project",
     "link": "https://www.theguardian.com/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
     "image": "https://i.guim.co.uk/img/media/e0f73ef715ee57cd1d7e75ffb3621774d0dd6436/242_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=1737bf78a7c4fccea921f57e6a83afba",
     "date": 1790312440000,
     "titleSl": "‘Uničujoče’: svet zavrnil ponudbo prebivalcev Frome za projekt regeneracije"
-   },
-   {
-    "title": "NSW cop asked friend ‘what would you do if I told you I killed somebody’ before alleged murders, court told",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/25/beau-lamarre-condon-trial-cop-faked-cancer-sydney-murders-jesse-baird-luke-davies-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/9121e130e1a0424273a784f6febc21cfcb53dd1d/204_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=cceb847e454fac7c4debd9fa26137861",
-    "date": 1790310224000,
-    "titleSl": "Policistka iz NSW je prijatelja vprašala \"kaj bi storili, če bi vam povedala, da sem nekoga ubila\" pred domnevnim umorom, je sodišče povedalo"
    }
   ],
   "spiegel": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Trump und der China-Präsident - Schampus mit Xi",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/gipfel-mit-trump-und-xi-hier-sitzen-24-billionen-beim-bankett-6ab580e669610b25688be447",
+    "image": "https://images.bild.de/6ab580e669610b25688be447/1dfb4266d09073222ed3e3ea1e39e93e,d40f885c?w=1280",
+    "date": 0
+   },
+   {
     "title": "Panne bei Windrad-Transport in Niedersachsen - 71-Tonnen-Koloss im Straßengraben",
     "link": "https://www.bild.de/news/inland/panne-bei-windrad-transport-in-niedersachsen-71-tonnen-koloss-im-strassengraben-6ab61091a8b3f6fdb1edab2e",
     "image": "https://images.bild.de/6ab61091a8b3f6fdb1edab2e/7b806cbfb53d0338ed8091f153cb4379,ab7a211c?w=1280",
@@ -443,13 +449,6 @@
     "link": "https://www.bild.de/leben-wissen/lifestyle/pilz-regionen-in-ihrer-naehe-hier-stehen-ihre-chancen-am-besten-64f6ef437a4df45ab5a2a731",
     "image": "https://images.bild.de/64f6ef437a4df45ab5a2a731/c1eac8d8afa19321ee3d39a531d8efe1,db1c630b?w=1280",
     "date": 0
-   },
-   {
-    "title": "Unfair oder clever? - Das sagt Klopp zum umstrittenen DFB-Tor",
-    "link": "https://www.bild.de/sport/fussball/nations-league-das-sagt-klopp-zum-umstrittenen-dfb-tor-gegen-holland-6ab5b16118772248192d4356",
-    "image": "https://images.bild.de/6ab5b16118772248192d4356/b3123ef13ebf8d7bd7b9024c68416e59,8a46ef03?w=1280",
-    "date": 0,
-    "titleSl": "Nepošteno oder pametno? - Das sagt Klopp zum umstrittenen DFB-Tor"
    }
   ],
   "krone": [
@@ -493,6 +492,13 @@
   ],
   "rainews": [
    {
+    "title": "Allarme droni russi sull&#x27;Europa, Italia e Francia smentiscono \"El Mundo\"",
+    "link": "https://www.rainews.it/maratona/2026/09/ucraina-guerra-allarme-droni-russi-su-europa-francia-e-italia-smentiscono-el-mundo-c23b2b28-8dda-453b-a1cc-abdd007aacea.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/25/1790312371359_.jpg",
+    "date": 1790318340000,
+    "titleSl": "Allarme droni russi sull 'Europa, Italia e Francia smentiscono \"El Mundo\""
+   },
+   {
     "title": "Media: l&#x27;Iran ha proposto agli Usa un piano da 7 giorni per la tregua",
     "link": "https://www.rainews.it/maratona/2026/09/guerre-medio-oriente-gaza-distrutta-90-per-cento-servono-71-miliardi-di-dollari-netanyahu-contro-tutti-macron-aiuti-arabia-saudita-55df32b8-c6c9-4005-adb6-e62b865ba47c.html",
     "image": "https://www.rainews.it/dl/img/2026/9/25/1790309811439_fox.png",
@@ -524,13 +530,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/25/1790313680982_bftstillPRIMETIMEgradedvrecgxweb.tiff",
     "date": 1790313840000,
     "titleSl": "Tuttifrutti. L'intervista a Robert Pattinson. I ricordi e le accuse del fratello di Lady D"
-   },
-   {
-    "title": "Il cuore della tempesta tropicale Nolo mentre si intensifica gradualmente: il timelapse",
-    "link": "https://www.rainews.it/video/2026/09/il-cuore-della-tempesta-tropicale-nolo-mentre-si-intensifica-gradualmente-il-timelapse-video-b35051a3-80d8-4702-badd-07db40db3beb.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/25/1790313702595_TZLOVRPRTRMADVSTREAMXMPUSAWEATHERHAWAIISATELLITE.jpg",
-    "date": 1790313660000,
-    "titleSl": "Il cuore della tempesta tropicale Nolo mentre si intensifica postupalmente: il timelapse"
    }
   ],
   "lemonde": [
