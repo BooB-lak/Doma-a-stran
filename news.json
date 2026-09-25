@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-25T14:38:25.664Z",
+ "generatedAt": "2026-09-25T14:40:43.559Z",
  "sources": {
   "siol": [
+   {
+    "title": "V 11. nadstropje tekli za dober namen: zbrani denar gre družinam v stiski",
+    "link": "https://siol.net/novice/slovenija/vec-kot-200-zaposlenih-za-dober-namen-s-startninami-pomagajo-druzinam-v-stiski-702422",
+    "image": "https://siol.net/media/img/7d/ag/0a0d63027bc1c4789689.jpeg",
+    "date": 1790346420000
+   },
    {
     "title": "Odličen dan Domna Novaka na Hrvaškem",
     "link": "https://siol.net/sportal/kolesarstvo/odlicen-dan-domna-novaka-na-hrvaskem-702421",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/drugi-sporti/19-letna-plezalka-lana-goric-koncala-plezalno-kariero-zivljenje-me-vlece-v-druge-smeri-702417",
     "image": "https://siol.net/media/img/34/fc/821b4b3381459ae4695e.jpeg",
     "date": 1790344200000
-   },
-   {
-    "title": "Eva Alina Hočevar zanesljivo v finalu kanuja",
-    "link": "https://siol.net/sportal/drugi-sporti/ep-slalom-eva-alina-hocevar-zanesljivo-v-finalu-kanuja-702416",
-    "image": "https://siol.net/media/img/09/82/7ce8da1c2a8a36e25da0.jpeg",
-    "date": 1790343600000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Russell prepričljivo dobil kvalifikacije, Antonelli po trku šele s 16. mesta",
+    "link": "https://www.rtvslo.si/sport/formula-1/russell-prepricljivo-dobil-kvalifikacije-antonelli-po-trku-sele-s-16-mesta/794916",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/25/67107031.jpg",
+    "date": 1790347172000
+   },
+   {
     "title": "DZ: Poslanec, neuradno Žan Mahnič, v dveh primerih ni kršil etičnega kodeksa",
     "link": "https://www.rtvslo.si/slovenija/dz-poslanec-neuradno-zan-mahnic-v-dveh-primerih-ni-krsil-eticnega-kodeksa/794919",
     "image": "https://img.rtvcdn.si/_up/upload/2026/07/23/67063258.jpg",
@@ -97,7 +103,7 @@
     "date": 1790345884000
    },
    {
-    "title": "Nadaljevanje medsebojnih napadov: V Kijevu in Odesi ubitih pet ljudi, v Rusiji dve smrtni žrtvi",
+    "title": "Nadaljevanje medsebojnih napadov: v Kijevu in Odesi ubitih pet ljudi, v Rusiji dve smrtni žrtvi",
     "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/nadaljevanje-medsebojnih-napadov-v-kijevu-in-odesi-ubitih-pet-ljudi-v-rusiji-dve-smrtni-zrtvi/794913",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/25/67107029.jpg",
     "date": 1790345467000
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/lakersi-ekipo-zgradili-okoli-najboljsega-ofenzivnega-kosarkarja-na-svetu/794910",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/25/67107024.jpg",
     "date": 1790345293000
-   },
-   {
-    "title": "S tono in pol bakra neznanega izvora v kombiju je poskusil podkupiti policiste",
-    "link": "https://www.rtvslo.si/crna-kronika/s-tono-in-pol-bakra-neznanega-izvora-v-kombiju-je-poskusil-podkupiti-policiste/794912",
-    "image": "https://img.rtvcdn.si/_up/upload/2024/04/05/66172199.jpg",
-    "date": 1790344989000
    }
   ],
   "zurnal": [
@@ -416,6 +416,18 @@
   ],
   "bild": [
    {
+    "title": "Nach Schock-Verletzung - Überraschende News von Bayern-Supertalent!",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-nach-schock-verletzung-beim-super-talent-ueberraschende-news-von-cardozo-6ab628b280ab3b5fffaeda59",
+    "image": "https://images.bild.de/6ab628b280ab3b5fffaeda59/f42025614e1210a341ba565847b4f670,ab90e636?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach dem Linken-Sieg - Jetzt reden Berliner Polizisten übers Weggehen",
+    "link": "https://www.bild.de/politik/berliner-polizei-frust-und-abwanderungsplaene-nach-linken-wahlsieg-6ab4fd48e0200f794f12e6c5",
+    "image": "https://images.bild.de/6ab4fd48e0200f794f12e6c5/0c619ef518c735f057e1aac11977932a,502bf5c2?w=1280",
+    "date": 0
+   },
+   {
     "title": "Börsen-Profi Schmitt gibt Tipps - Benzin teuer wie nie! Verdienen Sie einfach mit",
     "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/hohe-spritpreise-diese-aktien-profitieren-vom-tankstellen-schock-6ab27f7ab1857e86757aaeeb",
     "image": "https://images.bild.de/6ab27f7ab1857e86757aaeeb/7bdae5bc070888c1704605816ad10082,b139a634?w=1280",
@@ -437,18 +449,6 @@
     "title": "Tödliche Täuschung in der Tüte - Mann (42) stirbt nach Verzehr von Gummibärchen",
     "link": "https://www.bild.de/regional/berlin/berlin-nach-vermeintlichen-thc-gummibaerchen-stirbt-ein-mann-6ab6296424c8e458512f7f9c",
     "image": "https://images.bild.de/6ab6296424c8e458512f7f9c/9d737122a78e2e63c6c84326cecc6f61,3f2a2364?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Schock-Verletzung - Überraschende News von Bayern-Supertalent!",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-nach-schock-verletzung-beim-super-talent-ueberraschende-news-von-cardozo-6ab628b280ab3b5fffaeda59",
-    "image": "https://images.bild.de/6ab628b280ab3b5fffaeda59/f42025614e1210a341ba565847b4f670,ab90e636?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Mindestens 20 Züge gestoppt - Gleisblockade! Chaoten legen Güterverkehr lahm",
-    "link": "https://www.bild.de/regional/hamburg/ende-gelaende-blockiert-hamburgs-hafenbahn-rund-20-zuege-fallen-aus-6ab6583924c8e458512f85bf",
-    "image": "https://images.bild.de/6ab6583924c8e458512f85bf/015b328256c46a443d47eb185efa140b,c2493651?w=1280",
     "date": 0
    }
   ],
@@ -544,11 +544,10 @@
     "date": 1790344817000
    },
    {
-    "title": "EN DIRECT, visite du pape à Paris | Léon XIV a terminé son discours à l’Unesco et commence sa déambulation parisienne",
+    "title": "EN DIRECT, visite du pape à Paris | Léon XIV se promène en papamobile dans les rues de la capitale, et se dirige vers la cathédrale de Notre-Dame",
     "link": "https://www.lemonde.fr/societe/live/2026/09/25/en-direct-visite-du-pape-a-paris-leon-xiv-encense-l-unesco-un-interlocuteur-privilegie-de-l-eglise-catholique-au-service-du-bien-commun_6782008_3224.html",
-    "image": "https://img.lemde.fr/2026/09/25/35/0/5726/2863/644/322/60/0/cc6cd9b_ftp-1-sgf8q7hl4kx7-5180773-01-06.jpg",
-    "date": 1790344518000,
-    "titleSl": "EN DIRECT, visite du pape à Paris | Léon XIV a terminé son discours à l 'Unesco et begin sa déambulation parisienne"
+    "image": "https://img.lemde.fr/2026/09/25/69/0/1430/715/644/322/60/0/ea75f07_ftp-1-wiwpr1uy0vfw-5180977-01-06.jpg",
+    "date": 1790344518000
    },
    {
     "title": "Affaire Thélyson Orélien : le concepteur de Pangram, Max Spero, n’a « aucun doute » sur la présence d’IA dans le roman « C’était ça ou mourir »",
@@ -573,6 +572,12 @@
    }
   ],
   "elpais": [
+   {
+    "title": "Urbagestión asegura que ha propuesto un plan al Ayuntamiento de Madrid para que Maricarmen vuelva a su casa",
+    "link": "https://elpais.com/espana/madrid/2026-09-25/urbagestion-propone-ceder-al-ayuntamiento-de-madrid-la-casa-de-maricarmen-para-que-pueda-volver.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/LQ6HQHYSZ5CEFMUDROXL7RFY5U.jpg?auth=451825ff8e2901b6c0f7cde7714f6a86b55360d0d457093d5b3d7c3078714b87",
+    "date": 1790346707000
+   },
    {
     "title": "El Papa pide en Francia una “justa laicidad” que no excluya a la religión del espacio público",
     "link": "https://elpais.com/internacional/2026-09-25/el-papa-pide-en-francia-una-justa-laicidad-que-no-excluya-a-la-religion-del-espacio-publico.html",
@@ -604,13 +609,6 @@
     "link": "https://elpais.com/espana/2026-09-25/un-terremoto-de-35-con-epicentro-en-beniel-hace-temblar-la-region-de-murcia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/KRSTVTCFU5EQZI5KT5PHBID4VM.jpg?auth=766a6ada5c4be74fa361e5761d10fac2523104577f5d360963244faff49e40b6",
     "date": 1790343755000
-   },
-   {
-    "title": "El juez decreta prisión provisional con fianza para la pareja del arquitecto Josep Juanpere",
-    "link": "https://elpais.com/espana/catalunya/2026-09-25/el-juez-decreta-prision-provisional-con-fianza-para-la-pareja-del-josep-juanpere-fallecido-en-2025.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/DENGAPJYMBMXVGXNXX55Y2Q3TI.jpg?auth=0e7a229e9d7fc8c3139c2295f267a115ffa799decf50cc6f233ed72138edf30b",
-    "date": 1790343213000,
-    "titleSl": "El juez decreta prisión temporary con fianza para la pareja del arquitecto Josep Juanpere"
    }
   ]
  },
