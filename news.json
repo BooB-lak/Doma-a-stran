@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T06:28:27.437Z",
+ "generatedAt": "2026-09-25T06:30:56.666Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "One person taken to hospital after barracks fire",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be4/live/47cff050-b86a-11f1-a430-4d16ee157c41.jpg",
+    "date": 1790317160000,
+    "titleSl": "Ena oseba je bila po požaru v vojašnici odpeljana v bolnišnico"
+   },
+   {
     "title": "Watch: Pomp and toasts - day two of state visit",
     "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2868/live/88381480-b8a4-11f1-a430-4d16ee157c41.jpg",
@@ -276,16 +283,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/958d/live/8cf37e80-b848-11f1-a2ec-c153af45023f.jpg",
     "date": 1790313929000,
     "titleSl": "Smrt najinega sina bi lahko preprečila FA - starši Billyja Vigarja"
-   },
-   {
-    "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e946/live/c9a04730-b868-11f1-9c87-39f93ad008c3.png",
-    "date": 1790312920000,
-    "titleSl": "Dokumenti: \"Xi poziva tekmece k sožitju v miru\" in \"Končno se je začelo\""
    }
   ],
   "aljazeera": [
+   {
+    "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+    "link": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab5fd9f1a67d-1790311839.jpg?resize=1920%2C1440",
+    "date": 1790316015000,
+    "titleSl": "Orkan Polo treplja Mehiko, medtem ko se Nolo krepi v bližini Havajev"
+   },
    {
     "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
     "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-24T092006Z_1498853770_RC2KPNA6I1N1_RTRMADP_3_AFGHANISTAN-PAKISTAN-1790305246.jpg?resize=1920%2C1440",
     "date": 1790310130000,
     "titleSl": "Pakistanske sile v zaostrovanju meje ubijajo afganistanske talibane"
-   },
-   {
-    "title": "Jewish protestors join Free Palestine march to denounce Netanyahu",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790308057.jpg?resize=1680%2C1080&quality=80",
-    "date": 1790308183000,
-    "titleSl": "Judovski protestniki se pridružijo pohodu Svobodna Palestina, da bi obsodili Netanjahuja"
    }
   ],
   "guardian": [
@@ -415,6 +415,19 @@
   ],
   "bild": [
    {
+    "title": "Unfair oder clever? - Das sagt Klopp zum umstrittenen DFB-Tor",
+    "link": "https://www.bild.de/sport/fussball/nations-league-das-sagt-klopp-zum-umstrittenen-dfb-tor-gegen-holland-6ab5b16118772248192d4356",
+    "image": "https://images.bild.de/6ab5b16118772248192d4356/b3123ef13ebf8d7bd7b9024c68416e59,8a46ef03?w=1280",
+    "date": 0,
+    "titleSl": "Nepošteno oder pametno? - Das sagt Klopp zum umstrittenen DFB-Tor"
+   },
+   {
+    "title": "Neuköllner Politikerin warnt - Hamas-Netzwerke durchsetzen Berliner Linke",
+    "link": "https://www.bild.de/politik/inland/berlin-neukoellner-politikerin-warnt-vor-hamas-netzwerken-in-der-politik-6ab5508569610b25688be240",
+    "image": "https://images.bild.de/6ab5508569610b25688be240/489d47f4de8f874bb04ecc75e4aab6e0,3c63a802?w=1280",
+    "date": 0
+   },
+   {
     "title": "Eine verzweifelte Mutter fleht - „Sperrt endlich meinen Sohn (18) ein“",
     "link": "https://www.bild.de/regional/sachsen-anhalt/die-ungewoehnliche-forderung-einer-mutter-sperrt-endlich-meinen-sohn-18-ein-6ab22c0a78c3aee053a3c85b",
     "image": "https://images.bild.de/6ab22c0a78c3aee053a3c85b/9a0addaad5d5550e8e9838bc738333bb,f81d6e19?w=1280",
@@ -438,18 +451,6 @@
     "link": "https://www.bild.de/sport/fussball/dfb-note-2-fuer-laura-wontorra-aber-was-bei-rtl-nervte-tv-kritik-von-michael-makus-6ab601bea8b3f6fdb1edaa49",
     "image": "https://images.bild.de/6ab601bea8b3f6fdb1edaa49/22c5e916fede6bc3ebbe9a3ec880660b,42b83ca?w=1280",
     "date": 0
-   },
-   {
-    "title": "Pressestimmen zum DFB-Spiel - „Klopp inszenierte sich als Ein-Mann-Theater“",
-    "link": "https://www.bild.de/sport/fussball/nationalmannschaft-pressestimmen-klopp-inszenierte-sich-als-ein-mann-theater-6ab60af518772248192d459d",
-    "image": "https://images.bild.de/6ab60af518772248192d459d/26eb0fb36ce92c6bf3f120f96cf64e81,a510338d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nachgefragt - Kahle Bäume im September? Das steckt dahinter",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/baeume-verlieren-schon-im-september-blaetter-das-steckt-dahinter-6ab24d3178c3aee053a3cc0f",
-    "image": "https://images.bild.de/6ab24d3178c3aee053a3cc0f/775ae204b90a4c5dbaabafe316f7d67d,644a717d?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -466,14 +467,14 @@
     "date": 1790316000000
    },
    {
-    "title": "Cobra wurde alarmiert - Teenager nach Schüssen aus Fenster festgenommen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41NGVQSEl5ekdBUG1RX3lvZUZWdjFwVkdWR05uTWFzRmNNa3J1cnBUMDdTNU5EcVNUYUM1OG5RRkF2dw?oc=5",
+    "title": "Dreijährige in Panik - Laserattacken auf Familie: Rache der Tuningszene?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxcGh6QTBENW8wMWVwUFZvLWRyU1BkOGhpeUNBUTg0NGdwTlpGRjhyeHJsSWVLWDE2WHFGT0k1Y3Jadw?oc=5",
     "image": "",
     "date": 1790316000000
    },
    {
-    "title": "Dreijährige in Panik - Laserattacken auf Familie: Rache der Tuningszene?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxcGh6QTBENW8wMWVwUFZvLWRyU1BkOGhpeUNBUTg0NGdwTlpGRjhyeHJsSWVLWDE2WHFGT0k1Y3Jadw?oc=5",
+    "title": "Cobra wurde alarmiert - Teenager nach Schüssen aus Fenster festgenommen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41NGVQSEl5ekdBUG1RX3lvZUZWdjFwVkdWR05uTWFzRmNNa3J1cnBUMDdTNU5EcVNUYUM1OG5RRkF2dw?oc=5",
     "image": "",
     "date": 1790316000000
    },
@@ -484,8 +485,8 @@
     "date": 1790316000000
    },
    {
-    "title": "Daten von GPS-Sendern - Junge Seeadler-Geschwister fliegen getrennte Wege",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5uREVXY1ItWlNoWm5xWW1nSU9pVDF6Tlo1NHVSVDdTN2E5VnlXZ1lBQTNOd3g0enpRd3FpVkFRMWNxQQ?oc=5",
+    "title": "Hand aufs Herz - Trennung: Wer bekommt das geliebte Haustier?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IUk1TWEREQWJPMGxUX09uVVNzYkhYQndtbXJiOGEtdF95TW9sa2YtcUJfc2ZxZzg2azJJZVF4emtlZw?oc=5",
     "image": "",
     "date": 1790316000000
    }
@@ -554,12 +555,6 @@
     "titleSl": "« Le cas Thélyson Orélien, accusé d 'écrire avec l'IA, est un séisme pour le monde littéraire, qui campe sur l'image de l' écrivain solitaire »"
    },
    {
-    "title": "Quand des ETF amplifient les variations de la Bourse",
-    "link": "https://www.lemonde.fr/argent/article/2026/09/25/quand-des-etf-amplifient-les-variations-de-la-bourse_6781932_1657007.html",
-    "image": "https://img.lemde.fr/2023/05/03/164/0/3000/1500/644/322/60/0/1db0552_1683120138607-lmargent7.jpg",
-    "date": 1790308820000
-   },
-   {
     "title": "Visite du pape en France : tout ce qu’il faut savoir sur le séjour de Léon XIV",
     "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/25/visite-du-pape-en-france-tout-ce-qu-il-faut-savoir-sur-le-sejour-de-leon-xiv_6781935_4355770.html",
     "image": "https://img.lemde.fr/2026/09/23/376/0/4208/2104/644/322/60/0/637a960_ftp-1-wuewlfrjia2v-2026-09-23t092615z-1992080005-rc2wonag5qmp-rtrmadp-3-migration-pope.JPG",
@@ -572,9 +567,22 @@
     "image": "https://img.lemde.fr/2026/09/22/589/0/7063/3531/644/322/60/0/486b691_ftp-1-hb1zv4igqqon-5151334-01-06.jpg",
     "date": 1790307909000,
     "titleSl": "Repas à 1 euro pour tous les étudiants : face à l 'afflux, les capacités d' accueil des restaurants universitaires vont être limitées"
+   },
+   {
+    "title": "En Polynésie, indépendantistes et autonomistes s’unissent pour demander l’ouverture d’un dialogue avec Paris sur l’avenir institutionnel du territoire",
+    "link": "https://www.lemonde.fr/outre-mer/article/2026/09/25/en-polynesie-independantistes-et-autonomistes-s-unissent-pour-demander-l-ouverture-d-un-dialogue-avec-paris-sur-l-avenir-institutionnel-du-territoire_6781860_1840826.html",
+    "image": "https://img.lemde.fr/2026/09/25/1081/0/7000/3500/644/322/60/0/76320ea_upload-1-iv5qbyninrpa-000-66zh2cr.jpg",
+    "date": 1790307053000,
+    "titleSl": "En Polynésie, indépendantistes et autonomistes s 'unissent pour demander l' uverture d'un dialogue avec Paris sur l' avenir institutionnel du territorialoire"
    }
   ],
   "elpais": [
+   {
+    "title": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+    "link": "https://elpais.com/videos/2026-09-25/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896",
+    "date": 1790317513000
+   },
    {
     "title": "Tailandia desestima los recursos y mantiene la cadena perpetua a Daniel Sancho",
     "link": "https://elpais.com/espana/2026-09-25/tailandia-desestima-los-recursos-y-mantiene-la-cadena-perpetua-a-daniel-sancho.html",
@@ -605,12 +613,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/GDSRF472FBAP7KKTQPQQE3X6JY.png?auth=3cfca6bb10e6b897e6d02cc186b274667b756bb60a122e918be351bfded6e39c",
     "date": 1790310600000,
     "titleSl": "Cuesta menos de 20 eurov y viene con ocho cabezales: el cepillo eléctrico de Cecotec que triunfa en Amazon"
-   },
-   {
-    "title": "Los chollos de Amazon que merecen la pena esta semana: desde una freidora de aire hasta unos auriculares con descuento",
-    "link": "https://elpais.com/escaparate/ofertas-y-descuentos/chollos-semana-amazon-25-septiembre.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/V2G2PUXGJNDKRFDIFUQ6DY5RIA.png?auth=897db8449fccb0bb224e873047ca1c5285e484cc636fa956575ff64e94b4812e",
-    "date": 1790309700000
    }
   ]
  },
