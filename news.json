@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-25T18:32:27.234Z",
+ "generatedAt": "2026-09-25T18:34:28.500Z",
  "sources": {
   "siol": [
+   {
+    "title": "Solastnik Mure je postal ameriški poslovnež Nash Subotić",
+    "link": "https://siol.net/sportal/nogomet/solastnik-mure-je-postal-ameriski-poslovnez-nash-subotic-702440",
+    "image": "https://siol.net/media/img/b3/39/aa3e511fd801cb04d210.jpeg",
+    "date": 1790361000000
+   },
    {
     "title": "Svarilo Billa Gatesa: Lahko umre do milijarda ljudi",
     "link": "https://siol.net/novice/svet/svarilo-billa-gatesa-lahko-umre-do-milijarda-ljudi-702438",
@@ -31,15 +37,15 @@
     "link": "https://siol.net/sportal/nogomet/svica-suspendirala-se-enega-nogometasa-ker-je-ponaredil-potrdilo-o-celjenju-702439",
     "image": "https://siol.net/media/img/6c/96/be7de6f36a90426f4d99.jpeg",
     "date": 1790359200000
-   },
-   {
-    "title": "Olimpija povedla proti vodilni ekipi, nato pa v nekaj sekundah dobila dva gola #vŽivo",
-    "link": "https://siol.net/sportal/hokej/icehl-hkolimpija-25-september-olimpija-celovec-702392",
-    "image": "https://siol.net/media/img/02/8c/4ab26ecf6c8709647726.jpeg",
-    "date": 1790359200000
    }
   ],
   "24ur": [
+   {
+    "title": "Poljaki končali slovenske sanje o zlati medalji",
+    "link": "https://www.24ur.com/sport/ostalo/slovenski-odbojkarji-za-preboj-v-finale-ep-proti-poljski.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/2cf1e8e2155b15309b5e_63654045.jpg?v=52da&fop=fp:0.47:0.43",
+    "date": 1790361197000
+   },
    {
     "title": "Trčil v nasproti vozeče vozilo, pristal na strehi in pobegnil",
     "link": "https://www.24ur.com/novice/crna-kronika/trcil-v-nasproti-vozece-vozilo-pristal-na-strehi-in-pobegnil.html",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/crna-kronika/zaradi-podora-skal-med-plezanjem-padel-in-na-kraju-umrl.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/dd0815b48920d8394360_63654105.jpg?v=4f58&fop=fp:0.52:0.47",
     "date": 1790359733000
-   },
-   {
-    "title": "Gasilci, planinci, Rdeči križ ... nevladniki na nogah zaradi predloga vlade",
-    "link": "https://www.24ur.com/novice/slovenija/gasilci-planinci-rdeci-kriz-nevladniki-na-nogah-zaradi-predloga-vlade.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/95408b7de1bc416b513e_63627214.jpg?v=6585&fop=fp:0.47:0.50",
-    "date": 1790359366000
    }
   ],
   "rtvslo": [
@@ -97,8 +97,8 @@
     "date": 1790355823000
    },
    {
-    "title": "Olimpija - KAC Celovec 2:3 (druga tretjina)",
-    "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/olimpija-kac-celovec-2-3-druga-tretjina/794930",
+    "title": "Olimpija - KAC Celovec 2:4 (druga tretjina)",
+    "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/olimpija-kac-celovec-2-4-druga-tretjina/794930",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/19/67105530.jpg",
     "date": 1790353915000
    },
@@ -414,6 +414,19 @@
   ],
   "bild": [
    {
+    "title": "Wie kommt das denn? - 4Blocks-Star schwärmt plötzlich von Hoeneß!",
+    "link": "https://www.bild.de/sport/fussball/kida-khodr-ramadan-4-blocks-star-ich-bin-der-groesste-uli-hoeness-fan-6ab520e9e0200f794f12e9c3",
+    "image": "https://images.bild.de/6ab520e9e0200f794f12e9c3/21c8a38c2e86a150e0e8e318f4d556d4,474e2c4c?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Abrechnung mit US-Regierung - Trump-Berater „nicht besonders klug, aber loyal“",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/abrechnung-mit-us-regierung-trump-berater-nicht-besonders-klug-aber-loyal-6ab69047a8b3f6fdb1edb613",
+    "image": "https://images.bild.de/6ab69047a8b3f6fdb1edb613/2c0ab9442005aea1f99ef9995b9fbdca,ccd007e6?w=1280",
+    "date": 0,
+    "titleSl": "Abrechnung mit US-Regierung - Trump-Berater „nicht besonders klug, aber loyalty“"
+   },
+   {
     "title": "Werkstatt-Chef erklärt das Problem - Mega-Rückruf bei VW wegen dieser Schraube",
     "link": "https://www.bild.de/news/inland/mechaniker-erklaert-problem-mega-rueckruf-bei-vw-wegen-dieser-schraube-6ab67b0cbc37be025bb08701",
     "image": "https://images.bild.de/6ab67b0cbc37be025bb08701/f1bdeeb944430962d20c1ea8e13c23ff,66fbb013?w=1280",
@@ -439,55 +452,42 @@
     "image": "https://images.bild.de/6ab6a215bc37be025bb08999/d397452124c61a102cced3b0931b23b5,c513037f?w=1280",
     "date": 0,
     "titleSl": "Weltweit vier Millionen Fahrzeuge zaročenec - Mega-Rückruf wegen Schraube! Jetzt auch Škoda, Audi und Seat"
-   },
-   {
-    "title": "Zwei Fahrer bestraft - Formel 1 ändert Startaufstellung am Abend",
-    "link": "https://www.bild.de/sport/mehr-sport/zwei-fahrer-bestraft-formel-1-aendert-startaufstellung-am-abend-6ab6a5b224c8e458512f8de5",
-    "image": "https://images.bild.de/6ab6a5b224c8e458512f8de5/65fe681ad9ce4831564335c00263efb6,78c75d39?w=1280",
-    "date": 0,
-    "titleSl": "Zwei Fahrer Bestraft - Formel 1 ändert Startaufstellung am Abend"
-   },
-   {
-    "title": "Sensation war zum Greifen nah - Unfassbares deutsches Schach-Drama",
-    "link": "https://www.bild.de/sport/mehr-sport/sensation-war-zum-greifen-nah-unfassbares-deutsches-schach-drama-6ab6a6e824c8e458512f8dfd",
-    "image": "https://images.bild.de/6ab6a6e824c8e458512f8dfd/7132891ce2e304a7cee11d215d995cfb,88bdf1af?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Name, Logo missbraucht - Spritspargeräte: ÖAMTC warnt vor dreistem Betrug",
+    "title": "Name, Logo missbraucht - Spritspargeräte: ÖAMTC warnt vor dreistem Betrug - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QY0ttQTZPM1F1Q3JqbGF6eVh1RmxwZm5tWGJCTVlIOUw1UFk0NmU5bkFoV1JEM0tGWTk2VkFlZWs4UQ?oc=5",
     "image": "",
     "date": 1790361132000,
-    "titleSl": "Ime, logotip missbraucht - Spritspargeräte: ÖAMTC warnt vor dreistem Betrug"
+    "titleSl": "Ime, Logo missbraucht - Spritspargeräte: ÖAMTC warnt vor dreistem Betrug - krone.at"
    },
    {
-    "title": "Adabei Primetime - Von München bis Wien: Stars, Dirndl und Feierlaune",
+    "title": "Adabei Primetime - Von München bis Wien: Stars, Dirndl und Feierlaune - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qMWJiNlpadUlSV0VjYlJXMWRObDZ3SFdOX1JDMUUtd1Blck1va1pNeWZHUmlXZ1l2STdvUnZqNWNWQQ?oc=5",
     "image": "",
     "date": 1790361132000
    },
    {
-    "title": "Lenkung kann versagen - Riesen-Rückruf bei VW: Fast vier Millionen Autos!",
+    "title": "Lenkung kann versagen - Riesen-Rückruf bei VW: Fast vier Millionen Autos! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yb0oycHVVN0ljcEY4QlRPeGNmQm1PUFVieGNma0libVVhVnhEN1FWbUVnNjZxQ1BDMlRwdE81THBMUQ?oc=5",
     "image": "",
     "date": 1790360520000
    },
    {
-    "title": "„Bereiten uns nicht auf Kampf mit Europa vor“",
+    "title": "„Bereiten uns nicht auf Kampf mit Europa vor“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14dGxnZFpWRjg3VHVjSDNjRV9fLTE0NmFacldwZUdrcUprZW81UzBhZGxCM0hiUnQwZERobTJtRktIQQ?oc=5",
     "image": "",
     "date": 1790360400000
    },
    {
-    "title": "Gegen Antisemitismus - Iris Berben für politisches Engagement prämiert",
+    "title": "Gegen Antisemitismus - Iris Berben für politisches Engagement prämiert - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PT0t2UHRvNy1QY3NmbjAwLU5nNlctRnRpaUduUGdBNzE2Sk9KQTZraUdaYktTOVlOQzNpcjNkTmF4dw?oc=5",
     "image": "",
     "date": 1790359680000
    },
    {
-    "title": "„Tut so weh, wie wenn man eine Beziehung beendet“",
+    "title": "„Tut so weh, wie wenn man eine Beziehung beendet“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qTjQtVGJhZG52SFA3bDFYcEhRQVNJd3dVZzhGY0V1Q2t0SmI4cHpSNkk3a2xCRkc3U1hiV3hfX24zZw?oc=5",
     "image": "",
     "date": 1790359200000
@@ -567,14 +567,21 @@
     "titleSl": "La propriétaire française d'un vaste patrimoine immobilier à Dubaï écrouée à Paris"
    },
    {
-    "title": "Sénatoriales 2026 : au Salon des maires des Bouches-du-Rhône, les candidats s’attendent à un scrutin « très serré »",
-    "link": "https://www.lemonde.fr/politique/article/2026/09/25/senatoriales-2026-au-salon-des-maires-des-bouches-du-rhone-les-candidats-s-attendent-a-un-scrutin-tres-serre_6782619_823448.html",
-    "image": "https://img.lemde.fr/2026/09/25/190/0/7181/3590/644/322/60/0/b33872e_upload-1-ac9xq73ovidm-000-93e92kn.jpg",
-    "date": 1790355005000,
-    "titleSl": "Sénatoriales 2026 : au Salon des maires des Bouches-du-Rhône, les candidats s 'attendent à un scrutin « très serré »"
+    "title": "EN DIRECT, Turquie-France : Zinédine Zidane titularise Rayan Cherki et Adrien Truffert pour sa première sur le banc des Bleus, suivez la 1ʳᵉ journée de la Ligue des nations",
+    "link": "https://www.lemonde.fr/sport/live/2026/09/25/en-direct-turquie-france-suivez-la-1-journee-de-la-ligue-des-nations-de-football_6782618_3242.html",
+    "image": "https://img.lemde.fr/2026/09/22/0/0/5713/2856/644/322/60/0/e61f787_ftp-1-rr1b9cpyjfdn-2026-09-22t162059z-1464741279-up1em9m19exfr-rtrmadp-3-soccer-uefanations-tur-fra-preview.JPG",
+    "date": 1790354709000,
+    "titleSl": "EN DIRECT, Turquie-France : Zinédine Zidane titularise Rayan Cherki et Adrien Truffert pour sa première sur le banc des Bleus, suivez la 1? journalnée de la Ligue des Nations"
    }
   ],
   "elpais": [
+   {
+    "title": "La pareja del arquitecto Josep Juanpere, en libertad provisional tras pagar una fianza de 80.000 euros",
+    "link": "https://elpais.com/espana/catalunya/2026-09-25/el-juez-decreta-prision-provisional-con-fianza-para-la-pareja-del-josep-juanpere-fallecido-en-2025.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218631_165123_video_1800.mp4",
+    "date": 1790361154000,
+    "titleSl": "La pareja del arquitecto Josep Juanpere, en libertad začasni tras pagar una fianza de 80.000 evrov"
+   },
    {
     "title": "Madrid rechaza la propuesta de Urbagestión para asumir el piso de Maricarmen por “inviable”, pero se ofrece a mediar",
     "link": "https://elpais.com/espana/madrid/2026-09-25/urbagestion-propone-ceder-al-ayuntamiento-de-madrid-la-casa-de-maricarmen-para-que-pueda-volver.html",
@@ -605,12 +612,6 @@
     "link": "https://elpais.com/argentina/2026-09-25/la-justicia-argentina-condena-a-20-anos-de-carcel-a-una-exmonja-por-abusos-sexuales-contra-ninos-sordos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/GA3HD7M3JS42M3GFEDM3T4LNKE.jpg?auth=3400b6a7a1c634b2dfc4715a310500541da3200cb5cba40302b3ea9c2f32cfa5",
     "date": 1790356342000
-   },
-   {
-    "title": "La mujer que acusó a Jay-Z de violarla se retira de la demanda y afirma que nunca le conoció",
-    "link": "https://elpais.com/us/entretenimiento/2026-09-25/la-mujer-que-acuso-a-jay-z-de-violarla-se-retira-de-la-demanda-y-afirma-que-nunca-le-conocio.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/HKPSTEGX6ZFOTGQXUXHVQAH2TY.jpg?auth=1fdd9110b84cbc557b11330cfe75e549f9cbd167790c753434c67c56cdfc1819",
-    "date": 1790354000000
    }
   ]
  },
