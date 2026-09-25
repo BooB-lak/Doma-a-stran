@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T17:54:27.296Z",
+ "generatedAt": "2026-09-25T17:56:25.687Z",
  "sources": {
   "siol": [
    {
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "US top court allows Trump to use controversial voter verification system",
-    "link": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261579263024-1790356001.jpg?resize=1920%2C1440",
-    "date": 1790358324000,
-    "titleSl": "Vrhovno sodišče ZDA dovoli Trumpu uporabo spornega sistema preverjanja volivcev"
-   },
-   {
-    "title": "Lebanese in Brazil, Brazilian in Lebanon",
-    "link": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/LEBANON-1790334633.jpg?resize=1620%2C1080&quality=80",
-    "date": 1790358279000,
-    "titleSl": "Libanonci v Braziliji, Brazilci v Libanonu"
-   },
-   {
     "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
     "link": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-08-11T170233Z_1157703351_RC205GA9LDWN_RTRMADP_3_ISRAEL-PALESTINIANS-ALJAZEERA-1790357486.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa6da36d5b77-1789319734.jpg?resize=1920%2C1440",
     "date": 1790355832000,
     "titleSl": "Ameriško sodišče potrdilo Pentagonov črni seznam antropikov"
+   },
+   {
+    "title": "Netanyahu’s UN belligerence wins cheers at home as world walks out",
+    "link": "https://www.aljazeera.com/news-analysis/2026/9/25/netanyahus-un-belligerence-wins-cheers-at-home-as-world-walks-out?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab56fc57dad-1790275525.jpg?resize=1920%2C1440",
+    "date": 1790355783000,
+    "titleSl": "Netanjahujeva vojskovanja ZN so doma vzklikala, ko je svet odhajal"
+   },
+   {
+    "title": "Israeli shelling continues as Lebanon’s PM demands withdrawal in UN speech",
+    "link": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab683393dbf0-1790346041.jpg?resize=1920%2C1440",
+    "date": 1790355459000,
+    "titleSl": "Izraelsko granatiranje se nadaljuje, medtem ko libanonski premier v govoru ZN zahteva umik"
    }
   ],
   "guardian": [
@@ -456,6 +456,12 @@
   ],
   "krone": [
    {
+    "title": "Fahrerflucht - Autofahrer rammt Biker und bleibt nur kurz stehen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKY2MtQ3B6bEtqdUE5VEtUSExTeGFndEk5OTEtXzRQX2FpbzJVR2xCLVZSS08tQjFkZV8xeUR4a0pWUQ?oc=5",
+    "image": "",
+    "date": 1790358780000
+   },
+   {
     "title": "Neuer Kalender fix - Salzburg bekommt 2027 großes Darts-Turnier",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtSkNpb1pXWlpKVlpyYzF0T2g5VmtzUHZjYjB0Z0RaT3M4dE1UYmo0ZWM4cTU0bFZhNDdYamtSaVI2dw?oc=5",
     "image": "",
@@ -486,13 +492,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OTG9PNTJKZ3BPT200S2h3dHJYS1hwS01vWTVDaDRrUzN2Q2hsb0ZBbEd2MjVKcXhlT0w3eFBOeGk2dw?oc=5",
     "image": "",
     "date": 1790357460000
-   },
-   {
-    "title": "„Höhere Belastung“ - Landeschef Stelzer will die Polizeireform stoppen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uR1o0X083aTJrOFNDVUs4RF9IUmxJTXdhYTVDQTRwZE5mU1IxLVk2UEMwYlBUdGw2X1BBbE1wOExOZw?oc=5",
-    "image": "",
-    "date": 1790357400000,
-    "titleSl": "„Höhere Belastung“ - Landeschef Stelzer bo umrl Polizeireform stoppen"
    }
   ],
   "rainews": [
@@ -582,10 +581,11 @@
   ],
   "elpais": [
    {
-    "title": "Urbagestión propone un plan al Ayuntamiento de Madrid para que Maricarmen vuelva a su casa",
+    "title": "Madrid rechaza la propuesta de Urbagestión para asumir el piso de Maricarmen por “inviable”, pero se ofrece a mediar",
     "link": "https://elpais.com/espana/madrid/2026-09-25/urbagestion-propone-ceder-al-ayuntamiento-de-madrid-la-casa-de-maricarmen-para-que-pueda-volver.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218388_085028_video_1800.mp4",
-    "date": 1790357407000
+    "date": 1790358741000,
+    "titleSl": "Madrid rechaza la propuesta de Urbagestión para asumir el piso de Maricarmen por ‚ inviable ', pero se ofrece a mediar"
    },
    {
     "title": "El Tribunal Supremo respalda a Trump en el uso de un polémico programa para descartar electores",
