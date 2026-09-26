@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-26T17:04:26.718Z",
+ "generatedAt": "2026-09-26T17:06:29.210Z",
  "sources": {
   "siol": [
+   {
+    "title": "Dizel in kurilno olje bi se lahko pocenila",
+    "link": "https://siol.net/novice/slovenija/dizel-in-kurilno-olje-bi-se-lahko-pocenila-702484",
+    "image": "https://siol.net/media/img/27/2c/de0a0c7ef0d78b4af1d5.jpeg",
+    "date": 1790442300000
+   },
    {
     "title": "Svojci pogrešajo 89-letnika iz Ljubljane. Ste ga videli?",
     "link": "https://siol.net/novice/slovenija/svojci-pogresajo-89-letnika-iz-ljubljane-ste-ga-videli-702483",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/tenis/tenis-sobota-702469",
     "image": "https://siol.net/media/img/4b/43/5403abf7d8d92a0fa125.jpeg",
     "date": 1790440800000
-   },
-   {
-    "title": "Neuradno: direktor GEN-i Sonce naj bi bil priprt v Romuniji",
-    "link": "https://siol.net/novice/slovenija/neuradno-direktor-gen-i-sonce-naj-bi-bil-priprt-v-romuniji-702479",
-    "image": "https://siol.net/media/img/8a/3a/cd3cd62da1e9d6e3a7e8.jpeg",
-    "date": 1790440320000
    }
   ],
   "24ur": [
@@ -202,7 +202,7 @@
     "title": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
     "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston",
     "image": "https://static01.nyt.com/images/2026/09/26/multimedia/26met-noreaster-promo-xxx-1230pm-copy/26met-noreaster-promo-xxx-1230pm-copy-mediumSquareAt3X-v2.jpg",
-    "date": 1790442084000,
+    "date": 1790442242000,
     "titleSl": "Nor'easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding"
    },
    {
@@ -331,6 +331,13 @@
   ],
   "guardian": [
    {
+    "title": "Wisconsin police investigating fraternity for hazing after men found in basement",
+    "link": "https://www.theguardian.com/us-news/2026/sep/26/university-of-wisconsin-fraternity-hazing",
+    "image": "https://i.guim.co.uk/img/media/d04c5ef747dd8f37511514880ada822e7fddc823/543_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=296d3e0d3d0a6a21141d09112cb8c08d",
+    "date": 1790441874000,
+    "titleSl": "Wisconsinska policija preiskuje bratovščino zaradi nadlegovanja moških, ki so jih našli v kleti"
+   },
+   {
     "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
     "link": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
     "image": "https://i.guim.co.uk/img/media/50c5b67c4cce9e4ff0b00f6d18ba4168aacf6e2a/767_0_5835_4669/master/5835.jpg?width=140&quality=85&auto=format&fit=max&s=5b63dfac1cf918674d7534d93e491f40",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/205a3d6cb96fec1fecb84ab6537d3ac02b0651e0/181_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=625bbbb2d25d29ebbb2ba2386de292d1",
     "date": 1790438439000,
     "titleSl": "Ameriški napadi na ekvadorske ribiške čolne vzbujajo humanitarne pomisleke, vendar Trumpov skrbnik ne omahuje"
-   },
-   {
-    "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-    "link": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-    "image": "https://i.guim.co.uk/img/media/bbefde4e437129a3c3c51f00b15e11a00d97d766/267_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=dd7aa2da595b7c249a98b5b980187a28",
-    "date": 1790437827000,
-    "titleSl": "Papež Leon praznuje mašo na prostem pred 700.000 ljudmi v Parizu"
    }
   ],
   "spiegel": [
@@ -415,10 +415,30 @@
   ],
   "bild": [
    {
+    "title": "Kaiserreich mitten in Darmstadt - Reichsbürger treffen auf Protest",
+    "link": "https://www.bild.de/news/inland/kaiserreich-mitten-in-darmstadt-reichsbuerger-treffen-auf-protest-6ab7f5f718772248192d60d8",
+    "image": "https://images.bild.de/6ab7f5f718772248192d60d8/186936703d45d7f06d7f62e890f87fba-landscape,b05951c0?w=1280",
+    "date": 0,
+    "titleSl": "Kaiserreich palčniki v Darmstadtu - Reichsbürger treffen auf Protest"
+   },
+   {
+    "title": "BILD exklusiv - Berliner SPD für Sondierungen mit Linken und Grünen!",
+    "link": "https://www.bild.de/politik/inland/bild-exklusiv-berliner-spd-fuer-sondierungen-mit-linken-und-gruenen-6ab7f8f218772248192d6101",
+    "image": "https://images.bild.de/6ab7f8f218772248192d6101/0724e18309423643d1ae6779ac0ef3c8,8ca4bd9?w=1280",
+    "date": 0
+   },
+   {
     "title": "Mehrere Bergungsversuche scheiterten - Windrad blockiert Autobahn bei Recklinghausen",
     "link": "https://www.bild.de/regional/nordrhein-westfalen/windradfluegel-auf-a43-schwertransporter-nach-zwei-tagen-geborgen-6ab74cfd18772248192d576b",
     "image": "https://images.bild.de/6ab74cfd18772248192d576b/9d611e4b61725c7649955062338c311b,122566ac?w=1280",
     "date": 0
+   },
+   {
+    "title": "Illegale Streamer von Sky zittern! - Pay-TV-Pirat muss 137.000 Euro zahlen",
+    "link": "https://www.bild.de/regional/saarland/illegales-streaming-bei-sky-pay-tv-pirat-muss-137-000-euro-zahlen-6ab79ec93386855e1e1e3de1",
+    "image": "https://images.bild.de/6ab79ec93386855e1e1e3de1/10bfd9df00ee5e4ef6fa35d5bfbce37f,21ddf029?w=1280",
+    "date": 0,
+    "titleSl": "Ilegalni streamer von Sky zittern! - Pay-TV-Pirat MUSS 137.000 EUR zahlen"
    },
    {
     "title": "Mit Gesundheitsdaten - Fitnesstracker entlarvt die stressigsten Kollegen",
@@ -431,64 +451,47 @@
     "link": "https://www.bild.de/politik/inland/cdu-und-csu-stuerzen-im-neuen-sonntagstrend-auf-neuen-tiefstwert-6ab688d7bc37be025bb08826",
     "image": "https://images.bild.de/6ab688d7bc37be025bb08826/3c16d9069d3e9ddec3ae372f3dc416e8,deffe4c9?w=1280",
     "date": 0
-   },
-   {
-    "title": "8 Filialen und 105 Mitarbeiter betroffen - Nächste Bäckerei-Kette pleite",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/naechste-baeckerei-kette-pleite-8-filialen-und-105-mitarbeiter-betroffen-6ab5377ce0200f794f12ebbf",
-    "image": "https://images.bild.de/6ab5377ce0200f794f12ebbf/fd6de6cc520e23ed107256beebac4658,7be7f96b?w=1280",
-    "date": 0,
-    "titleSl": "8 Filialen und 105 Mitarbeiter zaroka - Nächste Bäckerei-Kette pleite"
-   },
-   {
-    "title": "Oktoberfest 2026 - Stadt warnt vor Besucheransturm auf Wiesn",
-    "link": "https://www.bild.de/regional/muenchen/muenchen-stadt-warnt-vor-besucheransturm-beim-oktoberfest-6ab7e8faa8b3f6fdb1edc2c7",
-    "image": "https://images.bild.de/6ab7e8faa8b3f6fdb1edc2c7/d3d2776f61dd81a65c6d9fa16e72479f,40a19e43?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Reichenforscher fordert radikales Umdenken - Wer Gutes tut, muss finanziell davon profitieren",
-    "link": "https://www.bild.de/politik/inland/thomas-druyen-fordert-eine-konkrethik-fuer-das-ki-zeitalter-6a8da936c3692834ff6dc662",
-    "image": "https://images.bild.de/6a8da936c3692834ff6dc662/111848408a7508557b0f72ae87bc6ad0,3b18e14?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Rief die Polizei - Ehefrau verhinderte einen dreisten Telefonbetrug - krone.at",
+    "title": "„Nichts geändert“ - Schuldig? Manchester City reagiert mit Statement",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CZXdxQlR3c0pCV2twM3RLV0RKQlotb3BzZzlqQWVrVWJPYVRJRmkySWVhNE01OGRKMVcwcmt2bTZxUQ?oc=5",
+    "image": "",
+    "date": 1790442240000,
+    "titleSl": "„Nichts geändert“ - Schuldig? Manchester City reagiert mit Izjava"
+   },
+   {
+    "title": "Rief die Polizei - Ehefrau verhinderte einen dreisten Telefonbetrug",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE95N0EzT25kODZXVk14V0ZBbjV5R0g1NlRRUG1hMUtFbWNscG4yMFgxSkFGWEx6SWIzVXFLWHZpaTItdw?oc=5",
     "image": "",
     "date": 1790442000000
    },
    {
-    "title": "„Luxus“-Wohnung - Was im Gemeindebau 1170 Euro im Monat kosten kann - krone.at",
+    "title": "„Luxus“-Wohnung - Was im Gemeindebau 1170 Euro im Monat kosten kann",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85MG1nbUQtOUpCTVNscks2RUFscjJFNElMNGxEa3lDbnRrRC1JMFFFeXpXMUF1ZjdjVExyc0pRQ29fdw?oc=5",
     "image": "",
     "date": 1790442000000
    },
    {
-    "title": "Strafe über 1000 Euro - Seniorin im Vignetten-Chaos: „Bin verzweifelt!“ - krone.at",
+    "title": "Strafe über 1000 Euro - Seniorin im Vignetten-Chaos: „Bin verzweifelt!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yTzQ4bzR6MF9TeXVQZzJlRC0xdlYzRk9NR3V3RGVLUFNtYlhfTTdkODFRbldLZU5ydEp0UGltbmhWdw?oc=5",
     "image": "",
-    "date": 1790442000000
+    "date": 1790442000000,
+    "titleSl": "Strafe über 1000 Euro - Seniorin im Vignetten-Chaos: \"Bin verzweifelt!\""
    },
    {
-    "title": "Enormer Andrang - 700.000 beteten gemeinsam mit dem Papst in Paris - krone.at",
+    "title": "Enormer Andrang - 700.000 beteten gemeinsam mit dem Papst in Paris",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGS1pPV25JQ3AyRHpVV2IwSlFIN0lkc2xIQnRjUm8tRzU2cTctUm5tdEp3UmdWS3NaY1h3ZUNYbGFidw?oc=5",
     "image": "",
     "date": 1790440380000,
-    "titleSl": "Enormer Andrang - 700.000 beteten gemeinsam mit dem Papst v Parizu - krone.at"
+    "titleSl": "Enormer Andrang - 700.000 beteten gemeinsam mit dem Papst v Parizu"
    },
    {
-    "title": "Bremsen versagten - Pkw überschlug sich und landete in Bachbett - krone.at",
+    "title": "Bremsen versagten - Pkw überschlug sich und landete in Bachbett",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14YzVOc2tLTTFBcGQ0eTlxT3MtZEVnUXE3LUI0TC03SWlISmc2cGE1U3RDTXJJNWVjS0hKOEtKWHlfZw?oc=5",
     "image": "",
     "date": 1790440320000
-   },
-   {
-    "title": "Zehn Tage lang - Flanieren und Feiern am St. Veiter Wiesenmarkt - krone.at",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxMzdlT095cVg3d3kyaEotUkQxdk5BODdkeXBzS2ZFeEhaOXVNYXl4aTVwRU1yTnVieUNiMC13cjVtUQ?oc=5",
-    "image": "",
-    "date": 1790440235000
    }
   ],
   "rainews": [
@@ -547,12 +550,6 @@
     "titleSl": "Donald Trump rejette le plan de réouverture iranien du détroit d 'Ormuz"
    },
    {
-    "title": "A Madrid, des dizaines de milliers de personnes ont manifesté contre la gestion de la crise migratoire à Ceuta",
-    "link": "https://www.lemonde.fr/international/article/2026/09/26/a-madrid-des-dizaines-de-milliers-de-personnes-ont-manifeste-contre-la-gestion-de-la-crise-migratoire-a-ceuta_6783140_3210.html",
-    "image": "https://img.lemde.fr/2026/09/26/384/0/4608/2304/644/322/60/0/08a0d77_ftp-1-ubyqnp73hrwh-5189248-01-06.jpg",
-    "date": 1790435068000
-   },
-   {
     "title": "Dans le Kent, des partis traditionnels démunis face à la percée des extrêmes droites au Royaume-Uni",
     "link": "https://www.lemonde.fr/international/article/2026/09/26/dans-le-kent-des-partis-traditionnels-demunis-face-a-la-percee-des-extremes-droites-au-royaume-uni_6783139_3210.html",
     "image": "https://img.lemde.fr/2026/09/25/1456/0/11648/5824/644/322/60/0/3b3de1e_upload-1-64jsaerqliqt-portraits-37.jpg",
@@ -570,6 +567,13 @@
     "link": "https://www.lemonde.fr/societe/article/2026/09/26/le-chanteur-marocain-saad-lamjarred-condamne-en-appel-a-dix-ans-de-prison-pour-viol-sa-peine-alourdie_6783137_3224.html",
     "image": "https://img.lemde.fr/2026/05/11/933/0/2688/1344/644/322/60/0/03c3a09_ftp-1-xoxgqu5lzlvv-5998969-01-06.jpg",
     "date": 1790433800000
+   },
+   {
+    "title": "Isack Hadjar sur le podium pour son retour en formule 1, George Russell vainqueur d’un cheveu d’un Grand Prix d’Azerbaïdjan chaotique",
+    "link": "https://www.lemonde.fr/sport/article/2026/09/26/isack-hadjar-sur-le-podium-pour-son-retour-en-formule-1-george-russell-vainqueur-d-un-cheveu-d-un-grand-prix-d-azerbaidjan-chaotique_6783136_3242.html",
+    "image": "https://img.lemde.fr/2026/09/26/102/0/4656/2328/644/322/60/0/f27e5c1_ftp-1-tctq8hoadp79-2026-09-26t132428z-375029229-up1em9q118qkg-rtrmadp-3-motor-f1-azerbaijan.JPG",
+    "date": 1790432447000,
+    "titleSl": "Isack Hadjar sur le podium pour son retour en formule 1, George Russell vainqueur d 'un cheveu d' un Grand Prix d 'Azerbaïdjan chaotique"
    }
   ],
   "elpais": [
