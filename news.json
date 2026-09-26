@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-26T19:46:25.904Z",
+ "generatedAt": "2026-09-26T19:48:29.627Z",
  "sources": {
   "siol": [
    {
@@ -199,11 +199,11 @@
   ],
   "nyt": [
    {
-    "title": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
+    "title": "Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
     "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston",
-    "image": "https://static01.nyt.com/images/2026/09/26/multimedia/26met-noreaster-promo-xxx-1230pm-copy/26met-noreaster-promo-xxx-1230pm-copy-mediumSquareAt3X-v2.jpg",
-    "date": 1790451157000,
-    "titleSl": "Nor'easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding"
+    "image": "",
+    "date": 1790451783000,
+    "titleSl": "Močan dež in veter na severovzhodu, ki prinašata obalne poplave"
    },
    {
     "title": "Rahm Emanuel, Eyeing 2028, Makes His 2026 Play",
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
+    "date": 1790452086000,
+    "titleSl": "Papež pohvalil \"energijo in predanost\" mladih na veliki maši na prostem v Parizu"
+   },
+   {
     "title": "England embrace growing competitiveness of women's game",
     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7053/live/9ebb8970-b9d1-11f1-b9a2-c51fbcac2d8e.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc9/live/127f1310-b9d0-11f1-b9a2-c51fbcac2d8e.jpg",
     "date": 1790444644000,
     "titleSl": "'Gospod Sobota' Russell 'pride na drugo stran po res težkem obdobju'"
-   },
-   {
-    "title": "High Court issues injunction to stop Orange Order Drumcree parade",
-    "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10a/live/8c9d1be0-b91e-11f1-b685-519146636d7f.png",
-    "date": 1790443080000,
-    "titleSl": "Višje sodišče izdaja odredbo za ustavitev parade Orange Order Drumcree"
    }
   ],
   "aljazeera": [
@@ -548,22 +548,17 @@
     "titleSl": "EN DIRECT, Guerre en Ukraine : l'Europe « fait tout » pour contrecarrer les négociations sur l' Ukrajine, obtoženi Sergueï Lavrov à l 'Onu"
    },
    {
-    "title": "« Penser la guerre en dehors des sociétés qui la font est une illusion mortifère »",
-    "link": "https://www.lemonde.fr/idees/article/2026/09/26/penser-la-guerre-en-dehors-des-societes-qui-la-font-est-une-illusion-mortifere_6783475_3232.html",
-    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/effc97e_upload-1-myd5dvgloxwz-frame-1276.jpg",
-    "date": 1790445602000
-   },
-   {
     "title": "Marches pour le climat : des milliers de manifestants partout en France après un été de tous les records",
     "link": "https://www.lemonde.fr/planete/article/2026/09/26/marches-pour-le-climat-des-milliers-de-manifestants-partout-en-france-apres-un-ete-de-tous-les-records_6783442_3244.html",
     "image": "https://img.lemde.fr/2026/09/26/532/0/5078/2539/644/322/60/0/f80154d_ftp-1-xmrd4ei1rvmh-5190309-01-06.jpg",
     "date": 1790444316000
    },
    {
-    "title": "EN DIRECT, France-Pologne : début de finale accroché pour les Bleus face aux redoutables Polonais",
+    "title": "EN DIRECT, France-Pologne : les Bleus perdent la première manche de la finale de l’Euro de volley après avoir cru l’emporter",
     "link": "https://www.lemonde.fr/sport/live/2026/09/26/en-direct-france-pologne-suivez-la-finale-de-l-euro-de-volley_6783375_3242.html",
     "image": "https://img.lemde.fr/2026/09/26/139/0/2152/1076/644/322/60/0/b15ff57_ftp-1-ikzjcvshswx3-5191885-01-06.jpg",
-    "date": 1790442008000
+    "date": 1790442008000,
+    "titleSl": "EN DIRECT, Francija - Pologna: les Bleus perdent la première manche de la finale de l 'Euro de volley après avoir cru l' emporter"
    },
    {
     "title": "Entre l’Irlande et Israël, un double face-à-face sous tension en Ligue des nations en raison de la situation à Gaza",
@@ -571,21 +566,27 @@
     "image": "https://img.lemde.fr/2026/09/22/67/0/3616/1808/644/322/60/0/03f8f42_ftp-1-t6pa5r6axo4q-eee65fc9b4684a67af9e27041522e741-0-3e60230cffd04b9798c371f4ab3385ba.jpg",
     "date": 1790441065000,
     "titleSl": "Entre l'Irlande et Israël, un double face-à-face sous tension en Ligue des Nations en raison de la situation à Gaza"
+   },
+   {
+    "title": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz",
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz_6783275_3210.html",
+    "image": "https://img.lemde.fr/2026/09/26/50/0/4056/2028/644/322/60/0/4a0cc13_ftp-1-njrimmg6unxe-5189429-01-06.jpg",
+    "date": 1790439074000,
+    "titleSl": "Donald Trump rejette le plan de réouverture iranien du détroit d 'Ormuz"
    }
   ],
   "elpais": [
    {
-    "title": "Manifestación contra los desahucios, en directo | Decenas de miles de manifestantes recorren Madrid en protesta por la crisis de la vivienda: “Nos quedamos sin casa”",
+    "title": "Manifestación contra los desahucios, en directo | Los manifestantes empiezan a montar tiendas de campaña en la Puerta del Sol",
     "link": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/5MTZCSL27VFP3DMHPXVCLLTVFM.JPG?auth=54c6ef630275a18ed69fb124443c314d52572ae3ecff7aa2c3ed574abe264370",
-    "date": 1790451699000,
-    "titleSl": "Manifestación contra los desahucios, en directo | Decenas de miles de manifestantes recorren Madrid en protesta por la crisis de la vivienda: \"Nos quedamos sin casa\""
+    "date": 1790452038000
    },
    {
     "title": "Inglaterra - España en directo | Inglaterra gana al descanso tras remontar el partido en cuatro minutos",
     "link": "https://elpais.com/deportes/futbol/2026-09-26/inglaterra-espana-en-directo-el-partido-de-la-uefa-nations-league-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/OFVD7TDFQVOZLGYTN26OPDVUDI.jpg?auth=71607b3974c1ed874d232240d572b3ccd917ee5517bb8d60d1775c64f8121afe",
-    "date": 1790451441000
+    "date": 1790451837000
    },
    {
     "title": "Dos detenidos en la playa ceutí del Trampolín por una agresión sexual contra una menor",
