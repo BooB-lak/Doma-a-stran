@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-26T07:06:26.403Z",
+ "generatedAt": "2026-09-26T07:08:25.432Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Standard & Poor's potrdil bonitetno oceno Slovenije",
+    "link": "https://www.24ur.com/novice/gospodarstvo/standard-poors-potrdil-bonitetno-oceno-slovenije.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/0c9291021ef21245fa59_63654200.jpg?v=2990&fop=fp:0.28:0.49",
+    "date": 1790406289000
+   },
+   {
     "title": "Pred kurilno sezono: kako je z dobavami plina in kakšne bodo cene?",
     "link": "https://www.24ur.com/novice/gospodarstvo/pred-kurilno-sezono-kako-je-z-dobavami-plina-in-kaksne-bodo-cene.html",
     "image": "https://images.24ur.com/media/images/213xX/Dec2022/c4776d09094f312492b8_62872401.jpg?v=7cfd&fop=fp:0.46:0.47",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/jugoslovanski-las-vegas-kako-se-je-luksuzno-haludovo-spremenilo-v-rusevine.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/dc1e14d6dfdfe1858245_63648429.jpg?v=3194&fop=fp:0.69:0.65",
     "date": 1790402047000
-   },
-   {
-    "title": "Boti OpenAI posegali v spletna mesta več ameriških vladnih agencij",
-    "link": "https://www.24ur.com/novice/znanost-in-tehnologija/boti-openai-posegali-v-spletna-mesta-vec-ameriskih-vladnih-agencij.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/4b03be0d10d7e11e2ce5_63654185.jpg?v=fc76&fop=fp:0.53:0.29",
-    "date": 1790401275000
    }
   ],
   "rtvslo": [
@@ -123,6 +123,12 @@
     "date": 1790405340000
    },
    {
+    "title": "Vse za Golden State: Curry na mizi pustil 20 milijonov",
+    "link": "https://www.zurnal24.si/sport/kosarka/vse-za-golden-state-curry-na-mizi-pustil-20-milijonov-465739",
+    "image": "https://www.zurnal24.si/media/img/70/19/d4671da782de51d1b17d.jpeg",
+    "date": 1790403000000
+   },
+   {
     "title": "Huda nesreča: Treščil v avto, svojega prevrnil na streho in zbežal",
     "link": "https://www.zurnal24.si/slovenija/huda-nesreca-trescil-v-avto-ki-je-vozil-nasproti-svojega-prevrnil-na-streho-in-zbezal-465738",
     "image": "https://www.zurnal24.si/media/img/99/f0/724b200c813ac8d30982.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/avto/padla-na-videz-neosvojljiva-trdnjava-kaj-sploh-se-ostane-dizlom-464541",
     "image": "https://www.zurnal24.si/media/img/29/3e/f3e8652ed1dadc004eb3.jpeg",
     "date": 1790395108000
-   },
-   {
-    "title": "Narobe svet: Slovenski zakon s 300 evri kaznuje nekaj, kar smo ravnokar dovolili",
-    "link": "https://www.zurnal24.si/avto/narobe-svet-slovenski-zakon-kaznuje-s-300-evri-nekaj-kar-smo-ravnokar-dovolili-465705",
-    "image": "https://www.zurnal24.si/media/img/a0/c6/1971d287e819731c31d7.jpeg",
-    "date": 1790395020000
    }
   ],
   "reuters": [
@@ -394,6 +394,12 @@
     "date": 1790405160000
    },
    {
+    "title": "OpenAI: KI-Agenten griffen auf Webseiten der US-Regierung zu",
+    "link": "https://www.spiegel.de/netzwelt/openai-ki-agenten-griffen-auf-webseiten-der-us-regierung-zu-a-fc795526-bbbe-4fea-9302-fe493fe04ed2#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/8ee2a471-d444-4707-83d0-a2f7e3ed4d49_w520_r2.08_fpx24_fpy47.jpg",
+    "date": 1790404200000
+   },
+   {
     "title": "Lastenrad kaufen: Kompakte Modelle Tern HSD P00, Ca Go CS200 und Yoonit Mini Cargobike im Test",
     "link": "https://www.spiegel.de/mobilitaet/fahrrad/lastenrad-kaufen-kompakte-modelle-tern-hsd-p00-ca-go-cs200-und-yoonit-mini-cargobike-im-test-a-3177e38b-dcf9-49d1-967c-e9c0e31f9b49#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/bd147cb7-cdda-4256-9b2d-e29b2b3d4e17_w520_r2.08_fpx32_fpy49.jpg",
@@ -405,16 +411,15 @@
     "image": "https://cdn.prod.www.spiegel.de/images/af8891e5-a7a7-4f22-949c-1c82fd0582ba_w520_r2.08_fpx47_fpy24.jpg",
     "date": 1790401500000,
     "titleSl": "CDU in SPD in der Krise: Wenn alte Gewissheiten fell und die Politik keine Antwort findet"
-   },
-   {
-    "title": "Steffen Bilger: Interview mit dem Bundesverkehrsminister über Bahn, Autobahn und Raser",
-    "link": "https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/1dc4e095-3817-438d-bb31-1b61ebc127cb_w520_r2.08_fpx44_fpy55.jpg",
-    "date": 1790401380000,
-    "titleSl": "Steffen Bilger: Intervju mit dem Bundesverkehrsminister über Bahn, Autobahn und Raser"
    }
   ],
   "bild": [
+   {
+    "title": "Unglaublicher Fang - Fischer geht blauer Hummer ins Netz",
+    "link": "https://www.bild.de/news/ausland/blauer-hummer-vor-maine-seltener-fang-soll-erhalten-bleiben-6aace0274453e0520be195bd",
+    "image": "https://images.bild.de/6aace0274453e0520be195bd/e042ef70ec7243743059a23e8370c8ea,69862b0c?w=1280",
+    "date": 0
+   },
    {
     "title": "Da horchten nicht nur die Promis auf - Schönebergers schlüpfriger Penis-Talk",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/ndr-talk-show-penis-talk-bei-schoeneberger-6ab70e6018772248192d567e",
@@ -445,12 +450,6 @@
     "image": "https://images.bild.de/6ab7646918772248192d5855/edeb518d4a304f18815b259898bbfbe8,8ea12da1?w=1280",
     "date": 0,
     "titleSl": "Ventilatorji aufgepasst! - Formel-1-Rennen heute um 13 Uhr statt am Sonntag"
-   },
-   {
-    "title": "Giganten-Match um „Money In The Bank“-Spot - HIER die Käfig-Schlacht bei „SmackDown“ schauen",
-    "link": "https://www.bild.de/bild-plus/sport/mehr-sport/wrestling/hier-gibt-es-wwe-smackdown-live-bei-bild-86891982.bild.html",
-    "image": "https://images.bild.de/65b114693f11df421f3df0bd/17891ed17837516723d01411428019ff,4eb796bf?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -474,17 +473,17 @@
     "titleSl": "Zum Geburtstag na Dunaju - Nach zwölf Jahren: Turrini-Stück feiert Comeback"
    },
    {
-    "title": "Hilfsaktion angelaufen - Fünfjähriges Mädchen verlor bei Feuer alles",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkemlwb0lJTXEyUEZGaWNPaHYyN0l5N2U3LTVPd3ozSTcyaXQ1TVpURDFodE5VX2ZJZ1VoQk0xNjhhUQ?oc=5",
-    "image": "",
-    "date": 1790406000000
-   },
-   {
     "title": "Reitspektakel in Wien - Kleiner Kaiser trabt im großen Geldregen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WcllWS3F2c0d4UUlrUkVieXYzS3d1VHdlVWlvT09vbWNMM1hPVHpsUVVNXzJGT1Q0QklCellCWmROdw?oc=5",
     "image": "",
     "date": 1790406000000,
     "titleSl": "Reitspektakel na Dunaju - Kleiner Kaiser trabt im großen Geldregen"
+   },
+   {
+    "title": "Hilfsaktion angelaufen - Fünfjähriges Mädchen verlor bei Feuer alles",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkemlwb0lJTXEyUEZGaWNPaHYyN0l5N2U3LTVPd3ozSTcyaXQ1TVpURDFodE5VX2ZJZ1VoQk0xNjhhUQ?oc=5",
+    "image": "",
+    "date": 1790406000000
    },
    {
     "title": "Appelle zum Ausbau - Energie des Windes bläst Klimawandel den Marsch",
