@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-26T10:46:30.096Z",
+ "generatedAt": "2026-09-26T10:48:27.720Z",
  "sources": {
   "siol": [
    {
@@ -242,6 +242,13 @@
   ],
   "bbc": [
    {
+    "title": "Republic of Ireland news conference delayed before controversial Israel game",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3180/live/6ba201b0-b98e-11f1-90f2-0d8b78b18143.jpg",
+    "date": 1790419477000,
+    "titleSl": "Novinarska konferenca Republike Irske preložena pred sporno tekmo v Izraelu"
+   },
+   {
     "title": "Rayner criticises visa rule proposals ahead of Labour conference",
     "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5fe/live/2254a9f0-b942-11f1-bc1f-3f186ca4140c.jpg",
@@ -275,23 +282,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/e10851c0-b97f-11f1-8fe1-e102ea0756fc.png",
     "date": 1790411984000,
     "titleSl": "Joshua se bori v nevarnosti zaradi promotorja, pravi Fury"
-   },
-   {
-    "title": "Murder or medical mix-up? New questions in the case of killer nurse Colin Norris",
-    "link": "https://www.bbc.co.uk/news/articles/ckg7q33gnwro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be90/live/9f0fec00-b755-11f1-8e7f-6f99c81f3136.jpg",
-    "date": 1790409911000,
-    "titleSl": "Umor ali medicinska pomota? Nova vprašanja v primeru medicinske sestre morilke Colin Norris"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Israel bans Arab parties from election: Who they are, why it matters",
-    "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab78ea1bdbd4-1790414497_22fe80-1790415126.jpg?resize=1200%2C630&quality=80",
-    "date": 1790418431000,
-    "titleSl": "Izrael prepovedal arabskim strankam volitve: kdo so, zakaj je to pomembno"
-   },
    {
     "title": "Virat Kohli says he will retire from India cricket after 2027 World Cup",
     "link": "https://www.aljazeera.com/sports/2026/9/26/india-cricket-great-virat-kohli-says-2027-world-cup-will-be-his-last?traffic_source=rss",
@@ -326,6 +319,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab772f3b585-1790407411.jpg?resize=1920%2C1440",
     "date": 1790413330000,
     "titleSl": "Kitajska in ZDA bosta po vrhu odprli \"komunikacijski kanal\" umetne inteligence, pravi Bela hiša"
+   },
+   {
+    "title": "Pro-Palestine Action group to rally at Labour conference led by Burnham",
+    "link": "https://www.aljazeera.com/news/2026/9/26/palestine-action-protest-labour-conference?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-02-13T120021Z_1755864515_RC2ZKJA7MZC7_RTRMADP_3_ISRAEL-PALESTINIANS-BRITAIN-PALESTINE-ACTION-1790339573.jpg?resize=1920%2C1440",
+    "date": 1790411045000,
+    "titleSl": "Pro-palestinska akcijska skupina se bo zbrala na laburistični konferenci, ki jo bo vodil Burnham"
    }
   ],
   "guardian": [
@@ -413,6 +413,19 @@
   ],
   "bild": [
    {
+    "title": "Topmodel knallhart - Gisele Bündchen servierte Tom Brady mit drei Worten ab",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/gisele-buendchen-schoss-tom-brady-ab-mit-drei-knallharten-worten-zum-ehe-aus-6ab76dedc6e1998b0a3c574b",
+    "image": "https://images.bild.de/6ab76dedc6e1998b0a3c574b/c8273f7d1287939a19a2e7f94111aaa0,6bd1cf45?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nations League - Irland sorgt für nächsten Eklat vor Israel-Spiel",
+    "link": "https://www.bild.de/sport/fussball/irland-sorgt-fuer-eklat-vor-spiel-gegen-israel-6ab7820e3386855e1e1e3b8d",
+    "image": "https://images.bild.de/6ab7820e3386855e1e1e3b8d/4391eb82be7fc30408779eae5403467d,91cf3d6c?w=1280",
+    "date": 0,
+    "titleSl": "Liga narodov - Irland sorgt für nächsten Eklat vor Israel-Spiel"
+   },
+   {
     "title": "Auch Fernverkehr betroffen - Ganzer Großstadt-Bahnhof wegen Kabel-Klau gesperrt",
     "link": "https://www.bild.de/regional/nordrhein-westfalen/gelsenkirchen-bahn-chaos-hauptbahnhof-nach-vandalismus-gesperrt-6ab782fe3386855e1e1e3b97",
     "image": "https://images.bild.de/6ab782fe3386855e1e1e3b97/c95554a62aaf257edfe8db1f676b8dcb,d7419e87?w=1280",
@@ -436,59 +449,54 @@
     "link": "https://www.bild.de/sport/fussball/juergen-klopp-veraendert-kurzfristig-die-plaene-vor-spiel-gegen-griechenland-6ab7719718772248192d5922",
     "image": "https://images.bild.de/6ab7719718772248192d5922/60028675aae329c1699c66b03a5c2328,449a29eb?w=1280",
     "date": 0
-   },
-   {
-    "title": "Jürgen Klopp hat sehr viel gelacht\" - Abschlusstraining vor Griechenland-Spiel",
-    "link": "https://www.bild.de/sport/fussball/juergen-klopp-hat-sehr-viel-gelacht-abschlusstraining-vor-griechenland-spiel-6ab79b2f23851519b71ac448",
-    "image": "https://images.bild.de/6ab79b2f23851519b71ac448/269e3628c8f8e33f20b9bcd9695c2467-landscape,947d77d4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Watzke spricht über Patriotismus-Ansage - Klopp „sollte sich nicht parteipolitisch äußern“",
-    "link": "https://www.bild.de/sport/fussball/so-denkt-watzke-ueber-klopps-nationalstolz-aussagen-nicht-parteipolitisch-aeussern-6ab6b17ea8b3f6fdb1edb798",
-    "image": "https://images.bild.de/6ab6b17ea8b3f6fdb1edb798/41eeaa37b5043fe4d3bb1834eb48cede,799bbacc?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Biker schwer verletzt - Motorradfahrer (42) kracht gegen Anhänger von Auto",
+    "title": "Biker schwer verletzt - Motorradfahrer (42) kracht gegen Anhänger von Auto - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jNVlXX1loQmJqQWJJUzJiVTJwRnp5RGJYaTAycm04S1djNEtxbDlGUUtwU2FqZ1l5VHhXTFhJYzVSZw?oc=5",
     "image": "",
     "date": 1790419320000
    },
    {
-    "title": "Kein Abschlusstraining - ÖFB-Kapitän Gregoritsch für Kosovo-Match fraglich",
+    "title": "Kein Abschlusstraining - ÖFB-Kapitän Gregoritsch für Kosovo-Match fraglich - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94b0wxc3J4UzI2YU9nRXpORmNzS1hFaDY5T1dwRk0zRG45SzA2WG9UdXJucUFjZzg4bTlhR0RvT05GUQ?oc=5",
     "image": "",
     "date": 1790419140000
    },
    {
-    "title": "Suche nach Angreifer - Messeropfer blutüberströmt in Wohnung entdeckt",
+    "title": "Suche nach Angreifer - Messeropfer blutüberströmt in Wohnung entdeckt - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WaEM5cE5hQXZaODNMLV9lOGRtTjZtRlBPM25maDJBT3JRNlVpMS1WN1lhcFphajVtMWZIcGlhWG5fdw?oc=5",
     "image": "",
     "date": 1790418240000
    },
    {
-    "title": "Drama auf Kreuzung - Auto rammt Motorradfahrer: Unfall endet tödlich",
+    "title": "Drama auf Kreuzung - Auto rammt Motorradfahrer: Unfall endet tödlich - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA1czd0WXFFYXM3dHpkdHRzM3RkMnpkNVNzTlB1dXM1QU9GNjNkUzltNHpoYmZBU2xWTlhlckVKNWVxZw?oc=5",
     "image": "",
     "date": 1790417520000
    },
    {
-    "title": "Ärger in Bregenz - Grüne: Skaterplatz soll Hochgarage nicht weichen!",
+    "title": "Ärger in Bregenz - Grüne: Skaterplatz soll Hochgarage nicht weichen! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15RFFkT1AzYjhDbThibGUtelUzbmQ5cHJSOHk5eU1qZF9DX3NjTlp2Y0xvVGxIOUVVbGx5c1JzT1JpQQ?oc=5",
     "image": "",
     "date": 1790417400000
    },
    {
-    "title": "„Haben viele Hürden“ - Treffen für Frauen ab 1,80, Männer ab 1,90 Meter",
+    "title": "„Haben viele Hürden“ - Treffen für Frauen ab 1,80, Männer ab 1,90 Meter - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0taVU5cEJ3TmhGbW1Td1A0WVRmazY1VXc1SkExTktrLU5NY1UtU2JsMWxsRWwzRlUwNEExbmdqYWVWdw?oc=5",
     "image": "",
     "date": 1790417340000
    }
   ],
   "rainews": [
+   {
+    "title": "L&#x27;Etna blocca di nuovo l&#x27;aeroporto di Catania, decolli e atterraggi sospesi fino alle 16",
+    "link": "https://www.rainews.it/articoli/2026/09/etna-blocca-di-nuovo-i-voli-da-e-per-laeroporto-di-catania-scalo-chiuso-522d4af7-ca6c-4b5f-b4c4-fe84779d98f9.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/26/1790409840995_rainewsbdafbfdfdbedef.jpg",
+    "date": 1790419560000,
+    "titleSl": "L'Etna blocca di nuovo l'aeroporto di Catania, decolli e atterraggi sospesi fino alle 16"
+   },
    {
     "title": "Nuove emissioni dal cratere nord-est: la nube di cenere si leva sul cielo dell&#x27;Etna (VIDEO)",
     "link": "https://www.rainews.it/video/2026/09/nuove-emissioni-dal-cratere-nord-est-la-nube-di-cenere-si-leva-sul-cielo-delletna-video-d0bce90a-e214-42bf-a860-077193eb472a.html",
@@ -507,13 +515,6 @@
     "link": "https://www.rainews.it/articoli/2026/09/calcio-nazionale-azzurri-daniel-osvaldo-ex-azzurro-ricoverato-in-terapia-intensiva-argentina-c788deb3-d7e2-4df8-b1e9-d3e87ad4ce8f.html",
     "image": "https://www.rainews.it/dl/img/2026/9/26/1790418022652_aeedcdacd.jpg",
     "date": 1790418960000
-   },
-   {
-    "title": "L&#x27;Etna blocca di nuovo l&#x27;aeroporto di Catania, decolli e atterraggi sospesi fino alle 16",
-    "link": "https://www.rainews.it/articoli/2026/09/etna-blocca-di-nuovo-i-voli-da-e-per-laeroporto-di-catania-scalo-chiuso-522d4af7-ca6c-4b5f-b4c4-fe84779d98f9.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/26/1790409840995_rainewsbdafbfdfdbedef.jpg",
-    "date": 1790418480000,
-    "titleSl": "L'Etna blocca di nuovo l'aeroporto di Catania, decolli e atterraggi sospesi fino alle 16"
    },
    {
     "title": "Tg3 Persone del 26/09/2026",
