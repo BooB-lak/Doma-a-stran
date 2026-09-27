@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T22:02:28.996Z",
+ "generatedAt": "2026-09-27T22:04:29.302Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+    "image": "https://static01.nyt.com/images/2026/09/27/multimedia/00dc-trump-anthropic-flht/00dc-trump-anthropic-flht-mediumSquareAt3X.jpg",
+    "date": 1790546069000,
+    "titleSl": "Dario Amodei iz skupine Anthropic bo večerjal s Trumpom v Beli hiši"
+   },
+   {
     "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?",
     "link": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
     "image": "https://static01.nyt.com/images/2026/09/27/multimedia/27SCI-ANTHROPIC-MESTRE-bmgv/27SCI-ANTHROPIC-MESTRE-bmgv-mediumSquareAt3X.jpg",
@@ -213,6 +220,13 @@
     "titleSl": "Vrača se oglas za kampanjo Trump 2024, ki vam ga je zdaj prinesla vlada"
    },
    {
+    "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+    "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+    "image": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-canada-carney-transcript-photo-hglz/27int-canada-carney-transcript-photo-hglz-mediumSquareAt3X.jpg",
+    "date": 1790541632000,
+    "titleSl": "Prepis iz intervjuja The Timesa s kanadskim premierjem Markom Carneyjem"
+   },
+   {
     "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
     "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
     "image": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-uk-airbase-sub-wglm/27int-uk-airbase-sub-wglm-mediumSquareAt3X.jpg",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/27/multimedia/27xp-pandas-topart-01-gmbh/27xp-pandas-topart-01-gmbh-mediumSquareAt3X.jpg",
     "date": 1790538624000,
     "titleSl": "Velikanske pande, ikone kitajske mehke diplomacije, prispejo v Atlanto"
-   },
-   {
-    "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
-    "image": "https://static01.nyt.com/images/2026/09/27/multimedia/27pol-peltola-profile-kmtb/27pol-peltola-profile-kmtb-mediumSquareAt3X.jpg",
-    "date": 1790529463000,
-    "titleSl": "\"Ona je ena izmed nas\": nemirni vzpon Mary Peltola na politično oblast"
-   },
-   {
-    "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
-    "image": "https://static01.nyt.com/images/2026/09/27/us/27pol-iran-war-midterms-promo/27pol-iran-war-midterms-promo-mediumSquareAt3X.png",
-    "date": 1790522183000,
-    "titleSl": "Trumpova vojna z Iranom zavira republikance na vmesnih volitvah"
    }
   ],
   "bbc": [
@@ -334,8 +334,22 @@
     "title": "Australia news live: Chalmers and Gallagher to present final budget outcome; RBA interest rate hike looms",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/a1f4b3035cc43c52775967b52d4bf5fa7245f8b4/1266_754_5164_4131/master/5164.jpg?width=140&quality=85&auto=format&fit=max&s=454d73dc657a1b7e06b37df52fdae2b6",
-    "date": 1790545662000,
+    "date": 1790546243000,
     "titleSl": "Avstralske novice v živo: Chalmers in Gallagher predstavljata končni proračunski izid; pričakuje se dvig obrestnih mer RBA"
+   },
+   {
+    "title": "Late-night drive and a 999 call: farmer’s chance encounter that led to terrorism arrests at RAF base",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
+    "image": "https://i.guim.co.uk/img/media/cf9fb9c3404c63352db7f4e8dc178a1258eba8c5/82_0_3005_2404/master/3005.jpg?width=140&quality=85&auto=format&fit=max&s=fcdf914da84ef50b0cc86adbacd0dfc7",
+    "date": 1790546142000,
+    "titleSl": "Nočna vožnja in klic 999: naključno srečanje kmeta, ki je privedlo do terorističnih aretacij v bazi RAF"
+   },
+   {
+    "title": "Nor’easter storm batters US east coast with heavy winds and power outages",
+    "link": "https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages",
+    "image": "https://i.guim.co.uk/img/media/7f138f76dce96bca91bcf8e474fb88da68129722/365_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=856e7b76f093537f55852404e8de1f29",
+    "date": 1790545979000,
+    "titleSl": "Severovzhodna nevihta je prizadela vzhodno obalo ZDA z močnimi vetrovi in izpadi električne energije"
    },
    {
     "title": "Blanche defends Trump’s White House media ban: ‘It is a privilege, not a right’",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/bad53d7d437a13e2cb35c20b0164574d495cd66d/221_0_773_618/master/773.jpg?width=140&quality=85&auto=format&fit=max&s=36145865ab2412d72dbabf34ac95f406",
     "date": 1790538843000,
     "titleSl": "Republikanski senator kritizira Belo hišo zaradi Trumpovih oglasov, ki jih financirajo davkoplačevalci"
-   },
-   {
-    "title": "Serbia’s populist president Aleksandar Vučić resigns to run for prime minister",
-    "link": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
-    "image": "https://i.guim.co.uk/img/media/50da5abc3c751cac65f50b45fe65a5536f2f6696/184_0_2456_1965/master/2456.jpg?width=140&quality=85&auto=format&fit=max&s=cde40925316e0945dc8dc0e5d8f6b3db",
-    "date": 1790536178000,
-    "titleSl": "Srbski populistični predsednik Aleksandar Vučić odstopil, da bi kandidiral za predsednika vlade"
-   },
-   {
-    "title": "Andy Burnham to fight next election with plan for NHS-style care service",
-    "link": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
-    "image": "https://i.guim.co.uk/img/media/5fa7ed79ec65c0c686125d09699c198d78c07958/719_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=862a7a8229bca941aa53eba45eff70fe",
-    "date": 1790535382000,
-    "titleSl": "Andy Burnham se bo na naslednjih volitvah boril z načrtom za storitev oskrbe v slogu NZS"
    }
   ],
   "spiegel": [
@@ -415,39 +415,39 @@
   ],
   "bild": [
    {
-    "title": "„Mittelmaß angekommen“ - Schweini knallhart!",
-    "link": "https://www.bild.de/sport/fussball/nationalmannschaft-mittelmass-angekommen-schweini-knallhart-nach-der-klopp-pleite-6ab983b0a8b3f6fdb1edd4d0",
-    "image": "https://images.bild.de/6ab983b0a8b3f6fdb1edd4d0/10b740a7bf9f8f995ebbe8bf3d7adb11,6ba0561d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Klopp erklärt die Pleite - „Drecks-Ding reinwurschteln!“",
-    "link": "https://www.bild.de/sport/fussball/klopp-erklaert-die-pleite-drecks-ding-reinwurschteln-6ab986e8a8b3f6fdb1edd4f8",
-    "image": "https://images.bild.de/6ab986e8a8b3f6fdb1edd4f8/2fbb20c795cec63c90642c6315ec7372,395898b4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Griechen verpassten die WM - Fußball-Zwerg bremst Klopp aus",
-    "link": "https://www.bild.de/sport/fussball/deutsche-nationalmannschaft-juergen-klopp-verpatzt-sein-heim-debuet-6ab94a6aa8b3f6fdb1edd1e6",
-    "image": "https://images.bild.de/6ab94a6aa8b3f6fdb1edd1e6/58abb45e35f14cc304fdc34ce3357990,ddc49b5a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Bei „Grill den Henssler“ - Charlotte Engelhardt packt über Knutsch-Nacht aus",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/charlotte-engelhardt-knutsch-beichte-bei-grill-den-henssler-6ab90e79edcd51e7d973b142",
-    "image": "https://images.bild.de/6ab90e79edcd51e7d973b142/cc3c9a65fc7067c727fbded633d84a62,6f94b87b?w=1280",
-    "date": 0
-   },
-   {
     "title": "Alle Spiele im Überblick - Patriots kassieren heftige Abreibung!",
     "link": "https://www.bild.de/sport/mehr-sport/nfl-ergebnisse-patriots-kassieren-heftige-abreibung-6ab94bbdc684ae5d48079b72",
-    "image": "https://images.bild.de/6ab94bbdc684ae5d48079b72/6cd2ccd812ef6356e65a5dbe919c5c95-landscape,1e287489?w=1280",
+    "image": "https://images.bild.de/6ab94bbdc684ae5d48079b72/d66e8f7d3c78bfa5ab4991bdb13595c0,4d02b00d?w=1280",
     "date": 0
    },
    {
-    "title": "ARD-Kommentator nach dem Spiel - „Euphorie erst mal weg!“",
-    "link": "https://www.bild.de/sport/fussball/juergen-klopp-1-dfb-pleite-ard-kommentator-euphorie-erst-mal-weg-6ab9818518772248192d7184",
-    "image": "https://images.bild.de/6ab9818518772248192d7184/b32ed3e4db9e31f6649f01b336a2934f-landscape,dacf74cc?w=1280",
+    "title": "Fang des Spieltags - Auf dem Po zum Touchdown!",
+    "link": "https://www.bild.de/sport/mehr-sport/nfl-auf-dem-po-zum-touchdown-catch-des-spieltags-6ab970d418772248192d70bd",
+    "image": "https://images.bild.de/6ab970d418772248192d70bd/4ddbe6fa1ebd7dd36196fbf3ce4a9c5f,12ae3ffa?w=1280",
+    "date": 0
+   },
+   {
+    "title": "BILDplus MEGA MONTAG - Getränkekühlschrank mit Glastür gewinnen!",
+    "link": "https://www.bild.de/sonstiges/bildplus-gewinnspiele-aktionen/bildplus-mega-montag-280-liter-getraenkekuehlschrank-gewinnen-6aa9080b8191ba8609511a62",
+    "image": "https://images.bild.de/6aa9080b8191ba8609511a62/f527ddc439ab0c7f56440fef78f9a890,ceda1e67?w=1280",
+    "date": 0
+   },
+   {
+    "title": "BILDplus Gewinnspiel - Europa-Park & Fußball Wochenende gewinnen",
+    "link": "https://www.bild.de/sonstiges/bildplus-gewinnspiele-aktionen/europa-park-gewinnspiel-wochenende-mit-sc-freiburg-spiel-gewinnen-6ab2734178c3aee053a3d0a2",
+    "image": "https://images.bild.de/6ab2734178c3aee053a3d0a2/5b692f9e0168eadeafc37a43799132a0,6f193b69?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Wie cool ist der denn? - Bengals-Star fängt Touchdown IM SITZEN!",
+    "link": "https://www.bild.de/sport/mehr-sport/wie-cool-ist-der-denn-bengals-star-faengt-touchdown-im-sitzen-6ab971ab18772248192d70cf",
+    "image": "https://images.bild.de/6ab971ab18772248192d70cf/57bc33d3b880ef5e69b91a3edc94ca49,18ea1353?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Ein Spiel zum Vergessen - Die Horror-Szenen vom Patriots-Quarterback",
+    "link": "https://www.bild.de/sport/mehr-sport/ein-spiel-zum-vergessen-die-horror-szenen-vom-patriots-quarterback-6ab97a1a8e3bdc079f59ff5d",
+    "image": "https://images.bild.de/6ab97a1a8e3bdc079f59ff5d/137b35623f93af55b879dfdaed07c76c,4805559?w=1280",
     "date": 0
    }
   ],
@@ -495,6 +495,12 @@
   ],
   "rainews": [
    {
+    "title": "Elezioni suppletive: affluenza alle 23 al 14,97% nel collegio di Reggio Calabria",
+    "link": "https://www.rainews.it/articoli/2026/09/elezioni-suppletive-affluenza-risultati-collegio-reggio-calabria-e10b71ca-b489-4137-af87-7ce0a034efa6.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/27/1790517095223_Immagine__.png",
+    "date": 1790546640000
+   },
+   {
     "title": "Le previsioni del tempo per lunedì 27 settembre",
     "link": "https://www.rainews.it/video/2026/09/le-previsioni-del-tempo-per-lunedi-27-settembre-974c1a4a-1f22-4fe0-bb0c-6bada485602a.html",
     "image": "https://www.rainews.it/dl/img/2024/12/06/1733462386435_meteo.PNG",
@@ -526,15 +532,15 @@
     "image": "https://www.rainews.it/dl/img/2026/9/27/1790533994303_videoframe.png",
     "date": 1790533860000,
     "titleSl": "Un no trasforma una passeggiata in un 'eksplosione di violenza"
-   },
-   {
-    "title": "Ucciso e fatto a pezzi: custodia cautelare in carcere per i tre indagati per omicidio",
-    "link": "https://www.rainews.it/video/2026/09/delitto-a-torino-custodia-cautelare-in-carcere-per-i-tre-indagati-per-omicidio-c1b21c8f-e4db-4f14-9de3-f43c1c1993e2.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/27/1790533826777_videoframe.png",
-    "date": 1790533680000
    }
   ],
   "lemonde": [
+   {
+    "title": "Féminicide dans le Cher : le compagnon de la victime mis en examen et placé en détention provisoire",
+    "link": "https://www.lemonde.fr/societe/article/2026/09/27/feminicide-dans-le-cher-le-compagnon-de-la-victime-mis-en-examen-et-place-en-detention-provisoire_6784596_3224.html",
+    "image": "https://img.lemde.fr/2026/06/16/250/0/3000/1500/644/322/60/0/cabaade_upload-1-yyclbmzye3cs-frame-1160.jpg",
+    "date": 1790546382000
+   },
    {
     "title": "En Ethiopie, la télévision publique du Tigré frappée par un drone",
     "link": "https://www.lemonde.fr/afrique/article/2026/09/27/en-ethiopie-la-television-publique-du-tigre-frappee-par-un-drone_6784561_3212.html",
@@ -568,13 +574,6 @@
     "image": "https://img.lemde.fr/2026/09/27/466/0/5591/2795/644/322/60/0/2e74394_ftp-1-tac0dbbvciuj-2026-09-27t185445z-696549845-rc2srnacdb6u-rtrmadp-3-serbia-election-president.JPG",
     "date": 1790537036000,
     "titleSl": "En Serbie, le président, Aleksandar Vučić, démissionne et brigue le poste de premier ministre"
-   },
-   {
-    "title": "Sénatoriales 2026 : la droite conserve la majorité, l’extrême droite en mesure de constituer un groupe",
-    "link": "https://www.lemonde.fr/politique/article/2026/09/27/senatoriales-2026-la-droite-conserve-la-majorite-l-extreme-droite-en-capacite-de-constituer-un-groupe_6784553_823448.html",
-    "image": "https://img.lemde.fr/2026/09/18/455/0/8000/4000/644/322/60/0/ca2dad6_upload-1-uuipdre2ah0h-jmug260918042.jpg",
-    "date": 1790536495000,
-    "titleSl": "Sénatoriales 2026 : la droite conserve la majorité, l 'extrême droite en mesure de constituer un groupe"
    }
   ],
   "elpais": [
