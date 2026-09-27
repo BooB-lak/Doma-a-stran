@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T12:32:28.135Z",
+ "generatedAt": "2026-09-27T12:34:27.507Z",
  "sources": {
   "siol": [
    {
@@ -79,8 +79,8 @@
   ],
   "rtvslo": [
    {
-    "title": "Švicarji po projekcijah zavrnili predlog za strožjo nevtralnost",
-    "link": "https://www.rtvslo.si/svet/evropa/svicarji-po-projekcijah-zavrnili-predlog-za-strozjo-nevtralnost/795052",
+    "title": "Švicarji so glede na projekcije zavrnili predlog za strožjo nevtralnost",
+    "link": "https://www.rtvslo.si/svet/evropa/svicarji-so-glede-na-projekcije-zavrnili-predlog-za-strozjo-nevtralnost/795052",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/27/67107601.jpg",
     "date": 1790511791000
    },
@@ -250,6 +250,13 @@
     "titleSl": "Burnham predlaga sistem socialnega varstva v slogu NZS za Anglijo"
    },
    {
+    "title": "Four men down - but Australia still beat South Africa",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a55/live/f8233ca0-ba68-11f1-9eff-ad9ee4a522c5.jpg",
+    "date": 1790511574000,
+    "titleSl": "Štirje moški navzdol - vendar je Avstralija še vedno premagala Južno Afri"
+   },
+   {
     "title": "Thousands without water and roads closed after burst pipe",
     "link": "https://www.bbc.co.uk/news/articles/cm0e33ej13r5o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ca/live/56934fb0-ba54-11f1-9a84-01517feb24bf.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aadd/live/78d000e0-ba00-11f1-8520-ed16c173ce21.jpg",
     "date": 1790507669000,
     "titleSl": "Nova zvezda preboja v ZDA? Sullivan izpolnjuje obljubo Premier League"
-   },
-   {
-    "title": "Ten NHS staff removed over Noah Woods data breach",
-    "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0867/live/18be96e0-ba36-11f1-a238-613d75ce6f97.jpg",
-    "date": 1790507290000,
-    "titleSl": "Deset zaposlenih NZS je bilo odstranjenih zaradi kršitve podatkov Noaha Woodsa"
    }
   ],
   "aljazeera": [
@@ -414,15 +414,28 @@
   ],
   "bild": [
    {
-    "title": "„Katastrophale Leistung“ - Englische Medien rechnen mit Tuchel ab",
-    "link": "https://www.bild.de/sport/fussball/nations-league-englische-medien-rechnen-mit-thomas-tuchel-ab-6ab8db3018772248192d680f",
-    "image": "https://images.bild.de/6ab8db3018772248192d680f/0aa77058382d6cd2016a149ddb9ed329,c669faa0?w=1280",
-    "date": 0
-   },
-   {
     "title": "Llambi-Tochter feiert Studienabschluss - 10 Punkte für diesen Auftritt!",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/llambi-tochter-feiert-studienabschluss-10-punkte-fuer-diesen-auftritt-6ab8cf2a2ba1c33c2ab267e7",
     "image": "https://images.bild.de/6ab8cf2a2ba1c33c2ab267e7/4c4e4e1e08a99cdf6fd63b3517d63efb,f7de7bf0?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Klopp: „Goldene Generation“ - Warum DFB-Gegner Griechenland Europa erobert",
+    "link": "https://www.bild.de/sport/fussball/deutschland-griechenland-klopp-schwaermt-ueber-gegner-goldene-generation-6ab8c6f5a8b3f6fdb1edc945",
+    "image": "https://images.bild.de/6ab8c6f5a8b3f6fdb1edc945/a37e5a85172633d2495403c4ea29e2a8,12275a2e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Mangel an Qualität! Arrogant! Blasiert!“ - Handball-Star Wolff vernichtet Schiedsrichter",
+    "link": "https://www.bild.de/sport/mehr-sport/arrogant-blasiert-handball-star-wolff-vernichtet-schiedsrichter-6ab9088118772248192d6b55",
+    "image": "https://images.bild.de/6ab9088118772248192d6b55/2a7c2212509f4dbe9d81d932d064c310,a08554dc?w=1280",
+    "date": 0,
+    "titleSl": "„Mangel an Qualität! Aroganten! Blasiert!“ - Handball-Star Wolff vernichtet Schiedsrichter"
+   },
+   {
+    "title": "„Katastrophale Leistung“ - Englische Medien rechnen mit Tuchel ab",
+    "link": "https://www.bild.de/sport/fussball/nations-league-englische-medien-rechnen-mit-thomas-tuchel-ab-6ab8db3018772248192d680f",
+    "image": "https://images.bild.de/6ab8db3018772248192d680f/0aa77058382d6cd2016a149ddb9ed329,c669faa0?w=1280",
     "date": 0
    },
    {
@@ -436,59 +449,45 @@
     "link": "https://www.bild.de/leben-wissen/wissenschaft/geister-dna-das-erbe-unbekannter-menschen-steckt-in-jedem-von-uns-6ab7978423851519b71ac435",
     "image": "https://images.bild.de/6ab7978423851519b71ac435/864116741bce2f0b47294a1f9dc5a2d6,93770a2e?w=1280",
     "date": 0
-   },
-   {
-    "title": "Geliebtes Trainingsquartier weg - Nationalteam zieht um!",
-    "link": "https://www.bild.de/sport/fussball/nationalelf-juergen-klopp-muss-mit-dfb-elf-umziehen-6ab8cbc52ba1c33c2ab267ac",
-    "image": "https://images.bild.de/6ab8cbc52ba1c33c2ab267ac/a38e954f8871570e9d55e1da1b481a4c,98cb9430?w=1280",
-    "date": 0,
-    "titleSl": "Geliebtes Trainingingsquartier weg - Nationalteam zieht um!"
-   },
-   {
-    "title": "„Zu naiv! Nicht clever genug!“ - Lok Leipzig rechnet mit sich selbst ab",
-    "link": "https://www.bild.de/sport/fussball/zu-naiv-nicht-clever-genug-lok-leipzig-rechnet-mit-sich-selbst-ab-6ab8ddce3643bd02bee2493c",
-    "image": "https://images.bild.de/6ab8ddce3643bd02bee2493c/ad76490d3f68703e54d5ba8f4fecbb1e,7d658ee3?w=1280",
-    "date": 0,
-    "titleSl": "\"Zu naiv! Nicht smart genug!“ - Lok Leipzig rechnet mit sich selbst ab"
    }
   ],
   "krone": [
    {
-    "title": "Ach, übrigens... - Die englische Ibiza-Affäre - krone.at",
+    "title": "Ach, übrigens... - Die englische Ibiza-Affäre",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42Mm1HWDRHbC1rQi1tdzcwdjZlMF9RbFlmMDl2eEp4TWpNQ3NRQ0k0bUxJblhCakJVUGR0RWhhSE50dw?oc=5",
     "image": "",
     "date": 1790511900000
    },
    {
-    "title": "ÖFB-Überraschungen - Routiniers fehlen, Torhüter-Entscheidung gefallen? - krone.at",
+    "title": "ÖFB-Überraschungen - Routiniers fehlen, Torhüter-Entscheidung gefallen?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GWWdETzhzbzZvVWphSFg3c25ULXdvblludmtBbFoxQzN6SkV2NkNYS1pTZXlrRnVRSWlzZzJXb1Z2UQ?oc=5",
     "image": "",
     "date": 1790511360000
    },
    {
-    "title": "Feuerwehr rückte aus - Warum bloß? Unbekannte schnitten drei Bäume an - krone.at",
+    "title": "Feuerwehr rückte aus - Warum bloß? Unbekannte schnitten drei Bäume an",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5mNmpxQ2ktYXlyX21RUVdNWnI1Q2hyS2NSbmliOWRabVlBSWNrSHpMTVZJSENscHRQb2hfcVNCRmVpQQ?oc=5",
     "image": "",
     "date": 1790510820000
    },
    {
-    "title": "Bei Kaiserwetter - Paragleiter stürzte ab – Sportler verletzte sich - krone.at",
+    "title": "Bei Kaiserwetter - Paragleiter stürzte ab – Sportler verletzte sich",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01MF9maTZvek0zYU5WS3ltakpXVlBlU0VkbWVDMGp0TFhkV1dUaFNPd2dLVjFvZ0lSZ0VLY3lvdEk3QQ?oc=5",
     "image": "",
     "date": 1790510400000
    },
    {
-    "title": "Vielseitiges Schaffen - Trauer um Künstler Werner Lössl (96) - krone.at",
+    "title": "Vielseitiges Schaffen - Trauer um Künstler Werner Lössl (96)",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xaVl4NDNjS0NDZmh2TGRCMFU2Vi1IaGVZbERWOTh0VDliNTZsZG1VMTNzaU82ckxLYjRFdl81bmpVdw?oc=5",
     "image": "",
     "date": 1790510400000
    },
    {
-    "title": "Große Wohnungsnot - 87-Jährige delogiert: Protestwelle in Madrid - krone.at",
+    "title": "Große Wohnungsnot - 87-Jährige delogiert: Protestwelle in Madrid",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9YeEVDRnVsMVpRcGxKS1pDZkpDWGVqSUtra1FLOWk5anlsbmJ1anVzb2gxd0xDT00yU3MzY0VPN3VWQQ?oc=5",
     "image": "",
     "date": 1790510220000,
-    "titleSl": "Große Wohnungsnot - 87-Jährige delogiert: Protestwelle v Madridu - krone.at"
+    "titleSl": "Große Wohnungsnot - 87-Jährige delogiert: Protestwelle v Madridu"
    }
   ],
   "rainews": [
@@ -562,11 +561,11 @@
     "titleSl": "Israël : la justice reporte un appel d 'offres pour un projet de colonisation en Cisjordanie, pour ne pas perturber les élections législatives"
    },
    {
-    "title": "Au Royaume-Uni, la police évoque un « incident majeur » après l’arrestation de plusieurs personnes près d’une base de l’armée de l’air",
+    "title": "Royaume-Uni : la police antiterroriste saisie après un « incident majeur » près d’une base utilisée par l’armée de l’air américaine",
     "link": "https://www.lemonde.fr/international/article/2026/09/27/au-royaume-uni-la-police-evoque-un-incident-majeur-apres-l-arrestation-de-plusieurs-personnes-pres-d-une-base-de-l-armee-de-l-air_6784099_3210.html",
     "image": "https://img.lemde.fr/2026/09/27/756/0/5500/2750/644/322/60/0/4ff999d_ftp-1-jub8a0gasr0w-2026-09-27t081308z-865452449-rc2jrnas7akg-rtrmadp-3-britain-usa-fairford.JPG",
-    "date": 1790503259000,
-    "titleSl": "Au Royaume-Uni, la police évoque un « incident majeur» après l 'arrestationde plusieurs personnes près d' une base de l 'armée de l' air"
+    "date": 1790503258000,
+    "titleSl": "Royaume-Uni : la police antiterroriste saisie après un « incident majeur» près d'une base utilisée par l' armée de l'air américaine"
    },
    {
     "title": "Sadio Mané, la star du football, se lance dans la transformation des mangues au Sénégal",
