@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T10:22:29.505Z",
+ "generatedAt": "2026-09-28T10:24:26.958Z",
  "sources": {
   "siol": [
    {
@@ -119,8 +119,14 @@
    {
     "title": "Policisti prišli v hotel v BiH in 4 Slovencem vzeli prostost",
     "link": "https://www.zurnal24.si/svet/bosna-in-hercegovina-hotel-policija-4-slovenci-alkohol-banjaluka-465830",
-    "image": "https://www.zurnal24.si/media/img/6a/40/e9b0b2f9777b9b7704de.jpeg",
+    "image": "https://www.zurnal24.si/media/img/8b/6c/1bcb38275d1293bc43bf.jpeg",
     "date": 1790590920000
+   },
+   {
+    "title": "To kaže na to, da se je Nina Pušlar poročila",
+    "link": "https://www.zurnal24.si/magazin/vip/to-kaze-na-to-da-se-je-nina-puslar-porocila-465828",
+    "image": "https://www.zurnal24.si/media/img/f8/b6/86041a7625fec2691732.jpeg",
+    "date": 1790590140000
    },
    {
     "title": "Ukrajina osvobodila več vasi in ujela 250 Rusov",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/svet/celovec-30-letnik-divjal-ranil-2-policista-465816",
     "image": "https://www.zurnal24.si/media/img/4f/0c/52057e7f6e62de9b3376.jpeg",
     "date": 1790585760000
-   },
-   {
-    "title": "Huda nesreča v sadovnjaku: Umrl voznik traktorja",
-    "link": "https://www.zurnal24.si/slovenija/smrt-traktor-vojnik-65-letnik-465815",
-    "image": "https://www.zurnal24.si/media/img/4b/29/0b265813f534b674745b.jpeg",
-    "date": 1790585040000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Possible Foiled Terror Attack at U.S. Air Base in U.K. Raises Questions Over Security",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
+    "image": "https://static01.nyt.com/images/2026/09/28/multimedia/28int-uk-airbase-01-lqhf/28int-uk-airbase-01-lqhf-mediumSquareAt3X.jpg",
+    "date": 1790590759000,
+    "titleSl": "Morebitni preprečeni teroristični napad na ameriško letalsko oporišče v Združenem kraljestvu sproža vprašanja glede varnosti"
+   },
+   {
     "title": "Who’s Winning the Race for Congress?",
     "link": "https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html",
     "image": "https://static01.nyt.com/images/2026/09/27/us/sotr-28sep-promo/sotr-28sep-promo-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "",
     "date": 1790586211000,
     "titleSl": "Cenovna dostopnost je zmagovalno sporočilo za demokrate. Obstaja pa še ena, še boljša."
-   },
-   {
-    "title": "Trump’s Tariffs Push Canadian Companies to Look Past American Links",
-    "link": "https://www.nytimes.com/2026/09/28/business/trump-tariffs-canada-diversify.html",
-    "image": "https://static01.nyt.com/images/2026/09/23/multimedia/Biz-CanadaUS-Trade-01-vzqc/Biz-CanadaUS-Trade-01-vzqc-mediumSquareAt3X.jpg",
-    "date": 1790586193000,
-    "titleSl": "Trumpove tarife potiskajo kanadska podjetja, da gledajo mimo ameriških povezav"
    }
   ],
   "bbc": [
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
-    "title": "Miliband says Britain must play its part in ‘rebuilding’ world order – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/7da4e0e32538b3250067b613b3455eb85f4379b0/538_0_2710_2168/master/2710.jpg?width=140&quality=85&auto=format&fit=max&s=4f4e3cf05dcb1414e06df82302b962d7",
-    "date": 1790590666000,
-    "titleSl": "Miliband pravi, da mora Britanija odigrati svojo vlogo pri \"obnovi\" svetovnega reda – britanska politika v živo"
-   },
-   {
     "title": "RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’",
     "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/b2ced2821ea3ccca7bdff7fefd4c2703cbc16530/503_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e9afda23c7fae15fc7d14f33454cf084",
     "date": 1790590414000,
     "titleSl": "Posodobitve RAF Fairford v živo: Ulična vožnja se zahvaljuje kmetovalki, ki je opozorila policijo, vendar pravi, da ima \"delno sliko\""
+   },
+   {
+    "title": "Miliband says Britain must play its part in ‘rebuilding’ world order – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/7da4e0e32538b3250067b613b3455eb85f4379b0/538_0_2710_2168/master/2710.jpg?width=140&quality=85&auto=format&fit=max&s=4f4e3cf05dcb1414e06df82302b962d7",
+    "date": 1790590297000,
+    "titleSl": "Miliband pravi, da mora Britanija odigrati svojo vlogo pri \"obnovi\" svetovnega reda – britanska politika v živo"
    },
    {
     "title": "John Fetterman accidentally calls himself ‘a lifelong Republican’",
@@ -414,11 +414,30 @@
   ],
   "bild": [
    {
+    "title": "Nach heftiger Pannen-Serie - Wirbel um Bundesliga-Torwart",
+    "link": "https://www.bild.de/sport/fussball/rb-leipzig-nach-irrer-pannen-serie-wirbel-um-bundesliga-torwart-rjan-nyland-6aba23e2d72162f22c33efb1",
+    "image": "https://images.bild.de/6aba23e2d72162f22c33efb1/9db8ffbfcf9843ef0bb5e45bf3013b8d,f7610c44?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Mega-Ranking der „New York Times“ - Die 10 besten Serien des Jahrhunderts!",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/mega-ranking-der-new-york-times-die-10-besten-serien-des-jahrhunderts-6ab9f5e118772248192d74b9",
+    "image": "https://images.bild.de/6ab9f5e118772248192d74b9/ee5954e3468a7dda8b2751ba22f3cfe5,b66dbd79?w=1280",
+    "date": 0,
+    "titleSl": "Mega Ranking der „New York Times“ - Die 10 besten Serien des Jahrhunderts!"
+   },
+   {
     "title": "Nach Handtaschen-Raub in England - Party-Batman rettet Frau den Abend",
     "link": "https://www.bild.de/news/nach-handtauschen-raub-in-england-party-batman-rettet-frau-den-abend-6ab544bcb2d23610d25cb1d1",
     "image": "https://images.bild.de/6ab544bcb2d23610d25cb1d1/9783338087e8aa8b234ea40efc6f214e,41b52e67?w=1280",
     "date": 0,
     "titleSl": "Nach Handtaschen-Raub v Angliji - Party-Batman rettet Frau den Abend"
+   },
+   {
+    "title": "Zahlen beweisen es - BSG Chemie jetzt Derby-Favorit gegen Lok Leipzig",
+    "link": "https://www.bild.de/sport/fussball/zahlen-beweisen-es-bsg-chemie-jetzt-derby-favorit-gegen-lok-leipzig-6aba29f39186e170dc988de3",
+    "image": "https://images.bild.de/6aba29f39186e170dc988de3/2a6ebdae06e1f381d91f8fd2ddbc92f9,e5fd31df?w=1280",
+    "date": 0
    },
    {
     "title": "Schüsse in Berlin - 17-Jähriger in Lebensgefahr",
@@ -432,24 +451,6 @@
     "link": "https://www.bild.de/sport/mehr-sport/eishockey-tor-ohne-tor-verrueckte-szene-in-der-del2-6aba163191ba8039e9c3d540",
     "image": "https://images.bild.de/6aba163191ba8039e9c3d540/f911447fb5b088999f310a116797877a,2e369693?w=1280",
     "date": 0
-   },
-   {
-    "title": "Nach verrückter Pannen-Serie - Wirbel um Bundesliga-Torwart",
-    "link": "https://www.bild.de/sport/fussball/rb-leipzig-nach-irrer-pannen-serie-wirbel-um-bundesliga-torwart-rjan-nyland-6aba23e2d72162f22c33efb1",
-    "image": "https://images.bild.de/6aba23e2d72162f22c33efb1/9db8ffbfcf9843ef0bb5e45bf3013b8d,f7610c44?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Terror-Alarm an britischer Militärbasis - Bomben-Roboter untersucht verdächtige Transporter",
-    "link": "https://www.bild.de/news/ausland/terror-alarm-an-britischer-militaerbasis-bomben-roboter-untersucht-verdaechtige-transporter-6aba200391ba8039e9c3d5ce",
-    "image": "https://images.bild.de/6aba200391ba8039e9c3d5ce/912698d887f0b836028a80d5de858207,d5e10493?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Es ist NICHT ihr Mann - NFL-Star taucht in neuem Swift-Video auf",
-    "link": "https://www.bild.de/sport/mehr-sport/taylor-swift-nfl-star-taucht-in-neuem-video-auf-es-ist-nicht-ihr-mann-6aba2d259186e170dc988e45",
-    "image": "https://images.bild.de/6aba2d259186e170dc988e45/d46964bbbd8e7e3479c846fdb6508a2f,32ab8d03?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -459,6 +460,13 @@
     "image": "",
     "date": 1790590860000,
     "titleSl": "\"Wie arm wäre unser Land nur ohne euch?\""
+   },
+   {
+    "title": "„Wir wollen endlich Hochwasser-Schutz am Fluss!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YOG1tWnNmMm5NWW80QzYyNmxMLW1WYi1kRmNLOHRWQ0E4U0tjUlNEX3FDeDQyR01zbV80Z1pBR1I2QQ?oc=5",
+    "image": "",
+    "date": 1790590823000,
+    "titleSl": "\"Wir wollen endlich Hochwasser-Schutz am Fluss!\""
    },
    {
     "title": "Arbeit im Wandel - Was Nähmaschinen und KI-Werkzeuge gemeinsam haben",
@@ -484,12 +492,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrdXc0M3YwT0VLbnpYeXpITTFJX3ZQVkcyVERMNkM5LVhVYUY0emFSbGFrZFhqUW5ELTFvMFBycWhfZw?oc=5",
     "image": "",
     "date": 1790589720000
-   },
-   {
-    "title": "Wegen Verletzung - Zur Kündigung gedrängt: AK hilft Präsenzdiener",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qeThiejRTRkJSUnV4TDFudW1EZkppbnZkc3IxbXZjQmlPMmswNmM5UjExMmNKVlNkWVRNSkVhVFgwUQ?oc=5",
-    "image": "",
-    "date": 1790589600000
    }
   ],
   "rainews": [
@@ -578,23 +580,29 @@
   ],
   "elpais": [
    {
+    "title": "El fiscal, contra el juez Peinado: “No es aceptable pasar por encima de los profesionales”",
+    "link": "https://elpais.com/espana/2026-09-28/el-fiscal-contra-el-juez-peinado-no-es-aceptable-pasar-por-encima-de-los-profesionales.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/KLZBPQY2ZJFZ5AZBEVX5MZ5FNQ.jpg?auth=47e48519a7679cf2243e0c5f68de54853a4072b83862dca4997f3860c04c79ef",
+    "date": 1790590996000
+   },
+   {
     "title": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser “un lunes muy largo” de negociaciones para sacar adelante el decreto",
     "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/NSYSQS7OCFHA5LDAAI23LAPLBY.jpg?auth=45a707c1f282b55cb97a5a4f887807022c30f51602e9098d7e142085bc97146d",
-    "date": 1790590780000,
+    "date": 1790590959000,
     "titleSl": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser \"un lunes muy largo\" de negociaciones para sacar adelante el decreto"
    },
    {
     "title": "Así es el decreto contra los chiringuitos privados de FP: los títulos online tendrán un máximo de 50 alumnos por profesor",
     "link": "https://elpais.com/educacion/2026-09-28/asi-es-el-decreto-contra-los-chiringuitos-privados-de-fp-los-titulos-a-distancia-tendran-entre-un-15-y-un-39-de-presencialidad.html",
     "image": "https://imagenes.elpais.com/resizer/v2/QWJVOE6YTRGH3JUADGKWUVCMIQ.JPG?auth=63ccb5f25a08505b7860265fbcb2e5e2486df7f145191e856021035f38edb5f5",
-    "date": 1790590627000
+    "date": 1790590940000
    },
    {
-    "title": "El fiscal, contra el juez Peinado: “No es aceptable pasar por encima de los profesionales”",
-    "link": "https://elpais.com/espana/2026-09-28/el-fiscal-contra-el-juez-peinado-no-es-aceptable-pasar-por-encima-de-los-profesionales.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/KLZBPQY2ZJFZ5AZBEVX5MZ5FNQ.jpg?auth=47e48519a7679cf2243e0c5f68de54853a4072b83862dca4997f3860c04c79ef",
-    "date": 1790590297000
+    "title": "Ayuso ironiza tras el desahucio de Maricarmen y pide saber “a partir de qué edad” se puede no pagar al casero: “Que me avisen”",
+    "link": "https://elpais.com/espana/madrid/2026-09-28/ayuso-ironiza-tras-el-desahucio-de-maricarmen-y-pide-saber-a-partir-de-que-edad-se-puede-no-pagar-al-casero-que-me-avisen.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/CCRF5NAHJBAFJPBKKGHUUJRQTA.jpg?auth=d14a35e44cac1f119b59ab57aebea02c60d28fa4388fd07a6eb3940ae01a9131",
+    "date": 1790590595000
    },
    {
     "title": "El presidente de la Diputación de Valencia, sobre el día de la dana: “La gestión fue un desastre”",
@@ -608,13 +616,6 @@
     "link": "https://elpais.com/sociedad/branded/impacto-positivo/2026-09-28/torre-de-dos-plantas-en-pleno-campo-con-todas-las-comodidades-para-que-aniden-aves-vulnerables.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218416_094031_video_1800.mp4",
     "date": 1790589665000
-   },
-   {
-    "title": "La Abogacía acusa a Vox de actuar contra la ‘ley de nietos’ al considerar que favorece a la izquierda: “No hay la más mínima prueba”",
-    "link": "https://elpais.com/espana/2026-09-28/la-abogacia-acusa-a-vox-de-actuar-contra-la-ley-de-nietos-al-considerar-que-favorece-a-la-izquierda-no-hay-la-mas-minima-prueba.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6OVJCVIIHFBMTFAXBRFRKCSXW4.jpg?auth=2d64e277508d77fd2dd98fd56166287cab32bdd6d23a33188f2d5c5da8cd994d",
-    "date": 1790589614000,
-    "titleSl": "La Abogacía acusa a Vox de actuar contra la ‘ley de nietos’ al considerar que favorece a la izquierda: \"No hay la más mínima prueba\""
    }
   ]
  },
