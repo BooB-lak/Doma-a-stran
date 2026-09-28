@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-28T10:42:25.568Z",
+ "generatedAt": "2026-09-28T10:44:27.361Z",
  "sources": {
   "siol": [
+   {
+    "title": "Fiskalni svet opozarja na pomanjkanje ukrepov za zagotavljanje vzdržnih javnih financ",
+    "link": "https://siol.net/novice/posel-danes/fiskalni-svet-opozarja-na-pomanjkanje-ukrepov-za-zagotavljanje-vzdrznih-javnih-financ-702587",
+    "image": "https://siol.net/media/img/57/18/62cfb88cff48d70b064c.jpeg",
+    "date": 1790591940000
+   },
    {
     "title": "Svet EU za novo evropsko tožilko iz Slovenije imenoval Tanjo Frank Eler",
     "link": "https://siol.net/novice/slovenija/svet-eu-za-novo-evropsko-tozilko-iz-slovenije-imenoval-tanjo-frank-eler-702586",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/vrtovec-razvoj-logistike-kljucen-za-gospodarsko-konkurencnost-702583",
     "image": "https://siol.net/media/img/8f/e9/956f4364c13eb44b3abd.jpeg",
     "date": 1790590080000
-   },
-   {
-    "title": "Grmek državni prvak v spidveju",
-    "link": "https://siol.net/sportal/avtomotosport/grmek-drzavni-prvak-v-spidveju-702584",
-    "image": "https://siol.net/media/img/5f/65/6519d679fbe5e9cd0e63.jpeg",
-    "date": 1790589900000
    }
   ],
   "24ur": [
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
-    "title": "Miliband says Britain must play its part in ‘rebuilding’ world order – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/7da4e0e32538b3250067b613b3455eb85f4379b0/538_0_2710_2168/master/2710.jpg?width=140&quality=85&auto=format&fit=max&s=4f4e3cf05dcb1414e06df82302b962d7",
-    "date": 1790591436000,
-    "titleSl": "Miliband pravi, da mora Britanija odigrati svojo vlogo pri \"obnovi\" svetovnega reda – britanska politika v živo"
-   },
-   {
     "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/7043ac1470ca40d57d490760c7fe4f35f5e5d1a1/507_0_4762_3810/master/4762.jpg?width=140&quality=85&auto=format&fit=max&s=3590b79c9269b2e4515a1f5ddeb5cb96",
     "date": 1790591149000,
     "titleSl": "Iran pravi, da se \"ne namerava pogajati z ZDA\" kljub Trumpovim trditvam – ameriška politika v živo"
+   },
+   {
+    "title": "Miliband says Britain must play its part in ‘rebuilding’ world order – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/7da4e0e32538b3250067b613b3455eb85f4379b0/538_0_2710_2168/master/2710.jpg?width=140&quality=85&auto=format&fit=max&s=4f4e3cf05dcb1414e06df82302b962d7",
+    "date": 1790590666000,
+    "titleSl": "Miliband pravi, da mora Britanija odigrati svojo vlogo pri \"obnovi\" svetovnega reda – britanska politika v živo"
    },
    {
     "title": "Larissa Waters steps down as Greens leader due to ill health",
@@ -414,15 +414,22 @@
   ],
   "bild": [
    {
-    "title": "Nach heftiger Pannen-Serie - Wirbel um Bundesliga-Torwart",
-    "link": "https://www.bild.de/sport/fussball/rb-leipzig-nach-irrer-pannen-serie-wirbel-um-bundesliga-torwart-rjan-nyland-6aba23e2d72162f22c33efb1",
-    "image": "https://images.bild.de/6aba23e2d72162f22c33efb1/9db8ffbfcf9843ef0bb5e45bf3013b8d,f7610c44?w=1280",
-    "date": 0
+    "title": "Mission Abschreckung - Polen rüstet sich zum Bollwerk gegen Putin",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/mission-abschreckung-polen-ruestet-sich-zum-bollwerk-gegen-wladimir-putin-6ab816eaa8b3f6fdb1edc4a1",
+    "image": "https://images.bild.de/6ab816eaa8b3f6fdb1edc4a1/f326d380e0c8706a2158d88f7adcfdf7,4d688c84?w=1280",
+    "date": 0,
+    "titleSl": "Poslanstvo Abschreckung - Polen rüstet sich zum Bollwerk gegen Putin"
    },
    {
     "title": "Medienbericht - Spahn gibt Sitz im Haushaltsausschuss ab",
     "link": "https://www.bild.de/politik/medienbericht-spahn-gibt-sitz-im-haushaltsausschuss-ab-6aba40925ddef1bff0d209e6",
     "image": "https://images.bild.de/6aba40925ddef1bff0d209e6/926d781f0aafa46c6bd106f9419de8bf-landscape,418af029?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach heftiger Pannen-Serie - Wirbel um Bundesliga-Torwart",
+    "link": "https://www.bild.de/sport/fussball/rb-leipzig-nach-irrer-pannen-serie-wirbel-um-bundesliga-torwart-rjan-nyland-6aba23e2d72162f22c33efb1",
+    "image": "https://images.bild.de/6aba23e2d72162f22c33efb1/9db8ffbfcf9843ef0bb5e45bf3013b8d,f7610c44?w=1280",
     "date": 0
    },
    {
@@ -442,48 +449,42 @@
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/prinz-harry-amazon-soll-sein-herzensprojekt-retten-6ab9ef60a8b3f6fdb1edd780",
     "image": "https://images.bild.de/6ab9ef60a8b3f6fdb1edd780/038d4cd09712fd8de37c9eab688a8121,1ffa2fdc?w=1280",
     "date": 0
-   },
-   {
-    "title": "Stimmgewaltige Fan-Reaktion - Stadionsprecher-Tochter verkündet Müller-Tor",
-    "link": "https://www.bild.de/sport/fussball/stimmgewaltige-fan-reaktion-stadionsprecher-tochter-verkuendet-mueller-tor-6aba32457c1705c08fd161c5",
-    "image": "https://images.bild.de/6aba32457c1705c08fd161c5/1a6024af7182e2bb89722d11b21fb36e,aabe8a1c?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Fortschritt zu langsam - Bericht offenbart Lücken in Europas Verteidigung",
+    "title": "Fortschritt zu langsam - Bericht offenbart Lücken in Europas Verteidigung - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40R3hmaUNXekVybE9XU1VyYl9rX05KVE5MX3FCMHZ0RmJrTUpjMHB6bU5PanExX1Z4Yy1HMHhIYXhUZw?oc=5",
     "image": "",
     "date": 1790592000000
    },
    {
-    "title": "Spurlos verschwunden - Hubschrauber von Thomas Morgenstern gestohlen",
+    "title": "Spurlos verschwunden - Hubschrauber von Thomas Morgenstern gestohlen - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53ODV3Ni16SE94dzlOaUFmM24yZkY4eS0zMmhQVDZmNkhONTBaQktYRVN3WmUxRGNaWFlnQmZlUnBVUQ?oc=5",
     "image": "",
     "date": 1790591640000
    },
    {
-    "title": "Rote Machtkämpfe - SPÖ-Klubchef hinter Babler, Doskozil gegen Zeiler",
+    "title": "Rote Machtkämpfe - SPÖ-Klubchef hinter Babler, Doskozil gegen Zeiler - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBFLTV1TktxVVJPbFhfSXluS2h3Rl9WX1lpd0ZVTk12QXRvWW9nTFJaamotLTliWGNiMWF1czBtNi1YUQ?oc=5",
     "image": "",
     "date": 1790591520000
    },
    {
-    "title": "SUPERLIGA RUNDE 1 - Rot-goldener Basketball zwischen Krimi & Sensation",
+    "title": "SUPERLIGA RUNDE 1 - Rot-goldener Basketball zwischen Krimi & Sensation - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RMzFfVW5sTkNlMmxCVE43ak5SR0hVb05tWnZ1WHBOYS1YSEhyNDRSSjVja2pvR05IbDZvUGFMNWkyUQ?oc=5",
     "image": "",
     "date": 1790591400000,
-    "titleSl": "SUPERLIGA RUNDE 1 - Rot-goldener Košarka zwischen Krimi & Sensation"
+    "titleSl": "SUPERLIGA RUNDE 1 - Rot-goldener Košarka zwischen Krimi & Sensation - krone.at"
    },
    {
-    "title": "Vor Schloss Schönbrunn - Das gab es noch nie auf österreichischem Boden",
+    "title": "Vor Schloss Schönbrunn - Das gab es noch nie auf österreichischem Boden - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zckZocmg3LWtVVl9PbzlxZzdlRm5FYnlIdksxbzBFd3RoTmp2dEhlbDQ3RFdCN2k2Nk9GUlFrTjRYdw?oc=5",
     "image": "",
     "date": 1790591400000
    },
    {
-    "title": "Endlich ist es soweit - Löwe Kiano zeigt sich erstmals den Besuchern",
+    "title": "Endlich ist es soweit - Löwe Kiano zeigt sich erstmals den Besuchern - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2TlpqLTBGcWZiZGRZVmlXY2ZuU1dqWHowdVhZOVAzWUNGUVVmd2RCMmF0eFE4WS1KbGlTTmNMQ2FhQQ?oc=5",
     "image": "",
     "date": 1790591160000
