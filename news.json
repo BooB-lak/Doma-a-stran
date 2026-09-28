@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T09:01:10.005Z",
+ "generatedAt": "2026-09-28T09:04:27.490Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,18 @@
   ],
   "24ur": [
    {
+    "title": "Voda v treh celjskih studencih okužena z bakterijami",
+    "link": "https://www.24ur.com/novice/slovenija/tri-celjska-vodna-zajetja-okuzena-z-bakterijami.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/5180a11f3e0d0def31b9_63654732.jpg?v=33c5&fop=fp:0.49:0.45",
+    "date": 1790586033000
+   },
+   {
+    "title": "Pri delu v sadovnjaku umrl voznik traktorja",
+    "link": "https://www.24ur.com/novice/crna-kronika/pri-delu-v-sadovnjaku-umrl-voznik-traktorja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/5d2edba8eedbf7d44736_63654724.jpg?v=6588&fop=fp:0.51:0.68",
+    "date": 1790585345000
+   },
+   {
     "title": "Dim v kabini: ameriško letalo zasilno pristalo v Portu",
     "link": "https://www.24ur.com/novice/tujina/dim-v-kabini-amerisko-letalo-zasilno-pristalo-v-portu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2023/b85f8c2e91a5cee30ee8_63110891.jpg?v=83ae&fop=fp:0.49:0.43",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/zato-je-najboljsi-vseh-casov-messijev-prosti-strel-iz-nemogocega-polozaja-spomnil-na-najboljse-case.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/78e4dd0013d8463bc89b_63627970.jpg?v=3e01&fop=fp:0.42:0.25",
     "date": 1790581502000
-   },
-   {
-    "title": "Ameriška vojska naj bi zaključila umik iz Iraka",
-    "link": "https://www.24ur.com/novice/tujina/ameriska-vojska-naj-bi-zakljucila-umik-iz-iraka.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/d9ea23415dec551db2e7_63654680.jpg?v=ba61&fop=fp:0.45:0.37",
-    "date": 1790580633000
-   },
-   {
-    "title": "Namesto vode med odmorom za hidracijo pili pivo in žganje!",
-    "link": "https://www.24ur.com/sport/nogomet/namesto-vode-med-odmorom-za-hidracijo-so-pili-pivo-in-zganje.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/9861c33cf6a2aefbe07c_63654677.jpg?v=a4b6&fop=fp:0.51:0.18",
-    "date": 1790580433000
    }
   ],
   "rtvslo": [
@@ -331,10 +331,17 @@
   ],
   "guardian": [
    {
+    "title": "UK security forces were aware of RAF Fairford suspected bomb plot, says defence secretary",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/28/uk-security-forces-raf-fairford-suspected-bomb-plot-wes-streeting-defence-secretary",
+    "image": "https://i.guim.co.uk/img/media/5745dd31b066663a164baa14b96dc660fc692d08/512_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e9bcb898d216ccc387d71baedc70029c",
+    "date": 1790585235000,
+    "titleSl": "Varnostne sile Združenega kraljestva so vedele za domnevno bombno zaroto RAF Fairford, pravi minister za obrambo"
+   },
+   {
     "title": "RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’",
     "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/b2ced2821ea3ccca7bdff7fefd4c2703cbc16530/503_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e9afda23c7fae15fc7d14f33454cf084",
-    "date": 1790585027000,
+    "date": 1790585133000,
     "titleSl": "Posodobitve RAF Fairford v živo: Ulična vožnja se zahvaljuje kmetovalki, ki je opozorila policijo, vendar pravi, da ima \"delno sliko\""
    },
    {
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/94b6b9331fe3393d2dba8ae844852e1cdb601e8b/212_80_1546_1237/master/1546.jpg?width=140&quality=85&auto=format&fit=max&s=5bbc31792a10e57e2b3b522fc2875888",
     "date": 1790582426000,
     "titleSl": "Antropic se ne bo pojavil na poizvedbi senata o umetni inteligenci in podatkovnih središčih sredi padavin zaradi vdora OpenAI"
-   },
-   {
-    "title": "Avanti West Coast to be renationalised in March",
-    "link": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
-    "image": "https://i.guim.co.uk/img/media/6bf709bd79c853ef446a2f15afc4c7a528084c8e/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=2f28c4bc9156add6b6f6c117b975ed1d",
-    "date": 1790580285000,
-    "titleSl": "Avanti West Coast bo ponovno nacionaliziran marca"
    }
   ],
   "spiegel": [
@@ -452,47 +452,7 @@
     "titleSl": "Überraschende Namen - Blessin-Gesetz macht drei Stars Problemme"
    }
   ],
-  "krone": [
-   {
-    "title": "Runder Tisch geplant - Wiederkehr will Kinder vom Smartphone loseisen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZYVBXTzM4WFduNGttd1VPLTczVExkdEpGenRSUk5OOTVFajhxMXhFbmRnVkpaY0pmV212NS1UUjFEUQ?oc=5",
-    "image": "",
-    "date": 1790586000000,
-    "titleSl": "Runder Tisch geplant - Wiederkehr bo Kinder vom Smartphone loseisen"
-   },
-   {
-    "title": "Lebensfreude gewinnen - Neue Knie, besserer Schlaf",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJR1VaWk9NODB3RzQtZHpJWURTdHZIQTAwN1poM1Q1cUF6Qy13ZjhuZW85WE9CMF9yM3FHMlBHdW4tZw?oc=5",
-    "image": "",
-    "date": 1790586000000
-   },
-   {
-    "title": "ZDF-Doku regt auf - CDUler protzt mit Strandkorb und erntet Shitstorm",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1aDF0SHZHS2xfa3Jpb093REJTaWhDYzhrVXBQRUp5VGlGTERzM3N2b25GcTJXQUgzODliT0RFQndqUQ?oc=5",
-    "image": "",
-    "date": 1790585940000
-   },
-   {
-    "title": "Bilanz 2025 - 103 Millionen Euro: Wohin die Förderungen fließen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GRXNSYU85bG5UR3E4RnQwWXdCM0ZlV3pGVHd3Nk9KMXJMOWRuVE1EcUtjZldhNUhIYjI3WkZIV0NFZw?oc=5",
-    "image": "",
-    "date": 1790585880000,
-    "titleSl": "Bilanz 2025 - 103 milijone evrov: Wohin die Förderungen fließen"
-   },
-   {
-    "title": "„Große Opfer, aber Israel kann uns nicht besiegen“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aQ2RVbHRuOTJwV1V6a2RxS0lFdkt1TGU4bXpRZmZPLUJfenJFYWVIdUlPNHp0X2Z0dTNuUlk5MkJ6dw?oc=5",
-    "image": "",
-    "date": 1790585820000
-   },
-   {
-    "title": "Nach Kontrollverlust - Australien zitiert KI-Konzernbosse vor Ausschuss",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hcnVyWUxJejl0cHZfZ1RPdjYzUzNlb1RJd0dqZlhUR1FPWjlXU0ZCcXBjbTYtZ2dWMlktc1pDVXUxUQ?oc=5",
-    "image": "",
-    "date": 1790585400000,
-    "titleSl": "Nach Kontrollverlust - Avstralien zitiert KI-Konzernbosse vor Ausschuss"
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Media: l&#x27;Egitto avvertì Netanyahu prima del 7 ottobre. Fars: non previsti nuovi colloqui Iran-Usa",
@@ -581,17 +541,23 @@
   ],
   "elpais": [
    {
+    "title": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser “un lunes muy largo” de negociaciones para sacar adelante el decreto",
+    "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/NSYSQS7OCFHA5LDAAI23LAPLBY.jpg?auth=45a707c1f282b55cb97a5a4f887807022c30f51602e9098d7e142085bc97146d",
+    "date": 1790585876000,
+    "titleSl": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser \"un lunes muy largo\" de negociaciones para sacar adelante el decreto"
+   },
+   {
     "title": "La Policía detiene a un hombre por asesinar a su pareja en Benidorm",
     "link": "https://elpais.com/sociedad/2026-09-28/la-policia-investiga-como-posible-crimen-machista-el-asesinato-de-una-mujer-en-benidorm.html",
     "image": "https://imagenes.elpais.com/resizer/v2/IXGT5UHKUJB3RLPMGRSMGDCWGU.jpg?auth=b13a05a9ecbcaecbb0b1e46e4640be972b41c6a55ea77c43cdc8c95fd6ec9128",
     "date": 1790585739000
    },
    {
-    "title": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser “un lunes muy largo” de negociaciones para sacar adelante el decreto",
-    "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/NSYSQS7OCFHA5LDAAI23LAPLBY.jpg?auth=45a707c1f282b55cb97a5a4f887807022c30f51602e9098d7e142085bc97146d",
-    "date": 1790585715000,
-    "titleSl": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser \"un lunes muy largo\" de negociaciones para sacar adelante el decreto"
+    "title": "La ultraderecha francesa de Le Pen consolida en el Senado su avance electoral",
+    "link": "https://elpais.com/internacional/2026-09-28/la-ultraderecha-francesa-de-le-pen-consolida-en-el-senado-su-avance-electoral.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/NP2VYRYF3ZLVLAUC43VTM3NJWE.jpg?auth=cab10ef737752baf00dd3024ec4562b9a7b574f2a8e164c1e37fd7f6bd217c88",
+    "date": 1790585631000
    },
    {
     "title": "Así es el decreto contra los chiringuitos privados de FP: los títulos a distancia tendrán entre un 15% y un 39% de presencialidad",
@@ -600,23 +566,17 @@
     "date": 1790585437000
    },
    {
+    "title": "Pradas y Mompó declaran en el Congreso tras el silencio de Mazón sobre la gestión de la dana",
+    "link": "https://elpais.com/espana/2026-09-28/pradas-y-mompo-declaran-en-el-congreso-tras-el-silencio-de-mazon-sobre-la-gestion-de-la-dana.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ULV6QVN4I5AAFFRYRQSM4AGNKE.jpg?auth=bdbeda2f9c691a41118ade94357291c07a004e7624728e946ebf1e9943157e07",
+    "date": 1790585121000
+   },
+   {
     "title": "China confirma la ampliación de la tregua comercial con Estados Unidos",
     "link": "https://elpais.com/internacional/2026-09-28/china-confirma-la-ampliacion-de-la-tregua-comercial-con-estados-unidos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/GOK3HQRA5FMZVOSFFKANDEKJPU.jpg?auth=47743ce15f7c6458f0940c9cc0d2d25adc99875a1d2faef7fada7b27978e2ce8",
     "date": 1790584748000,
     "titleSl": "Kitajska confirmma la ampliación de la tregua comercial con Estados Unidos"
-   },
-   {
-    "title": "El Reino Unido sospecha que la mano de Irán está detrás del intento de atentado contra una base militar",
-    "link": "https://elpais.com/internacional/2026-09-28/el-reino-unido-sospecha-que-la-mano-de-iran-esta-detras-del-intento-de-atentado-contra-una-base-militar.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/XAQXJLPB4JPNFHKSGRR5TOYA4I.jpg?auth=f7611e388e63db8dbb66c3d793f8b8764ebbb7516d49e069e7d8c4d2738ce43a",
-    "date": 1790584402000
-   },
-   {
-    "title": "Sanidad impulsará que los centros de atención primaria puedan prescribir el aborto farmacológico",
-    "link": "https://elpais.com/sociedad/2026-09-28/sanidad-impulsara-que-los-centros-de-atencion-primaria-puedan-prescribir-el-aborto-farmacologico.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/O5CYNZNMOJD7PHMS7FODQNVOCM.jpg?auth=3f9ad7cb613c41986bfbcdbe8d153fcce6794b60fae444bdf40d240139af792b",
-    "date": 1790583865000
    }
   ]
  },
