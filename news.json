@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T10:58:25.170Z",
+ "generatedAt": "2026-09-28T11:01:08.841Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Three dead, including child, in Channel crossing attempt",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/8294dad0-bb2a-11f1-bc1f-3f186ca4140c.jpg",
+    "date": 1790593170000,
+    "titleSl": "Trije mrtvi, vključno z otrokom, v poskusu prehoda kanala"
+   },
+   {
     "title": "British wrestler Benjamin Satterley, known as Pac, dies aged 40",
     "link": "https://www.bbc.co.uk/news/articles/cmn0749g5gryo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf2/live/eba9bb50-baf1-11f1-92a4-6d81fdc11f0e.jpg",
@@ -262,13 +269,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e7/live/be510740-b9b0-11f1-bc1f-3f186ca4140c.jpg",
     "date": 1790590293000,
     "titleSl": "Norris se Colapintu opravičuje zaradi komentarjev o prepovedi"
-   },
-   {
-    "title": "Three dead, including child, in Channel crossing attempt",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082c/live/f41d93d0-bb21-11f1-97b0-3f86b3abbccc.jpg",
-    "date": 1790589776000,
-    "titleSl": "Trije mrtvi, vključno z otrokom, v poskusu prehoda kanala"
    },
    {
     "title": "UK diesel price hits all-time high, RAC says",
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "„Normales Arbeiten kaum mehr möglich“ - Spahn gibt Sitz im mächtigen Haushaltsausschuss ab",
+    "link": "https://www.bild.de/politik/medienbericht-spahn-gibt-sitz-im-haushaltsausschuss-ab-6aba40925ddef1bff0d209e6",
+    "image": "https://images.bild.de/6aba40925ddef1bff0d209e6/1e8c43bb7bb54c83230f9cf6c52409ca,b982717f?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Reisewarnungen wegen Sturmflut - Herbststurm wütet an US-Küste",
+    "link": "https://www.bild.de/news/ausland/reisewarnungen-wegen-sturmflut-herbststurm-wuetet-an-us-kueste-6ab82a2218772248192d62d0",
+    "image": "https://images.bild.de/6ab82a2218772248192d62d0/4d5612684902a49e08a15ed9195ecab9,7c97a3c4?w=1280",
+    "date": 0
+   },
+   {
     "title": "Verrückte Szene beim Eishockey - Hier fällt ein Tor ohne Tor",
     "link": "https://www.bild.de/sport/mehr-sport/eishockey-tor-ohne-tor-verrueckte-szene-in-der-del2-6aba163191ba8039e9c3d540",
     "image": "https://images.bild.de/6aba163191ba8039e9c3d540/f911447fb5b088999f310a116797877a,2e369693?w=1280",
@@ -427,12 +439,6 @@
     "titleSl": "Auf falsche Werte gesetzt? - Torej schaffen es auch Pechvögel zum 200.000-Euro-Depot"
    },
    {
-    "title": "„Normales Arbeiten kaum mehr möglich“ - Spahn gibt Sitz im mächtigen Haushaltsausschuss ab",
-    "link": "https://www.bild.de/politik/medienbericht-spahn-gibt-sitz-im-haushaltsausschuss-ab-6aba40925ddef1bff0d209e6",
-    "image": "https://images.bild.de/6aba40925ddef1bff0d209e6/1e8c43bb7bb54c83230f9cf6c52409ca,b982717f?w=1280",
-    "date": 0
-   },
-   {
     "title": "Schon gefahren! - So gut ist der neue ID.Tiguan",
     "link": "https://www.bild.de/leben-wissen/auto/id-tiguan-premiere-mit-299-ps-und-allrad-6aba3cc05ddef1bff0d20949",
     "image": "https://images.bild.de/6aba3cc05ddef1bff0d20949/5c1c957dc807121d05b263da456ada4c,3fae0483?w=1280",
@@ -442,12 +448,6 @@
     "title": "Großrazzia bei der Camorra in Neapel - So mauert die Mafia ihr Geld ein",
     "link": "https://www.bild.de/news/ausland/grossrazzia-bei-der-camorra-in-neapel-so-mauert-die-mafia-ihr-geld-ein-6ab4c25f00e7c28dffa213ee",
     "image": "https://images.bild.de/6ab4c25f00e7c28dffa213ee/44108dc376cb85e2f319ca38925ff680,9856af95?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Immer wieder im TV zu hören - Brüll-Rätsel um Adeyemi",
-    "link": "https://www.bild.de/sport/fussball/karim-adeyemi-bruell-raetsel-bei-deutschland-pleite-6aba32bbd9cc0d20fc9782c5",
-    "image": "https://images.bild.de/6aba32bbd9cc0d20fc9782c5/cd50c1684dc7e22b8c519a3104730d29,48e19126?w=1280",
     "date": 0
    }
   ],
@@ -582,20 +582,20 @@
     "title": "Acampada en Sol por la vivienda, en directo | Sumar advierte que el acuerdo “aún está lejos”",
     "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/NSYSQS7OCFHA5LDAAI23LAPLBY.jpg?auth=45a707c1f282b55cb97a5a4f887807022c30f51602e9098d7e142085bc97146d",
-    "date": 1790592856000
-   },
-   {
-    "title": "“Mi equipo sín contesta a los emails”: Sabrina Carpenter defiende a sus trabajadores frente a Madonna",
-    "link": "https://elpais.com/smoda/placeres/2026-09-28/mi-equipo-sin-contesta-a-los-emails-sabrina-carpenter-defiende-a-sus-trabajadores-frente-a-madonna.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/Z3TMTVAUKFE7HHSMPZSB7O43QY.jpg?auth=3b0fc273e0f59a875477b5b38abfef6a6d403124a35bd6acac900a7fab443686",
-    "date": 1790592849000,
-    "titleSl": "\"Mi equipo sín contesta a los emails\": Sabrina Carpenter defiende a sus trabajadores frente a Madonna"
+    "date": 1790593262000
    },
    {
     "title": "El delegado del Gobierno en Ceuta dimite de su cargo y abandona la política",
     "link": "https://elpais.com/espana/2026-09-28/el-gobierno-ultima-el-cese-del-delegado-del-gobierno-en-ceuta.html",
     "image": "https://imagenes.elpais.com/resizer/v2/XN4R6RBAOFFLVIOFZOCUHIDLLQ.jpg?auth=f2727cf743facda9a9d70abe934e36307bf0015096f7054eb5f1d9b8fae03117",
-    "date": 1790592545000
+    "date": 1790593131000
+   },
+   {
+    "title": "“Mi equipo sí contesta a los emails”: Sabrina Carpenter defiende a sus trabajadores frente a Madonna",
+    "link": "https://elpais.com/smoda/placeres/2026-09-28/mi-equipo-sin-contesta-a-los-emails-sabrina-carpenter-defiende-a-sus-trabajadores-frente-a-madonna.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/Z3TMTVAUKFE7HHSMPZSB7O43QY.jpg?auth=3b0fc273e0f59a875477b5b38abfef6a6d403124a35bd6acac900a7fab443686",
+    "date": 1790592849000,
+    "titleSl": "\"Mi equipo sí contesta a los emails\": Sabrina Carpenter defiende a sus trabajadores frente a Madonna"
    },
    {
     "title": "Así es el decreto contra los chiringuitos privados de FP: los títulos online tendrán un máximo de 50 alumnos por profesor",
