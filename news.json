@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T13:12:28.313Z",
+ "generatedAt": "2026-09-29T13:14:26.669Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Prihaja električni tiguan: prvi podatki so že znani",
+    "link": "https://www.zurnal24.si/avto/na-strom/prihaja-elektricni-tiguan-prvi-podatki-so-ze-znani-465873",
+    "image": "https://www.zurnal24.si/media/img/5d/1a/a0820204aae81f2204ce.jpeg",
+    "date": 1790687557000
+   },
+   {
     "title": "Nov zaplet za poslanca Mijiča, po podjetju je udaril Furs",
     "link": "https://www.zurnal24.si/slovenija/nov-zaplet-za-poslanca-mijica-po-podjetju-je-udaril-furs-465907",
     "image": "https://www.zurnal24.si/media/img/51/f4/db097db6bbad03019148.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/slovenska-odbojkarska-asa-tine-urnaut-alen-pajenk-dosegla-izjemen-zgodovinski-mejnikep-odbojka-cev-465902",
     "image": "https://www.zurnal24.si/media/img/e4/98/95306ee8ec7cd3eaee1f.jpeg",
     "date": 1790682420000
-   },
-   {
-    "title": "Učenec z nožem napadel sošolce in dve učiteljici, ena je umrla",
-    "link": "https://www.zurnal24.si/svet/grozljivo-ucenec-z-nozem-napadel-sosolce-in-dve-uciteljici-ena-je-umrla-465897",
-    "image": "https://www.zurnal24.si/media/img/6d/c5/d53cf360fccc7bfdcd8e.jpeg",
-    "date": 1790678700000
    }
   ],
   "reuters": [
@@ -414,15 +414,21 @@
   ],
   "bild": [
    {
-    "title": "Kimmich abgereist - Wer wird jetzt neuer DFB-Kapitän?",
-    "link": "https://www.bild.de/sport/fussball/kimmich-abgereist-wer-wird-jetzt-neuer-dfb-kapitaen-6abbb06d4b6805f784a0ac2c",
-    "image": "https://images.bild.de/6abbb06d4b6805f784a0ac2c/d889e4f118d4f1a88e5c63a664ed2bd9-landscape,eace06a7?w=1280",
-    "date": 0
-   },
-   {
     "title": "Eilmeldung - AfD-Wahlsieger Siegmund: Stelle mich im Dezember zur Wahl",
     "link": "https://www.bild.de/politik/eilmeldung-afd-wahlsieger-siegmund-stelle-mich-im-dezember-zur-wahl-6abbb15f4b6805f784a0ac4f",
     "image": "https://images.bild.de/6abbb15f4b6805f784a0ac4f/06484bc650179ba3a9fb9a2c1b01c895,2e33830c?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Europa für 5,31 Euro am Tag - Diese Reise-Deals sind morgen Abend weg",
+    "link": "https://www.bild.de/leben-wissen/sparfochs/europa-fuer-5-31-euro-am-tag-diese-reise-deals-sind-morgen-abend-weg-6abb858a1e377c5785c68774",
+    "image": "https://images.bild.de/6abb858a1e377c5785c68774/15cb42632544f753b5606f9db71d7614,e647f3b1?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Kimmich abgereist - Wer wird jetzt neuer DFB-Kapitän?",
+    "link": "https://www.bild.de/sport/fussball/kimmich-abgereist-wer-wird-jetzt-neuer-dfb-kapitaen-6abbb06d4b6805f784a0ac2c",
+    "image": "https://images.bild.de/6abbb06d4b6805f784a0ac2c/d889e4f118d4f1a88e5c63a664ed2bd9-landscape,eace06a7?w=1280",
     "date": 0
    },
    {
@@ -441,12 +447,6 @@
     "title": "Nach Entfristungsklage - Traditionsklub einigt sich mit gefeuerten Aufstiegstrainer",
     "link": "https://www.bild.de/sport/fussball/wirbel-um-entfristungsklage-traditionsklub-einigt-sich-mit-ex-trainer-6abbac0b4b6805f784a0ab83",
     "image": "https://images.bild.de/6abbac0b4b6805f784a0ab83/28637ae37ed351186cbe613bd95a7710,a527029a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Verhaltensänderung - Hat Ihre Katze Langeweile? Diese Signale zeigen es",
-    "link": "https://www.bild.de/leben-wissen/haustiere/katze-miaut-ploetzlich-staendig-dahinter-kann-langeweile-stecken-6ab511f728f1ab3938cfb1b0",
-    "image": "https://images.bild.de/6ab511f728f1ab3938cfb1b0/0a4ba2b9a2838aca1e85b5259017feeb-landscape,b915e54e?w=1280",
     "date": 0
    }
   ],
@@ -577,7 +577,7 @@
     "title": "Acampada en Sol por la vivienda, en directo | La ministra admite la dificultad de aprobar el decreto de renovación de alquileres",
     "link": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/U6DUYNBNWVDGHOQCSJPB33TYAE.JPG?auth=0f62ef3551641545ec0b68f2cc5867287d59fc050d10179d157d5e44b95aaf95",
-    "date": 1790687170000
+    "date": 1790687505000
    },
    {
     "title": "Pilar Albarracín, premio Nacional de Artes Plásticas 2026",
@@ -594,7 +594,7 @@
    {
     "title": "Las medidas del acuerdo sobre vivienda: ampliación hasta 2030 de la protección frente a los desahucios y prórroga de dos años de los alquileres",
     "link": "https://elpais.com/economia/vivienda/2026-09-29/las-medidas-de-vivienda-del-acuerdo-ampliacion-hasta-2030-de-la-proteccion-frente-a-los-desahucios-y-prorroga-dos-anos-de-los-alquileres.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/M7NRWAMRIJMOLIRGL6X44NFLUE.jpg?auth=4d791da13b8c43d4060607fafc7ffbcca3f5dd6ad466e08ff910da8e49fdab19",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260929/1219826_130610_video_1800.mp4",
     "date": 1790686143000
    },
    {
