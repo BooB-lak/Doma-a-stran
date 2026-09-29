@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-29T13:38:28.902Z",
+ "generatedAt": "2026-09-29T13:40:41.951Z",
  "sources": {
   "siol": [
+   {
+    "title": "Nato zavrnil ruske obtožbe o eskalaciji pri Kaliningradu",
+    "link": "https://siol.net/novice/svet/nato-zavrnil-ruske-obtozbe-o-eskalaciji-pri-kaliningradu-702725",
+    "image": "https://siol.net/media/img/ba/gb/50700a69bac49df78ee5.jpeg",
+    "date": 1790689200000
+   },
    {
     "title": "Vrtovec po prometnem kaosu na Obali opozarja na težave z dovoljenji",
     "link": "https://siol.net/novice/slovenija/vrtovec-po-prometnem-kaosu-na-obali-opozarja-na-tezave-z-dovoljenji-702723",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/horoskop/pustite-jim-dihati-ti-znaki-horoskopa-ob-ljubosumju-hitro-pobegnejo-701966",
     "image": "https://siol.net/media/img/a3/2a/9bfd0d2d63fcc34cdef3.jpeg",
     "date": 1790686740000
-   },
-   {
-    "title": "Bo vendarle konec dolgega čakanja Slovenije?",
-    "link": "https://siol.net/sportal/nogomet/liga-narodov-drugi-krog-torek-702709",
-    "image": "https://siol.net/media/img/dc/38/0ad41a5e98d6e1229bd4.jpeg",
-    "date": 1790685780000
    }
   ],
   "24ur": [
@@ -331,18 +331,39 @@
   ],
   "guardian": [
    {
-    "title": "News organizations barred from White House by Trump ask federal court to block ban until case is resolved – US politics live",
+    "title": "Former special prosecutor Jack Smith faces questions at Capitol Hill hearing – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/99e24547de662361c409ab429d63696ff9d068a1/545_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=5310945244ea01a16cebc9d4c8e2181f",
-    "date": 1790688019000,
-    "titleSl": "Novinarske organizacije, ki jim je Trump prepovedal vstop v Belo hišo, prosijo zvezno sodišče, naj blokira prepoved, dokler primer ni rešen – ameriška politika v živo"
+    "image": "https://i.guim.co.uk/img/media/2cc9738f26c09e482146991d2eafe75dc7e4475c/72_0_2441_1953/master/2441.jpg?width=140&quality=85&auto=format&fit=max&s=f3573d3974683093e367599325624dbf",
+    "date": 1790688902000,
+    "titleSl": "Nekdanji posebni tožilec Jack Smith se sooča z vprašanji na zaslišanju na Capitol Hillu – ameriška politika v živo"
    },
    {
-    "title": "Burnham says ‘Britain been on wrong path for long time’ in first speech to party conference as PM – UK politics live",
+    "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/569e32f5018215bc2d4682ad4d78565135a78cc0/727_0_5120_4096/master/5120.jpg?width=140&quality=85&auto=format&fit=max&s=30f767c74f6a6d413cb695189f3b4145",
+    "date": 1790688883000,
+    "titleSl": "\"Ne bomo ustrahovani,\" pravi estonski premier, potem ko je nedavni požig pripisal Rusiji - Evropa v živo"
+   },
+   {
+    "title": "Burnham says ‘Britain has been on wrong path for long time’ in first speech to party conference as PM – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/f8807975d6b8d48261ab68f32394e5cea6af6b2c/463_0_3913_3131/master/3913.jpg?width=140&quality=85&auto=format&fit=max&s=6ed61f9e890e18479fc3ca95ba5e87e6",
-    "date": 1790687972000,
+    "date": 1790688821000,
     "titleSl": "Burnham pravi, da je \"Britanija že dolgo na napačni poti\" v prvem govoru na konferenci stranke kot premier – britanska politika v živo"
+   },
+   {
+    "title": "New English homes in flood-risk areas could become uninsurable, says Aviva boss",
+    "link": "https://www.theguardian.com/business/2026/sep/29/new-uk-homes-flood-risk-areas-insurance-aviva-amanda-blanc-budget",
+    "image": "https://i.guim.co.uk/img/media/cefd26c78fd6cd56e639a5fccc588a3ed7dcbb05/195_0_2884_2308/master/2884.jpg?width=140&quality=85&auto=format&fit=max&s=53d81191513c1ff48ba55d07e79279e7",
+    "date": 1790688771000,
+    "titleSl": "Nova angleška prenočišča na poplavno ogroženih območjih bi lahko postala nezavarovana, pravi Aviva Boss"
+   },
+   {
+    "title": "RAF Fairford: Rubio says ‘foreign actor’ behind suspected plot as some evacuated residents begin to return home – latest updates",
+    "link": "https://www.theguardian.com/uk-news/live/2026/sep/29/raf-fairford-counter-terror-suspected-plot-iran-donald-trump-marco-rubio-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/641cdb2dd31f8c587e4203d4696932cdd417fce8/416_0_3179_2544/master/3179.jpg?width=140&quality=85&auto=format&fit=max&s=2721a36ab0b8986f796e2296e7093fea",
+    "date": 1790688574000,
+    "titleSl": "RAF Fairford: Rubio pravi, da \"tuji igralec\" stoji za sumljivo zaroto, ko se nekateri evakuirani prebivalci začnejo vračati domov – najnovejše posodobitve"
    },
    {
     "title": "UK mortgage demand drops to 32-month low as Iran war drives up borrowing costs",
@@ -350,27 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/f257e3430a7393ebdc20637ea637e3568fcde384/687_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=06200cb52faaadf59c0b73301439394c",
     "date": 1790687503000,
     "titleSl": "Povpraševanje po hipotekah v Združenem kraljestvu pade na 32-mesečno najnižjo raven, saj vojna v Iranu povečuje stroške zad"
-   },
-   {
-    "title": "RAF Fairford: Rubio says ‘foreign actor’ behind suspected plot as some evacuated residents begin to return home – latest updates",
-    "link": "https://www.theguardian.com/uk-news/live/2026/sep/29/raf-fairford-counter-terror-suspected-plot-iran-donald-trump-marco-rubio-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/641cdb2dd31f8c587e4203d4696932cdd417fce8/416_0_3179_2544/master/3179.jpg?width=140&quality=85&auto=format&fit=max&s=2721a36ab0b8986f796e2296e7093fea",
-    "date": 1790686963000,
-    "titleSl": "RAF Fairford: Rubio pravi, da \"tuji igralec\" stoji za sumljivo zaroto, ko se nekateri evakuirani prebivalci začnejo vračati domov – najnovejše posodobitve"
-   },
-   {
-    "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/569e32f5018215bc2d4682ad4d78565135a78cc0/727_0_5120_4096/master/5120.jpg?width=140&quality=85&auto=format&fit=max&s=30f767c74f6a6d413cb695189f3b4145",
-    "date": 1790686780000,
-    "titleSl": "\"Ne bomo ustrahovani,\" pravi estonski premier, potem ko je nedavni požig pripisal Rusiji - Evropa v živo"
-   },
-   {
-    "title": "Officials investigate possible new ransom note in Nancy Guthrie case",
-    "link": "https://www.theguardian.com/us-news/2026/sep/29/nancy-guthrie-possible-new-ransom-note",
-    "image": "https://i.guim.co.uk/img/media/c16e9311e64139fbd05ffb04eb27c7cd399c831f/754_0_7544_6035/master/7544.jpg?width=140&quality=85&auto=format&fit=max&s=2cd7a01bb30cf7923c0ce29bda945c36",
-    "date": 1790684790000,
-    "titleSl": "Uradniki preiskujejo morebitno novo zahtevo za odkupnino v primeru Nancy Guthrie"
    }
   ],
   "spiegel": [
@@ -417,6 +417,31 @@
   ],
   "bild": [
    {
+    "title": "Er spielte mit Götze und ter Stegen - Leipziger Fußball-Export fordert Lok im Pokal",
+    "link": "https://www.bild.de/sport/fussball/er-spielte-mit-goetze-und-ter-stegen-leipziger-fussball-export-fordert-lok-im-pokal-6aba561bd72162f22c33f4ce",
+    "image": "https://images.bild.de/6aba561bd72162f22c33f4ce/c5482da1ca1cc298253c0be0f28a3cac,f1ec2522?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Gebrauchtwagen: Team 5 Liter - Zehn Spritsparer bis 10.000 Euro",
+    "link": "https://www.bild.de/leben-wissen/auto/sparsame-gebrauchtwagen-diese-10-autos-brauchen-hoechstens-5-5-liter-6ab4fcad69610b25688bdabb",
+    "image": "https://images.bild.de/6ab4fcad69610b25688bdabb/6b8d4c37a72a2a586cb149b80cef7aa8,a9b8d83f?w=1280",
+    "date": 0,
+    "titleSl": "Gebrauchtwagen: Ekipa 5 litrov - Zehn Spritsparer bis 10.000 evrov"
+   },
+   {
+    "title": "„Peinlich!“ ++ „Unterirdisch!“ ++ „Armutszeugnis!“ - Ralf Schumacher rechnet mit Horner ab!",
+    "link": "https://www.bild.de/sport/mehr-sport/ralf-schumacher-heftige-abrechnung-mit-christian-horner-6abb990d7efe762b03ba1d8f",
+    "image": "https://images.bild.de/6abb990d7efe762b03ba1d8f/919719dec86824087618b47469f0147f,ec5e06?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Dritter in der Liga - Das sind die Gewinner des Freiburg-Starts",
+    "link": "https://www.bild.de/sport/fussball/sc-freiburg-das-sind-die-gewinner-des-saisonstarts-6abb86ad3da2dbd714a9fa93",
+    "image": "https://images.bild.de/6abb86ad3da2dbd714a9fa93/de6ee7223732642b61448dcc3a7d6500,9155b3df?w=1280",
+    "date": 0
+   },
+   {
     "title": "Vorschau vom 29. September 2026 - So wird die neue Folge „In aller Freundschaft“",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/in-aller-freundschaft-heute-petra-trifft-riskante-entscheidung-6abb9fce1e377c5785c68a83",
     "image": "https://images.bild.de/6abb9fce1e377c5785c68a83/db5075ab667c4e4d70cdc5a9f488de55,6b499f2d?w=1280",
@@ -428,69 +453,45 @@
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/sommerhaus-der-stars-alkohol-eklat-6abba2307b7bae3cae23fe8a",
     "image": "https://images.bild.de/6abba2307b7bae3cae23fe8a/16ebc4ef0118afcb0c770950ab266dbc,1c744a48?w=1280",
     "date": 0
-   },
-   {
-    "title": "Wie entscheidet Thioune? - Zwei Werder-Stars müssen zittern",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-zwei-stars-muessen-zittern-wie-entscheidet-trainer-thioune-6abb86257b7bae3cae23fb64",
-    "image": "https://images.bild.de/6abb86257b7bae3cae23fb64/28372b57dd9d98f7c4a5502686f67843,e5181934?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Wie geht es bei der Bayern-Legende weiter? - Zukunfts-Entscheidung bei Müller gefallen",
-    "link": "https://www.bild.de/sport/fussball/vertragsentscheidung-um-thomas-mueller-in-vancouver-gefallen-6abaa7ff941a33c71f70701f",
-    "image": "https://images.bild.de/6abaa7ff941a33c71f70701f/fb8294abdff9564e3e3ffe5390448f4d,b25f5dc6?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Eilmeldung - AfD-Wahlsieger Siegmund: Stelle mich im Dezember zur Wahl",
-    "link": "https://www.bild.de/politik/eilmeldung-afd-wahlsieger-siegmund-stelle-mich-im-dezember-zur-wahl-6abbb15f4b6805f784a0ac4f",
-    "image": "https://images.bild.de/6abbb15f4b6805f784a0ac4f/06484bc650179ba3a9fb9a2c1b01c895,2e33830c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Pixel-Smartphones gestört - Google-Panne bremst Bezahlen per Handy aus",
-    "link": "https://www.bild.de/leben-wissen/digital/pixel-smartphones-gestoert-google-panne-bremst-bezahlen-per-handy-aus-6abbb3d372f1dd17be2d3043",
-    "image": "https://images.bild.de/6abbb3d372f1dd17be2d3043/ff69391123a2cd416355ed813157acdd-landscape,a5ed1b59?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Etliche Wochen out! - Salzburg-Kapitän Veratschnig mit Glück im Unglück",
+    "title": "Doppel-Aus im ÖFB-Team ++ Darts-Legende ist zurück - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15bVJodzBiWVc5dkFKalN0aHVzcjN2Szl6SmRJd2FBa29sWFZIYmZmU0lzNDJxeUFWMHFTM3lPdlZVZw?oc=5",
+    "image": "",
+    "date": 1790689140000
+   },
+   {
+    "title": "„California High School“-Star Dennis Haskins tot - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaNVJPaklNdjItV09zemUyMzU5WUl6WlhKSWhhUmxkRFBNWWl4RTNDaWJkSld1QWg1YWtyU3FmYWhOZw?oc=5",
+    "image": "",
+    "date": 1790689140000
+   },
+   {
+    "title": "Etliche Wochen out! - Salzburg-Kapitän Veratschnig mit Glück im Unglück - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jYjl6NkZjMU4zMWYtMF9ZaW1yV2p0UWRESHhXaWF6OTdLVzFBejU4RmNSZVVXSjBxYjR5UzRkVUxWUQ?oc=5",
     "image": "",
     "date": 1790688600000
    },
    {
-    "title": "„Beispiellos!“ - Mark Keller lobt Abnehm-Erfolg von Martina Reuter",
+    "title": "„Beispiellos!“ - Mark Keller lobt Abnehm-Erfolg von Martina Reuter - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xVVhPTFU2VVZld3hvcndQZjc3dTdYZTVoSW5wYkZyYW9GVGp5ZVhkUm1paWppb2J0ZTh0ZE1GYXF5UQ?oc=5",
     "image": "",
     "date": 1790688360000
    },
    {
-    "title": "Tochter postet Foto - Ganz viel Liebe für demenzkranken Bruce Willis!",
+    "title": "Tochter postet Foto - Ganz viel Liebe für demenzkranken Bruce Willis! - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXUG0ycVAyajEwS0toeFRZZ0ItVTJJdnhoci15WEtuWFpDX3FxY0J1elkySVJIeFI5MV93RUJJRjlkZw?oc=5",
     "image": "",
     "date": 1790688360000
    },
    {
-    "title": "Das ist Sturms Plan - 15-Millionen-Mann? „Dann muss man darauf eingehen“",
+    "title": "Das ist Sturms Plan - 15-Millionen-Mann? „Dann muss man darauf eingehen“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyZzhtUTdVLWY2WXF4ZTJCdWN2RkJQZ2ZnemdGZUpYZlRYNzBLNFhTMXhJZEMxODBGaVJZWExhLWJOUQ?oc=5",
     "image": "",
     "date": 1790687340000,
-    "titleSl": "Načrt Das ist Sturms - 15-Millionen-Mann? „Dann muss man darauf eingehen“"
-   },
-   {
-    "title": "Leitung durchtrennt - Missgeschick führte zu Hauptbahnhof-Evakuierung",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4VnlQNGJWeWQ2emZrS1pncHVMRU41MGlHOGlMbFZlMDE0OHY0VnFBaWIxdGtBVy1QeDcwRVVXcExZZw?oc=5",
-    "image": "",
-    "date": 1790687220000
-   },
-   {
-    "title": "Schwere Vorwürfe - Razzien und Festnahmen bei Schiedsrichtern",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5TblJReW91ay1vRDc5aUNYLXZGU3gyOFpmS0M5NlEwVlNjRGI2T2RSYVo2eFFNV1d0VF81ZHJLYVBKZw?oc=5",
-    "image": "",
-    "date": 1790687100000
+    "titleSl": "Načrt Das ist Sturms - 15-Millionen-Mann? „Dann muss man darauf eingehen“ - krone.at"
    }
   ],
   "rainews": [
@@ -576,6 +577,18 @@
   ],
   "elpais": [
    {
+    "title": "El Supremo rechaza la demanda de Julio Iglesias contra Yolanda Díaz por falta de competencia",
+    "link": "https://elpais.com/sociedad/2026-09-29/el-supremo-rechaza-la-demanda-de-julio-iglesias-contra-yolanda-diaz-por-falta-de-competencia.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/KKEAC3Q4C5MFXBHYBU4C3X5EGI.jpg?auth=8f6d453c90ee92b7aca416aa8f1eeb6850a95531ef655bde6f4128b28720a153",
+    "date": 1790688856000
+   },
+   {
+    "title": "Poco a poco, Davidovich se quita el mal fario: segundo trofeo del año, esta vez en Chengdú",
+    "link": "https://elpais.com/deportes/tenis/2026-09-29/poco-a-poco-davidovich-se-quita-el-mal-fario-segundo-trofeo-del-ano-esta-vez-en-chengdu.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/OT4WLOQ7KJFVJLHMYB2FZMLRHY.jpg?auth=ce82e82b5671415cb250f1d201c8a0866e66e2cce4f27c31c10caa27b4e92090",
+    "date": 1790688751000
+   },
+   {
     "title": "Acampada en Sol por la vivienda, en directo | La ministra admite la dificultad de aprobar el decreto de renovación de alquileres",
     "link": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/U6DUYNBNWVDGHOQCSJPB33TYAE.JPG?auth=0f62ef3551641545ec0b68f2cc5867287d59fc050d10179d157d5e44b95aaf95",
@@ -598,18 +611,6 @@
     "link": "https://elpais.com/internacional/2026-09-29/claves-de-fairford-que-se-sabe-del-supuesto-plan-de-atentado-contra-la-base-en-reino-unido.html",
     "image": "https://imagenes.elpais.com/resizer/v2/AJJFAQBLKBK4TAMSTM4F437SMA.jpg?auth=a6718b0b9283f11321ef8d852c149d74a723d775da72837707227fca088ea26e",
     "date": 1790687559000
-   },
-   {
-    "title": "Pilar Albarracín, premio Nacional de Artes Plásticas 2026",
-    "link": "https://elpais.com/cultura/2026-09-29/pilar-albarracin-premio-nacional-de-artes-plasticas-2026.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6HDTYML6UFA4VF3GC63NF6OFFY.jpg?auth=fbeac35b29b5655398e55bfd278d66ab63e527c40172a805e805201c8164ee76",
-    "date": 1790687109000
-   },
-   {
-    "title": "Muere Dennis Haskins, el director Belding de ‘Salvados por la campana’, a los 75 años",
-    "link": "https://elpais.com/television/series/2026-09-29/muere-dennis-haskins-el-director-belding-de-salvados-por-la-campana-a-los-75-anos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/PIYLAKWBEVHUBIGCU6U4BMLNQQ.jpg?auth=f3890c781864b72229ec705ef3894f3b31c0f47237cd2694ee0dbb3e966ea398",
-    "date": 1790686607000
    }
   ]
  },
