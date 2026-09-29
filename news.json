@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T21:06:30.072Z",
+ "generatedAt": "2026-09-29T21:08:26.399Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Cevc: Srčno-žilne bolezni so trenutno vodilni vzrok smrti. Ključna je preventiva.",
+    "link": "https://www.rtvslo.si/zdravje/cevc-srcno-zilne-bolezni-so-trenutno-vodilni-vzrok-smrti-kljucna-je-preventiva/795320",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108324.jpg",
+    "date": 1790716060000
+   },
+   {
     "title": "Španci na krilih Yamala do zanesljive zmage nad Hrvati",
     "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/spanci-na-krilih-yamala-do-zanesljive-zmage-nad-hrvati/795316",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108306.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/dediscina/vstop-v-nacionalne-muzeje-zdruzenega-kraljestva-ostaja-prost-za-vse-kakor-velja-ze-25-let/795311",
     "image": "https://img.rtvcdn.si/_up/upload/2020/01/27/65651806.jpg",
     "date": 1790710276000
-   },
-   {
-    "title": "V Kopru kratkoročno oddajanje nepremičnin določili pri maksimumu, ki ga dopušča zakon",
-    "link": "https://www.rtvslo.si/lokalne-novice/primorje/v-kopru-kratkorocno-oddajanje-nepremicnin-dolocili-pri-maksimumu-ki-ga-dopusca-zakon/795314",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108304.jpg",
-    "date": 1790710220000
    }
   ],
   "zurnal": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-    "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abc082a-1790707754.jpg?resize=1920%2C1440",
-    "date": 1790714914000,
-    "titleSl": "ZDA sankcionirajo 10 subjektov zaradi domnevne podpore iranski vojski"
-   },
-   {
     "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
     "link": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abbcf06-1790693126.jpg?resize=1920%2C1440",
@@ -327,22 +320,29 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790708258.jpg?resize=1620%2C1080&quality=80",
     "date": 1790708272000,
     "titleSl": "Prebivalci Madrida občutijo posledice stanovanjske krize v Španiji"
+   },
+   {
+    "title": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/16-9-1790707869.jpg?resize=1920%2C1080&quality=80",
+    "date": 1790707890000,
+    "titleSl": "Jerusalem Daily: Izraelski častilci napadajo Palestinca"
    }
   ],
   "guardian": [
    {
-    "title": "Australia news live: Home Affairs orders ‘rapid’ stocktake of government cyber-systems after OpenAI hack",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/8007b60b1e387a16da7a334789bae1dd8b761d83/626_0_6259_5010/master/6259.jpg?width=140&quality=85&auto=format&fit=max&s=ac74664f8902fa128c02a471af238fc1",
-    "date": 1790714964000,
-    "titleSl": "Avstralske novice V živo: Notranje zadeve naročajo \"hiter\" pregled vladnih kibernetskih sistemov po vdoru OpenAI"
-   },
-   {
     "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/8c3c9bf044f86b5634e02ff865c702e30427298c/276_0_4408_3527/master/4408.jpg?width=140&quality=85&auto=format&fit=max&s=81bf9a3130294254e76819d404b1bafa",
-    "date": 1790714862000,
+    "date": 1790715860000,
     "titleSl": "Vrhovno sodišče dovoli Trumpu začasno nadaljevanje deportacije ljudi v tretje države – v živo"
+   },
+   {
+    "title": "Australia news live: Home Affairs orders ‘rapid’ stocktake of government cyber-systems after OpenAI hack",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/8007b60b1e387a16da7a334789bae1dd8b761d83/626_0_6259_5010/master/6259.jpg?width=140&quality=85&auto=format&fit=max&s=ac74664f8902fa128c02a471af238fc1",
+    "date": 1790715761000,
+    "titleSl": "Avstralske novice V živo: Notranje zadeve naročajo \"hiter\" pregled vladnih kibernetskih sistemov po vdoru OpenAI"
    },
    {
     "title": "US supreme court allows Trump officials to resume deportations to third countries",
@@ -450,44 +450,7 @@
     "date": 0
    }
   ],
-  "krone": [
-   {
-    "title": "Hassverbrechen steigen - New York hat große Probleme mit Antisemitismus",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ScFhtT0JJNzdfX0hidG5yY1IySE9pX1hhc3RsYXNkczVySV94OWFTM2RyN1BxNnhZYjhtUmJRcnR5dw?oc=5",
-    "image": "",
-    "date": 1790715060000
-   },
-   {
-    "title": "Frontal-Attacke - Ceferin vergleicht Infantino mit Märchen-Kaiser",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9EUDJiZmxTNWJHaVo3c0hUNWsyeWVhdUVwYk9uNXB0eHVpdUl6WlI0MHRmaXk2OEg3V0xINmNYYW1IQQ?oc=5",
-    "image": "",
-    "date": 1790715000000
-   },
-   {
-    "title": "Mediziner angeklagt - Manager nach Zecken-Therapie in Lebensgefahr",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UblBKeVVXM05RU291ZmlqbmxuUjNBSzVGRXJZNUhVU1RMNTdjQ0s5bWlhSmJad2lsZDByOHIydFNPUQ?oc=5",
-    "image": "",
-    "date": 1790713800000
-   },
-   {
-    "title": "Einzementierter Babler | Keine bekömmliche Suppe",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE11a18tdHZlREpqS1o5LXZ5QXVyZFdxcHdUc09namZ6eDEzYnRNWFlqMjdnSTFlZDVDdmVsSDdCLU5tZw?oc=5",
-    "image": "",
-    "date": 1790712000000
-   },
-   {
-    "title": "Kuchl siegt vom Punkt - Titelverteidiger scheidet vorzeitig im Cup aus",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5SNXYwWTdOYVQ1WlMyU1NsMjhpVThwRHRFQkc2TjFRSWNLdkVaSU9HTmtjYXhaeU9WS2FQVHVxSmhEQQ?oc=5",
-    "image": "",
-    "date": 1790711160000
-   },
-   {
-    "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FeHlVa1BhaGlCLXBiRWJiQjRDSlc2dUhEZC1FaldBOWY1X2lzdzFnYXFwTzZYaFdvcTVHaDlGNEYzcmg2NjlKNnRud0Vnel9BR3BrX05DQQ?oc=5",
-    "image": "",
-    "date": 1790710689000
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Di Battista: \"Mi hanno asportato un tumore, ora mi devo curare\"",
@@ -536,13 +499,6 @@
     "titleSl": "Les médias Bolloré chassent la « taupe » d'un RN paranoïaque"
    },
    {
-    "title": "Au collège Georges-Politzer de Bagnolet, de l’eau non potable depuis plusieurs mois",
-    "link": "https://www.lemonde.fr/societe/article/2026/09/29/au-college-georges-politzer-de-bagnolet-de-l-eau-non-potable-depuis-plusieurs-mois_6785690_3224.html",
-    "image": "https://img.lemde.fr/2026/09/29/500/0/6048/3024/644/322/60/0/b340e8b_upload-1-l8cpfotdlrfw-000-32h89k9.jpg",
-    "date": 1790711969000,
-    "titleSl": "Au collège Georges-Politzer de Bagnolet, de l'eau non pitable depuis plusieurs mois"
-   },
-   {
     "title": "Au procès en appel des assistants parlementaires européens du Modem, la défense plaide la relaxe",
     "link": "https://www.lemonde.fr/societe/article/2026/09/29/au-proces-en-appel-des-assistants-parlementaires-europeens-du-modem-la-defense-plaide-la-relaxe_6785688_3224.html",
     "image": "https://img.lemde.fr/2026/09/20/301/0/7574/3787/644/322/60/0/6457c6a_upload-1-ldwxqkv1mqny-dsc-3069.jpg",
@@ -568,6 +524,13 @@
     "image": "https://img.lemde.fr/2026/09/29/1105/0/5385/2692/644/322/60/0/d934f7c_upload-1-j2ddm8hxlauc-000-83982cl.jpg",
     "date": 1790704809000,
     "titleSl": "L’Algérie, principal pays de départ de migrants vers l'Espagne"
+   },
+   {
+    "title": "Municipales à Vaulx-en-Velin : la justice annule les élections, remportées par LFI, pour des irrégularités sur une liste divers centre",
+    "link": "https://www.lemonde.fr/politique/article/2026/09/29/municipales-a-vaulx-en-velin-la-justice-annule-les-elections-remportees-par-lfi-apres-celles-de-venissieux_6785680_823448.html",
+    "image": "https://img.lemde.fr/2026/09/29/382/0/5837/2918/644/322/60/0/adfe4fe_upload-1-oxlgpg1mq6kg-000-a62c9re.jpg",
+    "date": 1790704474000,
+    "titleSl": "Municipales à Vaulx-en-Velin : la justice annule les élections, remportées par LFI, pour des irrégularités sur une liste divers center"
    }
   ],
   "elpais": [
