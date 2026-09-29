@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-29T19:58:27.110Z",
+ "generatedAt": "2026-09-29T20:01:08.559Z",
  "sources": {
   "siol": [
+   {
+    "title": "Sekulić izgubil pri nekdanjem klubu, prvaki slavili pred očmi posebnega gosta",
+    "link": "https://siol.net/sportal/kosarka/evroliga-2-krog-2026-702674",
+    "image": "https://siol.net/media/img/75/56/8aefed0023619d0c2a78.jpeg",
+    "date": 1790711940000
+   },
    {
     "title": "Cedevita Olimpija začenja evropsko pot. Prvič v ogenj tudi Dončićev klub.",
     "link": "https://siol.net/sportal/kosarka/eurocup-1-krog-702677",
@@ -9,9 +15,9 @@
     "date": 1790711340000
    },
    {
-    "title": "Kaj se dogaja z igriščem v Stožicah? Slovenija spet ne more zadeti. #vŽivo",
+    "title": "Končno! Slovenija povedla proti Makedoniji #vŽivo",
     "link": "https://siol.net/sportal/nogomet/liga-narodov-drugi-krog-torek-702709",
-    "image": "https://siol.net/media/img/46/1c/7565f87a3cc26366e286.jpeg",
+    "image": "https://siol.net/media/img/d0/19/2a73cde5bf572c8e1dfd.jpeg",
     "date": 1790709840000
    },
    {
@@ -19,12 +25,6 @@
     "link": "https://siol.net/sportal/hokej/alpska-liga-29-september-2026-702739",
     "image": "https://siol.net/media/img/6a/bf/9baf36619903408dd2ca.jpg",
     "date": 1790709720000
-   },
-   {
-    "title": "Sekulić izgubil pri nekdanjem klubu, prvaki slavili pred očmi posebnega gosta",
-    "link": "https://siol.net/sportal/kosarka/evroliga-2-krog-2026-702674",
-    "image": "https://siol.net/media/img/75/56/8aefed0023619d0c2a78.jpeg",
-    "date": 1790708880000
    },
    {
     "title": "V Severni Makedoniji razbili celico, povezano z ISIS",
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Lovrić za vodstvo Slovenije! (1:0)*",
+    "link": "https://www.24ur.com/sport/nogomet/slovenija-po-zmago-proti-severni-makedoniji.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/24d3fd984aba33662ba8_63655815.jpg?v=71e1&fop=fp:0.58:0.18",
+    "date": 1790711918000
+   },
+   {
     "title": "Putin sprejel Dodika in podprl njegovo koalicijo",
     "link": "https://www.24ur.com/novice/tujina/putin-sprejel-dodika-in-podprl-njegovo-koalicijo.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/ec3146bac2eab1854aac_63655833.jpg?v=932a&fop=fp:0.39:0.34",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/neustavljiva-tanja-po-osvojeni-imuniteti-se-skupinska-zmaga.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/31141746fd8618c5af48_63655637.jpg?v=404b&fop=fp:0.43:0.36",
     "date": 1790710348000
-   },
-   {
-    "title": "Prvi polčas na uničeni travnati površini minil brez zadetkov (0:0)*",
-    "link": "https://www.24ur.com/sport/nogomet/slovenija-po-zmago-proti-severni-makedoniji.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/24d3fd984aba33662ba8_63655815.jpg?v=71e1&fop=fp:0.58:0.18",
-    "date": 1790710270000
    },
    {
     "title": "Je Janša namesto žrtev v Sudanu na fotografiji pokazal grozote v Gazi?",
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+    "link": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
+    "date": 1790711720000,
+    "titleSl": "Ukrajinska znanstvena akademija, Struck by Drone, je igrala ključno vlogo v raziskavah"
+   },
+   {
+    "title": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31met-tax-suit-hearing-loses-jbqm/31met-tax-suit-hearing-loses-jbqm-mediumSquareAt3X.jpg",
+    "date": 1790711439000,
+    "titleSl": "Sodnik odredi New Yorku, naj opusti uvedbo davka na drugi dom in začne znova"
+   },
+   {
     "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
     "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
     "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29soltisanderson-jfmc/29soltisanderson-jfmc-mediumSquareAt3X.jpg",
     "date": 1790708406000,
     "titleSl": "Trump je postal le še en razočarani politik"
-   },
-   {
-    "title": "Trump’s Luck Is Finally Running Out",
-    "link": "https://www.nytimes.com/2026/09/29/opinion/trump-midterms-republicans.html",
-    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29edsall-wgzv/29edsall-wgzv-mediumSquareAt3X.jpg",
-    "date": 1790708299000,
-    "titleSl": "Trumpova sreča se končno izteka"
-   },
-   {
-    "title": "Man Shot by ICE Agent in Austin Is Charged With Assault",
-    "link": "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html",
-    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29nat-TXiceshooting-1-kbhc/29nat-TXiceshooting-1-kbhc-mediumSquareAt3X.jpg",
-    "date": 1790708164000,
-    "titleSl": "Moški, ki ga je ustrelil agent ICE v Austinu, je obtožen napada"
    }
   ],
   "bbc": [
@@ -413,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "Zwischenruf zu Elif Eralp - Grüne und SPD – Sie verlassen den demokratischen Sektor!",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/zwischenruf-zu-elif-eralp-an-gruene-und-spd-sie-verlassen-den-demokratischen-sektor-6abc015572f1dd17be2d3679",
+    "image": "https://images.bild.de/6abc015572f1dd17be2d3679/33e918a781fa3574952fce1d7ffb641d,10e9ca6d?w=1280",
+    "date": 0
+   },
+   {
     "title": "Hollywood-Ikone in Hamburg geehrt - Hier poliert ein Weltstar seinen Preis auf",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/helen-mirren-oscar-star-beim-filmfest-hamburg-ausgezeichnet-6ab8ff043643bd02bee24c57",
     "image": "https://images.bild.de/6ab8ff043643bd02bee24c57/8e094882be722bf108c6e31aa9f12451,8ade4142?w=1280",
@@ -441,13 +447,6 @@
     "link": "https://www.bild.de/politik/inland/kita-gesetz-tschentscher-attackiert-berlin-mit-freibier-vergleich-6abbbd0e2660ba1a21b0692e",
     "image": "https://images.bild.de/6abbbd0e2660ba1a21b0692e/cec7ddd182b0e3b942bbab5334f4807c,c07c5ab3?w=1280",
     "date": 0
-   },
-   {
-    "title": "US-Superstar Trevor Noah - „Lederhose? Das ziehe ich nicht an!“",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/trevor-noah-beim-oktoberfest-lederhose-das-ziehe-ich-nicht-an-6abb56caacd99e7fe7cda171",
-    "image": "https://images.bild.de/6abb56caacd99e7fe7cda171/76e6d95f580bb5a59dca357888b79a16,1c63fd4b?w=1280",
-    "date": 0,
-    "titleSl": "Ameriški superzvezdnik Trevor Noah - \"Lederhose? Das ziehe ich nicht an!«"
    }
   ],
   "krone": [
@@ -511,6 +510,12 @@
     "titleSl": "Mio padre e Gheddafi ', il documentario sulla strada degli Oscar"
    },
    {
+    "title": "\"Ho 20 anni e ho già ucciso 15 persone\"",
+    "link": "https://www.rainews.it/video/2026/09/ho-20-anni-e-ho-gia-ucciso-15-persone-reportage-da-citta-del-capo-c0510f00-a5a3-4486-b279-dc394a5b9a26.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/29/1790707606147_Tgoredelservizioncataldi.jpg",
+    "date": 1790707560000
+   },
+   {
     "title": "Nations League, la notte dei fratelli Esposito: Pio segna, Salvatore esulta",
     "link": "https://www.rainews.it/video/2026/09/calcio-nations-league-italia-nazionale-per-pio-e-sebastiano-esposito-un-sogno-che-si-avvera-francia-turchia-0ee3c9d3-f54c-42ab-9ab8-90135e7c96e3.html",
     "image": "https://www.rainews.it/dl/img/2026/9/29/1790707519860_videoframe.png",
@@ -523,12 +528,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/29/1790707094574_videoframe.png",
     "date": 1790706960000,
     "titleSl": "Avtomobil za golf La giungla senza regole delle"
-   },
-   {
-    "title": "Lo spettacolare video di un incidente stradale, un uomo si salva saltando il jersey",
-    "link": "https://www.rainews.it/video/2026/09/lo-spettacolare-video-di-un-incidente-stradale-un-uomo-si-salva-saltando-il-jersey-b66f730a-cfea-4383-bb71-6f61f39fb2e3.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/29/1790707493434_copertina_messico.jpg",
-    "date": 1790706660000
    }
   ],
   "lemonde": [
@@ -578,7 +577,7 @@
     "title": "España - Croacia en directo | Comienza la segunda parte en el Sánchez Pizjuán",
     "link": "https://elpais.com/deportes/futbol/2026-09-29/espana-croacia-en-directo-el-partido-de-la-nations-league-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/7LLRPENTPJPBDD57BFEWO2MIWM.jpg?auth=b1f4e26ccb681c7e069edf6b1aed7ec08f0928100c69874bc00f3f92f11d114d",
-    "date": 1790711752000
+    "date": 1790711997000
    },
    {
     "title": "El Tribunal Supremo permite a Trump continuar las deportaciones a terceros países",
