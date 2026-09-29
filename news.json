@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T22:40:41.095Z",
+ "generatedAt": "2026-09-29T22:42:24.274Z",
  "sources": {
   "siol": [
    {
@@ -199,13 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years",
-    "link": "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html",
-    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29met-cornell-sun-cpqj/29met-cornell-sun-cpqj-mediumSquareAt3X-v2.jpg",
-    "date": 1790721463000,
-    "titleSl": "Študenti na Cornellu so dve leti zasledovali primer spolnega napada"
-   },
-   {
     "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
     "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
     "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-smith-fpgh/29dc-smith-fpgh-mediumSquareAt3X.jpg",
@@ -218,6 +211,13 @@
     "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30nat-pope-anthropic-wfkz/30nat-pope-anthropic-wfkz-mediumSquareAt3X.jpg",
     "date": 1790720595000,
     "titleSl": "Ali je Claude zavesten? Znotraj prizadevanj Antropica, da bi moralnost vnesel v svoje modele umetne inteligence"
+   },
+   {
+    "title": "Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html",
+    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29met-cornell-sun-cpqj/29met-cornell-sun-cpqj-mediumSquareAt3X-v2.jpg",
+    "date": 1790720512000,
+    "titleSl": "Študenti na Cornellu so dve leti zasledovali primer spolnega napada"
    },
    {
     "title": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
@@ -290,7 +290,8 @@
     "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
     "link": "https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abc1de7-1790713319.jpg?resize=1920%2C1440",
-    "date": 1790720638000
+    "date": 1790720638000,
+    "titleSl": "Zaupanje potrošnikov v ZDA je doseglo najnižjo raven od leta 2014 pred vmesnimi volitvami"
    },
    {
     "title": "US Supreme Court allows Trump to continue third-country deportations",
@@ -330,25 +331,25 @@
   ],
   "guardian": [
    {
+    "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/8c3c9bf044f86b5634e02ff865c702e30427298c/276_0_4408_3527/master/4408.jpg?width=140&quality=85&auto=format&fit=max&s=81bf9a3130294254e76819d404b1bafa",
+    "date": 1790721217000,
+    "titleSl": "Vrhovno sodišče dovoli Trumpu začasno nadaljevanje deportacije ljudi v tretje države – v živo"
+   },
+   {
+    "title": "Australia news live: Shoebridge and Hodgins-May announce Greens leadership bid, saying Labor ‘can’t stop One Nation’",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/a6aea7f6b5b25fed7fbcb001c4ee960384f9093d/314_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=f73f936412d7d957214bea47047b086c",
+    "date": 1790720760000,
+    "titleSl": "Avstralske novice v živo: Shoebridge in Hodgins-May napovedujeta kandidaturo Zelenih za vodstvo, rekoč, da Laburisti \"ne morejo ustaviti enega naroda\""
+   },
+   {
     "title": "Venezuelan man shot by ICE agent in Texas charged with assaulting an officer",
     "link": "https://www.theguardian.com/us-news/2026/sep/29/venezuelan-man-charged-texas-ice-shooting",
     "image": "https://i.guim.co.uk/img/media/00544942596c7e0987de3e8e56f6cd32c22df927/100_0_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=f28912c3bb0dbfe0aa30d86ea717dba6",
     "date": 1790720317000,
     "titleSl": "Venezuelca, ki ga je v Teksasu ustrelil agent ICE, obtožujejo napada na policista"
-   },
-   {
-    "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/8c3c9bf044f86b5634e02ff865c702e30427298c/276_0_4408_3527/master/4408.jpg?width=140&quality=85&auto=format&fit=max&s=81bf9a3130294254e76819d404b1bafa",
-    "date": 1790720312000,
-    "titleSl": "Vrhovno sodišče dovoli Trumpu začasno nadaljevanje deportacije ljudi v tretje države – v živo"
-   },
-   {
-    "title": "Australia news live: Shoebridge and Hodgins-May ticket expected for Greens leadership; Home Affairs orders ‘rapid’ cyber stocktake",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/206fea3d31c492f96adc80ad565517efec9d09f3/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7890512021a5ef4049ebae5604ac393e",
-    "date": 1790720107000,
-    "titleSl": "Avstralske novice v živo: Shoebridge in Hodgins-May pričakujeta vstopnico za vodstvo Zelenih; Notranje zadeve naročajo \"hiter\" kibernetski popis"
    },
    {
     "title": "Former American Idol contestant found guilty of killing wife during affair",
@@ -452,37 +453,37 @@
   ],
   "krone": [
    {
-    "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16XzhKVDR2WE03cDBNaF9idlhaX25COUh5MGZZb2cwTW1sOUxtTzViQXhaaEZCNjVOdUVKWGlxV0hEcDBvR256Y2ZFWU1Idm9NTnVTNmR1bw?oc=5",
+    "title": "Ihr Mondkalender - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LUlNLSHVVeExQRHJLSnVZa0Zfa3dSS2dYSEZLNEE0alJZalg5M0QtTU9tN1NoZi1pbXpRbmxoQkMxZEo5LTB6STNHVjQzekpaNkJCaHVlRQ?oc=5",
     "image": "",
-    "date": 1790718132000
+    "date": 1790718021000
    },
    {
-    "title": "Frankreich im Aufruhr - Schülerproteste: „Diese Gewalt ist unsäglich“",
+    "title": "Frankreich im Aufruhr - Schülerproteste: „Diese Gewalt ist unsäglich“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5udUNSY05xTXZja0V0Z3JPbndqZ1FBLUN4MUg5SEl5Y3NHbWNDd0ZLdmw2cWVZQjJLcTZYWWg2OUhZQQ?oc=5",
     "image": "",
     "date": 1790716440000
    },
    {
-    "title": "Kellnerin packt aus - Wie schlimm ist das Oktoberfest wirklich?",
+    "title": "Kellnerin packt aus - Wie schlimm ist das Oktoberfest wirklich? - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pSTFmcTh0clQ5Nm9ZRFhrNGdTV0h0MklTZnNiZlhqeWZhSWFXYnFqeDlZUUEzUllFM1FUcDRzMV8xcHdvLTgw?oc=5",
     "image": "",
     "date": 1790715540000
    },
    {
-    "title": "Hassverbrechen steigen - New York hat große Probleme mit Antisemitismus",
+    "title": "Hassverbrechen steigen - New York hat große Probleme mit Antisemitismus - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ScFhtT0JJNzdfX0hidG5yY1IySE9pX1hhc3RsYXNkczVySV94OWFTM2RyN1BxNnhZYjhtUmJRcnR5dw?oc=5",
     "image": "",
     "date": 1790715060000
    },
    {
-    "title": "Frontal-Attacke - Ceferin vergleicht Infantino mit Märchen-Kaiser",
+    "title": "Frontal-Attacke - Ceferin vergleicht Infantino mit Märchen-Kaiser - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9EUDJiZmxTNWJHaVo3c0hUNWsyeWVhdUVwYk9uNXB0eHVpdUl6WlI0MHRmaXk2OEg3V0xINmNYYW1IQQ?oc=5",
     "image": "",
     "date": 1790715000000
    },
    {
-    "title": "Mediziner angeklagt - Manager nach Zecken-Therapie in Lebensgefahr",
+    "title": "Mediziner angeklagt - Manager nach Zecken-Therapie in Lebensgefahr - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UblBKeVVXM05RU291ZmlqbmxuUjNBSzVGRXJZNUhVU1RMNTdjQ0s5bWlhSmJad2lsZDByOHIydFNPUQ?oc=5",
     "image": "",
     "date": 1790713800000
@@ -573,7 +574,8 @@
     "title": "Amnistía Internacional denuncia “tortura y malos tratos” a los inmigrantes en Ceuta",
     "link": "https://elpais.com/espana/2026-09-30/amnistia-internacional-denuncia-tortura-y-malos-tratos-a-los-inmigrantes-en-ceuta.html",
     "image": "https://imagenes.elpais.com/resizer/v2/ILLK2KAMXBC5ZG4SVDSMKIR4OU.jpg?auth=9fc9d3db4e631099f1688da334d6d74f077dc75df6913246ea2462bfbc4f3a85",
-    "date": 1790719260000
+    "date": 1790719260000,
+    "titleSl": "Amnistía Internacional denuncia ‚ tortura y malos tratos 'a los inmigrantes en Ceuta"
    },
    {
     "title": "Rebeca Grynspan se distancia del resto candidatos en la carrera por la jefatura de la ONU en la cuarta votación informal",
