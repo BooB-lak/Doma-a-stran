@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-09-29T15:28:48.012Z",
+ "generatedAt": "2026-09-29T15:31:05.998Z",
  "sources": {
   "siol": [
    {
-    "title": "Najtežja bitka Todda Elika: Vztrajal, dokler bom lahko",
+    "title": "Najtežja bitka Todda Elika: Vztrajal bom, dokler bom lahko",
     "link": "https://siol.net/sportal/hokej/todd-elik-rak-debelega-crevesja-702730",
     "image": "https://siol.net/media/img/89/8f/daaa4aa58a75bedf81b6.jpeg",
     "date": 1790695260000
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Policisti v Rožni dolini iz zaklenjenega vozila rešili dečka",
+    "link": "https://www.24ur.com/novice/crna-kronika/policisti-v-rozni-dolini-resili-decka-iz-zaklenjenega-vozila.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2021/6ff06a2499a746ee30f1_62627378.jpg?v=50bf&fop=fp:0.43:0.41",
+    "date": 1790695593000
+   },
+   {
     "title": "Ministrstvo za zdravje zapušča že druga državna sekretarka",
     "link": "https://www.24ur.com/novice/slovenija/ministrstvo-za-zdravje-zapusca-ze-druga-drzavna-sekretarka.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/878206fd140f504df8c0_63655709.jpg?v=3ae6&fop=fp:0.47:0.34",
@@ -63,12 +69,6 @@
     "link": "https://www.24ur.com/sport/odbojka/urnaut-in-pajenk-rekorderja-evropskih-prvenstev.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/8e3b1d55f324339f1bcc_63649165.jpg?v=f801&fop=fp:0.50:0.31",
     "date": 1790692020000
-   },
-   {
-    "title": "Rončević študentom: Naučite se postavljati prava vprašanja",
-    "link": "https://www.24ur.com/novice/slovenija/roncevic-studentom-naucite-se-postavljati-prava-vprasanja.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/f81115da418ce5faf701_63644223.jpg?v=5e15&fop=fp:0.52:0.50",
-    "date": 1790691550000
    },
    {
     "title": "Nekdanji generalni direktor Policije o zastaranju disciplinskega postopka",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Obljubljajo subvencije, ki sploh ne obstajajo",
+    "link": "https://www.zurnal24.si/slovenija/subvencije-energetika-prevara-ministrstvo-infrastruktura-465911",
+    "image": "https://www.zurnal24.si/media/img/cb/c9/6b3e14a087b06f5609f3.jpeg",
+    "date": 1790695680000
+   },
+   {
     "title": "Na gradbišču trikrat več delavcev: Hitra cesta bo zgrajena do jeseni 2029",
     "link": "https://www.zurnal24.si/slovenija/hitra-cesta-velenje-slovenj-gradec-jesen-2029-dars-465909",
     "image": "https://www.zurnal24.si/media/img/48/13/61ea6ad69a167cf5c5c6.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/huda-nesreca-motoristu-ni-bilo-vec-pomoci-465905",
     "image": "https://www.zurnal24.si/media/img/01/c5/b43b4990c952d9fc5b65.jpeg",
     "date": 1790683500000
-   },
-   {
-    "title": "Nove slabe novice za stranko Resnica, spet se je nanje spravil ...",
-    "link": "https://www.zurnal24.si/slovenija/nove-slabe-novice-za-stranko-resnica-spet-se-je-nanje-spravil-465904",
-    "image": "https://www.zurnal24.si/media/img/a3/c7/f6f5f36f5030f75580a2.jpeg",
-    "date": 1790682960000
    }
   ],
   "reuters": [
@@ -290,13 +290,15 @@
     "title": "US-Iran talks in New York: What’s the latest?",
     "link": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26268736231155-1790403008_ec0758-1790689249.jpg?resize=1200%2C630&quality=80",
-    "date": 1790694593000
+    "date": 1790694593000,
+    "titleSl": "Pogovori med ZDA in Iranom v New Yorku: kaj je novega?"
    },
    {
     "title": "CDC reports two measles deaths in US as cases hit 35-year high",
     "link": "https://www.aljazeera.com/news/2026/9/29/cdc-reports-two-measles-deaths-us-as-cases-hit-35-year-high?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abbcde3-1790692835.jpg?resize=1920%2C1440",
-    "date": 1790694538000
+    "date": 1790694538000,
+    "titleSl": "CDC poroča o dveh smrtnih primerih zaradi ošpic v ZDA, ko so primeri dosegli 35-letni maksimum"
    },
    {
     "title": "Photos: French students protest, public workers strike before budget cuts",
@@ -329,24 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "South West Water fined £8m for hundreds of sewage spills in Cornwall and Devon",
-    "link": "https://www.theguardian.com/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon",
-    "image": "https://i.guim.co.uk/img/media/faad4247e6b249706f93dac6fe2eca6a0bbf48f5/65_0_4714_3772/master/4714.jpg?width=140&quality=85&auto=format&fit=max&s=4e2f8537b5388f24e13c7637913f6ac3",
-    "date": 1790695197000
-   },
-   {
-    "title": "French students and police clash as school blockades turn violent",
-    "link": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
-    "image": "https://i.guim.co.uk/img/media/d47c5dfddf56c962f74bd09c22611f87f4d639c5/0_0_4255_3404/master/4255.jpg?width=140&quality=85&auto=format&fit=max&s=828bdf0c1ccda6fa1ddb27a96aa38163",
-    "date": 1790695170000
-   },
-   {
-    "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
-    "link": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france",
-    "image": "https://i.guim.co.uk/img/media/e5277f08dbb6cbbe682d56044cdfd328d3b14557/1069_61_4106_3284/master/4106.jpg?width=140&quality=85&auto=format&fit=max&s=c34119afa16d07c080556694b97d5e4b",
-    "date": 1790694999000
-   },
-   {
     "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/807282cb5fd3bc6dab6fdf3badca3cc6671529b2/155_0_4646_3717/master/4646.jpg?width=140&quality=85&auto=format&fit=max&s=b9182656c604ff51da9abcc8535ee498",
@@ -366,6 +350,27 @@
     "image": "https://i.guim.co.uk/img/media/7ab8d3827f286fe0245be88ad615cc7421c54c1c/713_0_7128_5702/master/7128.jpg?width=140&quality=85&auto=format&fit=max&s=c7f36795f6541805f43553a4e2bd402c",
     "date": 1790694253000,
     "titleSl": "Ameriški senator blokiral predlog zakona o prepovedi Trumpu, da bi uničil Kennedyjev center brez odobritve kongresa"
+   },
+   {
+    "title": "Body of newborn baby found on Welsh shoreline, prompting search for mother",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/29/body-newborn-baby-found-bangor-menai-strait-wales-search-for-mother",
+    "image": "https://i.guim.co.uk/img/media/8e95f884744703abd748ebd929866673d73cc160/773_0_4237_3391/master/4237.jpg?width=140&quality=85&auto=format&fit=max&s=95dfb8f9e2eb45d65e9212d241b3b0d5",
+    "date": 1790694227000,
+    "titleSl": "Truplo novorojenčka, najdenega na valižanski obali, je spodbudilo iskanje matere"
+   },
+   {
+    "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/569e32f5018215bc2d4682ad4d78565135a78cc0/727_0_5120_4096/master/5120.jpg?width=140&quality=85&auto=format&fit=max&s=30f767c74f6a6d413cb695189f3b4145",
+    "date": 1790694195000,
+    "titleSl": "\"Ne bomo ustrahovani,\" pravi estonski premier, potem ko je nedavni požig pripisal Rusiji – kot se je zgodilo"
+   },
+   {
+    "title": "Australian government concedes no scientific consensus on social media harms for teenagers – but ‘credible risks’ justify ban",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/30/social-media-ban-australia-high-court-mental-health-risks-teens",
+    "image": "https://i.guim.co.uk/img/media/dccd49151a35b6b40c638462b5def560b92f2dd3/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=78adb367fe3a1722f888fe4f2be39feb",
+    "date": 1790694056000,
+    "titleSl": "Avstralska vlada ne priznava znanstvenega soglasja o škodi, ki jo socialni mediji povzročajo najstnikom – vendar \"verodostojna tveganja\" upravičujejo prepoved"
    }
   ],
   "spiegel": [
@@ -380,13 +385,6 @@
     "link": "https://www.spiegel.de/politik/deutschland/eckhard-ecki-seeber-langjaehriger-chauffeur-von-helmut-kohl-ist-tot-a-b54d3e24-7545-409d-a223-f9f2182d396a#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/8c2f573a-d6e0-4726-a993-431a4eb38971_w520_r2.08_fpx63.32_fpy50.96.jpg",
     "date": 1790692260000
-   },
-   {
-    "title": "Ukraine-Krieg: Feuerwehr rettet Männer nach Drohnenangriff an Fassade in Kyjiw",
-    "link": "https://www.spiegel.de/ausland/ukraine-krieg-feuerwehr-rettet-maenner-nach-drohnenangriff-an-fassade-in-kyjiw-a-9cc12fcc-ec50-4860-a915-411d5610fe33#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/0f3be7b6-cfa1-4306-b785-fb8f1dadfd5f_w520_r2.08_fpx50_fpy32.jpg",
-    "date": 1790691840000,
-    "titleSl": "Ukrajina-Krieg: Feuerwehr rettet Männer nach Drohnenangriff an Fassade in Kyjiw"
    },
    {
     "title": "DWD: September besonders sonnig und trocken – zum Monatsende bis zu 30 Grad",
@@ -405,9 +403,28 @@
     "link": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/ac77c0ad-e6c2-4720-9881-004005187252_w520_r2.08_fpx55_fpy62.jpg",
     "date": 1790689620000
+   },
+   {
+    "title": "Donald Trump spricht von »Superintelligenz«: Plötzlich wollen alle slowenische Internetadressen haben",
+    "link": "https://www.spiegel.de/netzwelt/web/donald-trumps-aussage-zu-superintelligenz-ploetzlich-wollen-alle-slowenische-internetadressen-haben-a-55d4d8b0-0404-4796-b828-07f96edc6685#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/90b029ab-7338-4c86-b94f-a49102246376_w520_r2.08_fpx61.99_fpy50.97.jpg",
+    "date": 1790689020000
    }
   ],
   "bild": [
+   {
+    "title": "Niedrigwasser am Rhein - Frachter sitzt in Düsseldorf fest",
+    "link": "https://www.bild.de/news/inland/niedrigwasser-am-rhein-frachter-sitzt-in-duesseldorf-fest-6abb63a143d220b52fd0beb9",
+    "image": "https://images.bild.de/6abb63a143d220b52fd0beb9/e97f799a83186f15efc4992dac383489,39793292?w=1280",
+    "date": 0,
+    "titleSl": "Niedrigwasser am Rhein - Frachter sitzt na festivalu v Düsseldorfu"
+   },
+   {
+    "title": "Schock während Emirates-Flug - Plötzlich läuft Wasser durch die Decke",
+    "link": "https://www.bild.de/news/ausland/schock-waehrend-emirates-flug-ploetzlich-laeuft-wasser-durch-die-decke-6aba36aed9cc0d20fc97833e",
+    "image": "https://images.bild.de/6aba36aed9cc0d20fc97833e/9dc7843a21cf3b4d3274e808373664f9,7f3f0c49?w=1280",
+    "date": 0
+   },
    {
     "title": "Wetterphänomen erklärt - Wie entsteht eigentlich Schnee?",
     "link": "https://www.bild.de/news/wetter/schnee-wie-entstehen-schneeflocken-und-wann-bleiben-sie-liegen-691c830215479c9d7f9a0464",
@@ -418,7 +435,8 @@
     "title": "Nach Entfristungsklage - Traditionsklub einigt sich mit gefeuertem Trainer",
     "link": "https://www.bild.de/sport/fussball/wirbel-um-entfristungsklage-traditionsklub-einigt-sich-mit-ex-trainer-6abbac0b4b6805f784a0ab83",
     "image": "https://images.bild.de/6abbac0b4b6805f784a0ab83/28637ae37ed351186cbe613bd95a7710,a527029a?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Nach Entfristungsklage - Traditionsklub einigt sich mit gefeuertem Trener"
    },
    {
     "title": "Berichte über Kokain und Ecstasy - Millionen-Influencern droht Dubai-Gefängnis",
@@ -430,19 +448,6 @@
     "title": "Vom Azubi zum Chef - ER lenkt künftig das Opel-Stammwerk",
     "link": "https://www.bild.de/politik/inland/vom-azubi-zum-chef-er-lenkt-kuenftig-das-stammwerk-von-opel-6abba5fe4b6805f784a0aad4",
     "image": "https://images.bild.de/6abba5fe4b6805f784a0aad4/30572b84ca52381a4894229c5d214466,84b31495?w=1280",
-    "date": 0
-   },
-   {
-    "title": "2 England-Tore in 4 Tagen - Köln-Star Moore schießt sich in Derby-Laune",
-    "link": "https://www.bild.de/sport/fussball/1-fc-koeln-2-england-tore-in-4-tagen-koeln-star-mikey-moore-schiesst-sich-in-derby-laune-6abbbd5b4b6805f784a0ad48",
-    "image": "https://images.bild.de/6abbbd5b4b6805f784a0ad48/0d68d9469b92a983adadc8fa79a00699,c7b2bdd1?w=1280",
-    "date": 0,
-    "titleSl": "2 Anglija-Tore in 4 Tagen - Köln-Star Moore schießt sich in Derby-Laune"
-   },
-   {
-    "title": "Ehrlich Brothers trauern um ihren Vater - „Wir vermissen Dich mehr als jemals zuvor“",
-    "link": "https://www.bild.de/unterhaltung/ehrlich-brothers-wir-vermissen-dich-jeden-einzelnen-tag-6abbc7c02660ba1a21b06a0c",
-    "image": "https://images.bild.de/6abbc7c02660ba1a21b06a0c/44095e3135857a5e788639da47c6aa55,290ad385?w=1280",
     "date": 0
    }
   ],
@@ -487,6 +492,13 @@
   ],
   "rainews": [
    {
+    "title": "Burnham: \"Londra per troppo tempo sulla strada sbagliata, miglioreremo i rapporti con l&#x27;UE\"",
+    "link": "https://www.rainews.it/articoli/2026/09/burnham-londra-per-troppo-tempo-sulla-strada-sbagliata-miglioreremo-i-rapporti-con-lue-b760da43-1ebf-4339-a32a-371e9f82f6dd.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/29/1790693174874_WhatsApp_Image__at_.._.jpeg",
+    "date": 1790695320000,
+    "titleSl": "Burnham: \"Londra per troppo tempo sulla strada sbagliata, miglioreremo i rapporti con l'UE\""
+   },
+   {
     "title": "Spread Btp-Bund oltre quota 100 su Borsa Italiana: è la prima volta dal 2025. Francia a 119",
     "link": "https://www.rainews.it/articoli/2026/09/spread-btp-bund-oltre-quota-100-su-borsa-italiana-e-la-prima-volta-dal-2025-francia-a-119-d5f796fe-4e48-474e-8117-80a5fcd2d36f.html",
     "image": "https://www.rainews.it/dl/img/2023/9/28/1695912091122_Schermata__alle_...png",
@@ -519,12 +531,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/29/1790690762337_compressedEESabotageattemptreax.jpg",
     "date": 1790693880000,
     "titleSl": "Estonija: \"Sabotaggio russo\" a una fabbrica di droni. V Evropi 5 casi analoghi in un mese"
-   },
-   {
-    "title": "Ecco quali sono gli uccelli più rumorosi del mondo: il loro richiamo come una motosega",
-    "link": "https://www.rainews.it/articoli/2026/09/ecco-quali-sono-gli-uccelli-piu-rumorosi-del-mondo-il-loro-richiamo-come-una-motosega-bddbafee-abdf-4eb6-948f-e8bcef6685c3.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/29/1790692609843_combo.jpg",
-    "date": 1790693400000
    }
   ],
   "lemonde": [
@@ -569,6 +575,12 @@
   ],
   "elpais": [
    {
+    "title": "La AMB pone a Veolia a un paso de ganar el macroconcurso de agua de Barcelona por 1.000 millones",
+    "link": "https://elpais.com/espana/catalunya/2026-09-29/la-amb-pone-a-veolia-a-un-paso-de-ganar-el-macroconcurso-de-agua-de-barcelona-por-1000-millones.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SWNAY7CPQZOINHUWV6UIF5TOMY.jpg?auth=b258956f48e606d13b868365c26a0aa24a80d8e11f9ff79d8970435c655e122a",
+    "date": 1790695371000
+   },
+   {
     "title": "Acampada en Sol por la vivienda, en directo | Junts y Podemos no aclaran el sentido de su voto sobre los decretos de vivienda",
     "link": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/U6DUYNBNWVDGHOQCSJPB33TYAE.JPG?auth=0f62ef3551641545ec0b68f2cc5867287d59fc050d10179d157d5e44b95aaf95",
@@ -599,12 +611,6 @@
     "link": "https://elpais.com/ciencia/2026-09-29/una-nueva-especie-de-dinosaurio-plumifero-sugiere-que-distintas-especies-conquistaron-el-vuelo-por-separado.html",
     "image": "https://imagenes.elpais.com/resizer/v2/YIHS54A6TRCRNHPZBIR2I2JY6M.jpg?auth=83efd8a3cc3e412842ba8d9322a3551efd936557f81f881e28673834014bc576",
     "date": 1790694043000
-   },
-   {
-    "title": "Andy Burnham coloca la crisis de la vivienda como prioridad de su programa de Gobierno",
-    "link": "https://elpais.com/internacional/2026-09-29/andy-burnham-coloca-la-crisis-de-la-vivienda-como-prioridad-de-su-programa-de-gobierno.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/75BVY5OHZJNE5O76WC7LASTHRY.jpg?auth=d3459a94a166ea7f5facdf1d226323f5f23981b9f80ab9f38a91e875a3380c72",
-    "date": 1790694018000
    }
   ]
  },
