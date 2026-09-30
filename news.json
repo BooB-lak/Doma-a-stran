@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-09-30T09:40:41.891Z",
+ "generatedAt": "2026-09-30T09:42:25.819Z",
  "sources": {
   "siol": [
+   {
+    "title": "Iran prejel odgovor ZDA na predlog za končanje vojne #vŽivo",
+    "link": "https://siol.net/novice/svet/koalicijske-sile-pod-vodstvom-zda-koncale-misijo-v-iraku-702794",
+    "image": "https://siol.net/media/img/55/1b/8ba41bd91cf94aac6570.jpeg",
+    "date": 1790761260000
+   },
    {
     "title": "Javnofinančni primanjkljaj v drugem četrtletju porasel na 3,9 odstotka BDP",
     "link": "https://siol.net/novice/slovenija/javnofinancni-primanjkljaj-v-drugem-cetrtletju-porasel-na-39-odstotka-bdp-702796",
@@ -13,12 +19,6 @@
     "link": "https://siol.net/sportal/rokomet/rokomet-evropska-liga-prvi-krog-702792",
     "image": "https://siol.net/media/img/b9/fb/ced61563e8d09fdea2dd.jpeg",
     "date": 1790760480000
-   },
-   {
-    "title": "Koalicijske sile pod vodstvom ZDA končale misijo v Iraku",
-    "link": "https://siol.net/novice/svet/koalicijske-sile-pod-vodstvom-zda-koncale-misijo-v-iraku-702794",
-    "image": "https://siol.net/media/img/45/3f/2691abb36fb3b73fdf78.jpeg",
-    "date": 1790760420000
    },
    {
     "title": "Filozofska fakulteta: Odgovoren je Stevanović",
@@ -79,14 +79,20 @@
   ],
   "rtvslo": [
    {
+    "title": "Tea Košir po odstopu z mesta državne sekretarke: \"Večji izziv zdaj vidim v poslanski klopi\"",
+    "link": "https://www.rtvslo.si/slovenija/tea-kosir-po-odstopu-z-mesta-drzavne-sekretarke-vecji-izziv-zdaj-vidim-v-poslanski-klopi/795366",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/07/23/67063258.jpg",
+    "date": 1790760939000
+   },
+   {
     "title": "Mai Zetterling: švedska cineastka, ki je na filmu ustvarila \"žensko po svoji meri\"",
     "link": "https://www.rtvslo.si/kultura/film-in-tv/mai-zetterling-svedska-cineastka-ki-je-na-filmu-ustvarila-zensko-po-svoji-meri/795361",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/30/67108431.jpg",
     "date": 1790760236000
    },
    {
-    "title": "Izjava Svobode, SD-ja in Levice o podrejanju neodvisnih medijev",
-    "link": "https://www.rtvslo.si/slovenija/izjava-svobode-sd-ja-in-levice-o-podrejanju-neodvisnih-medijev/795362",
+    "title": "Svoboda, SD in Levica: \"Ne strinjamo se s politiko, ki si želi podrediti neodvisne medije\"",
+    "link": "https://www.rtvslo.si/slovenija/svoboda-sd-in-levica-ne-strinjamo-se-s-politiko-ki-si-zeli-podrediti-neodvisne-medije/795362",
     "image": "https://img.rtvcdn.si/_up/upload/2026/04/30/67039564.jpg",
     "date": 1790760037000
    },
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/evropa/tirana-stiri-nekdanje-voditelje-ovk-ja-obsojene-vojnih-zlocinov-razglasila-za-castne-mescane/795356",
     "image": "https://img.rtvcdn.si/_up/upload/2026/02/09/67017584.jpg",
     "date": 1790759060000
-   },
-   {
-    "title": "Angela: Ko sreča pride mimogrede",
-    "link": "https://www.rtvslo.si/moja-generacija/angela-ko-sreca-pride-mimogrede/786232",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/07/67096373.jpg",
-    "date": 1790758279000
    }
   ],
   "zurnal": [
@@ -250,6 +250,13 @@
     "titleSl": "Več pogovorov o sporu Drumcree, medtem ko se zastoj nadaljuje"
    },
    {
+    "title": "Peter Murrell's legal aid withdrawn after embezzlement conviction",
+    "link": "https://www.bbc.co.uk/news/articles/c5j9xmgz8eero?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e99/live/95d51590-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
+    "date": 1790760307000,
+    "titleSl": "Pravna pomoč Petru Murrellu ukinjena po obsodbi za poneverbo"
+   },
+   {
     "title": "What we know about Cornell University frat house rape investigation",
     "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183d/live/019989b0-bc49-11f1-b3c1-3bf20cfbefa2.jpg",
@@ -264,25 +271,18 @@
     "titleSl": "Računi za energijo v gospodinjstvih naj bi se po napovedih najbolj povečali v štirih letih"
    },
    {
+    "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+    "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a27/live/37eb2f00-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
+    "date": 1790758778000,
+    "titleSl": "Ameriški igralec Chad Lowe \"strtega srca\" zaradi smrti hčerke Fione, stare 13 let"
+   },
+   {
     "title": "Greggs to shut four factories and cut 740 jobs",
     "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad1/live/985534f0-bca6-11f1-a3e9-bbda6f9b9e25.jpg",
     "date": 1790758754000,
     "titleSl": "Greggs bo zaprl štiri tovarne in odpustil 740 delovnih mest"
-   },
-   {
-    "title": "Norfolk village team triumphs in FA Cup row replay",
-    "link": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57d/live/84c46550-bc38-11f1-a430-4d16ee157c41.jpg",
-    "date": 1790758106000,
-    "titleSl": "Ekipa vasi Norfolk je zmagala v ponovitvi zaporedja pokalov FA"
-   },
-   {
-    "title": "England's Underhill to miss autumn internationals",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwe9ek53ngm3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c59/live/83e65100-bc9e-11f1-bd53-81692d9847e1.jpg",
-    "date": 1790756732000,
-    "titleSl": "Angleški Underhill bo zamudil jesenske mednarodne turnirje"
    }
   ],
   "aljazeera": [
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Burnham says UK ‘can’t afford another decade of post-Brexit drift’ as he leaves door open to rejoining the EU – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/b5e8bccbac731e3c8e4f887f98da7a64c2d84ddc/865_0_7023_5618/master/7023.jpg?width=140&quality=85&auto=format&fit=max&s=33bc89030ddcc42591f4c7b0884ae8e7",
-    "date": 1790760400000,
-    "titleSl": "Burnham pravi, da si Združeno kraljestvo \"ne more privoščiti še enega desetletja po brexitu\", saj pušča odprta vrata za ponovno pridružitev EU in politiki Združenega kraljestva v živo"
-   },
-   {
     "title": "Belgium’s defence minister warns of ‘dark winter for Europe’ with more ‘hybrid warfare’ from Russia - Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/10090d670b8fb380ae0f8b454f61247b09ea1f17/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=564bc275251e96e887c04ee0f09cef68",
@@ -350,6 +343,13 @@
     "image": "https://i.guim.co.uk/img/media/c6a577262d29d1f4cabc7e9928edef463a951dd1/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=12b924bc062067a98a84d23bdb98566d",
     "date": 1790759487000,
     "titleSl": "Potniško letalo, namenjeno v Izrael, zasilno pristane v Savdski Arabiji"
+   },
+   {
+    "title": "Burnham says UK ‘can’t afford another decade of post-Brexit drift’ as he leaves door open to rejoining the EU – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/b5e8bccbac731e3c8e4f887f98da7a64c2d84ddc/865_0_7023_5618/master/7023.jpg?width=140&quality=85&auto=format&fit=max&s=33bc89030ddcc42591f4c7b0884ae8e7",
+    "date": 1790759124000,
+    "titleSl": "Burnham pravi, da si Združeno kraljestvo \"ne more privoščiti še enega desetletja po brexitu\", saj pušča odprta vrata za ponovno pridružitev EU in politiki Združenega kraljestva v živo"
    },
    {
     "title": "New Orleans judge files criminal case against CBS affiliate over reporting",
@@ -415,6 +415,30 @@
   ],
   "bild": [
    {
+    "title": "Erst Entführungsdrohung, dann DAS - Pilot will sich töten, Copilot verhindert Flugzeugabsturz",
+    "link": "https://www.bild.de/politik/israelische-kampfjets-aufgestiegen-entfuehrungsdrohung-flugzeug-nach-tel-aviv-aendert-kurs-6abcadda72f1dd17be2d3bd1",
+    "image": "https://images.bild.de/6abcadda72f1dd17be2d3bd1/0f96cb3391ed5dc8b63eaa5c189464fb,fc252d09?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Schon heute auf RTL+ - Das geschieht nächste Woche bei GZSZ",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-vorschau-rtl-was-wird-nun-aus-pauls-geplantem-heiratsantrag-6abcd200e69c7c64bf693153",
+    "image": "https://images.bild.de/6abcd200e69c7c64bf693153/59080e5db3387cfd6a648f1196d244f3,35212943?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Irre Berechnung von Statistikprofessor - In diesem Land wird in 90 Jahren Deutsch gesprochen!",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/irre-berechnung-von-statistikprofessor-dieses-land-wird-in-90-jahren-deutschsprachig-6abcb86cc7aea452433f0337",
+    "image": "https://images.bild.de/6abcb86cc7aea452433f0337/84ddd42536d913082a111992b60620f9,f764dec0?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Viel Gehalt, wenig Hoffnung - Werders teurer Sorgenfall",
+    "link": "https://www.bild.de/sport/fussball/werder-bremen-viel-gehalt-wenig-hoffnung-thiounes-teurer-sorgenfall-6abb83af7efe762b03ba19e1",
+    "image": "https://images.bild.de/6abb83af7efe762b03ba19e1/c0a4c289d14effc11b4a8725e3cd8d67,d723c2f2?w=1280",
+    "date": 0
+   },
+   {
     "title": "Mission Abschreckung - Polen rüstet sich zum Bollwerk gegen Putin",
     "link": "https://www.bild.de/politik/ausland-und-internationales/polen-ruestet-sich-zur-neuen-europaeischen-militaermacht-auf-6ab816eaa8b3f6fdb1edc4a1",
     "image": "https://images.bild.de/6ab816eaa8b3f6fdb1edc4a1/f326d380e0c8706a2158d88f7adcfdf7,4d688c84?w=1280",
@@ -426,33 +450,21 @@
     "link": "https://www.bild.de/politik/ausland-und-internationales/ueberraschung-fuer-giorgia-meloni-tank-multis-in-italien-deckeln-sich-selbst-6abbddb54b6805f784a0b06e",
     "image": "https://images.bild.de/6abbddb54b6805f784a0b06e/48e76242eddeff2df6348c81b40939f4,f1bb24d7?w=1280",
     "date": 0
-   },
-   {
-    "title": "Sollten Klingbeil und Bas scheitern - Spricht hier der nächste SPD-Chef bei Lanz?",
-    "link": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/was-markus-lanz-aus-hubertus-heil-herauskitzelte-es-geht-um-den-spd-chefsessel-6abc57952660ba1a21b070aa",
-    "image": "https://images.bild.de/6abc57952660ba1a21b070aa/0b0950003007e813eca1e6cb928c7d61,51724a2a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Mehrere Züge in Hameln manipuliert - S-Bahn sabotiert! Es hätte Tote geben können",
-    "link": "https://www.bild.de/regional/niedersachsen/toedliche-gefahr-durch-s-bahn-sabotage-soko-jagt-taeter-in-hameln-6abca8cc72f1dd17be2d3b66",
-    "image": "https://images.bild.de/6abca8cc72f1dd17be2d3b66/7b1e10204bddf0959b63b6212ea1e473,4eea618f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sensationsfund auf Kreta - 8 Millionen Jahre alter Nashornschädel entdeckt",
-    "link": "https://www.bild.de/news/ausland/sensationsfund-auf-kreta-8-millionen-jahre-alter-nashornschaedel-entdeckt-6abcaa90c7aea452433f0249",
-    "image": "https://images.bild.de/6abcaa90c7aea452433f0249/14c81c45815110a06078c56654688287,1c2faf7d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Streit beigelegt - Regierung beschließt Pflegereform!",
-    "link": "https://www.bild.de/politik/inland/pflegereform-auf-der-kippe-koalition-streitet-kurz-vor-kabinett-sitzung-6abcae32c7aea452433f0279",
-    "image": "https://images.bild.de/6abcae32c7aea452433f0279/087e104bb220d1b3303872bafe3a7820,4dc14558?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Börsianer enttäuscht: - Online-Modehändler Shein kämpft mit Gewinneinbruch",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FWXJ4ejFybTlVdnVldG0yMzVHMkVVV01UcEFqNVJFdVE2bEc0ZXVLYjFHUW5qektpZ3FtWWpvVk5mQQ?oc=5",
+    "image": "",
+    "date": 1790761260000
+   },
+   {
+    "title": "Wegen Mitspieler - Plötzlich rutscht Gordon Kritik an Tuchel heraus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1IZ1BDVkFtRVZMVjVkVUY1cS1Gck9SbUpzN1lsQUpDT2hZZE9IYjNHTXBieW9yOGdEX1JOcFhyU0ZjUQ?oc=5",
+    "image": "",
+    "date": 1790761200000
+   },
    {
     "title": "Nach Todesfällen - Experten warnen: „Mücken als chronische Bedrohung“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01ZEZQNUtwY0NVdm1OYkJPNHJ1aEtZNERkWTh4emsxeHBhTlFvV013Qmk0LXFvaDFpQkhuVnJOS3ZJdw?oc=5",
@@ -478,18 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fUHlacjNhR3BTbmhfeFpubWlmeEREcEdLclRmT3hUUXpjM0MtUXU3bzFaLVdYM05PT0hQQndhbFRDUQ?oc=5",
     "image": "",
     "date": 1790760540000
-   },
-   {
-    "title": "Für neue GEN4-Boliden - Reifenlieferant Bridgestone steigt in Formel E ein",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzenc2NzlvWm5EeDZNZDhRcUF6QTkyc3FWX2FYMHYzMDd2ZmpYaVRrN2otZlVhWERoSnJUaHpDSWhfdw?oc=5",
-    "image": "",
-    "date": 1790759220000
-   },
-   {
-    "title": "Youngster als Ersatz? - Offiziell! Formel-1-Routinier verlässt Rennstall",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PNGh2QWhwVmZhRWVFYU1NMmc3LVRLT0ZJTlZIX1o0d3dScW5qMHhSNlp0dGpoRkVlWXNrbnJ6Yy1Mdw?oc=5",
-    "image": "",
-    "date": 1790758920000
    }
   ],
   "rainews": [
