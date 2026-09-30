@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T15:24:28.827Z",
+ "generatedAt": "2026-09-30T15:26:29.341Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "What Would John Maynard Keynes Say About A.I.? The Keynes Bot Told Us.",
+    "link": "https://www.nytimes.com/2026/09/30/opinion/john-maynard-keynes-ai-economist.html",
+    "image": "",
+    "date": 1790781848000,
+    "titleSl": "Kaj bi John Maynard Keynes rekel o umetni inteligenci? Keynes Bot nam je povedal."
+   },
+   {
     "title": "Court Pauses Execution of Christa Pike, Tennessee’s Lone Woman on Death Row",
     "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
     "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30nat-pike-stay-1-kbct/30nat-pike-stay-1-kbct-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
     "date": 1790776942000,
     "titleSl": "Nova zdravila proti raku so revolucionarna. Zakaj jih ne dobi več bolnikov?"
-   },
-   {
-    "title": "See How El Niño Is Washing Ashore in California",
-    "link": "https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html",
-    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-elnino-wave-fzkw/30cli-elnino-wave-fzkw-mediumSquareAt3X.jpg",
-    "date": 1790776836000,
-    "titleSl": "Oglejte si, kako El Niño umiva obalo v Kaliforniji"
    }
   ],
   "bbc": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-    "link": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T073428Z_838879095_RC2IRNAY9A0W_RTRMADP_3_NIRELAND-PARADE-1790775527.jpg?resize=1920%2C1440",
-    "date": 1790780797000,
-    "titleSl": "Odpor na cesti Garvaghy Road vrača stare rane Severne Irske na površje"
-   },
-   {
-    "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-    "link": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abd1ddb9b4d-1790778843_69ebf2-1790778973.jpg?resize=1200%2C630&quality=80",
-    "date": 1790780074000,
-    "titleSl": "Kitajska podaljša 52-letni rekord brez poraza, ko se organizatorji Azijskih iger opravičujejo"
-   },
-   {
     "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
     "link": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6abcedfa5ff1-1790766586.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image1-1790770416.jpg?resize=1920%2C1334",
     "date": 1790775956000,
     "titleSl": "Palestinski arheologi tekmujejo s časom, da bi rešili dediščino Gaze"
+   },
+   {
+    "title": "Why Israel is interfering in Palestinian education",
+    "link": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2022-10-03T110502Z_537308788_RC2BSW9E8BP9_RTRMADP_3_ISRAEL-PALESTINIANS-SCHOOLS-STRIKE-1790774329.jpg?resize=1920%2C1440",
+    "date": 1790774553000,
+    "titleSl": "Zakaj se Izrael vmešava v palestinsko izobraževanje"
+   },
+   {
+    "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
+    "link": "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abce902-1790765314_d02d56-1790769684.jpg?resize=1200%2C630&quality=80",
+    "date": 1790774079000,
+    "titleSl": "Christa Pike išče strelski vod, ne smrtonosne injekcije: znotraj ameriških usmrtitev"
    }
   ],
   "guardian": [
@@ -334,8 +334,22 @@
     "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/45398104dea14793129a35a633a60c2cb97118d1/290_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=2aa55540d8a5f1e8f130ffb3616cba88",
-    "date": 1790780736000,
+    "date": 1790781245000,
     "titleSl": "Ni neposredne grožnje za ozemlje Nata, vendar je zavezništvo pripravljeno na rusko agresijo, pravi Rutte - Evropa v živo"
+   },
+   {
+    "title": "Hedge fund CEO gives $3bn to Carnegie Mellon University in historic donation",
+    "link": "https://www.theguardian.com/us-news/2026/sep/30/carnegie-mellon-historic-donation",
+    "image": "https://i.guim.co.uk/img/media/fc3a09e7e6307ad4d5527b4d606886daac1cfa75/0_0_4602_3682/master/4602.jpg?width=140&quality=85&auto=format&fit=max&s=aeea1f039fc4823ecd4352c769e365d1",
+    "date": 1790781184000,
+    "titleSl": "Izvršni direktor hedge sklada daje univerzi Carnegie Mellon 3 milijarde $ v zgodovinski donaciji"
+   },
+   {
+    "title": "Netanyahu says pilot arrested after stabbing fellow pilot and apparently trying to crash Israel-bound plane – latest",
+    "link": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/dd8e6f7f0e37fbfeab727848d2e30203b218a290/0_0_1253_1002/master/1253.jpg?width=140&quality=85&auto=format&fit=max&s=c6b8ec672c6cd40b2f49f8aa6efa316a",
+    "date": 1790781167000,
+    "titleSl": "Netanyahu pravi, da je bil pilot aretiran, potem ko je zabodel kolega pilota in očitno poskušal strmoglaviti letalo, namenjeno v Izrael –"
    },
    {
     "title": "What we know so far about alleged stabbing of pilot by co-pilot on flight to Israel",
@@ -357,23 +371,21 @@
     "image": "https://i.guim.co.uk/img/media/c785b62aadffa84a1a2af52e9a89ea9a9edaa590/897_931_1183_947/master/1183.jpg?width=140&quality=85&auto=format&fit=max&s=50865b5315bd9271cea996364cd9b9a4",
     "date": 1790780450000,
     "titleSl": "Najcenejša avstralska majoneza je tudi najboljšega okusa, ugotavlja test Choice"
-   },
-   {
-    "title": "Australian colleges warned ‘do not try to game’ student visas after last-minute enrolments for cancelled diploma soar",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/01/australia-private-colleges-student-visa-enrolments-soar-for-cancelled-diploma-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/7e0e45f0ac7c40e3115f7dac44e606017e4d46a9/584_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3bbf5dfd80406a80bbde87b6d8790817",
-    "date": 1790780445000,
-    "titleSl": "Avstralske univerze opozarjajo, da \"ne poskušajte igrati\" študentskih vizumov po vpisu v zadnjem trenutku za preklicane diplome"
-   },
-   {
-    "title": "Netanyahu says pilot arrested after stabbing fellow pilot and apparently trying to crash Israel-bound plane – latest",
-    "link": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/dd8e6f7f0e37fbfeab727848d2e30203b218a290/0_0_1253_1002/master/1253.jpg?width=140&quality=85&auto=format&fit=max&s=c6b8ec672c6cd40b2f49f8aa6efa316a",
-    "date": 1790780106000,
-    "titleSl": "Netanyahu pravi, da je bil pilot aretiran, potem ko je zabodel kolega pilota in očitno poskušal strmoglaviti letalo, namenjeno v Izrael –"
    }
   ],
   "spiegel": [
+   {
+    "title": "Fußball-Nationalmannschaft: DFB-Verteidiger Schlotterbeck verpasst Länderspiele wegen Knöchelverletzung",
+    "link": "https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-verteidiger-schlotterbeck-verpasst-laenderspiele-wegen-knoechelverletzung-a-11d625d0-49a1-454e-aea7-5fb3e600bc98#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/78f399d5-c1c1-47da-813e-0856cee86edb_w520_r2.08_fpx53.34_fpy50.jpg",
+    "date": 1790781600000
+   },
+   {
+    "title": "Nasa: Entfernte SR-71 befeuert Spekulationen über Comeback des legendären Jets",
+    "link": "https://www.spiegel.de/wissenschaft/technik/nasa-entfernte-sr-71-befeuert-spekulationen-ueber-comeback-des-legendaeren-jets-a-7a1395b6-5c5f-4396-aa3b-ba592cc64bca#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/0a2172a1-42ed-450d-988c-194bde3bc60c_w520_r2.08_fpx60.04_fpy50.jpg",
+    "date": 1790781540000
+   },
    {
     "title": "Pinguine: Forscher identifizieren neue Art auf »Inseln der Trostlosigkeit«",
     "link": "https://www.spiegel.de/wissenschaft/natur/pinguine-forscher-identifizieren-neue-art-auf-inseln-der-trostlosigkeit-a-7e5b8c5e-ed3f-4e4b-ad9b-f40f19aa8eb2#ref=rss",
@@ -397,19 +409,6 @@
     "link": "https://www.spiegel.de/mobilitaet/bus-bahn/deutschlandticket-ein-bundesweiter-sozialrabatt-waere-besser-als-der-tankrabatt-a-1c90b654-8da1-4a6a-b4ed-9dee13b32000#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/604fec89-0067-4af7-b0a7-89dc2f55927f_w520_r2.08_fpx52.69_fpy44.99.jpg",
     "date": 1790779380000
-   },
-   {
-    "title": "Tennessee: Hinrichtung von Christa Pike gestoppt",
-    "link": "https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ae9b42e1-fbd0-4f2b-9caf-f8d73ae1a547_w520_r2.08_fpx50_fpy37.59.jpg",
-    "date": 1790778600000
-   },
-   {
-    "title": "AfD: Landtag in Thüringen berät über mögliches Verbotsverfahren",
-    "link": "https://www.spiegel.de/politik/deutschland/afd-landtag-in-thueringen-beraet-ueber-moegliches-verbotsverfahren-a-6ecb9d3b-68ed-44d4-b155-8dd8f3124206#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8145bda7-e719-48d4-9507-63795fbacaf0_w520_r2.08_fpx43.48_fpy50.jpg",
-    "date": 1790776500000,
-    "titleSl": "AfD: Landtag v Thüringen berät über mögliches Verbotsverfahren"
    }
   ],
   "bild": [
@@ -455,6 +454,12 @@
   ],
   "krone": [
    {
+    "title": "Schock bei Botev - Kopfschuss! Fußball-Zampano erbarmungslos ermordet",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XcHdqb2YyaE5HUzN4Q3NUZEhuQ3FGa1VhM0ctaXlFOUpHS3ZGSWMzUlE4UlAta1dFRHlmMG9RS09Rdw?oc=5",
+    "image": "",
+    "date": 1790781840000
+   },
+   {
     "title": "Nur Stunden davor - Gericht stoppt Hinrichtung von Teenager-Mörderin",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wSjk2OGQ5Z2NuZ1dCczZJdWgyMUpickNXQWxDM2plekJIc2xnckNNRjhval9yaXhjNWFzUnRsT3JfUQ?oc=5",
     "image": "",
@@ -481,12 +486,6 @@
    {
     "title": "Extreme Mieterhöhung - Wiener Traditionsgeschäft steht vor dem Aus",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HWEFOdkdodnp4aTZxZjRYMGN0MWJnbU9KY0dxS25fNXNHWG13bFdRbDZPQUZTWGJCZGZhRHFhQ0UyZw?oc=5",
-    "image": "",
-    "date": 1790780400000
-   },
-   {
-    "title": "„Krone“-Leser: „Wille ist da, es braucht nur Zeit“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxMGJQR2oxV3dZRkRDTTI5S1ZLaHdGeGg0amh0MXJlQW1nVmpjZnI5X2xTQWxHMTdPb290ZmtsUTdwUQ?oc=5",
     "image": "",
     "date": 1790780400000
    }
@@ -543,6 +542,13 @@
     "titleSl": "Après la tentative de détournement d'un avion de Flydubai volant vers Tel-Aviv, des témoignages et des zones d' ombre"
    },
    {
+    "title": "L’humoriste Paul Mirabel se dévoile avec autodérision dans sa série « Paul »",
+    "link": "https://www.lemonde.fr/culture/article/2026/09/30/l-humoriste-paul-mirabel-se-devoile-avec-autoderision-dans-sa-serie-paul_6786087_3246.html",
+    "image": "https://img.lemde.fr/2026/09/25/379/0/6172/3086/644/322/60/0/7335bcd_upload-1-brveao6p7iwm-t9a4943-1.jpg",
+    "date": 1790780412000,
+    "titleSl": "L'humoriste Paul Mirabel se dévoile avec autodérision dans sa série « Paul »"
+   },
+   {
     "title": "« Le dilemme » : faut-il taper ses symptômes dans Google ou ChatGPT, au risque d’alimenter nos peurs ?",
     "link": "https://www.lemonde.fr/intimites/article/2026/09/30/le-dilemme-faut-il-taper-ses-symptomes-dans-google-ou-chatgpt-au-risque-d-alimenter-nos-peurs_6786086_6190330.html",
     "image": "https://img.lemde.fr/2026/09/24/250/0/3000/1500/644/322/60/0/5bae6fd_upload-1-bgzjgkpgcfdb-frame-681.jpg",
@@ -568,13 +574,6 @@
     "image": "https://img.lemde.fr/2026/09/30/688/0/8256/4128/644/322/60/0/be0a083_ftp-1-hsx5hhbpmzkw-5227867-01-06.jpg",
     "date": 1790778449000,
     "titleSl": "Après la reconnaissance de la rafle du Vieux-Port de Marseille comme crime contre l'humanité, le soulagement des victimes : « C' est la fin de l 'indifférence collective »"
-   },
-   {
-    "title": "Réductions et crédits d’impôt : des avantages conséquents pour un nombre limité de foyers aux revenus élevés",
-    "link": "https://www.lemonde.fr/politique/article/2026/09/30/reductions-et-credits-d-impots-des-avantages-consequents-pour-un-nombre-limite-de-foyers-aux-revenus-eleves_6786075_823448.html",
-    "image": "https://img.lemde.fr/2023/04/17/179/0/3000/1500/644/322/60/0/8ef73de_1681734883102-yylkyy.jpg",
-    "date": 1790776802000,
-    "titleSl": "Réductions et crédits d'impôt : des avantages conséquents pour un nombre limité de foyers aux revenus élevés"
    }
   ],
   "elpais": [
