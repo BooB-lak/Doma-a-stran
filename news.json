@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T11:08:29.659Z",
+ "generatedAt": "2026-09-30T11:10:47.282Z",
  "sources": {
   "siol": [
    {
@@ -129,7 +129,7 @@
     "date": 1790765820000
    },
    {
-    "title": "POP TV zapušča znan obraz, tam je delal od leta 1996",
+    "title": "POP TV naj bi zapustil znan obraz, tam dela že od leta 1996",
     "link": "https://www.zurnal24.si/magazin/film-glasba-tv/pop-tv-zapusca-znan-obraz-tam-je-delal-od-leta-1996-465960",
     "image": "https://www.zurnal24.si/media/img/89/82/5498ab1e32216dd059ac.jpeg",
     "date": 1790765580000
@@ -199,13 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "American Forces Withdraw From Iraq 23 Years After Invading",
-    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
-    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-reflections-wtgb/30int-iraq-us-reflections-wtgb-mediumSquareAt3X.jpg",
-    "date": 1790766403000,
-    "titleSl": "Ameriške sile se umikajo iz Iraka 23 let po invaziji"
-   },
-   {
     "title": "Cornell’s Sexual Assault Case",
     "link": "https://www.nytimes.com/2026/09/30/briefing/cornells-sexual-assault-case.html",
     "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30themorning-nl-cornell-01-bzcl/30themorning-nl-cornell-01-bzcl-mediumSquareAt3X-v3.jpg",
@@ -225,6 +218,13 @@
     "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-withdrawal-headlines-ghzm/30int-iraq-us-withdrawal-headlines-ghzm-mediumSquareAt3X.jpg",
     "date": 1790762408000,
     "titleSl": "ZDA se po dveh desetletjih umaknejo iz Iraka, Trump pa AI velikanom naroči, naj sami policisti"
+   },
+   {
+    "title": "American Forces Withdraw From Iraq 23 Years After Invading",
+    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
+    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-reflections-wtgb/30int-iraq-us-reflections-wtgb-mediumSquareAt3X.jpg",
+    "date": 1790760682000,
+    "titleSl": "Ameriške sile se umikajo iz Iraka 23 let po invaziji"
    },
    {
     "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Former American Idol contestant found guilty of murdering wife",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/former-american-idol-contestant-found-guilty-of-murdering-wife?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-13.14.55-1790764545.png?resize=1920%2C1364",
+    "date": 1790764555000,
+    "titleSl": "Nekdanji tekmovalec Ameriškega idola spoznan za krivega umora žene"
+   },
+   {
     "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790764059.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-09.36.32-1790757580.png?resize=1200%2C675",
     "date": 1790757701000,
     "titleSl": "Hidžabski učenci so se obrnili stran od šole v Azerbajdžanu"
-   },
-   {
-    "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
-    "link": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abcaa075267-1790749191.jpg?resize=1920%2C1440",
-    "date": 1790755340000,
-    "titleSl": "S Koreja zahteva opravičilo zaradi eksplozij DMZ, saj Severna Koreja zanika postavitev min"
    }
   ],
   "guardian": [
@@ -415,45 +415,49 @@
   ],
   "bild": [
    {
+    "title": "Oktoberfest - Wiesn-Besucherin (99) stirbt nach Unfall mit Pferd",
+    "link": "https://www.bild.de/regional/muenchen/rentnerin-99-stirbt-nach-unfall-auf-wiesn-oktoberfest-pferd-warf-sie-um-6abcd2bce69c7c64bf69317a",
+    "image": "https://images.bild.de/6abcd2bce69c7c64bf69317a/73dd728b12da1ffef7fcd6a97d4eb247,89ddbdad?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nach über 15 Jahren - Minecraft enthüllt neue Welt „The Sift“",
+    "link": "https://www.bild.de/leben-wissen/digital/minecraft-neue-dimension-the-sift-kommt-2027-6abb736025bf34c884e861ba",
+    "image": "https://images.bild.de/6abb736025bf34c884e861ba/94e7a02be6147adde415ea7a55aca743,73a17ee5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Mitten in der Saison - Werder löst Vertrag mit Spieler auf",
+    "link": "https://www.bild.de/sport/fussball/werder-bremen-spieler-vertrag-mitten-in-der-saison-aufgeloest-6abcc0860f65d43326f698cf",
+    "image": "https://images.bild.de/6abcc0860f65d43326f698cf/7374208b339a54a6e518af90cc2bca3f,c1380c5c?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Hat nichts mit Ehekrise zu tun“ - Kaulitz-Brüder sagen Halloween bei Heidi ab",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/kaulitz-brueder-sagen-halloween-bei-heidi-ab-6abce18253ba19e8dfe57377",
+    "image": "https://images.bild.de/6abce18253ba19e8dfe57377/22d29f948b13ba334319b14755f75843-landscape,d6fd030d?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Tor, Krankenwagen, Sieg - Leistners kuioses Potsdam-Debüt",
+    "link": "https://www.bild.de/sport/fussball/toni-leistner-tor-debuet-6-1-und-kuriose-spielunterbrechung-6abcdc0ee69c7c64bf693315",
+    "image": "https://images.bild.de/6abcdc0ee69c7c64bf693315/90ef7e841b0c3511b8f1d595231fd9ae,a2486875?w=1280",
+    "date": 0
+   },
+   {
     "title": "Live-Ticker - Kinderlose sollen für Pflege mehr zahlen",
     "link": "https://www.bild.de/politik/inland/live-ticker-hier-verkuendet-der-gesundheitsminister-die-pflegereform-6abcd4949475b88d647ad628",
     "image": "https://images.bild.de/6abcd4949475b88d647ad628/25a6794ef642f4583464bd9bed187c8d,ecac07a2?w=1280",
     "date": 0
-   },
-   {
-    "title": "Israel sicher - Flugzeug sollte für Terroranschlag entführt werden",
-    "link": "https://www.bild.de/news/ausland/schreie-blut-flugzeug-sollte-fuer-terroranschlag-entfuehrt-werden-6abcc5db72f1dd17be2d3df6",
-    "image": "https://images.bild.de/6abcc5db72f1dd17be2d3df6/0f96cb3391ed5dc8b63eaa5c189464fb,fc252d09?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Doppelpack von Pino Will - „Fantastisch!“ Leitl schwärmt von den Hertha-Talenten",
-    "link": "https://www.bild.de/sport/fussball/doppelpack-von-pino-will-fantastisch-leitl-schwaermt-von-den-hertha-talenten-6abcda689475b88d647ad6f2",
-    "image": "https://images.bild.de/6abcda689475b88d647ad6f2/c0bfd64e352e483159f27dfc54774ee2-landscape,f79da8c5?w=1280",
-    "date": 0,
-    "titleSl": "Dvojni paket von Pino Will - \"Fantastisch!“ Leitl schwärmt von den Hertha-Talenten"
-   },
-   {
-    "title": "Mission Abschreckung - Polen rüstet sich zum Bollwerk gegen Putin",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/polen-ruestet-sich-zur-neuen-europaeischen-militaermacht-auf-6ab816eaa8b3f6fdb1edc4a1",
-    "image": "https://images.bild.de/6ab816eaa8b3f6fdb1edc4a1/f326d380e0c8706a2158d88f7adcfdf7,4d688c84?w=1280",
-    "date": 0,
-    "titleSl": "Poslanstvo Abschreckung - Polen rüstet sich zum Bollwerk gegen Putin"
-   },
-   {
-    "title": "Iris Berben schwärmt von Céline Dion - Das Grandes-Dames-Treffen von Paris",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/ein-gaensehautmoment-iris-berben-ueber-ihr-besonderes-treffen-mit-celine-dion-6abbcf4d4b6805f784a0af3a",
-    "image": "https://images.bild.de/6abbcf4d4b6805f784a0af3a/c8b8821483350c208ef302339d3f1955,91bf7dba?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Satte Steigerung - Marktwert-Explosion bei FCK-Talent",
-    "link": "https://www.bild.de/sport/fussball/1-fc-kaiserslautern-marktwert-explosion-bei-fck-talent-6abccc8419ba57204ed89c41",
-    "image": "https://images.bild.de/6abccc8419ba57204ed89c41/e4ae554b2e908fd31709ab342f247ad8,b1399641?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Bald ist es soweit! - Hathaway zeigt sich hochschwanger bei Premiere",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GcDNHQWVhVUpOMGc1UjF4eUpiQUtVeU94REFDN1U1OWR0X01EX2pUM2VVOWdBQUp6Y2RHZXo3dVRsQQ?oc=5",
+    "image": "",
+    "date": 1790766420000
+   },
    {
     "title": "„Wien in Zahlen“ - Bundeshauptstadt vor allem bei Syrern beliebt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBSQ1dHV0pjTjJMR1RQUGJPZmpXNnFERElXVUwzeWtqTU1mS2FTVHZ2bHpxZHBUOTd1N1RBNC1CSG5Zdw?oc=5",
@@ -484,12 +488,6 @@
     "image": "",
     "date": 1790766000000,
     "titleSl": "„Krone“-Kommentar - Schüler ohne Deutsch: Ali je bil soll aus denen werden?"
-   },
-   {
-    "title": "Seniorentag - Ein Tänzchen und eine über 70-jährige Freundschaft",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hTGt5cGxYVHpoYXpYUU1VWVQ4NmZyRUtQVy1FVXJ6cGJBOXVHd0xIM1lQN2xmdnY4bTROQVNTNkZlZw?oc=5",
-    "image": "",
-    "date": 1790765100000
    }
   ],
   "rainews": [
@@ -554,11 +552,11 @@
     "titleSl": "Rafles à Marseille en 1943 : la justice reconnaît un « crime contre l'humanité »"
    },
    {
-    "title": "Mighty Sparrow, légende du calypso, est mort à l’âge de 91 ans",
-    "link": "https://www.lemonde.fr/musiques/article/2026/09/30/mighty-sparrow-legende-du-calypso-est-mort-a-l-age-de-91-ans_6786041_1654986.html",
-    "image": "https://img.lemde.fr/2026/09/30/1065/0/2505/1252/644/322/60/0/4ce1bc3_upload-1-7zuw4om69jys-gettyimages-463003959.jpg",
-    "date": 1790762977000,
-    "titleSl": "Mighty Sparrow, légende du calypso, est mort à l 'âge de 91 ans"
+    "title": "« Des dommages incommensurables » : pour la presse britannique, les malversations de Manchester City vont ternir l’image de la Premier League",
+    "link": "https://www.lemonde.fr/sport/article/2026/09/30/des-dommages-incommensurables-pour-la-presse-britannique-les-malversations-de-manchester-city-vont-ternir-l-image-de-la-premier-league_6786042_3242.html",
+    "image": "https://img.lemde.fr/2026/09/29/602/0/5472/2736/644/322/60/0/1caeb46_ftp-1-v1lc2bjirk8u-1510b3dea21a492f8c369f1fff166f97-0-d420af514f114a4c8578b229d649b17d.jpg",
+    "date": 1790763032000,
+    "titleSl": "« Des dommages incommensurables » : pour la presse britannique, les malversations de Manchester City vont ternir l'image de la Premier League"
    },
    {
     "title": "L’IA émettra six fois plus de CO₂ en 2030 qu’en 2025, selon l’étude d’un collectif d’experts",
