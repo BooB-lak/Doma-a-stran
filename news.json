@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T00:12:23.826Z",
+ "generatedAt": "2026-09-30T00:14:25.669Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
+    "link": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
+    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-maha-mgvh/29dc-maha-mgvh-mediumSquareAt3X.jpg",
+    "date": 1790727027000,
+    "titleSl": "A.I. je \"bolje obveščen\" kot zdravniki, je Kennedy povedal na vrhu MAHA, ki ga podpira industrija"
+   },
+   {
     "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
     "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
     "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30nat-pope-anthropic-wfkz/30nat-pope-anthropic-wfkz-mediumSquareAt3X.jpg",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29nat-fraternities-zwvb/29nat-fraternities-zwvb-mediumSquareAt3X.jpg",
     "date": 1790725961000,
     "titleSl": "Cornellovo poglavje Chi Phi se sooča s pregledom zaradi obtožb o napadu"
-   },
-   {
-    "title": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
-    "link": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
-    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-maha-mgvh/29dc-maha-mgvh-mediumSquareAt3X.jpg",
-    "date": 1790725301000,
-    "titleSl": "A.I. je \"bolje obveščen\" kot zdravniki, je Kennedy povedal na vrhu MAHA, ki ga podpira industrija"
    },
    {
     "title": "Trump Launches Government Chatbot That Contradicts Some of His Claims",
@@ -242,6 +242,13 @@
    }
   ],
   "bbc": [
+   {
+    "title": "One of the five men arrested near RAF Fairford called 999 himself",
+    "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4353/live/d68d09e0-bc57-11f1-bc1f-3f186ca4140c.jpg",
+    "date": 1790727144000,
+    "titleSl": "Eden od petih moških, aretiranih v bližini RAF Fairforda, je sam poklical 999"
+   },
    {
     "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
     "link": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daad/live/5e8c73d0-bc4e-11f1-bd21-bdf910f2cec6.jpg",
     "date": 1790719590000,
     "titleSl": "Čas je, da Tuchel Aleksandru-Arnoldu ponudi nekaj zaupanja"
-   },
-   {
-    "title": "Time for Tuchel to offer Alexander-Arnold some trust",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daad/live/5e8c73d0-bc4e-11f1-bd21-bdf910f2cec6.jpg",
-    "date": 1790719590000,
-    "titleSl": "Čas je, da Tuchel Aleksandru-Arnoldu ponudi nekaj zaupanja"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-    "link": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26272819917838-1790724975.jpg?resize=1920%2C1440",
-    "date": 1790725412000,
-    "titleSl": "Trump in vrhunska tehnološka podjetja podpišejo sporazum o razvoju umetne inteligence \"samouprave\""
-   },
    {
     "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
     "link": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abc03e06304-1790706656.jpg?resize=1920%2C1440",
     "date": 1790721490000,
     "titleSl": "ZN podaljšali mandat sil za zatiranje tolp na Haitiju za šest mesecev"
+   },
+   {
+    "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
+    "link": "https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abc1de7-1790713319.jpg?resize=1920%2C1440",
+    "date": 1790720638000,
+    "titleSl": "Zaupanje potrošnikov v ZDA je doseglo najnižjo raven od leta 2014 pred vmesnimi volitvami"
    }
   ],
   "guardian": [
@@ -454,43 +454,50 @@
   ],
   "krone": [
    {
-    "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CRGlDamEzNHVkX2h4eEx2TGVGeEtGY2xuZ3ZfZl93SWJLbW5VUkxLWVBON0R0cWw2UlJHQ0ZVaVljSExyZFEzbWlIRUdfUURGUGFvQ0Zncw?oc=5",
+    "title": "Ihr Mondkalender - krone.at",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HelNocG84Q2lUN3RieEdmbTRvam1BdWJrVGZDcVJWcm1ibDBodUZrdnN4RC1fSGw5Q2RxR296QUV1dnlhWnlmTl9QRUhzMk1Dal9wbGJrSQ?oc=5",
     "image": "",
-    "date": 1790723474000
+    "date": 1790721640000
    },
    {
-    "title": "Frankreich im Aufruhr - Schülerproteste: „Diese Gewalt ist unsäglich“",
+    "title": "Frankreich im Aufruhr - Schülerproteste: „Diese Gewalt ist unsäglich“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5udUNSY05xTXZja0V0Z3JPbndqZ1FBLUN4MUg5SEl5Y3NHbWNDd0ZLdmw2cWVZQjJLcTZYWWg2OUhZQQ?oc=5",
     "image": "",
     "date": 1790716440000
    },
    {
-    "title": "Kellnerin packt aus - Wie schlimm ist das Oktoberfest wirklich?",
+    "title": "Kellnerin packt aus - Wie schlimm ist das Oktoberfest wirklich? - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pSTFmcTh0clQ5Nm9ZRFhrNGdTV0h0MklTZnNiZlhqeWZhSWFXYnFqeDlZUUEzUllFM1FUcDRzMV8xcHdvLTgw?oc=5",
     "image": "",
     "date": 1790715540000
    },
    {
-    "title": "Grob fahrlässig - Anklage gegen BMW-Fahrer nach Tod von Promi-Wirt",
+    "title": "Grob fahrlässig - Anklage gegen BMW-Fahrer nach Tod von Promi-Wirt - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3b2ZlbWtrQ0Z3TGJHTVRtZlNfS0YtbDA3NEtuczZvX1ZHLXRMVTJVOE5QdE9CbGw5dkdVUWZBX1I3bC1lX2JR?oc=5",
     "image": "",
     "date": 1790715060000
    },
    {
-    "title": "Hassverbrechen steigen - New York hat große Probleme mit Antisemitismus",
+    "title": "Hassverbrechen steigen - New York hat große Probleme mit Antisemitismus - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ScFhtT0JJNzdfX0hidG5yY1IySE9pX1hhc3RsYXNkczVySV94OWFTM2RyN1BxNnhZYjhtUmJRcnR5dw?oc=5",
     "image": "",
     "date": 1790715060000
    },
    {
-    "title": "Frontal-Attacke - Ceferin vergleicht Infantino mit Märchen-Kaiser",
+    "title": "Frontal-Attacke - Ceferin vergleicht Infantino mit Märchen-Kaiser - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9EUDJiZmxTNWJHaVo3c0hUNWsyeWVhdUVwYk9uNXB0eHVpdUl6WlI0MHRmaXk2OEg3V0xINmNYYW1IQQ?oc=5",
     "image": "",
     "date": 1790715000000
    }
   ],
   "rainews": [
+   {
+    "title": "Politica e scienza divise, gli esperti: “L&#x27;autoregolamentazione di Big Tech è una farsa\"",
+    "link": "https://www.rainews.it/articoli/2026/09/intelligenza-artificiale-politica-e-scienza-divise-sull-accordo-autoregolamentazione-e-una-farsa-9ae63d0d-311c-4744-a5fd-ec2f19a9fc37.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/23/1790197366924_rainewsedeaf.jpg",
+    "date": 1790723100000,
+    "titleSl": "Politica e scienza divise, gli esperti: \"L 'autoregolamentazione di Big Tech è una farsa\""
+   },
    {
     "title": "Casinelli: contro la disinformazione serve un impegno condiviso",
     "link": "https://www.rainews.it/video/2026/09/casinelli-contro-la-disinformazione-serve-un-impegno-condiviso-5816d4dd-a41a-4e61-805d-f6cfd51fef8b.html",
@@ -521,12 +528,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/29/1790714570092_ROSSI.jpg",
     "date": 1790714580000,
     "titleSl": "Rai, Ad Rossi: \"Necessario ricongiungere l'informatione al giornalismo\""
-   },
-   {
-    "title": "Trump incontra i vertici Big Tech su sicurezza AI: \"Si autoregoleranno\". Nessun controllo federale",
-    "link": "https://www.rainews.it/articoli/2026/09/trump-incontra-vertici-big-tech-su-sicurezza-ai-si-autoregoleranno-af6154cf-1e7e-4eaa-b97e-12757adc5125.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/15/1789429217969_CXG.jpg",
-    "date": 1790714160000
    }
   ],
   "lemonde": [
