@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T08:20:42.850Z",
+ "generatedAt": "2026-09-30T08:22:27.510Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Mednarodni dan prevajanja opozarja na vlogo prevajalcev v vključujočem in povezanem svetu",
+    "link": "https://www.rtvslo.si/kultura/jezik/mednarodni-dan-prevajanja-opozarja-na-vlogo-prevajalcev-v-vkljucujocem-in-povezanem-svetu/795347",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/09/30/66972693.jpg",
+    "date": 1790756489000
+   },
+   {
     "title": "Matko: Prvi gol za reprezentanco eden najlepših trenutkov v karieri",
     "link": "https://www.rtvslo.si/sport/nogomet/matko-prvi-gol-za-reprezentanco-eden-najlepsih-trenutkov-v-karieri/795322",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/30/67108344.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/knjige/kdo-je-podpisan-pod-inventuro-danes-poleti-arsova-lastovka/795338",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/30/67108374.jpg",
     "date": 1790754048000
-   },
-   {
-    "title": "Na domačem evropskem prvenstvu (pričakovano) brez Pogačarja",
-    "link": "https://www.rtvslo.si/sport/kolesarstvo/svetovno-prvenstvo-v-kolesarstvu/na-domacem-evropskem-prvenstvu-pricakovano-brez-pogacarja/795335",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/08/01/67065160.jpg",
-    "date": 1790753675000
    }
   ],
   "zurnal": [
@@ -287,18 +287,18 @@
   ],
   "aljazeera": [
    {
-    "title": "South Korea demands apology over DMZ blasts as North denies planting mines",
+    "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
     "link": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abcaa075267-1790749191.jpg?resize=1920%2C1440",
     "date": 1790755340000,
-    "titleSl": "Južna Koreja zahteva opravičilo zaradi eksplozij DMZ, saj Severna Koreja zanika postavitev min"
+    "titleSl": "S Koreja zahteva opravičilo zaradi eksplozij DMZ, saj Severna Koreja zanika postavitev min"
    },
    {
-    "title": "FlyDubai flight to Israel diverted to Saudi Arabia after emergency alert",
+    "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
     "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2016/03/9eab5185bc994fb5be50636da22f02ca_18.jpeg?resize=1200%2C675",
     "date": 1790755210000,
-    "titleSl": "Let FlyDubai v Izrael je bil preusmerjen v Savdsko Arabijo po opozorilu v nujnih primerih"
+    "titleSl": "Letalo Flydubai v Izrael je bilo preusmerjeno v Savdsko Arabijo po izrednem opozorilu"
    },
    {
     "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
@@ -413,6 +413,18 @@
   ],
   "bild": [
    {
+    "title": "Im Vergleich zum August - Zahl der Arbeitslosen sinkt unter drei Millionen",
+    "link": "https://www.bild.de/politik/im-vergleich-zum-august-zahl-der-arbeitslosen-sinkt-unter-drei-millionen-6abcc0f41181c77c293b767f",
+    "image": "https://images.bild.de/6abcc0f41181c77c293b767f/7fbe24958ed68ae21ee40b607f07f974,f34fad9b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Grüne und SPD wollen koalieren - Die Skandal-Akte „Berliner Linke“",
+    "link": "https://www.bild.de/politik/inland/gruene-und-spd-wollen-koalieren-die-skandal-akte-berlinerlinke-6abbf08d2660ba1a21b06d6a",
+    "image": "https://images.bild.de/6abbf08d2660ba1a21b06d6a/4a86d9ef63f19c1f27fd1e5b192338fb-landscape,133b0116?w=1280",
+    "date": 0
+   },
+   {
     "title": "Berufung in Budapest - Gericht verringert Strafe für Maja T. auf 7 Jahre",
     "link": "https://www.bild.de/news/berufung-in-budapest-gericht-verringert-strafe-fuer-maja-t-auf-sieben-jahre-6abcb874c7aea452433f033b",
     "image": "https://images.bild.de/6abcb874c7aea452433f033b/a7c5c8d223c136383d8c067fb3109c5e,72e5eff4?w=1280",
@@ -437,55 +449,43 @@
     "link": "https://www.bild.de/regional/rheinland-pfalz/fahndung-audi-nachts-in-brand-gesetzt-polizei-fahndet-nach-brandstifter-6abcadae0f65d43326f69747",
     "image": "https://images.bild.de/6abcadae0f65d43326f69747/8fca17bde080de67d1345d489fae2ad6,ca36525b?w=1280",
     "date": 0
-   },
-   {
-    "title": "Umweltbewegung fordert Rechte - Kann bald ein Fluss klagen?",
-    "link": "https://www.bild.de/leben-wissen/wissenschaft/umweltbewegung-fordert-rechte-fuer-die-natur-kann-bald-ein-fluss-klagen-6abcbf580f65d43326f698b5",
-    "image": "https://images.bild.de/6abcbf580f65d43326f698b5/96aacc16af196e5504161adbd8c17c0c,ab394c6c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Im Vergleich zum August - Zahl der Arbeitslosen sinkt unter drei Millionen",
-    "link": "https://www.bild.de/politik/im-vergleich-zum-august-zahl-der-arbeitslosen-sinkt-unter-drei-millionen-6abcc0f41181c77c293b767f",
-    "image": "https://images.bild.de/6abcc0f41181c77c293b767f/7fbe24958ed68ae21ee40b607f07f974,f34fad9b?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Showdown am Sonntag - Machtkampf um geplanten Ländergipfel in der SPÖ - krone.at",
+    "title": "Showdown am Sonntag - Machtkampf um geplanten Ländergipfel in der SPÖ",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94VGZfcDZjZkR5b202Rm9wVHR0WE8zZHdQQUJzM2FXaHhDSkRIVHlPV190NERmS0J0RjBNMnItQ2VnQQ?oc=5",
     "image": "",
     "date": 1790756220000
    },
    {
-    "title": "Trotz Zwischenfällen: - KI-Spezialist Anthropic plant Billionen-Börsengang - krone.at",
+    "title": "Trotz Zwischenfällen: - KI-Spezialist Anthropic plant Billionen-Börsengang",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KaTZlUmtDam0wLTZQeWh2bXJiOGFnVThudlQ4aXR3ZGdiVlhPVjVVWmtwc0ttdjhQQ2Q2QUM4NVNWQQ?oc=5",
     "image": "",
     "date": 1790756160000,
-    "titleSl": "Trotz Zwischenfällen: - KI-Specialist Antropic plant Billionen-Börsengang - krone.at"
+    "titleSl": "Trotz Zwischenfällen: - KI-Specialist Antropic plant Billionen-Börsengang"
    },
    {
-    "title": "„Unterirdisch!“ Schumacher rechnet mit Horner ab - krone.at",
+    "title": "„Unterirdisch!“ Schumacher rechnet mit Horner ab",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96Q3pZTTMwaTQzcTg0WW9pNk9xMDFSUWtkcnFRWExQMVdlbTJuU1NVUlUzQ01iUjRMR0NnS3ZpRG9Xdw?oc=5",
     "image": "",
     "date": 1790756040000,
-    "titleSl": "\"Unterirdisch!\" Schumacher rechnet mit Horner ab - krone.at"
+    "titleSl": "\"Unterirdisch!\" Schumacher rechnet mit Horner ab"
    },
    {
-    "title": "„Magazin Royal“-Aus - ZDF: Darum schmeißt Jan Böhmermann wirklich hin! - krone.at",
+    "title": "„Magazin Royal“-Aus - ZDF: Darum schmeißt Jan Böhmermann wirklich hin!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xUVcwczlnS1dxVUNJWmRXejVmQkp4dl9HZGpjWWFxbjAxcW5SYVFhdHFyWms2VHMzRG1pbmh5cHV1Zw?oc=5",
     "image": "",
     "date": 1790755680000
    },
    {
-    "title": "Folge von Mittwoch - Philipp bringt Bewegung direkt in die Schule - krone.at",
+    "title": "Folge von Mittwoch - Philipp bringt Bewegung direkt in die Schule",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53NVdqUUVNQldRTEVPRV94elAxY3JvVG9LeXhuTTNQSlktUEdjSFJKRFVXY1ZKNi1SQm5zTmhVV2F0QQ?oc=5",
     "image": "",
     "date": 1790755620000
    },
    {
-    "title": "„Gemma Gassi“: Auf zur Spurensuche im Prater - krone.at",
+    "title": "„Gemma Gassi“: Auf zur Spurensuche im Prater",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qZ3RSYkhwNlQ4by1KN3RhX1lPVXVrR001cWpiRldjNEpabjg5dFdOV3l2MFB0Wk9oZURqMUtvdFFiQQ?oc=5",
     "image": "",
     "date": 1790755260000
@@ -502,7 +502,7 @@
    {
     "title": "Spagna, il governo approva misure di tutela contro gli sfratti fino al 2030",
     "link": "https://www.rainews.it/articoli/2026/09/spagna-il-governo-approva-misure-di-tutela-contro-gli-sfratti-fino-al-2030-11354462-5672-4346-97d0-8001c90eb753.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/26/1790437566755_WhatsApp_Image__at_.._.jpeg",
+    "image": "https://www.rainews.it/dl/img/2026/9/30/1790756570086_vlcsnaphms.png",
     "date": 1790754900000
    },
    {
