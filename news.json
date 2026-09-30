@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T17:38:28.648Z",
+ "generatedAt": "2026-09-30T17:40:45.725Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,18 @@
   ],
   "24ur": [
    {
+    "title": "Nov razpis za mlade: na voljo 60 najemnih stanovanj",
+    "link": "https://www.24ur.com/novice/slovenija/nov-razpis-za-mlade-na-voljo-60-najemnih-stanovanj.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2024/4c5214e32a0191467a3d_63253954.jpg?v=6f8c&fop=fp:0.47:0.47",
+    "date": 1790789421000
+   },
+   {
+    "title": "Futsal pred polno tribuno Maksimirja, med strelci tudi dva Slovenca",
+    "link": "https://www.24ur.com/sport/futsal/futsal-pred-polno-tribuno-maksimirja-med-strelci-tudi-dva-slovenca.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/6dd729303f7382804b68_63656281.png?v=a065&fop=fp:0.45:0.55",
+    "date": 1790789359000
+   },
+   {
     "title": "Otočani v paniki – so gledalci odločili o tem, kdo naj bo s kom v paru?",
     "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/otocani-v-paniki-so-gledalci-odlocili-o-tem-kdo-naj-bo-s-kom-v-paru.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/75308b6af43d833ed25e_63656216.png?v=7042&fop=fp:0.44:0.38",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/svicarji-umaknili-podporo-infantinu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/5b3fd3658e305c0cbf16_63643151.jpg?v=c4c9&fop=fp:0.57:0.27",
     "date": 1790785854000
-   },
-   {
-    "title": "Rusi zagrozili Natu. Rutte: Putin ve, da nas ne more premagati",
-    "link": "https://www.24ur.com/novice/tujina/rusi-zagrozili-natu-pripravljeni-uporabiti-tudi-jedrsko-orozje.html",
-    "image": "https://images.24ur.com/media/images/213xX/Mar2025/0063a68b799cf0fc9b1b_63380435.jpg?v=a565&fop=fp:0.59:0.22",
-    "date": 1790785789000
-   },
-   {
-    "title": "Pirc Musarjeva z Janšo na delovnem sestanku",
-    "link": "https://www.24ur.com/novice/slovenija/pirc-musarjeva-z-janso-na-sestanku-za-zaprtimi-vrati.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/746db0034b58a91255be_63656262.jpg?v=c193&fop=fp:0.18:0.40",
-    "date": 1790785478000
    }
   ],
   "rtvslo": [
@@ -119,7 +119,7 @@
    {
     "title": "Huda prometna nesreča pri Mežici: Namesto da bi mu pomagala, sta pobegnila",
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/huda-prometna-nesreca-pri-mezici-namesto-da-bi-mu-pomagala-sta-pobegnila-465991",
-    "image": "https://www.zurnal24.si/media/img/e1/d0/59c33f49d92b1f1857de.jpeg",
+    "image": "https://www.zurnal24.si/media/img/c1/81/21d69e38155e31af6da0.jpeg",
     "date": 1790789400000
    },
    {
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Die Aufnahmen aus dem Terror-Flieger - Erleichterung und Jubel nach Panik",
+    "link": "https://www.bild.de/news/nach-flugzeug-drama-die-ersten-bilder-aus-der-maschine-6abce5d79475b88d647ad827",
+    "image": "https://images.bild.de/6abce5d79475b88d647ad827/c1278b78de9691fc42184efb9347ad1a,2f5fb64f?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kommentar - Faire Lösung für Kinderlose",
     "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-faire-loesung-fuer-kinderlose-6abd3438eb10ca6ab00608e9",
     "image": "https://images.bild.de/6abd3438eb10ca6ab00608e9/c6047afaae505739e3850b7a9ff6ac0b,4ee860a5?w=1280",
@@ -445,12 +451,6 @@
     "title": "Stargast beim Landespokal - Das verbindet Adler mit Liga 7",
     "link": "https://www.bild.de/sport/fussball/stargast-beim-landespokal-das-verbindet-rene-adler-mit-liga-7-6abbd8be075de12d78a8deb9",
     "image": "https://images.bild.de/6abbd8be075de12d78a8deb9/6e3d62c533e388f496fcc7d5a8c858cf,93c1392d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Dieser Busch ist eigentlich tot - Hausverwaltung ausgetrickst, Strafe entgangen!",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/hausverwaltung-ausgetrickst-dieser-busch-ist-eigentlich-tot-6abcdfa27eb2c46354db2ce3",
-    "image": "https://images.bild.de/6abcdfa27eb2c46354db2ce3/b5fa01a35009cc0eece4f5d72121bc48,b794f6e?w=1280",
     "date": 0
    }
   ],
@@ -502,17 +502,18 @@
     "titleSl": "Bomba a \"Ballando con le Stelle\", Barbara d 'Urso scende in pista come giurata!"
    },
    {
-    "title": "Ustica, la procura chiede di riaprire le indagini: nuovi documenti in arrivo da Parigi",
-    "link": "https://www.rainews.it/articoli/2026/09/strage-di-ustica-la-procura-di-roma-ritira-la-richiesta-di-archiviazione-f03e33a5-908c-4cb3-9c35-1f6613337763.html",
-    "image": "https://www.rainews.it/dl/img/2025/06/27/1751021348996_rainewsfadcfbdedbcbdcbe.jpg",
-    "date": 1790789820000
-   },
-   {
     "title": "Volo FlyDubai: il pilota è riverso a terra, i passeggeri iniziano a filmare poi l&#x27;appello sui social",
     "link": "https://www.rainews.it/video/2026/09/volo-flydubai-il-pilota-e-riverso-a-terra-i-passeggeri-iniziano-a-filmare-poi-lappello-sui-social-d511fc01-323e-4c5b-996c-df192572e2b7.html",
     "image": "https://www.rainews.it/dl/img/2026/9/30/1790788613419_.png",
     "date": 1790788560000,
     "titleSl": "Volo FlyDubai: il pilota è riverso a terra, i passeggeri iniziano a filmare poi l'appello sui social"
+   },
+   {
+    "title": "Oasis bloccano l&#x27;asta delle Desk Tapes, ritirati i preziosi live inediti anni 90",
+    "link": "https://www.rainews.it/articoli/2026/09/oasis-bloccano-lasta-delle-desk-tapes-ritirati-i-preziosi-live-inediti-anni-90-74b5f6e8-b40d-44c3-915d-dc33f77780b5.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/9/1788984983355_large.jpg",
+    "date": 1790787780000,
+    "titleSl": "Oasis bloccano l'asta delle Desk Tapes, ritirati i preziosi live inediti anni 90"
    },
    {
     "title": "Chiusura in rosso per le piazze europee, preoccupate dall&#x27;aumento dell&#x27;inflazione",
@@ -585,6 +586,12 @@
     "date": 1790789145000
    },
    {
+    "title": "Máxima tensión con Cristiano Ronaldo en la selección portuguesa",
+    "link": "https://elpais.com/deportes/futbol/2026-09-30/cristiano-abandona-la-concentracion-de-la-seleccion-portuguesa.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VIKF2SLV7JG2FEZ77DLRADGRNA.jpg?auth=c8d601f10167a63463263d054e71e0f69e1b7bcfb941ad657a73f00c8ef296c8",
+    "date": 1790788732000
+   },
+   {
     "title": "El intento de secuestro de aviones vinculados a Israel, una amenaza que viene de los años setenta",
     "link": "https://elpais.com/internacional/2026-09-30/el-intento-de-secuestro-de-aviones-vinculados-a-israel-una-amenaza-que-viene-de-los-anos-setenta.html",
     "image": "https://imagenes.elpais.com/resizer/v2/HXOT2WVLAZC37MAX3YN7SS4Y3I.jpg?auth=97b35799c1f0b476a35681aea238229adffcf7cd25658fccc3f5d3f2261d57e4",
@@ -608,13 +615,6 @@
     "link": "https://elpais.com/internacional/2026-09-30/el-primer-ministro-britanico-asegura-que-iran-esta-detras-del-incidente-en-la-base-aerea-de-fairford.html",
     "image": "https://imagenes.elpais.com/resizer/v2/CLGJLQ6JEZPGJB7V2WZX4PIXCA.jpg?auth=952f6bd1063c8ddd8facf67d0da9123989ac65e7c834bc6f4eece868951cee42",
     "date": 1790787176000
-   },
-   {
-    "title": "El conductor de un bus entre Zamora y Madrid humilla a una pasajera magrebí: “¡No hablas español para lo que no quieres!”",
-    "link": "https://elpais.com/espana/2026-09-30/el-conductor-de-un-bus-entre-zamora-y-madrid-humilla-a-una-pasajera-magrebi-no-hablas-espanol-para-lo-que-no-quieres.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220310_131629_video_1800.mp4",
-    "date": 1790786679000,
-    "titleSl": "El conductor de un bus entre Zamora y Madrid humilla a una pasajera magrebí: \"¡No hablas español para lo que no quieres!\""
    }
   ]
  },
