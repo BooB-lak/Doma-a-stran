@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T07:06:27.136Z",
+ "generatedAt": "2026-09-30T07:08:28.234Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Subvencije za gorivo: \"Ne pričakujte nižjih cen\"",
+    "link": "https://www.zurnal24.si/slovenija/subvencija-gorivo-cene-prevozniki-465938",
+    "image": "https://www.zurnal24.si/media/img/b6/f2/544c586e535915a9788c.jpeg",
+    "date": 1790752020000
+   },
+   {
     "title": "BMW predstavil klasično osmo generacijo BMW serije 3, brez dizla",
     "link": "https://www.zurnal24.si/avto/bmw-predstavil-klasicno-osmo-generacijo-bmw-serije-3-brez-dizla-465933",
     "image": "https://www.zurnal24.si/media/img/3c/ac/478a3a7cc5f7db69429d.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/pod-streho/plin-podrazitev-plinarna-maribor-465929",
     "image": "https://www.zurnal24.si/media/img/ae/f8/f66a726efeb5a3791b42.jpeg",
     "date": 1790747040000
-   },
-   {
-    "title": "Anja Ramšak je postala mamica! Tako je dala hčerki ime!",
-    "link": "https://www.zurnal24.si/magazin/vip/anja-ramsak-je-postala-mamica-465928",
-    "image": "https://www.zurnal24.si/media/img/56/62/86d18bd3c4bc4f7ba61b.png",
-    "date": 1790746860000
    }
   ],
   "reuters": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
+    "link": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8ea146-1787732294.jpg?resize=1920%2C1440",
+    "date": 1790750889000,
+    "titleSl": "Trump imenuje Kim Jong Una \"prijateljem\" in zmanjšuje jedrski arzenal Severne Koreje"
+   },
+   {
     "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
     "link": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26272621133846-1790740353_adfc62-1790746871.jpg?resize=1200%2C630&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790743124.jpg?resize=1435%2C1080&quality=80",
     "date": 1790743174000,
     "titleSl": "Južnoafriški predsednik po umorih odredil ukrepanje proti femicidu"
-   },
-   {
-    "title": "Democrats hope anger at Trump enough to get young people to vote",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790742907.jpg?resize=1920%2C1080&quality=80",
-    "date": 1790742987000,
-    "titleSl": "Demokrati upajo, da bo jeza na Trumpa dovolj, da bodo mladi volili"
    }
   ],
   "guardian": [
@@ -416,9 +416,28 @@
   ],
   "bild": [
    {
-    "title": "Israelische Kampfjets aufgestiegen - Entführungsdrohung! Flugzeug nach Tel Aviv ändert Kurs",
+    "title": "Erst Entführungsdrohung, dann DAS - Piloten prügeln sich in Cockpit",
     "link": "https://www.bild.de/politik/israelische-kampfjets-aufgestiegen-entfuehrungsdrohung-flugzeug-nach-tel-aviv-aendert-kurs-6abcadda72f1dd17be2d3bd1",
     "image": "https://images.bild.de/6abcadda72f1dd17be2d3bd1/0f96cb3391ed5dc8b63eaa5c189464fb,fc252d09?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Wegen DDR-Kultrollern - Sachsen will Moped-Revolution für Europa",
+    "link": "https://www.bild.de/politik/inland/moped-tempo-60-sachsen-will-eu-regel-fuer-alle-roller-aendern-6abbb99f72f1dd17be2d30f5",
+    "image": "https://images.bild.de/6abbb99f72f1dd17be2d30f5/353574892063eb774338b127b6b57a03,ff9fc751?w=1280",
+    "date": 0,
+    "titleSl": "Wegen DDR-Kultrollern - Sachsen bo Moped-Revolution za Evropo"
+   },
+   {
+    "title": "Zoff im Paulaner-Zelt - 7 Kündigungen! Kellner-Aufstand beim Oktoberfest",
+    "link": "https://www.bild.de/news/inland/sieben-kellner-werfen-hin-zoff-hinterm-zapfhahn-auf-dem-oktoberfest-6abbde47075de12d78a8df12",
+    "image": "https://images.bild.de/6abbde47075de12d78a8df12/89cff376d9ac502b46ccb267a91c3738,ffda06c5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Für maximale Gewinne - Das ist der perfekte Börsenplan mit Mitte 40",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/mit-40-an-die-boerse-ist-es-fuer-vermoegensaufbau-zu-spaet-6aabd7073e0af7910e522bba",
+    "image": "https://images.bild.de/6aabd7073e0af7910e522bba/f60185fbab8eb0ac82f907fc57211a9e,f298b09b?w=1280",
     "date": 0
    },
    {
@@ -433,29 +452,15 @@
     "link": "https://www.bild.de/leben-wissen/digital/pixel-buds-pro-2-und-2a-gemini-steuert-klang-und-anc-per-sprachbefehl-6abbd0e34b6805f784a0af54",
     "image": "https://images.bild.de/6abbd0e34b6805f784a0af54/29e61587b2938901484964a15516a35c-landscape,81895488?w=1280",
     "date": 0
-   },
-   {
-    "title": "Fans besorgt, Blessin schwärmt - Die Wahrheit über den Gladbach-Kader!",
-    "link": "https://www.bild.de/sport/fussball/die-wahrheit-ueber-den-kader-von-gladbach-6abbbd89075de12d78a8dc54",
-    "image": "https://images.bild.de/6abbbd89075de12d78a8dc54/bb1c5bae36c248e3c7f5554b6c81c97e,b098baf9?w=1280",
-    "date": 0,
-    "titleSl": "Oboževalci besorgt, Blessin schwärmt - Die Wahrheit über den Gladbach-Kader!"
-   },
-   {
-    "title": "2000 Beamte stürmen 140 Objekte in Europa - Mega-Razzia gegen Hells Angels in vier Ländern!",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/mega-razzia-gegen-hells-angels-2000-einsatzkraefte-stuermen-140-objekte-in-europa-6abc8ba372f1dd17be2d3987",
-    "image": "https://images.bild.de/6abc8ba372f1dd17be2d3987/dd7027e48b7e74cc652921e42927c500,27bc2e7a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "2 England-Tore in 4 Tagen - Köln-Star Moore schießt sich in Derby-Laune",
-    "link": "https://www.bild.de/sport/fussball/1-fc-koeln-2-england-tore-in-4-tagen-koeln-star-mikey-moore-schiesst-sich-in-derby-laune-6abbbd5b4b6805f784a0ad48",
-    "image": "https://images.bild.de/6abbbd5b4b6805f784a0ad48/0d68d9469b92a983adadc8fa79a00699,c7b2bdd1?w=1280",
-    "date": 0,
-    "titleSl": "2 Anglija-Tore in 4 Tagen - Köln-Star Moore schießt sich in Derby-Laune"
    }
   ],
   "krone": [
+   {
+    "title": "„Schaden angerichtet“ - Britischer Premier schließt EU-Rückkehr nicht aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12TjA1bjJPYnVCa3haWWN5a2s3NTRCM0JQWFZtYXdIVEFtS0NlMDVqVkJhWUFmTEp3U1o4cHlhTi1tUQ?oc=5",
+    "image": "",
+    "date": 1790752020000
+   },
    {
     "title": "Große Wissenslücke - Beim Mülltrennen kann Jung einiges von Alt lernen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jRk11OUs1cE9zdXJMN2pHbkZOVnc1UVhublVVdG90MWFFMGtOVTNzQlpWTGVxLTA5UU8yQ3dmaDE3UQ?oc=5",
@@ -485,12 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WdW1LOXl6MEpRa0VqQmpPZktqSnhCenYzd1NQVmFrd2hvYnhDdWpiajVJYmpHSzUxaWRXb3VNbGVDUQ?oc=5",
     "image": "",
     "date": 1790751540000
-   },
-   {
-    "title": "Menschen im Job halten - NEOS für Modell der „Teilarbeitsfähigkeit“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MYWpQRGNXQnhyT1R6ZmhUSU9IRHRHRkNGN3RCVVA4dmZINWtUMUFGcjZnc3lYSmJFMTFEYnl4TXFYZw?oc=5",
-    "image": "",
-    "date": 1790751120000
    }
   ],
   "rainews": [
