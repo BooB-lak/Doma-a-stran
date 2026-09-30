@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T14:18:30.085Z",
+ "generatedAt": "2026-09-30T14:20:47.933Z",
  "sources": {
   "siol": [
    {
@@ -129,7 +129,7 @@
     "date": 1790776080000
    },
    {
-    "title": "Drama v Škofji Loki: 22-letnik napadel policiste, to je sledilo",
+    "title": "Drama v Škofji Loki: 22-letnik napadel policiste, odjeknil je strel",
     "link": "https://www.zurnal24.si/slovenija/22-letni-moski-napadel-policiste-ti-morali-uporabiti-orozje-465979",
     "image": "https://www.zurnal24.si/media/img/4d/c7/3c25b19c084b4f4719f6.jpeg",
     "date": 1790773680000
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dec/live/ce098010-bcce-11f1-a64c-550be9e3c66b.jpg",
+    "date": 1790777964000,
+    "titleSl": "Policija išče obtožnice proti 20 podjetjem in 54 ljudem zaradi požara v Grenfell Towerju"
+   },
+   {
     "title": "Regulating AI 'not the right place to start' says Bank of England governor",
     "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg",
@@ -269,13 +276,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a47b/live/8c3f0cc0-bc94-11f1-aea9-9d551b09264d.jpg",
     "date": 1790775603000,
     "titleSl": "Premik k ponovni pridružitvi EU med možnostmi za Združeno kraljestvo, pravi Burnham"
-   },
-   {
-    "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dec/live/ce098010-bcce-11f1-a64c-550be9e3c66b.jpg",
-    "date": 1790775367000,
-    "titleSl": "Policija išče obtožnice proti 20 podjetjem in 54 ljudem zaradi požara v Grenfell Towerju"
    },
    {
     "title": "Birmingham and Wales next locations for grooming gangs inquiry",
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
-    "link": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
-    "image": "https://i.guim.co.uk/img/media/e2a46d2dbc2584a2ccf55e70d7cbed5fba946c36/12_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=20788c0a9a42fa57bf03e21ab1193dfb",
-    "date": 1790777635000,
-    "titleSl": "Rast prihodkov v Združenem kraljestvu je bila popravljena navzgor, saj trgi točijo \"odporno\" gospodarstvo"
-   },
-   {
     "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/45398104dea14793129a35a633a60c2cb97118d1/290_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=2aa55540d8a5f1e8f130ffb3616cba88",
@@ -371,6 +364,13 @@
     "image": "https://i.guim.co.uk/img/media/c53b7363316eb910f676591680dc154b754ee637/471_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=653e0453d867ff6c0ae7bed65574d4d0",
     "date": 1790776479000,
     "titleSl": "Trumpova administracija umaknila ZDA iz protikorupcijskega nadzornega organa GRECO"
+   },
+   {
+    "title": "Homeowners in England urged to check flood risk: ‘A third of people don’t realise’",
+    "link": "https://www.theguardian.com/environment/2026/sep/30/two-million-people-uk-unaware-flooding-risk",
+    "image": "https://i.guim.co.uk/img/media/f4f91a23ef2d61c39596e45caf7605883c332fcc/584_109_2409_1927/master/2409.jpg?width=140&quality=85&auto=format&fit=max&s=4460621b2be845941dca7bc6f5ab4bd5",
+    "date": 1790776205000,
+    "titleSl": "Lastniki stanovanj v Angliji so pozvali k preverjanju poplavne ogroženosti: »Tretjina ljudi se tega ne zaveda«"
    }
   ],
   "spiegel": [
@@ -455,17 +455,16 @@
   ],
   "krone": [
    {
+    "title": "Man City muss bangen ++ Rossi trifft zum Auftakt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1EYktZNmVvaGQ0UHdkT2QySlhNTE5xblJlMHZoUm5JNU5FR2NseFVzVmRCX2FJQW1sQi1NdW02NHRuUQ?oc=5",
+    "image": "",
+    "date": 1790777820000
+   },
+   {
     "title": "20 Mitarbeiter bangen - Spenglerei in Finanznot: Insolvenzverfahren läuft",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjeXN1TkhJVHNQQnhoOER0U0RjQnd2UHRfSm05RkphRFhrRkZGM0x3Um84N185TW5qUlgtbWhacmRaZw?oc=5",
     "image": "",
     "date": 1790777700000
-   },
-   {
-    "title": "Böse Überraschung - Darts-Profi Aspinall wütet auf Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91Rk9qWVk2ejdWTnUydzB6VkdsRlc1RUYtSmYweXV3Rm01a3BGdDBNZmhXMjI4SnZPNjVsR0ctS2VPUQ?oc=5",
-    "image": "",
-    "date": 1790777520000,
-    "titleSl": "Böse Überraschung - Pikado-Profi Aspinall wütet auf Instagram"
    },
    {
     "title": "Letzte Chance - Wer heute noch bestellt, spart sich Paketsteuer",
@@ -500,6 +499,13 @@
     "date": 1790776440000
    },
    {
+    "title": "Flydubai, l&#x27;uomo a bordo dell&#x27;aereo dirottato: \"Abbiamo neutralizzato il terrorista\"- il video",
+    "link": "https://www.rainews.it/video/2026/09/flydubai-luomo-a-bordo-dellaereo-dirottato-abbiamo-neutralizzato-il-terrorista-il-video-97bf7e17-a514-4ab7-a934-85337a1d4bc2.html",
+    "image": "https://www.rainews.it/dl/img/2026/9/30/1790776103287_Cattura.PNG",
+    "date": 1790775900000,
+    "titleSl": "Flydubai, l 'uomo a bordo dell' aereo dirottato: \"Abbiamo neutralizzato il terrorista\"- il video"
+   },
+   {
     "title": "Torna Romics dall&#x27;1 al 4 ottobre a Roma, grandi ospiti per i 25 anni della manifestazione",
     "link": "https://www.rainews.it/maratona/2026/09/romics-fumetto-cinema-games-fiera-di-roma-manga-animazione--2cfd3be5-ebea-4ea6-bfac-fb6a7571ba1b.html",
     "image": "https://www.rainews.it/dl/img/2026/9/17/1789657541591_Manifesto_RomicsLupin.jpg",
@@ -524,13 +530,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/30/1790763506321_rainewsfabbccbe.jpg",
     "date": 1790773320000,
     "titleSl": "Terrore sul volo FlyDubai. Tel Aviv: \"Copilota ha cercato di far schiantare l 'aereo\""
-   },
-   {
-    "title": "Friedkin esulta all’assemblea europea: \"Per la Roma un momento storico tra stadio e vetta\"",
-    "link": "https://www.rainews.it/articoli/2026/09/friedkin-esulta-allassemblea-europea-per-la-roma-un-momento-storico-tra-stadio-e-vetta-7689fb92-e93c-4bd7-b67d-c603b3a69578.html",
-    "image": "https://www.rainews.it/dl/img/2023/01/30/1675107545280_GettyImages.jpg",
-    "date": 1790772540000,
-    "titleSl": "Friedkin esulta all'assemblea europea: \"Per la Roma un momento storico tra stadio e vetta\""
    }
   ],
   "lemonde": [
@@ -544,7 +543,7 @@
     "title": "Santé : pourquoi le dispositif du médecin traitant ne bénéficie pas encore à tous les patients, plus de vingt ans après sa création",
     "link": "https://www.lemonde.fr/societe/article/2026/09/30/sante-pourquoi-le-dispositif-du-medecin-traitant-ne-beneficie-pas-encore-a-tous-les-patients-plus-de-vingt-ans-apres-sa-creation_6786077_3224.html",
     "image": "https://img.lemde.fr/2023/03/02/389/0/4252/2126/644/322/60/0/d33c86b_1677770293339-10.jpg",
-    "date": 1790776815000
+    "date": 1790776802000
    },
    {
     "title": "Réductions et crédits d’impôts : des avantages conséquents pour un nombre limité de foyers aux revenus élevés",
@@ -554,7 +553,7 @@
     "titleSl": "Réductions et crédits d'impôts: des avantages conséquents pour un nombre limité de foyers aux revenus élevés"
    },
    {
-    "title": "Orages : « Le danger des épisodes méditerranéens, ce sont les crues éclair : tout déborde très vite »",
+    "title": "« Le danger des épisodes méditerranéens », comme celui qui touche le Sud-Est actuellement, « ce sont les crues éclair : tout déborde très vite »",
     "link": "https://www.lemonde.fr/planete/article/2026/09/30/le-danger-des-episodes-mediterraneens-ce-sont-les-crues-eclair-tout-deborde-tres-vite_6786074_3244.html",
     "image": "https://img.lemde.fr/2026/09/30/645/0/7740/3870/644/322/60/0/824cbc0_ftp-1-xwk7n9mqdx1m-5227113-01-06.jpg",
     "date": 1790776724000
@@ -595,6 +594,12 @@
     "date": 1790776824000
    },
    {
+    "title": "El laboratorio de una crisis global: cómo Bangladés acabó sufriendo el peor brote de sarampión del mundo",
+    "link": "https://elpais.com/planeta-futuro/2026-09-30/el-laboratorio-de-una-crisis-global-como-banglades-acabo-sufriendo-el-peor-brote-de-sarampion-del-mundo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VE3FME2AMZARPGJHQUD4RFUGGQ.jpg?auth=f1402fd702579392275d9c0b3227011ddf3f7877596af6483817cf95b5fe3ceb",
+    "date": 1790776800000
+   },
+   {
     "title": "David Coria, una celebración danzada de la diferencia",
     "link": "https://elpais.com/cultura/2026-09-30/david-coria-una-celebracion-danzada-de-la-diferencia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/ZNNFZLM4FJBPLOHJEZLM7JY25U.JPG?auth=f236d19c4825f1e6ff2b7ee5d8029faf6a6c41339be9be9bed8ff12159722cb9",
@@ -606,12 +611,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/4GS3XUCNCFATFJY25WEKVVKMT4.jpeg?auth=6a94ad6c30c4daa2ac97d82540602799082a96f06cb3284b5765e0e3e8c252fc",
     "date": 1790775263000,
     "titleSl": "La Junta de Andalucía nombra nuevo direktor para el Centro Andaluz de Arte Contemporáneo tras un año sin rumbo"
-   },
-   {
-    "title": "Un politólogo ruso que denunció el fraude electoral recibe una paliza y es encarcelado bajo el cargo de posesión de drogas",
-    "link": "https://elpais.com/internacional/2026-09-30/un-politologo-ruso-que-denuncio-el-fraude-electoral-recibe-una-paliza-y-es-encarcelado-bajo-el-cargo-de-posesion-de-drogas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/EOL3CNY3YJOXBGUJF7IBIIDDPQ.jpg?auth=01406ff9ea701d5aa1909c468263ba9e9816fdf4c54048a0eb0b124d3c52313b",
-    "date": 1790774659000
    }
   ]
  },
