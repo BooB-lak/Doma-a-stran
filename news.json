@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T13:10:35.362Z",
+ "generatedAt": "2026-10-01T13:12:29.448Z",
  "sources": {
   "siol": [
    {
@@ -123,6 +123,12 @@
     "date": 1790860200000
    },
    {
+    "title": "Haaland šel v tožbo, tožena stran: \"Težko razumemo\"",
+    "link": "https://www.zurnal24.si/sport/nogomet/haaland-sel-v-tozbo-tozena-stran-tezko-razumemo-466035",
+    "image": "https://www.zurnal24.si/media/img/fa/25/b0e59b72e83e19a358a0.jpeg",
+    "date": 1790859660000
+   },
+   {
     "title": "Pretresi v Demokratih: Številni odhodi, domnevne grožnje in novi pritiski",
     "link": "https://www.zurnal24.si/slovenija/pretresi-v-demokratih-stevilni-odhodi-domnevne-groznje-in-novi-pritiski-466034",
     "image": "https://www.zurnal24.si/media/img/7a/74/7064af332d32a5bed871.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/mervar-ne-vem-kaj-naj-recem-nerodno-mi-je-466029",
     "image": "https://www.zurnal24.si/media/img/a9/7e/884c8bfd988a94b5ac10.png",
     "date": 1790854800000
-   },
-   {
-    "title": "Kolesarski svet žaluje, pri vsega 24 letih je umrl francoski kolesar",
-    "link": "https://www.zurnal24.si/sport/kolesarstvo/kolesarski-svet-zaluje-pri-vsega-24-letih-je-umrl-francoski-kolesar-466027",
-    "image": "https://www.zurnal24.si/media/img/5a/77/0fa62cefad2e8053c457.jpeg",
-    "date": 1790853480000
    }
   ],
   "reuters": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Botswana at 60 challenges the story of postcolonial African failure",
-    "link": "https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abe4ee10fe43-1790856929.jpg?resize=1920%2C1440",
-    "date": 1790859268000,
-    "titleSl": "Bocvana pri 60 letih izziva zgodbo o postkolonialnem afriškem neuspehu"
-   },
-   {
     "title": "Nigeria charges man accused of faking government agency",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/nigeria-charges-man-accused-of-faking-government-agency?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-13.42.28-1790858582.png?resize=1200%2C675",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-30T153743Z_1064890530_RC2RTNA4YXNV_RTRMADP_3_ISRAEL-GULF-FLIGHT-1-1790844581.jpg?resize=1200%2C630",
     "date": 1790855168000,
     "titleSl": "ZAE preiskujejo morebitno \"teroristično\" povezavo v napadu na let v Izrael"
+   },
+   {
+    "title": "Carlos Queiroz quits as Ghana coach after AFCON qualifying defeats",
+    "link": "https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26185056217399-1790854783.jpg?resize=1920%2C1440",
+    "date": 1790854984000,
+    "titleSl": "Carlos Queiroz odstopil kot trener Gane po kvalifikacijskih porazih AFCON"
    }
   ],
   "guardian": [
@@ -408,13 +408,20 @@
     "date": 1790857020000
    },
    {
-    "title": "Bundeswehr: Rechtsextremer Aktivist bei Übung von AfD-Mann Gnauck eingeschleust",
-    "link": "https://www.spiegel.de/politik/deutschland/bundeswehr-rechtsextremer-aktivist-bei-uebung-a-04ee93c2-15ff-43fb-9436-42ff664203d3#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/2b70fa1e-6fb9-413d-bc2a-ff05caa537c7_w520_r2.08_fpx46_fpy48.jpg",
-    "date": 1790855520000
+    "title": "Flydubai nach Tel Aviv: Augenzeuge beschreibt Gewalttat an Bord und Beinahe-Absturz",
+    "link": "https://www.spiegel.de/ausland/flydubai-nach-tel-aviv-augenzeuge-beschreibt-gewalttat-an-bord-und-beinahe-absturz-a-1ee7be2b-e24a-4309-8207-f82132e42b66#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/0be8e867-6756-40d7-afeb-616a57958241_w520_r2.08_fpx41.25_fpy44.98.jpg",
+    "date": 1790856180000
    }
   ],
   "bild": [
+   {
+    "title": "Steuerzahler-„Schwarzbuch“ - EIN Autobahn-Kilometer für 55 Millionen Euro",
+    "link": "https://www.bild.de/politik/inland/steuerzahler-schwarzbuch-hier-kostet-ein-kilometer-autobahn-55-millionen-euro-6abe14323af773f07b89341a",
+    "image": "https://images.bild.de/6abe14323af773f07b89341a/0d067e887148a958a71c552d01b955d2,c6f8e33d?w=1280",
+    "date": 0,
+    "titleSl": "Steuerzahler-„Schwarzbuch“ - EIN Autobahn-Kilometer za 55 milijonov evrov"
+   },
    {
     "title": "Mini-Insel mit Nazi-Geschichte - Erster Mord seit 2. Weltkrieg schockt Alderney",
     "link": "https://www.bild.de/news/insel-mit-nazi-vergangenheit-erster-mord-auf-alderney-seit-dem-zweiten-weltkrieg-6abe2ecc056c45024e2129fc",
@@ -446,15 +453,16 @@
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/es-ist-mir-scheissegal-steffi-grafs-bruder-schwaenzt-gerichtstermin-6abe2f8a09fefadd71a544fb",
     "image": "https://images.bild.de/6abe2f8a09fefadd71a544fb/2b3a5e47387c0ff04c0c1b8ae73854ca,511a3a8?w=1280",
     "date": 0
-   },
-   {
-    "title": "Bachelor-Siegerin erwartet ein Kind - Mike Singer fragte ChatGPT, ob Nadja schwanger ist",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/mike-singer-wird-vater-saenger-fragte-chatgpt-ob-nadja-schwanger-ist-6abe0c86056c45024e2126ae",
-    "image": "https://images.bild.de/6abe0c86056c45024e2126ae/072bbde9dfdaa2c9f818973b5345da12,bb889fb6?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Für Staatsbürgerschaft - Schleuser holten Schwangere gezielt nach Spanien",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1sa1dveHVsQnlzV1UyRGJ3cDVsNlRMak1uaDFzVU5fTnFiTjA5UDBwbkpIR2hCOGplbnExR2xMWkJqUQ?oc=5",
+    "image": "",
+    "date": 1790860140000,
+    "titleSl": "Für Staatsbürgerschaft - Schleuser holten Schwangere gezielt nach Španija"
+   },
    {
     "title": "Neue Paketsteuer - 2,40 Euro stehen nun auf jeder Amazon-Rechnung",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3YnlUTXctWjNMOTJrSTROU3RnV3duVXZoT3VzWHY4QlR2ck94ek1weW12NWFvVTkxVUVUVTNnbWNlQQ?oc=5",
@@ -484,13 +492,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TT1FDM3BkenRvNnRocHdNZW9qa1hHRWpvYmpiNGZyYjN3RjVCZHF3emdkZ2xaZFpxR0RFdEJBdkVlZw?oc=5",
     "image": "",
     "date": 1790859180000
-   },
-   {
-    "title": "Nations League - Hier sehen Sie Irland gegen Österreich live im TV",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1UY0FGU0lhZUxIanFQd2FqSEk5czdySUlnTTVOSHpuM01fc0JpRFVFQTFXemRBdlhpSmpZRHhoZEQ4QQ?oc=5",
-    "image": "",
-    "date": 1790858880000,
-    "titleSl": "Liga narodov - Hier sehen Sie Irland gegen Österreich live im TV"
    }
   ],
   "rainews": [
@@ -534,11 +535,11 @@
   ],
   "lemonde": [
    {
-    "title": "EN DIRECT, guerre en Ukraine : la Russie prévoit des dépenses militaires maintenues à des niveaux records jusqu’en 2029",
-    "link": "https://www.lemonde.fr/international/live/2026/10/01/en-direct-guerre-en-ukraine-la-russie-prevoit-des-depenses-militaires-maintenues-a-des-niveaux-records-jusqu-en-2029_6783795_3210.html",
-    "image": "https://img.lemde.fr/2026/10/01/1051/0/8640/4320/644/322/60/0/ffce6bc_ftp-1-zhq2bublydde-df92c5ca118a44a4851687ba3aee9920-2-040ade91db8f4d18b678b0140890d519.jpg",
-    "date": 1790859924000,
-    "titleSl": "EN DIRECT, guerre en Ukraine : la Russie prévoit des dépenses militaires maintenues à des niveaux records jusqu 'en 2029"
+    "title": "Guerre en Ukraine : « D’abord la reddition, ensuite la négociation. Tels sont les mots de Moscou »",
+    "link": "https://www.lemonde.fr/idees/article/2026/10/01/guerre-en-ukraine-d-abord-la-reddition-ensuite-la-negociation-tels-sont-les-mots-de-moscou_6786520_3232.html",
+    "image": "https://img.lemde.fr/2026/09/26/333/0/4000/2000/644/322/60/0/2e5e516_ftp-1-tgnc67csejdb-2026-09-26t163424z-1488903925-rc24rna9p84d-rtrmadp-3-un-assembly.JPG",
+    "date": 1790859604000,
+    "titleSl": "Guerre en Ukraine : « D 'abord la reddition, ensuite la négociation. Tels sont les mots de Moscou »"
    },
    {
     "title": "EN DIRECT, blocage des lycées : « Le mouvement doit être entendu » ; des étudiants manifestent aux côtés des plus jeunes, de Rennes-II à Henri-IV",
