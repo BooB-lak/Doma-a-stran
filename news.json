@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T05:24:26.587Z",
+ "generatedAt": "2026-10-01T05:26:25.826Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/svet/kava-drazja-tako-v-lokalih-kot-v-trgovini-702853",
     "image": "https://siol.net/media/img/90/bf/12aa3838b74036712cab.jpeg",
     "date": 1790832120000
+   },
+   {
+    "title": "Anton Rop in Urška Klakočar Zupančič ustanovila novo stranko",
+    "link": "https://siol.net/novice/slovenija/anton-rop-in-urska-klakocar-zupancic-ustanovila-novo-stranko-702851",
+    "image": "https://siol.net/media/img/73/96/cca390cc0e85723a42e9.jpeg",
+    "date": 1790830860000
    },
    {
     "title": "SDH in Telekom Slovenije z novim vodstvom",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/odbor-dz-za-kulturo-o-ustavitvi-financiranja-izvajalcev-kulturnih-programov-702847",
     "image": "https://siol.net/media/img/6b/02/fb87edaa3b7e3835221a.jpeg",
     "date": 1790829060000
-   },
-   {
-    "title": "Alfa romeo cuorerosso: nova športna vizija znamke prihaja v Pariz - bo postal serijski?",
-    "link": "https://siol.net/avtomoto/novice/alfa-romeo-cuorerosso-nova-sportna-vizija-znamke-prihaja-v-pariz-bo-postal-serijski-702846",
-    "image": "https://siol.net/media/img/85/46/2bf9cbe5ef42df4ca1ff.jpeg",
-    "date": 1790828340000
    }
   ],
   "24ur": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Tennessee Death Row Inmate Christa Pike Still Alive After Attempts to Execute Her, Lawyers Say",
+    "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
+    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30nat-pike-stay-zbcv/30nat-pike-stay-zbcv-mediumSquareAt3X.jpg",
+    "date": 1790832173000,
+    "titleSl": "Obsojenka na smrt v Tennesseeju Christa Pike je še vedno živa po poskusih usmrtitve, pravijo odvetniki"
+   },
+   {
     "title": "What to Know About the Execution Attempt of Christa Pike",
     "link": "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html",
     "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-pike-wwk-kwjf/01xp-pike-wwk-kwjf-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01met-cornell-takeaways-lpwk/01met-cornell-takeaways-lpwk-mediumSquareAt3X.jpg",
     "date": 1790829313000,
     "titleSl": "Preiskava Cornellovega posilstva: pet primerov"
-   },
-   {
-    "title": "How a Cornell Student Went From Shame to Seeking Justice",
-    "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html",
-    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30met-cornell-three-weeks-wptb/30met-cornell-three-weeks-wptb-mediumSquareAt3X.jpg",
-    "date": 1790829111000,
-    "titleSl": "Kako je študentka na Cornellu prešla iz sramu v iskanje pravičnosti"
    }
   ],
   "bbc": [
@@ -334,8 +334,15 @@
     "title": "Australia news live: Anika Wells named in Time’s ‘influential rising stars’; NSW seeks to join Queensland in ‘from the river to the sea’ ban case",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/89d60458f05682b9538e824cad5d9bb463ea06d8/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9bbd80095ed9cd21b9617d4afe547630",
-    "date": 1790831106000,
+    "date": 1790832005000,
     "titleSl": "Avstralske novice v živo: Anika Wells imenovana v \"vplivnih vzhajajočih zvezdah\" Timea; NSW se želi pridružiti Queenslandu v primeru prepovedi \"od reke do morja\""
+   },
+   {
+    "title": "Australian couple among passengers on diverted flydubai flight to Israel, embassy says",
+    "link": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/80c0c83c70acd38b03989ce8767831913796c8f7/500_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7e36661d36bc9ef2efd7e41e2b2a93f7",
+    "date": 1790831648000,
+    "titleSl": "Avstralski par med potniki na preusmerjenem letu flydubai v Izrael, veleposlaništvo pravi"
    },
    {
     "title": "Healey urged to offer energy support in budget as bills rise 4%",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/36b7a13641bba9ee3ceb11382a4c1ed02387f745/1538_226_5117_4095/master/5117.jpg?width=140&quality=85&auto=format&fit=max&s=20ba186093a6b42e8cec37c2e32733bc",
     "date": 1790828363000,
     "titleSl": "Daredevil Jaan Roose dokonča slackline sprehod visoko nad osrednjim Seulom"
-   },
-   {
-    "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
-    "link": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
-    "image": "https://i.guim.co.uk/img/media/d59ad38acab4f01f3d9cf25a97d543e1048d6844/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7084e14b1acdc806fc243ec6f2515c11",
-    "date": 1790827230000,
-    "titleSl": "Izraelci razdeljeni kot glasovi, ki bi lahko izrinili Netanjahuja le nekaj tednov stran"
    }
   ],
   "spiegel": [
@@ -466,6 +466,12 @@
     "date": 1790831100000
    },
    {
+    "title": "Das freie Wort - Sprachdefizite einfach beheben",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5naTA0czB5NFU0djFKNlRmRWNOZENHYkV2bGstbFo0N19fSVgxMkh5THljMDJzRjFoVHQ3SGd1SThxV2p4TDNwbHpNNExPVURYSXdITWJLWlpaT3RZaVdYSDNNVmlMdHJBd3dNYQ?oc=5",
+    "image": "",
+    "date": 1790831025000
+   },
+   {
     "title": "Das freie Wort - Jetzt ist konsequentes Handeln gefragt",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZVNjcDgzVVI1eDNxa2YtTDBHb1A2RGxmeXNHR3ZUNm9RZml6SmNhNlZhbWFQd2dGeF9KYllKNFNld2hnX1JvVVhkNi00Wm1HUHJrNUxHSHhZb19ielg1Tm1idFl1bDgxOWFUSg?oc=5",
     "image": "",
@@ -480,12 +486,6 @@
    {
     "title": "Multi-Funktionärin - Kritik an Machtfülle der neuen Kammerdirektorin",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9uTDIzUWZzbEZibHdfOThlbFA2UVlDVVJJN1dvaFQ5bnJScHNHX0NOM1RaLXhwUVRHUzVNT3VZVzNyUQ?oc=5",
-    "image": "",
-    "date": 1790830800000
-   },
-   {
-    "title": "Semester beginnt - Start für rund 17.000 Studenten an Uni Salzburg",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BZVplRXZPUmotZ3ZzV3RScjIwLU9Zc2RMLXZ3Ukd0LTlzM0NYN1FNcVgwUEtEdzNkR1Uyeno2NUh0Zw?oc=5",
     "image": "",
     "date": 1790830800000
    }
