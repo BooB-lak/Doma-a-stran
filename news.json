@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T05:04:28.933Z",
+ "generatedAt": "2026-10-01T05:06:29.748Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "'Skrb za svoje nepogrešljive kose'",
+    "link": "https://www.24ur.com/novice/slovenija/skrb-za-svoje-nepogresljive-kose.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2021/7718ca87c6f834752caf_62641831.jpg?v=bbea&fop=fp:0.48:0.48",
+    "date": 1790831057000
+   },
+   {
     "title": "V orjaških bučah veslajo za zmago",
     "link": "https://www.24ur.com/novice/tujina/v-orjaskih-bucah-tekmujejo-za-zmago.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/45c05c26bbd40b731c5c_63656393.jpg?v=a6b6&fop=fp:0.37:0.37",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/prvo-predavanje-ni-edina-stvar-na-katero-moras-biti-pripravljen.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2019/d3ab97bf90_62319190.jpg?v=c782&fop=fp:0.65:0.30",
     "date": 1790828484000
-   },
-   {
-    "title": "Ko 'najlepša leta' postanejo breme: denar, osamljenost in pritisk, da moraš uspeti",
-    "link": "https://www.24ur.com/novice/slovenija/ko-najlepsa-leta-postanejo-breme-denar-osamljenost-in-pritisk-da-moras-uspeti.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2024/e750925418c106ba79ba_63306011.jpg?v=6154&fop=fp:0.47:0.39",
-    "date": 1790828350000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Execution of US woman Christa Pike fails after botched lethal injection",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790830479.jpg?resize=1920%2C1079&quality=80",
-    "date": 1790830502000,
-    "titleSl": "Usmrtitev ameriške ženske Christe Pike ni uspela po neuspešni smrtonosni injekciji"
-   },
-   {
     "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan hideouts",
     "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2020/03/9bb9e965b98246d0a1b48b507b3700d4_18.jpeg?resize=1200%2C675",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790822069.jpg?resize=1920%2C1080&quality=80",
     "date": 1790822095000,
     "titleSl": "Hegseth napovedal 20-odstotno zmanjšanje ameriškim vojaškim poveljnikom"
+   },
+   {
+    "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+    "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26272438005114-1790816930.jpg?resize=1920%2C1440",
+    "date": 1790821845000,
+    "titleSl": "Združeno kraljestvo pravi, da je Iran morda povezan z domnevno zaroto letalske baze, kar je povzročilo jezno zanikanje"
    }
   ],
   "guardian": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Mail von Martenstein - Wird meine Regierung euch helfen?",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-wird-meine-regierung-euch-helfen-6abd69524d95225671e4ad56",
+    "image": "https://images.bild.de/6abd69524d95225671e4ad56/1967f37b8c1396478fea83de0ee3f2ee,2a3e981?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Ich bin aus allen Wolken gefallen“ - Das sagt Toppmöller zur Gaga-Entlassung des Jahres",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-das-sagt-toppmoeller-zur-entlassung-des-jahres-6abd72e9ca5c42fe8f931261",
+    "image": "https://images.bild.de/6abd72e9ca5c42fe8f931261/6aa44dc3a1fea8f97d0ae2a29146a51c,c4fee945?w=1280",
+    "date": 0
+   },
+   {
     "title": "Vom 28.9. bis 4.10.2026 - Das Wochenhoroskop für Fische",
     "link": "https://www.bild.de/leben-wissen/horoskop/horoskop-fische-vom-28-9-bis-4-10-ein-moment-der-dankbarkeit-6ab3c73e174ceb992b6eccb3",
     "image": "https://images.bild.de/6ab3c73e174ceb992b6eccb3/4c53d77ea87ecc0d96ef617a6f3404df,7ea996eb?w=1280",
@@ -436,18 +448,6 @@
     "title": "Neuer Tankrabatt senkt die Spritpreise - 17 Cent weniger!",
     "link": "https://www.bild.de/politik/inland/neuer-tankrabatt-senkt-die-spritpreise-17-cent-weniger-6abd7ce7ca5c42fe8f9312a9",
     "image": "https://images.bild.de/6abd7ce7ca5c42fe8f9312a9/4edf83f8305c4077c0b365c87de639f7,c389380a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Hinrichtung geht schief - Satanistin überlebt zwei Giftspritzen",
-    "link": "https://www.bild.de/news/ausland/usa-satanistin-christa-pike-soll-nun-doch-hingerichtet-werden-6abd94daa159be769c716f75",
-    "image": "https://images.bild.de/6abd94daa159be769c716f75/4d279d39e2b6268304cdb28b266b9ade,8360d24c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Endlich etwas Herbstwetter - Regen wäscht die Wärme weg",
-    "link": "https://www.bild.de/news/wetter/endlich-etwas-herbstwetter-regen-waescht-die-waerme-weg-6abccab21181c77c293b77ad",
-    "image": "https://images.bild.de/6abccab21181c77c293b77ad/1804a8c59cefa4ae896dd116d4d2dc28,ce9d25f0?w=1280",
     "date": 0
    }
   ],
@@ -532,6 +532,13 @@
   ],
   "lemonde": [
    {
+    "title": "« On comprenait mieux ce qu’on faisait que nos supérieurs, payés quatre fois plus » : Alexis, 32 ans, ex-employé d’un cinéma",
+    "link": "https://www.lemonde.fr/campus/article/2026/10/01/on-comprenait-mieux-ce-qu-on-faisait-que-nos-superieurs-payes-quatre-fois-plus-alexis-32-ans-ex-employe-d-un-cinema_6786444_4401467.html",
+    "image": "https://img.lemde.fr/2026/09/29/177/0/2126/1063/644/322/60/0/b73d42b_upload-1-czczmsfwrrlh-colo-boss-toxique-01-v02.jpg",
+    "date": 1790828710000,
+    "titleSl": "« On comprenait mieux ce qu'on faisait que nos supérieurs, payés quatre fois plus » : Alexis, 32 ANS, ex-employé d' un cinéma"
+   },
+   {
     "title": "Budget 2027 : la dernière bataille de Sébastien Lecornu, entre surveillance des marchés et pression des oppositions",
     "link": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-la-derniere-bataille-de-sebastien-lecornu-entre-surveillance-des-marches-et-pression-des-oppositions_6786433_823448.html",
     "image": "https://img.lemde.fr/2026/10/01/607/0/7286/3643/644/322/60/0/6095f01_upload-1-gmb4rvl2gecx-000-c2r79mj.jpg",
@@ -545,6 +552,12 @@
     "date": 1790825409000
    },
    {
+    "title": "Blocage des lycées : Jean-Luc Mélenchon pris entre soutien au mouvement et exigence de respectabilité",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/01/presidentielle-2027-les-injonctions-contradictoires-de-jean-luc-melenchon-et-lfi-vis-a-vis-du-mouvement-lyceen_6786430_823448.html",
+    "image": "https://img.lemde.fr/2026/09/30/252/0/5000/2500/644/322/60/0/b55fe48_upload-1-opzogzu9nwtm-bg-29sept26-france-fpgreve-71-013.JPG",
+    "date": 1790825403000
+   },
+   {
     "title": "Aux Etats-Unis, Pete Hegseth, le secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
     "link": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
     "image": "https://img.lemde.fr/2026/09/30/859/0/5263/2631/644/322/60/0/08344f5_ftp-1-s6fgspd0mdz7-34f95c87b71a47c9a226d5c1b597c5c9-0-c63e364fd8124feeb137bab9b627b91c.jpg",
@@ -556,23 +569,22 @@
     "link": "https://www.lemonde.fr/planete/article/2026/10/01/dans-le-gard-place-en-vigilance-rouge-aux-inondations-une-journee-suspendue-a-la-montee-des-eaux_6786393_3244.html",
     "image": "https://img.lemde.fr/2026/09/30/756/0/4536/2268/644/322/60/0/3b699df_upload-1-iiykda62jsk5-epalivenine364738.jpg",
     "date": 1790823603000
-   },
-   {
-    "title": "Christa Pike, condamnée à mort aux Etats-Unis, est toujours en vie après une tentative d’exécution, selon ses avocats",
-    "link": "https://www.lemonde.fr/international/article/2026/10/01/la-cour-supreme-autorise-l-execution-de-christa-pike-la-premiere-femme-devant-etre-mise-a-mort-aux-etats-unis-depuis-2023_6786327_3210.html",
-    "image": "https://img.lemde.fr/2026/09/27/120/0/1443/721/644/322/60/0/c387aa1_ftp-1-lrwnwz4sfn9n-9408f1f2334f46f59f7ab685fb20ebfe-1-ac7e827a650f449c9fba4796cc25e26f.jpg",
-    "date": 1790815598000,
-    "titleSl": "Christa Pike, condamnée à mort aux Etats-Unis, est toujours en vie après une tentative d'exécution, selon ses avocats"
-   },
-   {
-    "title": "Donald Trump détaille jusqu’à 200 milliards de dollars d’investissements sud-coréens aux Etats-Unis, Séoul tempère",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/01/donald-trump-detaille-jusqu-a-200-milliards-de-dollars-d-investissements-sud-coreens-aux-etats-unis_6786195_3234.html",
-    "image": "https://img.lemde.fr/2026/09/30/688/0/8256/4128/644/322/60/0/7414918_ftp-1-hfxttilb2npp-5232518-01-06.jpg",
-    "date": 1790808824000,
-    "titleSl": "Donald Trump détaille jusqu 'à 200 milliards de dollars d' investmentissements sud-coréens aux Etats-Unis, Séoul tempère"
    }
   ],
   "elpais": [
+   {
+    "title": "Recupera jerséis y abrigos en minutos con este quitapelusas superventas",
+    "link": "https://elpais.com/escaparate/estilo-de-vida/quitapelusas-electrico.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/LOZQG4AUJNDL5E7DZ2NSYLGW2U.png?auth=df29cb48b06af41802babef940382adc7b0a3627c5464269bf712aec02e8265c",
+    "date": 1790830800000
+   },
+   {
+    "title": "Ocho comunidades bajo aviso en el inicio de un fuerte episodio de lluvias que durará hasta el lunes",
+    "link": "https://elpais.com/el-tiempo/2026-10-01/ocho-comunidades-bajo-aviso-en-el-inicio-de-un-fuerte-episodio-de-lluvias-y-chubascos-que-durara-hasta-el-lunes.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/GHTIMO3WYNK3BNV45I7FYIFRDY.jpg?auth=8cdcf20842d83b72ef31649f78cef5f9903b903c925411e3843bb67f3ee87b14",
+    "date": 1790830536000,
+    "titleSl": "Ocho comunidades bajo aviso en el inicio de un fuerte epizodio de lluvias que durará hasta el lunes"
+   },
    {
     "title": "La manta eléctrica suave y lavable que ayuda a ahorrar calefacción este otoño",
     "link": "https://elpais.com/escaparate/estilo-de-vida/manta-electrica.html",
@@ -597,18 +609,6 @@
     "link": "https://elpais.com/us/2026-09-30/el-tribunal-supremo-permite-la-ejecucion-de-christa-pike-en-tennessee.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220479_200548_video_1800.mp4",
     "date": 1790826756000
-   },
-   {
-    "title": "Qué son los fondos buitre y cómo operan en España",
-    "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-10-01/que-son-los-fondos-buitre-y-como-operan-en-espana.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/CHO2XWHO3RCWVLOW6XPR7DAW54.png?auth=9a7813920b7fa6a2b05d185a6f7e3f5452354b1747de30dd9791200daf2f379b&width=1200",
-    "date": 1790826301000
-   },
-   {
-    "title": "El caso contra el Manchester City pone a prueba la credibilidad del Reino Unido",
-    "link": "https://cincodias.elpais.com/opinion/2026-10-01/el-caso-contra-el-manchester-city-pone-a-prueba-la-credibilidad-del-reino-unido.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ADICO5XBY5JLBNQTPIXTGIIKIY.jpg?auth=271a564b78f3fc6201aa7eee91b4fd7e9d862a838133f48891fdf2a60317dba3",
-    "date": 1790826000000
    }
   ]
  },
