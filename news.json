@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-01T19:28:26.029Z",
+ "generatedAt": "2026-10-01T19:30:55.202Z",
  "sources": {
   "siol": [
+   {
+    "title": "ZDA zaostrile sankcije proti Iranu #vŽivo",
+    "link": "https://siol.net/novice/svet/iraski-premier-postavil-rok-za-razorozitev-proiranskih-skupin-vzivo-702890",
+    "image": "https://siol.net/media/img/aa/2e/fb80983e38196df8520e.jpeg",
+    "date": 1790883000000
+   },
    {
     "title": "Kamil Stoch ima novo službo",
     "link": "https://siol.net/sportal/zimski-sporti/kamil-stoch-ima-novo-sluzbo-702951",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/evropsko-prvenstvo-cestno-kolesarstvo-slovenija-zapore-cest-702939",
     "image": "https://siol.net/media/img/82/b3/e9ee368a181ce762094d.jpeg",
     "date": 1790878320000
-   },
-   {
-    "title": "Trump nad novinarje in sodnike: Dal sem jim službo za vse življenje, vendar glasujejo proti meni",
-    "link": "https://siol.net/novice/svet/trump-nad-novinarko-in-sodnike-dal-sem-jim-sluzbo-za-vse-zivljenje-vendar-glasujejo-proti-meni-702950",
-    "image": "https://siol.net/media/img/15/19/92d146e56f3c6d5a65be.jpeg",
-    "date": 1790877960000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Jordanov dres dosegel vrtoglavo ceno, a niti blizu rekordu",
+    "link": "https://www.zurnal24.si/sport/kosarka/jordanov-dres-dosegel-vrtoglavo-ceno-a-niti-blizu-rekordu-466050",
+    "image": "https://www.zurnal24.si/media/img/fb/74/66efe78afa98c6e56572.jpeg",
+    "date": 1790883000000
+   },
+   {
     "title": "Slovenci pred zahtevnim nadaljevanjem: Zdaj nas čakata najtežji tekmi",
     "link": "https://www.zurnal24.si/sport/nogomet/slovenci-pred-zahtevnim-nadaljevanjem-zdaj-nas-cakata-najtezji-tekmi-466048",
     "image": "https://www.zurnal24.si/media/img/45/4d/15bb0933de2bcca5aa93.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/moto-sporti/dirkasko-ekipo-prizadela-tretja-smrt-v-16-mesecih-466044",
     "image": "https://www.zurnal24.si/media/img/ef/51/14e7ec4080d78ffb3718.jpeg",
     "date": 1790873520000
-   },
-   {
-    "title": "Slovenska reprezentantka velika atrakcija v WNBA, zdaj še priznanje",
-    "link": "https://www.zurnal24.si/sport/kosarka/slovenska-reprezentantka-velika-atrakcija-v-wnba-zdaj-se-priznanje-466042",
-    "image": "https://www.zurnal24.si/media/img/23/05/16e29822e501fb9c914e.jpeg",
-    "date": 1790869200000
    }
   ],
   "reuters": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "After Red Sea losses, Yemen’s government forces hold the line",
-    "link": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abea14411aa-1790878020.jpg?resize=1200%2C675",
-    "date": 1790881525000,
-    "titleSl": "Po izgubah v Rdečem morju jemenske vladne sile držijo črto"
-   },
-   {
     "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
     "link": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6abe7e19-1790869017.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a43ed6e-1782836590.jpg?resize=1920%2C1440",
     "date": 1790876158000,
     "titleSl": "Vrhovno sodišče ZDA se strinja, da bo prevzelo Trumpovo politiko pridržanja na LEDU"
+   },
+   {
+    "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
+    "link": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abe8b737b396-1790872435.jpg?resize=1920%2C1440",
+    "date": 1790875693000,
+    "titleSl": "Družina Renee Good toži Trumpovo administracijo zaradi smrtonosnega streljanja v LED"
    }
   ],
   "guardian": [
@@ -352,11 +352,11 @@
     "titleSl": "Trump ne izključuje pošiljanja LEDU na volišča; ameriško vrhovno sodišče bo pregledalo politiko pridržanja priseljencev, ki izpodbijajo deportacijo – v živo"
    },
    {
-    "title": "Welfare changes under debate include ending key disability benefit for under-25s",
+    "title": "Key disability benefit for young people may be axed under major welfare changes",
     "link": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
     "image": "https://i.guim.co.uk/img/media/c043db33bd007fcda446ae0409f10b6d5d177cc4/0_0_6439_5152/master/6439.jpg?width=140&quality=85&auto=format&fit=max&s=ea6956cc7b0806310b6e0872cfdc6751",
     "date": 1790880180000,
-    "titleSl": "Spremembe socialnega varstva, o katerih razpravljamo, vključujejo odpravo ključne invalidnine za mlajše od 25 let"
+    "titleSl": "Ključna invalidnina za mlade se lahko ukine v skladu z večjimi spremembami socialnega varstva"
    },
    {
     "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
@@ -413,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "Ehemann festgenommen - Vermisste Mutter tot in Wald gefunden",
+    "link": "https://www.bild.de/news/ehemann-festgenommen-vermisste-mutter-tot-in-wald-gefunden-6abea1de85d64113fb06c0d7",
+    "image": "https://images.bild.de/6abea1de85d64113fb06c0d7/9303f1b86f1c6239cd32cc0408ccce28,db5b8fa?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Arrogantes Arschloch“ - Star-Moderator attackiert Portugal-Trainer wegen Ronaldo",
     "link": "https://www.bild.de/sport/fussball/wegen-cristiano-ronaldo-piers-morgan-attackiert-portugals-trainer-6abeac910072ec4f17ef5e25",
     "image": "https://images.bild.de/6abeac910072ec4f17ef5e25/dd892405612d623b157a31fafa32ad28,e3624c97?w=1280",
@@ -441,12 +447,6 @@
     "title": "Kleines Mädchen starb - Baby in dieser Einkaufstüte ausgesetzt",
     "link": "https://www.bild.de/regional/nordrhein-westfalen/kleines-maedchen-starb-baby-in-dieser-einkaufstuete-ausgesetzt-6abe93da320de88b4c6ab51e",
     "image": "https://images.bild.de/6abe93da320de88b4c6ab51e/ede32d132f785cc8e91dc17cd9c28553,f0396013?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Studie - Wie riskant sind diese Antidepressiva fürs Baby?",
-    "link": "https://www.bild.de/leben-wissen/medizin/wie-riskant-sind-diese-medikamente-fuers-baby-6abd0b6a54f9c6309a684a48",
-    "image": "https://images.bild.de/6abd0b6a54f9c6309a684a48/3eb326e4505eac55980f51b0ea2408ef,f40b2c76?w=1280",
     "date": 0
    }
   ],
@@ -574,16 +574,16 @@
   ],
   "elpais": [
    {
+    "title": "Acampadas en España por la vivienda, en directo | Coalición Canaria anuncia que apoyará el primer decreto de vivienda del Gobierno y rechazará el segundo",
+    "link": "https://elpais.com/espana/2026-10-01/acampadas-en-espana-por-la-vivienda-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VNJJIVN3J5BVTOLL6MVSRXB37Y.JPG?auth=736a561fd0da273f72b529473d8e9bfaffce7d11ecdd40a77441c8000a821304",
+    "date": 1790882952000
+   },
+   {
     "title": "Lotería Nacional: comprobar sorteo del jueves 1 de octubre",
     "link": "https://elpais.com/sorteos/2026-10-01/loteria-nacional-sorteo-del-jueves-1-de-octubre.html",
     "image": "https://imagenes.elpais.com/resizer/v2/PU5LKSKKRFEXTOB53JCG2ZJSHA.png?auth=57e9ff79a3054d1d12192834a5acace19b237b582ea11c28e866fd5db96c2a74",
     "date": 1790882233000
-   },
-   {
-    "title": "Acampadas en España por la vivienda, en directo | Coalición Canaria anuncia que apoyará el primer decreto de vivienda del Gobierno y rechazará el segundo",
-    "link": "https://elpais.com/espana/2026-10-01/acampadas-en-espana-por-la-vivienda-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/VNJJIVN3J5BVTOLL6MVSRXB37Y.JPG?auth=736a561fd0da273f72b529473d8e9bfaffce7d11ecdd40a77441c8000a821304",
-    "date": 1790882101000
    },
    {
     "title": "Christa Pike recibe “tratamiento para salvar su vida” tras una fallida ejecución en Tennessee, dice su abogado",
