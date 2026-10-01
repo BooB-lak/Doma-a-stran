@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-01T09:54:28.611Z",
+ "generatedAt": "2026-10-01T09:56:29.523Z",
  "sources": {
   "siol": [
+   {
+    "title": "Slovenija tudi avgusta med državami EU z najnižjo stopnjo brezposelnosti",
+    "link": "https://siol.net/novice/svet/slovenija-tudi-avgusta-med-drzavami-eu-z-najnizjo-stopnjo-brezposelnosti-702886",
+    "image": "https://siol.net/media/img/d0/cd/305dc6e2a6a43be841f3.jpeg",
+    "date": 1790848440000
+   },
    {
     "title": "Ana sodelovala pri razvpitem umoru. Po 20 letih so jo Američani izročili Hrvatom.",
     "link": "https://siol.net/novice/svet/ana-sodelovala-pri-razvpitem-umoru-po-20-letih-so-jo-hrvatom-izrocili-americani-702879",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kosarka/luka-doncic-austin-reaves-liga-nba-702872",
     "image": "https://siol.net/media/img/52/eb/68ceaa4c1dc0a2d7e8df.jpeg",
     "date": 1790846100000
-   },
-   {
-    "title": "Zvezdan Mitrović kljub porazu nasmejan",
-    "link": "https://siol.net/sportal/kosarka/zvezdan-mitrovic-kljub-porazu-nasmejan-702878",
-    "image": "https://siol.net/media/img/47/49/c3711371711408e92f51.jpeg",
-    "date": 1790845800000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Zbil ga je na prehodu, poškodbe so bile prehude",
+    "link": "https://www.zurnal24.si/slovenija/zbil-ga-je-na-prehodu-poskodbe-so-bile-prehude-466020",
+    "image": "https://www.zurnal24.si/media/img/fc/89/99f5e6267c942509d5b0.jpeg",
+    "date": 1790848440000
+   },
+   {
     "title": "Ob neverjetni čarovniji Luke drugi zvezdnik izgubil živce: \"Sovražim ga!\"",
     "link": "https://www.zurnal24.si/sport/kosarka/ob-neverjetni-carovniji-luke-drugi-zvezdnik-lakers-izgubil-zivce-sovrazim-ga-466018",
     "image": "https://www.zurnal24.si/media/img/f8/a4/a09043cd7c45beb440fc.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/jansa-udaril-po-prejsnji-vladi-denar-ne-raste-na-drevesu-466013",
     "image": "https://www.zurnal24.si/media/img/0d/06/efb00c125913c26338a7.jpeg",
     "date": 1790842020000
-   },
-   {
-    "title": "Noro razkritje! Lakers zavrnili NBA zvezdnika, zdaj dogovarjajo novo menjavo",
-    "link": "https://www.zurnal24.si/sport/kosarka/noro-razkritje-lakers-zavrnili-nba-zvezdnika-zdaj-dogovarjajo-novo-menjavo-466012",
-    "image": "https://www.zurnal24.si/media/img/01/94/2236ae73dbee0c54232d.jpeg",
-    "date": 1790841840000
    }
   ],
   "reuters": [
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
+    "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+    "image": "https://i.guim.co.uk/img/media/ffce6bcd4f1a1119e34df554a3034e07b05b25c9/984_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0cf0bc211b923c4baf37269977b234fb",
+    "date": 1790848115000,
+    "titleSl": "Ukrajina udarila po naftnem objektu v ruski regiji Samara kljub pritisku Trumpa – Evropa v živo"
+   },
+   {
     "title": "Badenoch proposes welfare reform that would stop many jobless under-25s getting universal credit – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/aa54595548ea780824673b4e97eca27ca71a6e5b/30_0_3411_2728/master/3411.jpg?width=140&quality=85&auto=format&fit=max&s=88309aafb41f0c314677914f189cb0af",
     "date": 1790847339000,
     "titleSl": "Badenoch predlaga reformo socialnega varstva, ki bi mnogim brezposelnim, mlajšim od 25 let, preprečila pridobivanje univerzalnih posojil – britanska politika v živo"
-   },
-   {
-    "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-    "image": "https://i.guim.co.uk/img/media/ffce6bcd4f1a1119e34df554a3034e07b05b25c9/984_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0cf0bc211b923c4baf37269977b234fb",
-    "date": 1790846908000,
-    "titleSl": "Ukrajina udarila po naftnem objektu v ruski regiji Samara kljub pritisku Trumpa – Evropa v živo"
    },
    {
     "title": "Nature boys and girls – here’s your chance to get published in the Guardian",
@@ -454,17 +454,23 @@
   ],
   "krone": [
    {
-    "title": "Was bringt Zukunft? - Trainerkarriere? Das sagt Tennis-Legende Nadal",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yelFaSjRFZmJ0YmdPM010UzUxRXJ0aFZad1VFTVkzRjQ5UlVCc3VMNDJvRkh1MTJlYWp0M0N3aUZIUQ?oc=5",
+    "title": "„Hängen in der Luft“ - Nach Hauseinsturz: Gasthaus fürchtet um Existenz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RMlpGWGxfc1ZIbURFaWNpa3UyRFNtNldqTlJ0dFZId3VWRlg3Qm5VYTd1enRnVU5ORDQ1OUk0Zy0xdw?oc=5",
     "image": "",
-    "date": 1790847960000,
-    "titleSl": "Je bil bringt Zukunft? - Trainerkarriere? Das sagt Tennis-Legende Nadal"
+    "date": 1790848494000
    },
    {
     "title": "Krise weitet sich aus - VW-Softwaretochter Cariad streicht 1000 Stellen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rbzVHelhkSjhVVVJ4SUNxcmdKQUVPeHdiM2pETlJiTVM3MXBjdDJDMTVpTEtWLVpxMHlPUkNpQUs0QQ?oc=5",
     "image": "",
     "date": 1790847960000
+   },
+   {
+    "title": "Was bringt Zukunft? - Trainerkarriere? Das sagt Tennis-Legende Nadal",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yelFaSjRFZmJ0YmdPM010UzUxRXJ0aFZad1VFTVkzRjQ5UlVCc3VMNDJvRkh1MTJlYWp0M0N3aUZIUQ?oc=5",
+    "image": "",
+    "date": 1790847960000,
+    "titleSl": "Je bil bringt Zukunft? - Trainerkarriere? Das sagt Tennis-Legende Nadal"
    },
    {
     "title": "+6,7 Prozent in OÖ - Arbeitslosigkeit bei älteren Frauen steigt stark",
@@ -480,19 +486,19 @@
     "titleSl": "Ins Rollen geraten - Seniorin kauft Zigaretten, Pkw kracht v Altenheimu"
    },
    {
-    "title": "Nach Aus von Behrendt - Ricarda Seifried wird Kölner „Tatort“-Kommissarin",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GVk1Gdk5tZ1FOdThsVXNiamRDcFRVLThlQk9zNThtQVM2dkFrSGlMOWg4cTRMNjdiNU9zMUhOQUxDQQ?oc=5",
+    "title": "Neues Wahlarzt-Modell - Haberlander erteilt FPÖ-Vorstoß eine Absage",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zZkYxUTc4VzNIbFAzZTR3RVAtS2xXMDk4YzA4TjRxSnozUXBIVnlyQ3ZDOFFrWUdmMHVranBfRGhWZw?oc=5",
     "image": "",
-    "date": 1790847660000
-   },
-   {
-    "title": "Bär-Nachfolger - Jakub Maly neuer Sportdirektor vom Schwimmverband",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tMzFzb1I0TEpWLUpGSlpGMkdoMDFkQXIxYUt4a0J6c2lfMmtPQ1BQeE1vcl9LbkRYVEVfUG9GMnl3dw?oc=5",
-    "image": "",
-    "date": 1790847420000
+    "date": 1790847540000
    }
   ],
   "rainews": [
+   {
+    "title": "Meloni inaugura la 66esma edizione del Salone nautico internazionale di Genova",
+    "link": "https://www.rainews.it/articoli/2026/10/giorgia-meloni-inaugura-la-66ma-edizione-del-salone-nautico-internazionale-di-genova-69852d0a-c4fc-42f6-b968-aa858200f393.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/01/1790848530789_RAN_..frame.jpeg",
+    "date": 1790848560000
+   },
    {
     "title": "L&#x27;Iran riceve la risposta americana, Trump: \"Forse li faccio saltare in aria\"",
     "link": "https://www.rainews.it/maratona/2026/10/guerre-medio-oriente-kiran-riceve-risposta-americana-trump-forse-li-faccio-saltare-in-aria-94354914-fa24-418e-ac80-24fcaff1d068.html",
@@ -526,13 +532,6 @@
     "link": "https://www.rainews.it/maratona/2026/10/tennis-atp-china-japan-open-tokyo-pechino-cobolli-darderi-berrettini-paolini-vavassori-bolelli-news-aggiornamenti-dcce8f24-edd5-4088-ac70-32108ff89f08.html",
     "image": "https://www.rainews.it/dl/img/2026/10/01/1790843110359_BeFunkycollage_.jpg",
     "date": 1790845200000
-   },
-   {
-    "title": "Seul con il naso all&#x27;insù: il funambolo estone Jaan Roose sfida il vuoto sopra la città",
-    "link": "https://www.rainews.it/video/2026/10/lo-slackliner-estone-roose-completa-una-traversata-highline-urbana-in-corea-del-sud-20ca7402-3916-46da-9f2c-d6750cb0552c.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/01/1790845200791_Cattura.PNG",
-    "date": 1790844960000,
-    "titleSl": "Seul con il naso all'insù: il funambolo estone Jaan Roose sfida il vuoto sopra la città"
    }
   ],
   "lemonde": [
@@ -580,6 +579,19 @@
   ],
   "elpais": [
    {
+    "title": "La Aemet decreta aviso rojo por lluvias torrenciales en Castellón, Valencia y Tarragona",
+    "link": "https://elpais.com/el-tiempo/2026-10-01/ocho-comunidades-bajo-aviso-en-el-inicio-de-un-fuerte-episodio-de-lluvias-y-chubascos-que-durara-hasta-el-lunes.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/GHTIMO3WYNK3BNV45I7FYIFRDY.jpg?auth=8cdcf20842d83b72ef31649f78cef5f9903b903c925411e3843bb67f3ee87b14",
+    "date": 1790848220000
+   },
+   {
+    "title": "Acampadas en España por la vivienda, en directo | Podemos confirma que votará a favor de los decretos de vivienda",
+    "link": "https://elpais.com/espana/2026-10-01/acampadas-en-espana-por-la-vivienda-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/35Y7UF5YURBALOPZYEDEKU73QU.jpg?auth=a52bb965adbf0b8951aaeac857d08a44eafc6a77791d851052f6840fe15d2565",
+    "date": 1790848157000,
+    "titleSl": "Acampadas en España por la vivienda, en directo | Podemos confirmma que votará a favor de los decretos de vivienda"
+   },
+   {
     "title": "El Ayuntamiento presenta una foto de un cuchillo junto a pan y hummus como prueba del peligro de la acampada de Sol",
     "link": "https://elpais.com/espana/madrid/2026-10-01/el-ayuntamiento-presenta-una-foto-de-un-cuchillo-junto-a-pan-y-hummus-como-prueba-del-peligro-de-la-acampada-de-sol.html",
     "image": "https://imagenes.elpais.com/resizer/v2/6OAGBDP4GBC67CLOEPIDASLEK4.jpg?auth=481fac1700c376bacb6d7710514428f5adf3a6d234d04519e81006b1cedad513",
@@ -603,19 +615,6 @@
     "link": "https://elpais.com/quadern/2026-10-01/les-veus-incomodes-de-la-rereguarda-republicana.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DCPXA7JY3BDHNHHM3NAVXYXDE4.JPG?auth=23f9bd1b62ef8a8ac6a8889fc8b806c3424184440b985e4ebd6a9c08a78ffe4c",
     "date": 1790847172000
-   },
-   {
-    "title": "El partido de María Corina Machado se juega su estrategia en el incierto retorno de su líder a Venezuela",
-    "link": "https://elpais.com/america/2026-10-01/el-partido-de-maria-corina-machado-se-juega-su-estrategia-en-el-incierto-retorno-de-su-lider-a-venezuela.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/NOYNFGMZWNIFHAXP2QCOV22OSI.jpg?auth=314663978cf1537e3cf1cbab17ce6fcf94b0a84ce0776ab61a7c8988a6590085",
-    "date": 1790847000000
-   },
-   {
-    "title": "Acampadas en España por la vivienda, en directo | Podemos confirma que votará a favor de los decretos de vivienda",
-    "link": "https://elpais.com/espana/2026-10-01/acampadas-en-espana-por-la-vivienda-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/35Y7UF5YURBALOPZYEDEKU73QU.jpg?auth=a52bb965adbf0b8951aaeac857d08a44eafc6a77791d851052f6840fe15d2565",
-    "date": 1790846873000,
-    "titleSl": "Acampadas en España por la vivienda, en directo | Podemos confirmma que votará a favor de los decretos de vivienda"
    }
   ]
  },
