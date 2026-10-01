@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-01T11:54:27.973Z",
+ "generatedAt": "2026-10-01T11:56:28.518Z",
  "sources": {
   "siol": [
+   {
+    "title": "Ukrajino po ruskih napadih pestijo izpadi elektrike",
+    "link": "https://siol.net/novice/svet/ukrajino-po-ruskih-napadih-pestijo-izpadi-elektrike-702905",
+    "image": "https://siol.net/media/img/c5/cb/f35cce7abe0d846d3685.jpeg",
+    "date": 1790855460000
+   },
    {
     "title": "Dva pešca huje poškodovana, policija obravnava kaznivo dejanje",
     "link": "https://siol.net/novice/slovenija/dva-pesca-huje-poskodovana-policija-obravnava-kaznivo-dejanje-702904",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/v-nemciji-cenejse-gorivo-kako-je-drugje-po-evropi-702895",
     "image": "https://siol.net/media/img/b9/49/2801933aded5c34704a9.jpeg",
     "date": 1790851860000
-   },
-   {
-    "title": "Urška Klakočar Zupančič zaprosila za vpis med odvetnike",
-    "link": "https://siol.net/novice/slovenija/urska-klakocar-zupancic-zaprosila-za-vpis-med-odvetnike-702898",
-    "image": "https://siol.net/media/img/f7/f2/f1544486ccda03d4d06e.jpeg",
-    "date": 1790851320000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Umrla je obsojenka Biljana Plavšić",
+    "link": "https://www.zurnal24.si/svet/umrla-je-obsojenka-biljana-plavsic-466030",
+    "image": "https://www.zurnal24.si/media/img/eb/8c/b04f4036845bfeb21cf2.jpeg",
+    "date": 1790855640000
+   },
+   {
     "title": "Mervar: \"Ne vem, kaj naj rečem, nerodno mi je ...\"",
     "link": "https://www.zurnal24.si/slovenija/mervar-ne-vem-kaj-naj-recem-nerodno-mi-je-466029",
     "image": "https://www.zurnal24.si/media/img/a9/7e/884c8bfd988a94b5ac10.png",
@@ -141,16 +147,10 @@
     "date": 1790851440000
    },
    {
-    "title": "Teniški as sklenil svojo veliko kariero",
-    "link": "https://www.zurnal24.si/sport/teniski-as-sklenil-svojo-veliko-kariero-466021",
-    "image": "https://www.zurnal24.si/media/img/8a/67/183da7e0421214ce8769.jpeg",
-    "date": 1790849580000
-   },
-   {
-    "title": "Zbil ga je na prehodu, poškodbe so bile prehude",
-    "link": "https://www.zurnal24.si/slovenija/zbil-ga-je-na-prehodu-poskodbe-so-bile-prehude-466020",
-    "image": "https://www.zurnal24.si/media/img/fc/89/99f5e6267c942509d5b0.jpeg",
-    "date": 1790848440000
+    "title": "Ogledali smo si Arsovo merilno napravo. \"Super! To je to, kar potrebujemo\"",
+    "link": "https://www.zurnal24.si/slovenija/ogledali-smo-si-arsovo-merilno-napravo-super-to-je-to-kar-potrebujemo-466028",
+    "image": "https://www.zurnal24.si/media/img/0c/50/d417b16153bd70413f9f.jpeg",
+    "date": 1790850000000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "John Roberts Retreated to His Island. Supreme Court Critics Found Him.",
+    "link": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-roberts-maine.html",
+    "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01dc-scotus-maine-alt-qpgw/01dc-scotus-maine-alt-qpgw-mediumSquareAt3X.jpg",
+    "date": 1790855650000,
+    "titleSl": "John Roberts se je umaknil na svoj otok. Kritiki vrhovnega sodišča so ga našli."
+   },
+   {
     "title": "The Middle School Kids Trying to Make Sense of Stalin’s Tyranny",
     "link": "https://www.nytimes.com/2026/10/01/opinion/joseph-stalin-middle-school.html",
     "image": "",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01theheadlines-Cornell-02-vmjk/01theheadlines-Cornell-02-vmjk-mediumSquareAt3X.jpg",
     "date": 1790848808000,
     "titleSl": "Kaj na novo pridobljeni dokumenti kažejo o primeru Cornell in napadu v kokpitu v krvavem zraku"
-   },
-   {
-    "title": "Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why?",
-    "link": "https://www.nytimes.com/2026/10/01/business/energy-environment/oil-prices-iran-war-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-oil-price-zlhp/01biz-oil-price-zlhp-mediumSquareAt3X.jpg",
-    "date": 1790845604000,
-    "titleSl": "Nafta teče iz Perzijskega zaliva, vendar cene ostajajo visoke. Zakaj?"
    }
   ],
   "bbc": [
@@ -287,49 +287,56 @@
   ],
   "aljazeera": [
    {
+    "title": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel",
+    "link": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-30T153743Z_1064890530_RC2RTNA4YXNV_RTRMADP_3_ISRAEL-GULF-FLIGHT-1-1790844581.jpg?resize=1200%2C630",
+    "date": 1790855168000,
+    "titleSl": "ZAE preiskujejo morebitno \"teroristično\" povezavo v napadu na let v Izrael"
+   },
+   {
+    "title": "Carlos Queiroz quits as Ghana coach after AFCON qualifying defeats",
+    "link": "https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26185056217399-1790854783.jpg?resize=1920%2C1440",
+    "date": 1790854984000,
+    "titleSl": "Carlos Queiroz odstopil kot trener Gane po kvalifikacijskih porazih AFCON"
+   },
+   {
+    "title": "Jewish human rights barrister, 94, arrested for supporting Palestine Action",
+    "link": "https://www.aljazeera.com/news/2026/10/1/jewish-human-rights-barrister-94-arrested-for-supporting-palestine-action?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Margaret-Owen-OBE-Liverpool-270926-Credit_-Amelia-Hall-1790848873.jpg?resize=1920%2C1440",
+    "date": 1790854947000,
+    "titleSl": "Židovski odvetnik za človekove pravice, 94, aretiran zaradi podpore palestinski akciji"
+   },
+   {
+    "title": "Minaret of Indian mosque collapses during controversial demolition",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-clip-shahi-mosque-demolition-minaret-in?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790854780.jpg?resize=1920%2C1080&quality=80",
+    "date": 1790854796000,
+    "titleSl": "Med kontroverznim rušenjem se zruši minaret indijske mošeje"
+   },
+   {
+    "title": "Afghanistan says Pakistani airstrikes killed women and children",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-airstrikes-killed-women-and-children?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790854648.jpg?resize=1920%2C1080&quality=80",
+    "date": 1790854739000,
+    "titleSl": "Afganistan pravi, da so pakistanski zračni napadi ubili ženske in otroke"
+   },
+   {
     "title": "Alex Eala loses Asian Games semifinal to China’s Wang Xiyu",
     "link": "https://www.aljazeera.com/sports/2026/10/1/alex-eala-loses-asian-games-semifinal-to-chinas-wang-xiyu?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260924__C99E29E__v2__HighRes__TennisSinWta-1790853771.jpg?resize=1920%2C1440",
     "date": 1790854076000,
     "titleSl": "Alex Eala je izgubil polfinale Azijskih iger s Kitajcem Wangom Xiyujem"
-   },
-   {
-    "title": "Christa Pike execution fails: What next when a lethal injection is botched?",
-    "link": "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abd35cd1ceb-1790784973.jpg?resize=1200%2C630",
-    "date": 1790851962000,
-    "titleSl": "Christa Pike usmrtitev ne uspe: Kaj sledi, ko je smrtonosna injekcija neuspešna?"
-   },
-   {
-    "title": "How will investigation into Flydubai flight attack unfold?",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-11.07.30-1790849464.png?resize=1200%2C675",
-    "date": 1790849800000,
-    "titleSl": "Kako se bo odvijala preiskava letalskega napada na Flydubai?"
-   },
-   {
-    "title": "Iraq’s Kurdish forces look to a new era after US withdrawal",
-    "link": "https://www.aljazeera.com/news/2026/10/1/iraqs-kurdish-forces-look-to-a-new-era-after-us-withdrawal?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abe18da476f-1790843098.jpg?resize=1920%2C1440",
-    "date": 1790849647000,
-    "titleSl": "Iraške kurdske sile se po umiku ZDA obračajo v novo dobo"
-   },
-   {
-    "title": "Turkish fans show support for Palestine at friendly fixture",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-sv-konyaspor-palestine-tifo-tr?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790847631.jpg?resize=1703%2C1080&quality=80",
-    "date": 1790847676000,
-    "titleSl": "Turški navijači v prijateljskem dvoboju izkazujejo podporo Palestini"
-   },
-   {
-    "title": "Can Europe still compete with the US and China?",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/1/can-europe-still-compete-with-the-us-and-china?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/web-1790847598.jpg?resize=1920%2C1080&quality=80",
-    "date": 1790847616000,
-    "titleSl": "Ali lahko Evropa še vedno konkurira ZDA in Kitajski?"
    }
   ],
   "guardian": [
+   {
+    "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+    "image": "https://i.guim.co.uk/img/media/ffce6bcd4f1a1119e34df554a3034e07b05b25c9/984_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0cf0bc211b923c4baf37269977b234fb",
+    "date": 1790854705000,
+    "titleSl": "Ukrajina udarila po naftnem objektu v ruski regiji Samara kljub pritisku Trumpa – Evropa v živo"
+   },
    {
     "title": "‘Thank you Andy Burnham’: prisoners react as they begin to leave under early release scheme – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
@@ -357,13 +364,6 @@
     "image": "https://i.guim.co.uk/img/media/7c990521c1f366a42e76a011f67372175faeeb11/1298_307_6364_5090/master/6364.jpg?width=140&quality=85&auto=format&fit=max&s=eb81ee77b019d75f3b5d6f376a9d104f",
     "date": 1790853525000,
     "titleSl": "Stavnice v Združenem kraljestvu, ki so opozarjale na goljufive igralnice, so imele dobiček od iger na srečo"
-   },
-   {
-    "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-    "image": "https://i.guim.co.uk/img/media/ffce6bcd4f1a1119e34df554a3034e07b05b25c9/984_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0cf0bc211b923c4baf37269977b234fb",
-    "date": 1790852622000,
-    "titleSl": "Ukrajina udarila po naftnem objektu v ruski regiji Samara kljub pritisku Trumpa – Evropa v živo"
    },
    {
     "title": "Democratic senators accuse Trump administration of worsening childcare crisis",
@@ -415,6 +415,13 @@
   ],
   "bild": [
    {
+    "title": "Alle Coupons wertlos? - Bekannter Gutschein-Anbieter ist pleite",
+    "link": "https://www.bild.de/leben-wissen/sparfochs/coupons-wertlos-bekannter-gutschein-anbieter-ist-pleite-6abe1f3e3af773f07b89352f",
+    "image": "https://images.bild.de/6abe1f3e3af773f07b89352f/12ae68422b3aa259a2c00fe24195d594,4445e9f0?w=1280",
+    "date": 0,
+    "titleSl": "Vsi kuponi wertlos? - Bekannter Gutschein-Anbieter ist pleite"
+   },
+   {
     "title": "Nach NFL-Fehlstart - Familie von Football-Star im Internet bedroht",
     "link": "https://www.bild.de/sport/mehr-sport/nach-nfl-fehlstart-familie-von-cam-ward-im-internet-bedroht-6abe02e809fefadd71a54081",
     "image": "https://images.bild.de/6abe02e809fefadd71a54081/f3bf3f0ddd1a8b1bfc13ce9831f3a20e,dd571696?w=1280",
@@ -440,13 +447,6 @@
     "titleSl": "Linke Vorsondierungsgespräche v Berlinu - Remmos? Judenhass? Bitte keine Fragen!"
    },
    {
-    "title": "Alle Coupons wertlos? - Bekannter Gutschein-Anbieter ist pleite",
-    "link": "https://www.bild.de/leben-wissen/sparfochs/coupons-wertlos-bekannter-gutschein-anbieter-ist-pleite-6abe1f3e3af773f07b89352f",
-    "image": "https://images.bild.de/6abe1f3e3af773f07b89352f/12ae68422b3aa259a2c00fe24195d594,4445e9f0?w=1280",
-    "date": 0,
-    "titleSl": "Vsi kuponi wertlos? - Bekannter Gutschein-Anbieter ist pleite"
-   },
-   {
     "title": "Teurer als gestern - 12-Uhr-Schock! Tankrabatt schon wieder futsch",
     "link": "https://www.bild.de/politik/inland/schock-am-mittag-vom-tankrabatt-ist-nichts-mehr-uebrig-6abe0ec2ca5c42fe8f93172c",
     "image": "https://images.bild.de/6abe0ec2ca5c42fe8f93172c/c1af4f4bcdbaaf10baf3fc14e3009111,e09d5ac?w=1280",
@@ -460,6 +460,12 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1keHZORno0eWFQRl9VbEg3RG13bXdQUnJWOTFGYndWdnpvSUxhcWJ5UlR3S2NHOW9vcTVRRmFxcFRSUQ?oc=5",
     "image": "",
     "date": 1790855280000
+   },
+   {
+    "title": "Heißt nun anders - Partei streicht Gründerin Wagenknecht aus Namen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02TzU4dEE3cmlibmFrdjNrQUJmdWVZWkU0MUxUdDNDd0RNdXpmN3htNjFfX2pGMUh2bjNmQWhpbHpaZw?oc=5",
+    "image": "",
+    "date": 1790854920000
    },
    {
     "title": "„Digi-Turbo“ für Gemeinden soll kommen",
@@ -485,27 +491,27 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5RmMwWVFyaEJTalF4YUtWME0yeEsyRTZBRFdOQVprLWYyUVk3Y0RINnBKZjNKbjlRTmpUVDd5RDFJdw?oc=5",
     "image": "",
     "date": 1790854200000
-   },
-   {
-    "title": "„Haben uns entschieden, um unser Leben zu kämpfen“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1iZV83OGRaSHdQYnFWSDFxWEVIZ3ZCY3pfYnEwTVJRMzdrdUVBRE1Ca0lLUU5oN3N2eFBaamw0aUJqZw?oc=5",
-    "image": "",
-    "date": 1790853922000
    }
   ],
   "rainews": [
+   {
+    "title": "TG2 Tutto il bello che c&#x27;è del 01/10/2026",
+    "link": "https://www.rainews.it/rubriche/tg2tuttoilbellochece/video/2026/10/TG2-Tutto-il-bello-che-ce-del-01102026-9a135bda-b2ea-489e-9be8-b8254038de5e.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/30471808_1.jpg",
+    "date": 1790855734000,
+    "titleSl": "TG2 Tutto il bello che c'è del 01/10/2026"
+   },
+   {
+    "title": "Diana Bianchedi si dimette dopo le parole di Abodi",
+    "link": "https://www.rainews.it/video/2026/10/calcio-nations-league-nazionale-azzurri-italia-francia-bianchedi-abodi-figc-malago-dimissioni-80795ebb-5307-448d-a0ac-6016148d07b5.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/01/1790854307777_.png",
+    "date": 1790855580000
+   },
    {
     "title": "Schiavitù e violenza sessuale, scoperta una setta nel Torinese. Arrestato il guru",
     "link": "https://www.rainews.it/articoli/2026/10/schiavitu-e-violenza-sessuale-scoperta-una-setta-nel-torinese-d46908c7-b082-4b2b-bde4-7f9028e06007.html",
     "image": "https://www.rainews.it/dl/img/2026/10/01/1790836902775_Immagine__.png",
     "date": 1790855580000
-   },
-   {
-    "title": "TG2 Tutto il bello che c&#x27;è del 01/10/2026",
-    "link": "https://www.rainews.it/rubriche/tg2tuttoilbellochece/video/2026/10/TG2-Tutto-il-bello-che-ce-del-01102026-9a135bda-b2ea-489e-9be8-b8254038de5e.html",
-    "image": "https://www.rainews.it/dl/components/img/tappo-rainews.png",
-    "date": 1790855518000,
-    "titleSl": "TG2 Tutto il bello che c'è del 01/10/2026"
    },
    {
     "title": "Simona Ventura a Ballando: \"Ritorno e mi toglierò qualche sassolino\"",
@@ -525,12 +531,6 @@
     "link": "https://www.rainews.it/maratona/2026/10/tennis-atp-china-japan-open-tokyo-pechino-cobolli-darderi-berrettini-paolini-vavassori-bolelli-news-aggiornamenti-dcce8f24-edd5-4088-ac70-32108ff89f08.html",
     "image": "https://www.rainews.it/dl/img/2026/10/01/1790843110359_BeFunkycollage_.jpg",
     "date": 1790854500000
-   },
-   {
-    "title": "Manovra, il viceministro Leo: cautela “o rischiamo un tracollo come in Grecia”",
-    "link": "https://www.rainews.it/articoli/2026/10/manovra-il-viceministro-leo-cautela-o-rischiamo-un-tracollo-come-in-grecia-875a1afb-cffd-4996-9c39-e299d092a313.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/01/1790853485670_Imagoeconomica.jpg",
-    "date": 1790854260000
    }
   ],
   "lemonde": [
@@ -578,8 +578,8 @@
    {
     "title": "Woody Allen: “Quería una atmósfera diplomática y Madrid es bonita, elegante, parecía un lugar lógico para la historia”",
     "link": "https://elpais.com/cultura/cine/2026-10-01/woody-allen-presenta-el-rodaje-de-su-pelicula-en-madrid.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/B7N5DU43EBDVDNIDXZZSI5XZQQ.jpg?auth=bf449e0b620dd9263adbabaa1d6f0c63d667aa4efdc75dee31c6e8d4dee38b20",
-    "date": 1790855481000,
+    "image": "https://imagenes.elpais.com/resizer/v2/5ETTO3UWSVFNNO64OOH75CIQYY.jpg?auth=b084b2eb6e4069f8e3e665be6d02bc5698cfe399aa76d475b99ee9cffdeede26",
+    "date": 1790855606000,
     "titleSl": "Woody Allen: \"Quería una atmósfera diplomática y Madrid es bonita, elegante, parecía un lugar lógico para la historia\""
    },
    {
