@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-02T12:50:44.231Z",
+ "generatedAt": "2026-10-02T12:52:25.919Z",
  "sources": {
   "siol": [
    {
-    "title": "Policija potrdila: preiskujemo afero, v katero je vpleten direktor GEN-I Sonce",
+    "title": "Policija potrdila: Preiskujemo afero, v katero je vpleten direktor GEN-I Sonce",
     "link": "https://siol.net/novice/slovenija/policija-potrdila-preiskujemo-afero-v-katero-je-vpleten-direktor-gen-i-sonce-703029",
     "image": "https://siol.net/media/img/64/83/9a01162c03d8ff51e129.jpeg",
     "date": 1790945040000
@@ -123,6 +123,12 @@
     "date": 1790943660000
    },
    {
+    "title": "Krivdo za Arminovo smrt zanikal tudi policist, ki naj bi ga zadušil",
+    "link": "https://www.zurnal24.si/slovenija/crna-kronika/krivdo-za-arminovo-smrt-zanikal-tudi-policist-ki-naj-bi-ga-zadusil-466088",
+    "image": "https://www.zurnal24.si/media/img/80/d9/dd4e48dd478333aee80b.jpeg",
+    "date": 1790942220000
+   },
+   {
     "title": "Tržni inšpektorat dal zeleno luč Lidlu za \"lupljenje obiskovalcev\"",
     "link": "https://www.zurnal24.si/slovenija/trzni-inspektorat-dal-zeleno-luc-lidlu-za-lupljenje-obiskovalcev-466085",
     "image": "https://www.zurnal24.si/media/img/ed/3c/ad6fdd25ca0bf071157a.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/umrl-znani-slovenski-novinar-mnogi-se-ga-boste-spomnili-z-466078",
     "image": "https://www.zurnal24.si/media/img/2d/57/6f001d2709b21df2d3a2.jpeg",
     "date": 1790938500000
-   },
-   {
-    "title": "To priljubljeno ime je Nina Pušlar nadela sinu",
-    "link": "https://www.zurnal24.si/magazin/vip/to-priljubljeno-ime-je-nina-puslar-nadela-sinu-466077",
-    "image": "https://www.zurnal24.si/media/img/84/af/4f6f6f1717fd811b422a.png",
-    "date": 1790938140000
    }
   ],
   "reuters": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Moment mother bear slams into car to protect cub",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790944904.jpg?resize=1920%2C1080&quality=80",
-    "date": 1790944931000,
-    "titleSl": "Trenutek, ko se mati medved zaleti v avto, da zaščiti mladiča"
-   },
-   {
     "title": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
     "link": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-01T041756Z_780811303_RC22UNAS3SOF_RTRMADP_3_ISRAEL-GULF-FLIGHT-PILOT-1790944400_fe8b5a-1790944581.jpg?resize=1200%2C630&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abf91eda7158-1790939629.jpg?resize=1920%2C1440",
     "date": 1790941305000,
     "titleSl": "Washingtonova diplomacija v Sudanu se je izjalovila"
+   },
+   {
+    "title": "Support for Merz plunges after CDU’s losses to Germany’s right and left",
+    "link": "https://www.aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-09-03T174324Z_212085087_RC2HKGAUU8MJ_RTRMADP_3_GERMANY-POLITICS-COALITION-1790937077.jpg?resize=1920%2C1440",
+    "date": 1790940675000,
+    "titleSl": "Podpora za Merz upada po izgubah CDU na nemški desni in levi"
    }
   ],
   "guardian": [
@@ -417,6 +417,12 @@
   ],
   "bild": [
    {
+    "title": "Weltstars und ihre ersten Fotoshootings - Erkennen Sie diese Mini-Promis?",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/drew-barrymore-the-rock-und-co-erkennen-sie-diese-mini-stars-6abf5dea1f9e47943a239328",
+    "image": "https://images.bild.de/6abf5dea1f9e47943a239328/057546785b3ca0273a1c533613545cde,ad9e811b?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nach Tor gegen Portugal - Provoziert der Dänen-Star hier Ronaldo?",
     "link": "https://www.bild.de/sport/fussball/nations-league-provoziert-hoejlund-hier-cristiano-ronaldo-nach-dem-tor-gegen-portugal-6abf5081d4d0c24ec26d0ffe",
     "image": "https://images.bild.de/6abf5081d4d0c24ec26d0ffe/92b7870dbea5f62c99d41b0106a19e9b,7804639c?w=1280",
@@ -447,56 +453,62 @@
     "image": "https://images.bild.de/6abe364a09fefadd71a545e7/635f9a1200730c7321e5a8d1cfeee6af,dcee6c6a?w=1280",
     "date": 0,
     "titleSl": "Vor der Kabinentür zückten sie die Kameras - Ventilatorji verfolgen Influencer aufs Klo"
-   },
-   {
-    "title": "14 Autos beteiligt! - Radfahrerin (†39) auf Autobahn überfahren",
-    "link": "https://www.bild.de/regional/hessen/radfahrerin-stirbt-bei-unfall-auf-a66-14-fahrzeuge-beteiligt-6abf6125863d7086e22731b7",
-    "image": "https://images.bild.de/6abf6125863d7086e22731b7/a6d1bcbe064faea313c53eff3595aefe,f5bb8b09?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "„Zieh dich aus!“ - Überfall! Opfer flüchtete nackt zu Tankstelle - krone.at",
+    "title": "„Zieh dich aus!“ - Überfall! Opfer flüchtete nackt zu Tankstelle",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfeUN1N2RtV2FZMkxDSEZteE11MUJ0NUxGMDNLcHJzYzFyVlM5eDJzR3JDVi1kZHB3TVBqbzF3N0l2Zw?oc=5",
     "image": "",
     "date": 1790945246000,
-    "titleSl": "\"Zieh dich aus!\" - Überfall! Opfer flüchtete nackt zu Tankstelle - krone.at"
+    "titleSl": "\"Zieh dich aus!\" - Überfall! Opfer flüchtete nackt zu Tankstelle"
    },
    {
-    "title": "Neue Ära in Wien - Neuman beerbt Calaycay als Cheftrainer bei Vikings - krone.at",
+    "title": "Neue Ära in Wien - Neuman beerbt Calaycay als Cheftrainer bei Vikings",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtVXI2ZTRtZFBCd3BlYVJ2WE9TREhKdDJCVXdXenIyV1kwMGtNd1hhYkZGLUx1Zy1IeGZBbnBsY1YzZw?oc=5",
     "image": "",
     "date": 1790945040000,
-    "titleSl": "Neue Ära na Dunaju - Neuman beerbt Calaycay als Cheftrainer bei Vikings - krone.at"
+    "titleSl": "Neue Ära na Dunaju - Neuman beerbt Calaycay als Cheftrainer bei Vikings"
    },
    {
-    "title": "Schuld ist El Niño - Blumenmeer statt Sand: Wüste blüht plötzlich auf - krone.at",
+    "title": "Schuld ist El Niño - Blumenmeer statt Sand: Wüste blüht plötzlich auf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qZ1hVNmNLMmlrUF9GLXNqNlhxQzlUMVJOSmQ3ZzJhTWQ2VjZCS1I0R3l5enVJR3NhQkhVRkVIdXZDQQ?oc=5",
     "image": "",
     "date": 1790944860000
    },
    {
-    "title": "Kurioser Jagdunfall - Verletzt! Toter Hirsch rutschte auf Jagdhelfer - krone.at",
+    "title": "Kurioser Jagdunfall - Verletzt! Toter Hirsch rutschte auf Jagdhelfer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pMlR4NU9XSUJlbm1EM1VFcnhGSXlpMlpqRGdNNnJtWXpITTE1VUQycHJIRGgxMU5FdUZLTWhmNnItZw?oc=5",
     "image": "",
     "date": 1790944260000
    },
    {
-    "title": "Olympiasieger zu Gast - Achtung: Dieser Superstar schlägt in Hartberg auf - krone.at",
+    "title": "Olympiasieger zu Gast - Achtung: Dieser Superstar schlägt in Hartberg auf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZbVg3Z0d4NWowdXpLd2JKc2wxdlp1cEtDR1Iyb0gwSnNFYllHUEljcHBibmV2dXNBbU1IeHBZbTVMQQ?oc=5",
     "image": "",
     "date": 1790944200000
    },
    {
-    "title": "„Wir werden uns nie an den Gegner anpassen!“ - krone.at",
+    "title": "„Wir werden uns nie an den Gegner anpassen!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IaGV4Wl9USXhrb2JSRWw5T3cwZmZYZ0o4Q0NGcFZtQjdacURuMV9FVTR3MkdFQW1BekNCdXdhQ2xCQQ?oc=5",
     "image": "",
     "date": 1790944200000,
-    "titleSl": "\"Wir werden uns nie an den Gegner anpassen!\" - krone.at"
+    "titleSl": "\"Wir werden uns nie an den Gegner anpassen!\""
    }
   ],
   "rainews": [
+   {
+    "title": "Tg2 Eat Parade del 02/10/2026",
+    "link": "https://www.rainews.it/rubriche/tg2eatparade/video/2026/10/Tg2-Eat-Parade-del-02102026-f00e7799-ce67-4388-bf7a-531acd2cdf54.html",
+    "image": "https://www.rainews.it/dl/img/2025/11/05/1762339926524_Tg2_Eat_Parade_2048x1152.jpg",
+    "date": 1790945568000
+   },
+   {
+    "title": "Auto sulla folla a Modena, la perizia: El Koudri capace di intendere e di volere",
+    "link": "https://www.rainews.it/articoli/2026/10/auto-sulla-folla-a-modena-la-perizia-el-koudri-capace-di-intendere-e-di-volere-811ae1b8-b8ec-4c57-9ca6-52ad99bc7c38.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/02/1790945093115_rainewseadadaccefdcef.jpg",
+    "date": 1790945400000
+   },
    {
     "title": "G7 in videoconferenza sull&#x27;energia: Macron riunisce i leader mentre la crisi dei carburanti morde",
     "link": "https://www.rainews.it/articoli/2026/10/g7-in-videoconferenza-sullenergia-macron-riunisce-i-leader-mentre-la-crisi-dei-carburanti-morde-e43cf0b9-148f-4e58-abb6-effd2d35282c.html",
@@ -522,18 +534,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/02/1790940216798_.png",
     "date": 1790943120000,
     "titleSl": "Benigni in tv da Vespa: \"San Francesco, un ottimo leader del campo largo\""
-   },
-   {
-    "title": "Sinner rompe la \"maledizione\" della patente: promosso al quinto tentativo",
-    "link": "https://www.rainews.it/articoli/2026/10/sinner-rompe-maledizione-patente-moto-promosso-al-quinto-tentativo-montecarlo-78ba30ac-0654-4482-a804-acb43339a9ad.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/02/1790942712027_SnapInsta.ton.jpg",
-    "date": 1790942520000
-   },
-   {
-    "title": "Auto sulla folla a Modena, gip: \"El Koudri era capace di intendere e di volere\"",
-    "link": "https://www.rainews.it/video/2026/10/auto-sulla-folla-a-modena-gip-el-koudri-era-capace-di-intendere-e-di-volere-ffb0f2c1-c391-40a0-9247-b01ef11c086f.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/02/1790942563086_.png",
-    "date": 1790942460000
    }
   ],
   "lemonde": [
