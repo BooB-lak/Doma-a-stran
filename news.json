@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T15:48:28.026Z",
+ "generatedAt": "2026-10-02T15:50:47.040Z",
  "sources": {
   "siol": [
    {
@@ -27,16 +27,16 @@
     "date": 1790955060000
    },
    {
+    "title": "Ferran Torres zapustil špansko reprezentanco",
+    "link": "https://siol.net/sportal/nogomet/ferran-torres-zapustil-spansko-reprezentanco-703044",
+    "image": "https://siol.net/media/img/51/06/c4d9c9af79a6337389bc.jpeg",
+    "date": 1790955000000
+   },
+   {
     "title": "Trump: Evropske države bodo takoj sprostile ogromne količine dizla",
     "link": "https://siol.net/novice/svet/sprostitev-zalog-dizla-po-besedah-evropskega-komisarja-ena-od-moznosti-703038",
     "image": "https://siol.net/media/img/28/38/3e0713b9b6611fe56d59.jpeg",
     "date": 1790954160000
-   },
-   {
-    "title": "Reindl novi predsednik Mednarodne hokejske zveze IIHF",
-    "link": "https://siol.net/sportal/hokej/reindl-novi-predsednik-mednarodne-hokejske-zveze-iihf-703013",
-    "image": "https://siol.net/media/img/16/62/e1fa7cd99b08940ffb36.jpeg",
-    "date": 1790953740000
    }
   ],
   "24ur": [
@@ -85,8 +85,8 @@
     "date": 1790954537000
    },
    {
-    "title": "Strokovne institucije kritične do sveta za šolsko reformo",
-    "link": "https://www.rtvslo.si/slovenija/strokovne-institucije-kriticne-do-sveta-za-solsko-reformo/795659",
+    "title": "Strokovne institucije kritične do sveta za šolsko reformo. Ministrstvo poziva k sodelovanju.",
+    "link": "https://www.rtvslo.si/slovenija/strokovne-institucije-kriticne-do-sveta-za-solsko-reformo-ministrstvo-poziva-k-sodelovanju/795659",
     "image": "https://img.rtvcdn.si/_up/upload/2018/02/14/65473947.jpg",
     "date": 1790954386000
    },
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Po Trumpovem pritisku evropske države klonile in sprejele prelomno odločitev",
+    "link": "https://www.zurnal24.si/svet/po-trumpovem-pritisku-evropske-drzave-klonile-in-sprejele-prelomno-odlocitev-466098",
+    "image": "https://www.zurnal24.si/media/img/2b/bf/bff13bea0f7831902954.jpeg",
+    "date": 1790955660000
+   },
+   {
     "title": "Po ponesrečeni usmrtitvi se je oglasil tudi papež, k temu poziva",
     "link": "https://www.zurnal24.si/svet/po-ponesreceni-usmrtitvi-se-je-oglasil-tudi-papez-k-temu-poziva-466097",
     "image": "https://www.zurnal24.si/media/img/72/b2/4a1d78d41adbd78cd034.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kosarka/po-uporu-sodnikov-in-s-tednom-zamude-bodo-vendarle-zaceli-liga-aba-466091",
     "image": "https://www.zurnal24.si/media/img/2e/76/069d00337e972f3c6a0e.jpeg",
     "date": 1790946480000
-   },
-   {
-    "title": "BMW-ju se zaradi nove tovarne smeji, CATL doživel (evropsko) nočno moro",
-    "link": "https://www.zurnal24.si/avto/bmw-ju-se-zaradi-nove-tovarne-smeji-catl-dozivel-evropsko-nocno-moro-465567",
-    "image": "https://www.zurnal24.si/media/img/b8/d0/16d3e3700fd2113371d6.jpeg",
-    "date": 1790943660000
    }
   ],
   "reuters": [
@@ -334,8 +334,15 @@
     "title": "Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/05ca2193011a0441e5a59c5f284e83d2cb465be5/547_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=baab1b740ee42d60bdc280cb4d810966",
-    "date": 1790955205000,
+    "date": 1790955736000,
     "titleSl": "Top demokrati kritizirajo \"Trumpovo neuspešno gospodarsko agendo\" po šibkejši rasti delovnih mest od pričakovane – ameriška politika v živo"
+   },
+   {
+    "title": "Aviation security back in spotlight after nightmare on flydubai flight to Israel",
+    "link": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+    "image": "https://i.guim.co.uk/img/media/b26465018bd9e0e7827709fe2ef104574d8df0ec/807_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=63bf45f6a3278c6f349d4c70e424b941",
+    "date": 1790955605000,
+    "titleSl": "Varnost v letalstvu je ponovno v središču pozornosti po nočni mori na letu flydubai v Izrael"
    },
    {
     "title": "G7 to release 100m barrels from reserves to combat surging diesel prices – Europe live",
@@ -345,9 +352,9 @@
     "titleSl": "G7 bo sprostil 100 milijonov sodov iz rezerv za boj proti naraščajočim cenam dizelskega goriva – Evropa v živo"
    },
    {
-    "title": "US Coast Guard says it has intercepted ship carrying fuel to Cuba",
+    "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
     "link": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
-    "image": "https://i.guim.co.uk/img/media/384e8b9f53abc00ece2548dd7457c4818dd06720/900_60_6827_5461/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=2186e13965665d37c5a24a635a309c35",
+    "image": "https://i.guim.co.uk/img/media/8decb894ae83b63e0d30ed259536918b34ef7ce1/3473_2437_2385_1909/master/2385.jpg?width=140&quality=85&auto=format&fit=max&s=6544cd2cf8e9d5e551bff195541688fc",
     "date": 1790954003000,
     "titleSl": "Ameriška obalna straža pravi, da je prestregla ladjo, ki je prevažala gorivo na Kubo"
    },
@@ -364,16 +371,21 @@
     "image": "https://i.guim.co.uk/img/media/317151c46d7530b6857e9420de2bea4b72c5818e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0be0b9eb7f4545d2e2bda29ded9390ce",
     "date": 1790953607000,
     "titleSl": "Valižanski prvi minister poziva Burnhama, naj predloži \"nov dogovor\" o prenosu"
-   },
-   {
-    "title": "OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’. Fixing it could bring a big bill for taxpayers",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
-    "image": "https://i.guim.co.uk/img/media/961de574f870d32e3b4daa471716efcb42a6d0c5/904_0_5223_4179/master/5223.jpg?width=140&quality=85&auto=format&fit=max&s=9c0bf56b1ba320a54cb3c6714ef15ca0",
-    "date": 1790953213000,
-    "titleSl": "Napad OpenAI na Medicare je razkril \"tehnološki dolg\" Avstralije. Popravljanje bi lahko prineslo velik račun za davkoplačevalce"
    }
   ],
   "spiegel": [
+   {
+    "title": "USS »San Francisco«: Als aus zwei Atom-U-Booten eines wurde",
+    "link": "https://www.spiegel.de/wissenschaft/technik/uss-san-francisco-als-aus-zwei-atom-u-booten-eines-wurde-a-7c24f6bb-f702-42da-bde9-2a9edf13609d#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/5287a944-bbb0-4a7e-b5a5-c2a29efc961a_w520_r2.08_fpx56.87_fpy49.98.jpg",
+    "date": 1790956080000
+   },
+   {
+    "title": "Exzellenzstrategie: Das sind die ausgezeichneten Universitäten",
+    "link": "https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/50e7a7ee-4715-4324-8b50-b5dca2af789e_w520_r2.08_fpx33_fpy69.jpg",
+    "date": 1790955600000
+   },
    {
     "title": "Pisa-Studie: Grundschüler in Bayern haben bald mehr Unterricht",
     "link": "https://www.spiegel.de/panorama/bildung/pisa-studie-grundschueler-in-bayern-haben-bald-mehr-unterricht-a-23d4bf56-fc76-48ed-9255-4c3ef9a1016f#ref=rss",
@@ -393,25 +405,25 @@
     "date": 1790953920000
    },
    {
-    "title": "Deutschland hat bald neue Exzellenzuniversitäten",
-    "link": "https://www.spiegel.de/panorama/bildung/deutschland-hat-bald-fuenf-neue-exzellenzuniversitaeten-a-0615fa59-1a8f-430a-b307-eb6ee6497e57#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/050c463d-d83e-465b-9f6f-d2d828ddde88_w520_r2.08_fpx30_fpy45.jpg",
-    "date": 1790952900000
-   },
-   {
     "title": "Diesel und Rohöl: G7 geben »bis zu 100 Millionen Barrel« frei",
     "link": "https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/303d7991-2480-4c26-a513-1ede92713f82_w520_r2.08_fpx68.66_fpy55.jpg",
     "date": 1790951460000
-   },
-   {
-    "title": "Netflix, Wow, Amazon Prime: Neue Serien und Filme im Oktober 2026 – was sich jetzt lohnt",
-    "link": "https://www.spiegel.de/kultur/tv/netflix-wow-amazon-prime-neue-serien-und-filme-im-oktober-2026-was-sich-jetzt-lohnt-a-e98212fe-4638-4d86-b5b4-38d0377a2fd9#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/d1c55b57-7a90-49d6-912f-c0f15cf285a7_w520_r2.08_fpx52.3_fpy54.98.jpg",
-    "date": 1790948940000
    }
   ],
   "bild": [
+   {
+    "title": "Nachgefragt - Pilze sammeln und verkaufen? Das kann teuer werden",
+    "link": "https://www.bild.de/leben-wissen/wohnen-living/darf-man-selbst-gesammelte-pilze-verkaufen-6ab4f1a969610b25688bd992",
+    "image": "https://images.bild.de/6ab4f1a969610b25688bd992/2a86934d50fefdb7faeab67e7d4fc063,ae835d1?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Überarbeitetes Modell - Neue PS5 mit wichtigen Verbesserungen entdeckt",
+    "link": "https://www.bild.de/leben-wissen/digital/neue-ps5-mit-wichtigen-verbesserungen-entdeckt-6abf62db1f9e47943a239386",
+    "image": "https://images.bild.de/6abf62db1f9e47943a239386/4f9710c44ec48b8c523c916203584d66,c654ab1f?w=1280",
+    "date": 0
+   },
    {
     "title": "Vorschau für den 2. Oktober 2026 - So geht es heute bei GZSZ weiter",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-heute-im-tv-wem-kann-matilda-noch-vertrauen-6ab6365318772248192d4940",
@@ -436,22 +448,22 @@
     "image": "https://images.bild.de/6abb88721e377c5785c687d6/07327ca4c21df0d0171ec90e53acdf4f,d2e95f21?w=1280",
     "date": 0,
     "titleSl": "Torej wohnt man darin - 120 Jahre alter Leuchtturm steht zum Verkauf"
-   },
-   {
-    "title": "Gruppenvergewaltigung an US-Eliteuni - Widerliche Chats belasten Cornell-Studenten",
-    "link": "https://www.bild.de/news/ausland/gruppenvergewaltigung-an-us-eliteuni-widerliche-chats-belasten-cornell-studenten-6abfba11863d7086e2273b07",
-    "image": "https://images.bild.de/6abfba11863d7086e2273b07/0cec7ff9a8e20dcab3d9ee2b30e7debc,90a6bad2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Justiz-Versagen in Sachsen - Politiker verprügelt! Täter erst 2027 vor Gericht",
-    "link": "https://www.bild.de/regional/dresden/dresden-politiker-pruegler-erst-3-jahre-nach-tat-vor-gericht-6abfb650d4d0c24ec26d1aa2",
-    "image": "https://images.bild.de/6abfb650d4d0c24ec26d1aa2/b67f071da8108e4397b1ece1e599b0a0,8d5885ba?w=1280",
-    "date": 0,
-    "titleSl": "Justiz-Versagen na Saškem - Politiker verprügelt! Täter erst 2027 vor Gericht"
    }
   ],
   "krone": [
+   {
+    "title": "„Zieh dich aus!“ - Überfall! Opfer flüchtete nackt zu Tankstelle",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfeUN1N2RtV2FZMkxDSEZteE11MUJ0NUxGMDNLcHJzYzFyVlM5eDJzR3JDVi1kZHB3TVBqbzF3N0l2Zw?oc=5",
+    "image": "",
+    "date": 1790956166000,
+    "titleSl": "\"Zieh dich aus!\" - Überfall! Opfer flüchtete nackt zu Tankstelle"
+   },
+   {
+    "title": "Kapitän fällt aus! - Erster Nackenschlag für neuen Grödig-Coach",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QYlVmS3JTVHN1ZWNhaVRlYUxGSXRLUTVOdFhhLXdweXgzNVdydGVreDJRZVIxWUstWUpkYmloM3JkZw?oc=5",
+    "image": "",
+    "date": 1790956020000
+   },
    {
     "title": "130.000 Euro für Strolz ++ Lagerhaus-Kündigungen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NU2J3TGctT2dza2R5bzNUd0xSLWMtaElPaTlNelctS0g2NHgxX3RYVzAySklvRTV6Mk9LeDF3RXR5dw?oc=5",
@@ -467,13 +479,6 @@
     "titleSl": "Lenkungsausfall droht - Wegen Škoda: VWs Millionen-Rückruf immer größer"
    },
    {
-    "title": "„Zieh dich aus!“ - Überfall! Opfer flüchtete nackt zu Tankstelle",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfeUN1N2RtV2FZMkxDSEZteE11MUJ0NUxGMDNLcHJzYzFyVlM5eDJzR3JDVi1kZHB3TVBqbzF3N0l2Zw?oc=5",
-    "image": "",
-    "date": 1790955136000,
-    "titleSl": "\"Zieh dich aus!\" - Überfall! Opfer flüchtete nackt zu Tankstelle"
-   },
-   {
     "title": "Zeugenschutz endet - Aufdecker von ManCity-Skandal nun in Todesangst!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4U3FwelRibGV6VXJTQVlDQW9mcjhOWjY0YV8wNFl0SUdHR21QMTVqN3luQko2LWFKVTdrYmtCREdxdw?oc=5",
     "image": "",
@@ -485,12 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nVDlNcFdDXzM2YV9DS0VQRmdkTHZMYVhBV3VFenVjTDg0NXJHa0RfQlpJUFJUN1BVdnY4NFVaT0Nudw?oc=5",
     "image": "",
     "date": 1790954640000
-   },
-   {
-    "title": "Trotz Pleite kriminell - Betrugsverdacht! Poolbauer versenkt Millionen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4ajFxa2pFY0hhRGVuT1FvdFVLaU41RkdzUHdETXplczJ4VmQwMXBick1Eb092LWc3Y25qN05HY0Vodw?oc=5",
-    "image": "",
-    "date": 1790954100000
    }
   ],
   "rainews": [
@@ -547,13 +546,6 @@
     "titleSl": "Proračun : le fonds vert pour la transition écologique est-il vraiment en hausse comme l'a affirmé la ministre Monique Barbut ?"
    },
    {
-    "title": "Affaire du viol collectif de Cornell : la gouverneure de New York promet de réformer la loi sur les victimes de viol en état d’ébriété",
-    "link": "https://www.lemonde.fr/international/article/2026/10/02/affaire-cornell-la-gouverneure-de-new-york-promet-de-reformer-la-loi-sur-les-victimes-de-viol-en-etat-d-ebriete_6787183_3210.html",
-    "image": "https://img.lemde.fr/2026/10/02/104/0/6364/3182/644/322/60/0/3f47bab_ftp-1-va5s06odfwhn-ca5af872a4a14eb79bd686cbad7d69d3-0-9eee5b38c4b44d28b487fd27a125dd4f.jpg",
-    "date": 1790955288000,
-    "titleSl": "Affaire du viol collectif de Cornell : la gouverneure de New York promet de réformer la loi sur les victimes de viol en état d 'ébriété"
-   },
-   {
     "title": "En Lettonie, la montée de partis proches de la Russie inquiète avant les législatives",
     "link": "https://www.lemonde.fr/international/article/2026/10/02/en-lettonie-la-montee-de-partis-proches-de-la-russie-inquiete-avant-les-legislatives_6787182_3210.html",
     "image": "https://img.lemde.fr/2026/10/01/156/0/4000/2000/644/322/60/0/b3a1ef4_upload-1-gqbsunsgaxqw-jelgava-30092026-reinis-hofmanis-006-copy.jpg",
@@ -571,9 +563,22 @@
     "link": "https://www.lemonde.fr/economie/article/2026/10/02/chute-des-commandes-droits-humains-non-respectes-en-birmanie-des-usines-sous-contrat-avec-h-m-ferment_6787179_3234.html",
     "image": "https://img.lemde.fr/2026/09/25/610/0/4067/2033/644/322/60/0/073a233_upload-1-tkbyxtqvm1i6-000-1ah6yi.jpg",
     "date": 1790954511000
+   },
+   {
+    "title": "Marine Le Pen propose une « règle d’or » sophistiquée pour rassurer les marchés sur son sérieux budgétaire",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/02/marine-le-pen-propose-une-regle-d-or-sophistiquee-pour-rassurer-les-marches-sur-son-serieux-budgetaire_6787178_823448.html",
+    "image": "https://img.lemde.fr/2026/09/29/666/0/8000/4000/644/322/60/0/5c6bd72_upload-1-hoyczw0ms2d2-jmug260928018.jpg",
+    "date": 1790954318000,
+    "titleSl": "Marine Le Pen predlaga une « règle d'or » sophistiquée pour rassurer les marchés sur son sérieux budgétaire"
    }
   ],
   "elpais": [
+   {
+    "title": "Europa libera reservas de diésel para abaratarlo y evitar que Trump vete las exportaciones",
+    "link": "https://elpais.com/internacional/2026-10-02/europa-libera-reservas-diesel-para-rebajar-su-precio-y-evitar-el-veto-de-trump-a-las-exportaciones.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/BLGDDW6ZXVOB5HK3GJ5YZFLJ2Q.jpg?auth=c0ea4cd04def8e0c6180de0cb71271c99482ccc2b5df9f7c91f1c44eb640bf0d",
+    "date": 1790956159000
+   },
    {
     "title": "Reacciones a los decretos de vivienda y las acampadas en directo | El Congreso tumba los decretos de vivienda y abona el terreno para un adelanto electoral",
     "link": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html",
@@ -606,13 +611,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/HHT5RPTILNDMDKCXWLO5Q3RQ3U.jpg?auth=99dec1042487479bbc7abf7469b6c7cb99f92f4e7dc717ce7975298638a8701e",
     "date": 1790952646000,
     "titleSl": "Una de cal y otra de arena: solo una de las dos viviendas que se sorteaban por 10 evrov en Málaga ha sido adjudicada"
-   },
-   {
-    "title": "El piloto indio apuñalado en el vuelo de Flydubai con destino a Tel Aviv: “No podía dejar morir a los demás”",
-    "link": "https://elpais.com/internacional/2026-10-02/el-piloto-apunalado-en-el-vuelo-de-flydubai-entre-dubai-y-tel-aviv-me-dije-que-la-puerta-estaba-ahi-que-solo-tenia-que-abrirla.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261002/1221093_111858_video_1800.mp4",
-    "date": 1790952009000,
-    "titleSl": "El piloto indio apuñalado en el vuelo de Flydubai con destino a Tel Aviv: \"No podía dejar morir a los demás\""
    }
   ]
  },
