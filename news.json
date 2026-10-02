@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T05:38:24.722Z",
+ "generatedAt": "2026-10-02T05:40:42.648Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,16 @@
   ],
   "24ur": [
    {
+    "title": "Kje bodo zapore? Evropsko prvenstvo v kolesarjenju prve tri dni v Ljubljani",
+    "link": "https://www.24ur.com/novice/slovenija/zapore-cest-v-ljubljani-zaradi-evropskega-prvenstva-v-kolesarjenju.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/0987a42b141bb9a8cc6b_63656968.jpg?v=64e0",
+    "date": 1790919599000
+   },
+   {
     "title": "Verstappen najhitrejši na prvem prostem treningu",
     "link": "https://www.24ur.com/sport/formula1/verstappen-na-vrhu-pred-russellom.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/1ad174ad6f2a6d619f76_63598717.jpg?v=87db&fop=fp:0.52:0.48",
-    "date": 1790919243000
+    "date": 1790919506000
    },
    {
     "title": "Brez pediatra 2736 otrok, po odhodu zdravnice še dobrih tisoč več",
@@ -57,12 +63,6 @@
     "link": "https://www.24ur.com/sport/motogp/marquez-se-vraca-na-stezo-kjer-je-sedmic-sedel-na-prestol.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/30f5abadee6a43d6a33e_63639694.jpg?v=3c29&fop=fp:0.50:0.21",
     "date": 1790918201000
-   },
-   {
-    "title": "Kje bodo zapore? Evropsko prvenstvo v kolesarjenju prve tri dni v Ljubljani",
-    "link": "https://www.24ur.com/novice/slovenija/zapore-cest-v-ljubljani-zaradi-evropskega-prvenstva-v-kolesarjenju.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/d6103d24f4c8d032f47e_63656138.png?v=4d6c&fop=fp:0.42:0.48",
-    "date": 1790917756000
    },
    {
     "title": "Bebe Rexha: Oblikovalci me zaradi postave niso želeli obleči",
@@ -79,8 +79,8 @@
   ],
   "rtvslo": [
    {
-    "title": "Danes se v Sloveniji začela evropsko prvenstvo v kolesarstvu",
-    "link": "https://www.rtvslo.si/sport/kolesarstvo/svetovno-prvenstvo-v-kolesarstvu/danes-se-v-sloveniji-zacela-evropsko-prvenstvo-v-kolesarstvu/795555",
+    "title": "Danes se v Sloveniji začenja evropsko prvenstvo v kolesarstvu",
+    "link": "https://www.rtvslo.si/sport/kolesarstvo/svetovno-prvenstvo-v-kolesarstvu/danes-se-v-sloveniji-zacenja-evropsko-prvenstvo-v-kolesarstvu/795555",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/02/67108861.jpg",
     "date": 1790918577000
    },
@@ -334,7 +334,7 @@
     "title": "Australia news live: Shoebridge says members to ‘have a say’ in next Greens leader after Faruqi criticism; more rain for Victoria",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/716318f8b37a213654c5fcf129ea4d34f1f8b091/590_0_2952_2362/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=b507e8806db00db513ab6cf0b7dc3a35",
-    "date": 1790918201000,
+    "date": 1790919076000,
     "titleSl": "Avstralske novice v živo: Shoebridge pravi, da bodo člani \"imeli besedo\" v naslednjem voditelju Zelenih po Faruqijevi kritiki; več dežja za Victorio"
    },
    {
@@ -418,6 +418,19 @@
   ],
   "bild": [
    {
+    "title": "Hitze, Sturzregen, unbekannter Kurs - Formel 1 droht in Malaysia ein Chaos-Rennen",
+    "link": "https://www.bild.de/sport/mehr-sport/hitze-sturzregen-unbekannter-kurs-wird-malaysia-zum-chaos-rennen-6abf270b85d64113fb06c4b4",
+    "image": "https://images.bild.de/6abf270b85d64113fb06c4b4/df6c64a77bb15b697a385b1493809a67,218a7c40?w=1280",
+    "date": 0,
+    "titleSl": "Hitze, Sturzregen, unbekannter Kurs - Formel 1 droht v Maleziji ein Chaos-Rennen"
+   },
+   {
+    "title": "Mama-Influencerin erschossen! - Obduktionsbericht veröffentlicht",
+    "link": "https://www.bild.de/unterhaltung/bildgg/sara-gilson-obduktion-bestaetigt-schussverletzung-am-kopf-6abe22f2ca5c42fe8f931925",
+    "image": "https://images.bild.de/6abe22f2ca5c42fe8f931925/4aaa5617474c1079bfad06b74568bde3,4b36ee03?w=1280",
+    "date": 0
+   },
+   {
     "title": "Formel-1-Star funkt - „So etwas verrücktes habe ich noch nie erlebt“",
     "link": "https://www.bild.de/sport/mehr-sport/formel-1-star-funkt-so-etwas-verruecktes-habe-ich-noch-nie-erlebt-6abf33ff85d64113fb06c52e",
     "image": "https://images.bild.de/6abf33ff85d64113fb06c52e/a6bb461bc3ecfb274d9778424a299be6,d407985d?w=1280",
@@ -441,22 +454,15 @@
     "link": "https://www.bild.de/sport/fussball/dfb-team-klopp-neuling-mika-baur-sorgt-im-interview-fuer-mega-lacher-6abeb9d985d64113fb06c1f9",
     "image": "https://images.bild.de/6abeb9d985d64113fb06c1f9/4025847b2004704da9f19c24a5c400aa-landscape,c05457a1?w=1280",
     "date": 0
-   },
-   {
-    "title": "Hitze, Sturzregen, unbekannter Kurs - Formel 1 droht in Malaysia ein Chaos-Rennen",
-    "link": "https://www.bild.de/sport/mehr-sport/hitze-sturzregen-unbekannter-kurs-wird-malaysia-zum-chaos-rennen-6abf270b85d64113fb06c4b4",
-    "image": "https://images.bild.de/6abf270b85d64113fb06c4b4/df6c64a77bb15b697a385b1493809a67,218a7c40?w=1280",
-    "date": 0,
-    "titleSl": "Hitze, Sturzregen, unbekannter Kurs - Formel 1 droht v Maleziji ein Chaos-Rennen"
-   },
-   {
-    "title": "„Ihr wollt ein Thema aufmachen...“ - Auf diese Frage hat Klopp gar keine Lust",
-    "link": "https://www.bild.de/sport/fussball/dfb-team-auf-diese-frage-hat-juergen-klopp-gar-keine-lust-bei-der-pressekonferenz-6abed5ba87715337355b4159",
-    "image": "https://images.bild.de/6abed5ba87715337355b4159/2dc4d6555de466a00e32a2a63b08fe36-landscape,4426d2b5?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Beamter verletzt - 74 km/h! Mit E-Scooter Polizisten niedergefahren",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2ZEVTa3lCMWVyWmxMRFpfZGZLVHVCRzgzMnBaSENzWFlGdmRVTzVWN3Z6QXJ4c0NaZkliWEpXSW5MZw?oc=5",
+    "image": "",
+    "date": 1790919540000
+   },
    {
     "title": "Mitmachen & gewinnen - Die Eishockey-Cracks der Vienna Capitals erleben",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IbmZOOFpHZll6ZkgyZ1BXSFpuQWh2dGdsN0x4c0tiUE9SWjZGM0tEdHQyMzF3QUlJYk11N2VwSEg0UQ?oc=5",
@@ -486,15 +492,15 @@
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pYzVERDYtamlUZ2wxS0JyaFE2dFNkS0lfbl9SLWlwRFBwRGVvSTV5enRKLWhXRXgzUVk5Z3RxdDV2WUlXMFZtTnJpa1U2SG1MQTc1NGZacVRhZjFsOVA4azV4eTRKTXpjNkdEUA?oc=5",
     "image": "",
     "date": 1790917496000
-   },
-   {
-    "title": "Das freie Wort - Trauer um ehemalige Gesundheitsministerin",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJV2F4MDFiZ05FdFBibmI4LTMyaU44UFZDYXNOUm5XQ0ZtdWNLdDdiY3NRc2I5QWdnTDVkQkJ4dGFRcG93Z2N2elByQUF5UkZJcERUUnVzdEdVQXlWcWFiMDBBQXdaMlpRcFk2SQ?oc=5",
-    "image": "",
-    "date": 1790917496000
    }
   ],
   "rainews": [
+   {
+    "title": "A bordo della X2, la montagna russa \"adrenalinica\" del Six Flags Magic Mountain",
+    "link": "https://www.rainews.it/video/2026/10/a-bordo-della-x2-lattrazione-adrenalinica-del-six-flags-magic-mountain-307394c3-27af-494d-ae86-35d87ffbd57a.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/02/1790919200150_CZaNpsxbzVHNDg.jpg",
+    "date": 1790919060000
+   },
    {
     "title": "Droni russi colpiscono ponte nel sud di Kiev. Putin: \"Vogliamo la pace, ci difendiamo\"",
     "link": "https://www.rainews.it/maratona/2026/10/guerra-ucraina-kiev-altra-notte-bombardamenti-putin-vogliamo-pace-ci-difendiamo-con-ogni-mezzo-89a7524e-fb3a-43dd-855e-97cda5c78160.html",
@@ -527,13 +533,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/02/1790916424855_WhatsApp_Image__at_...jpeg",
     "date": 1790915813000,
     "titleSl": "Nato CA2X2 Forum, oltre 30 Paesi a confronto a Roma"
-   },
-   {
-    "title": "Tuttifrutti. I 50 anni degli U2, Tom Cruise in \"Digger\", Anne Hathaway e Dakota Johnson in \"Verity\"",
-    "link": "https://www.rainews.it/video/2026/10/tuttifrutti-i-50-anni-degli-u2-tom-cruise-in-digger-anne-hathaway-e-dakota-johnson-in-verity-54a081c4-dca4-4f2b-806c-45f7b7436c34.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/02/1790915092175_rainewsfcdbfaad.jpg",
-    "date": 1790915100000,
-    "titleSl": "Tuttifrutti. 50 let U2, Tom Cruise v \"Digger\", Anne Hathaway in Dakota Johnson v \"Verity\""
    }
   ],
   "lemonde": [
