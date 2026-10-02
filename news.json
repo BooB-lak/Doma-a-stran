@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-02T20:42:27.987Z",
+ "generatedAt": "2026-10-02T20:44:30.446Z",
  "sources": {
   "siol": [
+   {
+    "title": "Posebna tekma za Zidana in Džeka, za oba na koncu remi",
+    "link": "https://siol.net/sportal/nogomet/liga-narodov-2026-27-tretji-krog-francija-zidne-bih-dzeko-remi-703009",
+    "image": "https://siol.net/media/img/96/96/d89d12708d501971c38a.jpeg",
+    "date": 1790973600000
+   },
    {
     "title": "Tesen poraz Krke proti Žakljevi Budućnosti",
     "link": "https://siol.net/sportal/kosarka/liga-aba-2-krog-krka-poraz-buducnost-702980",
@@ -13,12 +19,6 @@
     "link": "https://siol.net/sportal/kosarka/evroliga-3-krog-real-zvezda-barcelona-joksimovic-702883",
     "image": "https://siol.net/media/img/98/1f/3be8df51a22edc7d76ce.jpeg",
     "date": 1790972700000
-   },
-   {
-    "title": "Posebna tekma za Zidana in Džeka #vŽivo",
-    "link": "https://siol.net/sportal/nogomet/liga-narodov-2026-27-tretji-krog-francija-zidne-bih-dzeko-703009",
-    "image": "https://siol.net/media/img/96/96/d89d12708d501971c38a.jpeg",
-    "date": 1790972400000
    },
    {
     "title": "Pustertal ostaja strup za Olimpijo",
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Could conflict in Ethiopia expand across the region?",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790964553.jpg?resize=1920%2C1080&quality=80",
-    "date": 1790972270000,
-    "titleSl": "Bi se lahko konflikti v Etiopiji razširili po vsej regiji?"
-   },
-   {
     "title": "Arab party leader withdraws from Israeli elections",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790967266.jpg?resize=1620%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6abfed1f-1790962975.jpg?resize=1920%2C1440",
     "date": 1790964697000,
     "titleSl": "Izraelsko vrhovno sodišče razveljavilo prepoved volilnega senata za arabske stranke"
+   },
+   {
+    "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+    "link": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T142146Z_1286935840_RC21VNAJ7W9U_RTRMADP_3_USA-CRIME-CORNELL-1790955963.jpg?resize=1920%2C1440",
+    "date": 1790963010000,
+    "titleSl": "\"Hočem resnico\": guverner New Yorka imenuje tožilca v primeru posilstva na Cornellu"
    }
   ],
   "guardian": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Deutliche Pleite gegen Belgien - Türkei am Tiefpunkt!",
+    "link": "https://www.bild.de/sport/fussball/tuerkei-am-tiefpunkt-deutliche-pleite-in-der-nations-league-gegen-belgien-6abff2d9d0775b9e9d8fdfe0",
+    "image": "https://images.bild.de/6abff2d9d0775b9e9d8fdfe0/fea10d298cc4dfbe965aa519b7136c68,a2e7d757?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Inbegriff von Freigeistin“ - Urlaubsspaß bei Sarah Connor",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/inbegriff-von-freigeistin-urlaubsspass-bei-sarah-connor-6abfed61d0775b9e9d8fdf9b",
+    "image": "https://images.bild.de/6abfed61d0775b9e9d8fdf9b/0034aff5f1c106f6ded541ce6ecd7e79,22726478?w=1280",
+    "date": 0
+   },
+   {
     "title": "Rettung aus dem Eis - Bärenbaby in Gletscherspalte gefangen",
     "link": "https://www.bild.de/news/ausland/rettung-aus-dem-eis-baerenbaby-in-gletscherspalte-gefangen-6ac0064285d64113fb06d4d9",
     "image": "https://images.bild.de/6ac0064285d64113fb06d4d9/7a57bbffc2156008bf9a021cc4cf4906,ad5a8b27?w=1280",
@@ -437,58 +449,44 @@
     "link": "https://www.bild.de/regional/muenchen/bei-ufo361-und-reezy-bande-raubt-rap-fans-auf-konzerten-die-goldketten-6abe5c863ff652909b79483b",
     "image": "https://images.bild.de/6abe5c863ff652909b79483b/dd93c879eedd937e69cfcaa9c28afe4d,c158cafb?w=1280",
     "date": 0
-   },
-   {
-    "title": "Eisbären 2:0 - Neffin nagelt das Tor zu! Zweiter Shutout in Folge",
-    "link": "https://www.bild.de/sport/mehr-sport/eisbaeren-berlin-siegen-2-0-in-frankfurt-neffin-haelt-zu-null-6ac0069485d64113fb06d4df",
-    "image": "https://images.bild.de/6ac0069485d64113fb06d4df/54cde527ec9bfea0eea41cfe90c658be-landscape,fda2647f?w=1280",
-    "date": 0,
-    "titleSl": "Eisbären 2:0 - Neffin nagelt das Tor zu! Izklop Zweiterja v Folgeju"
-   },
-   {
-    "title": "15 Standorte betroffen - 45.000 Solaranlagen installiert, dann pleite",
-    "link": "https://www.bild.de/news/inland/45-000-solaranlagen-installiert-dann-pleite-15-standorten-betroffen-6abf677585d64113fb06c873",
-    "image": "https://images.bild.de/6abf677585d64113fb06c873/07a7c131fc813a5f12aeaa3e1bdce1ea,7533da17?w=1280",
-    "date": 0,
-    "titleSl": "15 Standorte zaročenec - 45.000 Solaranlagen installiert, dann pleite"
    }
   ],
   "krone": [
    {
-    "title": "Zeller Eisbären - Auf Heiratsantrag folgt Duell mit großem Rivalen - krone.at",
+    "title": "Zeller Eisbären - Auf Heiratsantrag folgt Duell mit großem Rivalen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE44NWJoWEYwcWFaLU94NUVYZlQ5eFJuRjZyR3dxNGxWTWNCMlBNMjExWWV3YnFwYzVzR0ZTWGVmUkRmZw?oc=5",
     "image": "",
     "date": 1790973000000
    },
    {
-    "title": "Neuer Grazer Klub - Keine Beute beim Premierenflug der Adler - krone.at",
+    "title": "Neuer Grazer Klub - Keine Beute beim Premierenflug der Adler",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16WUtkQ2xqWWg4QnFmOExJc1VkTXRTNXZzLUxNT1IxaFNpUHFhZDNEY0xNWGw3blRBRTM2MkZaQWN6dw?oc=5",
     "image": "",
     "date": 1790972940000
    },
    {
-    "title": "4:1-Sieg in Feldkirch - Eisbullen mit Note „genügend“ in Vorarlberg - krone.at",
+    "title": "4:1-Sieg in Feldkirch - Eisbullen mit Note „genügend“ in Vorarlberg",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9SLTJBcHBZaVRYQlhydVVCU3NJejNVRm9zOXNlOXlWdlBlSktldWpYSWdlaWNPMDVOQmsyOC13aFB2UQ?oc=5",
     "image": "",
     "date": 1790972580000,
-    "titleSl": "4:1-Sieg v Feldkirchu - Eisbullen mit Opomba \"genügend\" v Vorarlbergu - krone.at"
+    "titleSl": "4:1-Sieg v Feldkirchu - Eisbullen mit Opomba \"genügend\" v Vorarlbergu"
    },
    {
-    "title": "Basketball-Liga - Traiskirchen und Kapfenberg weiter ungeschlagen! - krone.at",
+    "title": "Basketball-Liga - Traiskirchen und Kapfenberg weiter ungeschlagen!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13cVh4akVGWnR3ckFhVTAyQlcwUXFYSEoweGYwajBfMU1RTFVwa2tuSnJjTVVwckNRTlFmeGk2NzY5Zw?oc=5",
     "image": "",
     "date": 1790971740000,
-    "titleSl": "Košarka-Liga - Traiskirchen und Kapfenberg weiter ungeschlagen! - krone.at"
+    "titleSl": "Košarka-Liga - Traiskirchen und Kapfenberg weiter ungeschlagen!"
    },
    {
-    "title": "130.000 Euro für Strolz ++ Lagerhaus-Kündigungen - krone.at",
+    "title": "130.000 Euro für Strolz ++ Lagerhaus-Kündigungen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NU2J3TGctT2dza2R5bzNUd0xSLWMtaElPaTlNelctS0g2NHgxX3RYVzAySklvRTV6Mk9LeDF3RXR5dw?oc=5",
     "image": "",
     "date": 1790971617000,
-    "titleSl": "130.000 EUR za Strolz ++ Lagerhaus-Kündigungen - krone.at"
+    "titleSl": "130.000 EUR za Strolz ++ Lagerhaus-Kündigungen"
    },
    {
-    "title": "Proteste in Frankreich - Minister wendet sich mit Appell an Eltern - krone.at",
+    "title": "Proteste in Frankreich - Minister wendet sich mit Appell an Eltern",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaeW5UQVI5dVpJeDRzMWlVYkd4cVhiTEg1SVA1VjVrN3dING1fNExQclMteWlnRXFYVUhmUUdCY0VVQQ?oc=5",
     "image": "",
     "date": 1790971560000
