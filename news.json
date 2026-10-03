@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-03T19:48:28.166Z",
+ "generatedAt": "2026-10-03T19:50:45.452Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Luka v svoj klub zvabil prekaljenega NBA mačka",
+    "link": "https://www.zurnal24.si/sport/kosarka/luka-v-svoj-klub-zvabil-prekaljenega-nba-macka-466133",
+    "image": "https://www.zurnal24.si/media/img/45/c6/63c57126ae07614bb4af.jpeg",
+    "date": 1791057000000
+   },
+   {
     "title": "Domen Prevc z daljavo dneva, toda ...",
     "link": "https://www.zurnal24.si/sport/zimski-sporti/domen-prevc-z-daljavo-dneva-toda-466132",
     "image": "https://www.zurnal24.si/media/img/6d/47/6aa94f923e466bf65ad4.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/pohiteti-na-bencinsko-crpalko-ali-pocakati-na-torek-to-kazejo-prve-napovedi-466129",
     "image": "https://www.zurnal24.si/media/img/ab/51/7da7b8d28b72c33d5b0b.jpeg",
     "date": 1791049020000
-   },
-   {
-    "title": "Nekdanja poslanka izstopila iz stranke, od zdaj naprej bo članica stranke Ljubljana smo vsi",
-    "link": "https://www.zurnal24.si/slovenija/nekdanja-poslanka-izstopila-iz-stranke-od-zdaj-naprej-bo-clanica-stranke-ljubljana-smo-vsi-466128",
-    "image": "https://www.zurnal24.si/media/img/93/c9/cdcbf66efdf1a4dedf2a.jpeg",
-    "date": 1791047940000
    }
   ],
   "reuters": [
@@ -416,9 +416,21 @@
   ],
   "bild": [
    {
+    "title": "„Fassen Sie mich nicht an“ - Abbruch! Pressekonferenz eskaliert!",
+    "link": "https://www.bild.de/sport/fussball/pressekonferenz-eskaliert-nach-vorwurf-von-israelischem-reporter-6ac141bfe80f029d433a424b",
+    "image": "https://images.bild.de/6ac141bfe80f029d433a424b/aea8a0c738726c31c4592287c94cc52d,b5b14024?w=1280",
+    "date": 0
+   },
+   {
     "title": "Ex-Profi Starke verrät - Leipzig-Trikot sorgt für dumme Sprüche",
     "link": "https://www.bild.de/sport/fussball/ex-profi-starke-verraet-leipzig-trikot-sorgt-in-jena-fuer-dumme-sprueche-6abfab18863d7086e22739e7",
     "image": "https://images.bild.de/6abfab18863d7086e22739e7/8a30417c3d5190205742d8d196092871,8d50000e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Boxen im Norden - Hamburg hat einen neuen Box-Weltmeister",
+    "link": "https://www.bild.de/sport/mehr-sport/boxen-im-norden-denis-krieger-holt-sich-wbf-weltmeisterschaft-6ac0cba9dde7b030a30214ab",
+    "image": "https://images.bild.de/6ac0cba9dde7b030a30214ab/68ba9ed7323adb57ba4a40bd22aad6a0-landscape,c22bc83?w=1280",
     "date": 0
    },
    {
@@ -439,18 +451,6 @@
     "link": "https://www.bild.de/sport/mehr-sport/olympiasieger-hat-krebs-schockierende-diagnose-6ac1315a85d64113fb06dff1",
     "image": "https://images.bild.de/6ac1315a85d64113fb06dff1/dde29d81ff4e8ea40ddb4dff9f599f0b,480ab6e4?w=1280",
     "date": 0
-   },
-   {
-    "title": "„Fassen Sie mich nicht an“ - Abbruch! Pressekonferenz eskaliert!",
-    "link": "https://www.bild.de/sport/fussball/pressekonferenz-eskaliert-nach-vorwurf-von-israelischem-reporter-6ac141bfe80f029d433a424b",
-    "image": "https://images.bild.de/6ac141bfe80f029d433a424b/aea8a0c738726c31c4592287c94cc52d,b5b14024?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Es war ihr großer Traum - Influencerin jetzt TV-Moderatorin",
-    "link": "https://www.bild.de/sport/mehr-sport/eleni-frommann-influencerin-jetzt-tv-moderatorin-bei-dyn-6ac150aed993ea3f355f526e",
-    "image": "https://images.bild.de/6ac150aed993ea3f355f526e/fa8e3f495642bb5d6322272d59d27e1c,9aef12a?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -458,7 +458,8 @@
     "title": "Mountainbike: - Siebenter Platz für Stigger beim Weltcup-Finale",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96b3AzbTg3clBGUHdBRXVRZkJrVXlhN0kyRlUtV2Rfc0tjdW9ndlJhNk1mbF9jMjN6REQ5aFhjbWJOdw?oc=5",
     "image": "",
-    "date": 1791056760000
+    "date": 1791056760000,
+    "titleSl": "Gorsko kolo: - Siebenter Platz für Stigger beim Weltcup-Finale"
    },
    {
     "title": "Kantersieg! - Einstand nach Maß für Grödigs Neo-Cheftrainer",
@@ -479,16 +480,16 @@
     "date": 1791055440000
    },
    {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBobE5UUEEyQnF1TTBKRVZnQWdhLWVzM1c2TmpYdkttS2wtRUVQTkhNT2hhT3dmOXJnNTBfVjZjdUxERXp3SnRVRWwzWk9FTGIwZUZZUE9fMA?oc=5",
+    "image": "",
+    "date": 1791054154000
+   },
+   {
     "title": "Hinrichtung misslang - Causa Pike: Gefängnisdirektor legt Amt nieder",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBSTW5sQUlUNlp3RjFHZU1aQWZBZGVLWGx5c2l0SFBIMVFwckREZ2MyTFlEZVUtX3RINEI0MXhnd2FOZw?oc=5",
     "image": "",
     "date": 1791054060000
-   },
-   {
-    "title": "Nachladen ist Option - KAC-Offensive pfeift in Linz aus dem letzten Loch",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JSVlOdG45Nl9RTDYza01abWlnV3gya0V6ZjNmYllMM2dmdHFKVmY0SGJUUUM2TXE5SE9CSVI1NnU2QQ?oc=5",
-    "image": "",
-    "date": 1791053820000
    }
   ],
   "rainews": [
