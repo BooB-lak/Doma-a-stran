@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-04T13:22:29.131Z",
+ "generatedAt": "2026-10-04T13:24:29.454Z",
  "sources": {
   "siol": [
+   {
+    "title": "Jan Pancar z odliko, po prvi vožnji vodi Španija",
+    "link": "https://siol.net/sportal/avtomotosport/pokal-narodov-v-motokrosu-mxon-ernee-prva-voznja-703123",
+    "image": "https://siol.net/media/img/d5/7f/236100b8b9b5e9cc8fb5.jpeg",
+    "date": 1791120000000
+   },
    {
     "title": "Domen Prevc po norem skoku diskvalificiran: dodatne težave za novo sezono",
     "link": "https://siol.net/sportal/zimski-sporti/domen-prevc-po-norem-skoku-diskvalificiran-dodatna-kazen-za-novo-sezono-703144",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/zimski-sporti/velik-strah-za-trikratnega-olimpijskega-prvaka-odkrili-so-mu-koznega-raka-703141",
     "image": "https://siol.net/media/img/0d/d7/7cfc44ae8420baf2e702.jpeg",
     "date": 1791116520000
-   },
-   {
-    "title": "Andreja Klepač v konkurenci dvojic izpadla v prvem krogu",
-    "link": "https://siol.net/sportal/tenis/andreja-klepac-v-konkurenci-dvojic-izpadla-v-prvem-krogu-703140",
-    "image": "https://siol.net/media/img/6d/37/bc00be8a59001496733e.jpeg",
-    "date": 1791116280000
    }
   ],
   "24ur": [
@@ -250,11 +250,11 @@
     "titleSl": "Kijevski most zadet v nadaljnjem napadu ruskih dronov, ko je nemška kanclerka na nepričakovanem obisku"
    },
    {
-    "title": "Daughter of MP murdered five years ago says politicians still at risk",
+    "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
     "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ef/live/0fad9a80-bfd9-11f1-b4e6-d96c2bf27b65.jpg",
     "date": 1791115175000,
-    "titleSl": "Hči poslanca, umorjenega pred petimi leti, pravi, da so politiki še vedno v nevarnosti"
+    "titleSl": "Hči poslanca, umorjenega pred petimi leti, je BBC-ju povedala, da so politiki še vedno v nevarnosti"
    },
    {
     "title": "Glastonbury 2027 tickets sell out in 42 minutes",
@@ -331,25 +331,25 @@
   ],
   "guardian": [
    {
-    "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
-    "link": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
-    "image": "https://i.guim.co.uk/img/media/62b14a81d967f1dbd569d162ca46d4577cf62466/132_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=083d01e6960a247104d0e40e7f96f84b",
-    "date": 1791118828000,
-    "titleSl": "Po smrtonosni eksploziji v papirnici skupnost v zvezni državi Washington išče ključno hišno raso"
-   },
-   {
     "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/492d44ad34e677cfa238bab5d6f1df6e245b6a75/0_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=818433e4404ba057290808c6d93df130",
-    "date": 1791118470000,
+    "date": 1791119878000,
     "titleSl": "Francoski minister za šolstvo pravi, da bo do 500 šol ostalo delno ali v celoti zaprtih v ponedeljek po protestih študentov – Evropa v živo"
    },
    {
     "title": "Badenoch says Tories want policies ‘for everybody’ as she defends plan to let millionaires get free childcare – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/9ef909adce513128d42254144ef8e24705ab0b5f/462_0_4191_3353/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=b98ffad5166905f115df64a885b1e3bf",
-    "date": 1791117002000,
+    "date": 1791119773000,
     "titleSl": "Badenoch pravi, da Tories želijo politike \"za vsakogar\", saj zagovarja načrt, da bi milijonarjem omogočili brezplačno otroško varstvo – britanska politika v živo"
+   },
+   {
+    "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
+    "link": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
+    "image": "https://i.guim.co.uk/img/media/62b14a81d967f1dbd569d162ca46d4577cf62466/132_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=083d01e6960a247104d0e40e7f96f84b",
+    "date": 1791118828000,
+    "titleSl": "Po smrtonosni eksploziji v papirnici skupnost v zvezni državi Washington išče ključno hišno raso"
    },
    {
     "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
@@ -415,6 +415,24 @@
   ],
   "bild": [
    {
+    "title": "Am Gardasee - Großfeuer auf Campingplatz! Mindestens 24 Verletzte",
+    "link": "https://www.bild.de/news/ausland/am-gardasee-mindestens-24-verletzte-inferno-auf-campingplatz-6ac20b02c6253b9a73fa5c4e",
+    "image": "https://images.bild.de/6ac20b02c6253b9a73fa5c4e/fe01e53dfd9c151ac6505c37b7c9d824,53a03090?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Unerwartete BILD-Frage - Anne Hathaway hält sich vor Lachen den Babybauch",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/anne-hathaway-bei-dieser-frage-muss-sie-sich-den-babybauch-halten-6ab7f730809c22bc9430dd8b",
+    "image": "https://images.bild.de/6ab7f730809c22bc9430dd8b/4bcd6869aba0863b0ec7051cff81914d,6acfc3d1?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Mentale Gesundheit gefährdet“ - Handball-Star erklärt seinen Wechsel-Wunsch",
+    "link": "https://www.bild.de/sport/mehr-sport/handball-emotionale-worte-golla-erklaert-seinen-wechsel-wunsch-6ac2509485d64113fb06ec05",
+    "image": "https://images.bild.de/6ac2509485d64113fb06ec05/9c87474c138eb87cc79a6df0aeccafd9,e28869bf?w=1280",
+    "date": 0
+   },
+   {
     "title": "Oleschky hungert weiter - Menschen müssen für Essen 40 km durch Minen",
     "link": "https://www.bild.de/politik/ausland-und-internationales/oleschky-hungert-weiter-ukrainer-muessen-fuer-essen-40-km-durch-minen-6ac202e4c6253b9a73fa5bbe",
     "image": "https://images.bild.de/6ac202e4c6253b9a73fa5bbe/c2441c838d483f23fd0b4d612fbcb45b,38b66cf2?w=1280",
@@ -430,25 +448,6 @@
     "title": "„Das kleinste wilde Huhn ist unterwegs“ - Amiras Babykugel ist ihr größtes Schmuckstück",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/amira-aly-glitzer-babybauch-bei-babyparty-fuer-ihre-erste-tochter-6ac217c085d64113fb06e7d1",
     "image": "https://images.bild.de/6ac217c085d64113fb06e7d1/d28b811ec95fef1755119fa9cffe16cf,29065b2d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Party eskaliert - Fünf Verletzte nach Massenschlägerei auf Schiff",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/sauerland-party-eskaliert-fuenf-verletzte-nach-massenschlaegerei-6ac24554656315bd2f8149d9",
-    "image": "https://images.bild.de/6ac24554656315bd2f8149d9/663f78690090cf4dda42921895d3d211,2397aeee?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Noch keine Koalition, aber … - Rot-Grün-Rot will „weiteren gemeinsamen Weg“",
-    "link": "https://www.bild.de/politik/inland/noch-keine-koalition-aber-rot-gruen-rot-will-weiteren-gemeinsamen-weg-6ac105c7c00ec0a4cc07b172",
-    "image": "https://images.bild.de/6ac105c7c00ec0a4cc07b172/7cd6a8fdb40a61bd1f6637b94be617fe,6d9723b8?w=1280",
-    "date": 0,
-    "titleSl": "Noch keine Koalition, aber … - Rot-Grün-Rot bo \"weiteren gemeinsamen Weg\""
-   },
-   {
-    "title": "Mindestens 24 Verletzte bei Brand - Feuer auf Campingplatz am Gardasee",
-    "link": "https://www.bild.de/news/ausland/mindestens-24-verletzte-bei-brand-feuer-auf-campingplatz-am-gardasee-6ac24355656315bd2f8149b1",
-    "image": "https://images.bild.de/6ac24355656315bd2f8149b1/b549c71b280b517423e2c5ecd41d94e8,4dc0e48e?w=1280",
     "date": 0
    }
   ],
@@ -546,6 +545,13 @@
     "date": 1791117131000
    },
    {
+    "title": "Présidentielle : pourquoi les partis ne veulent pas faire l’impasse sur 2027 ?",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/04/presidentielle-pourquoi-les-partis-ne-veulent-pas-faire-l-impasse-sur-2027_6788265_823448.html",
+    "image": "https://img.lemde.fr/2026/09/12/231/0/1920/960/644/322/60/0/0dde87a_upload-1-ftd5nyxv02rm-mmagnin-discours-retailleau-2.jpg",
+    "date": 1791117013000,
+    "titleSl": "Présidentielle : pourquoi les partis ne veulent pas faire l 'impasse sur 2027 ?"
+   },
+   {
     "title": "Blocage des lycées : entre « 400 et 500 » lycées vont suspendre des cours ce lundi, annonce le ministre de l’éducation, Edouard Geffray",
     "link": "https://www.lemonde.fr/societe/article/2026/10/04/blocage-des-lycees-edouard-geffray-estime-qu-entre-400-et-500-etablissements-vont-suspendre-les-cours-lundi_6788263_3224.html",
     "image": "https://img.lemde.fr/2026/10/03/478/0/5732/2866/644/322/60/0/da12761_ftp-1-dijwklweou9d-2026-10-03t092119z-1909254845-rc2ltnas4nqt-rtrmadp-3-france-protests-inequalities.JPG",
@@ -564,13 +570,6 @@
     "link": "https://www.lemonde.fr/afrique/article/2026/10/04/paul-simon-handy-chercheur-l-afrique-a-reussi-a-corriger-le-planisphere-elle-doit-maintenant-pouvoir-rectifier-sa-propre-place-au-sein-du-systeme-mondial_6788261_3212.html",
     "image": "https://img.lemde.fr/2026/09/30/287/0/2447/1223/644/322/60/0/9de6d9c_upload-1-s3kivfhnq4hc-ousmane-niang-l-heure-du-regard-2024-185x152-cm.jpg",
     "date": 1791115206000
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : la Russie annonce qu’elle va « intensifier » ses attaques « sur les infrastructures ukrainiennes »",
-    "link": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-la-russie-annonce-qu-elle-va-intensifier-ses-attaques-sur-les-infrastructures-ukrainiennes_6787996_3210.html",
-    "image": "https://img.lemde.fr/2026/10/04/305/0/6000/3000/644/322/60/0/75fea10_ftp-1-jnapmac7h2ib-5261887-01-06.jpg",
-    "date": 1791115100000,
-    "titleSl": "EN DIRECT, guerre en Ukraine : la Russie annonce qu 'elle va « intensifier » ses attaques « sur les infrastructures ukrainiennes »"
    }
   ],
   "elpais": [
