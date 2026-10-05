@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T09:22:27.461Z",
+ "generatedAt": "2026-10-05T09:24:27.133Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/novice/svet/rusijo-trese-skrivnostna-smrt-mlade-zenske-to-je-vse-kar-vemo-703187",
     "image": "https://siol.net/media/img/d1/f7/d34da25b4f966caf97c2.jpeg",
     "date": 1791191220000
+   },
+   {
+    "title": "Dobra novica za navijače Lakersov: Luka Dončić v nizkem startu",
+    "link": "https://siol.net/sportal/kosarka/dobra-novica-za-navijace-lakersov-luka-doncic-v-nizkem-startu-703174",
+    "image": "https://siol.net/media/img/ff/10/c1b1283d773fcc593f2f.jpeg",
+    "date": 1791190800000
    },
    {
     "title": "Jorgić na turnirju v Pekingu obstal v prvem krogu",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/slovenija-skotska-novakovic-jokic-radosavljevic-cesar-703200",
     "image": "https://siol.net/media/img/c8/64/384c67298fad977c672d.jpeg",
     "date": 1791189420000
-   },
-   {
-    "title": "Minister Rončević: Vloga učitelja je premalo cenjena in spoštovana",
-    "link": "https://siol.net/novice/slovenija/minister-roncevic-vloga-ucitelja-je-premalo-cenjena-in-spostovana-703198",
-    "image": "https://siol.net/media/img/7a/cf/cbca3bf5a950c623f2e3.jpeg",
-    "date": 1791189300000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Po fiasku z delavcem s Kosova albanska društva udarila po Janši",
+    "link": "https://www.zurnal24.si/slovenija/po-fiasku-z-delavcem-s-kosova-albanska-drustva-udarila-po-jansi-466185",
+    "image": "https://www.zurnal24.si/media/img/a6/fb/6c993c9899af30b5582e.jpeg",
+    "date": 1791192180000
+   },
+   {
     "title": "Evenepoelu pomagala policistka, ki ni vedela, s kom ima opravka",
     "link": "https://www.zurnal24.si/sport/kolesarstvo/evenepoelu-pomagala-policistka-ki-ni-vedela-s-kom-ima-opravka-466184",
     "image": "https://www.zurnal24.si/media/img/c8/89/57dda75fcd8e3a2e3f15.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/prihaja-vremenski-preobrat-vremenoslovci-omenjajo-tudi-sneg-466178",
     "image": "https://www.zurnal24.si/media/img/f7/4a/1be5cdd45e746c6041b1.jpeg",
     "date": 1791184860000
-   },
-   {
-    "title": "Afera Ronaldo: Selektor o možnosti nadaljnjega sodelovanja",
-    "link": "https://www.zurnal24.si/sport/nogomet/afera-ronaldo-selektor-o-moznosti-nadaljnjega-sodelovanja-466175",
-    "image": "https://www.zurnal24.si/media/img/1a/g5/f9ca7c7e559e38b31076.jpeg",
-    "date": 1791182100000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Connor out, Lewis in as England name World Cup squad",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmgj94zd59ljo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8da/live/bed32470-c093-11f1-bc2e-018d645d8d21.png",
+    "date": 1791192147000,
+    "titleSl": "Connor ven, Lewis noter, Anglija imenuje ekipo svetovnega pokala"
+   },
+   {
     "title": "US removes all bombers from RAF Fairford base",
     "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg",
@@ -276,16 +283,23 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfd/live/e1e9f070-be67-11f1-b36c-81ad410b221e.jpg",
     "date": 1791191619000,
     "titleSl": "Prizivno sodišče bo obravnavalo izpodbijanje parade prebivalcev zaradi spora z Drumcree"
-   },
-   {
-    "title": "Scott out of England squad and faces injury lay-off",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg",
-    "date": 1791191552000,
-    "titleSl": "Scott je izpadel iz angleške ekipe in se sooča z odpustom zaradi poškodb"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
+    "link": "https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac35bd480979-1791187924.jpg?resize=1920%2C1440",
+    "date": 1791190926000,
+    "titleSl": "Formula 1 za preiskavo programske napake za kaosom Bahrain GP v Sepangu"
+   },
+   {
+    "title": "‘If I didn’t write what moved me, it’d be like putting myself in prison’",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ROY-TTAJ-THUMBNAIL-1-1791187733.jpg?resize=1920%2C1080&quality=80",
+    "date": 1791190800000,
+    "titleSl": "\"Če ne bi napisal, kaj me je ganilo, bi bilo, kot da bi se spravil v zapor\""
+   },
    {
     "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/14339385-1791186029.jpg?resize=1200%2C630",
     "date": 1791184481000,
     "titleSl": "Španski predsednik Pedro Sanchez napoveduje predčasne volitve zaradi stanovanjske krize"
-   },
-   {
-    "title": "World Space Week: Which countries have sent people to space?",
-    "link": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-903965-1791126218.jpg?resize=1920%2C1440",
-    "date": 1791183978000,
-    "titleSl": "Svetovni teden vesolja: Katere države so poslale ljudi v vesolje?"
-   },
-   {
-    "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
-    "link": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac33565-1791178085.jpg?resize=1920%2C1440",
-    "date": 1791179773000,
-    "titleSl": "Đoković premagal vrhunskega Zvereva in se uvrstil v polfinale China Opena"
    }
   ],
   "guardian": [
@@ -416,6 +416,12 @@
   ],
   "bild": [
    {
+    "title": "Experte Cliff Michel hat sie entdeckt - Mega-Chance! Diese Aktien können sich verzehnfachen",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/tenbagger-aktien-drei-kandidaten-fuer-eine-moegliche-verzehnfachung-6abcd191e69c7c64bf69313f",
+    "image": "https://images.bild.de/6abcd191e69c7c64bf69313f/b7fa932be1be62325f93f183d1576dad,5d2989e2?w=1280",
+    "date": 0
+   },
+   {
     "title": "Bei Ukraine-Reise - Reiche: Putin wollte Merz einschüchtern",
     "link": "https://www.bild.de/politik/ausland-und-internationales/bei-ukraine-reise-gezielte-angriffe-wollte-putin-merz-einschuechtern-6ac34c6995c283447e8627ec",
     "image": "https://images.bild.de/6ac34c6995c283447e8627ec/566792de6e949122bde94fab1a8ea988,78e0e109?w=1280",
@@ -445,49 +451,42 @@
     "image": "https://images.bild.de/6ac354f695c283447e8628a2/2a829d7e6d79a3991abf91196a89735d,fd45f631?w=1280",
     "date": 0,
     "titleSl": "Komentar von SPORT-BILD-Ressortleiter Christian Kynast - Warum mir Klopp zehnmal lieber ist als Nagelsmann"
-   },
-   {
-    "title": "Kanzler flog fast durchs Abitur - Merz besucht die Schule, an der er berüchtigt war",
-    "link": "https://www.bild.de/politik/inland/kanzler-flog-fast-durchs-abitur-merz-besucht-schule-an-der-er-beruechtigt-war-6ac35657b0ca83ad0a1d9795",
-    "image": "https://images.bild.de/6ac35657b0ca83ad0a1d9795/3ad7092fc30fb3e184337ad6b4ad6b51,f0c8a628?w=1280",
-    "date": 0,
-    "titleSl": "Kanzler flog fast durchs Abitur - Merz besucht die Schule, an der berüchtigt war"
    }
   ],
   "krone": [
    {
-    "title": "Containerbrand - Wolfurt: Löschversuch mit Gartenschlauch scheitert",
+    "title": "Containerbrand - Wolfurt: Löschversuch mit Gartenschlauch scheitert - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CdUxoYl9Sd2hYTTI3WUh2Mk5OZlFZNHJ5V2U1Yi1ZS25iOUF5MWQ5NHNZUU1uOWxFSEpTUGhpbmJNZw?oc=5",
     "image": "",
     "date": 1791191700000
    },
    {
-    "title": "Ab Mitte Oktober - Wiener Stephansdom verbannt jetzt große Koffer",
+    "title": "Ab Mitte Oktober - Wiener Stephansdom verbannt jetzt große Koffer - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9wTUNRbzItSTVhSFByZW9PbzU1Vm5lblVveGRleWhPa05vRWlGZjYzT1JQNmt0dGZkN1ljZDlITnBpQQ?oc=5",
     "image": "",
     "date": 1791191700000
    },
    {
-    "title": "„Krone oder Kasperl“ - Rasen-Skandal! „Nicht einmal Markgrafneusiedl …“",
+    "title": "„Krone oder Kasperl“ - Rasen-Skandal! „Nicht einmal Markgrafneusiedl …“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FMjExTlh2TlgxVG1DX3BCZWZYLVA2N2ZCTFpIc1Zxc3Nya1l3M1A3TGF2RzNlUmxXLWdYMGdnc3RVZw?oc=5",
     "image": "",
     "date": 1791191580000,
-    "titleSl": "Krone oder Kasperl - Rasen-Skandal! „Nicht einmal Markgrafneusiedl …“"
+    "titleSl": "Krone oder Kasperl - Rasen-Skandal! „Nicht einmal Markgrafneusiedl …“ - krone.at"
    },
    {
-    "title": "Nicht einsaugen! - Stinkwanzen verstecken sich in unseren Wohungen",
+    "title": "Nicht einsaugen! - Stinkwanzen verstecken sich in unseren Wohungen - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ISXpOdm90Z3JybzBNZ3o1Y1dUMU1Wbm5KZTNVSkNQVHdkbFpWUUVoZnhuOE1LV3VJTFBlaGE2ajhGQQ?oc=5",
     "image": "",
     "date": 1791191580000
    },
    {
-    "title": "„Sie wollten mich im CL-Finale zweimal verhaften“",
+    "title": "„Sie wollten mich im CL-Finale zweimal verhaften“ - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1LeXZLdlFYMldxM0Y1c3NydHpjbG4tMW41YkdKTUtiYTdKUHZYeElpUEtXTWZyUkJMS2RDajI0WUstdw?oc=5",
     "image": "",
     "date": 1791191340000
    },
    {
-    "title": "Suche nach Petra R. - Bettelalm: Chefin von Wiener Kult-Lokal vermisst",
+    "title": "Suche nach Petra R. - Bettelalm: Chefin von Wiener Kult-Lokal vermisst - krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUOXJSSHkwQlVUb0pRQ1VRczVlUzUzUUhpSTkyRzFUY2VkQ1RTRUdEa25yNEl5eFNHNExtNXJjMGYwdw?oc=5",
     "image": "",
     "date": 1791191220000
