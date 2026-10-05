@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T18:58:31.853Z",
+ "generatedAt": "2026-10-05T19:01:14.005Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Milijonska plačila medijem: Razkrito, komu je plačeval Gen-I",
+    "link": "https://www.zurnal24.si/slovenija/gen-i-oglasevanje-mediji-odvetniki-denar-466214",
+    "image": "https://www.zurnal24.si/media/img/73/0d/d333e999a3b9951bb889.jpeg",
+    "date": 1791226740000
+   },
+   {
     "title": "Janša in Meloni si delita cilj, napovedala sta tesnejše zavezništvo",
     "link": "https://www.zurnal24.si/slovenija/janez-jansa-giorgia-meloni-italija-zaveznistvo-466213",
     "image": "https://www.zurnal24.si/media/img/9c/49/5886f77385b3ddf767f5.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/slovenski-sport-zaluje-poslovil-se-je-velikan-nasega-hokeja-466210",
     "image": "https://www.zurnal24.si/media/img/9f/ef/37aa066ec443f98c4cb8.jpeg",
     "date": 1791219600000
-   },
-   {
-    "title": "Nor incident na dvoboju Novaka, sodnik po tej potezi diskvalificiral Medvedjeva",
-    "link": "https://www.zurnal24.si/sport/nor-incident-na-dvoboju-dokovica-sodnik-po-tej-potezi-diskvalificiral-medvedjeva-466209",
-    "image": "https://www.zurnal24.si/media/img/14/8b/249fbc4a937924bb20c5.jpeg",
-    "date": 1791217800000
    }
   ],
   "reuters": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+    "link": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260908__C7P283A__v2__HighRes__IsraelPalestinianBritainDiplomacy-1791222848.jpg?resize=1920%2C1440",
+    "date": 1791225756000,
+    "titleSl": "Združeno kraljestvo \"grozi z izgonom 27 izraelskih diplomatov\" zaradi konzulata v Jeruzalemu"
+   },
+   {
     "title": "Mecca alliance agrees to activate collective deterrence measures",
     "link": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C630",
@@ -320,29 +327,36 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/clean-3-1791219792.jpg?resize=1920%2C1080&quality=80",
     "date": 1791219946000,
     "titleSl": "Jerusalem Daily: Netanjahu volivcem dal dramatičen ultimat"
-   },
-   {
-    "title": "DR Congo boat collision kills at least 30, dozens missing",
-    "link": "https://www.aljazeera.com/news/2026/10/5/dr-congo-boat-collision-kills-at-least-30-dozens-missing?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2018/05/f5ec7c8773f947b38dedd26457080820_18.jpeg?resize=1200%2C675",
-    "date": 1791218870000,
-    "titleSl": "V trčenju čolna DR Kongo je umrlo najmanj 30 ljudi, več deset jih je pogrešanih"
    }
   ],
   "guardian": [
+   {
+    "title": "Politico reportedly barred from traveling with Trump amid administration’s crackdown on White House coverage – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/a9a71c9955b152cb5139f996b1fdf1da24cdb021/0_127_4791_3833/master/4791.jpg?width=140&quality=85&auto=format&fit=max&s=7c221988fe1478d5950b2a1e7e365ce3",
+    "date": 1791226341000,
+    "titleSl": "Politiku naj bi bilo zaradi zatrtja poročanja Bele hiše prepovedano potovati s Trumpom – v živo"
+   },
+   {
+    "title": "Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge",
+    "link": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
+    "image": "https://i.guim.co.uk/img/media/51befd23cfd054ecf65bc8b8b9f9501f6ec4cc6e/526_0_3109_2487/master/3109.jpg?width=140&quality=85&auto=format&fit=max&s=d7882ab89f626173431183f05b45cfec",
+    "date": 1791225743000,
+    "titleSl": "Skrajna desnica na pohodu in Lulini neuspehi: ključni vzroki za porast v Braziliji Flávia Bolsonara"
+   },
+   {
+    "title": "Andrew Mountbatten-Windsor takes legal action against police and Old Bailey over Epstein raids",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids",
+    "image": "https://i.guim.co.uk/img/media/513baa225c2574eb4edc647db90777b49a129065/1093_87_4132_3307/master/4132.jpg?width=140&quality=85&auto=format&fit=max&s=e9362e7f6205342e7c66ca6b209b977c",
+    "date": 1791225625000,
+    "titleSl": "Andrew Mountbatten-Windsor sproži sodni postopek proti policiji in Old Baileyju zaradi racij v Epsteinu"
+   },
    {
     "title": "Gatorade maker recalls 122,000 cases of popular sports drink across 37 US states",
     "link": "https://www.theguardian.com/us-news/2026/oct/05/pepsico-gatorade-recall-undeclared-dyes",
     "image": "https://i.guim.co.uk/img/media/a9413713441e9a062c59ec90da799b69b598f1af/1413_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=27073ee880c64278fa16d7664a6cf5d6",
     "date": 1791225537000,
     "titleSl": "Proizvajalec Gatorade opozarja na 122.000 primerov priljubljenih športnih napitkov v 37 ameriških zveznih državah"
-   },
-   {
-    "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/cc0e2c96ee6b0ebbef70282b95e9804289e06b11/95_0_4053_3244/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=681c06aecdb4e0232229565658a5f673",
-    "date": 1791225433000,
-    "titleSl": "Trump se odpravlja v Nebrasko, kjer vrhovno sodišče sliši prve ustne argumente novega mandata – ameriška politika v živo"
    },
    {
     "title": "Florida high schooler and one other killed in school bus rollover crash",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/919ffd990a150557466063299c1b06d1007f4aec/446_0_2119_1696/master/2119.jpg?width=140&quality=85&auto=format&fit=max&s=da81eb4f4f9cfbde081a4edf500f9454",
     "date": 1791223647000,
     "titleSl": "Št. 10 vztraja, da je RAF Fairford varen, potem ko ZDA umaknejo svoje bombnike iz baze"
-   },
-   {
-    "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
-    "link": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
-    "image": "https://i.guim.co.uk/img/media/2a3d9c552bda55ade07a8cda78b34dc1ebbc1f15/66_0_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=1fc7bbfbc77b08608b923754b765d55f",
-    "date": 1791223247000,
-    "titleSl": "Kopilot letala Flydubai je prvotno načrtoval napad za julij, menijo preiskovalci"
-   },
-   {
-    "title": "UK threatens to expel Israeli diplomats over planned East Jerusalem consulate closure",
-    "link": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate",
-    "image": "https://i.guim.co.uk/img/media/1da8d161242bd7736d78039667e979fec035e639/51_0_6822_5461/master/6822.jpg?width=140&quality=85&auto=format&fit=max&s=6a35573dcfd323aafb5c79af6a005658",
-    "date": 1791222826000,
-    "titleSl": "Združeno kraljestvo grozi z izgonom izraelskih diplomatov zaradi načrtovanega zaprtja konzulata v vzhodnem Jeruzalemu"
    }
   ],
   "spiegel": [
@@ -531,16 +531,17 @@
   ],
   "lemonde": [
    {
+    "title": "La couverture d’un livre « exceptionnel » réalisée par Salvador Dali volée dans un musée d’Auvergne",
+    "link": "https://www.lemonde.fr/culture/article/2026/10/05/la-couverture-d-un-livre-exceptionnel-realisee-par-salvador-dali-volee-dans-un-musee-d-auvergne_6788577_3246.html",
+    "image": "https://img.lemde.fr/2026/10/05/616/0/1789/894/644/322/60/0/4d349af_upload-1-nazoki1mbuxo-000-par2003110114594.jpg",
+    "date": 1791224229000,
+    "titleSl": "La couverture d'un livre « exceptionnel » réalisée par Salvador Dali volée dans un musée d' Auvergne"
+   },
+   {
     "title": "Dans les quartiers populaires, un mouvement lycéen très politisé, accompagné, mais pas manipulé",
     "link": "https://www.lemonde.fr/societe/article/2026/10/05/dans-les-quartiers-populaires-un-mouvement-lyceen-tres-politise-accompagne-mais-pas-manipule_6788575_3224.html",
     "image": "https://img.lemde.fr/2026/10/04/1368/0/8192/4096/644/322/60/0/a0fad54_ftp-1-pnrssjpsmxbo-5262993-01-06.jpg",
     "date": 1791223696000
-   },
-   {
-    "title": "Une Chinoise arrêtée aux Etats-Unis pour avoir espionné le fils du président taïwanais",
-    "link": "https://www.lemonde.fr/international/article/2026/10/05/une-chinoise-arretee-aux-etats-unis-pour-avoir-espionne-le-fils-du-president-taiwanais_6788572_3210.html",
-    "image": "https://img.lemde.fr/2026/09/28/893/0/2000/1000/644/322/60/0/832aa14_ftp-1-bidwlap8t05o-2026-09-28t054722z-1052634494-rc22snapwtj5-rtrmadp-3-taiwan-defence.JPG",
-    "date": 1791221404000
    },
    {
     "title": "L’Allemagne et la France passent à l’offensive pour rééquilibrer les échanges commerciaux avec la Chine",
@@ -575,7 +576,7 @@
     "title": "Adelanto de las elecciones generales, en directo | Aznar dice que si Sánchez vuelve a formar gobierno “la monarquía que hemos conocido se terminaría”",
     "link": "https://elpais.com/espana/2026-10-05/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/54XLVTLYJ5D2DAFAUAKIF6RI6M.jpg?auth=235287e06507145fe6c9ea438591ba06f409a522013641912ad49b9df905da78",
-    "date": 1791226200000
+    "date": 1791226435000
    },
    {
     "title": "La victoria en primera vuelta de Bolsonaro impulsa a la ola ultra de América Latina",
