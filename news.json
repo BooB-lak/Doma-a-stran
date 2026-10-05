@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T23:58:26.300Z",
+ "generatedAt": "2026-10-05T00:01:08.983Z",
  "sources": {
   "siol": [
    {
@@ -533,6 +533,13 @@
   ],
   "lemonde": [
    {
+    "title": "Les Etats-Unis retirent leurs bombardiers de la base britannique près de laquelle a eu lieu un incident",
+    "link": "https://www.lemonde.fr/international/article/2026/10/05/les-etats-unis-retirent-leurs-bombardiers-de-la-base-britannique-pres-de-laquelle-a-eu-lieu-un-incident_6788399_3210.html",
+    "image": "https://img.lemde.fr/2026/10/04/700/0/4193/2096/644/322/60/0/f7669d9_ftp-1-ndbkyltsprnb-5267288-01-06.jpg",
+    "date": 1791158175000,
+    "titleSl": "Les Etats-Unis upokojenec leurs bombardiers de la base britannique près de laquelle a eu lieu un incident"
+   },
+   {
     "title": "Gaza : Israël affirme avoir tué un membre du Hamas, dirigeant d’une ONG turque",
     "link": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html",
     "image": "https://img.lemde.fr/2026/09/21/505/0/5008/2504/644/322/60/0/06bc15a_ftp-1-ajv2abkygurg-5143323-01-06.jpg",
@@ -564,13 +571,6 @@
     "image": "https://img.lemde.fr/2026/10/04/422/0/5450/2725/644/322/60/0/bc39b38_ftp-1-ozwxqdslitwr-464d5ab86a7c4cf99c4c0b08339f7c68-0-1d4d888d2c40437fa7e7f49ed712ea6c.jpg",
     "date": 1791133855000,
     "titleSl": "Ce qu'il faut retenir de l' actualité du weekend-end des 3 et 4 octobre"
-   },
-   {
-    "title": "En Corse, après la dégradation d’une statue religieuse, deux suspects face à la vindicte populaire",
-    "link": "https://www.lemonde.fr/societe/article/2026/10/04/en-corse-apres-la-degradation-d-une-statue-religieuse-deux-suspects-face-a-la-vindicte-populaire_6788321_3224.html",
-    "image": "https://img.lemde.fr/2026/10/04/277/0/600/300/644/322/60/0/b4b3ff7_upload-1-pufdnujaqqxy-829358070-1561946025256064-8623177523968878979-n.jpeg",
-    "date": 1791133210000,
-    "titleSl": "En Corse, après la dégradation d'une statue religieuse, deux suspects face à la vindicte populaire"
    }
   ],
   "elpais": [
@@ -615,317 +615,329 @@
   ]
  },
  "onThisDay": {
-  "date": "04.10",
-  "pageUrl": "https://sl.wikipedia.org/wiki/4._oktober",
+  "date": "05.10",
+  "pageUrl": "https://sl.wikipedia.org/wiki/5._oktober",
   "items": [
    {
-    "year": "1990",
-    "text": "Poslanec Socialistične stranke Slovenije Ivo Daneu je v zboru združenega dela skupščine Republike Slovenije predlagal plebiscit za osamosvojitev Slovenije.",
+    "year": "1954",
+    "text": "S podpisom londonskega memoranduma so razdelili Svobodno tržaško ozemlje med Jugoslavijo in Italijo.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1984",
+    "text": "Zlatko Dedič, slovenski nogometaš",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1935",
+    "text": "Mirko Ramovš, slovenski etnokoreolog († 1923)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1909",
+    "text": "Walter Markov, nemški zgodovinar slovenskega rodu († 1993)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1881",
+    "text": "Fran Jeran, slovenski matematik († 1954)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1840",
+    "text": "Fran Gerbič, slovenski skladatelj, operni pevec († 1917)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "2001",
+    "text": "V Združenih državah Amerike je umrla prva žrtev z antraksom okuženih pošiljk.",
+    "type": "dogodek"
+   },
+   {
+    "year": "2000",
+    "text": "Demonstracije v Beogradu, ki so pripeljale do Miloševićevega odstopa.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1994",
+    "text": "V Švici je približno 50 članov sekte Sončni tempelj izvedlo samomor.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1974",
+    "text": "Dave Kunst je kot prvi človek peš prepotoval svet.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1968",
+    "text": "Na Severnem Irskem so se začeli spopadi med katoličani in protestanti.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1964",
+    "text": "V Kairu se je začela druga konferenca neuvrščenih.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1943",
+    "text": "Nemška letala so bombandirala Mokronog.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1939",
+    "text": "Sovjetska zveza in Latvija sta podpisali pakt o vzajemni pomoči.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1925",
+    "text": "Potekala je konferenca v Locarnu.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1921",
+    "text": "V Londonu je bilo na pobudo Catherine Amy Dawson-Scott ustanovljeno združenje PEN.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1910",
+    "text": "Portugalska je ukinila monarhijo.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1908",
+    "text": "Avstro-Ogrska je anektirala Bosno in Hercegovino.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1793",
+    "text": "Francoska revolucija je ukinila krščanstvo v Franciji.",
+    "type": "dogodek"
+   },
+   {
+    "year": "1582",
+    "text": "Zaradi uvedbe gregorijanskega koledarja tega dne v Italiji, Portugalski, Španiji in na Poljskem ni bilo, pač pa je 4. oktobru 1582 sledil 15. oktober.",
     "type": "dogodek"
    },
    {
     "year": "1975",
-    "text": "Vasilij Žbogar, slovenski jadralec",
+    "text": "Kate Winslet, angleška filmska igralka",
     "type": "rojstvo"
-   },
-   {
-    "year": "1874",
-    "text": "Franc Berneker, slovenski kipar († 1932)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1700",
-    "text": "Franc Jelovšek, slovenski slikar († 1764)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1998",
-    "text": "Vida Juvan, slovenska gledališka igralka (* 1905)",
-    "type": "smrt"
-   },
-   {
-    "year": "1565",
-    "text": "Peter Pavel Vergerij, slovenski škof, pravnik, prenovitelj (* 1498)",
-    "type": "smrt"
-   },
-   {
-    "year": "1181",
-    "text": "Herman Spanheimski, koroški vojvoda",
-    "type": "smrt"
-   },
-   {
-    "year": "1993",
-    "text": "V Moskvi je prišlo do spopadov med privrženci Jelcina in parlamenta.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1992",
-    "text": "Končala se je državljanska vojna v Mozambiku.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1957",
-    "text": "Izstreljen je bil Sputnik 1, prvi Zemljin umetni satelit.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1952",
-    "text": "Paul Zoll je razvil prvi srčni spodbujevalnik.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1944",
-    "text": "Britanska vojska se je izkrcala v Grčiji.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1941",
-    "text": "Združene države Amerike so prekinile dobavo nafte Japonski.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1914",
-    "text": "Cepelini so prvič napadli London.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1865",
-    "text": "Otto von Bismarck in Napoleon III. sta se dogovorila o vodilni vlogi Prusije v Nemčiji.",
-    "type": "dogodek"
-   },
-   {
-    "year": "1946",
-    "text": "Susan Sarandon, ameriška filmska igralka",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1931",
-    "text": "Richard Rorty, ameriški filozof († 2007)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1924",
-    "text": "Charlton Heston, ameriški filmski igralec († 2008)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1916",
-    "text": "Vitalij Lazarevič Ginzburg, ruski fizik, astrofizik, nobelovec 2003 († 2009)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1903",
-    "text": "John Vincent Atanasoff, ameriški pionir računalništva († 1995)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1903",
-    "text": "Ernst Kaltenbrunner, avstrijski nacistični uradnik († 1946)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1895",
-    "text": "Buster Keaton, ameriški komik († 1966)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1895",
-    "text": "Richard Sorge, nemški novinar, vohun († 1944)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1892",
-    "text": "Engelbert Dollfuß, avstrijski kancler († 1934)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1870",
-    "text": "Hisaši Kimura, japonski astronom, geodet († 1943)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1861",
-    "text": "Frederic Sackrider Remington, ameriški slikar, kipar, ilustrator († 1909)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1814",
-    "text": "Jean-François Millet, francoski slikar († 1875)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1769",
-    "text": "Grof Aleksej Andrejevič Arakčejev, ruski general, državnik († 1834)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1579",
-    "text": "Guido Bentivoglio, italijanski duhovnik, diplomat, zgodovinar († 1644)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1562",
-    "text": "Christen Longberg, danski astronom, astrolog, matematik († 1647)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1550",
-    "text": "Karel IX., kralj Švedske in Finske († 1611)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1542",
-    "text": "Robert Bellarmino, italijanski jezuit, kardinal, teolog in cerkveni učitelj († 1621)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1289",
-    "text": "Ludvik X., francoski kralj († 1316)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1274",
-    "text": "Rudolf I., vojvoda Zgornje Bavarske, grof Renskega Palatinata († 1319)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1178",
-    "text": "Tereza Portugalska, princesa, kraljica Leona († 1250)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "1160",
-    "text": "Alica Francoska, princesa, hči Ludvika VII. Francoskega († 1220)",
-    "type": "rojstvo"
-   },
-   {
-    "year": "2004",
-    "text": "Leroy Gordon Cooper, ameriški častnik, vojaški pilot, astronavt (* 1927)",
-    "type": "smrt"
-   },
-   {
-    "year": "1970",
-    "text": "Janis Joplin, ameriška pevka (* 1943)",
-    "type": "smrt"
-   },
-   {
-    "year": "1961",
-    "text": "Max Weber, ameriški slikar, kipar ruskega rodu (* 1881)",
-    "type": "smrt"
    },
    {
     "year": "1947",
-    "text": "Max Karl Ernst Ludwig Planck, nemški fizik (* 1858)",
+    "text": "Brian Johnson, pevec AC/DC",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1936",
+    "text": "Václav Havel, češki pisatelj, predsednik († 2011)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1919",
+    "text": "Boris Ščerbina, sovjetski politik († 1990)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1902",
+    "text": "Ray Arthur Kroc, ameriški podjetnik, ustanovitelj McDonald's-a († 1984)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1882",
+    "text": "Robert Hutchings Goddard, ameriški profesor, fizik, izumitelj in raketni inženir († 1945)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1879",
+    "text": "Francis Peyton Rous, ameriški patolog, nobelovec 1966 († 1970)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1864",
+    "text": "Louis Lumière, francoski fotograf, izumitelj († 1948)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1836",
+    "text": "Takeaki Enomoto, japonski pomorski častnik, državnik († 1908)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1829",
+    "text": "Chester Alan Arthur, ameriški predsednik († 1886)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1781",
+    "text": "Bernard Bolzano, češko-nemški matematik, filozof, teolog in logik († 1848)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1732",
+    "text": "Sir Nevil Maskelyne, angleški duhovnik, astronom († 1811)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1715",
+    "text": "Markiz Victor Riqueti de Mirabeau, francoski politični ekonomist († 1789)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1713",
+    "text": "Denis Diderot, francoski pisatelj, filozof († 1784)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1703",
+    "text": "Jonathan Edwards, ameriški kalvinistični teolog in filozof († 1758)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1338",
+    "text": "Aleksej III. Veliki Komnen, trabzonski cesar († 1390)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "1268",
+    "text": "Filip IV. Lepi, francoski kralj († 1314)",
+    "type": "rojstvo"
+   },
+   {
+    "year": "2011",
+    "text": "Steve Jobs, ameriški računalnikar in poslovnež (* 1955)",
     "type": "smrt"
    },
    {
-    "year": "1903",
-    "text": "Otto Weininger, avstrijski filozof (* 1880)",
+    "year": "2004",
+    "text": "Maurice Wilkins, britanski fizik, nobelovec 1962 (* 1916)",
+    "type": "smrt"
+   },
+   {
+    "year": "1976",
+    "text": "Lars Onsager, norveško-ameriški fizik in kemik, nobelovec 1968 (* 1903)",
+    "type": "smrt"
+   },
+   {
+    "year": "1972",
+    "text": "Solomon Lefschetz, ameriški matematik (* 1884)",
+    "type": "smrt"
+   },
+   {
+    "year": "1969",
+    "text": "Theophilus Shickel Painter, ameriški zoolog, citolog (* 1889)",
+    "type": "smrt"
+   },
+   {
+    "year": "1962",
+    "text": "Tod Browning, ameriški filmski igralec in režiser (* 1880)",
+    "type": "smrt"
+   },
+   {
+    "year": "1962",
+    "text": "Sylvia Beach, ameriška knjigarnarka (* 1887)",
+    "type": "smrt"
+   },
+   {
+    "year": "1960",
+    "text": "Alfred Louis Kroeber, ameriški antropolog in arheolog (* 1876)",
+    "type": "smrt"
+   },
+   {
+    "year": "1938",
+    "text": "Favstina Kowalska, poljska redovnica in svetnica (* 1905)",
+    "type": "smrt"
+   },
+   {
+    "year": "1933",
+    "text": "Nikolaj Nikolajevič Judenič, ruski general (* 1862)",
     "type": "smrt"
    },
    {
     "year": "1880",
-    "text": "Jacques Offenbach, francoski skladatelj nemško-judovskega rodu (* 1819)",
+    "text": "William Lassell, angleški astronom (* 1799)",
     "type": "smrt"
    },
    {
-    "year": "1876",
-    "text": "Johannes Rebmann, nemški misijonar, raziskovalec (* 1820)",
+    "year": "1864",
+    "text": "Imre Madách, madžarski pesnik (* 1823)",
     "type": "smrt"
    },
    {
-    "year": "1859",
-    "text": "Karl Baedeker, nemški založnik (* 1801)",
+    "year": "1777",
+    "text": "Johann Andreas von Segner, nemški fizik, matematik (* 1704)",
     "type": "smrt"
    },
    {
-    "year": "1821",
-    "text": "John Rennie, škotski inženir (* 1761)",
+    "year": "1763",
+    "text": "Avgust III. Poljski, poljski kralj in litovski veliki knez (* 1696)",
     "type": "smrt"
    },
    {
-    "year": "1762",
-    "text": "Ando Šoeki, japonski filozof in družbeni reformator (* 1703)",
+    "year": "1714",
+    "text": "Kaibara Ekken, japonski konfucijanski filozof in botanik (* 1630)",
     "type": "smrt"
    },
    {
-    "year": "1747",
-    "text": "Amaro Pargo, španski gusar (* 1678)",
+    "year": "1398",
+    "text": "Blanka Navarska, francoska kraljica (*",
     "type": "smrt"
    },
    {
-    "year": "1669",
-    "text": "Rembrandt, nizozemski slikar (* 1606)",
+    "year": "1354",
+    "text": "Giovanni Visconti, milanski nadškof, vojskovodja (* 1290)",
     "type": "smrt"
    },
    {
-    "year": "1660",
-    "text": "Francesco Albani, italijanski slikar (* 1578)",
+    "year": "1308",
+    "text": "Gvido II. de la Roche, atenski vojvoda (* 1280)",
     "type": "smrt"
    },
    {
-    "year": "1590",
-    "text": "Jacques Cujas, francoski pravnik, humanist (* 1522)",
+    "year": "1285",
+    "text": "Filip III., francoski kralj (* 1245)",
     "type": "smrt"
    },
    {
-    "year": "1582",
-    "text": "Terezija Ávilska, španska karmeličanka, mistikinja, cerkvena učiteljica (* 1515)",
+    "year": "1249",
+    "text": "Abu Zakarija Jahja, sultan Hafsidskega sultanata (* 1203)",
     "type": "smrt"
    },
    {
-    "year": "1382",
-    "text": "Ludovico II. Gonzaga, italijanski plemič, vladar Mantove (* 1334)",
+    "year": "1225",
+    "text": "Al-Nasir, abasidski kalif (* 1158)",
     "type": "smrt"
    },
    {
-    "year": "1353",
-    "text": "Rudolf II., pfalški grof (* 1306)",
+    "year": "1214",
+    "text": "Alfonz VIII., kralj Kastilije in Toleda (* 1155)",
     "type": "smrt"
    },
    {
-    "year": "1305",
-    "text": "Cesar Kamejama, 90. japonski cesar (* 1249)",
+    "year": "1111",
+    "text": "Robert II., flandrijski grof, križar (* 1065)",
     "type": "smrt"
    },
    {
-    "year": "1250",
-    "text": "Herman VI., mejni grof Badna (* 1226)",
+    "year": "1056",
+    "text": "Henrik III., rimsko-nemški cesar (* 1017)",
     "type": "smrt"
    },
    {
-    "year": "1226",
-    "text": "Frančišek Asiški, italijanski redovnik in svetnik, zavetnik živali in trgovcev (* 1181 ali 1182)",
+    "year": "610",
+    "text": "Fokas, bizantinski cesar (* 547)",
     "type": "smrt"
    },
    {
-    "year": "1221",
-    "text": "Vilijem IV., grof Ponthieuja (* 1179)",
-    "type": "smrt"
-   },
-   {
-    "year": "1189",
-    "text": "Gerard de Ridefort, 10. veliki mojster vitezov templarjev",
-    "type": "smrt"
-   },
-   {
-    "year": "1052",
-    "text": "Vladimir II., novgorojski knez (* 1020)",
+    "year": "578",
+    "text": "Justin II., bizantinski cesar (* okoli 520)",
     "type": "smrt"
    }
   ]
  },
  "threeDays": {
-  "date": "10-04",
+  "date": "10-05",
   "days": [
-   {
-    "dan": 4,
-    "mesec": 10,
-    "mesecIme": "oktober",
-    "danIme": "nedelja",
-    "praznik": null,
-    "svetovni": []
-   },
    {
     "dan": 5,
     "mesec": 10,
@@ -939,6 +951,14 @@
     "mesec": 10,
     "mesecIme": "oktober",
     "danIme": "torek",
+    "praznik": null,
+    "svetovni": []
+   },
+   {
+    "dan": 7,
+    "mesec": 10,
+    "mesecIme": "oktober",
+    "danIme": "sreda",
     "praznik": null,
     "svetovni": []
    }
