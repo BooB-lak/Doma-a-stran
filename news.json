@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T13:48:28.656Z",
+ "generatedAt": "2026-10-05T13:50:48.231Z",
  "sources": {
   "siol": [
    {
@@ -199,18 +199,32 @@
   ],
   "nyt": [
    {
+    "title": "Mayors Are Filming Videos, Mamdani-Style, With Varying Degrees of Cringe",
+    "link": "https://www.nytimes.com/2026/10/05/us/mayors-tiktok-video-instagram-mamdani.html",
+    "image": "",
+    "date": 1791208169000,
+    "titleSl": "Župani snemajo videoposnetke v mamdani stilu z različnimi stopnjami ostrine"
+   },
+   {
+    "title": "Dennis Hastert, Powerful Politician Disgraced by Child Sexual Abuse, Dies",
+    "link": "https://www.nytimes.com/2026/10/05/obituaries/dennis-hastert-dead.html",
+    "image": "https://static01.nyt.com/images/2026/10/04/multimedia/00obit-hastert-01-fbkl/00obit-hastert-01-fbkl-mediumSquareAt3X.jpg",
+    "date": 1791208081000,
+    "titleSl": "Umrl Dennis Hastert, vpliven politik, osramočen zaradi spolne zlorabe otrok"
+   },
+   {
+    "title": "Are Babies Conscious?",
+    "link": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
+    "image": "",
+    "date": 1791208079000,
+    "titleSl": "Ali so dojenčki pri zavesti?"
+   },
+   {
     "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
     "link": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
     "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
     "date": 1791207916000,
     "titleSl": "Nobelova nagrada za fiziologijo ali medicino je podeljena za odkritja v nevroznanosti"
-   },
-   {
-    "title": "Dennis Hastert, Powerful Politician Disgraced by Child Sex Scandal, Dies",
-    "link": "https://www.nytimes.com/2026/10/05/obituaries/dennis-hastert-dead.html",
-    "image": "https://static01.nyt.com/images/2026/10/04/multimedia/00obit-hastert-01-fbkl/00obit-hastert-01-fbkl-mediumSquareAt3X.jpg",
-    "date": 1791207507000,
-    "titleSl": "Umrl Dennis Hastert, vpliven politik, osramočen zaradi spolnega škandala z otroki"
    },
    {
     "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05Biz-Hormuz-01-hgml/05Biz-Hormuz-01-hgml-mediumSquareAt3X.jpg",
     "date": 1791206527000,
     "titleSl": "Eksplozija napadov v Zalivu povečuje strah pred krhko trgovino z energijo"
-   },
-   {
-    "title": "CNN C.E.O. Mark Thompson Says He Will Stay On Under New Owner Skydance",
-    "link": "https://www.nytimes.com/2026/10/05/business/cnn-mark-thompson-ellison-paramount-skydance.html",
-    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05Biz-Cnn-Thompson-qhmf/05Biz-Cnn-Thompson-qhmf-mediumSquareAt3X.jpg",
-    "date": 1791206476000,
-    "titleSl": "Izvršni direktor CNN-a Mark Thompson pravi, da bo ostal pod novim lastnikom Skydanceom"
-   },
-   {
-    "title": "A Supreme Court Battle Over Climate Change Begins",
-    "link": "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html",
-    "image": "https://static01.nyt.com/images/2026/09/24/multimedia/00cli-boulder-01-vgtb/00cli-boulder-01-vgtb-mediumSquareAt3X.jpg",
-    "date": 1791205577000,
-    "titleSl": "Začenja se bitka vrhovnega sodišča za podnebne spremembe"
    }
   ],
   "bbc": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Nach dem Fehlstart des VfB - Bringt Undav jetzt die Wende?",
+    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-nach-dem-fehlstart-des-vfb-bringt-undav-jetzt-die-wende-6ac39c8ab463632216aa9589",
+    "image": "https://images.bild.de/6ac39c8ab463632216aa9589/67afd838684bc8e6f5b29fe9cb38022e,5900c238?w=1280",
+    "date": 0
+   },
+   {
     "title": "AfD-Spitzenkandidat streut Gerüchte - „Siegmund verunsichert die CDU“",
     "link": "https://www.bild.de/politik/afd-spitzenkandidat-streut-geruechte-siegmund-verunsichert-die-cdu-6ac371afd649c17058598298",
     "image": "https://images.bild.de/6ac371afd649c17058598298/938263f11128aa57b7fb98a5f635484e,440aed37?w=1280",
@@ -444,12 +450,6 @@
     "image": "https://images.bild.de/6ac38a1cb0ca83ad0a1d9cbb/685b50737368592f1b523096d41f3582,e79a777?w=1280",
     "date": 0,
     "titleSl": "Baby-News verkündet - raper Samra wird wieder Papa"
-   },
-   {
-    "title": "Fischer exklusiv in BILD - So haben wir unser Top-Trio behalten",
-    "link": "https://www.bild.de/sport/fussball/mainz-05-fischer-so-haben-wir-unser-top-trio-behalten-6ac363a3fde19fde7c1c4f74",
-    "image": "https://images.bild.de/6ac363a3fde19fde7c1c4f74/7f89a2fb17f52dda222ee479205718a1,3d4749fd?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -532,6 +532,12 @@
   ],
   "lemonde": [
    {
+    "title": "Meurtre de Federico Martin Aramburu : Loïk Le Priol et Romain Bouvier font appel",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/05/meurtre-de-federico-martin-aramburu-loik-le-priol-et-romain-bouvier-font-appel_6788534_3224.html",
+    "image": "https://img.lemde.fr/2026/09/07/459/0/5509/2754/644/322/60/0/b384e95_ftp-1-bfko2ogsqvp2-2026-09-07t155232z-1115186110-rc2cenaxut49-rtrmadp-3-rugby-union-argentina-france-trial.JPG",
+    "date": 1791207824000
+   },
+   {
     "title": "La loi intégrale contre les violences sexuelles, rampe de lancement de l’enfantisme",
     "link": "https://www.lemonde.fr/idees/article/2026/10/05/la-loi-integrale-contre-les-violences-sexuelles-rampe-de-lancement-de-l-enfantisme_6788527_3232.html",
     "image": "https://img.lemde.fr/2026/09/16/939/0/8000/4000/644/322/60/0/bf8a8f4_upload-1-ky032gxxbqhs-jmug260916029.jpg",
@@ -563,21 +569,26 @@
     "image": "https://img.lemde.fr/2026/02/26/347/0/3000/1500/644/322/60/0/61cfbfb_upload-1-pwmdg1ovslyh-asurp-sommepcfmunicipales-109788.jpg",
     "date": 1791199082000,
     "titleSl": "A Bergerac, des élus RN refusent de baptiser une école du nom d 'Irène Sapir, rescapée de la Shoah devenue élue locale communiste"
-   },
-   {
-    "title": "Au Yémen, les forces gouvernementales, soutenues par l’Arabie saoudite, annoncent une offensive sur la capitale, Sanaa, aux mains des houthistes pro-iraniens",
-    "link": "https://www.lemonde.fr/international/article/2026/10/05/au-yemen-les-forces-gouvernementales-soutenues-par-l-arabie-saoudite-annoncent-une-offensive-sur-la-capitale-sanaa-aux-mains-des-houthistes-pro-iraniens_6788502_3211.html",
-    "image": "https://img.lemde.fr/2026/10/05/250/0/3000/1500/644/322/60/0/901d835_upload-1-c56lkc39ic6k-000-c8h86mj.jpg",
-    "date": 1791198710000,
-    "titleSl": "Au Yémen, les forces gouvernementales, soutenues par l'Arabie saoudite, annoncent une offensive sur la capitale, Sanaa, aux mains des houthistes pro-iraniens"
    }
   ],
   "elpais": [
    {
+    "title": "Muere a los 70 años Ángel Arroyo, el ciclista de El Barraco que fue segundo en el Tour de 1983",
+    "link": "https://elpais.com/deportes/ciclismo/2026-10-05/muere-a-los-70-anos-angel-arroyo-segundo-en-el-tour-de-1983.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/KFS5YLYGBND4HGCOCOXPTNPSHU.jpg?auth=5510a77f73a888e3c3c2a48136657f6026bdd7369ebadc95130cbe0e9d0eeee3",
+    "date": 1791207906000
+   },
+   {
     "title": "Adelanto de las elecciones generales, en directo | El Frente Amplio se declara “preparado” para las elecciones y abierto a “acoger a más organizaciones”",
     "link": "https://elpais.com/espana/2026-10-05/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/HZADZQHVQZA77OCUCVED3PAY4Y.jpg?auth=c09ae8c711c408623315a1acf3a805887c8c4a6c0cc8fe3fb3a57ee5656b5d5f",
-    "date": 1791207699000
+    "date": 1791207834000
+   },
+   {
+    "title": "Jordi Hereu se perfila como candidato del PSC a las elecciones",
+    "link": "https://elpais.com/espana/catalunya/2026-10-05/jordi-hereu-se-perfila-como-candidato-del-psc-a-las-elecciones.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/M37EJWVTGZJQRM5GHE72B36LM4.jpg?auth=f8a610a62c43e0f2976acf9b15509c658ff5bf0138b3654a3cd23f6aa0f93dc8",
+    "date": 1791207496000
    },
    {
     "title": "Dos tripulantes muertos y 11 rescatados tras el ataque con dron a un carguero turco en el mar Negro",
@@ -598,19 +609,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/UTG77IK5HBOWZIBMBHLEEFV22E.jpg?auth=089ae5360c6d0ab1e7f3fa6786bcd6fc4514217264fec01fd82c6e36ee2c01bb",
     "date": 1791206904000,
     "titleSl": "Flames (BME): \"Confiamos en que la cuenta Financia Europa esté disponible muy pronto\""
-   },
-   {
-    "title": "La izquierda, obligada a negociar contra reloj: Podemos ofrece votar en primarias el 14 y 15 de octubre",
-    "link": "https://elpais.com/espana/2026-10-05/el-adelanto-electoral-sorprende-a-la-izquierda-sin-candidato.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261005/1221886_104731_video_1800.mp4",
-    "date": 1791206795000
-   },
-   {
-    "title": "Agua negra bajando por los ríos: pueblos afectados por los incendios de Ávila, sin agua potable por la contaminación",
-    "link": "https://elpais.com/espana/2026-10-05/agua-negra-bajando-por-los-rios-pueblos-afectados-por-los-incendios-de-avila-sin-agua-potable-por-la-contaminacion.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261005/1221924_120932_video_1800.mp4",
-    "date": 1791204511000,
-    "titleSl": "Agua negra bajando por los ríos: pueblos afectados por los incendios de Ávila, sin agua pitable por la contaminación"
    }
   ]
  },
