@@ -1,7 +1,19 @@
 {
- "generatedAt": "2026-10-05T16:30:58.468Z",
+ "generatedAt": "2026-10-05T16:32:30.230Z",
  "sources": {
   "siol": [
+   {
+    "title": "Kako je Gen-I porabljal milijone?",
+    "link": "https://siol.net/novice/slovenija/kako-je-gen-i-porabljal-milijone-703243",
+    "image": "https://siol.net/media/img/f1/31/84fb1d79070744bcb1fc.jpeg",
+    "date": 1791217860000
+   },
+   {
+    "title": "Umrl je legendarni hokejski branilec Vlado Jug",
+    "link": "https://siol.net/sportal/hokej/umrl-je-legendarni-hokejski-branilec-vlado-jug-703253",
+    "image": "https://siol.net/media/img/91/2c/68a883c86b104a850b08.jpeg",
+    "date": 1791217860000
+   },
    {
     "title": "Rogličev pomočnik in Vingegaardov zaupnik prevzema eno ključnih vlog pri Vismi",
     "link": "https://siol.net/sportal/kolesarstvo/roglicev-pomocnik-in-vingegaardov-zaupnik-prevzema-eno-kljucnih-vlog-pri-vismi-703245",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/novice/svet/drama-na-letaliscu-v-splitu-evakuirali-letalo-air-serbia-aretiran-moski-703250",
     "image": "https://siol.net/media/img/97/f0/77d3dd2f29d6fcc22ea9.jpeg",
     "date": 1791215520000
-   },
-   {
-    "title": "Stefan Joksimović z najboljšo predstavo v začetku sezone, Žiga Samar potrjuje dobro formo",
-    "link": "https://siol.net/sportal/kosarka/kosarkarski-legionarji-stefan-joksimovic-ziga-samar-703248",
-    "image": "https://siol.net/media/img/d0/1e/51b00773519198fe8999.jpg",
-    "date": 1791214980000
-   },
-   {
-    "title": "Danil Medvedjev z gesto proti Novaku Đokoviću sprožil ogorčenje #video",
-    "link": "https://siol.net/sportal/tenis/daniil-medvedjev-z-gesto-proti-novaku-dokovicu-sprozil-ogorcenje-video-703247",
-    "image": "https://siol.net/media/img/9f/87/e5b87618b89229bd244a.jpeg",
-    "date": 1791214740000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Nor incident na dvoboju Novaka, sodnik po tej potezi diskvalificiral Medvedjeva",
+    "link": "https://www.zurnal24.si/sport/nor-incident-na-dvoboju-dokovica-sodnik-po-tej-potezi-diskvalificiral-medvedjeva-466209",
+    "image": "https://www.zurnal24.si/media/img/14/8b/249fbc4a937924bb20c5.jpeg",
+    "date": 1791217800000
+   },
+   {
     "title": "Izbruh nalezljive bolezni v domu starejših: Svojcem omejili obiske",
     "link": "https://www.zurnal24.si/zdravje/dso-mavida-ribnica-garje-nijz-466208",
     "image": "https://www.zurnal24.si/media/img/ac/25/1f154d15e6386337de91.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/zoran-stevanovic-boris-mijic-zrtev-466204",
     "image": "https://www.zurnal24.si/media/img/99/d1/1390ff827cae302f4b59.jpeg",
     "date": 1791210240000
-   },
-   {
-    "title": "V Ljubljani se bo pisala slovenska odbojkarska zgodovina",
-    "link": "https://www.zurnal24.si/sport/v-ljubljani-se-bo-pisala-slovenska-odbojkarska-zgodovina-466202",
-    "image": "https://www.zurnal24.si/media/img/29/14/9d59abae849d8cc0a848.jpeg",
-    "date": 1791208440000
    }
   ],
   "reuters": [
@@ -257,6 +257,20 @@
     "titleSl": "Št. 10 vztraja, da je RAF Fairford varen, potem ko ZDA umaknejo bombnike"
    },
    {
+    "title": "Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
+    "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
+    "date": 1791216801000,
+    "titleSl": "Pentagon preneha uporabljati orodja za antropično umetno inteligenco več mesecev po tem, ko je podjetje uvrstilo na črno listo,"
+   },
+   {
+    "title": "Watch: What caused the US to remove its bombers in such a hurry?",
+    "link": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93be/live/94be9b90-c0d6-11f1-a64c-550be9e3c66b.jpg",
+    "date": 1791215255000,
+    "titleSl": "Oglejte si: Kaj je povzročilo, da so ZDA tako hitro odstranile svoje bombnike?"
+   },
+   {
     "title": "Ex-Manchester leader defends deals with Man City owners",
     "link": "https://www.bbc.co.uk/news/articles/c9gkv7pdd620o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a7/live/cba129f0-c0b0-11f1-b026-53d1506ee826.jpg",
@@ -269,23 +283,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe53/live/c57dfbc0-c0ce-11f1-babe-4199b0e7ccea.png",
     "date": 1791213586000,
     "titleSl": "Bi po načrtu konservativcev nove hiše postale cenejše za 50.000 £?"
-   },
-   {
-    "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-    "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545c/live/9d4a7fd0-c0cd-11f1-a64c-550be9e3c66b.jpg",
-    "date": 1791213443000,
-    "titleSl": "Zelenski obsoja \"grozljiv\" ruski napad na ladjo, ki prevaža koruzo v Črnem morju"
-   },
-   {
-    "title": "Twelve arrested for allegedly running cat trafficking ring in Vietnam",
-    "link": "https://www.bbc.co.uk/news/articles/c8x234k9epq5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f996/live/c1478560-c0cb-11f1-a64c-550be9e3c66b.jpg",
-    "date": 1791213035000,
-    "titleSl": "Dvanajst aretiranih zaradi domnevnega vodenja kroga trgovine z mačkami v Vietnamu"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Two dead after ship sinks off Romania following fire",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791216218.jpg?resize=1920%2C1080&quality=80",
+    "date": 1791216251000,
+    "titleSl": "Dva mrtva, potem ko je ladja potonila v Romuniji po požaru"
+   },
    {
     "title": "Bosnia and Herzegovina elections: Return to a nationalist political order?",
     "link": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261004__D2886LP__v1__HighRes__FblEurNationsIreIsr-1791204922.jpg?resize=1920%2C1440",
     "date": 1791214096000,
     "titleSl": "Kaj se je zgodilo med Irsko in Izraelom na njuni tekmi Lige narodov?"
-   },
-   {
-    "title": "A drive through the West Bank",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791213629.jpg?resize=1920%2C1080&quality=80",
-    "date": 1791213730000,
-    "titleSl": "Vožnja po Zahodnem bregu"
    }
   ],
   "guardian": [
@@ -413,6 +413,12 @@
   ],
   "bild": [
    {
+    "title": "Gewaltexzess in Sachsen - Neun Verletzte bei Schlägerei auf Dorf-Oktoberfest",
+    "link": "https://www.bild.de/regional/sachsen/gewaltexzess-in-sachsen-neun-verletzte-bei-schlaegerei-auf-dorf-oktoberfest-6ac25be23b1bc356aee64add",
+    "image": "https://images.bild.de/6ac25be23b1bc356aee64add/127e42fc524b9478f16f760e86d4623a,40794d0c?w=1280",
+    "date": 0
+   },
+   {
     "title": "Lebensgefährte vor Gericht - Frau erkennt sich auf Missbrauchsvideos wieder",
     "link": "https://www.bild.de/regional/sachsen/lebensgefaehrte-vor-gericht-frau-erkennt-sich-auf-missbrauchsvideos-wieder-6ac2a057796bf0adab32f259",
     "image": "https://images.bild.de/6ac2a057796bf0adab32f259/1e55c3680a52f1c93a64e53828abb8a6,e81d7476?w=1280",
@@ -441,52 +447,44 @@
     "link": "https://www.bild.de/politik/russische-bedrohung-wir-haben-so-eine-warnung-des-bnd-chefs-noch-nicht-erlebt-6ac38e4cfde19fde7c1c5402",
     "image": "https://images.bild.de/6ac38e4cfde19fde7c1c5402/5c078fc34709324068513d385d2d157d,e33cc6b2?w=1280",
     "date": 0
-   },
-   {
-    "title": "Erinnerung an Mama Rosi Mittermaier - Felix Neureuther trägt rührendes Andenken",
-    "link": "https://www.bild.de/sport/felix-neureuther-ruehrendes-andenken-an-mama-rosi-mittermaier-6ac3c6d27ca0bfd8ca1554cf",
-    "image": "https://images.bild.de/6ac3c6d27ca0bfd8ca1554cf/478c47e7b5b18254b590b170dba5222d,21f0ed82?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "„Hat mich geprägt“ - Die bewegende Geschichte des Unterhaus-Knipsers",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FTEJ2dnZnMml2Qkk2bEd0X2hXRGIyNzJsT0dGMERQX1Zwdmo4cXdyNlJOM2dzd0FPcW1waVQzcDZoQQ?oc=5",
+    "image": "",
+    "date": 1791217800000
+   },
+   {
+    "title": "Mitmachen & gewinnen - Karten für die Afterparty der Topsportler gewinnen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DcE4wdlJoZl9lXzd5YURqSVUyUlRwaHdMQlJ5aDBsME42M05jTTFVQmttSE9zMDB0MElhdTAtbjhfUQ?oc=5",
+    "image": "",
+    "date": 1791217800000
+   },
+   {
+    "title": "Spiel der Runde - Beim Schlager-Abend sangen nur die Schwäne",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9lejVnTnUxQXVXOEszZzkwZnZQWUpGd1lZNGlOQzZxa1pCTXNxdzJBeXVuNHNHNUs0VDhlbUZMODRpZw?oc=5",
+    "image": "",
+    "date": 1791217800000
+   },
+   {
+    "title": "„Werden von Kalajdzic künftig sehr abhängig sein“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5YVjMzYUJEZ0JpWFBXbjBxdkVyMEtoQmx2cGU4RUt5c3A4bDkzcElySXAtMk0xZlFDNU5oREs1RmVhQQ?oc=5",
+    "image": "",
+    "date": 1791217800000
+   },
+   {
+    "title": "„Formel 1 verwandelte sich in eine Formel Farce“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96SndodWRYdlhLSDF5ODNfNGFrVGVVV0VnVG1wSXd5WXVWZG1UXy1qeXdfd01uVVNaWlY0N0V2S0phdw?oc=5",
+    "image": "",
+    "date": 1791217800000
+   },
    {
     "title": "Von Schaukel erfasst - Wiesn-Mitarbeiter nach Unfall außer Lebensgefahr",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pWDd1Rl81eVJ2aGxSTmpibkdxZHNWcFhYTExBNzR2NTVBY0ptNEFKRHFRNUI1ak9kUDBzbE9NVWQ1UQ?oc=5",
     "image": "",
     "date": 1791216780000
-   },
-   {
-    "title": "Teils sternenklar - Wolken ziehen nachts ab: Es wird trocken und kalt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NTFNJTmx5Z1Z6TkkzSERBeFBvdVlISi12OG93MzVqVHNVNUxENHBBcWcwVHQ0RFUyZHpacEg5ZGFsZw?oc=5",
-    "image": "",
-    "date": 1791216000000
-   },
-   {
-    "title": "Plötzlich verstorben - Kultwirt wird am 15. Oktober verabschiedet",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oOVpNcGhfOHBER2F6YUhuQUY2NWZJY1J4V3QxSkJFWVFncVRnNDZWbFhMWXRSOEVac2NjVEpuYUhHZw?oc=5",
-    "image": "",
-    "date": 1791216000000
-   },
-   {
-    "title": "„Sehe kein Problem, dass er einmal höher spielt!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QbGVQSXBKVDZfVk5td0xyY2lGMW8tN0JkSmFodHRZQS0xcEVnQ3ZaZHQ1bktHVF9paE9KeGcycjFwZw?oc=5",
-    "image": "",
-    "date": 1791216000000,
-    "titleSl": "\"Sehe kein Problem, dass er einmal höher spielt!\""
-   },
-   {
-    "title": "Sagenumwobener Fund - Klagenfurter „Lindwurm-Kopf“ auf großer Reise",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56UUNTNjZBMG9nTHAwUHR6YnhLY1ZiZnpESnRaUlFrVDB4cFJTNHhMcjVQQjhIVDdHM082YlJtMjdWdw?oc=5",
-    "image": "",
-    "date": 1791216000000,
-    "titleSl": "Sklad Sagenumwobener - Celovec „Lindwurm-Kopf“ auf großer Reise"
-   },
-   {
-    "title": "Nach Seuchenmonaten - Leidenszeit vorbei: Feller zurück auf der Piste",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrRjk1T2tBanRpNUlmQ1JOT2dqTWxfQ1pFWlMzazlaVWwyUnlxWXBtMFBRRmp1WTIwWXk4UEpwcXdjQQ?oc=5",
-    "image": "",
-    "date": 1791214680000
    }
   ],
   "rainews": [
@@ -578,19 +576,6 @@
     "titleSl": "Adelanto de las elecciones generales, en directo | El PSOE carga contra el PP y Vox por cuestionar el sistema electoral: \"Es seguro al 100%\""
    },
    {
-    "title": "Modric: “Lo peor del 7-0 no fue perder, sino la manera de perder; a nosotros nos duele más que a nadie”",
-    "link": "https://elpais.com/deportes/futbol/2026-10-05/modric-lo-peor-del-7-0-no-fue-perder-sino-la-manera-de-perder-a-nosotros-nos-duele-mas-que-a-nadie.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6HXGMGOS2FMF3GURGZQLING4GE.jpg?auth=d0c856b560f4e9f62770feee08ec4cdfa3d9d4494328cb9fba72910eebabe196",
-    "date": 1791217493000,
-    "titleSl": "Modrić: \"Lo peor del 7-0 no fue perder, sino la manera de perder; a nosotros nos duele más que a nadie\""
-   },
-   {
-    "title": "Qué se sabe de la alerta sanitaria por peste tras la muerte de una trabajadora de un laboratorio en Rusia",
-    "link": "https://elpais.com/sociedad/2026-10-05/que-se-sabe-de-la-alerta-sanitaria-por-peste-tras-la-muerte-de-una-trabajadora-de-un-laboratorio-en-rusia.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/75B5AOQYHZNDTGS4KVVWO3QVRI.jpg?auth=889e4aa16e3a23f35dd8a353c93056c2e2203cc2352705584ea584cefb7ffb72",
-    "date": 1791217253000
-   },
-   {
     "title": "“Cornell protege a los violadores”: rabia en la universidad tras conocerse la levedad de los castigos a los denunciados",
     "link": "https://elpais.com/us/2026-10-05/cornell-protege-a-los-violadores-rabia-en-la-universidad-tras-conocerse-la-levedad-de-los-castigos-a-los-supuestos-agresores.html",
     "image": "https://imagenes.elpais.com/resizer/v2/JLE4IXF36FJ7TBK6D4EADLYNLY.jpg?auth=8322086f5a386beb99ca003e28e864ca8b3f67d5245fe599184290e0c2660314",
@@ -609,6 +594,19 @@
     "image": "https://imagenes.elpais.com/resizer/v2/PCBOWNRJ6BGMDHJODX3SS2P6FI.jpeg?auth=1ae4dc91fe762be2a74a8a1519dd208fc2ce1720742e7b151d22d2a806523e07",
     "date": 1791215003000,
     "titleSl": "¿Puede la moda escapear de lo político? La pasarela de París se esfuerza por parecer nevtralno"
+   },
+   {
+    "title": "Jorge Jesus no le cierra la puerta de la selección portuguesa a Cristiano: “Puede volver cuando quiera, ¿por qué no?”",
+    "link": "https://elpais.com/deportes/futbol/2026-10-05/jorge-jesus-no-le-cierra-la-puerta-de-la-seleccion-portuguesa-a-cristiano-puede-volver-cuando-quiera-por-que-no.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SZJSJYDBOVPF7C5PSFXFGKDM6M.jpg?auth=de0a81022edc64e9a1024e03a7ea2eeb4574119c31bc467bf45bc860002abed7",
+    "date": 1791214797000,
+    "titleSl": "Jorge Jesus no le cierra la puerta de la selección portuguesa a Cristiano: \"Puede volver cuando quiera, ¿por qué no?\""
+   },
+   {
+    "title": "El misterio de un escalador sin cuerda atrapado de noche en una pared y rescatado por un dron en Canadá",
+    "link": "https://elpais.com/deportes/el-montanista/2026-10-05/el-misterio-de-un-escalador-sin-cuerda-atrapado-de-noche-en-una-pared-y-rescatado-por-un-dron.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/5CBDMMKZZFGY5MB6C7HPXUS7I4.webp?auth=331914437f79da28371809dc4c87dbbd5b97586e1c9fcab51d1238678ce0c1e4",
+    "date": 1791214140000
    }
   ]
  },
