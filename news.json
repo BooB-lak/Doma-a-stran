@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T11:32:31.664Z",
+ "generatedAt": "2026-10-06T11:34:35.826Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Protests Spread Across France, Growing From School Demonstrations",
+    "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
+    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-france-protests-pvbl/06int-france-protests-pvbl-mediumSquareAt3X.jpg",
+    "date": 1791286113000,
+    "titleSl": "Protesti, ki se širijo po vsej Franciji, rastejo iz šolskih demonstracij"
+   },
+   {
     "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
     "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
     "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-germany-afd-saxony-anhalt-plcg/06int-germany-afd-saxony-anhalt-plcg-mediumSquareAt3X.jpg",
@@ -218,13 +225,6 @@
     "image": "https://static01.nyt.com/images/2026/09/30/multimedia/06themorning-nl-catfood/06themorning-nl-catfood-mediumSquareAt3X.jpg",
     "date": 1791282130000,
     "titleSl": "Vaša izbirčna mačka"
-   },
-   {
-    "title": "Demonstrators Rally Across France as School Protests Escalate",
-    "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-france-protests-pvbl/06int-france-protests-pvbl-mediumSquareAt3X.jpg",
-    "date": 1791281127000,
-    "titleSl": "Protestniki se zbirajo po vsej Franciji, ko se stopnjujejo šolski protesti"
    },
    {
     "title": "Huge Protests Put France on Edge, and How Meta Exploited a Tax Credit to Save Billions",
@@ -331,25 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "OpenAI delivers a mea culpa to the Australian government in person – but answers still elude",
-    "link": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
-    "image": "https://i.guim.co.uk/img/media/91eb51240dd2fef8f7247eee102d4565f96a2e66/322_0_6368_5095/master/6368.jpg?width=140&quality=85&auto=format&fit=max&s=db9f7dfab7ec1af9c0849bb6c3bb0753",
-    "date": 1791285161000,
-    "titleSl": "OpenAI osebno dostavi mea culpa avstralski vladi – vendar se odgovori še vedno izogibajo"
-   },
-   {
-    "title": "Shadow minister says Tories would ‘keep political activism out of classrooms’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/af742617430920bbb20083a975d450f222072a22/453_0_4689_3752/master/4689.jpg?width=140&quality=85&auto=format&fit=max&s=7393664cf8fe263d587cdefeafa24a47",
-    "date": 1791284982000,
-    "titleSl": "Minister v senci pravi, da bi torijevci \"preprečili politični aktivizem v učilnicah\" – politika Združenega kraljestva v živo"
+    "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
+    "image": "https://i.guim.co.uk/img/media/27f383b3571069df4338742814515fc7f3926d79/535_0_4174_3341/master/4174.jpg?width=140&quality=85&auto=format&fit=max&s=5aba6ba367377c1f491c482f7124d63e",
+    "date": 1791285891000,
+    "titleSl": "Avstralija se sooča s poletjem ekstremnih vremenskih razmer, opozarja Anthony Albanese na pre-Cop"
    },
    {
     "title": "Trump says he will stop using taxpayer funds for self-promoting ads after backlash – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/bd8ffc52140f759213f7c2e10ebb7fa883b8ac10/434_0_2380_1906/master/2380.jpg?width=140&quality=85&auto=format&fit=max&s=8aa70f0f6aa98ed2b35c32b94ad2d670",
-    "date": 1791284482000,
+    "date": 1791285558000,
     "titleSl": "Trump pravi, da bo po odzivu prenehal uporabljati davkoplačevalska sredstva za samopromocijske oglase – ameriška politika v živo"
+   },
+   {
+    "title": "Shadow minister says Tories would ‘keep political activism out of classrooms’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/af742617430920bbb20083a975d450f222072a22/453_0_4689_3752/master/4689.jpg?width=140&quality=85&auto=format&fit=max&s=7393664cf8fe263d587cdefeafa24a47",
+    "date": 1791285472000,
+    "titleSl": "Minister v senci pravi, da bi torijevci \"preprečili politični aktivizem v učilnicah\" – politika Združenega kraljestva v živo"
+   },
+   {
+    "title": "OpenAI delivers a mea culpa to the Australian government in person – but answers still elude",
+    "link": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
+    "image": "https://i.guim.co.uk/img/media/91eb51240dd2fef8f7247eee102d4565f96a2e66/322_0_6368_5095/master/6368.jpg?width=140&quality=85&auto=format&fit=max&s=db9f7dfab7ec1af9c0849bb6c3bb0753",
+    "date": 1791285161000,
+    "titleSl": "OpenAI osebno dostavi mea culpa avstralski vladi – vendar se odgovori še vedno izogibajo"
    },
    {
     "title": "Misuse of AI is brands’ top reputational threat, new survey says",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/3fcc4b37fc77301a8665e7d6758e057c63c163d7/605_0_4868_3894/master/4868.jpg?width=140&quality=85&auto=format&fit=max&s=87e4e4325e5307724f18268d32689ad6",
     "date": 1791284435000,
     "titleSl": "Demokrati so optimistični, saj nepriljubljeni Trump ogroža republikanske vmesne upe"
-   },
-   {
-    "title": "Richard Morecroft, veteran ABC news presenter, dies age 70 after cancer diagnosis",
-    "link": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
-    "image": "https://i.guim.co.uk/img/media/b11af72e58b65f33bc7b9a66191d159cf571ef2a/24_0_2008_1606/master/2008.jpg?width=140&quality=85&auto=format&fit=max&s=9ff6a26e603e57159e42f696fb6f3d94",
-    "date": 1791283488000,
-    "titleSl": "Richard Morecroft, veteran ABC News Presenter, umre v starosti 70 let po diagnozi raka"
    }
   ],
   "spiegel": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Wichtige Rückkehr im Training - Gute Neuigkeiten von diesem Mainz-Star",
+    "link": "https://www.bild.de/sport/fussball/mainz-05-gute-neuigkeiten-von-diesem-star-6ac4d6f873cfe42b5b025bd4",
+    "image": "https://images.bild.de/6ac4d6f873cfe42b5b025bd4/a20007b20d764a2d1bbc19238636bbc4,1fc6d6c9?w=1280",
+    "date": 0
+   },
+   {
     "title": "Festnahme von Ex-BND-Präsident Hanning - Hier wird der Büroleiter dem Haftrichter vorgeführt",
     "link": "https://www.bild.de/news/inland/festnahme-von-ex-bnd-praesident-hanning-hier-wird-bueroleiter-dem-haftrichter-vorgefuehrt-6ac4d26173cfe42b5b025afe",
     "image": "https://images.bild.de/6ac4d26173cfe42b5b025afe/46e03d0ddbef553290eb1bf22ddfb379,e549a19a?w=1280",
@@ -443,21 +449,33 @@
     "link": "https://www.bild.de/politik/spionageverdacht-ex-bnd-chef-hanning-festgenommen-6ac4a8b3321809b09dd076c8",
     "image": "https://images.bild.de/6ac4a8b3321809b09dd076c8/1d35d1b52d7db5047a89df955d02243c,a0756c2c?w=1280",
     "date": 0
-   },
-   {
-    "title": "BILD bei der Hanning-Durchsuchung - „Ermittler fanden Datenträger in seinem Trophäenzimmer“",
-    "link": "https://www.bild.de/politik/inland/bild-bei-der-hanning-durchsuchung-ermittler-fanden-datentraeger-in-seinem-trophaeenzimmer-6ac4cb1b6a0860be6e208034",
-    "image": "https://images.bild.de/6ac4cb1b6a0860be6e208034/a0dd2739645c8a269beffe3c319f9c69,7cacae8?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Heißer Olympia-Kampf - Sieben Länder bewerben sich um Sommerspiele 2036",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wMmUtQnVlQTJSVjJCNk5QWnJ0WWh6Q19SdVB5MEhYUl9KbnAyWkYxX214bHd0R043ZmVWQy1aTWZtdw?oc=5",
+    "image": "",
+    "date": 1791286380000
+   },
+   {
+    "title": "Messis Abschiedsspiel ++ Kein Slalom für Schwarz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1UcWFIMV9yaVJHVmcwS1JiaENCNEVjS1dWWF9UTWpKcnptZG9IWFV4N3VvQ0dVanZHMmRmZ2FWY3dlUQ?oc=5",
+    "image": "",
+    "date": 1791286320000
+   },
    {
     "title": "3. Liga West: - Nächster Sieg – Hohenems weiter Top of the League!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wNXlnZUFNN19LajQ4cmhIQUVUS0NvR0FydzUwSWxPTWl2Y2d6OU1PWmxIUlhyVWYwdHdGREdYMnNZUQ?oc=5",
     "image": "",
     "date": 1791286270000,
     "titleSl": "3. Liga West: - Nächster Sieg – Hohenems weiter Vrh lige!"
+   },
+   {
+    "title": "Suche nach Mann - Schock in Wien: Frau (85) auf Heimweg vergewaltigt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ncGFIZUx5dHNIUTdsckprMk5RTEw5V3FmMFBSQ00wd0lNZ1VPLWFVYmQ4aDVJcVppMUFVVy1vSHY1Zw?oc=5",
+    "image": "",
+    "date": 1791286200000
    },
    {
     "title": "Nach Neuregelung - Leih-Scooter: Explosion bei Strafverfahren in Wien",
@@ -467,28 +485,10 @@
     "titleSl": "Nach Neuregelung - Leih-Scooter: Explosion bei Strafverfahren na Dunaju"
    },
    {
-    "title": "Suche nach Mann - Schock in Wien: Frau (85) auf Heimweg vergewaltigt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ncGFIZUx5dHNIUTdsckprMk5RTEw5V3FmMFBSQ00wd0lNZ1VPLWFVYmQ4aDVJcVppMUFVVy1vSHY1Zw?oc=5",
-    "image": "",
-    "date": 1791286200000
-   },
-   {
     "title": "„Riesenerfolg“: Babler feiert sich & SPÖ in Video",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90R1BJaEY3MTB6OTJSdzQ2RkFvOXF1WmV2UUVFTk9LbTU5ZXhYLVMwZnlGSEhfbDAyWF92V3dsTmo0QQ?oc=5",
     "image": "",
     "date": 1791286020000
-   },
-   {
-    "title": "„Hallo liebe Hater“ - Neue Doku: „Katze“ klärt Gerüchte um Staffelstart",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0QmFfM09qMWRISWduZ1NOdGczMm5HUEwyVTFjem40MFRBR1BKOFNMNEJXVUpURmYzaFVWZkVsOEdfdw?oc=5",
-    "image": "",
-    "date": 1791285960000
-   },
-   {
-    "title": "Vorfall vor Weihnacht - Russisches Schläger-Duo konnte ausgeforscht werden",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GOFd5WnNERmRydldueDFvY3UxbVFLTk1aMHRrZ2pMSHVQR1I3WGVNQl9pUzIzRVk1dnI4Z3k4VDJUdw?oc=5",
-    "image": "",
-    "date": 1791285540000
    }
   ],
   "rainews": [
@@ -576,16 +576,16 @@
   ],
   "elpais": [
    {
+    "title": "El PP pide la imputación del PSOE a la Audiencia Nacional en el primer día de precampaña",
+    "link": "https://elpais.com/espana/2026-10-06/el-pp-pide-la-imputacion-del-psoe-a-la-audiencia-nacional-en-el-primer-dia-de-precampana.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SX5UMRVPZROWDHF6KYRZD6PEXY.jpg?auth=0b5cde5c6ee2e2d4d93c132c365fec3c68b9d2f8978c442e37ac9036f25e0239",
+    "date": 1791286332000
+   },
+   {
     "title": "Elecciones generales del 29-N, en directo | El Gobierno aprueba nuevos decretos de vivienda para facilitar el acceso al alquiler asequible, evitar subidas y crear más oferta",
     "link": "https://elpais.com/espana/2026-10-06/elecciones-generales-del-29-n-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/POFSLR343NF7DAVUZ7SWNWFPZA.jpg?auth=eff04c773dd466f142a0811f5342c917f2cebc9c0eca17d9a5ab596c6dd94d44",
     "date": 1791286167000
-   },
-   {
-    "title": "El PP pide la imputación del PSOE a la Audiencia Nacional en el primer día de precampaña",
-    "link": "https://elpais.com/espana/2026-10-06/el-pp-pide-la-imputacion-del-psoe-a-la-audiencia-nacional-en-el-primer-dia-de-precampana.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/SX5UMRVPZROWDHF6KYRZD6PEXY.jpg?auth=0b5cde5c6ee2e2d4d93c132c365fec3c68b9d2f8978c442e37ac9036f25e0239",
-    "date": 1791285970000
    },
    {
     "title": "Hallado el cadáver de un hombre con un cuchillo clavado en el pecho en una calle de la localidad murciana de Lorca",
