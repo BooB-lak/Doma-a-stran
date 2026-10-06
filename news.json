@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T07:30:57.396Z",
+ "generatedAt": "2026-10-06T07:32:28.260Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,18 @@
   ],
   "rtvslo": [
    {
+    "title": "Po Elizejskih poljanah paradirali jazbečarji",
+    "link": "https://www.rtvslo.si/zabava-in-slog/zanimivosti/po-elizejskih-poljanah-paradirali-jazbecarji/795920",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/06/67110067.jpg",
+    "date": 1791271886000
+   },
+   {
+    "title": "Matjaž Zwitter: Drevesa se spominjajo",
+    "link": "https://www.rtvslo.si/kultura/beremo/matjaz-zwitter-drevesa-se-spominjajo/795928",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/06/67110073.jpg",
+    "date": 1791271251000
+   },
+   {
     "title": "Ob 15.30 ekipne mešane štafete, v sredo Roglič starta ob 16.54",
     "link": "https://www.rtvslo.si/sport/kolesarstvo/svetovno-prvenstvo-v-kolesarstvu/ob-15-30-ekipne-mesane-stafete-v-sredo-roglic-starta-ob-16-54/795922",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/06/67110063.jpg",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/escp-bo-objavil-odlocitev-glede-pritozbe-hrvaskih-ribicev-zaradi-glob-v-piranskem-zalivu/795921",
     "image": "https://img.rtvcdn.si/_up/upload/2019/01/31/65561210.jpg",
     "date": 1791268855000
-   },
-   {
-    "title": "Na Kosovu izbruhnili protesti zaradi nesprejetega zakona o sodišču za vojne zločine",
-    "link": "https://www.rtvslo.si/svet/evropa/na-kosovu-izbruhnili-protesti-zaradi-nesprejetega-zakona-o-sodiscu-za-vojne-zlocine/795919",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/06/67109978.jpg",
-    "date": 1791268382000
-   },
-   {
-    "title": "Vesoljski viski: žgano pijačo bodo prvič starali v vesolju",
-    "link": "https://www.rtvslo.si/zabava-in-slog/kulinarika/vesoljski-viski-zgano-pijaco-bodo-prvic-starali-v-vesolju/795913",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/06/67109977.jpg",
-    "date": 1791267819000
    }
   ],
   "zurnal": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791270634.jpg?resize=1920%2C1080&quality=80",
-    "date": 1791270720000,
-    "titleSl": "Trump se šali, da bo Iran bombardiral Los Angeles in San Diego"
-   },
-   {
-    "title": "Gauff in racial abuse controversy at China Open after replayed point",
-    "link": "https://www.aljazeera.com/sports/2026/10/6/gauff-in-racial-abuse-controversy-at-china-open-after-replayed-point?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac48d40-1791266112.jpg?resize=1920%2C1440",
-    "date": 1791270637000,
-    "titleSl": "Gauff v polemiki glede rasnih zlorab na China Openu po ponovnem igranju točke"
-   },
-   {
     "title": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
     "link": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26028267291630-1791246790_c99e6e-1791246925.jpg?resize=1200%2C630&quality=80",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A9562-copy-1791022748.jpg?resize=1920%2C1440",
     "date": 1791265479000,
     "titleSl": "Dvakrat ovdovela: zgodba matere iz Gaze o izgubi in preživetju"
+   },
+   {
+    "title": "Erling Haaland faces injury scare ahead of Man City vs Liverpool",
+    "link": "https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac366f623-1791190774.jpg?resize=1200%2C675",
+    "date": 1791265132000,
+    "titleSl": "Erling Haaland se sooča s strahom pred poškodbami pred tekmo Man City proti Liverpoolu"
+   },
+   {
+    "title": "Violent clashes erupt after mass housing protest in Barcelona",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-barcelona-protests-clip-mp4?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791261150.jpg?resize=1626%2C1080&quality=80",
+    "date": 1791261291000,
+    "titleSl": "Nasilni spopadi izbruhnili po množičnih protestih v Barceloni"
    }
   ],
   "guardian": [
@@ -334,8 +334,15 @@
     "title": "Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
     "image": "https://i.guim.co.uk/img/media/5f10a1cad8475b02feb1c150160169d546fbd63e/1290_0_6498_5198/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=3bf9480787dc390a138ae34d1ee40605",
-    "date": 1791270786000,
+    "date": 1791271627000,
     "titleSl": "Badenoch trdi, da Toryjevega načrta zračne obrambe \"nismo imenovali železna kupola\" - kljub besedam v sporočilu za javnost - britanska politika v živo"
+   },
+   {
+    "title": "Taylor’s hardline immigration plan drags Australian politics further to the right – and it’s all upside for One Nation",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/06/taylors-hardline-immigration-plan-drags-australian-politics-further-to-the-right-and-its-all-upside-for-one-nation-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/2bb1869a4cadba38420b8256a35cb46c78101997/766_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=d44ec1bb98b18781da143a1c9233769b",
+    "date": 1791271608000,
+    "titleSl": "Taylorjev trdi načrt priseljevanja vleče avstralsko politiko še bolj v desno – in za One Nation je vse v redu"
    },
    {
     "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on October 7 anniversary eve",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/65cdd02cfb427992188b065c406aabf68c35b0da/0_346_2196_1758/master/2196.jpg?width=140&quality=85&auto=format&fit=max&s=8e2479347dc1a657d164654d16a18b8a",
     "date": 1791269363000,
     "titleSl": "Avstralski vojak ubit in pet ranjenih na vaji na Severnem ozemlju"
-   },
-   {
-    "title": "Buckingham Palace says it will not fund Andrew’s legal action against police",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/06/buckingham-palace-andrew-mountbatten-windsor-legal-action-police",
-    "image": "https://i.guim.co.uk/img/media/fb620b92234cda09d14da5f024f0bad4f7f7f877/32_0_1400_1120/master/1400.jpg?width=140&quality=85&auto=format&fit=max&s=ce011cba6c07fa2c575c510bc5d722ad",
-    "date": 1791269052000,
-    "titleSl": "Buckinghamska palača pravi, da ne bo financirala Andrewovega pravnega postopka proti policiji"
    }
   ],
   "spiegel": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Bis zu 200 Euro teurer - Samsung erhöht die Smartphone-Preise",
+    "link": "https://www.bild.de/leben-wissen/digital/samsung-galaxy-s26-preissprung-macht-handys-bis-zu-200-euro-teurer-6ac36ef6b0ca83ad0a1d99ec",
+    "image": "https://images.bild.de/6ac36ef6b0ca83ad0a1d99ec/3e35f648d3609e41f33678abd9d74616,3d158f79?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Beim Sieg in Rumänien - Bolin-Comeback mit Ibrahimovic-Nummer",
+    "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-hugo-bolin-feiert-schweden-comeback-6ac489967ca0bfd8ca1559bd",
+    "image": "https://images.bild.de/6ac489967ca0bfd8ca1559bd/18fcced51e5d499f117c7d8268abfac9,f020185?w=1280",
+    "date": 0
+   },
+   {
     "title": "Selbst 2 Siege reichen nicht - So werden wir doch noch Gruppenerster",
     "link": "https://www.bild.de/sport/fussball/dfb-in-der-nations-league-so-werden-wir-doch-noch-gruppenerster-6ac34d2795c283447e8627f7",
     "image": "https://images.bild.de/6ac34d2795c283447e8627f7/b10d7b0dd65b204fcd07beb04f42a3f1,104a0da8?w=1280",
@@ -438,21 +450,15 @@
     "image": "https://images.bild.de/6ac357a1b0ca83ad0a1d97c7/4312513fbbe007346dce84a0eb7c4d3f,ec77efaf?w=1280",
     "date": 0,
     "titleSl": "Wochenvorschau vom 3. oktober 2026 - So geht es bei „Sturm der Liebe“ weiter"
-   },
-   {
-    "title": "Nach Spanien-Reise - DFB-Talent trifft Zukunfts-Entscheidung",
-    "link": "https://www.bild.de/sport/fussball/nach-spanien-reise-dfb-talent-trifft-zukunfts-entscheidung-6ac3aec55a0c502f2029837a",
-    "image": "https://images.bild.de/6ac3aec55a0c502f2029837a/9cd11841a836a877bf1ca2e784a17d90,69227071?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Disqualifikation gegen Djokovic - Tennis-Star Medvedev äußert sich zum Fan-Eklat",
-    "link": "https://www.bild.de/sport/mehr-sport/tennis-star-medvedev-spricht-ueber-eklat-um-fan-6ac486fa7ca0bfd8ca15599a",
-    "image": "https://images.bild.de/6ac486fa7ca0bfd8ca15599a/960c9775d0d1b6e44621ec5c621c76f0,717f8796?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Vorhaben verschoben - Wirrer SPÖ-Krisenplan lähmt Republik monatelang",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55TzhFUjJPM2l1SGJHaXpSVVdHZHZlSDd1VGdJYlNBaVBpdEppQlplSGZ1SFZkMUVlTWtSNnoyMnJtQQ?oc=5",
+    "image": "",
+    "date": 1791271868000
+   },
    {
     "title": "Besseres Lagebild - Rheinmetall startet Satelliten-Serienproduktion",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fbjZHZl9UX2xwWGtNVkVSakd1TldmbnBvdVlPaDNra3FaMFZvdElzUHlSMTNBcU1FQmNfX0tfZGhnUQ?oc=5",
@@ -484,12 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZN0x3NXVBdGhwcUV0LUd6UEIxRGx1RnVKZ0w1RlRQeWUzVHRRRkJvQWdVd2UyT1gwVF9VczdlejJHUQ?oc=5",
     "image": "",
     "date": 1791270900000
-   },
-   {
-    "title": "160°, 50 Überschläge - Warum steckt man ein Auto in eine Popcornmaschine?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BVmVDMXJ0TFFuSVAxWlgwS0lrUXUydWtWcC1QMW1ocVctU1R0QUtyUjJyY2JfQU0zUXZGU21IRkNPZw?oc=5",
-    "image": "",
-    "date": 1791270780000
    }
   ],
   "rainews": [
@@ -564,11 +564,11 @@
     "date": 1791262808000
    },
    {
-    "title": "Orages, pluie et inondations : le Gard et l’Hérault seront en vigilance orange mardi à partir de 22 heures",
-    "link": "https://www.lemonde.fr/planete/article/2026/10/06/orages-pluie-et-inondations-le-gard-et-l-herault-seront-en-vigilance-orange-mardi-soir_6788902_3244.html",
-    "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/1de69bf_upload-1-yj2nqx8xrdsm-modei-le-1.jpg",
-    "date": 1791262024000,
-    "titleSl": "Orages, pluie et inondations : le Gard et l 'Hérault seront en vigilance orange mardi à partir de 22 heures"
+    "title": "L’administration appelée à ne pas foncer tête baissée dans l’IA : « Le précédent de la dématérialisation invite à la prudence »",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/06/l-histoire-de-la-dematerialisation-invite-a-la-prudence-l-administration-publique-appelee-a-ne-pas-foncer-tete-baissee-dans-l-ia_6788935_823448.html",
+    "image": "https://img.lemde.fr/2026/01/27/250/0/3000/1500/644/322/60/0/a3f6e71_upload-1-zv0bawsmfrm9-fond-3.jpg",
+    "date": 1791262507000,
+    "titleSl": "L'administration appelée à ne pas foncer tête baissée dans l' IA : « Le précédent de la dématérialization invite à la prudence »"
    }
   ],
   "elpais": [
