@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T10:08:30.436Z",
+ "generatedAt": "2026-10-06T10:10:44.998Z",
  "sources": {
   "siol": [
    {
@@ -243,11 +243,11 @@
   ],
   "bbc": [
    {
-    "title": "ASOS app users receive notifications from hackers in apparent breach",
+    "title": "ASOS app users receive push notifications apparently sent by hackers",
     "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg",
     "date": 1791280182000,
-    "titleSl": "Uporabniki aplikacije ASOS prejmejo obvestila od hekerjev v očitni kršitvi"
+    "titleSl": "Uporabniki aplikacije ASOS prejmejo potisna obvestila, ki jih očitno pošiljajo hekerji"
    },
    {
     "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Kenya ministry of health confirms first imported Ebola case",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791280275.jpg?resize=1920%2C1080&quality=80",
+    "date": 1791280304000,
+    "titleSl": "Kenijsko ministrstvo za zdravje potrdilo prvi uvoženi primer ebole"
+   },
+   {
+    "title": "India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility",
+    "link": "https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac4c151bc-1791279441.jpg?resize=1920%2C1440",
+    "date": 1791279543000,
+    "titleSl": "\"Milijon uporov\" Indije prebija Modijevo avro nepremagljivosti"
+   },
+   {
     "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
     "link": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-12-04T114500Z_1482087616_RC2J9IA5Q6GP_RTRMADP_3_MIGRATION-GREECE-COURT-1791273701.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac49939-1791269177.jpg?resize=1920%2C1440",
     "date": 1791276438000,
     "titleSl": "Malezijski voditelj Anwar bo gostil vodjo Mjanmara kot repatriacijo blizu 10.000"
-   },
-   {
-    "title": "Gaza woman rescues books from rubble to keep education alive",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791275962.jpg?resize=1617%2C1080&quality=80",
-    "date": 1791276187000,
-    "titleSl": "Ženska iz Gaze rešuje knjige iz ruševin, da bi ohranila izobraževanje"
-   },
-   {
-    "title": "How hunger is devastating Yemen’s children",
-    "link": "https://www.aljazeera.com/news/2026/10/6/malnutrition-among-yemens-children?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab48fa497eba-1790218148.jpg?resize=1920%2C1440",
-    "date": 1791276130000,
-    "titleSl": "Kako lakota uničuje otroke v Jemnu"
    }
   ],
   "guardian": [
@@ -415,6 +415,12 @@
   ],
   "bild": [
    {
+    "title": "Spionageverdacht - Hier wird Ex-BND-Chef Hanning verhaftet!",
+    "link": "https://www.bild.de/politik/spionageverdacht-ex-bnd-chef-hanning-festgenommen-6ac4a8b3321809b09dd076c8",
+    "image": "https://images.bild.de/6ac4a8b3321809b09dd076c8/1d35d1b52d7db5047a89df955d02243c,a0756c2c?w=1280",
+    "date": 0
+   },
+   {
     "title": "Ex-BND-Chef August Hanning festgenommen - Er kannte Deutschlands größte Geheimnisse",
     "link": "https://www.bild.de/politik/inland/august-hanning-wie-der-ex-bnd-chef-vor-moskaus-schroeder-plan-warnte-6ac4b676321809b09dd078e4",
     "image": "https://images.bild.de/6ac4b676321809b09dd078e4/45a225105b96530b34769f43fd2be49a,ad797f52?w=1280",
@@ -442,12 +448,6 @@
     "title": "Gastgeschenk von Kretschmer - Dienstwagen fährt Christstollen bis zum Papst",
     "link": "https://www.bild.de/politik/inland/sachsen-kretschmer-fliegt-zum-papst-dienstwagen-faehrt-christstollen-bis-nach-rom-6ac4a0cb7ca0bfd8ca155cad",
     "image": "https://images.bild.de/6ac4a0cb7ca0bfd8ca155cad/656fcaeb11506848355017397ab61ab3,7e02b2b2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Persönliche No-Go-Liste - Als Orthopäde warne ich vor diesen 3 Übungen im Gym",
-    "link": "https://www.bild.de/leben-wissen/medizin/ich-bin-orthopaede-und-warne-vor-diesen-3-fitnessuebungen-6a97f8ab3ae913be367b66a2",
-    "image": "https://images.bild.de/6a97f8ab3ae913be367b66a2/22d6714b70740a70911ded398475ce7e,c45d5288?w=1280",
     "date": 0
    }
   ],
@@ -495,6 +495,12 @@
   ],
   "rainews": [
    {
+    "title": "DIRETTA - Legge elettorale, alla Camera il governo pone la fiducia sui primi 3 articoli",
+    "link": "https://www.rainews.it/maratona/2026/10/legge-elettorale-governo-pone-fiducia-sui-primi-3-articoli-giovedi-voto-finale-a-scrutinio-segreto-d02672c6-dee8-4d7a-8a73-13497b30c629.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/01/1790854460455_rainewsfeeabfacfccbadf.jpg",
+    "date": 1791281400000
+   },
+   {
     "title": "Eni, il price cap resta ma il prezzo del gasolio alla pompa aumenta senza il taglio delle accise",
     "link": "https://www.rainews.it/articoli/2026/10/eni-il-price-cap-resta-ma-il-prezzo-del-gasolio-alla-pompa-aumenta-senza-il-taglio-delle-accise-b840950c-ec7a-403c-ba74-827d81614023.html",
     "image": "https://www.rainews.it/dl/img/2026/9/28/1790589361703_large.jpg",
@@ -526,13 +532,6 @@
     "image": "https://www.rainews.it/dl/img/2021/03/19/1616174617825_2048x1152.jpg",
     "date": 1791278090000,
     "titleSl": "TG2 Italia Europa del 06.10.2026"
-   },
-   {
-    "title": "Germania, arrestato per sospetto spionaggio l&#x27;ex capo dell&#x27;intelligence",
-    "link": "https://www.rainews.it/articoli/2026/10/germania-arrestato-per-sospetto-spionaggio-ex-capo-intelligence-bnd-august-hanning--0cf27827-ff7d-4d8b-876e-5ccc715d5283.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/06/1791276442194_rainewseeddbdebefabdeecfbf.jpg",
-    "date": 1791276300000,
-    "titleSl": "Germania, arrestato per sospetto spionaggio l 'ex capo dell'intelligence"
    }
   ],
   "lemonde": [
