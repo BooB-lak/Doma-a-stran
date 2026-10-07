@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T15:01:12.409Z",
+ "generatedAt": "2026-10-07T15:04:29.015Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,16 @@
   ],
   "24ur": [
    {
-    "title": "EP v kronometru: Roglič že na stezi, lovi zgodovinsko medaljo",
+    "title": "EP v kronometru: Roglič lovi medaljo, že na Možjanci",
     "link": "https://www.24ur.com/sport/kolesarstvo/zadnji-dan-kolesarskega-ep-ponuja-voznjo-na-cas.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/a4ebefb124072ad17cd2_63655163.jpg?v=45c1&fop=fp:0.48:0.30",
-    "date": 1791384994000
+    "date": 1791385296000
+   },
+   {
+    "title": "Janša za krepitev nadzora na zunanjih mejah EU",
+    "link": "https://www.24ur.com/novice/tujina/jansa-za-krepitev-nadzora-na-zunanjih-mejah-eu.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/f88cc09d82a75076186c_63659947.jpg?v=b8e1&fop=fp:0.55:0.25",
+    "date": 1791384774000
    },
    {
     "title": "Bo po 23 letih padel zakon, ki je omejil prodajo alkohola?",
@@ -69,18 +75,12 @@
     "link": "https://www.24ur.com/novice/tujina/odsli-od-mize-in-mu-pustili-38000-evrov-velik-racun.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/cd8dd5ce80883781755f_63648908.jpg?v=66e9&fop=fp:0.49:0.39",
     "date": 1791383077000
-   },
-   {
-    "title": "Ronaldo ukazal selektorju, naj ga primerja s Pelejem in Maradono",
-    "link": "https://www.24ur.com/sport/nogomet/ronaldo-ukazal-selektorju-naj-ga-primerja-s-pelejem-in-maradono.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/84278b551a04a163d991_63656341.jpg?v=77a3&fop=fp:0.45:0.34",
-    "date": 1791382668000
    }
   ],
   "rtvslo": [
    {
-    "title": "Rusija trdi, da ni nevarnosti epidemije kuge. Washington in WHO zahtevala dodatne informacije.",
-    "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/rusija-trdi-da-ni-nevarnosti-epidemije-kuge-washington-in-who-zahtevala-dodatne-informacije/796142",
+    "title": "Rusija trdi, da ni nevarnosti epidemije. Washington in WHO zahtevala dodatne informacije.",
+    "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/rusija-trdi-da-ni-nevarnosti-epidemije-washington-in-who-zahtevala-dodatne-informacije/796142",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/07/67110624.jpg",
     "date": 1791383480000
    },
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Kar je Luka naredil za nekdanjega soigralca, odmeva po svetu",
+    "link": "https://www.zurnal24.si/sport/kosarka/kar-je-luka-naredil-za-nekdanjega-soigralca-odmeva-po-svetu-466339",
+    "image": "https://www.zurnal24.si/media/img/f6/af/e9cce457ad303ef4e58a.jpeg",
+    "date": 1791385320000
+   },
+   {
     "title": "Mestna občina postavlja nove radarje, lokacije že znane",
     "link": "https://www.zurnal24.si/avto/mestna-obcina-postavlja-nove-radarje-lokacije-ze-znane-466338",
     "image": "https://www.zurnal24.si/media/img/16/32/504a9f917cdce22723e6.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/avto/renault-bo-predstavil-konkurenta-id-buzzu-466285",
     "image": "https://www.zurnal24.si/media/img/c2/df/063b0bae90cb881a013c.jpeg",
     "date": 1791378860000
-   },
-   {
-    "title": "Narodni park ogorčen nad nespoštljivi turisti",
-    "link": "https://www.zurnal24.si/popotnik/narodni-park-ogorcen-nad-nespostljivi-turisti-466332",
-    "image": "https://www.zurnal24.si/media/img/b2/55/131c409d356a7fccbd57.png",
-    "date": 1791378420000
    }
   ],
   "reuters": [
@@ -331,6 +331,27 @@
   ],
   "guardian": [
    {
+    "title": "Trump administration sued over plans to send election monitors to voting sites",
+    "link": "https://www.theguardian.com/us-news/2026/oct/07/trump-doj-election-monitor-lawsuit",
+    "image": "https://i.guim.co.uk/img/media/140eb93d9388ca3e3488d6e29f1b499cd781aa04/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3e7cfbcfbf3cfa192d9f0871288ce5ac",
+    "date": 1791384485000,
+    "titleSl": "Trumpova administracija je tožila zaradi načrtov za pošiljanje opazovalcev volitev na volišča"
+   },
+   {
+    "title": "Satellite images show attack jets at Chinese military facility in Laos",
+    "link": "https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos",
+    "image": "https://i.guim.co.uk/img/media/a76c4745b0d4e7e60ac9cc1709a94f3e284c6766/820_367_5899_4721/master/5899.jpg?width=140&quality=85&auto=format&fit=max&s=843def97e6403c32ac2c6522b009776f",
+    "date": 1791384361000,
+    "titleSl": "Satelitski posnetki prikazujejo napadalne curke v kitajskem vojaškem objektu v Laosu"
+   },
+   {
+    "title": "Could the UK really rejoin the EU?",
+    "link": "https://www.theguardian.com/world/2026/oct/07/could-the-uk-really-rejoin-the-eu",
+    "image": "https://i.guim.co.uk/img/media/f0754c2122e7e6a57944501b6f44159ec8848b79/356_0_3179_2544/master/3179.jpg?width=140&quality=85&auto=format&fit=max&s=008026fe4d9db0b10aa6520b8234684c",
+    "date": 1791384352000,
+    "titleSl": "Bi se Združeno kraljestvo res lahko ponovno pridružilo EU?"
+   },
+   {
     "title": "BBC boss faces barrage of staff criticism over job cuts in junior ranks",
     "link": "https://www.theguardian.com/media/2026/oct/07/bbc-boss-matt-brittin-criticism-job-cuts-junior-staff",
     "image": "https://i.guim.co.uk/img/media/4e2669191cd94a65417450c9d883c006810f7041/2728_1122_2077_1663/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=2167de5b8689caaa274a92d700ce9149",
@@ -350,27 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/d911245dcc8762089466de8de0e592ac407ff5cc/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=2ef011ffacbca6378c13d9e7f5584dbd",
     "date": 1791383464000,
     "titleSl": "Mumsnet zavrača uporabo umetne inteligence za vsebino, potem ko se na oglasni deski pojavi poziv"
-   },
-   {
-    "title": "Couples would be able to leave £1m and family home exempt from inheritance tax under Tories, says Badenoch – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/5a741df7b369cd90a72b556504efec28c3afb805/226_646_4227_3382/master/4227.jpg?width=140&quality=85&auto=format&fit=max&s=9ef2cac8cc4c4c49df18bf69923e6eae",
-    "date": 1791383420000,
-    "titleSl": "Pari bi lahko zapustili 1 milijon £, družinski dom pa bi bil oproščen davka na dediščino v skladu s torijevci, pravi Badenoch - politika Združenega kraljestva v živo"
-   },
-   {
-    "title": "Trump-backed Ken Paxton reportedly blames Iran war and high gas prices for midterms struggles as president heads to Texas – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/9b27012be4270a808ef60214b10b9ff06d239b37/152_0_1523_1218/master/1523.jpg?width=140&quality=85&auto=format&fit=max&s=d0983cce653296ed2bb346eb2710abd3",
-    "date": 1791383217000,
-    "titleSl": "Ken Paxton, ki ga podpira Trump, domnevno krivi iransko vojno in visoke cene plina za vmesne borbe, medtem ko se predsednik odpravlja v Teksas – v živo"
-   },
-   {
-    "title": "Tories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan",
-    "link": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
-    "image": "https://i.guim.co.uk/img/media/c1a0ba2723d5078875c535b41fc3f8b37c1673d9/170_0_4687_3749/master/4687.jpg?width=140&quality=85&auto=format&fit=max&s=e395d4515f4cd26efe0907968f7e4ae7",
-    "date": 1791382762000,
-    "titleSl": "Torijevci so obtoženi, da dajejo prednost bogatim volivcem, saj Badenoch določa načrt za znižanje davka na dediščino"
    }
   ],
   "spiegel": [
@@ -415,6 +415,25 @@
   ],
   "bild": [
    {
+    "title": "Strom aus in Westerland! - Sylt 15 Stunden ohne Licht und Kühlschrank",
+    "link": "https://www.bild.de/regional/schleswig-holstein/keine-dusche-kein-kuehlschrank-sylt-sitzt-nach-kurzschluss-im-dunkeln-6ac61b85f69f0a623981f696",
+    "image": "https://images.bild.de/6ac61b85f69f0a623981f696/736e0d850b7768c61c7ac347ce735ee6,77ac820b?w=1280",
+    "date": 0,
+    "titleSl": "Strom aus v Westerlandu! - Sylt 15 Stunden ohne Licht und Kühlschrank"
+   },
+   {
+    "title": "Hinter grauen Geheimvorhängen - Wichtiger Besuch für Bayern-Supertalent!",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-wichtiger-besuch-fuer-supertalent-des-rekordmeisters-6ac63b9e6a0860be6e209737",
+    "image": "https://images.bild.de/6ac63b9e6a0860be6e209737/a4cb1573b85ac7e815d9664bf3cea901,7b7b197e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "1000 PS und mega Reichweite - Der neue Jaguar hat keine Heckscheibe",
+    "link": "https://www.bild.de/news/ausland/1000-ps-und-mega-reichweite-der-neue-jaguar-hat-keine-heckscheibe-6ac643d41f1875475631aca0",
+    "image": "https://images.bild.de/6ac643d41f1875475631aca0/04a11a16eea03137c2738c01dd8ddcb9,42d5faa3?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nach Bundesliga-Stellungnahme - Hannover 96 droht neuer 50+1-Streit",
     "link": "https://www.bild.de/sport/fussball/nach-bundesliga-stellungnahme-hannover-96-droht-neuer-50-1-streit-6ac6209ff69f0a623981f72c",
     "image": "https://images.bild.de/6ac6209ff69f0a623981f72c/2d150b4049bd6b9e19d820b902046c22,8cb1f2fa?w=1280",
@@ -432,27 +451,16 @@
     "link": "https://www.bild.de/politik/inland/alarmstimmung-im-kabinett-sachsens-innenminister-mit-duesterer-sicherheitslage-6ac610c6b87614811a357729",
     "image": "https://images.bild.de/6ac610c6b87614811a357729/0306ef7c00ec3143e854580b401b0f23,17c63fd2?w=1280",
     "date": 0
-   },
-   {
-    "title": "Reality-Star im Steckbrief - Valencia Stöhr ist Millionärin aus Leidenschaft",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/valencia-stoehr-im-steckbrief-so-tickt-die-selbsternannte-millionaerin-65d31d6fe614da23e61338a3",
-    "image": "https://images.bild.de/65d31d6fe614da23e61338a3/55c33e2f500fe66c9c872e4c61e119c9,b444e02?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Ex-BND-Chef sitzt in Untersuchungshaft - Hanning weist Spionage-Vorwürfe zurück",
-    "link": "https://www.bild.de/politik/inland/august-hanning-anwalt-weist-vorwuerfe-zurueck-haftbefehl-in-kraft-6ac652e575caf261c519c839",
-    "image": "https://images.bild.de/6ac652e575caf261c519c839/45694f965e0cf4859dcf440bb4d13ea5,f2d30f1a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Koalitions-Zoff - „Merz und Klingbeil stellen sich die Vertrauensfrage“",
-    "link": "https://www.bild.de/politik/koalitions-zoff-merz-und-klingbeil-stellen-sich-die-vertrauensfrage-6ac63d3f1f1875475631abfb",
-    "image": "https://images.bild.de/6ac63d3f1f1875475631abfb/d6afa0dd0b5c7570767b7c8a769d0798,174fa592?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Mediziner im Talk - Pest-Verdacht in Russland: „Alles sehr mysteriös“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GTnBUY2FkNzZ1UHhxM0cteGpGdzhTVW01WmZ2S3U2QzFWalpCNVdQdGtKckk0Y2VCVkFWUFhDRU1xdw?oc=5",
+    "image": "",
+    "date": 1791385355000,
+    "titleSl": "Mediziner im Talk - Pest-Verdacht v Rusiji: „Alles sehr mysteryös“"
+   },
    {
     "title": "„Buchungen entwickeln sich bis zum März gut“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA3SEhuOFNqZFJDM0xRSkU5OHI1clR3eDFsWW9CM20zZllZMlZWVGZpWmNXVUpqRlZUcTU3SThOblgzUQ?oc=5",
@@ -482,12 +490,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vZXVNRDVpQnNuLVBqQ2MwRC1FczAwUS1ta3BQWTZma05wb0dnQVJXSmFKUzZpd1BQZ2NRWW0zWm5CUQ?oc=5",
     "image": "",
     "date": 1791384180000
-   },
-   {
-    "title": "Spektakel in Italien - PS-Geprotze: Ferrari tritt gegen Kampfjet an",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04MXg1UmdGUTBGelAyVXBGU1RKVEtlU0N5ckpKWWM0WE9taHN3cG9OclpxS1NSa01YUFlOQ1oxM2NKZw?oc=5",
-    "image": "",
-    "date": 1791384000000
    }
   ],
   "rainews": [
@@ -532,6 +534,12 @@
   ],
   "lemonde": [
    {
+    "title": "Contenus intimes volés : la justice fait fermer une plateforme vendant les images de plus de 17 000 femmes, dont des mineures",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/07/contenus-intimes-voles-la-justice-fait-fermer-une-plateforme-vendant-les-images-de-plus-de-17-000-femmes-dont-des-mineures_6789617_3224.html",
+    "image": "https://img.lemde.fr/2026/08/13/250/0/3000/1500/644/322/60/0/67e96eb_upload-1-24hnr6blmkyq-papier-483.jpg",
+    "date": 1791385180000
+   },
+   {
     "title": "« On est encore au Moyen Age » : dans l’e-sport, les femmes en première ligne des violences sexistes et sexuelles",
     "link": "https://www.lemonde.fr/pixels/article/2026/10/07/on-est-encore-au-moyen-age-dans-l-e-sport-les-femmes-en-premiere-ligne-des-violences-sexistes-et-sexuelles_6789614_4408996.html",
     "image": "https://img.lemde.fr/2026/10/05/250/0/3000/1500/644/322/60/0/3a8ecb8_upload-1-brnfuxfuv6kp-frame-1628.jpg",
@@ -563,13 +571,6 @@
     "image": "https://img.lemde.fr/2026/10/01/125/0/1500/750/644/322/60/0/0af4480_ftp-1-l2lf4yiaft6p-446242-3504802.jpg",
     "date": 1791381603000,
     "titleSl": "Action contre la faim en quête d' indépendance: «Chaque jour, on doit faire des choix dans les souffrances des gens »"
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : le comité militaire de l’OTAN s’est rendu à Kiev mardi, une première en huit ans",
-    "link": "https://www.lemonde.fr/international/live/2026/10/07/en-direct-guerre-en-ukraine-le-comite-militaire-de-l-otan-s-est-rendu-a-kiev-mardi-une-premiere-en-huit-ans_6787996_3210.html",
-    "image": "https://img.lemde.fr/2026/10/07/0/0/4500/2250/644/322/60/0/88672ea_ftp-1-yhkkch13ubza-2026-10-07t094103z-1188082525-rc29yna3ks1o-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
-    "date": 1791379649000,
-    "titleSl": "EN DIRECT, guerre en Ukraine : le comité militaire de l 'TAN s' est rendu à Kiev mardi, une première en huit ans"
    }
   ],
   "elpais": [
