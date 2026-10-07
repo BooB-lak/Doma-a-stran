@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-07T10:40:45.093Z",
+ "generatedAt": "2026-10-07T10:42:40.908Z",
  "sources": {
   "siol": [
+   {
+    "title": "Ruski oligarh potrdil, da mu je Trump mlajši vrnil denar za poroko",
+    "link": "https://siol.net/novice/svet/ruski-oligarh-potrdil-da-mu-je-trump-mlajsi-vrnil-denar-za-poroko-703411",
+    "image": "https://siol.net/media/img/5c/9c/896573f58aa5afdfc80b.jpeg",
+    "date": 1791369420000
+   },
    {
     "title": "Udarec za Italijo, rdeča luč za Goggio in Brignone",
     "link": "https://siol.net/sportal/zimski-sporti/udarec-za-italijo-rdeca-luc-za-goggio-in-brignone-703409",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kosarka/vroca-kri-jokic-grobo-nad-nesojenim-slovenskim-reprezentantom-video-703406",
     "image": "https://siol.net/media/img/4f/1a/4bb894e21919c0ee9af8.jpeg",
     "date": 1791367140000
-   },
-   {
-    "title": "Češka je odpovedala nastop na Evroviziji 2027",
-    "link": "https://siol.net/trendi/glasba-in-film/ceska-je-odpovedala-nastop-na-evroviziji-2027-703404",
-    "image": "https://siol.net/media/img/b5/e9/7472d5fe41460ef6593b.jpeg",
-    "date": 1791365340000
    }
   ],
   "24ur": [
@@ -252,7 +252,7 @@
    {
     "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
     "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0592/live/89f8e2b0-c239-11f1-a64c-550be9e3c66b.png",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf1/live/a5f2fc60-c23b-11f1-be2f-0fbd447d6e43.png",
     "date": 1791369185000,
     "titleSl": "Nobelova nagrada za kemijo za reševanje skrivnosti asimetrije življenja"
    },
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "CAS to hear Senegal appeal over AFCON title awarded to Morocco",
-    "link": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-04-01T192958Z_117240295_RC2UFKA1S16B_RTRMADP_3_SOCCER-FRIENDLY-SEN-GMB-1791366981.jpg?resize=1920%2C1440",
-    "date": 1791368912000,
-    "titleSl": "CAS bo zaslišal pritožbo Senegala zaradi naslova AFCON, dodeljenega Maroku"
-   },
-   {
     "title": "Christa Pike is awake after surviving execution: What happens now?",
     "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-is-awake-after-surviving-execution-what-happens-now?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abd35cd1ceb-1790784973.jpg?resize=1200%2C630",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/BTN_Thumbnail_Landscape_V07-1791363279.png?resize=1920%2C1008&quality=80",
     "date": 1791363312000,
     "titleSl": "Kako izgleda enoletna prekinitev ognja v Gazi?"
+   },
+   {
+    "title": "Fear and a far-right lurch: How October 7 reshaped Israel",
+    "link": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-30T190518Z_381197654_RC2634ASXX5G_RTRMADP_3_ISRAEL-PALESTINIANS-CAPTIVE-SOLDIER-1698702895.jpg?resize=1920%2C1440",
+    "date": 1791363203000,
+    "titleSl": "Strah in skrajna desnica: kako je 7. oktober preoblikoval Izrael"
    }
   ],
   "guardian": [
@@ -414,9 +414,28 @@
   ],
   "bild": [
    {
+    "title": "Großangriff auf die Ukraine - Russen-Raketen töten drei Kinder an Putins Geburtstag",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/russland-greift-ukraine-an-15-tote-darunter-drei-kinder-6ac60bb06a0860be6e2091e4",
+    "image": "https://images.bild.de/6ac60bb06a0860be6e2091e4/081f41271add8a6f7ac2cfdee3d7191e,60e81c36?w=1280",
+    "date": 0
+   },
+   {
     "title": "Henri Kagan und Kenso Soai - Chemie-Nobelpreis geht an Franzosen und Japaner",
     "link": "https://www.bild.de/leben-wissen/chemie-nobelpreis-geht-an-franzosen-und-japaner-6ac611a56a0860be6e2092a4",
     "image": "https://images.bild.de/6ac611a56a0860be6e2092a4/401befbce1d52a1c9403f011ef04a522,c3ba9c69?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Gleicher Big Mac, anderer Preis - McDonald’s lässt KI über Burgerpreise entscheiden",
+    "link": "https://www.bild.de/leben-wissen/digital/ki-entscheidet-mit-so-berechnet-mcdonalds-den-preis-fuer-den-big-mac-6abcb5af19ba57204ed899a5",
+    "image": "https://images.bild.de/6abcb5af19ba57204ed899a5/97a4abb5981ef818c2666ad67570b99e,6a20e668?w=1280",
+    "date": 0,
+    "titleSl": "Gleicher Big Mac, anderer Preis - McDonald's lässt KI über Burgerpreise entscheiden"
+   },
+   {
+    "title": "Sekt statt Kaffeekränzchen - US-Reederei bringt Luxus auf Europas Flüsse",
+    "link": "https://www.bild.de/leben-wissen/reisen/celebrity-cruises-europa-flussreisen-in-sechs-minuten-ausgebucht-6ac4b123967e8c06339d23d1",
+    "image": "https://images.bild.de/6ac4b123967e8c06339d23d1/94bb955f1144f154155df95a7b821e02,364146c6?w=1280",
     "date": 0
    },
    {
@@ -429,24 +448,6 @@
     "title": "Abwehr-Hoffnung zurück! - HSV lässt Mentalitäts-Monster los",
     "link": "https://www.bild.de/sport/fussball/hsv-frust-vorbei-hsv-laesst-das-mentalitaets-monster-los-6ac5e0fcf69f0a623981efcd",
     "image": "https://images.bild.de/6ac5e0fcf69f0a623981efcd/ced816ab3a87344d4190012c39298e35,a0c342ae?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Streaming-Beben! - HBO Max und Paramount+ vor Mega-Zusammenlegung",
-    "link": "https://www.bild.de/leben-wissen/digital/streaming-hammer-hbo-max-und-paramount-sollen-verschmelzen-6ac606286a0860be6e209134",
-    "image": "https://images.bild.de/6ac606286a0860be6e209134/065ca103eb65e0c37efecb8b7f24012a,4abf795f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Großangriff auf die Ukraine - Russen-Raketen töten drei Kinder an Putins Geburtstag",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/russland-greift-ukraine-an-15-tote-darunter-drei-kinder-6ac60bb06a0860be6e2091e4",
-    "image": "https://images.bild.de/6ac60bb06a0860be6e2091e4/081f41271add8a6f7ac2cfdee3d7191e,60e81c36?w=1280",
-    "date": 0
-   },
-   {
-    "title": "True-Crime-Podcast „IM EINSATZ“ - Verdrängt die Gen-Z-Mafia jetzt die Hells Angels?",
-    "link": "https://www.bild.de/news/inland/podcast-im-einsatz-wer-uebernimmt-die-macht-von-den-hells-angels-6ac4da576a0860be6e208199",
-    "image": "https://images.bild.de/6ac4da576a0860be6e208199/4d3de382ba4d6c07e52527ce395e81fc,5bfacf6?w=1280",
     "date": 0
    }
   ],
@@ -491,11 +492,11 @@
   ],
   "rainews": [
    {
-    "title": "L’esclusiva del Tg1 sul delitto di Garlasco: spunta il test occultato sul sangue di Stasi",
+    "title": "L’esclusiva del Tg1 sul delitto di Garlasco: spunta il test occultato sul sangue",
     "link": "https://www.rainews.it/articoli/2026/10/lesclusiva-del-tg1-sul-delitto-di-garlasco-spunta-il-test-occultato-sul-sangue-di-stasi-72f7d33d-81eb-4d8f-adb2-e266566997c7.html",
     "image": "https://www.rainews.it/dl/img/2026/9/21/1789972554899_.jpg",
-    "date": 1791368760000,
-    "titleSl": "L'esclusiva del Tg1 sul delitto di Garlasco: spunta il test occultato sul sangue di Stasi"
+    "date": 1791369720000,
+    "titleSl": "L'esclusiva del Tg1 sul delitto di Garlasco: spunta il test occultato sul sangue"
    },
    {
     "title": "Al via il Med9 con Meloni e Macron. Plankovic: \"La stabilità dell&#x27;Ue legata a quella nostri vicini\"",
@@ -575,6 +576,12 @@
   ],
   "elpais": [
    {
+    "title": "El juzgado que investiga el rescate de Air Europa cita como testigo a la vicepresidenta Aagesen en la semana de las elecciones",
+    "link": "https://elpais.com/espana/2026-10-07/el-juzgado-que-investiga-el-rescate-de-air-europa-cita-como-testigo-a-la-vicepresidenta-aagesen-en-la-semana-de-las-elecciones.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/AHGVJRMFDZNKTC3JZUT4N3R3BE.jpg?auth=2774371618e0c4be7e427c76b9ea422ef055644700e0a79afd6dab1be6d9daa5",
+    "date": 1791369448000
+   },
+   {
     "title": "Independientes por Madrid lleva al Defensor del Pueblo el ‘scalextric’ de Vallecas",
     "link": "https://elpais.com/espana/madrid/2026-10-07/independientes-por-madrid-lleva-al-defensor-del-pueblo-el-scalextric-de-vallecas.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TTMFQ6LIINCFFAPQV57RRXYOY4.jpg?auth=12644b059680ff5b4233d0956353c6868204e7487b9797031b7fa135ece8cc47",
@@ -603,12 +610,6 @@
     "link": "https://elpais.com/ciencia/2026-10-07/premio-nobel-de-quimica.html",
     "image": "https://imagenes.elpais.com/resizer/v2/SJFYEXTF3BAM5DR6EGG7ZPFC3I.jfif?auth=a01419fb55c148d7ceca4291f403a4ea5988c01276c9fbb85982d015e8bf09f2",
     "date": 1791367348000
-   },
-   {
-    "title": "El juez Peinado se prepara para abrir un despacho de abogados en Madrid tras su jubilación",
-    "link": "https://elpais.com/espana/2026-10-07/el-juez-peinado-se-prepara-para-abrir-un-despacho-de-abogados-en-madrid-tras-su-jubilacion.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/KLZBPQY2ZJFZ5AZBEVX5MZ5FNQ.jpg?auth=47e48519a7679cf2243e0c5f68de54853a4072b83862dca4997f3860c04c79ef",
-    "date": 1791367009000
    }
   ]
  },
