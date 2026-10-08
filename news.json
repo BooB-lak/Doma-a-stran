@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T13:20:40.038Z",
+ "generatedAt": "2026-10-08T13:22:25.352Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/trendi/kulinarika/novi-izjemno-dobri-okusi-krasevih-choco-napolitank-703518",
     "image": "https://siol.net/media/img/f3/82/6c5839a262245cdddf99.jpeg",
     "date": 1791465300000
+   },
+   {
+    "title": "Nove podrobnosti nesreče, v kateri je bilo udeleženo vozilo s petimi dekleti: vse so hudo poškodovane",
+    "link": "https://siol.net/novice/slovenija/nove-podrobnosti-nesrece-v-kateri-je-bilo-udelezeno-vozilo-s-petimi-dekleti-vse-so-hudo-poskodovane-703521",
+    "image": "https://siol.net/media/img/1e/ab/5609b5c211ba5445945b.jpeg",
+    "date": 1791464820000
    },
    {
     "title": "Resni.ca je postala članica Evrope suverenih narodov, katere ustanoviteljica je tudi AfD",
@@ -30,12 +36,6 @@
     "title": "Pod Kriško goro potekala skupna vaja reševalcev: iskali pogrešane gobarke in reševali poškodovane v nesreči",
     "link": "https://siol.net/novice/slovenija/pod-krisko-goro-potekala-skupna-vaja-resevalcev-iskali-pogresane-gobarke-in-resevali-poskodovane-v-nesreci-703516",
     "image": "https://siol.net/media/img/2c/8a/20a5f58be6df7985a9d7.jpeg",
-    "date": 1791462300000
-   },
-   {
-    "title": "Aleksander Čeferin se namerava potegovati za nov mandat na čelu Uefe",
-    "link": "https://siol.net/sportal/nogomet/aleksander-ceferin-se-namerava-potegovati-za-nov-mandat-na-celu-uefe-703513",
-    "image": "https://siol.net/media/img/bd/62/b7c53672b3cf95d3c37f.jpeg",
     "date": 1791462300000
    }
   ],
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Bomba zadela avtobusa s civilisti, prizori so pretresljivi",
+    "link": "https://www.zurnal24.si/svet/bomba-zadela-avtobusa-s-civilisti-prizori-so-pretresljivi-466395",
+    "image": "https://www.zurnal24.si/media/img/d3/73/b09220c6b4ef546c4031.jpeg",
+    "date": 1791465660000
+   },
+   {
     "title": "Električni kupejevski SUV BMW iX4 širi družino neue klasse",
     "link": "https://www.zurnal24.si/avto/elektricni-kupejevski-suv-bmw-ix4-siri-druzino-neue-klasse-466357",
     "image": "https://www.zurnal24.si/media/img/a3/cc/ed1fefe119b84b66331a.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/kandidat-sds-za-zupana-ljubljane-je-v-politiki-no-name-466389",
     "image": "https://www.zurnal24.si/media/img/b1/5d/04349c88b09e61e11c50.png",
     "date": 1791460560000
-   },
-   {
-    "title": "Slabe novice: Dobava cepiva zamuja, začetek cepljenja prestavljen",
-    "link": "https://www.zurnal24.si/zdravje/slabe-novice-dobava-cepiva-zamuja-zacetek-cepljenja-prestavljen-466387",
-    "image": "https://www.zurnal24.si/media/img/b6/4d/21978777917ac270da78.jpeg",
-    "date": 1791460320000
    }
   ],
   "reuters": [
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
+    "title": "Burnham committed to deeper EU cooperation, he tells Merz – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+    "image": "https://i.guim.co.uk/img/media/8dcbcc959f8d349c28e9b4e80bbc3e4b995664d2/283_0_2637_2109/master/2637.jpg?width=140&quality=85&auto=format&fit=max&s=1507daea8913bbbc85c0eab880bab391",
+    "date": 1791465291000,
+    "titleSl": "Burnham se je zavezal k poglobljenemu sodelovanju EU, pravi za Merz – Evropa v živo"
+   },
+   {
+    "title": "Three sisters who drowned in Brighton took their own lives, inquest finds",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest",
+    "image": "https://i.guim.co.uk/img/media/8b1cc8caac62b0e70d663d4255cd7a868fdff4f8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dc382afb39caca27cc04bea6d93d3ef1",
+    "date": 1791465061000,
+    "titleSl": "Tri sestre, ki so se utopile v Brightonu, so si vzele življenje, ugotavlja preiskava"
+   },
+   {
+    "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
+    "image": "https://i.guim.co.uk/img/media/6f517b8ce6a5ef1dcba53a4b4acdc0d07c3ae463/559_0_3901_3123/master/3901.jpg?width=140&quality=85&auto=format&fit=max&s=062d38f65ffb0407f1eb2837558ebc7b",
+    "date": 1791465057000,
+    "titleSl": "Odprta volišča v Holbornu in St Pancrasu nadomestne volitve – britanska politika v živo"
+   },
+   {
     "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
     "image": "https://i.guim.co.uk/img/media/b1e48acaf30bada772a7a1031ed3f2bb915da235/731_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=4f0d983b206b773636b8567abd2d1b69",
     "date": 1791464662000,
     "titleSl": "Trumpov poskus prepovedi CNN, Politico in MS Now iz Bele hiše, da bi bil zaslišan na sodišču – v živo"
-   },
-   {
-    "title": "Burnham committed to deeper EU cooperation, he tells Merz – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-    "image": "https://i.guim.co.uk/img/media/8dcbcc959f8d349c28e9b4e80bbc3e4b995664d2/283_0_2637_2109/master/2637.jpg?width=140&quality=85&auto=format&fit=max&s=1507daea8913bbbc85c0eab880bab391",
-    "date": 1791464195000,
-    "titleSl": "Burnham se je zavezal k poglobljenemu sodelovanju EU, pravi za Merz – Evropa v živo"
    },
    {
     "title": "Medium-term borrowing costs for UK government hit 19-year high",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/027762e10a255e4badc86d398cfcd3c0b35fe3cd/100_0_2039_1632/master/2039.jpg?width=140&quality=85&auto=format&fit=max&s=9256d660c66d68072ae7eb7206fb3085",
     "date": 1791462766000,
     "titleSl": "Christa Pike je prvič po neuspeli usmrtitvi \"vstala in hodi\", pravi odvetnik"
-   },
-   {
-    "title": "First Thing: Trump endures protests in Texas as DNC sues over adverts",
-    "link": "https://www.theguardian.com/us-news/2026/oct/08/first-thing-trump-endures-protests-in-texas-dnc-sues-over-adverts",
-    "image": "https://i.guim.co.uk/img/media/9d32fef76c080def5b6311df4827a6d5b4bc4325/0_192_2667_2133/master/2667.jpg?width=140&quality=85&auto=format&fit=max&s=1f586496c3df9e31c1e76b4e9a6636ca",
-    "date": 1791462534000,
-    "titleSl": "Prva stvar: Trump prenaša proteste v Teksasu, ko DNC toži zaradi oglasov"
-   },
-   {
-    "title": "Three sisters who drowned in Brighton took their own lives, inquest finds",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest",
-    "image": "https://i.guim.co.uk/img/media/8b1cc8caac62b0e70d663d4255cd7a868fdff4f8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dc382afb39caca27cc04bea6d93d3ef1",
-    "date": 1791462054000,
-    "titleSl": "Tri sestre, ki so se utopile v Brightonu, so si vzele življenje, ugotavlja preiskava"
    }
   ],
   "spiegel": [
