@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T11:01:00.910Z",
+ "generatedAt": "2026-10-08T11:02:22.950Z",
  "sources": {
   "siol": [
    {
@@ -117,7 +117,7 @@
   ],
   "zurnal": [
    {
-    "title": "Policisti zasegli za 37 milijonov evrov robe",
+    "title": "V akciji 400 kriminalistov, priprli 34 ljudi, zasegli za 37 milijonov evrov robe",
     "link": "https://www.zurnal24.si/slovenija/policisti-zasegli-za-37-milijonov-evrov-robe-466377",
     "image": "https://www.zurnal24.si/media/img/b2/bb/050dae06934bf7e7c8b3.jpeg",
     "date": 1791456660000
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Asos hackers took more personal details than first revealed, BBC finds",
+    "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a4/live/930ee0a0-c303-11f1-a64c-550be9e3c66b.jpg",
+    "date": 1791457289000,
+    "titleSl": "Hekerji Asosa so vzeli več osebnih podatkov, kot so jih prvič razkrili, ugotavlja BBC"
+   },
+   {
     "title": "Three sisters who died in sea off Brighton took own lives, inquest finds",
     "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d90c/live/62a43450-c304-11f1-babe-4199b0e7ccea.jpg",
     "date": 1791456495000,
     "titleSl": "Nemška kanclerka z vojaškimi častmi pozdravi Burnhama ob obisku v Berlinu"
-   },
-   {
-    "title": "How Brighton attract and develop the best young players ahead of their rivals",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/ca558840-c23e-11f1-b390-9f59a375fdd2.jpg",
-    "date": 1791455834000,
-    "titleSl": "Kako Brighton privablja in razvija najboljše mlade igralce pred svojimi tekmeci"
    }
   ],
   "aljazeera": [
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-    "image": "https://i.guim.co.uk/img/media/6f517b8ce6a5ef1dcba53a4b4acdc0d07c3ae463/559_0_3901_3123/master/3901.jpg?width=140&quality=85&auto=format&fit=max&s=062d38f65ffb0407f1eb2837558ebc7b",
-    "date": 1791456666000,
-    "titleSl": "Odprta volišča v Holbornu in St Pancrasu nadomestne volitve – britanska politika v živo"
-   },
-   {
     "title": "French high school protests continue despite PM’s promise of action – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
     "image": "https://i.guim.co.uk/img/media/6808748f258465be6966650001e3a2f3a5e8870f/608_0_6278_5023/master/6278.jpg?width=140&quality=85&auto=format&fit=max&s=ad4f097347d95b433737386cf9d0e67c",
@@ -364,6 +357,13 @@
     "image": "https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=140&quality=85&auto=format&fit=max&s=eb1b97e1a06833c9b36cf38a084d7c1c",
     "date": 1791455674000,
     "titleSl": "Podatki kažejo, da je bil julij 2026 najhujši v zgodovini požarov v Angliji"
+   },
+   {
+    "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
+    "image": "https://i.guim.co.uk/img/media/6f517b8ce6a5ef1dcba53a4b4acdc0d07c3ae463/559_0_3901_3123/master/3901.jpg?width=140&quality=85&auto=format&fit=max&s=062d38f65ffb0407f1eb2837558ebc7b",
+    "date": 1791455633000,
+    "titleSl": "Odprta volišča v Holbornu in St Pancrasu nadomestne volitve – britanska politika v živo"
    },
    {
     "title": "Queensland literary awards: ‘stunning’ debut inspired by segregated shantytown wins top prize",
@@ -458,10 +458,23 @@
   ],
   "krone": [
    {
-    "title": "Schwerer Luftangriff - Russen bombardieren Busse: 30 Tote in der Ukraine",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyX3BzT3hEQVBoclI3M0xRYUlxQzYxNmJ6Q2hGdTh6QkMxMktsRlJCaC1pQ3dQdUNlTU5WcTFHT18zZw?oc=5",
+    "title": "Was tut sich in OÖ? - Event-Tipps mit Skistars, Folk und Mitmachtheater",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04M3RzYXNvWWtDZ0JBYU9hU1E1RHJXTFJfNVZHMHRXaWdJZ2xUNmlhTndtQWpLUXA4QzZvLW1pZllEZw?oc=5",
     "image": "",
-    "date": 1791456960000
+    "date": 1791457200000,
+    "titleSl": "Ali je bil tut sich v OÖ? - Event-Tipps mit Skistars, Folk und Mitmachtheater"
+   },
+   {
+    "title": "Flurbrand am Berg - Kletterer bekämpften Brand kurz vor Plomberghütte",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QZTNFc1NvQzdyV08yUzRuVEk0azd1RXJyeUtCMjlFUFhFOU9uSmRUWDRldk04alNJVzQ0TEYzTGw3Zw?oc=5",
+    "image": "",
+    "date": 1791457200000
+   },
+   {
+    "title": "Hoher Spaßfaktor - Steintrikes: Das sind Dreiräder mit Suchtpotenzial",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xdWJBVGtXRFhhQkNzWF94R3lnS21qUEI4U0ZqY29zY1dyMVhGZnJQd3VHeWFRczRISk91MlFDRlc5Zw?oc=5",
+    "image": "",
+    "date": 1791457080000
    },
    {
     "title": "„Sie fragen sich, ...“ - Wildcard für Hirscher kommt nicht überall gut an",
@@ -483,20 +496,6 @@
     "image": "",
     "date": 1791455852000,
     "titleSl": "Njen primer razburil - Po prisilni izselitvi: umrla Španka (87)."
-   },
-   {
-    "title": "Achterbahn für Liendl - Zwischen Spaß mit Ronaldinho und Abstiegsangst",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04LW4yV042Y1V5ZExmSThxWlZCY0xDQXNzS3BYa0s1QmtrQnF3djFWdklDSF9aSFNPQlZ5aXo3clBodw?oc=5",
-    "image": "",
-    "date": 1791455400000,
-    "titleSl": "Tobogan za Liendla - med zabavo z Ronaldinhom in strahom pred izpadom"
-   },
-   {
-    "title": "OÖ-Ass bei Ironman-WM: - Vor WM-Traum auf Hawaii gibt‘s Kinder-Entzug!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9lOWx4eV9PeTRhYU5UaVZxYk42dzk1Yi0xQjhLM0RXSkJIckN2RzlJRHN2Nm1pcUhrQnljM2JNWHRXZw?oc=5",
-    "image": "",
-    "date": 1791455400000,
-    "titleSl": "Zgornji Avstrijski as na svetovnem prvenstvu v ironmanu: - Pred sanjami svetovnega prvenstva na Havajih je odpis otrok!"
    }
   ],
   "rainews": [
