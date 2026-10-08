@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T10:50:35.537Z",
+ "generatedAt": "2026-10-08T10:52:25.870Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Policisti zasegli za 37 milijonov evrov robe",
+    "link": "https://www.zurnal24.si/slovenija/policisti-zasegli-za-37-milijonov-evrov-robe-466377",
+    "image": "https://www.zurnal24.si/media/img/b2/bb/050dae06934bf7e7c8b3.jpeg",
+    "date": 1791456660000
+   },
+   {
     "title": "\"Če bo država pokazala interes, bi se lahko borili celo za SP 2033!\"",
     "link": "https://www.zurnal24.si/sport/kolesarstvo/ce-bo-drzava-pokazala-interes-bi-se-lahko-borili-celo-za-sp-2033-466381",
     "image": "https://www.zurnal24.si/media/img/dd/3d/269f631018418629000a.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/zimski-sporti/nas-orel-naznanil-konec-kariere-odlocitev-ni-bila-lahka-466369",
     "image": "https://www.zurnal24.si/media/img/0b/06/f5c51b90e26f0f1783ff.jpeg",
     "date": 1791449940000
-   },
-   {
-    "title": "Kritika našega komika na predstavo 5 žensk, ki odpira zaskrbljujoče vprašanje",
-    "link": "https://www.zurnal24.si/magazin/vip/kritika-nasega-komika-na-predstavo-5-zensk-ki-odpira-zaskrbljujoce-vprasanje-466360",
-    "image": "https://www.zurnal24.si/media/img/3c/d8/200cbf1173afc2918519.jpeg",
-    "date": 1791449220000
    }
   ],
   "reuters": [
@@ -243,18 +243,18 @@
   ],
   "bbc": [
    {
+    "title": "Three sisters who died in sea off Brighton took own lives, inquest finds",
+    "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "date": 1791456710000,
+    "titleSl": "Tri sestre, ki so umrle v morju pred Brightonom, so si vzele življenje, ugotavlja preiskava"
+   },
+   {
     "title": "German chancellor greets Burnham with military honours on Berlin visit",
     "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d90c/live/62a43450-c304-11f1-babe-4199b0e7ccea.jpg",
     "date": 1791456495000,
     "titleSl": "Nemška kanclerka z vojaškimi častmi pozdravi Burnhama ob obisku v Berlinu"
-   },
-   {
-    "title": "Three sisters who died in sea off Brighton took own lives, inquest finds",
-    "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-    "date": 1791456294000,
-    "titleSl": "Tri sestre, ki so umrle v morju pred Brightonom, so si vzele življenje, ugotavlja preiskava"
    },
    {
     "title": "Seventh man bailed in connection with RAF Fairford incident",
@@ -331,11 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "July was worst on record for wildfires in England, data shows",
+    "title": "French high school protests continue despite PM’s promise of action – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+    "image": "https://i.guim.co.uk/img/media/6808748f258465be6966650001e3a2f3a5e8870f/608_0_6278_5023/master/6278.jpg?width=140&quality=85&auto=format&fit=max&s=ad4f097347d95b433737386cf9d0e67c",
+    "date": 1791456243000,
+    "titleSl": "Francoski srednješolski protesti se nadaljujejo kljub premierjevi obljubi ukrepanja – Evropa v živo"
+   },
+   {
+    "title": "USS Lincoln carrier to return to port in San Diego after record-breaking deployment – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/010e3c4e8d9a5aa7b8405608c784690e871955a1/285_0_3463_2771/master/3463.jpg?width=140&quality=85&auto=format&fit=max&s=8c06a1f8ffce4f4487712512d5659372",
+    "date": 1791455868000,
+    "titleSl": "Nosilka USS Lincoln se bo po rekordni uporabi vrnila v pristanišče v San Diegu – ameriška politika v živo"
+   },
+   {
+    "title": "Asos says customer data accessed by hacker posing as trusted contact",
+    "link": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
+    "image": "https://i.guim.co.uk/img/media/28bab554c401e977468fd31649eabf1e27363e35/0_0_2147_1718/master/2147.jpg?width=140&quality=85&auto=format&fit=max&s=1d9b1dfef92a6b2b88a001c233984cfb",
+    "date": 1791455716000,
+    "titleSl": "Asos pravi, da je do podatkov o strankah dostopal heker, ki se predstavlja kot zaupanja vreden stik"
+   },
+   {
+    "title": "July 2026 was worst on record for wildfires in England, data shows",
     "link": "https://www.theguardian.com/world/2026/oct/08/july-record-wildfires-england-data-shows",
     "image": "https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=140&quality=85&auto=format&fit=max&s=eb1b97e1a06833c9b36cf38a084d7c1c",
     "date": 1791455674000,
-    "titleSl": "Podatki kažejo, da je bil julij v Angliji najhujši v zgodovini gozdnih požarov"
+    "titleSl": "Podatki kažejo, da je bil julij 2026 najhujši v zgodovini požarov v Angliji"
    },
    {
     "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
@@ -350,27 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/b4c6a32b0b5f0419efcd30fcaa0bf85b21d0079c/0_549_3435_2747/master/3435.jpg?width=140&quality=85&auto=format&fit=max&s=a0ff81af38b07038db85d5d24ffaf91c",
     "date": 1791455416000,
     "titleSl": "Literarne nagrade Queenslanda: \"osupljiv\" prvenec, ki ga je navdihnilo ločeno barakarsko naselje, prejel glavno nagrado"
-   },
-   {
-    "title": "Supermarket shake-up: why Asda or Morrisons could vanish within a decade",
-    "link": "https://www.theguardian.com/business/2026/oct/08/supermarket-shakeup-big-brands-ripe-merger",
-    "image": "https://i.guim.co.uk/img/media/b0808ae84c0d8b3d98a713742ac7afc5bcd58c1d/3353_1393_5287_4230/master/5287.jpg?width=140&quality=85&auto=format&fit=max&s=34c3abc17ec3647024312e959f9785e9",
-    "date": 1791455170000,
-    "titleSl": "Pretres v supermarketu: zakaj bi Asda ali Morrisons lahko izginila v desetletju"
-   },
-   {
-    "title": "USS Lincoln carrier to return to port in San Diego after record-breaking deployment – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/010e3c4e8d9a5aa7b8405608c784690e871955a1/285_0_3463_2771/master/3463.jpg?width=140&quality=85&auto=format&fit=max&s=8c06a1f8ffce4f4487712512d5659372",
-    "date": 1791454630000,
-    "titleSl": "Nosilka USS Lincoln se bo po rekordni uporabi vrnila v pristanišče v San Diegu – ameriška politika v živo"
-   },
-   {
-    "title": "Russian attack on two buses kills 30 near Ukraine frontline",
-    "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
-    "image": "https://i.guim.co.uk/img/media/842508ba135fbf8ec2e23b30b3a86d62fc479903/69_0_1927_1542/master/1927.jpg?width=140&quality=85&auto=format&fit=max&s=15d1259bb6dbd62fb55eb54f1727dee8",
-    "date": 1791454573000,
-    "titleSl": "Ruski napad na dva avtobusa v bližini ukrajinske fronte ubije 30 ljudi"
    }
   ],
   "spiegel": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Hätten Sie ihn sofort erkannt? - Bundesliga-Trainer plötzlich völlig verwandelt",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-erkennen-sie-ihn-sofot-trainer-ploetzlich-voellig-verwandelt-6ac766ff1678a15b679bc33d",
+    "image": "https://images.bild.de/6ac766ff1678a15b679bc33d/2f4575ab2657bc74a847a7db7f96a206,7308c431?w=1280",
+    "date": 0,
+    "titleSl": "Bi ga takoj prepoznali? - Bundesligaški trener se je nenadoma popolnoma preobrazil"
+   },
+   {
     "title": "Bittere Nachricht! - Eintracht droht Abgang ihres Talente-Jägers",
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-talente-jaeger-vor-wechsel-nach-amerika-6ac75b8d0b278d38b2e5d087",
     "image": "https://images.bild.de/6ac75b8d0b278d38b2e5d087/766cddf4c3ccd045724a4dfd189d4c04,f9b6e128?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6ac75e5a1678a15b679bc238/b0a1eb29b80eb5c3b7f289badcc5f636,b8edd8c4?w=1280",
     "date": 0,
     "titleSl": "Ticker v živo - zdaj obrobje grabijo moč!"
-   },
-   {
-    "title": "Schon heute auf RTL+ - So geht es nächste Woche bei „Unter uns“ weiter",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/unter-uns-heute-auf-rtl-esmas-gestaendnis-veraendert-alles-6ac7527be51bfb79beba65bc",
-    "image": "https://images.bild.de/6ac7527be51bfb79beba65bc/2a516836a57054e3fc2e4fe517dafa4f,81f68358?w=1280",
-    "date": 0,
-    "titleSl": "Že danes na RTL+ - To se nadaljuje naslednji teden v oddaji “Unter uns”."
    }
   ],
   "krone": [
