@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T23:06:30.058Z",
+ "generatedAt": "2026-10-08T23:08:22.924Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
+    "link": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html",
+    "image": "https://static01.nyt.com/images/2026/10/08/arts/thumb-2/thumb-2-mediumSquareAt3X.jpg",
+    "date": 1791500794000,
+    "titleSl": "U.S.S. Abraham Lincoln se po dolgi in naporni uporabi vrne domov"
+   },
+   {
     "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
     "link": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-fraud--mwcv/08dc-fraud--mwcv-mediumSquareAt3X.jpg",
@@ -227,13 +234,6 @@
     "titleSl": "Eksplozije pretresle prestolnico Saudove Ara"
    },
    {
-    "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
-    "link": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html",
-    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/dc-lincoln-new-1-wcbm/dc-lincoln-new-1-wcbm-mediumSquareAt3X.jpg",
-    "date": 1791496474000,
-    "titleSl": "U.S.S. Abraham Lincoln se po dolgi in naporni uporabi vrne domov"
-   },
-   {
     "title": "What Are the Remaining Millennium Prize Problems?",
     "link": "https://www.nytimes.com/2026/10/08/science/millennium-prize-problems-explainer.html",
     "image": "https://static01.nyt.com/images/2026/10/08/science/08SCI-OPENAI-MATH-MILLENNIUM-promo/08SCI-OPENAI-MATH-MILLENNIUM-promo-mediumSquareAt3X.jpg",
@@ -242,6 +242,13 @@
    }
   ],
   "bbc": [
+   {
+    "title": "ADHD and autism at risk of over-diagnosis, says government review",
+    "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e5/live/8f4de9c0-c33f-11f1-bc2e-018d645d8d21.jpg",
+    "date": 1791500490000,
+    "titleSl": "ADHD in avtizem tvegata prekomerno diagnozo, pravi vladni pregled"
+   },
    {
     "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
     "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6230/live/587d61f0-c353-11f1-9a39-31b474234113.jpg",
     "date": 1791486606000,
     "titleSl": "Protestniki za stanovanjsko krizo v Španiji krivijo \"jastrebne sklade\"."
-   },
-   {
-    "title": "Ticket rises and more TV packages - why is price of sport increasing?",
-    "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0b/live/198c3cd0-c35a-11f1-bc2e-018d645d8d21.jpg",
-    "date": 1791485833000,
-    "titleSl": "Podražitve vstopnic in več TV-paketov - zakaj rastejo cene športa?"
    }
   ],
   "aljazeera": [
@@ -331,6 +331,34 @@
   ],
   "guardian": [
    {
+    "title": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real",
+    "link": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+    "image": "https://i.guim.co.uk/img/media/44233b178f7b067fb390c95bb5f5f2293dec3028/169_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=9911e12c5096b870c4bf3db0df3c0a4f",
+    "date": 1791500492000,
+    "titleSl": "Brez \"snežink\": pregled duševnega zdravja pravi, da je današnjim mladim težje in da so škode resnične"
+   },
+   {
+    "title": "NHS England mental health services review: what has it found and what does it recommend?",
+    "link": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
+    "image": "https://i.guim.co.uk/img/media/5b54e3e6392187d46dc745af3e236e2138fdb83a/520_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=303f0236e1496512c30b8a0f6ddfe7f9",
+    "date": 1791500492000,
+    "titleSl": "Pregled storitev duševnega zdravja NHS England: kaj je ugotovil in kaj priporoča?"
+   },
+   {
+    "title": "NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds",
+    "link": "https://www.theguardian.com/society/2026/oct/09/nhs-fonagy-review-autism-adhd-mental-health-conditions-care",
+    "image": "https://i.guim.co.uk/img/media/f91802e46ea43b45712c041b8764bf2ae1d833af/424_0_6042_4836/master/6042.jpg?width=140&quality=85&auto=format&fit=max&s=2c5868c78093f3e81f4025402603bd7c",
+    "date": 1791500492000,
+    "titleSl": "NZS je izpostavljen tveganju za \"sistemske okvare\", saj povpraševanje po ADHD in oskrbi z avtizmom narašča, ugotavlja poizvedba"
+   },
+   {
+    "title": "New Ofsted inspection regime damaging teachers, survey says",
+    "link": "https://www.theguardian.com/education/2026/oct/09/new-ofsted-inspection-regime-damaging-teachers-survey-says",
+    "image": "https://i.guim.co.uk/img/media/5b3150aae7268aa55dd56e9e126c3647a5f8350d/484_0_4010_3208/master/4010.jpg?width=140&quality=85&auto=format&fit=max&s=5f45e0257ed3b08c145a747d0e1de7a1",
+    "date": 1791500491000,
+    "titleSl": "Nov režim inšpekcijskih pregledov Ofsted škoduje učiteljem, pravi raziskava"
+   },
+   {
     "title": "Polls close in Holborn and St Pancras byelection as Labour hopes to retain seat",
     "link": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
     "image": "https://i.guim.co.uk/img/media/241e1892c1f7d1aff5f840c621c79a2877881fdc/552_0_5468_4374/master/5468.jpg?width=140&quality=85&auto=format&fit=max&s=8071c9634f2c421a9afeb25f14d01f96",
@@ -343,34 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/de4d3ecc5a3544bbc3251b66cf29bebf6a1726f5/382_0_3799_3041/master/3799.jpg?width=140&quality=85&auto=format&fit=max&s=ecf17181996a374eafaf5b3620d2e2b6",
     "date": 1791498996000,
     "titleSl": "Curtis Flowers, Američan, neupravičeno zaprt 22 let, umre v starosti 56 let"
-   },
-   {
-    "title": "Federal agents shoot person in New York, police say",
-    "link": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent",
-    "image": "https://i.guim.co.uk/img/media/8e37ea1334ff23e8de30edc861b85b2ab1dae55d/373_0_3711_2971/master/3711.jpg?width=140&quality=85&auto=format&fit=max&s=6582d872f79446cc2b75b7a2f73309a8",
-    "date": 1791498950000,
-    "titleSl": "Zvezni agenti streljajo na osebo v New Yorku, pravijo policisti"
-   },
-   {
-    "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
-    "image": "https://i.guim.co.uk/img/media/569eb02492eca0edba751bcd408cd19c78468a89/511_0_1978_1582/master/1978.jpg?width=140&quality=85&auto=format&fit=max&s=d3f8ba51d29918bf8bc9cc46ac8532ac",
-    "date": 1791498804000,
-    "titleSl": "Podjetje Firmus izvaja največji plavajoči ASX od Telstre ob dvomu vlagateljev o podjetju podatkovnega centra"
-   },
-   {
-    "title": "Hegseth says execution of Fort Hood shooter will be livestreamed",
-    "link": "https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
-    "image": "https://i.guim.co.uk/img/media/b6f1402c869eb9e34e382a8c3dceabeb5352d9ba/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=40fd6e0f075540a0061ed9a4f72138b7",
-    "date": 1791498717000,
-    "titleSl": "Hegseth pravi, da se bo usmrtitev strelca iz Fort Hooda prenašala v živo"
-   },
-   {
-    "title": "Thousands turn out to welcome weary USS Lincoln sailors after record-breaking deployment",
-    "link": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
-    "image": "https://i.guim.co.uk/img/media/43cda93363a196c3aaee6cc090638e0a2367228f/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=814ccc14ba450f698ddd57285d23aa3f",
-    "date": 1791498355000,
-    "titleSl": "Tisoči se udeležijo srečanja z utrujenimi mornarji USS Lincoln po rekordni uporabi"
    }
   ],
   "spiegel": [
@@ -541,10 +541,17 @@
   ],
   "lemonde": [
    {
-    "title": "En Afrique du Sud, de nouvelles violences éclatent entre groupes anti-migrants et ressortissants étrangers",
+    "title": "A Gaza, de nouvelles frappes israéliennes font sept morts, selon la défense civile",
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/10/09/a-gaza-de-nouvelles-frappes-israeliennes-font-sept-morts-selon-la-defense-civile_6790356_6325529.html",
+    "image": "https://img.lemde.fr/2026/10/08/720/0/8640/4320/644/322/60/0/9533f41_ftp-1-g0ieuphql2wi-984f1f23eace48f5888d417ef9e26f74-0-10a6d9ac8c154c4dbbead9b739baf464.jpg",
+    "date": 1791499124000,
+    "titleSl": "Gaza, de nouvelles frappes israéliennes font sept morts, selon la défense civile"
+   },
+   {
+    "title": "En Afrique du Sud, de nouvelles violences éclatent entre groupes antimigrants et ressortissants étrangers",
     "link": "https://www.lemonde.fr/afrique/article/2026/10/09/en-afrique-du-sud-de-nouvelles-violences-eclatent-entre-groupes-anti-migrants-et-ressortissants-etrangers_6790323_3212.html",
     "image": "https://img.lemde.fr/2026/10/08/600/0/3600/1800/644/322/60/0/4258bd5_ftp-1-utkgr1k2tamo-5300393-01-06.jpg",
-    "date": 1791497216000
+    "date": 1791497214000
    },
    {
     "title": "La France expulse deux agents des services de renseignement nigériens",
@@ -561,11 +568,11 @@
     "titleSl": "CNN, MS NOW in \"Politico\", ki jim je Donald Trump prepovedal vstop v Belo hišo, prosijo sodišča, naj jim obnovijo dostop \"za nedoločen čas\""
    },
    {
-    "title": "Edouard Philippe propose de réviser « totalement » le système des allocations familiales",
+    "title": "Edouard Philippe propose de réviser « totalement » le système des allocations familiales et de « diviser par deux » l’immigration légale",
     "link": "https://www.lemonde.fr/politique/article/2026/10/08/edouard-philippe-proprose-de-reviser-totalement-le-systeme-des-allocations-familiales_6790287_823448.html",
     "image": "https://img.lemde.fr/2026/10/08/523/0/1690/845/644/322/60/0/d1c9355_upload-1-7eon4qnfku4q-image1.jpeg",
     "date": 1791490251000,
-    "titleSl": "Edouard Philippe predlaga \"popolno\" revizijo sistema družinskih dodatkov"
+    "titleSl": "Edouard Philippe predlaga de réviser « totalement » le système des allocations familiales et de «diviser par deux » l 'migration légale"
    },
    {
     "title": "La mobilisation lycéenne se poursuit partout en France : « battles d’aura », « Marseillaise », défilés et incidents",
@@ -573,13 +580,6 @@
     "image": "https://img.lemde.fr/2026/10/08/94/0/1600/800/644/322/60/0/3fa68ec_upload-1-myyfsbuuh7ot-whatsapp-image-2026-10-08-at-14-05-16-1.jpeg",
     "date": 1791486470000,
     "titleSl": "La mobilisation lycéenne se poursuit partout en France : « battles d 'aura », « Marseillaise », défilés et incidents"
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : Kiev plongée presque entièrement dans le noir à la suite de frappes russes",
-    "link": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-kiev-plongee-presque-entierement-dans-le-noir-a-la-suite-de-frappes-russes_6787996_3210.html",
-    "image": "https://img.lemde.fr/2026/10/07/501/0/4000/2000/644/322/60/0/403f875_upload-1-lywzhzmwlkx3-raf-ukr-blackout-oct26-001a.JPG",
-    "date": 1791486466000,
-    "titleSl": "V ŽIVO, vojna v Ukrajini: Kijev je po ruskih napadih skoraj v celoti padel v temo"
    }
   ],
   "elpais": [
