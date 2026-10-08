@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T10:16:28.274Z",
+ "generatedAt": "2026-10-08T10:18:26.329Z",
  "sources": {
   "siol": [
    {
@@ -41,10 +41,10 @@
   ],
   "24ur": [
    {
-    "title": "PRENOS V ŽIVO: V mednarodni akciji zasegli za več kot 37 milijonov evrov droge",
+    "title": "PRENOS V ŽIVO: Zasegli za 37 milijonov evrov droge, ugrabitve, streljanja ....",
     "link": "https://www.24ur.com/novice/slovenija/hisne-preiskave-po-drzavi-policisti-bodo-predstavili-podrobnosti.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2026/917846cce7f0a1799573_63562340.jpg?v=42dd&fop=fp:0.50:0.36",
-    "date": 1791454525000
+    "date": 1791454635000
    },
    {
     "title": "Prekaljeni Marc Marquez na MotoGP dogodek poslal dvojnika",
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Simfonični orkester RTV Slovenija opozarja na podhranjenost: \"Pušča se nas umirati na obroke\"",
+    "link": "https://www.rtvslo.si/kultura/glasba/simfonicni-orkester-rtv-slovenija-opozarja-na-podhranjenost-pusca-se-nas-umirati-na-obroke/796237",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/08/67110892.jpg",
+    "date": 1791454623000
+   },
+   {
     "title": "Po uspešnem in varnem Šenčurju zdaj po začetek Toura in v boj za SP 2033",
     "link": "https://www.rtvslo.si/sport/kolesarstvo/svetovno-prvenstvo-v-kolesarstvu/po-uspesnem-in-varnem-sencurju-zdaj-po-zacetek-toura-in-v-boj-za-sp-2033/796194",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/02/67108958.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/preostali-sporti/obolela-nika-koren-sp-koncala-po-prvem-dvoboju/796221",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/08/67110838.jpg",
     "date": 1791451657000
-   },
-   {
-    "title": "Eritrejski vojaki vstopili v sosednjo Etiopijo. Pojavljajo se skrbi o širši regionalni vojni.",
-    "link": "https://www.rtvslo.si/svet/afrika/eritrejski-vojaki-vstopili-v-sosednjo-etiopijo-pojavljajo-se-skrbi-o-sirsi-regionalni-vojni/796218",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/08/67110837.jpg",
-    "date": 1791451608000
    }
   ],
   "zurnal": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "How much does France spend on education compared with the rest of Europe?",
+    "link": "https://www.aljazeera.com/news/2026/10/8/how-much-does-france-spend-on-education-compared-with-the-rest-of-europe?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26279398924210-1791293946.jpg?resize=1920%2C1440",
+    "date": 1791453621000,
+    "titleSl": "Koliko Francija porabi za izobraževanje v primerjavi z ostalo Evropo?"
+   },
+   {
     "title": "UK police charge Royal Navy member accused of working with foreign power",
     "link": "https://www.aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-04-09T134120Z_1903370592_RC28GKADHENC_RTRMADP_3_UKRAINE-CRISIS-BRITAIN-1791446832.jpg?resize=1920%2C1440",
@@ -315,18 +322,11 @@
     "titleSl": "\"Narava si lahko opomore\": v tekmi za reševanje divjih živali, ki jih je prizadela svetovna kriza"
    },
    {
-    "title": "How Gaza war sped up India’s shift towards Israel under Modi",
+    "title": "Gaza war sped up India’s shift towards Israel under Modi",
     "link": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20170705__QB8CK__v5__HighRes__IsraelIndiaDiplomacy-1771997354.jpg?resize=1920%2C1440",
     "date": 1791448304000,
-    "titleSl": "Kako je vojna v Gazi pospešila premik Indije proti Izraelu pod Modijem"
-   },
-   {
-    "title": "Christa Pike almost taken off life support before she woke up",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/christa-pike-almost-taken-off-life-support-before-she-woke-up?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/wide-thumb-christa-pike-1791448112.png?resize=1920%2C1080&quality=80",
-    "date": 1791448176000,
-    "titleSl": "Christa Pike je skoraj ostala brez aparata za življenje, preden se je zbudila"
+    "titleSl": "Vojna v Gazi je pospešila premik Indije proti Izraelu pod Modijem"
    }
   ],
   "guardian": [
@@ -403,21 +403,35 @@
     "titleSl": "Rostock: Zakaj županja Eva-Maria Kröger želi ukiniti vse javne uslužbence v mestni upravi"
    },
    {
+    "title": "August Hanning: Warum die Festnahme ein Problem für den BND ist",
+    "link": "https://www.spiegel.de/panorama/august-hanning-warum-die-festnahme-ein-problem-fuer-den-bnd-ist-a-2af0e6ac-4893-4807-ae9d-5d55d8e2c1d3#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/93709197-8b09-4428-a001-e28857b1420c_w520_r2.08_fpx48.99_fpy25.32.jpg",
+    "date": 1791451380000,
+    "titleSl": "August Hanning: Zakaj je aretacija problem za BND"
+   },
+   {
     "title": "Ronald Rauhe: So will der neue Staatsminister den deutschen Sport reformieren",
     "link": "https://www.spiegel.de/sport/olympia/ronald-rauhe-so-will-der-neue-staatsminister-den-deutschen-sport-reformieren-a-e3588861-7a4e-4991-b3b8-ecb9509e3519#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/5e8bad47-94db-4881-a17d-deaf74a9013e_w520_r2.08_fpx49_fpy52.jpg",
     "date": 1791449640000,
     "titleSl": "Ronald Rauhe: Tako želi novi državni minister reformirati nemški šport"
-   },
-   {
-    "title": "Tankrabatt: Die meisten Deutschen wollen andere Hilfen gegen hohe Spritpreise",
-    "link": "https://www.spiegel.de/mobilitaet/auto/tankrabatt-die-meisten-deutschen-wollen-andere-hilfen-gegen-hohe-spritpreise-a-2f8dc40b-85a2-4259-8c81-b3aa7d89aa73#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c51cf4d6-b23d-45ea-b669-01c409a369ff_w520_r2.08_fpx46.69_fpy50.jpg",
-    "date": 1791449400000,
-    "titleSl": "Popust pri gorivu: večina Nemcev želi drugo pomoč proti visokim cenam goriva"
    }
   ],
   "bild": [
+   {
+    "title": "Wohnungsnot - Zwangsgeräumte Rentnerin aus Madrid gestorben",
+    "link": "https://www.bild.de/news/ausland/sie-war-das-gesicht-der-protestbewegung-zwangsgeraeumte-rentnerin-87-aus-spanien-gestorben-6ac6a7dd75caf261c519cf16",
+    "image": "https://images.bild.de/6ac6a7dd75caf261c519cf16/1a8c82087706dd252924bc614604d221,c67cad05?w=1280",
+    "date": 0,
+    "titleSl": "Pomanjkanje stanovanja - umrla deložirana upokojenka iz Madrida"
+   },
+   {
+    "title": "Es hört nicht auf - Lok Leipzig fehlt der nächste wichtige Mann",
+    "link": "https://www.bild.de/sport/fussball/es-hoert-nicht-auf-lok-leipzig-fehlt-der-naechste-wichtige-mann-6ac763cd0b278d38b2e5d1ae",
+    "image": "https://images.bild.de/6ac763cd0b278d38b2e5d1ae/8c854953e92701f19cc0fe14ca3bf617,7c51a606?w=1280",
+    "date": 0,
+    "titleSl": "Kar se ne ustavi - Lok Leipzig pogreša naslednjega pomembnega človeka"
+   },
    {
     "title": "Er war gerade zurück - Erneutes Kreuzband-Drama bei Ostklub",
     "link": "https://www.bild.de/sport/fussball/er-war-gerade-zurueck-erneutes-kreuzband-drama-bei-ostklub-6ac75250a6e6735b175c794d",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6ac75484a6e6735b175c7989/207992518c3de93f5ab041d7e20dce1c,6afc525?w=1280",
     "date": 0,
     "titleSl": "Nekaj ​​minut neopažen ležati na tleh - rokoborski sodnik umre v ringu"
-   },
-   {
-    "title": "Schwachstelle bei Samsung - Galaxy S26 per E-Mail gehackt!",
-    "link": "https://www.bild.de/leben-wissen/digital/pwn2own-2026-samsung-galaxy-s26-gehackt-6ac7558da6e6735b175c79b4",
-    "image": "https://images.bild.de/6ac7558da6e6735b175c79b4/fcab0e3e0fc131f8dcf26b80e3cc3dfd,15cbe5b0?w=1280",
-    "date": 0,
-    "titleSl": "Ranljivost pri Samsungu - Galaxy S26 vdrl prek e-pošte!"
-   },
-   {
-    "title": "Fan-Liebe ohne Grenzen - Paar gibt 10.000 Euro jährlich für Roland Kaiser aus",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/roland-kaiser-fans-10-000-euro-pro-jahr-fuer-konzerte-tickets-6ac75ea556bb097d5a89eb3a",
-    "image": "https://images.bild.de/6ac75ea556bb097d5a89eb3a/01cda04a272bd304cc1fe6666f6c98b8,73b2713c?w=1280",
-    "date": 0,
-    "titleSl": "Ljubezen oboževalcev brez meja – par za Rolanda Kaiserja zapravi 10.000 evrov na leto"
    }
   ],
   "krone": [
