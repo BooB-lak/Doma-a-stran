@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T14:38:25.529Z",
+ "generatedAt": "2026-10-08T14:40:40.242Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Novi predsednik uprave Darsa je Peter Drobež",
+    "link": "https://www.24ur.com/novice/slovenija/novi-predsednik-uprave-darsa-je-peter-drobez.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jan2026/e365ca244c75d385270c_63527456.jpg?v=d384&fop=fp:0.48:0.45",
+    "date": 1791470157000
+   },
+   {
     "title": "Ajdina napoved izločitvene bitke: Ne bo lahka danes",
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/ajdina-napoved-zadnjega-boja-za-top-10-ne-bo-lahka-danes.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/5bcc219d781c64e2f509_63660242.jpg?v=0a1c&fop=fp:0.50:0.29",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/novice/tujina/po-dveh-smrtonosnih-injekcijah-se-je-zbudila-kje-sem-in-kdo-ste-vi.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/bcb3b0eeae797eb49dfc_63655368.jpg?v=c223&fop=fp:0.45:0.40",
     "date": 1791469296000
-   },
-   {
-    "title": "Sindikati zbrali dovolj podpisov za referendum o interventnem zakonu",
-    "link": "https://www.24ur.com/novice/slovenija/sindikati-zbrali-dovolj-podpisov-za-referendum-o-interventnem-zakonu.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/3e43537cf8de0cac29b9_63642450.jpg?v=cd28&fop=fp:0.49:0.35",
-    "date": 1791468547000
    },
    {
     "title": "Policijski nalogi za preiskavo princa Andrewa nezakoniti",
@@ -78,6 +78,12 @@
    }
   ],
   "rtvslo": [
+   {
+    "title": "Novi predsednik uprave Darsa je Peter Drobež",
+    "link": "https://www.rtvslo.si/gospodarstvo/novi-predsednik-uprave-darsa-je-peter-drobez/796281",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/05/15/67043421.jpg",
+    "date": 1791470340000
+   },
    {
     "title": "Britanski konzulat v Vzhodnem Jeruzalemu prenehal delovati",
     "link": "https://www.rtvslo.si/svet/bliznji-vzhod/britanski-konzulat-v-vzhodnem-jeruzalemu-prenehal-delovati/796284",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/okolje/letosnji-el-nino-bi-lahko-bil-eden-od-najmocnejsih-doslej/796274",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/08/67111106.jpg",
     "date": 1791466722000
-   },
-   {
-    "title": "Podpis za referendum o intervencijskem zakonu oddalo 42.694 volivcev",
-    "link": "https://www.rtvslo.si/slovenija/podpis-za-referendum-o-intervencijskem-zakonu-oddalo-42-694-volivcev/796270",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/24/67106569.jpg",
-    "date": 1791465949000
    }
   ],
   "zurnal": [
@@ -331,6 +331,20 @@
   ],
   "guardian": [
    {
+    "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/b1e48acaf30bada772a7a1031ed3f2bb915da235/731_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=4f0d983b206b773636b8567abd2d1b69",
+    "date": 1791470081000,
+    "titleSl": "Trumpov poskus prepovedi CNN, Politico in MS Now iz Bele hiše, da bi bil zaslišan na sodišču – v živo"
+   },
+   {
+    "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
+    "image": "https://i.guim.co.uk/img/media/6f517b8ce6a5ef1dcba53a4b4acdc0d07c3ae463/559_0_3901_3123/master/3901.jpg?width=140&quality=85&auto=format&fit=max&s=062d38f65ffb0407f1eb2837558ebc7b",
+    "date": 1791470065000,
+    "titleSl": "Odprta volišča v Holbornu in St Pancrasu nadomestne volitve – britanska politika v živo"
+   },
+   {
     "title": "French protest leaders warn action will continue until education demands are met – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
     "image": "https://i.guim.co.uk/img/media/a35e66a649d20f13fb2c3e1dc1fca586dbdffcd3/439_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a43a10b916785e5cacb4dab9a7dc1b34",
@@ -352,25 +366,11 @@
     "titleSl": "Britanski konzulat v vzhodnem Jeruzalemu bo ostal odprt kot misija Združenega kraljestva, pravi Ed Miliband"
    },
    {
-    "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/b1e48acaf30bada772a7a1031ed3f2bb915da235/731_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=4f0d983b206b773636b8567abd2d1b69",
-    "date": 1791469128000,
-    "titleSl": "Trumpov poskus prepovedi CNN, Politico in MS Now iz Bele hiše, da bi bil zaslišan na sodišču – v živo"
-   },
-   {
     "title": "Former Labour MP cleared over role in fraudulent Covid-19 testing company",
     "link": "https://www.theguardian.com/world/2026/oct/08/former-labour-mp-shahid-malik-cleared-over-role-fraudulent-covid-19-testing-company",
     "image": "https://i.guim.co.uk/img/media/5070f88e9630bd9d846e7cd145779f695be21d60/363_0_2913_2329/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=3c037fbb8a1d61787095fac47fe02969",
     "date": 1791468394000,
     "titleSl": "Nekdanji laburistični poslanec je razrešil vlogo v goljufivem podjetju za testiranje Covid-19"
-   },
-   {
-    "title": "Anne Carson wins Nobel prize in literature 2026",
-    "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-    "image": "https://i.guim.co.uk/img/media/6a654be294fa052899fd8b061483418b9cc7f121/0_17_1024_819/master/1024.jpg?width=140&quality=85&auto=format&fit=max&s=dc206dfefdc9d77826f85995113f499e",
-    "date": 1791468209000,
-    "titleSl": "Anne Carson je leta 2026 prejela Nobelovo nagrado za literaturo"
    }
   ],
   "spiegel": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "Eugenio Chacarra es líder del Open de España con un dedo del pie roto y puede retirarse",
+    "link": "https://elpais.com/deportes/2026-10-08/eugenio-chacarra-es-lider-del-open-de-espana-con-un-dedo-del-pie-roto-y-puede-retirarse.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/MVSATHILWRAZPCIXD23XSCUMBE.jpg?auth=0f34af0d6e6ca96c507b476681b4f38bb168d31b5632f085146f89073de08189",
+    "date": 1791469986000,
+    "titleSl": "Eugenio Chacarra je vodilni na OP Španije z zlomljenim prstom na nogi in se lahko upokoji"
+   },
+   {
     "title": "Beiras vs Fraga, el ardor de la vieja política",
     "link": "https://elpais.com/espana/2026-10-08/beiras-vs-fraga-el-ardor-de-la-vieja-politica.html",
     "image": "https://imagenes.elpais.com/resizer/v2/BIJ5VEZ3UHPCNOLPJL4A33XC6Q.jpg?auth=6e6c6bb3062d1bf6f80d0b1e134f57f75a40f562da78372fbdfe15a806931b0b",
@@ -628,13 +635,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223258_140357_video_1800.mp4",
     "date": 1791465394000,
     "titleSl": "Feijóo: \"Ne bomo dovolili poskusa čustvene manipulacije državljanov\""
-   },
-   {
-    "title": "La jueza Biedma narra una situación de “angustia” provocada por las supuestas maniobras del ‘caso Leire Díez’",
-    "link": "https://elpais.com/espana/2026-10-08/la-jueza-biedma-narra-una-situacion-de-angustia-provocada-por-las-supuestas-maniobras-del-caso-leire-diez.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/4A52KKXEK5OHHJPSV4DZ434VPU.jpg?auth=fd77779ea3172aebc73ac3bcbcbdc90976c1b6a056bc82a32d944bf81dd19652",
-    "date": 1791465244000,
-    "titleSl": "Sodnik Biedma pripoveduje o situaciji \"bolečine\", ki so jo povzročili domnevni manevri v \"primeri Leire Díez\""
    }
   ]
  },
