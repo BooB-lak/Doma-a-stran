@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T00:30:52.819Z",
+ "generatedAt": "2026-10-09T00:32:22.557Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
+    "link": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
+    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-fraud--mwcv/08dc-fraud--mwcv-mediumSquareAt3X.jpg",
+    "date": 1791505619000,
+    "titleSl": "Trumpova administracija suspendirala Microsoft iz programa zelene karte zaradi domnevnih goljufij z vizumi"
+   },
+   {
     "title": "ICE Agent Shoots Man in New York City",
     "link": "https://www.nytimes.com/2026/10/08/nyregion/ice-shooting-nyc-bronx.html",
     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08met-ice-shooting-ftvb/08met-ice-shooting-ftvb-mediumSquareAt3X.jpg",
@@ -232,16 +239,16 @@
     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08xp-carson-princeton-alt-wgpv/08xp-carson-princeton-alt-wgpv-mediumSquareAt3X.jpg",
     "date": 1791501534000,
     "titleSl": "Princeton praznuje Anne Carson, Nobelovo nagrajenko, ki ji je bil zavrnjen mandat"
-   },
-   {
-    "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
-    "link": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
-    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-fraud--mwcv/08dc-fraud--mwcv-mediumSquareAt3X.jpg",
-    "date": 1791499393000,
-    "titleSl": "Trumpova administracija suspendirala Microsoft iz programa zelene karte zaradi domnevnih goljufij z vizumi"
    }
   ],
   "bbc": [
+   {
+    "title": "'Stark warning' over ADHD and 'Andrew wins legal fight'",
+    "link": "https://www.bbc.co.uk/news/articles/cm8ezw2wjkxgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2b/live/fbfce8e0-c372-11f1-a64c-550be9e3c66b.png",
+    "date": 1791505818000,
+    "titleSl": "\"Stark warning\" nad ADHD in \"Andrew zmaga v pravnem boju\""
+   },
    {
     "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
     "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
     "date": 1791501070000,
     "titleSl": "Osumljenec, povezan z bombnim napadom v Monaku na milijonarja, prekine BBC"
-   },
-   {
-    "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
-    "link": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e1/live/b73fb250-c2ff-11f1-9955-5d2e13ff2bea.jpg",
-    "date": 1791500929000,
-    "titleSl": "Olivia Colman o virusnih Wickerjevih memih: \"To se mi še nikoli ni zgodilo\""
    }
   ],
   "aljazeera": [
@@ -457,7 +457,47 @@
     "titleSl": "Erschießungskommando v Teksasu - Hinrichtung von Amokläufer soll live übertragen werden"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Kanzler in der „Krone“ - Stocker: „Neuwahlen sehe ich aktuell nicht!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnVXI3UUYwS002Qnh3UmFrdGI2U1Bad0VRUXJnLW12RG1sTWNTLXFqcGdjOEVHdzByNnpSaDVnV2U3Zw?oc=5",
+    "image": "",
+    "date": 1791503944000,
+    "titleSl": "Kanzler in der „Krone“ - skladiščnik: „Neuwahlen sehe ich aktuell nicht!“"
+   },
+   {
+    "title": "Ihr Mondkalender",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tQjZ0LXJsQkthWTZkWGcwaTFqTFFTRHB4TVhkbURMeW0zMVVNcHY0M0RxNFFnVFYwMExNYnZHVmk5am0tWjd5WU5qQVU2Y2V0QmpwRmhMQQ?oc=5",
+    "image": "",
+    "date": 1791498142000
+   },
+   {
+    "title": "WERBUNG - 3 Themenwelten, 1 Ticket: Tulln wird zum Erlebnis!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hbk56b1NSbV9PeUc2VE1jR0ZyS1lqeFd5ZEx1WC14b1VlS3RyUklpV0h3Ny1zT25TLTVUdE9jRUViZw?oc=5",
+    "image": "",
+    "date": 1791496860000,
+    "titleSl": "WERBUNG - 3 Themenwelten, 1 vstopnica: Tulln wird zum Erlebnis!"
+   },
+   {
+    "title": "Blutbad in Bayern - Waffenkontrolle eskaliert: Beamte erschossen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0by1KaDZ1bkhwYjl4SmVKcHBfZll4eXBYTmluS1BuTWNPb211MzZ4RXJmUXFLUkhHWGVqQmp6NTFxZw?oc=5",
+    "image": "",
+    "date": 1791496680000,
+    "titleSl": "Blutbad v Bayernu - Waffenkontrolle eskaliert: Beamte erschossen"
+   },
+   {
+    "title": "Lader kippte um - Neben Raphael (8) wurde auch der Hofhund erdrückt",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pUjNhcWYzSGx6cm5EZTBCOHRnM3RTa21GNHRTMm1QYnVKa1ZCVUdlNG91bmhYc3BpWkt2Z2w0ZVJpU3c3TnZZ?oc=5",
+    "image": "",
+    "date": 1791495000000
+   },
+   {
+    "title": "Er hat Vorteile! - BMW iX4 Neue Klasse: Schräg, auch das Dach",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9JV2hpeXM1WWJMZEYzV2pVQVJBaHphUjQzOU9BUnlXazlEemxNcnlWMnk2NnhDY05adkRNNnkyM0VpQQ?oc=5",
+    "image": "",
+    "date": 1791494400000
+   }
+  ],
   "rainews": [
    {
     "title": "Ballando con le Stelle, Milly Carlucci: \"Muti, La Rocca, D&#x27;Urso? E&#x27; nato un triangolo...\"",
