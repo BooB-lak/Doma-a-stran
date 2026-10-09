@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T18:01:01.985Z",
+ "generatedAt": "2026-10-09T18:02:24.667Z",
  "sources": {
   "siol": [
    {
@@ -199,20 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "Republicans Are Worried About Gina Hinojosa. In Texas, I Saw Why.",
-    "link": "https://www.nytimes.com/2026/10/09/opinion/gina-hinojosa-governor-texas.html",
-    "image": "https://static01.nyt.com/images/2026/10/11/multimedia/09Goldberg/13lopez-bmkf-mediumSquareAt3X.jpg",
-    "date": 1791568808000,
-    "titleSl": "Republikance skrbi za Gino Hinojosa. V Teksasu sem videl zakaj."
-   },
-   {
-    "title": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
-    "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
-    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-nobel-leadall-plzh/09int-nobel-leadall-plzh-mediumSquareAt3X.jpg",
-    "date": 1791568541000,
-    "titleSl": "Navi Pillay, južnoafriška pravnica, je prejela Nobelovo nagrado za mir"
-   },
-   {
     "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
     "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-trump-icc-hbjz/09dc-trump-icc-hbjz-mediumSquareAt3X.jpg",
@@ -239,6 +225,20 @@
     "image": "https://static01.nyt.com/images/2026/10/10/multimedia/09obit-Ditka-cpfl-print1/09obit-Ditka-cpfl-mediumSquareAt3X.jpg",
     "date": 1791566855000,
     "titleSl": "Umrl je Mike Ditka, ognjeni trener Chicago Bearsov"
+   },
+   {
+    "title": "ICE Shooting in New York: What We Know",
+    "link": "https://www.nytimes.com/2026/10/09/nyregion/ice-shooting-nyc-bronx.html",
+    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09met-ice-wwk-vlpg/09met-ice-wwk-vlpg-mediumSquareAt3X.jpg",
+    "date": 1791565827000,
+    "titleSl": "Streljanje na LEDU v New Yorku: kaj vemo"
+   },
+   {
+    "title": "The Controversial Class That M.I.T. Is Paying a Professor Not to Teach",
+    "link": "https://www.nytimes.com/2026/10/09/us/mit-professor-michel-degraff-palestine-course.html",
+    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06nat-mit-professor-01-zfht/06nat-mit-professor-01-zfht-mediumSquareAt3X.jpg",
+    "date": 1791565162000,
+    "titleSl": "Kontroverzni predmet, ki ga mit plačuje profesorju, da ne poučuje"
    }
   ],
   "bbc": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/clean-3-1-1791567386.jpg?resize=1920%2C1080&quality=80",
+    "date": 1791567425000,
+    "titleSl": "Jerusalem Daily: ameriška dobrodelna organizacija za uporabo umetne inteligence za spremljanje učilnic v Gazi"
+   },
+   {
     "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
     "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac446fc5b93-1791248124_52008b-1791253386.jpg?resize=1200%2C630&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-08-17T143810Z_1231075570_RC280NA6B67K_RTRMADP_3_LATVIA-BELARUS-1791559245.jpg?resize=1920%2C1440",
     "date": 1791563606000,
     "titleSl": "\"Možen je val v slogu Ceute\": Mejne napetosti na vzhodnem boku Nata"
-   },
-   {
-    "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-    "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac8f79c46cf-1791555484.jpg?resize=1920%2C1440",
-    "date": 1791562049000,
-    "titleSl": "Na tisoče ljudi se je zbralo na protestu proti varčevalnim ukrepom v Bruslju sredi spopadov"
    }
   ],
   "guardian": [
@@ -403,21 +403,28 @@
     "titleSl": "Peter Maffay: »Nashville« je njegov 22. album številka ena"
    },
    {
-    "title": "Studium: Vom deutschen Aufstiegsversprechen ist wenig übrig geblieben",
-    "link": "https://www.spiegel.de/start/studium-vom-deutschen-aufstiegsversprechen-ist-wenig-uebrig-geblieben-a-94cb79b6-da44-45a8-80bf-41268c26b6f6#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/194108bd-a880-4943-8ccd-9efb55ebb769_w520_r2.08_fpx54.66_fpy50.jpg",
-    "date": 1791561960000,
-    "titleSl": "Studij: Vom deutschen Aufstiegsversprechen ist wenig übrig geblieben"
-   },
-   {
     "title": "News des Tages: Navanethem »Navi« Pillay erhält Friedensnobelpreis, Gerhard Schröder in Russland, Umsätze von Shein und Temu brechen ein",
     "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w520_r2.08_fpx28.09_fpy49.93.png",
     "date": 1791561300000,
     "titleSl": "Novice dneva: Navanethem \"Navi\" Pillay prejel Nobelovo nagrado za mir, Gerhard Schröder v Rusiji, prodaja Shein in Temu propadla"
+   },
+   {
+    "title": "China: Kompromiss bei Hybridautos – was der Deal für Europas Industrie bedeutet",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/e6f85f80-8ad5-414b-985a-c5577212ddee_w520_r2.08_fpx52.96_fpy50.jpg",
+    "date": 1791561060000,
+    "titleSl": "Kitajska: Kompromiss bei Hybridautos – was der Deal für Europas Industrie bedeutet"
    }
   ],
   "bild": [
+   {
+    "title": "Täter auf der Flucht - Zwei Clan-Mitglieder in Berlin angeschossen",
+    "link": "https://www.bild.de/regional/berlin/taeter-auf-der-flucht-zwei-clan-mitglieder-in-berlin-angeschossen-6ac9250b61b3d4c01d3e1873",
+    "image": "https://images.bild.de/6ac9250b61b3d4c01d3e1873/800d06cabbbe881e2c8083415d289fc2,d3bbdd75?w=1280",
+    "date": 0,
+    "titleSl": "Täter auf der Flucht - Zwei Clan-Mitglieder v Berlinu angeschossen"
+   },
    {
     "title": "Star verletzte sich beim DFB - Schlotterbeck-Überraschung beim BVB!",
     "link": "https://www.bild.de/sport/fussball/borussia-dortmund-ueberraschung-um-nico-schlotterbeck-gegen-werder-6ac924fb5528343575dfe7ed",
@@ -430,13 +437,6 @@
     "link": "https://www.bild.de/news/inland/19-jahre-lang-fehlte-von-ihr-jede-spur-knochenfund-koennte-raetsel-um-vermisste-kerstin-loesen-6ac8d5b15528343575dfe1d7",
     "image": "https://images.bild.de/6ac8d5b15528343575dfe1d7/108781e75670fb80c54eee106fffebee,e0b1013c?w=1280",
     "date": 0
-   },
-   {
-    "title": "Täter auf der Flucht - Zwei Clan-Mitglieder in Berlin angeschossen",
-    "link": "https://www.bild.de/news/taeter-auf-der-flucht-zwei-clan-mitglieder-in-berlin-angeschossen-6ac9250b61b3d4c01d3e1873",
-    "image": "https://images.bild.de/6ac9250b61b3d4c01d3e1873/800d06cabbbe881e2c8083415d289fc2,d3bbdd75?w=1280",
-    "date": 0,
-    "titleSl": "Täter auf der Flucht - Zwei Clan-Mitglieder v Berlinu angeschossen"
    },
    {
     "title": "„Das geht mir auf den Sack“ - Kultkicker tobt und macht Aufstiegsansage",
@@ -460,6 +460,18 @@
    }
   ],
   "krone": [
+   {
+    "title": "Saisonauftakt - Skigebiete freuen sich über Schnee von gestern",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwTWQta1piZm5sNDlxWG1YMU9xazRna3BLTHBmTmF6SHl2d2tva0dpeFFhczhja19rRmtaZjBWNnl3Zw?oc=5",
+    "image": "",
+    "date": 1791568800000
+   },
+   {
+    "title": "Kelag investierte - Schnellladenetz für E-Mobilität weiter ausgebaut",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DMXRPMFpRbEVacTR1QlRhd28wTm41SzV3Y0k5RUZubXFlZkRvclNzQnRQVXFlbHdNZnl5eEhLQkF4UQ?oc=5",
+    "image": "",
+    "date": 1791568800000
+   },
    {
     "title": "Video führte zu Täter - Mit gefundener Bankomatkarte Zigaretten eingekauft",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xWm1xWGJLb2RSc3JNN0Z2Wk1uR0JoS1dwY3owNG81UXZkUjM3RVlnS2lKRXRIdXhkcFU5NThwNmJ0dw?oc=5",
@@ -486,20 +498,6 @@
     "image": "",
     "date": 1791566340000,
     "titleSl": "Vojna Freigänger - Fahndung v Gradcu: Häftling aus Karlau entflohen"
-   },
-   {
-    "title": "Nach mauem Saisonstart - Fischer: „Keiner von uns ist damit zufrieden!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yV0w1NXVxbFlwaGkwN3RSNTAwY0k5dU1Vcmx1MHNiZGNBbk5CeHI3dzg5Y0lxMGRqM2VMNE1NYW9zUQ?oc=5",
-    "image": "",
-    "date": 1791566280000,
-    "titleSl": "Po počasnem začetku sezone - Fischer: \"Nihče od nas ni zadovoljen s tem!\""
-   },
-   {
-    "title": "Halbes Feld schon fix - WTA Finals: Zwei weitere Spielerinnen qualifiziert",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RY3Q1clZYdnJtalNZQjBTdFNfY1E0YW5zci1ydXUxaW4tWEsweElHa3BBZWU3M3JmU2xBMnk1RzMyUQ?oc=5",
-    "image": "",
-    "date": 1791566160000,
-    "titleSl": "Polovica igrišča je že urejena - WTA finale: kvalificirana sta še dva igralca"
    }
   ],
   "rainews": [
@@ -593,7 +591,7 @@
     "title": "Maricarmen y las elecciones del 29-N, en directo | Colau invita a Rufián a sumarse al Frente Amplio para “unificar a la izquierda a nivel estatal”",
     "link": "https://elpais.com/espana/2026-10-09/maricarmen-y-las-elecciones-del-29-n-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/OBVLX7WDXVBR5PHANIEA4TRHKY.jpg?auth=a4b8e55fd0bc43da9545c22de3c9bba65b1cf6423e1901cca550e285f81a16ec",
-    "date": 1791568380000,
+    "date": 1791568823000,
     "titleSl": "Maricarmen y las elecciones del 29-N, en directo | Colau invita a Rufián a sumarse al Frente Amplio para \"unificar a la izquierda a nivel estatal\""
    },
    {
