@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T14:26:22.745Z",
+ "generatedAt": "2026-10-10T14:28:21.259Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "V Gozd Martuljku gorela počitniška hiša",
+    "link": "https://www.zurnal24.si/slovenija/v-gozd-martuljku-gorela-pocitniska-hisa-466491",
+    "image": "https://www.zurnal24.si/media/img/7d/e8/b565b15463625b5d6c2b.jpeg",
+    "date": 1791642420000
+   },
+   {
     "title": "Suspenz za Ronalda",
     "link": "https://www.zurnal24.si/sport/nogomet/suspenz-za-ronalda-466490",
     "image": "https://www.zurnal24.si/media/img/1a/g5/f9ca7c7e559e38b31076.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/nogomet/napeto-tudi-tri-tedne-po-tekmi-tekmec-zdaj-zbodel-real-cestitke-466486",
     "image": "https://www.zurnal24.si/media/img/86/79/2160b63a2b1ed1a93acc.jpeg",
     "date": 1791630540000
-   },
-   {
-    "title": "Tragedija na naši cesti: mladi dostavljavec hrane ni preživel",
-    "link": "https://www.zurnal24.si/slovenija/crna-kronika/tragedija-na-nasi-cesti-mladi-motorist-ni-prezivel-466484",
-    "image": "https://www.zurnal24.si/media/img/ea/73/664242595599d787b8a5.jpeg",
-    "date": 1791630300000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+    "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/adc04a90-c4ae-11f1-ac13-6da90f5ff039.jpg",
+    "date": 1791642463000,
+    "titleSl": "Dedek Sare Sharif je dodelil skrbništvo nad njenimi brati in sestrami v Pakistanu"
+   },
+   {
     "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
     "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
@@ -264,13 +271,6 @@
     "titleSl": "Epic 190 podjetja Renshaw, rojenega v Middlesbroughu, dviga Avstralijo"
    },
    {
-    "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-    "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/adc04a90-c4ae-11f1-ac13-6da90f5ff039.jpg",
-    "date": 1791638526000,
-    "titleSl": "Dedek Sare Sharif je dodelil skrbništvo nad njenimi brati in sestrami v Pakistanu"
-   },
-   {
     "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
     "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cf/live/654d9660-c499-11f1-9a39-31b474234113.jpg",
@@ -286,6 +286,13 @@
    }
   ],
   "aljazeera": [
+   {
+    "title": "Has Yemen returned to ‘full-scale war’?",
+    "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7c0ce-1791475918.jpg?resize=1920%2C1440",
+    "date": 1791641424000,
+    "titleSl": "Se je Jemen vrnil v \"vojno v polnem obsegu\"?"
+   },
    {
     "title": "When streets become a workplace: Gaza workers convert tents into offices",
     "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2299497728-1791630862_49604e-1791631301.jpg?resize=1200%2C630&quality=80",
     "date": 1791637715000,
     "titleSl": "Verstappen je zmagal v kaotičnem sprintu Singapore GP F1, potem ko se je Russell zrušil"
-   },
-   {
-    "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
-    "link": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-10T071845Z_1459547873_RC250OABX3V4_RTRMADP_3_INDIA-POLITICS-GEN-Z-1791626580.jpg?resize=1920%2C1440",
-    "date": 1791636634000,
-    "titleSl": "Indijski voditelji \"ščurkov\" pridržani; New Delhi pod ključem"
    }
   ],
   "guardian": [
@@ -519,11 +519,10 @@
     "titleSl": "Študentje na ulicah za Gazo, pohodi v 50 mestih. Nacionalni shod \"Konec genocida\" v Rimu"
    },
    {
-    "title": "Vela, la carica dei 20.000 imbianca il Golfo di Trieste",
+    "title": "Barcolana 58, la carica dei 20.000 imbianca il Golfo di Trieste",
     "link": "https://www.rainews.it/maratona/2026/10/vela-la-carica-dei-20000-imbianca-il-golfo-di-trieste-db6c82de-3e76-4ead-a3ef-d066e8b37354.html",
     "image": "https://www.rainews.it/dl/img/2025/02/28/1740750055250_barcolana_.jpg",
-    "date": 1791639540000,
-    "titleSl": "Jadranje, naboj 20.000 beli Tržaški zaliv"
+    "date": 1791639540000
    },
    {
     "title": "F1, GP Singapore: Verstappen vince la Sprint, Antonelli (4°) allunga su Russell. Ora le qualifiche",
