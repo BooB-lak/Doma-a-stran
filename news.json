@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T04:02:24.603Z",
+ "generatedAt": "2026-10-10T04:04:22.774Z",
  "sources": {
   "siol": [
    {
@@ -199,13 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "What to Know About the Delhi Protests",
-    "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-    "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10india-protests-What-We-Know-bqth/10india-protests-What-We-Know-bqth-mediumSquareAt3X.jpg",
-    "date": 1791604598000,
-    "titleSl": "Kaj morate vedeti o protestih v Delhiju"
-   },
-   {
     "title": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
     "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-trump-russia2-zgvq/09dc-trump-russia2-zgvq-mediumSquareAt3X.jpg",
@@ -239,6 +232,13 @@
     "image": "https://static01.nyt.com/images/2026/10/18/nyregion/18met-professor/09met-professor-mediumSquareAt3X.jpg",
     "date": 1791591774000,
     "titleSl": "Za seboj je pustil milijone. Kdo bi ga dobil — njegova družina ali D.S.A.?"
+   },
+   {
+    "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+    "link": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-uae-flydubai-1-fctk/09int-uae-flydubai-1-fctk-mediumSquareAt3X.jpg",
+    "date": 1791591022000,
+    "titleSl": "Napadalec v letu FlyDubai naj bi se zaletel v izraelsko letališče, pravijo v Emiratis"
    }
   ],
   "bbc": [
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
-    "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
-    "image": "https://i.guim.co.uk/img/media/9919fc358dd352f139432f923b1667e89cbb3a6b/399_0_3649_2921/master/3649.jpg?width=140&quality=85&auto=format&fit=max&s=79a7279e862c19a65238d40c9302baf3",
-    "date": 1791604610000,
-    "titleSl": "Orkan Isaias je dosegel Florido s hudimi posledicami, ki se pričakujejo v več zveznih državah"
-   },
-   {
     "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/9610b0c75f0b852329fa1e2d582d691ffa77c026/391_0_3747_3000/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=f19fd015ad4980d85f036cbf0f4482a2",
@@ -357,6 +350,13 @@
     "image": "https://i.guim.co.uk/img/media/97d178364ca322987e71256403b6f39ff61ae807/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=3cf7cf41df795ba603033d28abc005e9",
     "date": 1791597032000,
     "titleSl": "Ključne stvari, ki jih morate vedeti o orkanu Isaias kot milijonih v okviru ukazov za evakuacijo"
+   },
+   {
+    "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
+    "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
+    "image": "https://i.guim.co.uk/img/media/da3e1b7cfa5004e6d63d6e58bbefb0a049d7fee8/1123_929_5720_4575/master/5720.jpg?width=140&quality=85&auto=format&fit=max&s=5cbac45b34ba08347ea75553fcf17681",
+    "date": 1791596673000,
+    "titleSl": "Orkan Isaias je dosegel Florido s hudimi posledicami, ki se pričakujejo v več zveznih državah"
    },
    {
     "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
@@ -415,6 +415,19 @@
   ],
   "bild": [
    {
+    "title": "Auch in Ihrer Nähe? - Die besten deutschen Pilz-Regionen",
+    "link": "https://www.bild.de/leben-wissen/lifestyle/pilze-sammeln-an-diesen-deutschen-orten-sind-sie-am-erfolgreichsten-64f6ef437a4df45ab5a2a731",
+    "image": "https://images.bild.de/64f6ef437a4df45ab5a2a731/c1eac8d8afa19321ee3d39a531d8efe1,db1c630b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "BILD-Service zum Spiel - Gladbach peilt 200. Derby-Treffer an!",
+    "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-gladbach-peilt-200-derby-treffer-an-6ac90a7b5528343575dfe698",
+    "image": "https://images.bild.de/6ac90a7b5528343575dfe698/469a1ed4993d7996199e6d847ad3e609,508841bf?w=1280",
+    "date": 0,
+    "titleSl": "BILD-Service zum Spiel - Gladbach Peilt 200. Derby-Treffer an!"
+   },
+   {
     "title": "Nürnberg vor Oben-Knaller - Justvan: „Wolfsburg hat mehr Druck“",
     "link": "https://www.bild.de/sport/fussball/1-fc-nuernberg-justvan-sieht-wolfsburg-im-topspiel-klar-unter-druck-6abf83cbd4d0c24ec26d155d",
     "image": "https://images.bild.de/6abf83cbd4d0c24ec26d155d/3e0532210c19c321940da4e49fee021e,4c04048d?w=1280",
@@ -437,18 +450,6 @@
     "link": "https://www.bild.de/politik/inland/kein-rot-gruen-rot-maechtiger-spd-fluegel-warnt-berliner-genossen-6ac92ae961b3d4c01d3e18b0",
     "image": "https://images.bild.de/6ac92ae961b3d4c01d3e18b0/2efff83d4da5742f454286d430ae9fbb,b0ed719a?w=1280",
     "date": 0
-   },
-   {
-    "title": "Er spielte für Erfurt und Chemnitz - Mergel legt sich vorm Ost-Kracher fest",
-    "link": "https://www.bild.de/sport/fussball/er-spielte-fuer-erfurt-und-chemnitz-mergel-legt-sich-vorm-ost-kracher-fest-6ac921c25528343575dfe7ce",
-    "image": "https://images.bild.de/6ac921c25528343575dfe7ce/da46715b6dc42df7140b27429cd4d7ea,5721f2a1?w=1280",
-    "date": 0
-   },
-   {
-    "title": "L'Osteria-Gründer (63) stirbt bei Rallye - Der Porsche zerschellte im Felsenmeer",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/losteria-gruender-klaus-rader-63-stirbt-bei-mallorca-rallye-porsche-zerschellte-im-felsenmeer-6ac91a615528343575dfe788",
-    "image": "https://images.bild.de/6ac91a615528343575dfe788/f701e4a9a5747b5b128587281f964f8a,d48e6d78?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -461,6 +462,12 @@
    {
     "title": "Trotz Gästeansturm - Warum der Druck auf Buschenschänken steigt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6UWFTLXB4LXZBQ2JhMGtaSm1tbENEanhfUndrNnZoRWpnSGoyWHNqNXhqMUZkTlVNek1XTWhzOExkdw?oc=5",
+    "image": "",
+    "date": 1791604800000
+   },
+   {
+    "title": "Neues Quartier gesucht - Bettwanzen-Horror: Notschlafstelle vor Räumung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05b1RrYlBzamNQYjhsU1dFMnVvREFyWmtVeGZaTU0zVEVhN2FQWjFXMUM4R1JaT0tYSVB3LThjRjhRUQ?oc=5",
     "image": "",
     "date": 1791604800000
    },
@@ -479,12 +486,6 @@
    {
     "title": "„Flüssiger“ Wohnraum - Wie das Eigenheim zur neuen Geldquelle wird",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55d0VSNUNoY1lSMV9ZWmZqM0IyWmhXNFotRTF0VEhKRm50RXBiWFZWRnpjWGx0VEptOFpTMXdNSlhRUQ?oc=5",
-    "image": "",
-    "date": 1791604800000
-   },
-   {
-    "title": "Freund half ihr dabei - 15-Jährige zündete aus Frust eigene Schule an",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZMS1fRENqYWJnendpcHZZRmtUOG11QldJLWoySnpHanNRZ2ZwcVRKNmd6dEtYT0NlbFBWVkYtYkNBUQ?oc=5",
     "image": "",
     "date": 1791604800000
    }
