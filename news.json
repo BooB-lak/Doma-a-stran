@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T01:16:22.646Z",
+ "generatedAt": "2026-10-10T01:18:21.574Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+    "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-anthropic-zptw/09biz-anthropic-zptw-mediumSquareAt3X.jpg",
+    "date": 1791594870000,
+    "titleSl": "Antropna sredstva so poskušala izpolniti vizumske obrazce na spletišču državne uprave"
+   },
+   {
     "title": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
     "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html",
     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-exexcution-jtfz/09dc-exexcution-jtfz-mediumSquareAt3X.jpg",
@@ -225,13 +232,6 @@
     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09met-belgal1-qfpl/09met-belgal1-qfpl-mediumSquareAt3X.jpg",
     "date": 1791590322000,
     "titleSl": "Kaj vemo o človeku, ki ga je ustrelil ICE"
-   },
-   {
-    "title": "Anthropic Says Its A.I. Agents Attempted to Access a Range of Government Sites",
-    "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-anthropic-zptw/09biz-anthropic-zptw-mediumSquareAt3X.jpg",
-    "date": 1791587942000,
-    "titleSl": "Antropic pravi, da so njegovi agenti A.I. poskušali dostopati do številnih vladnih lokacij"
    },
    {
     "title": "Inside Erik Prince’s Mercenary Deal in Congo",
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Dual quakes devastate southern Panama",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791593541.jpg?resize=1699%2C1080&quality=80",
-    "date": 1791593595000,
-    "titleSl": "Dvojni potresi opustošili južno Panamo"
-   },
-   {
     "title": "Israeli drone attack wounds six in Lebanon near Syria border",
     "link": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2025/07/AFP__20250716__66W73Z7__v4__HighRes__SyriaIsraelConflictGolan-1752665761.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-22.43.20-1791582483.png?resize=1920%2C1161",
     "date": 1791582781000,
     "titleSl": "Trump je potrdil, da bo strelec iz Fort Hooda usmrčen s strelskim vodom"
+   },
+   {
+    "title": "US judge rules Trump administration’s use of voter data unlawful",
+    "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T172131Z_985355389_RC2SZNA54XGH_RTRMADP_3_USA-VANCE-1791579738.jpg?resize=1920%2C1440",
+    "date": 1791581341000,
+    "titleSl": "Ameriški sodnik razsodil, da je uporaba podatkov volivcev s strani Trumpove administracije nezakonita"
    }
   ],
   "guardian": [
@@ -472,6 +472,12 @@
     "date": 1791592513000
    },
    {
+    "title": "Das freie Wort - Vorschläge zum Sparen",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PNndRV3hPaVkxX1ZvQmlvbTZKOUpSdmcxbmJlcGJkWGxiZ2p3emdqYzgzU3NCTFE3Q1E0NUhjVEJEZUR4MzQwUGdIY1IwOWxCVGNfcHJhWXlBcmlKMzRFbS1kbE1nMzM2MXFtag?oc=5",
+    "image": "",
+    "date": 1791592513000
+   },
+   {
     "title": "Das freie Wort - Das Kopftuchverbot ist nicht rassistisch",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81bHJwRTROY1piV2tjNW02RHQwanc0QkFEeFExeEdxYjFhNkFKZ0haWWg5dEtoY0o0Z0NfQVpRS2hNd2tIODdmMXlrUUtLV29YUFIyZ2loOGplWFJwS2NPU3ZfRmdCbWVnSGFkeA?oc=5",
     "image": "",
@@ -480,12 +486,6 @@
    {
     "title": "Das freie Wort - Personaleinsparungen",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iUHBMQnNweUMwTVhyQzRHRVlrbFA0dWZreVRLdHp5SDRjVEdMSW1ucEZfYjBldUYtcmhydGlEUXZEVWwzNVBqbUtKeGRzR2o4WnNNNFNUbVV0RWkteWhvSVVYLS1leEU4S1I4Mw?oc=5",
-    "image": "",
-    "date": 1791592465000
-   },
-   {
-    "title": "Das freie Wort - 12 Prozent",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xQUc2eWs4ZDNiY29hOUkzaXhjZUpJd0dNSERhNk1HcHdZbXBRbnRiQ2pYdzdJMS1KMVVZNWdxNV9KRXhxM1FWUEtrV20tbkFkU1dEcjFlTEJ2WFBiYU9tQXBaNEtNQ1ZCRUI4Wg?oc=5",
     "image": "",
     "date": 1791592465000
    }
