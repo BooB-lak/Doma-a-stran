@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T14:22:22.826Z",
+ "generatedAt": "2026-10-10T14:24:22.036Z",
  "sources": {
   "siol": [
    {
@@ -21,7 +21,7 @@
     "date": 1791640980000
    },
    {
-    "title": "Primož Roglič zelo aktiven na čelu glavnine #vŽivo",
+    "title": "Primož Roglič popustil, favoriti prežijo #vŽivo",
     "link": "https://siol.net/sportal/kolesarstvo/dirka-po-lombardiji-2026-703640",
     "image": "https://siol.net/media/img/2d/b3/e51b67d8d7870188c930.jpeg",
     "date": 1791640020000
@@ -40,6 +40,12 @@
    }
   ],
   "24ur": [
+   {
+    "title": "Arsenal po preobratu do zmage",
+    "link": "https://www.24ur.com/sport/nogomet/arsenal-po-preobratu-do-zmage.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/39b58086cbb104b0b6a9_63661270.jpg?v=3f4f&fop=fp:0.63:0.16",
+    "date": 1791642040000
+   },
    {
     "title": "Hamilton slavil tudi v drugem delu kvalifikacij",
     "link": "https://www.24ur.com/sport/formula1/kdo-bo-vn-singapurja-zacel-s-prvega-startnega-polozaja.html",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/svet-ki-ga-vecina-ne-vidi.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/8466db47ccfd9d5fe332_63659949.jpg?v=4c20&fop=fp:0.46:0.44",
     "date": 1791640208000
-   },
-   {
-    "title": "'Katalog grozot': pet ur več na teden, plača pa enaka",
-    "link": "https://www.24ur.com/novice/gospodarstvo/katalog-grozot-pet-ur-vec-na-teden-placa-pa-enaka.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jul2026/82ddba9f1cbc1d50f918_63612526.jpg?v=7d53&fop=fp:0.44:0.41",
-    "date": 1791639186000
    }
   ],
   "rtvslo": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Suspenz za Ronalda",
+    "link": "https://www.zurnal24.si/sport/nogomet/suspenz-za-ronalda-466490",
+    "image": "https://www.zurnal24.si/media/img/1a/g5/f9ca7c7e559e38b31076.jpeg",
+    "date": 1791642000000
+   },
+   {
     "title": "Drama v Cerkljah, poklicati so morali dodatnega rešilca",
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/drama-v-cerkljah-poklicati-so-morali-dodatnega-resilca-466489",
     "image": "https://www.zurnal24.si/media/img/f1/2a/b7996d9bc86a548d4876.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/tragedija-na-nasi-cesti-mladi-motorist-ni-prezivel-466484",
     "image": "https://www.zurnal24.si/media/img/ea/73/664242595599d787b8a5.jpeg",
     "date": 1791630300000
-   },
-   {
-    "title": "Katero tipko največkrat pritisnejo vozniki v daciah? Presenečeni boste ...",
-    "link": "https://www.zurnal24.si/avto/katero-tipko-najveckrat-pritisnejo-vozniki-v-daciah-preseneceni-boste-465499",
-    "image": "https://www.zurnal24.si/media/img/bc/7c/e322ca8b5dd8a4c4b560.jpeg",
-    "date": 1791630000000
    }
   ],
   "reuters": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Has Yemen returned to ‘full-scale war’?",
+    "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7c0ce-1791475918.jpg?resize=1920%2C1440",
+    "date": 1791641424000,
+    "titleSl": "Se je Jemen vrnil v \"vojno v polnem obsegu\"?"
+   },
+   {
     "title": "When streets become a workplace: Gaza workers convert tents into offices",
     "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/3-1791623005.jpeg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2299497728-1791630862_49604e-1791631301.jpg?resize=1200%2C630&quality=80",
     "date": 1791637715000,
     "titleSl": "Verstappen je zmagal v kaotičnem sprintu Singapore GP F1, potem ko se je Russell zrušil"
-   },
-   {
-    "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
-    "link": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-10T071845Z_1459547873_RC250OABX3V4_RTRMADP_3_INDIA-POLITICS-GEN-Z-1791626580.jpg?resize=1920%2C1440",
-    "date": 1791636634000,
-    "titleSl": "Indijski voditelji \"ščurkov\" pridržani; New Delhi pod ključem"
    }
   ],
   "guardian": [
@@ -416,15 +416,22 @@
   ],
   "bild": [
    {
-    "title": "Ulf Poschardt über Literatur von heute - „Nur Süßmäuse auf der Buchmesse“",
-    "link": "https://www.bild.de/unterhaltung/ulf-poschardt-ueber-literatur-von-heute-nur-suessmaeuse-auf-der-buchmesse-6ac931f461b3d4c01d3e190c",
-    "image": "https://images.bild.de/6ac931f461b3d4c01d3e190c/db7fea53f532c400e183b760f0671534,163920c1?w=1280",
-    "date": 0
+    "title": "Chaos-Sprint in Singapur - Ermittlungen gegen neun (!) Fahrer",
+    "link": "https://www.bild.de/sport/mehr-sport/ermittlungen-gegen-neun-fahrer-nach-chaos-sprint-in-singapur-6aca1d5f194cb627ee596f5b",
+    "image": "https://images.bild.de/6aca1d5f194cb627ee596f5b/32de03bc22bff1fb4727961b855709c9,10749ac3?w=1280",
+    "date": 0,
+    "titleSl": "Chaos-Sprint v Singapurju - Ermittlungen gegen neun (!) Fahrer"
    },
    {
     "title": "Nach Fellhauers Blitz-Tor - Die größten 8,4-Sekunden-Rekorde",
     "link": "https://www.bild.de/sport/fussball/die-groessten-8-4-sekunden-rekorde-nach-fellhauers-blitz-tor-6aca432b61b3d4c01d3e2486",
     "image": "https://images.bild.de/6aca432b61b3d4c01d3e2486/e7a9962f6973dad6bde8aafb0eebe0f3,aff06c33?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Ulf Poschardt über Literatur von heute - „Nur Süßmäuse auf der Buchmesse“",
+    "link": "https://www.bild.de/unterhaltung/ulf-poschardt-ueber-literatur-von-heute-nur-suessmaeuse-auf-der-buchmesse-6ac931f461b3d4c01d3e190c",
+    "image": "https://images.bild.de/6ac931f461b3d4c01d3e190c/db7fea53f532c400e183b760f0671534,163920c1?w=1280",
     "date": 0
    },
    {
@@ -445,16 +452,16 @@
     "link": "https://www.bild.de/sport/fussball/2-1-gegen-magdeburg-ii-jena-gruselt-sich-zum-heimsieg-6aca2a098f3fe9bdf0564a19",
     "image": "https://images.bild.de/6aca2a098f3fe9bdf0564a19/2611529413a838bbd687e29f47dc7bad,ccb8424d?w=1280",
     "date": 0
-   },
-   {
-    "title": "In Equador - Flugzeug stürzt auf befahrene Straße",
-    "link": "https://www.bild.de/news/war-hier-gold-an-bord-flugzeug-stuerzt-auf-befahrene-strasse-6ac8f9015528343575dfe53c",
-    "image": "https://images.bild.de/6ac8f9015528343575dfe53c/2a753ee1926aacfe04bc80c8e044907a,f0c383fa?w=1280",
-    "date": 0,
-    "titleSl": "V Ekvadorju - Flugzeug stürzt auf befahrene Straße"
    }
   ],
   "krone": [
+   {
+    "title": "Start gegen den GAK - Salzburg-Routinier Lainer feiert Saisondebüt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvOFhyM2ZWcTQxWlhSSUR3Yjh2RkpldjVJT3VWa3k2b1ZleGprWVh6Y0ZXb0VabndMb1VDcGxfcENudw?oc=5",
+    "image": "",
+    "date": 1791642000000,
+    "titleSl": "Start gegen den Gak - Salzburg-Routinier Lainer feiert Saisondebüt"
+   },
    {
     "title": "Weiterer Brennpunkt - Im Park: „Kind hielt Drogenspritze in der Hand“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBTX0VEUXRHeURUTHkyNjZKOWlESFVqM19sUEc3WElXZmpVS0xKUHg5RFhxV3VtNm94ZnJGbzRfbE1Jdw?oc=5",
@@ -476,13 +483,6 @@
     "date": 1791640800000
    },
    {
-    "title": "Musikverein-Auftakt - Die berauschende Essenz wahrhaftigen Seins",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkS3VsLVRtYjc5ZFJhSDZGMGd0bVZVeTNaYUJhTW03MHR3T3dqTUhjQjlaXzAzVkFMVm1SQ2JRQU1WQQ?oc=5",
-    "image": "",
-    "date": 1791640800000,
-    "titleSl": "Musikverein kickoff - Opojna esenca resničnega bitja"
-   },
-   {
     "title": "„Ringo“ fand die Beute - Brutal: Kollegen mit Stanleymesser überfallen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85MDgyVy0zUHR3Yzk2YlB5YXlRQS13aDVVVlNISDczdXVCeU1xMm1MampHQ1N5UExSTkplSm5rWFVDdw?oc=5",
     "image": "",
@@ -490,11 +490,11 @@
     "titleSl": "\"Ringo\" je našel plen - brutalen: kolegi so bili napadeni z nožem Stanley"
    },
    {
-    "title": "Klares Nein - Erbschaftssteuer: Wallner widerspricht Gewessler",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KTVcxc1VGMGJXaFZwUzFKTzdrSHpOX1BSYUFvVWlncVFRYlQ1QVNxSWJCUVMtOEZKR2U1LVlCeUlLQQ?oc=5",
+    "title": "Musikverein-Auftakt - Die berauschende Essenz wahrhaftigen Seins",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkS3VsLVRtYjc5ZFJhSDZGMGd0bVZVeTNaYUJhTW03MHR3T3dqTUhjQjlaXzAzVkFMVm1SQ2JRQU1WQQ?oc=5",
     "image": "",
     "date": 1791640800000,
-    "titleSl": "Jasno ne - davek na dediščino: Wallner nasprotuje Gewesslerju"
+    "titleSl": "Musikverein kickoff - Opojna esenca resničnega bitja"
    }
   ],
   "rainews": [
@@ -615,7 +615,7 @@
    {
     "title": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: “Estos son los de cuantos menos voten, mejor”",
     "link": "https://elpais.com/espana/elecciones-generales/2026-10-10/sanchez-se-centra-en-vivienda-y-ataca-al-pp-por-dudar-del-voto-por-correo-estos-son-los-de-cuantos-menos-voten-mejor.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/LXQHJECHMRCY3CSZCGD2JITFDA.jpg?auth=d006667aa1e15de507ad11e28d573c3de10db4162c4a19f307e4fbadf3bf8ca8",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261010/1224023_120926_video_1800.mp4",
     "date": 1791634841000,
     "titleSl": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: \"Estos son los de cuantos menos voten, mejor\""
    },
