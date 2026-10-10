@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T10:42:22.523Z",
+ "generatedAt": "2026-10-10T10:44:23.527Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Kordiša zasliševala policija, a pravi, da ne bo tiho",
+    "link": "https://www.zurnal24.si/slovenija/kordisa-zaslisevala-policija-a-pravi-da-ne-bo-tiho-466483",
+    "image": "https://www.zurnal24.si/media/img/b4/4e/9b250643e684b7683dc3.png",
+    "date": 1791628980000
+   },
+   {
     "title": "Video: Pri Reki 11 vagonov zgrmelo v prepad",
     "link": "https://www.zurnal24.si/svet/video-pri-reki-11-vagonov-zgrmelo-v-prepad-466482",
     "image": "https://www.zurnal24.si/media/img/e6/6d/d9ccf3562085bc9202b6.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/svet/trump-spet-nori-zaradi-nobela-ne-bomo-pozabili-norveska-466480",
     "image": "https://www.zurnal24.si/media/img/5a/cd/28ea02575afd933e5e66.jpeg",
     "date": 1791620160000
-   },
-   {
-    "title": "Kranjec: Ne smučam za 15. mesta",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/ne-smucam-za-15-mesta-466478",
-    "image": "https://www.zurnal24.si/media/img/ca/8a/3bc0f7d48d3e4fe254c2.jpeg",
-    "date": 1791619020000
    }
   ],
   "reuters": [
@@ -243,18 +243,18 @@
   ],
   "bbc": [
    {
+    "title": "Verstappen wins sprint after Russell crashes out",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfb3/live/62065770-c495-11f1-a915-a1cdb09cbaf6.jpg",
+    "date": 1791628964000,
+    "titleSl": "Verstappen zmaga v sprintu, potem ko je Russell padel"
+   },
+   {
     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
     "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7c/live/d6fb5d30-c488-11f1-a915-a1cdb09cbaf6.jpg",
     "date": 1791628174000,
     "titleSl": "Napad ruske jadralne bombe na Zaporožje je ubil najmanj 15 ljudi"
-   },
-   {
-    "title": "Verstappen wins sprint after Russell crashes out",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfb3/live/62065770-c495-11f1-a915-a1cdb09cbaf6.jpg",
-    "date": 1791627742000,
-    "titleSl": "Verstappen zmaga v sprintu, potem ko je Russell padel"
    },
    {
     "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
@@ -419,18 +419,18 @@
   ],
   "bild": [
    {
-    "title": "DSDS-Star Sarah Engels - „Das Leben ist manchmal einfach ungerecht“",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/dsds-star-sarah-engels-das-leben-ist-manchmal-einfach-ungerecht-6aba68125ddef1bff0d20d84",
-    "image": "https://images.bild.de/6aba68125ddef1bff0d20d84/6f25ff7fa9e98d0a5a698c6ad1db5fb7,3e0057c7?w=1280",
-    "date": 0,
-    "titleSl": "Zvezda DSDS Sarah Engels - \"Življenje je včasih preprosto nepošteno\""
-   },
-   {
     "title": "Exekution soll live gestreamt werden - Amoklauf-Überlebender will SEINE Hinrichtung sehen",
     "link": "https://www.bild.de/news/ausland/live-uebertragung-in-den-usa-ueberlebender-will-amoklaeufer-bei-hinrichtung-zuschauen-6ac9cdd95528343575dfed37",
     "image": "https://images.bild.de/6ac9cdd95528343575dfed37/c0fa9364a62e6329f020f110e1c9ed4e,c4031b90?w=1280",
     "date": 0,
     "titleSl": "Usmrtitev bodo prenašali v živo - preživeli divjanje želi videti SVOJO usmrtitev"
+   },
+   {
+    "title": "DSDS-Star Sarah Engels - „Das Leben ist manchmal einfach ungerecht“",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/dsds-star-sarah-engels-das-leben-ist-manchmal-einfach-ungerecht-6aba68125ddef1bff0d20d84",
+    "image": "https://images.bild.de/6aba68125ddef1bff0d20d84/6f25ff7fa9e98d0a5a698c6ad1db5fb7,3e0057c7?w=1280",
+    "date": 0,
+    "titleSl": "Zvezda DSDS Sarah Engels - \"Življenje je včasih preprosto nepošteno\""
    },
    {
     "title": "Wegen Rot-Grün-Rot in Berlin - Merz-Vertrauter Weimer droht SPD-Chefs",
@@ -510,8 +510,15 @@
     "title": "F1, GP Singapore: Verstappen vola nella Sprint, davanti a Hamilton e Leclerc",
     "link": "https://www.rainews.it/maratona/2026/10/f1-gp-singapore-antonelli-russell-norris-piastri-verstappen-leclerc-hamilton-cronaca-qualifiche-sprint-gara-news-aggiornamenti-6561e422-2a04-4d28-b61b-e1b4e4491559.html",
     "image": "https://www.rainews.it/dl/img/2026/10/10/1791628298744_DUFG.jpg",
-    "date": 1791628860000,
+    "date": 1791628980000,
     "titleSl": "F1, VN Singapurja: Verstappen uspel v sprintu pred Hamiltonom in Leclercom"
+   },
+   {
+    "title": "Tg3 Persone del 10/10/2026",
+    "link": "https://www.rainews.it/rubriche/tg3persone/video/2026/10/Tg3-Persone-del-10102026-6c0bb489-047f-4c04-9995-2d9273534e62.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/08/1791467689601_TG3Persone_2048x1152.jpg",
+    "date": 1791628962000,
+    "titleSl": "Tg3 Ljudje z dne 10.10.2026"
    },
    {
     "title": "Il Cremlino dopo la telefonata con Trump: \"Comprensione su alcune proposte Usa per la de-escalation\"",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/10/1791625124503_bracciale.jpg",
     "date": 1791624960000,
     "titleSl": "Ali družbeni mediji krepijo pojav populizma? \"Nekaj ​​logike najde plodna tla\""
-   },
-   {
-    "title": "Tg1 Dialogo del 10/10/2026",
-    "link": "https://www.rainews.it/rubriche/tg1dialogo/video/2026/10/Tg1-Dialogo-del-10102026-a24ec6bc-33ea-4465-b40b-6c2829ed1bce.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/30547699_1.jpg",
-    "date": 1791623274000,
-    "titleSl": "Tg1 Dialogo del 10.10.2026"
    }
   ],
   "lemonde": [
@@ -595,18 +595,18 @@
   ],
   "elpais": [
    {
+    "title": "Ucrania golpea una gran terminal petrolera rusa tras el acuerdo del diésel de Trump y Putin",
+    "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/PCIZTKDRZBKMDK74GEQAJTYNQ4.jpg?auth=fcacf9e2b00d5158b0c9c03b11a3ffb9e606af98e03575e20cf38f53e2c04268",
+    "date": 1791628891000,
+    "titleSl": "Ukrajina je po dogovoru Trump-Putin o dizelskem gorivu udarila v glavni ruski naftni terminal"
+   },
+   {
     "title": "Maricarmen y las elecciones del 29-N, en directo | Ayuso vuelve a poner en duda el voto por correo: “Sánchez va a intentar hacer todas las trampas que pueda”",
     "link": "https://elpais.com/espana/2026-10-10/maricarmen-y-las-elecciones-del-29-n-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/AAPV4LQWJJGVLGHI4GQDXR2544.jpg?auth=21037e09144066694fe66ec418bbcc962ad6d2a81e08bdda61343eaa2955cec0",
     "date": 1791626278000,
     "titleSl": "Maricarmen y las elecciones del 29-N, en directo | Ayuso vuelve a poner en duda el voto por correo: \"Sánchez va a intentar hacer todas las trampas que pueda\""
-   },
-   {
-    "title": "Ucrania golpea una gran terminal petrolera rusa tras el acuerdo del diésel de Trump y Putin",
-    "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/PCIZTKDRZBKMDK74GEQAJTYNQ4.jpg?auth=fcacf9e2b00d5158b0c9c03b11a3ffb9e606af98e03575e20cf38f53e2c04268",
-    "date": 1791623984000,
-    "titleSl": "Ukrajina je po dogovoru Trump-Putin o dizelskem gorivu udarila v glavni ruski naftni terminal"
    },
    {
     "title": "La carta de Woody Allen a Jordi Mollà para que participara en su película: “Si no aceptas, tal vez en el futuro. Solo tengo 90 años”",
