@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T20:44:21.555Z",
+ "generatedAt": "2026-10-10T20:46:21.186Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Olimpija zapravila lepo prednost, Celje slavilo doma",
+    "link": "https://www.zurnal24.si/sport/nogomet/olimpija-zapravila-lepo-prednost-celje-slavilo-doma-466497",
+    "image": "https://www.zurnal24.si/media/img/ba/fc/b0f57256ce354597bdc0.jpeg",
+    "date": 1791663300000
+   },
+   {
     "title": "Huda nesreča, glavna cesta več kot dve uri zaprta",
     "link": "https://www.zurnal24.si/slovenija/huda-nesreca-glavna-cesta-je-ze-vec-kot-dve-uri-zaprta-466496",
     "image": "https://www.zurnal24.si/media/img/da/26/1035b9570932584f69ec.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/nogomet/kaksna-blamaza-bayern-dobil-najhitrejsi-gol-v-zgodovini-bundeslige-466493",
     "image": "https://www.zurnal24.si/media/img/be/98/3dee5134aa84ee5fb392.jpeg",
     "date": 1791647160000
-   },
-   {
-    "title": "Ob odsotnosti Pogija padel 121 let star rekord",
-    "link": "https://www.zurnal24.si/sport/kolesarstvo/ob-odsotnosti-pogija-padel-rekord-po-121-letih-najmlajsi-zmagovalec-466492",
-    "image": "https://www.zurnal24.si/media/img/7c/37/74e9a3d5a2f8cad90e5c.jpeg",
-    "date": 1791643140000
    }
   ],
   "reuters": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Rubio pledges US cooperation in Marine-linked murder case",
-    "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6aca9c7f-1791663231.jpg?resize=1920%2C1440",
-    "date": 1791664236000,
-    "titleSl": "Rubio obljubil sodelovanje ZDA v primeru umora, povezanega z morjem"
-   },
-   {
     "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791663170.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2299556151-1791659981.jpg?resize=1200%2C675",
     "date": 1791661630000,
     "titleSl": "Manchester United, ki ga ima desetčlanski Tottenham, medtem ko se težave za oba nadaljujejo"
+   },
+   {
+    "title": "Trump says Ukraine needs a new president who will agree to end the war",
+    "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T213346Z_1147429410_RC2XZNAB7AFX_RTRMADP_3_USA-TRUMP-1791584205_66905b-1791660743.jpg?resize=1200%2C630&quality=80",
+    "date": 1791660757000,
+    "titleSl": "Trump pravi, da Ukrajina potrebuje novega predsednika, ki se bo strinjal s koncem vojne"
    }
   ],
   "guardian": [
@@ -417,10 +417,23 @@
   ],
   "bild": [
    {
+    "title": "Nach Debatte um unseren Nationalelf-Kapitän - KIMMICHS KAMPFANSAGE",
+    "link": "https://www.bild.de/sport/fussball/joshua-kimmich-mit-kampfansage-nach-kritik-in-der-nationalmannschaft-6aca6c9561b3d4c01d3e2737",
+    "image": "https://images.bild.de/6aca6c9561b3d4c01d3e2737/22100db82e57f478482cfe746b248c4d,38745a7b?w=1280",
+    "date": 0
+   },
+   {
     "title": "Bei seinem letzten Rennen auf Hawaii - Drama um deutschen Triathlon-Star",
     "link": "https://www.bild.de/sport/mehr-sport/patrick-lange-muss-ironman-hawaii-verletzt-aufgeben-6aca96ea808c7090e84e7db0",
     "image": "https://images.bild.de/6aca96ea808c7090e84e7db0/3e84de7fed466a56b4565778d642795b,8754c3e2?w=1280",
     "date": 0
+   },
+   {
+    "title": "Angriffe immer perfider - Russen-Drohne trifft Kindergarten",
+    "link": "https://www.bild.de/news/ausland/angriffe-immer-perfider-russen-drohne-trifft-kindergarten-6aca9ed903e55ccb4e8bd892",
+    "image": "https://images.bild.de/6aca9ed903e55ccb4e8bd892/bfc105168f5967977d610dab0c00f934,f96a2225?w=1280",
+    "date": 0,
+    "titleSl": "Angriffe immer perfider - vrtec Russen-Drohne trifft"
    },
    {
     "title": "Riesen-Drama zwischen Nürnberg und Wolfsburg - Das verrückteste Zweitliga-Spiel der Saison!",
@@ -440,19 +453,6 @@
     "image": "https://images.bild.de/6aca8c9e61b3d4c01d3e291f/db02ec7d634d9aad2f068c18be170d3f,736eaf36?w=1280",
     "date": 0,
     "titleSl": "Ventilatorji v Sorge um „Mandy“-Sänger - Barry Manilow muss wieder Konzerte absagen"
-   },
-   {
-    "title": "0:6-Debakel in Leipzig - Die Horror-Noten der Eintracht-Stars",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-die-horror-noten-nach-der-0-6-klatsche-in-leipzig-6aca60cc8f3fe9bdf0564d99",
-    "image": "https://images.bild.de/6aca60cc8f3fe9bdf0564d99/ecafa266befef40549525c3527a6476e,4bfc055a?w=1280",
-    "date": 0,
-    "titleSl": "0:6-Debakel v Leipzigu - Die Horror-Noten der Eintracht-Stars"
-   },
-   {
-    "title": "Nach Debatte um unseren Nationalelf-Kapitän - KIMMICHS KAMPFANSAGE",
-    "link": "https://www.bild.de/sport/fussball/joshua-kimmich-mit-kampfansage-nach-kritik-in-der-nationalmannschaft-6aca6c9561b3d4c01d3e2737",
-    "image": "https://images.bild.de/6aca6c9561b3d4c01d3e2737/22100db82e57f478482cfe746b248c4d,38745a7b?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -584,7 +584,7 @@
     "title": "Real Madrid - Villarreal, en directo, el partido de LaLiga en vivo | Vinicius es expulsado tras haber agarrado del pelo a Saliba",
     "link": "https://elpais.com/deportes/futbol/2026-10-10/real-madrid-villarreal-en-directo-el-partido-de-laliga-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/W2XVDVKCFFPODPC5RU4HJGBHAQ.jpg?auth=ca81ad94775af2a289dbdf57185519ff7e1fda30fcebc06f616ea30bd18662a5",
-    "date": 1791664811000
+    "date": 1791665033000
    },
    {
     "title": "El Barça muerde más que el Getafe",
