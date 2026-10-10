@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T18:08:21.774Z",
+ "generatedAt": "2026-10-10T18:10:33.794Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Meritimo in Porto izenačena ob polčasu (1:1)*",
     "link": "https://www.24ur.com/sport/nogomet/maritimo-pred-izjemno-zahtevno-nalogo-proti-portu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/d776a800820a9846b675_63646870.jpg?v=b194&fop=fp:0.49:0.11",
-    "date": 1791655639000
+    "date": 1791655720000
    },
    {
     "title": "Železniška nesreča: kako so pripravljene sile za zaščito in reševanje?",
@@ -79,14 +79,26 @@
   ],
   "rtvslo": [
    {
-    "title": "Cene goriv bodo predvidoma ostale skoraj nespremene, pocenitev naj bi znašala pol centa ali manj",
-    "link": "https://www.rtvslo.si/gospodarstvo/cene-goriv-bodo-predvidoma-ostale-skoraj-nespremene-pocenitev-naj-bi-znasala-pol-centa-ali-manj/796466",
+    "title": "Ilirija v Tivoliju spet ostala praznih rok",
+    "link": "https://www.rtvslo.si/sport/kosarka/jadranska-liga/ilirija-v-tivoliju-spet-ostala-praznih-rok/796509",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/10/67111906.jpg",
+    "date": 1791655795000
+   },
+   {
+    "title": "Cene goriv bodo predvidoma ostale skoraj nespremenjene, pocenitev naj bi znašala pol centa ali manj",
+    "link": "https://www.rtvslo.si/gospodarstvo/cene-goriv-bodo-predvidoma-ostale-skoraj-nespremenjene-pocenitev-naj-bi-znasala-pol-centa-ali-manj/796466",
     "image": "https://img.rtvcdn.si/_up/upload/2024/03/25/66169693.jpg",
     "date": 1791652696000
    },
    {
-    "title": "Portugalska zveza suspendirala Cristiana Ronalda",
-    "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/portugalska-zveza-suspendirala-cristiana-ronalda/796507",
+    "title": "Verstappen do jubilejnega 50. pola v Singapurju",
+    "link": "https://www.rtvslo.si/sport/formula-1/verstappen-do-jubilejnega-50-pola-v-singapurju/796508",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/10/67111903.jpg",
+    "date": 1791652498000
+   },
+   {
+    "title": "Portugalska zveza suspendirala Ronalda, a pričakuje vrnitev že novembra",
+    "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/portugalska-zveza-suspendirala-ronalda-a-pricakuje-vrnitev-ze-novembra/796507",
     "image": "https://img.rtvcdn.si/_up/upload/2026/06/24/67055861.jpg",
     "date": 1791650977000
    },
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/sport/preostali-sporti/jasmina-in-bostjan-macek-cetrta-na-evropskem-prvenstvu/796505",
     "image": "https://img.rtvcdn.si/_up/upload/2018/08/03/65518528.jpg",
     "date": 1791648519000
-   },
-   {
-    "title": "V šolah po ZDA prepovedanih kar 12.000 knjig: skoraj podvojeno število v primerjavi z letom prej",
-    "link": "https://www.rtvslo.si/kultura/knjige/v-solah-po-zda-prepovedanih-kar-12-000-knjig-skoraj-podvojeno-stevilo-v-primerjavi-z-letom-prej/796497",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/10/67111868.jpg",
-    "date": 1791643342000
-   },
-   {
-    "title": "Po dogovoru Trumpa in Putina o dobavi ruskega goriva Nemčija vztraja pri sankcijah proti Rusiji",
-    "link": "https://www.rtvslo.si/svet/evropa/po-dogovoru-trumpa-in-putina-o-dobavi-ruskega-goriva-nemcija-vztraja-pri-sankcijah-proti-rusiji/796498",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/05/05/67040525.jpg",
-    "date": 1791642807000
    }
   ],
   "zurnal": [
@@ -334,7 +334,7 @@
     "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
     "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
     "image": "https://i.guim.co.uk/img/media/cd489a4b072e75d97586f5e2831c84af6d063ae8/498_0_4777_3821/master/4777.jpg?width=140&quality=85&auto=format&fit=max&s=2852496d686224b0b5d09054fffaf994",
-    "date": 1791655295000,
+    "date": 1791655183000,
     "titleSl": "Posodobitve orkana Isaias v živo: opozorilo o \"spinoff tornadih\", saj je več sto tisoč brez elektrike"
    },
    {
@@ -415,6 +415,18 @@
   ],
   "bild": [
    {
+    "title": "Spätes Coming-out - Früher liebten wir Frauen. Heute daten wir Männer",
+    "link": "https://www.bild.de/leben-wissen/psychologie-liebe/sexuelle-fluiditaet-warum-maenner-nicht-ploetzlich-schwul-werden-6a7b3b64630361c899229392",
+    "image": "https://images.bild.de/6a7b3b64630361c899229392/35b63ec4695b8146758bc177da04c5a6,2a72a0f0?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Es geht um pflegende Angehörige - Sozialverband geht auf Linnemann los",
+    "link": "https://www.bild.de/politik/inland/es-geht-um-urlaub-fuer-pflegende-angehoerige-sozialverband-geht-auf-linnemann-los-6ac0c5dcc00ec0a4cc07acd2",
+    "image": "https://images.bild.de/6ac0c5dcc00ec0a4cc07acd2/9d9f954b33efc4f6727c5ffdfb739d32,90908b66?w=1280",
+    "date": 0
+   },
+   {
     "title": "Brisante Szene - Coman will Ronaldo nicht anspielen",
     "link": "https://www.bild.de/sport/fussball/brisante-szene-coman-will-ronaldo-nicht-anspielen-6aca75748f1ae671e6ab9649",
     "image": "https://images.bild.de/6aca75748f1ae671e6ab9649/92175377c8fe992336d9136563a795b5,16c95d12?w=1280",
@@ -438,22 +450,15 @@
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/laurenz-pesch-packt-aus-gigi-soll-brenda-erneut-umworben-haben-6ac88e3c20ea1ccf408fe623",
     "image": "https://images.bild.de/6ac88e3c20ea1ccf408fe623/be5d22b055b5d528cb0d8d9cf5f3e31e,5c5f873c?w=1280",
     "date": 0
-   },
-   {
-    "title": "Schock-Sieg in Hoffenheim - Saison-Aus für HSV-Kapitän Remberg?",
-    "link": "https://www.bild.de/sport/fussball/hsv-schock-sieg-in-hoffenheim-saison-aus-fuer-kapitaen-remberg-6aca6c645528343575dff6aa",
-    "image": "https://images.bild.de/6aca6c645528343575dff6aa/a3233f748d237589d2e941e62ba65af0,323ef28e?w=1280",
-    "date": 0,
-    "titleSl": "Schock-Sieg v Hoffenheimu - Saison-Aus für HSV-Kapitän Remberg?"
-   },
-   {
-    "title": "Diesel-Deal mit Putin - Selenskyj wirft Trump Schwäche vor",
-    "link": "https://www.bild.de/politik/praesident-trump-usa-wollen-wieder-diesel-aus-russland-importieren-6ac939e861b3d4c01d3e1968",
-    "image": "https://images.bild.de/6ac939e861b3d4c01d3e1968/4d0a83599a7422aa0ea5cb8f0c4e8442,82ce172?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Präsident unter Druck - Tschechiens Regierung bei Kommunalwahl im Aufwind",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0Sk40S19BdXpCNm9fREFsYUFCYWFRR3NhSlFDaFFWMWs1ZWZXMHlsd2xBQXluTjcta1RrQ0o5X0ViUQ?oc=5",
+    "image": "",
+    "date": 1791655620000
+   },
    {
     "title": "Nach Paketen nun Flüge - ÖVP treibt Preis für Frieden in der Koalition hoch",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41bHVubWllUDZfV2NOdGJTV2Z3QnVQX0dkakw3dkN2TmJQTExuXzJybFNTZm5SVGppWFNkVnBsMnVBZw?oc=5",
@@ -485,13 +490,6 @@
     "image": "",
     "date": 1791654153000,
     "titleSl": "Torej lange reicht Menge - Diesel-Deal: Putin frohlockt, Trump bleibt durstig"
-   },
-   {
-    "title": "Die Stimmen zum Spiel - Semlic: „Gegentore viel zu einfach hergegeben“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhdUwwNTM1ZUZ0R2hsMllNd1BMejJvSW5YSzU1V2F0aVRmZkg4QUVGVjhkWjFoMDhuR1ZHamxDdjJodw?oc=5",
-    "image": "",
-    "date": 1791653940000,
-    "titleSl": "Die Stimmen zum Spiel - Semlic: „Gegentore viel zu einfach hergeben“"
    }
   ],
   "rainews": [
