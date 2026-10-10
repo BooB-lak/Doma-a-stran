@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-10T20:46:21.186Z",
+ "generatedAt": "2026-10-10T20:48:21.813Z",
  "sources": {
   "siol": [
+   {
+    "title": "Monaco zakockal zmago, a ostaja neporažen, Slovenec še čaka na debi",
+    "link": "https://siol.net/sportal/nogomet/francosko-prvenstvo-6-krog-sobota-703588",
+    "image": "https://siol.net/media/img/f4/95/376a0141c663ace1de33.jpeg",
+    "date": 1791665220000
+   },
    {
     "title": "Slovenski dragulj na klopi pospremil poraz na San Siru",
     "link": "https://siol.net/sportal/nogomet/italijansko-prvenstvo-6-krog-703633",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/trumpov-podpredsednik-ostro-nad-dogovor-s-putinom-to-nima-nobenega-smisla-703676",
     "image": "https://siol.net/media/img/32/b3/7abdc5b861841b79ba7e.jpeg",
     "date": 1791661260000
-   },
-   {
-    "title": "Velenjske rokometašice končale evropsko sezono",
-    "link": "https://siol.net/sportal/rokomet/velenjske-rokometasice-iz-srbije-s-petimi-goli-zaostanka-703113",
-    "image": "https://siol.net/media/img/7a/66/873e3345a3329be29c94.jpeg",
-    "date": 1791661140000
    }
   ],
   "24ur": [
@@ -331,10 +331,17 @@
   ],
   "guardian": [
    {
+    "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+    "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+    "image": "https://i.guim.co.uk/img/media/c598f4211d657333cb70f50f9323c6797a68e632/0_0_4425_3540/master/4425.jpg?width=140&quality=85&auto=format&fit=max&s=b303d83f7e73ffd437f3de6abadd0340",
+    "date": 1791664975000,
+    "titleSl": "Trump pravi, da Ukrajina potrebuje novega vodjo po dizelskem dogovoru z Rusijo"
+   },
+   {
     "title": "Hurricane Isaias latest updates: at least four people dead and hundreds of thousands without power",
     "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
     "image": "https://i.guim.co.uk/img/media/cd489a4b072e75d97586f5e2831c84af6d063ae8/498_0_4777_3821/master/4777.jpg?width=140&quality=85&auto=format&fit=max&s=2852496d686224b0b5d09054fffaf994",
-    "date": 1791663836000,
+    "date": 1791664923000,
     "titleSl": "Najnovejše novice o orkanu Isaias: vsaj štirje mrtvi in več sto tisoč brez elektrike"
    },
    {
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/900eda7e04bdab2d04ee65b672a788a8b3995522/286_0_2859_2287/master/2859.jpg?width=140&quality=85&auto=format&fit=max&s=bf002dfaf99d8128fd01f03dcb6377dd",
     "date": 1791658809000,
     "titleSl": "Hanson je vedno bolj podoben de facto opozicijskemu voditelju. V CPAC-u ji je Angus Taylor ogrel sedež"
-   },
-   {
-    "title": "Albanese wants universal childcare to be his legacy. But paying for it isn’t as easy as ABC",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics",
-    "image": "https://i.guim.co.uk/img/media/edccf892d2d308fc139f4e9c68e1d065d5f697ce/47_0_1912_1530/master/1912.jpg?width=140&quality=85&auto=format&fit=max&s=127665b914c552f8a5c89cec76b26e9d",
-    "date": 1791658807000,
-    "titleSl": "Albanese želi, da je univerzalno varstvo otrok njegova zapuščina. Toda plačilo za to ni tako enostavno kot ABC"
    }
   ],
   "spiegel": [
@@ -417,9 +417,33 @@
   ],
   "bild": [
    {
+    "title": "L’Osteria-Gründer Klaus Rader (†63) stürzt ab - Das Todeswrack",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/bild-war-am-unfallort-neue-details-zum-unfalltod-des-losteria-gruenders-6ac94c9a5528343575dfe9e5",
+    "image": "https://images.bild.de/6ac94c9a5528343575dfe9e5/9e1cc666d078787990f0dccabf93ec5c,31d09ed5?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Am Todesfelsen schimmert eine ölige Flüssigkeit - Hier stürzte der L’Osteria-Gründer in die Tiefe",
+    "link": "https://www.bild.de/news/hier-starb-klaus-rader-am-felsen-hinter-mir-ist-uns-eine-fluessigkeit-aufgefallen-6aca8ca161b3d4c01d3e2923",
+    "image": "https://images.bild.de/6aca8ca161b3d4c01d3e2923/53646d704f91deac3debc3971eadea9a,cf1125f3?w=1280",
+    "date": 0
+   },
+   {
+    "title": "RiesenDrama zwischen Nürnberg und Wolfsburg - Das verrückteste Zweitliga-Spiel der Saison!",
+    "link": "https://www.bild.de/sport/fussball/nuernberg-gegen-wolfsburg-4-4-drama-mit-dramatischer-nachspielzeit-6aca9359a643b8e649b83a75",
+    "image": "https://images.bild.de/6aca9359a643b8e649b83a75/9df20831e7893e5a52e28d014513d7e6,34fa1def?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nach Debatte um unseren Nationalelf-Kapitän - KIMMICHS KAMPFANSAGE",
     "link": "https://www.bild.de/sport/fussball/joshua-kimmich-mit-kampfansage-nach-kritik-in-der-nationalmannschaft-6aca6c9561b3d4c01d3e2737",
     "image": "https://images.bild.de/6aca6c9561b3d4c01d3e2737/22100db82e57f478482cfe746b248c4d,38745a7b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Mit einem Jahr Anlauf - Der beste HSV-Poulsen",
+    "link": "https://www.bild.de/sport/fussball/hsv-der-beste-poulsen-mit-einem-jahr-anlauf-6aca93465528343575dff8f1",
+    "image": "https://images.bild.de/6aca93465528343575dff8f1/79b274bbbde3b62661fd7eb7ee274556,eb245997?w=1280",
     "date": 0
    },
    {
@@ -427,32 +451,6 @@
     "link": "https://www.bild.de/sport/mehr-sport/patrick-lange-muss-ironman-hawaii-verletzt-aufgeben-6aca96ea808c7090e84e7db0",
     "image": "https://images.bild.de/6aca96ea808c7090e84e7db0/3e84de7fed466a56b4565778d642795b,8754c3e2?w=1280",
     "date": 0
-   },
-   {
-    "title": "Angriffe immer perfider - Russen-Drohne trifft Kindergarten",
-    "link": "https://www.bild.de/news/ausland/angriffe-immer-perfider-russen-drohne-trifft-kindergarten-6aca9ed903e55ccb4e8bd892",
-    "image": "https://images.bild.de/6aca9ed903e55ccb4e8bd892/bfc105168f5967977d610dab0c00f934,f96a2225?w=1280",
-    "date": 0,
-    "titleSl": "Angriffe immer perfider - vrtec Russen-Drohne trifft"
-   },
-   {
-    "title": "Riesen-Drama zwischen Nürnberg und Wolfsburg - Das verrückteste Zweitliga-Spiel der Saison!",
-    "link": "https://www.bild.de/sport/fussball/nuernberg-gegen-wolfsburg-4-4-drama-mit-dramatischer-nachspielzeit-6aca9359a643b8e649b83a75",
-    "image": "https://images.bild.de/6aca9359a643b8e649b83a75/0f1c352c3aeeeb3b1531631c293aff79,c85ecfd1?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Wegen einer Beerdigung - Die brutale 100.000-Euro-Strafe der Hells Angels",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/schutzgeld-hells-angels-erpressen-bordell-chef-um-100-000-euro-6ac75f836e0a564ee52e8e78",
-    "image": "https://images.bild.de/6ac75f836e0a564ee52e8e78/cd1e8e412981dd2240e5b9bfb4eb5f5d,727aaa5f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Fans in Sorge um „Mandy“-Sänger - Barry Manilow muss wieder Konzerte absagen",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/barry-manilow-mandy-saenger-muss-wieder-konzerte-absagen-6aca8c9e61b3d4c01d3e291f",
-    "image": "https://images.bild.de/6aca8c9e61b3d4c01d3e291f/db02ec7d634d9aad2f068c18be170d3f,736eaf36?w=1280",
-    "date": 0,
-    "titleSl": "Ventilatorji v Sorge um „Mandy“-Sänger - Barry Manilow muss wieder Konzerte absagen"
    }
   ],
   "krone": [
