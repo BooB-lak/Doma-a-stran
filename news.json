@@ -1,13 +1,7 @@
 {
- "generatedAt": "2026-10-11T17:01:00.498Z",
+ "generatedAt": "2026-10-11T17:02:24.003Z",
  "sources": {
   "siol": [
-   {
-    "title": "Volišča so se zaprla, začenja se preštevanje glasov",
-    "link": "https://siol.net/novice/slovenija/volisca-so-se-zaprla-zacenja-se-prestevanje-glasov-703713",
-    "image": "https://siol.net/media/img/e6/c5/b2fee8c7b4c1f3398e4a.jpeg",
-    "date": 1791738000000
-   },
    {
     "title": "Kenijec Kipruto in Etiopijka Feysa zmagala v Chicagu",
     "link": "https://siol.net/sportal/atletika/kenijec-kipruto-in-etiopijka-feysa-zmagala-v-chicagu-703711",
@@ -37,6 +31,12 @@
     "link": "https://siol.net/sportal/hokej/icehl-11-oktober-703699",
     "image": "https://siol.net/media/img/16/82/81d23362f5efe29c748e.jpeg",
     "date": 1791735000000
+   },
+   {
+    "title": "Neuerjeva napaka za zgodovinsko hiter gol Augsburga",
+    "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-5-krog-neuer-bayern-augsburg-703566",
+    "image": "https://siol.net/media/img/3d/ba/0e94637cd7b2190f4579.jpeg",
+    "date": 1791734400000
    }
   ],
   "24ur": [
@@ -79,6 +79,24 @@
   ],
   "rtvslo": [
    {
+    "title": "Odločitev o RTV-prispevku. Kaj so obkrožili volivci?",
+    "link": "https://www.rtvslo.si/slovenija/referendumi-2026/referendum-o-ukinitvi-rtv-prispevka/odlocitev-o-rtv-prispevku-kaj-so-obkrozili-volivci/796574",
+    "image": "https://img.rtvcdn.si/_up/upload/2020/07/17/65687181.jpg",
+    "date": 1791738052000
+   },
+   {
+    "title": "Referendum o pogojevanju socialne pomoči z družbenokoristnim delom",
+    "link": "https://www.rtvslo.si/slovenija/referendumi-2026/referendum-o-pogojevanju-socialne-pomoci-z-druzbenokoristnim-delom/referendum-o-pogojevanju-socialne-pomoci-z-druzbenokoristnim-delom/796575",
+    "image": "https://img.rtvcdn.si/_up/upload/2021/01/11/65854744.jpg",
+    "date": 1791738046000
+   },
+   {
+    "title": "Referendum o parlamentarni preiskavi",
+    "link": "https://www.rtvslo.si/slovenija/referendumi-2026/referendum-o-parlamentarni-preiskavi/referendum-o-parlamentarni-preiskavi/796568",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/11/67112134.jpg",
+    "date": 1791738002000
+   },
+   {
     "title": "Peking: \"Pisatelji z obeh strani Tajvanske ožine bi morali odločno zagovarjati nacionalno stališče\"",
     "link": "https://www.rtvslo.si/kultura/knjige/peking-pisatelji-z-obeh-strani-tajvanske-ozine-bi-morali-odlocno-zagovarjati-nacionalno-stalisce/796571",
     "image": "https://img.rtvcdn.si/_up/upload/2026/05/20/67044989.jpg",
@@ -87,7 +105,7 @@
    {
     "title": "Čakanje na glasovanje na volišču omnia. DVK: Vsi bodo lahko glasovali.",
     "link": "https://www.rtvslo.si/slovenija/referendumi-2026/cakanje-na-glasovanje-na-voliscu-omnia-dvk-vsi-bodo-lahko-glasovali/796573",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/11/67112200.jpg",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/11/67112206.jpg",
     "date": 1791737337000
    },
    {
@@ -95,24 +113,6 @@
     "link": "https://www.rtvslo.si/okolje/v-bruslju-vec-deset-tisoc-ljudi-zahtevalo-odlocnejse-ukrepe-proti-podnebnim-spremembam/796572",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/11/67112190.jpg",
     "date": 1791736257000
-   },
-   {
-    "title": "Znamka Sampled z najboljšo kolekcijo na 17. tednu mode",
-    "link": "https://www.rtvslo.si/zabava-in-slog/popkultura/moda/znamka-sampled-z-najboljso-kolekcijo-na-17-tednu-mode/796526",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/11/67112085.jpg",
-    "date": 1791736093000
-   },
-   {
-    "title": "Ob 17.30: Liverpool − Manchester City 0:0 (izključen Gravenberch)",
-    "link": "https://www.rtvslo.si/sport/nogomet/anglesko-nogometno-prvenstvo/ob-17-30-liverpool-manchester-city-0-0-izkljucen-gravenberch/796564",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/11/67112197.jpg",
-    "date": 1791732453000
-   },
-   {
-    "title": "Krimovke se tudi iz Nemčije vračajo praznih rok",
-    "link": "https://www.rtvslo.si/sport/rokomet/krimovke-se-tudi-iz-nemcije-vracajo-praznih-rok/796565",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/05/08/67041635.jpg",
-    "date": 1791732373000
    }
   ],
   "zurnal": [
@@ -331,10 +331,17 @@
   ],
   "guardian": [
    {
+    "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi-led coalition says",
+    "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+    "image": "https://i.guim.co.uk/img/media/9b4e6e48853e9dd686eb9b4b5721f686040d96b3/0_34_1130_903/master/1130.jpg?width=140&quality=85&auto=format&fit=max&s=a89714f589804a9a73d43e1bcfbc7946",
+    "date": 1791737345000,
+    "titleSl": "Letališče v Rijadu je po smrtonosnem raketnem napadu Huti ponovno udarilo, pravi koalicija pod vodstvom Savdske Arabije"
+   },
+   {
     "title": "Zelenskyy signals support for Russia-Ukraine ‘energy ceasefire’ after surprise Trump announcement – live updates",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
     "image": "https://i.guim.co.uk/img/media/364e267f5046e17aa517e0e159f2c8d2154218ce/616_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=a5ba1f2de783d83ebac92561b4faf797",
-    "date": 1791737100000,
+    "date": 1791737215000,
     "titleSl": "Zelenski po presenetljivi Trumpovi izjavi podpira \"energetsko prekinitev ognja\" med Rusijo in Ukrajino – posodobitve v živo"
    },
    {
@@ -343,13 +350,6 @@
     "image": "https://i.guim.co.uk/img/media/fe53f23f7789989347c58c5f95c551cdd9cedc33/0_634_989_791/master/989.jpg?width=140&quality=85&auto=format&fit=max&s=cdd3fc0813d849c5f90d7940cd073309",
     "date": 1791736747000,
     "titleSl": "Bližnjevzhodna kriza v živo: letališče v Riadu je ponovno prizadelo, saj so Huti prevzeli odgovornost za napad, v katerem je umrlo 12 ljudi"
-   },
-   {
-    "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi-led coalition says",
-    "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-    "image": "https://i.guim.co.uk/img/media/9b4e6e48853e9dd686eb9b4b5721f686040d96b3/0_34_1130_903/master/1130.jpg?width=140&quality=85&auto=format&fit=max&s=a89714f589804a9a73d43e1bcfbc7946",
-    "date": 1791735074000,
-    "titleSl": "Letališče v Rijadu je po smrtonosnem raketnem napadu Huti ponovno udarilo, pravi koalicija pod vodstvom Savdske Arabije"
    },
    {
     "title": "Donald Tusk says man accused of plotting to kill him detained",
@@ -453,6 +453,12 @@
   ],
   "krone": [
    {
+    "title": "Schwimm-Meeting - Frühform macht Hoffnung auf großes Saisonziel",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UUmpGaVloQ1YtQmRya3lkNTliUGNKSVZJc3h6dkpVMFItNWZ6MnQ3YW9IU3Nid29pdl9JbVkxd1R0Zw?oc=5",
+    "image": "",
+    "date": 1791738000000
+   },
+   {
     "title": "Sammelt alle Fälle - Kater entlaufen: Tüftler baut Karte für Fundtiere",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FalhpNHhsWHdpV2NlTWU3LUIxLVRsWW95Z0p0ckVaSzVvbTlhdGE3VmVFZ1g1eGY0UnNDbkVGc0MwZw?oc=5",
     "image": "",
@@ -466,7 +472,7 @@
     "titleSl": "Literatura im Zentrum - Bücherliebe in und rund um Wiener Neustadt"
    },
    {
-    "title": "Nach Verletzungspause - Rapid-Stürmer trifft mit dem ersten Ballkontakt",
+    "title": "Nach Verletzungspause - Rapids Mbuyi trifft mit dem ersten Ballkontakt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12dWU1RzczOEVXb3F6MjYzQzRQd2taYzlTcmdxWUJLU2k3amJkX3l1WVk1LVJ2RnBQNVpKc3MycGJOUQ?oc=5",
     "image": "",
     "date": 1791737880000
@@ -483,13 +489,6 @@
     "image": "",
     "date": 1791736200000,
     "titleSl": "Freude über Comeback - Supertalent Moser: \"Fühle mich endlich wieder gut\""
-   },
-   {
-    "title": "Brucknerhaus - Großer Klang zum Abschied: Welser-Möst in Linz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBsMlozdzliYVRuWXJuaWlsOUo2X3NUYTczMGV1SVlhXzJ5V1RpVUZQWVd6OGs1ZVB3WURhLWFGS2hkUQ?oc=5",
-    "image": "",
-    "date": 1791736200000,
-    "titleSl": "Brucknerhaus - Großer Klang zum Abschied: Welser-Möst v Linzu"
    }
   ],
   "rainews": [
