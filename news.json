@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T10:48:22.952Z",
+ "generatedAt": "2026-10-11T10:50:35.439Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Ukradla sta ji torbico, a nista vedela, da jima sledijo",
+    "link": "https://www.zurnal24.si/slovenija/ukradla-sta-ji-torbico-a-nista-vedela-da-jima-sledijo-466515",
+    "image": "https://www.zurnal24.si/media/img/0d/9f/a9bec8949c318c4f7c95.jpeg",
+    "date": 1791715740000
+   },
+   {
     "title": "Čudovit poklon Rogliču: Šampion na kolesu, še boljši človek",
     "link": "https://www.zurnal24.si/sport/kolesarstvo/cudovit-poklon-bore-roglicu-sampion-na-kolesu-se-boljsi-clovek-466514",
     "image": "https://www.zurnal24.si/media/img/b8/16/0bdd8900483efc24f6d5.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/to-je-po-oddaji-glasu-povedal-jansa-466512",
     "image": "https://www.zurnal24.si/media/img/02/38/778ff79209ac979335ca.jpeg",
     "date": 1791709920000
-   },
-   {
-    "title": "Oglasila je se predsednica Nataša Pirc Musar",
-    "link": "https://www.zurnal24.si/slovenija/oglasila-je-se-predsednica-natasa-pirc-musar-466511",
-    "image": "https://www.zurnal24.si/media/img/6c/d1/385d274c0e17cd12045f.jpeg",
-    "date": 1791709620000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Buildings swept away as flash floods hit central Nepal",
+    "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f39a/live/5ededcd0-c552-11f1-a64c-550be9e3c66b.jpg",
+    "date": 1791714842000,
+    "titleSl": "Hudourniške poplave so prizadele osrednji Nepal in odneslo stavbe"
+   },
+   {
     "title": "Man, 36, arrested six years on from double murder",
     "link": "https://www.bbc.co.uk/news/articles/cvglw0y7p10ro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1503/live/0d968630-4dc5-11f0-86d5-3b52b53af158.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f71c/live/49c28cc0-c548-11f1-a64c-550be9e3c66b.jpg",
     "date": 1791696423000,
     "titleSl": "Toksičnost in negotovost čakata Man City, ko se pripravljajo na napad na Liverpool"
-   },
-   {
-    "title": "Toxicity and uncertainty await Man City - will their season even matter?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc0/live/8da112e0-c499-11f1-b094-cb5c335b015a.jpg",
-    "date": 1791696423000,
-    "titleSl": "Toksičnost in negotovost čakata Man City – ali bo njihova sezona sploh pomembna?"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead",
-    "link": "https://www.aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261011__D2W39QT__v1__HighRes__MotoPrixInaMotogp-1791709421.jpg?resize=1920%2C1440",
-    "date": 1791714488000,
-    "titleSl": "Marco Bezzecchi zmaga v Indoneziji, Martin pa je prevzel vodstvo v MotoGP"
-   },
    {
     "title": "Anti-ICE protests in New York after man shot in car with child",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791708129.jpg?resize=1920%2C1080&quality=80",
     "date": 1791708232000,
     "titleSl": "Trump zahteva volitve v Ukrajini, pravi, da Zelenskemu ni uspelo končati vojne"
+   },
+   {
+    "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+    "link": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acb48a50b34-1791707301.jpg?resize=1920%2C1440",
+    "date": 1791707526000,
+    "titleSl": "Pakistan uvede izredne razmere v provinci, ki jo vodi stranka Imrana Khana"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
     "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/fe53f23f7789989347c58c5f95c551cdd9cedc33/0_634_989_791/master/989.jpg?width=140&quality=85&auto=format&fit=max&s=cdd3fc0813d849c5f90d7940cd073309",
-    "date": 1791714905000,
+    "date": 1791714997000,
     "titleSl": "Bližnjevzhodna kriza v živo: Huti opozarjajo potnike pred uporabo savdskega letališča po smrtonosnem napadu na Riad"
    },
    {
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Pfiffe trotz Sieg - Ostklub-Profi versteht die eigenen Fans nicht",
+    "link": "https://www.bild.de/sport/fussball/fc-carl-zeiss-jena-pfiffe-trotz-sieg-profi-hehne-versteht-die-eigenen-fans-nicht-6acb4fceae3fef9986cc062d",
+    "image": "https://images.bild.de/6acb4fceae3fef9986cc062d/d0235de474bb7f1663463be125a653a7,18a47136?w=1280",
+    "date": 0,
+    "titleSl": "Žvižgi kljub zmagi – profesionalec vzhodnega kluba ne razume lastnih navijačev"
+   },
+   {
     "title": "Operation steht an - Papst: „Knoten in meiner Lunge“",
     "link": "https://www.bild.de/politik/operation-steht-an-papst-knoten-in-meiner-lunge-6acb638a1457a7873ffae40a",
     "image": "https://images.bild.de/6acb638a1457a7873ffae40a/d9e7c4e72d56464701f918213e5338fc,9c8d2e35?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6ac8c99e59dfcd93a3d5f431/c75a13f2a4ac331e1799718f1e8f793d-landscape,f3bdfa68?w=1280",
     "date": 0,
     "titleSl": "Skrivnosti prazgodovine - Kako so dinozavri pravzaprav seksali?"
-   },
-   {
-    "title": "Kreml sieht „Wendepunkt“ - Jetzt schießt auch Elon Musk gegen Selenskyj!",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-unter-druck-elon-musk-fordert-nach-trump-neuen-praesidenten-in-der-ukraine-6acb3e495528343575dffdef",
-    "image": "https://images.bild.de/6acb3e495528343575dffdef/ed70055fc027a35dd5386202cfa4b07c,a5062d81?w=1280",
-    "date": 0,
-    "titleSl": "Kremelj vidi \"preobrat\" - Zdaj tudi Elon Musk strelja proti Zelenskemu!"
    }
   ],
   "krone": [
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "Shanghai Open, game over per gli azzurri: fuori anche Bolelli-Vavassori",
+    "link": "https://www.rainews.it/maratona/2026/10/tennis-atp-shanghai-masters-1000-news-aggiornamenti-video-cronaca-82ff4e28-70ea-4a98-9f04-6f6982734ccf.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/11/1791715665087_snaplytics.iophoto_.jpg",
+    "date": 1791715740000,
+    "titleSl": "Shanghai Open, konec tekme za Azzurre: izpadel tudi Bolelli-Vavassori"
+   },
+   {
     "title": "L&#x27;annuncio a sorpresa del Papa: \"Mi opero nei prossimi giorni per un nodulo al polmone\"",
     "link": "https://www.rainews.it/articoli/2026/10/lannuncio-del-papa-durante-langelus-mi-opero-nei-prossimi-giorni-per-un-nodulo-al-polmone-c9b006ec-0592-4388-8ed5-59524b05899c.html",
     "image": "https://www.rainews.it/dl/img/2026/10/11/1791713943765_Angelusframe.jpeg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2024/03/30/1711818013639_Lubianka.jpg",
     "date": 1791714000000,
     "titleSl": "FT, 007 opozorilo: Moskva bo razširila poskuse atentata na voditelje evropske obrambe"
-   },
-   {
-    "title": "Trump di nuovo contro Zelensky: \"All&#x27;Ucraina serve un nuovo leader, Putin vuole l&#x27;intesa\"",
-    "link": "https://www.rainews.it/maratona/2026/10/axios-trump-si-e-accordato-con-putin-dopo-che-zelensky-aveva-ignorato-le-sue-richiestetrump-put5in-4217dba1-5f7f-435c-a298-b736b459a629.html",
-    "image": "https://www.rainews.it/dl/img/2026/9/23/1790137163784_CTP.jpg",
-    "date": 1791714000000,
-    "titleSl": "Trump di nuovo contro Zelensky: »All 'Ucraina serve un nuovo leader, Putin vuole l' intesa«"
    }
   ],
   "lemonde": [
