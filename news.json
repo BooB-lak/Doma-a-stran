@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T16:42:25.317Z",
+ "generatedAt": "2026-10-11T16:44:22.345Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Trump naznanil 'energetsko premirje' med Rusijo in Ukrajino",
+    "link": "https://www.24ur.com/novice/tujina/trump-naznanil-energetsko-premirje-med-rusijo-in-ukrajino.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2025/302bb11ca7936ac94fb0_63455365.jpg?v=562f&fop=fp:0.45:0.19",
+    "date": 1791736912000
+   },
+   {
     "title": "Že peti zaporedni poraz rokometašic Krima",
     "link": "https://www.24ur.com/sport/ostalo/ze-peti-zaporedni-poraz-rokometasic-krima.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/f86921d7fcd06fe6adcc_63650531.jpg?v=b01b&fop=fp:0.44:0.48",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/so-zeleli-izvesti-atentat-na-tuska-groznjo-jemljemo-smrtno-resno.html",
     "image": "https://images.24ur.com/media/images/213xX/Apr2025/6b1b8fde1d5198106f18_63393684.jpg?v=6fe4&fop=fp:0.48:0.41",
     "date": 1791729323000
-   },
-   {
-    "title": "Do 16. ure skupno 85 obvestil o domnevni kršitvi volilnega molka",
-    "link": "https://www.24ur.com/novice/slovenija/do-10-ure-53-obvestil-o-domnevni-krsitvi-volilnega-molka.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/9858d930d6aaab9a4465_63661446.jpg?v=5b0f&fop=fp:0.28:0.41",
-    "date": 1791729153000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Football fans speak about City’s charges as they face Liverpool",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791735512.jpg?resize=1920%2C1080&quality=80",
-    "date": 1791735525000,
-    "titleSl": "Nogometni navijači govorijo o obtožbah Cityja, ko se soočajo z Liver"
-   },
-   {
     "title": "At least five people missing as flash floods in Nepal sweep away houses",
     "link": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acb9f0b8db7-1791729419.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a63c0b9aa3eb-1784922297.jpg?resize=1920%2C1440",
     "date": 1791731735000,
     "titleSl": "Kako rešiti ICC"
+   },
+   {
+    "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+    "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acba24d-1791730253.jpg?resize=1920%2C1440",
+    "date": 1791731427000,
+    "titleSl": "Trump pravi, da se Ukrajina in Rusija strinjata z \"energetskim premirjem\""
    }
   ],
   "guardian": [
@@ -416,6 +416,18 @@
   ],
   "bild": [
    {
+    "title": "Gladbachs BILD-Noten - Vier Fünfen für die Derby-Verlierer!",
+    "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-vier-fuenfen-fuer-die-derby-verlierer-6acb35015528343575dffd76",
+    "image": "https://images.bild.de/6acb35015528343575dffd76/7279e58f1c6f36bc81b1dbbbd394eecd,1bb4efa6?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Chaos-Start beim London-Spiel - Prügel-Eklat in der NFL nach 13 Sekunden!",
+    "link": "https://www.bild.de/sport/mehr-sport/pruegel-eklat-in-der-nfl-nach-13-sekunden-chaos-start-in-london-6acb9f3b61b3d4c01d3e34f6",
+    "image": "https://images.bild.de/6acb9f3b61b3d4c01d3e34f6/4b631eca684316b5ffba9fbc71b92b17,809f76b2?w=1280",
+    "date": 0
+   },
+   {
     "title": "Nach dem Fall Golla - Ändert der Handball sein Transfer-System?",
     "link": "https://www.bild.de/sport/mehr-sport/fall-johannes-golla-aendert-der-handball-sein-transfer-system-6ac78269bad8b2d292848272",
     "image": "https://images.bild.de/6ac78269bad8b2d292848272/3c0247e175274e4c23d619a8b33c60d7,db719d3b?w=1280",
@@ -439,21 +451,50 @@
     "link": "https://www.bild.de/sport/fussball/fan-krawalle-ueberschatten-koelns-zoff-sieg-im-derby-el-mala-vermiest-blessin-debuet-6acb83691457a7873ffae647",
     "image": "https://images.bild.de/6acb83691457a7873ffae647/6b1c97185c21cc0214da120ae7b532d8,ff1c7f37?w=1280",
     "date": 0
-   },
-   {
-    "title": "Huthi-Terrorwelle! - Wirtschaftsministerin Reiche erlebt Angriffe in Riad",
-    "link": "https://www.bild.de/politik/inland/waehrend-terror-welle-der-huthis-wirtschaftsministerin-reiche-sitzt-in-riad-fest-6acbaaa18c16c50de766c752",
-    "image": "https://images.bild.de/6acbaaa18c16c50de766c752/3a561b3fc152aec81065b1298fb1392a,b31abda9?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Unglaublicher 5:2‑Sieg in Aachen - Viktoria Köln stürmt den Tivoli",
-    "link": "https://www.bild.de/sport/fussball/3-liga-unglaubliches-5-2-bei-alemannia-aachen-viktoria-koeln-stuermt-den-tivoli-und-bleibt-zweiter-6acb9e4644e61ce244fcd986",
-    "image": "https://images.bild.de/6acb9e4644e61ce244fcd986/12f3ddcbd15a67d0f6288028bc4155e8,541baeec?w=1280",
-    "date": 0
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Mit Charles versöhnt? - Harry und Meghan planen nächsten Royal-Schritt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBOZjBGRVlCX1dHSlhCVl9vNTNvNUd2NEZwRV9Rem9aSlZtUXQya2w4ekx6S21GSkhWbUFTZ1RwVWtNdw?oc=5",
+    "image": "",
+    "date": 1791736440000
+   },
+   {
+    "title": "Freude über Comeback - Supertalent Moser: „Fühle mich endlich wieder gut“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBERUtDQnNQeFFHNTJJemo4bnZ3ZzJVTXBCcEkwTjZzcGNPVlZMc3dKcThWZVExZE9Qd0EtNDRnVXBsQQ?oc=5",
+    "image": "",
+    "date": 1791736200000,
+    "titleSl": "Freude über Comeback - Supertalent Moser: \"Fühle mich endlich wieder gut\""
+   },
+   {
+    "title": "Brucknerhaus - Großer Klang zum Abschied: Welser-Möst in Linz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBsMlozdzliYVRuWXJuaWlsOUo2X3NUYTczMGV1SVlhXzJ5V1RpVUZQWVd6OGs1ZVB3WURhLWFGS2hkUQ?oc=5",
+    "image": "",
+    "date": 1791736200000,
+    "titleSl": "Brucknerhaus - Großer Klang zum Abschied: Welser-Möst v Linzu"
+   },
+   {
+    "title": "3:4 in Hartberg - Austria Lustenau mit einer inferioren Defensive",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBEdTlKWjA5eW9odEVCR1NhdDV2N1ZwNTM3LW15ME95VEVEMjVBejh1OFkzdGU1VGRiZVp6R3lFVVJyUQ?oc=5",
+    "image": "",
+    "date": 1791735900000,
+    "titleSl": "3:4 v Hartbergu - Avstrija Lustenau mit einer inferioren Defensive"
+   },
+   {
+    "title": "Die Stimmen zum Spiel - Silberberger ratlos: „Schwer, in Worte zu fassen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CZ0dhclVYQTFFSW5NellmdkZPSlZwUGFoSnBaQW9NeUVkWXFkT3Q4Q0gtSWFONjFyNy1EMVNpUE1uUQ?oc=5",
+    "image": "",
+    "date": 1791735660000
+   },
+   {
+    "title": "Golf - Wiesberger nach starker Schlussrunde 13. in Madrid",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zazQ3VWY0NEowYkJiYy1DYmNBa1NYR2pWU1ZyRDBoUFV6QVNKNXZ6MExJdEV0ODZQMFNaRTA2Y0dldw?oc=5",
+    "image": "",
+    "date": 1791735420000,
+    "titleSl": "Golf - Wiesberger nach starker Schlussrunde 13. v Madridu"
+   }
+  ],
   "rainews": [
    {
     "title": "Anthropic introduce il divieto di \"abusi prolungati e crudeli\" contro i suoi modelli IA",
@@ -500,11 +541,11 @@
   ],
   "lemonde": [
    {
-    "title": "Egalité et Réconciliation, l’association d’extrême droite fondée par Alain Soral, visée par une procédure de dissolution",
+    "title": "Egalité et réconciliation, l’association d’extrême droite fondée par Alain Soral, visée par une procédure de dissolution",
     "link": "https://www.lemonde.fr/politique/article/2026/10/11/egalite-et-reconciliation-l-association-d-extreme-droite-fondee-par-alain-soral-visee-par-une-procedure-de-dissolution_6792072_823448.html",
     "image": "https://img.lemde.fr/2026/10/11/416/0/5000/2500/644/322/60/0/af9707f_upload-1-ghtarfy5apq3-000-33wt9ft.jpg",
-    "date": 1791735138000,
-    "titleSl": "Enakost in sprava, skrajno desno združenje, ki ga je ustanovil Alain Soral, je tarča postopka razpustitve"
+    "date": 1791735134000,
+    "titleSl": "Egalité et réconciliation, l 'association d' extrême droite fondée par Alain Soral, visée par une procédure de dissololution"
    },
    {
     "title": "En Pologne, Donald Tusk et son ministre de la défense visés par un projet de tentative d’assassinat",
@@ -521,6 +562,13 @@
     "titleSl": "La mort d'un dauphin transféré du Marineland d' Antibes vers l'Espagne provoque la colère des associations de défense des cétacés"
    },
    {
+    "title": "ICE, de la chasse à l’homme au trafic vers l’Afrique : deux documentaires implacables diffusés sur France 5 et France 24",
+    "link": "https://www.lemonde.fr/culture/article/2026/10/11/ice-de-la-chasse-a-l-homme-au-trafic-vers-l-afrique-deux-documentaires-implacables-diffuses-sur-france-5-et-france-24_6791972_3246.html",
+    "image": "https://img.lemde.fr/2026/10/09/0/0/3054/1527/644/322/60/0/e5fa062_upload-1-tnb2rqhnayt1-ice2clachassec380l27homme.jpg",
+    "date": 1791732607000,
+    "titleSl": "ICE, de la chasse à l'homme au trafic vers l' Afrique : deux Documentaires implacables diffusés sur France 5 et France 24"
+   },
+   {
     "title": "Arabie saoudite : nouvelle attaque contre l’aéroport de Riyad, au lendemain de frappes, imputées aux houthistes, ayant fait 13 morts",
     "link": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-nouvelle-attaque-contre-l-aeroport-de-riyad-au-lendemain-de-frappes-imputees-aux-houthistes-ayant-fait-12-morts_6791939_3210.html",
     "image": "https://img.lemde.fr/2026/10/11/698/0/1130/565/644/322/60/0/9b4e6e4_ftp-1-l4rv8j2qllvg-2026-10-11t140721z-40835940-rc221oaa54zg-rtrmadp-3-iran-crisis-saudi-airport.JPG",
@@ -533,12 +581,6 @@
     "image": "https://img.lemde.fr/2026/09/08/255/0/2040/1020/644/322/60/0/a7b69d4_upload-1-yrfte1ojmuyo-micheline1.jpg",
     "date": 1791731468000,
     "titleSl": "Postati vdova in to tudi ostati: \"Nekaterim uspe na novo zgraditi življenje. A to se da prešteti na prste ene roke.\""
-   },
-   {
-    "title": "Max Verstappen remporte son premier GP de Singapour, Kimi Antonelli plus que jamais proche du titre de champion du monde",
-    "link": "https://www.lemonde.fr/sport/article/2026/10/11/max-verstappen-remporte-son-premier-gp-de-singapour-kimi-antonelli-plus-que-jamais-proche-du-titre-de-champion-du-monde_6791932_3242.html",
-    "image": "https://img.lemde.fr/2026/10/11/108/0/2763/1381/644/322/60/0/73c5897_ftp-1-6q1sbcoil7bh-5325005-01-06.jpg",
-    "date": 1791730575000
    }
   ],
   "elpais": [
