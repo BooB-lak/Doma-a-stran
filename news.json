@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T17:12:25.076Z",
+ "generatedAt": "2026-10-11T17:14:24.194Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Do 16. ure glasovalo 35,53-odstotka vseh volilnih upravičencev",
+    "link": "https://www.24ur.com/novice/slovenija/kaksna-je-bila-volilna-udelezna-do-11-ure.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/ce6d4c230778c149bf33_63661473.jpg?v=d33c&fop=fp:0.48:0.53",
+    "date": 1791738625000
+   },
+   {
     "title": "Hokejisti Olimpije še drugič v sezoni nadigrali Ferencvaroš",
     "link": "https://www.24ur.com/sport/hokej/hokejisti-olimpije-se-drugic-v-sezoni-nadigrali-ferencvaros.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/5d1d809e07635830536f_63630247.jpg?v=a813&fop=fp:0.60:0.30",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/domaca-scena/na-roglicevi-dirki-se-je-poskodoval-peter-poles.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2025/a39c6f4de2a9c46c8166_63502550.jpg?v=abdc&fop=fp:0.34:0.27",
     "date": 1791731874000
-   },
-   {
-    "title": "Roglič na presenečenje mnogih še ni sprejel odločitve o prihodnosti",
-    "link": "https://www.24ur.com/sport/kolesarstvo/roglic-na-presenecenje-mnogih-se-ni-sprejel-odlocitve-o-prihodnosti.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/65b32473b34f96387351_63659995.jpg?v=433f&fop=fp:0.49:0.30",
-    "date": 1791730334000
    }
   ],
   "rtvslo": [
@@ -334,11 +334,11 @@
     "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
     "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/fe53f23f7789989347c58c5f95c551cdd9cedc33/0_634_989_791/master/989.jpg?width=140&quality=85&auto=format&fit=max&s=cdd3fc0813d849c5f90d7940cd073309",
-    "date": 1791737886000,
+    "date": 1791738137000,
     "titleSl": "Bližnjevzhodna kriza v živo: letališče v Riadu je ponovno prizadelo, saj so Huti prevzeli odgovornost za napad, v katerem je umrlo 12 ljudi"
    },
    {
-    "title": "Volkswagen boss backs EU plan to boost domestic European industry",
+    "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
     "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
     "image": "https://i.guim.co.uk/img/media/d16c05f9a59edb2f7fa273d4807bd01cd301414a/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=3ae26140a9ed576c038a2f98dc96e9aa",
     "date": 1791737581000,
@@ -415,15 +415,34 @@
   ],
   "bild": [
    {
-    "title": "Huthis greifen erneut an - Wieder Geschoss am Flughafen in Riad eingeschlagen",
-    "link": "https://www.bild.de/politik/eilmeldung-wieder-geschoss-am-flughafen-in-riad-eingeschlagen-6acba9525528343575e006ce",
-    "image": "https://images.bild.de/6acba9525528343575e006ce/60ff35465899b59bb13f5bec6c566f47,1a7e0374?w=1280",
-    "date": 0
-   },
-   {
     "title": "Selbstgebaute Sprunganlage! - Frau (21) stirbt beim Bungee-Jumping in NRW",
     "link": "https://www.bild.de/news/inland/selbstgebaute-sprunganlage-frau-21-stirbt-beim-bungee-jumping-in-nrw-6acbbeb25528343575e007f2",
     "image": "https://images.bild.de/6acbbeb25528343575e007f2/b887e4fcd58cbeed32716e0bc138ac1b,6f81151?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Tatort“-Kommissarin im Steckbrief - Almila Bagriaciks Karriere begann mit einem Zufall",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/almila-bagriacik-im-steckbrief-so-jung-war-sie-tatort-ermittlerin-62c3ea7e4f70c0058e04005b",
+    "image": "https://images.bild.de/62c3ea7e4f70c0058e04005b/e110b37a11a4f074d22e27ac5d2471c5,87d85d18?w=1280",
+    "date": 0,
+    "titleSl": "„Tatort“-Kommissarin im Steckbrief - Almila Bagriaciks Karriere startedn mit einem Zufall"
+   },
+   {
+    "title": "„Bares für Rares“ – Highlight der Woche - Flohmarktfund mit 90 Diamanten begeisterte Händler",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-flohmarkt-brosche-sprengte-den-wunschpreis-deutlich-6ac8930f6e0a564ee52e9ff4",
+    "image": "https://images.bild.de/6ac8930f6e0a564ee52e9ff4/c27ab1650aa163c655812bb89d21bdaf,4864956?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Bei London-Spektakel - Monster-Catch lässt NFL-Fans ausrasten",
+    "link": "https://www.bild.de/sport/mehr-sport/bei-london-spektakel-monster-catch-laesst-nfl-fans-ausrasten-6acb91a844e61ce244fcd8e0",
+    "image": "https://images.bild.de/6acb91a844e61ce244fcd8e0/280c1645a0b5fce82d3d618a7ff5efd6-landscape,883459ae?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Huthis greifen erneut an - Wieder Geschoss am Flughafen in Riad eingeschlagen",
+    "link": "https://www.bild.de/politik/eilmeldung-wieder-geschoss-am-flughafen-in-riad-eingeschlagen-6acba9525528343575e006ce",
+    "image": "https://images.bild.de/6acba9525528343575e006ce/60ff35465899b59bb13f5bec6c566f47,1a7e0374?w=1280",
     "date": 0
    },
    {
@@ -432,24 +451,6 @@
     "image": "https://images.bild.de/6acbc1550b7f39d1d3383053/1111ff46cf59baf593c3e25fffbf9bbd,caf4f094?w=1280",
     "date": 0,
     "titleSl": "3:0 v Bremerhavnu - Doppelschlag lässt Eisbären jubeln"
-   },
-   {
-    "title": "Konzept, Sendetermine, Infos - Alle Infos zur Talkshow „hart aber fair“",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/hart-aber-fair-das-steckt-hinter-dem-erfolgreichen-talk-der-ard-64d9e71180280e6d0737d504",
-    "image": "https://images.bild.de/64d9e71180280e6d0737d504/2bfb70492880bde83f463c16f8d91723,4afd683c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Trump forderte Neuwahlen in der Ukraine - Selenskyj reagiert auf Trump-Attacken",
-    "link": "https://www.bild.de/politik/trump-forderte-neuwahlen-in-ukraine-selenskyj-reagiert-auf-trump-attacken-6acbb3da5528343575e00787",
-    "image": "https://images.bild.de/6acbb3da5528343575e00787/d8f5f6e60f0d4f7bb35245716f925653,43d27678?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Risswunde bei Mittelstädt - VfB bangt um Abwehrchef Chabot",
-    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-risswunde-bei-mittelstaedt-vfb-bangt-um-abwehrchef-chabot-6acb395968ee659be9d0a237",
-    "image": "https://images.bild.de/6acb395968ee659be9d0a237/ee28a841d754bb918041c7d8975a3ee8,f07d10?w=1280",
-    "date": 0
    }
   ],
   "krone": [
