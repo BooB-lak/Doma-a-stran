@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T11:40:34.633Z",
+ "generatedAt": "2026-10-11T11:42:21.846Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "The Watchtower",
+    "link": "https://www.nytimes.com/2026/10/11/briefing/chinese-surveillance.html",
+    "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11themorning-nl-higgins-03-mfbz/11themorning-nl-higgins-03-mfbz-mediumSquareAt3X.jpg",
+    "date": 1791718455000,
+    "titleSl": "Stražni stolp"
+   },
+   {
     "title": "What to Know About the Protests in India",
     "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10india-protests-What-We-Know-qhcm/10india-protests-What-We-Know-qhcm-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/10/multimedia/00dc-propaganda-01-mzkl/00dc-propaganda-01-mzkl-mediumSquareAt3X.jpg",
     "date": 1791709286000,
     "titleSl": "Kako je Bela hiša ustvarila pripoved o dnevnikih klicev Trumpovega pomočnika"
-   },
-   {
-    "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
-    "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html",
-    "image": "https://static01.nyt.com/images/2026/10/05/us/05nat-fear-arizona-promo/05nat-fear-arizona-1-mediumSquareAt3X.jpg",
-    "date": 1791709253000,
-    "titleSl": "Po številnih grožnjah se zakonodajalec iz Arizone vpraša: \"Ali je res vredno?\""
    }
   ],
   "bbc": [
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
-    "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
-    "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/fe53f23f7789989347c58c5f95c551cdd9cedc33/0_634_989_791/master/989.jpg?width=140&quality=85&auto=format&fit=max&s=cdd3fc0813d849c5f90d7940cd073309",
-    "date": 1791718465000,
-    "titleSl": "Bližnjevzhodna kriza v živo: Huti opozarjajo potnike pred uporabo savdskega letališča po smrtonosnem napadu na Riad"
-   },
-   {
     "title": "Burnham faces questions over push to scrap photo ID voting requirement",
     "link": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting",
     "image": "https://i.guim.co.uk/img/media/ab71e304b00e9526f74e773d0bb171bb7640ce98/1215_60_3944_3157/master/3944.jpg?width=140&quality=85&auto=format&fit=max&s=3df8c6b9428574140c0964c210a9c5ca",
     "date": 1791717365000,
     "titleSl": "Burnham se sooča z vprašanji glede zahteve za glasovanje o osebni izkaznici s fotografijo"
+   },
+   {
+    "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+    "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/fe53f23f7789989347c58c5f95c551cdd9cedc33/0_634_989_791/master/989.jpg?width=140&quality=85&auto=format&fit=max&s=cdd3fc0813d849c5f90d7940cd073309",
+    "date": 1791716579000,
+    "titleSl": "Bližnjevzhodna kriza v živo: Huti opozarjajo potnike pred uporabo savdskega letališča po smrtonosnem napadu na Riad"
    },
    {
     "title": "‘Deeply concerning’: Democratic congressional candidate rebukes ICE’s presence in New York",
@@ -426,6 +426,13 @@
     "titleSl": "Tiskovna konferenca v prenosu in na tickerju - spremljajte Fame Fighting Zoff v živo TUKAJ"
    },
    {
+    "title": "Knallhart-Strafe nach Selfie - 5 Jahre Stadionverbot für 13-Jährigen",
+    "link": "https://www.bild.de/sport/fussball/knallhart-strafe-nach-selfie-5-jahre-stadionverbot-fuer-13-jaehrigen-6acb72f45528343575e002cb",
+    "image": "https://images.bild.de/6acb72f45528343575e002cb/096e9989177ebe06b1105cb604d39367,b0655ff5?w=1280",
+    "date": 0,
+    "titleSl": "Huda kazen po selfiju - 5-letna prepoved igranja na stadionu za 13-letnika"
+   },
+   {
     "title": "Lob nach Frust-Wochen - Oskar-Auszeichnung bei Werder",
     "link": "https://www.bild.de/sport/fussball/werder-bremen-lob-fuer-wojcik-nach-frust-wochen-oskar-auszeichnung-bei-werder-6acb4a4861b3d4c01d3e2e9f",
     "image": "https://images.bild.de/6acb4a4861b3d4c01d3e2e9f/bdc2b63742f19928b3a60b120045e617,622982eb?w=1280",
@@ -452,16 +459,16 @@
     "image": "https://images.bild.de/6acb320c5528343575dffd42/704d64568d15c562c83bb3d2a4234f27,dfe23f85?w=1280",
     "date": 0,
     "titleSl": "Ogromna sodniška frustracija v ekipi Bundeslige - \"Ne vem, čemu služi VAR!\""
-   },
-   {
-    "title": "„Sehr schöne Sache für mich“ - Schick holt die Bayer-Legenden ein",
-    "link": "https://www.bild.de/sport/fussball/bayer-leverkusen-historisches-tor-patrik-schick-holt-die-bayer-legenden-ein-6acb685a44e61ce244fcd59f",
-    "image": "https://images.bild.de/6acb685a44e61ce244fcd59f/fa15da43bd4c6bc9b06afc992de9929a,640da753?w=1280",
-    "date": 0,
-    "titleSl": "\"Zelo dobra stvar zame\" - Schick se ujema z legendami Bayerja"
    }
   ],
   "krone": [
+   {
+    "title": "Für spätere Pension - AMS-Chef Kopf: „Mathematik schlägt Ideologie“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40T0xNc2sySlFiQnhnTXlSZmdVQWxHQ2ZuR2xjYzVJd1FQblFjbXlvc2tKTmQtMVJDMUtiNWFNNFJqQQ?oc=5",
+    "image": "",
+    "date": 1791718860000,
+    "titleSl": "Za poznejši pokoj - šef AMS Kopf: “Matematika premaga ideologijo”"
+   },
    {
     "title": "Auf der „Süd“ - Mit Pkw gegen Mittelleitwand: Zwei Verletzte",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLSERILTkyNUEtZEtvQ2ZHOTJMejdfVHJHZUtnaDVvbVpaRzRPRklwdmdQNkoxbWc1N05SVnZyYWh5dw?oc=5",
@@ -496,16 +503,16 @@
     "image": "",
     "date": 1791716940000,
     "titleSl": "\"Kot vampir\" - mlada kolesarska zvezda Seixas poskrbi za sanje celotne Francije"
-   },
-   {
-    "title": "Schwerpunktkontrolle - Gefahr in Verzug: Lkw aus Verkehr gezogen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfd0JWSldKUGF5WkRzU1JvNVFoX0RuZXBoSTgwYXJmUTg5TjdseDZLTEw0Ty1ERjhfVkJnQ0k2ZGE0Zw?oc=5",
-    "image": "",
-    "date": 1791716400000,
-    "titleSl": "Focus control - nevarnost neizbežna: tovornjak izločen iz prometa"
    }
   ],
   "rainews": [
+   {
+    "title": "Missile Houthi sull&#x27;aeroporto di Riad, 12 morti e centinaia di feriti. Trump: attacchi intollerabili",
+    "link": "https://www.rainews.it/video/2026/10/missile-houthi-sullaeroporto-di-riad-12-morti-e-centinaia-di-feriti-trump-attacchi-intollerabili-6fda6fc9-ff6e-4c2b-8e12-f76a2a99afff.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/11/1791717356354_.png",
+    "date": 1791717120000,
+    "titleSl": "Raketa Hutijev zadela letališče v Riadu, 12 mrtvih in več sto ranjenih. Trump: nedopustni napadi"
+   },
    {
     "title": "L&#x27;annuncio a sorpresa del Papa: \"Mi opero nei prossimi giorni per un nodulo al polmone\"",
     "link": "https://www.rainews.it/articoli/2026/10/lannuncio-del-papa-durante-langelus-mi-opero-nei-prossimi-giorni-per-un-nodulo-al-polmone-c9b006ec-0592-4388-8ed5-59524b05899c.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/11/1791714408653_Angelusframe.jpeg",
     "date": 1791715380000,
     "titleSl": "Papež: \"Zdravniki so našli vozlič v mojih pljučih, odločil sem se za operacijo, da ga odstranim\""
-   },
-   {
-    "title": "Alcaraz come Zelig, adesso ha i baffi: \"Tutto è nato da una scommessa\"",
-    "link": "https://www.rainews.it/articoli/2026/10/tennis-shanghai-carlos-alcaraz-come-zelig-adesso-ha-i-baffi-tutto-e-nato-da-una-scommessa-21f5d275-fd9a-4b87-957b-af96631f925e.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/11/1791711916933_DURKJ.jpg",
-    "date": 1791715080000,
-    "titleSl": "Alcaraz kot Zelig, zdaj ima brke: \"Vse se je začelo iz stave\""
    }
   ],
   "lemonde": [
