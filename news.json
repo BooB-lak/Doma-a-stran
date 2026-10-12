@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T13:10:44.643Z",
+ "generatedAt": "2026-10-12T13:12:40.389Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,13 @@
     "title": "'Rekordna udeležba, zapletlo se je na največjem volišču'",
     "link": "https://www.24ur.com/novice/slovenija/referendumsko-izenacenje-preobrat-pri-rtv-prispevku.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/c7330e169f971953d960_63661924.jpg?v=cbf4&fop=fp:0.45:0.34",
-    "date": 1791809778000
+    "date": 1791810648000
+   },
+   {
+    "title": "Alec Baldwin: Zaljubiti se v Meryl Streep je nekaj najlažjega na svetu",
+    "link": "https://www.24ur.com/popin/tuja-scena/alec-baldwin-zaljubiti-se-v-meryl-streep-je-nekaj-najlazjega-na-svetu.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/c73132a2b438818936a3_63661849.jpg?v=8995&fop=fp:0.48:0.29",
+    "date": 1791809830000
    },
    {
     "title": "Salmonela v paradižnikih: v Italiji več kot 100 okužb, pošiljka tudi v Slovenijo",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/resnica-mijica-izkljucila-iz-stranke-odstopil-kot-poslanec.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/cd9f9b0fdbd6c6aecc0c_63614558.jpg?v=a92e&fop=fp:0.49:0.24",
     "date": 1791806453000
-   },
-   {
-    "title": "Od gladiatorjev do cirkusantov",
-    "link": "https://www.24ur.com/sport/motogp/od-gladiatorjev-do-cirkusantov.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/07c5c7677b756a3d3538_63661873.jpg?v=bb02&fop=fp:0.65:0.24",
-    "date": 1791805601000
    }
   ],
   "rtvslo": [
@@ -331,6 +331,20 @@
   ],
   "guardian": [
    {
+    "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/209ef85ae65df8377460157a04f473a0840ce889/597_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=4a841f5710dd4b119ca6727a5b12b2b3",
+    "date": 1791810237000,
+    "titleSl": "Kremelj zavrnil ponudbo za 60-dnevno premirje in noče komentirati Trumpovega \"energetskega premirja\" - Evropa v živo"
+   },
+   {
+    "title": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees",
+    "link": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+    "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/347_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=cc1eafec40254697cad846a7d50d3c19",
+    "date": 1791809996000,
+    "titleSl": "NAZA: Netanyahu odredi identifikacijo in pregon intervjuvancev v filmu"
+   },
+   {
     "title": "Digger on course for $245m loss after box office collapse",
     "link": "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
     "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/277_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c3c99b7d5d748ea32884e672aa59da6e",
@@ -352,25 +366,11 @@
     "titleSl": "Nobelova nagrada za ekonomijo je bila podeljena Hallu in Woodfordu za delo pri \"glajenju\" kriz"
    },
    {
-    "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/209ef85ae65df8377460157a04f473a0840ce889/597_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=4a841f5710dd4b119ca6727a5b12b2b3",
-    "date": 1791808987000,
-    "titleSl": "Kremelj zavrnil ponudbo za 60-dnevno premirje in noče komentirati Trumpovega \"energetskega premirja\" - Evropa v živo"
-   },
-   {
     "title": "Burnham accepts Brexit result ‘legitimate’ despite Russian interference, says No 10 – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
     "image": "https://i.guim.co.uk/img/media/e00822eb0a9542d30bcbe36e1fd0f079bc6a36ba/454_0_4467_3575/master/4467.jpg?width=140&quality=85&auto=format&fit=max&s=9350174748b96034083d69809bccb6c3",
     "date": 1791808869000,
     "titleSl": "Burnham kljub ruskemu vmešavanju priznava, da je rezultat Brexita \"legitimen\", pravi št. 10 - Britanska politika v živo"
-   },
-   {
-    "title": "Melbourne Islamic leader rejects centre’s alleged Flydubai hijacker links after Facebook video",
-    "link": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/24b0cfe293b5403046646837b6fb46a6692ddd10/194_0_1940_1552/master/1940.jpg?width=140&quality=85&auto=format&fit=max&s=595b04e3f7f41848e283392782879d31",
-    "date": 1791808078000,
-    "titleSl": "Islamski voditelj v Melbournu zavrača domnevne povezave centra z ugrabitelji Flydubaija po videu na Facebooku"
    }
   ],
   "spiegel": [
@@ -461,7 +461,50 @@
     "titleSl": "Bodensko jezero – 568 milijard litrov vode preprosto ni več"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "Snowboarder im Talk - Hämmerle: Highlight neben Heim-WM? „Bin Sprachlos“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHOGNybURsSEcxVThSYy15d2I2LWFZWWV5SVpKbUsyeEJSQml0TUxwRW55bEYtZFRnb1luRnJjdXFHdw?oc=5",
+    "image": "",
+    "date": 1791810300000,
+    "titleSl": "Deskarji na snegu v pogovoru - Hämmerle: Vrhunec poleg domačega svetovnega prvenstva? \"Brez besed sem\""
+   },
+   {
+    "title": "Bundesliga-Highlights - Video: SV Ried dreht Partie gegen WSG Tirol",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sQThTOFBDLWtFakhpSVU2cHRLN1p0M2tfWDg3SHJhMndxaHMwS0JkcXlaMS1qNEU4Z3VVNlNqRWxoZw?oc=5",
+    "image": "",
+    "date": 1791810075000,
+    "titleSl": "Vrhunci Bundeslige - Video: SV Ried preobrnil tekmo proti WSG Tirol"
+   },
+   {
+    "title": "Bei 0:2 gegen Sturm - Diese Szene bringt die Austria auf die Palme",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZVFZlc1M1NDlELTkwYWM5R2tmNmE0czNteWFEMHkwLUUzVllkWEFNYWdpSjI2cVR1YzBRZW1uUE5YUQ?oc=5",
+    "image": "",
+    "date": 1791810061000,
+    "titleSl": "Pri 0:2 proti Sturmu - Ta prizor razburja Avstrijo"
+   },
+   {
+    "title": "Bundesliga-Highlights - Drei Tore und zwei Rote Karten bei Altach-Sieg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yOUUyd1JRaS01NVpSVHNVbnFLQjZOS0VwcVdJR0dZNHZGSm42TzJMX3Q0YW1Uc201bk0tUFYyaUpWUQ?oc=5",
+    "image": "",
+    "date": 1791810047000,
+    "titleSl": "Vrhunci Bundeslige - Trije goli in dva rdeča kartona pri zmagi Altacha"
+   },
+   {
+    "title": "Spektakel in Hartberg - Sieben Tore! Verrückte Bundesliga-Partie im Video",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrVzVFcktBcTVYeVMtb2NuLTViUEhfOUdreEtOV3JyRWJSSVh3cUpubjVvb1g2SURoRnhmdU1XTGIzdw?oc=5",
+    "image": "",
+    "date": 1791810045000,
+    "titleSl": "Spektakel v Hartbergu - sedem golov! Nora tekma Bundeslige v videu"
+   },
+   {
+    "title": "Highlights vom Hit - Video: Auch der LASK kann Rapid nicht stoppen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MdFZQSDNKN0ZRak1jWFJ3b2pvSU0yTUoybGRzaTBmQlA3S19RTzlBOUhlQjBNbVlsU3JlYTB4aHRLdw?oc=5",
+    "image": "",
+    "date": 1791810045000,
+    "titleSl": "Utrinki iz uspešnice: Tudi LASK ne more ustaviti Rapida"
+   }
+  ],
   "rainews": [
    {
     "title": "Ora è ufficiale: Zverev sarà numero 1 del mondo a fine 2026",
@@ -555,7 +598,7 @@
     "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía intenta desalojar a un grupo de manifestantes que increpa a los acampados en Sol",
     "link": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/3Q53ZQ6GEFGTZCUFOD64C7MFV4.jpg?auth=b3731e676041ebd982165d8e8efcf3c8b42f0ce119ce9624014126599af79ac3",
-    "date": 1791810475000,
+    "date": 1791810642000,
     "titleSl": "Parada ob Kolumbovem dnevu in politični odzivi v živo | Policija poskuša izgnati skupino protestnikov, ki grajajo tiste, ki so taborili v Solu"
    },
    {
