@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T12:46:24.496Z",
+ "generatedAt": "2026-10-12T12:48:24.868Z",
  "sources": {
   "siol": [
    {
@@ -15,7 +15,7 @@
     "date": 1791807180000
    },
    {
-    "title": "Po nočnem preobratu pri RTV-prispevku pred medije Igor Zorčič #vŽivo",
+    "title": "Pred medije je stopil Igor Zorčič #vŽivo",
     "link": "https://siol.net/novice/slovenija/po-nocnem-preobratu-pri-rtv-prispevku-pred-medije-igor-zorcic-vzivo-703777",
     "image": "https://siol.net/media/img/83/d7/bc76b541c98007d20ecf.jpeg",
     "date": 1791806880000
@@ -40,6 +40,12 @@
    }
   ],
   "24ur": [
+   {
+    "title": "Salmonela v paradižnikih: v Italiji več kot 100 okužb, pošiljka tudi v Slovenijo",
+    "link": "https://www.24ur.com/novice/slovenija/salmonela-v-paradiznikih-v-italiji-vec-kot-100-okuzb-posiljka-tudi-v-slovenijo.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/f597dc88da5e79798053_63661735.jpg?v=767a&fop=fp:0.50:0.39",
+    "date": 1791809208000
+   },
    {
     "title": "PRENOS V ŽIVO: 'Rekordna udeležba, zapletlo se je na največjem volišču'",
     "link": "https://www.24ur.com/novice/slovenija/referendumsko-izenacenje-preobrat-pri-rtv-prispevku.html",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/motogp/od-gladiatorjev-do-cirkusantov.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/07c5c7677b756a3d3538_63661873.jpg?v=bb02&fop=fp:0.65:0.24",
     "date": 1791805601000
-   },
-   {
-    "title": "'Na nitki visi podoba slovenske družbe'",
-    "link": "https://www.24ur.com/popkast/na-nitki-visi-podoba-slovenske-druzbe.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/b158f5c38fb0d55184db_63661752.jpg?v=542a&fop=fp:0.61:0.32",
-    "date": 1791804625000
    }
   ],
   "rtvslo": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
-    "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6accc3ec-1791804396.jpg?resize=1920%2C1440",
-    "date": 1791808508000,
-    "titleSl": "Nobelovo nagrado za ekonomijo prejela Robert Hall in Michael ⁠Woodford"
-   },
-   {
-    "title": "Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?",
-    "link": "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s12-1791806120.jpg?resize=1801%2C1080",
-    "date": 1791808209000,
-    "titleSl": "Trump meni, da Ukrajina potrebuje novega predsednika. Kdo bi lahko nadomestil Zelenskega?"
-   },
-   {
     "title": "Which banners did Liverpool fans display at Anfield against Man City?",
     "link": "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-11T152208Z_944079864_UP1EMAB16L2S6_RTRMADP_3_SOCCER-ENGLAND-LIV-MCI-1791791746.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-153231643-1791799408.jpg?resize=1920%2C1440",
     "date": 1791806364000,
     "titleSl": "Azerbajdžanska šolska prepoved nošenja hidžaba: kaj je v ozadju in kaj sledi?"
+   },
+   {
+    "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
+    "link": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2018-11-17T074708Z_2129680327_RC1B417C8C30_RTRMADP_3_RUSSIA-OIL-REFINING-1710476750.jpg?resize=1920%2C1440",
+    "date": 1791804654000,
+    "titleSl": "\"Energetsko prekinitev ognja\": kaj je v ozadju Trumpovih ljubezensko-sovražnih vezi z rusko nafto?"
+   },
+   {
+    "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
+    "link": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261006__D2CY4NQ__v1__HighRes__YemenSaudiIranUsIsraelWar-1791286127.jpg?resize=1920%2C1440",
+    "date": 1791804630000,
+    "titleSl": "Velikanske brigade vodijo južni Jemen v boju proti Hutijem"
    }
   ],
   "guardian": [
@@ -377,7 +377,7 @@
    {
     "title": "Tennis: Alexander Zverev wird Nummer eins der Weltrangliste",
     "link": "https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-wird-nummer-eins-der-weltrangliste-a-ec47679e-2c12-4a6c-b390-50500fd455ea#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/e4dc1613-7c2e-48bb-9fab-dcfbc0358de9_w520_r2.08_fpx50.65_fpy49.99.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/90a6517f-f7a5-4ed1-8de5-f4e7f92d5f7a_w520_r2.08_fpx36.66_fpy44.99.jpg",
     "date": 1791807900000,
     "titleSl": "Tenis: Alexander Zverev postane številka ena na svetovni lestvici"
    },
@@ -419,6 +419,34 @@
   ],
   "bild": [
    {
+    "title": "In Equador - Flugzeug stürzt auf befahrene Straße",
+    "link": "https://www.bild.de/news/war-hier-gold-an-bord-flugzeug-stuerzt-auf-befahrene-strasse-6ac8f9015528343575dfe53c",
+    "image": "https://images.bild.de/6ac8f9015528343575dfe53c/2a753ee1926aacfe04bc80c8e044907a,f0c383fa?w=1280",
+    "date": 0,
+    "titleSl": "V Ekvadorju - letalo strmoglavi na prometno cesto"
+   },
+   {
+    "title": "In den kommenden Wochen - Zverev wird Nummer eins der Tennis-Weltrangliste",
+    "link": "https://www.bild.de/sport/mehr-sport/in-den-kommenden-wochen-zverev-wird-nummer-eins-der-tennis-weltrangliste-6accd053f2750bc2e609ed18",
+    "image": "https://images.bild.de/6accd053f2750bc2e609ed18/2fd24ae4c73fdd50043989dc9898c3fc,ff8511da?w=1280",
+    "date": 0,
+    "titleSl": "V naslednjih tednih bo Zverev postal številka ena na svetovni teniški lestvici"
+   },
+   {
+    "title": "„Das lässt uns nicht ruhen“ - Merz spricht über mögliche AfD-Überläufer",
+    "link": "https://www.bild.de/politik/inland/friedrich-merz-cdu-waehlt-keine-extremisten-in-staatsaemter-6accd1798776d79fbd9ca3c6",
+    "image": "https://images.bild.de/6accd1798776d79fbd9ca3c6/90759798cb49a0981672dfe4ee75a673,e3ad4b23?w=1280",
+    "date": 0,
+    "titleSl": "\"To nam ne bo dalo miru\" - Merz govori o morebitnih prebežnikih AfD"
+   },
+   {
+    "title": "Ex-BVB-Star plötzlich Torwart - Süle vernascht Kreisliga-Gegner",
+    "link": "https://www.bild.de/sport/fussball/ex-bvb-star-ploetzlich-torwart-suele-vernascht-kreisliga-gegner-6accc63e917c96cff556dac2",
+    "image": "https://images.bild.de/6accc63e917c96cff556dac2/de8f5f2b9f22ced48ffb0a12f86254df,ec00d8f1?w=1280",
+    "date": 0,
+    "titleSl": "Nekdanji zvezdnik BVB nenadoma vratar - Süle žre nasprotnike okrožne lige"
+   },
+   {
     "title": "Kunden prüfen Daten - „Flacher Hintern“ – was Amazon alles über uns weiß",
     "link": "https://www.bild.de/leben-wissen/digital/about-you-was-amazon-alles-ueber-seine-kunden-weiss-6ac8fc935528343575dfe580",
     "image": "https://images.bild.de/6ac8fc935528343575dfe580/d5fa6d6e67cbdad48c2c38baacd96b38-landscape,31c56c6b?w=1280",
@@ -426,39 +454,11 @@
     "titleSl": "Stranke preverjajo podatke - \"ravno dno\" - kaj Amazon ve o nas"
    },
    {
-    "title": "In den kommenden Wochen - Zverev wird Nummer eins der Tennis-Weltrangliste",
-    "link": "https://www.bild.de/sport/in-den-kommenden-wochen-zverev-wird-nummer-eins-der-tennis-weltrangliste-6accd053f2750bc2e609ed18",
-    "image": "https://images.bild.de/6accd053f2750bc2e609ed18/2fd24ae4c73fdd50043989dc9898c3fc,ff8511da?w=1280",
-    "date": 0,
-    "titleSl": "V naslednjih tednih bo Zverev postal številka ena na svetovni teniški lestvici"
-   },
-   {
     "title": "Brandgefahr! - Aldi Süd ruft beliebten Haartrockner zurück",
     "link": "https://www.bild.de/leben-wissen/digital/brandgefahr-aldi-sued-ruft-beliebten-haartrockner-zurueck-6acc75018c29922a61cfcb3a",
     "image": "https://images.bild.de/6acc75018c29922a61cfcb3a/5e22e494bbc08419a04398665d028e7a,4d816c1b?w=1280",
     "date": 0,
     "titleSl": "Nevarnost požara! - Aldi Süd odpoklicuje priljubljene sušilnike za lase"
-   },
-   {
-    "title": "Klingbeils erste Worte zum Bas-Rücktritt - „Das ist kein leichter Tag“",
-    "link": "https://www.bild.de/news/klingbeils-erste-worte-das-sagt-der-spd-politiker-6accb17696360f6d88a60db5",
-    "image": "https://images.bild.de/6accb17696360f6d88a60db5/81cd8eab631fbf71f7b42dd353c573a6,74739f7d?w=1280",
-    "date": 0,
-    "titleSl": "Klingbeilove prve besede ob Basovem odstopu - \"To ni lahek dan\""
-   },
-   {
-    "title": "Andere Frau, andere RTL-Sendung - Fame Fighter setzt Sex-Marathon fort",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/laurenz-pesch-setzt-sex-marathon-bei-rtl-mit-anderer-frau-in-neuer-sendung-fort-6acca3652b0d25ef1edd2784",
-    "image": "https://images.bild.de/6acca3652b0d25ef1edd2784/8dafe462fa27d2e0b8c66b13a2d638b8,d5556713?w=1280",
-    "date": 0,
-    "titleSl": "Še ena ženska, še ena oddaja RTL - Fame Fighter nadaljuje seks maraton"
-   },
-   {
-    "title": "Urus zum Sparpreis? - Neues China-SUV setzt auf Urus-Optik",
-    "link": "https://www.bild.de/leben-wissen/auto/omoda-4-dieses-china-suv-sieht-aus-wie-ein-kleiner-lamborghini-6abf4f35d4d0c24ec26d0fe8",
-    "image": "https://images.bild.de/6abf4f35d4d0c24ec26d0fe8/3e995253e1bec9029ef036cb5dfba517,9553ba00?w=1280",
-    "date": 0,
-    "titleSl": "Urus po akcijski ceni? - Novi kitajski SUV se zanaša na videz Urusa"
    }
   ],
   "krone": [
@@ -551,11 +551,18 @@
   ],
   "lemonde": [
    {
-    "title": "Municipales à Saint-Fons, près de Lyon : la justice annule les élections, remportées par LFI, en raison d’irrégularités sur une liste concurrente",
-    "link": "https://www.lemonde.fr/politique/article/2026/10/12/municipales-a-saint-fons-pres-de-lyon-la-justice-annule-les-elections-remportees-par-lfi-en-raison-d-irregularites-sur-une-liste-concurrente_6792629_823448.html",
-    "image": "https://img.lemde.fr/2026/10/12/971/0/3327/1663/644/322/60/0/108be98_upload-1-yur35iig1mcd-maxnewsspecialtwo580940.jpg",
-    "date": 1791806628000,
-    "titleSl": "Občina v Saint-Fonsu blizu Lyona: pravosodje razveljavi volitve, na katerih je zmagal LFI, zaradi nepravilnosti na konkurenčni listi"
+    "title": "Commerces à Paris : le tourisme et la vente en ligne font toujours la loi",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/12/commerces-a-paris-le-tourisme-et-la-vente-en-ligne-font-toujours-la-loi_6792627_823448.html",
+    "image": "https://img.lemde.fr/2026/10/12/833/0/6000/3000/644/322/60/0/de75207_upload-1-uo1rucozaxqk-000-68kf9cq.jpg",
+    "date": 1791806414000,
+    "titleSl": "Trgovine v Parizu: turizem in spletna prodaja še vedno vladata"
+   },
+   {
+    "title": "Au Japon, la « trahison » des brasseurs de bière accusés d’entente sur les prix",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/12/au-japon-la-trahison-des-brasseurs-de-biere-accuses-d-entente-sur-les-prix_6792624_3234.html",
+    "image": "https://img.lemde.fr/2026/10/12/526/0/4158/2079/644/322/60/0/cc4ec8a_upload-1-lvcnshre5jd8-000-c7jl3zq.jpg",
+    "date": 1791806406000,
+    "titleSl": "Na Japonskem je \"izdaja\" pivovarjev obtožena prirejanja cen"
    },
    {
     "title": "Plusieurs centaines de supermarchés Intermarché et Coopérative U victimes d’une cyberattaque visant leurs installations frigorifiques",
@@ -584,22 +591,15 @@
     "image": "https://img.lemde.fr/2026/10/12/241/0/2890/1445/644/322/60/0/e8bdebf_upload-1-hteyflrssklb-maxnewsspecialtwo575179.jpg",
     "date": 1791799205000,
     "titleSl": "Sur les pentes de Besançon, un chamois agressif attaque les joggeurs, le préfet autorize son abattage"
-   },
-   {
-    "title": "Le prix Nobel d’économie 2026 décerné aux Américains Michael Woodford et Robert E. Hall",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/12/le-prix-nobel-d-economie-2026-decerne-aux-americains-michael-woodford-et-robert-hall_6792609_3234.html",
-    "image": "https://img.lemde.fr/2026/10/12/1043/887/4436/2218/644/322/60/0/37eb2a2_ftp-1-fdd2e7ucdjke-5332368-01-06.jpg",
-    "date": 1791799026000,
-    "titleSl": "Nobelovo nagrado za ekonomijo leta 2026 sta prejela Američana Michael Woodford in Robert E. Hall"
    }
   ],
   "elpais": [
    {
-    "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Los Reyes celebran en el Palacio Real el tradicional besamanos",
+    "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía intenta desalojar a un grupo de manifestantes que increpa a los acampados en Sol",
     "link": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/MWNYO7KSGJM3NK2662OYJQFX5E.jpg?auth=85c94b079dd5276382c673eca2ffc2687a78414dd1b91c3265cdc31e90ddd7b7",
-    "date": 1791808504000,
-    "titleSl": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Los Reyes celebran en el Palacio Real el tradicionalni besamanos"
+    "date": 1791809069000,
+    "titleSl": "Parada ob Kolumbovem dnevu in politični odzivi v živo | Policija poskuša izgnati skupino protestnikov, ki grajajo tiste, ki so taborili v Solu"
    },
    {
     "title": "El Papa será ingresado el martes para la extirpación de un nódulo pulmonar",
