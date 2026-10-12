@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T06:20:37.428Z",
+ "generatedAt": "2026-10-12T06:22:23.844Z",
  "sources": {
   "siol": [
    {
@@ -21,6 +21,12 @@
     "date": 1791782280000
    },
    {
+    "title": "Nov napad na letališče v Rijadu: poročajo o žrtvah in ranjenih #vŽivo",
+    "link": "https://siol.net/novice/svet/nov-napad-na-letalisce-v-rijadu-porocajo-o-zrtvah-in-ranjenih-703735",
+    "image": "https://siol.net/media/img/67/c3/ef26bb3d1a544d9bd1da.jpeg",
+    "date": 1791782220000
+   },
+   {
     "title": "Slovenski smučarski skoki imajo novega generalnega sponzorja",
     "link": "https://siol.net/trendi/dom/slovenski-smucarski-skoki-imajo-novega-generalnega-sponzorja-703384",
     "image": "https://siol.net/media/img/2e/d9/5e6b2695f5489c097c3f.jpeg",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/digisvet/huawei-watch-d3-pametna-ura-ki-krvni-tlak-meri-in-spremlja-drugace-in-zato-tudi-bolj-zanesljivo-703613",
     "image": "https://siol.net/media/img/03/d5/c5b6a56e64597b80300b.jpeg",
     "date": 1791781200000
-   },
-   {
-    "title": "Peugeotov prikaz nove tehnologije: tisočvoltna zasnova, volan steer-by-wire",
-    "link": "https://siol.net/avtomoto/novice/peugeotov-prikaz-nove-tehnologije-tisocvoltna-zasnova-volan-steer-by-wire-703732",
-    "image": "https://siol.net/media/img/57/0c/01a0b88c8ba72b383593.jpeg",
-    "date": 1791780960000
    }
   ],
   "24ur": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26284293303096-1791783390.jpg?resize=1920%2C1440",
+    "date": 1791785264000,
+    "titleSl": "Indija protestira v živo: Nasprotovanje pohodu na vrhovno sodišče zaradi \"kraje glasov\""
+   },
+   {
     "title": "Countries warn against travel to Saudi Arabia following Houthi attacks",
     "link": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-11T133451Z_158209492_RC211OAHP5D3_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT-1791774825.jpg?resize=1200%2C675",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791777522.jpg?resize=1920%2C1080&quality=80",
     "date": 1791777656000,
     "titleSl": "Etiopske enote vstopijo v Adigrat v Tigraju, blizu meje z Eritrejo"
-   },
-   {
-    "title": "North Korea fires multiple ballistic missiles towards the sea",
-    "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acc4b414b3e-1791773505.jpg?resize=1920%2C1440",
-    "date": 1791776232000,
-    "titleSl": "Severna Koreja proti morju izstreljuje več balističnih izstrelkov"
    }
   ],
   "guardian": [
@@ -414,6 +414,12 @@
   ],
   "bild": [
    {
+    "title": "Zweites Spiel in Folge vercoacht - Jetzt macht auch Muslic Fehler!",
+    "link": "https://www.bild.de/sport/fussball/schalke-04-trainer-miron-muslic-macht-ploetzlich-fehler-6acbe3ce61b3d4c01d3e38de",
+    "image": "https://images.bild.de/6acbe3ce61b3d4c01d3e38de/e86358834cc2189249664ec65d360f35,41a6d1f8?w=1280",
+    "date": 0
+   },
+   {
     "title": "Als SPD-Chefin und Arbeitsministerin - Bärbel Bas tritt zurück",
     "link": "https://www.bild.de/politik/eilmeldung-baerbel-bas-tritt-als-spd-chefin-und-arbeitsministerin-zurueck-6acc76b88c29922a61cfcb5a",
     "image": "https://images.bild.de/6acc76b88c29922a61cfcb5a/dd62752504bbd46df5095776fc766afa,641e385d?w=1280",
@@ -421,34 +427,29 @@
     "titleSl": "ALS SPD-Chefin und Arbeitsministerin - Bärbel bas tritt zurück"
    },
    {
+    "title": "„Katastrophe!“ „Witz des Jahres!“ - Hoeneß teilt gegen die Uefa aus",
+    "link": "https://www.bild.de/sport/fussball/uli-hoeness-teilt-gegen-die-uefa-aus-6acb76cc61b3d4c01d3e31fd",
+    "image": "https://images.bild.de/6acb76cc61b3d4c01d3e31fd/34356ca6fc9490134b6193359f3a29b1,7d11c925?w=1280",
+    "date": 0,
+    "titleSl": "\"Katastrofa!\" \"Witz des Jahres!“ - Hoeneß teilt gegen die Uefa aus"
+   },
+   {
+    "title": "Offensiv-Talent wieder verletzt - Ben Seghir bleibt das größte Bayer-Rätsel",
+    "link": "https://www.bild.de/sport/fussball/bayer-leverkusen-talent-wieder-verletzt-eliesse-ben-seghir-bleibt-das-groesste-bayer-raetsel-6acb3b837cdf643ef2bf0c3b",
+    "image": "https://images.bild.de/6acb3b837cdf643ef2bf0c3b/2ceb24c50d8bcb6977d0be41a212a1fa,37b2c9ff?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Neuer Name für den Pazifik? - Trump will jetzt sogar Ozean nach sich benennen",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/neuer-name-fuer-den-pazifik-trump-will-jetzt-ozean-nach-sich-benennen-6acc73ff5528343575e00e52",
+    "image": "https://images.bild.de/6acc73ff5528343575e00e52/8196508c8f64130d49271fc0ad8637b8,a403e391?w=1280",
+    "date": 0,
+    "titleSl": "Neuer Name für den Pazifik? - Trump bo jetzt sogar Ozean nach sich benennen"
+   },
+   {
     "title": "Mächtig Ärger im Team - Ferrari-Chef sauer auf Hamilton",
     "link": "https://www.bild.de/sport/mehr-sport/teamorder-missachtet-ferrari-chef-sauer-auf-hamilton-6acc6f8161b3d4c01d3e3c4e",
     "image": "https://images.bild.de/6acc6f8161b3d4c01d3e3c4e/a33e668f5f4a14683a284413a540c6ff,528513ea?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Noch auf dem Platz - Was Neuer DIREKT nach seinem Rekord-Patzer macht",
-    "link": "https://www.bild.de/sport/fussball/noch-auf-dem-platz-was-neuer-direkt-nach-seinem-rekord-patzer-macht-6acbd22161b3d4c01d3e37fd",
-    "image": "https://images.bild.de/6acbd22161b3d4c01d3e37fd/776d235eaad2cdec8f374477f213ee47,99e313f9?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Klub verurteilt Gewaltexzesse - Gladbach schämt sich für Pyro-Idioten!",
-    "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-gladbach-schaemt-sich-fuer-pyro-idioten-6acc7307c382262c0812153c",
-    "image": "https://images.bild.de/6acc7307c382262c0812153c/92414ed7fa63c56971af3dd50de45c15,76f1c2e?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Dating-App soll Geburtenrate steigern - Singapur setzt auf Staats-„Tinder“ für mehr Kinder",
-    "link": "https://www.bild.de/leben-wissen/reisen/dating-app-singapur-setzt-auf-staats-tinder-fuer-mehr-kinder-6acbade544e61ce244fcda51",
-    "image": "https://images.bild.de/6acbade544e61ce244fcda51/0841aa90ad4d0b69351c8be79979f4dd,48eb26c9?w=1280",
-    "date": 0,
-    "titleSl": "Dating-App soll Geburtenrate steigern - Singapur setzt auf Staats-\"Tinder\" für mehr Kinder"
-   },
-   {
-    "title": "Sky berichtet! - Hochzeitsgerüchte um Kardashian und Hamilton",
-    "link": "https://www.bild.de/sport/mehr-sport/formel-1-hochzeitsgeruechte-um-kim-kardashian-und-lewis-hamilton-6acb692a44e61ce244fcd5b4",
-    "image": "https://images.bild.de/6acb692a44e61ce244fcd5b4/8308a25b377cb3447da00f2269c50442-landscape,8024418c?w=1280",
     "date": 0
    }
   ],
@@ -577,6 +578,12 @@
   ],
   "elpais": [
    {
+    "title": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+    "link": "https://elpais.com/videos/2026-10-12/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896",
+    "date": 1791786002000
+   },
+   {
     "title": "El producto barato que evita que las ventanas se empañen en invierno",
     "link": "https://elpais.com/escaparate/estilo-de-vida/liquido-antivaho.html",
     "image": "https://imagenes.elpais.com/resizer/v2/CLE3SZODYZCE5K6JYJOT53HTSA.png?auth=bc3a8afcf1281de9a893f534c7b32c18bca7cb11e29476d4ac9afdfc446eba10",
@@ -607,13 +614,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/WY2KBJBIUVFFBHSQF7U4RZPX3Q.jpg?auth=27293eb06450de6d76263b60f552d3f55e3031fca77478e78d31d78c3685f94b",
     "date": 1791776700000,
     "titleSl": "Od funkcije do fantazije: bomber jakna je dragulj sezone"
-   },
-   {
-    "title": "Alejandro Rojas-Marcos busca el reencuentro con los rivales políticos de toda una vida: “Tengo 86 años. Me gustaría dejar esto arreglado”",
-    "link": "https://elpais.com/eps/2026-10-12/alejandro-rojas-marcos-busca-el-reencuentro-con-los-rivales-politicos-de-toda-una-vida-tengo-86-anos-me-gustaria-dejar-esto-arreglado.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MDHXHV24M5CIHECKYS4BRF62LQ.jpg?auth=e73665f665e0405df96c11147367a45a54e6ee3a21a4aaf1a8594c7d9cdc370f",
-    "date": 1791776400000,
-    "titleSl": "Alejandro Rojas-Marcos busca el reencuentro con los rivales políticos de toda una vida: »Tengo 86 años. Me gustaría dejar esto arreglado”"
    }
   ]
  },
