@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T07:44:23.810Z",
+ "generatedAt": "2026-10-12T07:46:21.789Z",
  "sources": {
   "siol": [
    {
@@ -21,7 +21,7 @@
     "date": 1791789720000
    },
    {
-    "title": "Kakšno vreme se obeta? Padavine bodo ponehale, ponekod se bo ohladilo do ledišča.",
+    "title": "Kakšno vreme se obeta? Padavine bodo ponehale, ponekod se bo ohladilo do ledišča. #animacija",
     "link": "https://siol.net/novice/slovenija/kaksno-vreme-se-obeta-padavine-bodo-ponehale-ponekod-se-bo-ohladilo-do-ledisca-703740",
     "image": "https://siol.net/media/img/e9/b7/6e7089ef55b52baf786c.jpeg",
     "date": 1791788400000
@@ -79,10 +79,22 @@
   ],
   "rtvslo": [
    {
-    "title": "Kajzer glede sankcij ZDA zoper ICC: \"Mi tukaj vidimo pot naprej v dialogu z ameriško stranjo\"",
-    "link": "https://www.rtvslo.si/slovenija/kajzer-glede-sankcij-zda-zoper-icc-mi-tukaj-vidimo-pot-naprej-v-dialogu-z-amerisko-stranjo/796600",
+    "title": "Philippe Sands Nemčiji očital \"nedostojen molk\" glede Izraela",
+    "link": "https://www.rtvslo.si/kultura/knjige/philippe-sands-nemciji-ocital-nedostojen-molk-glede-izraela/796601",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/04/04/67032697.jpg",
+    "date": 1791791126000
+   },
+   {
+    "title": "Kajzer glede ameriških sankcij zoper ICC: \"Mi tukaj vidimo pot naprej v dialogu z ameriško stranjo\"",
+    "link": "https://www.rtvslo.si/slovenija/kajzer-glede-ameriskih-sankcij-zoper-icc-mi-tukaj-vidimo-pot-naprej-v-dialogu-z-amerisko-stranjo/796600",
     "image": "https://img.rtvcdn.si/_up/upload/2026/08/31/67088470.jpg",
     "date": 1791790468000
+   },
+   {
+    "title": "PZS: Rezervacijski sistem v kočah je nujen",
+    "link": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/pzs-rezervacijski-sistem-v-kocah-je-nujen/796599",
+    "image": "https://img.rtvcdn.si/_up/upload/2020/05/10/65673422.jpg",
+    "date": 1791790170000
    },
    {
     "title": "September drugi najtoplejši v zgodovini meritev, oceani rekordno topli",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/enostavno/referendumi-2026/referendum-o-parlamentarni-preiskavi/796594",
     "image": "https://img.rtvcdn.si/_up/upload/2024/06/22/66195870.jpg",
     "date": 1791788018000
-   },
-   {
-    "title": "Referendum o RTV-prispevku",
-    "link": "https://www.rtvslo.si/enostavno/referendumi-2026/referendum-o-rtv-prispevku/796597",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/12/67112273.jpg",
-    "date": 1791787877000
-   },
-   {
-    "title": "Andreja Slokar se je končno vrnila na sneg in računa na vrnitev v Leviju",
-    "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/andreja-slokar-se-je-koncno-vrnila-na-sneg-in-racuna-na-vrnitev-v-leviju/796593",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/03/27/66548585.jpg",
-    "date": 1791787330000
    }
   ],
   "zurnal": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "If Netanyahu goes, does anything really change for Palestinians?",
-    "link": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/yair-lapid-photo-1790492085.jpeg?resize=1920%2C1440",
-    "date": 1791790034000,
-    "titleSl": "Če Netanjahu odide, se za Palestince res kaj spremeni?"
-   },
-   {
     "title": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
     "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26284293303096-1791783390.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26258555752392-1791774825.jpg?resize=1920%2C1440",
     "date": 1791779058000,
     "titleSl": "Netanjahu zahteva preiskavo virov za nagrajeni film o Gazi NAZA"
+   },
+   {
+    "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791777522.jpg?resize=1920%2C1080&quality=80",
+    "date": 1791777656000,
+    "titleSl": "Etiopske enote vstopijo v Adigrat v Tigraju, blizu meje z Eritrejo"
    }
   ],
   "guardian": [
@@ -334,8 +334,22 @@
     "title": "Ukraine says Russia violated Trump’s ‘energy ceasefire’ – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/54d55f99f0271b04620e32fb0b9565bf628f12dc/644_0_4865_3891/master/4865.jpg?width=140&quality=85&auto=format&fit=max&s=a43cc55d8e387d55416b5bb97fda6846",
-    "date": 1791789139000,
+    "date": 1791790405000,
     "titleSl": "Ukrajina trdi, da je Rusija kršila Trumpovo \"energetsko premirje\" - Evropa v živo"
+   },
+   {
+    "title": "ABC reporter could face disciplinary action over opinion piece, journalists’ union says",
+    "link": "https://www.theguardian.com/media/2026/oct/12/abc-reporter-opinion-piece-journalists-union-meaa",
+    "image": "https://i.guim.co.uk/img/media/b43b0210be4114d99efc2d7ad66566e7824f9a39/0_132_1575_1260/master/1575.jpg?width=140&quality=85&auto=format&fit=max&s=8fbeae8c7d1caec9e3caf709febde36b",
+    "date": 1791790182000,
+    "titleSl": "Novinarski sindikat pravi, da bi lahko novinar ABC zaradi svojega mnenja prejel disciplinske ukrepe"
+   },
+   {
+    "title": "‘What planet is she on?’: Seekers take aim at CPAC over use of I am Australian",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/12/band-seekers-take-aim-cpac-pauline-hanson-i-am-australian-song",
+    "image": "https://i.guim.co.uk/img/media/b059640c6255d74520fd5a8028130b7a3bc6188b/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=cba7356af0904febea6464440a6a7eed",
+    "date": 1791790028000,
+    "titleSl": "'Na katerem planetu je ona?': Iskalci ciljajo na CPAC zaradi uporabe I am Australian"
    },
    {
     "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
@@ -357,23 +371,16 @@
     "image": "https://i.guim.co.uk/img/media/4f45123c0d103781f7cb5dc2ba43bfa0b98fda10/0_0_1100_880/master/1100.jpg?width=140&quality=85&auto=format&fit=max&s=1fa159bd263574b43fb8cffd01d141c3",
     "date": 1791786895000,
     "titleSl": "Zdravnik je posvaril Elizabeth Struhs, da ne bo varna doma, leta preden jo je verska sekta ubila z umikom zdravil"
-   },
-   {
-    "title": "Mystery of 1950s wedding photo album found dumped in Wakefield solved",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved",
-    "image": "https://i.guim.co.uk/img/media/b23c633774ea769fa1984f7491462b8a5dc84546/148_391_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=829f33678c4a73f764918589d708739a",
-    "date": 1791786030000,
-    "titleSl": "Razrešena skrivnost poročnega fotoalbuma iz 1950-ih, ki so ga našli na odlagališču v Wakefieldu"
-   },
-   {
-    "title": "UK van drivers face extra £2.5bn in diesel costs this year, figures show",
-    "link": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
-    "image": "https://i.guim.co.uk/img/media/c47ffb29e3c3499e34ea0adeb0b229afd9e2e2ae/138_0_4638_3712/master/4638.jpg?width=140&quality=85&auto=format&fit=max&s=dcece3d58899369b670e8426ef98820f",
-    "date": 1791784849000,
-    "titleSl": "Številke kažejo, da se vozniki kombijev v Združenem kraljestvu letos soočajo z dodatnimi stroški dizelskega goriva za 2,5 milijarde funtov"
    }
   ],
   "spiegel": [
+   {
+    "title": "Private Krankenversicherung: Warum es richtig wäre, sie abzuschaffen",
+    "link": "https://www.spiegel.de/wirtschaft/private-krankenversicherung-warum-es-richtig-waere-sie-abzuschaffen-a-143bfaaa-798a-4849-83d4-e8c5a7400c33#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/9669de2b-91cd-4750-bd06-c04dc9c48d99_w520_r2.08_fpx30_fpy55.01.jpg",
+    "date": 1791790860000,
+    "titleSl": "Zasebno zdravstveno zavarovanje: Zakaj bi ga bilo prav ukiniti"
+   },
    {
     "title": "Johann Wadepuhl: EU-Außenminister planen bislang größtes Sanktionspaket gegen Russland",
     "link": "https://www.spiegel.de/politik/deutschland/johann-wadepuhl-eu-aussenminister-planen-bislang-groesstes-sanktionspaket-gegen-russland-a-406b7845-4852-4e5f-ab1c-494e95f3a95b#ref=rss",
@@ -408,16 +415,22 @@
     "image": "https://cdn.prod.www.spiegel.de/images/a5bf9710-7e66-46f3-9fcf-527ce212e28e_w520_r2.08_fpx45.33_fpy50.jpg",
     "date": 1791784080000,
     "titleSl": "Davek na dediščino: Družinski podjetniki in DIHK proti višjim davkom"
-   },
-   {
-    "title": "Versteigerung: Ein Fohlen namens J-Nimon K räumt ab",
-    "link": "https://www.spiegel.de/panorama/versteigerung-ein-fohlen-namens-j-nimon-k-raeumt-ab-a-a9f40897-a8fc-4baa-83ae-270677a15da5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/943f1d42-749a-4613-b1e7-49f6b8382d25_w520_r2.08_fpx45.4_fpy50.jpg",
-    "date": 1791783780000,
-    "titleSl": "Dražba: Zmaga žrebe z imenom J-Nimon K"
    }
   ],
   "bild": [
+   {
+    "title": "Zwei Konzerne, zwei Wege - VW spart, Stellantis strahlt!",
+    "link": "https://www.bild.de/leben-wissen/auto/zwei-konzerne-zwei-wege-vw-spart-stellantis-strahlt-6acc87cf96360f6d88a6091a",
+    "image": "https://images.bild.de/6acc87cf96360f6d88a6091a/d70bf6285f121bd5f08a3b7e74d9ba13,a9792ea3?w=1280",
+    "date": 0,
+    "titleSl": "Dve podjetji, dve poti - VW rešuje, Stellantis blesti!"
+   },
+   {
+    "title": "Er pfeift das Champions-League-Spiel - Bayern-Schiri wurde vom Verband suspendiert",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-schiri-georgi-kabakov-wurde-vor-einem-jahr-vom-verband-suspendiert-6acc858f2b0d25ef1edd24b5",
+    "image": "https://images.bild.de/6acc858f2b0d25ef1edd24b5/c301d56639ffe94d6a971d3436900c0b,f12b2817?w=1280",
+    "date": 0
+   },
    {
     "title": "„Unanständig“! „Unmenschlich!“ - Klingbeil und Schwesig gehen wegen Bas auf Union los",
     "link": "https://www.bild.de/politik/inland/nach-bas-rueckzug-klingbeil-tritt-gegen-union-nach-6acc83ca917c96cff556d314",
@@ -445,20 +458,6 @@
     "image": "https://images.bild.de/6acc897f2b0d25ef1edd24fa/abaed9d8f57079b2b4e6b5846c859a76,7b837f68?w=1280",
     "date": 0,
     "titleSl": "V živo - Bärbel Bas odstopi"
-   },
-   {
-    "title": "Schon heute auf RTL+ - Das geschieht nächste Woche bei GZSZ",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-vorschau-auf-rtl-katrin-ist-beeindruckt-von-kaltenbach-6acc84da96360f6d88a608dc",
-    "image": "https://images.bild.de/6acc84da96360f6d88a608dc/ff6a85b5f7ced76f4f69b9b5cb6141b4,30fd4644?w=1280",
-    "date": 0,
-    "titleSl": "Že danes na RTL+ - To bo naslednji teden na GZSZ"
-   },
-   {
-    "title": "Eilmeldung - Alexander Schweitzer soll neuer Arbeitsminister werden",
-    "link": "https://www.bild.de/politik/eilmeldung-alexander-schweitzer-soll-neuer-arbeitsminister-werden-6acc824a96360f6d88a60889",
-    "image": "https://images.bild.de/6acc824a96360f6d88a60889/acd708c59d7e6b28dbd9772815f49d0f,87a1c727?w=1280",
-    "date": 0,
-    "titleSl": "Aktualna novica - Alexander Schweitzer bo novi minister za delo"
    }
   ],
   "krone": [
