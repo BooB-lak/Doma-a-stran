@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T13:01:05.518Z",
+ "generatedAt": "2026-10-12T13:03:43.106Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Pretep staršev na otroškem turnirju, klub udaril po mizi: Dovolj je!",
+    "link": "https://www.zurnal24.si/sport/nogomet/pretep-starsev-na-otroskem-turnirju-klub-udaril-po-mizi-dovolj-je-466587",
+    "image": "https://www.zurnal24.si/media/img/38/f7/482228b6064896ab2951.jpeg",
+    "date": 1791810120000
+   },
+   {
     "title": "V boj za županski stolček tudi Boštjančič?",
     "link": "https://www.zurnal24.si/slovenija/v-boj-za-zupanski-stolcek-tudi-bostjancic-466586",
     "image": "https://www.zurnal24.si/media/img/e2/90/5bdb8b685e36cca69493.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/zdravje/otrok/mlada-mamica-bilo-bi-dobro-da-za-to-slisi-cim-vec-nosecnic-466584",
     "image": "https://www.zurnal24.si/media/img/62/bc/d1694b9fa0d3b8346adf.jpeg",
     "date": 1791803520000
-   },
-   {
-    "title": "Tankati danes ali jutri? Zdaj je jasno!",
-    "link": "https://www.zurnal24.si/slovenija/tankati-danes-ali-jutri-zdaj-je-jasno-466577",
-    "image": "https://www.zurnal24.si/media/img/18/c4/3624184c131418f9f39e.jpeg",
-    "date": 1791802380000
    }
   ],
   "reuters": [
@@ -259,7 +259,7 @@
    {
     "title": "Russell Brand appears in court for start of rape trial",
     "link": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caaf/live/7d2933c0-c633-11f1-b99d-0127a94fa1d0.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014e/live/0c686930-c63d-11f1-b99d-0127a94fa1d0.jpg",
     "date": 1791809078000,
     "titleSl": "Russell Brand se pojavi na sodišču zaradi začetka sojenja za posilstvo"
    },
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Der Femizid an meiner Schwester - „Kindchen, er hat sie getötet“",
+    "link": "https://www.bild.de/leben-wissen/der-femizid-an-meiner-schwester-kindchen-er-hat-sie-getoetet-68e3edcfc9fcb483178b9aaf",
+    "image": "https://images.bild.de/68e3edcfc9fcb483178b9aaf/d2f42d5edc27fe83e267ba1533299287,3a42242d?w=1280",
+    "date": 0,
+    "titleSl": "Umor moje sestre - \"Otrok, ubil jo je\""
+   },
+   {
+    "title": "Nach Trumps Putin-Deal - Russen-Rakete mitten in Wohngebiet",
+    "link": "https://www.bild.de/news/explosion-im-video-rakete-trifft-wohngebiet-in-der-ukraine-6acc9eb2917c96cff556d57d",
+    "image": "https://images.bild.de/6acc9eb2917c96cff556d57d/1c8ff4c21c7b6623337513e510841805,7198aed8?w=1280",
+    "date": 0,
+    "titleSl": "Po Trumpovem dogovoru Putin – ruska raketa sredi stanovanjskega naselja"
+   },
+   {
     "title": "Influencerin im Steckbrief - So wurde Tara Tabitha zur Reality-Queen",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/tara-tabitha-im-steckbrief-die-reality-queen-aus-oesterreich-61e565a64bddca62be9702a6",
     "image": "https://images.bild.de/61e565a64bddca62be9702a6/1d22099f19258de1539725b33ad26e0b,24354f7?w=1280",
@@ -426,48 +440,55 @@
     "titleSl": "Profil vplivneže - Tara Tabitha je tako postala resničnostna kraljica"
    },
    {
+    "title": "Vor Pipeline-Prozess - Anwalt fürchtet um Leben von Nord-Stream-Bomber",
+    "link": "https://www.bild.de/regional/hamburg/vor-prozess-anwalt-fuerchtet-um-leben-von-nord-stream-bomber-6aba8364e82a6edc94e19a48",
+    "image": "https://images.bild.de/6aba8364e82a6edc94e19a48/7951b2ed99af5b16315b3feb23076410,ab178eba?w=1280",
+    "date": 0,
+    "titleSl": "Pred sojenjem za naftovod - odvetnik se boji za življenje bombnika Severnega toka"
+   },
+   {
+    "title": "Schule abgebrochen, heute Psychiater - „Du brauchst nur einen, der an dich glaubt“",
+    "link": "https://www.bild.de/leben-wissen/medizin/michael-bohne-du-brauchst-nur-einen-menschen-der-an-dich-glaubt-6abd16b4ca5c42fe8f930e15",
+    "image": "https://images.bild.de/6abd16b4ca5c42fe8f930e15/1ad38253d539bf9f124d1484adbdd975,957ba23c?w=1280",
+    "date": 0,
+    "titleSl": "Opustil šolanje, zdaj psihiater - \"Samo nekoga potrebuješ, ki verjame vate\""
+   },
+   {
     "title": "Urteil gefallen - Gerät kaputt? Media Markt darf Sie nicht abspeisen",
     "link": "https://www.bild.de/leben-wissen/digital/media-markt-so-darf-der-haendler-kunden-nicht-abwimmeln-6accbd7b2b0d25ef1edd2af5",
     "image": "https://images.bild.de/6accbd7b2b0d25ef1edd2af5/26096a2cd09eeb3ebd1beffc05dab0cd,d27d6815?w=1280",
     "date": 0,
     "titleSl": "Razsodba padla – naprava pokvarjena? Media Markt vas ne sme prevarati"
-   },
-   {
-    "title": "Nicht die Fifa, Madonna oder Shakira - Diese Idioten zerstören unseren Fußball!",
-    "link": "https://www.bild.de/sport/fussball/diese-idioten-zerstoeren-unseren-fussball-6acc7d658c29922a61cfcba7",
-    "image": "https://images.bild.de/6acc7d658c29922a61cfcba7/92414ed7fa63c56971af3dd50de45c15,76f1c2e?w=1280",
-    "date": 0,
-    "titleSl": "Ne Fifa, Madonna ali Shakira - ti idioti uničujejo naš nogomet!"
-   },
-   {
-    "title": "BILD-Kommentar zu Füllkrug - Werder hat wieder ein Gesicht",
-    "link": "https://www.bild.de/sport/fussball/kommentar-zu-niclas-fuellkrug-werder-bremen-hat-wieder-ein-gesicht-6acca32f2b0d25ef1edd2769",
-    "image": "https://images.bild.de/6acca32f2b0d25ef1edd2769/35e84f90f4cc834b06c670d45a86df4a,3887aba3?w=1280",
-    "date": 0,
-    "titleSl": "Komentar BILD na Füllkrug - Werder ima spet obraz"
-   },
-   {
-    "title": "In den kommenden Wochen - Zverev wird Nummer 1 der Tennis-Weltrangliste",
-    "link": "https://www.bild.de/sport/mehr-sport/in-den-kommenden-wochen-zverev-wird-nummer-eins-der-tennis-weltrangliste-6accd053f2750bc2e609ed18",
-    "image": "https://images.bild.de/6accd053f2750bc2e609ed18/2fd24ae4c73fdd50043989dc9898c3fc,ff8511da?w=1280",
-    "date": 0,
-    "titleSl": "V prihodnjih tednih - Zverev bo postal številka 1 na svetovni teniški lestvici"
-   },
-   {
-    "title": "Wie Bayern und Dortmund - So plant die SVE den internationalen Aufstieg",
-    "link": "https://www.bild.de/sport/fussball/wie-bayern-und-dortmund-so-plant-die-sve-den-internationalen-aufstieg-6acccf2a1c1b22b7c031b629",
-    "image": "https://images.bild.de/6acccf2a1c1b22b7c031b629/ad00287ebb44fe66c167c94fc14f5c4a,e31c6889?w=1280",
-    "date": 0,
-    "titleSl": "Tako kot Bavarska in Dortmund – tako SVE načrtuje mednarodno promocijo"
    }
   ],
   "krone": [
+   {
+    "title": "Bundesliga-Highlights - Video: SV Ried dreht Partie gegen WSG Tirol",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sQThTOFBDLWtFakhpSVU2cHRLN1p0M2tfWDg3SHJhMndxaHMwS0JkcXlaMS1qNEU4Z3VVNlNqRWxoZw?oc=5",
+    "image": "",
+    "date": 1791810075000,
+    "titleSl": "Vrhunci Bundeslige - Video: SV Ried preobrnil tekmo proti WSG Tirol"
+   },
+   {
+    "title": "Bei 0:2 gegen Sturm - Diese Szene bringt die Austria auf die Palme",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZVFZlc1M1NDlELTkwYWM5R2tmNmE0czNteWFEMHkwLUUzVllkWEFNYWdpSjI2cVR1YzBRZW1uUE5YUQ?oc=5",
+    "image": "",
+    "date": 1791810061000,
+    "titleSl": "Pri 0:2 proti Sturmu - Ta prizor razburja Avstrijo"
+   },
    {
     "title": "Bundesliga-Highlights - Drei Tore und zwei Rote Karten bei Altach-Sieg",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yOUUyd1JRaS01NVpSVHNVbnFLQjZOS0VwcVdJR0dZNHZGSm42TzJMX3Q0YW1Uc201bk0tUFYyaUpWUQ?oc=5",
     "image": "",
     "date": 1791810047000,
     "titleSl": "Vrhunci Bundeslige - Trije goli in dva rdeča kartona pri zmagi Altacha"
+   },
+   {
+    "title": "Spektakel in Hartberg - Sieben Tore! Verrückte Bundesliga-Partie im Video",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrVzVFcktBcTVYeVMtb2NuLTViUEhfOUdreEtOV3JyRWJSSVh3cUpubjVvb1g2SURoRnhmdU1XTGIzdw?oc=5",
+    "image": "",
+    "date": 1791810045000,
+    "titleSl": "Spektakel v Hartbergu - sedem golov! Nora tekma Bundeslige v videu"
    },
    {
     "title": "Highlights vom Hit - Video: Auch der LASK kann Rapid nicht stoppen",
@@ -482,27 +503,6 @@
     "image": "",
     "date": 1791810045000,
     "titleSl": "Vrhunci Bundeslige - Video: Veliko smole v Salzburgu proti GAK-u"
-   },
-   {
-    "title": "„Grinch“ schlägt zu - Gleich vier Feiertage gehen uns 2027 flöten",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHWkNHN1NjNHNydmw0STh0WUFlcC12S1BNMEgwWGtSb2N1NFh5dFZGcHFaOE9CZVNROE5EYm8wM1ZFUQ?oc=5",
-    "image": "",
-    "date": 1791809707000,
-    "titleSl": "“Grinch” stavka – leta 2027 bodo izostali štirje prazniki"
-   },
-   {
-    "title": "„Kommandozentrale“ - Apple vor Präsentation neuer Smart-Home-Produkte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KeWIxa0kyNFdBMXBTOFdRYkgxRFprMGkwRDFObDVNRmhyd1Exc2ZnR0RNcTJCLTRSdXBjVWxzYXVnUQ?oc=5",
-    "image": "",
-    "date": 1791808920000,
-    "titleSl": "“Komandni center” - Apple pred predstavitvijo novih izdelkov pametnega doma"
-   },
-   {
-    "title": "Rollende Gefahr - 40 Mängel! Schrott-Transporter auf der S1 gestoppt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9JQnBrMXAwUzlBc2xWWHpWNFN1bllnRVVMWGZkdm9aenhwYU80c2gwa1FiNlpSRzBCMDlNOUpqTlQ3dw?oc=5",
-    "image": "",
-    "date": 1791808860000,
-    "titleSl": "Nevarnost kotaljenja - 40 napak! Transporter odpadkov se je ustavil na S1"
    }
   ],
   "rainews": [
@@ -565,20 +565,6 @@
     "titleSl": "V ŽIVO, vojna v Ukrajini: Friedrich Merz meni, da se bo “Rusija pogajala samo, če bo pod pritiskom”"
    },
    {
-    "title": "Un ancien député propose de transformer le Sénat en chambre chargée du diagnostic et de l’évaluation de la loi",
-    "link": "https://www.lemonde.fr/politique/article/2026/10/12/un-ancien-depute-propose-de-transformer-le-senat-en-chambre-chargee-du-diagnostic-et-de-l-evaluation-de-la-loi_6792630_823448.html",
-    "image": "https://asset.lemde.fr/medias/img/social-network/default.png",
-    "date": 1791806632000,
-    "titleSl": "Nekdanji poslanec predlaga preoblikovanje senata v senat, pristojen za diagnosticiranje in ocenjevanje prava"
-   },
-   {
-    "title": "Municipales à Saint-Fons, près de Lyon : la justice annule les élections, remportées par LFI, en raison d’irrégularités sur une liste concurrente",
-    "link": "https://www.lemonde.fr/politique/article/2026/10/12/municipales-a-saint-fons-pres-de-lyon-la-justice-annule-les-elections-remportees-par-lfi-en-raison-d-irregularites-sur-une-liste-concurrente_6792629_823448.html",
-    "image": "https://img.lemde.fr/2026/10/12/971/0/3327/1663/644/322/60/0/108be98_upload-1-yur35iig1mcd-maxnewsspecialtwo580940.jpg",
-    "date": 1791806628000,
-    "titleSl": "Občina v Saint-Fonsu blizu Lyona: pravosodje razveljavi volitve, na katerih je zmagal LFI, zaradi nepravilnosti na konkurenčni listi"
-   },
-   {
     "title": "Commerces à Paris : le tourisme et la vente en ligne font toujours la loi",
     "link": "https://www.lemonde.fr/politique/article/2026/10/12/commerces-a-paris-le-tourisme-et-la-vente-en-ligne-font-toujours-la-loi_6792627_823448.html",
     "image": "https://img.lemde.fr/2026/10/12/833/0/6000/3000/644/322/60/0/de75207_upload-1-uo1rucozaxqk-000-68kf9cq.jpg",
@@ -586,11 +572,25 @@
     "titleSl": "Trgovine v Parizu: turizem in spletna prodaja še vedno vladata"
    },
    {
+    "title": "Au Japon, la « trahison » des brasseurs de bière accusés d’entente sur les prix",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/12/au-japon-la-trahison-des-brasseurs-de-biere-accuses-d-entente-sur-les-prix_6792624_3234.html",
+    "image": "https://img.lemde.fr/2026/10/12/526/0/4158/2079/644/322/60/0/cc4ec8a_upload-1-lvcnshre5jd8-000-c7jl3zq.jpg",
+    "date": 1791806406000,
+    "titleSl": "Na Japonskem je \"izdaja\" pivovarjev obtožena prirejanja cen"
+   },
+   {
     "title": "Plusieurs centaines de supermarchés Intermarché et Coopérative U victimes d’une cyberattaque visant leurs installations frigorifiques",
     "link": "https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html",
     "image": "https://img.lemde.fr/2026/10/12/785/0/5752/2876/644/322/60/0/1a11177_upload-1-pr4odndefbcp-000-c996397.jpg",
     "date": 1791802984000,
     "titleSl": "Več sto supermarketov Intermarché in Coopérative U žrtev kibernetskega napada na njihove hladilne naprave"
+   },
+   {
+    "title": "François de Canson succède à Renaud Muselier à la tête de la région PACA",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/12/francois-de-canson-succede-a-renaud-muselier-a-la-tete-de-la-region-paca_6792620_823448.html",
+    "image": "https://img.lemde.fr/2026/10/12/560/0/6720/3360/644/322/60/0/e0b0d4c_upload-1-dl54qxaiouka-maxnewsspecialtwo756452.jpg",
+    "date": 1791802896000,
+    "titleSl": "François de Canson je nasledil Renauda Muselierja na čelu regije PACA"
    }
   ],
   "elpais": [
@@ -600,6 +600,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/3Q53ZQ6GEFGTZCUFOD64C7MFV4.jpg?auth=b3731e676041ebd982165d8e8efcf3c8b42f0ce119ce9624014126599af79ac3",
     "date": 1791809923000,
     "titleSl": "Parada ob Kolumbovem dnevu in politični odzivi v živo | Policija poskuša izgnati skupino protestnikov, ki grajajo tiste, ki so taborili v Solu"
+   },
+   {
+    "title": "Una nueva riada agrava la crisis de Nepal tras la catástrofe de agosto",
+    "link": "https://elpais.com/internacional/2026-10-12/una-nueva-riada-agrava-la-crisis-de-nepal-tras-la-catastrofe-de-agosto.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/73PQLKS6LRLOZBYPT73IPJPMMY.jpg?auth=8cd350c653de6ad04dac2ad0b7d4e3922faddb7da893de32f28f1f3a0ec80021",
+    "date": 1791809851000,
+    "titleSl": "Nova poplava zaostruje krizo v Nepalu po avgustovski katastrofi"
    },
    {
     "title": "El Papa será ingresado el martes para la extirpación de un nódulo pulmonar",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/4PCJ6D2GTRG2TO2NJN4CZCWEAY.jpg?auth=5c32543a67bcc0a32614724bdc1156c743168e8dd830d26c4cc4e140478971ba",
     "date": 1791806607000,
     "titleSl": "Michael Woodford in Robert E. Hall sta prejela Nobelovo nagrado za ekonomijo za svoje predloge za ublažitev kriz in balonov."
-   },
-   {
-    "title": "Jagoba Arrasate vuelve a Osasuna tras la destitución de Ramis",
-    "link": "https://elpais.com/deportes/futbol/2026-10-12/jagoba-arrasate-vuelve-a-osasuna-tras-la-destitucion-de-ramis.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/4WX5CDLLGA5TZ3IEJJO2QJ7ARU.jpg?auth=23ee9d335ac32040dc7e16151f27a8c949278eed960cdd362c03d5a05d57439e",
-    "date": 1791805372000,
-    "titleSl": "Jagoba Arrasate se po odpustitvi Ramisa vrača v Osasuno"
    }
   ]
  },
