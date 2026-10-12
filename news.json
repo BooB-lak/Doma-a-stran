@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T21:20:37.373Z",
+ "generatedAt": "2026-10-12T21:22:23.942Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Federal Agents Search Home of Rep. Ilhan Omar",
+    "link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
+    "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12dc-omar-pgqj/12dc-omar-pgqj-mediumSquareAt3X.jpg",
+    "date": 1791839878000,
+    "titleSl": "Zvezni agenti preiskujejo dom predstavnika Ilhana Omarja"
+   },
+   {
     "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
     "link": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
     "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12int-nato-russia-bqpw/12int-nato-russia-bqpw-mediumSquareAt3X.jpg",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/10/09/us/00dc-venezuela-top/00dc-venezuela-top-mediumSquareAt3X.jpg",
     "date": 1791837681000,
     "titleSl": "Trumpov lojalist, turški investitor in bitka za bogastvo in vpliv"
-   },
-   {
-    "title": "Federal Agents Search Home of Rep. Ilhan Omar",
-    "link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
-    "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12dc-omar-pgqj/12dc-omar-pgqj-mediumSquareAt3X.jpg",
-    "date": 1791836698000,
-    "titleSl": "Zvezni agenti preiskujejo dom predstavnika Ilhana Omarja"
    },
    {
     "title": "Judge Orders Trump Administration to Answer for Tree Removals at D.C. Golf Course",
@@ -242,6 +242,13 @@
    }
   ],
   "bbc": [
+   {
+    "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+    "date": 1791840051000,
+    "titleSl": "Šest ukrajinskih energetskih območij, ki jih je Rusija prizadela, odkar je Trump objavil premirje, pravi Zelenski"
+   },
    {
     "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
     "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg",
     "date": 1791838449000,
     "titleSl": "Savdski minister obljubil \"resen odgovor\" na napade Hutijev na letališča"
-   },
-   {
-    "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-    "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6601/live/5861b070-c670-11f1-8c1b-356b863d8549.jpg",
-    "date": 1791836257000,
-    "titleSl": "Zakaj je Moskva molčeča glede Trumpovega energetskega premirja"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791839216.jpg?resize=1920%2C1080&quality=80",
-    "date": 1791839288000,
-    "titleSl": "Abdi-Wali se piše v zgodovino kot prvi v Somaliji rojen begunec v britanskem parlamentu"
-   },
    {
     "title": "Israel demolitions in Negev displace 400 Palestinians",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israel-demolitions-in-negev-displace-400-palestinians?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791834228.jpg?resize=1920%2C1080&quality=80",
     "date": 1791834240000,
     "titleSl": "Najstnik ustreli ravnatelja, učitelja na francoski šoli"
+   },
+   {
+    "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791833788.jpg?resize=1920%2C1080&quality=80",
+    "date": 1791833831000,
+    "titleSl": "Imigracijski agenti so preiskali dom ameriškega predstavnika Ilhana Omarja"
    }
   ],
   "guardian": [
@@ -478,9 +478,9 @@
    },
    {
     "title": "Ihr Mondkalender",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VdGlTeHd5cmV6cy1YdVNLODdBNng3cXVYNEdvQ2RBT1NIb3pha2F4SzUxcV8wdUJLdjVCNEZGY0w1MVZUZVVJOTdsN2VEeGdPNzE1QUFTcw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pdlVMTXNValQyQkNaTnhKMFgwQ2NCdjZEX1U1eVU1a2V3X2tmZ1RNNjB2eE1qdEg2M0JZdEZVeV9LVnhtU2hpUHpTWDQ0WWtmMEs2Zk1rUQ?oc=5",
     "image": "",
-    "date": 1791836034000,
+    "date": 1791835899000,
     "titleSl": "Vaš lunarni koledar"
    },
    {
