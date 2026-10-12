@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T16:30:54.860Z",
+ "generatedAt": "2026-10-12T16:32:23.730Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+    "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12int-ukraine-economy-01-tfgm/12int-ukraine-economy-01-tfgm-mediumSquareAt3X.jpg",
+    "date": 1791822010000,
+    "titleSl": "Trump pomaga Putinu v ruski gospodarski vojni z Ukrajino"
+   },
+   {
     "title": "How American Retirees at Different Incomes Rely on Social Security",
     "link": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
     "image": "https://static01.nyt.com/images/2026/10/06/business/00ss-income/00ss-income-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12-int-iran-saudi-01-qtvz/12-int-iran-saudi-01-qtvz-mediumSquareAt3X.jpg",
     "date": 1791819894000,
     "titleSl": "Savdska Arabija se sooča z novimi napadi, ko se otepa napadov na letališčih"
-   },
-   {
-    "title": "Federal Agents Search Home of Rep. Ilhan Omar",
-    "link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
-    "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12dc-omar-pgqj/12dc-omar-pgqj-mediumSquareAt3X.jpg",
-    "date": 1791817340000,
-    "titleSl": "Zvezni agenti iščejo dom predstavnice Ilhan Omar"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Pope Leo continues working after lung surgery announcement",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791821390.jpg?resize=1620%2C1080&quality=80",
-    "date": 1791821401000,
-    "titleSl": "Papež Leo nadaljuje z delom po napovedi operacije pljuč"
-   },
-   {
     "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
     "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6accf7466ac0-1791817542.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791818353.jpg?resize=1920%2C1080&quality=80",
     "date": 1791818363000,
     "titleSl": "V regiji Hormuška ožina naj bi bil napaden naftni tanker"
+   },
+   {
+    "title": "Will Ukraine survive the winter?",
+    "link": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T051449Z_2063467001_RC21YNA9MPE8_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1791350551.jpg?resize=1920%2C1440",
+    "date": 1791817448000,
+    "titleSl": "Bo Ukrajina preživela zimo?"
    }
   ],
   "guardian": [
@@ -414,15 +414,21 @@
   ],
   "bild": [
    {
-    "title": "Kompany verrät - Neuer morgen nicht im Bayern-Tor!",
-    "link": "https://www.bild.de/sport/fussball/champions-league-manuel-neuer-in-stavanger-nicht-im-bayern-tor-6acc997f96360f6d88a60a6a",
-    "image": "https://images.bild.de/6acc997f96360f6d88a60a6a/3b12c864a91718eabc5eb07e6698eccc,9c4871b6?w=1280",
+    "title": "Wüstenstadt unter Wasser - Las Vegas versinkt in den Fluten",
+    "link": "https://www.bild.de/news/wetter/flut-in-der-wuestenstadt-las-vegas-versinkt-in-den-fluten-6accf6e58776d79fbd9ca83b",
+    "image": "https://images.bild.de/6accf6e58776d79fbd9ca83b/22432e8a1e8eace89f04321162598835,a2fc2b23?w=1280",
     "date": 0
    },
    {
     "title": "Bas-Rücktritt - Darum ist die SPD so wütend auf die Union",
     "link": "https://www.bild.de/politik/inland/bas-ruecktritt-darum-ist-die-spd-so-wuetend-auf-die-union-6acc9d638776d79fbd9c9e43",
     "image": "https://images.bild.de/6acc9d638776d79fbd9c9e43/360080b9542508e941663fee5469f0fb,49d9f185?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Kompany verrät - Neuer morgen nicht im Bayern-Tor!",
+    "link": "https://www.bild.de/sport/fussball/champions-league-manuel-neuer-in-stavanger-nicht-im-bayern-tor-6acc997f96360f6d88a60a6a",
+    "image": "https://images.bild.de/6acc997f96360f6d88a60a6a/3b12c864a91718eabc5eb07e6698eccc,9c4871b6?w=1280",
     "date": 0
    },
    {
@@ -442,52 +448,44 @@
     "link": "https://www.bild.de/regional/mecklenburg-vorpommern/neubrandenburg-12-kinder-und-jugendliche-quaelen-jungen-16-6accf8caf2750bc2e609f13c",
     "image": "https://images.bild.de/6accf8caf2750bc2e609f13c/fd392005f9fc7011a92fa5fdd360e08b,3d67fcaf?w=1280",
     "date": 0
-   },
-   {
-    "title": "So gehen Einbrecher vor - Achtung vor dem Klebefaden-Trick",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/einbrecher-nutzen-den-klebefaden-trick-6ac898196e0a564ee52ea062",
-    "image": "https://images.bild.de/6ac898196e0a564ee52ea062/04d976fd65168f473008bde73930d57d,d59ddcfe?w=1280",
-    "date": 0,
-    "titleSl": "Torej gehen Einbrecher vor - Achtung vor dem Klebefaden-Trick"
    }
   ],
   "krone": [
    {
-    "title": "Koaliton uneinig - Aus für Paketsteuer? Jetzt spricht Kanzler Stocker",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hYUx2TDlpZWJsaEdWQW5uWHhDa1FhRGhjLVd0Ymx6alVPYngxRUNPUGdtSllneDU0YUJMajFKWjZpdw?oc=5",
+    "title": "Überraschung im Hit - Dieser Steirer-Klub trifft den Nagel auf den Kopf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BaGEzWWRLa24tWm1EeTBGSUhnOVY2SklKVExXbFF3YWo3YjRycHQ1cGp4d1hpOHdaLXUxT1NNYUhwUQ?oc=5",
     "image": "",
-    "date": 1791822663000
+    "date": 1791822600000
+   },
+   {
+    "title": "FUßBALL-UNTERHAUS - 0:7 im Derby! Oftering-Leistung war „katastrophal“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rVW9tTEZmaHNjZnVabEV6VHJPenM3Q2N2cnFvcTR0S2dWUnd0c0FpcmQ5Vy1YN3lZQS1PWVNEc1pHQQ?oc=5",
+    "image": "",
+    "date": 1791822600000
+   },
+   {
+    "title": "Start am Freitag - Classic Expo heuer mit mehreren Sonderschauen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3Q1ZSMmxqemI0Nl9nUHdjQU5PZDdPQU9fOFMyZ0ItNGFLWmNJLThaSVdfWWtuYThnNmVsNTVkRGh6dw?oc=5",
+    "image": "",
+    "date": 1791822600000
+   },
+   {
+    "title": "„Die Leute dürfen ruhig vom Meistertitel träumen!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE95TEw1dE8tUTd5dy1DLUJVS2ZXMXdlNjA3RkRuMF9EVHhPQ0tKLTUzQkg0R2dtb0t4Z2M5UE5zRXVpUQ?oc=5",
+    "image": "",
+    "date": 1791822600000
+   },
+   {
+    "title": "MARCO HOFFMANN GLÄNZT - Der Hartberger Hattrick-Held aus Halbturn",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56QWVxMXU1dnRCVDI5ZC13TjI1M2w0MUp3TWlxRUIwemY2Qmd1RXdIbFRrQkdTWDJQLW15VDFrQzU0dw?oc=5",
+    "image": "",
+    "date": 1791822600000
    },
    {
     "title": "„Er ist ein Gewinnertyp!“ Udinese-Fans euphorisch",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrZFE5bUxiaHp6Y0dMMnJyTWdUSXJGRUtpQUdHcEV1bi13b25IRjE5d2ZxM0RXYVNYVHphOUt4T19Ldw?oc=5",
     "image": "",
     "date": 1791821880000
-   },
-   {
-    "title": "Großer Spalt im Berg - Hochvogel: In den Alpen droht massiver Felssturz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCc0NFYnYyTnpVaVhRM1phUjNpblM0cmFJbThqWEJMLThScmRuMlZJOWhnLWJxRG9xQTZpNWwyZk4tUQ?oc=5",
-    "image": "",
-    "date": 1791821580000
-   },
-   {
-    "title": "„Krone“ vor Ort - Hier wollen USA unseren nächsten Kampfjet bauen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2WjhBVGVKSVF6THdSaE5EYjBDUlFtS1pqZ2FFVkYyTWZaTWd5LWN3Q3F5M2dCem4xc2pCSThUWU5Xdw?oc=5",
-    "image": "",
-    "date": 1791821525000
-   },
-   {
-    "title": "Whisky, Rum & Co. - Steirische Top-Destillerie schlittert in Insolvenz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05blA4ZHE3WV9wZlRqaUV0eFNEMFFTVW9WTFRjRXlRS3hZNkFwcDl0aEx2Z3YzMTcwV3VicDBFWnFQZw?oc=5",
-    "image": "",
-    "date": 1791821280000
-   },
-   {
-    "title": "Bundesliga-Highlights - Video: SV Ried dreht Partie gegen WSG Tirol",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sQThTOFBDLWtFakhpSVU2cHRLN1p0M2tfWDg3SHJhMndxaHMwS0JkcXlaMS1qNEU4Z3VVNlNqRWxoZw?oc=5",
-    "image": "",
-    "date": 1791820875000,
-    "titleSl": "Bundesliga-poudarki - Video: SV Ried dreht Partie gegen WSG Tirol"
    }
   ],
   "rainews": [
