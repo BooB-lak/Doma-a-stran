@@ -1,7 +1,19 @@
 {
- "generatedAt": "2026-10-12T15:32:25.389Z",
+ "generatedAt": "2026-10-12T15:34:23.404Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zoran Janković spet za župana Ljubljane. Golob bi Boštjančiča, znan tudi kandidat SDS?",
+    "link": "https://siol.net/novice/slovenija/zoran-jankovic-spet-za-zupana-ljubljane-golob-bi-bostjancica-znan-tudi-kandidat-sds-703791",
+    "image": "https://siol.net/media/img/d4/8c/9032711ddaaa2403f271.jpeg",
+    "date": 1791819180000
+   },
+   {
+    "title": "Ema Klinec: Bolj kot sama majica mi je pomembno, da ohranjam formo",
+    "link": "https://siol.net/sportal/zimski-sporti/ema-klinec-smucarski-skoki-poletna-sezona-703650",
+    "image": "https://siol.net/media/img/9c/63/aab03fb24d9cad6f2b83.jpeg",
+    "date": 1791819180000
+   },
    {
     "title": "Francozi že izzivajo Tadeja Pogačarja: Skrajšati bo moral počitnice",
     "link": "https://siol.net/sportal/kolesarstvo/francozi-ze-izzivajo-tadeja-pogacarja-skrajsati-bo-moral-pocitnice-703792",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/novice/slovenija/ivo-boscarol-razkril-nov-projekt-radio-odiseja-703789",
     "image": "https://siol.net/media/img/e3/ce/1421fb00bf9830f00249.jpeg",
     "date": 1791816660000
-   },
-   {
-    "title": "Evropa z atraktivnimi koncepti, Kitajska z več serijskimi - na razstavišču tudi zvezdniki",
-    "link": "https://siol.net/avtomoto/novice/evropa-z-atraktivnimi-koncepti-kitajska-z-vec-serijskimi-na-razstaviscu-tudi-zvezdniki-703785",
-    "image": "https://siol.net/media/img/99/3c/b9bb17c4bc24ea2e14ce.jpg",
-    "date": 1791815760000
-   },
-   {
-    "title": "Šok v Šanghaju: Carlos Alcaraz prejel bolečo zaušnico",
-    "link": "https://siol.net/sportal/tenis/sok-v-sanghaju-carlos-alcaraz-prejel-boleco-zausnico-703786",
-    "image": "https://siol.net/media/img/0c/81/c65b978cd36a93394958.jpeg",
-    "date": 1791814680000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791818353.jpg?resize=1920%2C1080&quality=80",
-    "date": 1791818363000,
-    "titleSl": "V regiji Hormuška ožina naj bi bil napaden naftni tanker"
-   },
-   {
     "title": "Will Ukraine survive the winter?",
     "link": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T051449Z_2063467001_RC21YNA9MPE8_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1791350551.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6accdf29-1791811369.jpg?resize=1200%2C675",
     "date": 1791815000000,
     "titleSl": "Zakaj hutiji napadajo savdska letališča?"
+   },
+   {
+    "title": "Bergs stuns Alcaraz in Shanghai as Zverev claims year’s top tennis ranking",
+    "link": "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acce56e-1791812974.jpg?resize=1920%2C1440",
+    "date": 1791814444000,
+    "titleSl": "Bergs presenetil Alcaraza v Šanghaju, Zverev pa je zasedel najvišjo teniško lestvico leta"
    }
   ],
   "guardian": [
@@ -419,11 +419,25 @@
   ],
   "bild": [
    {
+    "title": "Bas-Rücktritt - Darum ist die SPD so wütend auf die Union",
+    "link": "https://www.bild.de/politik/inland/bas-ruecktritt-darum-ist-die-spd-so-wuetend-auf-die-union-6acc9d638776d79fbd9c9e43",
+    "image": "https://images.bild.de/6acc9d638776d79fbd9c9e43/360080b9542508e941663fee5469f0fb,49d9f185?w=1280",
+    "date": 0,
+    "titleSl": "Basov odstop - Zato je SPD tako jezna na Unijo"
+   },
+   {
     "title": "Krisengipfel der CDU - Merz will Steuer auf Strom senken, auf Tabak erhöhen",
     "link": "https://www.bild.de/politik/inland/merz-nach-cdu-klausur-stromsteuer-runter-tabaksteuer-rauf-6accd8d9b52dabc39e80e010",
     "image": "https://images.bild.de/6accd8d9b52dabc39e80e010/b596d30e5bab04ee37686a45352701fd,245f0b17?w=1280",
     "date": 0,
     "titleSl": "Krizni vrh CDU - Merz želi znižati davke na elektriko in zvišati davke na tobak"
+   },
+   {
+    "title": "Wegen Block-Podcast - Polizei droht Journalistin mit Hausdurchsuchung",
+    "link": "https://www.bild.de/news/inland/richter-wollen-die-originalaufnahmen-wegen-block-podcast-polizei-droht-journalistin-mit-hausdurchsuchung-6accf56ff2750bc2e609f0ed",
+    "image": "https://images.bild.de/6accf56ff2750bc2e609f0ed/a38945d499f1645620f1e5b77293af32,c9b2b224?w=1280",
+    "date": 0,
+    "titleSl": "Zaradi blokovskega podcasta - policija novinarju grozi s hišno preiskavo"
    },
    {
     "title": "Nach dem Remberg-Schock - Der Notfall-Plan des HSV",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6abba754075de12d78a8d989/305fe687e03b32b4bd157295a92eabfc,c59d5b9e?w=1280",
     "date": 0,
     "titleSl": "Zgodaj pristopil, zelo spoštovan - Kako so nacisti pretentali s članskimi številkami"
-   },
-   {
-    "title": "KI und Mikrofilme - So funktioniert das mit den NSDAP-Akten",
-    "link": "https://www.bild.de/news/inland/ki-und-mikrofilme-so-funktioniert-das-mit-den-nsdap-akten-6abba787075de12d78a8d98d",
-    "image": "https://images.bild.de/6abba787075de12d78a8d98d/b4dd9e8b0093cc4f274340583277baf0,c35b04b7?w=1280",
-    "date": 0,
-    "titleSl": "AI in mikrofilmi - Tako deluje z datotekami NSDAP"
-   },
-   {
-    "title": "Die NSDAP-Akten - Jeder 10. Deutsche war Mitglied der Nazi-Partei",
-    "link": "https://www.bild.de/leben-wissen/wissenschaft/nsdap-mitgliedschaft-was-sie-fuer-millionen-deutsche-wirklich-bedeutete-6abb7d271e377c5785c68683",
-    "image": "https://images.bild.de/6abb7d271e377c5785c68683/594c5f20b0e8fa5ebd95722e0507f4e6,cee3fa02?w=1280",
-    "date": 0,
-    "titleSl": "Datoteke NSDAP - Vsak deseti Nemec je bil član nacistične stranke"
    }
   ],
   "krone": [
@@ -466,7 +466,7 @@
     "title": "Islamlehrer für Europa ++ Streit um Paketsteuer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nbGhIaXpCNS1TYi1BbkhOV0FQNGNveHhzZkFrVllvcUF5NU5ab2owU05Jd3Jjdzhua1ZCUmVxZVE0dw?oc=5",
     "image": "",
-    "date": 1791819117000,
+    "date": 1791819165000,
     "titleSl": "Islamski učitelj za Evropo ++ Spor glede davka na pakete"
    },
    {
@@ -565,6 +565,13 @@
     "titleSl": "Le « prix Nobel d'économie » aux Américains Robert Hall et Michael Woodford, qui ont reconstruit le cadre d' analyse macroéconomique"
    },
    {
+    "title": "Affaire Libor-Euribor : tous les tradeurs autrefois condamnés, dont deux Français, sont blanchis",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/12/affaire-libor-euribor-tous-les-traders-autrefois-condamnes-dont-deux-francais-sont-blanchis_6792645_3234.html",
+    "image": "https://img.lemde.fr/2026/10/12/278/0/3000/1500/644/322/60/0/458a942_upload-1-i0gzy62zh10o-abaca-brpaphotos20261007-325.jpg",
+    "date": 1791813612000,
+    "titleSl": "Afera Libor-Euribor: vsi nekdaj obsojeni trgovci, tudi dva Francoza, oproščeni"
+   },
+   {
     "title": "Des « brebis galeuses » aux accusations contre Jordan Bardella, un antisémitisme persistant dans le Rassemblement national « dédiabolisé »",
     "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/12/des-brebis-galeuses-aux-accusations-contre-jordan-bardella-un-antisemitisme-persistant-dans-le-rassemblement-national-dediabolise_6792644_4355770.html",
     "image": "https://img.lemde.fr/2026/10/06/0/0/6720/3360/644/322/60/0/1bbca5c_upload-1-kudoszk8wvmb-cbi1340063.jpg",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/09/28/90/0/3000/1500/644/322/60/0/ba67d8f_ftp-1-ql9iwjzhicjh-68ea4a6139004d57949ea354bcb56592-0-a4b79a3b9efa4cff9aef6b85d234079b.jpg",
     "date": 1791809782000,
     "titleSl": "Tyla v pariškem Zénith: razočarajoč pop obrat pomembne južnoafriške pevke"
-   },
-   {
-    "title": "Présidentielle au Brésil, un électorat fracturé : qui a voté pour Lula da Silva ou pour Flavio Bolsonaro au premier tour ?",
-    "link": "https://www.lemonde.fr/international/article/2026/10/12/presidentielle-au-bresil-classes-moyennes-jeunes-hommes-ces-profils-cles-chez-qui-lula-a-perdu-du-terrain-au-premier-tour_6792634_3210.html",
-    "image": "https://img.lemde.fr/2026/10/08/468/0/5616/2808/644/322/60/0/156d2a6_ftp-1-pay1izwp7qku-56512ec2e5ff4f88afdfb92861be5429-1-6b7d8340892249948786ea8bf78e1908.jpg",
-    "date": 1791809717000,
-    "titleSl": "Predsedniške volitve v Braziliji, razdrobljeno volilno telo: kdo je v prvem krogu glasoval za Lulo da Silvo ali za Flavia Bolsonara?"
    }
   ],
   "elpais": [
