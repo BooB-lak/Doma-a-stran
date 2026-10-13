@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T08:54:23.705Z",
+ "generatedAt": "2026-10-13T08:56:29.455Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Bo Miklavž namesto daril prinesel referendum?",
+    "link": "https://www.zurnal24.si/slovenija/bo-miklavz-namesto-daril-prinesel-referendum-466626",
+    "image": "https://www.zurnal24.si/media/img/09/65/2aaebc06891d420b9f3e.jpeg",
+    "date": 1791881640000
+   },
+   {
     "title": "Nosečnost zdaj ali nikoli, skakalka je izbrala …",
     "link": "https://www.zurnal24.si/sport/zimski-sporti/nosecnost-zdaj-ali-nikoli-skakalka-silje-opseth-je-izbrala-466625",
     "image": "https://www.zurnal24.si/media/img/ca/30/03c62ff71e2d604fbef1.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/zimski-sporti/robert-hrgota-razkril-napako-ki-je-prevca-stala-diskvalifikacije-domen-prevc-466619",
     "image": "https://www.zurnal24.si/media/img/e8/62/ffb147ff1eed045fef6c.jpeg",
     "date": 1791876660000
-   },
-   {
-    "title": "Po škandalu se je oglasila bivša žena Boštjana Romiha",
-    "link": "https://www.zurnal24.si/magazin/vip/po-skandalu-se-je-oglasila-bivsa-zena-bostjana-romiha-466615",
-    "image": "https://www.zurnal24.si/media/img/9b/ba/747e77b9cb6e21da15c4.jpeg",
-    "date": 1791876240000
    }
   ],
   "reuters": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "The escalation in Yemen is a turning point",
+    "link": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T181027Z_177303484_RC2BXNA1NJSY_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-SYRIA-1791653796.jpg?resize=1920%2C1440",
+    "date": 1791880975000,
+    "titleSl": "Eskalacija v Jemnu je prelomnica"
+   },
+   {
+    "title": "Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest",
+    "link": "https://www.aljazeera.com/news/2026/10/13/police-detain-leaders-of-indias-cockroach-movement-at-new-delhi-protest?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261013__D3393BF__v1__HighRes__IndiaPoliticsDemonstration-1791880784.jpg?resize=1920%2C1440",
+    "date": 1791880587000,
+    "titleSl": "Policija pridržuje voditelje indijskega gibanja \"ščurkov\" na protestu v New Delhiju"
+   },
+   {
     "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
     "link": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-12T195546Z_74648706_UP1EMAC1JCW8B_RTRMADP_3_SOCCER-AFCCHAMPIONS-NSR-NEF-1791871276.jpg?resize=1200%2C630",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acd4d86074e-1791839622.jpg?resize=1920%2C1440",
     "date": 1791877507000,
     "titleSl": "Palestinski teden: Gaza obeležuje leto \"premirja\" z več izraelskimi uboji"
-   },
-   {
-    "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-    "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acdd402-1791874050.jpg?resize=1200%2C675",
-    "date": 1791876998000,
-    "titleSl": "Napad brezpilotnega letala potopil ladjo ob črnomorski obali Bolgarije, pravi premier"
-   },
-   {
-    "title": "Emir says Qatar has shown resilience in the face of ‘exceptional events’",
-    "link": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1791872869.jpg?resize=1200%2C630",
-    "date": 1791873778000,
-    "titleSl": "Emir pravi, da je Katar pokazal odpornost ob \"izjemnih dogodkih\""
    }
   ],
   "guardian": [
@@ -334,14 +334,14 @@
     "title": "Two ships hit by drones of unknown origin off Bulgarian coast – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/aaa59cdc7226cdffaa20027998b841ac92f65cef/0_0_933_746/master/933.jpg?width=140&quality=85&auto=format&fit=max&s=29e91f7f09a3261e17c8b3a0ccaa6271",
-    "date": 1791880653000,
+    "date": 1791881017000,
     "titleSl": "Dve ladji, ki sta ju pred bolgarsko obalo zadela brezpilotna letala neznanega izvora – Evropa v živo"
    },
    {
     "title": "Andy Burnham will take Britain back into European Union, Neil Kinnock claims – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/88dd654a116d85c0ab9e14938abf9268c53ca3a8/632_0_3192_2552/master/3192.jpg?width=140&quality=85&auto=format&fit=max&s=70c1b5ba3c7690d06f3ada5b9e509789",
-    "date": 1791880446000,
+    "date": 1791880947000,
     "titleSl": "Andy Burnham bo Britanijo odpeljal nazaj v Evropsko unijo, trdi Neil Kinnock – britanska politika v živo"
    },
    {
@@ -424,6 +424,12 @@
     "date": 0
    },
    {
+    "title": "Verein arbeitet es auf - Schlägerei im Elversberger Fanblock",
+    "link": "https://www.bild.de/sport/fussball/aufarbeitung-laeuft-noch-darum-flogen-bei-elversberg-die-faeuste-6acdd90132c9e7b96d74fa3a",
+    "image": "https://images.bild.de/6acdd90132c9e7b96d74fa3a/7da29556006e93e8e01667e95cb75da5,3e23ad13?w=1280",
+    "date": 0
+   },
+   {
     "title": "Gasflaschen Explosionen in NRW - Feuerwehr muss brennende Halle aufgeben",
     "link": "https://www.bild.de/news/gasflaschen-explosionen-in-nrw-feuerwehr-muss-brennende-halle-aufgeben-6acdce04b52dabc39e80ea05",
     "image": "https://images.bild.de/6acdce04b52dabc39e80ea05/f6044149c6134a148be7fd94bf6ac6af,13bf7a8d?w=1280",
@@ -445,12 +451,6 @@
     "title": "Präventionsmediziner - Diese Blutwerte sollten Sie kennen – und messen!",
     "link": "https://www.bild.de/leben-wissen/medizin/praeventionsmediziner-diese-blutwerte-sollten-sie-kennen-und-messen-6acce91cb52dabc39e80e209",
     "image": "https://images.bild.de/6acce91cb52dabc39e80e209/e83aa0f3d7990641e555daf9108405dd,cfa2479a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Peinlicher Hochzeitsmoment - Beim Ja-Wort versagt sein Gedächtnis",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/beim-ja-wort-versagt-sein-gedaechtnis-das-ist-nicht-der-name-seiner-braut-6accd500b52dabc39e80dfb0",
-    "image": "https://images.bild.de/6accd500b52dabc39e80dfb0/0b81fb92a2ba07994e8779ae1906e803,574c36ef?w=1280",
     "date": 0
    }
   ],
@@ -539,11 +539,11 @@
   ],
   "lemonde": [
    {
-    "title": "Ce que l’on sait de l’affaire de viol collectif à l’université de Cornell",
-    "link": "https://www.lemonde.fr/videos/video/2026/10/13/ce-que-l-on-sait-de-l-affaire-de-viol-collectif-a-l-universite-de-cornell_6793073_1669088.html",
-    "image": "https://img.lemde.fr/2026/10/07/333/0/4000/2000/644/322/60/0/680cdf1_ftp-1-iv37fngoac1a-2026-10-07t195423z-431878427-rc2iynaejic1-rtrmadp-3-usa-crime-cornell.JPG",
-    "date": 1791878411000,
-    "titleSl": "Ce que l'on sait de l' affaire de viol collectif à l 'université de Cornell"
+    "title": "Les images de l’arraisonnement d’un pétrolier au sud de La Réunion, soupçonné par la France d’appartenir à la flotte fantôme russe",
+    "link": "https://www.lemonde.fr/international/video/2026/10/13/la-france-arraisonne-un-petrolier-au-sud-de-la-reunion-soupconne-d-appartenir-a-la-flotte-fantome-russe_6793076_3210.html",
+    "image": "https://img.lemde.fr/2026/10/13/133/0/1600/800/644/322/60/0/a76de1b_upload-1-fqdpkx6hikkm-huc2ewnwkae6c3c.jpeg",
+    "date": 1791878881000,
+    "titleSl": "Les images de l 'arraisonnement d' un pétrolier au sud de La Réunion, soupçonné par la France d'appartenir à la flotte fantôme russe"
    },
    {
     "title": "Budget 2027 : les tensions de la campagne présidentielle s’immiscent dans les discussions à l’Assemblée nationale",
@@ -551,6 +551,13 @@
     "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/77f9bf4_upload-1-0nr60961f2yw-jmug261006026.jpg",
     "date": 1791878406000,
     "titleSl": "Proračun 2027 : les tensions de la campagne présidentielle s 'immiscent dans les discussions à l' Assemblée nationale"
+   },
+   {
+    "title": "Ce que l’on sait de l’affaire de viol collectif à l’université de Cornell",
+    "link": "https://www.lemonde.fr/videos/video/2026/10/13/ce-que-l-on-sait-de-l-affaire-de-viol-collectif-a-l-universite-de-cornell_6793073_1669088.html",
+    "image": "https://img.lemde.fr/2026/10/07/333/0/4000/2000/644/322/60/0/680cdf1_ftp-1-iv37fngoac1a-2026-10-07t195423z-431878427-rc2iynaejic1-rtrmadp-3-usa-crime-cornell.JPG",
+    "date": 1791878406000,
+    "titleSl": "Ce que l'on sait de l' affaire de viol collectif à l 'université de Cornell"
    },
    {
     "title": "EN DIRECT, mouvement lycéen : « Si la jeunesse est contre son Etat, ça dit des choses. Et c’est pas parce qu’il y a les vacances que ça va s’arrêter »",
@@ -572,13 +579,6 @@
     "image": "https://img.lemde.fr/2026/09/22/1142/0/2500/1250/644/322/60/0/ec9d4ca_upload-1-0pui3wuaojy7-lewisjoly-lemonde-22-09-26-002.JPG",
     "date": 1791867007000,
     "titleSl": "Les émissions de gaz à effet de serre en France diminuent du fait de l 'envolée des prix des carburants"
-   },
-   {
-    "title": "Des épargnants contraints de s’adapter en permanence à de nouvelles règles fiscales",
-    "link": "https://www.lemonde.fr/argent/article/2026/10/13/des-epargnants-contraints-de-s-adapter-en-permanence-a-de-nouvelles-regles-fiscales_6793056_1657007.html",
-    "image": "https://img.lemde.fr/2026/10/12/0/0/2850/1425/644/322/60/0/ad4ee4b_upload-1-carivmfn6xee-epargnants-et-regles-fiscales-def.jpg",
-    "date": 1791864006000,
-    "titleSl": "Des épargnants contraints de s'chapter en permanence à de nouvelles règles fiscales"
    }
   ],
   "elpais": [
