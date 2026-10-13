@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T11:48:25.323Z",
+ "generatedAt": "2026-10-13T11:50:39.816Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Letališče začasno zaprli, letalo s Krfa spremljali lovci eurofighter",
+    "link": "https://www.24ur.com/novice/tujina/nemsko-letalisce-zacasno-zaprli-letalo-s-krfa-spremljali-eurofigtherji.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/f67a8a6742ecdafb1c76_63662358.jpg?v=b77f&fop=fp:0.44:0.49",
+    "date": 1791892108000
+   },
+   {
     "title": "Najstnica fantu poslala intimno fotografijo, nato pa doživela nočno moro",
     "link": "https://www.bibaleze.si/najstniki/sekstanje-med-mladimi-intimna-fotografija-se-siri-kaj-zdaj.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2025/361207709faf2b1a416a_63482186.jpg?v=e252&fop=fp:0.49:0.34",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/po-kritiki-pirc-musarjeve-roncevic-z-locenim-sprejemom-za-diamantne-maturante.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/f81115da418ce5faf701_63644223.jpg?v=5e15&fop=fp:0.52:0.50",
     "date": 1791886581000
-   },
-   {
-    "title": "Razbili kriminalno združbo: slovenski državljan zaprt na Danskem",
-    "link": "https://www.24ur.com/novice/crna-kronika/kriminalisti.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/515955661a9586ca53fc_63662328.jpg?v=7b2f&fop=fp:0.43:0.39",
-    "date": 1791885998000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "‘My son was killed’ France faces backlash over proposed police firearms law",
+    "link": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/El-Khalfaoui-EPSouheil-233-1791886941.jpg?resize=1920%2C1440",
+    "date": 1791890274000,
+    "titleSl": "\"Moj sin je bil umorjen\" Francija se sooča z nasprotovanjem zaradi predlaganega policijskega zakona o strelnem orožju"
+   },
+   {
     "title": "Israel’s military raids NGO offices in Ramallah",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791888768.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-567299999-1791875729.jpg?resize=1700%2C1080",
     "date": 1791885419000,
     "titleSl": "Eden ubit, več ranjenih v \"incidentu\" na vlaku smrti v Gruziji"
-   },
-   {
-    "title": "Israeli forces raid Palestinian NGOs in occupied West Bank",
-    "link": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acdfb87-1791884167.jpg?resize=1920%2C1440",
-    "date": 1791884825000,
-    "titleSl": "Izraelske sile vdrejo v palestinske nevladne organizacije na okupiranem Zahodnem bre"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Trump targets Ilhan Omar at rally following raid on her home – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/9a60436c1dffdd55ab3924db17c7f5d7c0dffdb3/258_0_2325_1861/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=8719b72009508976914c9ce8d0b2d5ee",
-    "date": 1791890994000,
+    "date": 1791891834000,
     "titleSl": "Trump tarče Ilhan Omar na shodu po napadu na njen dom – ameriška politika v živo"
    },
    {
@@ -378,7 +378,8 @@
     "title": "Ungarn ändert umstrittenes Anti-LGBTQ-Gesetz",
     "link": "https://www.spiegel.de/ausland/ungarn-aendert-umstrittenes-anti-lgbtq-gesetz-a-8bbd2ae0-095f-4366-83ab-8275e8efc77b#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/acb3efb5-5b12-45f6-95a7-9388906070c6_w520_r2.08_fpx48_fpy41.jpg",
-    "date": 1791890880000
+    "date": 1791890880000,
+    "titleSl": "Madžarska spreminja kontroverzni zakon proti LGBTQ"
    },
    {
     "title": "Rot-Grün-Rot in Berlin: So streitet die Linkspartei über eine mögliche Koalition",
@@ -391,19 +392,22 @@
     "title": "Schweden: Magdalena Andersson scheitert erneut mit Regierungsbildung",
     "link": "https://www.spiegel.de/ausland/schweden-magdalena-andersson-scheitert-erneut-mit-regierungsbildung-a-707c6790-2f78-40f9-83ee-76511652a5c9#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/51117833-f6ac-44e6-a2c6-6db4c26333df_w520_r2.08_fpx53.3_fpy50.jpg",
-    "date": 1791890760000
+    "date": 1791890760000,
+    "titleSl": "Švedska: Magdaleni Andersson spet ni uspelo sestaviti vlade"
    },
    {
     "title": "Amanda Seyfried: Warum sie heute Rollen mit Sexszenen ablehnt",
     "link": "https://www.spiegel.de/kultur/kino/amanda-seyfried-warum-sie-heute-rollen-mit-sexszenen-ablehnt-a-d3fc8b6a-1805-4630-8702-6f1322314828#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/276aab66-3966-48b1-a434-010a25316452_w520_r2.08_fpx56.63_fpy54.99.jpg",
-    "date": 1791889680000
+    "date": 1791889680000,
+    "titleSl": "Amanda Seyfried: Zakaj danes zavrača vloge s prizori seksa"
    },
    {
     "title": "Nürnberg: Flughafen wegen mutmaßlicher Notlage gesperrt",
     "link": "https://www.spiegel.de/panorama/nuernberg-flughafen-wegen-mutmasslicher-notlage-gesperrt-a-48b57e64-7f83-4b66-8e54-89baf1842fc4#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/d0c14a0f-dc20-4d73-85b9-f2347d8b0e93_w520_r2.08_fpx60.8_fpy50.98.jpg",
-    "date": 1791889560000
+    "date": 1791889560000,
+    "titleSl": "Nürnberg: Letališče zaprto zaradi domnevne nevarnosti"
    },
    {
     "title": "Anthropic warnt, KI-Modelle könnten bald auch Smart-TVs übernehmen",
@@ -415,41 +419,46 @@
   ],
   "bild": [
    {
+    "title": "Verdächtiger 31 Jahre nach Tat verhaftet - Ladendetektiv soll Supermarkt-Chefin ermordet haben",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/mord-im-lidl-nach-31-jahren-aufgeklaert-detektiv-soll-supermarkt-chefin-getoetet-haben-6acdf92d32c9e7b96d74fd37",
+    "image": "https://images.bild.de/6acdf92d32c9e7b96d74fd37/7d66ffd7c629a60a05ea2776fa5388a4,ef237772?w=1280",
+    "date": 0,
+    "titleSl": "Osumljenec aretiran 31 let po zločinu - detektiv trgovine naj bi umoril vodjo supermarketa"
+   },
+   {
+    "title": "Er sollte Rodri-Nachfolger werden - Pavlovic spricht über Mega-Angebot von ManCity",
+    "link": "https://www.bild.de/sport/fussball/bayerns-pavlovic-spricht-ueber-angebot-von-manchester-city-6acde414b52dabc39e80ebfe",
+    "image": "https://images.bild.de/6acde414b52dabc39e80ebfe/705857b448f95b5108a9a7a2e6669cb8,b7a91062?w=1280",
+    "date": 0,
+    "titleSl": "On bi moral biti Rodrijev naslednik - Pavlović govori o mega ponudbi Man Cityja"
+   },
+   {
     "title": "Airport gesperrt - Entwarnung nach Notlage am Flughafen Nürnberg",
     "link": "https://www.bild.de/regional/nuernberg/entwarnung-nach-notlage-am-flughafen-nuernberg-6ace094032c9e7b96d74ff93",
     "image": "https://images.bild.de/6ace094032c9e7b96d74ff93/6778f42eacb108127c31ae10f016dccc,f4712549?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Letališče zaprto - vse jasno po izrednih razmerah na letališču Nürnberg"
    },
    {
     "title": "Ansage von HSV-Kapitän Remberg - „Trainer können sich schon warm anziehen“",
     "link": "https://www.bild.de/sport/fussball/hsv-ansage-von-remberg-trainer-koennen-sich-schon-warm-anziehen-6acdf02632c9e7b96d74fc1c",
     "image": "https://images.bild.de/6acdf02632c9e7b96d74fc1c/cd23d2b76dce4b4ca2cdc817b14a9cbd,566d6572?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Sporočilo kapetana HSV Remberga - \"Trenerji se lahko toplo oblečejo\""
    },
    {
     "title": "Berlin-Entscheidung heute! - Bringt Israel-Hasserin Emde das Ende für den Linkstraum?",
     "link": "https://www.bild.de/politik/inland/berlin-entscheidung-heute-bringt-israel-hasserin-emde-das-ende-fuer-den-linkstraum-6acdab658776d79fbd9cadae",
     "image": "https://images.bild.de/6acdab658776d79fbd9cadae/d27c53c68b603dc0900327bbdc0f9678,b720fc15?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Berlinska odločitev danes! - Bo Emde, ki sovraži Izrael, končal levičarske sanje?"
    },
    {
     "title": "Unbekannte feuern auf Bekleidungsgeschäfte - Schon wieder Schüsse in Köln!",
     "link": "https://www.bild.de/regional/koeln/schon-wieder-schuesse-in-koeln-unbekannte-feuern-auf-klamottengeschaefte-6acdeaba8776d79fbd9cb180",
     "image": "https://images.bild.de/6acdeaba8776d79fbd9cb180/91bc1407124b507b70ed510d8492152f,fa01e2cc?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Eintracht-Debakel - Koch trifft Kapitäns-Entscheidung",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-koch-trifft-kapitaens-entscheidung-6acded6d32c9e7b96d74fbd0",
-    "image": "https://images.bild.de/6acded6d32c9e7b96d74fbd0/ca50bc8a8308882fd29b2003715f130d,4dbd1629?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Es geht um eine alte McDonald‘s-Filiale - Plauderten Bauarbeiter einen Burger-King-Plan aus?",
-    "link": "https://www.bild.de/regional/dresden/plauderten-bauarbeiter-es-aus-burger-king-koennte-in-alte-dresdner-mcdonalds-filiale-ziehen-6acde3b5b52dabc39e80ebf0",
-    "image": "https://images.bild.de/6acde3b5b52dabc39e80ebf0/25fa3f06b7178f026a4987106019c535,64179c90?w=1280",
     "date": 0,
-    "titleSl": "Es geht um eine alte McDonald's-Filiale - Plauderten Bauarbeiter einen Burger-King-Plan aus?"
+    "titleSl": "Neznanci streljali na trgovine z oblačili – v Kölnu spet streli!"
    }
   ],
   "krone": [
@@ -457,7 +466,8 @@
     "title": "Schlangen-Schockfund - Feuerwehrmann schmuggelte 92 Reptilien in Koffer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxcW80MkFPMDA4TjY3ZnBXcG1QRlYxV1Q3YnRWdm45eFdZMUEzTm40bE1kTHNLeEZydkdyVkxVZDF6Zw?oc=5",
     "image": "",
-    "date": 1791891960000
+    "date": 1791891960000,
+    "titleSl": "Šok najdba kače – gasilec v kovčkih pretihotapil 92 plazilcev"
    },
    {
     "title": "Gemeinsame Initiative - Ländle-Firmen machen sich für Bahnausbau stark",
@@ -470,19 +480,22 @@
     "title": "Schon lange - Amira Aly: Der Name für ihr Baby steht fest!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPLXpleWRySHFHTUdTZnozcWV4YTI0dWFCWEdDUmpRSFg0cEhmYzF0MHZDUVhRT3NCVEt5SmdnR1EwUQ?oc=5",
     "image": "",
-    "date": 1791891420000
+    "date": 1791891420000,
+    "titleSl": "Že dolgo - Amira Aly: Ime za njenega otroka je odločeno!"
    },
    {
     "title": "Doppelbudget - Land gibt in zwei Jahren neun Milliarden Euro aus",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkVzA1cDN0ZHVzWVdQcmk3RkhRa000VzBMN3FISEwydGZodUZnY2l4bzA3WmptMjhpU2FiZWY1b2hqUQ?oc=5",
     "image": "",
-    "date": 1791891360000
+    "date": 1791891360000,
+    "titleSl": "Dvojni proračun - država bo v dveh letih porabila devet milijard evrov"
    },
    {
     "title": "14-Milliarden-Marke - Bundesschatz bei Österreichern immer gefragter",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9STzhpNUdDajF3OUlpM3VSeGVzMnpsNUN2Vk1WUGlOSS05YUt0Sk5GU2dNZXpYX2dfWVVMRmlXd2paUQ?oc=5",
     "image": "",
-    "date": 1791891180000
+    "date": 1791891180000,
+    "titleSl": "14 milijard mark - zvezna blagajna med Avstrijci vse bolj povpraševana"
    },
    {
     "title": "Offener Brief - Forscher fordern strengere Überwachung von KI",
@@ -518,7 +531,8 @@
     "title": "Ex Ilva, proteste a oltranza. La notte in tenda, altri 2 giorni di sciopero",
     "link": "https://www.rainews.it/video/2026/10/ex-ilva-continuano-le-proteste-a-oltranza-la-notte-in-tenda-o-nei-gazebo--fe61c9dd-24e7-4095-ac69-19095cd7df85.html",
     "image": "https://www.rainews.it/dl/img/2026/10/13/1791890870518_Schermata__alle_...png",
-    "date": 1791890700000
+    "date": 1791890700000,
+    "titleSl": "Ex Ilva, protesti za nedoločen čas. Noč v šotorih, še 2 dni stavke"
    },
    {
     "title": "Il Papa al Gemelli. L&#x27;annuncio domenica dopo l&#x27;Angelus: \"Ho un nodulo al polmone, devo operarmi\"",
@@ -581,11 +595,25 @@
   ],
   "elpais": [
    {
+    "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Ceuta recibe entusiasmada a los Reyes en su histórica visita a la ciudad dos meses después de la crisis",
+    "link": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/QMN4YNVEXVADZOHPMBCZ4XARAE.jpg?auth=4f9a212e3c27ff687af8fb7cffc5003c3c7c4904036f28adaeb76b8c3d5ab512",
+    "date": 1791892063000,
+    "titleSl": "Zadnja minuta gostovanja Kraljev v Ceuti, v živo | Ceuta dva meseca po krizi z navdušenjem sprejme kralje na njihovem zgodovinskem obisku v mestu"
+   },
+   {
     "title": "Última hora de la actualidad política, en directo | El Gobierno, tras la orden del Supremo sobre la ‘ley de nietos’: “Es una situación de extraordinaria gravedad”",
     "link": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/NR4ZHDQBFNFNNHSMGBC227SZ4A.jpg?auth=f9d0ccc15ee9e36d69ed2d1725d4a041f0cdf7091b59e953762a49b8c2ed219c",
     "date": 1791891847000,
     "titleSl": "Última hora de la actualidad política, en directo | El Gobierno, tras la orden del Supremo sobre la ‘ley de nietos’: ‚ Es una situación de extraordinaria gravedad '"
+   },
+   {
+    "title": "Una tubería de 24 kilómetros para llevar el agua del Canal a Aldea del Fresno y Villa del Prado",
+    "link": "https://elpais.com/espana/madrid/2026-10-13/una-tuberia-de-24-kilometros-para-llevar-el-agua-del-canal-a-aldea-del-fresno-y-villa-del-prado.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/JYQQLT6CJ5FL3BUZCI2ZNOAWNQ.JPG?auth=c2c30314138ec4a4716c10dc8bef741ae24989ccc8b9569a0fd19e4e4bc0dfdd",
+    "date": 1791891679000,
+    "titleSl": "24-kilometrski cevovod za dovajanje vode iz prekopa do Aldea del Fresno in Villa del Prado"
    },
    {
     "title": "El PP cambia de estrategia en redes y se lanza contra Sarah Santaolalla y Afra Blanco: “A esto se viene llorado”",
@@ -598,25 +626,15 @@
     "title": "Kim Jong-un inaugura un museo en el que se exhibe un misil con capacidad de alcanzar Estados Unidos",
     "link": "https://elpais.com/internacional/2026-10-13/kim-jong-un-inaugura-un-museo-en-el-que-se-exhibe-un-misil-con-capacidad-de-alcanzar-estados-unidos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/IQQRNLLAHFP4LGMSZFCXXEOV6I.jpg?auth=fb20eed4362ed7bade96e5b91ce632f5b3480189fed4d55ba4e03c4e65466b55",
-    "date": 1791890665000
-   },
-   {
-    "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Ceuta recibe entusiasmada a los Reyes en su histórica visita a la ciudad dos meses después de la crisis",
-    "link": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/QMN4YNVEXVADZOHPMBCZ4XARAE.jpg?auth=4f9a212e3c27ff687af8fb7cffc5003c3c7c4904036f28adaeb76b8c3d5ab512",
-    "date": 1791890545000
+    "date": 1791890665000,
+    "titleSl": "Kim Jong-un slovesno odpre muzej, v katerem je razstavljena raketa, ki lahko doseže ZDA"
    },
    {
     "title": "Hungría deroga la ley de Orbán que vinculaba pederastia y homosexualidad e impedía hablar de LGTBIQ+ en las escuelas",
     "link": "https://elpais.com/sociedad/lgtb/2026-10-13/hungria-deroga-la-ley-de-orban-que-vinculaba-pederastia-y-homosexualidad-e-impedia-hablar-de-lgtbiq-en-las-escuelas.html",
     "image": "https://imagenes.elpais.com/resizer/v2/GO7YSQVNX6DMC55GYWSEUZ4DAU.jpg?auth=7e780f352338c604a6911ab1906a7ee629c23c8a22d6ef2e764934c2137e974c",
-    "date": 1791890323000
-   },
-   {
-    "title": "El Papa llega al hospital Gemelli de Roma para que le extirpen un nódulo del pulmón",
-    "link": "https://elpais.com/internacional/2026-10-13/el-papa-llega-al-hospital-gemelli-de-roma-para-que-le-extirpen-un-nodulo-del-pulmon.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/K7OFZGL2PZIZVIMJ2P64OVDINU.jpg?auth=80c0fdce49cf36675eaa0ee8e3bada34a9865090d23e02e7a323c19e021fcedd",
-    "date": 1791890169000
+    "date": 1791890323000,
+    "titleSl": "Madžarska razveljavila Orbánov zakon, ki je povezoval pedofilijo in homoseksualnost ter preprečeval pogovor o LGTBIQ+ v šolah"
    }
   ]
  },
