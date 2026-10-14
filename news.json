@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T12:02:28.039Z",
+ "generatedAt": "2026-10-14T12:04:28.446Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,18 @@
   ],
   "24ur": [
    {
+    "title": "Trije javni uslužbenci oškodovali proračun za 5,3 milijona evrov",
+    "link": "https://www.24ur.com/novice/slovenija/trije-javni-usluzbenci-oskodovali-proracun-za-53-milijona-evrov.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2024/1bf2f910b20803e40bd6_63282801.jpg?v=c524&fop=fp:0.48:0.45",
+    "date": 1791979133000
+   },
+   {
+    "title": "V hrvaški Istri odkrili ostanke domnevno nove vrste dinozavra",
+    "link": "https://www.24ur.com/novice/znanost-in-tehnologija/v-hrvaski-istri-odkrili-ostanke-domnevno-nove-vrste-dinozavra.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/006d933ffa0203ba2469_63663094.jpg?v=fd03&fop=fp:0.52:0.44",
+    "date": 1791977245000
+   },
+   {
     "title": "Janša: Spremembe pri dohodnini, ki jih predlaga Svoboda, bi se dalo podpreti",
     "link": "https://www.24ur.com/novice/slovenija/jansa-spremembe-pri-dohodnini-ki-jih-predlaga-svoboda-bi-se-dalo-podpreti.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/31539958552628c6f1f4_63663043.jpg?v=ba60&fop=fp:0.56:0.29",
@@ -63,18 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/koalicija-preprecila-razpravo-odborov-o-pravicah-tujih-delavcev.html",
     "image": "https://images.24ur.com/media/images/213xX/Apr2026/20dcefa3752821f819e4_63573087.jpg?v=258d&fop=fp:0.41:0.29",
     "date": 1791974023000
-   },
-   {
-    "title": "Slovenec: Všeč so mi dekleta s polnili v ustnicah",
-    "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/slovenec-vsec-so-mi-dekleta-s-polnili-v-ustnicah.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/cd5de1658d9fcd5fe6df_63662561.png?v=e2ea&fop=fp:0.46:0.51",
-    "date": 1791972276000
-   },
-   {
-    "title": "Plaz kritik po prvem nastopu: 'Tako slabo, da ne veš, kam gledati'",
-    "link": "https://www.24ur.com/novice/tujina/tako-slabo-da-ne-ves-kam-bi-gledal.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/5e9dd67844b65a7440a2_63662916.jpg?v=8682&fop=fp:0.44:0.33",
-    "date": 1791971471000
    }
   ],
   "rtvslo": [
@@ -331,10 +331,38 @@
   ],
   "guardian": [
    {
+    "title": "Bank of America fined $1.2bn for money laundering failures",
+    "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+    "image": "https://i.guim.co.uk/img/media/1cdacb9386333374edb8f83c39b5199ce58973a1/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=80186fa78c45183510437d41a5b6cbf3",
+    "date": 1791978869000,
+    "titleSl": "Bank of America je kaznovana z globo v višini 1,2 milijarde $ zaradi neuspešnega pranja denarja"
+   },
+   {
+    "title": "Tinie Tempah says he will finally visit Scunthorpe after campaign by fans",
+    "link": "https://www.theguardian.com/music/2026/oct/14/tinie-tempah-visit-scunthorpe-campaign-fans-pass-out",
+    "image": "https://i.guim.co.uk/img/media/bdc4d369d2dd48be8817b2d6340b29306651c94a/0_595_2592_2072/master/2592.jpg?width=140&quality=85&auto=format&fit=max&s=29423e6ffb42875514de92c1c8c79b63",
+    "date": 1791978807000,
+    "titleSl": "Tinie Tempah pravi, da bo po kampanji oboževalcev končno obiskal Scunthorpe"
+   },
+   {
+    "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/871e26fa505caaa73f45f95004169a90ebd90760/1222_403_2978_2383/master/2978.jpg?width=140&quality=85&auto=format&fit=max&s=36f3bd5db95256715c2bff8061ba77f3",
+    "date": 1791978726000,
+    "titleSl": "Trump se po končani kampanji na Aljaski odpravi na shode v Arizoni in Montani – ameriška politika v živo"
+   },
+   {
+    "title": "Manchester City did not raise Premier League charges with me, Burnham tells PMQs – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/c8064ab8d93e99b7617432ae88d1acca54670dd1/0_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=8fe47123017e7c77ac182409ae8d6a44",
+    "date": 1791978559000,
+    "titleSl": "Manchester City mi ni dvignil obtožb za Premier League, pravi Burnham PMQs - britanska politika v živo"
+   },
+   {
     "title": "Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live",
     "link": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/68a5ec4d8d28ec9e3f70464b34e7f59a0cda4196/444_50_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=ec6e1c9d263ce5bb09bc2cdbbb16d09e",
-    "date": 1791978195000,
+    "date": 1791978434000,
     "titleSl": "Russell Brand je bil \"neusmiljen in preračunljiv\", tožilci poroti povedo, ko se začne sojenje o posilstvu in spolnem napadu – v živo"
    },
    {
@@ -343,37 +371,15 @@
     "image": "https://i.guim.co.uk/img/media/78a21ecee0f48c29c02fea7505b8534cdd7b0529/2016_1114_5435_4350/master/5435.jpg?width=140&quality=85&auto=format&fit=max&s=fac0959a624faccfb3911ecf7162a9c5",
     "date": 1791978142000,
     "titleSl": "Vlada Združenega kraljestva se opravičuje za pretekle pokope mrtvorojenih otrok v množičnih grobovih"
-   },
-   {
-    "title": "Manchester City did not raise Premier League charges with me, Burnham tells PMQs – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/c8064ab8d93e99b7617432ae88d1acca54670dd1/0_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=8fe47123017e7c77ac182409ae8d6a44",
-    "date": 1791978020000,
-    "titleSl": "Manchester City mi ni dvignil obtožb za Premier League, pravi Burnham PMQs - britanska politika v živo"
-   },
-   {
-    "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-    "image": "https://i.guim.co.uk/img/media/3635e9a89739096bcac6b91d39acfc80ccf1e88f/850_330_4496_3597/master/4496.jpg?width=140&quality=85&auto=format&fit=max&s=54cec62fcb7fc43a7982242e2171100b",
-    "date": 1791977952000,
-    "titleSl": "EU pravi, da je \"brez indikacij\" izmenjava obveščevalnih podatkov z Ukrajino prenehala, saj ruski napadi puščajo 600.000 brez moči – Evropa v živo"
-   },
-   {
-    "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/871e26fa505caaa73f45f95004169a90ebd90760/1222_403_2978_2383/master/2978.jpg?width=140&quality=85&auto=format&fit=max&s=36f3bd5db95256715c2bff8061ba77f3",
-    "date": 1791977896000,
-    "titleSl": "Trump se po končani kampanji na Aljaski odpravi na shode v Arizoni in Montani – ameriška politika v živo"
-   },
-   {
-    "title": "Family of man killed by tiger criticise online content after Trump reposts video",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video",
-    "image": "https://i.guim.co.uk/img/media/11737d38e063784b9f122cf3715af2fb1c4d0b8b/0_198_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=04b6359726d6f4a4e63e598095e0475f",
-    "date": 1791977388000,
-    "titleSl": "Družina moškega, ki ga je ubil tiger, kritizira spletno vsebino, potem ko je Trump ponovno objavil videoposnetek"
    }
   ],
   "spiegel": [
+   {
+    "title": "Nicolò Tresoldi begeistert mit Hattrick bei Inter Mailand: Wer ist dieses Supertalent?",
+    "link": "https://www.spiegel.de/sport/fussball/nicolo-tresoldi-begeistert-mit-hattrick-bei-inter-mailand-wer-ist-dieses-supertalent-a-bb7718aa-f7c1-4333-8a8f-80ca2b1b6de3#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/c679d027-0c72-40ae-b4b6-79106317a70c_w520_r2.08_fpx39.4_fpy45.jpg",
+    "date": 1791979080000
+   },
    {
     "title": "Michael Olise: Platzverweis für den Bayern-Star bei Viking Stavanger: Huch! Der ist ja doch ein Mensch",
     "link": "https://www.spiegel.de/sport/fussball/michael-olise-platzverweis-fuer-den-bayern-star-bei-viking-stavanger-huch-der-ist-ja-doch-ein-mensch-a-6ac21d07-c065-4848-97b3-a048cad03cd9#ref=rss",
@@ -405,15 +411,22 @@
     "image": "https://cdn.prod.www.spiegel.de/images/3b54899c-7243-494f-bc0f-3b2c19af54ba_w520_r2.08_fpx35.99_fpy49.99.jpg",
     "date": 1791975420000,
     "titleSl": "Eurojackpot 120 milijonov evrov: Gewinn soll aufs Girokonto überwiesen werden"
-   },
-   {
-    "title": "Fall Christian Ulmen: Staatsanwaltschaft Potsdam prüft neue Beweise von Collien Fernandes",
-    "link": "https://www.spiegel.de/panorama/gesellschaft/fall-christian-ulmen-staatsanwaltschaft-potsdam-prueft-neue-beweise-von-collien-fernandes-a-040ab439-7738-4569-b70c-5e608ac1abd5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/f8dd14a7-ac89-4132-8de2-1c705fb2fb97_w520_r2.08_fpx44_fpy50.jpg",
-    "date": 1791975240000
    }
   ],
   "bild": [
+   {
+    "title": "Großer BILD-Rechner! - Was würde mich eine Scheidung kosten?",
+    "link": "https://www.bild.de/leben-wissen/meine-familie-familienportal/scheidungsrechner-finden-sie-heraus-wie-teuer-das-ehe-aus-sein-kann-6aba1829a8b3f6fdb1edda00",
+    "image": "https://images.bild.de/6aba1829a8b3f6fdb1edda00/2dcfc4056f7fca8f805f2bdaec03ae70,75b9caa9?w=1280",
+    "date": 0,
+    "titleSl": "Großer BILD-Rechner! - Je bil würde mich eine Scheidung kosten?"
+   },
+   {
+    "title": "Wut-Auftritt nach Pleite - United-Star rechnet mit eigenem Klub ab",
+    "link": "https://www.bild.de/sport/fussball/champions-league-united-star-rechnet-mit-eigenem-klub-6acf119b8776d79fbd9cc25b",
+    "image": "https://images.bild.de/6acf119b8776d79fbd9cc25b/c4ea65c0c575823226ca9af3ca0cd1a9,8c6dc383?w=1280",
+    "date": 0
+   },
    {
     "title": "Urlaubsfähre kämpft mit heftigem Seegang - Passagiere bekommen kalte Dusche",
     "link": "https://www.bild.de/news/urlaubsfaehre-kaempft-mit-heftigem-seegang-passagiere-bekommen-kalte-dusche-6acbdc205528343575e00a3a",
@@ -437,22 +450,15 @@
     "link": "https://www.bild.de/regional/ruhrgebiet/41-jaehriger-anwohner-festnahme-nach-feuer-mit-drei-toten-in-bochum-6acf64af77d7df6c69d6bdf7",
     "image": "https://images.bild.de/6acf64af77d7df6c69d6bdf7/174a633d90e56f8bb32915fedafb6d5f,66163774?w=1280",
     "date": 0
-   },
-   {
-    "title": "Wer ist Vanessa Emde? - Die Frau, die Rot-Grün-Rot in Berlin beerdigen könnte",
-    "link": "https://www.bild.de/politik/inland/vanessa-emde-wer-ist-die-frau-an-der-rot-gruen-rot-in-berlin-scheitern-koennte-6acf4a338793815072940215",
-    "image": "https://images.bild.de/6acf4a338793815072940215/21ae8977667a610bf7cfc33d7f9e4be6,3fb7110c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Fans lästern über die Neuauflage - „Baywatch“-Trailer wird im Netz zerrissen",
-    "link": "https://www.bild.de/unterhaltung/film-kino/baywatch-neuauflage-erster-trailer-sorgt-fuer-heftige-kritik-6acf502485ec8093bcfbdb1c",
-    "image": "https://images.bild.de/6acf502485ec8093bcfbdb1c/aecc121e4c5a8e06434225de76dee787,4d3421f2?w=1280",
-    "date": 0,
-    "titleSl": "Ventilatorji lästern über die Neuauflage - \"Baywatch\" - Trailer wird im Netz zerrissen"
    }
   ],
   "krone": [
+   {
+    "title": "„Gegen diesen Gegner zu spielen, ist ein Privileg“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FUk5wazVreklOMEVRVnFJZUcxR1M4aUJoRDU2Q3RpR3ZVY2NkRy1RRzFUaGZMVGcxX29LMXlIUlZfZw?oc=5",
+    "image": "",
+    "date": 1791979380000
+   },
    {
     "title": "Folge von Mittwoch - Neue Schule, gleiche Mission: Gemeinsam bewegen!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WcnJGY0dWcFV1djJJTWhvZDc1T0VTRzNzdnJZTnNLVDFGbUx3WlYzbzF3aHZUT2FkVXpwWGFqNkVGQQ?oc=5",
@@ -467,14 +473,14 @@
     "date": 1791979255000
    },
    {
-    "title": "Pacht verlängert - Unterhaus-Klub geht Umzug ins Ausland aus dem Weg",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RRy1PMTlJMjFUcmU5QU82dFNsdHptbVZnZXZQQklpZk5zeHVBZkRPSkFMWE5HUHYzTldib3lZcmhaUQ?oc=5",
+    "title": "„Mothl als Trainer zu haben, ist ein Glücksfall!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLNFNNbVByTmZkVnlEd0VoU25hSkhXeGJnajhROUhMWWpqYklmY1ZaU1U1aUJJSm9DWUt4ZHdETXRxUQ?oc=5",
     "image": "",
     "date": 1791979200000
    },
    {
-    "title": "„Mothl als Trainer zu haben, ist ein Glücksfall!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLNFNNbVByTmZkVnlEd0VoU25hSkhXeGJnajhROUhMWWpqYklmY1ZaU1U1aUJJSm9DWUt4ZHdETXRxUQ?oc=5",
+    "title": "Pacht verlängert - Unterhaus-Klub geht Umzug ins Ausland aus dem Weg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RRy1PMTlJMjFUcmU5QU82dFNsdHptbVZnZXZQQklpZk5zeHVBZkRPSkFMWE5HUHYzTldib3lZcmhaUQ?oc=5",
     "image": "",
     "date": 1791979200000
    },
@@ -483,13 +489,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQZXV6Nko1cUFVcUhTYmtkR0ZhRlBzZjRmNGR0Uk94Q3lCOU54SnAweksxR0J3STF1TVFGN0hHWjZ5Zw?oc=5",
     "image": "",
     "date": 1791979200000
-   },
-   {
-    "title": "Kritik an Elon Musk - Vorwurf aus Ukraine: SpaceX drosselt Starlink",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzejh5U2JkX0hGcDZ4Nk1LdjU4TGtxYVdURE84UlNSRkkzMEZsLWIwbG1Hczl3NEFDYlgwRlJFYktQQQ?oc=5",
-    "image": "",
-    "date": 1791978780000,
-    "titleSl": "Kritik an Elon Musk - Vorwurf aus Ukrajina: SpaceX drosselt Starlink"
    }
   ],
   "rainews": [
@@ -575,6 +574,26 @@
   ],
   "elpais": [
    {
+    "title": "Cinco detenidos y siete heridos en una carga policial en la Complutense por la huelga educativa",
+    "link": "https://elpais.com/educacion/2026-10-14/cinco-detenidos-y-seis-heridos-en-una-carga-policial-en-la-complutense-por-la-huelga-educativa.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225241_101306_video_1800.mp4",
+    "date": 1791979381000,
+    "titleSl": "Cinco detenidos y siete heridos en una carga policial en la Complutense por la huelga education"
+   },
+   {
+    "title": "El Foro CREO, en directo | Arturo Gonzalo Aizpiri (Enagás): “Tenemos la infraestructura gasista más robusta y más flexible de Europa”",
+    "link": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/primera-jornada-del-foro-creo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZVJ5V5K3UJFXZD4K5TVA2ZCXJQ.JPG?auth=7a5261c974277e1278e238177ea5d1084fa5c9ba2331aa4ca724773a8912b6e3",
+    "date": 1791979247000,
+    "titleSl": "El Foro CREO, en directo | Arturo Gonzalo Aizpiri (Enagás): \"Tenemos la infraestructura gasista más robusta y más flexible de Europa\""
+   },
+   {
+    "title": "Alto seguimiento, cánticos contra Ayuso y cargas en la primera jornada de huelga del profesorado en Madrid",
+    "link": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225243_101357_video_1800.mp4",
+    "date": 1791979193000
+   },
+   {
     "title": "Turquía interviene uno de los últimos canales opositores en medio de una nueva ola censora",
     "link": "https://elpais.com/internacional/2026-10-14/turquia-interviene-uno-de-los-ultimos-canales-opositores-en-medio-de-una-nueva-ola-censora.html",
     "image": "https://imagenes.elpais.com/resizer/v2/W4RPIAF5LVITBDPCVEUGQDIQFI.jpg?auth=a8a64a33611b3fa55143f0709c237647147523e20ba14dc56d56a316fcdc3cec",
@@ -583,7 +602,7 @@
    {
     "title": "El Gobierno de Ayuso insiste en que la acampada en Sol esconde “grupos radicales asociados a entidades terroristas”",
     "link": "https://elpais.com/espana/madrid/2026-10-14/el-gobierno-de-ayuso-insiste-en-que-la-acampada-en-sol-esconde-grupos-radicales-asociados-a-entidades-terroristas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/LJZYQGAGSNPHTAGEZDJA3ZWRHE.jpg?auth=f8d1e73c27b35ef17e8648c5132461f315866a38b4d014b64d925b76a68933b5",
+    "image": "https://imagenes.elpais.com/resizer/v2/26L5GVTMIZAMZLGHNX6LM5FMGA.jpg?auth=db18b08bcf37419337e1797f6aed348cf1d62bcf787e9110c0bfdb214c9f7f0f",
     "date": 1791978533000,
     "titleSl": "El Gobierno de Ayuso insiste en que la acampada en Sol esconde \"grupos radicales asociados a entidades terroristas\""
    },
@@ -592,24 +611,6 @@
     "link": "https://elpais.com/el-tiempo/2026-10-14/cambio-brusco-de-tiempo-bajon-termico-y-lluvias-muy-fuertes-en-la-fachada-mediterranea-peninsular-y-baleares.html",
     "image": "https://imagenes.elpais.com/resizer/v2/PDJE6YIHCVBQZFZWQPPCLVKLCA.jpg?auth=8d7d0be9c95ac37d8987c212a2953d847c3b226205f0702b368ca5563bd4acd1",
     "date": 1791978448000
-   },
-   {
-    "title": "Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas",
-    "link": "https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/GJN4WYU6MJFTLGXZVKB4E2PHMU.jpg?auth=f9be62e539f07c9348e2d6e3c1e05ed51e922249258af8dff881e9d8ffb2205e",
-    "date": 1791978313000
-   },
-   {
-    "title": "Alto seguimiento, cánticos contra Ayuso y cargas en la primera jornada de huelga del profesorado en Madrid",
-    "link": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225243_101357_video_1800.mp4",
-    "date": 1791977984000
-   },
-   {
-    "title": "La portavoz del PP Ester Muñoz asegura que “el sistema de pensiones va a colapsar” y pide cambiarlo",
-    "link": "https://elpais.com/economia/2026-10-14/la-portavoz-del-pp-ester-munoz-asegura-que-el-sistema-de-pensiones-va-a-colapsar-y-pide-cambiarlo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/NAT5RTN42FOHBK3TTZQMABML4A.jpg?auth=ed512ae84ac7e53447584b7bac26508bf496b0896d356ce1c8e531dc8beb2a79",
-    "date": 1791977932000
    }
   ]
  },
