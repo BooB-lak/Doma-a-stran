@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T09:18:29.008Z",
+ "generatedAt": "2026-10-14T09:20:42.133Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Is It Wrong to Love a Chatbot?",
+    "link": "https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/opinion/14eks-turkle-image01/14eks-turkle-image01-mediumSquareAt3X.png",
+    "date": 1791968495000,
+    "titleSl": "Ali je narobe imeti rad klepetalnega robota?"
+   },
+   {
     "title": "Pope Leo Has Lung Cancer, Vatican Says",
     "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-pope-surgery-lwgk/13int-pope-surgery-lwgk-mediumSquareAt3X.jpg",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/10/13/us/13nat-lamayors-debate-takeaways-llwe/13nat-lamayors-debate-takeaways-llwe-mediumSquareAt3X.jpg",
     "date": 1791961979000,
     "titleSl": "4 odlomki iz razprave o županu Los Angelesa"
-   },
-   {
-    "title": "Israelis Feel Abandoned. That’s Why They Might Turn to This Bereaved General",
-    "link": "https://www.nytimes.com/2026/10/14/opinion/netanyahu-eisenkot-israel-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14Scheindlin-topart-whfb/14Scheindlin-topart-whfb-mediumSquareAt3X.jpg",
-    "date": 1791957476000,
-    "titleSl": "Izraelci se počutijo zapuščene. Zato se lahko obrnejo na tega žalujočega generala"
    },
    {
     "title": "Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico",
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "China’s exports surge amid AI-driven demand",
-    "link": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T050021Z_2116580645_RC20XDA8ECS5_RTRMADP_3_CHINA-COMMODITY-IMPORTS-1791951876_3357e3-1791960598.jpg?resize=1200%2C630&quality=80",
-    "date": 1791968717000,
-    "titleSl": "Kitajski izvoz narašča zaradi povpraševanja po umetni inteligenci"
-   },
-   {
     "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/wide-thumb-1410-cockroach-leaders-jailed-1791967789.png?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-10.47.51-AM-2-1791964570.jpg?resize=1200%2C675",
     "date": 1791964665000,
     "titleSl": "Napetosti z učitelji, učenci in Turkiye: Znotraj azerbajdžanskega hidžaba"
+   },
+   {
+    "title": "Palestinians say Israel’s democracy ‘is a joke’",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791963653.jpg?resize=1920%2C1080&quality=80",
+    "date": 1791963680000,
+    "titleSl": "Palestinci pravijo, da je izraelska demokracija \"šala\""
    }
   ],
   "guardian": [
@@ -415,23 +415,29 @@
   ],
   "bild": [
    {
-    "title": "René Benko kommt mit Fußfessel frei - Früher Schlossvilla, jetzt 60-Quadratmeter-Wohnung",
-    "link": "https://www.bild.de/unterhaltung/hausarrest-statt-knast-pleite-unternehmer-benko-bekommt-fussfessel-6acf31904ba5238b7412fdf8",
-    "image": "https://images.bild.de/6acf31904ba5238b7412fdf8/af25fdd55c59f0bd94f17f7d152df465,40eb53ef?w=1280",
+    "title": "600.000 Euro - Dorf kauft sich mit Steuergeld eigene Strand-Kneipe",
+    "link": "https://www.bild.de/politik/inland/sondervermoegen-infrastruktur-dorf-kauft-sich-mit-geld-aus-schuldenpaket-eigene-kneipe-6acf18d84ba5238b7412fc92",
+    "image": "https://images.bild.de/6acf18d84ba5238b7412fc92/b4a4539155e5dc666124a750d823fbca,af18acdc?w=1280",
+    "date": 0,
+    "titleSl": "600.000 EUR - Dorf kauft sich mit Steuergeld eigene Strand-Kneipe"
+   },
+   {
+    "title": "Beschlossen - Kabinett gibt grünes Licht für Zuckersteuer",
+    "link": "https://www.bild.de/politik/beschlossen-kabinett-gibt-gruenes-licht-fuer-zuckersteuer-6acf483687938150729401be",
+    "image": "https://images.bild.de/6acf483687938150729401be/abcb2257d431bbf7a2d1eac3f9001c2d,10a8885?w=1280",
     "date": 0
    },
    {
-    "title": "Urteil im Scheidungs-Krieg - Teil-Freispruch für NFL-Star",
+    "title": "500.000 Dollar Strafe - Teil-Freispruch für NFL-Star im Scheidungszoff",
     "link": "https://www.bild.de/sport/mehr-sport/500-000-dollar-strafe-teil-freispruch-fuer-nfl-star-tyreek-hill-6acf35acc8c6305416e423fb",
     "image": "https://images.bild.de/6acf35acc8c6305416e423fb/5e9e2506294024633cf492e5fb5d5928,fdc2daa9?w=1280",
     "date": 0
    },
    {
-    "title": "600.000 Euro - Dorf kauft sich mit Steuergeld eigene Kneipe",
-    "link": "https://www.bild.de/politik/inland/sondervermoegen-infrastruktur-dorf-kauft-sich-mit-geld-aus-schuldenpaket-eigene-kneipe-6acf18d84ba5238b7412fc92",
-    "image": "https://images.bild.de/6acf18d84ba5238b7412fc92/b4a4539155e5dc666124a750d823fbca,af18acdc?w=1280",
-    "date": 0,
-    "titleSl": "600.000 evrov - Dorf kauft sich mit Steuergeld eigene Kneipe"
+    "title": "René Benko kommt mit Fußfessel frei - Früher Schlossvilla, jetzt 60-Quadratmeter-Wohnung",
+    "link": "https://www.bild.de/unterhaltung/hausarrest-statt-knast-pleite-unternehmer-benko-bekommt-fussfessel-6acf31904ba5238b7412fdf8",
+    "image": "https://images.bild.de/6acf31904ba5238b7412fdf8/af25fdd55c59f0bd94f17f7d152df465,40eb53ef?w=1280",
+    "date": 0
    },
    {
     "title": "Ärger auf Kamera-Parkplätzen - Rentnerin zahlte fürs Parken – trotzdem Inkasso",
@@ -445,12 +451,6 @@
     "image": "https://images.bild.de/6acf1f08c8c6305416e42280/dd2c43a0c9ae8318fcffcf661de521b4,81634390?w=1280",
     "date": 0,
     "titleSl": "Prozessauftakt v Hamburgu - Wer gab dem Nord-Stream-Saboteur den Befehl?"
-   },
-   {
-    "title": "Nach Klopps Nichtnominierung - Baumann: Darum trete ich nicht aus der Nationalelf zurück",
-    "link": "https://www.bild.de/sport/fussball/oliver-baumann-darum-trete-ich-nicht-aus-dem-dfb-team-zurueck-6acf41dd22926fdb47d2c217",
-    "image": "https://images.bild.de/6acf41dd22926fdb47d2c217/86121f5b8e9b98da33b9ae814b2cf2f6,68f43e83?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -498,7 +498,7 @@
     "title": "Champions League. Inter-Bruges 3-4, Villarreal-Napoli 3-1, stasera Como e Roma in campo",
     "link": "https://www.rainews.it/maratona/2026/10/calcio-champions-league-2026-2027-giornata-2-inter-napoli-roma-como-aggiornamenti-cronaca-testuale-ca789e48-b6c8-4b44-8928-39fc679634be.html",
     "image": "https://www.rainews.it/dl/img/2026/10/13/1791925505592_rainewsafcecbd.jpg",
-    "date": 1791969360000,
+    "date": 1791969480000,
     "titleSl": "Liga prvakov. Inter-Bruges 3-4, Villarreal-Napoli 3-1, stasera Como e Roma in campo"
    },
    {
