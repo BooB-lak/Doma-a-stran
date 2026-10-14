@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T07:28:27.422Z",
+ "generatedAt": "2026-10-14T07:30:51.158Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Zvečer so iz vode potegnili mrtvega moškega",
+    "link": "https://www.zurnal24.si/slovenija/smrt-reka-trziska-bistrica-466683",
+    "image": "https://www.zurnal24.si/media/img/b0/d2/826af6027b6a6e8e8130.jpeg",
+    "date": 1791962940000
+   },
+   {
     "title": "Logar se je odzval na odstop Tee Košir",
     "link": "https://www.zurnal24.si/slovenija/anze-logar-odstop-tea-kosir-demokrati-466682",
     "image": "https://www.zurnal24.si/media/img/b3/ee/dd6dbd4f9a476affdac9.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/prometna-nesreca-lukovica-2-mrtva-otrok-smrtna-nevarnost-466676",
     "image": "https://www.zurnal24.si/media/img/ed/61/c0267a3e94a6ae236d19.png",
     "date": 1791957300000
-   },
-   {
-    "title": "Baba Vanga napovedala smrt srbske pevke Silvane Armenulić",
-    "link": "https://www.zurnal24.si/magazin/vip/baba-vanga-napovedala-smrt-srbske-pevke-silvane-armenulic-466678",
-    "image": "https://www.zurnal24.si/media/img/02/0f/5c2b9704bb200e0002b8.png",
-    "date": 1791957240000
    }
   ],
   "reuters": [
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "Pope Leo Has Lung Cancer, Vatican Says",
+    "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+    "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-pope-surgery-lwgk/13int-pope-surgery-lwgk-mediumSquareAt3X.jpg",
+    "date": 1791962845000,
+    "titleSl": "Papež Leo ima pljučnega raka, pravi Vatikan"
+   },
+   {
+    "title": "4 Takeaways From the Los Angeles Mayoral Debate",
+    "link": "https://www.nytimes.com/2026/10/14/us/los-angeles-mayor-debate-takeaways.html",
+    "image": "https://static01.nyt.com/images/2026/10/13/us/13nat-lamayors-debate-takeaways-llwe/13nat-lamayors-debate-takeaways-llwe-mediumSquareAt3X.jpg",
+    "date": 1791961979000,
+    "titleSl": "4 odlomki iz razprave o županu Los Angelesa"
+   },
+   {
     "title": "Israelis Feel Abandoned. That’s Why They Might Turn to This Bereaved General",
     "link": "https://www.nytimes.com/2026/10/14/opinion/netanyahu-eisenkot-israel-election.html",
     "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14Scheindlin-topart-whfb/14Scheindlin-topart-whfb-mediumSquareAt3X.jpg",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-russia-putin-01-htqf/13int-russia-putin-01-htqf-mediumSquareAt3X.jpg",
     "date": 1791954205000,
     "titleSl": "Trump izroča zmage Putinu, ki v zameno ponuja več vojne"
-   },
-   {
-    "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
-    "link": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-china-trade-fcvw/14biz-china-trade-fcvw-mediumSquareAt3X.jpg",
-    "date": 1791953455000,
-    "titleSl": "Kitajski izvoz skokovito narašča, s čimer je svoj trgovinski presežek postavil na pot rekordnega"
-   },
-   {
-    "title": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.",
-    "link": "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html",
-    "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00jonimitchell-us-bjpm/00jonimitchell-us-bjpm-mediumSquareAt3X.jpg",
-    "date": 1791951105000,
-    "titleSl": "Joni Mitchell je zdaj Američanka, po 60 letih življenja v ZDA"
    }
   ],
   "bbc": [
@@ -414,9 +414,22 @@
   ],
   "bild": [
    {
+    "title": "Update aus dem Vatikan - Krebs! Papst Leo hatte „ruhige Nacht“ in Klinik",
+    "link": "https://www.bild.de/politik/update-aus-dem-vatikan-papst-leo-hatte-ruhige-nacht-im-krankenhaus-6acf2b25a36ce71ca4d21322",
+    "image": "https://images.bild.de/6acf2b25a36ce71ca4d21322/1dd4a90a84ede8c0f1c2f1fed58087a9,a342d0a2?w=1280",
+    "date": 0,
+    "titleSl": "Update aus DEM Vatikan - Krebs! Papst Leo hatte „ruhige Nacht“ in Klinik"
+   },
+   {
     "title": "Raketen-Angriff auf Kiew - Lässt Trump jetzt die Ukraine komplett hängen?",
     "link": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-klagt-an-keine-vorwarnung-vor-russlands-raketen-ueber-kiew-6acf189ea36ce71ca4d21229",
     "image": "https://images.bild.de/6acf189ea36ce71ca4d21229/6f2c58a698c7aea09f1e90453cd206d3,676d255e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Exklusiv bei BILDplus - Gewinnen Sie Tickets für „Old Shatterhand unter Kojoten“",
+    "link": "https://www.bild.de/sonstiges/bildplus-gewinnspiele-aktionen/old-shatterhand-unter-kojoten-tickets-gewinnen-6ab51f41e0200f794f12e9aa",
+    "image": "https://images.bild.de/6ab51f41e0200f794f12e9aa/3c38980ad826ff814570f7baad4e25ca,86103e16?w=1280",
     "date": 0
    },
    {
@@ -432,22 +445,9 @@
     "date": 0
    },
    {
-    "title": "Update aus dem Vatikan - Krebs! Papst Leo hatte „ruhige Nacht“ in Klinik",
-    "link": "https://www.bild.de/politik/update-aus-dem-vatikan-papst-leo-hatte-ruhige-nacht-im-krankenhaus-6acf2b25a36ce71ca4d21322",
-    "image": "https://images.bild.de/6acf2b25a36ce71ca4d21322/1dd4a90a84ede8c0f1c2f1fed58087a9,a342d0a2?w=1280",
-    "date": 0,
-    "titleSl": "Update aus DEM Vatikan - Krebs! Papst Leo hatte „ruhige Nacht“ in Klinik"
-   },
-   {
     "title": "Nach Horror-Start - Diese 5 Punkte machen Gladbach jetzt noch Hoffnung!",
     "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-fuenf-punkte-die-gladbach-hoffnung-machen-6acd103e8776d79fbd9ca9b9",
     "image": "https://images.bild.de/6acd103e8776d79fbd9ca9b9/c2313fca06401ee7dd5c574579db35e7,c26f574a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Zwei Kandidaten sind raus - Wer musste „Promi Big Brother“ schon verlassen?",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/promi-big-brother-der-dritte-exit-hat-es-in-sich-6a9ff9711c634564db6328ba",
-    "image": "https://images.bild.de/6a9ff9711c634564db6328ba/c814715a38767b6f8d942be84d8a02d4,b9589d14?w=1280",
     "date": 0
    }
   ],
@@ -512,6 +512,12 @@
     "date": 1791961560000
    },
    {
+    "title": "Al via la festa del cinema di Roma, Film di apertura \"Il Rumore delle Cose Nuove\"",
+    "link": "https://www.rainews.it/video/2026/10/al-via-la-festa-del-cinema-di-roma-film-di-apertura-il-rumore-delle-cose-nuove-b451f211-50fc-4082-8deb-7ccd6814fc7f.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/14/1791961359138_videoframe.png",
+    "date": 1791961140000
+   },
+   {
     "title": "Basta la salute del 14/10/2026",
     "link": "https://www.rainews.it/rubriche/bastalasalute/video/2026/10/Basta-la-salute-del-14102026-7a6245d8-a527-4dec-a886-b44cee61174d.html",
     "image": "https://www.rainews.it/dl/img/2026/10/5243_bastalasalute_ONLINE_14102026_1445.jpeg",
@@ -524,13 +530,6 @@
     "image": "https://www.rainews.it/dl/img/2026/9/25/1790356904656_rainewscfbfcaccfdadf.jpg",
     "date": 1791960360000,
     "titleSl": "Cimici dei letti a bordo di un aereo proveniente dall 'Australia, volo Qantas fermato a Fiumicino"
-   },
-   {
-    "title": "Mattina 24 - Puntata del 14/10/2026",
-    "link": "https://www.rainews.it/rubriche/mattina24/video/2026/10/Mattina-24---Puntata-del-14102026-8e851c2e-6997-44f8-ab70-448e6055ebf2.html",
-    "image": "https://www.rainews.it/dl/img/2025/10/09/1760011000774_MATTINA24_4%20RAIPLAY%202048%201152.jpg",
-    "date": 1791958730000,
-    "titleSl": "Mattina 24 - Puntata del 14.10.2026"
    }
   ],
   "lemonde": [
