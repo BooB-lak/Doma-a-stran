@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T11:48:23.208Z",
+ "generatedAt": "2026-10-14T11:50:40.056Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/sportal/nogomet/liga-prvakov-ligaski-del-2-krog-sreda-703948",
     "image": "https://siol.net/media/img/96/74/c49700f0f5ea6dc59c2d.jpeg",
     "date": 1791977100000
+   },
+   {
+    "title": "Janez Janša: Bojimo se nagraditi najboljše, da ne bi užalili najslabših",
+    "link": "https://siol.net/novice/slovenija/janez-jansa-bojimo-se-nagraditi-najboljse-da-ne-bi-uzalili-najslabsih-703925",
+    "image": "https://siol.net/media/img/7e/2c/56252df542e1c20acc70.jpeg",
+    "date": 1791976980000
    },
    {
     "title": "V hrvaški Istri odkrili ostanke domnevno nove vrste dinozavra",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/tenis/gael-monfils-v-teniski-pokoj-703945",
     "image": "https://siol.net/media/img/b9/b4/7c73c90b99bb0b6b5f53.jpeg",
     "date": 1791974340000
-   },
-   {
-    "title": "WTA pohvalila organizacijo teniškega turnirja v Ljubljani",
-    "link": "https://siol.net/sportal/tenis/wta-ljubljana-2026-pohvale-organizatorji-tenis-slovenija-703943",
-    "image": "https://siol.net/media/img/fe/e8/a49929e228bf80ed0532.jpeg",
-    "date": 1791973920000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-    "link": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T100655Z_1620753654_RC2UUNAZA068_RTRMADP_3_IRAQ-SYRIA-BARRACK-1791615596.jpg?resize=1920%2C1440",
-    "date": 1791976581000,
-    "titleSl": "Iran krepi nadzor nad Hormuzom: napadi se dvigajo, pretok nafte se spet zruši"
-   },
-   {
     "title": "Trump plans for ‘massive’ resource exploration in Greenland",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/WIDE-Thumbnail-1791975827.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791972745.jpg?resize=1920%2C1080&quality=80",
     "date": 1791972857000,
     "titleSl": "Albanski študenti se spopadajo s policijo, ko protestirajo zaradi izobraževanja in delovnih mest"
+   },
+   {
+    "title": "Israeli air strike kills Palestinian woman in Gaza City",
+    "link": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6acf386813841-1791965288.jpg?resize=1920%2C1440",
+    "date": 1791972529000,
+    "titleSl": "Izraelski zračni napad ubil Palestinko v mestu Gaza"
    }
   ],
   "guardian": [
@@ -415,6 +415,31 @@
   ],
   "bild": [
    {
+    "title": "Millionen betroffen - Das ist der neue Klinik-Notfall-Plan für Patienten",
+    "link": "https://www.bild.de/politik/inland/regierung-plant-radikal-umbau-der-notaufnahmen-der-neue-notfall-plan-fuer-millionen-patienten-6acdfcfea3d42c2e8cd521cd",
+    "image": "https://images.bild.de/6acdfcfea3d42c2e8cd521cd/250362c03c6c4d0509dec8fbf38a198b,61e0a531?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Studie - Warum Kalorien nicht immer gleich wirken",
+    "link": "https://www.bild.de/leben-wissen/ernaehrung-diaet/gleiche-kalorien-andere-wirkung-auf-den-stoffwechsel-6accb469917c96cff556d8be",
+    "image": "https://images.bild.de/6accb469917c96cff556d8be/a37fbb72d2b080b4cae74d7e6fa2ba22,ddc64c6c?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Eine Insider-Recherche - Wer greift in der SPD jetzt nach der Macht?",
+    "link": "https://www.bild.de/politik/inland/regierungspartei-waehlt-neue-fuehrung-das-chef-problem-in-der-spd-6ace5a6a32c9e7b96d750704",
+    "image": "https://images.bild.de/6ace5a6a32c9e7b96d750704/e22f963e69e6c2feeb3a6fca1e58966e,c8b59505?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Schon heute auf RTL+ - So geht „Alles was zählt“ nächste Woche weiter",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/alles-was-zaehlt-auf-rtl-zerbricht-dragans-naehe-zu-nick-6acf6725fd6239b19ad412d3",
+    "image": "https://images.bild.de/6acf6725fd6239b19ad412d3/75ea2d8a0fa0a1ce27b5aa6458b682d5,92225695?w=1280",
+    "date": 0,
+    "titleSl": "Schon heute auf RTL+ - Torej geht „Alles was zählt“ nächste Woche weiter"
+   },
+   {
     "title": "Unfall in eigener Wohnung - Lierhaus bricht sich bei schwerem Sturz das Bein",
     "link": "https://www.bild.de/sport/mehr-sport/monica-lierhaus-bricht-sich-bei-schwerem-sturz-das-bein-6acf30144ba5238b7412fdcf",
     "image": "https://images.bild.de/6acf30144ba5238b7412fdcf/c7c2536a689bb3ade592822f59997c3e,fc91dd59?w=1280",
@@ -424,30 +449,6 @@
     "title": "Was man dafür machen muss - Finnen bieten 2000 Euro für Schnüffel-Urlaub",
     "link": "https://www.bild.de/news/ausland/2000-euro-erhalten-fuer-schnueffel-urlaub-wuerden-sie-es-machen-6acc78218c29922a61cfcb68",
     "image": "https://images.bild.de/6acc78218c29922a61cfcb68/85004875ca914369f2f48be240dcf124,f6921693?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Jugendmannschaft“ - Dieser FCS-Profi rechnet knallhart ab",
-    "link": "https://www.bild.de/sport/fussball/1-fc-saarbruecken-profi-rechnet-nach-pleite-knallhart-ab-6acf44f285ec8093bcfbd9c0",
-    "image": "https://images.bild.de/6acf44f285ec8093bcfbd9c0/6fb20179f45dea1d430190e46766f5cf,e658b3bd?w=1280",
-    "date": 0
-   },
-   {
-    "title": "41-jähriger Anwohner - Festnahme nach Feuer mit drei Toten in Bochum",
-    "link": "https://www.bild.de/news/41-jaehrige-anwohner-festnahme-nach-feuer-mit-drei-toten-in-bochum-6acf64af77d7df6c69d6bdf7",
-    "image": "https://images.bild.de/6acf64af77d7df6c69d6bdf7/174a633d90e56f8bb32915fedafb6d5f,66163774?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Stunk unter Hollywood-Schönheiten - Kendall Jenner ist kein Fan von Sydney Sweeney",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/kendall-jenner-ist-kein-fan-von-sydney-sweeney-stunk-in-hollywood-6acf1fadc8c6305416e4228e",
-    "image": "https://images.bild.de/6acf1fadc8c6305416e4228e/c71cea308a5c3ff1471b8084596b8958,927c4103?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Anwesen mit Blick über den Comer See - Frau verschenkt 1,6-Millionen-Villa an Gemeinde",
-    "link": "https://www.bild.de/news/witwe-verschenkt-villa-im-wert-von-1-6-millionen-euro-6acca27f2b0d25ef1edd2745",
-    "image": "https://images.bild.de/6acca27f2b0d25ef1edd2745/c5ebf49728f40048c265da6016d7be08-landscape,ee0281d5?w=1280",
     "date": 0
    }
   ],
@@ -463,12 +464,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpUU5sMmY3MDBaSV9WTHQ5WFhvaUFNdDUtdXZNd0JVYWs2SGR3TUNSTVk1UmJta0p4dk5sX1JGbUVCdw?oc=5",
     "image": "",
     "date": 1791977880000
-   },
-   {
-    "title": "Rote starten Kampagne - SPÖ sucht in Oberösterreich „Orte des Stillstands“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9uWlBsVS1ZWUNicElwY002aFVMNGdGal8ybUc3allWQTIzc1lVajNWTjV0OVNIVGRVUnAwX3B2VTdrQQ?oc=5",
-    "image": "",
-    "date": 1791977820000
    },
    {
     "title": "Gelb-Rot für Franzosen - Vikings-Profis hämisch: Olise? „Was für ein Idiot“",
@@ -487,6 +482,13 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rLTczU2U3Z1RuYmRGV2pReEtMOGZFcXVZUk1qQ3dxTVVtRVRrd3hSTFNlSTdxc2puRWZXTlNMdFVOUQ?oc=5",
     "image": "",
     "date": 1791977220000
+   },
+   {
+    "title": "VIPs im Marchfelderhof - Ein Abend voller Erinnerungen an Gerald Pichowetz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iQUJTV2xYQ0NqMzRBemJMclRUMlNCY29qbmNfNW9VVUc2bHd0NjlRSU53UlcwUGlYdzJndzFPREVaQQ?oc=5",
+    "image": "",
+    "date": 1791977160000,
+    "titleSl": "VIP-ji v Marchfelderhofu - Ein Abend voller Erinnerungen an Gerald Pichowetz"
    }
   ],
   "rainews": [
