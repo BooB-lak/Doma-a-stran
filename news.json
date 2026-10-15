@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T19:08:25.249Z",
+ "generatedAt": "2026-10-15T19:10:39.780Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Spopadi v Jemnu se zaostrujejo, hutijevci napadli sedež mednarodno priznane vlade",
+    "link": "https://www.rtvslo.si/svet/bliznji-vzhod/spopadi-v-jemnu-se-zaostrujejo-hutijevci-napadli-sedez-mednarodno-priznane-vlade/797077",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/15/67113343.jpg",
+    "date": 1792090540000
+   },
+   {
     "title": "Jakov Fak prvo ime slovenske ekipe na festivalu v Münchnu",
     "link": "https://www.rtvslo.si/sport/zimski-sporti/jakov-fak-prvo-ime-slovenske-ekipe-na-festivalu-v-muenchnu/797074",
     "image": "https://img.rtvcdn.si/_up/upload/2025/03/13/66502754.jpg",
@@ -107,17 +113,11 @@
     "link": "https://www.rtvslo.si/svet/evropa/protesti-v-albaniji-se-stopnjujejo-in-sirijo-a-rama-ne-namerava-odstopiti/797070",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/15/67113313.jpg",
     "date": 1792084374000
-   },
-   {
-    "title": "Razglašeni Celjani nemočni proti razigrani Omonii",
-    "link": "https://www.rtvslo.si/sport/nogomet/evropska-liga/razglaseni-celjani-nemocni-proti-razigrani-omonii/797055",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/15/67113315.jpg",
-    "date": 1792082705000
    }
   ],
   "zurnal": [
    {
-    "title": "Drugi evropski udarec za Celje, tekmec znal kaznovati napake",
+    "title": "Drugi evropski udarec za Celje, tekmec kaznoval napake",
     "link": "https://www.zurnal24.si/sport/nogomet/drugi-evropski-udarec-za-celje-tekmec-znal-kaznovati-napake-466794",
     "image": "https://www.zurnal24.si/media/img/33/c7/b493321878c487281e49.jpeg",
     "date": 1792091220000
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+    "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
+    "date": 1792091150000,
+    "titleSl": "Zelenski napoveduje, da bo Ukrajina nadaljevala ruske napade na rafinerije in se upirala Trumpu"
+   },
+   {
+    "title": "Iran-Backed Houthis Strike Presidential Palace, Yemen Says",
+    "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+    "image": "",
+    "date": 1792091103000,
+    "titleSl": "Jemen trdi, da so hutijevci, ki jih podpira Iran, napadli predsedniško palačo"
+   },
+   {
     "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
     "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
     "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-midterms-mqfb/15dc-trump-midterms-mqfb-mediumSquareAt3X.jpg",
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15nat-harvard-endowment-zkqg/15nat-harvard-endowment-zkqg-mediumSquareAt3X.jpg",
     "date": 1792089627000,
     "titleSl": "Harvardska fundacija se je povzpela na 68 milijard $, čeprav zvezna vlada zmanjšuje število odpuščanj"
-   },
-   {
-    "title": "The Image of the Great Flood That Stuck With Me: Caskets Floating Away",
-    "link": "https://www.nytimes.com/2026/10/15/us/1993-great-flood-mississippi-midwest.html",
-    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00-PROJECTS-175-EYEWITNESS-GREAT-FLOODS-wmzb/00-PROJECTS-175-EYEWITNESS-GREAT-FLOODS-wmzb-mediumSquareAt3X-v2.jpg",
-    "date": 1792089387000,
-    "titleSl": "Podoba velike poplave, ki se mi je zataknila: skrinjice, ki plavajo stran"
-   },
-   {
-    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-rates-econ-hvkw/15biz-rates-econ-hvkw-mediumSquareAt3X.jpg",
-    "date": 1792087939000,
-    "titleSl": "Lastništvo stanovanj postaja vse bolj nedosegljivo, ko hipotekarne obrestne mere rastejo"
    }
   ],
   "bbc": [
@@ -459,45 +459,7 @@
     "titleSl": "Stara do 4700 let - Najstarejša razbitina ladje na svetu"
    }
   ],
-  "krone": [
-   {
-    "title": "Stürmer vor Liga-Debüt - Wie Teflon! An KAC bleibt nichts haften",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9McjFnS0dPUmg3WXI3aE56RjR0ODlpdTNGcm9ITFpPR1h6RWl1U2kwbEJLMGZYODFIUW40bjhIeTVMUQ?oc=5",
-    "image": "",
-    "date": 1792090620000
-   },
-   {
-    "title": "„Niki“ für Paraski-Überflieger Johannes Aigner",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lQ3lHR2NWNEc2aklCOW16OU9iS1o1WWtfWGgzNWM3N2ExaTJNMjZNemZ4bHhySzBIU0ZsTktmNU44QQ?oc=5",
-    "image": "",
-    "date": 1792090500000
-   },
-   {
-    "title": "Erstmals dokumentiert - Herzige Eulen-Familie begeistert New York",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WOUo5Tk82azAtNmoxOUVhNkxvQ1ZkTTR4cU8zNE9ySlBGT2dvRnBWS05ielVpNktSSlVnM2ZCbTMtZw?oc=5",
-    "image": "",
-    "date": 1792090380000
-   },
-   {
-    "title": "Unfall im September - Biker-Opa bezahlte riskantes Manöver mit Leben",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UcC14N2xjY21kbEVsMWJiMEM5b3RxYUhSOU53RWJCaWxqMnlfcWFnbVFrTkpIQ25lVFh1MXczVTlEQQ?oc=5",
-    "image": "",
-    "date": 1792090080000
-   },
-   {
-    "title": "Nach Mega-Saison: - Paraski-Dominatorin Veronika Aigner gewinnt „Niki“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hXzFobzY3R3lnVzZrTWFtVGxrdWlKbmxIWHJTWkpjMkhWamZqS29fcnF0SjNySmxfNGk5aHRhU0ZEQQ?oc=5",
-    "image": "",
-    "date": 1792090080000,
-    "titleSl": "Nach Mega-Saison: - Paraski-Dominatorin Veronika Aigner gewinnt \"Niki\""
-   },
-   {
-    "title": "Benko: Hausarrest in Wohnung ++ neue E-Card-Gebühr",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00QkhCaHByZDE4U1ZGaXptUlNIVUFwT3RZUGhVdm0zbTJyR3U5VmpmdHZFYV9WaHlTTU56eGJOdUF3UQ?oc=5",
-    "image": "",
-    "date": 1792089913000
-   }
-  ],
+  "krone": [],
   "rainews": [
    {
     "title": "Netanyahu ammette: “007 egiziano in Israele prima del 7 ottobre\"",
