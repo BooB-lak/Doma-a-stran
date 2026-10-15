@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T02:58:23.623Z",
+ "generatedAt": "2026-10-15T03:01:02.050Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "The Brooklyn Toy Store at the Center of the Kelly Clarkson Online Frenzy",
+    "link": "https://www.nytimes.com/2026/10/14/nyregion/kelly-clarkson-art-of-play-feud.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-clarkson-promo-ftgv/14xp-clarkson-promo-ftgv-mediumSquareAt3X.jpg",
+    "date": 1792032992000,
+    "titleSl": "Brooklynska trgovina z igračami v središču spletne blaznosti Kelly Clarkson"
+   },
+   {
     "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
     "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
     "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14dc-zacharia-top-zgkw/14dc-zacharia-top-zgkw-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/ANTHROPIC-INVESTORS-HFO-zgtc/ANTHROPIC-INVESTORS-HFO-zgtc-mediumSquareAt3X.jpg",
     "date": 1792022246000,
     "titleSl": "Antropic pravi, da so se prihodki v tretjem četrtletju povečali za 45% na 16,8 milijarde $"
-   },
-   {
-    "title": "The Brooklyn Toy Store at the Center of the Kelly Clarkson Online Frenzy",
-    "link": "https://www.nytimes.com/2026/10/14/nyregion/kelly-clarkson-art-of-play-feud.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-clarkson-promo-ftgv/14xp-clarkson-promo-ftgv-mediumSquareAt3X.jpg",
-    "date": 1792021512000,
-    "titleSl": "Brooklynska trgovina z igračami v središču spletne blaznosti Kelly Clarkson"
    }
   ],
   "bbc": [
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-    "link": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-    "image": "https://i.guim.co.uk/img/media/170d64bce3c3cd5f2da0bd8212e95c754448d44a/183_0_2045_1636/master/2045.jpg?width=140&quality=85&auto=format&fit=max&s=7b326e73b5aba8a1a88bdfec56dffc82",
-    "date": 1792032342000,
-    "titleSl": "Brazilija skrajšala delovni teden na 40 ur v zmagi za Lulo pred drugim krogom"
-   },
-   {
     "title": "Australian politics live: Greens vow to table bill to block US execution livestream; government considering allowing individuals to sue tech platforms",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/a7a7bce41cd09b3a0087ec1fd1320d6489824346/394_0_3927_3143/master/3927.jpg?width=140&quality=85&auto=format&fit=max&s=41151e5f3c48f1892e3d3336dbe0e2b6",
@@ -371,6 +364,13 @@
     "image": "https://i.guim.co.uk/img/media/d78b6382c76e5038cfe9f2f89af7ca9d7fba51ed/1423_105_4420_3538/master/4420.jpg?width=140&quality=85&auto=format&fit=max&s=74f6b72884a40a824b78f565e85136b0",
     "date": 1792023438000,
     "titleSl": "Med vzponom One Nation so viktorijanski laburisti obljubili, da bodo splavi brezplačni. Je čas čista politika?"
+   },
+   {
+    "title": "Paddington: The Musical is coming to Sydney in 2027",
+    "link": "https://www.theguardian.com/stage/2026/oct/15/paddington-the-musical-sydney-australia-2027",
+    "image": "https://i.guim.co.uk/img/media/5f3331fa1ba36805ad86f69facb5be5b02a9d8a4/231_0_2083_1667/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=9579e0f0a81f778a343ea2a082ed215a",
+    "date": 1792020842000,
+    "titleSl": "Paddington: Musical prihaja v Sydney leta 2027"
    }
   ],
   "spiegel": [
@@ -450,52 +450,59 @@
     "title": "BILD beantwortet die wichtigsten Fragen - Was der große Notaufnahmen-Umbau für Sie bedeutet",
     "link": "https://www.bild.de/politik/inland/notfallreform-wer-kommt-schneller-dran-wer-muss-laenger-warten-6acf48d687938150729401d9",
     "image": "https://images.bild.de/6acf48d687938150729401d9/b6b076b63132b2328e13a68b4974000b,10f3bdda?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "BILD odgovarja na najpomembnejša vprašanja - kaj za vas pomeni večja prenova urgence"
    },
    {
     "title": "Was endlich geklärt wurde - Bayern-Durchbruch im Kane-Poker",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-durchbruch-im-vertragspoker-mit-harry-kane-6acfc8cd1eb0c5eeb128feae",
     "image": "https://images.bild.de/6acfc8cd1eb0c5eeb128feae/fb7a053ca29acfad957d796e59f6361f,75fa8404?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Kaj je bilo končno razjasnjeno - Bayernov preboj v pokru Kane"
    }
   ],
   "krone": [
    {
-    "title": "Europa League - Bournemouth gegen Sturm Graz – ab 21 Uhr LIVE",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sdjlRODFQQTZhXzU0VFZ2MGRPQVpYcl83dHBLSGRHNWN1UzZ2eTJMZUUtYU0wNWZEWGQ5Q0cyUlBvQQ?oc=5",
+    "title": "„Bäume nicht krank“ - Rätsel um geplante Rodung historischer Birken",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wZTVtbmdfV25PZExnTk9vUk1NTl9wZXQzaTBhTjVlSGNBajMzUTVDZVc1aUY1enFQbDhMQVpEblRkZw?oc=5",
     "image": "",
-    "date": 1792032540000
+    "date": 1792033200000,
+    "titleSl": "\"Drevesa niso bolna\" - Skrivnost o načrtovanem krčenju zgodovinskih brez"
    },
    {
-    "title": "Krone Service - Krone-Vorteilswelt",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OLURGbEhGZ2RfTFBZS3dIVkprYkdFcTYwam5wTF94dE9HODVVcTE3TGJMV2tvX2FWRnFlcTRLdUJpSmR5T3lmNDJXZ1VDS3EwZFA0ZnBfdUIwVklLYVRPWGo2R1RuRUlNUkZmT0hEcVRpNElLNHc?oc=5",
+    "title": "Bis zu 20 Grad - Nach kühlem Start: Jetzt kommt die Sonne zurück",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PSG1qT3BtYkJ5anBabHFjMi1YaUNlRURKMG94S1RlbXZoenFYS0stbkdzYkxRbFV2TjM1NDZCZ1lzUQ?oc=5",
     "image": "",
-    "date": 1792027915000,
-    "titleSl": "Storitev Krone - Krone-Vorteilswelt"
+    "date": 1792033200000,
+    "titleSl": "Do 20 stopinj - Po hladnem začetku: Zdaj se vrača sonce"
    },
    {
-    "title": "Jetzt im Kino: Terminator",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53Q3JCYUE5dHN3ak5TeV94V2FsYWpCZEFlSUhrY2VueTlYV2hFSVlNMmRGeGZQRzJ5c1lPYUk1TV9pVHljTEVJNXRnMC03U2l4V2Z3cHFXcC1FdkFwWnVEQm9FSHIxdElkeDJHSm52cU0zN1hT?oc=5",
+    "title": "„Genug Organe da, aber zu viele werden verworfen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WX1RwQm94RnN6TTV4XzlwQXBBZzNKNGUtaU53S1RrSHpBZHBBYmxpb2ZkLXhpZWdFZ1FwYlU5TE03QQ?oc=5",
     "image": "",
-    "date": 1792027865000
+    "date": 1792033200000,
+    "titleSl": "\"Orglov je dovolj, a jih je preveč zavrženih\""
    },
    {
-    "title": "Das freie Wort - Paketsteuer zu teuer?",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdjNpeG9DNkFjSmozWm5KUE5yb3Y2d251N2RheWhYN21KaHhSOXBUY0Q1WVpnd081WmdOM1RiTm40WGhKd1FCbzVPcHZxeFN4c1ZrMzNuQzRCaG1sTEo0RjhFbHhvclVHMTh5aw?oc=5",
+    "title": "Wirbel um Parteitag - Polizei-Großaufgebot für FPÖ in 4100-Seelen-Ort",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9NMkFEUDc5NHBERmpoM3kzcm9hLVVXRGt4d0dOcnNkaXQ5R2VfRmhfQk9tbDdlem1yRFZ4QnNMRnM4QQ?oc=5",
     "image": "",
-    "date": 1792024333000
+    "date": 1792033200000,
+    "titleSl": "Razburjenje okoli strankarske konference – velik policijski kontingent za FPÖ v mestu s 4100 ljudmi"
    },
    {
-    "title": "Das freie Wort - Fatale Entwicklung",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ueWtfREpqQ3NLaDlGamxadkd3NnpjblRLNFhOanZ3bjdDZ2c5bmx3VV9ENVJsdUZOa3Zmc19Oai1DRnpvNlhMTVBwenRRSkJwSU1TTTB2c1NvamwwZTVGUGEwck5ZNE1PV3V0Ug?oc=5",
+    "title": "Am Berg und im Alltag - Willenskraft stärken: Tipps von Extremsportlerin",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ncmVPMEJGUjhhOVhKc085VWdxQV9MenhFbFVaYmxETkttTW9xa0tCUnpLNVVNT0t2NGJLcHdWT3ZMUQ?oc=5",
     "image": "",
-    "date": 1792024243000
+    "date": 1792033200000,
+    "titleSl": "Na gori in v vsakdanjem življenju - krepitev volje: nasveti ekstremnega športnika"
    },
    {
-    "title": "Das freie Wort - Abschaffung?",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbHM1WXNCRnN2NEdSSDQ2aUdRSDFmYUtabGZRZWJ4dkVqLVBZUUxlZ2FLWlJHVXEzRXNVcW9CUVZmUHVvZFoxVGNhSFFKeS01VnhDS0E5RWhISGd6NGJRQWs2ZE5uSzI4S1E5Sw?oc=5",
+    "title": "Freikarten erhältlich - Halloween-Spaß auf der Burg Schlaining erleben",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9raDNFV3F3Vk5RWmdtUTN6ZDBTN0xtRGtUc3hDVHVtZURzUVI3Zm5NRmNUS0NhRU9zc0kxR3Z1cGZZQQ?oc=5",
     "image": "",
-    "date": 1792024243000
+    "date": 1792033200000,
+    "titleSl": "Na voljo so brezplačne vstopnice – doživite zabavo za noč čarovnic na gradu Schlaining"
    }
   ],
   "rainews": [
@@ -503,7 +510,8 @@
     "title": "Via libera della Camera alla legge sui caregiver: scontro acceso sui fondi",
     "link": "https://www.rainews.it/articoli/2026/10/via-libera-della-camera-alla-legge-sui-caregiver-scontro-acceso-sui-fondi-bfa46b01-b331-4acb-a12b-d9c88cbd7e63.html",
     "image": "https://www.rainews.it/dl/img/2025/10/08/1759913556239_wheelchair.jpg",
-    "date": 1792031400000
+    "date": 1792031400000,
+    "titleSl": "House daje zeleno luč zakonu o negovalcih: oster spopad glede sredstev"
    },
    {
     "title": "Escalation nel Golfo: pioggia di missili Houthi su Riad e Aramco, rinviato il Six Kings Slam",
@@ -523,7 +531,8 @@
     "title": "Zelensky a Londra, Burnham stende il tappeto rosso: pieno sostegno britannico a Kiev",
     "link": "https://www.rainews.it/video/2026/10/zelensky-a-londra-burnham-stende-il-tappeto-rosso-pieno-sostegno-britannico-a-kiev-86e2d874-b5d1-4b77-a81a-b1ad125b1266.html",
     "image": "https://www.rainews.it/dl/img/2026/10/15/1792021257437_SON_Manzione_Zelensky_a_Londra_finaleran.jpeg",
-    "date": 1792021680000
+    "date": 1792021680000,
+    "titleSl": "Zelenski v Londonu, Burnham razgrne rdečo preprogo: polna britanska podpora v Kijevu"
    },
    {
     "title": "Mosca bombarda Kiev e le centrali elettriche: raid estesi anche a Kharkiv e all&#x27;ovest dell&#x27;Ucraina",
@@ -545,7 +554,8 @@
     "title": "Au Brésil, le Parlement adopte la réduction du temps de travail promise par Lula",
     "link": "https://www.lemonde.fr/international/article/2026/10/15/au-bresil-le-parlement-adopte-la-reduction-du-temps-de-travail-promise-par-lula_6793931_3210.html",
     "image": "https://img.lemde.fr/2026/10/15/458/0/5500/2750/644/322/60/0/a02010b_ftp-1-rbg0y2uty1do-2026-10-15t005849z-559751204-rc2b3oazpvip-rtrmadp-3-brazil-politics-labor.JPG",
-    "date": 1792030570000
+    "date": 1792030570000,
+    "titleSl": "V Braziliji parlament sprejme skrajšanje delovnega časa, ki ga je obljubil Lula"
    },
    {
     "title": "Manchester City-PSG : un Paris à deux visages domine les Citizens au terme d’un match débridé",
