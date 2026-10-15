@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T17:01:05.022Z",
+ "generatedAt": "2026-10-15T17:02:24.689Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Ko so mu povedali za Dončića, ga je zagrabila panika: \"Kaj za vraga?\"",
+    "link": "https://www.zurnal24.si/sport/kosarka/ko-so-mu-povedali-za-doncica-ga-je-zagrabila-panika-kaj-za-vraga-466791",
+    "image": "https://www.zurnal24.si/media/img/0e/38/f195f1651e7c265e6a1c.jpeg",
+    "date": 1792083720000
+   },
+   {
     "title": "Razočarani Čeferin brez komentarja zapustil prizorišče",
     "link": "https://www.zurnal24.si/sport/nogomet/razocarani-ceferin-brez-komentarja-zapustil-prizorisce-466789",
     "image": "https://www.zurnal24.si/media/img/5d/be/be68e1f55e7218c33b9a.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/zaskrbljeni-se-bodo-place-zaposlenih-v-solstvu-dramaticno-znizale-466786",
     "image": "https://www.zurnal24.si/media/img/85/5b/eaa69ba859a7f3889ff2.jpeg",
     "date": 1792077600000
-   },
-   {
-    "title": "Po peklu, ki ga je komaj preživel, nova katastrofa za Kildeja",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/po-dveh-letih-pekla-ki-ga-je-komaj-prezivel-nova-katastrofa-za-kildeja-466784",
-    "image": "https://www.zurnal24.si/media/img/77/ed/275dfedeffafc71f80c5.jpeg",
-    "date": 1792077480000
    }
   ],
   "reuters": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Houthis target Yemen’s presidential palace in Aden with missiles",
+    "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0f89f0355-1792080031.jpg?resize=1920%2C1440",
+    "date": 1792083042000,
+    "titleSl": "Hutiji z raketami ciljajo jemensko predsedniško palačo v Adnu"
+   },
+   {
     "title": "Albania’s PM dismisses calls to resign as student protests spread",
     "link": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0e1d8ba74-1792074200.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26270582623436-1792079514.jpg?resize=1920%2C1440",
     "date": 1792081199000,
     "titleSl": "Predsednik Fife Infantino se opravičuje svetu, kritiki pa ostajajo nezadovoljni"
-   },
-   {
-    "title": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/clean-7-1792081136.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792081148000,
-    "titleSl": "Jerusalem Daily: Ultraortodoksni Judje vdrli v bazo izraelske vojske"
    }
   ],
   "guardian": [
@@ -334,14 +334,14 @@
     "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live",
     "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
     "image": "https://i.guim.co.uk/img/media/cbe7c9fb6ba442658aeaa7c92974e9addedd0b91/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=901ad4cf18f230f8fb0c585a5fa56ddc",
-    "date": 1792082861000,
+    "date": 1792083281000,
     "titleSl": "Bo Trumpovo gospodarstvo potopilo republikance na vmesnih volitvah v ZDA? Naši novinarji sprejemajo vaša vprašanja v živo"
    },
    {
     "title": "Lawmakers from both parties welcome Trump’s decision to cancel livestream of firing squad execution – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/c71f3cfd3dc0828ef057e1d19a58c5fd98088c70/6_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=f26ac34db7baa6b9309656c45aba41cc",
-    "date": 1792082632000,
+    "date": 1792083175000,
     "titleSl": "Zakonodajalci iz obeh strank pozdravljajo Trumpovo odločitev o preklicu neposrednega prenosa usmrtitve strelskega voda – v živo"
    },
    {
@@ -463,11 +463,25 @@
   ],
   "krone": [
    {
+    "title": "Benko-Ermittlungen - Anwalt der Republik: „Bisher Micky-Maus-Anklagen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pd3ZFVUx3TXV5WkFSSjNzLU1PSm9kTWpzcHhLRlNtcDYzYlo5VTh0X2tWanRRRnV0ak9tSXZnYW1Kdw?oc=5",
+    "image": "",
+    "date": 1792083600000,
+    "titleSl": "Preiskave Benka - Odvetnik republike: \"Zaenkrat obtožbe Mikija Miške\""
+   },
+   {
     "title": "Angestellter in Hotel - Mit ergaunerten Handys Spielsucht finanziert",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03UmdDN2ZCZlBoazU4ZVVuSmU5UHZJY3VUUnctMDVsemd3Z0xxcHFRYlhKeEkyZUpjNnU5OHcyMlNqdw?oc=5",
     "image": "",
     "date": 1792083600000,
     "titleSl": "Zaposleni v hotelu - financiral odvisnost od iger na srečo z ukradenimi mobilnimi telefoni"
+   },
+   {
+    "title": "Dreirad versus Ferrari - Die peinlichen Pannen der Vorarlberger Landes-KI",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnYUxsNWhaWVUwT1dUaGVEajFsd3lBc19PRFRoZUhRWnFJVXAyRWQzdnREWW5xX0VTVjBweU1fREZ0UQ?oc=5",
+    "image": "",
+    "date": 1792083600000,
+    "titleSl": "Trikolesnik proti Ferrariju - neprijetne nesreče AI dežele Vorarlberg"
    },
    {
     "title": "Ausbildungskompass - Per Landkarte auf neuen Pfaden in die Pflege",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1792082340000,
     "titleSl": "Sodeluj in zmagaj - \"Krone\" te popelje med teniške superzvezde"
-   },
-   {
-    "title": "„Regierungsmonstrum“ - Kickl tobte, scheiterte aber mit Misstrauensantrag",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GRUpjUHZLS0FYaVJlU0swbjBvTXFuQzE3WmppRTRiX2djZlZqbjM5RmotNUxLcHUtVFlSMG5mWEZXQQ?oc=5",
-    "image": "",
-    "date": 1792082293000,
-    "titleSl": "\"Vladna pošast\" - je besnel Kickl, a mu ni uspelo z nezaupnico"
-   },
-   {
-    "title": "Wie herzig! - Swarovski entblößte bei Dinner dieses süße Detail",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LUzViMFdYT08xcUVXX0NORUxxU3lPbV9TUlM3OTVfTUIyVHpWNloxX3BHZXNKdF9UQW5EcFdmaFJxZw?oc=5",
-    "image": "",
-    "date": 1792082280000,
-    "titleSl": "Kako sladko! - Swarovski je razkril to sladko podrobnost na večerji"
    }
   ],
   "rainews": [
