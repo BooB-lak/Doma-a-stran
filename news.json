@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-15T10:10:38.866Z",
+ "generatedAt": "2026-10-15T10:12:23.519Z",
  "sources": {
   "siol": [
+   {
+    "title": "Mufti Porić: Zakrivanje obraza z burko v slovenski javnosti ne obstaja",
+    "link": "https://siol.net/novice/slovenija/mufti-poric-zakrivanje-obraza-z-burko-v-slovenski-javnosti-ne-obstaja-704015",
+    "image": "https://siol.net/media/img/3b/a1/4713ca09c4db63ae7571.jpeg",
+    "date": 1792059120000
+   },
    {
     "title": "Drama v Istri: evakuirali goste prestižnega hotela v Poreču",
     "link": "https://siol.net/novice/svet/drama-v-istri-evakuirali-goste-prestiznega-hotela-v-porecu-704037",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/dom/nevihte-samota-in-nova-rutina-tako-lahko-hisnemu-ljubljencku-pomagate-cez-zahtevne-trenutke-703950",
     "image": "https://siol.net/media/img/57/5b/124103d9373fefb47ed4.jpeg",
     "date": 1792055340000
-   },
-   {
-    "title": "Opozorilo ambicioznemu Paulu Seixasu: To proti Pogačarju ne bo delovalo",
-    "link": "https://siol.net/sportal/kolesarstvo/opozorilo-ambicioznemu-paulu-seixasu-to-proti-pogacarju-ne-bo-delovalo-703989",
-    "image": "https://siol.net/media/img/ag/5e/33d1250f3a63258e31db.jpeg",
-    "date": 1792055280000
    }
   ],
   "24ur": [
@@ -375,10 +375,18 @@
   ],
   "spiegel": [
    {
+    "title": "Hamburg: Gefängnis für zwei iranische Agenten wegen Anschlagspläne auf Josef Schuster und Volker Beck",
+    "link": "https://www.spiegel.de/panorama/justiz/hamburg-gefaengnis-fuer-zwei-iranische-agenten-wegen-anschlagsplaene-auf-josef-schuster-und-volker-beck-a-2d68e0b5-6b64-494c-ab77-a5df55710a17#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/76e15a04-cd10-45a7-90cf-1dcbacf73c45_w520_r2.08_fpx29.99_fpy44.98.jpg",
+    "date": 1792058760000,
+    "titleSl": "Hamburg: Zapor za dva iranska agenta zaradi načrtov za napad na Josefa Schusterja in Volkerja Becka"
+   },
+   {
     "title": "Die Grünen und die Tabaksteuer: Auf einmal fällt der Name des Lobbyisten Daniel Holefleisch",
     "link": "https://www.spiegel.de/politik/deutschland/die-gruenen-und-die-tabaksteuer-auf-einmal-faellt-der-name-des-lobbyisten-daniel-holefleisch-a-9898234e-e8ff-4080-81c3-74448d594f9d#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/9e57adfa-b996-44ca-af7d-a79298f3b70d_w520_r2.08_fpx56.01_fpy50.jpg",
-    "date": 1792057140000
+    "date": 1792057140000,
+    "titleSl": "Zeleni in davek na tobak: nenadoma se pojavi ime lobista Daniela Holefleischa"
    },
    {
     "title": "USA, Missbrauch im Turnen: 90 Jahre Haft – US-Trainer filmte heimlich Minderjährige",
@@ -398,20 +406,15 @@
     "title": "Katie Zacharia: Medienbericht verstärkt Zweifel an Lebenslauf von neuer Trump-Sprecherin",
     "link": "https://www.spiegel.de/ausland/katie-zacharia-medienbericht-verstaerkt-zweifel-an-lebenslauf-von-neuer-trump-sprecherin-a-d32b8484-1626-4b98-87af-43d476711974#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/4ff43a93-4260-4da9-ac9f-ab2c219c309d_w520_r2.08_fpx60_fpy50.jpg",
-    "date": 1792056000000
+    "date": 1792056000000,
+    "titleSl": "Katie Zacharia: Poročilo medijev krepi dvome o življenjepisu nove Trumpove tiskovne predstavnice"
    },
    {
     "title": "Adis Ahmetović: Bundestag hebt Immunität des SPD-Abgeordneten auf",
     "link": "https://www.spiegel.de/politik/spd-abgeordneter-adis-ahmetovic-bundestag-hebt-immunitaet-auf-a-b61b6c7a-c7f2-433a-9dc4-a116f74028d7#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/0e1e9ed0-7d9b-4dfd-a41b-70f2cadf8fb1_w520_r2.08_fpx58_fpy45.jpg",
-    "date": 1792054740000
-   },
-   {
-    "title": "Ukraine-Krieg: Elon Musk fordert Rücktritt von Wolodymyr Selenskyj",
-    "link": "https://www.spiegel.de/ausland/ukraine-krieg-elon-musk-fordert-ruecktritt-von-wolodymyr-selenskyj-a-4eacd072-6b21-488e-bd88-49b0c5bb657d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/3082b35a-13d5-4d22-a34d-0fcb3577d7dc_w520_r2.08_fpx46_fpy49.jpg",
     "date": 1792054740000,
-    "titleSl": "Ukrajinska vojna: Elon Musk zahteva odstop Volodimirja Zelenskega"
+    "titleSl": "Adis Ahmetović: Bundestag odvzel imuniteto poslancu SPD"
    }
   ],
   "bild": [
@@ -433,7 +436,8 @@
     "title": "Nie zuvor gesehene Videos vom Super Bowl - Neue Doku über Michael Jackson angekündigt",
     "link": "https://www.bild.de/sport/mehr-sport/es-geht-um-den-super-bowl-neue-doku-ueber-michael-jackson-angekuendigt-6ad07d388a441c6635d993f8",
     "image": "https://images.bild.de/6ad07d388a441c6635d993f8/e37ac1ccfb803ff0a127c23f7fc6d49b,74ac9e15?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Še nikoli videni videoposnetki s Super Bowla - Napovedan nov dokumentarec o Michaelu Jacksonu"
    },
    {
     "title": "Formel-1-Star fleht Fans an - „Hört auf damit!“",
@@ -446,13 +450,15 @@
     "title": "Keiner erkennt ihn! - Sänger schmuggelt sich zu eigenem Konzert",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/taxi-panne-vor-dem-konzert-rap-star-muss-sich-durch-die-fans-schmuggeln-6acde7bc5c63f3f92ddddb72",
     "image": "https://images.bild.de/6acde7bc5c63f3f92ddddb72/6fa7d277fd2da27739f40084b797a401,bd88ca6f?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Nihče ga ne prepozna! - Pevec se pretihotapi na svoj koncert"
    },
    {
     "title": "Steckbrief - So tickt Realitystar Gabriela Alves",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/gabriela-alves-im-steckbrief-in-diesen-reality-shows-war-sie-dabei-6a46606e396d6d1a967b8137",
     "image": "https://images.bild.de/6a46606e396d6d1a967b8137/25216591252cfd3698e0ddfce2012a31,bccbd7b7?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Profil - tako se ujema resničnostna zvezdnica Gabriela Alves"
    }
   ],
   "krone": [
@@ -460,37 +466,43 @@
     "title": "Kamera am Klo - Mädchen gefilmt: 90 Jahre Haft für Turn-Trainer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PQm9hdENXY3ZfU1NLZTBpNkFpNGxTT0FiMDVOZ3d6MFdCZUdxWFQtR0NxYjhvMXVQdXdZZF9NRWkwdw?oc=5",
     "image": "",
-    "date": 1792058760000
+    "date": 1792058760000,
+    "titleSl": "Kamera na stranišču - dekle posnela: trenerju gimnastike 90 let zapora"
    },
    {
     "title": "Sexpuppen-Skandal - Polizisten droht dienstrechtliches Nachspiel",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CUnBfWkNQc1MxTG5MczdRclBPOEZZa0lDRjR0YzBnQ2dDbFBKWWp3Ul9lbWlJSWNaUWJEVDVVNkJHdw?oc=5",
     "image": "",
-    "date": 1792058700000
+    "date": 1792058700000,
+    "titleSl": "Škandal s seks lutkami - policistom grozijo posledice"
    },
    {
     "title": "Ski-Ass im Talk - Matt: „Schöne Sache, ich bin sehr dankbar dafür“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TM2pVZS1sb0ZhSEF3Tkk5YVdlZUF1VGh3TzdxcXI3dHdLZmFOeVRFYlhfNllqb29TbXJiT3FzRjJHUQ?oc=5",
     "image": "",
-    "date": 1792058696000
+    "date": 1792058696000,
+    "titleSl": "Smučarski as v pogovoru - Matt: \"Lepa stvar, zelo sem hvaležen zanjo\""
    },
    {
     "title": "8,5 Tonnen Sprengstoff - Trump erwägt Abwurf der „Mutter aller Bomben“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6dGxTRWRPSlp2Nm9GVHA1V3NyR1dNdVJicFNscU1GN0g5YVhzS1cxalVDdGFIa2gwM2d4TjYtZDdIdw?oc=5",
     "image": "",
-    "date": 1792058580000
+    "date": 1792058580000,
+    "titleSl": "8,5 tone eksploziva - Trump razmišlja o odvrženju \"matere vseh bomb\""
    },
    {
     "title": "Braune Wassermassen - El Niño: Iguazú-Fälle nach Rekordregen gesperrt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ydFlfZEFTMlZ6UjJFOHo3dVVXX1hWU1VFRzdVbGowMlJ5cjZLSUdTNmtDaGNZbVpLTXBwdGJJaGtwZw?oc=5",
     "image": "",
-    "date": 1792058520000
+    "date": 1792058520000,
+    "titleSl": "Rjave vodne mase - El Niño: Slapovi Iguazú zaprti po rekordnem dežju"
    },
    {
     "title": "Suche nach Pächtern - Wie es im Wolfsberger „Café-Chaos“ weitergeht",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rcVNWa0FnWncweWkwWDhTREJxQXJSTWR0MzNPMldoOVlVQlFWR3JEZWlpbjVWSzBWOXlFQ1h3dTl4QQ?oc=5",
     "image": "",
-    "date": 1792058400000
+    "date": 1792058400000,
+    "titleSl": "Iskanje najemnikov - Kako se \"kaos v kavarni\" v Wolfsbergu nadaljuje"
    }
   ],
   "rainews": [
@@ -512,7 +524,8 @@
     "title": "Six Kings Slam a Riad slitta a dicembre: la crisi nel Golfo cambia i calendari",
     "link": "https://www.rainews.it/articoli/2026/10/six-king-slam-a-riad-slitta-a-dicembre-la-crisi-nel-golfo-cambia-i-calendari-10383d7c-4a1b-433d-9e18-9f842529569b.html",
     "image": "https://www.rainews.it/dl/img/2026/10/15/1792035973323_kings.jpg",
-    "date": 1792057920000
+    "date": 1792057920000,
+    "titleSl": "Six Kings Slam v Riadu prestavljen na december: kriza v Zalivu spreminja koledarje"
    },
    {
     "title": "Inside 24 - Puntata del 15/10/2026",
@@ -548,13 +561,15 @@
     "title": "« L’Envol des oiseaux » ou la saga des animaux à plumes",
     "link": "https://www.lemonde.fr/sciences/article/2026/10/15/l-envol-des-oiseaux-ou-la-saga-des-animaux-a-plumes_6794395_1650684.html",
     "image": "https://img.lemde.fr/2026/10/13/160/0/1920/960/644/322/60/0/fc573bf_upload-1-3dm88l4bg9o2-generated-1791903282200.jpg",
-    "date": 1792056611000
+    "date": 1792056611000,
+    "titleSl": "\"Ptičji let\" ali saga o pernatih živalih"
    },
    {
     "title": "Malgré les scandales, le président de la FIFA Gianni Infantino joue son va-tout et mise sur le clientélisme",
     "link": "https://www.lemonde.fr/sport/article/2026/10/15/malgre-les-scandales-le-president-de-la-fifa-gianni-infantino-joue-son-va-tout-et-mise-sur-le-clientelisme_6794393_3242.html",
     "image": "https://img.lemde.fr/2026/10/08/234/0/4760/2380/644/322/60/0/325f4f5_ftp-1-q1ohakf1t02r-2026-10-08t131758z-1688721504-rc2wrna9ya2q-rtrmadp-3-soccer-caf.JPG",
-    "date": 1792056473000
+    "date": 1792056473000,
+    "titleSl": "Kljub škandalom se predsednik FIFA Gianni Infantino zelo potrudi in se zanaša na prijateljstvo"
    },
    {
     "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky demande aux Etats-Unis de ne pas se tenir au côté de « l’agresseur »",
@@ -583,20 +598,22 @@
     "title": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
     "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
     "image": "https://imagenes.elpais.com/resizer/v2/36RJDMW76ZE4LEFWGK2K47DSJY.jpg?auth=c9f3aaaba0599bda714e9a87ce6addb21264827d12356486d3b15720891e5131",
-    "date": 1792058824000
+    "date": 1792058824000,
+    "titleSl": "Body opozarja na dvig pokojnin po volitvah"
    },
    {
     "title": "La segunda jornada del Foro CREO, en directo | Juan Bravo (PP) responde a Bustinduy: “Hace falta productividad para que suban los salarios”",
     "link": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/segunda-jornada-del-foro-creo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/QI32Y2OPOBBKJCAYWLGWIPMFBA.JPG?auth=4a3dc55b9d9b3828d58bc30f090603de7b214b8415498acf20a94a4eca720160",
-    "date": 1792058744000,
+    "date": 1792058824000,
     "titleSl": "La segunda jornada del Foro CREO, en directo | Juan Bravo (PP) responde a Bustinduy: \"Hace falta productividad para que suban los salarios\""
    },
    {
     "title": "Enrique de Inglaterra y Meghan Markle protagonizan juntos su primer acto público en seis años en el Reino Unido",
     "link": "https://elpais.com/gente/2026-10-15/enrique-de-inglaterra-y-meghan-markle-protagonizan-juntos-su-primer-acto-publico-en-seis-anos-en-el-reino-unido.html",
     "image": "https://imagenes.elpais.com/resizer/v2/PDN3UUZBVNLHFBVFUIM2WV7M2E.jpg?auth=93c7e92c210361e12709ad559d4613a2024729a46e51b71771183a6244edf43b",
-    "date": 1792058528000
+    "date": 1792058528000,
+    "titleSl": "Harry of England in Meghan Markle igrata skupaj na svojem prvem javnem dogodku po šestih letih v Združenem kraljestvu"
    },
    {
     "title": "Almeida rebajará el IBI al mínimo permitido",
@@ -616,7 +633,8 @@
     "title": "La Fiscalía de Menores acusa de delitos a dos de las menores investigadas por acosar a Sandra Peña",
     "link": "https://elpais.com/sociedad/2026-10-15/la-fiscalia-de-menores-acusa-de-delitos-a-dos-de-las-menores-investigadas-por-acosar-a-sandra-pena.html",
     "image": "https://imagenes.elpais.com/resizer/v2/YLUDZTYCJZJVHFXRC3D56C37IM.jpg?auth=7d7e3c8300d44c0a41e11302ac7def8cd0b11cb40c6ee4d82131a3f73091fa10",
-    "date": 1792057197000
+    "date": 1792057197000,
+    "titleSl": "Tožilstvo za mladoletnike dva od mladoletnikov, ki ju preiskujejo zaradi nadlegovanja Sandre Peña, obtožuje kaznivih dejanj"
    }
   ]
  },
