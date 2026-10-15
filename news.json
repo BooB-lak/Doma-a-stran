@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T19:42:24.841Z",
+ "generatedAt": "2026-10-15T19:44:23.890Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "VW bo vpoklical vozila ID zaradi napake pri baterijah",
+    "link": "https://www.zurnal24.si/avto/vw-bo-vpoklical-vozila-id-zaradi-napake-pri-baterijah-466797",
+    "image": "https://www.zurnal24.si/media/img/19/f4/c524767a86b4ec93a03f.jpeg",
+    "date": 1792092960000
+   },
+   {
     "title": "Tea Košir o tem, kaj jo je pripeljalo do odločitve",
     "link": "https://www.zurnal24.si/slovenija/tea-kosir-o-tem-kaj-jo-je-pripeljalo-do-odlocitve-466796",
     "image": "https://www.zurnal24.si/media/img/cb/c2/b4903174ceec750afb20.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/jorgic-v-osmini-finala-konec-za-druge-slovence-466793",
     "image": "https://www.zurnal24.si/media/img/c1/0c/f896b466426a871f667b.jpeg",
     "date": 1792086960000
-   },
-   {
-    "title": "Šok na letališču: Vajeni so marsičesa, še nikoli pa niso naleteli na to",
-    "link": "https://www.zurnal24.si/svet/sok-na-letaliscu-vajeni-so-marsicesa-se-nikoli-pa-niso-naleteli-na-to-466792",
-    "image": "https://www.zurnal24.si/media/img/82/ba/d6abd6f4aa52ef662b23.jpeg",
-    "date": 1792085220000
    }
   ],
   "reuters": [
@@ -378,13 +378,15 @@
     "title": "Neonazi-Szene hat Zulauf durch Social Media - Podcast Firewall",
     "link": "https://www.spiegel.de/politik/deutschland/neonazi-szene-hat-zulauf-durch-social-media-podcast-firewall-a-72bea215-bb37-4bd5-82f3-4434748b3022#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/7689a983-6fe5-4baf-8bd4-8f85cbf35226_w520_r2.08_fpx49_fpy52.jpg",
-    "date": 1792092420000
+    "date": 1792092420000,
+    "titleSl": "Neonacistična scena pridobiva na priljubljenosti prek družbenih medijev – Podcast Firewall"
    },
    {
     "title": "SPD: Doris Schröder-Köpf hört auf",
     "link": "https://www.spiegel.de/politik/spd-doris-schroeder-koepf-hoert-auf-a-cd041199-57c5-42b9-bcee-8cfa8a63b6a5#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/4749ed33-30cd-4206-9ded-35a9f79b47ca_w520_r2.08_fpx39.32_fpy54.99.jpg",
-    "date": 1792088640000
+    "date": 1792088640000,
+    "titleSl": "SPD: Doris Schröder-Köpf odstopila"
    },
    {
     "title": "EZB erlaubt UniCredit offenbar Übernahme von Commerzbank",
@@ -420,25 +422,36 @@
     "title": "Raus aus dem JU-Vorstand - Abgesägt! Schlammschlacht um CDU-Influencerin Nathusius",
     "link": "https://www.bild.de/politik/inland/clara-von-nathusius-spaltet-junge-union-schlammschlacht-um-influencerin-6ad1020f51e5094f7a56dbbe",
     "image": "https://images.bild.de/6ad1020f51e5094f7a56dbbe/6e9e01b2c84aa923a00856e6038369e2,65bd1a65?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Iz JU plošče - odžagano! Boj v blatu zaradi vplivneža CDU Nathusiusa"
+   },
+   {
+    "title": "Japaner vor Startelf-Debüt - Uno ist Blessins „letzte Karte“",
+    "link": "https://www.bild.de/sport/fussball/japaner-vor-startelf-debuet-gladbachs-uno-ist-blessins-letzte-karte-6ad123ad51e5094f7a56de74",
+    "image": "https://images.bild.de/6ad123ad51e5094f7a56de74/9f7362d0fb057ea86aca236ebc22bd10,adeb44d5?w=1280",
+    "date": 0,
+    "titleSl": "Japonci pred začetkom enajsterice - Uno je Blessinova \"zadnja karta\""
    },
    {
     "title": "Leverkusen siegt nach Stürmer-Drama - Erst Schock, dann Schick!",
     "link": "https://www.bild.de/sport/fussball/europa-league-bayer-leverkusen-siegt-4-0-in-posen-dank-doppelpack-von-patrik-schick-6ad0fcb663657a2e6853cae0",
     "image": "https://images.bild.de/6ad0fcb663657a2e6853cae0/cc0aac65d3ccf84a3937c719e99a1e34,13b9b7?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Leverkusen zmagal po udarni drami - najprej šok, nato šik!"
    },
    {
     "title": "1860 gegen Bayern-Amateure - Löwen-Präsident: „Für mich ist das kein echtes Derby!“",
     "link": "https://www.bild.de/sport/fussball/1860-muenchen-mang-nennt-partie-gegen-bayern-ii-ein-kleines-derby-6acfc207c1f8041e55d62f3a",
     "image": "https://images.bild.de/6acfc207c1f8041e55d62f3a/34e91fa9e47e28cdd85b80aa54628c4d-landscape,6e0b1e46?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "1860 proti amaterjem Bayerna - predsednik Lions: \"Zame to ni pravi derbi!\""
    },
    {
     "title": "Zweifel an Urbig ++ Kritik an Ausbildung - Kahn und Lehmann diskutieren über deutsche Torhüter",
     "link": "https://www.bild.de/sport/fussball/oliver-kahn-und-jens-lehmann-diskutieren-ueber-deutsche-torhueter-6ad104b4685ee9448efa1c09",
     "image": "https://images.bild.de/6ad104b4685ee9448efa1c09/293706dc888a71043295e16b416f562b,2443b64a?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Dvomi o Urbigu ++ Kritika treninga - Kahn in Lehmann razpravljata o nemških vratarjih"
    },
    {
     "title": "Schon wieder in Topform - Lindsey Vonn verzückt ihre Fans",
@@ -446,20 +459,22 @@
     "image": "https://images.bild.de/6ad11ab151e5094f7a56de28/c238c0c0458e265d4ed99833a5788b65,f26a2139?w=1280",
     "date": 0,
     "titleSl": "Schon wieder v Topformu - Lindsey Vonn verzückt ihre Ventilatorji"
-   },
-   {
-    "title": "Autorin sagt Auftritt ab - Elke Heidenreich muss nach Unfall operiert werden",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/elke-heidenreich-muss-nach-unfall-operiert-werden-6ad1149d51e5094f7a56ddcd",
-    "image": "https://images.bild.de/6ad1149d51e5094f7a56ddcd/660c83c3b9e7bb6f438238ba1d1ef57b,758f2377?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
+    "title": "Interview im Video - Schmid: „Ich bin kein Ballon-d‘or-Verteidiger“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vbDRMRmp2bEVXVDdSRlhQLUxWd1NPM09TeEpYQURXbUxQYk5abUxPQ1J3RloxaGFOUHJPVk5maGZRdw?oc=5",
+    "image": "",
+    "date": 1792093320000,
+    "titleSl": "Intervju v videu - Schmid: \"Nisem branilec zlate žoge\""
+   },
+   {
     "title": "ÖSV-Adler geehrt - Embacher ist Österreichs Aufsteiger des Jahres",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0aXVYclRIWHAyd0ZOdHBzczdjTEhIWXkyWDNxb1pVbnlRR2FGbExhdmVFSS1ZSGhVWXIwWjAzbUFyQQ?oc=5",
     "image": "",
-    "date": 1792093080000
+    "date": 1792093080000,
+    "titleSl": "Orel ÖSV nagrajen - Embacher je avstrijski novinec leta"
    },
    {
     "title": "Pilnacek-Affäre - Klage gegen Pilz: Es geht um bis zu 4,4 Millionen",
@@ -472,39 +487,45 @@
     "title": "Benko: Hausarrest in Wohnung ++ neue E-Card-Gebühr",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00QkhCaHByZDE4U1ZGaXptUlNIVUFwT3RZUGhVdm0zbTJyR3U5VmpmdHZFYV9WaHlTTU56eGJOdUF3UQ?oc=5",
     "image": "",
-    "date": 1792092549000
+    "date": 1792092549000,
+    "titleSl": "Benko: Hišni pripor v stanovanju ++ nova pristojbina za e-karto"
    },
    {
     "title": "Spender jetzt bekannt - So zahlen auch Sie indirekt für Trumps Ballsaal",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIaTh1MEVRNTJpVkRzNG1jNmZmejJINmhKUGNQbzhLNk5fSUpndW51NzhuMnVIbTdDTXN0SkczNU5yZw?oc=5",
     "image": "",
-    "date": 1792092480000
+    "date": 1792092480000,
+    "titleSl": "Donatorji zdaj znani - Tako posredno plačate tudi Trumpovo plesno dvorano"
    },
    {
     "title": "Stürmer vor Liga-Debüt - Wie Teflon! An KAC bleibt nichts haften",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9McjFnS0dPUmg3WXI3aE56RjR0ODlpdTNGcm9ITFpPR1h6RWl1U2kwbEJLMGZYODFIUW40bjhIeTVMUQ?oc=5",
     "image": "",
-    "date": 1792090620000
-   },
-   {
-    "title": "„Niki“ für Paraski-Überflieger Johannes Aigner",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lQ3lHR2NWNEc2aklCOW16OU9iS1o1WWtfWGgzNWM3N2ExaTJNMjZNemZ4bHhySzBIU0ZsTktmNU44QQ?oc=5",
-    "image": "",
-    "date": 1792090500000
+    "date": 1792090620000,
+    "titleSl": "Napadalec pred ligaškim prvencem - Kot teflon! Na KAC se nič ne prime"
    }
   ],
   "rainews": [
    {
+    "title": "Caso Garlasco, Andrea Sempio: \"Ho paura di finire in prigione\"",
+    "link": "https://www.rainews.it/video/2026/10/caso-garlasco-andrea-sempio-al-tg1-ho-paura-di-finire-in-prigione-5d01a18b-19fe-4a77-ac7b-777f5aa461be.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/15/1792093105305_vlcsnaphms.png",
+    "date": 1792092840000,
+    "titleSl": "Primer Garlasco, Andrea Sempio: \"Bojim se, da bom končal v zaporu\""
+   },
+   {
     "title": "TG2 Post del 15/10/2026",
     "link": "https://www.rainews.it/rubriche/tg2post/video/2026/10/TG2-Post-del-15102026-36ce8c24-8857-407d-9a6b-af78571f31c8.html",
     "image": "https://www.rainews.it/dl/img/2025/11/05/1762341808483_Tg2_Post_2048x1152.jpg",
-    "date": 1792092351000
+    "date": 1792092351000,
+    "titleSl": "TG2 Objava 15/10/2026"
    },
    {
     "title": "Marito e moglie trovati morti in casa, i corpi sono stati decapitati",
     "link": "https://www.rainews.it/articoli/2026/10/marito-e-moglie-trovati-morti-in-casa-i-corpi-sono-stati-decapitati--150871f6-4eef-48bc-88ab-caa112992809.html",
     "image": "https://www.rainews.it/dl/img/2026/04/22/1776839380194_dbfcbfdedd.jpg",
-    "date": 1792091536000
+    "date": 1792091536000,
+    "titleSl": "Mož in žena sta bila najdena mrtva doma, trupli sta bili obglavljeni"
    },
    {
     "title": "Netanyahu ammette: “007 egiziano in Israele prima del 7 ottobre\"",
@@ -517,20 +538,15 @@
     "title": "Studentessa 21enne in Erasmus denuncia violenza sessuale a Milano",
     "link": "https://www.rainews.it/articoli/2026/10/aggressione-sessuale-a-milano-studentessa-tedesca-in-erasmus-soccorsa-dai-passanti-c7fb0137-62e1-4987-b24d-a1b6ea0ff1cd.html",
     "image": "https://www.rainews.it/dl/img/2026/10/15/1792089757188_carabinierinotte.jpg",
-    "date": 1792089060000
+    "date": 1792089060000,
+    "titleSl": "21-letna študentka programa Erasmus prijavi spolno nasilje v Milanu"
    },
    {
     "title": "La spesa al mercato e le rinunce di una famiglia con un solo stipendio",
     "link": "https://www.rainews.it/video/2026/10/la-spesa-al-mercato-e-le-rinunce-di-una-famiglia-con-un-solo-stipendio-26f78928-fe20-4d4a-8fec-b90daec01cb0.html",
     "image": "https://www.rainews.it/dl/img/2026/10/15/1792088655840_Cattura.PNG",
-    "date": 1792088460000
-   },
-   {
-    "title": "Sera 24 - Puntata del 15/10/2026",
-    "link": "https://www.rainews.it/rubriche/sera24/video/2026/10/Sera-24---Puntata-del-15102026-7ba78ba0-6fe7-4ed6-859d-616dd352bf20.html",
-    "image": "https://www.rainews.it/dl/img/2025/09/30/1759222983291_2048x1152.jpg",
-    "date": 1792088314000,
-    "titleSl": "Večer 24 - Epizoda 15.10.2026"
+    "date": 1792088460000,
+    "titleSl": "Nakupovanje na tržnici in odrekanja družine z eno samo plačo"
    }
   ],
   "lemonde": [
@@ -538,13 +554,15 @@
     "title": "EN DIRECT, guerre en Ukraine : le ministre de la défense britannique plaide la cause de Kiev auprès de Washington",
     "link": "https://www.lemonde.fr/international/live/2026/10/15/en-direct-guerre-en-ukraine-le-ministre-de-la-defense-britannique-plaide-la-cause-de-kiev-aupres-de-washington_6791198_3210.html",
     "image": "https://img.lemde.fr/2026/10/15/282/0/5310/2655/644/322/60/0/638301d_ftp-1-jlebdohiey8x-cc73a3f0b9ea4c34b782ad009d3cda37-0-f1bf8af6a94342c0bcd8cc56cce1db04.jpg",
-    "date": 1792090866000
+    "date": 1792090866000,
+    "titleSl": "V ŽIVO, vojna v Ukrajini: Britanski obrambni minister se zagovarja za Kijev pri Washingtonu"
    },
    {
     "title": "Gérald Darmanin estime qu’« aucun magistrat ne doit être menacé ou insulté », en réaction aux attaques contre un juge de Bobigny",
     "link": "https://www.lemonde.fr/societe/article/2026/10/15/gerald-darmanin-estime-qu-aucun-magistrat-ne-doit-etre-menace-ou-insulte-en-reaction-aux-attaques-contre-un-juge-de-bobigny_6794794_3224.html",
     "image": "https://img.lemde.fr/2026/07/28/0/0/3926/1963/644/322/60/0/0d1888a_upload-1-wn5stcdidakf-04bi-nat-y5a6425-copie.jpg",
-    "date": 1792090549000
+    "date": 1792090549000,
+    "titleSl": "Gérald Darmanin meni, da \"nobenemu sodniku ne bi smeli groziti ali ga žaliti\", kot odziv na napade na sodnika Bobignyja"
    },
    {
     "title": "La France et l’Allemagne s’accordent sur l’avenir d’une industrie automobile « made in Europe »",
@@ -580,25 +598,29 @@
     "title": "La dura negociación sobre el presupuesto de la UE amenaza el acuerdo antes del superaño electoral en Europa",
     "link": "https://elpais.com/internacional/2026-10-15/la-dura-negociacion-sobre-el-presupuesto-de-la-ue-amenaza-el-acuerdo-antes-del-superano-electoral-en-europa.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EB4XAIBU4NMZZJDC5GQMX7QI74.jpg?auth=95133c4208bdd0227127e0f0c3f2c79446c3650c7b7b2804b6347ee627af21da",
-    "date": 1792092411000
+    "date": 1792092411000,
+    "titleSl": "Trda pogajanja o proračunu EU ogrožajo dogovor pred super volilnim letom v Evropi"
    },
    {
     "title": "Lotería Nacional: comprobar sorteo del jueves 15 de octubre",
     "link": "https://elpais.com/sorteos/2026-10-15/loteria-nacional-sorteo-del-jueves-15-de-octubre.html",
     "image": "https://imagenes.elpais.com/resizer/v2/USLQL5P2JNHJVO4GLW5R36VGOQ.png?auth=d5c791e07900ca2df70d33bf773dc1d892a585a680eff737f346a97eca7f54cd",
-    "date": 1792091829000
+    "date": 1792091829000,
+    "titleSl": "Državna loterija: žrebanje čekov za četrtek, 15. oktober"
    },
    {
     "title": "Un misil de Gudelj rescata un punto para el Getafe en Craiova",
     "link": "https://elpais.com/deportes/futbol/2026-10-15/un-misil-de-gudelj-rescata-un-punto-para-el-getafe-en-craiova.html",
     "image": "https://imagenes.elpais.com/resizer/v2/YQUKGS25ERPB5FBIKZ5XTD25DQ.jpg?auth=dc3e6c043e7d82f71f5881e943f2caefefd3278279707b37743c2a5a0032a4fb",
-    "date": 1792091124000
+    "date": 1792091124000,
+    "titleSl": "Raketa Gudelj rešila točko Getafeju v Craiovi"
    },
    {
     "title": "Milei retrocede con la venta libre de tierras a extranjeros y evita un revés en el Congreso",
     "link": "https://elpais.com/argentina/2026-10-15/milei-retrocede-con-la-venta-libre-de-tierras-a-extranjeros-y-evita-un-reves-en-el-congreso.html",
     "image": "https://imagenes.elpais.com/resizer/v2/IAKARSWBCZFM5AZ455V67B5NZM.jpg?auth=031a19abba0be29a708c6f18e90f3e03138164bdc8235ecb58ad1462b93ab28c",
-    "date": 1792090285000
+    "date": 1792090285000,
+    "titleSl": "Milei odstopi od proste prodaje zemlje tujcem in se izogne ​​nazadovanju v kongresu"
    },
    {
     "title": "Última hora de la actualidad política, en directo | Colau choca con Podemos y rechaza pactos territoriales en lugar de una sola candidatura para el 29-N",
