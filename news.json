@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T10:32:28.047Z",
+ "generatedAt": "2026-10-15T10:34:22.962Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Dozens of children killed after roof collapses in Pakistani school",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792059585.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792059703000,
+    "titleSl": "Na desetine otrok je umrlo, ko se je v pakistanski šoli zrušila streha"
+   },
+   {
     "title": "Russia says Ukraine resumes attacks on oil refineries",
     "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-20T042816Z_888155140_RC2QMNA71VDJ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1792058411.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad06aa3b2d76-1792043683.jpg?resize=1920%2C1440",
     "date": 1792054982000,
     "titleSl": "Ironija joka OpenAI zaradi vohunjenja"
-   },
-   {
-    "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
-    "link": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acfe9ccb69a-1792010700.jpg?resize=1920%2C1440",
-    "date": 1792053898000,
-    "titleSl": "Irak devalvira dinar, da bi ublažil denarni krč, zaradi česar so trgovci v negotovosti"
    }
   ],
   "guardian": [
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Hilary Swank wird offenbar mit 52 wieder Mutter",
+    "link": "https://www.spiegel.de/panorama/leute/hilary-swank-wird-offenbar-mit-52-wieder-mutter-a-f02de9d4-dd7b-4941-8c9b-7318c22c020d#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/56225b57-0ce7-4d4e-af2a-46b4f1933726_w520_r2.08_fpx38.65_fpy49.99.jpg",
+    "date": 1792060140000,
+    "titleSl": "Hilary Swank bo očitno pri 52 letih znova postala mati"
+   },
+   {
     "title": "Hamburg: Gefängnis für zwei iranische Agenten wegen Anschlagspläne auf Josef Schuster und Volker Beck",
     "link": "https://www.spiegel.de/panorama/justiz/hamburg-gefaengnis-fuer-zwei-iranische-agenten-wegen-anschlagsplaene-auf-josef-schuster-und-volker-beck-a-2d68e0b5-6b64-494c-ab77-a5df55710a17#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/76e15a04-cd10-45a7-90cf-1dcbacf73c45_w520_r2.08_fpx29.99_fpy44.98.jpg",
@@ -408,29 +415,36 @@
     "image": "https://cdn.prod.www.spiegel.de/images/a0a3bf3d-cbfc-45f6-8bc3-07e8d0dead28_w520_r2.08_fpx40_fpy50.jpg",
     "date": 1792056660000,
     "titleSl": "Pariz: 420 Kreuzungen werden umgebaut – 140 Kilometer weitere Radwege"
-   },
-   {
-    "title": "Katie Zacharia: Medienbericht verstärkt Zweifel an Lebenslauf von neuer Trump-Sprecherin",
-    "link": "https://www.spiegel.de/ausland/katie-zacharia-medienbericht-verstaerkt-zweifel-an-lebenslauf-von-neuer-trump-sprecherin-a-d32b8484-1626-4b98-87af-43d476711974#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/4ff43a93-4260-4da9-ac9f-ab2c219c309d_w520_r2.08_fpx60_fpy50.jpg",
-    "date": 1792056000000,
-    "titleSl": "Katie Zacharia: Poročilo medijev krepi dvome o življenjepisu nove Trumpove tiskovne predstavnice"
    }
   ],
   "bild": [
+   {
+    "title": "Einmalig in der Bundesliga - Hier trainiert Union Berlin auf (s)einem Parkhaus",
+    "link": "https://www.bild.de/sport/fussball/einmalig-in-der-bundesliga-hier-trainiert-union-berlin-auf-s-einem-parkhaus-6ad0a8f3199dc15f1abd4b9a",
+    "image": "https://images.bild.de/6ad0a8f3199dc15f1abd4b9a/a74c669e0c1ff9493c441f5be7795f5d,f7583aad?w=1280",
+    "date": 0,
+    "titleSl": "Edinstven v Bundesligi - Union Berlin trenira tukaj v parkirni garaži"
+   },
+   {
+    "title": "Herzinfarkt in der Bingo-Halle - Box-Weltmeister (59) stirbt vor den Augen seiner Tochter",
+    "link": "https://www.bild.de/sport/mehr-sport/boxen-weltmeister-castro-stirbt-nach-herzinfarkt-in-bingo-halle-6ad093606700a83314268438",
+    "image": "https://images.bild.de/6ad093606700a83314268438/621d3e95dc4407b73ec0036ba1527409,ddc10acd?w=1280",
+    "date": 0,
+    "titleSl": "Srčni infarkt v bingo dvorani - boksarski svetovni prvak (59) umrl pred hčerko"
+   },
+   {
+    "title": "Rätsel um Reit-Sponsorin - Geld da! Aber Prinzessin bleibt verschwunden",
+    "link": "https://www.bild.de/sport/mehr-sport/raetsel-um-reit-sponsorin-geld-da-aber-prinzessin-bleibt-verschwunden-6ad09af202e608379430784e",
+    "image": "https://images.bild.de/6ad09af202e608379430784e/ee06e1448bb7ef58e8587cde8b4b3892,f072930d?w=1280",
+    "date": 0,
+    "titleSl": "Skrivnost o sponzorju jahanja - denar tam! Toda princesa je še vedno pogrešana"
+   },
    {
     "title": "Zoo Berlin - Elefantenkind muss zum Stoßzahnarzt",
     "link": "https://www.bild.de/regional/berlin/zoo-berlin-elefantenkind-muss-zum-stosszahnarzt-6ad09bba02e6083794307858",
     "image": "https://images.bild.de/6ad09bba02e6083794307858/04f2801fee5d1a095fc542dc270b2fd9,ea8f08b2?w=1280",
     "date": 0,
     "titleSl": "Berlinski živalski vrt - Slonji otrok mora k zdravniku za okle"
-   },
-   {
-    "title": "Einmalig in der Bundesliga - Hier trainiert Union auf (s)einem Parkhaus",
-    "link": "https://www.bild.de/sport/fussball/einmalig-in-der-bundesliga-hier-trainiert-union-berlin-auf-s-einem-parkhaus-6ad0a8f3199dc15f1abd4b9a",
-    "image": "https://images.bild.de/6ad0a8f3199dc15f1abd4b9a/a74c669e0c1ff9493c441f5be7795f5d,f7583aad?w=1280",
-    "date": 0,
-    "titleSl": "Edinstveno v Bundesligi - Union trenira tukaj v parkirni garaži"
    },
    {
     "title": "Das können Kunden jetzt tun - Galeria-Gutscheine plötzlich wertlos",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6acf94f685ec8093bcfbe31c/8f69e9c26babf6e4493b62247e074590,81d07e48?w=1280",
     "date": 0,
     "titleSl": "Insider je posnel vse – kaj se je dogajalo v zakulisju Bayerna"
-   },
-   {
-    "title": "Sie wollten Volker Beck umbringen - Iran-Spione wegen Mordplänen zu 8,5 Jahren verurteilt",
-    "link": "https://www.bild.de/politik/sie-wollten-volker-beck-umbringen-mehr-als-8-jahre-haft-im-prozess-um-iranische-anschlagsplaene-6ad0a462685ee9448efa1198",
-    "image": "https://images.bild.de/6ad0a462685ee9448efa1198/2f6c3ba7abecd6961c56555e75054900,78e0cdb4?w=1280",
-    "date": 0,
-    "titleSl": "Hoteli so ubiti Volkerja Becka - iranski vohuni obsojeni na 8,5 let zapora zaradi načrtov umora"
-   },
-   {
-    "title": "Zwei Kracher vor der Brust - Warum Leipzig keine Angst vor Bayern hat",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-zwei-kracher-vor-der-brust-warum-rb-leipzig-keine-angst-vor-dem-fc-bayern-hat-6ad0980902e608379430780e",
-    "image": "https://images.bild.de/6ad0980902e608379430780e/62bf609bff64411e20032a57d79e5457,d15bc5ed?w=1280",
-    "date": 0,
-    "titleSl": "Dva zadetka v prsi - Zakaj se Leipzig ne boji Bayerna"
    }
   ],
   "krone": [
@@ -491,18 +491,18 @@
     "titleSl": "Radovedni rokoborski dvojec - Bambikiller: Zdaj gre v ring celo njun sin"
    },
    {
+    "title": "Gewinnspiel - Interwetten verlost exklusive Ski-Alpin Preise",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhVDhaQXctRkl6OWRuakZOcTFsSGlGeWZ2TzJlLTdQd1k1R2dFZ2dzUkJ1cjFvSXktekYtNzNTdWlUQQ?oc=5",
+    "image": "",
+    "date": 1792060200000,
+    "titleSl": "Tekmovanje - Interwetten podeljuje ekskluzivne nagrade za alpsko smučanje"
+   },
+   {
     "title": "„Das kann nicht sein!“ - Steiermark ist bei Kinderbetreuung Schlusslicht",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vMFJHQW5TOE4tZE9zcFBJb2YwZ0tfTWFIb2xtb2x5cGxyS0dEenZySlhIdEktMnNacWwyakl6VHdOZw?oc=5",
     "image": "",
     "date": 1792059960000,
     "titleSl": "\"To ne more biti!\" - Štajerska je pri varstvu otrok na dnu"
-   },
-   {
-    "title": "Erpessungsversuch - Gift-Krimi: HiPP-Verdächtiger aus U-Haft entlassen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4cFNaYVNWU0xHRThJMVZGemc4TTMtQ1M0bHYwdk1qbEZ5bjBXX1VhUGQzVG1tb2xjRjhVSWJwNU1adw?oc=5",
-    "image": "",
-    "date": 1792059840000,
-    "titleSl": "Poskus uničenja - zločin z zastrupitvijo: HiPP osumljenec izpuščen iz pripora"
    }
   ],
   "rainews": [
@@ -565,17 +565,10 @@
     "titleSl": "Tirs dans un collège à Aubagne : un adolescent de 13 ans soupçonné d 'avoir été en lien avec le tireur a été placé en garde à vue"
    },
    {
-    "title": "« L’Envol des oiseaux » ou la saga des animaux à plumes",
-    "link": "https://www.lemonde.fr/sciences/article/2026/10/15/l-envol-des-oiseaux-ou-la-saga-des-animaux-a-plumes_6794395_1650684.html",
-    "image": "https://img.lemde.fr/2026/10/13/160/0/1920/960/644/322/60/0/fc573bf_upload-1-3dm88l4bg9o2-generated-1791903282200.jpg",
-    "date": 1792056611000,
-    "titleSl": "\"Ptičji let\" ali saga o pernatih živalih"
-   },
-   {
     "title": "Malgré les scandales, le président de la FIFA Gianni Infantino joue son va-tout et mise sur le clientélisme",
     "link": "https://www.lemonde.fr/sport/article/2026/10/15/malgre-les-scandales-le-president-de-la-fifa-gianni-infantino-joue-son-va-tout-et-mise-sur-le-clientelisme_6794393_3242.html",
     "image": "https://img.lemde.fr/2026/10/08/234/0/4760/2380/644/322/60/0/325f4f5_ftp-1-q1ohakf1t02r-2026-10-08t131758z-1688721504-rc2wrna9ya2q-rtrmadp-3-soccer-caf.JPG",
-    "date": 1792056473000,
+    "date": 1792056470000,
     "titleSl": "Kljub škandalom se predsednik FIFA Gianni Infantino zelo potrudi in se zanaša na prijateljstvo"
    },
    {
@@ -591,6 +584,13 @@
     "image": "https://img.lemde.fr/2026/09/24/0/0/4896/2448/644/322/60/0/d7f5933_ftp-1-43iqduflmphu-cbce98cbe5844a08a03f966775f86812-0-0dbb537f66a6411290e1869d9a4db6dd.jpg",
     "date": 1792053905000,
     "titleSl": "« Le PDG de BlackRock l'Assure : en cinquante ans de carrière dans la finance, il n' a jamais vécu une telle guerre des capitaux »"
+   },
+   {
+    "title": "Mouvement lycéen : Edouard Geffray, ministre de l’éducation nationale, reçoit les organisations lycéennes ce jeudi",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/15/mouvement-lyceen-edouard-geffray-ministre-de-l-education-nationale-recoit-les-organisations-lyceennes-ce-jeudi_6794358_3224.html",
+    "image": "https://img.lemde.fr/2026/10/01/834/0/8000/4000/644/322/60/0/49a8a0a_upload-1-vximayzidkmd-jmug261001029.jpg",
+    "date": 1792053259000,
+    "titleSl": "Srednješolsko gibanje: Edouard Geffray, minister za nacionalno šolstvo, ta četrtek sprejme srednješolske organizacije"
    }
   ],
   "elpais": [
