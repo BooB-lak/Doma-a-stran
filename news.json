@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T07:36:22.291Z",
+ "generatedAt": "2026-10-16T07:38:23.510Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,18 @@
   ],
   "rtvslo": [
    {
+    "title": "Spanje na 2620 metrih? Vrata odprl najvišje ležeči hotel v Franciji.",
+    "link": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/spanje-na-2620-metrih-vrata-odprl-najvisje-lezeci-hotel-v-franciji/797097",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/16/67113433.jpg",
+    "date": 1792136265000
+   },
+   {
+    "title": "Višje sodišče potrdilo zakonitost razrešitve Andreja Graha Whatmougha",
+    "link": "https://www.rtvslo.si/rtv/za-medije/sporocila-za-javnost/visje-sodisce-potrdilo-zakonitost-razresitve-andreja-graha-whatmougha/797104",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/02/12/67018449.jpg",
+    "date": 1792135941000
+   },
+   {
     "title": "IgloSkop: Aplikacija, ki zbira informacije o odpadkih, povezanih z uporabo mamil na javnih površinah",
     "link": "https://www.rtvslo.si/zdravje/igloskop-aplikacija-ki-zbira-informacije-o-odpadkih-povezanih-z-uporabo-mamil-na-javnih-povrsinah/797067",
     "image": "https://img.rtvcdn.si/_up/upload/2024/06/26/66197056.jpg",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/zdravje/nenaden-srcni-zastoj-v-sloveniji-dnevno-dozivi-od-tri-do-pet-ljudi/797101",
     "image": "https://img.rtvcdn.si/_up/upload/2023/10/14/66125052.jpg",
     "date": 1792133558000
-   },
-   {
-    "title": "\"Na prehranskem področju smo vse bolj odvisni od uvoza\"",
-    "link": "https://www.rtvslo.si/okolje/kmetijstvo/na-prehranskem-podrocju-smo-vse-bolj-odvisni-od-uvoza/797098",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/06/12/66785190.jpg",
-    "date": 1792132822000
-   },
-   {
-    "title": "12 evropskih predsednikov bo na Brdu pri Kranju razpravljalo o prihodnosti Evrope",
-    "link": "https://www.rtvslo.si/slovenija/12-evropskih-predsednikov-bo-na-brdu-pri-kranju-razpravljalo-o-prihodnosti-evrope/797096",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/16/67113419.jpg",
-    "date": 1792132701000
    }
   ],
   "zurnal": [
@@ -422,13 +422,15 @@
     "title": "BILD-Rechner zu Steuer-Plänen - Zucker, Tabak, Alkohol – so viel zahlen Sie mehr",
     "link": "https://www.bild.de/politik/inland/stromsteuersenkung-neue-steuern-machen-entlastung-zunichte-hier-steuerlast-berechnen-6acceb60f2750bc2e609efe7",
     "image": "https://images.bild.de/6acceb60f2750bc2e609efe7/09caef259bd1500d68e617c543f7d86e,bcde6ed?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "BILD kalkulator za davčne načrte - sladkor, tobak, alkohol - toliko več plačate"
    },
    {
     "title": "Letzte Eintracht-Warnung - Die Hintergründe zu Hütters Koch-Entscheidung",
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-die-hintergruende-zu-huetters-koch-entscheidung-6ad0c367199dc15f1abd4ea6",
     "image": "https://images.bild.de/6ad0c367199dc15f1abd4ea6/d4b89a2bc4dab435b16970422edd75a4,a4ee50cb?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Zadnje opozorilo Eintrachta - ozadje Hütterjeve kuharske odločitve"
    },
    {
     "title": "Plötzliche Frontal-Attacke - „Kein guter Typ für uns“! Trump geht auf Selenskyj los",
@@ -441,58 +443,66 @@
     "title": "Darren „Speed“ Watkins - Das traurige Leben des Internet-Millionärs",
     "link": "https://www.bild.de/unterhaltung/bildgg/darren-speed-watkins-das-traurige-leben-des-internet-millionaers-6abd2743eb10ca6ab00607d4",
     "image": "https://images.bild.de/6abd2743eb10ca6ab00607d4/a3ff050a64c2f0b8e911cc17b74c8bbf,9ae6858?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Darren “Speed” Watkins - Žalostno življenje internetnega milijonarja"
    },
    {
     "title": "Bringt Papa Covic wieder Glück? - Diese Premiere macht Dynamo Mut",
     "link": "https://www.bild.de/sport/fussball/dynamo-dresden-diese-premiere-macht-beim-elb-clasico-mut-6ad12a35199dc15f1abd58c1",
     "image": "https://images.bild.de/6ad12a35199dc15f1abd58c1/4dddd5ff3f2a59ba30e6f210827665ad,ace9dea4?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Bo Papa Čović spet prinesel srečo? - Ta premiera daje Dinamu pogum"
    },
    {
     "title": "DFB-Boss trotzdem enttäuscht - Infantino gibt Fehler zu",
     "link": "https://www.bild.de/sport/fussball/fifa-gianni-infantino-gibt-fehler-zu-dfb-boss-trotzdem-enttaeuscht-6ad1122c334fb119c00c96e4",
     "image": "https://images.bild.de/6ad1122c334fb119c00c96e4/38321dfcdb0ceb0b3ba722740b1c7c20,1ce2d745?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Šef DFB še vedno razočaran - Infantino priznava napake"
    }
   ],
   "krone": [
    {
+    "title": "Gaumenheld Gutschein Codes Österreich - Oktober 2026 | Krone Gutscheine",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81UkFWYjFjZkRpQmJOTUpTOEw3M2xKajlBZnBVTVpWTHNrWWNDYUR2Yy1jeThNV29KQnRZYjN4TTBEQi05VUJZMUdRbC1pd1h4Y3BKSGRHNGFXaWxURlV2WmNmUzlfQQ?oc=5",
+    "image": "",
+    "date": 1792136170000,
+    "titleSl": "Gaumenheld kode bonov Avstrija - oktober 2026 | Kronski boni"
+   },
+   {
     "title": "Hamann-Verdacht - Olise? „Da schrillen bei mir die Alarmglocken“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtbE1LSnFKMkhxY050Q2UxRUxDbV9HNEttd2RHWjk4R1hKeVE1NF85M3dzYktKWWgxeVhTY0QxcUxaUQ?oc=5",
     "image": "",
-    "date": 1792135920000
+    "date": 1792135920000,
+    "titleSl": "Hamann sumi - Olise? \"Zame zvonijo alarmi\""
    },
    {
     "title": "Ex-Bankmanager tot - Schmiergeldkrimi: Drama um „Benko“ der Formel 1",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vMzBJWVFqQmhxQjdHTUJMb1d0N3FkMDI0dG5OVms0TGg3X01faEtQd1AyVERTeTBsX0QxQll1b1B1QQ?oc=5",
     "image": "",
-    "date": 1792135874000
+    "date": 1792135874000,
+    "titleSl": "Nekdanji bančni direktor mrtev - zločin podkupovanja: drama o \"Benku\" Formule 1"
    },
    {
     "title": "Frau blieb unverletzt - Verfahren nach Crash mit Paragleiterin eingestellt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96Sy1EWG5mWU1VbWh2Z2RLSDRNT2ItNTY3MW0yX0VmUmlUTEsxczRMdEFHa0owaTdFUDRYVHVrWU1GUQ?oc=5",
     "image": "",
-    "date": 1792135800000
+    "date": 1792135800000,
+    "titleSl": "Ženska ostala nepoškodovana - postopek po strmoglavljenju z jadralnim padalom ustavljen"
    },
    {
     "title": "Dame schwer verletzt - Polizei sucht nach Zeugen von schwerem Unfall",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4XzNNVktpUU1LX3RyYnRDS1hpSnhaTGJkb1hZLWw0dHpYbW5KMEFjblkwdEpiMTVRZkphd01SdGZVdw?oc=5",
     "image": "",
-    "date": 1792135800000
+    "date": 1792135800000,
+    "titleSl": "Gospa huje poškodovana - policija išče očividce hude nesreče"
    },
    {
     "title": "Für „mehr Stabilität“ - Aus der Schaltsekunde für Uhren beschlossen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zV0pLUVozQm5DWjY3NVl4MGk1YjBtZExkT1NPaXlWaUVkVnItYmF5ZmdxZkw5WHgxM2pHZExnbnc4QQ?oc=5",
     "image": "",
-    "date": 1792135740000
-   },
-   {
-    "title": "Brief an Marterbauer - AKH warnt wegen Uni-Budget: „Abteilungen sperren“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QYXRwQ3o0SEpzcy1SNE40YTVKczZ2V1V4Yll0S3liQWFHMWhLTnVfWWpxUjdGUE9IU2JXWWxudkY1dw?oc=5",
-    "image": "",
-    "date": 1792135560000,
-    "titleSl": "Brief an Marterbauer - AKH warnt wegen Uni-Budget: \"Abteilungen sperren\""
+    "date": 1792135740000,
+    "titleSl": "Za \"večjo stabilnost\" - odločili za prestopno sekundo za ure"
    }
   ],
   "rainews": [
@@ -500,25 +510,29 @@
     "title": "Scuola e clima, venerdì di scioperi e cortei in tutta Italia: studenti e docenti in piazza",
     "link": "https://www.rainews.it/maratona/2026/10/scuola-e-clima-venerdi-di-scioperi-e-cortei-in-tutta-italia-studenti-e-docenti-in-piazza-9ecb3279-afbf-4cdb-87ed-6461f3c06291.html",
     "image": "https://www.rainews.it/dl/img/2026/10/16/1792130190060_rainewscbceacecfbb.jpg",
-    "date": 1792135800000
+    "date": 1792135800000,
+    "titleSl": "Šola in podnebje, petek stavk in demonstracij po vsej Italiji: učenci in učitelji na ulicah"
    },
    {
     "title": "Napoli, grosso incendio in un capannone industriale. Alta colonna di fumo: chiudere porte e finestre",
     "link": "https://www.rainews.it/articoli/2026/10/napoli-grosso-incendio-in-un-capannone-industriale-cause-529b5018-6cac-4e0d-907e-810c888e33b0.html",
     "image": "https://www.rainews.it/dl/img/2026/10/16/1792128890930_rogo_via_brin.JPG",
-    "date": 1792134240000
+    "date": 1792134240000,
+    "titleSl": "Neapelj, velik požar v industrijskem skladišču. Visok stolpec dima: zaprite vrata in okna"
    },
    {
     "title": "Avvelenate con la ricina, Di Vita: \"Non ho mai creduto che volessero uccidermi\"",
     "link": "https://www.rainews.it/articoli/2026/10/avvelenate-con-la-ricina-di-vita-non-ho-mai-creduto-che-volessero-uccidermi-7ce03266-612d-48a3-9b46-618130514eed.html",
     "image": "https://www.rainews.it/dl/img/2026/03/31/1774969796896_rainewsb.jpg",
-    "date": 1792134060000
+    "date": 1792134060000,
+    "titleSl": "Di Vita, zastrupljen z ricinom: \"Nikoli nisem verjel, da me hočejo ubiti\""
    },
    {
     "title": "Mirandola: marito e moglie trovati morti in casa, i corpi sono stati decapitati. Fermato il figlio",
     "link": "https://www.rainews.it/articoli/2026/10/marito-e-moglie-trovati-morti-in-casa-i-corpi-sono-stati-decapitati--150871f6-4eef-48bc-88ab-caa112992809.html",
     "image": "https://www.rainews.it/dl/img/2026/10/16/1792121944833_rainewsaffaadcdcececbf.jpg",
-    "date": 1792133940000
+    "date": 1792133940000,
+    "titleSl": "Mirandola: mož in žena najdena mrtva v hiši, trupli sta bili obglavljeni. Sina so ustavili"
    },
    {
     "title": "Ue: Zelensky arrivato al Consiglio europeo. Lo accoglie Costa. Cnn: Kiev, esauriti missili Patriot",
@@ -531,7 +545,8 @@
     "title": "Guasto nei servizi di controllo del traffico aereo, disagi negli aeroporti di Milano e Bergamo",
     "link": "https://www.rainews.it/articoli/2026/10/guasto-nei-servizi-di-controllo-del-traffico-aereo-disagi-negli-aeroporti-di-milano-e-bergamo-5e70838e-3061-4307-b69f-6f6533108acd.html",
     "image": "https://www.rainews.it/dl/img/2026/9/10/1789059250056_rainewsbadaecddacced.jpg",
-    "date": 1792133400000
+    "date": 1792133400000,
+    "titleSl": "Izpad v službah kontrole zračnega prometa, nevšečnosti na letališčih Milano in Bergamo"
    }
   ],
   "lemonde": [
@@ -546,7 +561,8 @@
     "title": "Les associations contraintes de réduire leurs actions et leur nombre de salariés, faute de soutien public",
     "link": "https://www.lemonde.fr/societe/article/2026/10/16/les-associations-contraintes-de-reduire-leurs-actions-et-leur-nombre-de-salaries-faute-de-soutien-public_6795358_3224.html",
     "image": "https://img.lemde.fr/2026/07/02/504/0/6016/3008/644/322/60/0/a78a8f3_upload-1-hvczw8ax3nvn-associationaida047.jpg",
-    "date": 1792132103000
+    "date": 1792132103000,
+    "titleSl": "Društva so zaradi pomanjkanja javne podpore prisiljena zmanjšati svoje delovanje in število zaposlenih"
    },
    {
     "title": "Faut-il manger moins de fromage pour le climat ?",
@@ -596,7 +612,8 @@
     "title": "El encaje de Irene Montero tensa el pulso en las listas de la izquierda",
     "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/la-izquierda-alternativa-lleva-al-limite-el-pulso-para-las-listas-del-29-n-con-el-escollo-principal-de-madrid.html",
     "image": "https://imagenes.elpais.com/resizer/v2/T7M2C7NVHZCB3B4MICD4SC6UV4.jpg?auth=49e641ec0ba5dbe0399e935e1a66c560a0951220e9dd22e8040288d7cdc7d1f1",
-    "date": 1792131508000
+    "date": 1792131508000,
+    "titleSl": "Napad Irene Montero napenja utrip na seznamih na levi"
    },
    {
     "title": "El Gobierno confía en bajar las ratios de Infantil y blindar la calidad de la FP privada este año",
