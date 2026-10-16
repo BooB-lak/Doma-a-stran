@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T06:12:24.502Z",
+ "generatedAt": "2026-10-16T06:14:24.886Z",
  "sources": {
   "siol": [
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
-    "link": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A3642-copy-1791276123.jpg?resize=1920%2C1440",
-    "date": 1792130123000,
-    "titleSl": "Samota v Gazi: Genocid je palestinskega moškega pustil brez družine ali doma"
-   },
-   {
     "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
     "link": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaa2d07d97-1790616272.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792125819.jpg?resize=1920%2C1080&quality=80",
     "date": 1792125924000,
     "titleSl": "Infantino se opravičuje ob pozivih, naj odstopi s položaja predsednika Fife"
+   },
+   {
+    "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+    "link": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaa7e7bce-1789558395.jpg?resize=1920%2C1440",
+    "date": 1792119381000,
+    "titleSl": "Kitajska poziva Izrael, naj ustavi \"prisilno ustanavljanje\" naselbin na Zahodnem bregu"
    }
   ],
   "guardian": [
@@ -378,19 +378,22 @@
     "title": "Pflegereform: Linke warnt vor Einschnitten bei Einstufung Pflegebedürftiger",
     "link": "https://www.spiegel.de/politik/pflegereform-linke-warnt-vor-einschnitten-bei-einstufung-pflegebeduerftiger-a-eeb76fe5-0bae-40af-9a20-5057c93b94e2#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/388a629c-b693-4799-8dcc-41ebab121613_w520_r2.08_fpx50_fpy59.jpg",
-    "date": 1792130160000
+    "date": 1792130160000,
+    "titleSl": "Reforma oskrbe: Levica opozarja na reze v klasifikaciji oskrbovancev"
    },
    {
     "title": "Commerzbank: Das ungewöhnliche Immobiliengeschäft mit ihrem Aufsichtsrat Harald Christ",
     "link": "https://www.spiegel.de/wirtschaft/commerzbank-das-ungewoehnliche-immobiliengeschaeft-mit-ihrem-aufsichtsrat-harald-christ-a-1123a07f-c31c-4a51-9746-d34b2530c660#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/4db49563-845d-444a-877d-47e91ea3786a_w520_r2.08_fpx50_fpy45.33.jpg",
-    "date": 1792129320000
+    "date": 1792129320000,
+    "titleSl": "Commerzbank: Nenavaden nepremičninski posel z nadzornim svetom Haraldom Christom"
    },
    {
     "title": "Nvidia: Bundesregierung plant offenbar Millionen-Investition in KI-Kooperation",
     "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-plant-offenbar-millionen-investition-in-ki-kooperation-a-67700d8c-516b-4772-954d-6b5d950398e0#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/83aa0c72-286c-4ae8-9b9c-19d8cbf70872_w520_r2.08_fpx36_fpy64.jpg",
-    "date": 1792129020000
+    "date": 1792129020000,
+    "titleSl": "Nvidia: Zvezna vlada očitno namerava vložiti milijone v sodelovanje z AI"
    },
    {
     "title": "Harald Glööckler: Modeschöpfer hält sich für »eigentlich sehr scheu«",
@@ -416,78 +419,90 @@
   ],
   "bild": [
    {
+    "title": "Brisante Analyse - Jungen Unions-Abgeordneten droht Desaster bei Neuwahl",
+    "link": "https://www.bild.de/politik/inland/winkel-reddig-und-co-bei-neuwahlen-droht-cdu-jungstars-gefahr-6ad0e98751e5094f7a56d9ea",
+    "image": "https://images.bild.de/6ad0e98751e5094f7a56d9ea/e9734273996c4b4ee1cd03ce91a45704,db8d4e5a?w=1280",
+    "date": 0,
+    "titleSl": "Eksplozivna analiza - Poslancem Young Union grozi katastrofa na novih volitvah"
+   },
+   {
+    "title": "Notfallreform - Mit diesen Symptomen sollten Sie in die Notaufnahme",
+    "link": "https://www.bild.de/politik/inland/notfallreform-mit-diesen-symptomen-sollten-sie-in-die-notaufnahme-6ad0b08351e5094f7a56d42e",
+    "image": "https://images.bild.de/6ad0b08351e5094f7a56d42e/b6b076b63132b2328e13a68b4974000b,10f3bdda?w=1280",
+    "date": 0,
+    "titleSl": "Nujna reforma - če imate te simptome, morate iti na urgenco"
+   },
+   {
     "title": "Gründet er die „Freien Remmokraten“? - Clan-Chef kündigt eigene Partei an",
     "link": "https://www.bild.de/news/inland/clanboss-attackiert-linken-politiker-er-sass-1-stunde-in-meinem-buero-6acdfb8c8776d79fbd9cb335",
     "image": "https://images.bild.de/6acdfb8c8776d79fbd9cb335/e9776f1104bff976704216ad71880343,9a2282fa?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Ali je našel \"Free Remmocrats\"? - Šef klana napove svojo zabavo"
    },
    {
     "title": "Lustrinelli verrät - So feierte Gray seinen Union-Einstand",
     "link": "https://www.bild.de/sport/fussball/union-berlin-mekhi-gray-bei-seinem-debuet-zitterte-er-an-der-linie-6ad0f0d70aea524a0240b633",
     "image": "https://images.bild.de/6ad0f0d70aea524a0240b633/a18081443c5122fc660c27d7591d92e5,414f0db2?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Lustrinelli razkriva - Tako je Gray proslavil svoj prvenec v Unionu"
    },
    {
     "title": "Showdown beim EU-Gipfel - Ceuta-Flüchtlinge! Meloni zofft sich mit Sanchez",
     "link": "https://www.bild.de/politik/ausland-und-internationales/ceuta-fluechtlinge-meloni-zofft-sich-mit-sanchez-6ad10fa7685ee9448efa1d46",
     "image": "https://images.bild.de/6ad10fa7685ee9448efa1d46/7fb420db8de24472c46655b20d76a049,8bd3b3fc?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Obračun na vrhu EU - begunci iz Ceute! Meloni se prepira s Sanchezom"
    },
    {
     "title": "Pyro-Unterbrechung und Pleite - Bitterer Abend für deutsche Stars",
     "link": "https://www.bild.de/sport/fussball/ajax-amsterdam-pyro-chaos-und-pleite-fuer-deutsche-stars-6ad1b93a199dc15f1abd5c60",
     "image": "https://images.bild.de/6ad1b93a199dc15f1abd5c60/f5394766b40751842f6121f8ad11fab3-landscape,aaab83cf?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Comeback nach Jubel-Eklat - Deutscher Stürmer trifft schon wieder!",
-    "link": "https://www.bild.de/sport/fussball/paris-brunner-traum-comeback-nach-jubel-eklat-6ad1b6f2199dc15f1abd5c34",
-    "image": "https://images.bild.de/6ad1b6f2199dc15f1abd5c34/609ed3f37900305a80704f353dd05acd,b1109406?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Schon 17 Jahre her … - Letzter Cottbus-Sieg brachte Nürnberg den Aufstieg",
-    "link": "https://www.bild.de/sport/fussball/fcn-erstes-duell-seit-17-jahren-damals-stieg-nuernberg-auf-6acf878b77d7df6c69d6c1c6",
-    "image": "https://images.bild.de/6acf878b77d7df6c69d6c1c6/885843db56742c86eb8e191c28fd4e7a,ed5b97af?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Prekinitev pirotehnike in bankrot - grenak večer za nemške zvezdnike"
    }
   ],
   "krone": [
    {
+    "title": "Abkommen nur ohne ihn - Trump über Selenskyj: „Schwieriger als Putin“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NOXFfVUJoeVk4T3Nybmxna2hNMExhRHI5N0pRY1MtcHgtSGpIY0FILWhmZ2F2dEpWTXpiRnhIR3NLdw?oc=5",
+    "image": "",
+    "date": 1792131180000,
+    "titleSl": "Dogovor samo brez njega - Trump o Zelenskem: \"Težje kot Putin\""
+   },
+   {
     "title": "Bereits abgenommen - Junger Lenker raste ohne Schein auf der Autobahn",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sSVJhYUpZYUxuZ21DZUZCTmI5X1FHSWp2UWpqNE5WUkZyaWluaHpPLXNhRG15VzlEV2xGdjdUYjhZQQ?oc=5",
     "image": "",
-    "date": 1792131000000
+    "date": 1792131000000,
+    "titleSl": "Že odstranjen - mladi voznik je brez vozniškega dovoljenja dirkal po avtocesti"
    },
    {
     "title": "„Kameras aus – dann können wir richtig Gas geben“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA3RkpkR1M2X2RocnB4emRnV25JeWp4cW1rNnc2eUpyNERTeUwyZmJQVmhWdlVsV3NLNUpLTXpncW1uQQ?oc=5",
     "image": "",
-    "date": 1792131000000
+    "date": 1792131000000,
+    "titleSl": "\"Izklopljene kamere – potem lahko resnično pospešimo\""
    },
    {
     "title": "Beweisvideo ungeprüft - Vogelnest von Baum gespritzt: Erneute Anzeige",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xanN3R21NQTA1YWVzTGRDSWJoS1NyX3N6TEp1WnZFaE5GYzFtYmlVbzBfN1B0T0p3WXZZNkdiWDRiQQ?oc=5",
     "image": "",
-    "date": 1792130400000
-   },
-   {
-    "title": "Notarzt im Einsatz - Mit Fuß in heißes Öl: Arbeiter schwer verletzt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZcEJ5SFNad2ZOeUJveEVpb2ZNaWFCZ0hfWnZGQkp6Z0p4dTdHYy1tZ0QxSlB5Z1RCQWdtVVNIUTdHdw?oc=5",
-    "image": "",
-    "date": 1792130400000
+    "date": 1792130400000,
+    "titleSl": "Videoposnetek dokazov nepreverjen - ptičje gnezdo poškropljeno z drevesa: novo poročilo"
    },
    {
     "title": "Neue Wohnbauförderung - Weniger Geld für mehr Wohnungskäufer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxN2dCdzlZdzFKc091ZlBVaU5NV0Z4cGhlajQ0UGxzdEJYT1lKNjRQU2dPajZ6VjlHRWxpYThkQVpyQQ?oc=5",
     "image": "",
-    "date": 1792130400000
+    "date": 1792130400000,
+    "titleSl": "Nove stanovanjske subvencije - manj denarja za več kupcev stanovanj"
    },
    {
-    "title": "„Aflenz Memorial“ - Eine KZ-Gedenkstätte aus Erde und Pflanzen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5Um54LVIyTmpBV01MNlctMlIyNUZYWW5YSkEwSlJPcDg4c3dNWkdhQWNtb3c0czdtMDFTX3hqbXVzdw?oc=5",
+    "title": "Notarzt im Einsatz - Mit Fuß in heißes Öl: Arbeiter schwer verletzt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZcEJ5SFNad2ZOeUJveEVpb2ZNaWFCZ0hfWnZGQkp6Z0p4dTdHYy1tZ0QxSlB5Z1RCQWdtVVNIUTdHdw?oc=5",
     "image": "",
-    "date": 1792130400000
+    "date": 1792130400000,
+    "titleSl": "Dežurni zdravnik nujne medicinske pomoči - noga v vročem olju: delavec huje poškodovan"
    }
   ],
   "rainews": [
@@ -495,7 +510,8 @@
     "title": "Guasto alla rete Enav, traffico aereo rallentato in tutta Italia",
     "link": "https://www.rainews.it/articoli/2026/10/guasto-alla-rete-enav-traffico-aereo-rallentato-in-tutta-italia-411271ca-9600-4928-835a-96c83696286f.html",
     "image": "https://www.rainews.it/dl/img/2026/08/07/1786113025171_rainewsbcbaeacadcdbbc.jpg",
-    "date": 1792130640000
+    "date": 1792130640000,
+    "titleSl": "Izpad mreže ENAV, upočasnjen letalski promet po vsej Italiji"
    },
    {
     "title": "Cnn: Kiev, esauriti missili Patriot. Zelensky: \"Torniamo a attaccare le raffinerie\", Trump: vergogna",
@@ -508,13 +524,15 @@
     "title": "Scuola e clima, venerdì di scioperi e cortei in tutta Italia: studenti e docenti in piazza",
     "link": "https://www.rainews.it/maratona/2026/10/scuola-e-clima-venerdi-di-scioperi-e-cortei-in-tutta-italia-studenti-e-docenti-in-piazza-9ecb3279-afbf-4cdb-87ed-6461f3c06291.html",
     "image": "https://www.rainews.it/dl/img/2026/10/16/1792130190060_rainewscbceacecfbb.jpg",
-    "date": 1792129800000
+    "date": 1792129800000,
+    "titleSl": "Šola in podnebje, petek stavk in demonstracij po vsej Italiji: učenci in učitelji na ulicah"
    },
    {
     "title": "Clima, estate nera per ghiacciai trentini: \"La Mare e Careser in estinzione\"",
     "link": "https://www.rainews.it/articoli/2026/10/clima-estate-nera-per-ghiacciai-trentini-la-mare-e-careser-in-estinzione-lallerta-2f780507-d477-4435-8bb4-6d4f244636d8.html",
     "image": "https://www.rainews.it/dl/img/2025/07/28/1753688359510_careser.jpg",
-    "date": 1792129500000
+    "date": 1792129500000,
+    "titleSl": "Podnebje, črno poletje za trentinske ledenike: \"La Mare in Careser v izumrtju\""
    },
    {
     "title": "Thwaites, quando l&#x27;enorme iceberg fermo da 20 anni iniziò la sua deriva: il distacco",
@@ -536,13 +554,15 @@
     "title": "Les progrès de la dissuasion nucléaire nord-coréenne depuis des sous-marins inquiètent Séoul",
     "link": "https://www.lemonde.fr/international/article/2026/10/16/les-progres-de-la-dissuasion-nucleaire-nord-coreenne-depuis-des-sous-marins-inquietent-seoul_6795287_3210.html",
     "image": "https://img.lemde.fr/2026/10/15/416/0/5000/2500/644/322/60/0/ea2f46b_ftp-1-jtfhzazhuehn-b2c38fdec3b0416081160aec2dc43a45-1-d65c19cf470e441a8b10d06831b0a391.jpg",
-    "date": 1792128531000
+    "date": 1792128531000,
+    "titleSl": "Napredek pri severnokorejskem jedrskem odvračanju od podmornic skrbi Seul"
    },
    {
     "title": "Guerre en Ukraine : Volodymyr Zelensky acte la reprise des frappes contre les raffineries russes, « une honte » selon Donald Trump",
     "link": "https://www.lemonde.fr/international/article/2026/10/16/guerre-en-ukraine-volodymyr-zelensky-acte-la-reprise-des-frappes-contre-les-raffineries-russes-une-honte-selon-donald-trump_6795219_3210.html",
     "image": "https://img.lemde.fr/2026/10/07/1000/0/6000/3000/644/322/60/0/d429871_ftp-1-5hlwfqdpdo6j-2026-10-07t145925z-1886848509-rc26yna1bdl4-rtrmadp-3-ukraine-crisis-south-frontline.JPG",
-    "date": 1792126023000
+    "date": 1792126023000,
+    "titleSl": "Vojna v Ukrajini: Volodimir Zelenski napovedal nadaljevanje napadov na ruske rafinerije, \"sramota\" po mnenju Donalda Trumpa"
    },
    {
     "title": "Le Groenland vise l’interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
