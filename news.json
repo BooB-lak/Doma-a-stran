@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-17T04:50:35.925Z",
+ "generatedAt": "2026-10-17T04:52:21.781Z",
  "sources": {
   "siol": [
+   {
+    "title": "Kdo bo sezono odprl z lovoriko, ki je v Sloveniji še ni bilo",
+    "link": "https://siol.net/sportal/odbojka/odbojkarski-superpokal-2026-704178",
+    "image": "https://siol.net/media/img/58/3d/401bf94e7932d6a24157.jpeg",
+    "date": 1792212300000
+   },
    {
     "title": "Veselje se je ustaviti: ko postanek na poti postane doživetje",
     "link": "https://siol.net/avtomoto/avtomobilno/veselje-se-je-ustaviti-ko-postanek-na-poti-postane-dozivetje-701077",
@@ -30,12 +36,6 @@
     "title": "Bi za plačilo šteli pingvine? To je ena najbolj nenavadnih služb na svetu.",
     "link": "https://siol.net/novice/posel-danes/bi-za-placilo-steli-pingvine-to-je-ena-najbolj-nenavadnih-sluzb-na-svetu-704139",
     "image": "https://siol.net/media/img/ee/d1/08e0e43954ce2de07cfb.jpeg",
-    "date": 1792202400000
-   },
-   {
-    "title": "Novi audi Q7 v Sloveniji: več prostora, šest sedežev in vrata, ki se odpirajo sama",
-    "link": "https://siol.net/avtomoto/novice/novi-audi-q7-v-sloveniji-vec-prostora-sest-sedezev-in-vrata-ki-se-odpirajo-sama-704154",
-    "image": "https://siol.net/media/img/fd/8a/f300b1b14bda1d701153.jpeg",
     "date": 1792202400000
    }
   ],
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Albania’s PM blames ‘foreign hands’ for protests",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792210824.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792210878000,
-    "titleSl": "Albanski premier za proteste krivi \"tuje roke\""
-   },
-   {
     "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
     "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2d683dbb6-1792202371.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad2bbbfc8926-1792195519.jpg?resize=1920%2C1440",
     "date": 1792200817000,
     "titleSl": "Ameriška obalna straža je rešila 16 ljudi, potem ko se je čoln potopil ob mehiški obali Baja"
+   },
+   {
+    "title": "Oregon school shooter was former special needs student, police say",
+    "link": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2b0c2211d-1792192706.jpg?resize=1920%2C1440",
+    "date": 1792196722000,
+    "titleSl": "Strelec v šoli v Oregonu je bil nekdanji učenec s posebnimi potrebami, pravijo polici"
    }
   ],
   "guardian": [
@@ -375,6 +375,20 @@
   ],
   "spiegel": [
    {
+    "title": "News: Friedrich Merz, Junge Union, Juden-Deportation vor 85 Jahren, Dieter Dehm verurteilt",
+    "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-junge-union-juden-deportation-vor-85-jahren-dieter-dehm-verurteilt-a-cd266a43-6ea0-4bbf-a17a-38bb53e9afbc#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+    "date": 1792212060000,
+    "titleSl": "Novice: Friedrich Merz, Junge Union, Juden-Deportation vor 85 Jahren, Dieter Dehm verurteilt"
+   },
+   {
+    "title": "Paris Fashion Week: BHs und sonst nichts – ist das Fortschritt?",
+    "link": "https://www.spiegel.de/stil/paris-fashion-week-bhs-und-sonst-nichts-ist-das-fortschritt-a-ace1e920-89aa-4feb-a3b4-f813fda292c3#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/19e27482-fd7c-4c48-8e91-f51ebac5fe2b_w520_r2.08_fpx44_fpy45.jpg",
+    "date": 1792212060000,
+    "titleSl": "Pariški teden mode: BHs und sonst nichts – ist das Fortschritt?"
+   },
+   {
     "title": "Donald Trump stoppt geplante Zölle gegen Russland",
     "link": "https://www.spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/5574c7bd-d315-49a7-b17b-949fe8d658c0_w520_r2.08_fpx45.98_fpy52.99.jpg",
@@ -401,20 +415,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/aa08f9dd-4b99-413b-83cd-74f1bccbcfcd_w520_r2.08_fpx39.24_fpy44.98.jpg",
     "date": 1792178220000,
     "titleSl": "Huti proti Savdski Arabiji: Tako milice v Jemnu opravičujejo svojo vojno"
-   },
-   {
-    "title": "Deutschlandtag der Jungen Union: Jetzt hat Friedrich Merz schon wieder ein JU-Problem",
-    "link": "https://www.spiegel.de/politik/deutschland/deutschlandtag-der-jungen-union-jetzt-hat-friedrich-merz-schon-wieder-ein-ju-problem-a-ca82a0ca-038b-4e5c-a9da-aeedc09067ef#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/7a866ccb-5090-4c67-870c-84138ecc9f65_w520_r2.08_fpx37.97_fpy48.99.jpg",
-    "date": 1792178100000,
-    "titleSl": "Nemčija Dan mlade zveze: Zdaj ima Friedrich Merz še en problem JU"
-   },
-   {
-    "title": "Papst Leo XIV.: Was öffentlich gemachte Diagnosen bewirken",
-    "link": "https://www.spiegel.de/wissenschaft/papst-leo-xiv-was-oeffentlich-gemachte-diagnosen-bewirken-a-ea22a717-0e95-4b37-afc2-a7a63d5f02a4#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/e8eef258-474c-4f37-83a8-dd4eda60e86a_w520_r2.08_fpx46_fpy45.jpg",
-    "date": 1792175160000,
-    "titleSl": "Papež Leon XIV.: Kakšen je učinek javnih diagnoz"
    }
   ],
   "bild": [
@@ -458,45 +458,51 @@
   ],
   "krone": [
    {
-    "title": "„Krone“-Kommentar - Red Bull verleiht dem Staat Flügel",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pQnJPdHA0VkZ6d3ZGbEhKaXhsWjNlX3VWZzZac2R1eVd6TVFPT3lEV3pMVEtQbUZpaVFiNHdnaV94UQ?oc=5",
-    "image": "",
-    "date": 1792209600000
-   },
-   {
     "title": "„Krone“-Kommentar - Echter Aufschwung geht aber anders",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03V2p0b3BzcEV6YkR5cGc3LVJlX0xFOHVMWnVRckRjeXY3RlByTkJvaEN3V2lDbTVpUkMyTEhFVkNsUQ?oc=5",
     "image": "",
     "date": 1792209600000
    },
    {
-    "title": "Nur noch 1,43 Euro - Schweinebauern unter Druck: „Preis ist ruinös!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01NzRlVC11aGprZVUwc0VQbk14OGNnNE1zQmFTQ1owNkJyeWY5Q0RRdnI1a3VKMlIxQlZUY3AyN1NUUQ?oc=5",
-    "image": "",
-    "date": 1792209600000,
-    "titleSl": "Nur noch 1,43 evra - Schweinebauern unter Druck: \"Preis ist ruinös!\""
-   },
-   {
-    "title": "„Kriminaltourismus“ - Pensionistin (97) schrie Räuber-Ehepaar in Flucht",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2SUZEOEd2aS1Ld3FMWklGQnhmaE5OT1NwSkFXNF9OYmxKNUdQMW9kdl9YaC1oQ0w0TU1mUGhLMlRuUQ?oc=5",
+    "title": "„Krone“-Kommentar - Red Bull verleiht dem Staat Flügel",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pQnJPdHA0VkZ6d3ZGbEhKaXhsWjNlX3VWZzZac2R1eVd6TVFPT3lEV3pMVEtQbUZpaVFiNHdnaV94UQ?oc=5",
     "image": "",
     "date": 1792209600000
    },
    {
-    "title": "We are Burgenland - Weibliche Talente für Frauenpower-Event gesucht",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBORnN0eElMOUNWeWwwbGM0dl9Ya3cydkduUTlhVGV1UVVCcHJJdjY1LW1xdjBwQVVnanJhV2UwN2xMUQ?oc=5",
+    "title": "„Weniger Formalismus“ - Informationsfreiheit: Urteil gegen Amt, für Bürger",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE95VVQ3X3B4N3ZyYkM5WHptMS1uOEFLQ0xKTEpOVVg0aUphcy1fOVgyZEltN0YzTno4R1Y1ZHEtdkh0Zw?oc=5",
     "image": "",
     "date": 1792209600000,
-    "titleSl": "Smo Gradiščanska - Weibliche Talente für Frauenpower-Event gesucht"
+    "titleSl": "„Weniger Formalismus“ - Informacijefreiheit: Urteil gegen Amt, für Bürger"
    },
    {
     "title": "Von Flieger gerammt - Aus Unglücksschirm soll eine Windjacke werden",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aWkgzbWJ1V25DTExLaWRjQ0J5S2xSSTFlaWw0YUQyOEFxM2gzMnhPTFRNRDJKTXlJREpYSFhLOWN1UQ?oc=5",
     "image": "",
     "date": 1792209600000
+   },
+   {
+    "title": "Generationenwechsel - 56.600 Betriebe müssen bald übergeben werden",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04amJjZUwteUtPUGJNSmQtOU8yYjJGY1A1ZDM0TVN2ajVHSTdweDBES3ZnQWFyQjZDWXZiSUpTc3BGZw?oc=5",
+    "image": "",
+    "date": 1792209600000
+   },
+   {
+    "title": "Die „Krone“-NÖ-Kolumne - Die kleine Botin sammelt Herbstfarben",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE80VjF4WmtjTTdoNTExREdpSHRueVlLMHdKNURMekRSb0F0VExqUnBGV01VZ19iNGtKcjdSX2lPVWpUZw?oc=5",
+    "image": "",
+    "date": 1792208700000
    }
   ],
   "rainews": [
+   {
+    "title": "Usa: Trump sospende ampio pacchetto di sanzioni alla Russia",
+    "link": "https://www.rainews.it/articoli/2026/10/usa-trump-sospende-ampio-pacchetto-di-sanzioni-a-russia-la-guerra-in-ucraina-730419a7-5967-418b-b5d1-2e4828479d24.html",
+    "image": "https://www.rainews.it/dl/img/2025/08/07/1754524635515_X.jpg",
+    "date": 1792212540000,
+    "titleSl": "ZDA: Trump sospende ampio pacchetto di sanzioni alla Rusija"
+   },
    {
     "title": "15 persone ferite a Kharkiv in seguito a un massiccio attacco russo",
     "link": "https://www.rainews.it/video/2026/10/15-persone-ferite-a-kharkiv-in-seguito-a-un-massiccio-attacco-russo-video-38c444ac-80ba-40df-9718-fca9cafef7b3.html",
@@ -529,13 +535,6 @@
     "image": "https://www.rainews.it/dl/img/2021/11/12/1636691614881_Immagine__.png",
     "date": 1792208460000,
     "titleSl": "Pregled novinarskih fotografij, naslovnice časopisov v soboto, 17. oktobra 2026"
-   },
-   {
-    "title": "Le previsioni del tempo per sabato 17 ottobre 2026",
-    "link": "https://www.rainews.it/video/2026/10/le-previsioni-del-tempo-per-sabato-17-ottobre-2026-40ce399a-6c94-4487-b90c-f220eaf45ba4.html",
-    "image": "https://www.rainews.it/dl/img/2024/12/06/1733462386435_meteo.PNG",
-    "date": 1792208400000,
-    "titleSl": "Vremenska napoved za soboto, 17. oktobra 2026"
    }
   ],
   "lemonde": [
