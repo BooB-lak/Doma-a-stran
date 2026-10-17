@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-17T16:42:22.871Z",
+ "generatedAt": "2026-10-17T16:44:23.752Z",
  "sources": {
   "siol": [
+   {
+    "title": "Italijanski prvaki po slabi novici v zahtevnem položaju",
+    "link": "https://siol.net/sportal/nogomet/italijansko-prvenstvo-7-krog-704160",
+    "image": "https://siol.net/media/img/21/38/095ca94366917f607dd7.jpeg",
+    "date": 1792255380000
+   },
    {
     "title": "Kakšen bo odziv Bayerna? Dortmundčani vsaj začasno na vrh. #vŽivo",
     "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-6-krog-704203",
@@ -31,20 +37,14 @@
     "link": "https://siol.net/sportal/nogomet/grozljivi-prizori-ob-poskodbi-zvezdnika-chelseaja-v-liverpoolu-704210",
     "image": "https://siol.net/media/img/65/5f/b6c302a6f3c1af130e9b.jpeg",
     "date": 1792253520000
-   },
-   {
-    "title": "V Ljubljani podelili lovoriko, kot je še ni bilo v Sloveniji",
-    "link": "https://siol.net/sportal/odbojka/odbojkarski-superpokal-2026-704178",
-    "image": "https://siol.net/media/img/15/dd/18de00c69ff225f7ca86.jpeg",
-    "date": 1792253400000
    }
   ],
   "24ur": [
    {
     "title": "Pol milijona Francozov na ulicah: vdrli v mestno hišo, zažgali turistični urad",
     "link": "https://www.24ur.com/novice/tujina/veliki-protestni-shod-v-parizu.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/a550f0bf56f6a0a4c6ad_63664833.jpg?v=7ae8",
-    "date": 1792255177000
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/a550f0bf56f6a0a4c6ad_63664833.jpg?v=f6bd&fop=fp:0.51:0.50",
+    "date": 1792255376000
    },
    {
     "title": "Obeta se drugi krog: Janković v vodstvu, Mesec na drugem mestu",
@@ -416,6 +416,19 @@
   ],
   "bild": [
    {
+    "title": "Er heizt die Gerüchte an - Wann steigt Pietro in den Ring?",
+    "link": "https://www.bild.de/sport/noch-nichts-finales-pietro-heizt-geruechte-an-6ad3730e199dc15f1abd75f6",
+    "image": "https://images.bild.de/6ad3730e199dc15f1abd75f6/3d52ff04849ca331f4826346e1ab2fad,6da0213e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Rot-Grün-Rot in Berlin - Ab 2029 wollen sie enteignen",
+    "link": "https://www.bild.de/politik/inland/spd-gruene-und-linke-in-berlin-und-sie-tun-es-trotzdem-6ad300d3199dc15f1abd6fc6",
+    "image": "https://images.bild.de/6ad300d3199dc15f1abd6fc6/bdc98aa9f1f960a658312be6dd7efefe,9e7044f0?w=1280",
+    "date": 0,
+    "titleSl": "Rot-Grün-Rot v Berlinu - Ab 2029 wollen sie enteignen"
+   },
+   {
     "title": "In der Neuer-Diskussion - Lothar widerspricht Kahn",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-wegen-neuer-matthaeus-widerspricht-kahn-6ad39e141918705d12968e22",
     "image": "https://images.bild.de/6ad39e141918705d12968e22/23d5b29dd44d79dcbcf9e0f4e28acefe,da8fbc4f?w=1280",
@@ -438,19 +451,6 @@
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/fame-fighting-4-aus-essen-der-live-ticker-zum-box-event-des-jahres-6acf3cc9c8c6305416e42484",
     "image": "https://images.bild.de/6acf3cc9c8c6305416e42484/c58e04f09f3784ca161ad4261a1eb8ce,3505f6f5?w=1280",
     "date": 0
-   },
-   {
-    "title": "Alle Spiele im Überblick - Füllkrugs Wahnsinns-Serie",
-    "link": "https://www.bild.de/sport/fussball/alle-spiele-im-ueberblick-fuellkrugs-wahnsinns-serie-6ad372c651e5094f7a56fbb6",
-    "image": "https://images.bild.de/6ad372c651e5094f7a56fbb6/1c95b1b99310d4678f0f15f2db710844,c438b22a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Noch nichts Finales ...“ - Pietro heizt Gerüchte an",
-    "link": "https://www.bild.de/sport/noch-nichts-finales-pietro-heizt-geruechte-an-6ad3730e199dc15f1abd75f6",
-    "image": "https://images.bild.de/6ad3730e199dc15f1abd75f6/9823da2de90fb4dbdfa7c206024735ff,d81413b?w=1280",
-    "date": 0,
-    "titleSl": "\"Noch nichts Finales ...\" - Pietro heizt Gerüchte an"
    }
   ],
   "krone": [
@@ -495,16 +495,16 @@
   ],
   "rainews": [
    {
-    "title": "Risultati della Ricerca per Tag - TGR Valle d'Aosta - RaiNews",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREFld0ptWXRiWHV4dUN0WXZ3TjVMYXp3WERoR0dYMjFoeXJOR1pFVzN5NjB6ZHc4dTJQd21DUG1FVTFkdFpfZ01MQXk3TkktR3o0RFVDNW9NblJkMXpuTTM3ejRRVnZzN2VlYk9LMm5TZmlLam5HYU4wc3M0d0NNVGUzRUlVQ0p0MGZ0MU5Qd0hCSW8?oc=5",
+    "title": "Premio per la Cultura mediterranea 2026 a uno scienziato lucano - RaiNews",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb0ZzYTFfM2o4YnU5b0Q3cXpLQnhCN2ZCZWtvZm5Lc3E1dDlVWVc0NUdKRHpBMjlEdF9GRFVuZE9ObW1XeGZsMjRfaFZjSUtVTHBlOXNOSjZpWmNHT3FKUy1adFVsa1NXSk5CN1g5TWpDQWtVUFZvVk5ZcnVSMVpVUFJKeHEzRkVYa0RnNE90dnBVa1JINUw2Qm8wMXA5VkxiS2Q4bjJMci13V3Z6UVFUTGg3dm9adGNaanlXZmg4cTA4QnFOQWZVUklxd1k5VVAyRFc0UUFwYVVDS0Z6S1RzRTl5WG9rSGtlOHZKeDVGbXhlci1R0gH0AUFVX3lxTE1vRnNhMV8zajhidTlvRDdxektCeEI3ZkJla29mbktzcTV0OVVZVzQ1R0pEekEyOUR0X0ZEVW5kT05tbVd4ZmwyNF9oVmNJS1VMcGU5c05KNmlaY0dPcUpTLVp0VWxrU1dKTkI3WDlNakNBa1VQVm9WTllydVIxWlVQUkp4cTNGRVhrRGc0T3R2cFVrUkg1TDZCbzAxcDlWTGJLZDhuMkxyLXdXdnpRUVRMaDd2b1p0Y1pqeVdmaDhxMDhCcU5BZlVSSXF3WTlVUDJEVzRRQXBhVUNLRnpLVHNFOXlYb2tIa2U4dkp4NUZteGVyLVE?oc=5",
     "image": "",
-    "date": 1792250013000
+    "date": 1792251493000
    },
    {
-    "title": "Risultati della Ricerca per Tag - TGR Piemonte - RaiNews",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1VqYVpDSXIzbTZfeXptM0g1TWk2QXNpa1ppemxCeWFPVHdDODh3WW9BTHhSb2hQUmJpU2ZzVTQtUlVaM1VfTFZLTnRPMmhWQVV2S2RTVWFmaWE1Y1NEcTNfSnVtMW50UzczLVdqUl9LNzl6bmJmTFFMeFhGS3kxWW1zLS1kOXExZl9BWWlpN0FaeGU3SzFpWUg5RFpOZ25NdHM5OHFrTDR5WkR1eTIzVnZB?oc=5",
+    "title": "Crollo del Ponte sul Trigno, a che punto sono le indagini? - RaiNews",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbXl5ZUE4ZnN1emM0MGZxMHJaZUJBaEJubVFTQXhYS3FyV3dMaUY0NndYaUNwc1V6dUNoZGkyMjVHTWhya3RKQlFONEI5bEF5eVl5RzRpWi0yMzRGRGhyVTVfeFIzNEhHQmdHNWg2WU9ZbDBNMmN1V19oenhEak1ITVdKV1ZjcVZXenBabXBzZVhnbVRLM0EwLXdRWmFiTm1uYnNxdXJua0NPTVRZQkxncEZaU3FOMnRZanBkWWhsczVlSDQydWdMbkE3a3dVME1NSDdIVFpreEtoZHVVTWlFbE54RnnSAeQBQVVfeXFMUG15eWVBOGZzdXpjNDBmcTByWmVCQWhCbm1RU0F4WEtxcld3TGlGNDZ3WGlDcHNVenVDaGRpMjI1R01ocmt0SkJRTjRCOWxBeXlZeUc0aVotMjM0RkRoclU1X3hSMzRIR0JnRzVoNllPWWwwTTJjdVdfaHp4RGpNSE1XSldWY3FWV3pwWm1wc2VYZ21USzNBMC13UVphYk5tbmJzcXVybmtDT01UWUJMZ3BGWlNxTjJ0WWpwZFlobHM1ZUg0MnVnTG5BN2t3VTBNTUg3SFRaa3hLaGR1VU1pRWxOeEZ5?oc=5",
     "image": "",
-    "date": 1792249991000
+    "date": 1792248790000
    },
    {
     "title": "Rovigo, cittadini e associazioni in piazza contro l'impianto di produzione di lana di roccia - RaiNews",
@@ -520,16 +520,17 @@
     "date": 1792247820000
    },
    {
-    "title": "Il Papa lascia il Gemelli: esce a piedi, sorride, saluta la folla e si ferma con una giovane ucraina - RaiNews",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVW5MekQ3UzlIYmdGWmJhODNiNWZtcHhVM1c3UEVWVDBQMkk4VUczUVBEVGFFRzE0YmQ4VHo1b2QzbkxEUDlVOEtTN1oxUVV1MzI3LVpxTV8xMlVaeHdSaEtuMzNQQjhaYlBfbTlQWlZidGNlSHMwZlB3Q2lPMDBHUWx6UzFkb05ZSE5YdENSZUUwdHRWbjBmTVFFMGhTOE1PX1IwLUgxVDROaU5vUkhPSkhEclFkNlN2c3JIOENpdDh1dm5meDlQOEVCeDhHN1FTcmVXeVVlU3BDVzR6NVBjQXM4c0g1SlFyczYtaHBmbkNJU0FMSWFsSjdzYWpHVFVWaFdMQWpzS1ZmY04x0gGMAkFVX3lxTE9Vbkx6RDdTOUhiZ0ZaYmE4M2I1Zm1weFUzVzdQRVZUMFAySThVRzNRUERUYUVHMTRiZDhUejVvZDNuTERQOVU4S1M3WjFRVXUzMjctWnFNXzEyVVp4d1JoS24zM1BCOFpiUF9tOVBaVmJ0Y2VIczBmUHdDaU8wMEdRbHpTMWRvTllITlh0Q1JlRTB0dFZuMGZNUUUwaFM4TU9fUjAtSDFUNE5pTm9SSE9KSERyUWQ2U3Zzckg4Q2l0OHV2bmZ4OVA4RUJ4OEc3UVNyZVd5VWVTcENXNHo1UGNBczhzSDVKUXJzNi1ocGZuQ0lTQUxJYWxKN3NhakdUVVZoV0xBanNLVmZjTjE?oc=5",
+    "title": "Risultati della Ricerca per Tag - TGR Calabria - RaiNews",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnk0Y3Q4QnpTYnAwN0dvU1dMVHRXdnIyNGU3X2xLa2dNb1V5ZE14M01kR2d6NllKLVVWRkZQZlRXREIzTURwcEwxaHBqRm5adzhiVFdpSVlSTVZLQ0FrSkZoT0d0NVFXQnZNc3BTdEZfSVFhelJrTUg4NWR6bjFQV3pMeEoteWUxUXVOcmQ5TnQwSDJmNXE4aUdJRDMyLTQ?oc=5",
     "image": "",
-    "date": 1792246441000
+    "date": 1792243407000
    },
    {
-    "title": "La marcia dei trattori non si arresta: protesta nel Materano - RaiNews",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcnQ5QWVzUmtFNlJzdG8yWHcyTi04WEN3emgwR1ZzMjd6ci1uZmZBVHFScTZYcnozczFnbGF1TWpTZmVpdXI4QnNnVi1IZ3M3aVFGSGYxMW5XbmdUVlRSYmd6M2o0MU84Z18zajdwZ2h4VzRBUXl1WEhZV0RJLXRWNENDcHhna0Q2VWFwZV9wa0RIbENhdXZaTHc1QzNocFczZUlUc0FXcmVwUkUySHVHNl9INnlhdDJNZXN5YWFmVGZNT0dKRFYwakdxSm9UOXRNdmtISjA3ZHhhZExUenFtVGVJTkVDYkRtUmVJSTdB0gHuAUFVX3lxTE5ydDlBZXNSa0U2UnN0bzJYdzJOLThYQ3d6aDBHVnMyN3pyLW5mZkFUcVJxNlhyejNzMWdsYXVNalNmZWl1cjhCc2dWLUhnczdpUUZIZjExblduZ1RWVFJiZ3ozajQxTzhnXzNqN3BnaHhXNEFReXVYSFlXREktdFY0Q0NweGdrRDZVYXBlX3BrREhsQ2F1dlpMdzVDM2hwVzNlSVRzQVdyZXBSRTJIdUc2X0g2eWF0Mk1lc3lhYWZUZk1PR0pEVjBqR3FKb1Q5dE12a0hKMDdkeGFkTFR6cW1UZUlORUNiRG1SZUlJN0E?oc=5",
+    "title": "Notiziario Molise | Meteo Molise del 17/10/2026 ore 14:00 - RaiNews",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzJJTXNwRlZmTGZ5WS1aZldEeGNLeHg2UjBSTDA5V1ctcjk0MmludWhBN25uYVF5Wk80Q1J0a0FJVFJpUmZ1NTVLT1J4TU5Yb0xTWGVNcDZYeklOTV90cUI1amN5NXMxRTFIa1FVTE5BTTFhaEV2RGRUQ3RpZlZLNGpuZTk3NEJHVVBLaURJZTFfZWZJMzNWdTY3U2hvcXJYUERPRWhVNE5yN2NCQ3NZQl9tZmVRVnpJTjJNNlhWRTNNVGFlTkVtMmNnNXpfZU9MLWdGUNIB1AFBVV95cUxNRzJJTXNwRlZmTGZ5WS1aZldEeGNLeHg2UjBSTDA5V1ctcjk0MmludWhBN25uYVF5Wk80Q1J0a0FJVFJpUmZ1NTVLT1J4TU5Yb0xTWGVNcDZYeklOTV90cUI1amN5NXMxRTFIa1FVTE5BTTFhaEV2RGRUQ3RpZlZLNGpuZTk3NEJHVVBLaURJZTFfZWZJMzNWdTY3U2hvcXJYUERPRWhVNE5yN2NCQ3NZQl9tZmVRVnpJTjJNNlhWRTNNVGFlTkVtMmNnNXpfZU9MLWdGUA?oc=5",
     "image": "",
-    "date": 1792245779000
+    "date": 1792242116000,
+    "titleSl": "Notiziario Molise | Meteo Molise del 17.10.2026 ore 14:00 - RaiNews"
    }
   ],
   "lemonde": [
@@ -555,7 +556,7 @@
    {
     "title": "EN DIRECT, manifestations du 17 octobre : « Nous ne nous laisserons pas intimider » par la violence, assure Sébastien Lecornu ; la CGT annonce 500 000 manifestants dans toute la France",
     "link": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-a-paris-et-dans-les-grandes-villes-de-france-des-corteges-calmes-et-des-scenes-d-affrontements-avec-les-forces-de-l-ordre_6795855_3224.html",
-    "image": "https://img.lemde.fr/2026/10/17/160/0/1280/640/644/322/60/0/1b46b93_upload-1-0bgqxxnmj5ks-whatsapp-image-2026-10-17-at-17-33-04.jpeg",
+    "image": "https://img.lemde.fr/2026/10/17/277/0/1280/640/644/322/60/0/1b46b93_upload-1-0bgqxxnmj5ks-whatsapp-image-2026-10-17-at-17-33-04.jpeg",
     "date": 1792247817000,
     "titleSl": "EN DIRECT, manifestations du 17 octobre : « Nous ne nous laisserons pas intimider » par la violence, ensure Sébastien Lecornu ; la CGT annonce 500 000 manifestants dans toute la France"
    },
