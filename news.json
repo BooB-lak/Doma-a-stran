@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T04:56:22.199Z",
+ "generatedAt": "2026-10-17T04:58:24.694Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Albania’s PM blames ‘foreign hands’ for protests",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792210824.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792210878000,
+    "titleSl": "Albanski premier za proteste krivi \"tuje roke\""
+   },
+   {
     "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
     "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2d683dbb6-1792202371.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad2bbbfc8926-1792195519.jpg?resize=1920%2C1440",
     "date": 1792200817000,
     "titleSl": "Ameriška obalna straža je rešila 16 ljudi, potem ko se je čoln potopil ob mehiški obali Baja"
-   },
-   {
-    "title": "Oregon school shooter was former special needs student, police say",
-    "link": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2b0c2211d-1792192706.jpg?resize=1920%2C1440",
-    "date": 1792196722000,
-    "titleSl": "Strelec v šoli v Oregonu je bil nekdanji učenec s posebnimi potrebami, pravijo polici"
    }
   ],
   "guardian": [
@@ -422,31 +422,36 @@
     "title": "Schnelle Trabis und ein Swimmingpool - Croys wilde Geschichten zum 80. Geburtstag!",
     "link": "https://www.bild.de/sport/fussball/schnelle-trabis-und-ein-swimmingpool-croys-wilde-geschichten-zum-80-geburtstag-6acf274ac8c6305416e42305",
     "image": "https://images.bild.de/6acf274ac8c6305416e42305/b44de85cefa2ed885843fdd483305d60,4ad9d061?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Hitri Trabis in bazen - Croyeve divje zgodbe za njegov 80. rojstni dan!"
    },
    {
     "title": "„Keine schöne Statistik“ - Sanders irrer Dynamo-Fluch",
     "link": "https://www.bild.de/sport/fussball/seit-17-jahren-sieglos-sanders-unglaublicher-dynamo-fluch-6ad1ec3651e5094f7a56e6a0",
     "image": "https://images.bild.de/6ad1ec3651e5094f7a56e6a0/29b7c125253792ba681a32f94645ae7b,5659a4d2?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "\"Ni dobra statistika\" - Sanderjevo noro Dynamo prekletstvo"
    },
    {
     "title": "Er kommt aus einem Nachbardorf - Demichelis kämpft für kranken Argentinier",
     "link": "https://www.bild.de/sport/fussball/rb-leipzig-er-kommt-aus-einem-nachbardorf-martin-demichelis-kaempft-fuer-kranken-argentinier-6ad1e08351e5094f7a56e538",
     "image": "https://images.bild.de/6ad1e08351e5094f7a56e538/f6156a3de87a398fed01a831d3fa3e40,ce1d9f9c?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Prihaja iz sosednje vasi - Demichelis se bori za bolne Argentince"
    },
    {
     "title": "Bloß nicht alles wegfegen - Laub im Garten kann richtig wertvoll sein",
     "link": "https://www.bild.de/leben-wissen/wohnen-living/falllaub-im-garten-warum-sie-blaetter-nicht-ueberall-entfernen-sollten-6ac73f7775caf261c519d3c1",
     "image": "https://images.bild.de/6ac73f7775caf261c519d3c1/040cd0978b8c1b8a0ca82f8efde19bc7-landscape,6f5769b4?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Samo ne pometite vsega – listje na vrtu je lahko res dragoceno"
    },
    {
     "title": "BILD-Service zum Spiel - Warum Blessin Hoffenheim-Experte ist",
     "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-warum-alexander-blessin-hoffenheim-experte-ist-6ad23fe7199dc15f1abd6a2f",
     "image": "https://images.bild.de/6ad23fe7199dc15f1abd6a2f/13da68821b26870833b4ebb62bfa337f,a8b09bf8?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Storitev BILD za igro - Zakaj je Blessin strokovnjak za Hoffenheim"
    },
    {
     "title": "72-Jähriger stach um sich - Amoklauf in Seniorenheim! Frau (86) getötet",
@@ -461,13 +466,15 @@
     "title": "„Krone“-Kommentar - Red Bull verleiht dem Staat Flügel",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pQnJPdHA0VkZ6d3ZGbEhKaXhsWjNlX3VWZzZac2R1eVd6TVFPT3lEV3pMVEtQbUZpaVFiNHdnaV94UQ?oc=5",
     "image": "",
-    "date": 1792209600000
+    "date": 1792209600000,
+    "titleSl": "Komentar “Krone” - Red Bull daje državi krila"
    },
    {
     "title": "„Krone“-Kommentar - Echter Aufschwung geht aber anders",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03V2p0b3BzcEV6YkR5cGc3LVJlX0xFOHVMWnVRckRjeXY3RlByTkJvaEN3V2lDbTVpUkMyTEhFVkNsUQ?oc=5",
     "image": "",
-    "date": 1792209600000
+    "date": 1792209600000,
+    "titleSl": "Komentar \"Krone\" - Toda pravo okrevanje deluje drugače"
    },
    {
     "title": "Nur noch 1,43 Euro - Schweinebauern unter Druck: „Preis ist ruinös!“",
@@ -480,7 +487,8 @@
     "title": "„Kriminaltourismus“ - Pensionistin (97) schrie Räuber-Ehepaar in Flucht",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2SUZEOEd2aS1Ld3FMWklGQnhmaE5OT1NwSkFXNF9OYmxKNUdQMW9kdl9YaC1oQ0w0TU1mUGhLMlRuUQ?oc=5",
     "image": "",
-    "date": 1792209600000
+    "date": 1792209600000,
+    "titleSl": "“Kriminalni turizem” - upokojenec (97) kričal, ko je roparski par bežal"
    },
    {
     "title": "We are Burgenland - Weibliche Talente für Frauenpower-Event gesucht",
@@ -502,7 +510,8 @@
     "title": "Wsj: sostegno Iran dietro i più sofisticati attacchi Houthi contro i sauditi",
     "link": "https://www.rainews.it/maratona/2026/10/trump-la-guerra-in-iran-finira-presto-non-avranno-mai-unarma-nucleare-70257a43-0830-46d5-9e48-8bba6f3bce1b.html",
     "image": "https://www.rainews.it/dl/img/2026/10/08/1791412133768_.jpg",
-    "date": 1792212840000
+    "date": 1792212840000,
+    "titleSl": "WSJ: Iran podpira najbolj izpopolnjene napade Hutijev na Savdijce"
    },
    {
     "title": "Usa: Trump sospende ampio pacchetto di sanzioni alla Russia",
@@ -515,13 +524,15 @@
     "title": "15 persone ferite a Kharkiv in seguito a un massiccio attacco russo",
     "link": "https://www.rainews.it/video/2026/10/15-persone-ferite-a-kharkiv-in-seguito-a-un-massiccio-attacco-russo-video-38c444ac-80ba-40df-9718-fca9cafef7b3.html",
     "image": "https://www.rainews.it/dl/img/2026/10/17/1792212142087_vlcsnap.jpg",
-    "date": 1792212120000
+    "date": 1792212120000,
+    "titleSl": "V velikem ruskem napadu v Harkovu je bilo ranjenih 15 ljudi"
    },
    {
     "title": "Trump licenzia dopo soli 5 giorni Katie Zacharia, portavoce della Casa Bianca",
     "link": "https://www.rainews.it/articoli/2026/10/trump-licenzia-dopo-soli-5-giorni-katie-zacharia-portavoce-della-casa-bianca--5eff93b2-11f9-43f9-b807-639813b6d8e9.html",
     "image": "https://www.rainews.it/dl/img/2026/10/14/1791960712857_Cattura.PNG",
-    "date": 1792209660000
+    "date": 1792209660000,
+    "titleSl": "Trump je po samo petih dneh odpustil tiskovno predstavnico Bele hiše Katie Zacharia"
    },
    {
     "title": "Missili contro Zaporizhzhia, almeno due feriti e case danneggiate",
@@ -540,17 +551,18 @@
   ],
   "lemonde": [
    {
+    "title": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/17/la-cyberattaque-des-frigos-de-supermarche-un-signal-d-alarme-pour-tous-les-industriels-et-un-rappel-a-la-loi-europeenne-pour-la-france_6795846_3234.html",
+    "image": "https://img.lemde.fr/2026/10/13/379/0/3956/1978/644/322/60/0/d64326f_ftp-1-mwblazziimvq-2026-10-13t095504z-16906231-rc282oaqzrgl-rtrmadp-3-france-cyberattack.JPG",
+    "date": 1792209603000,
+    "titleSl": "Kibernetski napad na hladilnike supermarketov, budnica za vse proizvajalce in opomin na evropsko pravo za Francijo"
+   },
+   {
     "title": "Entre Emmanuel Macron et la jeunesse, un divorce consommé",
     "link": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html",
     "image": "https://img.lemde.fr/2026/10/06/688/0/8256/4128/644/322/60/0/f01d9fc_upload-1-kq0mm4agcirc-dsc-5648.jpg",
     "date": 1792207819000,
     "titleSl": "Med Emmanuelom Macronom in mladostjo popolna ločitev"
-   },
-   {
-    "title": "Dans le nord du Finistère, un approvisionnement en eau potable rendu périlleux par la sécheresse : « On commence tous à craindre un hiver sec »",
-    "link": "https://www.lemonde.fr/planete/article/2026/10/17/dans-le-nord-du-finistere-un-approvisionnement-en-eau-potable-rendu-perilleux-par-la-secheresse-on-commence-tous-a-craindre-un-hiver-sec_6795810_3244.html",
-    "image": "https://img.lemde.fr/2026/10/16/1056/0/8448/4224/644/322/60/0/c64ce8f_upload-1-kycsowkln6a0-l1020925.jpg",
-    "date": 1792207811000
    },
    {
     "title": "Succession d’Antonio Guterres à l’ONU : aucun candidat ne fait consensus",
@@ -577,7 +589,8 @@
     "title": "Aux Etats-Unis, Katie Zacharia bat un record de brièveté comme porte-parole de la Maison Blanche",
     "link": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
     "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/700c42d_ftp-1-i1t9fuqub1x7-afp-d3j63n7-1024.jpg",
-    "date": 1792191547000
+    "date": 1792191547000,
+    "titleSl": "V Združenih državah je Katie Zacharia podrla rekord v kratkosti kot tiskovna predstavnica Bele hiše"
    }
   ],
   "elpais": [
@@ -585,13 +598,15 @@
     "title": "Temporada de lluvia: cinco botas de agua para niños con los diseños más divertidos",
     "link": "https://elpais.com/escaparate/estilo-de-vida/botas-de-agua-para-ninos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/JNTYYKL7UJFYDB2SPPVZPWFOTY.png?auth=534cf0c00ca3c280c1f34cb2168ae6dfeeb0b1ceaee1d8e4cb834b68b942366d",
-    "date": 1792212300000
+    "date": 1792212300000,
+    "titleSl": "Deževna sezona: pet čevljev za otroke z najbolj smešnimi dizajni"
    },
    {
     "title": "El invento para móvil que permite ver series y hacer videollamadas sin usar las manos",
     "link": "https://elpais.com/escaparate/tecnologia/soporte-movil.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DWHW5R4ZSFCMZOENJKODJ5CPHI.png?auth=2fe03f690e5c4b3a9782ff76bb974e5c1969952e73cca99a1fd7f7c1dcc57c72",
-    "date": 1792211400000
+    "date": 1792211400000,
+    "titleSl": "Mobilni izum, ki omogoča gledanje serij in video klice brez uporabe rok"
    },
    {
     "title": "Calefactores cerámicos para habitaciones pequeñas: los modelos mejor valorados en Amazon por menos de 50 euros",
