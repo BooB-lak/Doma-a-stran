@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T12:50:35.603Z",
+ "generatedAt": "2026-10-17T12:52:23.524Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Veliki protestni shod v Parizu, študentom so se pridružili rumeni jopiči",
+    "link": "https://www.24ur.com/novice/tujina/veliki-protestni-shod-v-parizu.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/5077e3e1baff034af64d_63664738.jpg?v=ca1d&fop=fp:0.45:0.43",
+    "date": 1792240455000
+   },
+   {
     "title": "Darovalec mu je rešil življenje, zdaj sam pomaga drugim",
     "link": "https://www.24ur.com/novice/slovenija/darovalec-mu-je-resil-zivljenje-zdaj-sam-pomaga-drugim.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/7ea32b997292a2d11553_63661747.jpg?v=2ef3&fop=fp:0.47:0.40",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/formula1/george-russell-od-mercedesa-zahteva-jasne-odgovore.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/4150e3043033a2bfc9d5_63664711.jpg?v=3c3b&fop=fp:0.52:0.30",
     "date": 1792236663000
-   },
-   {
-    "title": "Tilen je predelal žalost, zdaj začenja posebno kulinarično zgodbo",
-    "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/tilen-je-predelal-zalost-sedaj-zacenja-posebno-kulinaricno-zgodbo.html",
-    "image": "https://images.24ur.com/media/images/213xX/Aug2026/9aa2a345142b64db801b_63630172.jpg?v=dede&fop=fp:0.49:0.22",
-    "date": 1792236612000
    }
   ],
   "rtvslo": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Child, four women among Palestinians injured in West Bank pogroms",
-    "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T094210Z_503381275_RC254OAOMY72_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-ATTACK-1792230965.jpg?resize=1920%2C1440",
-    "date": 1792241283000,
-    "titleSl": "Otrok, štiri ženske med Palestinci poškodovane v pogromih na Zahodnem bregu"
-   },
-   {
-    "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-    "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad36dd96216-1792241113_7ea687-1792241188.jpg?resize=1200%2C630&quality=80",
-    "date": 1792241208000,
-    "titleSl": "Davidovich Fokina osupnil vrhunskega Zvereva, da bi prišel do finala Shanghai Mastersa"
-   },
-   {
     "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
     "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2019/02/b29b75b23ad849298e257aefdfd0a85b_18.jpeg?resize=1200%2C675",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/CJP-1792238812.jpg?resize=1920%2C1080&quality=80",
     "date": 1792238835000,
     "titleSl": "Ženske protestirajo v New Delhiju proti policijski brutalnosti"
+   },
+   {
+    "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/wide-thumb-ukraine-1710-1792236112.png?resize=1920%2C1080&quality=80",
+    "date": 1792236161000,
+    "titleSl": "V ruskih napadih so umrli civilisti, več deset jih je bilo ranjenih po vsej Ukrajini"
+   },
+   {
+    "title": "Protests spread across France as ‘yellow vests’ set to join",
+    "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad344e34252-1792230627.jpg?resize=1920%2C1440",
+    "date": 1792236092000,
+    "titleSl": "Protesti so se razširili po Franciji, ko naj bi se pridružili \"rumeni jopiči\""
    }
   ],
   "guardian": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Koalitionsverhandlungen in Sicht - Rot-Grün-Rot in Berlin einig!",
+    "link": "https://www.bild.de/politik/eilmeldung-rot-gruen-rot-einigt-sich-bei-sondierungen-in-berlin-6ad365b4992af73088da2825",
+    "image": "https://images.bild.de/6ad365b4992af73088da2825/025756170bdce47feefa0a698ec96bbe,7216299c?w=1280",
+    "date": 0,
+    "titleSl": "Koalicijska pogajanja na vidiku - Rdeče-zeleno-rdeči dogovorjeni v Berlinu!"
+   },
+   {
+    "title": "Das kommt überraschend! - ER ist beim HSV der Remberg-Ersatz",
+    "link": "https://www.bild.de/sport/fussball/hsv-das-kommt-ueberraschend-er-ist-remberg-ersatz-6ad3650851e5094f7a56fac9",
+    "image": "https://images.bild.de/6ad3650851e5094f7a56fac9/0f00692244ecc4aa78bde53f7c0ca60c,369bc0fc?w=1280",
+    "date": 0,
+    "titleSl": "To je presenečenje! - ON je zamenjava za Remberga pri HSV"
+   },
+   {
     "title": "Erneute Warnung von Kaufland - Babynahrung trotz Giftverdacht im Regal",
     "link": "https://www.bild.de/regional/baden-wuerttemberg/erneute-warnung-von-kaufland-babynahrung-trotz-rueckruf-weiter-im-regal-6ad34d211918705d12968907",
     "image": "https://images.bild.de/6ad34d211918705d12968907/89757e669b6fd63c03d9f376606d6185,b85c44b9?w=1280",
@@ -437,20 +451,6 @@
     "image": "https://images.bild.de/6ad34118199dc15f1abd72e0/64eba0b089dc3a652868055e27a6ce22,d1253686?w=1280",
     "date": 0,
     "titleSl": "Merz svari pred koalicijo z Levico - \"To ni dovoljeno! Nehajte!\""
-   },
-   {
-    "title": "Das kommt überraschend! - ER ist beim HSV der Remberg-Ersatz",
-    "link": "https://www.bild.de/sport/fussball/hsv-das-kommt-ueberraschend-er-ist-remberg-ersatz-6ad3650851e5094f7a56fac9",
-    "image": "https://images.bild.de/6ad3650851e5094f7a56fac9/0f00692244ecc4aa78bde53f7c0ca60c,369bc0fc?w=1280",
-    "date": 0,
-    "titleSl": "To je presenečenje! - ON je zamenjava za Remberga pri HSV"
-   },
-   {
-    "title": "Koalitionsverhandlungen in Sicht - Rot-Grün-Rot in Berlin einig!",
-    "link": "https://www.bild.de/politik/eilmeldung-rot-gruen-rot-einigt-sich-bei-sondierungen-in-berlin-6ad365b4992af73088da2825",
-    "image": "https://images.bild.de/6ad365b4992af73088da2825/025756170bdce47feefa0a698ec96bbe,7216299c?w=1280",
-    "date": 0,
-    "titleSl": "Koalicijska pogajanja na vidiku - Rdeče-zeleno-rdeči dogovorjeni v Berlinu!"
    },
    {
     "title": "Dynamo im Derby unter Druck - Coach Stamm warnt vor Nagativ-Gedanken",
@@ -505,6 +505,13 @@
   ],
   "rainews": [
    {
+    "title": "TG3 Pixel del 17/10/2026",
+    "link": "https://www.rainews.it/rubriche/tg3pixel/video/2026/10/TG3-Pixel-del-17102026-22c75dd8-f047-47aa-a46e-192b834f62f6.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/08/1791470192814_TG3Pixel_2048x1152.jpg",
+    "date": 1792241472000,
+    "titleSl": "TG3 Pixel del 17.10.2026"
+   },
+   {
     "title": "Il Papa lascia l&#x27;ospedale e rientra in Vaticano, domani reciterà l&#x27;Angelus dal Palazzo apostolico",
     "link": "https://www.rainews.it/maratona/2026/10/lannuncio-a-sorpresa-del-papa-ho-un-nodulo-al-polmone-mi-opero-intervento-chirurgico-gemelli-ricovero-87309116-f375-4edc-b22a-6358d838a842.html",
     "image": "https://www.rainews.it/dl/img/2026/10/16/1792158139113_WhatsApp_Image__at_...jpeg",
@@ -538,13 +545,6 @@
     "image": "https://www.rainews.it/dl/img/2026/07/27/1785144061387_SmartTVDesktop_16-9.png",
     "date": 1792238496000,
     "titleSl": "Konec tedna TG2 17. 10. 2026"
-   },
-   {
-    "title": "Nel giorno delle dimissioni dal Gemelli, la vicinanza al Papa dei piccoli pazienti del Bambino Gesù",
-    "link": "https://www.rainews.it/video/2026/10/nel-giorno-delle-dimissioni-dal-gemelli-la-vicinanza-al-papa-dei-piccoli-pazienti-del-bambino-gesu-7d2c9e15-50dd-499c-ab43-b203f4640dc8.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/17/1792238083994_videoframe.png",
-    "date": 1792238460000,
-    "titleSl": "Na dan odstopa od Gemellija, bližina papeža malih pacientov Jezusa"
    }
   ],
   "lemonde": [
@@ -596,7 +596,7 @@
     "title": "Rafa Jódar - Daniil Medvedev en directo, la semifinal del Masters Shanghái en vivo|Jódar gana el primer set",
     "link": "https://elpais.com/deportes/tenis/2026-10-17/rafa-jodar-daniil-medvedev-en-directo-la-semifinal-del-masters-shanghai-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/R5LSGD6475JVZEYIN64J5SEOXA.jpg?auth=eb0882dc6bd1503027394f4d30dadd52ee2b20c0cdc940823ebf53dd92ee5112",
-    "date": 1792241344000,
+    "date": 1792241465000,
     "titleSl": "Rafa Jódar - Daniil Medvedev v živo, polfinale turnirja Shanghai Masters v živo|Jódar zmagal v prvem nizu"
    },
    {
