@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T14:02:24.219Z",
+ "generatedAt": "2026-10-17T14:04:23.435Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Pred hišo ostal ujet v električnem avtomobilu",
+    "link": "https://www.24ur.com/novice/tujina/pred-hiso-ostal-ujet-v-elektricnem-avtomobilu.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/4b1e3e1668abb761f69a_63664759.jpg?v=7227&fop=fp:0.52:0.52",
+    "date": 1792245663000
+   },
+   {
     "title": "Trenutek groze na Otoku: vratar Chelseaja po trku obležal na tleh",
     "link": "https://www.24ur.com/sport/nogomet/trenutek-groze-na-otoku-vratar-chelseja-nepremicno-oblezal.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/d5e12f4a7a8f0a27baf1_63664749.jpg?v=7e19&fop=fp:0.40:0.51",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/formula1/brez-nove-hrbtenice-ne-bo-slo-verstappen-o-stanju-steze-v-austinu.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/f93bc302c11596fb1b2a_63664732.jpg?v=d0d3&fop=fp:0.40:0.21",
     "date": 1792240725000
-   },
-   {
-    "title": "Veliki protestni shod v Parizu, študentom so se pridružili rumeni jopiči",
-    "link": "https://www.24ur.com/novice/tujina/veliki-protestni-shod-v-parizu.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/5077e3e1baff034af64d_63664738.jpg?v=ca1d&fop=fp:0.45:0.43",
-    "date": 1792240455000
    }
   ],
   "rtvslo": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Protesters clash with police during nationwide demonstrations in France",
-    "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad377293126-1792243497.jpg?resize=1920%2C1440",
-    "date": 1792244682000,
-    "titleSl": "Med demonstracijami po vsej državi v Franciji so se protestniki spopadli s policijo"
-   },
-   {
-    "title": "Why Trump’s latest White House press secretary lasted just five days",
-    "link": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad36cb9b155-1792240825.jpg?resize=1920%2C1440",
-    "date": 1792244509000,
-    "titleSl": "Zakaj je zadnji Trumpov tiskovni sekretar v Beli hiši zdržal le pet dni"
-   },
-   {
     "title": "Child, four women among Palestinians injured in West Bank pogroms",
     "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T094210Z_503381275_RC254OAOMY72_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-ATTACK-1792230965.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792239508.jpg?resize=1571%2C1080&quality=80",
     "date": 1792239535000,
     "titleSl": "Francija se spopada z novim valom protestov po vsej državi"
+   },
+   {
+    "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+    "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad356329eaa-1792235058.jpg?resize=1920%2C1440",
+    "date": 1792239056000,
+    "titleSl": "ZDA in Iran si zaradi napadov na ladje lastita nadzor nad Hormuško ožino"
+   },
+   {
+    "title": "Women protest in New Delhi against police brutality",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/CJP-1792238812.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792238835000,
+    "titleSl": "Ženske protestirajo v New Delhiju proti policijski brutalnosti"
    }
   ],
   "guardian": [
@@ -375,11 +375,11 @@
   ],
   "spiegel": [
    {
-    "title": "Tunesien: Kais Saied in der Kritik, Tausende protestieren gegen den Autokraten",
-    "link": "https://www.spiegel.de/ausland/tunesien-kais-saied-in-der-kritik-tausende-protestieren-gegen-den-autokraten-a-8ff103bc-8d8d-4ced-944d-6e20545405e5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8db3adb1-f6c8-44d4-861f-06d26d1d5cdf_w520_r2.08_fpx46_fpy56.jpg",
-    "date": 1792245120000,
-    "titleSl": "Tunizija: Kais Saied kritiziran, na tisoče protestira proti avtokratu"
+    "title": "Cyberangriff auf Hochschulen – Noten und Stundenpläne offline",
+    "link": "https://www.spiegel.de/panorama/justiz/cyberangriff-auf-hochschulen-noten-und-stundenplaene-offline-a-687e1d42-2ef5-427f-9361-790f43b1f292#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a0b103e0-dde9-423a-a450-ac0ce359b762_w520_r2.08_fpx53_fpy55.jpg",
+    "date": 1792245660000,
+    "titleSl": "Kibernetski napad na univerze – ocene in urniki brez povezave"
    },
    {
     "title": "Saudi-Arabien: Droht nach den Angriffen der Huthis ein offener Krieg mit Iran?",
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "„Noch im Hinterkopf“ - Kovac erklärt Startelf-Entscheidung",
+    "link": "https://www.bild.de/sport/fussball/bvb-trainer-niko-kovac-erklaert-karetsas-bankplatz-noch-im-hinterkopf-6ad3708751e5094f7a56fb8a",
+    "image": "https://images.bild.de/6ad3708751e5094f7a56fb8a/1f377a16b4ff2680cb51d4e403ed2a77,9ac5d2de?w=1280",
+    "date": 0,
+    "titleSl": "\"Še vedno sem v mislih\" - pojasnjuje Kovač odločitev o začetni enajsterici"
+   },
+   {
+    "title": "„Wir haben ihn verarscht“ - Damit rechnet der Fame-Fighting-Boss nicht",
+    "link": "https://www.bild.de/sport/wir-haben-ihn-verarscht-damit-hat-der-fame-fighting-boss-nicht-gerechnet-6ad2474551e5094f7a56efd2",
+    "image": "https://images.bild.de/6ad2474551e5094f7a56efd2/eedd5b7fae5c38c8453dd86f1c618d9d,cdfea629?w=1280",
+    "date": 0,
+    "titleSl": "\"Zjebali smo ga\" - šef Fame Fightinga tega ne pričakuje"
+   },
+   {
     "title": "Pleite gegen Saarbrücken - Jetzt droht Ende das Fortuna-Ende!",
     "link": "https://www.bild.de/sport/fussball/fortuna-pleite-gegen-saarbruecken-jetzt-droht-alexander-ende-das-ende-6ad3742c199dc15f1abd7609",
     "image": "https://images.bild.de/6ad3742c199dc15f1abd7609/45c137b360cf02c3f213bb4ce2993ce4,86575cc7?w=1280",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6ad24ccf199dc15f1abd6aec/01a964fc57722e6f5db78e55c196e299,4760b76?w=1280",
     "date": 0,
     "titleSl": "Aus dem Krankenhaus - Papst Leon XIV. telefoniert mit Putin"
-   },
-   {
-    "title": "Was soll das denn? - Diese Frau schmiert sich Mayonnaise auf den Kopf",
-    "link": "https://www.bild.de/news/irre-haarpflege-diese-frau-schmiert-sich-mayonnaise-auf-den-kopf-6acd1873b52dabc39e80e4dd",
-    "image": "https://images.bild.de/6acd1873b52dabc39e80e4dd/c8a6a61e2b1ac64e5f29d989914fd76e,8e430104?w=1280",
-    "date": 0,
-    "titleSl": "Kaj naj bi to pomenilo? - Ta ženska si maže glavo z majonezo"
-   },
-   {
-    "title": "NFL-Kolumne von Carsten Spengemann - Chargers? Bitte einmal Stecker ziehen!",
-    "link": "https://www.bild.de/sport/mehr-sport/nfl-kolumne-von-carsten-spengemann-chargers-bitte-einmal-stecker-ziehen-6ad3782c51e5094f7a56fbfc",
-    "image": "https://images.bild.de/6ad3782c51e5094f7a56fbfc/3f7ff996c19524885c45da4115a52300-landscape,f329653a?w=1280",
-    "date": 0,
-    "titleSl": "NFL-Kolumne von Carsten Spengemann - polnilci? Bitte einmal Stecker ziehen!"
    }
   ],
   "krone": [
@@ -507,11 +507,11 @@
   ],
   "rainews": [
    {
-    "title": "Venezia-Napoli 0-0 al 45&#x27;, stasera la sfida a distanza tra Inter e Roma",
+    "title": "Venezia-Napoli 0-0, stasera la sfida a distanza tra Inter e Roma",
     "link": "https://www.rainews.it/maratona/2026/10/maratona-2026-10-calcio-serie-a-giornata-7-venezia-napoli-bologna-inter-roma-genoa-risultati-cronaca-aggiornamenti-diretta-highlights-sintesi-video-40aac240-3e45-4f10-b412-2060a0fe63d8.html",
     "image": "https://www.rainews.it/dl/img/2026/10/17/1792245451151_large.jpg",
     "date": 1792245600000,
-    "titleSl": "Benetke-Napoli 0:0 v 45. minuti, nocoj tekma med Interjem in Romo"
+    "titleSl": "Benetke-Neapelj 0-0, nocoj tekma na dolgi razdalji med Interjem in Rimom"
    },
    {
     "title": "Il Papa ha lasciato il Gemelli ed è rientrato in Vaticano, domani l&#x27;Angelus dal Palazzo apostolico",
@@ -595,11 +595,11 @@
   ],
   "elpais": [
    {
-    "title": "Última hora de la actualidad política, en directo | Colau, sobre Podemos: “Si alguien no se quiere sentar a una mesa, no se le puede obligar”",
+    "title": "Última hora de la actualidad política, en directo | García Albiol será el candidato del PP al Congreso por Barcelona",
     "link": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/QLNUG5P3CZHERCDOQM6YIPWIUI.jpg?auth=ca045ca552e761830699f253064385c6d135f657314f1174e64626f6b313581a",
-    "date": 1792245411000,
-    "titleSl": "Zadnje politične novice, v živo | Colau, o Podemosu: \"Če nekdo noče sesti za mizo, ga ne morete prisiliti\""
+    "image": "https://imagenes.elpais.com/resizer/v2/SCXOJLCG65NC7N7AGTS2DUUUYQ.jpg?auth=63c75e870aa4fe385e817ff9f538e93421d3d47a34051fe107f71ae6e2423a59",
+    "date": 1792245678000,
+    "titleSl": "Zadnje politične novice, v živo | García Albiol bo kandidat PP za kongres Barcelone"
    },
    {
     "title": "El Papa sale del hospital cuatro días después de su operación de pulmón",
