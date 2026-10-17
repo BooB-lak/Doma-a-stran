@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T08:50:37.448Z",
+ "generatedAt": "2026-10-17T08:52:25.310Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Vonnova si je premislila: \"Ok, lagala sem\"",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/vonnova-si-je-premislila-ok-lagala-sem-466856",
+    "image": "https://www.zurnal24.si/media/img/35/be/e882e6570f8c52607dd4.jpeg",
+    "date": 1792227060000
+   },
+   {
     "title": "Slovensko smučanje na preizkušnji: Denarja manj, izzivov vse več",
     "link": "https://www.zurnal24.si/sport/zimski-sporti/slovensko-smucanje-na-preizkusnji-denarja-manj-izzivov-vse-vec-466858",
     "image": "https://www.zurnal24.si/media/img/11/48/9d8cffeeafa3e23b05bb.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/spremembe-zakonov-skok-droge-upravna-enota-prazniki-triglav-466853",
     "image": "https://www.zurnal24.si/media/img/2c/1d/6fff770c5a42a9cca1ff.jpeg",
     "date": 1792220760000
-   },
-   {
-    "title": "Liga NBA žaluje: Poslovil se je nekdanji zvezdnik",
-    "link": "https://www.zurnal24.si/sport/kosarka/liga-nba-zaluje-poslovil-se-je-nekdanji-zvezdnik-466852",
-    "image": "https://www.zurnal24.si/media/img/cc/d3/f9080b275f69bdea2ad3.jpeg",
-    "date": 1792217940000
    }
   ],
   "reuters": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Das Deutschland-Protokoll - Alle 68 Sekunden erlebt eine Frau Gewalt",
+    "link": "https://www.bild.de/news/inland/das-protokoll-jeden-tag-erfahren-frauen-in-deutschland-gewalt-694150445d051a3e3193af12",
+    "image": "https://images.bild.de/694150445d051a3e3193af12/fa0e481dd24a6d64c863a77bffce0592,bf2adebf?w=1280",
+    "date": 0,
+    "titleSl": "Nemški protokol - vsakih 68 sekund ženska doživi nasilje"
+   },
+   {
     "title": "14 Jahre Haft - Pädokrimineller betäubte Opfer mit Chloroform-Maske",
     "link": "https://www.bild.de/regional/dresden/prozess-in-dresden-paedokrimineller-betaeubte-opfer-mit-chloroform-maske-6ad0e6330aea524a0240b46b",
     "image": "https://images.bild.de/6ad0e6330aea524a0240b46b/0df68456aac149d0b503f4333139a62c,223a36d3?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6ad3260651e5094f7a56f753/fa01d3201848d5288d5de07d33a6bea0,5be685f7?w=1280",
     "date": 0,
     "titleSl": "Do 20 odstotkov več - višji stroški za elektriko in plin od leta 2027"
-   },
-   {
-    "title": "Bei Spiel im Europapokal - Drei Verhaftungen nach Nazi-Skandal!",
-    "link": "https://www.bild.de/sport/fussball/drei-verhaftungen-nach-nazi-skandal-im-europapokal-6ad31c4b199dc15f1abd7122",
-    "image": "https://images.bild.de/6ad31c4b199dc15f1abd7122/bd923db35dee345c6cd66e2ad64c5aa6,13f86445?w=1280",
-    "date": 0,
-    "titleSl": "Na tekmi evropskega pokala - po nacističnem škandalu tri aretacije!"
    }
   ],
   "krone": [
@@ -507,18 +507,25 @@
   ],
   "rainews": [
    {
+    "title": "Mosca, colpita nave nel Mar Nero con armi per Kiev. Papa sente Putin ma nessuna tregua",
+    "link": "https://www.rainews.it/maratona/2026/10/il-papa-sente-putin-ma-nessuna-risposta-per-il-cessate-il-fuoco-873870e1-25e0-44da-a16c-4228bc025973.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/17/1792224023608_DKCU.jpg",
+    "date": 1792227000000,
+    "titleSl": "Moskva, v Črnem morju zadeta ladja z orožjem za Kijev. Papež sliši Putina, a brez predaha"
+   },
+   {
+    "title": "Abi: accelera crescita dei prestiti a famiglie e imprese, +3,7%",
+    "link": "https://www.rainews.it/articoli/2026/10/abi-accelera-crescita-dei-prestiti-a-famiglie-e-imprese-3-e-7-percento-salgono-tassi-su-mutui-e-depositi-bancari-d6540993-3018-4ec5-b0ab-629945a0b495.html",
+    "image": "https://www.rainews.it/dl/img/2026/06/08/1780873742052_son_risiko_bancario.transferframe.jpeg",
+    "date": 1792226820000,
+    "titleSl": "Abi: pospešena rast posojil družinam in podjetjem, +3,7 %"
+   },
+   {
     "title": "Isw, conquiste russe 65 volte inferiori a quelle rivendicate da Putin",
     "link": "https://www.rainews.it/articoli/2026/10/isw-conquiste-russe-65-volte-inferiori-a-quelle-rivendicate-da-putin-il-rapporto-usa-17da8a37-c08a-464a-8fac-49b7c1605c42.html",
     "image": "https://www.rainews.it/dl/img/2026/9/28/1790602731099_large.jpg",
     "date": 1792226760000,
     "titleSl": "Isw, ruska osvajanja 65-krat nižja od tistih, ki jih trdi Putin"
-   },
-   {
-    "title": "Mosca, colpita nave nel Mar Nero con armi per Kiev. Papa sente Putin ma nessuna tregua",
-    "link": "https://www.rainews.it/maratona/2026/10/il-papa-sente-putin-ma-nessuna-risposta-per-il-cessate-il-fuoco-873870e1-25e0-44da-a16c-4228bc025973.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/17/1792224023608_DKCU.jpg",
-    "date": 1792226280000,
-    "titleSl": "Moskva, v Črnem morju zadeta ladja z orožjem za Kijev. Papež sliši Putina, a brez predaha"
    },
    {
     "title": "Il gasolio sfiora i 2,3 euro nel prezzo medio sulle autostrade",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/17/1792222153500_AMSE.png",
     "date": 1792223820000,
     "titleSl": "Drugi svetovi - Castlevania: Belmontovo prekletstvo, mojstra, ki so ga presegli njegovi učenci"
-   },
-   {
-    "title": "Insulti omofobi dopo la foto di un bacio sui social, le parole della nonna: \"L&#x27;amore vince su tutto\"",
-    "link": "https://www.rainews.it/articoli/2026/10/insulti-omofobi-dopo-la-foto-del-bacio-sui-social-le-parole-della-nonna-lamore-vince-su-tutto-lettera-cesenatico-c01e899c-9913-4843-a196-fb7e49b1e7e9.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/17/1792221298418_bacio.PNG",
-    "date": 1792221300000,
-    "titleSl": "Homofobne žaljivke po fotografiji poljuba na družbenih omrežjih, besede babice: \"Ljubezen premaga vse\""
    }
   ],
   "lemonde": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "Alexander Zverev - Alejandro Davidovich en directo, la semifinal del Masters Shanghái en vivo|Comienza el primer set",
+    "link": "https://elpais.com/deportes/tenis/2026-10-17/alexander-zverev-alejandro-davidovich-en-directo-la-semifinal-del-masters-shanghai-en-vivo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/MF2VCJMFQZMNHLA6HFH6WXEYV4.jpg?auth=e764cbc1283a1664195225b8c2114deae7653b042cde4c469571545450e772e7",
+    "date": 1792227045000,
+    "titleSl": "Alexander Zverev - Alejandro Davidovich v živo, polfinale turnirja Shanghai Masters v živo | Začenja se prvi niz"
+   },
+   {
     "title": "Última hora de la actualidad política, en directo | Rebeca Torró será la nueva portavoz del PSOE tras la renuncia de Montse Mínguez",
     "link": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/RI32YH27RNDLFNDWSHSEJS5GJQ.jpg?auth=dba9446ad81d631fd134eb7688abe6d4c681c464010d38b910df8dfaf26258ae",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/TFM3XAU6PZBMTPHVGUCMXLN2A4.png?auth=6f8cc6cf9d07137f9bb217d3943da55211d6a6e46861ad09304eec90c04702fd",
     "date": 1792210500000,
     "titleSl": "Calefactores cerámicos para habitaciones pequeñas: los modelos mejor valorados en Amazon por menos de 50 evrov"
-   },
-   {
-    "title": "Arrestos, despidos y escupitajos: los profesores israelíes perseguidos por sus opiniones fuera del aula",
-    "link": "https://elpais.com/internacional/2026-10-17/arrestos-despidos-y-escupitajos-los-profesores-israelies-perseguidos-por-sus-opiniones-fuera-del-aula.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/NI3LX5HCYBBTLAZCDGHLUTEFPM.jpg?auth=6f97ba2165ddba6af85f5794862ff3c50585b8adf9cf3c5cd34bf162eb8d3588",
-    "date": 1792208701000,
-    "titleSl": "Arrestos, despidos y escupitajos: los profesores israelíes perseguidos por susļones fuera del aula"
    }
   ]
  },
