@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-17T18:20:36.267Z",
+ "generatedAt": "2026-10-17T18:22:23.008Z",
  "sources": {
   "siol": [
+   {
+    "title": "Slovan se je utrdil na vrhu, Trimo zanesljiv na derbiju",
+    "link": "https://siol.net/sportal/rokomet/liga-nlb-8-krog-703924",
+    "image": "https://siol.net/media/img/10/7b/988155de2fdcaf59e79c.jpeg",
+    "date": 1792261260000
+   },
    {
     "title": "Krvnik najboljšega Slovenca Leo de Nodrest presenetil še enega favorita",
     "link": "https://siol.net/sportal/drugi-sporti/krvnik-najboljsega-slovenca-leo-de-nodrest-presenetil-se-enega-favorita-704215",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/spansko-prvenstvo-9-krog-704157",
     "image": "https://siol.net/media/img/d1/73/7315a436dd38b9e43f9e.jpeg",
     "date": 1792259520000
-   },
-   {
-    "title": "Prekmurski derbi brez zadetkov, mlinarji prekrižali načrte favoritu",
-    "link": "https://siol.net/sportal/nogomet/1-snl-12-krog-704126",
-    "image": "https://siol.net/media/img/c1/cf/3178b6eafa92bcfacfa4.jpeg",
-    "date": 1792259220000
    }
   ],
   "24ur": [
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
-    "link": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
-    "image": "https://i.guim.co.uk/img/media/d57b941b1699636031985e4f2bcdf96f16518334/287_0_4138_3310/master/4138.jpg?width=140&quality=85&auto=format&fit=max&s=420b31e183c2bb492ccdf1585075332a",
-    "date": 1792260626000,
-    "titleSl": "V hitro rastočem požaru v Kaliforniji je zgorelo šest prenočišč, dva gasilca pa sta bila poškodovana"
-   },
-   {
     "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
     "link": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
     "image": "https://i.guim.co.uk/img/media/760737ad9e81c7f2a65f16df302ae7b2d1656dc9/689_0_3764_3014/master/3764.jpg?width=140&quality=85&auto=format&fit=max&s=9a0be0384c32eaaf4c45c3908e3819a2",
@@ -371,6 +364,13 @@
     "image": "https://i.guim.co.uk/img/media/2df1f99c6d550c24a647fd5d18146eb5128e3879/73_0_539_431/master/539.jpg?width=140&quality=85&auto=format&fit=max&s=efcb4cbea45375e8d1fa225a02d57f54",
     "date": 1792252627000,
     "titleSl": "Plošča, ki pripoveduje zgodbo o afriško-karibskih zapornikih v Veliki Britaniji, ukradenih v nekaj dneh"
+   },
+   {
+    "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+    "link": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+    "image": "https://i.guim.co.uk/img/media/dc2f9d231863c6c126b9760a976294a0dfcf604c/295_0_2948_2359/master/2948.jpg?width=140&quality=85&auto=format&fit=max&s=f8f9b4b01d7cbb737307bed367d0dedf",
+    "date": 1792251953000,
+    "titleSl": "SNP pravi, da se je kampanja za naslednji referendum o neodvisnosti \"že začela\""
    }
   ],
   "spiegel": [
@@ -378,19 +378,22 @@
     "title": "Künstliche Intelligenz – Deutscher Kulturrat zu KI: »Das ist eine Schönfärberei, wie ich sie noch nie erlebt habe«",
     "link": "https://www.spiegel.de/kultur/kuenstliche-intelligenz-deutscher-kulturrat-zu-ki-das-ist-eine-schoenfaerberei-wie-ich-sie-noch-nie-erlebt-habe-a-cfe653ae-b09c-4158-b36c-3543e24aec66#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/e9af871e-36a8-4b62-b469-2568767b2e36_w520_r2.08_fpx57.3_fpy50.jpg",
-    "date": 1792260960000
+    "date": 1792260960000,
+    "titleSl": "Umetna inteligenca - Nemški kulturni svet o umetni inteligenci: \"To je beljenje, kakršnega še nisem doživel\""
    },
    {
     "title": "Ökonom Georg Cremer über Gerechtigkeit: »Wir sind doch nicht die Kunden eines Lieferando-Staats«",
     "link": "https://www.spiegel.de/wirtschaft/oekonom-georg-cremer-ueber-gerechtigkeit-wir-sind-doch-nicht-die-kunden-eines-lieferando-staats-a-7a33129b-6166-440b-a3cf-cd1c5d13d497#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/8165880f-fd9d-434f-8ecb-18ab485299c2_w520_r2.08_fpx49_fpy45.jpg",
-    "date": 1792260660000
+    "date": 1792260660000,
+    "titleSl": "Ekonomist Georg Cremer o pravosodju: \"Nismo stranke države Lieferando\""
    },
    {
     "title": "Donald Trump: US-Republikaner verurteilen Trumps Aussetzung von neuen Russlandsanktionen",
     "link": "https://www.spiegel.de/ausland/donald-trump-us-kongressabgeordnete-verurteilen-trumps-aussetzung-von-neuen-russlandsanktionen-a-7933a7fd-09c5-4bf9-9329-a891e64e9ad7#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/00c00f38-027d-4610-9730-727f61762647_w520_r2.08_fpx48.65_fpy45.jpg",
-    "date": 1792258260000
+    "date": 1792258260000,
+    "titleSl": "Donald Trump: Ameriški republikanci obsojajo Trumpovo prekinitev novih sankcij proti Rusiji"
    },
    {
     "title": "Linke, SPD und Grüne in Berlin: Jetzt bloß nicht irgendwie radikal wirken",
@@ -416,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Blutiger Kämpfer schlägt zu - Heftiger Purzelbaum-K.o.!",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/fame-fighting-heftiger-purzelbaum-k-o-blutiger-kaempfer-schlaegt-zu-6ad3af6851e5094f7a56ffef",
+    "image": "https://images.bild.de/6ad3af6851e5094f7a56ffef/ab61c6b7817c49bfcb826b74d23db94d,593cbbeb?w=1280",
+    "date": 0,
+    "titleSl": "Krvavi borec udari – silovit knockout!"
+   },
+   {
     "title": "Ungewöhnlich! - Darum sitzt Kompany fast die ganze Zeit",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-vincent-kompany-sitzt-fast-die-ganze-zeit-auf-der-bank-6ad3a9af199dc15f1abd799d",
     "image": "https://images.bild.de/6ad3a9af199dc15f1abd799d/d66ed17b510ea69f00cd798417282734,93eff88a?w=1280",
@@ -440,7 +450,8 @@
     "title": "Das gab's noch nie! - Werder stellt Bieger-Rekord auf",
     "link": "https://www.bild.de/sport/fussball/das-gabs-noch-nie-werder-bremen-stellt-bieger-rekord-auf-6ad3a97851e5094f7a56ff91",
     "image": "https://images.bild.de/6ad3a97851e5094f7a56ff91/8195a8abb195a85156cb92be469423de,645eae6d?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "To se še nikoli ni zgodilo! - Werder postavlja rekord v upogibanju"
    },
    {
     "title": "4:3 gegen Augsburg - Vier Elfer und Video-Wahnsinn in Elversberg",
@@ -448,38 +459,43 @@
     "image": "https://images.bild.de/6ad36cec199dc15f1abd758b/4be2fa4fc74fd24721d6a2925bd10964,70a9af31?w=1280",
     "date": 0,
     "titleSl": "4:3 gegen Augsburg - Vier Elfer und Video-Wahnsinn v Elversbergu"
-   },
-   {
-    "title": "GZSZ-Ikone Susan Sideropoulos - Meine Eltern schicken Zeichen aus dem Jenseits",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/gzsz-ikone-susan-sideropoulos-meine-eltern-schicken-mir-zeichen-aus-dem-jenseits-6ac8aafec9122e6e3c97ba4d",
-    "image": "https://images.bild.de/6ac8aafec9122e6e3c97ba4d/3a52e6ba2bd3a795cd2028df2c1db8ce,6c563bd4?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
+    "title": "Serie A - Inter gewinnt nach Rückstand in Bologna",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQTmZZRVFBOFk0OXQ4ZHJlSGhMUjFPNm5lVkpsQ1BPV3lBZ1BvZW9NYnVsWGRGTGoxZjhMOVBWNnh6Zw?oc=5",
+    "image": "",
+    "date": 1792261200000,
+    "titleSl": "Serie A – Inter je v Bologni prišel do zmage"
+   },
+   {
     "title": "Hubschrauber alarmiert - 15-Jähriger bei Sturz mit E-Scooter verletzt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sSkNWMldVVUNUUzlQc3RhMXp5amNHMzZGNlIyT2o0VTJkb0hPUmQxdTcwVDVwTFJ1ZVRUbWRZaGh3Zw?oc=5",
     "image": "",
-    "date": 1792260960000
+    "date": 1792260960000,
+    "titleSl": "Helikopter obveščen – 15-letnik poškodovan pri padcu z električnim skirojem"
    },
    {
     "title": "Zweite Liga - Blau-Weiß Linz dreht Partie und siegt souverän",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VMXF5QmhVdVlENVpLNzlJZkxvVjl0Q01EUklqZngtZUxzb29DUDhLTHpaSWFsTE54V0hlVXJnYnphdw?oc=5",
     "image": "",
-    "date": 1792260000000
+    "date": 1792260000000,
+    "titleSl": "Druga liga - Blau-Weiß Linz preobrat in zanesljivo zmaga"
    },
    {
     "title": "Fuhr ohne Licht - Wegen Scooter erschrocken: Senior (90) gestürzt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xN25VbkUyZGZSQXBldDd5d2FBUGlnaWYza2lOczZIUXNQOGUwS3NYT3JHTmRzRVhpUXhNVzFYSy1fQQ?oc=5",
     "image": "",
-    "date": 1792260000000
+    "date": 1792260000000,
+    "titleSl": "Vozil brez luči - Strah zaradi skuterja: starejši (90) padel"
    },
    {
     "title": "Vor Weltcup-Debüt - Endlich! ÖSV-Talent beendet eine Technik-Flaute",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wYkZRNWRuRW81bXBYODRteWF6bGNqbXlEdFFTNjBpV1RGXy1QQUI1TWZwYWozQWdSWHJ2SkI2UmR0dw?oc=5",
     "image": "",
-    "date": 1792259880000
+    "date": 1792259880000,
+    "titleSl": "Pred nastopom v svetovnem pokalu - končno! Talent ÖSV konča tehnično krizo"
    },
    {
     "title": "Neue Single „Warum“ - Helene Fischer tat sich mit Rappern zusammen",
@@ -487,12 +503,6 @@
     "image": "",
     "date": 1792259820000,
     "titleSl": "Neue Single \"Warum\" - Helene Fischer tat sich mit Rappern zusammen"
-   },
-   {
-    "title": "Lustenau chancenlos - Wie ein VW-Golf, der gegen einen Ferrari fährt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FTkY0cERfaF9Sd3dTWF9vN1E0Q05TM3ptdzZ6TVZwSHBZSFA0T2xkWnFSaUV4REc0NWFuSXZLdENNZw?oc=5",
-    "image": "",
-    "date": 1792259700000
    }
   ],
   "rainews": [
@@ -500,13 +510,15 @@
     "title": "Pasdaran: Hormuz è chiuso, vietato transito alle navi. Houthi: raid sauditi uccidono tre bimbi",
     "link": "https://www.rainews.it/maratona/2026/10/trump-la-guerra-in-iran-finira-presto-non-avranno-mai-unarma-nucleare-70257a43-0830-46d5-9e48-8bba6f3bce1b.html",
     "image": "https://www.rainews.it/dl/img/2026/10/04/1791102616875_ATNR.jpg",
-    "date": 1792260480000
+    "date": 1792260480000,
+    "titleSl": "Pasdaran: Hormuz je zaprt, ladjam prepovedan tranzit. Huti: Savdski napadi ubili tri otroke"
    },
    {
     "title": "Tensione nelle piazze italiane: scontri, barricate e fermi durante le proteste",
     "link": "https://www.rainews.it/video/2026/10/tensione-nelle-piazze-italiane-scontri-barricate-e-fermi-durante-le-proteste-f0864f72-f489-42e2-a8b6-70f98d5265b2.html",
     "image": "https://www.rainews.it/dl/img/2026/10/17/1792260238885_.png",
-    "date": 1792260180000
+    "date": 1792260180000,
+    "titleSl": "Napetost na italijanskih trgih: spopadi, barikade in pridržanja med protesti"
    },
    {
     "title": "Zelensky: ancora limiti a Starlink in Ucraina, sono un&#x27;operazione pianificata. Droni su Mosca",
@@ -533,7 +545,8 @@
     "title": "Vela, la regata di Venezia è con 325 imbarcazioni",
     "link": "https://www.rainews.it/articoli/2026/10/vela-la-regata-venezia-325-imbarcazioni-equipaggi-mare-laguna-veneta--3fb8dc4f-0b91-4e8d-9320-1691a65eb5e0.html",
     "image": "https://www.rainews.it/dl/img/2026/10/17/1792252425591_BARCA.jpg.jpeg",
-    "date": 1792258620000
+    "date": 1792258620000,
+    "titleSl": "Jadranje, Beneška regata je s 325 jadrnicami"
    }
   ],
   "lemonde": [
@@ -582,16 +595,18 @@
   ],
   "elpais": [
    {
-    "title": "Real Betis-FC Barcelona, el partido de LaLiga en directo|Eric García anota el cuarto gol azulgrana",
+    "title": "Real Betis-FC Barcelona, el partido de LaLiga en directo|Olmo anota el quinto gol azulgrana",
     "link": "https://elpais.com/deportes/futbol/2026-10-17/real-betis-fc-barcelona-el-partido-de-laliga-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/P6E4RUSQVZKKVBQ5EWXZFMYGVY.jpg?auth=59db270c0a8087cd28ac2a36127b5a4e89982a8e4790013bdf8efe7880eb6f65",
-    "date": 1792260733000
+    "date": 1792261221000,
+    "titleSl": "Real Betis-FC Barcelona, ​​tekma La Lige v živo|Olmo dosegel peti gol za Barço"
    },
    {
     "title": "El regreso de los ‘chalecos amarillos’ y la rabia estudiantil incendian Francia",
     "link": "https://elpais.com/internacional/2026-10-17/la-rabia-de-los-estudiantes-los-agricultores-y-los-funcionarios-confluye-en-una-gran-protesta-en-toda-francia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/MCZE7DVERFEIZDALTM75N3HVG4.jpg?auth=8edcc575a4775e6e7233fa4fa9cbd6643d9a39cb1458ec758a454c859d4116eb",
-    "date": 1792259786000
+    "date": 1792259786000,
+    "titleSl": "Vrnitev 'rumenih jopičev' in študentski bes sta podžgala Francijo"
    },
    {
     "title": "Israel afronta unas elecciones decisivas con Netanyahu y la oposición lejos de la mayoría",
