@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T20:54:22.529Z",
+ "generatedAt": "2026-10-17T20:56:22.719Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "After School Shooting in Bend, Ore., a Community Tries to Recapture Its Identity",
+    "link": "https://www.nytimes.com/2026/10/17/us/school-shooting-bend-oregon-identity.html",
+    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17-nat-bend-changed-wcvm/17-nat-bend-changed-wcvm-mediumSquareAt3X.jpg",
+    "date": 1792269895000,
+    "titleSl": "Po šolskem streljanju v kraju Bend, Ore., skupnost poskuša ponovno pridobiti svojo identiteto"
+   },
+   {
     "title": "NYC Subway Shooting in Midtown Leaves Man Dead",
     "link": "https://www.nytimes.com/2026/10/17/nyregion/subway-shooting-man-dead-nyc.html",
     "image": "https://static01.nyt.com/images/2026/10/17/nyregion/17met-subway-shooting/17met-subway-shooting-mediumSquareAt3X.jpg",
@@ -209,7 +216,7 @@
     "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
     "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
     "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-france-unrest-khmb/17int-france-unrest-khmb-mediumSquareAt3X.jpg",
-    "date": 1792268140000,
+    "date": 1792268141000,
     "titleSl": "Nemiri Marsov dan protestov v Franciji, ko študentsko gibanje postane nacionalno"
    },
    {
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17nat-nokings-vote-dallas-wqjh/17nat-nokings-vote-dallas-wqjh-mediumSquareAt3X.jpg",
     "date": 1792265439000,
     "titleSl": "Nov krog shodov \"No Kings\" se osredotoča na pridobitev volitev"
-   },
-   {
-    "title": "Paxton Hits the Road, Looking to Rally Texas Republicans",
-    "link": "https://www.nytimes.com/2026/10/17/us/paxton-bus-tour-texas-republicans.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17nat-paxton-bus-topart-pgwz/17nat-paxton-bus-topart-pgwz-mediumSquareAt3X.jpg",
-    "date": 1792264948000,
-    "titleSl": "Paxton se odpravi na pot in želi zbrati teksaške republikance"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792269591.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792269638000,
-    "titleSl": "Protestniki trdijo, da je policijska brutalnost posledica nasilnih spopadov v Albaniji"
-   },
-   {
     "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-21.15.24-1792268273.png?resize=1200%2C675",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792263811.jpg?resize=1920%2C1080&quality=80",
     "date": 1792263840000,
     "titleSl": "Več sto protestnikov v Kijevu zahteva odstop župana Vitalija Klička"
+   },
+   {
+    "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792261027.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792263829000,
+    "titleSl": "Ali bo EU priskočila na pomoč Ukrajini v vojni proti Rusiji?"
    }
   ],
   "guardian": [
@@ -419,6 +419,12 @@
   ],
   "bild": [
    {
+    "title": "Was dahintersteckt - Kompany-Interview nach Bayern-Spiel abgesagt",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-kompany-interview-nach-leipzig-spiel-abgesagt-6ad3c6be51e5094f7a57013e",
+    "image": "https://images.bild.de/6ad3c6be51e5094f7a57013e/84b8e9829b95def49b5fc0ff40042a5c,97097147?w=1280",
+    "date": 0
+   },
+   {
     "title": "Zwei Kempas und ein Zaubertor - Nur die Bundesliga zählt: Dresden macht Ernst!",
     "link": "https://www.bild.de/sport/mehr-sport/handball-nur-die-bundesliga-zaehlt-dresden-voll-auf-kurs-6ad3ce37a263bf8db7328831",
     "image": "https://images.bild.de/6ad3ce37a263bf8db7328831/01e9d6c176ced44c894c5fd04d2ce2ac,7853215a?w=1280",
@@ -451,60 +457,16 @@
     "image": "https://images.bild.de/6ad3a66151e5094f7a56ff5d/92feea8369c9d773b09f5d929bae1c2c,ae6f2290?w=1280",
     "date": 0,
     "titleSl": "Po razpadu koalicije - Klingbeil obljublja, da bo SPD še naprej vladala"
-   },
-   {
-    "title": "Das hat nichts mehr mit Protesten zu tun - Rathaus brennt! Demos in Frankreich eskalieren",
-    "link": "https://www.bild.de/news/ausland/pluenderungen-brandstiftung-rathaus-gestuermt-demos-in-frankreich-eskalieren-komplett-6ad3929d51e5094f7a56fde3",
-    "image": "https://images.bild.de/6ad3929d51e5094f7a56fde3/f0dddeeedecd662d22e92ac60e332bd2,b51dd3c?w=1280",
-    "date": 0,
-    "titleSl": "To nima več nobene zveze s protesti - mestna hiša gori! Demos v Franciji se stopnjuje"
    }
   ],
-  "krone": [
-   {
-    "title": "Nach Tor-Show - Verletzt! Bayern-Coach Kompany sagt Interviews ab",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BVTVYMC1XNUx3U2hHYkpwWEpnUm1ZSGx5N3k2ZlJaa19CQnlXZ1B2SWQ4NDQzMXVmNURFcTNJQzJxdw?oc=5",
-    "image": "",
-    "date": 1792269840000,
-    "titleSl": "Po gol šovu - poškodovan! Trener Bayerna Kompany odpoveduje intervjuje"
-   },
-   {
-    "title": "Stimmen zum Spiel - Kalajdzic: „Interessiert mich wirklich Haselnüsse“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XclI5Szk3MzlwcnNVQmVCZzBpOW55cS1EOUYzV3NfLTMwQjZMVlJGRVZROXp2cTVWY0pNSWdmblVmUQ?oc=5",
-    "image": "",
-    "date": 1792269120000,
-    "titleSl": "Komentarji na igro - Kalajdzic: “Res me zanimajo lešniki”"
-   },
-   {
-    "title": "Zum Heimstart - Stockinger fixierte späten Falken-Sieg fast allein",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PVzYwbEFfcmFlMm9MZzd5b1VqWmdPVVd4ZlV0N2hrWXQ1SGYwb2ZCZVdHeFk1ZG5maThuUm0zei1Vdw?oc=5",
-    "image": "",
-    "date": 1792268640000,
-    "titleSl": "Na domačem štartu - Stockinger je skoraj sam poskrbel za zmago poznega Falkena"
-   },
-   {
-    "title": "ICE Hockey League - Capitals gewinnen gegen Schlusslicht Vorarlberg",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkVzBnVlgyWFpMOVpDOGhud1dQeTB2dDEtbGJtdHFHQkdKQ1kwUDZaNUU0d3VGU3BUeUl5TFBOUEExQQ?oc=5",
-    "image": "",
-    "date": 1792268220000,
-    "titleSl": "Hokejska liga na ledu - zmaga Capitals proti zadnji ekipi Vorarlberg"
-   },
-   {
-    "title": "Das sind die Gründe - Studie: Tausende haben keine Krankenversicherung",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91c2g1QmhWUW9pcnhPeG5fU0FqSk5CeGF3VVNRNjVUR3RQR203RXhqZjI5akpsVDFCY2VsUnhIVlhBQQ?oc=5",
-    "image": "",
-    "date": 1792268040000,
-    "titleSl": "To so razlogi – študija: na tisoče jih nima zdravstvenega zavarovanja"
-   },
-   {
-    "title": "Regungslos am Boden - Sauerstoffmaske, Tränen: So geht es Chelsea-Goalie",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kM082RTJ3eWtYbElpblljdFdNNVAxU0xDMjZoNHpZYnVpMElER0dnRWN6WjE4cVh0MjNka1FiYi1BQQ?oc=5",
-    "image": "",
-    "date": 1792266180000,
-    "titleSl": "Negiben na tleh - kisikova maska, solze: Tako se počuti vratar Chelseaja"
-   }
-  ],
+  "krone": [],
   "rainews": [
+   {
+    "title": "Idranti e auto in fiamme, violenti scontri con la polizia a margine del corteo a Parigi",
+    "link": "https://www.rainews.it/video/2026/10/idranti-e-auto-in-fiamme-violenti-scontri-con-la-polizia-a-margine-del-corteo-a-parigi-da96c245-f5b9-4c8c-a1b7-5440d57e621e.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/17/1792270081448_Cattura.PNG",
+    "date": 1792269960000
+   },
    {
     "title": "Aggressione dei coloni, Netanyahu: \"Servono prove serie su attacco a diplomatici\"",
     "link": "https://www.rainews.it/maratona/2026/10/trump-la-guerra-in-iran-finira-presto-non-avranno-mai-unarma-nucleare-70257a43-0830-46d5-9e48-8bba6f3bce1b.html",
@@ -539,13 +501,6 @@
     "image": "https://www.rainews.it/dl/img/2025/11/05/1762341808483_Tg2_Post_2048x1152.jpg",
     "date": 1792265339000,
     "titleSl": "TG2 Objava 17/10/2026"
-   },
-   {
-    "title": "Caso Garlasco: la Procura verso la richiesta di rinvio a giudizio per Sempio",
-    "link": "https://www.rainews.it/video/2026/10/caso-garlasco-la-procura-verso-la-richiesta-di-rinvio-a-giudizio-per-sempio-f6e73a9e-dd7e-4fe3-8cbe-1de544900c12.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/17/1792262474994_videoframe.png",
-    "date": 1792262280000,
-    "titleSl": "Primer Garlasco: tožilstvo proti zahtevi za obtožnico za Sempio"
    }
   ],
   "lemonde": [
