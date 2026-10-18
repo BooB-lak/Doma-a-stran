@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T19:42:24.018Z",
+ "generatedAt": "2026-10-18T19:44:22.643Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Macron po nasilnih protestih nagovoril ljudstvo: Čutimo jezo in sram",
     "link": "https://www.24ur.com/novice/tujina/prezivela-je-obe-svetovni-vojni-zdaj-je-padla-pod-rokami-protestnikov.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/830c44f51efb3b79285b_63665241.jpg?v=9536&fop=fp:0.46:0.39",
-    "date": 1792352377000
+    "date": 1792352597000
    },
    {
     "title": "Ste videli Bruna?",
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "What we know so far about deadly fire at Canadian military base",
+    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
+    "date": 1792352557000,
+    "titleSl": "Kaj doslej vemo o smrtonosnem požaru v kanadski vojaški bazi"
+   },
+   {
     "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
     "link": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d46/live/f82b45d0-cb25-11f1-a64c-550be9e3c66b.jpg",
@@ -264,13 +271,6 @@
     "titleSl": "Srca razvaljajo rdečo preprogo ... in Kelti hodijo po njej"
    },
    {
-    "title": "What we know so far about deadly fire at Canadian military base",
-    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-    "date": 1792345733000,
-    "titleSl": "Kaj doslej vemo o smrtonosnem požaru v kanadski vojaški bazi"
-   },
-   {
     "title": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
     "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn33jgx84o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dda/live/7973e200-cb17-11f1-a9ef-8b4e735f71f0.jpg",
@@ -286,20 +286,6 @@
    }
   ],
   "aljazeera": [
-   {
-    "title": "India’s crackdown on cockroaches, critics and cameras",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/YT-TX38-LPKG-THUMB-1792351882.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792351905000,
-    "titleSl": "Zatiranje ščurkov, kritikov in kamer v Indiji"
-   },
-   {
-    "title": "How will Europe deal with youth-led protests?",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad51660-1792349793.jpg?resize=1920%2C1440",
-    "date": 1792350921000,
-    "titleSl": "Kako se bo Evropa spopadla s protesti mladih?"
-   },
    {
     "title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792348524.jpg?resize=1920%2C1080&quality=80",
     "date": 1792348562000,
     "titleSl": "Bodybuilderji iz Gaze najdejo uteho v močni konkurenci med ruševinami"
+   },
+   {
+    "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792347693.jpg?resize=1856%2C1080&quality=80",
+    "date": 1792347731000,
+    "titleSl": "Zakaj se ZDA tajno pogovarjajo z vojaškim vladarjem Mjanmara"
+   },
+   {
+    "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792346294.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792346329000,
+    "titleSl": "Indijski bollywoodski zvezdnik Tiger Shroff naj bi streljal nanj"
    }
   ],
   "guardian": [
@@ -413,11 +413,24 @@
   ],
   "bild": [
    {
+    "title": "Blackout an der Westküste - 40.000 Haushalte ohne Strom in Schleswig-Holstein",
+    "link": "https://www.bild.de/regional/schleswig-holstein/blackout-an-der-westkueste-40-000-haushalte-ohne-strom-in-schleswig-holstein-6ad4cd544b9e270c3872fc55",
+    "image": "https://images.bild.de/6ad4cd544b9e270c3872fc55/eecb28cc1c1dff02f9ae5e8e745cc15e,76d01e76?w=1280",
+    "date": 0,
+    "titleSl": "Blackout an der Westküste - 40.000 Haushalte ohne Strom v Schleswig-Holsteinu"
+   },
+   {
     "title": "Kommt die nächste Krawallnacht? - Es brennt schon wieder in Paris!",
     "link": "https://www.bild.de/news/ausland/frankreich-bereitet-sich-auf-naechste-krawallnacht-vor-es-brennt-schon-wieder-in-paris-6ad4d01d4b9e270c3872fc6e",
     "image": "https://images.bild.de/6ad4d01d4b9e270c3872fc6e/127d6939376121ba67b5a866d59d8be7,79123046?w=1280",
     "date": 0,
     "titleSl": "Kommt die nächste Krawallnacht? - Es brennt schon wieder v Parizu!"
+   },
+   {
+    "title": "Beängstigende Szene - NFL-Star nach Horror-Tackle vom Feld gebracht",
+    "link": "https://www.bild.de/sport/mehr-sport/nfl-star-nach-horror-tackle-vom-feld-gebracht-6ad51f97c22cfb87a5e8dcdd",
+    "image": "https://images.bild.de/6ad51f97c22cfb87a5e8dcdd/e2df0a4f1530c336b60daed8cea83738-landscape,152b54b3?w=1280",
+    "date": 0
    },
    {
     "title": "Er lebt jetzt in den Tunneln unter Las Vegas - Drama um Bruder von Steffi Graf",
@@ -435,18 +448,6 @@
     "title": "20 Bundestagsabgeordnete machen Druck! - Anti-Linken-Aufstand in der SPD",
     "link": "https://www.bild.de/politik/inland/aufstand-in-bundes-spd-gegen-berliner-linke-wertekompass-niemals-verhandelbar-6ad4f0bc51e5094f7a570eab",
     "image": "https://images.bild.de/6ad4f0bc51e5094f7a570eab/24f15b005254abe0f84acae6c3ccdcc0,5d3b349d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Das geht zu weit!“ - Freiburg-Trainer sauer auf eigene Fans",
-    "link": "https://www.bild.de/sport/fussball/trainer-schuster-sauer-auf-freiburgs-fans-6ad4f7f4199dc15f1abd8842",
-    "image": "https://images.bild.de/6ad4f7f4199dc15f1abd8842/4d767ef787e1184639059986d267e0d1,f69b478a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Eine Last fällt ab“ - So glücklich ist Ilzer über den Befreiungsschlag",
-    "link": "https://www.bild.de/sport/fussball/tsg-hoffenheim-so-gluecklich-ist-ilzer-ueber-den-befreiungsschlag-6ad512e551e5094f7a57105c",
-    "image": "https://images.bild.de/6ad512e551e5094f7a57105c/fd08986e0a156979f5b4ed73bb824740,9bd28874?w=1280",
     "date": 0
    }
   ],
@@ -575,10 +576,10 @@
   ],
   "elpais": [
    {
-    "title": "Real Madrid - Sevilla en directo | Arda Güler adelanta al Madrid",
+    "title": "Real Madrid - Sevilla en directo | Mbappé amplía la ventaja en el marcador",
     "link": "https://elpais.com/deportes/futbol/2026-10-18/real-madrid-sevilla-en-directo-el-partido-de-la-liga-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DATBB6F4SNI5NDOYRTWKUPISA4.jpg?auth=f59b8387a4b74ac5e3af525d288ab6cf8abfa8b2a455fd45a79f58a428380c8a",
-    "date": 1792352290000
+    "date": 1792352544000
    },
    {
     "title": "De Charlize Theron con transparencias a Kim Kardashian con un Balenciaga histórico: todos los ‘looks’ de Academy Museum Gala",
@@ -587,9 +588,15 @@
     "date": 1792352225000
    },
    {
+    "title": "Italia se contagia de las protestas estudiantiles en Francia",
+    "link": "https://elpais.com/internacional/2026-10-18/italia-se-contagia-de-las-protestas-estudiantiles-en-francia.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/Y7QWT3QCVNAALHME34PWQE5ZTY.jpg?auth=81b53e95d46cd60bb820579614ec3cfa6b8ec194275c39fde25e77280c0637a2",
+    "date": 1792352069000
+   },
+   {
     "title": "Macron acusa a la “extrema izquierda” de inflamar la calle",
     "link": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/VVQ4QRIY2JMDRGEHCC2MW3HJ5A.jpg?auth=b9016d71e9e6d8db81afa2cc71b8850489f449354229c375d1fbd0b5fa3a3b23",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261018/1226884_193828_video_1800.mp4",
     "date": 1792349583000,
     "titleSl": "Macron acusa a la \"extrema izquierda\" de inflamar la calle"
    },
@@ -605,12 +612,6 @@
     "link": "https://elpais.com/deportes/futbol/2026-10-18/al-barcelona-le-duele-donde-mas-sufre-en-la-defensa.html",
     "image": "https://imagenes.elpais.com/resizer/v2/GNJNAS63KBOIHAZ5MEECZJL364.jpg?auth=a9009c20c44a81ada83be7425a639a0265e6496e13907ca53796132a9992c727",
     "date": 1792347498000
-   },
-   {
-    "title": "La filóloga Cristina Sánchez López asume la silla p de la RAE con una celebración de la aventura de la gramática",
-    "link": "https://elpais.com/cultura/2026-10-18/la-filologa-cristina-sanchez-lopez-asume-la-silla-p-de-la-rae-con-una-celebracion-de-la-aventura-de-la-gramatica.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MZ4V3BOQP5EA5FUP2SJPIEUG2M.jpg?auth=07c55c905ff9dcda18e98856d0f6187286e7925c37fa85260a64df7a148d2f15",
-    "date": 1792346977000
    }
   ]
  },
