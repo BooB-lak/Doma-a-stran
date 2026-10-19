@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-19T08:04:26.572Z",
+ "generatedAt": "2026-10-19T08:06:32.399Z",
  "sources": {
   "siol": [
+   {
+    "title": "Fantastičen teden Vladimirja Putina",
+    "link": "https://siol.net/novice/svet/fantasticen-teden-vladimirja-putina-704273",
+    "image": "https://siol.net/media/img/93/e9/1bde306394dc6808ed49.jpeg",
+    "date": 1792397100000
+   },
    {
     "title": "Izraelska policija po napadih naseljencev na evropske diplomate aretirali deset ljudi",
     "link": "https://siol.net/novice/svet/izraelska-policija-po-napadih-naseljencev-na-evropske-diplomate-aretirali-deset-ljudi-704281",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kosarka/preplah-za-curryja-in-warriorse-pred-tekmo-z-lakersi-704277",
     "image": "https://siol.net/media/img/45/a6/8acfc4b23509d3c2fd86.jpeg",
     "date": 1792394340000
-   },
-   {
-    "title": "Smrt na skakalnici v Oberstdorfu, tekmovanje takoj prekinili",
-    "link": "https://siol.net/sportal/zimski-sporti/smrt-na-skakalnici-v-oberstdorfu-tekmovanje-takoj-prekinili-704275",
-    "image": "https://siol.net/media/img/89/df/1e6bfbf9a5c8fddc4e8c.jpeg",
-    "date": 1792394280000
    }
   ],
   "24ur": [
@@ -79,10 +79,22 @@
   ],
   "rtvslo": [
    {
+    "title": "Ah, ta leta! – Priprave na zimski čas",
+    "link": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ah-ta-leta-priprave-na-zimski-cas/797360",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114376.jpg",
+    "date": 1792397044000
+   },
+   {
     "title": "V Italiji kmetje in avtoprevozniki protestirajo zaradi visokih cen goriva",
     "link": "https://www.rtvslo.si/svet/evropa/v-italiji-kmetje-in-avtoprevozniki-protestirajo-zaradi-visokih-cen-goriva/797356",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114368.jpg",
     "date": 1792395631000
+   },
+   {
+    "title": "Kdo izmed peterice nominirancev bo prejel letošnjo prevajalsko Sovretovo nagrado?",
+    "link": "https://www.rtvslo.si/kultura/knjige/kdo-izmed-peterice-nominirancev-bo-prejel-letosnjo-prevajalsko-sovretovo-nagrado/797357",
+    "image": "https://img.rtvcdn.si/_up/upload/2025/09/10/66958725.jpg",
+    "date": 1792394811000
    },
    {
     "title": "Slavje v avstrijskem skakalnem taboru – poročila sta se Manuel Fettner in Lisa Eder",
@@ -91,8 +103,8 @@
     "date": 1792394123000
    },
    {
-    "title": "Macron zavrnil ponudbo notranjega ministra Nuñeza za odstop po izgredih konec tedna",
-    "link": "https://www.rtvslo.si/svet/evropa/macron-zavrnil-ponudbo-notranjega-ministra-nuneza-za-odstop-po-izgredih-konec-tedna/797354",
+    "title": "Macron zavrnil ponujen odstop notranjega ministra Nuñeza po nemirih konec tedna",
+    "link": "https://www.rtvslo.si/svet/evropa/macron-zavrnil-ponujen-odstop-notranjega-ministra-nuneza-po-nemirih-konec-tedna/797354",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114365.jpg",
     "date": 1792393803000
    },
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/sport/preostali-sporti/liga-nfl-v-ameriskem-nogometu/walker-pomagal-mahomsu-do-stote-zmage/797347",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114357.jpg",
     "date": 1792393345000
-   },
-   {
-    "title": "Cindy Crawford po sinovi smrti prekinila molk: \"Hvaležni smo, da si bil 27 let v naših življenjih\"",
-    "link": "https://www.rtvslo.si/zabava-in-slog/znani/cindy-crawford-po-sinovi-smrti-prekinila-molk-hvalezni-smo-da-si-bil-27-let-v-nasih-zivljenjih/797351",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114353.jpg",
-    "date": 1792391682000
-   },
-   {
-    "title": "Moški, ki se ni vrgel pod vlak govori o korupciji, cenzuri in vsesplošni pokvarjenosti",
-    "link": "https://www.rtvslo.si/kultura/drugo/moski-ki-se-ni-vrgel-pod-vlak-govori-o-korupciji-cenzuri-in-vsesplosni-pokvarjenosti/797348",
-    "image": "https://img.rtvcdn.si/_up/upload/2013/04/04/64979527_gogolj.jpg",
-    "date": 1792390781000
    }
   ],
   "zurnal": [
@@ -415,6 +415,25 @@
   ],
   "bild": [
    {
+    "title": "Hacker-Attacke auf CDU - Phishing-Mails landen auf Handy von Kanzler Merz",
+    "link": "https://www.bild.de/leben-wissen/digital/cdu-heilbronn-phishing-angriff-erreicht-6-500-kontakte-auch-merz-6ad5c9ad843996518cba5831",
+    "image": "https://images.bild.de/6ad5c9ad843996518cba5831/7da65a13112f00683e7ddd9564dbeadc,d1a0621b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Debüt bei Victoria’s Secret - Ihr Papa war ein Sport-Superstar",
+    "link": "https://www.bild.de/sport/victorias-secret-natalia-bryant-und-trinity-rodman-auf-dem-laufsteg-6ad5baa6843996518cba575b",
+    "image": "https://images.bild.de/6ad5baa6843996518cba575b/d0b280defec812b0c169da3a09e7cdc3,d29a0e6c?w=1280",
+    "date": 0,
+    "titleSl": "Debüt bei Victoria's Secret - Ihr Papa war ein Sport-Superstar"
+   },
+   {
+    "title": "Grieche fällt aus - BVB verkündet Karetsas-Verletzung",
+    "link": "https://www.bild.de/sport/fussball/grieche-faellt-aus-bvb-verkuendet-karetsas-verletzung-6ad5cb74843996518cba5848",
+    "image": "https://images.bild.de/6ad5cb74843996518cba5848/69577357332d4bdce188c07d2de1e9ef,78a4c20e?w=1280",
+    "date": 0
+   },
+   {
     "title": "Sieben Punkte in sieben Tagen - Traum-Einstand für Leipziger Meistertrainer",
     "link": "https://www.bild.de/sport/fussball/sieben-punkte-in-sieben-tagen-traum-einstand-fuer-leipziger-meistertrainer-6ad4c8484b9e270c3872fbf6",
     "image": "https://images.bild.de/6ad4c8484b9e270c3872fbf6/5882147444314cce15ef160b90837406,78d3b593?w=1280",
@@ -432,24 +451,6 @@
     "image": "https://images.bild.de/6ac51970967e8c06339d314e/bf746a6f3f51806309d4e7b79f664af9,b50db69e?w=1280",
     "date": 0,
     "titleSl": "Akustik in der Wohnung - Wieso hallt es in manchen Zimmern tako oster?"
-   },
-   {
-    "title": "„Ich gehe heute ins KitKat“ - Alica Schmidt feiert im Fetisch-Club",
-    "link": "https://www.bild.de/sport/mehr-sport/ich-gehe-heute-ins-kitkat-alica-schmidt-feiert-im-fetisch-club-6ad501c2199dc15f1abd88c4",
-    "image": "https://images.bild.de/6ad501c2199dc15f1abd88c4/d130cb8ea672f3c60228b460a0a80ec6,fde4f28e?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Bloß nicht alles wegfegen - Laub im Garten kann richtig wertvoll sein",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/herbstlaub-liegen-lassen-wo-es-dem-garten-wirklich-hilft-6ac73f7775caf261c519d3c1",
-    "image": "https://images.bild.de/6ac73f7775caf261c519d3c1/040cd0978b8c1b8a0ca82f8efde19bc7-landscape,6f5769b4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Einrichtungsfehler - Was Sie nie vor die Heizung stellen sollten",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/heizung-freihalten-diese-dinge-bremsen-die-waerme-im-raum-6acf3317a36ce71ca4d213df",
-    "image": "https://images.bild.de/6acf3317a36ce71ca4d213df/f19baba0f750698fd6f9482d3e292847-landscape,c5ee137a?w=1280",
-    "date": 0
    }
   ],
   "krone": [
