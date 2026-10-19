@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T08:06:32.399Z",
+ "generatedAt": "2026-10-19T08:08:23.936Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1792397100000
    },
    {
-    "title": "Izraelska policija po napadih naseljencev na evropske diplomate aretirali deset ljudi",
+    "title": "Izraelska policija po napadih naseljencev na evropske diplomate aretirala deset ljudi",
     "link": "https://siol.net/novice/svet/izraelska-policija-po-napadih-naseljencev-na-evropske-diplomate-aretirali-deset-ljudi-704281",
     "image": "https://siol.net/media/img/fa/65/7873ca0758bdfb99efdb.jpeg",
     "date": 1792396200000
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
+    "title": "Helen Haines updates: Independent MP injured in incident outside regional Victoria office",
+    "link": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/d3c06ff51861fd776fd4f0b94d461ddd7f5bfc1d/1352_0_6027_4822/master/6027.jpg?width=140&quality=85&auto=format&fit=max&s=058086dfe841acb3960287787a0823ba",
+    "date": 1792397089000,
+    "titleSl": "Helen Haines: Neodvisna poslanka poškodovana v incidentu zunaj regionalne pisarne v Victorii"
+   },
+   {
     "title": "Independent MP Helen Haines injured in incident outside Wangaratta office in regional Victoria",
     "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/af7a18145b9b3f25efba897270d22f65cd9071a9/879_228_2007_1605/master/2007.jpg?width=140&quality=85&auto=format&fit=max&s=179722cbcc82954c39188c1372ae6e88",
     "date": 1792396622000,
     "titleSl": "Neodvisna poslanka Helen Haines je bila poškodovana v incidentu pred pisarno Wangaratta v regiji Victoria"
-   },
-   {
-    "title": "Helen Haines updates: Independent MP injured in incident outside regional Victoria office",
-    "link": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/d3c06ff51861fd776fd4f0b94d461ddd7f5bfc1d/1352_0_6027_4822/master/6027.jpg?width=140&quality=85&auto=format&fit=max&s=058086dfe841acb3960287787a0823ba",
-    "date": 1792396554000,
-    "titleSl": "Helen Haines: Neodvisna poslanka poškodovana v incidentu zunaj regionalne pisarne v Victorii"
    },
    {
     "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
@@ -415,17 +415,29 @@
   ],
   "bild": [
    {
-    "title": "Hacker-Attacke auf CDU - Phishing-Mails landen auf Handy von Kanzler Merz",
-    "link": "https://www.bild.de/leben-wissen/digital/cdu-heilbronn-phishing-angriff-erreicht-6-500-kontakte-auch-merz-6ad5c9ad843996518cba5831",
-    "image": "https://images.bild.de/6ad5c9ad843996518cba5831/7da65a13112f00683e7ddd9564dbeadc,d1a0621b?w=1280",
-    "date": 0
-   },
-   {
     "title": "Debüt bei Victoria’s Secret - Ihr Papa war ein Sport-Superstar",
     "link": "https://www.bild.de/sport/victorias-secret-natalia-bryant-und-trinity-rodman-auf-dem-laufsteg-6ad5baa6843996518cba575b",
     "image": "https://images.bild.de/6ad5baa6843996518cba575b/d0b280defec812b0c169da3a09e7cdc3,d29a0e6c?w=1280",
     "date": 0,
     "titleSl": "Debüt bei Victoria's Secret - Ihr Papa war ein Sport-Superstar"
+   },
+   {
+    "title": "Viele schauen nur auf den Spritpreis - Hier können Autofahrer oft überraschend viel Geld sparen",
+    "link": "https://www.bild.de/service/brandstory/anzeige-viele-schauen-nur-auf-den-spritpreis-hier-kann-man-sparen-6aaa5f46a9420481bd213444",
+    "image": "https://images.bild.de/6aaa5f46a9420481bd213444/a67dbec522f85c6d41484ea1b4107000-landscape,693780a4?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Die Neuen zünden nicht - Reicht der Hansa-Kader für den Aufstieg?",
+    "link": "https://www.bild.de/sport/fussball/die-neuen-zuenden-nicht-reicht-der-hansa-kader-fuer-den-aufstieg-6ad3cbb751e5094f7a57019e",
+    "image": "https://images.bild.de/6ad3cbb751e5094f7a57019e/8ef372c9fcb60107a7e99d37f130392a,56e941e6?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Hacker-Attacke auf CDU - Phishing-Mails landen auf Handy von Kanzler Merz",
+    "link": "https://www.bild.de/leben-wissen/digital/cdu-heilbronn-phishing-angriff-erreicht-6-500-kontakte-auch-merz-6ad5c9ad843996518cba5831",
+    "image": "https://images.bild.de/6ad5c9ad843996518cba5831/7da65a13112f00683e7ddd9564dbeadc,d1a0621b?w=1280",
+    "date": 0
    },
    {
     "title": "Grieche fällt aus - BVB verkündet Karetsas-Verletzung",
@@ -438,22 +450,15 @@
     "link": "https://www.bild.de/sport/fussball/sieben-punkte-in-sieben-tagen-traum-einstand-fuer-leipziger-meistertrainer-6ad4c8484b9e270c3872fbf6",
     "image": "https://images.bild.de/6ad4c8484b9e270c3872fbf6/5882147444314cce15ef160b90837406,78d3b593?w=1280",
     "date": 0
-   },
-   {
-    "title": "Gutartig oder bösartig? - Lungenknoten: Alles, was Sie wissen müssen",
-    "link": "https://www.bild.de/leben-wissen/medizin/lungenknoten-und-ihr-krebs-risiko-gutartig-oder-boesartig-6ace0f0232c9e7b96d75003e",
-    "image": "https://images.bild.de/6ace0f0232c9e7b96d75003e/c8ef2030ff5d12e6ea1ee1d889a9c27f,77aa1ba7?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Akustik in der Wohnung - Wieso hallt es in manchen Zimmern so stark?",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/raumakustik-verbessern-diese-wohntricks-reduzieren-hall-6ac51970967e8c06339d314e",
-    "image": "https://images.bild.de/6ac51970967e8c06339d314e/bf746a6f3f51806309d4e7b79f664af9,b50db69e?w=1280",
-    "date": 0,
-    "titleSl": "Akustik in der Wohnung - Wieso hallt es in manchen Zimmern tako oster?"
    }
   ],
   "krone": [
+   {
+    "title": "Das freie Wort - Zu spät den Rotstift angesetzt",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUHM3X18wYU5sdlZaQmVEV2l5ajYzV2Zvd1dCRnZ1eHdUd0U0ZFF0ZjVGb1JUbnJFRDhqeEhNZk1UNk53UlNHQ0tma1JpXzh1NVQ2NlNhVGExeklxdW5TTUIxRy1SWGZiRm5VWA?oc=5",
+    "image": "",
+    "date": 1792397025000
+   },
    {
     "title": "Wegen Randalen - Ministerium rät zu Vorsicht bei Frankreich-Reisen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpYmRHbTFvMkxVUnlVUEItSGplN0hTUjJVMDhhZVQyOUV6dE9jQnJNLUJNc0lZcWkwMjRtY0M5SVdQdw?oc=5",
@@ -483,13 +488,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42WkxUYWJyOHhGSnhWSHFMNGZmbGJ2ZzF6Ul9aRGM0eFhzWl80blY3clhmaW9KcTMxLTB1M2NaQjJ5Zw?oc=5",
     "image": "",
     "date": 1792396800000
-   },
-   {
-    "title": "Schock für Mitarbeiter - VW will für mehrere Jahre Lohnerhöhungen stoppen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKVWlmYTF1T1A3d1BjbFRDMk1OZ0NiQzVfSzA3NFVZR01IalFwQ2dFWk02eENzN21oc1VNUHpxQ2ZGdw?oc=5",
-    "image": "",
-    "date": 1792396620000,
-    "titleSl": "Schock für Mitarbeiter - VW bo für mehrere Jahre Lohnerhöhungen stoppen"
    }
   ],
   "rainews": [
