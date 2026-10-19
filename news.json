@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T14:18:24.479Z",
+ "generatedAt": "2026-10-19T14:20:41.848Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/trendi/dom/sedem-znakov-bolecine-pri-psu-ki-jih-ne-smemo-spregledati-703412",
     "image": "https://siol.net/media/img/0c/76/1d7430701f0b6f996e81.jpeg",
     "date": 1792418220000
+   },
+   {
+    "title": "Pred krompirjevimi počitnicami opozorilo Slovencem: v več kot 20 držav ministrstvo odsvetuje potovanja",
+    "link": "https://siol.net/novice/slovenija/pred-krompirjevimi-pocitnicami-opozorilo-slovencem-v-vec-kot-20-drzav-ministrstvo-odsvetuje-potovanja-704322",
+    "image": "https://siol.net/media/img/4a/51/082d85ed3964688a493f.jpeg",
+    "date": 1792417440000
    },
    {
     "title": "Kdo je dvakrat prekinil Viranta v Tarči? Policija se je že odzvala.",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/zgodovinski-podvig-v-ukrajini-ranjenega-vojaka-s-fronte-resili-z-dronom-video-704316",
     "image": "https://siol.net/media/img/73/53/8ae585545c14e8a75e79.jpeg",
     "date": 1792416720000
-   },
-   {
-    "title": "Še več napak DVK? Domnevno glasove zamenjali na še 17 voliščih.",
-    "link": "https://siol.net/novice/slovenija/se-vec-napak-dvk-domnevno-glasove-zamenjali-na-se-17-voliscih-704274",
-    "image": "https://siol.net/media/img/e6/c5/b2fee8c7b4c1f3398e4a.jpeg",
-    "date": 1792416540000
    }
   ],
   "24ur": [
@@ -79,6 +79,18 @@
   ],
   "rtvslo": [
    {
+    "title": "Kmetje opozarjajo, da bo načrtovana cesta Krško-Brežice ogrozila 52 hektarjev kmetijskih površin",
+    "link": "https://www.rtvslo.si/okolje/kmetijstvo/kmetje-opozarjajo-da-bo-nacrtovana-cesta-krsko-brezice-ogrozila-52-hektarjev-kmetijskih-povrsin/797414",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114612.jpg",
+    "date": 1792419545000
+   },
+   {
+    "title": "\"Najraje bi igral vsak dan, saj treningov ne maram preveč\"",
+    "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/najraje-bi-igral-vsak-dan-saj-treningov-ne-maram-prevec/797276",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/17/67114044.jpg",
+    "date": 1792419509000
+   },
+   {
     "title": "Zunanje ministrstvo svetuje dobro pripravo na potovanje",
     "link": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/zunanje-ministrstvo-svetuje-dobro-pripravo-na-potovanje/797410",
     "image": "https://img.rtvcdn.si/_up/upload/2025/10/15/66985638.jpg",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/sport/atletika/jan-kokalj-po-odstopu-se-bolj-spostuje-maratonce/797409",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114603.jpg",
     "date": 1792415127000
-   },
-   {
-    "title": "Ločitev, ki je pretresla teniški svet – razšla sta se Elena Svitolina in Gael Monfils",
-    "link": "https://www.rtvslo.si/zabava-in-slog/znani/locitev-ki-je-pretresla-teniski-svet-razsla-sta-se-elena-svitolina-in-gael-monfils/797399",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114557.jpg",
-    "date": 1792412232000
-   },
-   {
-    "title": "Logar o očitkih glede potvarjanja Novakove odstopne izjave: To je napad na Demokrate",
-    "link": "https://www.rtvslo.si/slovenija/logar-o-ocitkih-glede-potvarjanja-novakove-odstopne-izjave-to-je-napad-na-demokrate/797398",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/14/67112957.jpg",
-    "date": 1792411607000
    }
   ],
   "zurnal": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "PSG vs Barcelona match will not be postponed despite protests: French PM",
+    "link": "https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261018__D3NB778__v2__HighRes__FranceSocialDemo-1792413372.jpg?resize=1920%2C1440",
+    "date": 1792418460000,
+    "titleSl": "Francoski premier: Tekma PSG proti Barceloni kljub protestom ne bo prestavljena"
+   },
+   {
     "title": "Australian Member of Parliament critically injured after being hit by a car",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792417709.jpg?resize=1920%2C1080&quality=80",
@@ -315,21 +322,42 @@
     "titleSl": "Več deset mrtvih po napadu hutijevcev na vojaško taborišče v Shabwi"
    },
    {
-    "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+    "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
     "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad6210d1908-1792418061.jpg?resize=1920%2C1440",
     "date": 1792416178000,
     "titleSl": "Ruski predsednik Lavrov med obiskom v Teheranu razpravlja o ameriški vojni in regionalni varnosti"
-   },
-   {
-    "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
-    "link": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Mohammed-Taha-Tawakel-Live-near-the-conflict-zone-1-1792415451.jpg?resize=1200%2C630",
-    "date": 1792416097000,
-    "titleSl": "\"Teža odgovornosti\": Obljube in nevarnosti poročanja o etiopski vojni"
    }
   ],
   "guardian": [
+   {
+    "title": "Foamy war? St Andrews students play out modern take on ancient ritual",
+    "link": "https://www.theguardian.com/education/2026/oct/19/st-andrews-university-scotland-students-raisin-monday-foam-war",
+    "image": "https://i.guim.co.uk/img/media/54d02ec22544bb00e5a4b63708b57501c0b0638a/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=8e246d5f042cceb4df2249b0396f28e3",
+    "date": 1792419469000,
+    "titleSl": "Penasta vojna? Študentje St Andrews igrajo sodoben pogled na starodavni ritual"
+   },
+   {
+    "title": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
+    "link": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
+    "image": "https://i.guim.co.uk/img/media/f8c176fbf867baab3d99b8f022d5e5cc9c3c053b/928_810_4950_3960/master/4950.jpg?width=140&quality=85&auto=format&fit=max&s=fe07b521e069c9c1467f835cbe102b7d",
+    "date": 1792419196000,
+    "titleSl": "Hegseth nima prav, če trdi, da se večina neameriških Natovih sil v Afganistanu ni borila, pravi št. 10"
+   },
+   {
+    "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+    "link": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+    "image": "https://i.guim.co.uk/img/media/121fe3d421149eeeeb2952b13cb999bdc527852e/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=0fdf8f6069692abee1ef39afeb50d7cb",
+    "date": 1792419068000,
+    "titleSl": "Primeri ebole v Keniji poudarjajo neuspehe ZDA med Trumpovim krčenjem ključnih storitev"
+   },
+   {
+    "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/980ecfaaf74456927e0f8d295853ce135c1b14cf/691_0_3939_3153/master/3939.jpg?width=140&quality=85&auto=format&fit=max&s=6c17f1bec99455ccd73b30a382846267",
+    "date": 1792418773000,
+    "titleSl": "Št. 10: Hegseth ‘narobe‘ reči, da se večina vojakov Nata, ki niso iz ZDA, ni borila v Afganistanu – britanska politika v živo"
+   },
    {
     "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
@@ -343,34 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/60dfb08c28fc6dbad6322431ccc81afb10f89798/83_0_6828_5464/master/6828.jpg?width=140&quality=85&auto=format&fit=max&s=3b78278763628c0fc6f01345dd86f7ee",
     "date": 1792418403000,
     "titleSl": "Težaven čas za škatle za kosilo: po hladnem vremenu v Queenslandu na police supermarketov prihaja pomanjkanje banan"
-   },
-   {
-    "title": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
-    "link": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
-    "image": "https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=e61c50558629b38b8338b4760dbec44c",
-    "date": 1792418403000,
-    "titleSl": "Pozivi h krepitvi zasebnosti na delovnem mestu v Avstraliji, saj se delodajalci obračajo na umetno inteligenco za sledenje osebju"
-   },
-   {
-    "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/980ecfaaf74456927e0f8d295853ce135c1b14cf/691_0_3939_3153/master/3939.jpg?width=140&quality=85&auto=format&fit=max&s=6c17f1bec99455ccd73b30a382846267",
-    "date": 1792418064000,
-    "titleSl": "Št. 10: Hegseth ‘narobe‘ reči, da se večina vojakov Nata, ki niso iz ZDA, ni borila v Afganistanu – britanska politika v živo"
-   },
-   {
-    "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/428051a5332b6d95f7d4e499493308d581af6d31/590_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e358ec5f069c12c846482dcf93f50ef7",
-    "date": 1792418051000,
-    "titleSl": "Večina Američanov meni, da Donald Trump uporablja predsedovanje, da bi se obogatil, ugotavlja nova anketa – v živo"
-   },
-   {
-    "title": "Albania accused of rushing through Trump-linked resort in formerly protected landscape",
-    "link": "https://www.theguardian.com/world/2026/oct/19/albania-accused-of-rushing-through-trump-linked-resort-in-formerly-protected-landscape",
-    "image": "https://i.guim.co.uk/img/media/20713deee519ca6f30050a44d9b4cdf324baa6e3/178_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=08f847ef6c0fe8b3ebc59a5a64e4c175",
-    "date": 1792417997000,
-    "titleSl": "Albanija obtožena hitenja skozi letovišče, povezano s Trumpom, v nekdanji zaščiteni pokrajini"
    }
   ],
   "spiegel": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Musik-Ikone im Steckbrief - So tickt der irische Sänger Ronan Keating",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/ronan-keating-im-steckbrief-wie-er-zu-the-voice-of-germany-kam-64a54c262e1d2933895d9840",
+    "image": "https://images.bild.de/64a54c262e1d2933895d9840/33b7ba96c08950541077af7e966cbf0b,bfc0a179?w=1280",
+    "date": 0,
+    "titleSl": "Glasbena ikona v profilu - Tako se ujema irski pevec Ronan Keating"
+   },
+   {
+    "title": "„Er müsste jetzt 45, 46, 47 Millionen verdienen ...“ - Matthäus vergleicht Olise mit Maradona",
+    "link": "https://www.bild.de/sport/fussball/er-muesste-jetzt-45-46-47-millionen-verdienen-matthaeus-vergleicht-olise-mit-maradona-6ad5d850199dc15f1abd905b",
+    "image": "https://images.bild.de/6ad5d850199dc15f1abd905b/8289b2212374ba9979aaaad59e0ce7b2,294dfebf?w=1280",
+    "date": 0,
+    "titleSl": "\"Zdaj bi moral zaslužiti 45, 46, 47 milijonov ...\" - Matthäus primerja Oliseja z Maradono"
+   },
+   {
+    "title": "Eralps Regierungsbildung in Berlin - „Rot-Rot-Grün will Deutschland schaden“",
+    "link": "https://www.bild.de/politik/eralps-regierungsbildung-in-berlin-rot-rot-gruen-will-deutschland-schaden-6ad5fc87843996518cba5e46",
+    "image": "https://images.bild.de/6ad5fc87843996518cba5e46/3a0a24c2588281a2ce4b23af98451259,9f41d992?w=1280",
+    "date": 0,
+    "titleSl": "Eralpovo sestavljanje vlade v Berlinu - \"Rdeče-rdeče-zeleni hočejo škodovati Nemčiji\""
+   },
+   {
     "title": "Debüt bei Victoria’s Secret - Ihr Papa war ein Sport-Superstar",
     "link": "https://www.bild.de/sport/victorias-secret-natalia-bryant-und-trinity-rodman-auf-dem-laufsteg-6ad5baa6843996518cba575b",
     "image": "https://images.bild.de/6ad5baa6843996518cba575b/d0b280defec812b0c169da3a09e7cdc3,d29a0e6c?w=1280",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6ad5fa3b843996518cba5dee/36910783804281c8b4ecaaadaec3ce9a,c9871d67?w=1280",
     "date": 0,
     "titleSl": "\"Skrbeti moramo za vsak cent\" - šef Volleysa strelja proti svetovni zvezi"
-   },
-   {
-    "title": "Weil er 10 Minuten zu spät kam - Zweitliga-Profi aus Kader gestrichen",
-    "link": "https://www.bild.de/sport/fussball/2-bundesliga-disziplinar-fall-dynamo-profi-aus-kader-gestrichen-6ad607cf199dc15f1abd9576",
-    "image": "https://images.bild.de/6ad607cf199dc15f1abd9576/c110af83107ce31d67284ed1502b6568,1b2ce3f1?w=1280",
-    "date": 0,
-    "titleSl": "Ker je zamujal 10 minut, so drugoligaša odstranili iz ekipe"
-   },
-   {
-    "title": "36 Todesfälle - Finger weg von dieser schönen Schnecke!",
-    "link": "https://www.bild.de/leben-wissen/haustiere/wie-gefaehrlich-ist-das-gift-einer-kegelschnecke-fuer-menschen-6ad5be7d843996518cba5793",
-    "image": "https://images.bild.de/6ad5be7d843996518cba5793/aa4ec9254705cf8d585bb0e0a5368a2a,6c8f9f1b?w=1280",
-    "date": 0,
-    "titleSl": "36 smrti - izogibajte se temu čudovitemu polžu!"
-   },
-   {
-    "title": "Wie es funktioniert - So effektiv ist das Training an der Crunch-Maschine",
-    "link": "https://www.bild.de/leben-wissen/fitness/crunch-maschine-so-trainieren-sie-mehr-als-nur-das-sixpack-6ad2220b51e5094f7a56ecad",
-    "image": "https://images.bild.de/6ad2220b51e5094f7a56ecad/925fb95abd2a0ecec5824686bb509601,54142ad3?w=1280",
-    "date": 0,
-    "titleSl": "Kako deluje - Tako je učinkovit trening na trenažerju"
    }
   ],
   "krone": [
