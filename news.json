@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T18:54:26.717Z",
+ "generatedAt": "2026-10-19T18:56:26.566Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Why Are There Protests in France?",
+    "link": "https://www.nytimes.com/article/france-student-protests-why.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg",
+    "date": 1792435931000,
+    "titleSl": "Zakaj v Franciji potekajo protesti?"
+   },
+   {
     "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
     "link": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
     "image": "https://static01.nyt.com/images/2026/10/19/world/Yemen-strike/Yemen-strike-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-lithuania-starlink-jpcg/19int-lithuania-starlink-jpcg-mediumSquareAt3X.jpg",
     "date": 1792434819000,
     "titleSl": "Požar v centru Starlink v Litvi je bil sabotaža, pravijo uradniki"
-   },
-   {
-    "title": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
-    "link": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-saudi-investment-ktlm/19biz-saudi-investment-ktlm-mediumSquareAt3X.jpg",
-    "date": 1792434061000,
-    "titleSl": "Savdska Arabija preloži svoj investicijski dogodek FII po napadih Hutijev"
    }
   ],
   "bbc": [
@@ -246,7 +246,7 @@
     "title": "Ronaldo handed 30-day suspension by Portuguese FA",
     "link": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4183/live/fc5daf60-cbea-11f1-ad7b-fd8c269705fe.jpg",
-    "date": 1792435027000,
+    "date": 1792436066000,
     "titleSl": "Ronaldu portugalska nogometna zveza izrekla 30-dnevno suspenzijo"
    },
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
-    "link": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6aceb2f2-1791931122.jpg?resize=1920%2C1440",
-    "date": 1792434235000,
-    "titleSl": "Nekdanji zaposleni OpenAI, obtožen podmetanja naprave, ima podporo Savdske Arabije: tožilec"
-   },
-   {
     "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
     "link": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1792409296.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad63193-1792422291.jpg?resize=1920%2C1440",
     "date": 1792431656000,
     "titleSl": "Chuck Schumer poziva FCC, naj pred volitvami blokira AI robocalls"
+   },
+   {
+    "title": "Qatar to announce a new regional defence partnership",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792430778.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792430838000,
+    "titleSl": "Katar napoveduje novo regionalno obrambno partnerstvo"
    }
   ],
   "guardian": [
@@ -414,40 +414,39 @@
   ],
   "bild": [
    {
+    "title": "Von BILD gekürt - Gewinner & Verlierer",
+    "link": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+    "image": "https://images.bild.de/5c374fa54ae86300019b6bd4/586c2cfa75041cee793c5cd91293198e,64b801e5?w=1280",
+    "date": 0
+   },
+   {
     "title": "Investoren-Gipfel mit Big-Bossen - Prost! Merz tütet Millionen-Deal mit Nvidia ein",
     "link": "https://www.bild.de/politik/inland/merz-und-nvidia-chef-huang-gipfel-trotz-harter-deutschlandkritik-6ad610a951e5094f7a571cf4",
     "image": "https://images.bild.de/6ad610a951e5094f7a571cf4/d04f41754a9efad33c5851469d74eb31,7ee57fc7?w=1280",
     "date": 0
    },
    {
+    "title": "Airbus A340-600 - Ende Legende! Lufthansa schickt Kultflieger in Rente",
+    "link": "https://www.bild.de/leben-wissen/reisen/lufthansa-a340-600-abschied-vom-fliegenden-bleistift-6acb44fc68ee659be9d0a2c0",
+    "image": "https://images.bild.de/6acb44fc68ee659be9d0a2c0/7cb5c6fa0413f9367e14822ed1dd1e13,e73c08e8?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Airbus A340-600 - Lufthansa schickt Kultflieger in Rente",
+    "link": "https://www.bild.de/leben-wissen/reisen/airbus-a340-600-lufthansa-schickt-kultflieger-in-rente-6ad6429b48103a84a8f17982",
+    "image": "https://images.bild.de/6ad6429b48103a84a8f17982/6c8fa36895412d6d4ad5845b6a52d338-landscape,e73c08e8?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Linken-Chefin Ines Schwerdtner erklärt - Mieter sollen für Milliarden-Enteignung zahlen",
+    "link": "https://www.bild.de/politik/inland/linken-chefin-ines-schwerdtner-mieter-sollen-fuer-milliarden-enteignung-zahlen-6ad612a7843996518cba6068",
+    "image": "https://images.bild.de/6ad612a7843996518cba6068/013a45f6cf86ef549786931a5d967848,f28559ac?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Zeit“-Recherche enthüllt - Türken kaufen Strafverfahren, um bei uns Asyl zu kriegen",
     "link": "https://www.bild.de/politik/tuerken-kaufen-sich-strafverfahren-fuer-asyl-in-deutschland-6ad633eb199dc15f1abd9956",
     "image": "https://images.bild.de/6ad633eb199dc15f1abd9956/95fc3e74bbd1480dd3a50c003df4122f,c12a7eac?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Klare Botschaft auch an Mannschaft - Eintracht-Boss Hellmann spricht über Krösche-Ende",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-boss-hellmann-spricht-ueber-kroesche-ende-6ad64a3551e5094f7a5721e9",
-    "image": "https://images.bild.de/6ad64a3551e5094f7a5721e9/b473e67061f4317da0b0b2b5d42a218f,5b48d3f3?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Live-Ticker zu Frankreich-Krawallen - Ausgangssperren in Kraft! Was passiert jetzt?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/live-ticker-gelbwesten-planen-neuen-protesttag-6ad5fab951e5094f7a571abb",
-    "image": "https://images.bild.de/6ad5fab951e5094f7a571abb/bd4b553fb6302563f63f10268d8bcd1b,c2dd3840?w=1280",
-    "date": 0,
-    "titleSl": "Live-Ticker zu Frankreich-Krawallen - Ausgangssperren in kraft! Ali je bil pasivni jetzt?"
-   },
-   {
-    "title": "Er schluchzte immer wieder - Emotionaler Tränen-Abschied von Krösche bei Eintracht",
-    "link": "https://www.bild.de/sport/fussball/markus-kroesches-emotionaler-abschied-unter-traenen-bei-eintracht-frankfurt-6ad63c0a199dc15f1abd99ff",
-    "image": "https://images.bild.de/6ad63c0a199dc15f1abd99ff/ea78c63e7b3591c36c0a6d60cc993074,a8e267c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Auf Abschiedsfoto mit Trump - Nächster Patzer! Zacharia postete Geheiminfos",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/auf-abschiedsfoto-mit-trump-naechster-patzer-katie-zacharia-postete-geheiminfos-6ad5f2ddde9d7a845942b4ae",
-    "image": "https://images.bild.de/6ad5f2ddde9d7a845942b4ae/4c0b957146566a5de3dea5f8c4199f0b,23f95b28?w=1280",
     "date": 0
    }
   ],
