@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T12:42:25.155Z",
+ "generatedAt": "2026-10-19T12:44:25.747Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Študenti blokirali Louvre, premier napovedal delne policijske ure",
     "link": "https://www.24ur.com/novice/tujina/francoska-vlada-pod-pritiskom-zupani-zahtevajo-ukrepanje-po-nasilnih-izgredih.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/2736d8eb686407bbd4a0_63665642.jpg?v=b818&fop=fp:0.46:0.34",
-    "date": 1792413654000
+    "date": 1792413742000
    },
    {
     "title": "Janša o reformi šolstva in razbremenitvi plač",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Ryanair, easyJet, Wizz in drugi so dobili datum, ko bodo potnikom omogočili dve brezplačni prtljagi",
+    "link": "https://www.zurnal24.si/popotnik/ryanair-easyjet-wizz-2-brezplacna-prtljaga-letalo-potovanje-466955",
+    "image": "https://www.zurnal24.si/media/img/ac/1e/f1d59173102e9bbf5978.jpeg",
+    "date": 1792413840000
+   },
+   {
     "title": "Oblasti v Franciji napovedale ostre ukrepe, protestniki ne odnehajo",
     "link": "https://www.zurnal24.si/svet/francija-protesti-ukrepi-policijska-ura-466953",
     "image": "https://www.zurnal24.si/media/img/43/96/9d9813fdbc8444d1c52e.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/smrt-32-let-nemska-alipinistka-italija-veliki-nabojs-466947",
     "image": "https://www.zurnal24.si/media/img/79/a9/85efcb993dedda83b2b4.jpeg",
     "date": 1792409760000
-   },
-   {
-    "title": "Poljska zaprla letališči, Natova vojna letala pa so zaradi ruskega napada vzletela v zrak",
-    "link": "https://www.zurnal24.si/svet/vojna-rusija-poljska-ukrajina-evropa-droni-letalisca-466945",
-    "image": "https://www.zurnal24.si/media/img/0c/0d/68e833a2c3e4635796fa.jpeg",
-    "date": 1792409160000
    }
   ],
   "reuters": [
@@ -202,7 +202,7 @@
     "title": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
     "link": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-zelensky-trump-01-kwtp/19int-zelensky-trump-01-kwtp-mediumSquareAt3X.jpg",
-    "date": 1792413545000,
+    "date": 1792413590000,
     "titleSl": "Trump pritiska na Ukrajino, naj se preda Rusiji, pravi Zelenski"
    },
    {
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Tommy Robinson used ‘bullyboy, intimidatory tactics’ to threaten journalists, court told",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
-    "image": "https://i.guim.co.uk/img/media/c31ba6bdf7a4a57af19193a53ccf341cfd63a0b3/684_136_807_646/master/807.jpg?width=140&quality=85&auto=format&fit=max&s=d7c151c692822ddd1c627b0b23e1ebe6",
-    "date": 1792413181000,
-    "titleSl": "Tommy Robinson je uporabil \"ustrahovalno taktiko\", da je grozil novinarjem, je sodišče povedalo"
-   },
-   {
     "title": "Trump brands federal judge a ‘crazed lunatic’ amid clashes over his golf course project – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/87547e32a27fd22a82124a98ebce3f6d41e72074/299_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=0476a7f5ad291793f878ac614015a7c0",
@@ -371,6 +364,13 @@
     "image": "https://i.guim.co.uk/img/media/7fe3573226dcfcf39c250f398877e877805228f6/84_0_2549_2039/master/2549.jpg?width=140&quality=85&auto=format&fit=max&s=60efdab053c9a567e9c952182dad3a78",
     "date": 1792411419000,
     "titleSl": "Russell Brand se je \"manijačno nasmehnil\", ko je žensko zvlekel v stranišče in jo posilil, je sodišče povedalo"
+   },
+   {
+    "title": "French prime minister calls for ‘local and partial’ curfews after riots",
+    "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+    "image": "https://i.guim.co.uk/img/media/0d2a2c6f9adc8f2d27760b0c30c909669b5395c5/483_0_4827_3861/master/4827.jpg?width=140&quality=85&auto=format&fit=max&s=298de40c0ff7e30bf6824e57b07d857c",
+    "date": 1792411367000,
+    "titleSl": "Francoski premier po nemirih poziva k \"lokalni in delni\" policijski uri"
    }
   ],
   "spiegel": [
@@ -416,11 +416,29 @@
   ],
   "bild": [
    {
-    "title": "BILD-Fotograf Jan Ohmen in Paris - „Demonstranten haben Platz der Republik übernommen“",
-    "link": "https://www.bild.de/news/ausland/bild-fotograf-jan-ohmen-in-paris-demonstranten-haben-platz-der-republik-uebernommen-6ad3a2fd1918705d12968e85",
-    "image": "https://images.bild.de/6ad3a2fd1918705d12968e85/f55bffcc0a4853b52640e379af89d2c1,fb5cb30c?w=1280",
+    "title": "Ulf Poschardt über Gewalt in Frankreich - „Wir werden diese Konflikte auch in Deutschland erleben“",
+    "link": "https://www.bild.de/politik/ulf-poschardt-ueber-gewalt-in-frankreich-wir-werden-diese-konflikte-auch-in-deutschland-erleben-6ad5e4e0de9d7a845942b336",
+    "image": "https://images.bild.de/6ad5e4e0de9d7a845942b336/5e5603b55a968eb9a77b460bb3572d2d,4bec3f1c?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Bei Gottesdienst in Ecuador - Pfarrer von Kruzifix erschlagen",
+    "link": "https://www.bild.de/news/ausland/beim-gottesdienst-in-der-kirche-pfarrer-von-kruzifix-erschlagen-6ad4eab8bbcd3ed7e3024baa",
+    "image": "https://images.bild.de/6ad4eab8bbcd3ed7e3024baa/6665d000b0a289308a6107534037633f,bb0f6792?w=1280",
     "date": 0,
-    "titleSl": "BILD-Fotograf Jan Ohmen v Parizu - „Demonstranten haben Platz der Republik übernommen“"
+    "titleSl": "Bei Gottesdienst v Ekvadorju - Pfarrer von Kruzifix erschlagen"
+   },
+   {
+    "title": "Kürbis-Chaos auf der Straße - Unfall wird zur Ernteparty",
+    "link": "https://www.bild.de/news/ausland/kuerbis-chaos-auf-der-strasse-unfall-wird-zur-ernteparty-6ad36770992af73088da2845",
+    "image": "https://images.bild.de/6ad36770992af73088da2845/57d6cf4eca59ef83932b0966e74555e7,50141c32?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Airbus A340-600 - Ende Legende! Lufthansa schickt Kultflieger in Rente",
+    "link": "https://www.bild.de/leben-wissen/reisen/lufthansa-a340-600-abschied-vom-fliegenden-bleistift-6acb44fc68ee659be9d0a2c0",
+    "image": "https://images.bild.de/6acb44fc68ee659be9d0a2c0/7cb5c6fa0413f9367e14822ed1dd1e13,e73c08e8?w=1280",
+    "date": 0
    },
    {
     "title": "19 Jahre fehlte von ihr jede Spur - Knochen von Kerstin Lee Langley offenbar gefunden",
@@ -429,28 +447,11 @@
     "date": 0
    },
    {
-    "title": "Nach dem Eintracht-Ende - Krösche vor Wechsel zu europäischem Top-Klub",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-kroesche-vor-wechsel-zu-europaeischem-top-verein-6ad5e404843996518cba5b20",
-    "image": "https://images.bild.de/6ad5e404843996518cba5b20/280e43f196147631215a969e441e4dc0,9b13d8ae?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Knallhart-Abrechnung der Medien - „Jahrzehnte der Feigheit und der Blindheit“",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/frankreich-wurde-gedemuetigt-traditionszeitung-rechnet-mit-macron-co-ab-6ad5c442199dc15f1abd8f17",
-    "image": "https://images.bild.de/6ad5c442199dc15f1abd8f17/f808b068c32e33cda682297e207a5c87,5240475a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Mainz und Union als Warnung - Hoffenheim-Coach Ilzer hat Angst vor Europa-Falle!",
-    "link": "https://www.bild.de/sport/fussball/tsg-hoffenheim-trainer-ilzer-fuerchtet-die-europa-falle-6ad5ee4f843996518cba5ca3",
-    "image": "https://images.bild.de/6ad5ee4f843996518cba5ca3/6be236f540147454cd4cbaefd7812dae,ecd1d86c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nummernschild-Trick aufgeflogen - Porsche-Bande klaute 20 Sportwagen",
-    "link": "https://www.bild.de/regional/hannover/nummernschild-trick-aufgeflogen-porsche-bande-klaute-20-sportwagen-6ad35fd9992af73088da27a3",
-    "image": "https://images.bild.de/6ad35fd9992af73088da27a3/d7c2d3e8614980cf13cb978cc921c782,1702b0e8?w=1280",
-    "date": 0
+    "title": "Während des Gottesdienstes in Ecuador - Priester von Kruzifix erschlagen",
+    "link": "https://www.bild.de/news/ausland/waehrend-des-gottesdienstes-in-ecuador-priester-von-kruzifix-erschlagen-6ad60aa0de9d7a845942b74f",
+    "image": "https://images.bild.de/6ad60aa0de9d7a845942b74f/72357338c94968749fe72a02f5d738db,2435a878?w=1280",
+    "date": 0,
+    "titleSl": "Während des Gottesdienstes v Ekvadorju - Priester von Kruzifix erschlagen"
    }
   ],
   "krone": [
@@ -553,13 +554,6 @@
     "date": 1792407538000
    },
    {
-    "title": "Espagne : deux morts après de fortes pluies et des inondations ; les habitants de la région de Valence appelés à rester chez eux",
-    "link": "https://www.lemonde.fr/international/article/2026/10/19/espagne-deux-morts-apres-de-fortes-pluies-et-des-inondations-les-habitants-de-la-region-de-valence-appeles-a-rester-chez-eux_6797518_3210.html",
-    "image": "https://img.lemde.fr/2026/10/19/547/0/3281/1640/644/322/60/0/9a04c50_upload-1-jdyekry0eaxj-000-d27a4br.jpg",
-    "date": 1792406977000,
-    "titleSl": "Španija: dve mrtvi po močnem deževju in poplavah; prebivalce regije Valencia pozvali, naj ostanejo doma"
-   },
-   {
     "title": "EN DIRECT, manifestations du 17 octobre : « Il sera important pour les services judiciaires et de police de chercher à comprendre les profils des personnes impliquées dans les violences »",
     "link": "https://www.lemonde.fr/societe/live/2026/10/19/en-direct-mobilisation-sociale-les-rassemblements-interdits-de-12-heures-a-20-heures-a-marseille-ou-laurent-nunez-est-attendu-cet-apres-midi_6795855_3224.html",
     "image": "https://img.lemde.fr/2026/10/19/263/0/8368/4184/644/322/60/0/df49df8_upload-1-zldcmsjth7q2-000-d3q469v.jpg",
@@ -571,9 +565,29 @@
     "image": "https://img.lemde.fr/2026/10/19/199/0/3087/1543/644/322/60/0/78c9328_ftp-1-46pjpzusn4vc-2026-10-19t001043z-721583684-rc2z5oa1vazh-rtrmadp-3-brazil-election-debate.JPG",
     "date": 1792402209000,
     "titleSl": "Predsedniške volitve v Braziliji: med razpravo med obema krogoma se Lula trudi braniti svoj rekord, Flavio Bolsonaro se izogiba vprašanjem"
+   },
+   {
+    "title": "Accès aux soins et déserts médicaux : le gouvernement défend son bilan sans convaincre des professionnels de santé éprouvés",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/19/acces-aux-soins-et-deserts-medicaux-le-gouvernement-defend-son-bilan-sans-convaincre-des-professionnels-de-sante-eprouves_6797508_3224.html",
+    "image": "https://img.lemde.fr/2026/10/19/911/0/5461/2730/644/322/60/0/9a3784b_upload-1-9jwjk1bpqtp0-000-a6ld3nq.jpg",
+    "date": 1792400468000
    }
   ],
   "elpais": [
+   {
+    "title": "Abascal reitera su oferta de acuerdo al PP para “proteger al Senado” del pacto de izquierdas",
+    "link": "https://elpais.com/espana/elecciones-generales/2026-10-19/abascal-reitera-su-oferta-de-acuerdo-al-pp-para-proteger-al-senado-del-pacto-de-izquierdas.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ILYDEWI6BJLDHE5VYOGU4MZRGU.jpg?auth=4e6054d59d05abadeb7d6a854013d029d9d0f9df435d18f4c1ef037f3ade7eb0",
+    "date": 1792413370000,
+    "titleSl": "Abascal reitera su oferta de acuerdo al PP para ‚ proteger al Senado 'del pacto de izquierdas"
+   },
+   {
+    "title": "Miguel Ángel del Arco Blanco gana el Nacional de Historia con una visión “reveladora” sobre la hambruna durante el franquismo",
+    "link": "https://elpais.com/cultura/2026-10-19/miguel-angel-del-arco-blanco-gana-el-nacional-de-historia-con-una-vision-reveladora-sobre-la-hambruna-en-el-franquismo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/2DF6CC5FLNG3RO4ZU5G5UEHRLE.JPG?auth=17a7e8835a361ab27d7eaa2435d35d1bbeda7da44dd6f6bb7182033001cb6e5c",
+    "date": 1792413235000,
+    "titleSl": "Miguel Ángel del Arco Blanco gana el Nacional de Historia con una visión ‚ reveladora 'sobre la hambruna durante el franquismo"
+   },
    {
     "title": "Los vídeos de los rescates en la Comunidad Valenciana durante la dana ‘Adam’",
     "link": "https://elpais.com/videos/2026-10-19/los-videos-de-los-rescates-en-la-comunidad-valenciana-durante-la-dana-adam.html",
@@ -599,19 +613,6 @@
     "link": "https://elpais.com/espana/madrid/2026-10-19/cancelado-el-acto-de-la-consejera-de-educacion-de-madrid-mercedes-zarzalejo-en-un-centro-de-fp-por-la-presencia-de-manifestantes.html",
     "image": "https://imagenes.elpais.com/resizer/v2/22YVJMFPUZCWHKPNQUHBGSZFNY.jpg?auth=c04cab85f28d4e9fc26f0c96a9a5de788c7677c16f98b0d2e415201f8b5281cb",
     "date": 1792412736000
-   },
-   {
-    "title": "El principal inquilino de Merlin, la tecnológica CoreWeave, entra en riesgo de impago",
-    "link": "https://cincodias.elpais.com/companias/2026-10-19/el-principal-inquilino-de-merlin-la-tecnologica-coreweave-entra-en-riesgo-de-impago.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/FSECU56OMVEHLLUVXLMADQPHBU.png?auth=a44b0ec12d289e113bc0e852c7574ad45740f45a8e1104e71561160d89e998a7",
-    "date": 1792412733000
-   },
-   {
-    "title": "Kiev denuncia nuevos ataques sin aviso previo aliado en plena escalada entre Trump y Zelenski",
-    "link": "https://elpais.com/internacional/2026-10-19/kiev-denuncia-nuevos-bombardeos-sin-aviso-previo-de-sus-aliados-tras-otro-ataque-verbal-de-trump-a-zelenski.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/IWVAQJOYERL6LED6W56LLMVJSU.jpg?auth=d9a0d20f5163912f4ba0e1422866e45ba4d7130163cef7ac6de60a1a1db13d59",
-    "date": 1792412527000,
-    "titleSl": "Kijev denuncia nuevos ataques sin aviso previo aliado en plena escalada entre Trump y Zelenski"
    }
   ]
  },
