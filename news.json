@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T18:46:25.077Z",
+ "generatedAt": "2026-10-19T18:48:24.517Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "Italy Faces Parallel Protests in the North and South",
+    "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
+    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-ITALY-PROTESTS-01-zwcf/19int-ITALY-PROTESTS-01-zwcf-mediumSquareAt3X.jpg",
+    "date": 1792435526000,
+    "titleSl": "Italija se sooča z vzporednimi protesti na severu in jugu"
+   },
+   {
+    "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+    "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
+    "date": 1792435496000,
+    "titleSl": "Savdijci pomagali družini inženirja, obtoženega prisluškovanja OpenAI, pravijo tožilci"
+   },
+   {
     "title": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
     "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html",
     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19pol-midterm-ads-trump-vmbf/19pol-midterm-ads-trump-vmbf-mediumSquareAt3X.jpg",
@@ -220,25 +234,11 @@
     "titleSl": "Savdska Arabija preloži svoj investicijski dogodek FII po napadih Hutijev"
    },
    {
-    "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
-    "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
-    "date": 1792433854000,
-    "titleSl": "Savdijci pomagali družini inženirja, obtoženega prisluškovanja OpenAI, pravijo tožilci"
-   },
-   {
     "title": "Why Are There Protests in France?",
     "link": "https://www.nytimes.com/article/france-student-protests-why.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg",
     "date": 1792433724000,
     "titleSl": "Zakaj v Franciji potekajo protesti?"
-   },
-   {
-    "title": "The Republican Party Is a Mess. It Will Emerge Stronger for It.",
-    "link": "https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html",
-    "image": "",
-    "date": 1792433068000,
-    "titleSl": "Republikanska stranka je zmešnjava. Zaradi tega se bo pojavil močnejši."
    }
   ],
   "bbc": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+    "link": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6aceb2f2-1791931122.jpg?resize=1920%2C1440",
+    "date": 1792434235000,
+    "titleSl": "Nekdanji zaposleni OpenAI, obtožen podmetanja naprave, ima podporo Savdske Arabije: tožilec"
+   },
+   {
     "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
     "link": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1792409296.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad63193-1792422291.jpg?resize=1920%2C1440",
     "date": 1792431656000,
     "titleSl": "Chuck Schumer poziva FCC, naj pred volitvami blokira AI robocalls"
-   },
-   {
-    "title": "Qatar to announce a new regional defence partnership",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792430778.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792430838000,
-    "titleSl": "Katar napoveduje novo regionalno obrambno partnerstvo"
    }
   ],
   "guardian": [
@@ -414,6 +414,12 @@
   ],
   "bild": [
    {
+    "title": "Klare Botschaft auch an Mannschaft - Eintracht-Boss Hellmann spricht über Krösche-Ende",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-boss-hellmann-spricht-ueber-kroesche-ende-6ad64a3551e5094f7a5721e9",
+    "image": "https://images.bild.de/6ad64a3551e5094f7a5721e9/b473e67061f4317da0b0b2b5d42a218f,5b48d3f3?w=1280",
+    "date": 0
+   },
+   {
     "title": "Um „Verfolgung“ nachzuweisen - Türken kaufen Strafverfahren für Asyl in Deutschland",
     "link": "https://www.bild.de/politik/tuerken-kaufen-sich-strafverfahren-fuer-asyl-in-deutschland-6ad633eb199dc15f1abd9956",
     "image": "https://images.bild.de/6ad633eb199dc15f1abd9956/95fc3e74bbd1480dd3a50c003df4122f,c12a7eac?w=1280",
@@ -442,12 +448,6 @@
     "title": "Fahndung in Hessen - Polizei sucht nach vermisster Schülerin (11)",
     "link": "https://www.bild.de/regional/hessen/vermisste-person-polizei-sucht-nach-schuelerin-11-6ad651b348103a84a8f17a79",
     "image": "https://images.bild.de/6ad651b348103a84a8f17a79/c161f0377b7dba77f758d1b99b898330,a0ae60a?w=1280",
-    "date": 0
-   },
-   {
-    "title": "BILD-Reporter konfrontieren Linke - Wie sollen die Enteignungen finanziert werden?",
-    "link": "https://www.bild.de/politik/bild-reporter-konfrontieren-linke-wie-sollen-die-enteignungen-finanziert-werden-6ad636a751e5094f7a572093",
-    "image": "https://images.bild.de/6ad636a751e5094f7a572093/11840fddc03736281cc44be45e3de319,5a831d38?w=1280",
     "date": 0
    }
   ],
@@ -592,12 +592,6 @@
     "titleSl": "Meloni pošlje 500 vojakov v Milano po dveh nočeh incidentov in plenjenja"
    },
    {
-    "title": "Trump desobedece una orden judicial para convertir un campo de golf público en uno de élite en Washington",
-    "link": "https://elpais.com/us/2026-10-19/trump-desobedece-una-orden-judicial-para-convertir-un-campo-de-golf-publico-en-uno-de-elite-en-washington.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/2LYTU2J33JJ63AM7MGPXB75TYI.jpg?auth=101e2eb4959d9e3e7fb1291a00cd0b48c66e2a088901bee5b8cfea00721d304e",
-    "date": 1792434846000
-   },
-   {
     "title": "Última hora de la actualidad política, en directo | Renuncia toda la lista del PSOE de Palencia al Congreso al cambiar Ferraz al número uno",
     "link": "https://elpais.com/espana/2026-10-19/actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/FIVV7DEYYNF7DN5YR6KI4TXPWI.jpg?auth=71a35e921a6caf3bad57dc437dab9f45c782b1842ac64d0c01f8fff4684754c6",
@@ -616,6 +610,12 @@
     "image": "https://imagenes.elpais.com/resizer/v2/QQOHFR76MZBO5OIPNNB24SHRNM.jpg?auth=9d15772ca5ceae820d337a01d547d6cc1237d3517c3e37aaab6776266036196a",
     "date": 1792432263000,
     "titleSl": "Otroci prisiljeni, da ne igrajo proti izraelskim tekmecem na svetovnem prvenstvu v šahu"
+   },
+   {
+    "title": "Un muerto y tres heridos al caer una roca sobre un coche en Málaga",
+    "link": "https://elpais.com/espana/2026-10-19/un-muerto-y-tres-heridos-al-caer-una-roca-sobre-un-coche-en-malaga.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/C5WBZ73H4VBQDMGLTITWF3PCR4.jpg?auth=3b2121cfa6be75d6fdd9cfa6e91bad193f53ed8664470484f2f005b353a2c2ed",
+    "date": 1792432182000
    }
   ]
  },
