@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T21:38:22.152Z",
+ "generatedAt": "2026-10-19T21:40:38.240Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Your Burger Is Going to Get Only More Expensive",
+    "link": "https://www.nytimes.com/2026/10/19/opinion/beef-prices-cattle-farmers.html",
+    "image": "",
+    "date": 1792445629000,
+    "titleSl": "Vaš burger bo postal le dražji"
+   },
+   {
     "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
     "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19pol-trump-travel-01-hmfq/19pol-trump-travel-01-hmfq-mediumSquareAt3X.jpg",
     "date": 1792443880000,
     "titleSl": "Trump je zbral rdeče države zaradi strahu pred navdušenjem volivcev G.O.P., ki se približuje srednjeročnim volitvam"
-   },
-   {
-    "title": "Why There’s No Relief From High Beef Prices",
-    "link": "https://www.nytimes.com/2026/10/19/opinion/beef-prices-cattle-farmers.html",
-    "image": "",
-    "date": 1792442909000,
-    "titleSl": "Zakaj ni olajšave zaradi visokih cen govejega mesa"
    },
    {
     "title": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
@@ -250,6 +250,13 @@
     "titleSl": "Ronaldo je portugalski FA dal 30-dnevno suspenzijo in globo v višini 215 £"
    },
    {
+    "title": "Watch: Clean up begins after French riots but police remain",
+    "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6193/live/d6797140-cc02-11f1-bc2e-018d645d8d21.jpg",
+    "date": 1792445408000,
+    "titleSl": "Ura: čiščenje se začne po francoskih izgredih, vendar policija ostaja"
+   },
+   {
     "title": "Burnham vows end to 'rip-off parking charges' under new rules",
     "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad0/live/d480dcf0-cbff-11f1-9a39-31b474234113.jpg",
     "date": 1792443928000,
     "titleSl": "Maddison sije ob vrnitvi - Tottenham proti Coventryju"
-   },
-   {
-    "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-    "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
-    "date": 1792443753000,
-    "titleSl": "Teniška zvezda Svitolina pravi, da je čustveni davek vojne v Ukrajini privedel do ločitve Monfilsa"
    }
   ],
   "aljazeera": [
@@ -331,10 +331,31 @@
   ],
   "guardian": [
    {
+    "title": "California to recieve $6m settlement after 23andMe data breach",
+    "link": "https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach",
+    "image": "https://i.guim.co.uk/img/media/16598594abc8bdbad39e1b846d3522c72377fc8e/760_0_4538_3633/master/4538.jpg?width=140&quality=85&auto=format&fit=max&s=14fe312cca859b1e5e6f432208c9e193",
+    "date": 1792445670000,
+    "titleSl": "Kalifornija bo prejela poravnavo v višini 6 milijonov $ po kršitvi podatkov 23andMe"
+   },
+   {
+    "title": "Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines",
+    "link": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice",
+    "image": "https://i.guim.co.uk/img/media/038a0d9d13e9916a7b9b436190e82ccc362c1b04/1086_63_2594_2075/master/2594.jpg?width=140&quality=85&auto=format&fit=max&s=952ce4578a8303f4d8d6b05f7d501775",
+    "date": 1792445407000,
+    "titleSl": "Andy Burnham predstavlja nova pravila za prepoved kazni za zasebno parkiranje"
+   },
+   {
+    "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/24036470504f9c06915d922c35b6919c50e897e8/466_0_5341_4272/master/5341.jpg?width=140&quality=85&auto=format&fit=max&s=d2671cecb86df724987d5a47e03eb519",
+    "date": 1792445136000,
+    "titleSl": "Trump kaznuje Zelenskega zaradi razkola v sankcijah proti Rusiji in pravi, da bi se moral \"nekdo drug\" pogajati za Ukrajino - v živo"
+   },
+   {
     "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/464_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=69529824615a902110cb6a40346a52d3",
-    "date": 1792444676000,
+    "date": 1792445132000,
     "titleSl": "Helen Haines: neodvisna poslanka v kritičnem stanju v bolnišnici Alfred v Melbournu po nesreči z avtomobilom v Wangaratti – sledite posodobitvam"
    },
    {
@@ -345,32 +366,11 @@
     "titleSl": "Helen Haines je v ponedeljek zjutraj klepetala z domačini v pasjem parku. Do popoldneva se je borila za življenje"
    },
    {
-    "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/24036470504f9c06915d922c35b6919c50e897e8/466_0_5341_4272/master/5341.jpg?width=140&quality=85&auto=format&fit=max&s=d2671cecb86df724987d5a47e03eb519",
-    "date": 1792443540000,
-    "titleSl": "Trump kaznuje Zelenskega zaradi razkola v sankcijah proti Rusiji in pravi, da bi se moral \"nekdo drug\" pogajati za Ukrajino - v živo"
-   },
-   {
     "title": "Mississippi attorney general rules fatal police shooting of one-year-old as ‘justified’",
     "link": "https://www.theguardian.com/us-news/2026/oct/19/mississippi-attorney-general-kohen-wiley-killing-justified",
     "image": "https://i.guim.co.uk/img/media/fcd3b37d6c0c04f8e5ce968410d0acc0f38bf0cd/357_0_3570_2856/master/3570.jpg?width=140&quality=85&auto=format&fit=max&s=6ac6740e346fcab8b5c3629c39942026",
     "date": 1792443506000,
     "titleSl": "Generalni državni tožilec v Mississippiju je usodno policijsko streljanje na enoletnika označil za \"upravičeno\""
-   },
-   {
-    "title": "Ultra-endurance athlete completes 900-mile swim along entire California coast",
-    "link": "https://www.theguardian.com/us-news/2026/oct/19/catherine-breed-ultra-endurance-swim-california-coast",
-    "image": "https://i.guim.co.uk/img/media/c660397f558e72c7e8b889ceda5a96fee81554c3/752_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=e9456dfac80a3b9b6e31f20695a0c7b5",
-    "date": 1792442362000,
-    "titleSl": "Ultra vzdržljivostni športnik je preplaval 900 milj vzdolž celotne kalifornijske obale"
-   },
-   {
-    "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/bec165ec556866931479ddde6d76d75109b97a5d/403_0_5568_4455/master/5568.jpg?width=140&quality=85&auto=format&fit=max&s=bd28a5b880ca484f4678afb93b0fc9a3",
-    "date": 1792442094000,
-    "titleSl": "Francoski organi napovedujejo delne policijske ure, ko premier krivi \"ultra levo\" za izkoriščanje protestov – Evropa v živo"
    }
   ],
   "spiegel": [
