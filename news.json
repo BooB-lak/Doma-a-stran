@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T15:42:23.860Z",
+ "generatedAt": "2026-10-19T15:44:26.640Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Koalicija ne razkriva načrtov o izvedbi posvetovalnih referendumov",
+    "link": "https://www.24ur.com/novice/slovenija/koalicija-ne-razkriva-nacrtov-o-izvedbi-posvetovalnih-referendumov.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/ce6d4c230778c149bf33_63661473.jpg?v=d33c&fop=fp:0.48:0.53",
+    "date": 1792424377000
+   },
+   {
     "title": "Kaj se zgodi z deklico, ki je sanjala, da je vilinka? Raiven našla odgovor",
     "link": "https://www.24ur.com/popin/glasba/kaj-se-zgodi-z-deklico-ki-je-sanjala-da-je-vilinka-raiven-nasla-odgovor.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/d23ddc51f12a4e8382c0_63665752.jpg?v=3036&fop=fp:0.56:0.21",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/po-soku-12-sezone-v-masterchef-kuhinji-novi-preobrati.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/12da6716e7bd372525c2_63665402.jpg?v=6484&fop=fp:0.53:0.24",
     "date": 1792419998000
-   },
-   {
-    "title": "Cene stanovanj rekordne: tudi 11.800 evrov za kvadratni meter",
-    "link": "https://www.24ur.com/novice/slovenija/cene-stanovanj-rekordne-11800-evrov-za-kvadratni-meter.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/7cd9cee7b4b8dfcea20f_63653054.jpg?v=28a6&fop=fp:0.52:0.41",
-    "date": 1792419548000
    }
   ],
   "rtvslo": [
@@ -463,11 +463,25 @@
   ],
   "krone": [
    {
+    "title": "Teurer werden sie auch - Nachfrage nach Gebraucht-Stromern explodiert!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kTTk1VG1wcFc3dWJlQWNIUGNHN0w1YTlNQS1QR0FqWHhuMTB5aHBfdjdwNm93S21xQlNDVFZTWVNGQQ?oc=5",
+    "image": "",
+    "date": 1792424580000,
+    "titleSl": "Postajajo tudi dražji – povpraševanje po rabljenih električnih vozilih naglo narašča!"
+   },
+   {
     "title": "Schwer verletzt - Sturzbetrunkener Lenker mähte Zaun und Baum um",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yaWducjFTZ0xQaEUxNUxaTmlMVi13cGpiX2d2Z0UwOC1nY01JYllOUEczQ1lrMGlvZmlmNWtMWEFqZw?oc=5",
     "image": "",
     "date": 1792424400000,
     "titleSl": "Huje poškodovan - pijan voznik pokosil ograjo in drevo"
+   },
+   {
+    "title": "Prozess nach 21 Jahren: ++ Gewalt in Frankreich",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9NNV9RY1dPZExBZ3FMd3RINzhWTkFoVXJ4RHBNZmM5T0tyZU1rUzh0VGt6YkRlRWVnTDRBN0RDczgtQQ?oc=5",
+    "image": "",
+    "date": 1792424400000,
+    "titleSl": "Sojenje po 21 letih: ++ Nasilje v Franciji"
    },
    {
     "title": "Verzweiflung vor Wahl - Neuer Kuschelkurs: Trump setzt auf „Retter“ Putin",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1792422900000,
     "titleSl": "Policija preiskuje - moškega (35) odkrili s strelnimi ranami v stanovanju"
-   },
-   {
-    "title": "Verkauf abgeschlossen - Familiensilber nun sogar mit Gewinn verscherbelt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PSWpERHFrcjlVOTZBZ3NCRE0xX3VLWlctYXNpdlRMY3pLd3h5TmxIOUJKYVNweElPeF9PR1VOZ0JQZw?oc=5",
-    "image": "",
-    "date": 1792422000000,
-    "titleSl": "Prodaja zaključena - družinsko srebro se zdaj celo dobičkonosno prodaja"
-   },
-   {
-    "title": "Im September - E-Autos machten in Tirol schon ein Drittel aus",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4ya2VBZ2NQZ2dsako1d0ZndEk4WDd1YzNMdlBYU0NoaGI3NGhiOU9yQ0Rtb1Q2aDhFMDhtNWl1MDlPZw?oc=5",
-    "image": "",
-    "date": 1792422000000,
-    "titleSl": "Septembra - električni avtomobili so na Tirolskem predstavljali že tretjino"
    }
   ],
   "rainews": [
@@ -625,7 +625,7 @@
    {
     "title": "México presenta una nueva denuncia en Estados Unidos por la muerte de otro migrante a manos del ICE",
     "link": "https://elpais.com/mexico/2026-10-19/mexico-presenta-una-nueva-denuncia-en-estados-unidos-por-la-muerte-de-otro-migrante-a-manos-del-ice.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/X7ZNTGR4LFO5NDVNOMHJMFG3KQ.jpg?auth=bc63ac639ea8fbdbbb9430aa31ba966c678b9008ba975586794d86bd7eb6f19f",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1227191_152112_video_1800.mp4",
     "date": 1792421490000,
     "titleSl": "Mehika v ZDA vloži novo pritožbo zaradi smrti drugega migranta v rokah ICE"
    },
