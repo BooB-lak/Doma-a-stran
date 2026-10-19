@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T16:06:26.878Z",
+ "generatedAt": "2026-10-19T16:08:24.226Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
+    "link": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
+    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ca-climate-kfvm/19nat-ca-climate-kfvm-mediumSquareAt3X.jpg",
+    "date": 1792425955000,
+    "titleSl": "Zadnje podnebno poročilo svari pred velikimi spremembami v načinu življenja v Kaliforniji"
+   },
+   {
     "title": "Rent Is High Enough Without Junk Fees",
     "link": "https://www.nytimes.com/2026/10/19/opinion/rental-junk-fees.html",
     "image": "",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19westbank-arrests-01-zwmg/19westbank-arrests-01-zwmg-mediumSquareAt3X-v2.jpg",
     "date": 1792419733000,
     "titleSl": "Izraelska policija je pridržala 10 zaradi nasilnih napadov naseljencev na Zahodnem bregu"
-   },
-   {
-    "title": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?",
-    "link": "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-trump-netanyahu-01-ztlm/19int-trump-netanyahu-01-ztlm-mediumSquareAt3X.jpg",
-    "date": 1792419673000,
-    "titleSl": "Ali bo Trumpova podpora Netanjahuju spodbudila njegovo kampanjo ali propadla?"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/JD-THUMB-1792424912.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792425265000,
-    "titleSl": "JERUZALEMSKI DNEVNIK: Naseljenci napadajo diplomate EU"
-   },
-   {
     "title": "Kenyan court convicts starvation cult leader for murder of 191 people",
     "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261019__D3P67P7__v1__HighRes__KenyaCultArrestCourt-1792424698.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T171918Z_1387337223_UP1EM9D1C45CV_RTRMADP_3_SOCCER-ENGLAND-MUN-MCI-1792418832.jpg?resize=1720%2C1080",
     "date": 1792422439000,
     "titleSl": "Semenyo iz Man Cityja bo zaradi poškodbe kolena odsoten do osem tednov"
+   },
+   {
+    "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
+    "link": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A0995-copy-1792410266.jpeg?resize=1920%2C1440",
+    "date": 1792422316000,
+    "titleSl": "Strah pred lakoto v Gazi sovpada z zmanjšanjem pomoči in omejitvijo pošiljk"
    }
   ],
   "guardian": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Gewalt in Frankreich - Das absurde Gerede vom „Bildungsprotest“",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/frankreich-krawalle-das-absurde-gerede-vom-bildungsprotest-6ad61f72de9d7a845942b9b3",
+    "image": "https://images.bild.de/6ad61f72de9d7a845942b9b3/c81ba811111b6ad975e76facd50bb284,3392d38f?w=1280",
+    "date": 0,
+    "titleSl": "Nasilje v Franciji - absurdni govor o \"izobraževalnem protestu\""
+   },
+   {
+    "title": "45-Jähriger vor Gericht - Busfahrer soll Ex-Schwiegereltern getötet haben",
+    "link": "https://www.bild.de/regional/bayern/45-jaehriger-vor-gericht-busfahrer-soll-ex-schwiegereltern-getoetet-haben-6ad61f28843996518cba619a",
+    "image": "https://images.bild.de/6ad61f28843996518cba619a/7f8e05b6bcd9099f8e11c94fb9dae1f2,947a?w=1280",
+    "date": 0,
+    "titleSl": "45-letnik na sodišču - voznik avtobusa naj bi pobil nekdanje taste"
+   },
+   {
     "title": "Joker-Siege - Kirch mit glücklichen Händchen",
     "link": "https://www.bild.de/sport/fussball/arminias-joker-siege-kirch-mit-gluecklichem-haendchen-6ad61d7bde9d7a845942b956",
     "image": "https://images.bild.de/6ad61d7bde9d7a845942b956/22da8639922cb960b2204ca231be6b13,5f32f6d5?w=1280",
@@ -440,28 +454,28 @@
     "titleSl": "Na preizkušnji proti splitskemu Hajduku - Vuškovič napolnil stadion HSV"
    },
    {
-    "title": "Gewalt in Frankreich - Das absurde Gerede vom „Bildungsprotest“",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/frankreich-krawalle-das-absurde-gerede-vom-bildungsprotest-6ad61f72de9d7a845942b9b3",
-    "image": "https://images.bild.de/6ad61f72de9d7a845942b9b3/c81ba811111b6ad975e76facd50bb284,3392d38f?w=1280",
-    "date": 0,
-    "titleSl": "Nasilje v Franciji - absurdni govor o \"izobraževalnem protestu\""
-   },
-   {
     "title": "Investoren-Gipfel mit Nvidia-Boss - Fädelt Merz heute einen Milliarden-Deal ein?",
     "link": "https://www.bild.de/politik/inland/merz-und-nvidia-chef-huang-gipfel-trotz-harter-deutschlandkritik-6ad610a951e5094f7a571cf4",
     "image": "https://images.bild.de/6ad610a951e5094f7a571cf4/3f85e39b83dfeb283181f9f4e521fa79,77c17041?w=1280",
     "date": 0,
     "titleSl": "Vrh vlagateljev s šefom Nvidie - Ali Merz danes sklepa milijardo dolarjev vreden posel?"
-   },
-   {
-    "title": "Frankfurt winken Millionen - Neue Krösche-Klausel bei Eintracht enthüllt!",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-neue-kroesche-klausel-bei-eintracht-enthuellt-6ad6322b199dc15f1abd9932",
-    "image": "https://images.bild.de/6ad6322b199dc15f1abd9932/0ac5e2b4d6cafc0b82e5c3d86ace7403,f6e0ef8b?w=1280",
-    "date": 0,
-    "titleSl": "Milijoni čakajo na Frankfurt - pri Eintrachtu razkrili novo Kröschejevo klavzulo!"
    }
   ],
   "krone": [
+   {
+    "title": "Gebiet war gesperrt - Lawine erfasste Ausflügler in Chile – drei Tote",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBTGZMMlJaLWhOT1RDUWRqTmY4Q2ZHZWNmMGpVOG9iM0dtSGlUTEhIcGJkdVN0OFhuaTBVLWp5OE9FQQ?oc=5",
+    "image": "",
+    "date": 1792426020000,
+    "titleSl": "Območje je bilo zaprto - snežni plaz zajel pohodnike v Čilu - trije mrtvi"
+   },
+   {
+    "title": "Sucht und Wahn - Wenn KI-Chatbots auf die Psyche schlagen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zZjJCSXdoemN4aFRyZGFDanNZS042aVNlNUpaRDNSOXI0Y2ZJeFJMSGFnWFl0cUVpZjA0d3ZZOWRtQQ?oc=5",
+    "image": "",
+    "date": 1792425960000,
+    "titleSl": "Zasvojenost in zablode – Ko klepetalni roboti AI vplivajo na psiho"
+   },
    {
     "title": "Highlights der Partie - Video: Guter Start der Austria – aber Ried jubelt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9lMkpISklnZVF4SjEyeTV3OE5vdjRqcnY2TS1kbFpXY0hDWEpuOVZCRFBjS29nSWM4S0FNNVJaX2RNdw?oc=5",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1792425670000,
     "titleSl": "Vrhunci Bundeslige - Video: Tukaj WSG zaostruje krizo WAC"
-   },
-   {
-    "title": "Highlights im Video: - 4:0! Der LASK schüttelt in Lustenau CL-Frust ab",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56THBHVnBNY3k1b3N1aVBRRW83Tkh2X3loTVJDWktJQmROOVVHank5U0dScmxmdVFwVldPRG9XQ3NRQQ?oc=5",
-    "image": "",
-    "date": 1792425670000,
-    "titleSl": "Vrhunci v videu: - 4:0! LASK se otresa frustracij CL v Lustenauu"
-   },
-   {
-    "title": "Schock bei Sturm – GAK - Video: Horror-Verletzung überschattet Grazer Derby",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBlbjRHQnM5bEdfVVFHbUxFMzd6VW9ua2hTRDVhQ05pSnlTTE5FUU0xakRIQmg1UXpRSFdkWUZrY1JVQQ?oc=5",
-    "image": "",
-    "date": 1792425634000,
-    "titleSl": "Šok med nevihto - GAK - Video: Grozljiva poškodba zasenčila graški derbi"
    }
   ],
   "rainews": [
@@ -558,6 +558,13 @@
     "titleSl": "Na sojenju za eksplozijo na ulici Rue de Trévise se mesto Pariz in skrbnik stavbe soočata s pravico"
    },
    {
+    "title": "Les manifestations du 17 octobre « ont acté la mort du macronisme » avec « rage, colère et peur de l’avenir » : le regard d’une presse étrangère stupéfaite par les violences urbaines",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/19/les-manifestations-du-17-octobre-ont-acte-la-mort-du-macronisme-avec-rage-colere-et-peur-de-l-avenir-le-regard-d-une-presse-internationale-stupefaite-par-les-violences-urbaines_6797555_823448.html",
+    "image": "https://img.lemde.fr/2026/10/19/160/0/1920/960/644/322/60/0/1a85503_upload-1-2xzqbf9bsv3l-generated-1792424448748.jpg",
+    "date": 1792425167000,
+    "titleSl": "Demonstracije 17. oktobra so \"razglasile smrt makronizma\" z \"besom, jezo in strahom pred prihodnostjo\": pogled tujega tiska, osupelega nad urbanim nasiljem"
+   },
+   {
     "title": "Mobilisation du 17 octobre : après un week-end chaotique, Emmanuel Macron et le gouvernement s’en remettent aux préfets",
     "link": "https://www.lemonde.fr/politique/article/2026/10/19/mobilisation-du-17-octobre-apres-un-week-end-chaotique-emmanuel-macron-et-le-gouvernement-s-en-remettent-aux-prefets_6797553_823448.html",
     "image": "https://img.lemde.fr/2026/10/19/1872/0/4000/2000/644/322/60/0/d3c02d8_upload-1-1hfsefwbycor-2026-10-18-paris-pol-lemonde-17oct-jour-apres-107.JPG",
@@ -570,13 +577,6 @@
     "image": "https://img.lemde.fr/2026/10/08/505/0/4023/2011/644/322/60/0/574dda1_upload-1-fmxf5fy7rii0-ayana-fuentes-uno-saori-kanezuke-morgane-thomas-bruiteuse-zita-hanrot-jeanne-cre-ange-copie.jpg",
     "date": 1792423808000,
     "titleSl": "Tretja sezona serije \"Projet Orloff\" na francoski kulturi označuje konec iluzij za vohune"
-   },
-   {
-    "title": "Pluie et inondations : huit départements du Sud-Est placés en vigilance orange mardi",
-    "link": "https://www.lemonde.fr/planete/article/2026/10/19/pluie-et-inondations-huit-departements-du-sud-est-places-en-vigilance-orange-mardi_6797409_3245.html",
-    "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/0397993_upload-1-pfmowr3mcztu-frame-18.jpg",
-    "date": 1792422640000,
-    "titleSl": "Dež in poplave: v osmih departmajih na jugovzhodu v torek razglašen oranžni alarm"
    },
    {
     "title": "L’administration présente ses scénarios de réforme pour la fonction publique : « On est vraiment dans une situation d’urgence »",
@@ -594,13 +594,6 @@
    }
   ],
   "elpais": [
-   {
-    "title": "Última hora del temporal en España, en directo | Cuatro muertos por la dana que provoca inundaciones en Valencia y Alicante",
-    "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/5JX72G7KUBHBHIWJ6COQWH5UNY.jpg?auth=49d026f1ba49d9c04b03c88c5ca6e147a7f65dd06b2dabdd0d73588c0fd26537",
-    "date": 1792425701000,
-    "titleSl": "Zadnja minuta neurja v Španiji, v živo | Štirje mrtvi zaradi škode, ki je povzročila poplave v Valencii in Alicanteju"
-   },
    {
     "title": "La Generalitat mantiene el confinamiento en ocho municipios de Valencia y Alicante por las lluvias torrenciales e inundaciones",
     "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
@@ -628,6 +621,13 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1227129_124012_video_1800.mp4",
     "date": 1792425210000,
     "titleSl": "Policija je ovadila skupino madridskih učiteljev, ki so blokirali vhod na dogodek Ayuso"
+   },
+   {
+    "title": "Última hora del temporal en España, en directo | Cuatro muertos por la dana que provoca inundaciones en Valencia y Alicante",
+    "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/5JX72G7KUBHBHIWJ6COQWH5UNY.jpg?auth=49d026f1ba49d9c04b03c88c5ca6e147a7f65dd06b2dabdd0d73588c0fd26537",
+    "date": 1792425039000,
+    "titleSl": "Zadnja minuta neurja v Španiji, v živo | Štirje mrtvi zaradi škode, ki je povzročila poplave v Valencii in Alicanteju"
    },
    {
     "title": "El Ibex acelera las caídas y pierde un 1,49% ante la inestabilidad en Francia",
