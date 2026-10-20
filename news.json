@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T17:16:24.850Z",
+ "generatedAt": "2026-10-20T17:18:23.916Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1792516500000
    },
    {
-    "title": "Krka še brez praske",
+    "title": "Krka melje naprej",
     "link": "https://siol.net/sportal/kosarka/liga-otp-banka-5-krog-704388",
     "image": "https://siol.net/media/img/10/d9/9a99b0e1c146275b091e.jpeg",
     "date": 1792516200000
@@ -47,6 +47,12 @@
     "date": 1792515925000
    },
    {
+    "title": "Razbili mrežo, ki je vzrejala pitbule za pasje boje",
+    "link": "https://www.24ur.com/novice/tujina/v-italiji-so-razbili-mrezo-ki-vzrejala-pitbule-za-pasje-boje.html",
+    "image": "https://images.24ur.com/media/images/213xX/Apr2024/81b72599420ce3a71b75_63225748.jpg?v=d9a4&fop=fp:0.47:0.39",
+    "date": 1792515726000
+   },
+   {
     "title": "Flick laska Parižanom: Gre za najboljšo ekipo na svetu",
     "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/flick-laska-parizanom-gre-za-najboljso-ekipo-na-svetu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/5eb9693a772e19113d06_63643371.jpg?v=d650&fop=fp:0.50:0.41",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/zadeva-knovs-sodisce-prelozilo-narok-na-december.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2025/6a75694a8b0f2ef6005e_63436307.jpg?v=b310&fop=fp:0.49:0.24",
     "date": 1792512015000
-   },
-   {
-    "title": "V Novem mestu zasegli večjo količino orožja in streliva",
-    "link": "https://www.24ur.com/novice/crna-kronika/v-novem-mestu-zasegli-vecjo-kolicino-orozja-in-streliva.html",
-    "image": "https://images.24ur.com/media/images/213xX/Mar2026/fd29bdebb03f31e4e168_63562341.jpg?v=8421&fop=fp:0.45:0.45",
-    "date": 1792510496000
    }
   ],
   "rtvslo": [
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "How does language affect how we think?",
+    "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AJ_VC_Languages_THUMB_HORIZ-1792516099.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792516188000,
+    "titleSl": "Kako jezik vpliva na naše razmišljanje?"
+   },
+   {
+    "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792515583.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792515595000,
+    "titleSl": "DNEVNO JERUZALEM: Pol milijona Palestincev izgubi pomoč v hrani"
+   },
+   {
     "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-17.46.41-1792514962.png?resize=1200%2C675",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/with-Title-1792513366.png?resize=1920%2C1080&quality=80",
     "date": 1792513392000,
     "titleSl": "Ali Ciper postaja izraelsko dvorišče?"
-   },
-   {
-    "title": "Qatar says only negotiations can resolve regional tensions",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792513163.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792513261000,
-    "titleSl": "Katar pravi, da lahko samo pogajanja rešijo regionalne napetosti"
-   },
-   {
-    "title": "Ferry catches fire near Indonesian port, all passengers rescued",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792512790.jpg?resize=1498%2C1080&quality=80",
-    "date": 1792512796000,
-    "titleSl": "Trajekt zajame požar v bližini indonezijskega pristanišča, vsi potniki so rešeni"
    }
   ],
   "guardian": [
@@ -375,11 +375,11 @@
   ],
   "spiegel": [
    {
-    "title": "Cornell University: »Jane Doe« wirft Uni-Präsident Kotlikoff Versagen vor",
+    "title": "Cornell University: »Jane Doe« wirft Unipräsident Kotlikoff Versagen vor",
     "link": "https://www.spiegel.de/ausland/cornell-university-jane-doe-wirft-uni-praesident-kotlikoff-versagen-vor-a-7370b47c-b5cc-4952-93a6-22f4965b971b#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/85dd5a97-3417-4c05-b8b4-91dc7965b282_w520_r2.08_fpx52.65_fpy54.97.jpg",
     "date": 1792515840000,
-    "titleSl": "Univerza Cornell: »Jane Doe« wirft Uni-Präsident Kotlikoff Versagen vor"
+    "titleSl": "Univerza Cornell: »Jane Doe« wirft Unipräsident Kotlikoff Versagen vor"
    },
    {
     "title": "Union Berlin: Wer-wird-Millionär-Kandidat kennt Trainer Mauro Lustrinelli nicht",
@@ -454,6 +454,18 @@
   ],
   "krone": [
    {
+    "title": "„Ausgeklügelte Tricks“ - Immer mehr Phishing-Mails: Ministerium warnt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkcWVWNGxWS3NZWk41d1FJTFVBT3FzWFRLQ3JVdmNCQlZ3a0RTUHJQeWhROE5iWnd5NEVfYzFLM2dFUQ?oc=5",
+    "image": "",
+    "date": 1792516620000
+   },
+   {
+    "title": "Wetterumschwung - Erster kräftiger Schneefall in den Alpen erwartet",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52MmZ4R21DcHpxLS1aMFpBUHNEbncxV2Z2M0xQeTVjVXZRTzE4UFBzbVBEX25OUmhwSWtVbWQ3YzFjQQ?oc=5",
+    "image": "",
+    "date": 1792516560000
+   },
+   {
     "title": "Drei Autos beschädigt - Unfall nach Bremsmanöver: Pkw fuhr einfach weiter",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwNXA2RWlNc1ExVFhXekNHeEhxSGp1V1licjFFYmxpNGFzbWk2Q04wZmhSYjBPajZlcHgwOWJkSkZXQQ?oc=5",
     "image": "",
@@ -477,18 +489,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tWWIxZWZEb3QzVU02Q0VldnI4QzlYTGtTT1otWjc1Tm1DQzBRWGVqOVVKN0lvMlJFZ3N1TmszSkwwUQ?oc=5",
     "image": "",
     "date": 1792515671000
-   },
-   {
-    "title": "Prüfer schlagen Alarm - MA 11: Notbett statt Schutz für gefährdete Kinder",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WZFAwMFZ4amstLVkydFFHbEpxWldvbmtnSkZxeURsbmlHb1puNjNEX1RYeWJFcHpmSS1SSVhVVmRfdw?oc=5",
-    "image": "",
-    "date": 1792515600000
-   },
-   {
-    "title": "Im Drogenrausch - Döner-Dieb soll Bruder mit Messer attackiert haben",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02eVVfWEhPQ1Z4YzBDWklLVm52WVF5TVg1YjFWOWdnTlQ0VkZMSnBmUlB5QjRjUVpFRl9hWE9GX2pYQQ?oc=5",
-    "image": "",
-    "date": 1792515600000
    }
   ],
   "rainews": [
@@ -576,6 +576,12 @@
   ],
   "elpais": [
    {
+    "title": "La OTAN reforzará su presencia en el mar Negro tras los últimos ataques con drones",
+    "link": "https://elpais.com/internacional/2026-10-20/la-otan-reforzara-su-presencia-en-el-mar-negro-tras-los-ultimos-ataques-con-drones.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SLRJPSI4TBI7TDHPABDD4WROEA.jpg?auth=79c319979bdbc9ca9e76a729aa887c237ac89d19bd0abfa6dd87d1aeee439410",
+    "date": 1792516127000
+   },
+   {
     "title": "Última hora de la actualidad política, en directo | Junqueras, tras la aplicación de la amnistía: “La represión fue brutal e innecesaria, lo hicieron porque nos tenían miedo”",
     "link": "https://elpais.com/espana/2026-10-20/ultima-hora-de-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/VPGJSAASWZBNBAFPOXXZB3GYRE.jpg?auth=e6f834b48102e2783d21e315f33947b856f0be694375e28103c7b8355f43e2df",
@@ -597,7 +603,7 @@
    {
     "title": "Los partidos de Francia se unen para culpar al izquierdista Mélenchon de la violencia",
     "link": "https://elpais.com/internacional/2026-10-20/los-partidos-de-francia-se-unen-para-culpar-al-izquierdista-melenchon-de-la-violencia.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/TE3WKHUEEFDGLNN2QZAY637CTY.jpg?auth=117dcc2f0438e9c658e5ec39859db6cb6e9050c014e33a84e25bdadf7fbdfa4b",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1227258_175720_video_1800.mp4",
     "date": 1792513719000
    },
    {
@@ -605,13 +611,6 @@
     "link": "https://elpais.com/espana/2026-10-20/la-esposa-de-ignacio-gonzalez-niega-que-dragados-costease-el-jardin-de-su-vivienda-tras-ganar-el-proyecto-del-campo-de-golf.html",
     "image": "https://imagenes.elpais.com/resizer/v2/STOQ7PXM65F6FO56HRUY5PYIWU.bmp?auth=5d708955f69d0f5bec249ffb188d982127b27a9205e3e8df1617a7bf29e16c59",
     "date": 1792513487000
-   },
-   {
-    "title": "Cenotes y pozos de Yucatán plagados de restos fecales: las granjas de cerdos amenazan a poblaciones mayas",
-    "link": "https://elpais.com/mexico/2026-10-20/cenotes-y-pozos-de-yucatan-plagados-de-restos-fecales-las-granjas-de-cerdos-amenazan-a-poblaciones-mayas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/56MS3O5CC5GE3ETB36LABDVWOE.jpg?auth=90b4d19e2287865bb617a83103d4a3707ed218250590149d9eee3c71e497c9fa",
-    "date": 1792512646000,
-    "titleSl": "Cenotes y pozos de Yucatán plagados de restors fecales: las granjas de cerdos amenazan a poblaciones mayas"
    }
   ]
  },
