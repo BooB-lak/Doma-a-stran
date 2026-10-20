@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-20T09:44:27.174Z",
+ "generatedAt": "2026-10-20T09:46:25.708Z",
  "sources": {
   "siol": [
+   {
+    "title": "Nekaterim uporabnikom Revolut trenutno nagaja ali kar ne deluje",
+    "link": "https://siol.net/novice/digisvet/nekaterim-uporabnikom-revolut-trenutno-nagaja-ali-kar-ne-deluje-704382",
+    "image": "https://siol.net/media/img/b5/a0/2923b4adb882e018c5b5.jpeg",
+    "date": 1792489260000
+   },
    {
     "title": "Policija delila fotografijo osumljenca, ki ga intenzivno išče zaradi več sumov kaznivih dejanj",
     "link": "https://siol.net/novice/slovenija/policija-delila-fotografijo-osumljenca-ki-ga-intenzivno-isce-zaradi-vec-sumov-kaznivih-dejanj-704378",
@@ -9,7 +15,7 @@
     "date": 1792488120000
    },
    {
-    "title": "KPK: MOL naročilnico za izvajanje nadzora izdala podjetju družinskega člana podžupana",
+    "title": "KPK: Mol naročilnico za izvajanje nadzora izdala podjetju družinskega člana podžupana",
     "link": "https://siol.net/novice/slovenija/kpk-mol-narocilnico-za-izvajanje-nadzora-izdala-podjetju-druzinskega-clana-podzupana-704381",
     "image": "https://siol.net/media/img/a7/82/b87c459074273c602b8b.jpeg",
     "date": 1792488120000
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/grozljivi-prizori-v-ukrajini-napaden-park-v-katerem-so-bili-otroci-porocajo-o-zrtvah-vzivo-704376",
     "image": "https://siol.net/media/img/70/12/251c1a31b9f9de8ecf89.jpeg",
     "date": 1792486860000
-   },
-   {
-    "title": "V Parizu je vroče, zvezdniki Barcelone doživeli neprijetnost",
-    "link": "https://siol.net/sportal/nogomet/v-parizu-je-vroce-zvezdniki-barcelone-doziveli-neprijetnost-704375",
-    "image": "https://siol.net/media/img/ea/gd/f580a45db60423a9a6a2.jpeg",
-    "date": 1792486800000
    }
   ],
   "24ur": [
@@ -243,11 +243,11 @@
   ],
   "bbc": [
    {
-    "title": "Three children injured after school bus crashes into railway bridge",
+    "title": "Three children injured after school bus roof ripped off in crash",
     "link": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b5/live/368f92c0-cc68-11f1-bc2e-018d645d8d21.jpg",
-    "date": 1792488746000,
-    "titleSl": "Po trčenju šolskega avtobusa v železniški most poškodovani trije otroci"
+    "date": 1792489467000,
+    "titleSl": "Trije otroci poškodovani, ko je v nesreči šolskega avtobusa odtrgalo streho"
    },
    {
     "title": "Jobless rate falls but small firms cut back hiring",
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Canadian opera singer replaced after he raised Palestinian flag",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-calgary-opera-palestine-clip?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792488189.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792488256000,
-    "titleSl": "Kanadski operni pevec zamenjan, potem ko je dvignil palestinsko zastavo"
-   },
-   {
     "title": "French protests: Is it game over for Macron’s centrists before elections?",
     "link": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad65b64cd-1792432996.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-19T233535Z_746983029_RC2N6OAU3I0F_RTRMADP_3_CANADA-ALBERTA-1792477329.jpg?resize=1920%2C1440",
     "date": 1792478252000,
     "titleSl": "Volivci v Alberti zavračajo ločitev od Kanade, kažejo zgodnji rezultati"
+   },
+   {
+    "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+    "link": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260922__C92T693__v4__HighRes__MeetingBetweenUkrainianPresidentVolodymyrZelens-1792469801.jpg?resize=1920%2C1440",
+    "date": 1792477424000,
+    "titleSl": "Odnosi med ZDA in Ukrajino so se poslabšali zaradi spopada med Trumpom in Zelenskim zaradi pogovorov, orožja"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Flugzeug in Lima evakuiert - Hier steht der Airbus in Flammen",
+    "link": "https://www.bild.de/news/flugzeug-in-lima-evakuiert-hier-steht-der-airbus-in-flammen-6ad723d951e5094f7a5728db",
+    "image": "https://images.bild.de/6ad723d951e5094f7a5728db/9b65f82d39ca87353afcd4969d95f9df,9e28ecc?w=1280",
+    "date": 0,
+    "titleSl": "V Limi evakuirali letalo - Airbus gori"
+   },
+   {
     "title": "Merz verkündet bei Investoren-Gipfel - Merz verkündet 800-Milliarden-Regen",
     "link": "https://www.bild.de/politik/inland/amazon-16-milliarden-euro-fuer-deutschland-insgesamt-800-mrd-euro-von-unternehmen-6ad7254c199dc15f1abda34f",
     "image": "https://images.bild.de/6ad7254c199dc15f1abda34f/54c657d46d4e79e768c75d38a4f5c38d,d7cda567?w=1280",
@@ -440,13 +447,6 @@
     "titleSl": "Zadnja priložnost v oktobru - Kateri filmi in serije bodo kmalu zapustili Netflix?"
    },
    {
-    "title": "Flugzeug in Lima evakuiert - Hier steht der Airbus in Flammen",
-    "link": "https://www.bild.de/news/flugzeug-in-lima-evakuiert-hier-steht-der-airbus-in-flammen-6ad723d951e5094f7a5728db",
-    "image": "https://images.bild.de/6ad723d951e5094f7a5728db/9b65f82d39ca87353afcd4969d95f9df,9e28ecc?w=1280",
-    "date": 0,
-    "titleSl": "V Limi evakuirali letalo - Airbus gori"
-   },
-   {
     "title": "Düfte statt Appetit - Abnehmspritzen verändern den Parfum-Markt",
     "link": "https://www.bild.de/leben-wissen/abnehmspritze-und-parfum-neuer-duft-trend-6ad722151935debc092ab4bf",
     "image": "https://images.bild.de/6ad722151935debc092ab4bf/1a85098a732fa6a7eec2a3be43d6f400,90ef0279?w=1280",
@@ -463,46 +463,46 @@
   ],
   "krone": [
    {
-    "title": "Spur zu drei Hütten - Vermisste Carolin: Seher will wissen, wo sie liegt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UVlFlS09ma01ZSkUzcTVKOFNDdi0zUURwSlIzdGxmdWlNdTZIN0o3czNkQWt6b19rbVEzd0dDdG8xQQ?oc=5",
+    "title": "Unmut bei Lkw-Fahrern - Proteste in Süditalien verknappen Lebensmittel",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQa0ZPN19mVkRHYjJPTkpXaWxKUVNPTHJwQk9EVmZzanlYWTR5LXB5QWJRNUw0N0lYaldhdnVaYVJPdw?oc=5",
     "image": "",
-    "date": 1792487657000,
-    "titleSl": "Pot do treh koč - pogrešana Carolin: Seher želi vedeti, kje je"
+    "date": 1792489320000,
+    "titleSl": "Nezadovoljstvo med vozniki tovornjakov – protesti v južni Italiji vodijo v pomanjkanje hrane"
    },
    {
-    "title": "„Krone“-Kommentar - Landtagsboss ohne Nobelauto",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81NTVoeEF2RGpUZjVzTS1PbEtnREczUjVnWjc4b0VjQ3NaanRzSV9Dc1p5R25sZmY2MVJwdWxPdmI3Zw?oc=5",
+    "title": "„Ich würde nie wieder für Deutschland spielen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA1OU5RU2trSHRSU1dfYjdlX0pjaTNJRnpkWUFjSS11ajI4N1pNNEZQQWo3NWtTZXE2MjlZdnlGMzVGUQ?oc=5",
     "image": "",
-    "date": 1792486800000,
-    "titleSl": "Komentar “Krone” - šef državnega parlamenta brez luksuznega avtomobila"
+    "date": 1792489260000,
+    "titleSl": "\"Nikoli več ne bi igral za Nemčijo\""
    },
    {
-    "title": "Nächster Rückschlag - Die Diagnose ist da! David Alaba erneut verletzt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GVk51WUVuSF85NjlPZDJ2WTJXQU5aeWY3Wm45R1FQbGV0S1lXcEpLNlVHUG4wWTlIcEhrTFhUVllVQQ?oc=5",
+    "title": "Extreme Nachfrage - Bregenzer Festspiele verlängern Saison 2027",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FMVdkeGtTUzJQaGctT204YXVXUW5aMFA1Q0JBWDRpVHRGc3ZNdWVyRkJFTnFUalBfNUhNTWZKRFdfUQ?oc=5",
     "image": "",
-    "date": 1792486680000,
-    "titleSl": "Naslednja napaka - diagnoza je tu! David Alaba znova poškodovan"
+    "date": 1792488900000,
+    "titleSl": "Izjemno povpraševanje – Festival v Bregenzu podaljša sezono 2027"
    },
    {
-    "title": "Die „Schicksalsjahre“ - ORF will bis 2027 gut 30 Millionen Euro sparen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MV1AtMjJIdEYzMDZPN19aVmVLMC1HQU5kX3FLTmZkOTBmWktSbDd1d3F4U3RkV1ltcWZBMm50UkNyUQ?oc=5",
+    "title": "Ersatzverkehr - Tauernbahnstrecke wird vier Tage lang gesperrt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZZDhrWGpaV2lSdXZCRUU4ckxMT09zTEFxMzVFUHRQTmNPd1ZwZnMwWjlEQXc1bmUzNWdGSTRtMm12QQ?oc=5",
     "image": "",
-    "date": 1792485735000,
-    "titleSl": "“Usodna leta” - ORF želi do leta 2027 prihraniti dobrih 30 milijonov evrov"
+    "date": 1792488600000,
+    "titleSl": "Nadomestni promet - proga Tauernbahn bo zaprta štiri dni"
    },
    {
-    "title": "Gelb-Rot-Fußball-Talk - Episode 80: Rapid marschiert und Sturm demoliert",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84VTNrR2hxTmFGa2lNTG5aZkptZi12VUlEVGIydEdCUkR2bllWX3Y4cVVqejNfbGhWanlQLUxrYUZBZw?oc=5",
+    "title": "Nicht rechtskräftig - Alkofahrt kostete ein Leben: 16 Monate Haft",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mU0g2SnNxeXdCWGxQRk9Ld25hMHptdFZuLWUxaEFyZy15NV9yTWFEUE9lRkE5QzJvWkM2aHpUb2Fydw?oc=5",
     "image": "",
-    "date": 1792485372000,
-    "titleSl": "Yellow-Red Football Talk - Epizoda 80: Hitri koraki in Sturm ruši"
+    "date": 1792488540000,
+    "titleSl": "Ni pravnomočno – vožnja pod vplivom alkohola je stala življenje: 16 mesecev zapora"
    },
    {
-    "title": "Engländer berichten: - Abstieg von Manchester City offenbar besiegelt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NekhlZEpRbTExb01mMzhaclF0RHFTelVJSU0tYzQ0NEVqSkRzVEpSR3ZHMlFlZkQ0SWZST1luNnQ4dw?oc=5",
+    "title": "Mordprozess in NÖ - 36-Jährige erwürgt: „Sie war absolut chancenlos“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qN19ZckNvQzZMdzkzNjJmSGQ3WWdrczJYQTdJNUwyc084RFdGSHlhUlRZdUd5Yko0UEhnTFdFcGsyZw?oc=5",
     "image": "",
-    "date": 1792484340000,
-    "titleSl": "Angleško poročilo: - Izpad Manchester Cityja je očitno zapečaten"
+    "date": 1792488180000,
+    "titleSl": "Sojenje za umor v Spodnji Avstriji - 36-letnica zadavljena: \"Ni imela nobene možnosti\""
    }
   ],
   "rainews": [
