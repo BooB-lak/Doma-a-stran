@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T13:26:24.190Z",
+ "generatedAt": "2026-10-20T13:28:24.187Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Bolnišnico Valdoltra naj bi obiskali kriminalisti",
+    "link": "https://www.24ur.com/novice/slovenija/bolnisnico-valdoltra-naj-bi-obiskali-kriminalisti.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/df5df86dc253182184c3_63666359.jpg?v=001f&fop=fp:0.53:0.30",
+    "date": 1792502726000
+   },
+   {
     "title": "Nova pravila EU: Lažje povračilo denarja in večja zaščita potnikov",
     "link": "https://www.24ur.com/novice/tujina/nove-evropske-uredbe-lazje-povracilo-denarja-in-vecja-zascita-potnikov.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2025/76d88fa3adb0e6bd7fe0_63467391.jpg?v=598b&fop=fp:0.50:0.57",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/crna-kronika/kje-je-33-letni-danijel-iz-maribora.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/e435a1cd2a0d210825d2_63666245.jpg?v=cba4&fop=fp:0.41:0.49",
     "date": 1792498202000
-   },
-   {
-    "title": "Na Zormanovem seznamu tudi štirje Celjani",
-    "link": "https://www.24ur.com/sport/ostalo/na-zormanovem-seznamu-tudi-stirje-celjani.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/75691a25f65e3dfe8cef_63666236.jpg?v=0d0a&fop=fp:0.35:0.25",
-    "date": 1792497670000
    }
   ],
   "rtvslo": [
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-    "image": "https://i.guim.co.uk/img/media/45a6eb1967cbe3e395cdadcff67f7ea22af1de58/375_0_2743_2194/master/2743.jpg?width=140&quality=85&auto=format&fit=max&s=dd2ce35e2c7ae6a748ea2d860e9b4ce8",
-    "date": 1792501972000,
-    "titleSl": "Trump nadaljuje z bliskovito kampanjo v Severni Karolini – ameriška politika v živo"
+    "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
+    "link": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
+    "image": "https://i.guim.co.uk/img/media/9036fccc788d40f62a8e652577afcc028387d269/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=b7fc6f2bad58a84af7de03f9de2e9719",
+    "date": 1792502690000,
+    "titleSl": "BBC Three in BBC Scotland TV kanale bodo naslednje leto ukinili"
    },
    {
     "title": "Italy poised to approve tougher security measures in response to protests – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/6464ee886fa9f110e319b95d0dc732ebd3ee08c8/1658_526_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=308ba3b763cf6251263e9d0bc533c721",
-    "date": 1792500903000,
+    "date": 1792502514000,
     "titleSl": "Italija je pripravljena odobriti strožje varnostne ukrepe kot odgovor na proteste – Evropa v živo"
+   },
+   {
+    "title": "Hancock’s claim about protecting care homes shown by Covid inquiry to be ‘cruel lie’, victims’ families say – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/e47ef742035edc19ba36b13621ca7e9926f80ba6/680_0_6814_5451/master/6814.jpg?width=140&quality=85&auto=format&fit=max&s=afd17c76ec35662bae353286242f5931",
+    "date": 1792502456000,
+    "titleSl": "Družine žrtev pravijo, da je Hancockova trditev o zaščiti domov za oskrbo v preiskavi Covida \"kruta laž\" – Britanska politika v živo"
+   },
+   {
+    "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+    "image": "https://i.guim.co.uk/img/media/45a6eb1967cbe3e395cdadcff67f7ea22af1de58/375_0_2743_2194/master/2743.jpg?width=140&quality=85&auto=format&fit=max&s=dd2ce35e2c7ae6a748ea2d860e9b4ce8",
+    "date": 1792501972000,
+    "titleSl": "Trump nadaljuje z bliskovito kampanjo v Severni Karolini – ameriška politika v živo"
    },
    {
     "title": "Michigan heckler the son of Republican adviser paid for ‘influencer marketing’ against El-Sayed",
@@ -352,25 +366,11 @@
     "titleSl": "Heckler iz Michigana, sin republikanskega svetovalca, je plačal \"marketing vplivnežev\" proti El-Sayedu"
    },
    {
-    "title": "Hancock’s claim about protecting care homes shown by Covid inquiry to be ‘cruel lie’, victims’ families say – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/e47ef742035edc19ba36b13621ca7e9926f80ba6/680_0_6814_5451/master/6814.jpg?width=140&quality=85&auto=format&fit=max&s=afd17c76ec35662bae353286242f5931",
-    "date": 1792499891000,
-    "titleSl": "Družine žrtev pravijo, da je Hancockova trditev o zaščiti domov za oskrbo v preiskavi Covida \"kruta laž\" – Britanska politika v živo"
-   },
-   {
     "title": "US bans use of China’s DeepSeek AI tools by government agencies",
     "link": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
     "image": "https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=6a732e1f02fde0d1480fbe11b6272814",
     "date": 1792499607000,
     "titleSl": "ZDA vladnim agencijam prepovedujejo uporabo kitajskih orodij AI DeepSeek"
-   },
-   {
-    "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
-    "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
-    "image": "https://i.guim.co.uk/img/media/5dcbf6e6a550212dfa34c885265d9ef3a763ed30/353_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=46fd060cee90d340f7c412d28aaa9b59",
-    "date": 1792497636000,
-    "titleSl": "Dajanje 2 £ na dan ljudem v Amazoniji pomaga zaščititi deževni gozd, ugotavlja pilotni projekt"
    }
   ],
   "spiegel": [
@@ -418,6 +418,19 @@
   ],
   "bild": [
    {
+    "title": "Erstes Training der Klub-Legenden - Langenekes Plan mit seiner Fortuna",
+    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-jens-langenekes-plan-mit-seiner-fortuna-6ad6f294199dc15f1abd9fd2",
+    "image": "https://images.bild.de/6ad6f294199dc15f1abd9fd2/c6c73240dc9aa04058efc95abefe76f7,eef36e34?w=1280",
+    "date": 0,
+    "titleSl": "Erstes Training der Klub-Legenden - Langenekes Plan mit Seiner Fortuna"
+   },
+   {
+    "title": "Vor dem Arsenal-Kracher - Neue Personalsorgen bei Bayern!",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-training-vor-dem-arsenal-kracher-ohne-kimmich-und-kompany-mit-neuer-6ad759fc51e5094f7a572fcc",
+    "image": "https://images.bild.de/6ad759fc51e5094f7a572fcc/08bcf9b51cf384658b822684c99a6447,d94ce343?w=1280",
+    "date": 0
+   },
+   {
     "title": "Einlass-Chaos bei Investitionsgipfel - Top-Manager mussten draußen Schlange stehen",
     "link": "https://www.bild.de/politik/inland/investitionsgipfel-chaos-beim-einlass-manager-warten-bis-zu-30-minuten-in-der-kaelte-6ad72430199dc15f1abda341",
     "image": "https://images.bild.de/6ad72430199dc15f1abda341/3dabb00b98d44001de256e82726a848e,8e3270b0?w=1280",
@@ -442,20 +455,6 @@
     "image": "https://images.bild.de/6ad760b5199dc15f1abdaa06/1078b39416b7a7a3f078544011547aa9,1565adf5?w=1280",
     "date": 0,
     "titleSl": "Ali Harry tukaj govori o bratu Williamu? - \"Nekateri nočejo, da se stvari dobro končajo\""
-   },
-   {
-    "title": "Ten Hag knallhart - Abrechnung mit Ronaldo! „Er konnte es schlichtweg nicht“",
-    "link": "https://www.bild.de/sport/fussball/erik-ten-hag-abrechnung-mit-superstar-cristiano-ronaldo-6ad73ea451e5094f7a572c0a",
-    "image": "https://images.bild.de/6ad73ea451e5094f7a572c0a/a291105693785d45a9246b8da13c67ed,e424be0c?w=1280",
-    "date": 0,
-    "titleSl": "Ten Hag težak - obračunava z Ronaldom! \"Tega preprosto ni zmogel.\""
-   },
-   {
-    "title": "Ist der irre? - Schiri stürzt sich in Eishockey-Prügelei",
-    "link": "https://www.bild.de/sport/mehr-sport/ist-der-irre-schiri-stuerzt-sich-in-eishockey-pruegelei-6ad748d051e5094f7a572d88",
-    "image": "https://images.bild.de/6ad748d051e5094f7a572d88/df77458f8d1b1f727a94d00c39e534b0,36bd812e?w=1280",
-    "date": 0,
-    "titleSl": "Ali je nor? - Sodnik skoči v hokejski prepir"
    }
   ],
   "krone": [
