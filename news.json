@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T21:12:23.977Z",
+ "generatedAt": "2026-10-20T21:14:25.069Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Why do the US midterms matter for Trump and Congress?",
+    "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-20T174856Z_1170868734_RC2Q4OAD5P1Y_RTRMADP_3_USA-ELECTION-FLORIDA-RETIREES-1792525920.jpg?resize=1920%2C1440",
+    "date": 1792530042000,
+    "titleSl": "Zakaj so vmesni izpiti v ZDA pomembni za Trumpa in Kongres?"
+   },
+   {
+    "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-21.42.25-1792529264.png?resize=1200%2C675",
+    "date": 1792529340000,
+    "titleSl": "Navijači PSG in Barcelone so se razšli zaradi politike v nogometu med pariškimi nemiri"
+   },
+   {
     "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792528338.jpg?resize=1620%2C1080&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792527353.jpg?resize=1920%2C1080&quality=80",
     "date": 1792527361000,
     "titleSl": "Zaradi nemirov v Franciji je na tisoče podjetij poškodovanih"
-   },
-   {
-    "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-    "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad7a7dd430d-1792518109.jpg?resize=1920%2C1440",
-    "date": 1792526739000,
-    "titleSl": "EU revidira arktično strategijo, saj pritisk Rusije in ZDA narašča"
-   },
-   {
-    "title": "Is money ruining US elections?",
-    "link": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792526346.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792526386000,
-    "titleSl": "Ali denar uničuje ameriške volitve?"
    }
   ],
   "guardian": [
@@ -418,6 +418,12 @@
   ],
   "bild": [
    {
+    "title": "Stuttgart verschenkt Sieg - Halbzeit-Schock und Horror-Tritt!",
+    "link": "https://www.bild.de/sport/fussball/champions-league-stuttgart-verschenkt-sieg-halbzeit-schock-und-horror-tritt-6ad7b92951e5094f7a573749",
+    "image": "https://images.bild.de/6ad7b92951e5094f7a573749/13a8a251324cd288aba3ebd8c3b8faec,7f0b1612?w=1280",
+    "date": 0
+   },
+   {
     "title": "Fans sorgen für Eklat - Geschmacklose Massaker-Choreo beim Paris-Sieg",
     "link": "https://www.bild.de/sport/fussball/champions-league-geschmacklose-massaker-choreo-beim-paris-spiel-6ad7881e199dc15f1abdae2a",
     "image": "https://images.bild.de/6ad7881e199dc15f1abdae2a/5d2636dbcce41c1f9ce78fd04678c054,7ab1ac79?w=1280",
@@ -428,12 +434,6 @@
     "title": "DFB-Star trifft in wildem Spiel - Die Wirtz-Erlösung",
     "link": "https://www.bild.de/sport/fussball/florian-wirtz-bricht-seinen-tor-fluch-dfb-start-trifft-in-wildem-spiel-6ad7cf80199dc15f1abdb20e",
     "image": "https://images.bild.de/6ad7cf80199dc15f1abdb20e/1a19e32e4af3f13c5fc303c3b1746bfa,d214cb2b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Stuttgart verschenkt Sieg - Halbzeit-Schock und Horror-Tritt!",
-    "link": "https://www.bild.de/sport/fussball/champions-league-stuttgart-verschenkt-sieg-halbzeit-schock-und-horror-tritt-6ad7b92951e5094f7a573749",
-    "image": "https://images.bild.de/6ad7b92951e5094f7a573749/e51059e11bfb2b74883b40dcccddaf93,265c7bc6?w=1280",
     "date": 0
    },
    {
@@ -584,7 +584,7 @@
     "title": "PSG - Barcelona en directo | El PSG de Luis Enrique derrota al Barça, que encaja su primera derrota de la temporada",
     "link": "https://elpais.com/deportes/futbol/2026-10-20/psg-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/KM3S5D5KS5OLXMZKSIHCDTWBME.jpg?auth=ac0f16d519ee76aacbb59ed443874df6722213e8d76a25092bec3dd019930461",
-    "date": 1792530539000
+    "date": 1792530694000
    },
    {
     "title": "Trump dice que España sufrió una entrada “masiva y repentina” de inmigrantes de Ceuta y “no está haciendo nada”",
