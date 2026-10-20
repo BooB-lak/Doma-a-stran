@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T15:24:29.263Z",
+ "generatedAt": "2026-10-20T15:26:26.755Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1792508760000
    },
    {
-    "title": "Emmanuel Petit nasilnim protestnikom: Vrnite se tja, od koder ste prišli",
+    "title": "Emmanuel Petit z ostrim sporočilom nasilnim protestnikom, kritičen tudi do oblasti",
     "link": "https://siol.net/sportal/nogomet/emmanuel-petit-protesti-francija-704418",
     "image": "https://siol.net/media/img/b8/aa/d1e6af3ec7195e914603.jpeg",
     "date": 1792508400000
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+    "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ace0bb1d8c73-1791888305.jpg?resize=1920%2C1440",
+    "date": 1792508554000,
+    "titleSl": "Jemenski Taiz se sooča s smrtonosnim obleganjem, saj se število smrtnih žrtev v Šabvah povečuje"
+   },
+   {
     "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
     "link": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-20T055949Z_1784329955_RC2T6OA9XOJ0_RTRMADP_3_CANADA-ALBERTA-1792499302_cfe7f8-1792501336.jpg?resize=1200%2C630&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad763801a-1792500608.jpg?resize=1920%2C1440",
     "date": 1792504849000,
     "titleSl": "Trije meseci premierja Andyja Burnhama: Ali lahko vzdržuje \"vibracijo upanja\"?"
-   },
-   {
-    "title": "Indonesians protest over land-clearing fires",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792502562.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792502624000,
-    "titleSl": "Indonezijci protestirajo zaradi požarov, ki čistijo zemljo"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "France to deploy military forces during expected weekend protests – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/823c508b2d8327f1e568812a06e75f0f7713e309/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=48477b0fa1f9b9e5f14866bd64df412c",
-    "date": 1792508970000,
+    "date": 1792509511000,
     "titleSl": "Francija bo napotila vojaške sile med pričakovanimi protesti konec tedna – Evropa v živo"
    },
    {
@@ -414,6 +414,24 @@
   ],
   "bild": [
    {
+    "title": "Bayern-Trainer hat Virus-Infekt - Kompany-Ersatz verrät neue Details zur Krankheit",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-kompany-hat-einen-virus-infekt-co-trainer-danks-verraet-neue-details-zur-krankheit-6ad77ef21935debc092abe97",
+    "image": "https://images.bild.de/6ad77ef21935debc092abe97/f4c510c780ae058d74599fe4dec3ba1b,94579896?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Sind in ständigem Austausch“ - Co-Trainer gibt Update zu Kompany-Gesundheit",
+    "link": "https://www.bild.de/sport/fussball/sind-in-konstantem-austausch-co-trainer-gibt-update-zu-kompany-gesundheit-6ad7807351e5094f7a573409",
+    "image": "https://images.bild.de/6ad7807351e5094f7a573409/560dd0fa9dca2e278cb69b81c50d661b,453a5ef6?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Streit im Fitnessstudio - „Mein Mann wurde vor Augen der Polizei erschossen“",
+    "link": "https://www.bild.de/regional/niedersachsen/verzweifelte-witwe-mein-mann-wurde-vor-augen-der-polizei-erschossen-6ac39a4f81c6c8b52160222f",
+    "image": "https://images.bild.de/6ac39a4f81c6c8b52160222f/33edbdc62fbacd9aa0edde7e9578963a,535cc5d?w=1280",
+    "date": 0
+   },
+   {
     "title": "Defekte Technik, keine Ersatzteile - Bahn ersetzt Schranke durch Menschen!",
     "link": "https://www.bild.de/regional/bayern/anlage-defekt-keine-ersatzteile-bahn-mitarbeiter-spielen-schranke-6acf36ad4ba5238b7412fe60",
     "image": "https://images.bild.de/6acf36ad4ba5238b7412fe60/8fe88019b97239de97f594b98cd19f0d,46df9ffc?w=1280",
@@ -429,24 +447,6 @@
     "title": "Schlimme Szene - Schiri bricht plötzlich auf dem Platz zusammen",
     "link": "https://www.bild.de/sport/mehr-sport/schlimme-szene-in-der-nfl-schiri-bricht-auf-dem-platz-zusammen-6ad75ccd2352c608d83cf700",
     "image": "https://images.bild.de/6ad75ccd2352c608d83cf700/68637e11a8388a34d6bc3ab3133e9235,db296a76?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Kuriose Situation im Kreisliga-Derby - Plötzlich müssen 3 Frauen im Männerteam ran",
-    "link": "https://www.bild.de/sport/fussball/not-am-mann-drei-frauen-retten-maenner-team-im-kreisliga-derby-in-sachsen-6ad7695951e5094f7a5731c1",
-    "image": "https://images.bild.de/6ad7695951e5094f7a5731c1/e4c48e3de3330410df788f518371e4b0,d65bf175?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Pleite in der Youth League - VfB wütet wegen Obama",
-    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-youth-league-vfb-wuetet-wegen-obama-stuttgart-verliert-gegen-atletico-2-4-6ad77543199dc15f1abdac3f",
-    "image": "https://images.bild.de/6ad77543199dc15f1abdac3f/67d59f1c04de28c43834f84cccdfe93e,f08155db?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Er verursachte einen schweren Unfall - Geisterfahrer (46) wegen Mordversuchs in Haft",
-    "link": "https://www.bild.de/regional/bayern/er-verursachte-unfall-geisterfahrer-46-wegen-mordversuchs-in-haft-6ad76b05199dc15f1abdab14",
-    "image": "https://images.bild.de/6ad76b05199dc15f1abdab14/f0cdce8eadb3e5768c11cf0182254aeb,b40ca189?w=1280",
     "date": 0
    }
   ],
@@ -532,6 +532,13 @@
   ],
   "lemonde": [
    {
+    "title": "« Le succès de la route de l’Arctique n’a rien à voir avec son potentiel commercial, finalement très limité »",
+    "link": "https://www.lemonde.fr/idees/article/2026/10/20/le-succes-de-la-route-de-l-arctique-n-a-rien-a-voir-avec-son-potentiel-commercial-finalement-tres-limite_6797943_3232.html",
+    "image": "https://img.lemde.fr/2026/10/19/175/0/3000/1500/644/322/60/0/5ec5ac1_upload-1-qdvrygeqtuh4-2026-09-09t130048z-376149789-rc2ofnamyd2b-rtrmadp-3-britain-ship-arctic.JPG",
+    "date": 1792508420000,
+    "titleSl": "« Le succès de la route de l 'Arctique n' a rien à voir avec son potentiel commercial, finalement très limité »"
+   },
+   {
     "title": "Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens",
     "link": "https://www.lemonde.fr/international/article/2026/10/20/au-moyen-orient-l-armee-americaine-contrainte-de-se-redeployer-sous-le-feu-des-missiles-iraniens_6797937_3210.html",
     "image": "https://img.lemde.fr/2026/10/08/283/0/5500/2750/644/322/60/0/51ec93c_ftp-1-fykxjxzm6czt-2026-10-08t190932z-264696183-rc27znafglst-rtrmadp-3-usa-military-conditions-uss-lincoln.JPG",
@@ -562,15 +569,8 @@
     "title": "Madagascar, nouvelle terre de recrutement et d’influence pour la Russie",
     "link": "https://www.lemonde.fr/international/article/2026/10/20/madagascar-nouvelle-terre-de-recrutement-et-d-influence-pour-la-russie_6797933_3210.html",
     "image": "https://img.lemde.fr/2026/10/19/1147/0/3992/1996/644/322/60/0/789b81a_upload-1-6azg6ei1q6qy-l1021911.jpg",
-    "date": 1792504804000,
+    "date": 1792504800000,
     "titleSl": "Madagaskar, nouvelle terre de recrutement et d 'influence pour la Russie"
-   },
-   {
-    "title": "Les pompiers veulent faire connaître la « valeur du sauvé », le calcul de ce qui ne brûle pas grâce à leurs interventions",
-    "link": "https://www.lemonde.fr/planete/article/2026/10/20/les-pompiers-veulent-faire-connaitre-la-valeur-du-sauve-le-calcul-de-ce-qui-ne-brule-pas-grace-a-leurs-interventions_6797931_3244.html",
-    "image": "https://img.lemde.fr/2026/08/06/367/0/2933/1466/644/322/60/0/7c6c123_upload-1-pppxsgrv8kky-lewisjoly-lemonde-varincendie-040.JPG",
-    "date": 1792503926000,
-    "titleSl": "Gasilci želijo obvestiti o \"vrednosti privarčevanega\", izračunu, kaj ne zgori zaradi njihovih intervencij"
    }
   ],
   "elpais": [
