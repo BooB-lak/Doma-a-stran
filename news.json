@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-21T07:22:26.714Z",
+ "generatedAt": "2026-10-21T07:24:25.026Z",
  "sources": {
   "siol": [
+   {
+    "title": "Nika Prevc delila pomembno novico tik pred začetkom sezone",
+    "link": "https://siol.net/sportal/zimski-sporti/nika-prevc-delila-pomembno-novico-tik-pred-zacetkom-sezone-704447",
+    "image": "https://siol.net/media/img/1a/ae/68ba6b49da0a71c95cf6.jpeg",
+    "date": 1792567260000
+   },
    {
     "title": "V tem delu Slovenije bo padavin največ #animacija",
     "link": "https://siol.net/novice/slovenija/v-tem-delu-slovenije-bo-padavin-najvec-animacija-704446",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/tenis/ziga-sesko-za-uvod-zakljucnega-turnirja-premagal-prvega-nosilca-704442",
     "image": "https://siol.net/media/img/03/7f/e0f5069a0c98b3b1beab.jpeg",
     "date": 1792562880000
-   },
-   {
-    "title": "Nepopisna gneča: Verstappen in tudi Slovenec Kastelic, padli so rekordi gledanosti",
-    "link": "https://siol.net/avtomoto/novice/nepopisna-gneca-verstappen-in-tudi-slovenec-kastelic-padli-so-rekordi-gledanosti-704441",
-    "image": "https://siol.net/media/img/85/d8/2286a88c72298c65c30e.jpeg",
-    "date": 1792562760000
    }
   ],
   "24ur": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "The right to enforce civil rights is under attack in the US",
-    "link": "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad86459a507-1792566361.jpg?resize=1920%2C1440",
-    "date": 1792566401000,
-    "titleSl": "Pravica do uveljavljanja državljanskih pravic je v ZDA napadena"
-   },
-   {
     "title": "Man United’s Carrick doesn’t ‘need reassurance’ despite team’s horror start",
     "link": "https://www.aljazeera.com/sports/2026/10/21/man-uniteds-carrick-doesnt-need-reassurance-despite-teams-horror-start?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-12T102142Z_969149866_UP1EMAC0SS52C_RTRMADP_3_SOCCER-CHAMPIONS-ATM-MUN-PREVIEW-1792562979.jpg?resize=1200%2C630",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad838d3-1792555219.jpg?resize=1920%2C1440",
     "date": 1792560800000,
     "titleSl": "Anthropic zabeležil 80 milijard dolarjev izgube v prvi polovici leta 2026: WSJ"
+   },
+   {
+    "title": "OpenAI says its agents turned off own safeguards",
+    "link": "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26272791421972-1792551308_dda10c-1792555129.jpg?resize=1200%2C630&quality=80",
+    "date": 1792560650000,
+    "titleSl": "OpenAI pravi, da so njegovi agenti izklopili lastne zaščitne ukrepe"
    }
   ],
   "guardian": [
@@ -463,6 +463,13 @@
   ],
   "krone": [
    {
+    "title": "Kein Million-Grab - Ski-WM in Saalbach günstiger als angenommen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TRkJ6VkZ3TmJhN05RaGJ2X3o0Y2hhZ0QwOHZMaFJKcFlrbFRNUFJ2TDNWWXBzSmdPOGxJbDktbDM5QQ?oc=5",
+    "image": "",
+    "date": 1792567320000,
+    "titleSl": "Ne gre za milijon - svetovno smučarsko prvenstvo v Saalbachu je cenejše od pričakovanj"
+   },
+   {
     "title": "Massiver Zeitverlust - Unfall mit vier Fahrzeugen sorgte für Stau auf A23",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5WUU2Tk9kM1MweUhPX2dpbUhZYjNCTzZyOVVYRGtuVXk1WW9hSE4xMm1UdUpVVC1KY3NobHdsYXF1QQ?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1792566000000,
     "titleSl": "Anketa podjetij - panoga: “Stroški visoki, birokracija grozna”"
-   },
-   {
-    "title": "60-Jähriger in U-Haft - Streit um Steirerin endet mit Messerattacke",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90dVZLbHVTZXZJcnF0ZXdjaXlQZlJ2S0NwOXZlT2swLTFrcFRuNkFtWWotdndvNFJRd2E4ZUd0N3pMUQ?oc=5",
-    "image": "",
-    "date": 1792566000000,
-    "titleSl": "60-letnik v priporu - spor zaradi Štajerke končal z napadom z nožem"
    }
   ],
   "rainews": [
@@ -598,7 +598,7 @@
     "title": "Última hora de la actualidad política, en directo | El PSOE despliega una lona en su sede para reivindicar “el orgullo de ser zurdos” con motivo de la visita de Milei",
     "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/JGLO5TNPTJDEDPHUJRD3SGFR7I.jpg?auth=31206ae7b500eb0db0a80fc89e0ec1d24d1bc8f2dd32bcef2efbd7aff8b34055",
-    "date": 1792567014000,
+    "date": 1792567175000,
     "titleSl": "Zadnje politične novice, v živo | PSOE na svojem sedežu razkrije ponjavo, s katero trdi, da je \"ponos, da je levičar\" ob obisku Milei"
    },
    {
