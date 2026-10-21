@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T14:50:40.155Z",
+ "generatedAt": "2026-10-21T14:52:25.697Z",
  "sources": {
   "siol": [
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Russia releases American Stephen Hubbard after four years in prison",
-    "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad8cc78-1792593016.jpg?resize=1200%2C675",
-    "date": 1792593113000,
-    "titleSl": "Rusija je po štirih letih zapora izpustila Američana Stephena Hubbarda"
-   },
-   {
     "title": "US congressional candidate Brad Lander freed after West Bank detention",
     "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad8c63755f4-1792591415.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Photo-of-settlers-posted-outside-Abayat-home-Umm-Safa-1792581885.jpg?resize=1200%2C675",
     "date": 1792588827000,
     "titleSl": "Od ene hiše do vasi: Izraelski naseljenci imajo obkoljene Palestince"
+   },
+   {
+    "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
+    "link": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad8a73217c6a-1792583474.jpg?resize=1200%2C675",
+    "date": 1792588013000,
+    "titleSl": "Pakistanske oblasti aretirale moškega, obtoženega goljufije s poštnino v ZDA v vrednosti 126 milijonov dolarjev"
    }
   ],
   "guardian": [
@@ -375,11 +375,10 @@
   ],
   "spiegel": [
    {
-    "title": "ZDF: Sportreporter Michael Pfeffer im Urlaub tödlich verunglückt",
-    "link": "https://www.spiegel.de/sport/zdf-sportreporter-michael-pfeffer-im-urlaub-toedlich-verunglueckt-a-345fd888-42b9-4c9b-b08a-9fb1ca0f807d#ref=rss",
+    "title": "ZDF: Früherer Sportreporter Michael Pfeffer im Urlaub tödlich verunglückt",
+    "link": "https://www.spiegel.de/sport/zdf-frueherer-sportreporter-michael-pfeffer-im-urlaub-toedlich-verunglueckt-a-345fd888-42b9-4c9b-b08a-9fb1ca0f807d#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/cc3108d0-1393-42cf-8ce1-5b58c3867ef5_w520_r2.08_fpx61.33_fpy50.jpg",
-    "date": 1792592580000,
-    "titleSl": "ZDF: Športni poročevalec Michael Pfeffer je med dopustom doživel smrtno nesrečo"
+    "date": 1792592580000
    },
    {
     "title": "Uno: El Niño könnte stärkster seit 40 Jahren sein – oder schlimmer",
@@ -419,11 +418,24 @@
   ],
   "bild": [
    {
+    "title": "Aus Deutschlands reichster Familie - Geheimnisvolle Milliardärstochter wird Prinzessin",
+    "link": "https://www.bild.de/unterhaltung/royals-adel/katharina-von-baumbach-mit-leopold-von-baden-verlobt-so-tickt-die-milliardaerstochter-6ad876b5db679f40b5d6cdcd",
+    "image": "https://images.bild.de/6ad876b5db679f40b5d6cdcd/ade4ca463afff0153e8b9e5ca507ef05,74696caa?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kate Hudson feiert beste Freundin - Aloha! So geht Hochzeit auf Hawaii",
-    "link": "https://www.bild.de/unterhaltung/kate-hudson-besonderes-instagram-geschenk-fuer-jennifer-meyer-6ad8c22d438656aeb2fadf36",
+    "link": "https://www.bild.de/unterhaltung/kate-hudson-feiert-beste-freundin-aloha-so-geht-hochzeit-auf-hawaii-6ad8c22d438656aeb2fadf36",
     "image": "https://images.bild.de/6ad8c22d438656aeb2fadf36/2b5fc178260bf62aa1a000bf51c9b3e5,31aec46e?w=1280",
     "date": 0,
     "titleSl": "Kate Hudson slavi najboljšo prijateljico - Aloha! Tako poteka poroka na Havajih"
+   },
+   {
+    "title": "Weltweite Sicherheitslücke - Hacker-Alarm! Charité-Website offline",
+    "link": "https://www.bild.de/geld/wirtschaft/weltweite-sicherheitsluecke-hacker-alarm-charite-website-offline-6ad8d01a8ef0fba254b7b6fa",
+    "image": "https://images.bild.de/6ad8d01a8ef0fba254b7b6fa/3c352eec9fce802d5d5b8f8a2b78c46a,10a8885?w=1280",
+    "date": 0,
+    "titleSl": "Weltweite Sicherheitslücke - Hacker-Alarm! Charité-Website brez povezave"
    },
    {
     "title": "Im November - Putin zu neuen Ukraine-Gesprächen bereit",
@@ -445,20 +457,6 @@
     "image": "https://images.bild.de/6ad8af212c40700de08009f3/01f8a067ea15ef7a8bef4f50f38e8a99,7f61e5ff?w=1280",
     "date": 0,
     "titleSl": "Novi “AutoUnion” bi moral rešiti Zwickau - Kretschmer predstavlja bojni načrt za VW na vzhodu"
-   },
-   {
-    "title": "Okay, bei Louis Vuitton zu plündern? - BILD-Reporter konfrontieren Linke-Chefin",
-    "link": "https://www.bild.de/politik/bild-reporter-konfrontieren-linke-wie-sollen-die-enteignungen-finanziert-werden-6ad636a751e5094f7a572093",
-    "image": "https://images.bild.de/6ad636a751e5094f7a572093/11840fddc03736281cc44be45e3de319,5a831d38?w=1280",
-    "date": 0,
-    "titleSl": "V redu, plenjenje Louisa Vuittona? - Novinarji BILD soočenje z vodjo Levice"
-   },
-   {
-    "title": "Es geht um zig Millionen - So spart sich Gladbach zum Abstieg!",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-so-spart-sich-borussia-moenchengladbach-zum-abstieg-6ad78fd42352c608d83cfc4e",
-    "image": "https://images.bild.de/6ad78fd42352c608d83cfc4e/2362f3dceb7cf7b53837a27c5167ef59,f04bb7e1?w=1280",
-    "date": 0,
-    "titleSl": "Gre za desetine milijonov - tako se Gladbach rešuje pred izpadom!"
    }
   ],
   "krone": [
@@ -510,7 +508,7 @@
     "title": "SpaceX vola dopo i conti e l&#x27;apertura di Musk a una fusione con Tesla",
     "link": "https://www.rainews.it/articoli/2026/10/spacex-vola-dopo-i-conti-e-lapertura-di-musk-a-una-fusione-con-tesla--cbad1764-e06a-4329-bebd-557fb3a02f14.html",
     "image": "https://www.rainews.it/dl/img/2023/11/16/1700153641653_Immagine.jpg",
-    "date": 1792593960000,
+    "date": 1792594260000,
     "titleSl": "SpaceX se zavzema za račune in Muskovo odprtost za združitev s Teslo"
    },
    {
@@ -595,6 +593,13 @@
   ],
   "elpais": [
    {
+    "title": "Netanyahu alimenta el temor a un nuevo ataque a Irán a días de las elecciones en Israel y EE UU",
+    "link": "https://elpais.com/internacional/2026-10-21/netanyahu-alimenta-el-temor-a-un-nuevo-ataque-a-iran-a-dias-de-las-elecciones-en-israel-y-ee-uu.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/22NCIYL7DNPJZO2ODS4FY2BYBU.jpg?auth=f18863c355adb7a4f6f26d45967ccc7a23328ba375fc2db5695c9ca78d032cc3",
+    "date": 1792593856000,
+    "titleSl": "Netanjahu podžiga strah pred novim napadom na Iran nekaj dni pred volitvami v Izraelu in ZDA"
+   },
+   {
     "title": "Última hora de la actualidad política, en directo | Feijóo promete rebajas de impuestos a los jóvenes que compren una casa y construir un millón de viviendas si llega a La Moncloa",
     "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/WIBMNV6YPNBJPKBOZHTTHNYYR4.jpg?auth=e08e69832a0715de1c57489800c5ce15838d257648dd3cf8d9f30a5d0020f921",
@@ -628,13 +633,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/F4RND5QHWFARPGKRPWH7OOQ34E.jpg?auth=2f96e7bd351cdaff32a4824a5ead667b6322c0d1a6716fc3b16923e51e5f9c1e",
     "date": 1792592137000,
     "titleSl": "El iPhone Duo de 2.300 evrov desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera"
-   },
-   {
-    "title": "Anna Bella Geiger, premio Velázquez de las Artes Plásticas 2026",
-    "link": "https://elpais.com/cultura/2026-10-21/anna-bella-geiger-premio-velazquez-de-las-artes-plasticas-2026.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/GOQQRDX6XF2WM6322EOP24VHQA.jpg?auth=3793de57bb347b396d63d1b2d98871501d2be07653454f443e5d6f6251aff031",
-    "date": 1792592089000,
-    "titleSl": "Anna Bella Geiger, Velázquezova nagrada za plastične umetnosti 2026"
    }
   ]
  },
