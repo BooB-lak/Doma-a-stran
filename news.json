@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T06:02:25.848Z",
+ "generatedAt": "2026-10-21T06:04:23.829Z",
  "sources": {
   "siol": [
    {
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
-    "link": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad838d3-1792555219.jpg?resize=1920%2C1440",
-    "date": 1792560800000,
-    "titleSl": "Antropna objava izgube v višini 80 milijard $ v prvi polovici leta 2026: WSJ"
-   },
-   {
     "title": "OpenAI says its agents turned off own safeguards",
     "link": "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26272791421972-1792551308_dda10c-1792555129.jpg?resize=1200%2C630&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad8322822031-1792553512.jpg?resize=1920%2C1440",
     "date": 1792558683000,
     "titleSl": "Lula, Bolsonaro si prizadevata diskvalificirati drug drugega pred drugim krogom v Braziliji"
+   },
+   {
+    "title": "Italy approves sweeping security measures in response to protests",
+    "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8222bb7f8-1792549419.jpg?resize=1920%2C1440",
+    "date": 1792555980000,
+    "titleSl": "Italija je v odgovor na proteste odobrila obsežne varnostne ukrepe"
    }
   ],
   "guardian": [
@@ -378,13 +378,15 @@
     "title": "Tabaksteuer: Fehler im Gesetz sorgt für vorzeitige Steuererhöhung auf dem Papier",
     "link": "https://www.spiegel.de/wirtschaft/service/tabaksteuer-fehler-im-gesetz-sorgt-fuer-vorzeitige-steuererhoehung-auf-dem-papier-a-6a39d9dd-17c5-4d0c-b2a2-c2d9cb7733ad#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/2929e299-1c35-4252-9d1a-7e0efa7f1a53_w520_r2.08_fpx60_fpy49.98.jpg",
-    "date": 1792559700000
+    "date": 1792559700000,
+    "titleSl": "Davek na tobak: Napaka v zakonu vodi do prezgodnjega dviga davka na papirju"
    },
    {
     "title": "Christiane Amanpour verlässt CNN: Was über die Gründe bekannt ist",
     "link": "https://www.spiegel.de/ausland/christiane-amanpour-verlaesst-cnn-was-ueber-die-gruende-bekannt-ist-a-79bba1df-bd17-4fc8-818c-dbdde67d1c20#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/79b2b3e1-0001-0004-0000-000000018267_w520_r2.08_fpx46_fpy49.jpg",
-    "date": 1792556640000
+    "date": 1792556640000,
+    "titleSl": "Christiane Amanpour zapušča CNN: Kaj je znano o razlogih"
    },
    {
     "title": "News: Ukrainegespräche, US-Präsident Trump, AfD-Datenleak",
@@ -397,13 +399,15 @@
     "title": "»Der perfekte Urlaub« mit Elyas M'Barek: Humorabsturz auf Mallorca",
     "link": "https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-mit-elyas-mbarek-humorabsturz-auf-mallorca-a-cda706e9-c79b-41d2-a19a-1206f56008c3#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/246469f2-c8ef-4f34-aa78-92adc8ce2024_w520_r2.08_fpx64_fpy45.jpg",
-    "date": 1792553940000
+    "date": 1792553940000,
+    "titleSl": "\"Popolne počitnice\" z Elyasom M'Barekom: hudomušna nesreča na Mallorci"
    },
    {
     "title": "Judi Dench: Schauspielerin rechnet in Memoiren mit »Cats«-Film ab",
     "link": "https://www.spiegel.de/kultur/judi-dench-schauspielerin-rechnet-in-memoiren-mit-cats-film-ab-a-81462d61-4e62-4622-b376-3c33e8c925bb#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/57cb0a88-d97e-4424-b451-3c4c0cc612b5_w520_r2.08_fpx46_fpy59.jpg",
-    "date": 1792546200000
+    "date": 1792546200000,
+    "titleSl": "Judi Dench: Igralka računa s filmom \"Mačke\" v spominih"
    },
    {
     "title": "SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla",
@@ -418,7 +422,8 @@
     "title": "Schlechte Prognose - Erde steuert laut UN auf 2,8 Grad Erwärmung zu",
     "link": "https://www.bild.de/news/schlechte-prognose-erde-steuert-laut-un-auf-2-8-grad-erwaermung-zu-6ad847ce51e5094f7a573aa4",
     "image": "https://images.bild.de/6ad847ce51e5094f7a573aa4/6b4b87ebb3dbde2ef9b7db97013d691a,3413e2bb?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Slaba napoved - po podatkih ZN se Zemlja segreva za 2,8 stopinje"
    },
    {
     "title": "Erfolgsformel Fame Fighting - Erst gibt’s auf die Nase, dann klingelt die Kasse",
@@ -431,19 +436,22 @@
     "title": "Zweitliga-Torwart verrät - So lief es vor Jahren in der Bayern-Kabine",
     "link": "https://www.bild.de/sport/fussball/zweitliga-torwart-verraet-so-lief-es-damals-in-der-bayern-kabine-6ad767e52352c608d83cf823",
     "image": "https://images.bild.de/6ad767e52352c608d83cf823/d41c940959dfbe2ade5c66e3003a46f6,4a5ab3f5?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Drugoligaški vratar razkriva - Tako je bilo pred leti v slačilnici Bayerna"
    },
    {
     "title": "Es geht um zig Millionen - So spart sich Gladbach zum Abstieg!",
     "link": "https://www.bild.de/sport/fussball/bundesliga-so-spart-sich-borussia-moenchengladbach-zum-abstieg-6ad78fd42352c608d83cfc4e",
     "image": "https://images.bild.de/6ad78fd42352c608d83cfc4e/2362f3dceb7cf7b53837a27c5167ef59,f04bb7e1?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Gre za desetine milijonov - tako se Gladbach rešuje pred izpadom!"
    },
    {
     "title": "Großeinsatz der Seenotrettung - Fähre vor Indonesien in Flammen",
     "link": "https://www.bild.de/news/ausland/grosseinsatz-der-seenotrettung-faehre-vor-indonesien-in-flammen-6ad7a47b199dc15f1abdb003",
     "image": "https://images.bild.de/6ad7a47b199dc15f1abdb003/08a7ac84d39440fde0b8d3b8d41941d1,bc26a977?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Velika reševalna akcija na morju – trajekt v plamenih ob Indoneziji"
    },
    {
     "title": "Horoskop vom 19.10. bis 25.10.2026 - Das sagen Ihre Sterne für diese Woche voraus",
@@ -455,22 +463,25 @@
   ],
   "krone": [
    {
-    "title": "Silvia Schachermayer - Schock für Ex-Miss im Urlaubsparadies Mallorca",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fTS04N1VsZ3ZJYVcxVFRiRV95Ykh4cHhySHVkaUhuUFZ0X0prSlJ6WDl5ZkxuVDlOMGR3UHBGLVJWQQ?oc=5",
-    "image": "",
-    "date": 1792562400000
-   },
-   {
     "title": "Familienclan angeklagt - Mordprozess: Neugeborenes erschlagen und abgelegt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PN2s4RGJ3anROUk82SmtueEl5S19hbmtLNlJWRW9MYm9CSHZVR1FUa2VuN1dhRFFXdTdmRW56UHRtZw?oc=5",
     "image": "",
-    "date": 1792562400000
+    "date": 1792562400000,
+    "titleSl": "Obtoženi družinski klan – sojenje za umor: novorojenček pretepen do smrti in vržen"
+   },
+   {
+    "title": "Silvia Schachermayer - Schock für Ex-Miss im Urlaubsparadies Mallorca",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fTS04N1VsZ3ZJYVcxVFRiRV95Ykh4cHhySHVkaUhuUFZ0X0prSlJ6WDl5ZkxuVDlOMGR3UHBGLVJWQQ?oc=5",
+    "image": "",
+    "date": 1792562400000,
+    "titleSl": "Silvia Schachermayer - Šok za bivšo miss v počitniškem raju na Mallorci"
    },
    {
     "title": "„KickJourney Draft“ - „Veilchen“ suchen den nächsten Kick-Superstar",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tQ3FnRWhKbmRpSmxGaDdQS3ZlbWZraFE1VG4zbVNYcXdITGdhbVpKWWFWTjNHS0ZFUXZFMk12LVV5UQ?oc=5",
     "image": "",
-    "date": 1792562400000
+    "date": 1792562400000,
+    "titleSl": "“KickJourney Draft” – “Vijolice” iščejo naslednjo zvezdo udarca"
    },
    {
     "title": "Nehammer in Tirol - Ex-Kanzler: „Müssen heute in Firmen investieren“",
@@ -483,13 +494,15 @@
     "title": "Batteriebusse dauern - Salzburg setzt noch 20 Jahre auf Oberleitungen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5raTk2SHZBdkhwVGhSMFlkc1BQZmIwWmppeVFSLTAxV3Zwd242Q2ktX3FUa0lPSlhHOFRCS0Y3cHpfZw?oc=5",
     "image": "",
-    "date": 1792562400000
+    "date": 1792562400000,
+    "titleSl": "Baterijski avtobusi trajajo – Salzburg bo še 20 let odvisen od nadzemnih vodov"
    },
    {
-    "title": "Bei Nacht und Nebel - Urlauberfamilie mit vier Kindern von Berg gerettet",
+    "title": "Bei Nacht und Nebel - Urlauberfamilie mit vier Kindern geriet in Bergnot",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE50UEZ3TzA3V1NTZFI0ZG55bmRFT21BaWlNbEVqOENiTXhJSFhFR1FHMTBKeEV0emhKWXhiMi1YNTMtZw?oc=5",
     "image": "",
-    "date": 1792562340000
+    "date": 1792562340000,
+    "titleSl": "V noči in megli - v gorski stiski se je znašla dopustniška družina s štirimi otroki"
    }
   ],
   "rainews": [
@@ -504,19 +517,22 @@
     "title": "FT: Netanyahu pronto a riattaccare Iran, Trump lo ha fermato. Raid Houthi su base militare: 73 morti",
     "link": "https://www.rainews.it/maratona/2026/10/guerre-medio-oriente-raid-houthi-base-militare-73-morti-londra-invia-caccia-in-aiuto-a-riad-ebd722d1-f541-4535-8d2f-a3d27b095eec.html",
     "image": "https://www.rainews.it/dl/img/2026/10/21/1792538559751_DVGYT.jpg",
-    "date": 1792560780000
+    "date": 1792560780000,
+    "titleSl": "FT: Netanjahu pripravljen ponovno napasti Iran, Trump ga je ustavil. Napad Hutijev na vojaško bazo: 73 mrtvih"
    },
    {
     "title": "Da Ghali a Fedez, i rapper si esprimono sugli scontri in piazza",
     "link": "https://www.rainews.it/articoli/2026/10/da-ghali-a-fedez-i-rapper-si-esprimono-sugli-scontri-in-piazza-bcaf9df0-1217-4c90-9fea-70a5d1975021.html",
     "image": "https://www.rainews.it/dl/img/2026/10/21/1792559255649_combofedezghalimarracash.jpg",
-    "date": 1792558080000
+    "date": 1792558080000,
+    "titleSl": "Od Ghalija do Fedeza, raperji se izražajo na spopadih na trgu"
    },
    {
     "title": "Bonus mamme 2026, al via le domande. Chi può richiederlo e come fare",
     "link": "https://www.rainews.it/articoli/2026/10/bonus-mamme-2026-al-via-le-domande-chi-puo-richiederlo-e-come-fare-f507e9e2-25f1-437b-9464-f6246cfb7782.html",
     "image": "https://www.rainews.it/dl/img/2025/02/24/1740407835932_secretary.jpg",
-    "date": 1792558080000
+    "date": 1792558080000,
+    "titleSl": "Materinski bonus 2026, prijave odprte. Kdo lahko zahteva in kako to storiti"
    },
    {
     "title": "Forti piogge in Liguria, a Savona ferita una donna da un ramo caduto",
@@ -529,7 +545,8 @@
     "title": "Nubifragio a Genova, la paura dei negozianti: \"Allagati in 5 minuti\"",
     "link": "https://www.rainews.it/video/2026/10/genova-nubifragio-a-san-fruttuoso-allagati-in-5-minuti-8cb60516-b535-49e6-99f6-fc5699297148.html",
     "image": "https://www.rainews.it/dl/img/2026/10/21/1792556239706_nego.PNG",
-    "date": 1792556100000
+    "date": 1792556100000,
+    "titleSl": "Neurje v Genovi, strah trgovcev: \"Poplavilo v 5 minutah\""
    }
   ],
   "lemonde": [
@@ -537,13 +554,15 @@
     "title": "Météo France a levé sa vigilance orange pluie, inondations et crues, après les violentes intempéries qui ont fait un mort près de Marseille ; une personne portée disparue en Haute-Corse",
     "link": "https://www.lemonde.fr/planete/article/2026/10/21/meteo-france-a-levee-sa-vigilance-orange-pluie-inondations-et-crues-apres-les-violentes-intemperies-qui-ont-fait-un-mort-pres-de-marseille-une-personne-portee-disparue-en-haute-corse_6797908_3245.html",
     "image": "https://img.lemde.fr/2026/10/20/3/0/5367/2683/644/322/60/0/26ff791_ftp-1-pd6cgbfjingn-afp-d3uw7t3.jpg",
-    "date": 1792560212000
+    "date": 1792560212000,
+    "titleSl": "Météo France je po hudem slabem vremenu, zaradi katerega je umrla ena oseba v bližini Marseilla, preklicala svojo oranžno budnost zaradi dežja, poplav in poplav; pogrešana oseba v Haute-Corse"
    },
    {
     "title": "Présidentielle au Brésil : Lula et Flavio Bolsonaro lancent des recours pour se disqualifier mutuellement, à quelques jours du second tour",
     "link": "https://www.lemonde.fr/international/article/2026/10/21/presidentielle-au-bresil-lula-et-flavio-bolsonaro-lancent-des-recours-pour-se-disqualifier-mutuellement-a-quelques-jours-du-second-tour_6798204_3210.html",
     "image": "https://img.lemde.fr/2026/10/20/868/0/5205/2602/644/322/60/0/d74d4d8_ftp-1-2det9zobvfxs-2026-10-20t181927z-1055677473-rc227oar0ilt-rtrmadp-3-brazil-election.JPG",
-    "date": 1792559279000
+    "date": 1792559279000,
+    "titleSl": "Predsedniške volitve v Braziliji: Lula in Flavio Bolsonaro nekaj dni pred drugim krogom pozivata k diskvalificiranju drug drugega"
    },
    {
     "title": "Un Mirage 2000-D, avion de chasse de l’armée, s’est écrasé près de Nancy, faisant au moins un mort",
@@ -556,7 +575,8 @@
     "title": "Etats-Unis : comment le camp Trump exploite les émeutes en France pour remotiver la base MAGA avant les midterms",
     "link": "https://www.lemonde.fr/international/article/2026/10/21/etats-unis-comment-le-camp-trump-exploite-les-emeutes-en-france-pour-remotiver-la-base-maga-avant-les-midterms_6798158_3210.html",
     "image": "https://img.lemde.fr/2026/10/20/0/0/5229/2614/644/322/60/0/de4843e_ftp-1-tdywbzmai3gh-2301055953.jpg",
-    "date": 1792553590000
+    "date": 1792553590000,
+    "titleSl": "Združene države: kako Trumpov tabor izkorišča nemire v Franciji za ponovno motivacijo baze MAGA pred vmesnimi volitvami"
    },
    {
     "title": "Guerre en Ukraine : à Oslo, Zelensky entretient, sans y croire, l’espoir d’être à nouveau entendu par les Etats-Unis",
@@ -575,10 +595,11 @@
   ],
   "elpais": [
    {
-    "title": "Detenido el presunto autor del crimen de la mujer apuñalada en una urbanización de Carabanchel",
+    "title": "Detenido el presunto asesino de una mujer en una urbanización de Carabanchel",
     "link": "https://elpais.com/espana/madrid/2026-10-21/detenido-el-presunto-asesino-de-una-mujer-en-una-urbanizacion-de-carabanchel.html",
     "image": "https://imagenes.elpais.com/resizer/v2/AGI62Z3M6NAALEZD65F55K3BGU.png?auth=4a00d6e7dd9dab53944acf35abed53411e4b0b0d1bcb2ee3393c9244fe9d7abd",
-    "date": 1792561500000
+    "date": 1792561500000,
+    "titleSl": "Domnevni morilec ženske v naselju v mestu Carabanchel je bil aretiran"
    },
    {
     "title": "La ONU asume la “dura realidad”: el mundo superará los 1,5 grados y activa un plan B",
