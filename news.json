@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T18:44:25.185Z",
+ "generatedAt": "2026-10-21T18:46:23.481Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,18 @@
   ],
   "rtvslo": [
    {
+    "title": "Franci Pavšer odstopil z mesta člana uprave RTV Slovenija",
+    "link": "https://www.rtvslo.si/slovenija/franci-pavser-odstopil-z-mesta-clana-uprave-rtv-slovenija/797689",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/21/67115362.jpg",
+    "date": 1792607744000
+   },
+   {
+    "title": "Na Brdu podelili 60. nagrade na področju šolstva",
+    "link": "https://www.rtvslo.si/slovenija/na-brdu-podelili-60-nagrade-na-podrocju-solstva/797688",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/07/02/67057991.jpg",
+    "date": 1792606231000
+   },
+   {
     "title": "Zaradi kritičnih ranljivosti v PHP-ju preventivno ugasnili številne spletne strani po svetu",
     "link": "https://www.rtvslo.si/znanost-in-tehnologija/zaradi-kriticnih-ranljivosti-v-php-ju-preventivno-ugasnili-stevilne-spletne-strani-po-svetu/797685",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/21/67115357.jpg",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/sport/kosarka/v-grciji-aretirali-predsednika-kosarkarske-zveze/797681",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/21/67115346.jpg",
     "date": 1792603216000
-   },
-   {
-    "title": "Ob 4.00: Lakersi za začetek sezone gostijo Golden State",
-    "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/ob-4-00-lakersi-za-zacetek-sezone-gostijo-golden-state/797626",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/14/67112722.jpg",
-    "date": 1792603172000
-   },
-   {
-    "title": "Rama napovedal prepoved potovanj za nasilne protestnike",
-    "link": "https://www.rtvslo.si/svet/evropa/rama-napovedal-prepoved-potovanj-za-nasilne-protestnike/797679",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/21/67115341.jpg",
-    "date": 1792601470000
    }
   ],
   "zurnal": [
@@ -257,6 +257,13 @@
     "titleSl": "Indijski voditelji \"ščurkov\", ki so pozvali volilnega vodjo, naj odstopi, so izpuščeni iz zapora"
    },
    {
+    "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+    "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce68/live/40f9c020-cd60-11f1-bc2e-018d645d8d21.jpg",
+    "date": 1792606242000,
+    "titleSl": "\"Ciljno usmerjen\" napad na priljubljenega poslanca, ki zapusti avstralsko mesto s strtim srcem"
+   },
+   {
     "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
     "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
@@ -276,16 +283,23 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d585/live/d17d8380-cd69-11f1-bc2e-018d645d8d21.jpg",
     "date": 1792601545000,
     "titleSl": "'Igranje za svojo kariero' - Avstralija po izjemnem dnevu"
-   },
-   {
-    "title": "How the project will work and the difference it will make",
-    "link": "https://www.bbc.co.uk/news/videos/c6wy4pdqx0w5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f6/live/8e022d40-cd6e-11f1-bc2e-018d645d8d21.jpg",
-    "date": 1792601150000,
-    "titleSl": "Kako bo projekt deloval in kakšna bo razlika"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792607361.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792607378000,
+    "titleSl": "Jemen ima množični pogreb za 75 novincev, ubitih v stavki Hutijev"
+   },
+   {
+    "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792607094.jpg?resize=1920%2C1080&quality=80",
+    "date": 1792607082000,
+    "titleSl": "Jerusalem Daily: Izraelski minister poziva k poravnavi celotnega Zahodnega brega"
+   },
    {
     "title": "Why social media has become an election issue in Brazil’s presidential race",
     "link": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race?traffic_source=rss",
@@ -313,28 +327,21 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792606096.jpg?resize=1920%2C1080&quality=80",
     "date": 1792601835000,
     "titleSl": "Pariški trgovci se bojijo še večjega uničenja, potem ko nemiri uničujejo sredstva za preživljanje"
-   },
-   {
-    "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/WIDE-THUMB-MACRON-IN-SAUDI-1792600396.png?resize=1920%2C1080&quality=80",
-    "date": 1792600467000,
-    "titleSl": "Macronov nepričakovan obisk \"solidarnosti\" v Savdski Arabiji"
-   },
-   {
-    "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2301346796-1792606963.jpg?resize=1200%2C675",
-    "date": 1792598516000,
-    "titleSl": "Real Madrid proti RB Leipzig v ŽIVO: Liga prvakov"
    }
   ],
   "guardian": [
    {
+    "title": "Thousands of California public employees begin strike over contract",
+    "link": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+    "image": "https://i.guim.co.uk/img/media/29298c46ff80433503b00cf87b93f45102ca3303/554_0_6312_5051/master/6312.jpg?width=140&quality=85&auto=format&fit=max&s=6ebf4592724563573963546f54fc51a3",
+    "date": 1792607844000,
+    "titleSl": "Na tisoče kalifornijskih javnih uslužbencev začne stavkati zaradi pogodbe"
+   },
+   {
     "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/18ce40d2ccd99c2b0094fdd66a6f3607901f0017/238_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7233a07dfdfcd85cb535e91fae6052bf",
-    "date": 1792606668000,
+    "date": 1792607816000,
     "titleSl": "Demokrati imajo 11 točk prednosti med verjetnimi volivci kot Trumpovi kraterji za odobritev – v živo"
    },
    {
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/053eb1d316f4ad3edc60799d1b04b844bba8d1d7/172_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=cc9a90a71be7f6483b2a9ca28fa7bfa5",
     "date": 1792605468000,
     "titleSl": "\"Tudi vi ste humanitarec, gospod\": ZDA hranijo Putina z lažmi, medtem ko se ukrajinski otroci skrivajo in umirajo | Andrew Roth"
-   },
-   {
-    "title": "Chemical tank explosion in Toledo, Ohio, prompts mass evacuation",
-    "link": "https://www.theguardian.com/us-news/2026/oct/21/toledo-ohio-tank-explosion-mass-evacuation",
-    "image": "https://i.guim.co.uk/img/media/061c69c8a2f9c43555506bac9e7c8c984bd7f094/0_0_4796_3838/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=6af9fcafcb037c454ff8f67d98a9cff8",
-    "date": 1792605170000,
-    "titleSl": "Eksplozija rezervoarja za kemikalije v Toledu v Ohiu sproži množično evakuacijo"
    }
   ],
   "spiegel": [
@@ -455,41 +455,42 @@
   ],
   "krone": [
    {
-    "title": "So spart das Land - Jedem vierten Salzburger bleibt nichts zum Sparen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBob2hYa09TX0U3VVpSNVhCS3QwNG9BSFlWcExkMm9NZ2N3azlzbmRLbm1fU25na1lUejJXQzI1dXU1Zw?oc=5",
+    "title": "Milliarden-Strafe - Facebook-Mutter Meta wegen Täuschung verurteilt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGN3pMM3cxbDRhdDVVaDhxRnpqOXNiV2l4eG1hdGgzQlFiY0Y2eXY1QTVqcEtOamVlSFdQQ3dTN3pfdw?oc=5",
+    "image": "",
+    "date": 1792607760000
+   },
+   {
+    "title": "Solidarität mit Linz - Austria Salzburgs Fans planen Boykott im Topspiel",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLQktWTldsRVFvNXd4c1VJaW1KUVdsWS1YWXdVVUhyOHRMTEZNeVdHMkhtMXVNQjhsN1l2ZzRGcUpuZw?oc=5",
+    "image": "",
+    "date": 1792607400000,
+    "titleSl": "Solidarität mit Linz - Avstrija Salzburgs Fans planen Boykott im Topspiel"
+   },
+   {
+    "title": "55.000 Beschäftigte - Eisenbahn-KV: Auch zweite Runde ohne Einigung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94Q2V1YnR1UHpGTjJVM3pldUZ2ZlN0UzBjU09MUDZDNXR4Vkc2R1hRMjdCakhIUjBPVkdyS3pGWFJ6UQ?oc=5",
+    "image": "",
+    "date": 1792605840000
+   },
+   {
+    "title": "„Sicher wünschenswert“ - Weidel will auf EU-Ebene mehr mit FPÖ kooperieren",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGaUxtS1JTU3dZQTJzNjU5R0t1M3lreXc1UDNiRFRmV3NzT21CUko3QmxiUG5LR0VSTjNTM2F4SVc2Zw?oc=5",
+    "image": "",
+    "date": 1792605780000,
+    "titleSl": "„Sicher wünschenswert“ - Weidel bo auf EU-Ebene mehr mit FPÖ kooperieren"
+   },
+   {
+    "title": "Hit umgetextet - Aus Platin wurde beim Bockbieranstich Rubin",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90U19oY1pMcnBXeFdJczRZMVVLeHRmRHJSWmNiUDZpNkRkSzJzQ1RzVGs5eFNaT3lKVW91cFdaTUZjdw?oc=5",
     "image": "",
     "date": 1792605600000
    },
    {
-    "title": "Champions League - Die Aufstellung: So startet der LASK bei Sporting",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XQU92ZWl3TEJHaXh1Wk1rZ200X3hMQzVSMFFEbGFkYWZHLVFBamZmcXFaNkNWSm94SXRuN2ZmdzBBZw?oc=5",
+    "title": "Die vielen Privilegien - Chauffeure und PR: Wo an den Unis abkassiert wird",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kdDBiME5qMnVQT1ZrNXFWS29oYnY1X0gtS3hXb3d2OXRyVHVkQ1JnaXI2Ui0wN3FZRG1QVm92UEFaZw?oc=5",
     "image": "",
-    "date": 1792605240000,
-    "titleSl": "Liga prvakov - Die Aufstellung: So startet der LASK bei Sporting"
-   },
-   {
-    "title": "Carrousel du Louvre - Recycling-Künstler steht in Paris im Rampenlicht",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fbVNlZ2VhVkRGX0w1dDc5X3pPa09Eb3ZPT0ZJY0djejZoZ1BLOGcwVmdsREllZFZ5aHlqeG15LURodw?oc=5",
-    "image": "",
-    "date": 1792602000000
-   },
-   {
-    "title": "Jugend ohne Arbeit - Lehrerin: „Hälfte hat nach der Schule keinen Job“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Hb0UtMHE1aGpmbGxsc0ZUTC15NGEyYjZfZm5hTjh5Q0s0WmxPaV9vTHRiVEtocFo1c3JWVnlhU3BhUQ?oc=5",
-    "image": "",
-    "date": 1792602000000
-   },
-   {
-    "title": "Eishockey - Nach Doping-Eklat! Zündel zurück bei den Graz99ers",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtMXdBbUdmQTdMbnJPNEdhd0JETExGY3gwUlVWWkFwX0VxQUdOVW4ydElreUF0YkRtdXN5VXRwVEtNUQ?oc=5",
-    "image": "",
-    "date": 1792601100000
-   },
-   {
-    "title": "Lässige Fußball-Profis - Unüblich zum Erfolg beim Klub und im Nationalteam",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MMWJBVzRhMFNGY0VvaEhQcjlFMkFfMjhKOV84dDFwdXFiUHR2YmxvemZITkRHVnhBaWlJcGZsdjF6dw?oc=5",
-    "image": "",
-    "date": 1792600200000
+    "date": 1792605600000
    }
   ],
   "rainews": [
