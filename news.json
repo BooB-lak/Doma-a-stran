@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T13:06:26.647Z",
+ "generatedAt": "2026-10-21T13:08:23.323Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Kriza pri Resnici, poslansko mesto zavrnil že drugi kandidat",
+    "link": "https://www.zurnal24.si/slovenija/kriza-pri-resnici-poslansko-mesto-zavrnil-ze-drugi-kandidat-467080",
+    "image": "https://www.zurnal24.si/media/img/01/83/77c16a60512e7ae46316.jpeg",
+    "date": 1792586580000
+   },
+   {
     "title": "PSG ob zmagi nad Barcelono prejel tri boleče udarce",
     "link": "https://www.zurnal24.si/sport/nogomet/psg-ob-zmagi-nad-barcelono-prejel-tri-bolece-udarce-467078",
     "image": "https://www.zurnal24.si/media/img/0f/89/c00019a94909318ef844.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/lanska-bozicnica-neskladna-z-ustavo-jo-bomo-morali-vracati-467064",
     "image": "https://www.zurnal24.si/media/img/12/54/e25d3920cf91e93ace9d.jpeg",
     "date": 1792574880000
-   },
-   {
-    "title": "Poslanec, ki naj bi nadomestil Mijiča, v joku: \"Funkcije ne bom prevzel\"",
-    "link": "https://www.zurnal24.si/slovenija/poslanec-ki-naj-bi-nadomestil-mijica-v-joku-funkcije-ne-bom-prevzel-467065",
-    "image": "https://www.zurnal24.si/media/img/74/db/78be91c096c5278404d4.jpeg",
-    "date": 1792574100000
    }
   ],
   "reuters": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
-    "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad88ef4a1ac-1792577268.jpg?resize=1920%2C1440",
-    "date": 1792587283000,
-    "titleSl": "Francoski Macron pravi, da protestnikom ne bo dovoljeno \"povzročati kaosa\""
-   },
-   {
     "title": "Protests as UK approves new gas drilling in North Sea",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792586978.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792579758.jpg?resize=1920%2C1080&quality=80",
     "date": 1792579784000,
     "titleSl": "Protesti zaradi življenjskih stroškov se ne dogajajo samo v Evropi"
+   },
+   {
+    "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win",
+    "link": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26283735363011-1792577151.jpg?resize=1200%2C630",
+    "date": 1792579501000,
+    "titleSl": "Kvaratskhelia, Dembele in Marquinhos poškodovani po zmagi PSG"
    }
   ],
   "guardian": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Schwerer Unfall in Niedersachsen - Überholmanöver endet im Frontalcrash",
+    "link": "https://www.bild.de/news/inland/schwerer-unfall-in-niedersachsen-ueberholmanoever-endet-im-frontalcrash-6ad89110438656aeb2fad876",
+    "image": "https://images.bild.de/6ad89110438656aeb2fad876/5c78c2c5aad5934018d7a41a54ab3afd,2844789b?w=1280",
+    "date": 0,
+    "titleSl": "Huda nesreča na Spodnjem Saškem – manever prehitevanja se je končal s čelnim trčenjem"
+   },
+   {
+    "title": "Was macht der denn? - Trainer spielt plötzlich mit",
+    "link": "https://www.bild.de/sport/fussball/was-macht-der-denn-sydney-trainer-spielt-ploetzlich-mit-6ad8881e199dc15f1abdb99c",
+    "image": "https://images.bild.de/6ad8881e199dc15f1abdb99c/fc28c2af7ff0641ffd13a06e2b825e2d-landscape,d1d9f844?w=1280",
+    "date": 0,
+    "titleSl": "Kaj počne? - Trener nenadoma priigra"
+   },
+   {
+    "title": "Leck in Programmiersprache PHP - Mega-Sicherheitslücke bedroht das Internet",
+    "link": "https://www.bild.de/leben-wissen/digital/php-sicherheitsluecken-behoerden-nehmen-webseiten-vom-netz-6ad8b668199dc15f1abdbef5",
+    "image": "https://images.bild.de/6ad8b668199dc15f1abdbef5/f9c1797fbd407cb42fa8cdaa57474b7c,57a56f86?w=1280",
+    "date": 0,
+    "titleSl": "Puščanje v programskem jeziku PHP - mega varnostna luknja ogroža internet"
+   },
+   {
     "title": "Wie Zlatan gegen England - Fallrückzieher will „Tor des Jahres” werden",
     "link": "https://www.bild.de/sport/fussball/wie-zlatan-gegen-england-fallrueckzieher-will-tor-des-jahres-werden-6ad887da199dc15f1abdb986",
     "image": "https://images.bild.de/6ad887da199dc15f1abdb986/eb3c55e42df1e274d17b81f08defa433,fcd6d872?w=1280",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6ad88359438656aeb2fad618/cdf4bb9ea557b867ce60e62acc8ce63c,b66f456a?w=1280",
     "date": 0,
     "titleSl": "Se \"Vedno ob nedeljah\" vrača? - Stefan Mross podžiga govorice"
-   },
-   {
-    "title": "Was macht der denn? - Trainer spielt plötzlich mit",
-    "link": "https://www.bild.de/sport/fussball/was-macht-der-denn-sydney-trainer-spielt-ploetzlich-mit-6ad8881e199dc15f1abdb99c",
-    "image": "https://images.bild.de/6ad8881e199dc15f1abdb99c/fc28c2af7ff0641ffd13a06e2b825e2d-landscape,d1d9f844?w=1280",
-    "date": 0,
-    "titleSl": "Kaj počne? - Trener nenadoma priigra"
-   },
-   {
-    "title": "250.000 Dollar in den Sand gesetzt? - Tesla-Käufer will neuen Roadster nicht mehr",
-    "link": "https://www.bild.de/leben-wissen/auto/nach-tesla-roadster-vorstellung-kaeufer-will-bestellung-stornieren-6ad86f332c40700de08002b1",
-    "image": "https://images.bild.de/6ad86f332c40700de08002b1/30eb239c32bb4850a4d0bbfcbb10c309,c19a04c?w=1280",
-    "date": 0,
-    "titleSl": "Zapravil 250.000 $? - Kupec Tesle ne želi več novega Roadsterja"
-   },
-   {
-    "title": "Mitten in der Saison! - Ostklub schnappt sich neuen Torwart",
-    "link": "https://www.bild.de/sport/fussball/fc-carl-zeiss-jena-mitten-in-der-saison-dedidis-kommt-zurueck-nach-jena-6ad8ad45199dc15f1abdbdf9",
-    "image": "https://images.bild.de/6ad8ad45199dc15f1abdbdf9/8c4331f3e8a16431a4b720f070b3c079,bcb6f844?w=1280",
-    "date": 0,
-    "titleSl": "Sredi sezone! - Ostklub dobi novega vratarja"
    }
   ],
   "krone": [
@@ -510,7 +510,7 @@
     "title": "Blocco dei tir, la protesta continua: solo in Sicilia revocato il fermo. A rischio i rifornimenti",
     "link": "https://www.rainews.it/maratona/2026/10/emergenza-sud-carburanti-blocchi-protesta-autotrasportatori-disagi-rete-nazionale-98e37f72-f0b7-4f2e-8ea3-22387b9eeb63.html",
     "image": "https://www.rainews.it/dl/img/2026/10/21/1792577285560_rainewscfdeabaeefefef.jpg",
-    "date": 1792587900000,
+    "date": 1792587960000,
     "titleSl": "Blokada tovornjakov, protest se nadaljuje: zaustavitev so odpravili le na Siciliji. Zaloge so ogrožene"
    },
    {
