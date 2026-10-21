@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-21T14:58:28.287Z",
+ "generatedAt": "2026-10-21T15:01:06.512Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zeljković posluša veliko kritik: Napadalci niso osrednji problem Celja",
+    "link": "https://siol.net/sportal/nogomet/trener-in-kapetan-celja-pred-tekmo-s-salzburgom-704509",
+    "image": "https://siol.net/media/img/84/0d/9efa7e4fe61d30308050.jpeg",
+    "date": 1792594680000
+   },
    {
     "title": "Začelo se je kot šala, zdaj je simbol krize Uniteda in predmet posmeha",
     "link": "https://siol.net/sportal/nogomet/frank-ilett-manchester-united-100-704508",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/moda-in-lepota/adrianne-curry-ostro-nad-kylie-jenner-zaradi-sova-victorias-secret-nima-manekenskega-telesa-704469",
     "image": "https://siol.net/media/img/c1/7e/ca2966c03cec63a48b52.jpeg",
     "date": 1792591380000
-   },
-   {
-    "title": "Peter Gregorčič v zadevi RTVS vložil pritožbo na ESČP",
-    "link": "https://siol.net/novice/slovenija/peter-gregorcic-v-zadevi-rtvs-vlozil-pritozbo-na-escp-704504",
-    "image": "https://siol.net/media/img/4d/c0/1526eec8e262ca28cccc.jpeg",
-    "date": 1792591020000
    }
   ],
   "24ur": [
@@ -264,11 +264,11 @@
     "titleSl": "Don't Stop Believin' - Srednješolski muzikal Glee pripravljen za ponovni zagon"
    },
    {
-    "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Westminster",
+    "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
     "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ee/live/45d91a50-cd5b-11f1-b962-b7ff822cde72.jpg",
     "date": 1792592784000,
-    "titleSl": "Zapornega nekdanjega vodjo DUP Jeffreyja Donaldsona preiskujejo zaradi domnevnega posilstva v Westminstru"
+    "titleSl": "Nekdanjega vodjo DUP-a Jeffreyja Donaldsona preiskujejo zaradi domnevnega posilstva v parlamentu"
    },
    {
     "title": "Belfast comedian criticised for rape 'joke' about assault victim",
@@ -303,7 +303,7 @@
    {
     "title": "Russia releases American Stephen Hubbard after four years in prison",
     "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad8cc78-1792593016.jpg?resize=1200%2C675",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-21T125452Z_1224147023_RC2O7OAA6KJD_RTRMADP_3_RUSSIA-USA-HUBBARD-1792594447.jpg?resize=1920%2C1399",
     "date": 1792593113000,
     "titleSl": "Rusija po štirih letih zapora izpusti Američana Stephena Hubbarda"
    },
@@ -322,63 +322,75 @@
     "titleSl": "Kako Katar, Turčija, Pakistan in Indonezija poglabljajo obrambne vezi"
    },
    {
-    "title": "How war in Lebanon has cost young people with autism and ADHD",
+    "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
     "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Alex-Durie-photos-Lebanon-Autism-20-1792403808.jpg?resize=1920%2C1440",
     "date": 1792589577000,
-    "titleSl": "Kako je vojna v Libanonu stala mlade z avtizmom in ADHD"
+    "titleSl": "Kako je izraelska vojna proti Libanonu stala mlade z avtizmom in ADHD"
    }
   ],
   "guardian": [
+   {
+    "title": "Commons speaker accuses energy secretary of ‘immense discourtesy’ after she misses Jackdaw statement – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/da1eac88fa65359763a389fb417e4a0f953e1055/159_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=6a8ed844fbbebac787c1f6a6c7bccfc8",
+    "date": 1792594205000,
+    "titleSl": "Govornica Commonsa obtožuje ministrico za energijo \"ogromne nevljudnosti\", potem ko je zamudila izjavo Jackdawa – britanska politika v živo"
+   },
+   {
+    "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/d748117c85bca5a45c4bd056e5fd3f2f780c280b/405_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=b4950ebe667b9b30c98517698e167fe9",
+    "date": 1792594135000,
+    "titleSl": "Tisoči v Grčiji korakajo zaradi neuspehov v javnem izobraževanju, ko Macron razstreljuje \"neumne\" komentarje o francoskih protestih – Evropa v živo"
+   },
+   {
+    "title": "Burnham backs mandatory suicide prevention training for social workers after parent-carer Matilda Davis’s death",
+    "link": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
+    "image": "https://i.guim.co.uk/img/media/3d5e2301a349173b622111b77c86e740e9f75572/1171_1149_2546_2037/master/2546.png?width=140&quality=85&auto=format&fit=max&s=e701608907cba4a94e8149741c3ab149",
+    "date": 1792594001000,
+    "titleSl": "Burnham podpira obvezno usposabljanje za preprečevanje samomora za socialne delavce po smrti staršev in skrbnice Matilde Davis"
+   },
+   {
+    "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/18ce40d2ccd99c2b0094fdd66a6f3607901f0017/238_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7233a07dfdfcd85cb535e91fae6052bf",
+    "date": 1792593977000,
+    "titleSl": "Verjetno imajo volivci raje demokrate kot republikance v zadnji anketi pred vmesnimi volitvami, saj Trumpova priljubljenost še naprej tone – v živo"
+   },
+   {
+    "title": "Macron accuses Trump and other foreign leaders of making ‘stupid comments’ about France unrest",
+    "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+    "image": "https://i.guim.co.uk/img/media/20bf50463dc49ff68be61020ce2ce0c7149770dc/0_0_4201_3361/master/4201.jpg?width=140&quality=85&auto=format&fit=max&s=38fbd5cbf3703fe16596a94f0b9b3ad8",
+    "date": 1792593896000,
+    "titleSl": "Macron obtožuje Trumpa in druge tuje voditelje, da dajejo \"neumne komentarje\" o francoskih nemirih"
+   },
    {
     "title": "Europe’s far right seizes on protest violence to push authoritarian anti-immigration agenda",
     "link": "https://www.theguardian.com/world/2026/oct/21/europe-far-right-protest-violence-authoritarian-agenda",
     "image": "https://i.guim.co.uk/img/media/1a25769a8a4218d12ba3465283e54efdae73e586/452_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=6767f1c6bf6398158ee7736e98918162",
     "date": 1792593383000,
     "titleSl": "Evropska skrajna desnica se poslužuje protestnega nasilja, da bi spodbudila avtoritarno agendo proti priseljencem"
-   },
-   {
-    "title": "​Europe stands by Ukraine – but how long can that last?",
-    "link": "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
-    "image": "https://i.guim.co.uk/img/media/025d6c56a3dfcbd9cd8eea7f6fbd0567ff7d6150/735_406_6166_4934/master/6166.jpg?width=140&quality=85&auto=format&fit=max&s=22a729b7734ff0f22c727a1e71a15f01",
-    "date": 1792593208000,
-    "titleSl": "​Evropa stoji ob strani Ukrajini – a kako dolgo lahko to traja?"
-   },
-   {
-    "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/d748117c85bca5a45c4bd056e5fd3f2f780c280b/405_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=b4950ebe667b9b30c98517698e167fe9",
-    "date": 1792593175000,
-    "titleSl": "Tisoči v Grčiji korakajo zaradi neuspehov v javnem izobraževanju, ko Macron razstreljuje \"neumne\" komentarje o francoskih protestih – Evropa v živo"
-   },
-   {
-    "title": "Trump’s approval rating drops to 36% two weeks before midterms, poll finds",
-    "link": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
-    "image": "https://i.guim.co.uk/img/media/1809d9a1ddc46af55567b924e87520643afc485f/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=4e115b8497a021f7318f45f902d6f2c2",
-    "date": 1792592864000,
-    "titleSl": "Raziskava ugotavlja, da Trumpova stopnja odobravanja dva tedna pred vmesnimi izpiti pade na 36 %"
-   },
-   {
-    "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
-    "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
-    "image": "https://i.guim.co.uk/img/media/50f56a5bc6a708bace592a6cef990bed80de9511/409_126_4082_3266/master/4082.jpg?width=140&quality=85&auto=format&fit=max&s=bb2460d509d5a306b2a09f32bd5b68f8",
-    "date": 1792592642000,
-    "titleSl": "Oblegano jemensko mesto na robu \"neobvladljive\" krize, opozarjajo humanitarni delavci"
-   },
-   {
-    "title": "Burnham backs mandatory suicide prevention training for social workers after Matilda Davis’s death",
-    "link": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
-    "image": "https://i.guim.co.uk/img/media/28089cc9ef4a287e686ac0776058bcaf13f990a8/1474_479_2137_1709/master/2137.png?width=140&quality=85&auto=format&fit=max&s=ba40af74b50e7cb954056f9cd1d9e51b",
-    "date": 1792592338000,
-    "titleSl": "Burnham podpira obvezno usposabljanje za preprečevanje samomorov za socialne delavce po smrti Matilde Davis"
    }
   ],
   "spiegel": [
+   {
+    "title": "CDU Berlin: Ulrich Vosgerau fand »schade«, dass jüdische Studierende nicht »gejagt« wurden – Stefan Evers schweigt",
+    "link": "https://www.spiegel.de/politik/deutschland/cdu-berlin-ulrich-vosgerau-fand-schade-dass-juedische-studierende-nicht-gejagt-wurden-stefan-evers-schweigt-a-59151e0a-f654-4568-9c6e-de271c84bfaf#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/1c2e6203-78bd-4211-b4e6-ed793fcdf94a_w520_r2.08_fpx47.98_fpy49.99.jpg",
+    "date": 1792594320000
+   },
    {
     "title": "ZDF: Früherer Sportreporter Michael Pfeffer im Urlaub tödlich verunglückt",
     "link": "https://www.spiegel.de/sport/zdf-frueherer-sportreporter-michael-pfeffer-im-urlaub-toedlich-verunglueckt-a-345fd888-42b9-4c9b-b08a-9fb1ca0f807d#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/cc3108d0-1393-42cf-8ce1-5b58c3867ef5_w520_r2.08_fpx61.33_fpy50.jpg",
     "date": 1792592580000
+   },
+   {
+    "title": "Alice Schwarzer: Wie die »Emma« vom feministischen Projekt zum Streitfall wurde",
+    "link": "https://www.spiegel.de/kultur/alice-schwarzer-wie-die-emma-vom-feministischen-projekt-zum-streitfall-wurde-a-89dbd51f-63f1-4fe5-8eb8-0b7f9b4589dd#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/8165cd3a-1d4a-4e5b-b4e1-8b8aa59a7d3d_w520_r2.08_fpx34.65_fpy49.99.jpg",
+    "date": 1792592340000
    },
    {
     "title": "Uno: El Niño könnte stärkster seit 40 Jahren sein – oder schlimmer",
@@ -400,23 +412,22 @@
     "image": "https://cdn.prod.www.spiegel.de/images/c04a55e7-94a1-4a3e-8a8c-affdf64eb589_w520_r2.08_fpx50_fpy54.jpg",
     "date": 1792590120000,
     "titleSl": "Varnostne ranljivosti: tekma proti propadu interneta"
-   },
-   {
-    "title": "Riccardo Simonetti: Sein Ehemann Steven hat sein Bild von Männlichkeit verändert",
-    "link": "https://www.spiegel.de/panorama/leute/riccardo-simonetti-sein-ehemann-steven-hat-sein-bild-von-maennlichkeit-veraendert-a-a5d8a7b5-a9da-4b2c-bc63-700cbfa5aed5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/9f4e0f6f-19b8-4256-9e2a-f016ac5370d2_w520_r2.08_fpx52.63_fpy44.97.jpg",
-    "date": 1792587660000,
-    "titleSl": "Riccardo Simonetti: Njegov mož Steven je spremenil svojo podobo moškosti"
-   },
-   {
-    "title": "Union Berlin: Damir Kreilachs Abschiedsspiel in Kroatien – Wie ein Bruder",
-    "link": "https://www.11freunde.de/bundesliga/union-berlin-damir-kreilachs-abschiedsspiel-in-kroatien-wie-ein-bruder-a-6d4159d2-2fb0-401b-af25-a412fc159cca#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/50a3312f-317d-43a0-9036-5f574a09f13d_w520_r2.08_fpx53_fpy43.jpg",
-    "date": 1792584720000,
-    "titleSl": "Union Berlin: Poslovna tekma Damirja Kreilacha na Hrvaškem - kot brat"
    }
   ],
   "bild": [
+   {
+    "title": "Florian Hager bei RONZHEIMER - Migration! ARD-Chef gibt Fehler zu",
+    "link": "https://www.bild.de/politik/florian-hager-bei-ronzheimer-migration-ard-chef-gibt-fehler-zu-6ad895c5199dc15f1abdbb3c",
+    "image": "https://images.bild.de/6ad895c5199dc15f1abdbb3c/4ded2172679dad30b5143ce9b0eeeecb,27ea1873?w=1280",
+    "date": 0,
+    "titleSl": "Florian Hager bei RONZHEIMER - Migracija! ARD-Chef gibt Fehler zu"
+   },
+   {
+    "title": "Harsmann blieb fehlerfrei - Preußen in der Keeper-Klemme",
+    "link": "https://www.bild.de/sport/fussball/harsmann-blieb-fehlerfrei-preussen-in-der-keeper-klemme-6ad8be2f2c40700de0800b84",
+    "image": "https://images.bild.de/6ad8be2f2c40700de0800b84/4b4f2bfe255ea8169e53a5087b34569b,a8bee060?w=1280",
+    "date": 0
+   },
    {
     "title": "Im November - Putin zu neuen Ukraine-Gesprächen bereit",
     "link": "https://www.bild.de/politik/ausland-und-internationales/im-november-kreml-zu-verhandlungen-mit-ukraine-und-usa-bereit-6ad8bedc842f9bd88130b0a2",
@@ -441,23 +452,47 @@
     "link": "https://www.bild.de/sport/fussball/psg-fan-eklat-geschmacklose-massaker-choreo-jetzt-reagiert-barca-6ad87cf0842f9bd88130a73a",
     "image": "https://images.bild.de/6ad87cf0842f9bd88130a73a/7c306da3d5f7025b8cc636112dd23598,3d47f508?w=1280",
     "date": 0
-   },
-   {
-    "title": "Unfall in Leipzig - Radfahrerin (20) von Lkw totgefahren",
-    "link": "https://www.bild.de/regional/leipzig/leipzig-radfahrerin-20-stirbt-nach-kollision-mit-lkw-6ad8c96c8ef0fba254b7b662",
-    "image": "https://images.bild.de/6ad8c96c8ef0fba254b7b662/a7c08c94bde675abee1ff25be20f3d33,4dc51ff4?w=1280",
-    "date": 0,
-    "titleSl": "Nesreča v Leipzigu - tovornjak ubil kolesarja (20)."
-   },
-   {
-    "title": "Weltweite Sicherheitslücke - Hacker-Alarm! Charité-Website offline",
-    "link": "https://www.bild.de/geld/wirtschaft/weltweite-sicherheitsluecke-hacker-alarm-charite-website-offline-6ad8d01a8ef0fba254b7b6fa",
-    "image": "https://images.bild.de/6ad8d01a8ef0fba254b7b6fa/b7f012e387eb4727231b3a36112bcf32,463ee97f?w=1280",
-    "date": 0,
-    "titleSl": "Weltweite Sicherheitslücke - Hacker-Alarm! Charité-Website brez povezave"
    }
   ],
-  "krone": [],
+  "krone": [
+   {
+    "title": "War es Mord? - Rätselraten um Leiche in Auto vor Jagdschloss",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01S1VWYVd2TkxaRkViY1dFaVFGeDYzd2lCaC1hRjRjRlNQN2poZ3FIWGdqRTlUMHlEcTZxdkRfVEFLZw?oc=5",
+    "image": "",
+    "date": 1792594848000
+   },
+   {
+    "title": "Ideen und Meinungen - Land sucht erstmals das Gespräch mit Jugendlichen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kTjdRbXpPNjRJUXJudzdMUThZRmZLV2pKaUxNZkZjSEZMOGZydjVTU2V0LTJFX0lkS0JrZi1aZDV4Zw?oc=5",
+    "image": "",
+    "date": 1792594800000
+   },
+   {
+    "title": "„Folgen verhindern“ - WMO warnt vor El Niño mit beispielloser Stärke",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhZ2RvNUMtdm82VXg5ODBobW8xZUtfZ1VuakFHMGlvNHU3TXJ5M1c4MGh2MlBvVVRmdTI5RkJ4bG9EUQ?oc=5",
+    "image": "",
+    "date": 1792594560000,
+    "titleSl": "„Folgen verhindern“ - opozorilo WMO vor El Niño mit beispielloser Stärke"
+   },
+   {
+    "title": "„Lieber Christian ...“ - Pilnacek-U-Ausschuss: Das sagt Kanzler Stocker",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCR0xLcl9NeE9HRGZKeWtNbF92S0Q3RUhGZEwtM3RmazFYbEFQdlNkUmJ2ejJVR2xJR0pCbkthOXRJUQ?oc=5",
+    "image": "",
+    "date": 1792594140000
+   },
+   {
+    "title": "„Wenn wir denken...“ - Trotz der Siegesserie schrillen die Alarmglocken",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIRVE3bk1YVXNud1hLZVdvZml2V1NvMVBsSnJsUTFqOE42TWJJeGZNdHZZRmM4WFVSbkFMd3J6TGh1dw?oc=5",
+    "image": "",
+    "date": 1792593720000
+   },
+   {
+    "title": "Unfassbare Gewalt - 13-jährige Serientäter schlagen Senior bewusstlos",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1qdFA2ckpSVWhOTlN1dVBQdEVjU2pLRHNzZVBfRG5ZY3FHbDBic0Z2dHpDZjdWNXEzX2FIdV9zM0F4Zw?oc=5",
+    "image": "",
+    "date": 1792593660000
+   }
+  ],
   "rainews": [
    {
     "title": "SpaceX vola dopo i conti e l&#x27;apertura di Musk a una fusione con Tesla",
@@ -548,6 +583,31 @@
   ],
   "elpais": [
    {
+    "title": "El presidente Lula abre el grifo del dinero público en la campaña para las reñidas elecciones en Brasil",
+    "link": "https://elpais.com/america/2026-10-21/el-presidente-lula-abre-el-grifo-del-dinero-publico-en-la-campana-para-las-renidas-elecciones-en-brasil.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/PAU7YDVPCZNBRIJMG7IN3NTFKI.jpg?auth=5a103ced1e53088493a107c1dac419377b1e0c0fc9e902335a13a29e290e685a",
+    "date": 1792594719000
+   },
+   {
+    "title": "Detenido György Matolcsy, exjefe del banco central de Hungría y estrecho colaborador de Orbán",
+    "link": "https://elpais.com/internacional/2026-10-21/detenido-gyorgy-matolcsy-exjefe-del-banco-central-de-hungria-y-estrecho-colaborador-de-orban.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/CHKE2Q3YL2U7KZNZ46CN35SB6A.jpg?auth=cb9a349c17e9cbb3a09e7e33fa3a97f5d4f979318fea6e56b6735cbd93be9110",
+    "date": 1792594618000
+   },
+   {
+    "title": "Última hora de la actualidad política, en directo | Feijóo promete rebajas de impuestos a los jóvenes que compren una casa y construir un millón de viviendas si llega a La Moncloa",
+    "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/WIBMNV6YPNBJPKBOZHTTHNYYR4.jpg?auth=e08e69832a0715de1c57489800c5ce15838d257648dd3cf8d9f30a5d0020f921",
+    "date": 1792594511000,
+    "titleSl": "Zadnje politične novice, v živo | Feijóo obljublja znižanje davkov za mlade, ki kupijo hišo, in gradnjo milijona domov, če doseže La Moncloa"
+   },
+   {
+    "title": "Milei ataca a la prensa durante su visita: “Es corta intelectualmente, vale para tu caso”; “corrupta”; “no puedo respetar tu cerebro”",
+    "link": "https://elpais.com/espana/2026-10-21/milei-ataca-a-la-prensa-durante-su-visita-es-corta-intelectualmente-vale-para-tu-caso-corrupta-no-puedo-respetar-tu-cerebro.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261021/1228104_144807_video_1800.mp4",
+    "date": 1792594310000
+   },
+   {
     "title": "Netanyahu alimenta el temor a un nuevo ataque a Irán a días de las elecciones en Israel y EE UU",
     "link": "https://elpais.com/internacional/2026-10-21/netanyahu-alimenta-el-temor-a-un-nuevo-ataque-a-iran-a-dias-de-las-elecciones-en-israel-y-ee-uu.html",
     "image": "https://imagenes.elpais.com/resizer/v2/22NCIYL7DNPJZO2ODS4FY2BYBU.jpg?auth=f18863c355adb7a4f6f26d45967ccc7a23328ba375fc2db5695c9ca78d032cc3",
@@ -555,39 +615,11 @@
     "titleSl": "Netanjahu podžiga strah pred novim napadom na Iran nekaj dni pred volitvami v Izraelu in ZDA"
    },
    {
-    "title": "Última hora de la actualidad política, en directo | Feijóo promete rebajas de impuestos a los jóvenes que compren una casa y construir un millón de viviendas si llega a La Moncloa",
-    "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/WIBMNV6YPNBJPKBOZHTTHNYYR4.jpg?auth=e08e69832a0715de1c57489800c5ce15838d257648dd3cf8d9f30a5d0020f921",
-    "date": 1792593785000,
-    "titleSl": "Zadnje politične novice, v živo | Feijóo obljublja znižanje davkov za mlade, ki kupijo hišo, in gradnjo milijona domov, če doseže La Moncloa"
-   },
-   {
     "title": "Los jueces dan la razón a Xabi Alonso al declarar legal el chalé que construye en San Sebastián",
     "link": "https://elpais.com/espana/2026-10-21/los-jueces-dan-la-razon-a-xabi-alonso-al-declarar-legal-el-chale-que-construye-en-san-sebastian.html",
     "image": "https://imagenes.elpais.com/resizer/v2/MUUB4UOFMNAHFJBHYDVW6OGX34.jpg?auth=9fee4d11bc2738becab4288c72649afd89a09d2824224ec8009f57fa35de70da",
     "date": 1792593501000,
     "titleSl": "Sodniki se strinjajo s Xabijem Alonsom in razglasijo kočo, ki jo gradi v San Sebastianu, za zakonito"
-   },
-   {
-    "title": "Danone apunta a subir precios en 2027 y señala a la marca blanca: “Lo que hace es copiarnos”",
-    "link": "https://cincodias.elpais.com/companias/2026-10-21/danone-apunta-a-subir-precios-en-2027-y-senala-a-la-marca-blanca-lo-que-hace-es-copiarnos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/JFVH3662B5H2NOX2TKDGKD3JLI.jpg?auth=632178cfb50b6e071bf9461d8f993bf57a12ea920793df6bc6fa428bfbef04a4",
-    "date": 1792592683000,
-    "titleSl": "Danone želi zvišati cene leta 2027 in opozarja na belo etiketo: \"To, kar počne, je, da nas kopira\""
-   },
-   {
-    "title": "Un acto de Abascal en A Coruña acaba con cargas policiales y jóvenes antifascistas heridos",
-    "link": "https://elpais.com/espana/galicia/2026-10-21/un-acto-de-abascal-en-a-coruna-acaba-con-cargas-policiales-y-jovenes-antifascistas-heridos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/HHFJ65BV45AXPLPBJCYDU4OST4.JPG?auth=730111e6ca404c2342bfa1529683b654a94c67fd95d4b078036beda10c4a57f7",
-    "date": 1792592553000,
-    "titleSl": "Abascalovo dejanje v A Coruñi se je končalo s policijskimi ovadbami in poškodovanimi mladimi protifašisti"
-   },
-   {
-    "title": "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
-    "link": "https://elpais.com/tecnologia/2026-10-21/el-iphone-duo-de-2300-euros-desata-una-fiebre-inedita-por-los-plegables-se-agota-y-acumula-tres-meses-de-espera.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/F4RND5QHWFARPGKRPWH7OOQ34E.jpg?auth=2f96e7bd351cdaff32a4824a5ead667b6322c0d1a6716fc3b16923e51e5f9c1e",
-    "date": 1792592137000,
-    "titleSl": "El iPhone Duo de 2.300 evrov desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera"
    }
   ]
  },
