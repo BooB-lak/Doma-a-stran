@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T16:44:27.135Z",
+ "generatedAt": "2026-10-21T16:46:25.634Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "A Mother Searches for Her Son, One Graffiti Tag at a Time",
+    "link": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
+    "image": "",
+    "date": 1792601015000,
+    "titleSl": "Mama išče svojega sina, en grafit naenkrat"
+   },
+   {
     "title": "In Six Decades of Public Life, I Never Thought I Would Write This Piece",
     "link": "https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html",
     "image": "",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-rioters-lgwk/21int-france-rioters-lgwk-mediumSquareAt3X.jpg",
     "date": 1792598043000,
     "titleSl": "Kaj smo videli na hitrih preizkusih osumljencev nemirov v Franciji"
-   },
-   {
-    "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
-    "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-    "image": "",
-    "date": 1792597331000,
-    "titleSl": "VOLILNI videoposnetki A.I. preplavljajo Brazilijo. Bi lahko vplivali na glasovanje?"
    }
   ],
   "bbc": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/WIDE-THUMB-MACRON-IN-SAUDI-1792600396.png?resize=1920%2C1080&quality=80",
+    "date": 1792600467000,
+    "titleSl": "Macronov nepričakovan obisk \"solidarnosti\" v Savdski Arabiji"
+   },
+   {
     "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
     "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-18T203737Z_316238885_UP1EMAI1LAO4S_RTRMADP_3_SOCCER-SPAIN-RMA-SEV-1792600708.jpg?resize=1660%2C1080",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad8bbba-1792588730.jpg?resize=1920%2C1440",
     "date": 1792597002000,
     "titleSl": "Nova skrajna desnica Katalonije: Kako antimuslimansko razpoloženje preoblikuje politiko"
-   },
-   {
-    "title": "What are Italy’s new measures against violent protests?",
-    "link": "https://www.aljazeera.com/news/2026/10/21/what-are-italys-new-measures-against-violent-protests?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8b5f079f7-1792587248.jpg?resize=1920%2C1440",
-    "date": 1792596954000,
-    "titleSl": "Kakšni so novi ukrepi Italije proti nasilnim protestom?"
    }
   ],
   "guardian": [
@@ -417,6 +417,30 @@
   ],
   "bild": [
    {
+    "title": "Großeinsatz der Seenotrettung - Fähre vor Indonesien in Flammen",
+    "link": "https://www.bild.de/news/ausland/faehre-bei-java-vor-indonesien-in-flammen-grosseinsatz-der-seenotrettung-6ad7a47b199dc15f1abdb003",
+    "image": "https://images.bild.de/6ad7a47b199dc15f1abdb003/08a7ac84d39440fde0b8d3b8d41941d1,bc26a977?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Länder-Quiz - Kennen Sie die Lösung auf den ersten Blick?",
+    "link": "https://www.bild.de/leben-wissen/nachbarlaender-von-deutschland-kennen-sie-die-loesung-auf-den-ersten-blick-6aa7f5ed77bd109fcdd00e20",
+    "image": "https://images.bild.de/6aa7f5ed77bd109fcdd00e20/ecef846260b44ad0b060e9e4b90afdb3,c7460878?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Kurz vor dem Abflug aus Lima - Flieger fängt Feuer! Passagiere können nur zusehen",
+    "link": "https://www.bild.de/news/flugzeug-in-lima-evakuiert-hier-steht-der-airbus-in-flammen-6ad723d951e5094f7a5728db",
+    "image": "https://images.bild.de/6ad723d951e5094f7a5728db/9b65f82d39ca87353afcd4969d95f9df,9e28ecc?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Krawalle bei Louis Vuitton - Hier klauen Randalierer die Luxus-Koffer",
+    "link": "https://www.bild.de/news/ausland/bei-aufstaenden-in-frankreich-vermummte-pluendern-luxus-boutiquen-in-paris-und-marseille-6ad5fcce199dc15f1abd945a",
+    "image": "https://images.bild.de/6ad5fcce199dc15f1abd945a/ca5385f04a6d03a39a63e4093f5d5182,8558a11b?w=1280",
+    "date": 0
+   },
+   {
     "title": "Vorschau auf die neuen Folgen - Was passiert diese Woche bei „Dahoam is Dahoam“?",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/dahoam-is-dahoam-vorschau-lien-hadert-mit-dem-abschied-von-leon-6ad5ecc6199dc15f1abd92b3",
     "image": "https://images.bild.de/6ad5ecc6199dc15f1abd92b3/67a30e0e21b4b5ceba2978aac970cabb,1c51c68e?w=1280",
@@ -426,31 +450,6 @@
     "title": "Es hagelt Strafbefehle - Geldwäsche-Verdacht gegen Verbandsliga-Fußballer",
     "link": "https://www.bild.de/regional/baden-wuerttemberg/geldwaesche-verdacht-24-fussballern-droht-teures-nachspiel-6ad60471843996518cba5ef8",
     "image": "https://images.bild.de/6ad60471843996518cba5ef8/d4a6a15557249d39e0ef8ec392160be6,b73b10d2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Programmiersprache PHP - IT‑Sicherheitslücke! Charité schaltet Website ab",
-    "link": "https://www.bild.de/politik/weltweite-sicherheitsluecke-hacker-alarm-charite-website-offline-6ad8d01a8ef0fba254b7b6fa",
-    "image": "https://images.bild.de/6ad8d01a8ef0fba254b7b6fa/a1cc6f3e8b7491b6cb9f38417c7e0663,4052ceb5?w=1280",
-    "date": 0,
-    "titleSl": "Programmiersprache PHP -IT-Sicherheitslücke! Charité schaltet Spletna stran ab"
-   },
-   {
-    "title": "Mitarbeiterin vom Ausländeramt soll für Scheinehen kassiert haben - Stadt Köln annulliert Aufenthaltskarten",
-    "link": "https://www.bild.de/regional/koeln/mitarbeiterin-soll-mitglied-von-schleuserbande-gewesen-sein-stadt-koeln-annuliert-ihre-aufenthaltstitel-6ad8cf1a2c40700de0800d31",
-    "image": "https://images.bild.de/6ad8cf1a2c40700de0800d31/42a2bc120564dd4197b051d1e8bcbc6f,b7a67075?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Brisante Details nach Rauswurf - NFL-Star streitet mit Mitspieler, dann holt er Waffe",
-    "link": "https://www.bild.de/sport/mehr-sport/nfl-star-streitet-mit-mitspieler-dann-geht-er-seine-waffe-holen-6ad8c58c438656aeb2fadf86",
-    "image": "https://images.bild.de/6ad8c58c438656aeb2fadf86/e96689226bd6f1a4b0347cd37ef88eba,a116bc81?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Ganze Familie war zu Hause - Ex-PSG-Torwart überfallen und gefesselt",
-    "link": "https://www.bild.de/sport/mehr-sport/ex-torwart-von-psg-zu-hause-mitten-am-tag-ueberfallen-und-gefesselt-6ad8d1e9199dc15f1abdc1f9",
-    "image": "https://images.bild.de/6ad8d1e9199dc15f1abdc1f9/591016e6842daddb529b5d7a6ce8693a,6d8bd8ad?w=1280",
     "date": 0
    }
   ],
@@ -538,6 +537,13 @@
   ],
   "lemonde": [
    {
+    "title": "L’IA a été utilisée pour l’écriture du roman de Thélyson Orélien, annonce son éditeur canadien, qui met fin à sa collaboration avec l’auteur",
+    "link": "https://www.lemonde.fr/pixels/article/2026/10/21/l-ia-a-ete-utilisee-pour-l-ecriture-du-roman-de-thelyson-orelien-annonce-son-editeur-canadien-qui-met-fin-a-sa-collaboration-avec-l-auteur_6798291_4408996.html",
+    "image": "https://img.lemde.fr/2026/09/25/543/0/6500/3250/644/322/60/0/4a45fb5_ftp-1-q1fsbwugu7bn-2026-09-25t140339z-1315286628-rc2donaoykx2-rtrmadp-3-france-book-ai.JPG",
+    "date": 1792600977000,
+    "titleSl": "L’IA a été utilisée pour l'écriture du roman de Thélyson Orélien, annonce son éditeur canadien, qui met fin à sa collaboration avec l' autor"
+   },
+   {
     "title": "EN DIRECT, guerre en Ukraine : la Russie prête à reprendre des négociations trilatérales avec Kiev et les Etats-Unis à la mi-novembre",
     "link": "https://www.lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-la-russie-prete-a-reprendre-des-negociations-trilaterales-avec-kiev-et-les-etats-unis-a-la-mi-novembre_6796922_3210.html",
     "image": "https://img.lemde.fr/2026/10/21/506/0/5620/2810/644/322/60/0/217e3ff_ftp-1-ynsiytycgq99-c2301e4ade964304b2e14ed1cae74443-0-f5868527e4d340a087cad72226ac9124.jpg",
@@ -569,22 +575,9 @@
     "image": "https://img.lemde.fr/2026/10/21/788/0/9520/4760/644/322/60/0/d4c9906_upload-1-vpsrj33p3zcs-andia-abc-943254-013.jpg",
     "date": 1792596053000,
     "titleSl": "Grand Paris Express : un nouveau contretemps tehnika rend neverjetna une inauguracija de la ligne 18 en 2026"
-   },
-   {
-    "title": "Failles PHP : pourquoi de nombreux sites ont soudainement été mis « en maintenance",
-    "link": "https://www.lemonde.fr/pixels/article/2026/10/21/failles-php-pourquoi-de-nombreux-sites-ont-soudainement-ete-mis-en-maintenance_6798279_4408996.html",
-    "image": "https://img.lemde.fr/2026/01/22/250/0/3000/1500/644/322/60/0/a8c9242_upload-1-ecmwdmfbjpzu-fond-9.jpg",
-    "date": 1792594992000,
-    "titleSl": "Neuspehi PHP : pourquoi de nombreux sites ont soudainement été mis « en maintenance"
    }
   ],
   "elpais": [
-   {
-    "title": "Última hora de la actualidad política, en directo | Ayuso recibe calurosamente a Milei en Madrid ante el silencio del resto del PP",
-    "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/JITEWMHFTVAHVHNRQPDJCAMTHA.jpeg?auth=058502c1bd9ca62974f7d9b6a1950e4e39710895ba52291fff7b2cec21cc15c6",
-    "date": 1792600911000
-   },
    {
     "title": "Macron acusa a Trump y Netanyahu de azuzar las protestas con fines electorales",
     "link": "https://elpais.com/internacional/2026-10-21/macron-acusa-a-trump-y-netanyahu-de-azuzar-las-protestas-con-fines-electorales.html",
@@ -602,6 +595,12 @@
     "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-21/sufrio-cataluna-el-primer-ciclon-tropical-europeo-el-mediterraneo-empieza-a-comportarse-como-el-caribe.html",
     "image": "https://imagenes.elpais.com/resizer/v2/BHU6GQ7V7RFLZIVMZV3XXMECZE.jpg?auth=19b3f5c749d78b79d74ced69761240519651cd511b32b584693ee1063664cfc2",
     "date": 1792599782000
+   },
+   {
+    "title": "Última hora de la actualidad política, en directo | Ayuso recibe calurosamente a Milei en Madrid ante el silencio del resto del PP",
+    "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/JITEWMHFTVAHVHNRQPDJCAMTHA.jpeg?auth=058502c1bd9ca62974f7d9b6a1950e4e39710895ba52291fff7b2cec21cc15c6",
+    "date": 1792599434000
    },
    {
     "title": "Muere un trabajador forestal por un ataque masivo de avispas velutinas en Ourense",
