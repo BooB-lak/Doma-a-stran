@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T09:46:24.800Z",
+ "generatedAt": "2026-10-22T09:48:26.519Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Kdo je v letu 2026 dosegel največ zmag? Je po poškodbi kdo ujel Tadeja?",
+    "link": "https://www.zurnal24.si/sport/kolesarstvo/kdo-je-v-letu-2026-dosegel-najvec-zmag-je-po-poskodbi-kdo-ujel-tadeja-467129",
+    "image": "https://www.zurnal24.si/media/img/bc/c5/33418cc4b53fbf22f0a3.jpeg",
+    "date": 1792662420000
+   },
+   {
     "title": "V Franciji prvič pri človeku odkrili smrtonosni virus",
     "link": "https://www.zurnal24.si/zdravje/v-franciji-prvic-pri-cloveku-odkrili-smrtonosni-virus-467127",
     "image": "https://www.zurnal24.si/media/img/b3/13/7053b82dda306c0e1a26.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/z-denarnimi-kaznimi-jih-zelijo-prisiliti-k-dejanjem-467122",
     "image": "https://www.zurnal24.si/media/img/5b/1c/e3f712c5549c347d2a28.jpeg",
     "date": 1792656540000
-   },
-   {
-    "title": "Ganljivo: Znana Slovenka po 11 letih objela sestro",
-    "link": "https://www.zurnal24.si/magazin/vip/ganljivo-znana-slovenka-po-11-letih-objela-sestro-467124",
-    "image": "https://www.zurnal24.si/media/img/58/19/92b072ec4625155e3e40.png",
-    "date": 1792656420000
    }
   ],
   "reuters": [
@@ -417,17 +417,23 @@
   ],
   "bild": [
    {
+    "title": "Drei Frauen müssen noch einmal aussagen - So läuft der neue Marius-Prozess ab",
+    "link": "https://www.bild.de/unterhaltung/royals-adel/marius-borg-hiby-so-laeuft-der-berufungsprozess-gegen-ihn-6ad9c8c8199dc15f1abdccd2",
+    "image": "https://images.bild.de/6ad9c8c8199dc15f1abdccd2/3011f5bf27679737004a073ec59bfd76,e482d2b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Verstörende Szenen in Tönnies-Schlachthof - Die Undercover-Aufnahmen im Video",
+    "link": "https://www.bild.de/news/inland/verstoerende-szenen-im-schlachthof-undercover-aufnahmen-zeigen-qualvollen-tod-der-tiere-6ad5d303de9d7a845942b15e",
+    "image": "https://images.bild.de/6ad5d303de9d7a845942b15e/9db0d3150ed12474f0f40e960ef6395b,4e43f6c0?w=1280",
+    "date": 0
+   },
+   {
     "title": "Fans wurden bereits informiert - Nächstes Klopp-Spiel OHNE Zuschauer",
     "link": "https://www.bild.de/sport/fussball/nations-league-jetzt-offiziell-deutschland-in-serbien-ohne-zuschauer-6ad9d43c96ccd2296a83310a",
     "image": "https://images.bild.de/6ad9d43c96ccd2296a83310a/dd382b5e33ec29c3aca7d5814ff1d764,a9673d7d?w=1280",
     "date": 0,
     "titleSl": "Ventilatorji wurden bereits informiert - Nächstes Klopp-Spiel OHNE ZUSCHAUER"
-   },
-   {
-    "title": "Drei Frauen müssen noch einmal aussagen - So läuft der neue Marius-Prozess ab",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/marius-borg-hiby-so-laeuft-der-berufungsprozess-gegen-ihn-6ad9c8c8199dc15f1abdccd2",
-    "image": "https://images.bild.de/6ad9c8c8199dc15f1abdccd2/3011f5bf27679737004a073ec59bfd76,e482d2b?w=1280",
-    "date": 0
    },
    {
     "title": "„Manchmal denke ich ...“ - Rätsel um Bayerns schwächelnden WM-Star",
@@ -446,17 +452,11 @@
     "link": "https://www.bild.de/sport/mehr-sport/extremkletterer-thomas-van-tonder-will-afrikas-hoechste-bruecke-bezwingen-6ad1fb1d0e64c69ce0e159b1",
     "image": "https://images.bild.de/6ad1fb1d0e64c69ce0e159b1/1cd830d13bce4a90619a289c8651652a,72c4ba6b?w=1280",
     "date": 0
-   },
-   {
-    "title": "Nach Traumtor für Real Madrid - Diomande entschuldigt sich bei Ex-Klub Leipzig",
-    "link": "https://www.bild.de/sport/fussball/rb-leipzig-nach-traumtor-yan-diomande-entschuldigt-sich-bei-ex-klub-6ad9b3c62c40700de0801698",
-    "image": "https://images.bild.de/6ad9b3c62c40700de0801698/eb57b34e9839a9817283a9c3723af367,53bfcd95?w=1280",
-    "date": 0
    }
   ],
   "krone": [
    {
-    "title": "Nächste Woche wärmer - Wette bleibt mild: Maximal 14 Grad am Wochenende",
+    "title": "Nächste Woche wärmer - Wetter bleibt mild: Maximal 14 Grad am Wochenende",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vc1hLc2hBeG9FWllEZUhDek9JSzJLVlRNVG5Ic0t5NmxCSENNQjAxUmktejNUejBWWkd6Xy1GYjZEUQ?oc=5",
     "image": "",
     "date": 1792662060000
@@ -496,10 +496,17 @@
   ],
   "rainews": [
    {
+    "title": "Cisgiordania, crescono violenze durante raccolta olive. 2 morti nell&#x27;attacco all&#x27;aeroporto saudita",
+    "link": "https://www.rainews.it/maratona/2026/10/guerre-medio-oriente-cisgiordania-volontari-stranieri-arrestati-raccolta-oliuve-anche-due-italiani-gaza-morti-feriti-15ca8b71-56b0-4cc7-925f-9e3b01cb999e.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/22/1792625287933_DYJD.jpg",
+    "date": 1792662420000,
+    "titleSl": "Cisgiordania, crescono violenze durante raccolta olive. 2 morti nell 'attaccoall' aeroporto saudita"
+   },
+   {
     "title": "A Soelden si riparte dal gigante femminile: Goggia e Brignone ai box, attesa per Shiffrin",
     "link": "https://www.rainews.it/maratona/2026/10/sci-coppa-del-mondo-soelden-slalom-gigante-mikaela-shiffrin-franzoni-odermatt-azzurri-diretta-live-news-video-3dcd8738-1962-4958-9ea4-3227f07ff5d2.html",
     "image": "https://www.rainews.it/dl/img/2026/03/24/1774359977758_rainewsdeecfcfdcbfcd.jpg",
-    "date": 1792662240000
+    "date": 1792662360000
    },
    {
     "title": "Nessuna terapia post operatoria per Leone XIV",
@@ -524,13 +531,6 @@
     "link": "https://www.rainews.it/articoli/2026/10/famiglia-reale-windsor-harry-tende-la-mano-alla-famiglia-reale-william-chiude-la-porta-non-vuole-riconciliarsi-41a411aa-56f4-4a75-ae3e-5682cce6c832.html",
     "image": "https://www.rainews.it/dl/img/2026/10/22/1792659936216_Principe_William_e_Harry_.jpg",
     "date": 1792661040000
-   },
-   {
-    "title": "Virus Shamonda, primo morto al mondo in Francia",
-    "link": "https://www.rainews.it/video/2026/10/virus-shamonda-primo-morto-al-mondo-in-francia-e7503612-69d5-4d69-8287-425667209879.html",
-    "image": "https://www.rainews.it/dl/img/2024/04/03/1712124272118_rainewsbcdaddfddfef.jpg",
-    "date": 1792660920000,
-    "titleSl": "Virus Shamonda, primo morto al mondo v Franciji"
    }
   ],
   "lemonde": [
