@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T10:22:25.025Z",
+ "generatedAt": "2026-10-22T10:24:26.085Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "V Slovenski Bistrici četverica kandidatov za župansko mesto",
+    "link": "https://www.rtvslo.si/slovenija/lokalne-volitve-2026/v-slovenski-bistrici-cetverica-kandidatov-za-zupansko-mesto/797756",
+    "image": "https://img.rtvcdn.si/_up/upload/2021/11/22/65942267.jpg",
+    "date": 1792664569000
+   },
+   {
     "title": "Zeljković pred današnjo tekmo s Salzburgom: \"Ostati moramo pogumni\"",
     "link": "https://www.rtvslo.si/sport/nogomet/evropska-liga/zeljkovic-pred-danasnjo-tekmo-s-salzburgom-ostati-moramo-pogumni/797754",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/17/67104942.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/znani/vid-judi-dench-se-slabsa-ne-morem-vec-brati-ali-igrati/797729",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/22/67115509.jpg",
     "date": 1792662764000
-   },
-   {
-    "title": "Alternativa za Nemčijo predlaga celovito prenovo Evropske unije",
-    "link": "https://www.rtvslo.si/svet/evropa/alternativa-za-nemcijo-predlaga-celovito-prenovo-evropske-unije/797745",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/22/67115502.jpg",
-    "date": 1792662622000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+    "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/56705500-cdf5-11f1-97f7-a7674fb562de.jpg",
+    "date": 1792664246000,
+    "titleSl": "Zoe Kleinman: PHP je kibernetski ekvivalent neeksplodirane bombe"
+   },
+   {
     "title": "Two storms in two days as Austen and Boelo target UK",
     "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e3c/live/e7d9d390-cdf5-11f1-a64c-550be9e3c66b.jpg",
     "date": 1792660488000,
     "titleSl": "Oblasti so sporočile, da sta v napadu na letališče v vzhodni Savdski Arabiji umrla dva"
-   },
-   {
-    "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
-    "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/bc84e170-cdf6-11f1-97f7-a7674fb562de.jpg",
-    "date": 1792660008000,
-    "titleSl": "Nekateri Newyorčani podpirajo prepoved konjskih vpreg, vendar se vozniki bojijo za prihodke"
    }
   ],
   "aljazeera": [
@@ -385,25 +385,29 @@
     "title": "Erneuerbare Energien: EEG-Novelle könnte Mehrkosten in Milliardenhöhe verursachen",
     "link": "https://www.spiegel.de/wirtschaft/soziales/erneuerbare-energien-eeg-novelle-koennte-mehrkosten-in-milliardenhoehe-verursachen-a-cb9f8276-4872-4a83-8c51-238362639eae#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/817f30ee-7965-4a7b-ace1-7787c2b7d716_w520_r2.08_fpx51_fpy38.jpg",
-    "date": 1792663920000
+    "date": 1792663920000,
+    "titleSl": "Obnovljivi viri energije: Sprememba EEG bi lahko povzročila dodatne stroške v višini milijard"
    },
    {
     "title": "Stuttgart: Linke scheitern mit Antrag gegen Manuel Hagel vor Gericht",
     "link": "https://www.spiegel.de/politik/deutschland/stuttgart-linke-scheitern-mit-antrag-gegen-manuel-hagel-vor-gericht-a-c46ad8e5-93a9-4575-81d7-7898c746c901#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/ad772787-c053-42d5-ba2c-52586e15290c_w520_r2.08_fpx68.37_fpy44.98.jpg",
-    "date": 1792662540000
+    "date": 1792662540000,
+    "titleSl": "Stuttgart: Levica ni uspela s tožbo proti Manuelu Haglu na sodišču"
    },
    {
     "title": "Wirecard: Ex-Chef Markus Braun - Interview im Gefängnis: »Ich bin nicht mehr der, der ich war«",
     "link": "https://www.spiegel.de/wirtschaft/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-f22bd44b-671e-4f3d-8865-29c8a7262d9a#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/ce2d3ba6-abc6-4a90-a9b2-2117e51f6c22_w520_r2.08_fpx44_fpy42.jpg",
-    "date": 1792661340000
+    "date": 1792661340000,
+    "titleSl": "Wirecard: Bivši šef Markus Braun - Intervju v zaporu: \"Nisem več to, kar sem bil\""
    },
    {
     "title": "Köln: Mitarbeiterin des Ausländeramts unter Verdacht - Stadt zieht rechtswidrige Aufenthaltstitel zurück",
     "link": "https://www.spiegel.de/panorama/justiz/koeln-mitarbeiterin-des-auslaenderamts-unter-verdacht-stadt-zieht-rechtswidrige-aufenthaltstitel-zurueck-a-be4a025a-71d7-4b60-b7ef-2481175859be#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/000a92ca-42cf-4e00-bee6-2137b2c3fa4c_w520_r2.08_fpx69.99_fpy45.jpg",
-    "date": 1792660320000
+    "date": 1792660320000,
+    "titleSl": "Köln: Uslužbenec urada za priseljevanje pod sumom - mesto odvzame nezakonita dovoljenja za bivanje"
    },
    {
     "title": "Berlin: Ausländer sollen wählen dürfen – aber geht das überhaupt?",
@@ -415,41 +419,46 @@
   ],
   "bild": [
    {
+    "title": "Trifft häufig große Hunde - 6 Arthrose-Anzeichen, die Halter kennen sollten",
+    "link": "https://www.bild.de/leben-wissen/haustiere/arthrose-beim-hund-diese-6-warnzeichen-uebersehen-viele-halter-6a02f4b5cd4a28c470024a42",
+    "image": "https://images.bild.de/6a02f4b5cd4a28c470024a42/c0614d7ca5502ec0615bb0c3f2c55358,5f4c8408?w=1280",
+    "date": 0,
+    "titleSl": "Pogosto prizadene velike pse - 6 znakov osteoartritisa, ki bi jih lastniki morali poznati"
+   },
+   {
+    "title": "Auf dem Highway - Porno am Steuer! Autofahrerin fährt Mann tot",
+    "link": "https://www.bild.de/news/ausland/usa-autofahrerin-sieht-porno-am-steuer-und-faehrt-mann-tot-6ad9a899199dc15f1abdca24",
+    "image": "https://images.bild.de/6ad9a899199dc15f1abdca24/15823adaa66b2596ac79c332d6aeb170,7a18f1e2?w=1280",
+    "date": 0,
+    "titleSl": "Na avtocesti - porno za volanom! Voznik ubije človeka"
+   },
+   {
+    "title": "Er arbeitet jetzt als Fensterputzer - Kult-Kicker wird Stadionsprecher bei Kult-Klub",
+    "link": "https://www.bild.de/sport/fussball/die-fans-forderten-ihn-fensterputzer-wird-stadionsprecher-bei-kult-klub-6ad9d4c22fff891606115a55",
+    "image": "https://images.bild.de/6ad9d4c22fff891606115a55/0b2fb8608321b3c0b72951d3013a62c2,8334a8d1?w=1280",
+    "date": 0,
+    "titleSl": "Zdaj dela kot čistilec oken - Kult-Kicker postane stadionski napovedovalec pri Kult-Klubu"
+   },
+   {
+    "title": "Ministerpräsidentenwahl in Sachsen-Anhalt - Erster CDU-Mann torpediert Anti-Siegmund-Plan",
+    "link": "https://www.bild.de/politik/inland/sachsen-anhalt-erster-cdu-mann-torpediert-anti-siegmund-plan-6ad9cbd404a84c3e815fe3dd",
+    "image": "https://images.bild.de/6ad9cbd404a84c3e815fe3dd/86a57c4b70ef0d4dd4a45a43ad3b6c3c,ad7ba6d2?w=1280",
+    "date": 0,
+    "titleSl": "Premierske volitve na Saškem-Anhaltu – prvi mož CDU torpediral načrt proti Siegmundu"
+   },
+   {
     "title": "„Manchmal denke ich ...“ - Rätsel um Bayerns schwächelnden WM-Star",
     "link": "https://www.bild.de/sport/fussball/manchmal-denke-ich-raetsel-um-bayerns-schwaechelnden-wm-star-6ad9cd7996ccd2296a833018",
     "image": "https://images.bild.de/6ad9cd7996ccd2296a833018/22e3210b57ccff805f9f0e563aa3422d-landscape,4f44f4c6?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "“Včasih mislim ...” - uganka o oslabljeni Bayernovi zvezdi svetovnega prvenstva"
    },
    {
     "title": "Streamer Adam Wolke starb daran - Hirnaneurysma! Diese Warnzeichen gibt es",
     "link": "https://www.bild.de/leben-wissen/medizin/adam-wolke-starb-an-hirnaneurysma-diese-warnzeichen-gibt-es-6ad86144199dc15f1abdb598",
     "image": "https://images.bild.de/6ad86144199dc15f1abdb598/2acc891ca9a559199bd8ba2e72464fda,9be7f7f0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Er spielte noch mit Superstar Mahomes - Ex-NFL-Profi mit 37 Jahren gestorben",
-    "link": "https://www.bild.de/sport/mehr-sport/nfl-ex-chiefs-star-allen-bailey-stirbt-mit-nur-37-jahren-6ad9d804d76437b82f93510d",
-    "image": "https://images.bild.de/6ad9d804d76437b82f93510d/aae6455664c9cf46b4de0a6d08554487,ae990d8e?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Bares für Rares“ am 22. Oktober 2026 - 65 Diamanten machen diese Brosche wertvoll",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-heute-diamantenbrosche-ist-mehr-wert-als-erwartet-6ad9d5dfd76437b82f9350ba",
-    "image": "https://images.bild.de/6ad9d5dfd76437b82f9350ba/8e43b2aae3cdc48cbdba31524d498b6b,410871cd?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sie will Plünderer stoppen - Sie wird zum Sündenbock für die Krawalle in Paris",
-    "link": "https://www.bild.de/news/ausland/sie-will-pluenderer-stoppen-sie-wird-zum-suendenbock-fuer-die-krawalle-in-paris-6ad9aa0d199dc15f1abdca43",
-    "image": "https://images.bild.de/6ad9aa0d199dc15f1abdca43/8ed3103af2c0bd998b6d7b6a18c7087f,491085e8?w=1280",
     "date": 0,
-    "titleSl": "Sie will Plünderer stoppen - Sie wird zum Sündenbock für die Krawalle v Parizu"
-   },
-   {
-    "title": "Grünen-Politiker Dominik Krause - Münchens OB wollte Filmregisseur werden",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/gruenen-politiker-dominik-krause-muenchens-ob-wollte-regisseur-werden-6ad7158151e5094f7a5727d4",
-    "image": "https://images.bild.de/6ad7158151e5094f7a5727d4/2af4ca624d2478cb6155062704949e13,a903726c?w=1280",
-    "date": 0
+    "titleSl": "Streamer Adam Wolke je umrl zaradi možganske anevrizme! Ti opozorilni znaki obstajajo"
    }
   ],
   "krone": [
@@ -457,13 +466,15 @@
     "title": "Folge von Donnerstag - Heute heißt es: Setzen und trotzdem aktiv werden",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43YVJJSGhadjZnbzVYbW44cWdQVE44ZjViVl9QVGVfY1AwRmY2RzNjcEp5ZnQ1cnNLeXh1MmVuLU4xQQ?oc=5",
     "image": "",
-    "date": 1792664400000
+    "date": 1792664400000,
+    "titleSl": "Epizoda od četrtka - Danes je čas, da se usedemo in ukrepamo"
    },
    {
     "title": "Antwort auf US-Strafen - Sacharow-Preis für Internationales Strafgericht",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fcnhPNTF6T0VkWE9QeTZjQmRBXzJxOFI5SEJLTmhzeDdiNVBvd0h4NVpWekpsMVVqVF9IVlJveDBXQQ?oc=5",
     "image": "",
-    "date": 1792664160000
+    "date": 1792664160000,
+    "titleSl": "Odziv na kazni ZDA - nagrada Saharov za Mednarodno kazensko sodišče"
    },
    {
     "title": "Nach 41 Jahren - Beliebtes Ausflugsziel am See: Ende einer Ära",
@@ -499,8 +510,15 @@
     "title": "Il Garante: \"Stop ai blocchi\". Continua la protesta degli autotrasportatori",
     "link": "https://www.rainews.it/maratona/2026/10/emergenza-sud-carburanti-blocchi-protesta-autotrasportatori-disagi-rete-nazionale-98e37f72-f0b7-4f2e-8ea3-22387b9eeb63.html",
     "image": "https://www.rainews.it/dl/img/2026/10/21/1792577118215_rainewscdbfbdcdadcbbbfeeb.jpg",
-    "date": 1792664160000,
+    "date": 1792664520000,
     "titleSl": "Il Garante: »Stop ai blocchi«. Continua la protesta degli autotrasportatori"
+   },
+   {
+    "title": "Papa Leone: “Sotto la corazza tanti adolescenti chiedono di essere amati”",
+    "link": "https://www.rainews.it/articoli/2026/10/papa-leone-sotto-la-corazza-tanti-adolescenti-chiedono-di-essere-amati-8b142160-0fc8-4ede-945f-68c7998461d0.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/21/1792574910816_DXBN.jpg",
+    "date": 1792663200000,
+    "titleSl": "Papež Lev: \"Pod oklepom mnogi najstniki prosijo, da bi bili ljubljeni\""
    },
    {
     "title": "Trump vuole ribattezzare l&#x27;Atlantico &#x27;Oceano Americano&#x27;, ma Google dice no: \"Non si può fare\"",
@@ -517,25 +535,18 @@
     "titleSl": "MotoGP, la volata riparte dall 'Australia. Marquez: \"Punto a fare 37 punti\""
    },
    {
+    "title": "L’Intelligenza Artificiale in sanità è già qui: tra rivoluzione farmacologica e gestione del rischio",
+    "link": "https://www.rainews.it/video/2026/10/lintelligenza-artificiale-in-sanita-e-gia-qui-tra-rivoluzione-farmacologica-e-gestione-del-rischio-2284bfbb-220a-4fc4-89e0-012baf10b9ed.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/22/1792663084622_Immagine__.png",
+    "date": 1792662720000,
+    "titleSl": "Umetna inteligenca v zdravstvu je že tu: med farmakološko revolucijo in obvladovanjem tveganja"
+   },
+   {
     "title": "Serie A: Torino-Monza anticipa la 8ª giornata, venerdì alle 20.45",
     "link": "https://www.rainews.it/maratona/2026/10/calcio-serie-a-giornata-8-torino-monza-cagliari-bologna-como-sassuolo-napoli-roma-lazio-parma-risultati-cronaca-aggiornamenti-diretta-highlights-sintesi-video-91a925e5-6c05-4dd0-b8ea-ebe874f440df.html",
     "image": "https://www.rainews.it/dl/img/2023/04/07/1680876926215_pxStadioolimpicotorinosassuolo.jfif",
     "date": 1792662540000,
     "titleSl": "Serija A: Torino-Monza anticipa la 8ª giornata, venerdì alle 20.45"
-   },
-   {
-    "title": "NYT: Netanyahu e Trump vogliono attaccare Iran dopo midterm. Attacco all&#x27;aeroporto saudita, 2 morti",
-    "link": "https://www.rainews.it/maratona/2026/10/guerre-medio-oriente-cisgiordania-volontari-stranieri-arrestati-raccolta-oliuve-anche-due-italiani-gaza-morti-feriti-15ca8b71-56b0-4cc7-925f-9e3b01cb999e.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/22/1792625287933_DYJD.jpg",
-    "date": 1792662420000,
-    "titleSl": "NYT: Netanjahu in Trump želita po vmesnem mandatu napasti Iran. Napad na savdsko letališče, 2 mrtvi"
-   },
-   {
-    "title": "Trump vuole ribattezzare l&#x27;Atlantico \"Oceano Americano\", la risposta di Google",
-    "link": "https://www.rainews.it/video/2026/10/trump-vuole-ribattezzare-latlantico-oceano-americano-la-risposta-di-google-03c34c7b-9a32-45fb-82be-aba0cc920e81.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/22/1792661976682_TZLOPRPRTRMADPBASEIMAGEXUSATRUMPOCEAN.JPG",
-    "date": 1792662360000,
-    "titleSl": "Trump vuole ribattezzare l'Atlantico \"Oceano Americano\", la risposta di Google"
    }
   ],
   "lemonde": [
