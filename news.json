@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-22T12:06:24.864Z",
+ "generatedAt": "2026-10-22T12:08:25.752Z",
  "sources": {
   "siol": [
+   {
+    "title": "Poslanka Sukič zaradi primera Košir z ovadbo nad tri ministre",
+    "link": "https://siol.net/novice/slovenija/poslanka-sukic-zaradi-primera-kosir-z-ovadbo-nad-tri-ministre-704563",
+    "image": "https://siol.net/media/img/47/5b/d2f083e7cca06dda3a68.jpeg",
+    "date": 1792670760000
+   },
    {
     "title": "Lindsey Vonn predstavila novo kolekcijo oblačil",
     "link": "https://siol.net/sportal/zimski-sporti/lindsey-vonn-predstavila-novo-kolekcijo-oblacil-704584",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/tour-2027-razkrit-pogacarjev-tekmec-dobil-veliko-priloznost-704582",
     "image": "https://siol.net/media/img/20/87/59e287a38d451325f3a9.jpeg",
     "date": 1792667580000
-   },
-   {
-    "title": "Nove tehnologije. Stara pravila. Kako dolgo še?",
-    "link": "https://siol.net/novice/posel-danes/nove-tehnologije-stara-pravila-kako-dolgo-se-704583",
-    "image": "https://siol.net/media/img/b3/bb/e74eb6b002d279fac357.jpeg",
-    "date": 1792667280000
    }
   ],
   "24ur": [
@@ -158,7 +158,7 @@
     "title": "France's Macron tightens curbs on protests, blaming hard left for unrest",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5",
     "image": "",
-    "date": 1792669425000,
+    "date": 1792669690000,
     "titleSl": "Francoski Macron zaostruje omejitve protestov in za nemire krivi močno levico"
    },
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+    "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
+    "image": "https://static01.nyt.com/images/2025/11/04/multimedia/21dc-voting/04election-day-us-carousel-CAL-bwfl-mediumSquareAt3X.jpg",
+    "date": 1792670785000,
+    "titleSl": "Sodnik omejuje terenske operacije DHS, namenjene goljufijam volivcev"
+   },
+   {
     "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
     "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-coaster-reckoning-top-lfwp/21nat-coaster-reckoning-top-lfwp-mediumSquareAt3X.jpg",
     "date": 1792667236000,
     "titleSl": "Višji, hitrejši, grčastejši: so tobogani postali preveč ekstremni?"
-   },
-   {
-    "title": "METRO with Sarah Koenig: Episode 2",
-    "link": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/serial-METRO-ep-2-diamond-district-photo-zjmp/serial-METRO-ep-2-diamond-district-photo-zjmp-mediumSquareAt3X.jpg",
-    "date": 1792667100000,
-    "titleSl": "METRO s Sarah Koenig: 2. epizoda"
    }
   ],
   "bbc": [
@@ -287,11 +287,25 @@
   ],
   "aljazeera": [
    {
+    "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+    "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-1243590371-1792668591.jpg?resize=1920%2C1280&quality=80",
+    "date": 1792668962000,
+    "titleSl": "Kaj je pomorski dogovor Turčija-Libija in zakaj EU in Egipt nasprotujeta?"
+   },
+   {
     "title": "France reports first human Shamonda virus case, says no health risk",
     "link": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20220520__32AM49E__v1__HighRes__FranceAgricultureCattle-1792664431.jpg?resize=1920%2C1440",
     "date": 1792668485000,
     "titleSl": "Francija poroča o prvem primeru virusa Shamonda pri človeku, pravi, da ni tveganja za zdravje"
+   },
+   {
+    "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+    "link": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26293349779386-1-1792561747.jpg?resize=1920%2C1440",
+    "date": 1792667978000,
+    "titleSl": "Strupena meglica v jugovzhodni Aziji poziva k pravnemu ukrepanju proti onesnaževalcem"
    },
    {
     "title": "Trump praises man who punched protester at rally in South Carolina",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T141921Z_977350646_RC2C4OA63O21_RTRMADP_3_INDIA-POLITICS-1792667414.jpg?resize=1920%2C1440",
     "date": 1792665901000,
     "titleSl": "Je Neha Bora, nova indijska rdeča zvezda, Modijeva resnična grožnja Gen Z?"
-   },
-   {
-    "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
-    "link": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26295011160698-1792652692.jpg?resize=1920%2C1440",
-    "date": 1792663618000,
-    "titleSl": "Razprava v senatu v Michiganu: Ključne ugotovitve iz El-Sayeda, Rogersov spopad"
-   },
-   {
-    "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
-    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad9d1f29afe-1792659954.jpg?resize=1920%2C1440",
-    "date": 1792663315000,
-    "titleSl": "Izraelske sile so v napadu na jug Sirije ubile invalida, poročajo državni mediji"
    }
   ],
   "guardian": [
@@ -417,6 +417,24 @@
   ],
   "bild": [
    {
+    "title": "Weißgepuderte Alpen - Der erste Schnee ist da",
+    "link": "https://www.bild.de/news/inland/weissgepuderte-alpen-der-erste-schnee-ist-da-6ad9e9c796ccd2296a833428",
+    "image": "https://images.bild.de/6ad9e9c796ccd2296a833428/848160568c94ef81c446b4bd11681209-landscape,8564bb83?w=1280",
+    "date": 0
+   },
+   {
+    "title": "ZDF zeigt Top-Spiel - Free-TV-Entscheidung im DFB-Pokal gefallen",
+    "link": "https://www.bild.de/sport/fussball/zdf-zeigt-top-spiel-im-dfb-pokal-free-tv-entscheidung-gefallen-6ad9f9932fff891606115ee4",
+    "image": "https://images.bild.de/6ad9f9932fff891606115ee4/87d4b9dd917134a3a483865e355fb7e1,4dac2e3b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "19 Messerstiche! - Polizist findet Vermisste (35) tot im Gebüsch",
+    "link": "https://www.bild.de/news/eilmeldung-19-messerstiche-polizist-findet-vermisste-35-tot-im-gebuesch-6ad9fb2ed76437b82f935553",
+    "image": "https://images.bild.de/6ad9fb2ed76437b82f935553/f29e6f6045a5881f7a3203c7e7f4ddbc,10a8885?w=1280",
+    "date": 0
+   },
+   {
     "title": "GZSZ-Star schwanger - Iris Mareike Steen erwartet ihr erstes Kind",
     "link": "https://www.bild.de/unterhaltung/gzsz-star-schwanger-iris-mareike-steen-erwartet-ihr-erstes-kind-6ad9df40d76437b82f93521a",
     "image": "https://images.bild.de/6ad9df40d76437b82f93521a/876d873c8ba7923b7778c69a36406050,5747938c?w=1280",
@@ -433,27 +451,15 @@
     "link": "https://www.bild.de/politik/inland/spacex-soll-tesla-schlucken-so-viel-geld-steckt-in-mega-fusion-von-elon-musk-6ad9b6d0d7092d3a5757ac55",
     "image": "https://images.bild.de/6ad9b6d0d7092d3a5757ac55/a3b79f27a55ee4fe7bd03ce12ce977df,e2d40180?w=1280",
     "date": 0
-   },
-   {
-    "title": "Sonst für schicke Taschen bekannt - Luxus-Marke bringt Bayern-Trikot raus",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-frauen-mcm-luxuskollektion-mit-tasche-fuer-1350-euro-6ad9b710d7092d3a5757ac59",
-    "image": "https://images.bild.de/6ad9b710d7092d3a5757ac59/1e239dcfb3da0dc38de00a07b8f66da9,fab86932?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Spionierte er Litauen-Brigade aus? - Mutmaßlicher Spion in Brandenburg festgenommen",
-    "link": "https://www.bild.de/politik/inland/spionageverdacht-ukrainer-soll-fuer-russland-daten-gesammelt-haben-6ad9ee7696ccd2296a8334ad",
-    "image": "https://images.bild.de/6ad9ee7696ccd2296a8334ad/252a4aed4d480a7af4e8f273b58a79e9,cf0361b0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Neuer Job für Ex-Bundestrainer? - England-Klub denkt über Nagelsmann nach",
-    "link": "https://www.bild.de/sport/fussball/premier-league-julian-nagelsmann-heisser-kandidat-bei-england-klub-6ad9e49dd76437b82f9352d6",
-    "image": "https://images.bild.de/6ad9e49dd76437b82f9352d6/4c78619e9a09513c319c0f01233698d4,dca7cb33?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Festnahme in Taxi - Millionenwert: Beamte finden 60 Kilo Marihuana",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5CNjhOU0tBMXdlNEcwTVlheVZVZDJVMWNUNlo2cTQtVkliSkR6dlNQaGlSRjVBeHZZcXRMNXlxaGVQdw?oc=5",
+    "image": "",
+    "date": 1792670760000
+   },
    {
     "title": "Vienna Awards - Nepo-Babys im Blitzlicht: Fluch oder Segen?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1EblEyY1gwaW5ieGxBaTBLTWw1M2xKZVY2ZGV0RFREejhubTE4cjhZalNzZ09yb29fczEzd0NwblBCZw?oc=5",
@@ -482,12 +488,6 @@
    {
     "title": "KI am Arbeitsmarkt - Neuer „Kompetenzatlas“ soll Jobmarkt beflügeln",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB5YjBaVmdHeVlLQTF5bXNqRi0tTVMyZ2NUOHpzcXBqYXVNdDctT2ZfWmpIM2NsZ3o5cV84MHRlN0dyQQ?oc=5",
-    "image": "",
-    "date": 1792670400000
-   },
-   {
-    "title": "Kärntner Landtag - Debatte für eine neue „Monster-Verschuldung“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PbEpHZm85SFIzbHhZaEcwUTNaT1Znb1JoNXZoa2dleUt6QW9vTG95WUV5NXkwMTQwaTdFMlRwamgxZw?oc=5",
     "image": "",
     "date": 1792670400000
    }
