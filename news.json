@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T17:42:25.397Z",
+ "generatedAt": "2026-10-22T17:44:25.481Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Tarča: Minister Rončević, ki že od začetka jeseni dviguje prah",
+    "link": "https://www.rtvslo.si/slovenija/tarca-minister-roncevic-ki-ze-od-zacetka-jeseni-dviguje-prah/797823",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108092.jpg",
+    "date": 1792691006000
+   },
+   {
     "title": "Četrta edicija festivala Clockwork Voltage bo tudi tokrat povezala ljubitelje modularne sinteze",
     "link": "https://www.rtvslo.si/kultura/glasba/cetrta-edicija-festivala-clockwork-voltage-bo-tudi-tokrat-povezala-ljubitelje-modularne-sinteze/797822",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/22/67115783.jpg",
@@ -107,15 +113,15 @@
     "link": "https://www.rtvslo.si/sport/tenis/slovenke-bodo-z-rezervno-postavo-skusale-premagati-indonezijke/797816",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/22/67115772.jpg",
     "date": 1792686136000
-   },
-   {
-    "title": "Žiga Šeško na zaključnem mastersu sezone hitro do polfinala",
-    "link": "https://www.rtvslo.si/sport/tenis/ziga-sesko-na-zakljucnem-mastersu-sezone-hitro-do-polfinala/797815",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/10/67060378.jpg",
-    "date": 1792684655000
    }
   ],
   "zurnal": [
+   {
+    "title": "Sina preminule 72-letnice na območju Postojne so s helikopterjem našli tik ob meji",
+    "link": "https://www.zurnal24.si/slovenija/crna-kronika/sin-smrt-mama-72-letnica-malo-ubeljsko-iskanje-helikopter-meja-italija-467158",
+    "image": "https://www.zurnal24.si/media/img/cf/43/b7c18cb11ad277c55587.jpeg",
+    "date": 1792690920000
+   },
    {
     "title": "\"Slovenski Watergate\": V DZ vre zaradi Black Cuba",
     "link": "https://www.zurnal24.si/slovenija/black-cube-preiskava-drzavni-zbor-467157",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/umor-postojna-mama-sin-467152",
     "image": "https://www.zurnal24.si/media/img/cf/43/b7c18cb11ad277c55587.jpeg",
     "date": 1792679400000
-   },
-   {
-    "title": "Avstrijci snujejo projekt za 100 milijonov, kaj pa Slovenija?",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/avstrijci-snujejo-projekt-za-100-milijonov-kaj-pa-slovenija-467149",
-    "image": "https://www.zurnal24.si/media/img/51/a5/ffafe1b7001944137d72.jpeg",
-    "date": 1792678860000
    }
   ],
   "reuters": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
-    "link": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261022__D44R8HB__v1__MidRes__CricketEngSriOdi-1792687447.jpg?resize=1200%2C630",
-    "date": 1792690135000,
-    "titleSl": "Šrilanka je premagala Anglijo in premagala Harryja Brooka, ki je dosegel najhitrejših 200 v ODI"
-   },
-   {
     "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792689770.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26295514148318-1792680556.jpg?resize=1920%2C1440",
     "date": 1792685384000,
     "titleSl": "Južna Afrika je Avstralijo zdrobila s serijo testov kriketa na ravni inningov"
+   },
+   {
+    "title": "Israeli attacks in Gaza kill four, including a young girl",
+    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ada1510-1792677137.jpg?resize=1200%2C675",
+    "date": 1792685215000,
+    "titleSl": "V izraelskih napadih v Gazi so umrli štirje, med njimi tudi mlado dekle"
    }
   ],
   "guardian": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Nächster Koalitions-Zoff? - Klingbeil-Absage: Kein Geld für billigeren Strom!",
+    "link": "https://www.bild.de/politik/inland/stromsteuer-klingbeil-bremst-merz-trotz-milliarden-mehreinnahmen-6ada16f9add2491464b3bfe4",
+    "image": "https://images.bild.de/6ada16f9add2491464b3bfe4/c7792dccc83433cbeb14fd050c66b411,b5a682da?w=1280",
+    "date": 0,
+    "titleSl": "Naslednje koalicijske težave? - Zavrnitev Klingbeila: Ni denarja za cenejšo elektriko!"
+   },
+   {
     "title": "„Manta Manta“-Star Tina Ruland bei OnlyFans - „Ich lass mir auch am Zeh lutschen, wenn ...“",
     "link": "https://www.bild.de/unterhaltung/manta-manta-star-tina-ruland-jetzt-bei-onlyfans-ich-lass-mir-auch-am-zeh-lutschen-wenn-6ad742ca1935debc092ab869",
     "image": "https://images.bild.de/6ad742ca1935debc092ab869/7d9817f8f4bba7e7630f9a217d67ccdd,513a7913?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6ada070a7d7d59c2a19ee461/1532c81af5f3f5380e4ed606aa64be5f,1018f0d7?w=1280",
     "date": 0,
     "titleSl": "Odprta vrata - streli med napadom! Policisti SEK srečajo Kinderbetta"
-   },
-   {
-    "title": "Er stolpert durch den Midterm-Wahlkampf - Verspielt Vance seine Chancen als „Trump-Erbe“?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/vice-stolpert-durch-midterms-verspielt-vance-chance-als-trump-erbe-6ada35107d7d59c2a19ee9c7",
-    "image": "https://images.bild.de/6ada35107d7d59c2a19ee9c7/ea6dfe844b1e83fdf958b35872e6d0ef,6129c4d7?w=1280",
-    "date": 0,
-    "titleSl": "Er stolpert durch den Midterm-Wahlkampf - Verspielt Vance Seine Chancen als „Trump-Erbe“?"
    }
   ],
   "krone": [
