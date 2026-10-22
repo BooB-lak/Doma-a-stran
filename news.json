@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-22T13:56:26.870Z",
+ "generatedAt": "2026-10-22T13:58:25.950Z",
  "sources": {
   "siol": [
+   {
+    "title": "\"Putin ima obsesiven strah, da bi ga ubili\"",
+    "link": "https://siol.net/novice/svet/putin-ima-obsesiven-strah-da-bi-ga-ubili-704567",
+    "image": "https://siol.net/media/img/0a/5b/886eb292501a4ed886a1.jpeg",
+    "date": 1792677360000
+   },
    {
     "title": "V Franciji potrdili prvi primer okužbe z virusom shamonda pri človeku",
     "link": "https://siol.net/novice/svet/v-franciji-potrdili-prvi-primer-okuzbe-z-virusom-shamonda-pri-cloveku-704602",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/konec-vojne-v-ukrajini-po-trumpovi-oceni-blizje-kot-kdajkoli-704537",
     "image": "https://siol.net/media/img/0b/39/ed4d01c8c78a101cb0bf.jpeg",
     "date": 1792675680000
-   },
-   {
-    "title": "Izjemen dosežek slovenskih zdravnikov: prvič so izvedli tako zahtevno zdravljenje",
-    "link": "https://siol.net/novice/slovenija/izjemen-dosezek-slovenskih-zdravnikov-prvic-so-izvedli-tako-zahtevno-zdravljenje-704599",
-    "image": "https://siol.net/media/img/36/4d/18a612da748a3c96a6dc.jpeg",
-    "date": 1792675080000
    }
   ],
   "24ur": [
@@ -129,6 +129,12 @@
     "date": 1792674780000
    },
    {
+    "title": "Resnica še brez petega poslanca: \"Stevanović je poskrbel zase, ostali pa ...\"",
+    "link": "https://www.zurnal24.si/slovenija/resnica-se-brez-petega-poslanca-stevanovic-je-poskrbel-zase-ostali-pa-467147",
+    "image": "https://www.zurnal24.si/media/img/f5/08/fe4d538ac277e7da05dd.jpeg",
+    "date": 1792673100000
+   },
+   {
     "title": "Slovenski orli in orlice na zadnjo postajo z vsemi glavnimi orožji",
     "link": "https://www.zurnal24.si/sport/zimski-sporti/slovenski-orli-in-orlice-na-zadnjo-postajo-z-vsemi-glavnimi-orozji-467144",
     "image": "https://www.zurnal24.si/media/img/18/97/0345538c44c5a4033898.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/v-okolici-sentjurja-moskemu-zasegli-stiri-rocne-bombe-467142",
     "image": "https://www.zurnal24.si/media/img/8f/6f/762a4603c4f5a1285195.jpeg",
     "date": 1792670160000
-   },
-   {
-    "title": "To so pasti, ki bodo v lovu na zgodovino čakale Pogačarja",
-    "link": "https://www.zurnal24.si/sport/kolesarstvo/to-so-pasti-ki-bodo-v-lovu-na-zgodovino-cakale-pogacarja-467140",
-    "image": "https://www.zurnal24.si/media/img/2b/cb/9a97fa95dd91ed8417ff.jpeg",
-    "date": 1792668660000
    }
   ],
   "reuters": [
@@ -287,27 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792676498.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792676546000,
-    "titleSl": "Jemenci se soočajo z resnim pomanjkanjem v Taizu sredi blokade Hutijev"
-   },
-   {
-    "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
-    "link": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-21T103410Z_523023958_RC2M7OAC8M0T_RTRMADP_3_SOUTHSUDAN-SUDAN-SECURITY-1792663197.jpg?resize=1920%2C1440",
-    "date": 1792676131000,
-    "titleSl": "Kako prehod Sudana na vojskovanje z brezpilotnimi letali spodbuja civilno krizo"
-   },
-   {
-    "title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-    "link": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_2516-1792613433.jpeg?resize=1920%2C1440",
-    "date": 1792676007000,
-    "titleSl": "Opornice, nasilje, nekaznovanost: anatomija grabežev zemlje izraelskih naseljencev"
-   },
-   {
     "title": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
     "link": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad9ee49-1792667209.jpg?resize=1920%2C1440",
@@ -327,9 +306,58 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792674267.jpg?resize=1920%2C1080&quality=80",
     "date": 1792674342000,
     "titleSl": "Morski pes se po neuspelem poskusu reševanja vrne v južnokorejski kanal"
+   },
+   {
+    "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
+    "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad9e17537-1792663925.jpg?resize=1920%2C1440",
+    "date": 1792672654000,
+    "titleSl": "Katera je napaka kodiranja PHP, ki bi lahko uničila 70 odstotkov interneta?"
+   },
+   {
+    "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+    "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad9ba969981-1792653974.jpg?resize=1920%2C1440",
+    "date": 1792671152000,
+    "titleSl": "Iran razkriva \"ofenzivno\" doktrino, ZDA opozarjajo: Je vojna neizbežna?"
+   },
+   {
+    "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+    "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-1243590371-1792668591.jpg?resize=1920%2C1280&quality=80",
+    "date": 1792668962000,
+    "titleSl": "Kakšen je pomorski dogovor med Turčijo in Libijo in zakaj mu EU in Egipt nasprotujeta?"
    }
   ],
   "guardian": [
+   {
+    "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+    "image": "https://i.guim.co.uk/img/media/587295c10eab04fd618bc6ccbf8e20d749ac6d94/620_178_4612_3690/master/4612.jpg?width=140&quality=85&auto=format&fit=max&s=4255d37c66897b30ac77d0dfe7149d14",
+    "date": 1792677184000,
+    "titleSl": "Macron obsoja \"uporniška dejanja\" \"ultralevice\" in pravi, da si bo prizadeval za prepoved nekaterih protestov - Evropa v živo"
+   },
+   {
+    "title": "‘No indications’ PHP code flaw has led to government sytems being hacked, cyber security official says – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/d79e1d8957fa2e66904dbfc6b46ed265c0038142/385_0_4229_3384/master/4229.jpg?width=140&quality=85&auto=format&fit=max&s=44b779aa7de95d06939dee937903d314",
+    "date": 1792677132000,
+    "titleSl": "Ni znakov, da je napaka kode PHP povzročila vdor v vladne sisteme, pravi uradnik za kibernetsko varnost – Britanska politika v živo"
+   },
+   {
+    "title": "Vivek Ramaswamy campaign ad for Ohio ‘shameful, disgusting’, says Republican congresswoman – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/c4ee375ca7c7beac241d91abc3338764a227cc4a/333_0_3933_3146/master/3933.jpg?width=140&quality=85&auto=format&fit=max&s=6b2a5243c18316f86f3b407371362903",
+    "date": 1792676994000,
+    "titleSl": "Oglas za kampanjo Viveka Ramaswamyja za Ohio \"sramoten, odvraten\", pravi republikanska kongresnica - ameriška politika v živo"
+   },
+   {
+    "title": "Ilhan Omar says she plans to move out of Washington home after federal raid",
+    "link": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+    "image": "https://i.guim.co.uk/img/media/dcbec9fc92fe0c93c2eab862b97c84242b5259b3/352_0_1969_1576/master/1969.jpg?width=140&quality=85&auto=format&fit=max&s=b83e3108d8b63ab9868a6a4ef38758f5",
+    "date": 1792676772000,
+    "titleSl": "Ilhan Omar pravi, da se namerava po zvezni raciji odseliti iz Washingtona"
+   },
    {
     "title": "UK must prepare for infrastructure attacks by hostile states, says Streeting",
     "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
@@ -343,34 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/76b9869443936e3e35c183ede9c13ab676e4e433/0_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=4e30caaba18a4967f5c24511cafe085d",
     "date": 1792676205000,
     "titleSl": "Eden od 10 odraslih v Angliji in Walesu je lani doživel zlorabo v družini, ugotavlja ONS"
-   },
-   {
-    "title": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/d79e1d8957fa2e66904dbfc6b46ed265c0038142/385_0_4229_3384/master/4229.jpg?width=140&quality=85&auto=format&fit=max&s=44b779aa7de95d06939dee937903d314",
-    "date": 1792676124000,
-    "titleSl": "Minister pravi, da 32 vladnih služb ni na spletu zaradi napake kode PHP – britanska politika v živo"
-   },
-   {
-    "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-    "image": "https://i.guim.co.uk/img/media/587295c10eab04fd618bc6ccbf8e20d749ac6d94/620_178_4612_3690/master/4612.jpg?width=140&quality=85&auto=format&fit=max&s=4255d37c66897b30ac77d0dfe7149d14",
-    "date": 1792676111000,
-    "titleSl": "Macron obsoja \"uporniška dejanja\" \"ultralevice\" in pravi, da si bo prizadeval za prepoved nekaterih protestov - Evropa v živo"
-   },
-   {
-    "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-    "image": "https://i.guim.co.uk/img/media/7e99cbcfbe918e7ce8516ed10f7d434dacbc981d/100_0_1000_800/master/1000.png?width=140&quality=85&auto=format&fit=max&s=87919bfea45f861d6ed3ed19c299fa90",
-    "date": 1792675773000,
-    "titleSl": "Kako bo Trumpova agenda o množičnih deportacijah oblikovala vmesne volitve v ZDA? Naši novinarji odgovarjajo na vaša vprašanja"
-   },
-   {
-    "title": "Judi Dench says sight loss means she can no longer perform but she is still ‘besotted by’ Shakespeare’s sonnets",
-    "link": "https://www.theguardian.com/culture/2026/oct/22/judi-dench-sight-loss-macular-degeneration-shakespeares-sonnets",
-    "image": "https://i.guim.co.uk/img/media/74c76b9805d46c54b4c65a6c94c2b6e3b7a14069/0_2418_6732_5384/master/6732.jpg?width=140&quality=85&auto=format&fit=max&s=6798c4a95ca7d1112497132c674d4076",
-    "date": 1792675154000,
-    "titleSl": "Judi Dench pravi, da izguba vida pomeni, da ne more več nastopati, vendar je še vedno \"opijana\" od Shakespearovih sonetov"
    }
   ],
   "spiegel": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Herbstprognose - 4,1 Milliarden Euro mehr Steuern für den Bund",
+    "link": "https://www.bild.de/politik/inland/steuerschaetzung-2027-klingbeil-bremst-bei-mehreinnahmen-6ada09073b306813908b9fbc",
+    "image": "https://images.bild.de/6ada09073b306813908b9fbc/9d274b18aebb402eab25541c6500d6a6,29772de2?w=1280",
+    "date": 0,
+    "titleSl": "Jesenska napoved - 4,1 milijarde evrov več davkov za zvezno vlado"
+   },
+   {
+    "title": "Linke nennt Frankreich als Vorbild - „Junge Menschen könnten zu Straftaten animiert werden“",
+    "link": "https://www.bild.de/politik/demos-in-21-staedten-frank-schneider-platzt-der-kragen-6ad9ce8296ccd2296a83303d",
+    "image": "https://images.bild.de/6ad9ce8296ccd2296a83303d/2357036e4bd3689b008ec6c983841346,11d89957?w=1280",
+    "date": 0,
+    "titleSl": "Levica Francijo imenuje za vzor - \"Mlade bi lahko spodbudili k zločinom\""
+   },
+   {
     "title": "Er muss mit Trage vom Platz - Heftiger Kopf-Crash bei Ex-BVB-Star!",
     "link": "https://www.bild.de/sport/fussball/bvb-ex-torwart-buerki-nach-zusammenprall-im-krankenhaus-6ad9fb6b2fff891606115f24",
     "image": "https://images.bild.de/6ad9fb6b2fff891606115f24/c790be6e57396b7cf320699805b9ec46,c02d6209?w=1280",
@@ -440,25 +454,11 @@
     "titleSl": "Šok zaradi poškodbe - Bayern napoveduje odsotnost Díaza"
    },
    {
-    "title": "Herbstprognose - 4,1 Milliarden Euro mehr Steuern für den Bund",
-    "link": "https://www.bild.de/politik/inland/steuerschaetzung-2027-klingbeil-bremst-bei-mehreinnahmen-6ada09073b306813908b9fbc",
-    "image": "https://images.bild.de/6ada09073b306813908b9fbc/9d274b18aebb402eab25541c6500d6a6,29772de2?w=1280",
-    "date": 0,
-    "titleSl": "Jesenska napoved - 4,1 milijarde evrov več davkov za zvezno vlado"
-   },
-   {
     "title": "Dabei ist Dortmund von ihm abhängig - DFB-Star plötzlich großes BVB-Rätsel",
     "link": "https://www.bild.de/sport/fussball/borussia-dortmund-dfb-star-ploetzlich-grosses-bvb-raetsel-6ad99fb9199dc15f1abdc9a0",
     "image": "https://images.bild.de/6ad99fb9199dc15f1abdc9a0/dd2558a0e47dc12bf52298d701e0bb8c,f6e608c4?w=1280",
     "date": 0,
     "titleSl": "Dortmund je odvisen od njega – zvezdnik DFB nenadoma postane velika uganka BVB"
-   },
-   {
-    "title": "Neuer Blitzerwarner vorgestellt - Neuer OOONO warnt vor Blitzern und zeigt Tempolimit",
-    "link": "https://www.bild.de/leben-wissen/digital/ooono-co-driver-no3-display-zeigt-gefahren-und-entfernung-6ad89cfc199dc15f1abdbc1e",
-    "image": "https://images.bild.de/6ad89cfc199dc15f1abdbc1e/3ed1437387d9fd0963eb40eb27734e48,2e896ed7?w=1280",
-    "date": 0,
-    "titleSl": "Predstavljeno je novo opozorilo o prometnih kamerah - Novo OOONO opozarja na prometne kamere in prikazuje omejitev hitrosti"
    }
   ],
   "krone": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "Millones de intentos de ataque en pocas horas tras destapar la IA fallos graves en miles de webs",
+    "link": "https://elpais.com/tecnologia/2026-10-22/millones-de-intentos-de-ataque-en-pocas-horas-tras-destaparse-fallos-graves-en-miles-de-webs.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/PUAZKD4QJRIKHOUVYVXIDVA3SE.jpg?auth=1f98812834a95e02eda81957ba1601bbc9c009bc79c1962b42e0819dd80c5e5b",
+    "date": 1792677315000,
+    "titleSl": "Milijoni poskusov napadov v nekaj urah po tem, ko je umetna inteligenca odkrila resne napake na tisočih spletnih mestih"
+   },
+   {
     "title": "Última hora de la actualidad política, en directo | Felipe González confirma que votará en blanco y afirma que si Milei visita España “15 veces más, es posible que gane Sánchez”",
     "link": "https://elpais.com/espana/2026-10-22/ultima-hora-de-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/RQFLOPULH5PC7NHMIZ2FLV2WWE.jpg?auth=152f5db1b9336b58aa3e61751ce47ca01f2a0db8cb01966bce9b405d5df8f488",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/A3OM3GCJ55MBZPUCJT4RNJAWCQ.jpg?auth=e2a1570d6cfa8a7ec1a89e89f5b680e8e25315744d2446cc61f44a5ab6d46b23",
     "date": 1792671951000,
     "titleSl": "Nafta beleži najvišjo vrednost od maja zaradi nevarnosti novih napadov v Perzijskem zalivu"
-   },
-   {
-    "title": "Una jueza frena la “caza” de supuestos votantes no ciudadanos por parte del Gobierno de Trump",
-    "link": "https://elpais.com/us/2026-10-22/la-administracion-de-trump-despliega-una-caza-de-supuestos-votantes-no-ciudadanos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/YNKWCNP7SNHSTAVKK4AXFIYYEY.jpg?auth=5c8198b0bc0ae8533398c82135f5f8f0c44050eeb13c310e63059ace2c118dde",
-    "date": 1792671630000,
-    "titleSl": "Sodnik ustavi \"lov\" na domnevne volivce nedržavljane s strani Trumpove vlade"
    }
   ]
  },
