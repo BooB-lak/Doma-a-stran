@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-24T07:01:00.739Z",
+ "generatedAt": "2026-10-24T07:02:25.466Z",
  "sources": {
   "siol": [
+   {
+    "title": "Apokaliptični prizori iz Tajvana: posledice so hude",
+    "link": "https://siol.net/novice/svet/apokalipticni-prizori-iz-tajvana-posledice-so-hude-704703",
+    "image": "https://siol.net/media/img/a6/24/47dbca2e0e542c9291f9.jpeg",
+    "date": 1792825320000
+   },
    {
     "title": "Olimpijski junak po velikem zapletu zapušča klub",
     "link": "https://siol.net/sportal/hokej/olimpijski-junak-po-velikem-zapletu-zapusca-klub-704702",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/zimski-sporti/alpsko-smucanje-veleslalom-z-704655",
     "image": "https://siol.net/media/img/23/58/25e34182f5cd87a9cb50.jpeg",
     "date": 1792818300000
-   },
-   {
-    "title": "Dež, burja in sneg: takšno vreme nas čaka danes",
-    "link": "https://siol.net/novice/slovenija/dez-burja-in-sneg-taksno-vreme-nas-caka-danes-704698",
-    "image": "https://siol.net/media/img/4c/73/87ea7fded3e80bc0b907.jpeg",
-    "date": 1792818060000
    }
   ],
   "24ur": [
@@ -331,6 +331,20 @@
   ],
   "guardian": [
    {
+    "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
+    "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+    "image": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=26b2782eab34845759c7884cee206583",
+    "date": 1792824713000,
+    "titleSl": "Globoko ponarejeni videoposnetek žene španskega premierja pred volitvami sproži ogorčenje"
+   },
+   {
+    "title": "“Culture is stagnant, so politics is stuck” – playwright James Graham | Radical Thinking – podcast",
+    "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast",
+    "image": "https://i.guim.co.uk/img/media/4bdc9ab6c5966302d7cc42fad78fe331fc1d592d/1932_1018_3044_2436/master/3044.jpg?width=140&quality=85&auto=format&fit=max&s=23de5b85e3b173658962c5f23688867a",
+    "date": 1792824326000,
+    "titleSl": "\"Kultura stagnira, zato je politika obtičala\" – dramatik James Graham | Radikalno razmišljanje – podcast"
+   },
+   {
     "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
     "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
     "image": "https://i.guim.co.uk/img/media/805a631469b67764a663280793d3d243bb83ede6/292_0_858_686/master/858.jpg?width=140&quality=85&auto=format&fit=max&s=a49ab17407cea9638e10af4c984cf697",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/af32874f3ce2d8130594de4baed06f76c0446cec/312_0_6683_5344/master/6683.jpg?width=140&quality=85&auto=format&fit=max&s=b4ad229e483862933fc1b124b94a5730",
     "date": 1792821626000,
     "titleSl": "\"To je del naše zgodovine\": ali lahko menú del día preživi spreminjajoče se prehranjevalne navade Španije?"
-   },
-   {
-    "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-    "link": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
-    "image": "https://i.guim.co.uk/img/media/b6ac2b9c5241141a833ecef0b1e0772c1adb957a/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ae2af0554df68a1c1cfdaeb235c2d115",
-    "date": 1792820818000,
-    "titleSl": "Francija bo v soboto napotila 70.000 policistov, da bi preprečila državljanske nemire"
-   },
-   {
-    "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
-    "image": "https://i.guim.co.uk/img/media/27cc759533b8f9f2e3ae4c0fb41773150fc0ecaa/0_900_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=5fbf31bf2d1c3551fbb3a794c2203a44",
-    "date": 1792818024000,
-    "titleSl": "Medtem ko se razdeljeni Izrael pripravlja na volitve, ali lahko Netanjahu izvede svoj največji politični trik doslej?"
    }
   ],
   "spiegel": [
@@ -458,41 +458,43 @@
   ],
   "krone": [
    {
-    "title": "Gelungener NBA-Auftakt - Pöltl zufrieden! Toronto schlägt auch Washington",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9jRFJvZE1zVnpiWkVUdnJRUUphaExRS2U1MldpZmNMS2QxX3l5U2NqN0xVM3VfOExwTm95ZEtHNWM5Zw?oc=5",
+    "title": "Trauer um Vierbeiner - Todesserie bei „Forsthaus Rampensau“- Stars",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lelJoLWZEeTVWU1NXa05telFaOW5kdlFXYXF0LUxrbExzQ0hZNkhHQUl5MHIyUTNUSkt1bXRqTURSQnZxZG1F?oc=5",
     "image": "",
-    "date": 1792824720000
-   },
-   {
-    "title": "Das freie Wort - Unverständliches Urteil",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cmxqN1JXeVY5X0F2NWY1blN5Z29QeVFSX3d4RVQ2UDNBVE5CcGc5UE5YdHlRdnhCVmFNS0hTbWpZVzNYbGVtX3N6VmxNcXMzOW1CWVhUaVpXa0tYMzhiN0hPTVBsel94T2VNQw?oc=5",
-    "image": "",
-    "date": 1792823625000
-   },
-   {
-    "title": "Das freie Wort - Umgang mit jungen Kriminellen",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4M2VWWjBnSUtxaE1KbVY1aWZtSTdXOWRKOEpTWmFMWW52NWx1bzBEd0ZWSEdlRnpndTJpSUpmQndjcHBsalljbnhNck9sdTZTb0lXdEE0dFh5UUNCSElrRUtfNUJSZFpxck5KWg?oc=5",
-    "image": "",
-    "date": 1792823613000
-   },
-   {
-    "title": "Das freie Wort - Zeitzonen beim Reisen",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3UEV0TlNQdTlITUVtYUphZTNFZE40UFpnczVtX2NCaFJZQV9tTW43LUZuczQxZTdJeXNPcktNZDdwMUpqUmNiS2NlaUVVanI1X0lyYjF6bVNYLVB5N01JVE1TdnlQZGd6Rk8zZQ?oc=5",
-    "image": "",
-    "date": 1792823412000
-   },
-   {
-    "title": "Trotz vieler Ausfälle - Bregenz will Jungbullen möglichst früh entschärfen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01c2FOWTlWQVJTSlRFcEhVNXJ5SnpOZ3RKRUVhcmxMdGsxNlNxNWQ2azM3TnVaWUZWVU5IZm8yLUFBQQ?oc=5",
-    "image": "",
-    "date": 1792823100000,
-    "titleSl": "Trotz vieler Ausfälle - Bregenz bo Jungbullen möglichst früh entschärfen"
+    "date": 1792822140000,
+    "titleSl": "Trauer um Vierbeiner - Todesserie bei „Forsthaus Rampensau“- Zvezdice"
    },
    {
     "title": "Es geht endlich los! - Sölden: Das sind die Startnummern der ÖSV-Damen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZRXZZTm1WTi1OUFJCTXdZSjRhQ0Q1d21sYTMyWjU1WTZaaU90cVNYeHFGb0g2aHowbmdLME9QN01JZw?oc=5",
     "image": "",
     "date": 1792822080000
+   },
+   {
+    "title": "GAK gefordert: - Weichenstellung in der Top-Sechs-Frage",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5SUDJMUW1sb0x0S0k3S0tRenVDTGNKT3BrR01jeDF6MTJ2V1IxQmpIWGViQXB3Zm5rX3BYMkhoLVdUQQ?oc=5",
+    "image": "",
+    "date": 1792821600000,
+    "titleSl": "Gak gefordert: - Weichenstellung in der Top-Sechs-Frage"
+   },
+   {
+    "title": "Kapitän „Pani“ - Salzburgs Schiffsbastler gibt weiter nicht auf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KS1VyalpPQzNQbTdieXhPdXA1OFZtX0VHUlJCa2JhS0l3ZUFldGxySHNnTV9OQldJZU1oOGt6eG1JQQ?oc=5",
+    "image": "",
+    "date": 1792821600000
+   },
+   {
+    "title": "Pleite gegen Altach - Austria-Krise! Stöger: „Keine Mannschaft, die …“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56bnBKaUNBY3I5MDFFR1JpNEtLd2RDY3pnNW8xTjBBZmFreFltM2N4a2NDQk1WNG9IQVdPQmFtVVc1UQ?oc=5",
+    "image": "",
+    "date": 1792820400000,
+    "titleSl": "Pleite gegen Altach - Avstrija-Krise! Stöger: „Keine Mannschaft, die …“"
+   },
+   {
+    "title": "Zwischen Himmel & Erde - Warum ist das Wasserstoffauto kein Thema mehr?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NdWpnNGU2b3FFTzYzVEJTVTd0RmZEY1VqRnRVaWN2WGhCQk1fUmhrVTh0U1M1Tk1qYjVuY2wydGJOUQ?oc=5",
+    "image": "",
+    "date": 1792818000000
    }
   ],
   "rainews": [
