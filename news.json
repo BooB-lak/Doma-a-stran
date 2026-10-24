@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T07:20:36.980Z",
+ "generatedAt": "2026-10-24T07:22:25.635Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Moja Slovenija: Po Kolpi za vonjem sveže pečene belokranjske pogače",
+    "link": "https://www.24ur.com/po-kolpi-za-vonjem-sveze-pecene-belokranjske-pogace.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/8205c7c0384a1e829c1d_63668463.jpg?v=3592&fop=fp:0.62:0.35",
+    "date": 1792826289000
+   },
+   {
     "title": "Airbnb spreminja pravila: konec pomivanja posode pred odhodom",
     "link": "https://www.24ur.com/novice/tujina/airbnb-spreminja-pravila-konec-pomivanja-posode-pred-odhodom.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/d8cca5fa012cd90ee9e5_63668107.jpg?v=02e1&fop=fp:0.47:0.42",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/kosarka/ob-zmagi-lakers-nad-clippers-doncic-dosegel-23-tock.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/4d28912aade5b9e39caa_63668425.jpg?v=86bf&fop=fp:0.68:0.29",
     "date": 1792824142000
-   },
-   {
-    "title": "'Vojna, kot je doslej še nismo videli': viri, sateliti, stiki, geolokacije",
-    "link": "https://www.24ur.com/novice/tujina/vojna-kot-je-doslej-se-nismo-videli-viri-sateliti-stiki-geolokacije.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/451bd7df29106896dfca_63664413.jpg?v=85fc&fop=fp:0.44:0.41",
-    "date": 1792822312000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "COP17 puts Armenia’s environmental record in the spotlight",
-    "link": "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adb61989876-1792762264.jpg?resize=1920%2C1440",
-    "date": 1792824761000,
-    "titleSl": "COP17 postavlja okoljsko evidenco Armenije v ospredje"
-   },
-   {
     "title": "Ronaldinho’s comeback with Ravenna at 46 set for next month at Forli",
     "link": "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adc3c632f0d2-1792818275.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac01956-1790974294.jpg?resize=1920%2C1440",
     "date": 1792819747000,
     "titleSl": "Kako je Benjamin Netanyahu preoblikoval izraelske institucije"
+   },
+   {
+    "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+    "link": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adb9b137002-1792776979.jpg?resize=1920%2C1440",
+    "date": 1792819235000,
+    "titleSl": "Bolnišnica v jemenskem Taizu opozarja na propad v nekaj dneh zaradi obleganja Hutijev"
    }
   ],
   "guardian": [
@@ -417,17 +417,23 @@
   ],
   "bild": [
    {
+    "title": "Hitlers Teehaus in Flammen - Haben sie den Brandstifter?",
+    "link": "https://www.bild.de/regional/bayern/feuer-ueber-berchtesgaden-hitlers-teehaus-steht-in-flammen-6adbc69100a7a64e1c2b005e",
+    "image": "https://images.bild.de/6adbc69100a7a64e1c2b005e/8a3ab3a10332b55b8d051afe9c0ef591,f828ac95?w=1280",
+    "date": 0
+   },
+   {
+    "title": "CEO will Stimmung verbessern - Je glücklicher die Mitarbeiter, desto höher sein Gehalt",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/chef-von-asml-koppelt-sein-gehalt-an-die-zufriedenheit-der-belegschaft-6adc4e2d9fbb7e8e310de011",
+    "image": "https://images.bild.de/6adc4e2d9fbb7e8e310de011/4985943356d89682d41b80b4259d081a,68cfdf6c?w=1280",
+    "date": 0
+   },
+   {
     "title": "In Pentagon-Akten enthüllt - Ufo-Alarm am Flughafen Tempelhof!",
     "link": "https://www.bild.de/leben-wissen/ufo-alarm-ueber-ost-berlin-rote-lichter-blieben-ungeklaert-6adb5b01d8be1e987154e9d4",
     "image": "https://images.bild.de/6adb5b01d8be1e987154e9d4/579d0a39ba0c10e66bc42524154afdaf,559afe72?w=1280",
     "date": 0,
     "titleSl": "V Pentagon-Akten enthüllt - Ufo-Alarm am Flughafen Tempelhof!"
-   },
-   {
-    "title": "Hitlers Teehaus in Flammen - Haben sie den Brandstifter?",
-    "link": "https://www.bild.de/regional/bayern/feuer-ueber-berchtesgaden-hitlers-teehaus-steht-in-flammen-6adbc69100a7a64e1c2b005e",
-    "image": "https://images.bild.de/6adbc69100a7a64e1c2b005e/8a3ab3a10332b55b8d051afe9c0ef591,f828ac95?w=1280",
-    "date": 0
    },
    {
     "title": "Selenskyj wollte nach Butscha „pure Rache“ - „Ich bin nicht der stärkste Mensch der Welt“",
@@ -445,12 +451,6 @@
     "title": "35.000 Euro wert - Diebe stehlen mehr als 1000 Pokémon-Karten aus Laden",
     "link": "https://www.bild.de/regional/niedersachsen/35-000-euro-wert-diebe-stehlen-mehr-als-1000-pokemon-karten-aus-laden-6adb4494ea9d017b539afbb2",
     "image": "https://images.bild.de/6adb4494ea9d017b539afbb2/2d8ed656a3f3e6606ab34f6c8fdfc3f2,6a674f28?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Erstmals in dieser Saison - Startelf-Comeback für diesen Nürnberger",
-    "link": "https://www.bild.de/sport/fussball/erstmals-in-dieser-saison-startelf-comeback-fuer-diesen-nuernberger-6ada2cd0add2491464b3c1e0",
-    "image": "https://images.bild.de/6ada2cd0add2491464b3c1e0/014a194e39d9e41cd1e4541c6c924034,50f0f84f?w=1280",
     "date": 0
    }
   ],
@@ -589,6 +589,12 @@
     "date": 1792825994000
    },
    {
+    "title": "Márquez firma su enésima maravilla y Martín se rompe tras una fuerte caída en el GP de Australia",
+    "link": "https://elpais.com/deportes/motociclismo/2026-10-24/marquez-firma-su-enesima-maravilla-y-martin-se-rompe-tras-una-fuerte-caida-en-el-gp-de-australia.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/4QVTMIDIJ5PF3IL6KXPZ2MPFEM.jpg?auth=8a8940e87129847c45d9e148fb267379d2e9bd85ecdaada93e7a795f98e0ce2d",
+    "date": 1792825569000
+   },
+   {
     "title": "El aspirador de mano mejor valorado de Amazon que cabe perfectamente en la puerta del coche",
     "link": "https://elpais.com/escaparate/estilo-de-vida/aspirador-coche.html",
     "image": "https://imagenes.elpais.com/resizer/v2/3MKKGHRKJ5EXDEQA22VZAKY3YE.png?auth=7c3e2f6be808a113c8d1a6b5e564270f045ee048699a0faeaeab33a81e214499",
@@ -615,13 +621,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/G5KBHVLG7JHB3IPCZDEFF2UXVE.png?auth=b79c2fb1e6c43516b48419990654065a5f502d1799e18cb3c7d208dbd50d388c",
     "date": 1792815300000,
     "titleSl": "Pohištvo Ikea, ki bo to jesen naredilo vaš dom prijetnejši"
-   },
-   {
-    "title": "Lula pone a Bolsonaro a la defensiva en el último debate antes de las urnas",
-    "link": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229309_051006_video_1800.mp4",
-    "date": 1792814939000,
-    "titleSl": "Lula postavlja Bolsonara v obrambo v zadnji razpravi pred volitvami"
    }
   ]
  },
