@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T18:18:25.529Z",
+ "generatedAt": "2026-10-25T18:20:36.990Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/svet/v-srbiji-danes-prelomne-predcasne-volitve-vucic-udelezba-704743",
     "image": "https://siol.net/media/img/6b/92/ed9dc9f4d71f412d2000.jpeg",
     "date": 1792952160000
+   },
+   {
+    "title": "Včeraj čudežen krog, danes lovorika? Za 20-letnika ni nič nemogoče.",
+    "link": "https://siol.net/sportal/avtomotosport/formula-1-vn-zda-antonelli-704763",
+    "image": "https://siol.net/media/img/84/bc/d7a7484ca4ed9e93c97a.jpeg",
+    "date": 1792952100000
    },
    {
     "title": "Drama v Albaniji",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/zimski-sporti/pinheiro-braathen-po-zmagi-custven-ob-prisotnosti-izbranke-res-sem-hvalezen-704773",
     "image": "https://siol.net/media/img/ag/dd/333b2bb0d7349606e803.jpeg",
     "date": 1792949100000
-   },
-   {
-    "title": "Triler z devetimi goli Olimpija tesno dobila",
-    "link": "https://siol.net/sportal/hokej/liga-ice-25-oktober-2026-olimpija-zmaga-milano-704738",
-    "image": "https://siol.net/media/img/18/50/461db22ca8d469549eb2.jpeg",
-    "date": 1792948800000
    }
   ],
   "24ur": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d2/live/a3cc9cc0-d09b-11f1-aeb2-977af36708cb.jpg",
+    "date": 1792952035000,
+    "titleSl": "ISAK je končno dosegel ceno, saj je Liverpoolova potrpežljivost nagrajena"
+   },
+   {
     "title": "Board of Deputies of British Jews declares Greens to be racist party",
     "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg",
     "date": 1792944315000,
     "titleSl": "Zgodnja poročila kažejo na rekordno visoko udeležbo na volitvah v Srbiji"
-   },
-   {
-    "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-    "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg",
-    "date": 1792942371000,
-    "titleSl": "Osumljenec za smrtonosno streljanje v pariškem predmestju je bil poslan na psihiatrično opazovanje"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-    "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adde5181c971-1792927000.jpg?resize=1200%2C630",
-    "date": 1792951514000,
-    "titleSl": "Vodja jordanskega FA pravi, da je kongres AFC \"čista politika\" po naročilu Infantina"
-   },
    {
     "title": "US and Israel elections: New leaders, same policies?",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26233643199883-1790591004.jpg?resize=1920%2C1440",
     "date": 1792946553000,
     "titleSl": "Trumpova tarifna pavza razjezila nekatere ameriške rančerje, povečala uvoz brazilske govedine"
+   },
+   {
+    "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792945776.jpg?resize=1620%2C1080&quality=80",
+    "date": 1792945851000,
+    "titleSl": "\"Generacijska pravica\" Izraela bi lahko oblikovala prihodnost Netanyahuja"
    }
   ],
   "guardian": [
@@ -414,15 +414,27 @@
   ],
   "bild": [
    {
-    "title": "Nach Otto-Verletzung - Klose gibt „leichte Entwarnung“",
-    "link": "https://www.bild.de/sport/fussball/fcn-nach-otto-verletzung-miro-klose-gibt-leichte-entwarnung-6ade07ca247c1fa20130657f",
-    "image": "https://images.bild.de/6ade07ca247c1fa20130657f/f7774380306496f9f05b2fd26ef44f12,9a2c191b?w=1280",
+    "title": "Nürnbergs Serie gerissen - Wie schwer wird's ohne Zoma?",
+    "link": "https://www.bild.de/sport/fussball/fcn-ohne-zoma-fehlt-dem-club-das-matchglueck-bei-31-torschuessen-6added3aba080c37bf6d0cad",
+    "image": "https://images.bild.de/6added3aba080c37bf6d0cad/2c11f52f880924763ff5440495802ea5,181fec6b?w=1280",
     "date": 0
    },
    {
     "title": "Nach vereiteltem Mordplan - Plötzlich drohen die Mullahs der Bundeswehr!",
     "link": "https://www.bild.de/politik/ausland-und-internationales/wegen-vereiteltem-mordplan-ploetzlich-drohen-die-mullahs-der-bundeswehr-6ade3515a6a5d701acbcf17c",
     "image": "https://images.bild.de/6ade3515a6a5d701acbcf17c/e069d478d824d66f30e50b912f07a05d,ea2c3797?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Sturz auf Abstiegsplatz! - Bundesligist sortiert ersten Spieler aus",
+    "link": "https://www.bild.de/sport/mehr-sport/sturz-auf-abstiegsplatz-hamburg-towers-sortieren-trey-wade-aus-6ade1e7b247c1fa2013066f7",
+    "image": "https://images.bild.de/6ade1e7b247c1fa2013066f7/4a477e34dcece4a6b07a33aaeae1f064,73b6c5f7?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Union-Frauen beim HSV - Tor-Flut bei der Pokal-Generalprobe",
+    "link": "https://www.bild.de/sport/fussball/union-frauen-beim-hsv-4-4-vor-dem-pokal-kracher-6ade43444cedadfa03a2224f",
+    "image": "https://images.bild.de/6ade43444cedadfa03a2224f/a5a31f2c93156055ea24dd7a22dd897e,f5737ca7?w=1280",
     "date": 0
    },
    {
@@ -436,19 +448,6 @@
     "link": "https://www.bild.de/sport/fussball/loic-bade-nach-heftigem-zusammenstoss-zunaechst-nicht-ansprechbar-6ade34d1ba080c37bf6d1248",
     "image": "https://images.bild.de/6ade34d1ba080c37bf6d1248/8ba8e1b022ed74d295e9e0013708f375,ac879d4b?w=1280",
     "date": 0
-   },
-   {
-    "title": "Schauspielerin im Steckbrief - Rosalie Thomass bringt Schwung in den „Tatort“",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/rosalie-thomass-im-steckbrief-das-ist-die-neue-tatort-kommissarin-68cad504416a177d432ae145",
-    "image": "https://images.bild.de/68cad504416a177d432ae145/f89b69757bccd51c8d78882ba54e336b,a732a6e4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Kommentar - Hannovers Trainerwechsel ist verpufft",
-    "link": "https://www.bild.de/sport/fussball/kommentar-trainerwechsel-bei-hannover-96-ist-verpufft-6ade03eb247c1fa201306534",
-    "image": "https://images.bild.de/6ade03eb247c1fa201306534/b3a103725699c9b929a94c433bf78c4f,7750a816?w=1280",
-    "date": 0,
-    "titleSl": "Komentar - Hannovers Trainerwechsel ist verpufft"
    }
   ],
   "krone": [
