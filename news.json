@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T16:44:26.677Z",
+ "generatedAt": "2026-10-25T16:46:23.723Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Toliko glob so danes spisali policisti na državni proslavi",
+    "link": "https://www.zurnal24.si/slovenija/toliko-glob-so-danes-spisali-policisti-na-drzavni-proslavi-467262",
+    "image": "https://www.zurnal24.si/media/img/74/4b/0846fe6cf4a7d59d5ef0.png",
+    "date": 1792946640000
+   },
+   {
     "title": "United se potaplja, nov šok na domači zelenici",
     "link": "https://www.zurnal24.si/sport/nogomet/united-se-potaplja-nov-sok-na-domaci-zelenici-467261",
     "image": "https://www.zurnal24.si/media/img/19/4f/bd1b8de410abdaaf5cd5.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kolesarstvo/sef-ekipe-potrdil-prve-stike-z-vingegaardom-o-prestopu-467258",
     "image": "https://www.zurnal24.si/media/img/65/5a/9db025a6c9ce741159e5.jpeg",
     "date": 1792936560000
-   },
-   {
-    "title": "Tragična prometna nesreča v Ljubljani, ni mu bilo več pomoči",
-    "link": "https://www.zurnal24.si/slovenija/tragicna-prometna-nesreca-avtobus-do-smrti-zbil-kolesarja-467256",
-    "image": "https://www.zurnal24.si/media/img/e1/11/edd6de0087351f6b1f3d.jpeg",
-    "date": 1792934760000
    }
   ],
   "reuters": [
@@ -393,13 +393,6 @@
     "date": 1792945260000
    },
    {
-    "title": "Lissabon und Porto: Polizei räumt Protestcamps gegen Wohnungsnot",
-    "link": "https://www.spiegel.de/ausland/lissabon-und-porto-polizei-raeumt-protestcamps-gegen-wohnungsnot-a-66a6ea6e-4703-4e67-b3fd-e46398d76dc8#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/3301108f-0996-4ed5-a522-bd1703dcbf75_w520_r2.08_fpx30_fpy54.99.jpg",
-    "date": 1792942920000,
-    "titleSl": "Lizbona in Porto: Policija odstrani protestne tabore proti pomanjkanju stanovanj"
-   },
-   {
     "title": "Nach Berlin-Wahl: Alexander Dobrindt plant hohe Hürden für Vergesellschaftungen",
     "link": "https://www.spiegel.de/politik/deutschland/nach-berlin-wahl-alexander-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-a-9d5feeea-5988-47e5-87c8-d4328a60cb98#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/7144a3c6-5c3a-4c0e-9746-d47bfd09a852_w520_r2.08_fpx48_fpy41.jpg",
@@ -412,9 +405,29 @@
     "image": "https://cdn.prod.www.spiegel.de/images/d967b142-8840-477d-b4d1-9c6e7c790def_w520_r2.08_fpx30_fpy54.jpg",
     "date": 1792941480000,
     "titleSl": "Zeleni: Iskanje najboljših kandidatov za zvezne volitve leta 2029"
+   },
+   {
+    "title": "Angriffe auf Saudi-Arabien: Auch die Rallye Dakar wird abgesagt",
+    "link": "https://www.spiegel.de/sport/angriffe-auf-saudi-arabien-auch-die-rallye-dakar-wird-abgesagt-a-6aec8dc2-6005-46d7-badc-1db9a5fd6f76#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/97236e78-6e92-437a-92a2-0687d6768a59_w520_r2.08_fpx65.32_fpy49.98.jpg",
+    "date": 1792941300000
    }
   ],
   "bild": [
+   {
+    "title": "Skandal in Braunschweig - 96-Trainer Wagner spricht über Derby-Schande",
+    "link": "https://www.bild.de/sport/fussball/hannover-96-trainer-sandro-wagner-spricht-ueber-derby-schande-in-braunschweig-6ade2df851fb647ba7e7ca98",
+    "image": "https://images.bild.de/6ade2df851fb647ba7e7ca98/dcf27f77a31b10527740d85f806759f1,1ef93453?w=1280",
+    "date": 0,
+    "titleSl": "Skandal v Braunschweigu - 96-Trainer Wagner spricht über Derby-Schande"
+   },
+   {
+    "title": "4-Milliarden-Betrügerin - Neue Hinweise auf verschwundene Krypto-Queen",
+    "link": "https://www.bild.de/regional/hessen/neue-hinweise-auf-verschwundene-krypto-queen-ruja-ignatova-6ad4dc11bbcd3ed7e3024a4c",
+    "image": "https://images.bild.de/6ad4dc11bbcd3ed7e3024a4c/bbc06e166124bd55ab5ce0fa4d23f03b,f64cb809?w=1280",
+    "date": 0,
+    "titleSl": "4-miliarden-Betrügerin - Neue Hinweise auf verschwundene Krypto-Queen"
+   },
    {
     "title": "Bayern-Star mit kuriosem Auftritt - Was trägt Olise hier?",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-michael-olise-mit-kuriosem-auftritt-was-traegt-er-hier-6ade28c3247c1fa2013067b5",
@@ -439,31 +452,18 @@
     "image": "https://images.bild.de/6adb7782ea9d017b539b00ac/5c11677766cecda5675284b3efad4613,25604f9e?w=1280",
     "date": 0,
     "titleSl": "Wahlen v Izraelu - Schlägt dieser Ex-Militärchef Bibi Netanjahu?"
-   },
-   {
-    "title": "Sie wollte nur helfen - Polizeischülerin bei Volksfest schwer verletzt",
-    "link": "https://www.bild.de/regional/bremen/polizeischuelerin-bei-freimarktsumzug-in-bremen-schwer-verletzt-6ade1c3151fb647ba7e7c96b",
-    "image": "https://images.bild.de/6ade1c3151fb647ba7e7c96b/9f4357b9fd96d49e716d6ccaa0e453ac,e1467659?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Parlamentswahlen am Dienstag - Welche Wahl hat Israel?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/parlamentswahlen-am-dienstag-welche-wahl-hat-israel-6adc734c3a1b95ad10b382b4",
-    "image": "https://images.bild.de/6adc734c3a1b95ad10b382b4/185a17926fddb1eb4253b69bfb18500e,5478bda5?w=1280",
-    "date": 0,
-    "titleSl": "Parlamentswahlen am Dienstag - Welche Wahl klobuk Izrael?"
    }
   ],
   "krone": [
    {
-    "title": "Betroffene am Wort - Airport-Arbeiter fordern ein Ende der Flugabgabe!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5naXQ2WTNXTGx0RDZnZWJ0TXI5dG9uZm93bFVJb1Zkc2Y5Unlud0pWQVFqVU5OY3NIU2dRZnBINUM1QQ?oc=5",
+    "title": "bleibt oder geht er? - Crepaz lässt erneute Bewerbung weiterhin offen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtcXBRTkJSZXFXczMyU28ycXdqZjJDZFlFYmhRVTBtNmlSQVYyNk1ueWM2a0pOQ2FZaG5MNHQzNkRnUQ?oc=5",
     "image": "",
     "date": 1792942200000
    },
    {
-    "title": "bleibt oder geht er? - Crepaz lässt erneute Bewerbung weiterhin offen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtcXBRTkJSZXFXczMyU28ycXdqZjJDZFlFYmhRVTBtNmlSQVYyNk1ueWM2a0pOQ2FZaG5MNHQzNkRnUQ?oc=5",
+    "title": "Betroffene am Wort - Airport-Arbeiter fordern ein Ende der Flugabgabe!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5naXQ2WTNXTGx0RDZnZWJ0TXI5dG9uZm93bFVJb1Zkc2Y5Unlud0pWQVFqVU5OY3NIU2dRZnBINUM1QQ?oc=5",
     "image": "",
     "date": 1792942200000
    },
