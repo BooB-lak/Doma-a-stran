@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T17:40:36.208Z",
+ "generatedAt": "2026-10-25T17:42:22.954Z",
  "sources": {
   "siol": [
    {
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-    "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2088186450-1792945391.jpg?resize=1920%2C1440",
-    "date": 1792949182000,
-    "titleSl": "\"Priložnostna delitev\" umetne inteligence bi lahko poglobila globalno neenakost, opozarja uradnik ZN"
-   },
-   {
-    "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792948363.jpg?resize=1920%2C1080&quality=80",
-    "date": 1792948379000,
-    "titleSl": "Jeruzalem Daily: Izrael izžene na tisoče ljudi iz Hebrona"
-   },
-   {
     "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
     "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26233643199883-1790591004.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792944969.jpg?resize=1920%2C1080&quality=80",
     "date": 1792945008000,
     "titleSl": "Jordanci žalujejo za žrtvami smrtonosnega napada na cerkev"
+   },
+   {
+    "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792944578.jpg?resize=1620%2C1080&quality=80",
+    "date": 1792944697000,
+    "titleSl": "Izraelski vojaki so v Hebronu premagali starejšega Palestinca"
+   },
+   {
+    "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+    "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ade14a0bbfe-1792939168.jpg?resize=1920%2C1440",
+    "date": 1792942825000,
+    "titleSl": "Sedem ubitih v Gazi, ko Izrael cilja na univerzitetni kampus in druga mesta"
    }
   ],
   "guardian": [
@@ -413,9 +413,15 @@
   ],
   "bild": [
    {
-    "title": "Rache für vereitelten Mordplan - Plötzlich drohen die Mullahs der Bundeswehr!",
+    "title": "Nach vereiteltem Mordplan - Plötzlich drohen die Mullahs der Bundeswehr!",
     "link": "https://www.bild.de/politik/ausland-und-internationales/wegen-vereiteltem-mordplan-ploetzlich-drohen-die-mullahs-der-bundeswehr-6ade3515a6a5d701acbcf17c",
     "image": "https://images.bild.de/6ade3515a6a5d701acbcf17c/e069d478d824d66f30e50b912f07a05d,ea2c3797?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Kehlsteinhaus von Adolf Hitler abgefackelt - Verdächtiger zeigte sich vor der Tat selbst an",
+    "link": "https://www.bild.de/regional/bayern/hitlers-teehaus-abgefackelt-verdaechtiger-zeigte-sich-vor-der-tat-selbst-an-6added05ba080c37bf6d0ca9",
+    "image": "https://images.bild.de/6added05ba080c37bf6d0ca9/7a68a22657972c4592f36997f461d369,dc217976?w=1280",
     "date": 0
    },
    {
@@ -429,12 +435,6 @@
     "title": "Schlimme Szenen überschatten Hoffenheim-Sieg - Leverkusen-Star war nicht ansprechbar!",
     "link": "https://www.bild.de/sport/fussball/loic-bade-nach-heftigem-zusammenstoss-zunaechst-nicht-ansprechbar-6ade34d1ba080c37bf6d1248",
     "image": "https://images.bild.de/6ade34d1ba080c37bf6d1248/8ba8e1b022ed74d295e9e0013708f375,ac879d4b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Kehlsteinhaus von Adolf Hitler abgefackelt - Verdächtiger zeigte sich vor der Tat selbst an",
-    "link": "https://www.bild.de/regional/bayern/hitlers-teehaus-abgefackelt-verdaechtiger-zeigte-sich-vor-der-tat-selbst-an-6added05ba080c37bf6d0ca9",
-    "image": "https://images.bild.de/6added05ba080c37bf6d0ca9/7a68a22657972c4592f36997f461d369,dc217976?w=1280",
     "date": 0
    },
    {
@@ -571,10 +571,17 @@
   ],
   "elpais": [
    {
+    "title": "El regreso de María Corina Machado a Venezuela, en vivo | Trump: “Espero que esté a salvo, es una mujer muy agradable”",
+    "link": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/P7MRIPG2G5BOLE6B4S6R7CRRX4.jpeg?auth=e9ecbdb56864ffc47e846dd7190cc65d16fe87666ad490f26f6e9dd9ef4ec00c",
+    "date": 1792949776000,
+    "titleSl": "El regreso de María Corina Machado a Venezuela, en vivo | Trump: \"Espero que esté a salvo, es una mujer muy agradable\""
+   },
+   {
     "title": "Elecciones en Brasil, en vivo | Lula emite su voto y tacha a Bolsonaro de ser “alguien sin moral”",
     "link": "https://elpais.com/america/2026-10-25/elecciones-en-brasil-2026-en-vivo-la-segunda-vuelta-entre-lula-y-flavio-bolsonaro.html",
     "image": "https://imagenes.elpais.com/resizer/v2/UY44QPOBDZFIFK7CTMSUWR4EHU.jpg?auth=3ebcc7d8f70d50393b01e98a09575cab26df3a92a1c92374d3f8822e4a11df7f",
-    "date": 1792949361000,
+    "date": 1792949737000,
     "titleSl": "Elecciones en Brasil, en vivo | Lula emite su voto y tacha a Bolsonaro de ser \"alguien sin moral\""
    },
    {
@@ -585,17 +592,10 @@
     "titleSl": "La industria pone coto a completear el salario a los trabajadores de baja: así lucha el metal contra el absentismo"
    },
    {
-    "title": "El regreso de María Corina Machado a Venezuela, en vivo | Trump: “Espero que esté a salvo, es una mujer muy agradable”",
-    "link": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/P7MRIPG2G5BOLE6B4S6R7CRRX4.jpeg?auth=e9ecbdb56864ffc47e846dd7190cc65d16fe87666ad490f26f6e9dd9ef4ec00c",
-    "date": 1792948959000,
-    "titleSl": "El regreso de María Corina Machado a Venezuela, en vivo | Trump: \"Espero que esté a salvo, es una mujer muy agradable\""
-   },
-   {
-    "title": "Al menos 20 heridos de gravedad en un accidente entre un autobús y un coche en Barcelona",
+    "title": "Al menos 20 heridos de gravedad en un accidente entre un autobús y un coche en Fogars de Montclús (Barcelona)",
     "link": "https://elpais.com/espana/catalunya/2026-10-25/al-menos-40-heridos-en-un-accidente-entre-un-autobus-y-un-coche-en-barcelona.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EDZJBWSELVH67H5BI5FKJVKNVI.jpg?auth=68757401157425b569e2a4ff010f20a0b58fe66375eacfaf86de8f72fc590cb6",
-    "date": 1792948888000
+    "date": 1792948800000
    },
    {
     "title": "Las Golden encuentran en Corea del Sur un antídoto al dominio keniano",
