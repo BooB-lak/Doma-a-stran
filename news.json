@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T18:14:26.905Z",
+ "generatedAt": "2026-10-26T18:16:23.878Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Incident: Protestniki vdrli v prostore srbskega medija, to je sledilo",
+    "link": "https://www.zurnal24.si/svet/incident-protestniki-vdrli-v-prostore-srbskega-medija-to-je-sledilo-467307",
+    "image": "https://www.zurnal24.si/media/img/71/1e/a7edf5f85c14c04f6dbf.png",
+    "date": 1793038500000
+   },
+   {
     "title": "Umrl je Walter Koenig",
     "link": "https://www.zurnal24.si/magazin/umrl-je-walter-koenig-467306",
     "image": "https://www.zurnal24.si/media/img/f6/c0/5c40371cd94c73e01f96.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/nogomet/tekma-slovenske-reprezentance-prestavljena-v-maribor-to-je-razlog-467301",
     "image": "https://www.zurnal24.si/media/img/ag/c4/06602b1edf2a92339918.jpeg",
     "date": 1793029440000
-   },
-   {
-    "title": "Janša Srbiji postavil ultimat, brez tega ne bo njegove podpore",
-    "link": "https://www.zurnal24.si/slovenija/jansa-srbiji-postavil-ultimat-brez-tega-ne-bo-njegove-podpore-467300",
-    "image": "https://www.zurnal24.si/media/img/83/d1/b6ccc90e02f5adbd2ef2.jpeg",
-    "date": 1793027760000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Ballon d'Or website blunder causes confusion",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9beb/live/3c6000b0-d166-11f1-87df-afb7a168a1f2.jpg",
+    "date": 1793038226000,
+    "titleSl": "Napaka na spletišču Ballon d'Or povzroča zmedo"
+   },
+   {
     "title": "Tributes paid to man killed by falling tree in Storm Boelo",
     "link": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a656/live/fdb75c70-d14f-11f1-9eb5-811878e0f07d.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3486/live/d7b44550-d15f-11f1-87df-afb7a168a1f2.jpg",
     "date": 1793035051000,
     "titleSl": "McDowell postane najnovejši veliki prvak za izhod iz LIV"
-   },
-   {
-    "title": "Trump faces backlash after invoking 9/11 in verbal assault on Michigan's Senate candidate",
-    "link": "https://www.bbc.co.uk/news/articles/c3rryxlkq5qro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/b41b35e0-d15a-11f1-93e1-3b657b665bcf.jpg",
-    "date": 1793033916000,
-    "titleSl": "Trump se sooča z reakcijo po sklicevanju na 11. september v verbalnem napadu na kandidata senata v Michiganu"
    }
   ],
   "aljazeera": [
@@ -455,20 +455,14 @@
   ],
   "krone": [
    {
-    "title": "Nach Brandstiftung - Hitlers Teehaus: Motiv bleibt vorerst ein Rätsel",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyb0VaUEctQWoydC1WY3FpVExmOHNsYTR3TlBsVmtZZVQ4ZC1acFRWby0xOGhjQk5HdTZfZFJ2ckdwdw?oc=5",
-    "image": "",
-    "date": 1793037600000
-   },
-   {
     "title": "Gewusst wie! - Besserer Brandschutz auf dem Arbeitsplatz dank KI",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85a2Z6c2JnalNoNEQ1TTFkaVdTQ2JKQjRWaURnVlZNY284ODhFRlBjbHdfRTRscUs5RnFvNnZiUlc3QQ?oc=5",
     "image": "",
     "date": 1793037600000
    },
    {
-    "title": "Tirol feiert - Nationalfeiertag: Hoch hinaus oder fest im Einsatz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yUkRQaC1KSkVsbk9PQTRnMzJlTTF3bWtTS0lrZGUyemFxTDVYb0VNbVFZSktvQVY1NUxqaUY3Mjl0UQ?oc=5",
+    "title": "Nach Brandstiftung - Hitlers Teehaus: Motiv bleibt vorerst ein Rätsel",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyb0VaUEctQWoydC1WY3FpVExmOHNsYTR3TlBsVmtZZVQ4ZC1acFRWby0xOGhjQk5HdTZfZFJ2ckdwdw?oc=5",
     "image": "",
     "date": 1793037600000
    },
@@ -479,16 +473,22 @@
     "date": 1793037600000
    },
    {
+    "title": "Tirol feiert - Nationalfeiertag: Hoch hinaus oder fest im Einsatz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yUkRQaC1KSkVsbk9PQTRnMzJlTTF3bWtTS0lrZGUyemFxTDVYb0VNbVFZSktvQVY1NUxqaUY3Mjl0UQ?oc=5",
+    "image": "",
+    "date": 1793037600000
+   },
+   {
     "title": "Samtpfote in Not - Kater „Toni“ nach vier Stunden aus Kanal befreit",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BdnRYakJnZEhmNDJsMFRxWFJUVHZESnRncXFjWHViNW0waW9VQ0g4dXJJVWtoVG1VWXpxZFJ4aDF1QQ?oc=5",
     "image": "",
     "date": 1793037120000
    },
    {
-    "title": "Am Nationalfeiertag - Kickl wettert über „skrupellose“ Meinl-Reisinger",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIb0NNbDl6TWgyak1jT3M3TmdLc3hRWTNwSHoxekhuUEJuaG9TOXVqU3VUdVJtWEMyVThJTzBtdF9WZw?oc=5",
+    "title": "Befeuert Gerücht - Wehrschütz: „Es wird eine Überraschung geben“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDSS1MUTY4ZWIwNmJyU2tseHVCQ3BPQlRVc3VmSEt3c1hqRTJaVFROVFZJS1Y1TURBQlNwMDFhQ3BMQQ?oc=5",
     "image": "",
-    "date": 1793036789000
+    "date": 1793036700000
    }
   ],
   "rainews": [
