@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T13:50:41.903Z",
+ "generatedAt": "2026-10-26T13:52:25.088Z",
  "sources": {
   "siol": [
    {
@@ -202,7 +202,7 @@
     "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
     "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
     "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00biz-anthropic-finances-hfo-2-mjwl/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
-    "date": 1793022100000,
+    "date": 1793022591000,
     "titleSl": "Antropic S-1 razkriva hitro rast pred Blockbuster IPO"
    },
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Dangerous drivers jailed for mum and girl's deaths",
+    "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/3391f2e0-a2d6-11f1-b109-879e35c24276.png",
+    "date": 1793022392000,
+    "titleSl": "Nevarni vozniki, zaprti zaradi smrti mame in deklice"
+   },
+   {
     "title": "AI giant Anthropic unveils plans for blockbuster share listing",
     "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/746e/live/6e0550b0-cec4-11f1-b9e0-e5f0da03dc7f.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/122fd290-d132-11f1-be77-d1864d279cb0.jpg",
     "date": 1793016869000,
     "titleSl": "Jesenska vprašanja Borthwicka, ko se bliža svetovni pokal"
-   },
-   {
-    "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-    "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg",
-    "date": 1793016020000,
-    "titleSl": "Nevihta Boelo je pustila 90.000 ljudi brez elektrike, ko je Met Office izdal novo opozorilo o vetru"
    }
   ],
   "aljazeera": [
-   {
-    "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793020739.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793020823000,
-    "titleSl": "Ameriška zunanja pomoč Izraelu poudarjena v kampanji v podporo El-Sayedu"
-   },
    {
     "title": "Israel expands expulsions in occupied West Bank to cement control",
     "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793019228.jpg?resize=1920%2C1080&quality=80",
     "date": 1793019245000,
     "titleSl": "Prestrežene hutijevske rakete povzročajo škodo v Savdski Arabiji"
+   },
+   {
+    "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
+    "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261025__D4E98XU__v1__HighRes__FblEspLigaBarcelonaRealMadrid-1793014871_0d8e17-1793015431.jpg?resize=1200%2C630&quality=80",
+    "date": 1793017424000,
+    "titleSl": "Ključne ugotovitve iz zmage El Clasica v Real Madridu nad Barcelono"
    }
   ],
   "guardian": [
@@ -414,41 +414,42 @@
   ],
   "bild": [
    {
-    "title": "Vor Pokal-Kracher gegen Schalke - Elfmeter-Alarm bei Dynamo Dresden",
-    "link": "https://www.bild.de/sport/fussball/dynamo-dresden-horror-bilanz-vom-elfmeterpunkt-6adf2adb8e175153b6abf84b",
-    "image": "https://images.bild.de/6adf2adb8e175153b6abf84b/c142b29ec10ba99fd8ddf8d46b50f44c,ad0b4664?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Bayerns Sportvorstand nicht in London - Eberl fehlt beim Ballon d‘Or",
-    "link": "https://www.bild.de/sport/fussball/harry-kane-bayern-reist-mit-mega-aufgebot-zur-ballon-dor-gala-6adf3ad28e175153b6abf9f2",
-    "image": "https://images.bild.de/6adf3ad28e175153b6abf9f2/054a8ee93dc610389ff0b9b9247e5667,26523f00?w=1280",
+    "title": "Enteignungs-Streit in Berlin - Immobilien-Riese stoppt Investitionen in Deutschland",
+    "link": "https://www.bild.de/politik/inland/streit-um-enteignungen-in-berlin-immobilienriese-stoppt-investitionen-in-deutschland-6adf1e758e175153b6abf6bf",
+    "image": "https://images.bild.de/6adf1e758e175153b6abf6bf/28286d5361e05a9faad2cf0a270ea268,2090333e?w=1280",
     "date": 0,
-    "titleSl": "Bayerns Sportvorstand nicht v Londonu - Eberl fehlt beim Ballon d'Or"
+    "titleSl": "Enteignungs-Streit v Berlinu - Immobilien-Riese je ustavil Investitionen v Nemčiji"
    },
    {
-    "title": "„Mein Schiff 3“ schwer beschädigt - Im Sturm ausgelaufen: Stand der Kapitän unter Druck?",
-    "link": "https://www.bild.de/leben-wissen/reisen/mein-schiff-3-wer-bei-sturm-das-auslaufen-stoppen-kann-6adf4327c303dbdd29105aa6",
-    "image": "https://images.bild.de/6adf4327c303dbdd29105aa6/eb4b0f17a45b6cee724f46ab6a22d360,9f427364?w=1280",
+    "title": "Vieira und Nadir - HSV gibt Diagnosen bei zwei Stars bekannt",
+    "link": "https://www.bild.de/sport/fussball/hsv-gibt-diagnosen-bei-fabio-vieira-und-bilal-nadir-bekannt-6adf49a1c303dbdd29105b7b",
+    "image": "https://images.bild.de/6adf49a1c303dbdd29105b7b/afcf481c60b5fcd0ad88b06ca7632d90,c2fc22?w=1280",
     "date": 0
    },
    {
-    "title": "Der Ruhige und der Vollgas-Typ - Unions neues Traum-Duo im Mittelfeld",
-    "link": "https://www.bild.de/sport/fussball/union-berlin-sie-ergaenzen-sich-perfekt-unions-neues-traum-duo-6adf23a644ab625f2110bdb8",
-    "image": "https://images.bild.de/6adf23a644ab625f2110bdb8/8af0221895f537d1708032785b7a0146,dbbdf1ef?w=1280",
+    "title": "Er erinnert sich nicht an Meghans Brief - Thomas Markle ist angeblich an Demenz erkrankt",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/meghans-vater-thomas-markle-behauptet-an-demenz-zu-leiden-6adf1020247c1fa201307164",
+    "image": "https://images.bild.de/6adf1020247c1fa201307164/feb5877ebe941ceb39463afd0fd57f7c,8eba876b?w=1280",
     "date": 0
    },
    {
-    "title": "Thioune träumt schon vom Halbfinale - Werder übt Pokal-Krimi",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-thioune-traeumt-schon-vom-halbfinale-werder-uebt-pokal-krimi-6adf0ff3e6e3b6a102d4f747",
-    "image": "https://images.bild.de/6adf0ff3e6e3b6a102d4f747/ac9a79a8b61b7e490a8577774d1ec86c,98c40b1c?w=1280",
+    "title": "Drakes irre Millionen-Sause - Hermès-Taschen für die Gäste, Ferrari für Drake",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/drakes-millionen-sause-zum-40-geburtstag-ferrari-und-birkin-taschen-6adf065f68d62121196074a4",
+    "image": "https://images.bild.de/6adf065f68d62121196074a4/8478c7b423e843b92e453a995f4b3c6e,7750a7dc?w=1280",
     "date": 0
    },
    {
-    "title": "Wenig Schlaf, viel Stress, zu viel Kaffee - Was Männer aus dem Kompany-Drama lernen können",
-    "link": "https://www.bild.de/leben-wissen/medizin/vincent-kompany-so-gefaehrlich-sind-dauerstress-und-schlafmangel-6addb4b6ba080c37bf6d08c5",
-    "image": "https://images.bild.de/6addb4b6ba080c37bf6d08c5/41deb1c68b3364c8bd766b28048c963e,5c9c4ac9?w=1280",
+    "title": "Personal-Not beim HSV - Polzin holt 17-Jährigen vor Pokal-Hit",
+    "link": "https://www.bild.de/sport/fussball/hsv-merlin-polzin-holt-17-jaehrigen-vor-pokal-hit-gegen-frankfurt-6adf325344ab625f2110bfe3",
+    "image": "https://images.bild.de/6adf325344ab625f2110bfe3/b0e58338be2f889f24ee7e449fb1dba5,e715079f?w=1280",
     "date": 0
+   },
+   {
+    "title": "In NRW - 4 Pakete Kaffee geklaut! Polizei sucht diesen Mann",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/in-nrw-polizei-fahndet-nach-dieb-mit-vorliebe-fuer-kaffee-6adf3a7644ab625f2110c0b4",
+    "image": "https://images.bild.de/6adf3a7644ab625f2110c0b4/815dee598c723eb210326719f73fdc07,f38f9649?w=1280",
+    "date": 0,
+    "titleSl": "V NRW - 4 Pakete Kaffee geklaut! Polizei sucht diesen Mann"
    }
   ],
   "krone": [
