@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T11:50:38.685Z",
+ "generatedAt": "2026-10-26T11:52:25.740Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Radijske igre v tem tednu: Med sanjami v maternem jeziku in absolutno srečo",
+    "link": "https://www.rtvslo.si/kultura/drugo/radijske-igre-v-tem-tednu-med-sanjami-v-maternem-jeziku-in-absolutno-sreco/798113",
+    "image": "https://img.rtvcdn.si/_up/upload/2017/02/20/65382701_shakespeare.jpg",
+    "date": 1793014996000
+   },
+   {
     "title": "Ob stoletnici rojstva pejsaži Franceta Slane stopijo v dialog s poezijo Braneta Senegačnika",
     "link": "https://www.rtvslo.si/kultura/vizualna-umetnost/ob-stoletnici-rojstva-pejsazi-franceta-slane-stopijo-v-dialog-s-poezijo-braneta-senegacnika/798111",
     "image": "https://img.rtvcdn.si/_up/upload/2016/10/26/65355009_france-slana.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/film-in-tv/hotel-alkohol-cvitkovicev-poskus-detabuiziranja-tistih-ki-jih-odrivamo-na-obrobje/798102",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/26/67116644.jpg",
     "date": 1793009899000
-   },
-   {
-    "title": "V Jordaniji aretirali osumljence za petkov strelski napad v pravoslavni cerkvi",
-    "link": "https://www.rtvslo.si/svet/bliznji-vzhod/v-jordaniji-aretirali-osumljence-za-petkov-strelski-napad-v-pravoslavni-cerkvi/798105",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/26/67116645.jpg",
-    "date": 1793009882000
    }
   ],
   "zurnal": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+    "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-brazil-election-wtk-promo-jvmh/25int-brazil-election-wtk-promo-jvmh-mediumSquareAt3X.jpg",
+    "date": 1793015440000,
+    "titleSl": "Lula je premagal Bolsonara za brazilsko predsedovanje, v udarcu na desnico Latinske Amerike"
+   },
+   {
     "title": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
     "link": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
     "image": "",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-collapse-01-wgbz/26int-israel-collapse-01-wgbz-mediumSquareAt3X.jpg",
     "date": 1793010657000,
     "titleSl": "Izraelski Judje po vsem spektru se soočajo z volitvami strahov"
-   },
-   {
-    "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-    "link": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-drone-apaches-01-gpjt/25int-drone-apaches-01-gpjt-mediumSquareAt3X.jpg",
-    "date": 1793008851000,
-    "titleSl": "Ameriška vojska usposablja pilote helikopterjev Apache za streljanje z brezpilotnimi letali"
    }
   ],
   "bbc": [
@@ -248,6 +248,13 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/c9798c10-d124-11f1-9a61-7b8d75492b97.png",
     "date": 1793015148000,
     "titleSl": "Zdravniki svetovalci v Angliji bodo naslednji mesec stavkali"
+   },
+   {
+    "title": "Nix's 62-yard touchdown & 'vintage Rodgers' - NFL best plays",
+    "link": "https://www.bbc.co.uk/sport/american-football/videos/crp3g25vv4qyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/ef20efd0-d12e-11f1-93e1-3b657b665bcf.jpg",
+    "date": 1793014208000,
+    "titleSl": "Nixov 62-metrski touchdown in \"vintage Rodgers\" - najboljše igre NFL"
    },
    {
     "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bbd/live/f830f0d0-d128-11f1-a701-fddedf244c16.jpg",
     "date": 1793012476000,
     "titleSl": "Jordanija aretirala tri moške, osumljene smrtonosnega napada na cerkev po streljanju"
-   },
-   {
-    "title": "Healey to shield low-income pensioners from income tax in the Budget",
-    "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d71/live/21ebf010-c606-11f1-a64c-550be9e3c66b.jpg",
-    "date": 1793010492000,
-    "titleSl": "Healey za zaščito upokojencev z nizkimi dohodki pred davkom od dohodka v proračunu"
    }
   ],
   "aljazeera": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Trump über Nicki MinARSCH - „Ein verdammt schöner Hintern“",
+    "link": "https://www.bild.de/news/nicki-minaj-fliegt-mit-trump-in-air-force-one-nach-michigan-6adf09b868d62121196074df",
+    "image": "https://images.bild.de/6adf09b868d62121196074df/ab45da75f14f4b0ed69893f1dc69827a,1a2fd194?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Erst verletzt, dann... - Schock-Jubiläum für Kapitän von Traditionsklub",
+    "link": "https://www.bild.de/sport/fussball/und-das-zum-jubilaeum-kapitaen-von-traditionsklub-muss-doppelt-vom-platz-6adf181ec303dbdd2910552b",
+    "image": "https://images.bild.de/6adf181ec303dbdd2910552b/b979c6f3d32938409562a8bc6495696a,beed80e7?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Reif ist live“ vom 26.10. - Bayern zwischen Schock und Sieg",
     "link": "https://www.bild.de/sport/fussball/zwischen-schock-und-sieg-jetzt-hier-reif-ist-live-gucken-6adeedd5ba080c37bf6d1832",
     "image": "https://images.bild.de/6adeedd5ba080c37bf6d1832/c8af88631d438f6eda899c4e2562b4ef-landscape,f2b7348f?w=1280",
@@ -435,19 +447,6 @@
     "title": "Er einnert sich nicht an Meghans Brief - Thomas Markle ist angeblich an Demenz erkrankt",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/meghans-vater-thomas-markle-behauptet-an-demenz-zu-leiden-6adf1020247c1fa201307164",
     "image": "https://images.bild.de/6adf1020247c1fa201307164/feb5877ebe941ceb39463afd0fd57f7c,8eba876b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Viel mehr als 17 Mio. - So wertvoll ist Mohya wirklich für Gladbach!",
-    "link": "https://www.bild.de/sport/fussball/viel-mehr-als-17-mio-so-viel-ist-wael-mohya-fuer-gladbach-wirklich-wert-6ade0535a6a5d701acbcedaa",
-    "image": "https://images.bild.de/6ade0535a6a5d701acbcedaa/f7ae5b1eff9087632b667543aea00073,3ba30109?w=1280",
-    "date": 0,
-    "titleSl": "Viel mehr als 17 Mio. - Torej wertvoll ist Mohya wirklich für Gladbach!"
-   },
-   {
-    "title": "Eroberungsplan für Gaza - Israel-Minister will Palästinenser nach Europa umsiedeln",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/plan-fuer-den-gazastreifen-israelischer-minister-will-palaestinenser-nach-europa-umsiedeln-6adf29647846c6ec50e6ff69",
-    "image": "https://images.bild.de/6adf29647846c6ec50e6ff69/0ed7a1e4925ce823a11475eaab60c2a1,87648eba?w=1280",
     "date": 0
    }
   ],
@@ -492,6 +491,19 @@
   ],
   "rainews": [
    {
+    "title": "TG3 Fuori TG del 26/10/2026",
+    "link": "https://www.rainews.it/rubriche/tg3fuoritg/video/2026/10/TG3-Fuori-TG-del-26102026-75cc7537-62a4-45cc-a0a2-b16526122531.html",
+    "image": "https://www.rainews.it/dl/img/2026/09/29/1790697517275_TG3FuoriTG_2048x1152_logo.png",
+    "date": 1793015479000,
+    "titleSl": "TG3 Fuori TG del 26.10.2026"
+   },
+   {
+    "title": "Manifestazione tassisti e Ncc sotto al Mit sul caro carburante: \"Governo ci incontri\"",
+    "link": "https://www.rainews.it/articoli/2026/10/manifestazione-tassisti-ed-ncc-di-fronte-al-mit-sul-caro-carburante-serve-soluzione-2d012a14-4f80-4dc2-ac1d-796f33ff8d06.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/26/1793014421350_rainewscbdcdadbebfdeefca.jpg",
+    "date": 1793014080000
+   },
+   {
     "title": "Elezioni in Israele, la sfida è tutta su Netanyahu: proteste e sondaggi indicano uno stallo",
     "link": "https://www.rainews.it/maratona/2026/10/elezioni-in-israele-27-ottobre-2026-likud-netanyahu-eisenkot-tutti-i-partiti-la-legge-e-il-ruolo-del-presidente-medio-oriente-esecutivo-knesset-cef1c800-5e45-4217-a57a-7ba8a7daf3d0.html",
     "image": "https://www.rainews.it/dl/img/2026/10/26/1793014251719_rainewscdbaabcbb.jpg",
@@ -515,20 +527,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/26/1793011765488_rainewsddabdabafadfaca.jpg",
     "date": 1793012160000,
     "titleSl": "Strage di Castel D'Azzano, al via il processo ai fratelli Ramponi"
-   },
-   {
-    "title": "TG2 Italia Europa del 26/10/2026",
-    "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/10/TG2-Italia-Europa-del-26102026-33ab7955-2393-4c68-b620-3f74edf1d56e.html",
-    "image": "https://www.rainews.it/dl/img/2021/03/19/1616174617825_2048x1152.jpg",
-    "date": 1793010590000,
-    "titleSl": "TG2 Italia Europa del 26.10.2026"
-   },
-   {
-    "title": "Netanyahu: \"Iran, minaccia atomica\". Cisgiordania sigillata fino al voto, arresti e sfollati",
-    "link": "https://www.rainews.it/maratona/2026/10/guerre-medio-oriente-netanyahu-iran-minaccia-atomica-cisgiordania-sotto-assedio-arresti-sfollati-887d91c8-d4a5-4110-a201-fec03c5f3686.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/26/1792975874084_DEY.jpg",
-    "date": 1793009580000,
-    "titleSl": "Netanjahu: \"Iran, minaccia atomica\". Cisgiordania sigillata fino al voto, arresti e sfollati"
    }
   ],
   "lemonde": [
@@ -574,6 +572,12 @@
   ],
   "elpais": [
    {
+    "title": "Respiramos, pero sin bajar la guardia",
+    "link": "https://elpais.com/opinion/2026-10-26/respiramos-pero-sin-bajar-la-guardia.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/NLICJYZS4FCPZHLZV57ASQIQF4.JPG?auth=182dda28497d55db2c2a7fc9b0a2c1f108f27567ed2cb3a0d343b05626affb41",
+    "date": 1793015201000
+   },
+   {
     "title": "España, con todo a por la Copa Davis: Alcaraz y dos escuderos de lujo, Jódar y Davidovich",
     "link": "https://elpais.com/deportes/tenis/2026-10-26/espana-con-todo-a-por-la-copa-davis-alcaraz-y-dos-escuderos-de-lujo-jodar-y-davidovich.html",
     "image": "https://imagenes.elpais.com/resizer/v2/MYOQ6LSXCJC5NLFOLCTWIA74JQ.jpg?auth=3cd69ebff605bf0d081e7c148f8b9b86922cd2dfa5813aabc3d09df535a5bb52",
@@ -603,12 +607,6 @@
     "link": "https://cincodias.elpais.com/companias/2026-10-26/bayer-sube-con-fuerza-en-bolsa-tras-la-luz-verde-de-china-a-su-medicamento-para-prevenir-el-ictus.html",
     "image": "https://imagenes.elpais.com/resizer/v2/LR53P7H6BY4U35S2DTUXYB7O3I.jpg?auth=03181ead579c7ef077093e2bc98c5ffe0727edab4b07700d95481fcd641f73c6",
     "date": 1793014050000
-   },
-   {
-    "title": "Un choque entre Netanyahu y el jefe del Estado Mayor israelí sobre Irán agita la víspera electoral",
-    "link": "https://elpais.com/internacional/2026-10-26/un-choque-entre-netanyahu-y-el-jefe-del-estado-mayor-israeli-sobre-iran-agita-la-vispera-electoral.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/FNEQPG7BLFHGTKLOLIMHSIBVNE.jpg?auth=49fedaa634b24727d7bbc77a648d9de75edb6b33b96b9f2c456177f0f1baa211",
-    "date": 1793013895000
    }
   ]
  },
