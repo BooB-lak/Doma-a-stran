@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T14:58:25.422Z",
+ "generatedAt": "2026-10-26T15:01:04.579Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "I Went to India and Found It Has Lessons for Us All",
+    "link": "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26polgreen-promo-wjbh/26polgreen-promo-wjbh-mediumSquareAt3X.jpg",
+    "date": 1793026691000,
+    "titleSl": "Šel sem v Indijo in ugotovil, da ima lekcije za vse nas"
+   },
+   {
     "title": "What Should the Rules for A.I. Companies Actually Be?",
     "link": "https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html",
     "image": "",
@@ -232,13 +239,6 @@
     "image": "",
     "date": 1793023523000,
     "titleSl": "Kako je Silicijeva dolina ukradla prihodnost"
-   },
-   {
-    "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
-    "link": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
-    "image": "",
-    "date": 1793023091000,
-    "titleSl": "Sijajni stekleni nebotičniki so vroča stvar. Dobesedno."
    }
   ],
   "bbc": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
+    "link": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adf65c71390-1793025479.jpg?resize=1920%2C1440",
+    "date": 1793025530000,
+    "titleSl": "Člani obrambnega zavezništva Meke v Teheranu za zmanjšanje napetosti med Iranom, ZDA in Jemnom"
+   },
+   {
     "title": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793024937.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adcaabfeaed-1792846527.jpg?resize=1920%2C1440",
     "date": 1793020268000,
     "titleSl": "Izrael razširi izgone na okupiranem Zahodnem bregu na nadzor cementa"
-   },
-   {
-    "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-25T190127Z_1634526228_RC2IAOAKPNCJ_RTRMADP_3_ISRAEL-ELECTION-EISENKOT-1-1793019704.jpg?resize=1920%2C1440",
-    "date": 1793019749000,
-    "titleSl": "Kdo so izraelski kandidati, ki poskušajo odstaviti Netanjahuja?"
    }
   ],
   "guardian": [
@@ -482,19 +482,26 @@
     "titleSl": "Große Aufregung - Beinahe-Notlandung von Heißluftballon v Gradcu"
    },
    {
-    "title": "Schwerer Unfall - 60-Jähriger prallte mit Pkw gegen Baum",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XNE9qNkhGX2xyWjBndVJwTnE2Zl9KNWQzbURBcVBXajRqX3V6SDQ4aDMya0lrc2tvUDN4dzFCSDRydw?oc=5",
-    "image": "",
-    "date": 1793025223000
-   },
-   {
     "title": "„Vorausdenkend“ - Erster Landeschef offen für die „Spritzer-Novelle“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMb1dWeVptM0tXMDZscDl5S1ZoTFBqSVNLeFRVUTNxdHByUkNxZFF2N2o0M3U4eGFIckNPbE15Y0p5dw?oc=5",
     "image": "",
     "date": 1793024854000
+   },
+   {
+    "title": "Verdienstzeichen - Diese elf Persönlichkeiten wurden ausgezeichnet",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPaEhvdGc0OEk2WlBxN0Q5Q3kwN180MmRid2JJVFIydXhuNXBVNmxZTE9GS1piLWlKeWk1YVB2Z2tHZw?oc=5",
+    "image": "",
+    "date": 1793024700000
    }
   ],
   "rainews": [
+   {
+    "title": "Brasile: Lula trionfa al ballottaggio, Bolsonaro chiede l&#x27;annullamento. Crolla la borsa",
+    "link": "https://www.rainews.it/maratona/2026/10/brasile-lula-bolsonaro-sfida-presidenziali-ballottaggio-89d004db-61bd-44cf-94c9-db714e2fa71a.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/26/1792983643329_DEHKY.jpg",
+    "date": 1793026680000,
+    "titleSl": "Brasile: Lula trionfa al ballottaggio, Bolsonaro chiede l 'annullamento. Crolla la borsa"
+   },
    {
     "title": "Sinner annuncia il ritorno: giocherà il Six Kings Slam a fine dicembre",
     "link": "https://www.rainews.it/articoli/2026/10/tennis-jannik-sinner-annuncia-il-ritorno-giochera-il-six-kings-slam-a-fine-dicembre-bd923a74-101a-436f-b1a1-07c7d94a0e9e.html",
@@ -524,12 +531,6 @@
     "link": "https://www.rainews.it/articoli/2026/10/mantova-leader-green-per-performance-ambientali-la-classifica-di-ecosistema-urbano-2fe9ba09-9552-45b5-8713-5420d6d8765d.html",
     "image": "https://www.rainews.it/dl/img/2026/10/26/1793018234767_MantovaProfilodiMantova.jpeg",
     "date": 1793023560000
-   },
-   {
-    "title": "Allegri squalificato per due giornate. Gasperini: \"Su di noi uscita infelice\"",
-    "link": "https://www.rainews.it/articoli/2026/10/giudice-sportivo-serie-a-max-allegri-squalificato-per-due-giornate-gian-piero-gasperini-su-champions-roma-uscita-infelice-6cec7c0e-aba4-42b4-bffa-b56d2e1b389f.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/26/1793017535290_large.jpg",
-    "date": 1793023500000
    }
   ],
   "lemonde": [
