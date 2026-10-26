@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T13:42:25.086Z",
+ "generatedAt": "2026-10-26T13:44:24.547Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+    "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00biz-anthropic-finances-hfo-2-mjwl/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
+    "date": 1793022100000,
+    "titleSl": "Antropic S-1 razkriva hitro rast pred Blockbuster IPO"
+   },
+   {
     "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
     "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-brazil-election-wtk-promo-jvmh/25int-brazil-election-wtk-promo-jvmh-mediumSquareAt3X.jpg",
@@ -211,13 +218,6 @@
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-meta-spacex-ai-zhlv/26Biz-meta-spacex-ai-zhlv-mediumSquareAt3X.jpg",
     "date": 1793021485000,
     "titleSl": "Meta in SpaceX bosta zbrala milijarde več za financiranje AI ambicij"
-   },
-   {
-    "title": "Anthropic Reveals 14-Fold Increase in Growth as It Prepares for Blockbuster I.P.O.",
-    "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
-    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00biz-anthropic-finances-hfo-2-mjwl/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
-    "date": 1793020832000,
-    "titleSl": "Antropic razkriva 14-kratno povečanje rasti, ko se pripravlja na Blockbuster I.P.O."
    },
    {
     "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793020739.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793020823000,
-    "titleSl": "Ameriška zunanja pomoč Izraelu poudarjena v kampanji v podporo El-Sayedu"
-   },
-   {
     "title": "Israel expands expulsions in occupied West Bank to cement control",
     "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adcaabfeaed-1792846527.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793019228.jpg?resize=1920%2C1080&quality=80",
     "date": 1793019245000,
     "titleSl": "Prestrežene hutijevske rakete povzročajo škodo v Savdski Arabiji"
+   },
+   {
+    "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
+    "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261025__D4E98XU__v1__HighRes__FblEspLigaBarcelonaRealMadrid-1793014871_0d8e17-1793015431.jpg?resize=1200%2C630&quality=80",
+    "date": 1793017424000,
+    "titleSl": "Ključne ugotovitve iz zmage El Clasica v Real Madridu nad Barcelono"
    }
   ],
   "guardian": [
@@ -414,6 +414,19 @@
   ],
   "bild": [
    {
+    "title": "Fan-Wut & Bosse-Forderung - So geht Köln-Coach Wagner mit dem Sieg-Druck um",
+    "link": "https://www.bild.de/sport/fussball/1-fc-koeln-fan-wut-bosse-forderung-so-geht-rene-wagner-mit-dem-sieg-druck-um-6adf0dc0ba080c37bf6d1a79",
+    "image": "https://images.bild.de/6adf0dc0ba080c37bf6d1a79/e29ed77a0adbb06f64306fd3cc5d7e8d,de5f4a35?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Forscher an US-Grenze ratlos - Was ist das für eine mysteriöse Kreatur?",
+    "link": "https://www.bild.de/news/forscher-an-us-grenze-ratlos-was-ist-das-fuer-eine-mysterioese-kreatur-6adf41bd7846c6ec50e7021f",
+    "image": "https://images.bild.de/6adf41bd7846c6ec50e7021f/0761c4ec3752a3afb6461dcbc287ab22,acf19799?w=1280",
+    "date": 0,
+    "titleSl": "Forscher an US-Grenze ratlos - Was ist das für eine mysteryöse Kreatur?"
+   },
+   {
     "title": "Influencer postet Video der Fahrt - Mit über 200 km/h im Ferrari über Alpenpass",
     "link": "https://www.bild.de/news/sabba-im-ferrari-virales-video-soll-ueber-200-km-h-am-furkapass-zeigen-6adbba0cea9d017b539b03af",
     "image": "https://images.bild.de/6adbba0cea9d017b539b03af/978646b25a458f781f6f3334a0411d7c,18f0871?w=1280",
@@ -436,18 +449,6 @@
     "title": "Vieira und Nadir - HSV gibt Diagnosen bei zwei Stars bekannt",
     "link": "https://www.bild.de/sport/fussball/hsv-gibt-diagnosen-bei-fabio-vieira-und-bilal-nadir-bekannt-6adf49a1c303dbdd29105b7b",
     "image": "https://images.bild.de/6adf49a1c303dbdd29105b7b/afcf481c60b5fcd0ad88b06ca7632d90,c2fc22?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Der stärkste Mokka im Test - Mokka GSE im Test: Fahrspaß mit Akku-Makel",
-    "link": "https://www.bild.de/leben-wissen/auto/opel-mokka-gse-im-test-viel-fahrspass-aber-ein-grosser-haken-6abfbec1d4d0c24ec26d1b39",
-    "image": "https://images.bild.de/6abfbec1d4d0c24ec26d1b39/811b7704c67da402a91c520f6abc61ff,92bdfbd3?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Medienbericht nach Kreuzfahrt-Crash - Polizei ermittelt gegen „Mein Schiff 3“-Kapitän",
-    "link": "https://www.bild.de/news/medienbericht-nach-kreuzfahrt-crash-polizei-ermittelt-gegen-mein-schiff-3-kapitaen-6adf459b8e175153b6abfb47",
-    "image": "https://images.bild.de/6adf459b8e175153b6abfb47/fbddfaaef8e77ca7792c6538e9750a31,ec14a59a?w=1280",
     "date": 0
    }
   ],
@@ -585,12 +586,6 @@
     "date": 1793021921000
    },
    {
-    "title": "Macron admite que la tensión en la calle no desaparecerá pero evita declarar el estado de emergencia en Francia",
-    "link": "https://elpais.com/internacional/2026-10-26/macron-admite-que-la-tension-en-la-calle-no-desaparecera-pero-evita-declarar-el-estado-de-emergencia-en-francia.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/PUYLBCGINVMVJNJLLA3RHHIKGA.jpg?auth=fa036cd79bb3031e176e974df1c140b178cf1d965b6af4e3a3be24432d76523d",
-    "date": 1793021633000
-   },
-   {
     "title": "Los magistrados del Constitucional que estaban a favor de admitir el recurso por la ‘ley de nietos’ ven “intolerable” la conclusión de la mayoría",
     "link": "https://elpais.com/espana/2026-10-26/los-magistrados-del-constitucional-que-estaban-a-favor-de-admitir-el-recurso-por-la-ley-de-nietos-ven-intolerable-la-conclusion-de-la-mayoria.html",
     "image": "https://imagenes.elpais.com/resizer/v2/NQDZXZPGWVDBNEBGOXYEB2DXKU.jpg?auth=564f52901b7a7f61242d81482a05e56eaf9ef2bf3c7e4f9cf7a3a70e4226a4e5",
@@ -609,6 +604,12 @@
     "link": "https://elpais.com/america/2026-10-26/asi-voto-cada-municipio-de-brasil-las-grandes-ciudades-y-el-voto-de-terceros-dieron-la-vuelta-a-la-eleccion.html",
     "image": "https://imagenes.elpais.com/resizer/v2/YYMPWUWRNZCRDCRZITE5FPZX6A.jpg?auth=1e512df1e7d1e4c49cc76f7e79d6b52849462cae5e79bfcf217115a350eef89e&width=1200",
     "date": 1793021151000
+   },
+   {
+    "title": "Críticas al grupo Volkswagen por la participación del presidente de Audi en la campaña de Trump",
+    "link": "https://elpais.com/economia/2026-10-26/criticas-al-grupo-volkswagen-por-la-participacion-del-presidente-de-audi-en-la-campana-de-trump.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/O3WXS3O7GRJWPPPL6Y24Z2SBAY.jpg?auth=a6b0fb4d9a8d034752fc089c8fac7bcf434fbc2b78d2ee32566b370e4f52a974",
+    "date": 1793020220000
    }
   ]
  },
