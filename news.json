@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T14:53:26.963Z",
+ "generatedAt": "2026-10-26T14:56:26.335Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Drivers who killed mum and girl while racing jailed",
+    "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/3391f2e0-a2d6-11f1-b109-879e35c24276.png",
+    "date": 1793026404000,
+    "titleSl": "Vozniki, ki so med dirkanjem ubili mamo in deklico, so v zaporu"
+   },
+   {
     "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
     "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e6/live/50a614d0-d14b-11f1-93e1-3b657b665bcf.jpg",
     "date": 1793024169000,
     "titleSl": "Chris Brown zaradi napada v nočnem klubu dobil pogojno osemmesečno zaporno kazen"
-   },
-   {
-    "title": "US Marine indicted for murder and robbery of woman in Japan",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a6/live/4658dae0-d13b-11f1-8d4e-ef1672a07d66.jpg",
-    "date": 1793023998000,
-    "titleSl": "Ameriški marinec obtožen umora in ropa ženske na Japonskem"
    }
   ],
   "aljazeera": [
@@ -331,18 +331,39 @@
   ],
   "guardian": [
    {
-    "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=140&quality=85&auto=format&fit=max&s=73fce6395128ef28c5de6d9ad69e51d2",
-    "date": 1793025143000,
-    "titleSl": "Število 10 zmanjšuje vstop Združenega kraljestva na enotni trg EU, potem ko je Burnham predlagal, da bi bil potreben referendum – politika Združenega kraljestva v živo"
-   },
-   {
     "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
     "image": "https://i.guim.co.uk/img/media/19fba75722d7334726efa25051c1361f5fbbf9dc/577_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=7ed9aea75e7e9cfa60a7f9d9d007fd2b",
-    "date": 1793024918000,
+    "date": 1793026200000,
     "titleSl": "Trump na shodu v Michiganu krepi antimuslimansko retoriko proti Abdulu El-Sayedu – ameriška politika v živo"
+   },
+   {
+    "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+    "image": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=7337aafc4dbcda473a7689df2cacc5f2",
+    "date": 1793026164000,
+    "titleSl": "Posodobitve v živo za drugi krog v Braziliji: svetovni voditelji čestitajo Lulu za zgodovinsko zmago na volitvah, ko Bolsonaro noče priznati"
+   },
+   {
+    "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=140&quality=85&auto=format&fit=max&s=73fce6395128ef28c5de6d9ad69e51d2",
+    "date": 1793026145000,
+    "titleSl": "Število 10 zmanjšuje vstop Združenega kraljestva na enotni trg EU, potem ko je Burnham predlagal, da bi bil potreben referendum – politika Združenega kraljestva v živo"
+   },
+   {
+    "title": "Audi boss under fire in Germany for Trump rally appearance",
+    "link": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+    "image": "https://i.guim.co.uk/img/media/b94efd1def9fb7ec563df52596700c89132bf97e/834_727_3221_2577/master/3221.jpg?width=140&quality=85&auto=format&fit=max&s=a73af324377e74dbd5f39d7302c141b8",
+    "date": 1793025747000,
+    "titleSl": "Audijev šef na udaru v Nemčiji zaradi Trumpovega nastopa na reliju"
+   },
+   {
+    "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/0ecbf6d6594ec38c4ed669e70a2eae735e525a69/781_0_4900_3920/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=9b422724dee4493ab9d5d78b29797add",
+    "date": 1793025533000,
+    "titleSl": "Srbija se zbudi v novo realnost po tem, ko je gibanje pod vodstvom študentov izrinilo Vučića – Evropa v živo"
    },
    {
     "title": "Unions suspend planned V&A strike after improved pay offer",
@@ -350,27 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/077969659d03149431646c7b217b273846a89405/0_477_4266_3411/master/4266.jpg?width=140&quality=85&auto=format&fit=max&s=a1e2f0b57003a514fc6815ebc50112f9",
     "date": 1793024754000,
     "titleSl": "Sindikati prekinejo načrtovano stavko V&A po izboljšani ponudbi za plačilo"
-   },
-   {
-    "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/0ecbf6d6594ec38c4ed669e70a2eae735e525a69/781_0_4900_3920/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=9b422724dee4493ab9d5d78b29797add",
-    "date": 1793024745000,
-    "titleSl": "Srbija se zbudi v novo realnost po tem, ko je gibanje pod vodstvom študentov izrinilo Vučića – Evropa v živo"
-   },
-   {
-    "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
-    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "image": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=7337aafc4dbcda473a7689df2cacc5f2",
-    "date": 1793024194000,
-    "titleSl": "Posodobitve v živo za drugi krog v Braziliji: svetovni voditelji čestitajo Lulu za zgodovinsko zmago na volitvah, ko Bolsonaro noče priznati"
-   },
-   {
-    "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
-    "link": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
-    "image": "https://i.guim.co.uk/img/media/cffe3efdbd2aa053842b2cdb4837bc57232c81f7/747_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=532db843fadc7a1a6b029887c391883a",
-    "date": 1793023386000,
-    "titleSl": "Visoka delegacija obišče Iran, da bi preprečila izbruh izbruhov z ZDA in Izraelom"
    }
   ],
   "spiegel": [
@@ -416,40 +416,42 @@
   ],
   "bild": [
    {
+    "title": "So heftig trifft Tief „Manja“ den Norden - Sturmflut versenkt Hamburger Fischmarkt",
+    "link": "https://www.bild.de/news/inland/sturmtief-manja-im-norden-deutschlands-sturmflut-versenkt-hamburger-fischmarkt-6adefcac247c1fa20130700c",
+    "image": "https://images.bild.de/6adefcac247c1fa20130700c/38fee45d4d286e2d5bd002185917263f,e4995a8?w=1280",
+    "date": 0,
+    "titleSl": "Torej heftig trifft Tief „Manja“ den Norden - Sturmflut versenkt Hamburger Fischmarkt"
+   },
+   {
+    "title": "Geheimes Pentagon-Video - Fliegt hier ein Ufo?",
+    "link": "https://www.bild.de/news/ausland/geheimes-pentagon-video-fliegt-hier-ein-ufo-6adcf6d9ba080c37bf6d03a9",
+    "image": "https://images.bild.de/6adcf6d9ba080c37bf6d03a9/fcd1c9ebef204b23db7b0cbfcf323c77-landscape,2ccb52da?w=1280",
+    "date": 0,
+    "titleSl": "Geheimes Pentagon-Video - Fliegt hier ein NLP?"
+   },
+   {
+    "title": "Eintracht-Spielmacher im Fokus - Ist der Pokal Uzuns letzte große Hütter-Chance?",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-huetters-brisante-uzun-entscheidung-im-pokal-6adf2bdc8e175153b6abf871",
+    "image": "https://images.bild.de/6adf2bdc8e175153b6abf871/70d9af08af2904d593c8d80737f5ffb4,840ad83a?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Zu heiß! - Thriller „Sliver“ musste 110-mal geändert werden",
+    "link": "https://www.bild.de/leben-wissen/digital/erotikthriller-sliver-musste-110-mal-geaendert-werden-6adf639d8915e790b469df25",
+    "image": "https://images.bild.de/6adf639d8915e790b469df25/66930c41e3b45a4abb6ee568f2005f42,10268c90?w=1280",
+    "date": 0,
+    "titleSl": "Zu heiß! - Thriller \"Sliver\" musste 110-mal geändert werden"
+   },
+   {
+    "title": "Schwerer Unfall nahe Barcelona - Bus stürzt 20 Meter tiefe Böschung hinab",
+    "link": "https://www.bild.de/news/schwerer-unfall-nahe-barcelona-bus-stuerzt-20-meter-tiefe-boeschung-hinab-6ade64fcba080c37bf6d1490",
+    "image": "https://images.bild.de/6ade64fcba080c37bf6d1490/a6387ce7dd86db0c5810fe7e16295e33,4d84a31b?w=1280",
+    "date": 0
+   },
+   {
     "title": "RAPublikanerin - Wird Superstar Nicki Minaj Trumps neue Sprecherin?",
     "link": "https://www.bild.de/politik/ausland-und-internationales/rapublikanerin-wird-superstar-nicki-minaj-trumps-neue-sprecherin-6adf4a767846c6ec50e702e4",
     "image": "https://images.bild.de/6adf4a767846c6ec50e702e4/dee788bdc5af96d9a73bf67a976988cb,dcf99518?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Innenministerin deutet an - Fan-Ausschluss nach Derby-Schande?",
-    "link": "https://www.bild.de/sport/fussball/hannover-96-innenministerin-deutet-fan-ausschluss-nach-derby-schande-an-6adf41498e175153b6abfaa8",
-    "image": "https://images.bild.de/6adf41498e175153b6abfaa8/007488e806109b5be9db913383bf709e,748ca5e7?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Er machte über 100 Länderspiele - Deutsche Basketball-Legende (✝70) gestorben",
-    "link": "https://www.bild.de/sport/mehr-sport/trauer-um-den-grossen-strauss-alba-und-der-basketball-verlieren-ihren-ex-kapitaen-6adf25548e175153b6abf7bf",
-    "image": "https://images.bild.de/6adf25548e175153b6abf7bf/83d127a70ee785c44ea022aa19c67213,d475f32c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Smog in Delhi - Wie Sie sehen, sehen Sie nichts",
-    "link": "https://www.bild.de/unterhaltung/gifter-smog-in-delhi-wie-sie-sehen-sehen-sie-nichts-6adccc433265c22d7e7abde6",
-    "image": "https://images.bild.de/6adccc433265c22d7e7abde6/271267906909485df6c1ff0e7dcf24ff,5c20b6ad?w=1280",
-    "date": 0,
-    "titleSl": "Smog v Delhiju - Wie Sie sehen, sehen Sie nichts"
-   },
-   {
-    "title": "Horror auf der A72 - Vier Autos in tödlichen Crash verwickelt – Autobahn zu",
-    "link": "https://www.bild.de/news/a72-bei-hartenstein-49-jaehriger-stirbt-bei-unfall-6adf479dc303dbdd29105b34",
-    "image": "https://images.bild.de/6adf479dc303dbdd29105b34/79e8488da6394171fc89e80660c98ab4,25beeae4?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Trump über Nickis MinARSCH - „Ein verdammt schöner Hintern“",
-    "link": "https://www.bild.de/news/trump-spricht-ueber-nicki-minaj-ein-verdammt-schoener-hintern-6adf09b868d62121196074df",
-    "image": "https://images.bild.de/6adf09b868d62121196074df/ab45da75f14f4b0ed69893f1dc69827a,1a2fd194?w=1280",
     "date": 0
    }
   ],
@@ -534,8 +536,8 @@
    {
     "title": "EN DIRECT, guerre en Ukraine : un mort et sept blessés dans une frappe de drone sur l’oblast de Dnipropetrovsk",
     "link": "https://www.lemonde.fr/international/live/2026/10/26/en-direct-guerre-en-ukraine-un-mort-et-sept-blesses-dans-une-frappe-de-drone-sur-l-oblast-de-dnipropetrovsk_6799896_3210.html",
-    "image": "https://img.lemde.fr/2026/10/26/739/0/6117/3058/644/322/60/0/26609db_ftp-1-swytgtn66xjb-2026-10-26t105107z-2137787473-rc2vaoadsxy5-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG",
-    "date": 1793025312000,
+    "image": "https://img.lemde.fr/2026/10/26/310/0/3719/1859/644/322/60/0/19e7064_ftp-1-x8w9rxid4gtz-2026-10-26t104935z-1896233199-rc2xaoaqw4to-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG",
+    "date": 1793025309000,
     "titleSl": "EN DIRECT, guerre en Ukraine : un mort et sept blessés dans une frappe de drone sur l 'oblast de Dnipropetrovsk"
    },
    {
