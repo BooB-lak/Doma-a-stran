@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-27T10:33:48.556Z",
+ "generatedAt": "2026-10-27T10:36:23.845Z",
  "sources": {
   "siol": [
+   {
+    "title": "Odstopljenega Mijiča bo v parlamentu nadomestila Martina Haring",
+    "link": "https://siol.net/novice/slovenija/odstopljenega-mijica-bo-v-parlamentu-nadomestila-martina-haring-704912",
+    "image": "https://siol.net/media/img/93/36/6f95dae3fbe8057dbba2.jpeg",
+    "date": 1793097240000
+   },
    {
     "title": "Francoska vlada delno ugodila dijakom, ti odgovarjajo: To ni vse, s protesti bomo nadaljevali.",
     "link": "https://siol.net/novice/svet/francoska-vlada-delno-ugodila-dijakom-ti-odgovarjajo-to-ni-vse-s-protesti-bomo-nadaljevali-704914",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/posel-danes/iscete-izdelke-slovenskih-pridelovalcev-ta-oznaka-vam-olajsa-izbiro-704463",
     "image": "https://siol.net/media/img/cb/f3/e3fb29aa2f43066b8d26.jpg",
     "date": 1793095440000
-   },
-   {
-    "title": "Armin Auchnetaller: Želimo izboljšati majhne stvari in napredovati korak za korakom",
-    "link": "https://siol.net/sportal/zimski-sporti/armin-auchnetaller-zelimo-izboljsati-majhne-stvari-in-napredovati-korak-za-korakom-704871",
-    "image": "https://siol.net/media/img/4d/22/6cddb50ee2e1c6af79fe.jpeg",
-    "date": 1793094600000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "V naši bližini bo zrasla nova tovarna, vložili bodo milijardo evrov",
+    "link": "https://www.zurnal24.si/denar-in-posel/v-nasi-blizini-bo-zrasla-nova-tovarna-vlozili-bodo-milijardo-evrov-467333",
+    "image": "https://www.zurnal24.si/media/img/f6/d8/0cdd63468f25be2a6d46.jpeg",
+    "date": 1793096820000
+   },
+   {
     "title": "Grozna poškodba NBA zvezdnika, Dončićevi hudi tekmeci v velikih težavah",
     "link": "https://www.zurnal24.si/sport/kosarka/grozna-poskodba-doncicevi-hudi-tekmeci-ostali-brez-kar-dveh-adutov-okc-thunder-la-lakers-jalen-williams-luka-doncic-nba-467332",
     "image": "https://www.zurnal24.si/media/img/eb/4c/12c71bc8afa5c2ed38c5.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/svet/smrtonosni-tornado-vetrovi-unicili-zabojnike-in-prevrnili-zerjav-467327",
     "image": "https://www.zurnal24.si/media/img/a0/c1/18e0db0d3444658f3e34.png",
     "date": 1793093700000
-   },
-   {
-    "title": "Policija ustavila nezanesljivega voznika, za volanom pa ...",
-    "link": "https://www.zurnal24.si/slovenija/crna-kronika/policija-ustavila-nezanesljivega-voznika-za-volanom-pa-467325",
-    "image": "https://www.zurnal24.si/media/img/27/6b/69779d7468086530beff.jpeg",
-    "date": 1793090400000
    }
   ],
   "reuters": [
@@ -414,6 +414,31 @@
   ],
   "bild": [
    {
+    "title": "Insekten im Herbst - Bloß nicht die Stinkwanze zerquetschen!",
+    "link": "https://www.bild.de/leben-wissen/stinkwanzen-in-der-wohnung-so-werden-sie-die-tiere-los-6adf24ebc303dbdd291056af",
+    "image": "https://images.bild.de/6adf24ebc303dbdd291056af/82bd24dc550733cf3214cb50d1139811,1accf740?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Letzte Chance im Oktober - Welche Filme und Serien verlassen Netflix bald?",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/netflix-im-oktober-diese-filme-und-serien-verschwinden-bald-6abb80263da2dbd714a9f9eb",
+    "image": "https://images.bild.de/6abb80263da2dbd714a9f9eb/ed4542047f2f7f6d5843886ddcdefe10,ba39cec1?w=1280",
+    "date": 0,
+    "titleSl": "Letzte Chance im Oktober - Welche Filme und Serien verlassen Netflix plešast?"
+   },
+   {
+    "title": "Offenbar nach Streit - Auto rast mit Absicht in Menschenmenge!",
+    "link": "https://www.bild.de/news/inland/offenbar-nach-streit-auto-rast-mit-absicht-in-menschenmenge-6ae0735441a652332eb6d4af",
+    "image": "https://images.bild.de/6ae0735441a652332eb6d4af/15abe2ca93ba78a2e715417ecbe0437b-landscape,385f7a8c?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Höllenschmerzen - Lassen Sie der Katze niemals die Krallen entfernen",
+    "link": "https://www.bild.de/leben-wissen/haustiere/katze-zerkratzt-moebel-diese-alternativen-zum-declawing-helfen-6adb664f9fbb7e8e310dd779",
+    "image": "https://images.bild.de/6adb664f9fbb7e8e310dd779/c878c1c5983b35099b9ca1628c309288,fb680f75?w=1280",
+    "date": 0
+   },
+   {
     "title": "Welche Team-Regel er brechen durfte - Die goldene Party-Nacht von King Kane!",
     "link": "https://www.bild.de/sport/fussball/harry-kane-die-goldene-nacht-des-gewinners-des-ballon-dors-6ae05248d394e9264bdfb229",
     "image": "https://images.bild.de/6ae05248d394e9264bdfb229/3c4286dfa373fe1b58459c0bbad3ba4c,d085a4c4?w=1280",
@@ -424,34 +449,15 @@
     "link": "https://www.bild.de/sport/fussball/ballon-dor-caro-daur-sah-den-triumph-von-harry-kane-6ae06553dcd605c8d4ce9fcf",
     "image": "https://images.bild.de/6ae06553dcd605c8d4ce9fcf/eab7ea6d883890a46549f9d57e6510a5,d863a5f5?w=1280",
     "date": 0
-   },
-   {
-    "title": "Vorm Pokalspiel gegen RB Leipzig - Essen-Ultras betonieren Eingang für Leipzig-Fans zu",
-    "link": "https://www.bild.de/sport/fussball/ultras-von-essen-betonieren-eingang-vor-dfb-pokalspiel-zu-6ae06fac67fc5d0d0ce66e1f",
-    "image": "https://images.bild.de/6ae06fac67fc5d0d0ce66e1f/373d0a5bcfc8d8ec0c659c263799606c,34b1f410?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Superhelden-Image - Chris Hemsworth „versteckte“ sich hinter Thor-Rolle",
-    "link": "https://www.bild.de/leben-wissen/fitness/chris-hemsworth-versteckte-sich-hinter-thor-rolle-698a0a43187cd74f0d3760f2",
-    "image": "https://images.bild.de/698a0a43187cd74f0d3760f2/5cd2b680a6c4bfc37259f8764022a6e0,478a4613?w=1280",
-    "date": 0,
-    "titleSl": "Superhelden-Image - Chris Hemsworth \"versteckte\" sich hinter Thor-Rolle"
-   },
-   {
-    "title": "Sprengkopf geborgen - Bombenfund! Bahnstrecke Hamburg – Berlin gesperrt",
-    "link": "https://www.bild.de/news/eilmeldung-bombenfund-bahnstrecke-hamburg-berlin-gesperrt-6ae06b7041a652332eb6d3c6",
-    "image": "https://images.bild.de/6ae06b7041a652332eb6d3c6/96ad597ded32c9e45ddc3dd4b880a578,771f7ddd?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Heftige Ausschreitungen in Bilbao - Proteste gegen rechten Aktivisten eskalieren",
-    "link": "https://www.bild.de/news/ausland/heftige-ausschreitungen-in-bilbao-proteste-gegen-rechten-aktivisten-eskalieren-6ae072b2dcd605c8d4cea155",
-    "image": "https://images.bild.de/6ae072b2dcd605c8d4cea155/6c870eab28d54460d494b74721bc1025,19c0c8e9?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Rennen ist eröffnet - Großes Kandidaten-Raten im Poker um die Hofburg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oTlZzZmJ1MUw3Z3JJTjd0OTAyakZPc1E2bF9BQnVsc1Z1SDFHaGFYRHhkZGYyRWNaM3VzTjRja0JJZw?oc=5",
+    "image": "",
+    "date": 1793097330000
+   },
    {
     "title": "80 km/h auf Autobahn - Wie Radarstrafe ein Tempolimit ausbremsen könnte",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJcTFaYi0xYmZjQjN0d1dOLXlmWllQZ0xoOWhENlFtZTRTNm9oQnhVSzNvWXZEd0xTNFExYkNZU1VkUQ?oc=5",
@@ -482,12 +488,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xN3NtMVpVQkxGb3JSMTFuY09yay1obXdqb0lILUZ0dUhLaDZ0OW9MSVVubFFvbGRLN09UekQtS1dFZw?oc=5",
     "image": "",
     "date": 1793095500000
-   },
-   {
-    "title": "Rennen ist eröffnet - Großes Kandidaten-Raten im Poker um die Hofburg",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oTlZzZmJ1MUw3Z3JJTjd0OTAyakZPc1E2bF9BQnVsc1Z1SDFHaGFYRHhkZGYyRWNaM3VzTjRja0JJZw?oc=5",
-    "image": "",
-    "date": 1793095284000
    }
   ],
   "rainews": [
@@ -544,7 +544,7 @@
     "title": "« Gaza est à nous ! » : alors qu’Israël vote, des colons ont installé un campement à la frontière de l’enclave palestinienne",
     "link": "https://www.lemonde.fr/international/article/2026/10/27/gaza-est-a-nous-alors-qu-israel-vote-des-colons-ont-installe-un-campement-a-la-frontiere-de-l-enclave-palestinienne_6801222_3210.html",
     "image": "https://img.lemde.fr/2026/10/27/480/0/5760/2880/644/322/60/0/77ab992_upload-1-bmmbeyrzdvoe-lgeai-nachala-gaza-34.jpg",
-    "date": 1793095206000,
+    "date": 1793095200000,
     "titleSl": "« Gaza est à nous ! » : alors qu 'Israël glas, des colons ont installé un campement à la frontière de l' enclave palestinienne"
    },
    {
