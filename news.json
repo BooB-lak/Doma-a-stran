@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-27T11:30:53.622Z",
+ "generatedAt": "2026-10-27T11:32:24.593Z",
  "sources": {
   "siol": [
+   {
+    "title": "Nemški Infineon bo v tovarno čipov blizu Slovenije vložil milijardo evrov",
+    "link": "https://siol.net/novice/posel-danes/nemski-infineon-bo-v-tovarno-cipov-blizu-slovenije-vlozil-milijardo-evrov-704921",
+    "image": "https://siol.net/media/img/e2/d4/6637105c64b0157ede23.jpeg",
+    "date": 1793100240000
+   },
    {
     "title": "To je najbolj seksi moški leta 2026",
     "link": "https://siol.net/trendi/zvezde-in-slavni/to-je-najbolj-seksi-moski-leta-2026-704920",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/ronaldo-znova-na-sirsem-seznamu-portugalske-ekipe-za-ligo-narodov-704911",
     "image": "https://siol.net/media/img/d3/d1/df2fa2dfa38e32eb5c28.jpeg",
     "date": 1793096100000
-   },
-   {
-    "title": "Hrvaška: pacientki po napačni diagnozi odstranili želodec. Zdravnici grozi zapor.",
-    "link": "https://siol.net/novice/svet/hrvaska-pacientki-po-napacni-diagnozi-odstranili-zelodec-zdravnici-grozi-zapor-704909",
-    "image": "https://siol.net/media/img/b3/45/cbd9a30a1225ceb1675a.jpeg",
-    "date": 1793095680000
    }
   ],
   "24ur": [
@@ -199,13 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "Could ‘You Can See Everything’ Be Up for Best Picture but Not Documentary?",
-    "link": "https://www.nytimes.com/2026/10/27/movies/you-can-see-everything-oscars-nathan-fielder.html",
-    "image": "",
-    "date": 1793100529000,
-    "titleSl": "Bi lahko bil film 'Vidiš vse' za najboljši film, ne pa tudi dokumentarec?"
-   },
-   {
     "title": "Inflation. War. Corruption. Hold Trump Accountable.",
     "link": "https://www.nytimes.com/2026/10/27/opinion/editorials/inflation-war-corruption-trump-editorial.html",
     "image": "https://static01.nyt.com/images/2026/10/27/opinion/27midterms-editorial/27midterms-editorial-mediumSquareAt3X-v3.jpg",
@@ -238,6 +231,13 @@
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-uk-king-charles-abroad-01-chbj/27int-uk-king-charles-abroad-01-chbj-mediumSquareAt3X.jpg",
     "date": 1793097590000,
     "titleSl": "King Charles se sooča s preizkusom visokih vložkov na turneji po Karibih"
+   },
+   {
+    "title": "Israel’s First Election Since Oct. 7, and What Anthropic’s I.P.O. Means for the Whole Economy",
+    "link": "https://www.nytimes.com/2026/10/27/podcasts/the-headlines/israel-election-anthropic-ipo.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27theheadlines-israel-election-fwjz/27theheadlines-israel-election-fwjz-mediumSquareAt3X.jpg",
+    "date": 1793095209000,
+    "titleSl": "Prve volitve v Izraelu po 7. oktobru in kaj Anthropic's I.P.O. Sredstva za celotno gospodarstvo"
    }
   ],
   "bbc": [
@@ -462,6 +462,27 @@
   ],
   "krone": [
    {
+    "title": "Rennen ist eröffnet - Großes Kandidaten-Raten im Poker um die Hofburg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oTlZzZmJ1MUw3Z3JJTjd0OTAyakZPc1E2bF9BQnVsc1Z1SDFHaGFYRHhkZGYyRWNaM3VzTjRja0JJZw?oc=5",
+    "image": "",
+    "date": 1793100685000,
+    "titleSl": "Tekma je v teku - Velik kandidat ugiba v pokru za Hofburg"
+   },
+   {
+    "title": "Schwer getroffen - Schlag in den Schritt: Not-OP beim Grazer Torjäger",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GcndudjJJWGlPVlNTZ2ExOWJ1T21oVW1zc2JYaXVTNTRjcDJVUlhmTnhNblJaelM2WHFNVFA1QloxQQ?oc=5",
+    "image": "",
+    "date": 1793100600000,
+    "titleSl": "Hudo udarec - udarec v mednožje: nujna operacija za napadalca iz Gradca"
+   },
+   {
+    "title": "„Ich habe nie an meiner Qualität gezweifelt“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yUDI0TGlic3FNaGNteXU5by1MZWJUeWpwN0JNOGt5MXM4NHpRQXRVb1B2Qzg0ZktxRERxUVBDMFE1QQ?oc=5",
+    "image": "",
+    "date": 1793100600000,
+    "titleSl": "“Nikoli nisem dvomil v svojo kakovost”"
+   },
+   {
     "title": "Influencerin am Boden - Sophia Thiel: „Bin mental am absoluten Tiefpunkt“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zSzhwcXRMM3NxOTdmVjJKWFRCSEVOS3UwaXBzNDI2S1VQU2xuYmtlMkxteWZKY2c0b3FIMUR1R0djQQ?oc=5",
     "image": "",
@@ -481,27 +502,6 @@
     "image": "",
     "date": 1793099160000,
     "titleSl": "Beate Zschäpe - teroristka NSU ostaja v zaporu vsaj do leta 2035"
-   },
-   {
-    "title": "WTA-Turnier Guangzhou - LIVE: Wieder Break! Tagger dominiert Williams",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02Tml2ZlpBSmRZTDZtdkJ5NXpRRC1uRW9TOUJZckg2RU9SOWYzUVdwcmxpVHNUT3daUVZzR2pkdXBkZw?oc=5",
-    "image": "",
-    "date": 1793098800000,
-    "titleSl": "WTA-Turnier Guangzhou - V ŽIVO: Wieder Break! Tagger dominiert Williams"
-   },
-   {
-    "title": "Neuer Vorstand - Tourismuszahlen zeigen deutlich: Klagenfurt boomt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94aTBVN3NHcUgwNlpidGpRM1Z1UHdyOFhudXN2OWNBNks4M01mTlVZVjI0TG9UMTl6VTlBMUlHZ0NlUQ?oc=5",
-    "image": "",
-    "date": 1793098800000,
-    "titleSl": "Neuer Vorstand - Tourismuszahlen zeigen deutlich: Celovec boomt"
-   },
-   {
-    "title": "Drei Festnahmen - Auto raste in Gruppe: Verdächtige aus Clan-Umfeld",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tZERIVTB4aU5WQ2hDNDctRHRjT1hnUmE3YXprVldXRkQzbWFhU3dzV3haWER1Qng2cTl3Z211UHNPZw?oc=5",
-    "image": "",
-    "date": 1793098680000,
-    "titleSl": "Tri aretacije - avto trčil v skupino: osumljenci iz klanovskega okolja"
    }
   ],
   "rainews": [
