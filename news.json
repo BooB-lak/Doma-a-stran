@@ -1,12 +1,24 @@
 {
- "generatedAt": "2026-10-27T10:18:24.044Z",
+ "generatedAt": "2026-10-27T10:20:39.095Z",
  "sources": {
   "siol": [
+   {
+    "title": "Od garažnih začetkov na Jesenicah do velikana spletnega nakupovanja",
+    "link": "https://siol.net/novice/posel-danes/od-garaznih-zacetkov-na-jesenicah-do-velikana-spletnega-nakupovanja-704813",
+    "image": "https://siol.net/media/img/66/01/8b3f0757430ab6670b51.jpeg",
+    "date": 1793096340000
+   },
    {
     "title": "Ronaldo znova na širšem seznamu portugalske ekipe za ligo narodov",
     "link": "https://siol.net/sportal/nogomet/ronaldo-znova-na-sirsem-seznamu-portugalske-ekipe-za-ligo-narodov-704911",
     "image": "https://siol.net/media/img/d3/d1/df2fa2dfa38e32eb5c28.jpeg",
     "date": 1793096100000
+   },
+   {
+    "title": "Hrvaška: Pacientki po napačni diagnozi odstranili želodec. Zdravnici grozi zapor.",
+    "link": "https://siol.net/novice/svet/hrvaska-pacientki-po-napacni-diagnozi-odstranili-zelodec-zdravnici-grozi-zapor-704909",
+    "image": "https://siol.net/media/img/b3/45/cbd9a30a1225ceb1675a.jpeg",
+    "date": 1793095680000
    },
    {
     "title": "Iščete izdelke slovenskih pridelovalcev? Ta oznaka vam olajša izbiro.",
@@ -25,18 +37,6 @@
     "link": "https://siol.net/novice/svet/obsezen-ruski-napad-na-kijev-zadeti-studentski-dom-trgovine-bolnisnica-podzemna-zeleznica-vzivo-704877",
     "image": "https://siol.net/media/img/1c/83/993aa1301b6202fa57bd.jpeg",
     "date": 1793094480000
-   },
-   {
-    "title": "Pogačar šesto leto po vrsti na vrhu lestvice Ucija, Roglič 24.",
-    "link": "https://siol.net/sportal/kolesarstvo/pogacar-sesto-leto-po-vrsti-na-vrhu-lestvice-ucija-roglic-24-704907",
-    "image": "https://siol.net/media/img/95/e3/27b4310350f555f00acc.jpeg",
-    "date": 1793094240000
-   },
-   {
-    "title": "Jeseničani pri mladih Korošcih",
-    "link": "https://siol.net/sportal/hokej/alpska-liga-27-oktober-2026-704820",
-    "image": "https://siol.net/media/img/15/8f/7b8f18eb1eb5e3c5f89a.jpg",
-    "date": 1793092920000
    }
   ],
   "24ur": [
@@ -79,6 +79,18 @@
   ],
   "rtvslo": [
    {
+    "title": "Cristiano Ronaldo na širšem seznamu portugalske reprezentance",
+    "link": "https://www.rtvslo.si/sport/nogomet/cristiano-ronaldo-na-sirsem-seznamu-portugalske-reprezentance/798196",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/06/67110341.jpg",
+    "date": 1793096289000
+   },
+   {
+    "title": "Policisti na območju občine Trebnje zasegli okoli deset kilogramov prepovedane konoplje",
+    "link": "https://www.rtvslo.si/crna-kronika/policisti-na-obmocju-obcine-trebnje-zasegli-okoli-deset-kilogramov-prepovedane-konoplje/798195",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/27/67116959.jpg",
+    "date": 1793095796000
+   },
+   {
     "title": "Svetovni dan AV-dediščine: Poklon vizionarski Filmligi in eksperimentalnim filmom Barbare Meter",
     "link": "https://www.rtvslo.si/kultura/film-in-tv/svetovni-dan-av-dediscine-poklon-vizionarski-filmligi-in-eksperimentalnim-filmom-barbare-meter/798192",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/27/67116955.jpg",
@@ -101,18 +113,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/popkultura/moda/med-najbolje-oblecenimi-na-podelitvi-zlate-zoge-prednjacil-tudi-lamine-yamal/798182",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/26/67116882.jpg",
     "date": 1793092903000
-   },
-   {
-    "title": "V ukrajinskem mestu Oleški zjutraj začela veljati humanitarna prekinitev ognja",
-    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/v-ukrajinskem-mestu-oleski-zjutraj-zacela-veljati-humanitarna-prekinitev-ognja/798188",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/27/67116942.jpg",
-    "date": 1793092008000
-   },
-   {
-    "title": "V Slovenskih Konjicah sedem županskih kandidatov",
-    "link": "https://www.rtvslo.si/slovenija/lokalne-volitve-2026/v-slovenskih-konjicah-sedem-zupanskih-kandidatov/798187",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/11/10/66993223.jpg",
-    "date": 1793091515000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke",
+    "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+    "date": 1793096353000,
+    "titleSl": "Mbappé, ki so ga spustile glavne kitajske blagovne znamke, je padel, ko se je zaradi šale o MAO povečal odziv"
+   },
+   {
     "title": "Israel heads to polls for pivotal election defined by security and democracy",
     "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png",
@@ -276,16 +283,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0b1/live/d7989070-d1e2-11f1-8e07-c79267b33d55.png",
     "date": 1793094956000,
     "titleSl": "Uradniki Združenega kraljestva in EU bodo razpravljali o svobodi gibanja"
-   },
-   {
-    "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-    "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
-    "date": 1793093875000,
-    "titleSl": "Apple pravi, da bo zamenjal telefone iPhone Duo s težavami z zaslonom"
    }
   ],
   "aljazeera": [
+   {
+    "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
+    "link": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2302036575-1793090208.jpg?resize=1920%2C1440",
+    "date": 1793095412000,
+    "titleSl": "\"Čarobno je\": znamenita londonska ulica Oxford Street je brez vozil"
+   },
    {
     "title": "WNBA Finals: Valkyries beat Dream to reach the brink of their first title",
     "link": "https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac4f953a5-1791293779.jpg?resize=1920%2C1440",
     "date": 1793092341000,
     "titleSl": "Britansko tožilstvo je po incidentu RAF Fairford obtožilo dva"
-   },
-   {
-    "title": "Cruise ship crashes into two container ships during storm",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793090764.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793090779000,
-    "titleSl": "Ladja za križarjenje med nevihto strmoglavi v dve kontejnerski ladji"
    }
   ],
   "guardian": [
@@ -415,6 +415,25 @@
   ],
   "bild": [
    {
+    "title": "Haben Sie es bemerkt? - Rummenigge-Panne in offiziellem Ballon-d‘Or-Video!",
+    "link": "https://www.bild.de/sport/fussball/ballon-dor-veranstalter-zeigen-falschen-rummenigge-6ae06039606708eb0870c0bd",
+    "image": "https://images.bild.de/6ae06039606708eb0870c0bd/a54ecaec9e3514c56009ce93104e872d,4c8c46fd?w=1280",
+    "date": 0,
+    "titleSl": "Haben Sie es bemerkt? - Rummenigge-Panne in offiziellem Ballon-d 'Or-Video!"
+   },
+   {
+    "title": "Falsche Versprechen, Druck von Lehrern - Jetzt lockt Putins Armee Studenten in die Kriegsfalle",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/putin-lockt-studenten-mit-falschen-versprechen-und-druck-von-lehrern-in-den-krieg-6ae0460f16ed143d64a1dbf4",
+    "image": "https://images.bild.de/6ae0460f16ed143d64a1dbf4/5adcca25491c7431ffee1f2e7b06de7e,5fe7f446?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Entschärfer angefordert - Bombenfund! Bahnstrecke Hamburg – Berlin gesperrt",
+    "link": "https://www.bild.de/news/eilmeldung-bombenfund-bahnstrecke-hamburg-berlin-gesperrt-6ae06b7041a652332eb6d3c6",
+    "image": "https://images.bild.de/6ae06b7041a652332eb6d3c6/96ad597ded32c9e45ddc3dd4b880a578,771f7ddd?w=1280",
+    "date": 0
+   },
+   {
     "title": "Glückwunsch, Harry! - DAS sagt Kane zu seinem Ballon-d’Or-Sieg",
     "link": "https://www.bild.de/sport/fussball/harry-hat-es-geschafft-kanes-emotionale-ballon-dor-rede-6ae04e30f519943c36c68930",
     "image": "https://images.bild.de/6ae04e30f519943c36c68930/4f44377b48fa2969e44ae9e4505d8a3b,2a08d218?w=1280",
@@ -433,25 +452,6 @@
     "image": "https://images.bild.de/6abfbddb85d64113fb06d1a7/358180c96776664bcd8bae45caa4af78,45e138dc?w=1280",
     "date": 0,
     "titleSl": "MINI Countryman „Untamed Edition“ - Dieser Mini ist ein Dreckskerl – und stolz darauf"
-   },
-   {
-    "title": "Prost, Harry! - Kane feiert mit Champagner und Shots",
-    "link": "https://www.bild.de/sport/fussball/prost-harry-kane-feiert-mit-champagner-und-shots-6ae0552a16ed143d64a1dd13",
-    "image": "https://images.bild.de/6ae0552a16ed143d64a1dd13/a0189c2122f23df9b4a59499a9b91637,9baaa01c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Hey, Harraldo!“ - Müller gratuliert seinem Kumpel Kane",
-    "link": "https://www.bild.de/sport/fussball/hey-harraldo-mueller-feiert-seinen-kumpel-kane-6ae05dbfd394e9264bdfb304",
-    "image": "https://images.bild.de/6ae05dbfd394e9264bdfb304/3efbd9bd483e5b09cca6a0866e3afd9f,6eae3695?w=1280",
-    "date": 0,
-    "titleSl": "\"Hej, Harraldo!\" - Müller gratuliert seinem Kumpel Kane"
-   },
-   {
-    "title": "Danks gibt Update zum Gesundheitszustand - Erster Trainer-Besuch bei Kompany",
-    "link": "https://www.bild.de/sport/fussball/vincent-kompany-danks-berichtet-von-guter-stimmung-im-krankenhaus-6ae0697adcd605c8d4cea046",
-    "image": "https://images.bild.de/6ae0697adcd605c8d4cea046/55ab9aa92862367f7f7b673ace3fb206,47e63f4?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -497,6 +497,12 @@
   ],
   "rainews": [
    {
+    "title": "Incidente sul lavoro, muore un operaio di 20 anni",
+    "link": "https://www.rainews.it/articoli/2026/10/incidente-sul-lavoro-muore-un-operaio-di-20-anni-b814e0a4-bcdf-4412-970d-b9eb4cb921a4.html",
+    "image": "https://www.rainews.it/dl/img/2024/02/27/1709036237085_Elicottero.jpeg",
+    "date": 1793095980000
+   },
+   {
     "title": "TG2 Italia Europa del 27/10/2026",
     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/10/TG2-Italia-Europa-del-27102026-673338e8-d00b-4812-b373-dfadf76c5203.html",
     "image": "https://www.rainews.it/dl/img/2021/03/19/1616174617825_2048x1152.jpg",
@@ -530,13 +536,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/26/1793019516559_A_TAVOLA_SENZA_SCHERMI.jpg",
     "date": 1793092260000,
     "titleSl": "Addio smartphone a pranzo ea cena: in 15 ristoranti sardi parte la sperimentazione"
-   },
-   {
-    "title": "Germania: nave da crociera con 3.000 persone a bordo urta due portacontainer. Viaggio annullato",
-    "link": "https://www.rainews.it/video/2026/10/germania-nave-da-crociera-urta-due-portacontainer-viaggio-annullato-e-comandante-indagato-abafcfb2-05cd-468e-862b-48353d12c886.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/27/1793092267124_vlcsnaphms.png",
-    "date": 1793092020000,
-    "titleSl": "Nemčija: križarka s 3000 ljudmi na krovu zadene dve kontejnerski ladji. Potovanje odpovedano"
    }
   ],
   "lemonde": [
