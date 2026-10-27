@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T12:04:26.297Z",
+ "generatedAt": "2026-10-27T12:06:25.632Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/sportal/tenis/andreja-klepac-uspesna-v-osmini-finala-na-kitajskem-704925",
     "image": "https://siol.net/media/img/6d/37/bc00be8a59001496733e.jpeg",
     "date": 1793102340000
+   },
+   {
+    "title": "Slovenci na Hrvaškem med najmanjši porabniki",
+    "link": "https://siol.net/novice/svet/slovenci-na-hrvaskem-med-najmanjsi-porabniki-704924",
+    "image": "https://siol.net/media/img/5a/a6/e08a5d81ab3be4705972.jpeg",
+    "date": 1793102280000
    },
    {
     "title": "Magnus Norman naj bi postal novi trener Jannika Sinnerja",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/odstopljenega-mijica-bo-v-parlamentu-nadomestila-martina-haring-704912",
     "image": "https://siol.net/media/img/04/b7/764df5be310911472b56.jpeg",
     "date": 1793097240000
-   },
-   {
-    "title": "Francoska vlada delno ugodila dijakom, ti odgovarjajo: To ni vse, proteste bomo nadaljevali",
-    "link": "https://siol.net/novice/svet/francoska-vlada-delno-ugodila-dijakom-ti-odgovarjajo-to-ni-vse-s-protesti-bomo-nadaljevali-704914",
-    "image": "https://siol.net/media/img/3e/41/348352adef51b1a6d702.jpeg",
-    "date": 1793096460000
    }
   ],
   "24ur": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "King Charles Faces High Stakes Test With Caribbean Tour",
+    "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-uk-king-charles-abroad-01-chbj/27int-uk-king-charles-abroad-01-chbj-mediumSquareAt3X.jpg",
+    "date": 1793102569000,
+    "titleSl": "King Charles se sooča s preizkusom visokih vložkov na turneji po Karibih"
+   },
+   {
     "title": "Could ‘You Can See Everything’ Be Up for Best Picture but Not Documentary?",
     "link": "https://www.nytimes.com/2026/10/27/movies/you-can-see-everything-oscars-nathan-fielder.html",
     "image": "",
@@ -231,13 +238,6 @@
     "image": "https://static01.nyt.com/images/2026/10/27/opinion/27eks-silver-image01/27eks-silver-image01-mediumSquareAt3X.jpg",
     "date": 1793097892000,
     "titleSl": "Nate Silver o tem, kaj pravijo ankete — in kaj mu pove črevesje"
-   },
-   {
-    "title": "King Charles Faces High Stakes Test With Caribbean Tour",
-    "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-uk-king-charles-abroad-01-chbj/27int-uk-king-charles-abroad-01-chbj-mediumSquareAt3X.jpg",
-    "date": 1793097590000,
-    "titleSl": "King Charles se sooča s preizkusom visokih vložkov na turneji po Karibih"
    }
   ],
   "bbc": [
@@ -277,14 +277,21 @@
     "titleSl": "Abhishek zadene 35-tonsko žogico, ko Indija udari s kladivom po Novi Zelandiji"
    },
    {
-    "title": "Carrick arrives at training ground with future unclear",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f82/live/656cace0-d1db-11f1-9f3a-894a9e311fa8.jpg",
-    "date": 1793099814000,
-    "titleSl": "Carrick prispe na vadbišče z nejasno prihodnostjo"
+    "title": "Netherlands makes U-turn over Eurovision return",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/912b/live/5e717160-d1fd-11f1-b30f-21253679b290.jpg",
+    "date": 1793100199000,
+    "titleSl": "Nizozemska se je vrnila na Evrovizijo"
    }
   ],
   "aljazeera": [
+   {
+    "title": "The Ballon d’Or has a narrow definition of footballing greatness",
+    "link": "https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adfdb0d63a3-1793055501_8b97f4-1793096157.jpg?resize=1200%2C630&quality=80",
+    "date": 1793101799000,
+    "titleSl": "Zlata žoga ima ozko definicijo nogometne veličine"
+   },
    {
     "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
@@ -319,13 +326,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793098319.jpg?resize=1920%2C1080&quality=80",
     "date": 1793098368000,
     "titleSl": "Družine žrtev, ubitih v jordanskem napadu, zanikajo povezave z napadom na cerkev"
-   },
-   {
-    "title": "Why Jordan has struck Syria: What we know",
-    "link": "https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae020c4-1793073348.jpg?resize=1200%2C630",
-    "date": 1793098013000,
-    "titleSl": "Zakaj je Jordanija napadla Sirijo: Kaj vemo"
    }
   ],
   "guardian": [
@@ -418,6 +418,13 @@
   ],
   "bild": [
    {
+    "title": "300. Spiel, erste Rote! - Halle-Profi Landgraf erlebt verrückten Nachmittag",
+    "link": "https://www.bild.de/sport/fussball/300-spiel-erste-rote-halle-profi-landgraf-erlebt-verrueckten-nachmittag-6ae090e341a652332eb6d8ac",
+    "image": "https://images.bild.de/6ae090e341a652332eb6d8ac/f50236fffc05fb7b0f041fb8a4789918,3c024afd?w=1280",
+    "date": 0,
+    "titleSl": "300. tekma, prva rdeča! - Halle professional Landgraf ima noro popoldne"
+   },
+   {
     "title": "Nach Kritik an Recall - Microsoft plant neues KI-Gedächtnis",
     "link": "https://www.bild.de/leben-wissen/digital/nach-kritik-an-recall-microsoft-plant-neues-ki-gedaechtnis-6ae08518dcd605c8d4cea38d",
     "image": "https://images.bild.de/6ae08518dcd605c8d4cea38d/f98ede0601428c6a9aa5fd89e3728fb9,86f20342?w=1280",
@@ -451,57 +458,50 @@
     "image": "https://images.bild.de/6adf95207846c6ec50e70908/a72e2dc312e2ae0f4b483d913d90526e,93a63f73?w=1280",
     "date": 0,
     "titleSl": "50.000 evrov denarne nagrade - Ginger in Lukas sta osvojila “poletno hišo”"
-   },
-   {
-    "title": "Führungsrolle für Franzosen - So wichtig wird Brassier für Eintracht",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-so-wichtig-wird-brassier-jetzt-fuer-huetter-6ae0799667fc5d0d0ce66f74",
-    "image": "https://images.bild.de/6ae0799667fc5d0d0ce66f74/d44ed6ae14542687364770b77b0e80d7,8c79afb7?w=1280",
-    "date": 0,
-    "titleSl": "Vodilna vloga za Francoze – tako pomemben je Brassier za Eintracht"
    }
   ],
   "krone": [
    {
-    "title": "80 km/h auf Autobahn - Wie Radarstrafe ein Tempolimit ausbremsen könnte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJcTFaYi0xYmZjQjN0d1dOLXlmWllQZ0xoOWhENlFtZTRTNm9oQnhVSzNvWXZEd0xTNFExYkNZU1VkUQ?oc=5",
+    "title": "„Ich habe nie an meiner Qualität gezweifelt“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yUDI0TGlic3FNaGNteXU5by1MZWJUeWpwN0JNOGt5MXM4NHpRQXRVb1B2Qzg0ZktxRERxUVBDMFE1QQ?oc=5",
     "image": "",
-    "date": 1793102608000,
-    "titleSl": "80 km/h na avtocesti - Kako bi radarske kazni lahko upočasnile omejitev hitrosti"
+    "date": 1793100600000,
+    "titleSl": "“Nikoli nisem dvomil v svojo kakovost”"
    },
    {
-    "title": "Diskutieren Sie mit! - Welcher ist Ihr schönster Platz in Österreich?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yQWlkUXRjSE83RlBaanZsSUsxV1dqX1JycWwxVWNDYTJkSEZHLUttNWkxSWMzenJjOEhyQXZLSDR5UQ?oc=5",
+    "title": "Schwer getroffen - Schlag in den Schritt: Not-OP beim Grazer Torjäger",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GcndudjJJWGlPVlNTZ2ExOWJ1T21oVW1zc2JYaXVTNTRjcDJVUlhmTnhNblJaelM2WHFNVFA1QloxQQ?oc=5",
     "image": "",
-    "date": 1793102400000,
-    "titleSl": "Pridružite se razpravi! - Kateri kraj v Avstriji vam je najlepši?"
+    "date": 1793100600000,
+    "titleSl": "Hudo udarec - udarec v mednožje: nujna operacija za napadalca iz Gradca"
    },
    {
-    "title": "Kulinarik-Legende - Michael Kolm und sein Team erkochten vierte Haube",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54VC1BOWRyQnFSRGwwc2FUWG9NeU90U0o5WFpMRkQyNVJoMlN2VmFGUWROYkVhNnRTU2NzRGlIUnBaUQ?oc=5",
+    "title": "WTA-Turnier Guangzhou - LIVE: Wieder Break! Tagger dominiert Williams",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02Tml2ZlpBSmRZTDZtdkJ5NXpRRC1uRW9TOUJZckg2RU9SOWYzUVdwcmxpVHNUT3daUVZzR2pkdXBkZw?oc=5",
     "image": "",
-    "date": 1793102400000,
-    "titleSl": "Kulinarična legenda - Michael Kolm in njegova ekipa so dosegli četrto toque"
+    "date": 1793098800000,
+    "titleSl": "WTA turnir Guangzhou - V ŽIVO: Spet Break! Tagger dominira nad Williamsom"
    },
    {
-    "title": "140 Arbeitsplätze weg! - Depot sperrt nun alle 24 Filialen in Österreich zu",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ac1NCMmdIRm04YzRLaFFXMlF1RXBzNWxJWjRvT2JLd1RrUXN3SWxmX2MycFoxX083UlRGZnFwZmdVUQ?oc=5",
+    "title": "Züge durchsucht - Polizei erwischt Kinder mit illegalen Böllern",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfaDhrMGxWTUJYUld1S1lmX1pmeXFSWDVQZ2RwWmI1SjN5X3R2YmtBMDQ2cFUtUTZWNmVRRm1zNkRzQQ?oc=5",
     "image": "",
-    "date": 1793102400000,
-    "titleSl": "140 delovnih mest je izgubljenih! - Depot zdaj zapira vseh 24 poslovalnic v Avstriji"
+    "date": 1793098620000,
+    "titleSl": "Preiskali vlake - policija ujela otroke s prepovedanimi petardami"
    },
    {
-    "title": "Fall erschüttert Tirol - Kind (7) massiv abgemagert: Anklage gegen Eltern",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IOWk5LVFqQmpPQjloQl9vdzNnSGYzX1VETnJVVWI2TTRud0g0WXk3bUd3N2lQSjlrZ085ektrUXk4QQ?oc=5",
+    "title": "Die günstigste Lösung - Auto kaufen, leasen oder finanzieren lassen?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnaExuNDM5X0RGQ3FQRUNiYW1qT09rRW9wQ0lzWEw3NEFaR21Db0RvNkI1V2RhOHRsRFBvVzhHc2ZHUQ?oc=5",
     "image": "",
-    "date": 1793102400000,
-    "titleSl": "Primer šokira Tirolsko - otrok (7) močno shujšan: obtožbe proti staršem"
+    "date": 1793098500000,
+    "titleSl": "Najcenejša rešitev - kupiti avto, na lizing ali financirati?"
    },
    {
-    "title": "Auch Österreich dabei - Olympische Jugendspiele starten erstmals in Afrika",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CTUdVbElKR3J2eGxjRk96M0FtVllCOWRJcmcyUUdyWUUyQ01INWVYdXMyVmFUVkdERUVRZVppUWY1dw?oc=5",
+    "title": "Pläne durchgesickert - KI als Cyberwaffe: Wie die US-Armee aufrüsten will",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uYnlvSDhkaEk1QzFpUDMtdWdzZnFRLU14RGk2LXYtcEx3LVlVSkZNSW9Gb2pJZDFaMTVwRmxnelZydw?oc=5",
     "image": "",
-    "date": 1793102280000,
-    "titleSl": "Zraven je tudi Avstrija - v Afriki se prvič začenjajo olimpijske igre mladih"
+    "date": 1793098380000,
+    "titleSl": "Pläne durchgesickert - KI als Cyberwaffe: Wie die US-Armee aufrüsten bo"
    }
   ],
   "rainews": [
@@ -550,6 +550,12 @@
   ],
   "lemonde": [
    {
+    "title": "Journalistes brutalisés au congrès du RN : la presse doit pouvoir travailler librement, alertent 44 sociétés de journalistes",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html",
+    "image": "https://img.lemde.fr/2026/10/26/250/0/3000/1500/644/322/60/0/9a41796_upload-1-yleutiiayqpk-meetingrn-orleans-asurp-103089.jpg",
+    "date": 1793102220000
+   },
+   {
     "title": "COP biodiversité : les « subventions néfastes » à la nature au centre des négociations",
     "link": "https://www.lemonde.fr/planete/article/2026/10/27/cop-biodiversite-les-subventions-nefastes-a-la-nature-au-centre-des-negociations_6801267_3244.html",
     "image": "https://img.lemde.fr/2026/10/27/312/0/5361/2680/644/322/60/0/6392111_ftp-1-iganiz6dpf6e-afp-d4j496m.jpg",
@@ -583,13 +589,6 @@
     "image": "https://img.lemde.fr/2026/10/27/877/0/5000/2500/644/322/60/0/a9f2388_upload-1-sdv9fbediq3r-ap26300174028690.jpg",
     "date": 1793095731000,
     "titleSl": "Tetsuya Chiba, velikan japonske mange in avtor boksarske serije \"Ashita no Joe\", je umrl v 87."
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine accuse l’UE et l’OTAN de prolonger le conflit",
-    "link": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-pres-de-200-affrontements-entre-russes-et-ukrainiens-sur-le-front-lundi-26-octobre_6799896_3210.html",
-    "image": "https://img.lemde.fr/2026/10/26/384/0/5551/2775/644/322/60/0/90d4599_ftp-1-4jtrwspofw6n-afp-d4fa3nc.jpg",
-    "date": 1793092105000,
-    "titleSl": "V ŽIVO, vojna v Ukrajini: Vladimir Putin obtoži EU in Nato, da podaljšujeta konflikt"
    }
   ],
   "elpais": [
