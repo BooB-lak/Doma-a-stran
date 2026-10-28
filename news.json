@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-28T15:04:30.895Z",
+ "generatedAt": "2026-10-28T15:06:26.834Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na vidiku vremenska sprememba: konec tedna razdeljen na dva dela #animacija",
+    "link": "https://siol.net/novice/svet/na-vidiku-vremenska-sprememba-konec-tedna-razdeljen-na-dva-dela-animacija-704985",
+    "image": "https://siol.net/media/img/67/b3/c773c7fea042572782e6.jpeg",
+    "date": 1793199840000
+   },
    {
     "title": "Tragedija v Španiji: trčila dva hitra vlaka, umrlo najmanj 64 ljudi #video",
     "link": "https://siol.net/novice/svet/tragedija-v-spaniji-trcila-dva-hitra-vlaka-umrlo-deset-ljudi-704983",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/v-indoneziji-zaradi-zlorabe-otrok-zaporne-kazni-za-11-vzgojiteljic-705018",
     "image": "https://siol.net/media/img/a3/c8/cc7a19883044ad16ba8e.jpeg",
     "date": 1793197140000
-   },
-   {
-    "title": "Po Touru še Giro: prireditelji s kronometri vabijo Evenepoela in Seixasa",
-    "link": "https://siol.net/sportal/kolesarstvo/po-touru-se-giro-prireditelji-s-kronometri-vabijo-evenepoela-in-seixasa-705006",
-    "image": "https://siol.net/media/img/51/25/9dedc92fedd2b3dc516f.jpeg",
-    "date": 1793196000000
    }
   ],
   "24ur": [
@@ -206,11 +206,11 @@
     "titleSl": "Flávio Bolsonaro po begu iz Brazilije pristane v Miamiju"
    },
    {
-    "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Ballot",
+    "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
     "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/pol-alaska-ballot-01-tpwm/pol-alaska-ballot-01-tpwm-mediumSquareAt3X-v4.jpg",
     "date": 1793198267000,
-    "titleSl": "Znotraj skrivnih prizadevanj demokratov za glasovanje na Aljaski"
+    "titleSl": "Znotraj skrivnih prizadevanj demokratov za zlaganje vmesnega glasovanja na Aljaski z drugim Danom Sullivanom"
    },
    {
     "title": "Horror Bookstores Are (Gasp!) Multiplying",
@@ -243,10 +243,17 @@
   ],
   "bbc": [
    {
+    "title": "Key points at a glance",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7506/live/63f2d5e0-d2d2-11f1-b441-2b33b063138f.jpg",
+    "date": 1793199890000,
+    "titleSl": "Ključne točke na kratko"
+   },
+   {
     "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
     "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-    "date": 1793199709000,
+    "date": 1793199881000,
     "titleSl": "Tommy Robinson kriv nadlegovanja dveh novinarjev Daily Maila"
    },
    {
@@ -262,13 +269,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg",
     "date": 1793199218000,
     "titleSl": "Kaj doslej vemo o nesreči"
-   },
-   {
-    "title": "Key points at a glance",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7506/live/63f2d5e0-d2d2-11f1-b441-2b33b063138f.jpg",
-    "date": 1793199162000,
-    "titleSl": "Ključne točke na kratko"
    },
    {
     "title": "Russell Brand tells court allegations made friends and colleagues turn against him",
@@ -418,6 +418,19 @@
   ],
   "bild": [
    {
+    "title": "Im Urlaub in Brasilien - Deutscher Richter ertrinkt an Traumstrand",
+    "link": "https://www.bild.de/regional/baden-wuerttemberg/tragoedie-an-traumstrand-deutscher-richter-ertrinkt-in-brasilien-6ae0abeadcd605c8d4cea80f",
+    "image": "https://images.bild.de/6ae0abeadcd605c8d4cea80f/3b67d9ebd6af94a1e7466eb167000abe,a9f47e0e?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Trainer ohrfeigt Minderjährige - Skandal-Szene bei Volleyball-Spiel",
+    "link": "https://www.bild.de/sport/trainer-ohrfeigt-minderjaehrige-skandal-szene-bei-volleyball-spiel-6ae1d159e1acc6033d3ae80c",
+    "image": "https://images.bild.de/6ae1d159e1acc6033d3ae80c/0055a2a365d1d7d09827e515ece5e9bb-landscape,f5fde4a2?w=1280",
+    "date": 0,
+    "titleSl": "Trener ohrfeigt Minderjährige - Skandal-Szene bei Volleyball-Spiel"
+   },
+   {
     "title": "Was war DAS denn? - Uruguay-Star „schießt“ Gaga-Ecke",
     "link": "https://www.bild.de/sport/fussball/was-war-das-denn-uruguay-star-schiesst-gaga-ecke-6ae1df46e1acc6033d3ae9c0",
     "image": "https://images.bild.de/6ae1df46e1acc6033d3ae9c0/3172d5e896ba069964735f1adbc1d78e,2dde26ab?w=1280",
@@ -441,18 +454,6 @@
     "title": "Eintracht-Star mit guter Leistung - Großes Götze-Lob für Sorgenkind Uzun",
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-grosses-goetze-lob-fuer-sorgenkind-uzun-6ae1dd6ad1f524f7ccaa93d5",
     "image": "https://images.bild.de/6ae1dd6ad1f524f7ccaa93d5/6087c2d356008ed83af7d79f0969333e,6e4c8474?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sein letzter Wunsch ging in Erfüllung - Mario Adorf heimlich beigesetzt",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/mario-adorf-heimlich-beigesetzt-sein-letzter-wunsch-ging-in-erfuellung-6ae0e8a967fc5d0d0ce67a3e",
-    "image": "https://images.bild.de/6ae0e8a967fc5d0d0ce67a3e/612efa830afb9444f2d82e87dd8b5363,be6e68b7?w=1280",
-    "date": 0
-   },
-   {
-    "title": "12 Jahre Haft - Reglos nahm der Vergewaltiger das Urteil hin",
-    "link": "https://www.bild.de/regional/berlin/serienvergewaltiger-in-berlin-12-jahre-haft-und-sicherungsverwahrung-6ae1d1a0e1acc6033d3ae816",
-    "image": "https://images.bild.de/6ae1d1a0e1acc6033d3ae816/16925c6766763938c85e9fd768143183,b6900ae6?w=1280",
     "date": 0
    }
   ],
@@ -498,6 +499,12 @@
   ],
   "rainews": [
    {
+    "title": "Bolsonaro è fuggito dal Brasile con la famiglia: il jet privato atterrato a Miami",
+    "link": "https://www.rainews.it/articoli/2026/10/brasile-flavio-bolsonaro-fuga-argentina-ecuador-stati-uniti-florida-miami-0bc9d36a-a611-48b1-9b34-ea84690e06ca.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/28/1793196634485_DPAEN.jpg",
+    "date": 1793199840000
+   },
+   {
     "title": "Corre Stellantis a Milano, Wall Street cauta in attesa della Fed",
     "link": "https://www.rainews.it/articoli/2026/10/corre-stellantis-a-milano-wall-street-cauta-in-attesa-della-fed-c767b3cb-da16-45cf-8c8d-c5622cfad48b.html",
     "image": "https://www.rainews.it/dl/img/2022/11/04/1667580634747_Immagine.png",
@@ -508,12 +515,6 @@
     "link": "https://www.rainews.it/video/2026/10/scontro-fra-treni-in-spagna-le-prime-testimonianze-dei-passeggeri-96a60ddc-7ec6-468f-988a-3556fe9f08db.html",
     "image": "https://www.rainews.it/dl/img/2026/10/28/1793198047322_vlcsnaphms.png",
     "date": 1793197860000
-   },
-   {
-    "title": "Bolsonaro è fuggito dal Brasile con la famiglia: il jet privato atterrato a Miami",
-    "link": "https://www.rainews.it/articoli/2026/10/brasile-flavio-bolsonaro-fuga-argentina-ecuador-stati-uniti-florida-miami-0bc9d36a-a611-48b1-9b34-ea84690e06ca.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/28/1793196634485_DPAEN.jpg",
-    "date": 1793197380000
    },
    {
     "title": "Il voto per la Knesset e i partiti arabi, nessuno li vuole (o quasi): ma senza di loro si governa?",
@@ -583,7 +584,7 @@
     "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
     "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg?auth=bfa9fbb9daf8b54b849f4c9b27af68013220d660acd20e2448855325bbdba60e",
-    "date": 1793199618000
+    "date": 1793199901000
    },
    {
     "title": "La Guardia Civil interroga al operador del centro de control que autorizó al AVE a seguir el recorrido, pese a que el Iryo seguía parado",
