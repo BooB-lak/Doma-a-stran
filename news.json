@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T13:46:27.439Z",
+ "generatedAt": "2026-10-28T13:48:26.278Z",
  "sources": {
   "siol": [
    {
@@ -115,7 +115,44 @@
     "date": 1793191769000
    }
   ],
-  "zurnal": [],
+  "zurnal": [
+   {
+    "title": "Tu so podrobnosti grozljive nesreče, najmanj 64 mrtvih",
+    "link": "https://www.zurnal24.si/svet/tu-so-podrobnosti-grozljive-nesrece-najmanj-64-mrtvih-467409",
+    "image": "https://www.zurnal24.si/media/img/4f/7b/9c9ddd22f1f714bd4dcc.png",
+    "date": 1793192880000
+   },
+   {
+    "title": "Drzen rop: Grozil s pištolo in odnesel gotovino",
+    "link": "https://www.zurnal24.si/slovenija/crna-kronika/drzen-rop-grozil-s-pistolo-in-odnesel-gotovino-467408",
+    "image": "https://www.zurnal24.si/media/img/fb/76/ef11fd2ac0dbfccd9c9e.jpeg",
+    "date": 1793192460000
+   },
+   {
+    "title": "Fis želi Ledecki prihraniti novo olimpijsko kalvarijo",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/fis-zeli-ledecki-prihraniti-novo-olimpijsko-kalvarijo-467406",
+    "image": "https://www.zurnal24.si/media/img/f6/35/c10d4f136c4aa0b19eae.jpeg",
+    "date": 1793192400000
+   },
+   {
+    "title": "Nekdanji slovenski smučar na robu obupa: Iščem suh prostor, da preživim zimo",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/nekdanji-slovenski-smucar-na-robu-obupa-iscem-suh-prostor-da-prezivim-zimo-467401",
+    "image": "https://www.zurnal24.si/media/img/df/35/9760763fd2c3a2cb7ebe.jpeg",
+    "date": 1793187960000
+   },
+   {
+    "title": "Zaradi neukrepanja ZPIZ mora vrniti več kot 3.600 evrov invalidske pokojnine",
+    "link": "https://www.zurnal24.si/slovenija/zaradi-neukrepanja-zpiz-mora-vrniti-vec-kot-3-600-evrov-invalidske-pokojnine-467403",
+    "image": "https://www.zurnal24.si/media/img/6c/2d/4bd74d9012e5c88b46c2.jpeg",
+    "date": 1793187660000
+   },
+   {
+    "title": "Šokantni prizori iz baterijske reje: Umazanija, poginule kokoši in strup za glodavce",
+    "link": "https://www.zurnal24.si/slovenija/sokantni-prizori-iz-baterijske-reje-umazanija-poginule-kokosi-in-strup-za-glodavce-467400",
+    "image": "https://www.zurnal24.si/media/img/c9/6e/0d6e919be6f25b76782b.jpeg",
+    "date": 1793185200000
+   }
+  ],
   "reuters": [
    {
     "title": "PODCAST: A hawkish hold?",
@@ -294,49 +331,56 @@
   ],
   "guardian": [
    {
+    "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+    "image": "https://i.guim.co.uk/img/media/8ca33ff1eaef02b85c3b44fa03ec7c85dd45d60d/798_266_5084_4069/master/5084.jpg?width=140&quality=85&auto=format&fit=max&s=8cf5695b6ff7ec0461cf19e5e8218632",
+    "date": 1793195049000,
+    "titleSl": "Sodnik odločil, da ameriški tožilec v Los Angelesu, ki ga je imenoval Trump, ne deluje zakonito – ameriška politika v živo"
+   },
+   {
     "title": "Budget 2026 live: Healey announces £100 energy payment for millions and 3% rise in bank tax",
     "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-    "image": "https://i.guim.co.uk/img/media/69ee8124ebb326d7d3f275cf91bee8202ab1760a/404_18_1539_1231/master/1539.jpg?width=140&quality=85&auto=format&fit=max&s=302f53d980449339db1fd10c2c318b3a",
-    "date": 1793194135000,
+    "image": "https://i.guim.co.uk/img/media/5e7783b8b11caa8c81d9b44a1e98e61549ec79e1/615_0_2109_1688/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=fcf4cf8d39158530315ff801ccdaa465",
+    "date": 1793194843000,
     "titleSl": "Proračun 2026 v živo: Healey napoveduje plačilo energije v višini 100 £ za milijone in 3-odstotno povečanje bančnega davka"
+   },
+   {
+    "title": "Plane carrying Flávio Bolsonaro lands in Miami after Brazil election loss",
+    "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+    "image": "https://i.guim.co.uk/img/media/462bcec757fa420440f02c265b28228b6e961d1e/0_427_2101_1679/master/2101.jpg?width=140&quality=85&auto=format&fit=max&s=b28746e3bc065a6f1c84b8dbd99fb082",
+    "date": 1793194741000,
+    "titleSl": "Letalo s Fláviom Bolsonarom pristane v Miamiju po brazilskem porazu na volitvah"
+   },
+   {
+    "title": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
+    "link": "https://www.theguardian.com/us-news/2026/oct/28/teen-marriage-convicted-islamic-state",
+    "image": "https://i.guim.co.uk/img/media/5effa54ad6ce12b162c2408cfcfa466079c7f153/245_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=2877cf3f5ca871a5dda8beceeac6eb77",
+    "date": 1793194599000,
+    "titleSl": "Ameriška najstnica, katere oče ji je uredil poroko z borcem Islamske države, obsojenim zaradi urjenja orožja"
+   },
+   {
+    "title": "Give UK workers right to know colleagues’ pay to prevent disparities, says watchdog",
+    "link": "https://www.theguardian.com/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
+    "image": "https://i.guim.co.uk/img/media/6577b4ca03f2d84ca5c7eb8dbc6e5f704874404e/949_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=533ec7aad7d4d6ca30eb2d04d5549cad",
+    "date": 1793194442000,
+    "titleSl": "Dajte delavcem v Združenem kraljestvu pravico, da poznajo plačilo kolegov, da preprečite razlike, pravi čuvaj"
    },
    {
     "title": "Death toll rises to 64 after two trains collide in Spain – latest updates",
     "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/1a1d19adddc76b9da28e47e1fd9f01e30de354f2/309_0_2284_1827/master/2284.jpg?width=140&quality=85&auto=format&fit=max&s=5b8043d93cf7ff9335e536036fc9366d",
-    "date": 1793194079000,
+    "date": 1793194310000,
     "titleSl": "Število smrtnih žrtev se je po trčenju dveh vlakov v Španiji povečalo na 64 – najnovejše posodobitve"
-   },
-   {
-    "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-    "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-    "image": "https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=5d9cdbcf4938f3d8f701d31e374b8099",
-    "date": 1793193974000,
-    "titleSl": "Izraelski rezultati volitev v živo: blok Netanyahu in glavna opozicija ne bosta imela večine, saj je preštetih 92% glasovnic"
-   },
-   {
-    "title": "Spain train crash: at least 64 dead after collision in Toledo province",
-    "link": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
-    "image": "https://i.guim.co.uk/img/media/d28665ea56d701cb26a0e865a3faf8ea726c2a42/474_0_2370_1896/master/2370.jpg?width=140&quality=85&auto=format&fit=max&s=bf905c7a3c426b950e0e7a2a26ad33c5",
-    "date": 1793193741000,
-    "titleSl": "Nesreča vlaka v Španiji: najmanj 64 mrtvih po trčenju v provinci Toledo"
-   },
-   {
-    "title": "Russell Brand says he couldn’t find anyone to give evidence on his behalf in rape and sexual assault trial – latest updates",
-    "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/0b5bcc3d161665856c66ad1f77cfd15fad0b5ee1/251_36_5300_4240/master/5300.jpg?width=140&quality=85&auto=format&fit=max&s=9053f4eb9a096672bf1aea4bc9bce6c6",
-    "date": 1793193636000,
-    "titleSl": "Russell Brand pravi, da ni našel nikogar, ki bi pričal v njegovem imenu na sojenju za posilstvo in spolni napad – najnovejše posodobitve"
-   },
-   {
-    "title": "Budget 2026: John Healey offers £100 payment to households to help navigate ‘global economic storms’",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
-    "image": "https://i.guim.co.uk/img/media/84d95ce69fa3cff2739a86beef27378fc8f698df/883_0_2114_1692/master/2114.jpg?width=140&quality=85&auto=format&fit=max&s=052307b78e9f2b9f29622e1152aa88a5",
-    "date": 1793193451000,
-    "titleSl": "Proračun 2026: John Healey ponuja gospodinjstvom plačilo v višini 100 funtov za pomoč pri premagovanju &quot;globalnih gospodarskih neviht&quot;"
    }
   ],
   "spiegel": [
+   {
+    "title": "Harry Kane: Goldenes Schnitzel für den Weltfußballer",
+    "link": "https://www.spiegel.de/sport/fussball/harry-kane-goldenes-schnitzel-fuer-den-weltfussballer-a-2c1e693c-52b0-4b8c-8e3e-db702f0eb797#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/8b77779f-eb8b-47b0-9600-2e2370508b48_w520_r2.08_fpx47.94_fpy49.95.jpg",
+    "date": 1793194920000,
+    "titleSl": "Harry Kane: Zlati šnicel za svetovnega nogometaša"
+   },
    {
     "title": "Atommüll in Deutschland: Wo die Suche nach Endlagerstätten weitergeht",
     "link": "https://www.spiegel.de/wissenschaft/atommuell-in-deutschland-wo-die-suche-nach-endlagerstaetten-weitergeht-a-36ae46ac-fd25-45ff-b718-8c899bcf9629#ref=rss",
@@ -371,22 +415,29 @@
     "image": "https://cdn.prod.www.spiegel.de/images/9a5c130a-21bf-4ee1-8153-33c888a92d61_w520_r2.08_fpx41.32_fpy50.jpg",
     "date": 1793191920000,
     "titleSl": "Domača pisarna: Unternehmen schreiben seltener Jobs mit Option auf Heimarbeit aus"
-   },
-   {
-    "title": "Jonas Brothers: Kevin Jonas schickte Brüdern Joe und Nick ein Nacktfoto von sich",
-    "link": "https://www.spiegel.de/panorama/leute/jonas-brothers-kevin-jonas-schickte-bruedern-joe-und-nick-ein-nacktfoto-von-sich-a-f4cfc6a1-535e-4158-b1d9-01af80c330b3#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/167ca10e-094a-4fc8-b4f5-d3c95e22ef51_w520_r2.08_fpx61.87_fpy49.99.jpg",
-    "date": 1793189220000,
-    "titleSl": "Jonas Brothers: Kevin Jonas je bratoma Joeju in Nicku poslal svojo golo fotografijo"
    }
   ],
   "bild": [
+   {
+    "title": "Bei Flügen bis zu 29 % sparen - Festtage unter Palmen! Hier wird’s günstiger",
+    "link": "https://www.bild.de/leben-wissen/reisen/weihnachtsfluege-bis-zu-29-prozent-guenstiger-als-im-vorjahr-6ae0a6a7dcd605c8d4cea780",
+    "image": "https://images.bild.de/6ae0a6a7dcd605c8d4cea780/d75c14c567af06fb0e9424416e2d75f0-landscape,9755852b?w=1280",
+    "date": 0,
+    "titleSl": "Prihranite do 29 % na letih - praznične počitnice pod palmami! Tu so stvari cenejše"
+   },
    {
     "title": "Wahlkrimi spitzt sich zu - Wird ein Araber jetzt zu Israels Königsmacher?",
     "link": "https://www.bild.de/politik/wahlkrimi-spitzt-sich-zu-wird-ein-araber-jetzt-zu-israels-koenigsmacher-6ae1c6dad1f524f7ccaa9126",
     "image": "https://images.bild.de/6ae1c6dad1f524f7ccaa9126/95fc152182947c4303b9bcc8b90474c0-landscape,90cf0ce9?w=1280",
     "date": 0,
     "titleSl": "Volilni kriminal pride na vrsto - bo Arabec zdaj postal izraelski kralj?"
+   },
+   {
+    "title": "Hanna Weig - Model ließ Weltstar mehrfach abblitzen",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/hanna-weig-model-liess-weltstar-mehrfach-abblitzen-6ae1c41fe1acc6033d3ae5a9",
+    "image": "https://images.bild.de/6ae1c41fe1acc6033d3ae5a9/cc05d1cfca3f6019f0a03b55fbdc5dd9,ee6c6aac?w=1280",
+    "date": 0,
+    "titleSl": "Hanna Weig – Manekenko je svetovna zvezda večkrat zavrnila"
    },
    {
     "title": "12 Jahre Haft - Reglos nahm der Vergewaltiger das Urteil hin",
@@ -408,23 +459,23 @@
     "image": "https://images.bild.de/6adcdbc4247c1fa2013058bd/ee2c36699822381d6736766102bc4cfd,1e48dfa1?w=1280",
     "date": 0,
     "titleSl": "Kmalu odločitev - ON naj bo Kröschejev naslednik v Frankfurtu"
-   },
-   {
-    "title": "Erstmals seit der Einführung - Elterngeld soll steigen",
-    "link": "https://www.bild.de/politik/erstmals-seit-der-einfuehrung-elterngeld-soll-steigen-6ae1f2888f0a4dd417a5ee98",
-    "image": "https://images.bild.de/6ae1f2888f0a4dd417a5ee98/131248d9f4a44c6e376b817ecf21332e,c6747172?w=1280",
-    "date": 0,
-    "titleSl": "Prvič po uvedbi naj bi se zvišalo starševsko nadomestilo"
-   },
-   {
-    "title": "Exklusiv! - 40 kriminelle Afghanen abgeschoben",
-    "link": "https://www.bild.de/politik/inland/afghanistan-abschiebung-40-straftaeter-in-kabul-gelandet-6ae1d0ea8f0a4dd417a5eac5",
-    "image": "https://images.bild.de/6ae1d0ea8f0a4dd417a5eac5/f992c9ffaf27e8b1756493eeeb86b854-landscape,3f5a61d1?w=1280",
-    "date": 0,
-    "titleSl": "Ekskluzivno! - 40 kriminalnih Afganistancev deportiranih"
    }
   ],
   "krone": [
+   {
+    "title": "Auf Intensivstation - 14-Jähriger stürzte mit illegalem Motocross",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZR241WFc4ZWdiNnJqbXhGSmhKem9qeGxyejFhVFRvbWRMa3pLWnlZS0VSeEMxLXItZUE4cG51OThUQQ?oc=5",
+    "image": "",
+    "date": 1793194200000,
+    "titleSl": "Na intenzivni negi – 14-letnik se je ponesrečil med nelegalnim motokrosom"
+   },
+   {
+    "title": "Erster Vorstoß - Kanzler möchte KI-Zentrum der UNO nach Wien holen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QNkx5b01jYm1OSmJUcURwcXZUUm44eGtlTVVoc21hMm81RENneWVjOEQ3Tl9BZFhsdENFWjVyMDI0QQ?oc=5",
+    "image": "",
+    "date": 1793194200000,
+    "titleSl": "Prvi poskus – Kancler želi pripeljati center ZN za umetno inteligenco na Dunaj"
+   },
    {
     "title": "Pleitegeier gnadenlos - 14 Mitarbeiter betroffen: Schlosserei insolvent",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kVndaMDNua2phMTRBUVhuSkVRN1dOZGpEV2EwMFlnMm9xdHlJOUJhTTVRekZyU0NfcWtpdlppemI0dw?oc=5",
@@ -452,20 +503,6 @@
     "image": "",
     "date": 1793192760000,
     "titleSl": "Nič več poštnega partnerja - farmacevta: \"Nimamo prostora za pakete\""
-   },
-   {
-    "title": "Streit um Erbe - Brigitte Bardots Witwer aus Villa ausgeschlossen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBOZUpnZXA4YUdON1VBc2NRTjNFX0dyb0RkV1lEVVVzdGFHNGJjTWllN0MzVmVyMW96VnRuaE9FbWF2UQ?oc=5",
-    "image": "",
-    "date": 1793192700000,
-    "titleSl": "Spor zaradi dediščine - vdovec Brigitte Bardot izključen iz vile"
-   },
-   {
-    "title": "Neuer Platz sicherer - Massive Schutzbänke gegen mögliche Terroranschläge",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPVHpvYmE3OUlldXY1WkNuNVJFdHg0QW1zZ2dTVzllOXdoM3NKcG9lUExjbXJDUjNZMUZGbjNNc18tZw?oc=5",
-    "image": "",
-    "date": 1793192611000,
-    "titleSl": "Novo varnejše mesto - masivne zaščitne klopi pred morebitnimi terorističnimi napadi"
    }
   ],
   "rainews": [
@@ -558,18 +595,18 @@
   ],
   "elpais": [
    {
+    "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 64 muertos en el choque de trenes de alta velocidad en Urda",
+    "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg?auth=bfa9fbb9daf8b54b849f4c9b27af68013220d660acd20e2448855325bbdba60e",
+    "date": 1793195174000,
+    "titleSl": "Zadnja minuta železniške nesreče v Toledu, v živo | Najmanj 64 mrtvih v nesreči hitrih vlakov v Urdi"
+   },
+   {
     "title": "Claves del accidente en Toledo | ¿Qué se sabe hasta el momento del choque de trenes?",
     "link": "https://elpais.com/espana/2026-10-28/que-se-sabe-hasta-el-momento-del-accidente-de-trenes-en-toledo.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230917_103359_video_1800.mp4",
     "date": 1793194935000,
     "titleSl": "Ključi nesreče v Toledu | Kaj je doslej znanega o nesreči vlaka?"
-   },
-   {
-    "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 64 muertos en el choque de trenes de alta velocidad en Urda",
-    "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg?auth=bfa9fbb9daf8b54b849f4c9b27af68013220d660acd20e2448855325bbdba60e",
-    "date": 1793194929000,
-    "titleSl": "Zadnja minuta železniške nesreče v Toledu, v živo | Najmanj 64 mrtvih v nesreči hitrih vlakov v Urdi"
    },
    {
     "title": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes",
