@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T09:26:29.572Z",
+ "generatedAt": "2026-10-28T09:28:26.870Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Novoletna turneja, kot je še ni bilo: Skoki vstopajo v novo ero",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/novoletna-turneja-kot-je-se-ni-bilo-skoki-vstopajo-v-novo-ero-467390",
+    "image": "https://www.zurnal24.si/media/img/90/f0/fbfba549c14f0f4542de.jpeg",
+    "date": 1793179560000
+   },
+   {
     "title": "Vreme: Te dni bo pri nas povečana verjetnost za padavine",
     "link": "https://www.zurnal24.si/slovenija/vreme-te-dni-bo-pri-nas-povecana-verjetnost-za-padavine-467388",
     "image": "https://www.zurnal24.si/media/img/62/ag/878ff7db68056625cb93.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/svet/drzen-rop-v-srediscu-mesta-z-avtom-naravnost-v-izlozbo-draguljarne-467384",
     "image": "https://www.zurnal24.si/media/img/66/72/2f8ca72caa4549f9f73d.jpeg",
     "date": 1793174220000
-   },
-   {
-    "title": "Slaba novica za uporabnike Telemacha: Cene gredo navzgor",
-    "link": "https://www.zurnal24.si/slovenija/telemach-napovedal-podrazitev-preverite-koliko-vec-boste-placevali-467382",
-    "image": "https://www.zurnal24.si/media/img/aa/ee/bbdfbdcb01cf45f201c9.jpeg",
-    "date": 1793173140000
    }
   ],
   "reuters": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment",
-    "link": "https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-15T201010Z_839473124_UP1EM9F1K0XLX_RTRMADP_3_SOCCER-SPAIN-ELC-RMA-1793176808.jpg?resize=1920%2C1440",
-    "date": 1793177869000,
-    "titleSl": "Kitajska pravi, da jemlje Mbappejevo opravičilo \"resno\" po komentarju Maovega diktatorja"
-   },
-   {
     "title": "Canada signs trade deal with UAE in push for non-US markets",
     "link": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-11-21T005439Z_320067358_RC260IA9AV91_RTRMADP_3_EMIRATES-CANADA-1793174337.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793175868.jpg?resize=1920%2C1080&quality=80",
     "date": 1793176018000,
     "titleSl": "Zakaj sistem ne uspe mlajši francoski generaciji?"
+   },
+   {
+    "title": "Xhaka, Embolo return to Swiss squad after fake COVID docs affair",
+    "link": "https://www.aljazeera.com/sports/2026/10/28/xhaka-embolo-return-to-swiss-squad-after-fake-covid-docs-affair?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae1a376-1793172342.jpg?resize=1920%2C1440",
+    "date": 1793175869000,
+    "titleSl": "Xhaka, Embolo se vrača v švicarsko moštvo po aferi s ponarejenimi dokumenti COVID"
    }
   ],
   "guardian": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Einbruchsversuch in Dresdner Zwinger - Diebe sind scharf auf diese Schüssel",
+    "link": "https://www.bild.de/regional/dresden/maenner-mit-werkzeug-am-dresdner-zwinger-security-verhindert-einbruch-6ae1aacff74d161423be11ab",
+    "image": "https://images.bild.de/6ae1aacff74d161423be11ab/4ffafc5c52ab17833b4078ebc4f2e453,89d9556?w=1280",
+    "date": 0,
+    "titleSl": "Poskus vloma v Dresden Zwinger - tatovi so navdušeni nad to skledo"
+   },
+   {
+    "title": "Arminia unter Schock - Bielefeld-Jugendtrainer stirbt nach medizinischem Notfall",
+    "link": "https://www.bild.de/sport/fussball/arminia-bielefeld-jugendtrainer-stirbt-nach-medizinischem-notfall-6ae19ee436ca94db0117f2b8",
+    "image": "https://images.bild.de/6ae19ee436ca94db0117f2b8/92f04e858c9e7c32636221570c3cf288,c50029ff?w=1280",
+    "date": 0,
+    "titleSl": "Arminia v šoku – mladinski trener Bielefelda je umrl po nujni medicinski pomoči"
+   },
+   {
+    "title": "Soldat im Gesicht getroffen - Keine Ermittlungen gegen Polizisten, die schossen",
+    "link": "https://www.bild.de/regional/bayern/soldat-bei-uebung-ins-gesicht-geschossen-keine-ermittlungen-gegen-polizei-6ae1925d3cfbfc6786ec0676",
+    "image": "https://images.bild.de/6ae1925d3cfbfc6786ec0676/273d675ce326e01363839c35b900c718,df60ac66?w=1280",
+    "date": 0,
+    "titleSl": "Vojak zadet v obraz - Ni preiskave o policistih, ki so streljali"
+   },
+   {
     "title": "Medienbericht - Mindestens 10 Tote bei Zugunglück in Spanien",
     "link": "https://www.bild.de/news/ausland/zugunglueck-in-spanien-hochgeschwindigkeitszuege-prallen-zusammen-6ae1b870e1acc6033d3ae433",
     "image": "https://images.bild.de/6ae1b870e1acc6033d3ae433/dc231d16e2df75d2111c4aa44a77f3f5,de0a13f7?w=1280",
@@ -433,35 +454,21 @@
     "titleSl": "Prihranite do 29 % na letih - praznične počitnice pod palmami! Tu so stvari cenejše"
    },
    {
-    "title": "Einbruchsversuch in Dresdner Zwinger - Diebe sind scharf auf diese Schüssel",
-    "link": "https://www.bild.de/regional/dresden/maenner-mit-werkzeug-am-dresdner-zwinger-security-verhindert-einbruch-6ae1aacff74d161423be11ab",
-    "image": "https://images.bild.de/6ae1aacff74d161423be11ab/4ffafc5c52ab17833b4078ebc4f2e453,89d9556?w=1280",
-    "date": 0,
-    "titleSl": "Poskus vloma v Dresden Zwinger - tatovi so navdušeni nad to skledo"
-   },
-   {
     "title": "Polizei befreit pelzigen Randalierer - Braunbär zerstört Innenraum komplett",
     "link": "https://www.bild.de/news/ausland/polizei-befreit-pelzigen-randalierer-in-alaska-braunbaer-zerstoert-innenraum-komplett-6ae1b1b69d8212885d529216",
     "image": "https://images.bild.de/6ae1b1b69d8212885d529216/22271a122bef5c43907bbddd47f6a092,c3cfea44?w=1280",
     "date": 0,
     "titleSl": "Police free furry riter - rjavi medved popolnoma uniči notranjost"
-   },
-   {
-    "title": "Vorschau GZSZ heute auf RTL+ - Hat Katrin sich in Kaltenbach getäuscht?",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-vorschau-auf-rtl-was-steckt-hinter-der-heimlichen-uebergabe-6ae1b85d21fd087fed7ecd2c",
-    "image": "https://images.bild.de/6ae1b85d21fd087fed7ecd2c/6b8991de4660d012405c00901c0849e3,9a203bd6?w=1280",
-    "date": 0,
-    "titleSl": "Predogled GZSZ danes na RTL+ - Se je Katrin zmotila v Kaltenbachu?"
-   },
-   {
-    "title": "Bundespräsidentenzoff - Merz will Steinmeier-Nachfolger mit Rot-Grün abstimmen",
-    "link": "https://www.bild.de/politik/inland/bundespraesidentenzoff-merz-will-steinmeier-nachfolger-mit-rot-gruen-abstimmen-6ae198b29d8212885d52906d",
-    "image": "https://images.bild.de/6ae198b29d8212885d52906d/06166929a96a42456d2bbeea56ff18eb,e1ff765a?w=1280",
-    "date": 0,
-    "titleSl": "Zvezni predsednikzoff - Merz želi z rdeče-zeleno glasovati za Steinmeierjevega naslednika"
    }
   ],
   "krone": [
+   {
+    "title": "Millionen-Verlust - Russland-Geschäft drückt Palfinger ins Minus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GcUFuZzRHNTNLLWZHMXE0Z1A2VGp6QnA0WEFiQ0tDOWdld3VJN2tpa0syX2lRWDRlRURwcVNBd2J3QQ?oc=5",
+    "image": "",
+    "date": 1793179560000,
+    "titleSl": "Milijonska izguba - ruski posel potisne Palfinger v rdeče številke"
+   },
    {
     "title": "Mail-Adressen gehackt - Großangriff auf IT-Systeme – Meloni betroffen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ1dyQkk2UVVQMy1FMWR1QW1KZHFUWnZKNmoyeVdFR0owdXgzME5SbllrS0FzSmZWb2lvVWJVNXVTQQ?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1793178000000,
     "titleSl": "Išče se naslednik - zdravnikov pok! kaj sledi"
-   },
-   {
-    "title": "„Vier Jahreszeiten“ - Mit Herz und Hirn für Menschen mit Behinderung",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XTzQ3a2hsUTBDTU5QZ2JFSmo1ODR6ODlGRF9rcnhDa0FJTXVTZmRUbG5vR2xaUm1VQnBlM1M2eDJvdw?oc=5",
-    "image": "",
-    "date": 1793178000000,
-    "titleSl": "\"Štirje letni časi\" - S srcem in možgani za invalide"
    }
   ],
   "rainews": [
@@ -510,7 +510,7 @@
     "title": "Spagna: scontro tra treni, precipitano vagoni: almeno 10 morti e numerosi feriti",
     "link": "https://www.rainews.it/articoli/2026/10/spagna-scontro-tra-treni-precipitano-vagoni-morti-e-numerosi-feriti-ee0948f1-885e-4eaa-8dbb-638caf062a6d.html",
     "image": "https://www.rainews.it/dl/img/2026/10/28/1793177946610_treni_spagna.PNG",
-    "date": 1793179140000,
+    "date": 1793179560000,
     "titleSl": "Španija: trčenje vlaka, trčenje vagonov: najmanj 10 mrtvih in številni ranjeni"
    },
    {
@@ -558,13 +558,6 @@
     "titleSl": "V Marseillu je moški podlegel strelom iz kalašnikovke na prodajni točki v 11. okrožju"
    },
    {
-    "title": "Safran investit au Royaume-Uni, où l’engagement de l’Etat en faveur de l’aéronautique est « plus clair et plus net » qu’en France",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/28/safran-investit-au-royaume-uni-ou-l-engagement-de-l-etat-en-faveur-de-l-aeronautique-est-plus-clair-et-plus-net-qu-en-france_6801544_3234.html",
-    "image": "https://img.lemde.fr/2026/10/27/179/0/3126/1563/644/322/60/0/0088c68_upload-1-jslzbwdx4or4-2016-03-15t120000z-386130989-d1aessqvvjaa-rtrmadp-3-turkey-airport.JPG",
-    "date": 1793177539000,
-    "titleSl": "Safran vlaga v Združenem kraljestvu, kjer je zavezanost države aeronavtiki »jasnejša in jasnejša« kot v Franciji"
-   },
-   {
     "title": "IA et travail : « Les précédentes révolutions industrielles ont, sur le long terme, toujours créé plus d’emplois qu’elles n’en ont détruits »",
     "link": "https://www.lemonde.fr/idees/article/2026/10/28/ia-et-travail-les-precedentes-revolutions-industrielles-ont-sur-le-long-terme-toujours-cree-plus-d-emplois-qu-elles-n-en-ont-detruits_6801542_3232.html",
     "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/5f6ad1d_upload-1-ryifecdlpm8k-frame-1069.jpg",
@@ -577,6 +570,13 @@
     "image": "https://img.lemde.fr/2026/10/28/1012/0/11391/5695/644/322/60/0/90e42d3_ftp-1-6skf7klkhweu-e2d9eb9d982442a3ad27f7ca5fa5d52f-0-0674de14c4e84d1980181c5115c95541.jpg",
     "date": 1793169164000,
     "titleSl": "V ŽIVO, vojna v Ukrajini: Volodimir Zelenski meni, da Ukrajina bolje razume Rusijo kot ZDA"
+   },
+   {
+    "title": "EN DIRECT, législatives en Israël : le camp de Benyamin Nétanyahou en tête après le dépouillement de plus des deux tiers des bulletins ; le chef de la gauche appelle l’opposition à s’allier aux partis arabes",
+    "link": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-le-camp-de-benyamin-netanyahou-en-tete-apres-50-des-bulletins-depouilles_6801217_3210.html",
+    "image": "https://img.lemde.fr/2026/10/27/170/0/2048/1024/644/322/60/0/0ccf7a9_upload-1-zxx4k9w7lv4e-g2a0148.JPG",
+    "date": 1793168261000,
+    "titleSl": "V ŽIVO, parlamentarne volitve v Izraelu: Tabor Benjamina Netanjahuja v vodstvu po preštetih več kot dveh tretjinah glasovnic; vodja levice poziva opozicijo k povezovanju z arabskimi strankami"
    },
    {
     "title": "Des armateurs, dont CMA CGM, demandent à Bruxelles de les autoriser à démanteler en Inde leurs navires enregistrés sous pavillon européen",
