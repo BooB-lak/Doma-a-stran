@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T13:38:25.850Z",
+ "generatedAt": "2026-10-28T13:40:41.697Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
+    "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
+    "date": 1793194590000,
+    "titleSl": "Trumpova administracija se je po lobiranju v industriji Kratoma odpovedala prepovedi opioidov"
+   },
+   {
     "title": "How to Tax and Spend in a ‘Turbulent Time’? U.K. Tries a Balancing Act.",
     "link": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-uk-budget-01-jfbc/28biz-uk-budget-01-jfbc-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-israel-election-explainer-promo-gqlj/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
     "date": 1793191083000,
     "titleSl": "Izraelske volitve: Kdaj bomo vedeli, kdo bo predsednik vlade?"
-   },
-   {
-    "title": "What Our New Senate Polls Tell Us About the State of the Midterms",
-    "link": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-10-23-fl-mn-sc-index/2026-10-23-fl-mn-sc-index-mediumSquareAt3X-v3.png",
-    "date": 1793190396000,
-    "titleSl": "Kaj nam nove ankete v senatu povedo o stanju vmesnih volitev"
    }
   ],
   "bbc": [
@@ -385,19 +385,22 @@
     "title": "Elterngeld soll erstmals steigen",
     "link": "https://www.spiegel.de/wirtschaft/soziales/elterngeld-soll-erstmals-steigen-a-0995227d-8248-45e8-9062-6dbcb76de5f8#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/475d18d9-467f-434e-9de5-f21f467b4c1f_w520_r2.08_fpx40_fpy50.jpg",
-    "date": 1793194020000
+    "date": 1793194020000,
+    "titleSl": "Prvič naj bi se zvišal starševski dodatek"
    },
    {
     "title": "Berlin: Angeklagter in Vergewaltigungsprozess zu langer Haftstrafe verurteilt",
     "link": "https://www.spiegel.de/panorama/justiz/berlin-angeklagter-in-vergewaltigungsprozess-zu-langer-haftstrafe-verurteilt-a-3f5d093a-8b96-4e1a-a2c8-a93368e2308a#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/535dafd0-386f-4114-a849-4ab73fb13a11_w520_r2.08_fpx65.83_fpy49.99.jpg",
-    "date": 1793193840000
+    "date": 1793193840000,
+    "titleSl": "Berlin: Obtoženec v sojenju za posilstvo obsojen na dolgo zaporno kazen"
    },
    {
     "title": "Konsum: Nur knapp die Hälfte der Deutschen hält einen Einkommensausfall drei Monate durch",
     "link": "https://www.spiegel.de/wirtschaft/soziales/konsum-nur-knapp-die-haelfte-der-deutschen-haelt-einen-einkommensausfall-drei-monate-durch-a-c63a1f9c-aecb-4ecd-841e-72863022c325#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/9c5fc8d7-dcb3-4537-9094-b277408e7cb9_w520_r2.08_fpx38.65_fpy49.97.jpg",
-    "date": 1793193180000
+    "date": 1793193180000,
+    "titleSl": "Poraba: Le slaba polovica Nemcev lahko tri mesece preživi izgubo dohodka"
    },
    {
     "title": "Homeoffice: Unternehmen schreiben seltener Jobs mit Option auf Heimarbeit aus",
@@ -416,78 +419,90 @@
   ],
   "bild": [
    {
+    "title": "Erstmals seit der Einführung - Elterngeld soll steigen",
+    "link": "https://www.bild.de/politik/erstmals-seit-der-einfuehrung-elterngeld-soll-steigen-6ae1f2888f0a4dd417a5ee98",
+    "image": "https://images.bild.de/6ae1f2888f0a4dd417a5ee98/131248d9f4a44c6e376b817ecf21332e,c6747172?w=1280",
+    "date": 0,
+    "titleSl": "Prvič po uvedbi naj bi se zvišalo starševsko nadomestilo"
+   },
+   {
     "title": "Exklusiv! - 40 kriminelle Afghanen abgeschoben",
     "link": "https://www.bild.de/politik/inland/afghanistan-abschiebung-40-straftaeter-in-kabul-gelandet-6ae1d0ea8f0a4dd417a5eac5",
-    "image": "https://images.bild.de/6ae1d0ea8f0a4dd417a5eac5/f992c9ffaf27e8b1756493eeeb86b854-landscape,56c77f93?w=1280",
-    "date": 0
+    "image": "https://images.bild.de/6ae1d0ea8f0a4dd417a5eac5/f992c9ffaf27e8b1756493eeeb86b854-landscape,3f5a61d1?w=1280",
+    "date": 0,
+    "titleSl": "Ekskluzivno! - 40 kriminalnih Afganistancev deportiranih"
+   },
+   {
+    "title": "„Kein Klub wird so kritisch gesehen wie wir!“ - Überraschende Aussage von neuem BVB-Boss",
+    "link": "https://www.bild.de/sport/fussball/kein-klub-wird-so-kritisch-gesehen-wie-wir-ueberraschende-aussage-von-neuem-bvb-boss-6ae1f0d9d1f524f7ccaa954d",
+    "image": "https://images.bild.de/6ae1f0d9d1f524f7ccaa954d/455f7a823b82c603443dbcb0ac43f38e,bc0efa65?w=1280",
+    "date": 0,
+    "titleSl": "\"Na noben klub ne gledajo tako kritično kot na nas!\" - Presenetljiva izjava novega šefa BVB"
+   },
+   {
+    "title": "Mit wem die Bosse verlängern wollen - Neue Verträge für diese BVB-Stars",
+    "link": "https://www.bild.de/sport/fussball/mit-wem-die-bosse-verlaengern-wollen-neue-vertraege-fuer-diese-bvb-stars-6ae1c16fe1acc6033d3ae554",
+    "image": "https://images.bild.de/6ae1c16fe1acc6033d3ae554/d8494bf3d7951a0c9c779f7123938d3a,f5004edc?w=1280",
+    "date": 0,
+    "titleSl": "Komu želijo šefi podaljšati - nove pogodbe za te zvezdnike BVB"
+   },
+   {
+    "title": "Krise trotz Barista-Workshop - Bei Wagner läuft nur der Kaffee",
+    "link": "https://www.bild.de/sport/fussball/krise-trotz-barista-workshop-bei-wagner-laeuft-nur-der-kaffee-6ae093ed67fc5d0d0ce67323",
+    "image": "https://images.bild.de/6ae093ed67fc5d0d0ce67323/5ab6c9b3a48c9b411474a640629d443b,ec1391de?w=1280",
+    "date": 0,
+    "titleSl": "Kriza kljub baristični delavnici - Wagnerjeva edina stvar je kava"
    },
    {
     "title": "12 Jahre Haft - Reglos nahm der Vergewaltiger das Urteil hin",
     "link": "https://www.bild.de/regional/berlin/serienvergewaltiger-in-berlin-12-jahre-haft-und-sicherungsverwahrung-6ae1d1a0e1acc6033d3ae816",
     "image": "https://images.bild.de/6ae1d1a0e1acc6033d3ae816/16925c6766763938c85e9fd768143183,b6900ae6?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Kündigungen schon ausgesprochen - Lotto-Anbieter streicht jede 3. Stelle",
-    "link": "https://www.bild.de/news/inland/massenentlassung-bei-faber-lotto-120-mitarbeiter-bekommen-kuendigung-6ae12488f74d161423be0cff",
-    "image": "https://images.bild.de/6ae12488f74d161423be0cff/d85bc0f9e4c480bebc61e5618f4cfc6a,87a5694b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Experte bewertet neuen Service - Was bringt es mir, Aktien rund um die Uhr zu handeln?",
-    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/dax-rund-um-die-uhr-muss-ich-jetzt-auch-nachts-meine-aktien-handeln-6ae1c2878f0a4dd417a5e8aa",
-    "image": "https://images.bild.de/6ae1c2878f0a4dd417a5e8aa/57dc9ef9ddcbb5fae2296d16bc741fc8,1340eced?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Erstmals seit der Einführung - Elterngeld soll steigen",
-    "link": "https://www.bild.de/politik/erstmals-seit-der-einfuehrung-elterngeld-soll-steigen-6ae1f2888f0a4dd417a5ee98",
-    "image": "https://images.bild.de/6ae1f2888f0a4dd417a5ee98/131248d9f4a44c6e376b817ecf21332e,c6747172?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Wie es zu der Katastrophe in Spanien kam - Jetzt 64 Tote und weitere Verletzte bei Zugunglück",
-    "link": "https://www.bild.de/news/ausland/schweres-zugunglueck-in-spanien-jetzt-64-tote-und-weitere-verletzte-6ae1b870e1acc6033d3ae433",
-    "image": "https://images.bild.de/6ae1b870e1acc6033d3ae433/d4240f006f913e923207588f7d0eaa3c,67e5c30f?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "12 let zapora – posiljevalec je kazen sprejel brez premikanja"
    }
   ],
   "krone": [
    {
+    "title": "Pleitegeier gnadenlos - 14 Mitarbeiter betroffen: Schlosserei insolvent",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kVndaMDNua2phMTRBUVhuSkVRN1dOZGpEV2EwMFlnMm9xdHlJOUJhTTVRekZyU0NfcWtpdlppemI0dw?oc=5",
+    "image": "",
+    "date": 1793193840000,
+    "titleSl": "Stečajni jastrebi neusmiljeni - 14 prizadetih zaposlenih: kovinarska trgovina plačilno nesposobna"
+   },
+   {
     "title": "1950 Euro Strafe - Sellner wegen Identitären-Symbol verurteilt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KWG5vUDZSRTZZb3FyR3k3MG9Ic2xRRXh0UERnZDR1R3RBMWNiaEdKNmtjSnE2YldPbWRsYm5LeFpIZw?oc=5",
     "image": "",
-    "date": 1793193300000
+    "date": 1793193300000,
+    "titleSl": "1950 evrov kazni - Sellner obsojen zaradi identitetnega simbola"
    },
    {
     "title": "Alternativen gefordert - Senioren wollen weiter „analog“ leben können",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FQWFZUGUzdW5yMzVFX3M5T0lIclo0U1FWY1MtM0J3NzRjZ2xZR3hWTnV5VWdtQVY2YVExN05iUS1QUQ?oc=5",
     "image": "",
-    "date": 1793193000000
+    "date": 1793193000000,
+    "titleSl": "Potrebne so alternative – starejši želijo imeti možnost, da bi še naprej živeli »analogno«."
    },
    {
     "title": "Kein Postpartner mehr - Apothekerin: „Wir haben für Pakete keinen Platz“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GcUw0OFFTTkdjZm5wWnVEOTRnZ3d4ZG9sRzRZYXcxMWtTLV85Wkl1S2trOVBtdU5BdFkwYXpYS1d4dw?oc=5",
     "image": "",
-    "date": 1793192760000
+    "date": 1793192760000,
+    "titleSl": "Nič več poštnega partnerja - farmacevta: \"Nimamo prostora za pakete\""
    },
    {
     "title": "Streit um Erbe - Brigitte Bardots Witwer aus Villa ausgeschlossen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBOZUpnZXA4YUdON1VBc2NRTjNFX0dyb0RkV1lEVVVzdGFHNGJjTWllN0MzVmVyMW96VnRuaE9FbWF2UQ?oc=5",
     "image": "",
-    "date": 1793192700000
+    "date": 1793192700000,
+    "titleSl": "Spor zaradi dediščine - vdovec Brigitte Bardot izključen iz vile"
    },
    {
     "title": "Neuer Platz sicherer - Massive Schutzbänke gegen mögliche Terroranschläge",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPVHpvYmE3OUlldXY1WkNuNVJFdHg0QW1zZ2dTVzllOXdoM3NKcG9lUExjbXJDUjNZMUZGbjNNc18tZw?oc=5",
     "image": "",
-    "date": 1793192611000
-   },
-   {
-    "title": "Woodstock Academy - Wolfgangsee gibt für 500 Begeisterte den Takt an",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtVDM0RWtEdmNFNUVKQTVhMFZRYzJtZTVyNjBWS1VnQ0MxNFoyV2tPS3JBVWtIWDZzSG5WbnM4QXV2dw?oc=5",
-    "image": "",
-    "date": 1793192400000
+    "date": 1793192611000,
+    "titleSl": "Novo varnejše mesto - masivne zaščitne klopi pred morebitnimi terorističnimi napadi"
    }
   ],
   "rainews": [
@@ -495,7 +510,7 @@
     "title": "DIRETTA - Spagna, scontro tra treni: precipitano vagoni, decine di morti e centinaia di feriti",
     "link": "https://www.rainews.it/maratona/2026/10/cronaca-incidente-collisione-spagna-scontro-tra-treni-precipitano-vagoni-almeno-10-morti-e-numerosi-feriti-a0b68a32-ce3f-4ab6-b519-3441d9cb78c8.html",
     "image": "https://www.rainews.it/dl/img/2026/10/28/1793186176186_rainewsfedcbacbb.jpg",
-    "date": 1793194680000,
+    "date": 1793194800000,
     "titleSl": "V ŽIVO - Španija, trčenje vlaka: trk vagonov, več deset mrtvih in več sto ranjenih"
    },
    {
@@ -530,7 +545,8 @@
     "title": "Sport paralimpico, riconoscimenti e futuro: il CIP traccia la rotta verso Los Angeles 2028",
     "link": "https://www.rainews.it/articoli/2026/10/sport-paralimpico-riconoscimenti-e-futuro-il-cip-traccia-la-rotta-verso-los-angeles-2028-137b63e5-3e84-4c3e-aeaf-320cc0833efb.html",
     "image": "https://www.rainews.it/dl/img/2026/10/28/1793187374377_consigliocipottconi.jpg",
-    "date": 1793187120000
+    "date": 1793187120000,
+    "titleSl": "Paraolimpijski šport, nagrade in prihodnost: CIP začrta pot proti Los Angelesu 2028"
    }
   ],
   "lemonde": [
@@ -538,7 +554,8 @@
     "title": "Face au basculement démographique, le CESE plaide pour une approche globale, loin seules des incantations natalistes",
     "link": "https://www.lemonde.fr/politique/article/2026/10/28/face-au-basculement-demographique-le-cese-plaide-pour-une-approche-globale-loin-seules-des-incantations-natalistes_6801581_823448.html",
     "image": "https://img.lemde.fr/2025/10/28/0/0/1111/555/644/322/60/0/2f3941f_upload-1-gvnwvbmiyl5r-plan-de-travail-4-3x.png",
-    "date": 1793194202000
+    "date": 1793194202000,
+    "titleSl": "Spričo demografskih sprememb CESE poziva k globalnemu pristopu, daleč od le pronatalističnih zaklinjanj"
    },
    {
     "title": "Mobilisations sociales : Emmanuel Macron a présidé un conseil de défense pour préparer les manifestations du week-end",
@@ -551,7 +568,8 @@
     "title": "EN DIRECT, accident entre deux trains en Espagne : le bilan, toujours provisoire, passe à 64 morts, annonce le gouvernement régional de Castille-La Manche",
     "link": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-le-bilan-passe-a-au-moins-64-morts-selon-le-gouvernement-regional-de-castille-la-manche_6801550_3210.html",
     "image": "https://img.lemde.fr/2026/10/28/787/0/6000/3000/644/322/60/0/015c1eb_ftp-1-spfr5vcbq5yn-d2d948be0b574c51a77de7b47d813ea1-0-28a532c470144dc1815c2a2e3bd88100.jpg",
-    "date": 1793193194000
+    "date": 1793193194000,
+    "titleSl": "V ŽIVO, nesreča med dvema vlakoma v Španiji: število smrtnih žrtev, ki je še začasno, naraslo na 64, je sporočila regionalna vlada Kastilje-La Manče"
    },
    {
     "title": "Budget 2027 : les députés rejettent la surtaxe sur les grandes entreprises",
@@ -587,7 +605,8 @@
     "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 64 muertos en el choque de trenes de alta velocidad en Urda",
     "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg?auth=bfa9fbb9daf8b54b849f4c9b27af68013220d660acd20e2448855325bbdba60e",
-    "date": 1793194548000
+    "date": 1793194548000,
+    "titleSl": "Zadnja minuta železniške nesreče v Toledu, v živo | Najmanj 64 mrtvih v nesreči hitrih vlakov v Urdi"
    },
    {
     "title": "Claves del accidente en Toledo | ¿Qué se sabe hasta el momento del choque de trenes?",
@@ -607,13 +626,15 @@
     "title": "Las víctimas bolivianas de pederastia piden al Papa la excomunión de los encubridores",
     "link": "https://elpais.com/sociedad/2026-10-28/las-victimas-bolivianas-de-pederastia-piden-al-papa-la-excomunion-de-los-encubridores.html",
     "image": "https://imagenes.elpais.com/resizer/v2/ZUDSFSILGBIAJDHXQGGPZIQO2Q.jpg?auth=3b8e2cb21cb3fd99779307cc47aca8ea49a1f7957e07a152c948a77bc4593e2a",
-    "date": 1793192557000
+    "date": 1793192557000,
+    "titleSl": "Bolivijske žrtve pedofilije prosijo papeža za izobčenje storilcev"
    },
    {
     "title": "Al menos 64 muertos tras el choque entre un AVE de Renfe y un tren Iryo a la altura de Urda, en Toledo",
     "link": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230917_103359_video_1800.mp4",
-    "date": 1793192031000
+    "date": 1793192031000,
+    "titleSl": "Najmanj 64 mrtvih po trčenju med vlakom Renfe AVE in Iryo blizu Urde v Toledu"
    }
   ]
  },
