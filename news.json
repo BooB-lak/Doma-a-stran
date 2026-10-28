@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T21:56:27.373Z",
+ "generatedAt": "2026-10-28T21:58:27.214Z",
  "sources": {
   "siol": [
    {
@@ -42,9 +42,9 @@
   "24ur": [
    {
     "title": "Zagrebčani v drugem polčasu strli odpor srčnih Celjanov",
-    "link": "https://www.24ur.com/sport/ostalo/tekma-prestiznega-pomena-a-z-velikim-rivalskim-nabojem.html",
+    "link": "https://www.24ur.com/sport/ostalo/zagrebcani-v-drugem-polcasu--strli-odpor-srcnih-celjanov.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/caa9e379c7c5705a6a0c_63670795.jpg?v=0f0e&fop=fp:0.57:0.16",
-    "date": 1793224377000
+    "date": 1793224611000
    },
    {
     "title": "V Stožicah nismo dobili zmagovalca",
@@ -103,7 +103,7 @@
     "date": 1793220133000
    },
    {
-    "title": "Novogoriške odbojkarice neuspešno začele tekmovanje v pokalu challenge",
+    "title": "Novogoriške odbojkarice neuspešno začele tekmovanje v Pokalu Challenge",
     "link": "https://www.rtvslo.si/sport/odbojka/novogoriske-odbojkarice-neuspesno-zacele-tekmovanje-v-pokalu-challenge/798381",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/17/67113970.jpg",
     "date": 1793218699000
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Costa Rica’s mega-prison receives first inmates",
+    "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae256b5-1793218229.jpg?resize=1200%2C675",
+    "date": 1793223376000,
+    "titleSl": "Megazapor v Kostariki sprejme prve zapornike"
+   },
+   {
     "title": "Indonesian students demand action on wildfires and rising costs",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793222589.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/anti-castro-book-horizontal-thumb-1793216807.jpg?resize=1920%2C1080&quality=80",
     "date": 1793217762000,
     "titleSl": "Ameriški odposlanec med nagovorom kubanskega ministra za zunanje zadeve v ZN bere knjigo proti Castru"
-   },
-   {
-    "title": "Spain demands answers after deadliest train disaster in over a decade",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793215961.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793215977000,
-    "titleSl": "Španija zahteva odgovore po najsmrtonosnejši železniški nesreči v več kot desetletju"
    }
   ],
   "guardian": [
@@ -419,6 +419,25 @@
   ],
   "bild": [
    {
+    "title": "Mitbekommen? - Tolle Kane-Szene vorm Anpfiff",
+    "link": "https://www.bild.de/sport/fussball/harry-kane-bayern-ehren-ballon-dor-sieger-mit-spalier-vor-magdeburg-6ae24c8fd1f524f7ccaa9d0a",
+    "image": "https://images.bild.de/6ae24c8fd1f524f7ccaa9d0a/327f8b34703a22c24343b41f69d05022,b4566fbf?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Nächste 96-Pleite - Teufels-Krahl! Pokal-Aus für Wagner",
+    "link": "https://www.bild.de/sport/fussball/naechste-96-pleite-teufels-krahl-pokal-aus-fuer-wagner-6ae250ded1f524f7ccaa9d5e",
+    "image": "https://images.bild.de/6ae250ded1f524f7ccaa9d5e/14d410491c683c2f6c94beb760c7af0c,31f2f120?w=1280",
+    "date": 0,
+    "titleSl": "Naslednji 96 stečaj - Teufels-Krahl! Pokalni izpad za Wagnerja"
+   },
+   {
+    "title": "Bayern-Trainer aus Krankenhaus entlassen - Eine Hirnhautreizung knockte Kompany aus",
+    "link": "https://www.bild.de/sport/fussball/vincent-kompany-aus-dem-krankenhaus-entlassen-diagnose-steht-fest-6ae24de121fd087fed7ede9a",
+    "image": "https://images.bild.de/6ae24de121fd087fed7ede9a/de8de3bd5b5b4c11be87273adb5d2293,b503460e?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kracher gegen Schalke und Hannover - Druck für Dynamo-Coach Stamm wächst",
     "link": "https://www.bild.de/sport/fussball/dynamo-dresden-gegen-schalke-stamm-fordert-das-weiterkommen-6ae08da641a652332eb6d87a",
     "image": "https://images.bild.de/6ae08da641a652332eb6d87a/4f02ce9b5b447c5645c7d64a0d4e1c0b,8bdf9285?w=1280",
@@ -436,26 +455,6 @@
     "link": "https://www.bild.de/sport/fussball/fc-bayern-6-1-im-dfb-pokal-gegen-magdeburg-2x-note-1-und-1x-note-5-fuer-die-muenchner-6ae250eb2b2f271d12ac03db",
     "image": "https://images.bild.de/6ae250eb2b2f271d12ac03db/215470fddc4417f1fbca736ba2dce7e2,9b94c9e2?w=1280",
     "date": 0
-   },
-   {
-    "title": "Weiter nach 0:2-Rückstand - Leverkusen dreht Klose raus",
-    "link": "https://www.bild.de/sport/fussball/bayer-leverkusen-aus-0-2-wird-ein-5-2-gegen-nuernberg-im-pokal-6ae25da844637e2765e88ac8",
-    "image": "https://images.bild.de/6ae25da844637e2765e88ac8/76474239036907f9d7fe3b6808261131,cfcdf3b0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nächste 96-Pleite - Teufels-Krahl! Pokal-Aus für Wagner",
-    "link": "https://www.bild.de/sport/fussball/naechste-96-pleite-teufels-krahl-pokal-aus-fuer-wagner-6ae250ded1f524f7ccaa9d5e",
-    "image": "https://images.bild.de/6ae250ded1f524f7ccaa9d5e/14d410491c683c2f6c94beb760c7af0c,31f2f120?w=1280",
-    "date": 0,
-    "titleSl": "Naslednji 96 stečaj - Teufels-Krahl! Pokalni izpad za Wagnerja"
-   },
-   {
-    "title": "Lockerer Pokal-Sieg - Ein Abend der guten Bayern-Nachrichten",
-    "link": "https://www.bild.de/sport/fussball/dfb-pokal-ein-abend-der-guten-bayern-nachrichten-6ae2483a21fd087fed7ede3b",
-    "image": "https://images.bild.de/6ae2483a21fd087fed7ede3b/b979f5f58a662a7998b5e7a4ac7da703-landscape,d2d11203?w=1280",
-    "date": 0,
-    "titleSl": "Lahka zmaga v pokalu - Večer dobrih novic o Bayernu"
    }
   ],
   "krone": [
