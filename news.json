@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-28T09:01:08.102Z",
+ "generatedAt": "2026-10-28T09:02:26.927Z",
  "sources": {
   "siol": [
+   {
+    "title": "Polom angleških prvakov: ribiči iz četrte lige osramotili Arsenal",
+    "link": "https://siol.net/sportal/nogomet/angleski-ligaski-pokal-osmina-finala-704893",
+    "image": "https://siol.net/media/img/5c/d9/1d865ff07afdb6d032b9.jpeg",
+    "date": 1793178060000
+   },
    {
     "title": "\"Slovenski\" obračun v Parmi, Mussolinijev pravnuk do prvenca",
     "link": "https://siol.net/sportal/nogomet/slovenski-obracun-v-parmi-704897",
@@ -31,20 +37,20 @@
     "link": "https://siol.net/novice/svet/protestniki-bodo-morali-placati-do-deset-tisoc-evrov-za-skodo-gre-za-avtoritarno-potezo-704976",
     "image": "https://siol.net/media/img/cb/b6/a3b9f1755314b1cdbba7.jpeg",
     "date": 1793177220000
-   },
-   {
-    "title": "Lakersi ob prvem razočaranju našli skupni razlog",
-    "link": "https://siol.net/sportal/kosarka/lakersi-ob-prvem-razocaranju-nasli-skupni-razlog-704972",
-    "image": "https://siol.net/media/img/9d/6a/a5fdf59acfa6f3e61401.jpeg",
-    "date": 1793177100000
    }
   ],
   "24ur": [
    {
-    "title": "Policist pred izraelskim veleposlaništvom v Beogradu ubil napadalca",
+    "title": "Teroristični napad v Beogradu: napadalca ubili",
     "link": "https://www.24ur.com/novice/tujina/policist-pred-izraelskim-veleposlanistvom-v-beogradu-ubil-napadalca.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/503789c4ef180289cde8_63670245.jpg?v=f38d&fop=fp:0.52:0.48",
-    "date": 1793177850000
+    "date": 1793178016000
+   },
+   {
+    "title": "Martin pripravlja dirko s stisnjenimi zobmi: želi nastopiti in ostati v boju z Marquezom",
+    "link": "https://www.24ur.com/sport/motogp/jorge_2.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/20618cb3ac8febb9489f_63668452.jpg?v=5253&fop=fp:0.52:0.51",
+    "date": 1793175617000
    },
    {
     "title": "Lakersi zapravili novo izjemno predstavo Dončića in prvič izgubili",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/se-med-sofio-vergaro-in-pevcem-skupine-imagine-dragons-kaj-plete.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/299f7fe9932f81b662b3_63669409.png?v=94f6&fop=fp:0.48:0.43",
     "date": 1793174334000
-   },
-   {
-    "title": "Nov posnetek iz baterijske reje: jajca v bližini razpadajočih trupel živali in gnoja",
-    "link": "https://www.24ur.com/novice/slovenija/nov-posnetek-iz-baterijske-reje-jajca-v-blizini-razpadajocih-kokosjih-trupel-in-gnoja.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/3dd3a59881497556b70f_63670202.jpg?v=c173&fop=fp:0.45:0.39",
-    "date": 1793173330000
    }
   ],
   "rtvslo": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Canada signs trade deal with UAE in push for non-US markets",
-    "link": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-11-21T005439Z_320067358_RC260IA9AV91_RTRMADP_3_EMIRATES-CANADA-1793174337.jpg?resize=1920%2C1440",
-    "date": 1793177455000,
-    "titleSl": "Kanada podpisuje trgovinski sporazum z ZAE v prizadevanju za trge zunaj ZDA"
-   },
-   {
     "title": "Khouri: Strong Israel-Arab bloc result does not mean Israel has changed",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793176459.jpg?resize=1920%2C1080&quality=80",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae1a376-1793172342.jpg?resize=1920%2C1440",
     "date": 1793175869000,
     "titleSl": "Xhaka, Embolo se vrača v švicarsko moštvo po aferi s ponarejenimi dokumenti COVID"
+   },
+   {
+    "title": "Why the US midterms matter even if you don’t live in America",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793175006.jpg?resize=1920%2C1062&quality=80",
+    "date": 1793175319000,
+    "titleSl": "Zakaj so vmesni izpiti v ZDA pomembni, tudi če ne živite v Ameriki"
    }
   ],
   "guardian": [
@@ -463,49 +463,56 @@
   ],
   "krone": [
    {
-    "title": "Das freie Wort - Elternverantwortlichkeit ist einzufordern",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hb3RHZjFVRnA2d0Y3QWZwQnBWdEFWMVhNUmhfbkttSHBrUlE5cjEwZlRoR2x5aG5ZQl9yS2FnWktBdEZEUklhQnZXNUdWTldzRm1vUV9sSmZQdDJSdXpYanhVcEtyb3lKU1RuRw?oc=5",
+    "title": "Trump hat Mitleid - Bolsonaro flüchtet nach Wahl-Niederlage in USA",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hNjk0eWdNZkpBTmZGMER3dExZUTktYzFkZmNiSGtEcHZkbTdGenU2eVFRbld3T2V1WHZZRmJkZ3pyUQ?oc=5",
     "image": "",
-    "date": 1793174625000,
-    "titleSl": "Svoboda govora – zahtevati je treba starševsko odgovornost"
+    "date": 1793178060000,
+    "titleSl": "Trump se usmili - Bolsonaro po volilnem porazu v ZDA pobegne"
    },
    {
-    "title": "„Krone“-Kommentar - Blockabfertigung: Ab mit dem Stau zu den Nachbarn",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94YmRRTFFNb2F3aDZsdTNvcXVTN09JMERsYV9lR29waFJYTUlKQW41TGg3VlpxTEZaN0JmMVBXZ255Zw?oc=5",
+    "title": "Nachfolger gesucht - Arzt-Paukenschlag! Wie geht es jetzt weiter?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2OVJGcHBlVl9QajQ3MnhxWFEtZ2V2RjE4NEpIRTgzN2ZNZjBkSWhpYW00V3NoYTJxamhqYXItTWlCUQ?oc=5",
     "image": "",
-    "date": 1793174400000,
-    "titleSl": "Komentar \"Krone\" - odmik bloka: izklop s prometnim zastojem do sosedov"
+    "date": 1793178000000,
+    "titleSl": "Išče se naslednik - zdravnikov pok! kaj sledi"
    },
    {
-    "title": "Dürre ohne Ende: - Futterbörse leer gekauft, Spekulation mit Heupreis",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uWXQyTVBrenQxUzFUYWxFMzc4OTRkdENUZGlsMTk1Ykp2bk5GYzVITkJvWUpITVJCTDhHSzR3VllIZw?oc=5",
+    "title": "„Job-Angebot“ im Web kostet Mann fast 10.000 Euro",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xOUVSemxCWTRLcDBWbW4zanJlZV85dmZCWU0wUGlKcF9neEk0NmhzQWRCb3hIc1pDZ1dHOUs1ZnBGQQ?oc=5",
     "image": "",
-    "date": 1793174400000,
-    "titleSl": "Suša brez konca: - Trg krmil prazen, špekulacije s cenami sena"
+    "date": 1793178000000,
+    "titleSl": "“Ponudba za delo” na spletu stane skoraj 10.000 evrov"
    },
    {
-    "title": "Auf der Euphoriewelle - Rapid marschiert – nun wartet „wichtigstes Spiel“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40LWxKdG9qWjE5ODFia3RyX2Q4UHhMNjZiTU00RnNqeng2LVlQckRMX0x6ME11bkJJcDlQR0t5b2NyUQ?oc=5",
+    "title": "„Vier Jahreszeiten“ - Mit Herz und Hirn für Menschen mit Behinderung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XTzQ3a2hsUTBDTU5QZ2JFSmo1ODR6ODlGRF9rcnhDa0FJTXVTZmRUbG5vR2xaUm1VQnBlM1M2eDJvdw?oc=5",
     "image": "",
-    "date": 1793172780000,
-    "titleSl": "Na valu evforije - Rapid marches - zdaj čaka \"najpomembnejša tekma\"."
+    "date": 1793178000000,
+    "titleSl": "\"Štirje letni časi\" - S srcem in možgani za invalide"
    },
    {
-    "title": "Coup in Wiener City - SUV als Rammbock: Einbruch in Juweliergeschäft",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1TGVGalVpX19JNXBjdVdJdHZYczl2V2g5QnlPYzM1WTAyNm1fVkZlMFR6ZmVzTXJSOHViZUdCcnhTQQ?oc=5",
+    "title": "Unterschiedliche Wege - Von Premier League bis Regionalliga alles dabei",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9YaG9VakxFN3YyZWV5eVUtdWxOSi1Lbl9xd3JwMkY3Ql9acTZOWFotWVoxSGlDTFdaZmthTl9wQWpwdw?oc=5",
     "image": "",
-    "date": 1793172720000,
-    "titleSl": "Državni udar na Dunaju - SUV kot udarni oven: vlom v zlatarno"
+    "date": 1793178000000,
+    "titleSl": "Različne poti – vse od Premier League do Regional League"
    },
    {
-    "title": "„Größte Überraschung in der Geschichte des Cups“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XTUdibGpVUURfMFBpVjdTRl84cWdNX21rdVJ0UTVQSXNmMWltN05lRXdQR1RYcUpzOVVXUkkzTVVpQQ?oc=5",
+    "title": "Therapien im Check - Übergewichtige Kinder: So werden sie schlanker",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9wQnQ0YWFNN0M3em1XaExsZGtLTnpOaktzN0ZhSHNtaGdVc1BLRE1XRC04dHpSOW9nTjI3eUdESFVzQQ?oc=5",
     "image": "",
-    "date": 1793171831000,
-    "titleSl": "\"Največje presenečenje v zgodovini pokala\""
+    "date": 1793178000000,
+    "titleSl": "Terapije v pregledu - Pretežki otroci: Tako postanejo vitkejši"
    }
   ],
   "rainews": [
+   {
+    "title": "Spagna: scontro tra treni, precipitano vagoni: morti e numerosi feriti",
+    "link": "https://www.rainews.it/articoli/2026/10/spagna-scontro-tra-treni-precipitano-vagoni-morti-e-numerosi-feriti-ee0948f1-885e-4eaa-8dbb-638caf062a6d.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/28/1793177946610_treni_spagna.PNG",
+    "date": 1793177820000,
+    "titleSl": "Španija: trk vlaka, trk vagonov: mrtvi in ​​številni ranjeni"
+   },
    {
     "title": "Morte David Rossi, indagini per omicidio: fascicoli a Firenze e Brescia",
     "link": "https://www.rainews.it/articoli/2026/10/cronaca-morte-david-rossi-aperto-un-fascicolo-anche-a-brescia-dda-di-firenze-indaga-per-omicidio-8ff77f45-69b4-4cb0-bbf4-72563cb2bfd1.html",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/28/1793175417964_jodi.PNG",
     "date": 1793175300000,
     "titleSl": "Rekordna dražba za \"Jodi\" v New Yorku: 47 milijonov dolarjev za redek Nanotyrannus"
-   },
-   {
-    "title": "Verona, tamponamento tra quattro mezzi pesanti sulla A22: morto un giovane altoatesino",
-    "link": "https://www.rainews.it/articoli/2026/10/verona-scontro-in-a22-tra-quattro-mezzi-pesanti-muore-un-autista-2478463b-7c50-4ca7-b857-d0479b9779b5.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/27/1793117648248_incidente.jpeg",
-    "date": 1793175120000,
-    "titleSl": "Verona, trčenje štirih težkih vozil na A22: umrl mladenič iz Južne Tirolske"
    }
   ],
   "lemonde": [
@@ -595,11 +595,11 @@
   ],
   "elpais": [
    {
-    "title": "El choque entre dos trenes en Los Yébenes (Toledo), en directo | Los primeros indicios apuntan a que un AVE podría haber alcanzado a un Iryo por detrás",
+    "title": "El choque entre dos trenes en Los Yébenes (Toledo), en directo | Adif confirma que están implicados un tren de Renfe y otro de Iryo",
     "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/42MLLVGYIVAVDJM5VSBPRQN2M4.jpg?auth=e242256d88dde3f1778d900e8f36f760b5947d26fa14a499eef895ee0733c7ee",
-    "date": 1793178055000,
-    "titleSl": "Trčenje dveh vlakov v Los Yébenesu (Toledo), v živo | Prvi znaki kažejo, da bi AVE lahko zadel Iryo od zadaj"
+    "date": 1793177962000,
+    "titleSl": "Trčenje dveh vlakov v Los Yébenesu (Toledo), v živo | Adif potrdi, da sta vpletena vlak Renfe in še en iz Irya"
    },
    {
     "title": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
@@ -609,11 +609,11 @@
     "titleSl": "Begoña Gómez vloži pritožbo proti PP zaradi videoposnetka, ustvarjenega z AI za napad na PSOE"
    },
    {
-    "title": "Decenas de heridos tras un choque entre un AVE de Renfe y un tren de Iryo a la altura de Los Yébenes, en Toledo",
+    "title": "Numerosos heridos tras un choque entre un AVE de Renfe y un tren de Iryo a la altura de Los Yébenes, en Toledo",
     "link": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
     "image": "https://imagenes.elpais.com/resizer/v2/42MLLVGYIVAVDJM5VSBPRQN2M4.jpg?auth=e242256d88dde3f1778d900e8f36f760b5947d26fa14a499eef895ee0733c7ee",
     "date": 1793176351000,
-    "titleSl": "Na desetine poškodovanih po trčenju med vlakom Renfe AVE in Iryo blizu Los Yébenesa v Toledu"
+    "titleSl": "Številni poškodovani po trčenju med vlakom Renfe AVE in Iryo blizu Los Yébenesa v Toledu"
    },
    {
     "title": "Última hora de la actualidad política, en directo | Begoña Gómez denunciará al PP por suplantación de identidad por los vídeos con IA",
