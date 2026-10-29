@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T12:12:28.450Z",
+ "generatedAt": "2026-10-29T12:14:25.758Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
+    "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00xp-world-walker-end-gbcz-promo/00xp-world-walker-end-gbcz-promo-mediumSquareAt3X.jpg",
+    "date": 1793275968000,
+    "titleSl": "Po 28 letih hoje po svetu je Karl Bushby skoraj doma"
+   },
+   {
     "title": "Russian Strike on Ukrainian Train Station Kills 13",
     "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/29themorning-nl-alaska3-promo/29themorning-nl-alaska3-mediumSquareAt3X.jpg",
     "date": 1793271814000,
     "titleSl": "Zlaganje glasbenih lističev"
-   },
-   {
-    "title": "Christine Lagarde to Step Down as President of European Central Bank",
-    "link": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
-    "image": "https://static01.nyt.com/images/2026/09/10/multimedia/00biz-lagarde-pkgc/00biz-lagarde-pkgc-mediumSquareAt3X.jpg",
-    "date": 1793271041000,
-    "titleSl": "Christine Lagarde bo odstopila s položaja predsednice Evropske centralne banke"
    }
   ],
   "bbc": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
-    "link": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae31d0791a4b-1793268999.jpg?resize=1920%2C1440",
-    "date": 1793274104000,
-    "titleSl": "Kaj vemo o Vanceovem pismu Rezaeiju, ko Trump opozarja Zaliv, naj se \"pripravi\""
-   },
-   {
     "title": "Israel’s election rhetoric: What candidates said, and how they performed",
     "link": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ae3085f31-1793263711.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_0252.JPG-1793261389.jpeg?resize=1920%2C1440",
     "date": 1793271918000,
     "titleSl": "Protest na indijski univerzi, kjer 20 let ni potekalo glasovanje o sindikatu študentov"
+   },
+   {
+    "title": "Can the UK afford more help with the cost of living?",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/29/can-the-uk-afford-more-help-with-the-cost-of-living?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2300499021-1-1793271814.jpg?resize=1920%2C1440",
+    "date": 1793271845000,
+    "titleSl": "Ali si lahko Združeno kraljestvo privošči večjo pomoč pri življenjskih stroških?"
    }
   ],
   "guardian": [
@@ -417,6 +417,19 @@
   ],
   "bild": [
    {
+    "title": "Teurer Winter droht - Gas-Schock! Preis überschreitet wichtige Marke",
+    "link": "https://www.bild.de/politik/inland/teurer-winter-droht-gas-schock-preis-ueberschreitet-wichtige-marke-6ae331a721fd087fed7eec2d",
+    "image": "https://images.bild.de/6ae331a721fd087fed7eec2d/e60fa6e8932e1ac68b95b77e1269749d,d90a6aec?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Von diesem Blödsinn verabschieden“ - Gender-Zoff! Heino schaltet Anwalt ein",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/heino-geht-mit-anwalt-gegen-gender-zoff-vor-muessen-uns-von-diesem-bloedsinn-verabschieden-6ae245168f0a4dd417a5f576",
+    "image": "https://images.bild.de/6ae245168f0a4dd417a5f576/48d2ca532dbdefa97be73d86a2a32b53,1078e8ad?w=1280",
+    "date": 0,
+    "titleSl": "„Von diesem Blödsinn verabschieden“ - Spol-Zoff! Heino schaltet Anwalt ein"
+   },
+   {
     "title": "Unser Handball-Gigant - Transfer-Hammer um Andreas Wolff",
     "link": "https://www.bild.de/sport/mehr-sport/handball-bundesliga-transfer-hammer-um-andreas-wolff-6ae2247621fd087fed7edbc7",
     "image": "https://images.bild.de/6ae2247621fd087fed7edbc7/4765c2841ac02ff15c7b7b6a6b5353a7,de136797?w=1280",
@@ -438,19 +451,6 @@
     "title": "68 Tote nach Unglück in Spanien - Nach diesem Funkspruch kam es zu der Katastrophe",
     "link": "https://www.bild.de/news/ausland/zugunglueck-in-spanien-funkaufnahmen-offenbaren-gravierenden-fehler-6ae2dd9c21fd087fed7ee2b9",
     "image": "https://images.bild.de/6ae2dd9c21fd087fed7ee2b9/18ac4cde85dd56dc2712097b24766ddc,4fbb965c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Zugunglück in Toledo - „Diese Ungewissheit muss schrecklich sein“",
-    "link": "https://www.bild.de/news/zugunglueck-spanien-bild-reporterin-zeigt-bergungsarbeiten-in-toledo-6ae324c0ec13b5a805f8adf4",
-    "image": "https://images.bild.de/6ae324c0ec13b5a805f8adf4/e22d0eded5b5e4a01a80ab7763510f40,3ffe5b5a?w=1280",
-    "date": 0,
-    "titleSl": "Nach Zugunglück v Toledu - „Diese Ungewissheit muss schrecklich sein“"
-   },
-   {
-    "title": "Teurer Winter droht - Gas-Schock! Preis überschreitet wichtige Marke",
-    "link": "https://www.bild.de/politik/inland/teurer-winter-droht-gas-schock-preis-ueberschreitet-wichtige-marke-6ae331a721fd087fed7eec2d",
-    "image": "https://images.bild.de/6ae331a721fd087fed7eec2d/eb2b100d648cd93724e5a59ef34ffc4e-landscape,870c82c5?w=1280",
     "date": 0
    }
   ],
@@ -494,6 +494,13 @@
   ],
   "rainews": [
    {
+    "title": "Scoperto a Pompei l&#x27;armadio di una donna, all&#x27;interno vasi, collane e monete",
+    "link": "https://www.rainews.it/articoli/2026/10/scoperto-a-pompei-larmadio-di-una-donna-allinterno-vasi-collane-e-monete-5f737ad9-1a54-4406-84b0-76d9d9a13df0.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/29/1793275482705_vlcsnap.jpg",
+    "date": 1793275980000,
+    "titleSl": "Scoperto a Pompei l 'armadio di una donna, all' interno vasi, collane e monete"
+   },
+   {
     "title": "Pompei, un armadio racconta la vita quotidiana prima dell’eruzione",
     "link": "https://www.rainews.it/video/2026/10/pompei-un-armadio-racconta-la-vita-quotidiana-prima-delleruzione-9a6e377b-c449-4f1c-8fbc-9b080986dd8a.html",
     "image": "https://www.rainews.it/dl/img/2026/10/29/1793275740668_vlcsnap.jpg",
@@ -526,12 +533,6 @@
     "image": "https://www.rainews.it/dl/img/2026/09/29/1790697517275_TG3FuoriTG_2048x1152_logo.png",
     "date": 1793274538000,
     "titleSl": "TG3 Fuori TG del 29.10.2026"
-   },
-   {
-    "title": "A Vienna è il giorno degli italiani: in 4 vanno a caccia dei quarti di finale",
-    "link": "https://www.rainews.it/maratona/2026/10/tennis-atp-500-vienna-musetti-berrettini-cobolli-darderi-arnaldi-alcaraz-zverev-119cd118-81f0-45b4-b06b-0fed878de77b.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/29/1793252102287_BeFunkycollage.jpg",
-    "date": 1793274120000
    }
   ],
   "lemonde": [
