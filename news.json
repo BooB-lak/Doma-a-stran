@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-29T12:38:25.852Z",
+ "generatedAt": "2026-10-29T12:40:40.867Z",
  "sources": {
   "siol": [
+   {
+    "title": "Etna znova bruha pepel",
+    "link": "https://siol.net/novice/svet/etna-znova-bruha-pepel-705083",
+    "image": "https://siol.net/media/img/5f/a3/1e65ba9e080b44175fef.jpeg",
+    "date": 1793277360000
+   },
    {
     "title": "Festival Exit se po padcu Vučićevega režima vrača v Novi Sad",
     "link": "https://siol.net/trendi/glasba-in-film/festival-exit-se-po-padcu-vucicevega-rezima-vraca-v-novi-sad-705081",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/zdravo-zivljenje/kar-68-odstotkov-odraslih-se-spopada-z-negotovostjo-kako-ta-vpliva-na-nase-zivljenje-705017",
     "image": "https://siol.net/media/img/3a/5a/682822e34b1bde1c2391.jpeg",
     "date": 1793273640000
-   },
-   {
-    "title": "Po Zagrebu se sprehaja vse več divjih prašičev",
-    "link": "https://siol.net/novice/svet/po-zagrebu-se-sprehaja-vse-vec-divjih-prasicev-705076",
-    "image": "https://siol.net/media/img/41/1f/f527aa042822f6e6bd6f.jpg",
-    "date": 1793271600000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Kaj bodo povedali kandidati za župana Mestne občine Kranj?",
+    "link": "https://www.rtvslo.si/slovenija/lokalne-volitve-2026/mestne-obcine/kranj/kaj-bodo-povedali-kandidati-za-zupana-mestne-obcine-kranj/798444",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/23/67115930.jpg",
+    "date": 1793277584000
+   },
+   {
     "title": "Južna Afrika z Durbanom v boj za organizacijo olimpijskih iger",
     "link": "https://www.rtvslo.si/sport/preostali-sporti/olimpijske-igre/juzna-afrika-z-durbanom-v-boj-za-organizacijo-olimpijskih-iger/798443",
     "image": "https://img.rtvcdn.si/_up/upload/2014/02/08/65073677_oi.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/opravicilo-juga-za-nespametno-potezo-urbancic-pred-derbijem-olimpija-boljsa-ekipa-od-maribora/798423",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/29/67117322.jpg",
     "date": 1793273463000
-   },
-   {
-    "title": "KS 90: Prenos direktive EU-ja o platformnem delu je počasen",
-    "link": "https://www.rtvslo.si/gospodarstvo/ks-90-prenos-direktive-eu-ja-o-platformnem-delu-je-pocasen/798427",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/14/67061214.jpg",
-    "date": 1793273278000
    }
   ],
   "zurnal": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Can Porn Ever Be Ethical?",
+    "link": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg",
+    "date": 1793277488000,
+    "titleSl": "Je pornografija sploh lahko etična?"
+   },
+   {
     "title": "With No Clear Winner, How Could Israel Get a Prime Minister?",
     "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v5.png",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-trump-midterms-top-vpqj/28dc-trump-midterms-top-vpqj-mediumSquareAt3X.jpg",
     "date": 1793276303000,
     "titleSl": "Ko se Trump sooča z vmesnimi volitvami, mračno razpoloženje prevzame Belo hišo"
-   },
-   {
-    "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
-    "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00xp-world-walker-end-gbcz-promo/00xp-world-walker-end-gbcz-promo-mediumSquareAt3X.jpg",
-    "date": 1793275968000,
-    "titleSl": "Po 28 letih hoje po svetu je Karl Bushby skoraj doma"
    }
   ],
   "bbc": [
@@ -419,49 +419,56 @@
   ],
   "bild": [
    {
+    "title": "„Lindenstraße“-Star Marie-Luise Marjan - Mein Rollator ist ein Tor zur Freiheit",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/marie-luise-marjan-der-rollator-ist-ein-tor-zur-freiheit-6ae20bc68f0a4dd417a5f1cb",
+    "image": "https://images.bild.de/6ae20bc68f0a4dd417a5f1cb/affd72f3eeecbc20f58e697553bc9ab4,da533a40?w=1280",
+    "date": 0,
+    "titleSl": "Zvezda filma Lindenstrasse Marie-Luise Marjan - Moj roler je vrata v svobodo"
+   },
+   {
+    "title": "Lotto-Jackpot nicht geknackt - Glückspilz räumt trotzdem 4,5 Millionen Euro ab",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/lotto-jackpot-nicht-geknackt-glueckspilz-raeumt-trotzdem-4-5-mio-euro-ab-6ae31eddec13b5a805f8acf0",
+    "image": "https://images.bild.de/6ae31eddec13b5a805f8acf0/d0980d14f65005c509b46ef7ecdeaec4,42f2fcc8?w=1280",
+    "date": 0,
+    "titleSl": "Loto jackpot ni razbil - srečnež še vedno zadene 4,5 milijona evrov"
+   },
+   {
+    "title": "Süßes oder Saures! - Alle Infos zu Halloween 2026",
+    "link": "https://www.bild.de/leben-wissen/feste-feiertage/halloween-2026-diese-uralten-braeuche-stecken-wirklich-dahinter-68f629bcc95b23d2659ffbf3",
+    "image": "https://images.bild.de/68f629bcc95b23d2659ffbf3/48f2579245df8a50746f25aff6bb5cf9,f49f9990?w=1280",
+    "date": 0,
+    "titleSl": "Trik ali poslastica! - Vse informacije o noči čarovnic 2026"
+   },
+   {
+    "title": "„Eine Ahnung, wie sie spielen werden“ - Dubois hat Insider-Wissen von Ex-Klub Ingolstadt",
+    "link": "https://www.bild.de/sport/mehr-sport/eine-ahnung-wie-sie-spielen-werden-dubois-hat-insider-wissen-von-ex-klub-ingolstadt-6ae33b45981b80c0b7985a14",
+    "image": "https://images.bild.de/6ae33b45981b80c0b7985a14/a687aea48f4a062ff8241c84a3110edf,17da1aa3?w=1280",
+    "date": 0,
+    "titleSl": "\"Ideja o tem, kako bodo igrali\" - Dubois ima notranje znanje o nekdanjem klubu Ingolstadt"
+   },
+   {
+    "title": "Angebliche Rückzahlung als Köder - So dreist nutzen Betrüger den Namen der Telekom",
+    "link": "https://www.bild.de/leben-wissen/digital/telekom-betrug-gefaelschte-e-mails-locken-mit-rueckzahlung-6ae3379b7953cec15ae65ff6",
+    "image": "https://images.bild.de/6ae3379b7953cec15ae65ff6/9fbd89b98a2f1cdf3b8befe005bd3cac,6ebf0153?w=1280",
+    "date": 0,
+    "titleSl": "Domnevno poplačilo kot vaba – tako predrzno uporabljajo Telekomovo ime prevaranti"
+   },
+   {
     "title": "True-Crime-Podcast „IM EINSATZ“ - Wie es ist, wenn alle dich für einen Mörder halten",
     "link": "https://www.bild.de/news/inland/podcast-im-einsatz-der-mann-den-alle-fuer-einen-moerder-hielten-6a8eb733518a586e18558c13",
     "image": "https://images.bild.de/6a8eb733518a586e18558c13/2f1ed901a5860e30496b545f9f9044b1,d6f21236?w=1280",
     "date": 0,
     "titleSl": "Podcast o resničnem zločinu “IN ACT” – Kako je, ko vsi mislijo, da si morilec"
-   },
-   {
-    "title": "Hygiene im Bad - Wann muss ein neuer Toilettendeckel her?",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/hygiene-im-bad-wann-muss-ein-neuer-toilettendeckel-her-6ae0b8f9dcd605c8d4cea991",
-    "image": "https://images.bild.de/6ae0b8f9dcd605c8d4cea991/dd4d1d04d9644e66a7a286e7b9be8fed,4ae0a253?w=1280",
-    "date": 0,
-    "titleSl": "Higiena v kopalnici - Kdaj potrebujete nov WC pokrov?"
-   },
-   {
-    "title": "Teurer Winter droht - Gas-Schock! Preis überschreitet wichtige Marke",
-    "link": "https://www.bild.de/politik/inland/teurer-winter-droht-gas-schock-preis-ueberschreitet-wichtige-marke-6ae331a721fd087fed7eec2d",
-    "image": "https://images.bild.de/6ae331a721fd087fed7eec2d/021d8ace576e5076ab846a6efc757265,fd324d3a?w=1280",
-    "date": 0,
-    "titleSl": "Grozi draga zima - plinski šok! Cena presega pomembno oznako"
-   },
-   {
-    "title": "Baupfusch an Deutschlands teuerster Straße - Neue Brücke kaputt, weil Arbeiter Holz einbetonierten",
-    "link": "https://www.bild.de/news/inland/beweisfoto-zeigt-baupfusch-holz-in-288mio-strasse-einbetoniert-6ae0c82ff74d161423be0657",
-    "image": "https://images.bild.de/6ae0c82ff74d161423be0657/3a6df7cd76481b666cf703e7191bc339,949f35eb?w=1280",
-    "date": 0,
-    "titleSl": "Gradbena napaka na najdražji nemški cesti - Nov most polomljen, ker so delavci vlivali les v beton"
-   },
-   {
-    "title": "Wolfsattacke in Brandenburg - „Das müssen schreckliche Szenen gewesen sein“",
-    "link": "https://www.bild.de/news/inland/wolfsattacke-in-brandenburg-das-muessen-schreckliche-szenen-gewesen-sein-6ae1e5c98f0a4dd417a5ed2e",
-    "image": "https://images.bild.de/6ae1e5c98f0a4dd417a5ed2e/34bd8584a0ddc3d0db73add05e527763-landscape,e9c5d49d?w=1280",
-    "date": 0,
-    "titleSl": "Napad volka v Brandenburgu - \"To so morali biti grozni prizori\""
-   },
-   {
-    "title": "Horror-Fehlschuss aus elf Metern - VfB-Star trifft nicht mal das leere Tor",
-    "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-horror-fehlschuss-aus-elf-metern-vfb-star-trifft-nicht-mal-das-leere-tor-6ae32c38063ab7e38a99ff54",
-    "image": "https://images.bild.de/6ae32c38063ab7e38a99ff54/0c9b224436303ade8b4c3aacf4634950,adedd826?w=1280",
-    "date": 0,
-    "titleSl": "Grozljiv zgrešen z enajstih metrov – zvezdnik VfB ne zadene niti praznega gola"
    }
   ],
   "krone": [
+   {
+    "title": "Wilde Verfolgungsjagd - 15-Jähriger raste mit Moped Polizei frech davon",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYRmRMWFVsQV9wM2duQ01fNHFKZjhLdjVoZ3Q4ZFVnRThkVzgwbnBuZUhWWHd5dHluZUtGUHB0YWpxUQ?oc=5",
+    "image": "",
+    "date": 1793277120000,
+    "titleSl": "Divji pregon - 15-letnik predrzno dirjal pred policisti z mopedom"
+   },
    {
     "title": "Sellner in Feldkirch - Vorarlberg, ein sicherer Hafen für Rechtsextreme?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zdTM5R240aXVQUzBlSDVDaHpDZmU3UGpsNmg2TlBCN0dFTGdnYnlYWEVYbE4xaGtiYUNBWmxKazk0UQ?oc=5",
@@ -496,16 +503,16 @@
     "image": "",
     "date": 1793275260000,
     "titleSl": "Nesporazumi? - odtegljaj doplačila za invalide"
-   },
-   {
-    "title": "Größter Exporteur - Null Punkte: China-SUV unterirdisch im Crashtest!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vVzY5ei1XUlFZSTFWWXN2M2NadHR0akQzeEVBY29MNEp6clFBVnJjMmJoM28xSDEyQl9HZ001ek9JZw?oc=5",
-    "image": "",
-    "date": 1793275260000,
-    "titleSl": "Največji izvoznik - nič točk: Kitajski SUV pod zemljo na testu trčenja!"
    }
   ],
   "rainews": [
+   {
+    "title": "Serena Mollicone, si riapre il processo: al via l’appello bis sulla morte di Serena",
+    "link": "https://www.rainews.it/articoli/2026/10/cronaca-giallo-arce-omicidio-serena-mollicone-processo-appello-bis-mottola-fac93df7-5bc2-4871-9455-05ca4200fbfd.html",
+    "image": "https://www.rainews.it/dl/img/2023/12/07/1701964751515_rainewsbebfefeffd.jpg",
+    "date": 1793277540000,
+    "titleSl": "Serena Mollicone, sojenje se ponovno odpre: začne se pritožba na Serenino smrt"
+   },
    {
     "title": "Sapori e colori del 29/10/2026",
     "link": "https://www.rainews.it/rubriche/saporiecolori/video/2026/10/Sapori-e-colori-del-29102026-2963d649-77a0-49ad-9ae5-70d9a016587d.html",
@@ -540,16 +547,16 @@
     "image": "https://www.rainews.it/dl/img/2026/10/29/1793275482705_vlcsnap.jpg",
     "date": 1793275980000,
     "titleSl": "Scoperto a Pompei l 'armadio di una donna, all' interno vasi, collane e monete"
-   },
-   {
-    "title": "Pompei, un armadio racconta la vita quotidiana prima dell’eruzione",
-    "link": "https://www.rainews.it/video/2026/10/pompei-un-armadio-racconta-la-vita-quotidiana-prima-delleruzione-9a6e377b-c449-4f1c-8fbc-9b080986dd8a.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/29/1793275740668_vlcsnap.jpg",
-    "date": 1793275860000,
-    "titleSl": "Pompei, un armadio racconta la vita quotidiana prima dell 'eruzione"
    }
   ],
   "lemonde": [
+   {
+    "title": "Objectif Remigration : le colloque et la manifestation prévus par le collectif d’extrême droite en Ile-de-France ce week-end sont interdits arrêtés préfectoraux",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/29/objectif-remigration-le-colloque-et-la-manifestation-prevus-par-le-collectif-d-extreme-droite-en-ile-de-france-ce-week-end-sont-interdits-selon-des-arretes-prefectoraux_6802325_823448.html",
+    "image": "https://img.lemde.fr/2026/10/25/355/0/3000/1500/644/322/60/0/851b3da_upload-1-hm0isdrjmvmw-manifantifa-orleans-asurp-101608.jpg",
+    "date": 1793276039000,
+    "titleSl": "Objectif Remigration: konferenca in demonstracije, ki jih ta konec tedna načrtuje skrajni desničarski kolektiv v Ile-de-Franceu, so prepovedane s prefekturnim odlokom"
+   },
    {
     "title": "Geoffroy Roux de Bézieux nommé président des Alpes 2030, avec pour mission de stabiliser un Cojop en « état de crise permanent »",
     "link": "https://www.lemonde.fr/sport/article/2026/10/29/geoffroy-roux-de-bezieux-nomme-president-des-alpes-2030-avec-pour-mission-de-stabiliser-un-cojop-en-etat-de-crise-permanent_6802319_3242.html",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2024/11/02/633/0/7595/3797/644/322/60/0/37027d4_5138896-01-06.jpg",
     "date": 1793270323000,
     "titleSl": "COP o biotski raznovrstnosti: intenzivna pogajanja za ohranitev sklada Cali za varstvo narave"
-   },
-   {
-    "title": "Attentat raciste à Trappes : Kevin T., poursuivi pour assassinat terroriste, a déclaré que la ville était un « repaire d’islamistes » pour justifier ses actes, selon le parquet",
-    "link": "https://www.lemonde.fr/societe/article/2026/10/29/attentat-raciste-a-trappes-kevin-t-poursuivi-pour-assassinat-terroriste-a-declare-que-la-ville-etait-un-repaire-d-islamistes-pour-justifier-ses-actes-selon-le-parquet_6802311_3224.html",
-    "image": "https://img.lemde.fr/2026/10/29/95/0/5468/2734/644/322/60/0/4443921_ftp-1-5dzi6dw1ijud-afp-d4t39xn.jpg",
-    "date": 1793270247000,
-    "titleSl": "Attentat raciste à Trappes : Kevin T., poursuivi pour assassinat terroriste, a déclaré que la ville était un «repaire d 'islamistes » pour justifier ses actes, selon le parket"
    }
   ],
   "elpais": [
