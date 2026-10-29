@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T13:58:27.177Z",
+ "generatedAt": "2026-10-29T14:01:07.098Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "\"Trdite, da sem izkoristil funkcijo predsednika DZ. Ja! In še 20-krat bi jo!\"",
+    "link": "https://www.zurnal24.si/slovenija/trdite-da-sem-izkoristil-funkcijo-predsednika-dz-ja-in-se-20-krat-bi-jo-467461",
+    "image": "https://www.zurnal24.si/media/img/01/d7/166f70f3f851c854154b.jpeg",
+    "date": 1793281560000
+   },
+   {
     "title": "Vlakec smrt: nepričakovani navdih za zvok električnega forda!",
     "link": "https://www.zurnal24.si/avto/na-strom/vlakec-smrt-nepricakovani-navdih-za-zvok-elektricnega-forda-467362",
     "image": "https://www.zurnal24.si/media/img/f8/00/a67cb311814901e9b12a.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/v-sanitarijah-v-samem-centru-mesta-nasli-truplo-467457",
     "image": "https://www.zurnal24.si/media/img/10/9a/06310dde7573fffed876.jpeg",
     "date": 1793275200000
-   },
-   {
-    "title": "Filmski lov podivjanega voznika, ustavili so ga šele s stingerjem",
-    "link": "https://www.zurnal24.si/slovenija/divjega-voznika-ustavili-sele-s-stingerjem-467452",
-    "image": "https://www.zurnal24.si/media/img/57/3b/6a10323996c3286dfb2a.jpeg",
-    "date": 1793272200000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "U.S. GDP Increased 3.4% in Third Quarter",
+    "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v3.png",
+    "date": 1793282129000,
+    "titleSl": "Ameriški BDP se je v tretjem četrtletju povečal za 3,4 %"
+   },
+   {
     "title": "Russian Strike on Ukrainian Train Station Kills 14",
     "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg",
@@ -225,13 +232,6 @@
     "image": "https://static01.nyt.com/images/2026/09/10/multimedia/00biz-lagarde-pkgc/00biz-lagarde-pkgc-mediumSquareAt3X.jpg",
     "date": 1793280496000,
     "titleSl": "Christine Lagarde bo odstopila s položaja predsednice Evropske centralne banke"
-   },
-   {
-    "title": "U.S. GDP Increased 3.4% in Third Quarter",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v3.png",
-    "date": 1793280286000,
-    "titleSl": "Ameriški BDP se je v tretjem četrtletju povečal za 3,4 %"
    },
    {
     "title": "Inflation Accelerated in October, PCE Index Shows",
@@ -375,18 +375,32 @@
   ],
   "spiegel": [
    {
+    "title": "Netflix-Doku »The One About Matthew Perry«: Alle liebten Chandler. Doch wer kannte Matty?",
+    "link": "https://www.spiegel.de/kultur/netflix-doku-the-one-about-matthew-perry-alle-liebten-chandler-doch-wer-kannte-matty-a-c1f953cb-226b-4de6-8dd8-eb473a249b97#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/42cc5b9d-60db-45b6-a21b-27a12280c2e7_w520_r2.08_fpx57.5_fpy45.jpg",
+    "date": 1793282220000,
+    "titleSl": "Netflixov dokumentarec \"The One About Matthew Perry\": vsi so imeli radi Chandlerja. But who knew Matty?"
+   },
+   {
+    "title": "Finanzkrise der Gemeinden: Kommunen verzeichnen deutlichen Schuldenanstieg",
+    "link": "https://www.spiegel.de/wirtschaft/finanzkrise-der-gemeinden-kommunen-verzeichnen-deutlichen-schuldenanstieg-a-c3b721e2-a384-4ae2-aa00-6a5203351d39#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/d37ab700-4045-458f-a0e4-6c8f09d94f97_w520_r2.08_fpx45.2_fpy49.99.jpg",
+    "date": 1793282160000,
+    "titleSl": "Občinska finančna kriza: Občine beležijo občutno rast zadolženosti"
+   },
+   {
+    "title": "Israel: Welche Konsequenzen Deutschland aus dem Wahlerfolg von Benjamin Netanyahu ziehen muss",
+    "link": "https://www.spiegel.de/ausland/israel-welche-konsequenzen-deutschland-aus-dem-wahlerfolg-von-benjamin-netanyahu-ziehen-muss-a-387cc9ee-c543-457f-ab39-ac7790d4da09#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/4be8156f-9285-4635-abe6-1b192a8482a4_w520_r2.08_fpx61.32_fpy50.jpg",
+    "date": 1793282100000,
+    "titleSl": "Izrael: Kakšne posledice mora imeti Nemčija zaradi volilnega uspeha Benjamina Netanjahuja"
+   },
+   {
     "title": "Christine Lagarde: EZB-Präsidentin verlässt Notenbank in heikler Phase",
     "link": "https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-verlaesst-notenbank-in-heikler-phase-a-d8530265-f4ff-421a-927a-c741945cb96d#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/7d7ccfb4-0001-0004-0000-000001445471_w520_r2.08_fpx42_fpy44.98.jpg",
     "date": 1793281740000,
     "titleSl": "Christine Lagarde: Predsednica ECB zapušča centralno banko v občutljivi fazi"
-   },
-   {
-    "title": "Geldpolitik: EZB lässt Leitzins trotz hoher Inflation vorerst stabil",
-    "link": "https://www.spiegel.de/wirtschaft/geldpolitik-ezb-laesst-leitzins-trotz-hoher-inflation-vorerst-stabil-a-4224eb45-df39-40e7-a54a-efb68920330f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/e73a33b0-e2f7-4cac-8a0d-302288df2b83_w520_r2.08_fpx47.87_fpy50.jpg",
-    "date": 1793281200000,
-    "titleSl": "Denarna politika: ECB kljub visoki inflaciji pušča ključno obrestno mero zaenkrat stabilno"
    },
    {
     "title": "Dnipro: Ukraine meldet 13 Tote nach russischem Angriff auf Bahnhof",
@@ -401,23 +415,16 @@
     "image": "https://cdn.prod.www.spiegel.de/images/c498d799-db4a-4e6a-b271-5a4da0516f64_w520_r2.08_fpx61.34_fpy50.jpg",
     "date": 1793280360000,
     "titleSl": "Friedrich Merz v Singapurju, na Japonskem in v Južni Koreji: Tudi v Aziji vprašanje B dohiteva kanclerko"
-   },
-   {
-    "title": "Rostock: Fall Fabian - Staatsanwaltschaft fordert lebenslange Haft für Gina H.",
-    "link": "https://www.spiegel.de/panorama/justiz/rostock-fall-fabian-staatsanwaltschaft-fordert-lebenslange-haft-fuer-gina-h-a-6b0b10fb-1675-43e3-90be-2cb0ffbb4550#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/e5a7329b-d6b8-41a6-98e9-2bafacfbc259_w520_r2.08_fpx57.34_fpy49.99.jpg",
-    "date": 1793280060000,
-    "titleSl": "Rostock: Primer Fabian - državni tožilec zahteva dosmrtno ječo za Gino H."
-   },
-   {
-    "title": "Air France: Neue Luxusklasse und ihre Schattenseiten",
-    "link": "https://www.spiegel.de/reise/air-france-neue-luxusklasse-und-ihre-schattenseiten-a-dbb931af-0061-47a4-963e-1cf20a38461f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/b4802bbe-cdfc-4892-9184-5ca277d28d6c_w520_r2.08_fpx41.83_fpy44.99.jpg",
-    "date": 1793279820000,
-    "titleSl": "Air France: Nov luksuzni razred in njegove temne plati"
    }
   ],
   "bild": [
+   {
+    "title": "Seine Frau hält Reinhold Messner fit - „Eigentlich müsste ich schon fünfmal tot sein“",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/reinhold-messner-eigentlich-muesste-ich-schon-fuenfmal-tot-sein-6ae32d2a4a674ddd4ba2393c",
+    "image": "https://images.bild.de/6ae32d2a4a674ddd4ba2393c/b7965dee27f5a38a63721c87a1c458b9,9c082284?w=1280",
+    "date": 0,
+    "titleSl": "Reinhold Messner ohranja svojo ženo v formi - \"Pravzaprav bi moral biti petkrat mrtev\""
+   },
    {
     "title": "Live-Ticker - Staatsanwalt fordert lebenslange Haft für Gina H.",
     "link": "https://www.bild.de/regional/rostock/live-ticker-zum-mordprozess-um-fabian-gina-h-raeumt-alibi-deal-ein-69f2f4ded6078134c45a3b9c",
@@ -452,57 +459,50 @@
     "image": "https://images.bild.de/6ae33838981b80c0b7985991/d165af13461cd32f40372fd9153d7497,75212c7d?w=1280",
     "date": 0,
     "titleSl": "To diši po demonstracijah izgredov - Douglas bo v soboto zaprl 12 podružnic"
-   },
-   {
-    "title": "Jetzt sprechen die Überlebenden - „Plötzlich rammte uns der Zug von hinten“",
-    "link": "https://www.bild.de/news/ausland/augenzeugen-berichten-von-zugkatastrophe-leute-flogen-durch-die-luft-6ae1f1a78f0a4dd417a5ee6b",
-    "image": "https://images.bild.de/6ae1f1a78f0a4dd417a5ee6b/7d0e4215dfb3b24aa038fa0c30cff18f,8fafe8d7?w=1280",
-    "date": 0,
-    "titleSl": "Zdaj govorijo preživeli - \"Nenadoma nas je vlak zaletel od zadaj\""
    }
   ],
   "krone": [
    {
-    "title": "Zu viel Social Media? - Jetzt knöpft sich auch Matthäus Bayern-Star vor",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81bjdyb25KNk0wZ09Pd0NkZkxZazY3SnROR3k2RVFzYkdSREh0NWV4VkplTUxfOEc3WUd1MEtkdXh0QQ?oc=5",
+    "title": "Vater unbelehrbar - Kopftuchverbot: Familie muss gleich dreimal zahlen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43bHpJeXAyaEgwXzNFZmphSUVwVWx3YmdwV1Ztbkx6NExaNDJSZlFaUThzTnJfVHBMQVJSaUhNaGFlQQ?oc=5",
     "image": "",
-    "date": 1793279640000,
-    "titleSl": "Preveč družbenih medijev? - Zdaj ukrepa tudi zvezdnik Bayerna Matthäus"
+    "date": 1793280840000,
+    "titleSl": "Oče nepopravljivi - prepoved nošenja rut: družina mora plačati trikrat"
    },
    {
-    "title": "Nach Bühnen-Aus - Poier: „Mittlerweile habe ich geistig ausgesorgt“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZaVAybm5kOUVnMlZuSG1CakU3Ym9TX29LMDF1NnhJTGtLV2xiTUJCdjRjU2FMS1Z2OERDWVU1ZkVKQQ?oc=5",
+    "title": "In Salzburg Stadt - Standorte für Taubenschläge sind nun fixiert",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ONHlIN0ZuUEI0YlJ1TnJtT3pqbnBzM2hMQzlrX1A0RTRFNER3YjlDeUhwWkhXeDJBYU5mb3JCN2pndw?oc=5",
     "image": "",
-    "date": 1793278140000,
-    "titleSl": "Po odhodu z odra - Poier: \"Vmes sem si psihično opomogel\""
+    "date": 1793280600000,
+    "titleSl": "V mestu Salzburg – lokacije za golobnjake so zdaj določene"
    },
    {
-    "title": "Gewichtheber entsetzt - WM-Vergabe an Russland sorgt für Kopfschütteln",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE44eHF1dHlhdU9OT18wcG9VOHVaYzU0eW8yLVlsWHZUalRoaUtDV0ZGWWppS3dzaWd6ZTFNREFaeVdWdw?oc=5",
+    "title": "Wirbel um Bauprojekt - Brisante Post: Ortschef erneut mit Mord bedroht",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ndUZ2dDFndVVzWGk2NmVHUEJpaEhITm45STNOOGswSkNUbksweUNUbFczNkhlamZ0RmRsWnFJWjVrUQ?oc=5",
     "image": "",
-    "date": 1793277840000,
-    "titleSl": "Dvigovalec uteži zgrožen - zaradi dodelitve svetovnega prvenstva Rusiji se ljudje zmajujejo z glavami"
+    "date": 1793280600000,
+    "titleSl": "Razburjenje okoli gradbenega projekta - eksplozivna postaja: lokalni šef znova grozi z umorom"
    },
    {
-    "title": "Gerüchte aus Italien - Bitteres ÖFB-Aus von Alaba bereits besiegelt?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaVGtHVjFSSFdJUXhnVXRQQXNqMXNIdTZ2UmF0S19iU0JXaDVySnVEOXdqalpKbEc5NlVnMkZDaURiQQ?oc=5",
+    "title": "Ersatztermin ist fix - Sandra Hesch: Konzert in Linz wird verschoben",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55SzV0TmNnR1pZMHlJM2FqckVaZXFZNE9lbnVnNVhVSFIwbmdiTEd4bldjenNxUFJZS2o1NVVUaXlqZw?oc=5",
     "image": "",
-    "date": 1793277780000,
-    "titleSl": "Govorice iz Italije - Alabin grenak izstop iz ÖFB je že zapečaten?"
+    "date": 1793280600000,
+    "titleSl": "Določen je nadomestni datum - Sandra Hesch: Koncert v Linzu bo prestavljen"
    },
    {
-    "title": "„Krone zu Mittag“ - Kopftuch-Strafen, Akte Felzmann und Weltspartag",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QS2ZEclEzaG43ZjJ3QkZMalNnenlpYzNSUEFucVpyQWhzOUJLenRvTDgtdWppQ243UTVhSDk4amRZUQ?oc=5",
+    "title": "„Gracy“ hatte beste Spürnase: Vermisster gerettet",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oX3hOVkprck4zRmhaQzRSTkliOFh1MnBBaGpKQzlkNGIzd0dBT2VzSGtZNmcza1JSRmR3VDJEZDM5UQ?oc=5",
     "image": "",
-    "date": 1793276220000,
-    "titleSl": "“Krona za kosilo” - kazni z naglavnimi rutami, dosjeji Felzmann in svetovni dan varčevanja"
+    "date": 1793280480000,
+    "titleSl": "\"Gracy\" je imela najboljši nos: pogrešana oseba rešena"
    },
    {
-    "title": "Am Bahnhof erwischt - Polizei stoppt Burschen mit illegalem Feuerwerk",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GUndPb2FzT3U0R05WcjFqbzUzTGxqcWRyWDNXZG1fQm5mVmN6QWNxNWhRS19BZURWQXgwenFfanNzZw?oc=5",
+    "title": "Sanierung angestrebt - Schon wieder ist ein Klein-Skigebiet insolvent",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MUUlXeUFTTnlBMXFQZWJMcHdIZ0NjTURYUFN4Y1BmTU90c2ZpZ3F4VWtZOUI1MzJVTkFpcExrRXJWdw?oc=5",
     "image": "",
-    "date": 1793275320000,
-    "titleSl": "Ujeti na železniški postaji – policija ustavi fante z nedovoljenim ognjemetom"
+    "date": 1793280180000,
+    "titleSl": "Zahtevana obnova - Še eno manjše smučišče je plačilno nesposobno"
    }
   ],
   "rainews": [
@@ -565,13 +565,6 @@
     "titleSl": "V Arizoni, bojnem polju vmesnih volitev, se tok obrača v korist demokratov: \"Sram me je, da sem na zadnjih volitvah glasoval za Trumpa\""
    },
    {
-    "title": "Au Chili, des aménagements de peine de pédocriminels et tortionnaires de la dictature plongent l’exécutif dans la tourmente",
-    "link": "https://www.lemonde.fr/international/article/2026/10/29/au-chili-des-amenagements-de-peine-de-pedocriminels-et-tortionnaires-de-la-dictature-plongent-l-executif-dans-la-tourmente_6802330_3210.html",
-    "image": "https://img.lemde.fr/2026/10/26/151/0/5062/2531/644/322/60/0/5d33799_upload-1-2de2hxhfs1ib-000-93fj922.jpg",
-    "date": 1793278954000,
-    "titleSl": "V Čilu prilagoditve kazni za nadlegovalce otrok in mučitelje diktature pahnejo izvršno oblast v nemir"
-   },
-   {
     "title": "La Syrie et la Jordanie privilégient l’apaisement, après des frictions provoquées par des frappes du royaume hachémite sur le sud de la Syrie",
     "link": "https://www.lemonde.fr/international/article/2026/10/29/la-syrie-et-la-jordanie-privilegient-l-apaisement-apres-des-frictions-provoquees-par-des-frappes-du-royaume-hachemite-sur-le-sud-de-la-syrie_6802327_3210.html",
     "image": "https://img.lemde.fr/2026/10/27/108/0/1280/640/644/322/60/0/a8bcff2_ftp-1-jnwoxpo3918v-2026-10-27t032854z-1586032453-rc2eboalsdbr-rtrmadp-3-jordan-church-syria.JPG",
@@ -591,6 +584,13 @@
     "image": "https://img.lemde.fr/2026/10/25/355/0/3000/1500/644/322/60/0/851b3da_upload-1-hm0isdrjmvmw-manifantifa-orleans-asurp-101608.jpg",
     "date": 1793276039000,
     "titleSl": "Objectif Remigration: konferenca in demonstracije, ki jih ta konec tedna načrtuje skrajni desničarski kolektiv v Ile-de-Franceu, so prepovedane s prefekturnimi odloki"
+   },
+   {
+    "title": "Geoffroy Roux de Bézieux nommé président des Alpes 2030, avec pour mission de stabiliser un Cojop en « état de crise permanent »",
+    "link": "https://www.lemonde.fr/sport/article/2026/10/29/geoffroy-roux-de-bezieux-nomme-president-des-alpes-2030-avec-pour-mission-de-stabiliser-un-cojop-en-etat-de-crise-permanent_6802319_3242.html",
+    "image": "https://img.lemde.fr/2026/10/26/287/0/5151/2575/644/322/60/0/902c59b_ftp-1-8z2cg9zhsot0-2026-10-26t144054z-1478835785-rc2mx1a6q1qo-rtrmadp-3-olympics-2030.JPG",
+    "date": 1793274320000,
+    "titleSl": "Geoffroy Roux de Bézieux imenovan za predsednika Alpe 2030, z nalogo stabilizacije Cojopa v \"stalnem stanju krize\""
    }
   ],
   "elpais": [
@@ -598,8 +598,15 @@
     "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Asciende a 69 el número de fallecidos en el accidente ferroviario de Urda",
     "link": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/7VJFGHWQXJDRDHKQPDZWO3IQAI.jpg?auth=b34d5aa387afedd64ba9c9ee5e7895adf6458bfe4dad46b34d385180d5eea67e",
-    "date": 1793281990000,
+    "date": 1793282415000,
     "titleSl": "Železniška nesreča v Toledu: zadnji trenutek in odzivi v živo | Število mrtvih v železniški nesreči v Urdi se je povzpelo na 69"
+   },
+   {
+    "title": "Condenado el exsenador Julio de España a año y medio de cárcel por agredir sexualmente a una paciente cuando ejercía de médico",
+    "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-29/condenado-el-exsenador-julio-de-espana-a-ano-y-medio-de-carcel-por-agredir-sexualmente-a-una-paciente-cuando-ejercia-de-medico.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZHLUDDA7ZZCIJLJURFFMFYKT2Q.jpg?auth=b3cc598c39e9cb5b527c5281a2fcc7eb7fdd8aa5732ee382c6c9bc9729d3ac45",
+    "date": 1793281641000,
+    "titleSl": "Nekdanji španski senator Julio obsojen na leto in pol zapora zaradi spolnega napada na pacientko, ko je bil zdravnik"
    },
    {
     "title": "Lilly vuela a máximos históricos en Bolsa tras elevar previsiones con sus medicamentos contra la obesidad",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/XZYXE4YUTFDRPOEHREQJIFT3SM.jpg?auth=83737c4b200efb3e7477e9e35d7b76bd087481c6c14fdf8a4932c268048074b9",
     "date": 1793280054000,
     "titleSl": "Sojenje za največji izbruh listerije v Evropi je preloženo še za tri tedne v pričakovanju zdravniških poročil petih prizadetih"
-   },
-   {
-    "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
-    "link": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261029/1231436_104834_video_1800.mp4",
-    "date": 1793279895000,
-    "titleSl": "Sánchez zagotavlja, da bo varnost na železnici \"okrepljena\", da bi se izognili novim nesrečam"
    }
   ]
  },
