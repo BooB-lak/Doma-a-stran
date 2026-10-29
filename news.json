@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-29T19:08:25.167Z",
+ "generatedAt": "2026-10-29T19:10:40.137Z",
  "sources": {
   "siol": [
+   {
+    "title": "Joksimović po drugo zmago v Francijo, Sekulić na španskem derbiju",
+    "link": "https://siol.net/sportal/kosarka/evroliga-9-krog-705107",
+    "image": "https://siol.net/media/img/eb/91/956840e8fb648d4a71de.jpeg",
+    "date": 1793300400000
+   },
    {
     "title": "Ostali bosta samo še dve neporaženi ekipi",
     "link": "https://siol.net/sportal/kosarka/liga-nba-29-oktober-705110",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/velika-sprememba-za-mateja-mohorica-in-jakoba-omrzela-705118",
     "image": "https://siol.net/media/img/6e/e4/f71ec30a3d939d409ba3.jpeg",
     "date": 1793298960000
-   },
-   {
-    "title": "Članice EU v sprostitev prek 40 milijonov sodov nafte",
-    "link": "https://siol.net/novice/svet/clanice-eu-v-sprostitev-prek-40-milijonov-sodov-nafte-705116",
-    "image": "https://siol.net/media/img/33/98/43e11dbf2607c07ddd99.jpeg",
-    "date": 1793298120000
    }
   ],
   "24ur": [
@@ -85,8 +85,8 @@
     "date": 1793300008000
    },
    {
-    "title": "Tarča: Nezakonita tovarna cigaret v Lendavi je bila ogromna",
-    "link": "https://www.rtvslo.si/slovenija/tarca-nezakonita-tovarna-cigaret-v-lendavi-je-bila-ogromna/798489",
+    "title": "Nezakonita tovarna cigaret v Lendavi je bila ogromna",
+    "link": "https://www.rtvslo.si/slovenija/nezakonita-tovarna-cigaret-v-lendavi-je-bila-ogromna/798489",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108092.jpg",
     "date": 1793296619000
    },
@@ -155,6 +155,13 @@
   ],
   "reuters": [
    {
+    "title": "Wall Street slides as Alphabet revenue miss revives AI capex jitters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+    "image": "",
+    "date": 1793299754000,
+    "titleSl": "Wall Street diapozitivi, ko prihodkovna zgrešitev Alphabeta oživi AI capex tremo"
+   },
+   {
     "title": "Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzd3N0FYcjQ3ZFIzYjhnUWZ4V2tPT0QyUDQ5T0hCai1WM3JXRG1GWjNXUlczOEoxRmVyTmdicmNSSlVMWENEdUNjcFhFMkpFQUw4dW9Ed2V0c01EeWZ3cnhGSnhuQldid3pjVTVmOGVEV0Z5ZWZ1VWZncDhTUG9ROEdIMDNiYnRBaWJwSjBIUWN4TmFrTHpyalRYQ183T3lJWGRUTl94d0cxM1FuejJHZFM3R1piRllmbVE?oc=5",
     "image": "",
@@ -188,13 +195,6 @@
     "image": "",
     "date": 1793295778000,
     "titleSl": "Robustna potrošnja potrošnikov, z umetno inteligenco povezana naložbena moč ameriškega gospodarstva v tretjem četrtletju"
-   },
-   {
-    "title": "Greek container ship sinks after drone attack off Bulgaria",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c?oc=5",
-    "image": "",
-    "date": 1793295757000,
-    "titleSl": "Grška kontejnerska ladja se je potopila po napadu brezpilotnega letala pred Bolgarijo"
    }
   ],
   "nyt": [
@@ -331,18 +331,25 @@
   ],
   "guardian": [
    {
-    "title": "More prisoners recalled to jail than released in England and Wales",
-    "link": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
-    "image": "https://i.guim.co.uk/img/media/dd578e0f3c3fbb9149403cb2b2e5dfcf57bb1559/562_0_5623_4501/master/5623.jpg?width=140&quality=85&auto=format&fit=max&s=7450e86f211b5864dc6f3225301cab80",
-    "date": 1793300124000,
-    "titleSl": "Več zapornikov je bilo v zaporu kot izpuščenih v Angliji in Walesu"
+    "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+    "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+    "image": "https://i.guim.co.uk/img/media/41a7157fdd6dc04cb818357a54195062d320a2ed/292_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=79964d74a9f4ca0380c6703d668bd8e9",
+    "date": 1793300657000,
+    "titleSl": "Sedem naftnih tankerjev, ki prevažajo 288.000 ton ruskega dizelskega goriva, pluje proti ZDA"
    },
    {
     "title": "Trump rallies in South Carolina as turmoil grows over Alaska campaign investigation – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/1827d513b569b7f4068e1a688b56afa369ca3887/0_0_4117_3295/master/4117.jpg?width=140&quality=85&auto=format&fit=max&s=428006d5c052bc47b0c4c8c06fbda8ff",
-    "date": 1793299884000,
+    "date": 1793300496000,
     "titleSl": "Trump na mitingih v Južni Karolini, medtem ko pretresi zaradi preiskave kampanje na Aljaski naraščajo – v živo"
+   },
+   {
+    "title": "More prisoners recalled to jail than released in England and Wales",
+    "link": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
+    "image": "https://i.guim.co.uk/img/media/dd578e0f3c3fbb9149403cb2b2e5dfcf57bb1559/562_0_5623_4501/master/5623.jpg?width=140&quality=85&auto=format&fit=max&s=7450e86f211b5864dc6f3225301cab80",
+    "date": 1793300124000,
+    "titleSl": "Več zapornikov je bilo v zaporu kot izpuščenih v Angliji in Walesu"
    },
    {
     "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/c69c1087bc1f181beb0ed37da77cdcbe6884213b/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cac35301738bcd3b6bdbc78e00961118",
     "date": 1793296463000,
     "titleSl": "Poslanka Lib Dem obtožuje Nigela Farageja, da jo je porinil v parlament"
-   },
-   {
-    "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-    "image": "https://i.guim.co.uk/img/media/40da4bb6af73d2bc793695b58b615b2dd6c6f3fc/433_0_3583_2867/master/3583.jpg?width=140&quality=85&auto=format&fit=max&s=7d811d224a0b83f67750061a7d606024",
-    "date": 1793296197000,
-    "titleSl": "Rezultati izraelskih volitev: Katar pravi, da so obtožbe o vmešavanju v volitve v Izraelu \"smešne in nevarne\" – kot se je zgodilo"
    }
   ],
   "spiegel": [
