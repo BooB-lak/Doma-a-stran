@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T09:06:25.650Z",
+ "generatedAt": "2026-10-29T09:08:25.259Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Lakers Luki pripeljali prepotrebno pomoč pod obročem",
+    "link": "https://www.zurnal24.si/sport/kosarka/lakers-luki-pripeljali-prepotrebno-pomoc-pod-obrocem-467444",
+    "image": "https://www.zurnal24.si/media/img/33/8f/05d648b1ab8deb0ea917.jpeg",
+    "date": 1793264820000
+   },
+   {
     "title": "V tem času na cestah veliko divjati, kaj storiti, če jo povozite",
     "link": "https://www.zurnal24.si/slovenija/v-tem-casu-na-cestah-veliko-divjati-kaj-storiti-ce-jo-povozite-467443",
     "image": "https://www.zurnal24.si/media/img/29/f4/b1968bd7e870099dbe34.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kosarka/kako-resno-je-redick-spregovoril-o-lukovi-poskodbi-467437",
     "image": "https://www.zurnal24.si/media/img/7b/b4/275f58a66194fda43b54.jpeg",
     "date": 1793258760000
-   },
-   {
-    "title": "S pištolama v rokah od oslužbencev zahtevala denar",
-    "link": "https://www.zurnal24.si/slovenija/s-pistolama-v-rokah-od-osluzbencev-zahtevala-denar-467436",
-    "image": "https://www.zurnal24.si/media/img/af/66/1a4da990ac62f0f4608c.jpeg",
-    "date": 1793258040000
    }
   ],
   "reuters": [
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "The Midterms May End the Trump Era. Here Are 10 Takeaways.",
+    "link": "https://www.nytimes.com/2026/10/29/opinion/trump-midterms.html",
+    "image": "",
+    "date": 1793264604000,
+    "titleSl": "Srednji semestri lahko končajo Trumpovo dobo. Tukaj je 10 nasvetov."
+   },
+   {
+    "title": "Can Porn Ever Be Ethical?",
+    "link": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg",
+    "date": 1793264589000,
+    "titleSl": "Je lahko pornografija kdaj etična?"
+   },
+   {
     "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
     "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg",
@@ -220,25 +234,11 @@
     "titleSl": "Guverner Aljaske odredi kazensko preiskavo kampanje Peltola"
    },
    {
-    "title": "Europe Is Aflame, and It’s Not Going to Stop",
-    "link": "https://www.nytimes.com/2026/10/29/opinion/europe-protests-youth-france.html",
-    "image": "",
-    "date": 1793256142000,
-    "titleSl": "Evropa gori in se ne bo ustavila"
-   },
-   {
     "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
     "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg",
     "date": 1793253666000,
     "titleSl": "Flávio Bolsonaro po begu iz Brazilije pristane v Miamiju"
-   },
-   {
-    "title": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
-    "link": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/obituaries/29cardenas/29cardenas-mediumSquareAt3X.jpg",
-    "date": 1793253522000,
-    "titleSl": "Cuauhtémoc Cárdenas, ki je pomagal končati enostransko pravilo v Mehiki, umre pri 92 letih"
    }
   ],
   "bbc": [
@@ -418,10 +418,31 @@
   ],
   "bild": [
    {
+    "title": "Live-Ticker - Fabians Mutter ist so tapfer!",
+    "link": "https://www.bild.de/regional/rostock/live-ticker-zum-mordprozess-um-fabian-gina-h-raeumt-alibi-deal-ein-69f2f4ded6078134c45a3b9c",
+    "image": "https://images.bild.de/69f2f4ded6078134c45a3b9c/efcf749a1c9a6ea4c9f52ac211a1f533,a0baa142?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Live-Ticker - König Felipe besucht Unglücksopfer im Krankenhaus",
+    "link": "https://www.bild.de/news/ausland/mehr-als-40-tote-bei-zugunglueck-in-spanien-live-ticker-6ae1ca9ee1acc6033d3ae6db",
+    "image": "https://images.bild.de/6ae1ca9ee1acc6033d3ae6db/d4240f006f913e923207588f7d0eaa3c,67e5c30f?w=1280",
+    "date": 0,
+    "titleSl": "V živo - Kralj Felipe obišče žrtve nesreč v bolnišnici"
+   },
+   {
+    "title": "Wichtigster Spieler droht Ausfall - Fortuna bangt um ihre Unbesiegbar-Garantie",
+    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-jens-langeneke-bangt-um-seine-unbesiegbar-garantie-6ae24d3bd1f524f7ccaa9d18",
+    "image": "https://images.bild.de/6ae24d3bd1f524f7ccaa9d18/f94fcbc2d00d4381f88e9792bc0ffdb4,eba6192?w=1280",
+    "date": 0,
+    "titleSl": "Najpomembnejšemu igralcu grozi neuspeh - Fortuna je zaskrbljena zaradi garancije nepremagljivosti"
+   },
+   {
     "title": "Borussias Blessin-Verwandlung - DAS sind Gladbachs Muster-Malocher",
     "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-das-sind-alexander-blessins-muster-malocher-6ae24921d1f524f7ccaa9cdc",
     "image": "https://images.bild.de/6ae24921d1f524f7ccaa9cdc/ec84200f10659b57ca65b6f8dd395ec0,43391c52?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Borussiina Blessin preobrazba - TO so Gladbachovi vzorčni mojstri"
    },
    {
     "title": "„Kann mich nicht in Gefahr bringen“ - Eralp hat Angst vor Israel-Hassern",
@@ -436,42 +457,9 @@
     "image": "https://images.bild.de/6ae27cab21fd087fed7ee119/41a4d13cbec829da50dbd557120b5951,bbf856c0?w=1280",
     "date": 0,
     "titleSl": "Zdaj postaja neprijetno - Schalke zabredel v svojo prvo glasbeno krizo!"
-   },
-   {
-    "title": "„Musste selbst zweimal hinschauen“ - Twitch-Senkrechtstarter verrät Mega-Einnahmen",
-    "link": "https://www.bild.de/unterhaltung/bildgg/twitch-star-gtime-ueber-seine-mega-einnahmen-musste-selbst-zweimal-hinschauen-6aaa5f3a3e0af7910e520d6e",
-    "image": "https://images.bild.de/6aaa5f3a3e0af7910e520d6e/95c4383aed61e038764d0b5bbc610f01,b19724ee?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Comeback des Meisterdiebs - „Lupin“ bei Netflix gleich doppelt in den Charts",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/lupin-nach-drei-jahren-zurueck-staffel-4-fuehrt-sofort-die-netflix-charts-an-6ae1de4cd1f524f7ccaa93e3",
-    "image": "https://images.bild.de/6ae1de4cd1f524f7ccaa93e3/c050316e347fc4e5b043c7b74db68870,9c6e5c57?w=1280",
-    "date": 0,
-    "titleSl": "Povratek glavnega tatu - \"Lupin\" je dvakrat na lestvici Netflixa"
-   },
-   {
-    "title": "Pikanter Plan fürs Mexiko-Rennen - Fans wollen Formel-1-Star verhöhnen",
-    "link": "https://www.bild.de/sport/mehr-sport/plan-fuers-mexiko-rennen-fans-wollen-formel-1-star-verhoehnen-6ae2fce82b12699033dfdd1c",
-    "image": "https://images.bild.de/6ae2fce82b12699033dfdd1c/17f91eaa9a2acd45c1114b82d261faed,b42e76d8?w=1280",
-    "date": 0,
-    "titleSl": "Pikanten načrt za dirko po Mehiki - navijači se želijo posmehovati zvezdniku formule 1"
    }
   ],
   "krone": [
-   {
-    "title": "Technische Mängel - Lkw-Lenker fuhren ohne Schein quer durch Europa",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAteFJISWVjcERoNC05WVRTMHUyVXJLRnpNeDIxUnc2YkdzNFg4RDVEaUVhQy1oSTFOc1g5MWJmY29BQQ?oc=5",
-    "image": "",
-    "date": 1793264400000
-   },
-   {
-    "title": "Dermatologin erklärt - Ohne OP! Neueste Trends für eine gesunde Haut",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1cjdUNnM1SWZMa0ZJNGZzN2c2UGNIRk9faVdPUjRZMTJUc2VDcFhPbVJidVRLaTVqdTd0R2hzWGpqUQ?oc=5",
-    "image": "",
-    "date": 1793264400000,
-    "titleSl": "Dermatologinja pojasnjuje - Brez operacije! Najnovejši trendi za zdravo kožo"
-   },
    {
     "title": "Ex-ÖVP-Generalsekretär - Waldheims Wahlkämpfer: Heribert Steinbauer ist tot",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Pek1DMjNOb1FCUTM2b1VvU3BLLXBveW1zYVo2TUkzU0ZfbzQtNlY0UkNJQ0ozQko1SmpsZkg0clpJZw?oc=5",
@@ -480,25 +468,38 @@
     "titleSl": "Nekdanji generalni sekretar ÖVP - Waldheimov volilni borec: Heribert Steinbauer je mrtev"
    },
    {
-    "title": "Massiver Widerstand - EU-Mitgliedschaft für Kanada vorerst gestoppt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CWDdDWFVROVVuQXlSNkY3djZQay15bjF1aFlpSkZ4V1hJRDdFWlVvM1NFTW8yOGIxLVlGVi1PZWcwQQ?oc=5",
-    "image": "",
-    "date": 1793263200000,
-    "titleSl": "Ogromen odpor – članstvo Kanade v EU se je zaenkrat ustavilo"
-   },
-   {
-    "title": "Ehemann festgenommen - Mörder täuschte Umzug von Opfer ins Ausland vor",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3Nkc1NU9vSHZ6RXFLMmZNOE0zSU80eFNvdzdWaVB2c3pGYVk0R0JiMmtWRHR4RnRmdHBicnNFZkgxUQ?oc=5",
-    "image": "",
-    "date": 1793263020000,
-    "titleSl": "Mož aretiran – morilec lažno odselil žrtev v tujino"
-   },
-   {
     "title": "Nach Blamage im Pokal - Fans schweigen – Muslic findet deutliche Worte",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tWlFsU01fSEk5NXJ1MXAxRzhPUHFyTkZhWTNuUzNKLVVlVDJmYXh5SG40cld5bnYtYUZjNzFJRUQxUQ?oc=5",
     "image": "",
     "date": 1793262960000,
     "titleSl": "Nach Blamage im Pokal - Ventilatorji schweigen – Muslic findet deutliche Worte"
+   },
+   {
+    "title": "Kasperl der Woche - Bei Sepp Schellhorn greift man sich auf den Kopf",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0wM2tDbTg5V29KR1g4dHdFQUFJcFhIVVNfaXlQZ1VzQ1lfSUtPTm1VNmM3Wk9ENXlKaXpzbF9TUTUtRkF6YmlF?oc=5",
+    "image": "",
+    "date": 1793262960000,
+    "titleSl": "Punch in Judy tedna - Sepp Schellhorn je hit"
+   },
+   {
+    "title": "Gartenmauer touchiert - Senior nach Crash: „Lasse mir Schein nicht nehmen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLa2VPRDZ1dTdFRl9WX2xWTUlRLXZmcHduaHRIR3B0NlFuNkJ4VXI1dVVfVzdXVk1oZHlSdlg4UHJmUQ?oc=5",
+    "image": "",
+    "date": 1793262600000,
+    "titleSl": "Vrtna stena se je dotaknila - starejši po nesreči: \"Ne dovolite, da mi vzame videz\""
+   },
+   {
+    "title": "„Oanen in dr Krone“ - Ein Wirtshaus mit Bar und Vinothek",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8wVlZOeTFEUUt1ZEd4UWdLc0VZVV9oSFNhdjBVU2NTYThGNGdEMHpaRnBzSDdpdktuNmFSVE5oYzVNQQ?oc=5",
+    "image": "",
+    "date": 1793262300000
+   },
+   {
+    "title": "„Das ist ein Wahnsinn“ - Wasserleitung fehlt: Grazer sitzen am Trockenen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zU2JqbEpQc2pnTzJfdnBfVWVUNnpjUGRTTmVpamhsUFY2SnZLTHNMdHREeWxRUzlGVmpPcW9QaWJKdw?oc=5",
+    "image": "",
+    "date": 1793260800000,
+    "titleSl": "“To je noro” - manjka vodovodna cev: pašniki ostanejo suhi"
    }
   ],
   "rainews": [
