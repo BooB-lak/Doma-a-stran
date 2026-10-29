@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-29T10:56:26.571Z",
+ "generatedAt": "2026-10-29T10:58:25.252Z",
  "sources": {
   "siol": [
+   {
+    "title": "Negovalka, ki je snemala nemočne oskrbovance, obdržala službo",
+    "link": "https://siol.net/novice/slovenija/negovalka-ki-je-snemala-nemocne-oskrbovance-obdrzala-sluzbo-705075",
+    "image": "https://siol.net/media/img/d0/f8/27a0db85d50f907be471.jpeg",
+    "date": 1793271000000
+   },
    {
     "title": "Christine Lagarde se predčasno poslavlja s čela ECB",
     "link": "https://siol.net/novice/svet/christine-lagarde-se-predcasno-poslavlja-s-cela-ecb-705074",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/tenis/andy-murray-in-aljaz-bedene-oba-sta-imela-tezave-s-fabiem-fogninijem-video-705070",
     "image": "https://siol.net/media/img/35/09/43d666e86b6b565ec305.jpeg",
     "date": 1793269680000
-   },
-   {
-    "title": "Grozljiv pokol v Dnipru: zadeta železniška postaja, več žrtev #vŽivo",
-    "link": "https://siol.net/novice/svet/ukrajina-proti-moskvi-izstrelila-vec-kot-600-dronov-705042",
-    "image": "https://siol.net/media/img/1c/fa/4f50e42a635cbfc1f711.jpeg",
-    "date": 1793269500000
    }
   ],
   "24ur": [
@@ -45,6 +45,12 @@
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/ian-polak-rozac-vse-kar-sem-si-kadarkoli-zelel-se-pocasi-uresnicuje.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/e2d05a55ab3d812c2ba5_63630157.jpg?v=13df&fop=fp:0.49:0.24",
     "date": 1793271163000
+   },
+   {
+    "title": "Stevanović se bo odzval na sum korupcije za zemljišče v Kranju",
+    "link": "https://www.24ur.com/novice/slovenija/rakovec-po-razkritju-posnetka-zagotovil-da-vedno-dela-v-skladu-z-zakonodajo.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/9ad74c766d37c1bc316c_63623298.jpg?v=7881&fop=fp:0.47:0.53",
+    "date": 1793271125000
    },
    {
     "title": "Christine Lagarde predčasno zapušča položaj predsednice Evropske centralne banke",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/srce-parajoce-druzini-sporocili-da-je-ziva-nato-sledil-sok.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2022/56f7cd02d472668ca049_62857528.jpg?v=36b5&fop=fp:0.50:0.48",
     "date": 1793269871000
-   },
-   {
-    "title": "Nečakinje Meghan Markle obtožbe zoper dedka ne presenečajo: Vedno je bil čuden",
-    "link": "https://www.24ur.com/popin/tuja-scena/necakinje-meghan-markle-obtozbe-zoper-dedka-ne-presenecanjo-vedno-je-bil-cuden.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/5042af276e577409bb7c_63670574.jpg?v=3488&fop=fp:0.53:0.37",
-    "date": 1793268118000
    }
   ],
   "rtvslo": [
@@ -85,7 +85,7 @@
     "date": 1793271303000
    },
    {
-    "title": "Andrej Rozman Roza je dobitnik nagrade za promocijo mladinske književnosti in branja",
+    "title": "Andrej Rozman- Roza je dobitnik nagrade za promocijo mladinske književnosti in branja",
     "link": "https://www.rtvslo.si/kultura/knjige/andrej-rozman-roza-je-dobitnik-nagrade-za-promocijo-mladinske-knjizevnosti-in-branja/798417",
     "image": "https://img.rtvcdn.si/_up/upload/2019/05/14/65584701.jpg",
     "date": 1793270769000
@@ -417,47 +417,59 @@
   ],
   "bild": [
    {
+    "title": "Mit deutschem Kommentar - Hier das Hamburg-Rennen der Hyrox-Elite live sehen!",
+    "link": "https://www.bild.de/sport/mehr-sport/hyrox-in-hamburg-elite-rennen-live-bei-bild-6ae0b96ef74d161423be0494",
+    "image": "https://images.bild.de/6ae0b96ef74d161423be0494/0590a32ea84314a8cba5a881b942f6d2-landscape,9c17c92?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Startschuss in Hamburg am Freitag - So sehen Sie die Hyrox-Elite15 live!",
+    "link": "https://www.bild.de/sport/mehr-sport/hyrox-so-sehen-sie-die-elite15-live-startschuss-in-hamburg-am-freitag-6ae212fde1acc6033d3aef61",
+    "image": "https://images.bild.de/6ae212fde1acc6033d3aef61/b87763930f5b943960f195ea7950b5be,2c40a605?w=1280",
+    "date": 0,
+    "titleSl": "Startschuss v Hamburgu ob Freitagu - Torej sehen Sie die Hyrox-Elite15 v živo!"
+   },
+   {
+    "title": "Es geht um einen fast vergessenen Star - Kovac löst Millionen-Problem beim BVB",
+    "link": "https://www.bild.de/sport/fussball/bvb-kovac-loest-millionen-problem-mit-chukwuemeka-6ae2f64d4a674ddd4ba23328",
+    "image": "https://images.bild.de/6ae2f64d4a674ddd4ba23328/80f905f950a95df4eb593836142c02ca,6764f66b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Bayern-Trainer aus Klinik entlassen - Drei Geheimnisse um die Kompany-Rückkehr!",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-vincent-kompany-aus-klinik-entlassen-3-geheimnisse-zu-seiner-rueckkehr-6ae2f62121fd087fed7ee4ca",
+    "image": "https://images.bild.de/6ae2f62121fd087fed7ee4ca/7196f53ae67a62023aea307344045470,b503460e?w=1280",
+    "date": 0
+   },
+   {
     "title": "Urlauber vergleichen ihn mit Benidorm - Das soll der schlimmste Ort auf den Kanaren sein",
     "link": "https://www.bild.de/leben-wissen/reisen/vergleich-mit-benidorm-das-soll-der-schlimmste-ort-der-kanaren-sein-6ae1d3c6e1acc6033d3ae845",
     "image": "https://images.bild.de/6ae1d3c6e1acc6033d3ae845/a707fa859b2409d89ec8b4cacf5372e6,d0ad243f?w=1280",
     "date": 0
    },
    {
-    "title": "Er sitzt in U-Haft - Ex-BND-Chef Hanning an Krebs erkrankt",
-    "link": "https://www.bild.de/news/er-sitzt-in-u-haft-ex-bnd-chef-hanning-an-krebs-erkrankt-6ae320ac063ab7e38a99fd61",
-    "image": "https://images.bild.de/6ae320ac063ab7e38a99fd61/ea2ca1d8c6bec5ee8427025eb447d333,d2b31fc0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Vorschau GZSZ heute auf RTL+ - Schickt John seinen Sohn zurück nach Kanada?",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-vorschau-auf-rtl-john-droht-seinen-sohn-wieder-zu-verlieren-6ae3228221fd087fed7ee9d2",
-    "image": "https://images.bild.de/6ae3228221fd087fed7ee9d2/2448dae10f08cdf17086d5258780fd85,1cfcccbb?w=1280",
-    "date": 0
-   },
-   {
-    "title": "BILD stellt ihn vor - Wer ist der unbekannte Bayern-Torschütze?",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-wer-ist-der-unbekannte-torschuetze-bild-stellt-david-santos-daiber-19-vor-6ae2f16c063ab7e38a99f8db",
-    "image": "https://images.bild.de/6ae2f16c063ab7e38a99f8db/f66fdaed23d728b15251eb387a91b473,4d024d9b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Dieser Schwachsinn“ - Was Reif an Kanes Ballon-d’Or-Party scharf kritisiert",
-    "link": "https://www.bild.de/sport/fussball/dieser-schwachsinn-was-reif-an-kanes-ballon-dor-party-scharf-kritisiert-6ae30352063ab7e38a99fa48",
-    "image": "https://images.bild.de/6ae30352063ab7e38a99fa48/5fe624e3324e9e22b59eb137d580dfa1,5f62786c?w=1280",
-    "date": 0,
-    "titleSl": "„Dieser Schwachsinn“ - Was Reif an Kanes Ballon-d 'Or-Party scharf kritisiert"
-   },
-   {
-    "title": "Unser Handball-Gigant - Transfer-Hammer um Andreas Wolff",
-    "link": "https://www.bild.de/sport/mehr-sport/handball-bundesliga-transfer-hammer-um-andreas-wolff-6ae2247621fd087fed7edbc7",
-    "image": "https://images.bild.de/6ae2247621fd087fed7edbc7/4765c2841ac02ff15c7b7b6a6b5353a7,de136797?w=1280",
+    "title": "Plötzlich wird die Reparatur viel teurer! - Die Werkstatt-Falle für Wohnmobil-Fahrer",
+    "link": "https://www.bild.de/leben-wissen/auto/wohnmobil-in-der-werkstatt-diese-kostenfalle-droht-6ae30e6a2b12699033dfdeb9",
+    "image": "https://images.bild.de/6ae30e6a2b12699033dfdeb9/7771c56eac81a35b56ea4dd0e3d0e21f,5f49202?w=1280",
     "date": 0
    }
   ],
   "krone": [
    {
+    "title": "Soll Arzt nicht fragen - ChatGPT rät Frau (31), Medikamente abzusetzen: Tot",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZbDhrRW92LUY0U3NfVEgxdmZZeFBXcGl6Q3dYbjVIOElGRWxCc3AwQ3ZMQ3Z5bERSV28wcGw2cG4tdw?oc=5",
+    "image": "",
+    "date": 1793270760000
+   },
+   {
     "title": "Im Amt bestätigt - Tittler: Weniger Zettelkram, mehr Fachkräfte",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PQ2NCMklDMkIxRlplcExWc25oUlBTQ3VGSVVxYld2TThnejZsM0xPelVuT0pXN3k0Q2RWSWRDbHJJZw?oc=5",
+    "image": "",
+    "date": 1793269800000
+   },
+   {
+    "title": "Naturschutz - Flüsse im Weinviertel bekommen wieder mehr Platz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52MUFlczBMeE96YXgwbkR2WUhNX21hNmZlZE53S1R3MUZxcDRwSGNiNkFzcHYxaHJxdnJVQVZ3aTF0Zw?oc=5",
     "image": "",
     "date": 1793269800000
    },
@@ -479,18 +491,6 @@
     "image": "",
     "date": 1793269260000,
     "titleSl": "Angriffe häufen sich - Auf Mine gefahren? Schiff v Iranu-Meerenge brennt"
-   },
-   {
-    "title": "Viele Veranstaltungen - Halloween wird immer mehr zum neuen Fasching",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WdGpUcE1qMUZuMmZvR1lLZTZ2VmdPckpyRkU2M3N0VldweHItY2FwZXhhSW5mNEJpWXgzSDBlQlRfZw?oc=5",
-    "image": "",
-    "date": 1793269200000
-   },
-   {
-    "title": "„Krone“-Kolumne - Stadion-Neubau ist wie ein Elfmeter ohne Tormann",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0eF9sT25TWW8yaDlKMkdDcm1IeHhGOHhYXzBNYTBQTk81OUZlQ0pBWjZLVE1BcldGT1o1QnpnaUpYZw?oc=5",
-    "image": "",
-    "date": 1793269020000
    }
   ],
   "rainews": [
