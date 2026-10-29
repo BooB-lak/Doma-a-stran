@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T08:34:27.751Z",
+ "generatedAt": "2026-10-29T08:36:27.188Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Jezikanje vs. Jezikovni pogovori: \"Jezik je lahko napet kot kriminalka\"",
+    "link": "https://www.rtvslo.si/kultura/jezik/jezikanje-vs-jezikovni-pogovori-jezik-je-lahko-napet-kot-kriminalka/798398",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/08/67111153.jpg",
+    "date": 1793262812000
+   },
+   {
     "title": "Dončić tudi že v gosteh slišal vzklike \"MVP\", Redick zadovoljen z zametki obrambe",
     "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/doncic-tudi-ze-v-gosteh-slisal-vzklike-mvp-redick-zadovoljen-z-zametki-obrambe/798393",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/29/67117289.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/lokalne-volitve-2026/v-tekmo-za-idrijskega-zupana-osem-kandidatov/798392",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/29/67117285.jpg",
     "date": 1793260527000
-   },
-   {
-    "title": "Telefon za volanom: bo prepoved popolna?",
-    "link": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/telefon-za-volanom-bo-prepoved-popolna/797532",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/20/67114923.jpg",
-    "date": 1793260184000
    }
   ],
   "zurnal": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Bayern celebrate Kane’s Ballon d’Or, Kompany’s discharge with Magdeburg win",
-    "link": "https://www.aljazeera.com/sports/2026/10/29/bayern-celebrate-kanes-ballon-dor-kompany-discharge-with-magdeburg-win?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-28T191255Z_1389011981_UP1EMAS1HDHP5_RTRMADP_3_SOCCER-GERMANY-FCB-WOB-1793259900.jpg?resize=1920%2C1440",
-    "date": 1793262340000,
-    "titleSl": "Bayern praznuje Kaneovo Ballon d'Or, Kompanyjev izpust z zmago Magdeburga"
-   },
-   {
-    "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
-    "link": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-28T145707Z_1622502881_RC2ECOAJZ53C_RTRMADP_3_SPAIN-ACCIDENT-1793261998.jpg?resize=1920%2C1440",
-    "date": 1793262034000,
-    "titleSl": "»To žensko sem držal v naročju. Umrla je ’: Španija žaluje za žrtvami nesreče vlaka"
-   },
-   {
     "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
     "link": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae1bd5972286-1793178969.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae2e57e74587-1793254782.jpg?resize=1920%2C1440",
     "date": 1793259664000,
     "titleSl": "Nekdanji ameriški uradniki pozivajo 2028 kandidatov, naj obsodijo Bidenovo politiko do Gaze"
+   },
+   {
+    "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+    "link": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261029__D4R82T3__v1__HighRes__HaitiLifestyleDailyLife-1793254624.jpg?resize=1920%2C1440",
+    "date": 1793259398000,
+    "titleSl": "Salvador obljublja več kot 2.000 vojakov, saj Haiti zavlačuje z volitvami"
+   },
+   {
+    "title": "Stephen Curry, Warriors hold nerve to beat Timberwolves in tight NBA battle",
+    "link": "https://www.aljazeera.com/sports/2026/10/29/stephen-curry-warriors-hold-nerve-to-beat-timberwolves-in-tight-nba-battle?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae2eaf129138-1793256177.jpg?resize=1920%2C1440",
+    "date": 1793258705000,
+    "titleSl": "Stephen Curry, Warriors imajo pogum premagati Timberwolve v tesni bitki v NBA"
    }
   ],
   "guardian": [
@@ -419,6 +419,18 @@
   ],
   "bild": [
    {
+    "title": "Brooklyn feiert seinen Patenonkel - Elton John jetzt zwischen den Beckham-Fronten",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/elton-john-feiert-mit-brooklyn-david-und-victoria-beckham-fehlen-6ae2e7b021fd087fed7ee352",
+    "image": "https://images.bild.de/6ae2e7b021fd087fed7ee352/a0b858f82c7df99e0be8f117d3188fa9,c7a69847?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Erst Bank-Frust, dann Last-Minute-Pech - Italien-Presse zerreißt Woltemade",
+    "link": "https://www.bild.de/sport/fussball/erst-bank-frust-dann-last-minute-pech-italien-presse-zerreisst-woltemade-6ae2f86d063ab7e38a99f95b",
+    "image": "https://images.bild.de/6ae2f86d063ab7e38a99f95b/28171da6d5404b9599f085741bab3e53,5602c023?w=1280",
+    "date": 0
+   },
+   {
     "title": "Bei Flügen bis zu 29 % sparen - Festtage unter Palmen! Hier wird’s günstiger",
     "link": "https://www.bild.de/leben-wissen/reisen/sonne-statt-winter-diese-weihnachtsfluege-sind-deutlich-guenstiger-6ae0a6a7dcd605c8d4cea780",
     "image": "https://images.bild.de/6ae0a6a7dcd605c8d4cea780/d75c14c567af06fb0e9424416e2d75f0-landscape,9755852b?w=1280",
@@ -443,22 +455,15 @@
     "image": "https://images.bild.de/6ae2f6372b12699033dfdcb6/80b835a954512845e7121f9677e7ea92,e6bf56f4?w=1280",
     "date": 0,
     "titleSl": "Reaktionen auf Eralp-Enthüllung - War es das mit Rot-Grün-Rot v Berlinu?"
-   },
-   {
-    "title": "„Ein Drittel der Fahrer hat keine Qualität!“ - Formel-1-Star pöbelt gegen seine Konkurrenten",
-    "link": "https://www.bild.de/sport/mehr-sport/formel-1-poebel-anfall-von-doppel-weltmeister-fernando-alonso-6ae2f794063ab7e38a99f949",
-    "image": "https://images.bild.de/6ae2f794063ab7e38a99f949/462e87ddb5022e91c038c5e54ac0dd54,a6455c80?w=1280",
-    "date": 0,
-    "titleSl": "\"Tretjina voznikov je brez kakovosti!\" - Zvezdnik formule 1 tarna proti svojim tekmecem"
-   },
-   {
-    "title": "Nur drei Monate nach ihrem Mann - Schauspiel-Legende Elke Sommer ist tot",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/elke-sommer-ist-tot-hollywood-star-stirbt-mit-85-jahren-6ae2fa0e21fd087fed7ee4fb",
-    "image": "https://images.bild.de/6ae2fa0e21fd087fed7ee4fb/d44dadbde0f61becd966c38737f8d201,d794d7e3?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Vater unbelehrbar - Kopftuchverbot: Familie muss gleich dreimal zahlen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43bHpJeXAyaEgwXzNFZmphSUVwVWx3YmdwV1Ztbkx6NExaNDJSZlFaUThzTnJfVHBMQVJSaUhNaGFlQQ?oc=5",
+    "image": "",
+    "date": 1793262661000
+   },
    {
     "title": "Gartenmauer touchiert - Senior nach Crash: „Lasse mir Schein nicht nehmen“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLa2VPRDZ1dTdFRl9WX2xWTUlRLXZmcHduaHRIR3B0NlFuNkJ4VXI1dVVfVzdXVk1oZHlSdlg4UHJmUQ?oc=5",
@@ -482,12 +487,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ0x2eTJLeUY4UWpYZ1dWUlBOREROeHVvckRIa3FfNjVDY0tMazVvUnpvNmoteHVETHVCNWxYWFdpQQ?oc=5",
     "image": "",
     "date": 1793261460000
-   },
-   {
-    "title": "Das freie Wort - Mögliche Kandidaten",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwN1ctRl9fWndudy1PNWlEeWJfTUtaMkpYc1BTWFlyVHRSbWFXZnhfYnFDLXZ6YlFQUjdFMnBDcC1GTFgzRXprRFhOREJscGF0SDlkb2NzWTRSVmt2TFVvd3hXYjR5M1BzTjlEYg?oc=5",
-    "image": "",
-    "date": 1793260901000
    },
    {
     "title": "„Das ist geisteskrank“ - Todesfalle mit Zahnseide! Ortschef schlägt Alarm",
