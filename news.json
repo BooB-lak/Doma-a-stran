@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-30T11:54:26.219Z",
+ "generatedAt": "2026-10-30T11:56:24.467Z",
  "sources": {
   "siol": [
+   {
+    "title": "Kompany že zapustil bolnišnico. Bo nared za veliki derbi?",
+    "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-8-krog-705178",
+    "image": "https://siol.net/media/img/51/31/787d32a5468d064b8b92.jpeg",
+    "date": 1793361240000
+   },
    {
     "title": "V Gospiću prekrili 33 tisoč ton zakopanih odpadkov",
     "link": "https://siol.net/novice/svet/v-gospicu-prekrili-33-tisoc-ton-zakopanih-odpadkov-705177",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/caruso-z-izbranimi-besedami-o-pogacarju-to-lahko-recem-povsem-brez-ovinkarjenja-705170",
     "image": "https://siol.net/media/img/46/3c/c7eba5058f6a05397c5e.jpeg",
     "date": 1793356500000
-   },
-   {
-    "title": "Olimpija podaljšala s Hrvatom, Krko čaka obračun z bivšim trenerjem",
-    "link": "https://siol.net/sportal/kosarka/liga-aba-sesti-krog-705163",
-    "image": "https://siol.net/media/img/b3/9a/f8ff965e84cc1d6ab629.jpeg",
-    "date": 1793355600000
    }
   ],
   "24ur": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Man guilty of dragging teacher to his death in car",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "date": 1793361185000,
+    "titleSl": "Moški, ki je učitelja zvlekel v smrt v avtomobilu"
+   },
+   {
     "title": "Footage of Seoul crush to be removed from Call of Duty after backlash",
     "link": "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ac/live/4da31040-5b66-11f1-8ea9-9775e47f19f8.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/178672d0-d452-11f1-8780-edcbf4859104.jpg",
     "date": 1793359047000,
     "titleSl": "Kljub zmagi v PNG je Anglija v prednosti pred izpadom iz svetovnega prvenstva"
-   },
-   {
-    "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-    "link": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baa8/live/5fe73760-d440-11f1-93e1-3b657b665bcf.jpg",
-    "date": 1793357527000,
-    "titleSl": "Sir Ian McKellen vodi poklon \"ljubljenemu igralcu\" siru Patricku Stewartu po njegovi smrti pri 86 letih"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793360542.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793360597000,
-    "titleSl": "Palestinska volilna udeležba razkriva odnos Izraela do arabskih državljanov"
-   },
    {
     "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
     "link": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ae4487e03-1793345662.jpg?resize=1920%2C1440",
     "date": 1793356852000,
     "titleSl": "ZDA pretehtajo nove napade na Iran, medtem ko Vance seže v stik: Je vojna ali dogovor bližje?"
+   },
+   {
+    "title": "On the US border in Texas, Trump deportation drive galvanises midterm vote",
+    "link": "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2021-03-30T202237Z_1944010373_RC2WLM9LGTCI_RTRMADP_3_USA-IMMIGRATION-BORDER-1793321599.jpg?resize=1920%2C1440",
+    "date": 1793355774000,
+    "titleSl": "Trumpova deportacija na ameriški meji v Teksasu spodbuja vmesno glasovanje"
    }
   ],
   "guardian": [
@@ -417,46 +417,50 @@
   ],
   "bild": [
    {
+    "title": "„Du siehst aus wie die Hölle“ - Umfrage-Frust? Trump pöbelt mehr denn je",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-du-siehst-aus-wie-die-hoelle-ist-das-umfrage-frust-6ae447a0aacefa08f5b98f4f",
+    "image": "https://images.bild.de/6ae447a0aacefa08f5b98f4f/a4286b18f1b159e8d7162c4fbf37b612,1170af03?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Es geht um Torwart Atubolu - Wichtige Transfer-Klausel bei Eintracht enthüllt!",
+    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-transfer-klausel-bei-torwart-atubolu-enthuellt-6ae46621a4ede285fb3059d4",
+    "image": "https://images.bild.de/6ae46621a4ede285fb3059d4/0ea93fe03790bd40a4c7399b51527cca,92cb1bf2?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Licht aus in Österreich - Deutscher Paragleiter (73) hängt in Stromkabel fest",
+    "link": "https://www.bild.de/news/ausland/oesterreich-deutscher-paragleiter-73-haengt-in-stromkabel-fest-6ae4786a9cc46e5eac2c3753",
+    "image": "https://images.bild.de/6ae4786a9cc46e5eac2c3753/587f0b7f27393e7fb82ec1e4289692f8,369ef327?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Cyberkriminelle griffen Daten ab - Charité gehackt!",
+    "link": "https://www.bild.de/regional/berlin/berliner-charite-gehackt-cyberkriminelle-griffen-daten-des-klinikums-ab-6ae47e14bfb85e617afeae06",
+    "image": "https://images.bild.de/6ae47e14bfb85e617afeae06/a07efa293b0fe4ed1466afd8fd14c8c1,463ee97f?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Polzin, Hütter und ein Buch - Die besondere Trainer-Beziehung der Bundesliga",
+    "link": "https://www.bild.de/sport/fussball/hsv-frankfurt-polzin-huetter-und-ein-buch-die-besondere-trainer-beziehung-der-bundesliga-6ae4537e981b80c0b79868a4",
+    "image": "https://images.bild.de/6ae4537e981b80c0b79868a4/238a5d25701728f332ae3cceeabb3a17,b6c521bf?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Warum hasst ihr alles, was ich mache?“ - Deutscher Internet-Star bricht in Tränen aus",
     "link": "https://www.bild.de/unterhaltung/bildgg/internet-star-bricht-in-traenen-aus-warum-hasst-ihr-was-ich-mache-6ace3931a3d42c2e8cd529ac",
     "image": "https://images.bild.de/6ace3931a3d42c2e8cd529ac/0ac100e45a6118d63d1a725d6bd1063c,42fa6f25?w=1280",
     "date": 0,
     "titleSl": "»Warum hasst ihr alles, was ich mache?“ - Deutscher Internet-Star bricht in Tränen aus"
-   },
-   {
-    "title": "„Es ist das Gleiche, was mein Vater hatte“ - Kim Kardashian musste operiert werden",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/kim-kardashian-krebsangst-sie-musste-an-der-speiseroehre-operiert-werden-6ae437f6981b80c0b79866e8",
-    "image": "https://images.bild.de/6ae437f6981b80c0b79866e8/384f5c00d20e6a0347ffaf8b0ed91dad,6258b7a0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Neues Bahn-Angebot für 99,99 Euro - 5 Tricks! So holen Sie alles aus dem Familienticket raus",
-    "link": "https://www.bild.de/leben-wissen/sparfochs/bahn-familienticket-so-holen-sie-fuer-99-99-euro-mehr-heraus-6ae1bb61e1acc6033d3ae48a",
-    "image": "https://images.bild.de/6ae1bb61e1acc6033d3ae48a/8a58d3fa30216be1e1e2e5bfabb7d5b8,e8b929f5?w=1280",
-    "date": 0,
-    "titleSl": "Neues Bahn-Angebot für 99,99 Euro - 5 trikov! Torej holen Sie alles aus dem Familienticket raus"
-   },
-   {
-    "title": "Bahnstrecke gesperrt! - Groß-Alarm wegen Betrunkenem im Baumhaus",
-    "link": "https://www.bild.de/regional/sachsen/bahnstrecke-gesperrt-70-einsatzkraefte-vor-ort-grossalarm-wegen-betrunkenem-im-baumhaus-6ae4362aaacefa08f5b98dda",
-    "image": "https://images.bild.de/6ae4362aaacefa08f5b98dda/36c718677b7d0ac42a2939ddde13daca,193b44d1?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Live-Ticker zum Mord-Prozess - Verteidiger fordert Freispruch für Gina H.!",
-    "link": "https://www.bild.de/regional/rostock/live-ticker-zum-mordprozess-um-fabian-gina-h-raeumt-alibi-deal-ein-69f2f4ded6078134c45a3b9c",
-    "image": "https://images.bild.de/69f2f4ded6078134c45a3b9c/3b9b074ae64f3c0011a1fc53c98e0d7b,8658f915?w=1280",
-    "date": 0
-   },
-   {
-    "title": "EZB hält Leitzinsen konstant - Das bedeutet die Zinspause für IHR Geld",
-    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/ezb-zinspause-tagesgeld-bis-4-25-prozent-baukredite-werden-teurer-6ae2118ce1acc6033d3aef37",
-    "image": "https://images.bild.de/6ae2118ce1acc6033d3aef37/4bad19dd13f1726a1e0bc1b8c09148db,35a4196d?w=1280",
-    "date": 0,
-    "titleSl": "EZB hält Leitzinsen konstant - Das bedeutet die Zinspause für IHR GELD"
    }
   ],
   "krone": [
+   {
+    "title": "Feuerwehr gefordert - Sekundenschlaf: Klein-Lkw kippte auf Autobahn um",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2a0cyVUxtOUliNTg0M2hRLVR5RE8tcGx6dHFncmY5UHcxVzljLWpjMXBwdUFRU3lwUkhIUWdNeEItZw?oc=5",
+    "image": "",
+    "date": 1793361280000
+   },
    {
     "title": "Vor dem Wiener Derby - Warum sich kein Rapid-Spieler zurücklehnen darf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qd3FfRTB0Y1YzQWI5aGdHNHdfVGNkRDIxOFlJV0kyNGJPQzdDOHUzXzBIOWl0clQ3dkJMRnZ5bGMtUQ?oc=5",
@@ -489,13 +493,6 @@
     "image": "",
     "date": 1793359380000,
     "titleSl": "Ware aus Balkanraum - Rekordaufgriff: 6,6 mio. Zigaretten sichergestellt"
-   },
-   {
-    "title": "„Comeback“ in London - Ein Jahr nach Epstein-Skandal: Fergie ist zurück!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRZEVQc1ltYjdGYzBLRTBnWU1UYVRNa0E1clNGRDhoeEo4eGYyeHhuZGJ5dTVaZnZlNk9oYi1aekNIZw?oc=5",
-    "image": "",
-    "date": 1793358840000,
-    "titleSl": "\"Comeback\" v Londonu - Ein Jahr nach Epstein-Skandal: Fergie ist zurück!"
    }
   ],
   "rainews": [
