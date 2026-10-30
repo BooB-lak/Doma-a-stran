@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-30T20:26:27.013Z",
+ "generatedAt": "2026-10-30T20:28:25.387Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na proslavi pred dnevom reformacije počastili slovenski jezik v različnih izraznih oblikah",
+    "link": "https://siol.net/novice/slovenija/proslava-ob-dnevu-reformacije-letos-v-murski-soboti-705130",
+    "image": "https://siol.net/media/img/43/02/42a52f2d39c4d353d3f9.jpeg",
+    "date": 1793392020000
+   },
    {
     "title": "Revolucija v španskem nogometu: že ta konec tedna sodnike čaka velika novost #Vživo",
     "link": "https://siol.net/sportal/nogomet/spansko-prvenstvo-11-krog-705159",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/posel-danes/microsoft-kuje-milijardne-dobicke-60-tisoc-zaposlenim-pa-ponuja-odhod-z-odpravnino-705204",
     "image": "https://siol.net/media/img/ec/d5/2d87858b6ee889dcf6f8.jpeg",
     "date": 1793388360000
-   },
-   {
-    "title": "Merkel si želi, da bi Nemčija dobila prvo predsednico države",
-    "link": "https://siol.net/novice/svet/merkel-si-zeli-da-bi-nemcija-dobila-prvo-predsednico-drzave-705203",
-    "image": "https://siol.net/media/img/61/6e/8d24b984b623444accd5.jpeg",
-    "date": 1793387880000
    }
   ],
   "24ur": [
@@ -425,10 +425,18 @@
     "date": 0
    },
    {
+    "title": "Dramatischer Funkspruch in der Formel 1 - „Ich spüre mein Bein nicht mehr“",
+    "link": "https://www.bild.de/sport/mehr-sport/formel-1-nikola-tsolov-ich-spuere-mein-rechtes-bein-nicht-mehr-6ae4faf8aedea8cd9ffbeb52",
+    "image": "https://images.bild.de/6ae4faf8aedea8cd9ffbeb52/c6966c34ac82fc2fdad5219409ba1f12,d036162c?w=1280",
+    "date": 0,
+    "titleSl": "Dramatično radijsko sporočilo v formuli 1 - \"Ne čutim več svoje noge\""
+   },
+   {
     "title": "San Siro wird abgerissen - Großer Spott für neues Mailand-Stadion",
     "link": "https://www.bild.de/sport/fussball/serie-a-san-siro-wird-abgerissen-grosser-spott-fuer-neues-mailand-stadion-6ae481ea9cc46e5eac2c38ef",
     "image": "https://images.bild.de/6ae481ea9cc46e5eac2c38ef/1d0e44251c3600eb3e22a429485ee297,14a44862?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "San Siro se ruši - velik posmeh za novi milanski stadion"
    },
    {
     "title": "2:1-Sieg bei Energie - Bochum kämpft sich aus dem Keller",
@@ -450,13 +458,6 @@
     "image": "https://images.bild.de/6ae4f04a05d4b831ea388ee2/88c49ee9460409d7b6aa6652543119e8-landscape,94865e81?w=1280",
     "date": 0,
     "titleSl": "Po nesreči zaradi driske - fitnes zvezda slavi senzacionalno povratno zmago!"
-   },
-   {
-    "title": "Chancenwucher gegen Meppen - Fortuna verballert Langenekes Arena-Debüt",
-    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-verballert-arena-debuet-von-jens-langeneke-6ae4dabfe467df84359002d0",
-    "image": "https://images.bild.de/6ae4dabfe467df84359002d0/a30f41a1c1bec0df32c829a0c275c65e,e688190e?w=1280",
-    "date": 0,
-    "titleSl": "Oderuštvo priložnosti proti Meppnu – Fortuna zakrivila Langenekejev prvenec v areni"
    }
   ],
   "krone": [
@@ -464,19 +465,29 @@
     "title": "Bis Samstag im Atrio - Villachs Einkaufstempel wird zur Wintersportarena",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KajdxeE81QXhxWnc3XzFlOXBSLW16YWd5T1pISjdvd1Vuckt5dzBuTjZjd0xGZEpvWUFidEdQMVc5Zw?oc=5",
     "image": "",
-    "date": 1793391825000
+    "date": 1793391825000,
+    "titleSl": "Do sobote v Atriju - Beljaški nakupovalni hram postane zimsko športna arena"
+   },
+   {
+    "title": "Was hat er vor? - Chinas geheimer Raumgleiter wagte sich aus Deckung",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93Yk42MXVsLU1KejB6THBIem1DYl9XaXZNakxVbWlkWDRQOHZRVGZ6cDkxRHk3XzJmSGtfMjdKcW5CZw?oc=5",
+    "image": "",
+    "date": 1793391300000,
+    "titleSl": "Kaj namerava? - Kitajski skrivni vesoljski raketoplan je ušel iz kritja"
    },
    {
     "title": "Südoststeiermark - Lenkerin bei Frontalkollision mit Lkw verletzt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5CT3JYbEJkSVFLWkpkYVEwSUlQeWR3R1dHQ0ZEOVdnOEJqcFZ3MlFJZGFQWElSWWJnNE9mdjJibWhldw?oc=5",
     "image": "",
-    "date": 1793390520000
+    "date": 1793390520000,
+    "titleSl": "Jugovzhodna Štajerska - V čelnem trčenju s tovornim vozilom poškodovan voznik"
    },
    {
     "title": "Saalfelden mit Punkt - Schlusslicht gibt gegen Topteam Lebenszeichen ab",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HVWhvVFBBSXVLdTlqYk1FZVh1ZE1XUnVJOFdCU3JUSFZUejdPSmNuY2tPbTR0Qk1Nb3dZYzFSemlHUQ?oc=5",
     "image": "",
-    "date": 1793389920000
+    "date": 1793389920000,
+    "titleSl": "Saalfelden s točko - zadnja ekipa kaže znake življenja proti najboljši ekipi"
    },
    {
     "title": "2. Liga – 11 . Runde - Austria Salzburg nach 3:0 gegen Amstetten Vierter!",
@@ -491,13 +502,6 @@
     "image": "",
     "date": 1793389038000,
     "titleSl": "Kaj stane nič obresti - Avstrijci izgubijo milijone na svojih tekočih računih"
-   },
-   {
-    "title": "Sicherheitslücke - Datenleck: 3000 steirische Hotelgäste betroffen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Xdkk5a0tsUkVEQmFqV3NCQmZqZjdLNG9qeEMzYVZmUmh0NTEtejJHWlBYb2hZb3IxTzIxbnRQQ0JHUQ?oc=5",
-    "image": "",
-    "date": 1793388840000,
-    "titleSl": "Varnostna vrzel - uhajanje podatkov: prizadetih 3000 gostov štajerskega hotela"
    }
   ],
   "rainews": [
@@ -505,7 +509,8 @@
     "title": "Torino, il corteo serale prosegue tra i temi del carovita e della scuola",
     "link": "https://www.rainews.it/video/2026/10/torino-il-corteo-serale-prosegue-tra-i-temi-del-carovita-e-della-scuola-75424486-ee0c-43e1-8690-ce84dec8434c.html",
     "image": "https://www.rainews.it/dl/img/2026/10/30/1793385958411__.png",
-    "date": 1793390880000
+    "date": 1793390880000,
+    "titleSl": "Torino, večerna procesija se nadaljuje med temami visokih življenjskih stroškov in šole"
    },
    {
     "title": "Sanremo 2027, The Jackal i conduttori del PrimaFestival",
@@ -532,7 +537,8 @@
     "title": "Elicottero militare caduto: \"Dal video ipotesi guasto meccanico\"",
     "link": "https://www.rainews.it/video/2026/10/elicottero-militare-caduto-dal-video-ipotesi-guasto-meccanico-8b5cb2e2-58fd-44d0-ac69-20b30727d4e0.html",
     "image": "https://www.rainews.it/dl/img/2026/10/30/1793388258943_videoframe.png",
-    "date": 1793388000000
+    "date": 1793388000000,
+    "titleSl": "Padli vojaški helikopter: \"Iz videoposnetka hipoteza o mehanski okvari\""
    },
    {
     "title": "La politica si divide sulle misure economiche",
@@ -547,7 +553,8 @@
     "title": "En Pologne, le président du Tribunal constitutionnel écarté, la police déployée à Varsovie",
     "link": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html",
     "image": "https://img.lemde.fr/2026/10/30/651/0/6397/3198/644/322/60/0/45a8604_ftp-1-yq4tqavberny-afp-d4yf4zq.jpg",
-    "date": 1793391143000
+    "date": 1793391143000,
+    "titleSl": "Na Poljskem odstavljen predsednik ustavnega sodišča, policija napotena v Varšavo"
    },
    {
     "title": "EN DIRECT, midterms 2026 : Ted Cruz s’inquiète de la mobilisation démocrate et redoute une défaite au Texas",
@@ -590,7 +597,8 @@
     "title": "Brasil convoca a la representante argentina después de que Flávio Bolsonaro usara el país vecino para huir a Estados Unidos",
     "link": "https://elpais.com/america/2026-10-30/brasil-convoca-a-la-representante-argentina-despues-de-que-flavio-bolsonaro-usara-el-pais-vecino-para-huir-de-estados-unidos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/XSPAGQ522FN2LM62FN4EZVBHMY.jpg?auth=e0f965f4d80faa658df86a4801b441cde50caf076f2c659551860ac8262a33ea",
-    "date": 1793388288000
+    "date": 1793388288000,
+    "titleSl": "Brazilija pokliče argentinskega predstavnika, potem ko je Flávio Bolsonaro izkoristil sosednjo državo za pobeg v ZDA"
    },
    {
     "title": "Manifestaciones sin incidentes en toda Italia en una huelga general contra el coste de la vida y el rearme",
