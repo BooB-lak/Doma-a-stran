@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T18:30:54.051Z",
+ "generatedAt": "2026-10-30T18:32:26.304Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "V živo iz Sepanga: Malezija odprla vrata novemu dirkaškemu koncu tedna",
+    "link": "https://www.24ur.com/sport/formula1/antonellija-daje-viroza-a-za-morda-zgodovinski-vikend-bo-moral-stisniti-zobe.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2026/6db1614050f60acae19c_63671173.jpg?v=8e69&fop=fp:0.44:0.46",
+    "date": 1793385071000
+   },
+   {
     "title": "Sta Alja in Anthony predana samo drug drugemu?",
     "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/sta-alja-in-anthony-predana-samo-drug-drugemu.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/04e991296841a597a288_63671523.png?v=208e&fop=fp:0.46:0.28",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/preprodaja-kokaina-in-pranje-denarja-afera-nekdanjega-zvezdnika-rome.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/2e3431c99cf801c5a410_63671565.jpg?v=ecce&fop=fp:0.52:0.38",
     "date": 1793379409000
-   },
-   {
-    "title": "Noč čarovnic pred vrati: Ste dovolj pogumni za te grozljivke?",
-    "link": "https://www.24ur.com/popin/domaca-scena/noc-carovnic-pred-vrati-ste-dovolj-pogumni-za-te-grozljivke.html",
-    "image": "https://images.24ur.com/media/images/213xX/Feb2026/ced2505867e878a77148_63546495.jpg?v=4bd0&fop=fp:0.51:0.23",
-    "date": 1793377893000
    }
   ],
   "rtvslo": [
@@ -378,7 +378,8 @@
     "title": "Atlanta: G20-Außenminister sperren sich gegen »Familienfoto« mit Russland",
     "link": "https://www.spiegel.de/ausland/atlanta-g20-aussenminister-sperren-sich-gegen-familienfoto-mit-russland-a-33133ed9-ccae-4ef5-8cda-c0763f269655#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/3f619f3e-3506-4e01-b4cb-f5fc56d38ad6_w520_r2.08_fpx49.24_fpy49.85.jpg",
-    "date": 1793383680000
+    "date": 1793383680000,
+    "titleSl": "Atlanta: Zunanji ministri G20 nasprotujejo \"družinski fotografiji\" z Rusijo"
    },
    {
     "title": "Donald Trump: »Air Force One« sorgt mit Halloweenflug für Schrecken in Washington",
@@ -418,22 +419,25 @@
   ],
   "bild": [
    {
-    "title": "Alle Fans rätselten - Aufstellungs-Entscheidung um DFB-Star gefallen",
-    "link": "https://www.bild.de/sport/fussball/bundesliga-aufstellungs-entscheidung-um-dfb-star-gefallen-6ae4d593aedea8cd9ffbe889",
-    "image": "https://images.bild.de/6ae4d593aedea8cd9ffbe889/be82aa22813c74e0cd8877a6aa3d8f8f,6e7d27a5?w=1280",
-    "date": 0
-   },
-   {
     "title": "Mit Freundin Thomalla ins Halbfinale - Zverev dominiert vor Sophias Augen",
     "link": "https://www.bild.de/sport/mehr-sport/alexander-zverev-als-nummer-1-winkt-ihm-jetzt-der-wien-titel-6ae4cae0bbc8f19bc019f267",
     "image": "https://images.bild.de/6ae4cae0bbc8f19bc019f267/834007b71c469405a33f77cb927069fa,f3e445e5?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "S punco Thomallo v polfinalu - Zverev dominira pred Sophiinimi očmi"
+   },
+   {
+    "title": "Alle Fans rätselten - Aufstellungs-Entscheidung um DFB-Star gefallen",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-aufstellungs-entscheidung-um-dfb-star-gefallen-6ae4d593aedea8cd9ffbe889",
+    "image": "https://images.bild.de/6ae4d593aedea8cd9ffbe889/be82aa22813c74e0cd8877a6aa3d8f8f,6e7d27a5?w=1280",
+    "date": 0,
+    "titleSl": "Vsi oboževalci so bili zmedeni - odločitev o postavi zvezdnika DFB je bila sprejeta"
    },
    {
     "title": "Zeitung findet brisantes Material - Skandal im Fall um Meghans Vater immer schmutziger",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/meghan-markle-britische-zeitung-findet-brisantes-material-im-skandal-um-ihren-vater-6ae4c3a82222e5e68793de41",
     "image": "https://images.bild.de/6ae4c3a82222e5e68793de41/872024f36046a47c2dbb807d18430411,61426abe?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Časopis najde eksplozivni material – škandal v primeru Meghanin oče postaja vse bolj umazan"
    },
    {
     "title": "Kommandant im Ukraine-Krieg - „Kein Waffenstillstand mit Russland!“",
@@ -446,13 +450,15 @@
     "title": "Gina H. im Fabian-Prozess - „Ich bin eine Frau mit Liebe und Gefühlen“",
     "link": "https://www.bild.de/news/inland/gina-h-im-fabian-prozess-ich-bin-eine-frau-mit-liebe-und-gefuehlen-6ae4ac5a3620137294c24ab7",
     "image": "https://images.bild.de/6ae4ac5a3620137294c24ab7/c1d15dc956e5dcf975d39031905dcb9d,815f3ee5?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Gina H. na sojenju Fabianu - \"Sem ženska z ljubeznijo in čustvi\""
    },
    {
     "title": "69 Tote, viele Vermisste - Die Gesichter der Zugkatastrophe von Toledo",
     "link": "https://www.bild.de/news/ausland/69-tote-viele-vermisste-die-gesichter-der-zugkatastrophe-von-toledo-6ae47a9abfb85e617afead80",
     "image": "https://images.bild.de/6ae47a9abfb85e617afead80/1747b2e0aef90222b1a0ba038f01ffa3,cc4b5de?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "69 mrtvih, številni pogrešani - obrazi železniške nesreče v Toledu"
    }
   ],
   "krone": [
@@ -467,31 +473,36 @@
     "title": "Menschen von nebenan - Letzte Senfmüllerin: „Wein im Senf ist unmöglich“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sZHBoU1JJb3ZJbjdnMUhpZzJseEdydnlDcFRWU0NQdV85NzdSVGxHdmJjN0p4LTJmWEFieFN6Ui1Gdw?oc=5",
     "image": "",
-    "date": 1793383200000
+    "date": 1793383200000,
+    "titleSl": "Sosednji ljudje - Zadnji mlinar gorčice: \"Vino v gorčici je nemogoče\""
    },
    {
     "title": "„War klar, dass sie eine gute Rolle spielen kann“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84c29SS20zV1oyQ01zSDYwNGJFRHA4RGljbzVBY085c0VDTWZvTFIxYkNHQkNoTGY5c0hyUE1BSVRxdw?oc=5",
     "image": "",
-    "date": 1793383200000
+    "date": 1793383200000,
+    "titleSl": "\"Jasno je bilo, da bi lahko odigrala dobro vlogo\""
    },
    {
     "title": "Musikschul-Sparkurs - Hermann: „Verspreche keine pauschale Rücknahme“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54UW9CODNieXR1dDI3QjAtTUx4Y0VvQ2Izb01YcWlFVTVBajVUSFpsOFNFemkxQkEyLUdIZGpTUGNqUQ?oc=5",
     "image": "",
-    "date": 1793383200000
+    "date": 1793383200000,
+    "titleSl": "Tečaj varčevanja v glasbeni šoli - Hermann: \"Ne obljubljajte skupnega dviga\""
    },
    {
     "title": "Digitales Paket - KI-Chatbot soll Gemeinden bei Förderungen helfen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tZmN2TmFVMGZ5SzlOZkFWQU1LdDQwMVVQOTBqSnF6WGdiYlJnUEhSZTQ1VXRUUjdKRlZyal9lcjlXUQ?oc=5",
     "image": "",
-    "date": 1793383200000
+    "date": 1793383200000,
+    "titleSl": "Digitalni paket – AI chatbot je namenjen pomoči skupnostim pri financiranju"
    },
    {
     "title": "Wo ist Australien? - Na bumm! Rampensäue blamieren sich bei Länderquiz",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfR2ljbWJicnZ3MkFlQlNnc2x1TVN4RFZkYzFwc2llMWpMT3k4UVd4Snk0WElTbUJUY2ZUSzZXNmktdw?oc=5",
     "image": "",
-    "date": 1793383200000
+    "date": 1793383200000,
+    "titleSl": "Kje je Avstralija? - No bum! Ramp pujsi se spravljajo v zadrego v deželnih kvizih"
    }
   ],
   "rainews": [
@@ -506,13 +517,15 @@
     "title": "BMTA, Bonomo (Fipsas): \"Senza i ritrovamenti dei pescatori saremmo tutti più poveri\"",
     "link": "https://www.rainews.it/video/2026/10/bmta-paestum-bonomo-archeologia-subacquea-borsa-mediterranea-turismo-mare-pescatori-reti-passato-futuro-camera-commercio-frosinone-latina-fipsas-regione-lazio-0faa82c6-242e-4d59-92af-116a58f62169.html",
     "image": "https://www.rainews.it/dl/img/2025/9/28/1759054993959_fotosub.jpeg",
-    "date": 1793383380000
+    "date": 1793383380000,
+    "titleSl": "BMTA, Bonomo (Fipsas): \"Brez ugotovitev ribičev bi bili vsi revnejši\""
    },
    {
     "title": "Roma, corteo spontaneo bloccato dalla polizia su Ponte Sisto",
     "link": "https://www.rainews.it/video/2026/10/roma-corteo-spontaneo-bloccato-dalla-polizia-su-ponte-sisto-f48990cb-adec-4199-91ec-0ec8683731a9.html",
     "image": "https://www.rainews.it/dl/img/2026/10/30/1793381566927_Cattura.PNG",
-    "date": 1793381700000
+    "date": 1793381700000,
+    "titleSl": "Rim, spontana procesija, ki jo blokira policija na Ponte Sisto"
    },
    {
     "title": "Serie A, trappola-derby per l&#x27;Inter: le inseguitrici sperano in un passo falso",
@@ -566,11 +579,11 @@
     "titleSl": "V Nemčiji so srednješolci in študenti v soboto pozvali k demonstracijam, da bi zahtevali več sredstev za izobraževanje"
    },
    {
-    "title": "La Coupe d’Afrique des nations continuera à se tenir tous les deux ans, au grand bonheur des clubs africains",
-    "link": "https://www.lemonde.fr/afrique/article/2026/10/30/la-coupe-d-afrique-des-nations-continuera-a-se-tenir-tous-les-deux-ans-au-grand-bonheur-des-clubs-africains_6803123_3212.html",
-    "image": "https://img.lemde.fr/2026/10/30/688/0/8256/4128/644/322/60/0/b0204e0_upload-1-wii3snv69i9y-000-b99t9zn.jpg",
-    "date": 1793380202000,
-    "titleSl": "La Coupe d'Afrique des Nations continuera à se tenir tous les deux ans, au grand bonheur des clubs africains"
+    "title": "Le gouvernement met fin à cinq programmes d’aide à la rénovation énergétique des logements et des bâtiments publics",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/30/le-gouvernement-met-fin-a-cinq-programmes-d-aide-a-la-renovation-energetique-des-logements-et-des-batiments-publics_6803122_3224.html",
+    "image": "https://img.lemde.fr/2026/10/18/350/0/3000/1500/644/322/60/0/9a0e145_upload-1-jxrccymanhmk-asurp-manif17oct-109061.jpg",
+    "date": 1793380122000,
+    "titleSl": "Vlada ukinja pet programov pomoči za energetsko prenovo stanovanjskih in javnih objektov"
    },
    {
     "title": "Midterms 2026 : face à la méfiance à l’égard de l’IA, même les républicains du Texas doivent lâcher du lest",
@@ -585,13 +598,15 @@
     "title": "Los compañeros del trabajador del Club Náutico de Begur ahogado en Sa riera declaran que era habitual hacer trabajos bajo el agua",
     "link": "https://elpais.com/espana/catalunya/2026-10-30/los-companeros-del-trabajador-del-club-nautico-de-begur-ahogado-en-sa-riera-declaran-que-era-habitual-hacer-trabajos-bajo-el-agua.html",
     "image": "https://imagenes.elpais.com/resizer/v2/WWDJBKJULJF2DFSXE3EOSWGKI4.jpg?auth=2f011a806d39be07f1e216eaae302ba394d87ad38437d734fa37504ff2ad0de7",
-    "date": 1793383915000
+    "date": 1793383915000,
+    "titleSl": "Kolegi delavca Navtičnega kluba Begur, ki se je utopil v Sa Rieri, trdijo, da je delo pod vodo običajno."
    },
    {
     "title": "Rechazo de los ingenieros y de las pymes catalanas a cortar la conexión por tren entre Madrid y Barcelona",
     "link": "https://elpais.com/espana/catalunya/2026-10-30/rechazo-de-los-ingenieros-y-de-las-pymes-catalanas-a-cortar-la-conexion-por-tren-entre-madrid-y-barcelona.html",
     "image": "https://imagenes.elpais.com/resizer/v2/RJMWZWLMNBGLRJUA5BFXZRCC2Q.jpg?auth=a3dbaa6fc11b40013894c1d6ea91ead2dd517824440706b2f46a4d100feda1db",
-    "date": 1793383471000
+    "date": 1793383471000,
+    "titleSl": "Zavrnitev katalonskih inženirjev in MSP, da bi prekinili železniško povezavo med Madridom in Barcelono"
    },
    {
     "title": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
@@ -604,19 +619,22 @@
     "title": "El Dakar vuelve a África y Europa en 2027: salida en Portugal y final en Marruecos, con un polémico paso por el Sáhara occidental",
     "link": "https://elpais.com/deportes/2026-10-30/el-dakar-vuelve-a-africa-y-europa-en-2027-salida-en-portugal-y-final-en-marruecos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/3SHCS6SXVFGEBNOHQIQ4CFQ76A.JPG?auth=44ef0128e75783f4a1933e2a74b31cc6fc34fa083b36966dabc71dbb05a6148d",
-    "date": 1793382224000
+    "date": 1793382224000,
+    "titleSl": "Dakar se vrača v Afriko in Evropo leta 2027: start na Portugalskem in cilj v Maroku s kontroverznim prehodom skozi Zahodno Saharo"
    },
    {
     "title": "Manifestaciones sin incidentes en toda Italia en una huelga general contra el coste de la vida y el rearme",
     "link": "https://elpais.com/internacional/2026-10-30/manifestaciones-sin-incidentes-en-toda-italia-en-una-huelga-general-contra-el-coste-de-la-vida-y-el-rearme.html",
     "image": "https://imagenes.elpais.com/resizer/v2/HK5DB7GZLZNRJPMH7PENOVDMNY.jpg?auth=c526e4c1c188f157b209a88d16da05d8ed5fac7eb93c47fc1d1754e8b4076d9b",
-    "date": 1793381600000
+    "date": 1793381600000,
+    "titleSl": "Demonstracije brez incidentov po vsej Italiji v splošni stavki proti življenjskim stroškim in ponovni oborožitvi"
    },
    {
     "title": "Alcaraz crece, disfruta y progresa: ‘show’ ante Paul y cruce con Medvedev",
     "link": "https://elpais.com/deportes/tenis/2026-10-30/alcaraz-crece-disfruta-y-progresa-show-ante-paul-y-cruce-con-medvedev.html",
     "image": "https://imagenes.elpais.com/resizer/v2/55ER6GH7TZGNVASIUJDIIOWD4Q.jpg?auth=c187dd61c3f6b4a75d0e0da9068259aa4a5c8719f909adc8d59dadaa501f7fe5",
-    "date": 1793381065000
+    "date": 1793381065000,
+    "titleSl": "Alcaraz raste, uživa in napreduje: 'show' proti Paulu in navzkriž z Medvedevom"
    }
   ]
  },
