@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-10-31T17:01:02.626Z",
+ "generatedAt": "2026-10-31T17:02:24.390Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na protestih v Franciji po ocenah oblasti 15 tisoč ljudi",
+    "link": "https://siol.net/novice/svet/v-franciji-pred-novimi-protesti-poostrili-varnostne-ukrepe-705230",
+    "image": "https://siol.net/media/img/bb/76/1c059479f54a668b8e9b.jpeg",
+    "date": 1793466060000
+   },
    {
     "title": "Olimpija šokirala Ljudski vrt, boleč udarec za Maribor",
     "link": "https://siol.net/sportal/nogomet/1-snl-14-krog-nkmaribor-nkolimpija-1-705220",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/policisti-nasli-pogresanega-14-letnika-iz-maribora-705226",
     "image": "https://siol.net/media/img/a1/4d/53211a8196480d14b220.jpeg",
     "date": 1793462400000
-   },
-   {
-    "title": "Fantastičen niz Atletica, novopečeni očka Jan Oblak skočil na vrh",
-    "link": "https://siol.net/sportal/nogomet/spansko-prvenstvo-11-krog-705159",
-    "image": "https://siol.net/media/img/1b/75/ad6b41c8b7db1441012c.jpeg",
-    "date": 1793460240000
    }
   ],
   "24ur": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Emotional reunions with loved ones for Oleshky evacuees",
+    "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4184/live/73d4d420-d54a-11f1-bcb7-8f812b44c2e5.jpg",
+    "date": 1793465747000,
+    "titleSl": "Čustvena srečanja z ljubljenimi za evakuirane Oleshky"
+   },
+   {
     "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
     "link": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3453/live/944e8ae0-d53e-11f1-93e1-3b657b665bcf.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
     "date": 1793459780000,
     "titleSl": "Več kot 5000 jih je umrlo zaradi ebole v najbolj smrtonosnem izbruhu v DR Kongo"
-   },
-   {
-    "title": "Burnham 'open' to calls for slavery apology but not reparations",
-    "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a09/live/908b67d0-d4cf-11f1-b441-2b33b063138f.jpg",
-    "date": 1793453320000,
-    "titleSl": "Burnham \"odprt\" za pozive k opravičilu za suženjstvo, ne pa za odškodnine"
    }
   ],
   "aljazeera": [
@@ -416,6 +416,24 @@
   ],
   "bild": [
    {
+    "title": "Sascha Lobo bei RONZHEIMER - Krasse KI-Warnung! Jeder 3. deutsche Job in Gefahr",
+    "link": "https://www.bild.de/politik/inland/sascha-lobo-warnt-vor-30-prozent-arbeitslosen-bei-falschem-umgang-mit-ki-6ae5e26aaedea8cd9ffbf55e",
+    "image": "https://images.bild.de/6ae5e26aaedea8cd9ffbf55e/58855a0b6b932a7b5c2a9a879ec5ae55,2ec8496?w=1280",
+    "date": 0
+   },
+   {
+    "title": "RONZHEIMER mit Sascha Lobo - Deutschland droht der 30-Prozent-Job-Horror",
+    "link": "https://www.bild.de/politik/inland/ronzheimer-mit-sascha-lobo-deutschland-droht-der-30-prozent-job-horror-6ae60e564db6c62483ec37d6",
+    "image": "https://images.bild.de/6ae60e564db6c62483ec37d6/893f62bab0e6c701c00f85513d4579f1,355968d9?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Klassiker um 18.30 Uhr - So sehen Sie heute Bayern – Dortmund live im TV",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-so-sehen-sie-heute-bayern-dortmund-live-im-tv-6ae46045e6383048f41d3c5b",
+    "image": "https://images.bild.de/6ae46045e6383048f41d3c5b/2d7912e4aa6bb40200d02d6ac8d75a6c,66abcc8c?w=1280",
+    "date": 0
+   },
+   {
     "title": "Kommentar von Robert Schneider - Jugend braucht Zukunft und nicht Sozialhilfe",
     "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-robert-schneider-jugend-braucht-zukunft-und-nicht-sozialhilfe-6ae616fa2ad15c2e8ecf3006",
     "image": "https://images.bild.de/6ae616fa2ad15c2e8ecf3006/27629bb94caa29908da5ebe366154aaa,61202c2f?w=1280",
@@ -432,24 +450,6 @@
     "title": "Bei Werder-Sieg gegen Hoffenheim - Füllkrug schnappt sich Rudi-Rekord",
     "link": "https://www.bild.de/sport/fussball/werder-bremen-sieg-gegen-hoffenheim-fuellkrug-schnappt-sich-rudi-rekord-6ae5f679aedea8cd9ffbf6fd",
     "image": "https://images.bild.de/6ae5f679aedea8cd9ffbf6fd/e5c8da42f3d4c74a84852cccacf3b3a5,6181e33c?w=1280",
-    "date": 0
-   },
-   {
-    "title": "RONZHEIMER mit Sascha Lobo - Deutschland droht der 30-Prozent-Job-Horror",
-    "link": "https://www.bild.de/news/ronzheimer-mit-sascha-lobo-deutschland-droht-der-30-prozent-job-horror-6ae60e564db6c62483ec37d6",
-    "image": "https://images.bild.de/6ae60e564db6c62483ec37d6/893f62bab0e6c701c00f85513d4579f1,355968d9?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sascha Lobo bei RONZHEIMER - Krasse KI-Warnung! Jeder 3. deutsche Job in Gefahr",
-    "link": "https://www.bild.de/politik/inland/sascha-lobo-warnt-vor-30-prozent-arbeitslosen-bei-falschem-umgang-mit-ki-6ae5e26aaedea8cd9ffbf55e",
-    "image": "https://images.bild.de/6ae5e26aaedea8cd9ffbf55e/58855a0b6b932a7b5c2a9a879ec5ae55,2ec8496?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Mit SPD und Grünen - Linke stimmt für Koa-Verhandlungen",
-    "link": "https://www.bild.de/politik/inland/parteitag-berliner-linke-stimmt-fuer-koalitionsverhandlungen-mit-spd-und-gruenen-6ae60ede2ad15c2e8ecf2f41",
-    "image": "https://images.bild.de/6ae60ede2ad15c2e8ecf2f41/094edbb633aaf9de2202217d54b6ffef,c5134168?w=1280",
     "date": 0
    }
   ],
@@ -580,7 +580,7 @@
     "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia y San Sebastián, entre otras ciudades, se blindan ante posibles disturbios",
     "link": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
     "image": "https://imagenes.elpais.com/resizer/v2/KNQNNOVWWNCIRBTQXVQGK5IZO4.jpg?auth=7e20878cfa989a916dc2b3d1e8b5707c8217631f26d221944193af156e2a0fd9",
-    "date": 1793466019000
+    "date": 1793465159000
    },
    {
     "title": "Alcaraz se expande ante Medvedev y alcanza la final de Viena",
