@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T07:54:25.441Z",
+ "generatedAt": "2026-11-01T07:56:25.341Z",
  "sources": {
   "siol": [
    {
@@ -199,18 +199,18 @@
   ],
   "nyt": [
    {
+    "title": "India’s Congress Party Plans Mass Protest in New Delhi",
+    "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
+    "date": 1793519690000,
+    "titleSl": "Indijska kongresna stranka načrtuje množične proteste v New Delhiju"
+   },
+   {
     "title": "Pope Leo XIV, the Tough Guy of ‘High T’ Christianity",
     "link": "https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01burke-wkbh/01burke-wkbh-mediumSquareAt3X.jpg",
     "date": 1793512803000,
     "titleSl": "Papež Leon XIV, žilav človek \"visokega T\" krščanstva"
-   },
-   {
-    "title": "India’s Congress Party Plans Mass Protest in New Delhi",
-    "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-gkcm/01int-india-protest-gkcm-mediumSquareAt3X.jpg",
-    "date": 1793504691000,
-    "titleSl": "Indijska kongresna stranka načrtuje množične proteste v New Delhiju"
    },
    {
     "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-    "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-Black-X-1793273079.png?resize=1200%2C630",
-    "date": 1793518495000,
-    "titleSl": "Izraelska vojna za domove: od Hebrona do Gaze in južnega Libanona"
-   },
-   {
     "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
     "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2-1793513533.jpeg?resize=1200%2C630",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261031__D62L7X4__v2__HighRes__BoxingKsaMiddleweightMbilliAlvarez-1793511184.jpg?resize=1800%2C1200&quality=80",
     "date": 1793513992000,
     "titleSl": "Canelo Alvarez je premagal Christiana Mbillija in ponovno osvojil naslov WBC v Riadu"
+   },
+   {
+    "title": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
+    "link": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__2302466732__v1__HighRes__2026WnbaFinalsGameSeven-1793512510.jpg?resize=1800%2C1200&quality=80",
+    "date": 1793513865000,
+    "titleSl": "Golden State Valkyries premagajo Atlanta Dream in osvojijo prvo naslov WNBA"
    }
   ],
   "guardian": [
@@ -378,13 +378,15 @@
     "title": "Rechtsruck an Schulen: Wenn rechtsextreme Vorfälle ignoriert werden",
     "link": "https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden-a-66893eef-8961-4f65-a751-c3bef8d8ab69#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/ab50ad0c-c8da-43f1-ab9a-eaa3a7d48a06_w520_r2.08_fpx49_fpy48.jpg",
-    "date": 1793519220000
+    "date": 1793519220000,
+    "titleSl": "Premik v desno v šolah: Ko se incidenti desničarskih skrajnežev ignorirajo"
    },
    {
     "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall sind angelaufen",
     "link": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/3edfd0bf-6ac3-4585-a390-00e4ac41c609_w520_r2.08_fpx49.34_fpy50.jpg",
-    "date": 1793518500000
+    "date": 1793518500000,
+    "titleSl": "Kovinska in elektroindustrija: Začele so se opozorilne stavke IG Metalla"
    },
    {
     "title": "Annegret Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken",
@@ -420,37 +422,43 @@
     "title": "Er soll ihn an Epstein geschickt haben - Schamhaar-Brief! Richter zerlegt Trumps Klage",
     "link": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-und-jeffrey-epstein-richter-weist-milliarden-klage-ab-6ae6d6afaedea8cd9ffc0337",
     "image": "https://images.bild.de/6ae6d6afaedea8cd9ffc0337/180ea2f871d314107c1e306ab0c581ee,db2b9d7e?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Poslal naj bi ga Epsteinu - pismo sramnih dlak! Sodnik razblini Trumpovo tožbo"
    },
    {
     "title": "Sie fordern fünf Prozent mehr Lohn - Jetzt streiken unsere Industrie-Arbeiter!",
     "link": "https://www.bild.de/politik/inland/fuenf-prozent-mehr-geld-gefordert-ig-metall-kuendigt-massive-warnstreiks-an-6ae6d5bfaedea8cd9ffc0321",
     "image": "https://images.bild.de/6ae6d5bfaedea8cd9ffc0321/b6d000dec2ea33998a6908f8b147841f,dd68b53b?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Zahtevajo pet odstotkov višje plače - zdaj naši industrijski delavci stavkajo!"
    },
    {
     "title": "Nach Gelb-Rot für Müller - Wieder Schiri-Frust für Fortuna",
     "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-fuenfmal-aerger-mit-den-schiedsrichtern-6ae6d339aedea8cd9ffc030a",
     "image": "https://images.bild.de/6ae6d339aedea8cd9ffc030a/527c4a26c5ac3211ca6ab3ac8ec83bb5,4a4568d?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Po rumeno-rdeči za Müller - spet sodniška frustracija za Fortuno"
    },
    {
     "title": "Gladbach-Tor aberkannt - SO sahen die Bosse den Scally-Aufreger",
     "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-so-sahen-die-bosse-den-scally-aufreger-6ae6e6e5aedea8cd9ffc041d",
     "image": "https://images.bild.de/6ae6e6e5aedea8cd9ffc041d/30a389f78e755bb4df79fff10bd31158,95198567?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Gol Gladbacha razveljavljen - TAKO so šefi videli Scallyjevo razburjenje"
    },
    {
     "title": "Fahrer disqualifiziert - Formel 1 ändert Startaufstellung Stunden nach dem Qualifying",
     "link": "https://www.bild.de/sport/mehr-sport/formel-1-aendert-startaufstellung-stunden-nach-der-mexiko-quali-6ae6e77a8f86294c13172155",
     "image": "https://images.bild.de/6ae6e77a8f86294c13172155/139ba7f6d370b8c1a2b87448b22ef445,a94411b6?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Voznik diskvalificiran - Formula 1 spremeni štartno mrežo nekaj ur po kvalifikacijah"
    },
    {
     "title": "Bares für Rares - Highlight der Woche - Platinbrosche mit Diamanten ist Tausende Euro wert",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-highlight-schockierender-verkaufspreis-fuer-diamantbrosche-6adf631f7846c6ec50e70568",
     "image": "https://images.bild.de/6adf631f7846c6ec50e70568/9ec9d2ae675abf5017e55f8ad804af9a,bce9f514?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Gotovina za redke - Vrhunec tedna - platinasta broška z diamanti je vredna več tisoč evrov"
    }
   ],
   "krone": [
@@ -458,38 +466,43 @@
     "title": "NHL - Marco Rossi verliert mit Vancouver gegen Toronto",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nWGxhbE80S0kydzM0QnFkMkNBQ0Y0cENwbHc2S2dJUHB3SkVINXQtc3ZCTXhqbk9mQkNUOTdCeDhFQQ?oc=5",
     "image": "",
-    "date": 1793518620000
+    "date": 1793518620000,
+    "titleSl": "NHL - Marco Rossi je z Vancouvrom izgubil proti Torontu"
    },
    {
     "title": "„Es ist mehr Geld für Wohnbau vorhanden“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VdW5LRWFfSTZ5SmhFNTY1Z0Y4Z004aGw5X09Ubmx1ZjVjb0hWYWx2TkIwbTRuVzI3WGhSVTc4dTR1Zw?oc=5",
     "image": "",
-    "date": 1793516400000
+    "date": 1793516400000,
+    "titleSl": "“Za gradnjo stanovanj je na voljo več denarja”"
    },
    {
     "title": "Bei Gemeinderatswahlen - Die Namensliste: Wahl-Kniff oder ehrlicher Umbruch",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sOHY3OHZfc09ZWlhRZ3VfRTd4UGdPejk1UGtUZnRuMUVLeS1OWkJ3aEdQdDFtM3JwOU13emU3SWl2Zw?oc=5",
     "image": "",
-    "date": 1793516400000
+    "date": 1793516400000,
+    "titleSl": "Na volitvah v občinske svete - seznam imen: volilni trik ali pošten preobrat"
+   },
+   {
+    "title": "Nicht mehr gefragt - Jobsuche mit 60: „300 Bewerbungen, 300 Absagen“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvQVByNTQweUVBMTFiS093clRlQ3pHZDNLSzZqbWt5dnRnanRWc0lSdnBmamdoUDZwanRfSzVWc3dIdw?oc=5",
+    "image": "",
+    "date": 1793514300000,
+    "titleSl": "Ni več povpraševanja - iskanje zaposlitve pri 60: \"300 prijav, 300 zavrnitev\""
+   },
+   {
+    "title": "Das freie Wort - Kostenfaktor Kinder",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAweU5jTmF3djZDd2xuUGlUMEFSZlNHNXpJdnBrRDlGNjh2WHJfV0FkUEtweHZFZ19VX1hZbm16WWIyV0IzLXFfRmtSenkwX0hVV2x4R1VDcmZjc2dkWU9ZQjVxN2xFUldpamRMdQ?oc=5",
+    "image": "",
+    "date": 1793513475000,
+    "titleSl": "Prosta beseda - otroci kot stroškovni dejavnik"
    },
    {
     "title": "Jetzt greift er durch - Glasner sauer: „… dann kommt sechster Trainer!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QUlRGeEl4a3lSOU9VaF9zWnpGaDhOSWNDdE5yS3RfNnpnQUNFajJ2c0Y4WnJBUXctZGNqR0hQcERMUQ?oc=5",
     "image": "",
-    "date": 1793513040000
-   },
-   {
-    "title": "„Kein Aufzug ebnet uns den Weg in den Himmel!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxUF9IZmhxYWZ4aWZWZ0dQTXRGa29kaGtlQmw2QVBNemtFbUx1Qkw4N0FHRGgtLXp2bk4wOUdDUnVVdw?oc=5",
-    "image": "",
-    "date": 1793512800000,
-    "titleSl": "\"Kein Aufzug ebnet uns den Weg in den Himmel!\""
-   },
-   {
-    "title": "1000. Oberhaus-Spiel: - Der „Pick-up-Truck“ feiert Jubiläum",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83Ykl5SFdQb0FfbVV2LWNLQ0VEd0VGal9qcE9Xdm5VOWFwZktpNXBiZE9EVGJuTVFtVmIzbE5uNk1Fdw?oc=5",
-    "image": "",
-    "date": 1793512800000
+    "date": 1793513040000,
+    "titleSl": "Zdaj ukrepa - Glasner jezen: \"...potem pa bo prišel šesti trener!\""
    }
   ],
   "rainews": [
@@ -511,7 +524,8 @@
     "title": "Errani e Paolini trionfano a Tokyo: 6-2 6-2 sulle n.1 Dabrowski e Stefani",
     "link": "https://www.rainews.it/articoli/2026/11/errani-paolini-trionfano-a-tokyo-6-2-6-2-sulle-n1-dabrowski-stefani-398564cf-69be-47ee-93c7-b2016de0cbed.html",
     "image": "https://www.rainews.it/dl/img/2026/10/31/1793429862832_IPA.jpg",
-    "date": 1793517840000
+    "date": 1793517840000,
+    "titleSl": "Errani in Paolini zmagala v Tokiu: 6-2 6-2 nad n.1 Dabrowski in Stefani"
    },
    {
     "title": "Morta nella piscina di casa nel Comasco, arrestato l&#x27;ex marito: \"L&#x27;ha spinta\"",
@@ -568,7 +582,8 @@
     "title": "Route du rhum : derrière les 115 participants, la course aux sponsors laisse des skippeurs à quai",
     "link": "https://www.lemonde.fr/sport/article/2026/11/01/route-du-rhum-derriere-les-115-participants-la-course-aux-sponsors-laisse-des-skippeurs-a-quai_6804012_3242.html",
     "image": "https://img.lemde.fr/2026/10/31/1012/0/6425/3212/644/322/60/0/b62fd6d_upload-1-yomzsbk0wfax-000-c99r7ke.jpg",
-    "date": 1793507495000
+    "date": 1793507495000,
+    "titleSl": "Rum Route: za 115 udeleženci dirka za sponzorje pusti skiperje na doku"
    },
    {
     "title": "Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », dont le mont Kolang, près du complexe nucléaire de Natanz",
@@ -582,8 +597,8 @@
    {
     "title": "Marc Márquez gana el GP de Malasia y tendrá su primera oportunidad de revalidar el título en Qatar",
     "link": "https://elpais.com/deportes/motociclismo/2026-11-01/gp-de-malasia-en-directo-motogp-en-vivo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/LSGM4CUO4FMBXAGBXGY46HZSPA.jpg?auth=bdbb54e8b0901c0a6431639ef7d72d17e9b12b958dda8330f1bf75ffe2ae4cb0",
-    "date": 1793519390000,
+    "image": "https://imagenes.elpais.com/resizer/v2/JZTW4IIY4ZLPFOGK3NBT7ZOYLI.jpg?auth=9ee29bb1c913c159fb23d85d1a31b5a2c96572505cda5011e79a78415b53bd46",
+    "date": 1793519513000,
     "titleSl": "Marc Márquez gana el GP de Malasia y tendrá su primera oportunidad de revalidar el título en Katar"
    },
    {
