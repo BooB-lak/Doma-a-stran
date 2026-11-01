@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T21:01:00.378Z",
+ "generatedAt": "2026-11-01T21:02:25.314Z",
  "sources": {
   "siol": [
    {
@@ -215,7 +215,7 @@
    {
     "title": "Judge Rejects Trump Officials’ Move to Challenge Alaska Senate Election",
     "link": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
-    "image": "",
+    "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
     "date": 1793562251000,
     "titleSl": "Sodnik zavrnil Trumpovo potezo za izpodbijanje volitev v senat Aljaske"
    },
@@ -242,6 +242,13 @@
    }
   ],
   "bbc": [
+   {
+    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire expires",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+    "date": 1793566918000,
+    "titleSl": "Zaradi ruskih napadov je več tisoč ljudi v Ukrajini izgubilo oskrbo z električno energijo, ko se izteče prekinitev ognja v Hersonu"
+   },
    {
     "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
     "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg",
     "date": 1793563100000,
     "titleSl": "Kralj bo obravnaval suženjstvo v Antigvi, saj premier pravi, da je odprt za morebitno opravičilo Združenega kraljestva"
-   },
-   {
-    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
-    "date": 1793562497000,
-    "titleSl": "Ruski napadi so zmanjšali moč na tisoče v Ukrajini, ker se je prekinitev ognja v Hersonu končala"
    }
   ],
   "aljazeera": [
@@ -410,28 +410,14 @@
     "titleSl": "Donald Trump klobuk Lügen über sie verbreitet. Seither leben die Haitianer v Springfieldu v Angstu"
    },
    {
-    "title": "Hollywoodregisseur Michael Mann: Selbst verletzt bei Schießstand-Unfall",
+    "title": "Michael Mann schießt sich in L.A. aus Versehen selbst ins Bein",
     "link": "https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/40885a00-7b4b-413e-a11c-b9806fb3fcb7_w520_r2.08_fpx40.65_fpy45.jpg",
     "date": 1793555580000,
-    "titleSl": "Hollywoodski režiser Michael Mann: sam poškodovan v nesreči na strelišču"
+    "titleSl": "Michael Mann se je pomotoma ustrelil v nogo v L.A"
    }
   ],
   "bild": [
-   {
-    "title": "Mitspieler brechen emotional zusammen - Horror-Szene um NFL-Star!",
-    "link": "https://www.bild.de/sport/mehr-sport/horror-szene-um-nfl-star-mitspieler-brechen-emotional-zusammen-6ae7a326aedea8cd9ffc107d",
-    "image": "https://images.bild.de/6ae7a326aedea8cd9ffc107d/49693200c92208fdaf61f87b8e38ff2d-landscape,400cb73?w=1280",
-    "date": 0,
-    "titleSl": "Soigralci se čustveno sesujejo – grozljivka z zvezdnikom lige NFL!"
-   },
-   {
-    "title": "Jetzt ruckzuck minus 10 Grad möglich - Schnee da!",
-    "link": "https://www.bild.de/regional/bayern/schnee-da-jetzt-ruckzuck-minus-10-grad-moeglich-6ae73a135e7018b4bea94c04",
-    "image": "https://images.bild.de/6ae73a135e7018b4bea94c04/299e81a21c87874b5eed2a20b87769d8,207a86c4?w=1280",
-    "date": 0,
-    "titleSl": "Zdaj je možnih minus 10 stopinj v hipu - sneg je tu!"
-   },
    {
     "title": "Digitalminister bestätigt - Hackerangriff auf Abgeordnete und Regierungsmitglieder",
     "link": "https://www.bild.de/politik/digitalminister-wildberger-bestaetigt-hackerangriff-auf-abgeordnete-und-regierungsmitglieder-6ae79100aedea8cd9ffc0fc5",
@@ -447,6 +433,13 @@
     "titleSl": "Legenda NDR - proizvajalec svetilk po 90 letih preneha delovati"
    },
    {
+    "title": "Mitspieler brechen emotional zusammen - Horror-Szene um NFL-Star!",
+    "link": "https://www.bild.de/sport/mehr-sport/horror-szene-um-nfl-star-mitspieler-brechen-emotional-zusammen-6ae7a326aedea8cd9ffc107d",
+    "image": "https://images.bild.de/6ae7a326aedea8cd9ffc107d/49693200c92208fdaf61f87b8e38ff2d-landscape,400cb73?w=1280",
+    "date": 0,
+    "titleSl": "Soigralci se čustveno sesujejo – grozljivka z zvezdnikom lige NFL!"
+   },
+   {
     "title": "Fan-Fest-Moderatorin - Bei diesen Fahrern kreischen die Fans am lautesten",
     "link": "https://www.bild.de/sport/mehr-sport/formel-1-bei-diesen-fahrern-kreischen-die-fans-am-lautesten-6ae759236a5ed9f213134a9e",
     "image": "https://images.bild.de/6ae759236a5ed9f213134a9e/bd6f792e3913f96e59fb9e8b2944796e,8056fa6f?w=1280",
@@ -459,6 +452,13 @@
     "image": "https://images.bild.de/6ae7420b82dfc5c67ce5a604/39385ee55ab110f363f5522c4f2a4d00,718227af?w=1280",
     "date": 0,
     "titleSl": "Jezen kot še nikoli – bundesligaški trener na drevesu"
+   },
+   {
+    "title": "Kommentar - Diesen Randalierern ist nichts heilig",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-bild-chefreporter-frank-schneider-diesen-randalierern-ist-nichts-heilig-6ae772da82dfc5c67ce5a932",
+    "image": "https://images.bild.de/6ae772da82dfc5c67ce5a932/bdb213e28e9399e066af487a670463a7,22424fcf?w=1280",
+    "date": 0,
+    "titleSl": "Komentar - Tem izgrednikom ni nič sveto"
    }
   ],
   "krone": [
@@ -477,6 +477,13 @@
     "titleSl": "Kenia-Sieg bei Frauen - Bei Debüt! Schwede gewinnt New Yoker maraton"
    },
    {
+    "title": "„Sehr bitter!“ Austria hadert mit Derby-Niederlage",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ZMzNVQWtlTzJaeGo3ZWY3OVB4NlRsblh3VWZuaUdxX2xXV0ctaWcwMmJIbnRYWkFoOUZYVFp3SUJFQQ?oc=5",
+    "image": "",
+    "date": 1793561280000,
+    "titleSl": "\"Zelo grenko!\" Avstrija se bori s porazom na derbiju"
+   },
+   {
     "title": "Kracher für den LASK - Spannende Duelle! ÖFB-Cup-Viertelfinale ausgelost",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB5cV9kSEZXeUVqY0RMNnVOVmNOZ1NaYkdOY29kN254dzBkdjdwUG01aXhxNG9EMmJhMWRhY2tfS0FqZw?oc=5",
     "image": "",
@@ -491,18 +498,11 @@
     "titleSl": "Sprejeti ukrepi - Od »cone smrti« do zelenega središča mesta"
    },
    {
-    "title": "Tradition neu im Blick - Tiroler Schützenkalender 2027: Die Heimat im Bild",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NR3R0bzQzZ2lJc0plR3djdjdXdmV5VzVKTlJsaU84UzJEbjhFR1VGTzN6Z2trMHNsNm9DWUtJTUh3dw?oc=5",
+    "title": "Duell gegen ÖFB-Kicker - DFB-Pokal! Kracher für Hütter-Team im Achtelfinale",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XSkZjOHd1WTRVOE1vUUxKeDNST1lxckhxRV9UVUFSOGZRbVBQc244cmZzczh4OFRZMWloZkV1VGdSdw?oc=5",
     "image": "",
-    "date": 1793556000000,
-    "titleSl": "Nov pogled na tradicijo - Tirolski strelski koledar 2027: Domovina v sliki"
-   },
-   {
-    "title": "Dramatisches Derby - Elfer, Eigentor: Rapid feiert Sieg gegen Austria!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9HT1VrY2JHYjV3a2c2am5PR0ItNU5nQ1J0UlJndHpDSXl5c2V5M1FJbFFmLUtwbkxLVmphYzdVcTJBUQ?oc=5",
-    "image": "",
-    "date": 1793555400000,
-    "titleSl": "Dramatični derbi - enajstmetrovka, avtogol: Rapid slavil zmago proti Avstriji!"
+    "date": 1793558460000,
+    "titleSl": "Dvoboj proti ÖFB-Kicker - DFB Cup! Zadetek za Hütterjevo ekipo v osmini finala"
    }
   ],
   "rainews": [
@@ -551,6 +551,13 @@
   ],
   "lemonde": [
    {
+    "title": "Edouard Philippe juge la primaire à droite et au centre synonyme de « division » et de « confusion »",
+    "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html",
+    "image": "https://img.lemde.fr/2026/10/30/306/0/3670/1835/644/322/60/0/55d4418_ftp-1-2vzu6mwz19nu-afp-d4xl94x.jpg",
+    "date": 1793563484000,
+    "titleSl": "Edouard Philippe meni, da je primarno na desni in v sredini sinonim za \"razdelitev\" in \"zmedo\""
+   },
+   {
     "title": "Présidentielle en Bulgarie : Iliana Iotova remporte l’élection, selon plusieurs sondages à la sortie des urnes",
     "link": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
     "image": "https://img.lemde.fr/2026/11/01/455/0/5463/2731/644/322/60/0/a7022f0_ftp-1-kfdaqfzgxvsb-afp-d6373nq.jpg",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/10/31/310/0/3189/1594/644/322/60/0/8fe50d8_upload-1-qt0kjublvb9o-a7r7481.jpg",
     "date": 1793554206000,
     "titleSl": "Kaj si zapomniti iz novic iz vikenda 31. oktobra in 1. novembra"
-   },
-   {
-    "title": "Halloween : les images impressionnantes des cortèges des quatre coins du monde",
-    "link": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/01/halloween-les-images-impressionnantes-des-corteges-des-quatre-coins-du-monde_6804530_6717263.html",
-    "image": "https://img.lemde.fr/2026/11/01/390/0/4675/2337/644/322/60/0/6973ac0_ftp-1-wgh4gt9ehk5n-2026-11-01t011634z-455203858-rc2oeoacrsl0-rtrmadp-3-halloween-day-newyork.JPG",
-    "date": 1793553019000,
-    "titleSl": "Noč čarovnic: impresivne podobe procesij s štirih koncev sveta"
    }
   ],
   "elpais": [
