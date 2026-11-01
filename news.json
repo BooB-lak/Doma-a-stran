@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T17:04:25.662Z",
+ "generatedAt": "2026-11-01T17:06:26.409Z",
  "sources": {
   "siol": [
    {
@@ -199,13 +199,6 @@
   ],
   "nyt": [
    {
-    "title": "The Rise and Fall of the Triumphal Arch",
-    "link": "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/arts/1campanella-arches-top-cover/1campanella-arches-top-cover-mediumSquareAt3X.jpg",
-    "date": 1793552296000,
-    "titleSl": "Vzpon in padec slavoloka"
-   },
-   {
     "title": "India’s Congress Party Holds Mass Protest in New Delhi",
     "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
@@ -239,9 +232,23 @@
     "image": "",
     "date": 1793542597000,
     "titleSl": "Kaj je desetletje Pizzagate naredilo Ameriki"
+   },
+   {
+    "title": "How Marathons Changed",
+    "link": "https://www.nytimes.com/2026/11/01/briefing/how-marathons-changed.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01themorning-nl-LEAD-plfg/01themorning-nl-LEAD-plfg-mediumSquareAt3X.jpg",
+    "date": 1793535692000,
+    "titleSl": "Kako so se maratoni spremenili"
    }
   ],
   "bbc": [
+   {
+    "title": "University of Cambridge scientist among those who died in Spanish train crash",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg",
+    "date": 1793552718000,
+    "titleSl": "Znanstvenik Univerze v Cambridgeu med umrlimi v španski železniški nesreči"
+   },
    {
     "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
     "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802c/live/e0b8cef0-c403-11f1-a64c-550be9e3c66b.png",
     "date": 1793548371000,
     "titleSl": "Zelena stranka na 'razpotju' po glasovanju za cionizem, pravi nekdanji sovoditelj"
-   },
-   {
-    "title": "Defeat for London City against Man City - but is Europe a real possibility?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9d/live/7fcb7d70-d60c-11f1-bdc5-33a5057f63d4.jpg",
-    "date": 1793548187000,
-    "titleSl": "Poraz za London City proti Man Cityju - toda ali je Evropa resnična možnost?"
    }
   ],
   "aljazeera": [
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Fußball-Bundesliga: 1. FC Köln holt dank Malek El Mala Punkt bei Union Berlin",
+    "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/b1553e51-7748-4772-aaa1-d4e1da0ad1f9_w520_r2.08_fpx42.65_fpy49.99.jpg",
+    "date": 1793552640000,
+    "titleSl": "Bundesliga: 1. FC Köln osvoji točko pri Union Berlinu po zaslugi Maleka El Mala"
+   },
+   {
     "title": "Free Mind Medicine Kongress in Stuttgart: Die Tricks der Alternativheiler",
     "link": "https://www.spiegel.de/wissenschaft/medizin/free-mind-medicine-kongress-in-stuttgart-die-tricks-der-alternativheiler-a-61e44b78-2ebb-46af-9439-9244653fe1fd#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/e5282872-4944-495b-9c88-ab6c3e64f565_w520_r2.08_fpx31.58_fpy49.99.jpg",
@@ -396,25 +403,18 @@
     "titleSl": "Jemen - Hutiji: Več kot 300.000 ljudi na begu, razmere v Taisu so še posebej dramatične"
    },
    {
+    "title": "KZ Auschwitz: Nazi-Ärzte verätzten die Eileiter ihrer Mutter. Trotzdem wurde sie geboren",
+    "link": "https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren-a-db6af4c2-487a-4517-94cc-34d3611982dc#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/aaa35058-16f2-44bc-bba7-2d53d477ac64_w520_r2.08_fpx56_fpy44.jpg",
+    "date": 1793549160000,
+    "titleSl": "Koncentracijsko taborišče Auschwitz: Nacistični zdravniki so njeni materi požgali jajcevod. Kljub temu se je rodila"
+   },
+   {
     "title": "Buurtzorg: Dieser Altenpfleger hat Zeit für seine Patienten. Was macht er besser?",
     "link": "https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser-a-2e240ca0-2526-4a58-b1e4-27488f9037cf#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/04aa6078-52e7-4de2-bf11-73494e130522_w520_r2.08_fpx49_fpy60.jpg",
     "date": 1793548260000,
     "titleSl": "Buurtzorg: Dieser Altenpfleger hat Zeit für seine Patienten. Ali je bil macht er besser?"
-   },
-   {
-    "title": "Österreich – Kriminalität in Vorarlberg: Wenn Kinder zu Verbrechern werden",
-    "link": "https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden-a-a32c9035-e321-4712-b0c8-9a972a873acb#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/dfa87f6e-c4fa-4f70-a675-91ce503dab20_w520_r2.08_fpx33.27_fpy49.86.jpg",
-    "date": 1793547600000,
-    "titleSl": "Österreich – Kriminalität v Vorarlbergu: Wenn Kinder zu Verbrechern werden"
-   },
-   {
-    "title": "»Polizeiruf« heute aus Rostock: »Sie haben einen Namen« im Schnellcheck",
-    "link": "https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-rostock-sie-haben-einen-namen-im-schnellcheck-a-dd3eb8b4-3f03-4c2d-aa56-f26b22ae775f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/007ab05b-b747-4d6a-9cee-be3a27259026_w520_r2.08_fpx72.69_fpy49.98.jpg",
-    "date": 1793547480000,
-    "titleSl": "\"Policijski klic\" danes iz Rostocka: \"Imate ime\" v hitri kontroli"
    }
   ],
   "bild": [
@@ -477,6 +477,13 @@
     "titleSl": "Millstattska opatija - Erozija človeštva je prikazana na sliki"
    },
    {
+    "title": "Kulturschätze bewahren - Tirols Baudenkmäler sollen lebendig bleiben",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HbWhMa3ZSdjl1d0FWS1JuRng1ZDd2SWRfR1NmRWtJeVpyelVlMUJCbXhkY0ZlUkN4b0RJa2V4YTB5Zw?oc=5",
+    "image": "",
+    "date": 1793548800000,
+    "titleSl": "Ohranjajte kulturne zaklade – tirolski arhitekturni spomeniki naj ostanejo živi"
+   },
+   {
     "title": "Mit gestohlenen Pkw - Luxusräuber rasten in London in Schaufenster",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhZHdjRzdxd3RGUThJV2RHTWhyWWZLd0ZIVEtBOGR2WmlLZUJ0eTJFSGRpWDR6dGhrLU9Qa0FEVGVNQQ?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1793546100000,
     "titleSl": "Selitev na Dansko – kraljica Marija se je počutila osamljeno in izključeno"
-   },
-   {
-    "title": "Aufräumarbeiten dauern - Spanien: Alle Verletzten werden wohl „durchkommen“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9YVzRiTi1sVF9lMzZFazRxR1QwU1I2ajhsaWpfMkFTNEMxYUwwMnRFUUE3ZVRidGJvdFZBZjhqaUtnZw?oc=5",
-    "image": "",
-    "date": 1793543040000,
-    "titleSl": "Čiščenje zahteva čas - Španija: Vsi poškodovanci bodo verjetno \"prešli\""
    }
   ],
   "rainews": [
@@ -568,7 +568,7 @@
     "title": "Au Liban, le gouvernement entend reprendre le contrôle des camps palestiniens",
     "link": "https://www.lemonde.fr/international/article/2026/11/01/au-liban-le-gouvernement-entend-reprendre-le-controle-des-camps-palestiniens_6804520_3210.html",
     "image": "https://img.lemde.fr/2026/11/01/1028/0/6168/3084/644/322/60/0/5cb9b42_upload-1-haz5g39azpx2-000-72tz6d4.jpg",
-    "date": 1793548866000,
+    "date": 1793548863000,
     "titleSl": "V Libanonu namerava vlada ponovno prevzeti nadzor nad palestinskimi taborišči"
    },
    {
@@ -598,7 +598,7 @@
     "title": "Racing - Real Madrid en directo | El Madrid aguanta la renta ante el empuje del Racing",
     "link": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/4KZJ77T5O5IKDJ57F4OETFU46I.jpg?auth=fa9cdb75a7522b459895a4abe3138a1118b9abaac4f4acab45ee38d8cdee48b2",
-    "date": 1793552582000,
+    "date": 1793552129000,
     "titleSl": "Dirke - Real Madrid v živo | Madrid kljub pritisku Racinga ohranja svoj prihodek"
    },
    {
@@ -618,7 +618,7 @@
    {
     "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
     "link": "https://elpais.com/deportes/tenis/2026-11-01/alcaraz-un-trofeo-en-viena-y-algo-mas-volver-a-disfrutar.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/W3FXZYJGTZLPPJGA4QUYSDWXSA.jpg?auth=688a2622767c27d0de72f047aba2b624cbb0b3a33a7c65b996a3d45d621d4b65",
+    "image": "https://imagenes.elpais.com/resizer/v2/QG6PHJ453JJ4NHQAMFUKJ47MM4.jpg?auth=3e6e02bca27628d58a069fbfad6992bc059ba9501b40cda2c9c2142bffc3bfc7",
     "date": 1793547332000,
     "titleSl": "Alcaraz, trofeja na Dunaju in še nekaj: spet uživanje"
    },
