@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T05:58:24.393Z",
+ "generatedAt": "2026-11-01T06:01:01.740Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Quiles slavil v Moto3, Alonso slavil drugič v razredu Moto2",
     "link": "https://www.24ur.com/sport/motogp/quiles-slavil-v-moto3-na-stezi-dirkaci-v-moto2.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/caf1da15c7de745b1080_63672054.jpg?v=b4fa&fop=fp:0.50:0.46",
-    "date": 1793512529000
+    "date": 1793512719000
    },
    {
     "title": "Iz prvega štartnega položaja bo na dirki za VN Mehike lovil zmago Hamilton",
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Pope Leo XIV, the Tough Guy of High T Christianity",
+    "link": "https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01burke-wkbh/01burke-wkbh-mediumSquareAt3X.jpg",
+    "date": 1793512803000,
+    "titleSl": "Papež Leon XIV., težki mož visokega krščanstva"
+   },
+   {
     "title": "India’s Congress Party Plans Mass Protest in New Delhi",
     "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-gkcm/01int-india-protest-gkcm-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
     "date": 1793487258000,
     "titleSl": "Zdravniki v Ukrajini poskušajo z okužbami ravnati kot z biološkimi napadi"
-   },
-   {
-    "title": "Susan Collins Is Always Keeping Score",
-    "link": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
-    "date": 1793486739000,
-    "titleSl": "Susan Collins vedno ohranja oceno"
    }
   ],
   "bbc": [
@@ -422,25 +422,29 @@
     "title": "Erster Schnee möglich - Polarwirbel droht jetzt einzubrechen",
     "link": "https://www.bild.de/news/wetter/erster-schnee-moeglich-polarwirbel-droht-jetzt-einzubrechen-6ae5bd46aedea8cd9ffbf28c",
     "image": "https://images.bild.de/6ae5bd46aedea8cd9ffbf28c/37570eb5eab73afe8e3e8a0bf489262f,5c6b24b2?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Možen prvi sneg – polarni vrtinec zdaj grozi, da se bo zrušil"
    },
    {
     "title": "Bares für Rares - Highlight der Woche - Platinbrosche mit Diamanten ist Tausende Euro wert",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-highlight-schockierender-verkaufspreis-fuer-diamantbrosche-6adf631f7846c6ec50e70568",
     "image": "https://images.bild.de/6adf631f7846c6ec50e70568/9ec9d2ae675abf5017e55f8ad804af9a,bce9f514?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Gotovina za redke - Vrhunec tedna - platinasta broška z diamanti je vredna več tisoč evrov"
    },
    {
     "title": "Lustiger Kabinen-Spruch - Undav zu Bayer-Star Maza: „Geh nach Paris, Alter!“",
     "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-lustiger-kabinen-spruch-deniz-undav-zu-ibrahim-maza-geh-mal-nach-paris-6ae681d4aedea8cd9ffc0191",
     "image": "https://images.bild.de/6ae681d4aedea8cd9ffc0191/a24d3968be6884d81fab3e5ddbd2c7ad,f562715b?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Smešen rek v kabini - Undav zvezdniku Bayerja Mazi: \"Pojdi v Pariz, stari!\""
    },
    {
     "title": "Abschied von der Pistengaudi - Deutsches Skigebiet schließt für immer",
     "link": "https://www.bild.de/regional/bayern/abschied-von-der-pistengaudi-deutsches-skigebiet-schliesst-fuer-immer-6ae1f18021fd087fed7ed48a",
     "image": "https://images.bild.de/6ae1f18021fd087fed7ed48a/1f4f9ef9b82814e88f487ac632914020,fdf085bb?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "Zbogom od zabave na smučiščih - nemško smučišče za vedno zaprto"
    },
    {
     "title": "Im roten Rausch - Eine Betrachtung der Linken und ihrer Chefinnen",
@@ -453,7 +457,8 @@
     "title": "Live-Ticker zu den Gen-Z-Protesten - Krawalle unterm Kölner Dom!",
     "link": "https://www.bild.de/news/inland/gen-z-proteste-im-live-ticker-krawalle-unter-dem-koelner-dom-6ae57fd0aedea8cd9ffbef16",
     "image": "https://images.bild.de/6ae57fd0aedea8cd9ffbef16/962736ba63002b0c1ff2875d836b9927,e57b5776?w=1280",
-    "date": 0
+    "date": 0,
+    "titleSl": "V živo za proteste Gen Z - nemiri pod kölnsko katedralo!"
    }
   ],
   "krone": [
@@ -461,37 +466,43 @@
     "title": "Hilfsaktion - Eine bis heute anhaltende Welle der Solidarität",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9acmpGM29mUE1UZkE5Q2JrN3VkM1hlQVRTLW9wZGZnblZ5c3ZuTWlFdzVvanhWQ0tCSEQ5Sm84STlOZw?oc=5",
     "image": "",
-    "date": 1793509200000
+    "date": 1793509200000,
+    "titleSl": "Akcija pomoči - val solidarnosti, ki traja še danes"
    },
    {
     "title": "„Ich befürchte, dass Sterben zum Wettbewerb wird“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51TXRWUUY3dTZnQ2hKX3VORWQtNkZkTi1SbGdKamIxWG4tN0JmNHRGSFkxU3hUNG1MLUljWG9remNadw?oc=5",
     "image": "",
-    "date": 1793509200000
+    "date": 1793509200000,
+    "titleSl": "\"Bojim se, da bo umiranje postalo tekmovanje\""
    },
    {
     "title": "Kabarettist M. Hirtler - Darf man eigentlich über den Tod lachen?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9jaGgtdDRSSnZ3THJYOWVUNUg2Sl9ZZzd1SF9IZy1qa3FfUTgyeHhqbkNvWEtNbEpmaTVodDJ5bzE4QQ?oc=5",
     "image": "",
-    "date": 1793509200000
+    "date": 1793509200000,
+    "titleSl": "Kabaretist M. Hirtler - Ali se je smrti res dovoljeno smejati?"
    },
    {
     "title": "Kühl und nass - Wetter zeigt sich zu Allerheiligen unbeständig",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GZU5qcEZDSzdUVWNmeWVETEMzU1B0UHUwTGdpQ2hLUmM1N0Z1STY2RnJrcWY1NkFvOHVKTzV3MUpfQQ?oc=5",
     "image": "",
-    "date": 1793509200000
+    "date": 1793509200000,
+    "titleSl": "Hladno in mokro - vreme je nestabilno na dan vseh svetih"
    },
    {
     "title": "Allerheiligen - So lange können Sie heute auf den Friedhof gehen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBweHJYYnB4ZTcyN3BRZWZTNlBqN3JLWTcxNDZtQ1E5QmZES3RYaHlrMVFlU0RWVVA0b1AyTTdEX2NqZw?oc=5",
     "image": "",
-    "date": 1793509200000
+    "date": 1793509200000,
+    "titleSl": "Praznik vseh svetih - Toliko časa lahko greste danes na pokopališče"
    },
    {
     "title": "„Es war wirklich zach“ - Steirer bezwang Schöckl 15-mal in nur 26 Stunden",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBsQUptcUNmZ2ZwdC15Y01qVWp6dFRNZXV4YjNhOFlOZG0tUjFkUFhtLVloZ0Y0eW9QekVOVjh3ZjZXdw?oc=5",
     "image": "",
-    "date": 1793509140000
+    "date": 1793509140000,
+    "titleSl": "\"Bilo je res težko\" - Steirer je Schöckla premagal 15-krat v samo 26 urah"
    }
   ],
   "rainews": [
@@ -506,7 +517,8 @@
     "title": "Nuovo look, nuova fiducia: Alcaraz piega Medvedev e vola in finale a Vienna",
     "link": "https://www.rainews.it/video/2026/11/nuovo-look-nuova-fiducia-alcaraz-piega-medvedev-e-vola-in-finale-a-vienna-818b1794-6e8f-45ee-be06-f5210fe405f5.html",
     "image": "https://www.rainews.it/dl/img/2026/11/01/1793511481475_vlcsnap.jpg",
-    "date": 1793512380000
+    "date": 1793512380000,
+    "titleSl": "Nov videz, nova samozavest: Alcaraz premagal Medvedjeva in odletel v finale na Dunaju"
    },
    {
     "title": "Droni incendiano raffineria russa. Mosca, allerta Usa su un possibile attentato",
@@ -526,7 +538,8 @@
     "title": "Lotta ai tumori, Airc e Rai insieme per i \"Giorni della Ricerca\"",
     "link": "https://www.rainews.it/maratona/2026/11/lotta-ai-tumori-airc-e-rai-insieme-per-i-giorni-della-ricerca-0af01f73-ab1e-4017-8ded-551a1dbf7f6f.html",
     "image": "https://www.rainews.it/dl/img/2026/11/01/1793510010546_AIRCGiorniVisualTV.jpg.jpeg",
-    "date": 1793509980000
+    "date": 1793509980000,
+    "titleSl": "Boj proti tumorjem, Airc in Rai skupaj za \"Raziskovalne dneve\""
    },
    {
     "title": "Giallo a Mosca, allerta Usa su un possibile attentato al Museo Tsaritsyno",
@@ -592,31 +605,36 @@
     "title": "Las medias térmicas con efecto piel que parecen transparentes, pero esconden un forro polar calentito",
     "link": "https://elpais.com/escaparate/estilo-de-vida/medias-termicas-efecto-piel.html",
     "image": "https://imagenes.elpais.com/resizer/v2/5CGXTIQ7ARFTFMSHY2KXQQ6PUM.png?auth=6c11829e2ccdd8a7c1045906590d976d6fa525b1cc53802136af7557c2104533",
-    "date": 1793511000000
+    "date": 1793511000000,
+    "titleSl": "Termo hlačne nogavice z učinkom usnja, ki delujejo prozorno, a skrivajo toplo podlogo iz flisa"
    },
    {
     "title": "La almohada de piernas que mejora la comodidad al dormir de lado",
     "link": "https://elpais.com/escaparate/estilo-de-vida/almohada-para-las-piernas.html",
     "image": "https://imagenes.elpais.com/resizer/v2/A5HB2DR6DRBXTJF7UC6CRG7BI4.png?auth=a8844317215fe0f31d1de787575e3ac1eacf6098d13a499cd7fabd99b40fd30d",
-    "date": 1793510100000
+    "date": 1793510100000,
+    "titleSl": "Blazina za noge, ki izboljša udobje pri spanju na boku"
    },
    {
     "title": "Juan Manuel Santos, un hombre de paz en tiempos de guerra",
     "link": "https://elpais.com/eps/2026-11-01/juan-manuel-santos-un-hombre-de-paz-en-tiempos-de-guerra.html",
     "image": "https://imagenes.elpais.com/resizer/v2/YXPS2ASIJ5FSXGGPIMP3BISB7Y.jpg?auth=4a73321799a54a97fca73b54504b47025311e5a7ed4ea556ab71fc31e62f71dc",
-    "date": 1793508000000
+    "date": 1793508000000,
+    "titleSl": "Juan Manuel Santos, človek miru v času vojne"
    },
    {
     "title": "El incendio de este otoño",
     "link": "https://elpais.com/eps/2026-11-01/el-incendio-de-este-otono.html",
     "image": "https://imagenes.elpais.com/resizer/v2/CM66YP47FRC5NEEJ6LPH2SUAOM.jpg?auth=a4b763069e1d919d2ada4e194bd3d862df90482bccc504599ec5b309e8a782f2",
-    "date": 1793508000000
+    "date": 1793508000000,
+    "titleSl": "Ogenj te jeseni"
    },
    {
     "title": "Palmer Luckey y Ben Lamm, los milmillonarios frikis detrás de los superperros de guerra",
     "link": "https://cincodias.elpais.com/opinion/2026-11-01/palmer-luckey-y-ben-lamm-los-milmillonarios-frikis-detras-de-los-superperros-de-guerra.html",
     "image": "https://imagenes.elpais.com/resizer/v2/QNB6XQEHV5HSLLVW5SR7IXBIQM.jpg?auth=cbd6db32478b69caed54976d9058123613444db223cd1c4a067777c48ae66153",
-    "date": 1793508000000
+    "date": 1793508000000,
+    "titleSl": "Palmer Luckey in Ben Lamm, milijarderska geeka za super vojnimi psi"
    }
   ]
  },
