@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-01T15:38:24.117Z",
+ "generatedAt": "2026-11-01T15:40:40.279Z",
  "sources": {
   "siol": [
+   {
+    "title": "Španec Carlos Alcaraz zlahka do lovorike na Dunaju",
+    "link": "https://siol.net/sportal/tenis/tenis-dunaj-carlos-alcaraz-705260",
+    "image": "https://siol.net/media/img/5e/11/04162e3ca49e67f1f619.jpeg",
+    "date": 1793547600000
+   },
    {
     "title": "Mbappe hitro osrečil navijače Reala #vŽivo",
     "link": "https://siol.net/sportal/nogomet/spansko-prvenstvo-11-krog-705159",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/horoskop/bivsa-ljubezen-se-vraca-v-zivljenje-teh-znakov-horoskopa-704570",
     "image": "https://siol.net/media/img/ce/8a/ba44725b78754e8b4651.jpeg",
     "date": 1793543460000
-   },
-   {
-    "title": "Bo reprezentanca obžalovala vrnitev v Maribor? Viole grozijo NZS.",
-    "link": "https://siol.net/sportal/nogomet/bo-reprezentanca-obzalovala-vrnitev-v-maribor-viole-grozijo-nzs-705276",
-    "image": "https://siol.net/media/img/98/3b/ff6ce162019fab8a9ab5.jpeg",
-    "date": 1793543340000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Umrla irska atletinja Ciara Mageean, evropska prvakinja v teku na 1500 m",
+    "link": "https://www.rtvslo.si/sport/atletika/umrla-irska-atletinja-ciara-mageean-evropska-prvakinja-v-teku-na-1500-m/798696",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/01/67117999.jpg",
+    "date": 1793546264000
+   },
+   {
     "title": "Na severnem Primorskem vzniknila pobuda o ustanovitvi hiše Hospic in krepitvi paliativne mreže",
     "link": "https://www.rtvslo.si/lokalne-novice/primorje/na-severnem-primorskem-vzniknila-pobuda-o-ustanovitvi-hise-hospic-in-krepitvi-paliativne-mreze/798695",
     "image": "https://img.rtvcdn.si/_up/upload/2025/05/29/66744467.jpg",
@@ -97,8 +103,8 @@
     "date": 1793545413000
    },
    {
-    "title": "De Minaur brez možnosti proti Alcarazu, zmagovalcu turnirja na Dunaju",
-    "link": "https://www.rtvslo.si/sport/tenis/de-minaur-brez-moznosti-proti-alcarazu-zmagovalcu-turnirja-na-dunaju/798690",
+    "title": "De Minaur brez možnosti proti Alcarazu na Dunaju",
+    "link": "https://www.rtvslo.si/sport/tenis/de-minaur-brez-moznosti-proti-alcarazu-na-dunaju/798690",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/01/67117972.jpg",
     "date": 1793545026000
    },
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/lokalne-novice/primorje/zacenja-se-cepljenje-proti-sezonski-gripi/798689",
     "image": "https://img.rtvcdn.si/_up/upload/2026/06/18/67054133.jpg",
     "date": 1793543951000
-   },
-   {
-    "title": "V Franciji je bilo na sobotnih protestih aretiranih 779 ljudi",
-    "link": "https://www.rtvslo.si/svet/evropa/v-franciji-je-bilo-na-sobotnih-protestih-aretiranih-779-ljudi/798688",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/01/67117963.jpg",
-    "date": 1793543841000
    }
   ],
   "zurnal": [
@@ -375,6 +375,19 @@
   ],
   "spiegel": [
    {
+    "title": "»Polizeiruf« heute aus Rostock: »Sie haben einen Namen« im Schnellcheck",
+    "link": "https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-rostock-sie-haben-einen-namen-im-schnellcheck-a-dd3eb8b4-3f03-4c2d-aa56-f26b22ae775f#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/007ab05b-b747-4d6a-9cee-be3a27259026_w520_r2.08_fpx72.69_fpy49.98.jpg",
+    "date": 1793547480000
+   },
+   {
+    "title": "Schöner schreiben: So legt man mit einem einzigen kleinen Wort eine Welt in Trümmer",
+    "link": "https://www.spiegel.de/kultur/literatur/schoener-schreiben-so-legt-man-mit-einem-einzigen-kleinen-wort-eine-welt-in-truemmer-a-134a7056-e0a0-4a4e-b331-7fd9379b0c6a#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/dccc14d0-42ee-4483-8211-9742eafbc9a4_w520_r2.08_fpx33.33_fpy50.jpg",
+    "date": 1793547480000,
+    "titleSl": "Schöner schreiben: Torej legt man mit einem einzigen kleinen Wort eine Welt in Trümmer"
+   },
+   {
     "title": "Frankfurt am Main: Nach »Gen Z regelt«-Demo zieht der hessische Innenminister Bilanz",
     "link": "https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/01ebd283-d609-419d-85cb-20d4c358f39a_w520_r2.08_fpx65.99_fpy44.98.jpg",
@@ -400,23 +413,21 @@
     "image": "https://cdn.prod.www.spiegel.de/images/f2861aa8-6d25-4f2f-a8aa-57d6e230fc24_w520_r2.08_fpx58_fpy44.jpg",
     "date": 1793543400000,
     "titleSl": "Nicolas Berggruen: Kaj milijarder v resnici namerava narediti s svojim think tankom"
-   },
-   {
-    "title": "Polen: In Konotopie steht seit Neuestem die höchste Marienfigur Europas",
-    "link": "https://www.spiegel.de/ausland/polen-in-diesem-kleinen-dorf-steht-seit-neuestem-die-hoechste-marienfigur-europas-a-822da72a-1463-4f0e-8f8c-970d87feef27#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/2b9357fe-ffc0-4974-a828-7b7398e549b7_w520_r2.08_fpx58.66_fpy49.99.jpg",
-    "date": 1793543340000,
-    "titleSl": "Poljska: V Konotopiju so nedavno postavili najvišji kip Device Marije v Evropi"
-   },
-   {
-    "title": "USA: Proteste gegen Donald Trump in der Heimat von JD Vance",
-    "link": "https://www.spiegel.de/ausland/usa-proteste-gegen-donald-trump-in-der-heimat-von-jd-vance-a-168b1c09-5e9e-48f3-b563-7f2da467626c#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/76646457-54ea-47b3-8b4f-2c0313234402_w520_r2.08_fpx50_fpy36.88.jpg",
-    "date": 1793543160000,
-    "titleSl": "ZDA: Protesti proti Donaldu Trumpu v domu JD Vancea"
    }
   ],
   "bild": [
+   {
+    "title": "Breitscheidplatz-Terror als Thriller-Serie - Hätte das Attentat verhindert werden können?",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/der-anschlag-vom-breitscheidplatz-kommt-ins-tv-wie-gut-ist-die-thriller-serie-der-ard-6ae0680141a652332eb6d371",
+    "image": "https://images.bild.de/6ae0680141a652332eb6d371/2e88f0a681a9a1cdcaaa2b17de3cb4ab,c0b3524f?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Eigentor! Latte! Unvermögen! - St. Pauli schlägt sich selbst",
+    "link": "https://www.bild.de/sport/fussball/fc-st-pauli-eigentor-latte-unvermoegen-st-pauli-schlaegt-sich-selbst-6ae7186882dfc5c67ce5a2f5",
+    "image": "https://images.bild.de/6ae7186882dfc5c67ce5a2f5/9293664e655e252a480ed61c533a59db,21f13fd8?w=1280",
+    "date": 0
+   },
    {
     "title": "Schmitt ist seinen Job los - Gefeuert! Trainer-Knall im Osten",
     "link": "https://www.bild.de/sport/fussball/schmitt-ist-seinen-job-los-trainer-knall-im-osten-6ae71ad26a5ed9f213134582",
@@ -441,18 +452,6 @@
     "title": "Fan-Fest-Moderatorin - Bei diesen Fahrern kreischen die Fans am lautesten",
     "link": "https://www.bild.de/sport/mehr-sport/formel-1-bei-diesen-fahrern-kreischen-die-fans-am-lautesten-6ae759236a5ed9f213134a9e",
     "image": "https://images.bild.de/6ae759236a5ed9f213134a9e/c1d97bb7f39356485e12c1c81ae74b47-landscape,b1ffe68f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Blitz-OP - BVB-Keeper entschuldigt sich bei Bayern-Star!",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-nach-blitz-op-bvb-keeper-kobel-entschuldigt-sich-bei-bayern-star-saibari-6ae7341e6a5ed9f21313480d",
-    "image": "https://images.bild.de/6ae7341e6a5ed9f21313480d/e9f71bbee09454d1a849599ec88a6cac,32e323f0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Überzeugender RWE-Auftritt - Erfurt liefert! Aber Chemnitz bleibt dran",
-    "link": "https://www.bild.de/sport/fussball/fc-rot-weiss-erfurt-liefert-beim-4-1-gegen-babelsberg-aber-chemnitzer-fc-bleibt-dran-6ae756e85e7018b4bea94dc0",
-    "image": "https://images.bild.de/6ae756e85e7018b4bea94dc0/799502ff47e77d8b467b9ad3252cf2fd,420f5cbe?w=1280",
     "date": 0
    }
   ],
@@ -493,10 +492,11 @@
     "titleSl": "Za paciente dermatologa - hitra diagnoza: fotografije nadomestijo dolgo čakanje"
    },
    {
-    "title": "In der Halloween-Nacht - Junger Steirer stürzte von Brücke: Schwer verletzt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ROHh3TU41d0F0NTJGSWRPNDh5aUE4b1BPNDAyQU5oNXJvN1UyTHpOOTVnUUIxcUpuOHU0ZzVucC1fQQ?oc=5",
+    "title": "„Ein bisschen heftig“ - Diagnosen sind da: Zwei Bayern-Stars fallen aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qWWNVUU5GQk9VdnNReEMwbXJnTGRINjVhdk9NVHVSc0kyTGRWMlRvNjh0OTJnQUdPd1ZtVndsVFdQUQ?oc=5",
     "image": "",
-    "date": 1793539740000
+    "date": 1793538540000,
+    "titleSl": "„Ein bisschen heftig“ - Diagnosen sind da: Zwei Bayern-Stars fell aus"
    }
   ],
   "rainews": [
@@ -588,6 +588,12 @@
   ],
   "elpais": [
    {
+    "title": "Así te hemos contado la victoria de Carlos Alcaraz ante Álex de Miñaur en la final del torneo de Viena",
+    "link": "https://elpais.com/deportes/tenis/2026-11-01/alex-de-minaur-carlos-alcaraz-en-directo-la-final-del-torneo-de-viena-en-vivo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/YIZLE3LY7VNSJG5MAP7NWVNWMY.jpg?auth=b86a7a6ebdb9f65c24a0fd29b0c29f6195ed0302f072d0abfd00ab7c3454c310",
+    "date": 1793547549000
+   },
+   {
     "title": "Racing - Real Madrid en directo | Mbappé adelanta al Madrid de penalti",
     "link": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TWMVYXUV6NM2FNDH2UCCFPYDEQ.jpg?auth=eef20ff58019d7f12701aedf5b1573d7a93179a0de1d024d47057eba33706e2d",
@@ -613,13 +619,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/654PJL4CRNLXPKXRKTFODHLFGI.jpg?auth=0137e7411270aba9115eee2e538f3285ac9f64b3b305c9f186f90c0f3cd16150",
     "date": 1793545183000,
     "titleSl": "Turčija Ukrajini predlaga gostiteljico novega kroga pogajanj z Rusijo in ZDA"
-   },
-   {
-    "title": "Álex de Miñaur - Carlos Alcaraz en directo | Alcaraz vence a De Miñaur y conquista por primera vez el torneo de Viena",
-    "link": "https://elpais.com/deportes/tenis/2026-11-01/alex-de-minaur-carlos-alcaraz-en-directo-la-final-del-torneo-de-viena-en-vivo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/YIZLE3LY7VNSJG5MAP7NWVNWMY.jpg?auth=b86a7a6ebdb9f65c24a0fd29b0c29f6195ed0302f072d0abfd00ab7c3454c310",
-    "date": 1793544307000,
-    "titleSl": "Álex de Minaur - Carlos Alcaraz v živo | Alcaraz premaga De Minaurja in prvič osvoji turnir na Dunaju"
    },
    {
     "title": "La ONU ordena desmantelar la misión de la ONU en el Sáhara mientras se dispara el riesgo de escalada bélica",
