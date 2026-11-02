@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T14:40:42.362Z",
+ "generatedAt": "2026-11-02T14:42:27.257Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Nov primer neprimerne oskrbe: na kmetiji odkrili 12 poginulih živali",
+    "link": "https://www.24ur.com/novice/slovenija/na-kmetiji-odkrili-12-poginulih-zivali-umrle-naj-bi-od-stradanja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Aug2026/18cf0ce63cec267d60e5_63633338.jpg?v=a114&fop=fp:0.46:0.45",
+    "date": 1793630518000
+   },
+   {
     "title": "V hladilnikih nenadoma narasle temperature, hekerji izvedli nove napade",
     "link": "https://www.24ur.com/novice/tujina/hekerji-tokrat-napadli-belgijske-hladilnike.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/113777e4959bacb7e79a_63672607.jpg?v=9acb&fop=fp:0.34:0.44",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/aretirali-tajkuna-povezanega-z-vucicevo-stranko-vloge-zavarovane-do-50000-evrov.html",
     "image": "https://images.24ur.com/media/images/213xX/Oct2026/afcef60cd46b428da260_63671859.jpg?v=30ad&fop=fp:0.38:0.40",
     "date": 1793629040000
-   },
-   {
-    "title": "Nov škandal Infantina: pregrešno drag luksuz in odplačilo davkov",
-    "link": "https://www.24ur.com/sport/nogomet/nov-skandal-infantina-pregresno-drag-luksuz-in-odplacilo-davkov.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/200800e77a7f5fb0ea6e_63672585.jpg?v=db65&fop=fp:0.46:0.27",
-    "date": 1793628992000
    }
   ],
   "rtvslo": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Infanito v središču neverjetnega škandala, nora razkritja pretresajo Fifo",
+    "link": "https://www.zurnal24.si/sport/nogomet/infanito-v-srediscu-neverjetnega-skandala-nora-razkritja-pretresajo-fifo-467643",
+    "image": "https://www.zurnal24.si/media/img/08/a7/5a771e20065638899659.jpeg",
+    "date": 1793630400000
+   },
+   {
     "title": "Ministrstvo dvignilo roke nad Stevanovićem: Deloval je samostojno",
     "link": "https://www.zurnal24.si/slovenija/ministrstvo-dvignilo-roke-nad-stevanovicem-deloval-je-samostojno-467642",
     "image": "https://www.zurnal24.si/media/img/71/ag/361fe4cda6aa15b56202.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/video-na-radiu-1-je-tekla-kri-nesreco-je-posnela-varnostna-kamera-467636",
     "image": "https://www.zurnal24.si/media/img/ff/54/d4496d0b1c4ba0aa6246.png",
     "date": 1793625780000
-   },
-   {
-    "title": "Dramatični prizori: Odprlo se je nebo, voda zalila ulice",
-    "link": "https://www.zurnal24.si/svet/dramaticni-prizori-odplo-se-je-nebo-voda-zalila-ulice-467639",
-    "image": "https://www.zurnal24.si/media/img/c8/c8/e040450c4d7bced10a87.png",
-    "date": 1793625600000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Wizz Air flight from London in emergency landing after bomb threat",
+    "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4189/live/0af88b20-d6c8-11f1-ac20-7783925c811f.jpg",
+    "date": 1793630138000,
+    "titleSl": "Letalo družbe Wizz Air iz Londona je zasilno pristalo po grožnji z bombo"
+   },
+   {
     "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg",
     "date": 1793628407000,
     "titleSl": "Potapljati ali ne potapljati? Nogometna velika dilema"
-   },
-   {
-    "title": "Nowak family say police failed them multiple times",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg0x7rd402o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa9/live/7159cc80-d60f-11f1-a701-fddedf244c16.png",
-    "date": 1793627680000,
-    "titleSl": "Družina Nowak pravi, da jih je policija večkrat zatajila"
    }
   ],
   "aljazeera": [
@@ -420,8 +420,8 @@
   "bild": [
    {
     "title": "Ex-Fußballer im Steckbrief - Diese Stationen prägten Eike Immels Laufbahn",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/eike-immel-im-steckbrief-der-fall-vom-profi-torwart-zum-buergergeld-678a3b336f10d97bb391c6c6",
-    "image": "https://images.bild.de/678a3b336f10d97bb391c6c6/035ce5db5f3ebb4c37255b448b7e5cc0,9686c5ad?w=1280",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/eike-immel-im-steckbrief-vom-ex-torwart-zur-reality-ikone-678a3b336f10d97bb391c6c6",
+    "image": "https://images.bild.de/678a3b336f10d97bb391c6c6/e772ac2671bba127f6c8276fbd3dc3dd,9686c5ad?w=1280",
     "date": 0,
     "titleSl": "Profil bivšega nogometaša - Te postaje so oblikovale kariero Eikeja Immela"
    },
