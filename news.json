@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T11:56:25.679Z",
+ "generatedAt": "2026-11-02T11:58:26.187Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Po požaru v skladišču našli dve trupli",
+    "link": "https://www.zurnal24.si/svet/po-pozaru-v-skladiscu-nasli-dve-trupli-467628",
+    "image": "https://www.zurnal24.si/media/img/4b/3e/c697a65fd5b3357f5637.jpeg",
+    "date": 1793620440000
+   },
+   {
     "title": "83-letni voznik po nesreči pobegnil, ko so ga ustavili ...",
     "link": "https://www.zurnal24.si/slovenija/crna-kronika/83-letni-voznik-po-nesreci-pobegnil-ko-so-ga-ustavili-467626",
     "image": "https://www.zurnal24.si/media/img/93/39/23d2f9a1dd5f6df0be63.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kosarka/slovenija-v-skripcih-reprezentant-v-krikih-zapustil-igrisce-467616",
     "image": "https://www.zurnal24.si/media/img/eb/ed/97a75f77e0d4aa910728.jpeg",
     "date": 1793616540000
-   },
-   {
-    "title": "Še pred dnevi je praznovala poroko, zdaj je ni več",
-    "link": "https://www.zurnal24.si/sport/se-pred-dnevi-je-praznovala-poroko-zdaj-je-ni-vec-467615",
-    "image": "https://www.zurnal24.si/media/img/d9/a2/ed60127f2fcb1e26f113.jpeg",
-    "date": 1793616180000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0873/live/ecc62190-d6ad-11f1-ac90-f7afd947062e.jpg",
+    "date": 1793620592000,
+    "titleSl": "Zamrzovalniki supermarketov v Belgiji, na Švedskem in v Luksemburgu prizadeti zaradi domnevnega kibernetskega napada"
+   },
+   {
     "title": "Villa drop legal action threat against Carragher",
     "link": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
     "date": 1793618845000,
     "titleSl": "Ryanair pravi, da bo morda zamrznil plače delavcev in podražil letalske vozovnice"
-   },
-   {
-    "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0873/live/ecc62190-d6ad-11f1-ac90-f7afd947062e.jpg",
-    "date": 1793618712000,
-    "titleSl": "Zamrzovalniki supermarketov v Belgiji in na Švedskem so bili prizadeti zaradi domnevnega kibernetskega napada"
    }
   ],
   "aljazeera": [
@@ -331,10 +331,17 @@
   ],
   "guardian": [
    {
+    "title": "Tories accuse Shabana Mahmood of ‘u-turn’ on indefinite leave to remain policy – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/766598dd15fb1923afa8a58c4e17bfbc730c8ab7/637_0_4630_3704/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=3427dffbdf3b506552ff8f43f2912e71",
+    "date": 1793619853000,
+    "titleSl": "Torijci obtožujejo Shabano Mahmood, da je za nedoločen čas pustil ostati v politiki – britanska politika v živo"
+   },
+   {
     "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/f835b03f39010a4f3c8a6df1496ccafd81b8bba8/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=37192724337164fa03253ebff4150776",
-    "date": 1793619543000,
+    "date": 1793619792000,
     "titleSl": "Ukrajina in Rusija pravita, da so kibernetski vdori prizadeli sisteme za nujno opozarjanje pred zračnimi napadi – Evropa v živo"
    },
    {
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/10e78587922558e882e49006d9800c82aca8192d/0_478_3193_2555/master/3193.jpg?width=140&quality=85&auto=format&fit=max&s=8dc9eec6a01f1fd00174268e4a9c8b7b",
     "date": 1793618991000,
     "titleSl": "Steve Ellis, frontman uspešnic Everlasting Love Love Affair, je umrl v starosti 76 let."
-   },
-   {
-    "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-    "image": "https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=140&quality=85&auto=format&fit=max&s=888474f1cb5bef1d3b57d8c8ced4c65f",
-    "date": 1793617956000,
-    "titleSl": "Zamrzovalniki supermarketov po vsej Evropi so bili prizadeti zaradi drugega domnevnega kibernetskega napada"
    }
   ],
   "spiegel": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "„Ich habe mir Sorgen um ihn gemacht“ - TV-Anwalt Ingo Lenßen macht Bruder zum Filmstar",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/tv-anwalt-ingo-lenssen-macht-bruder-zum-filmstar-ich-habe-mir-sorgen-um-ihn-gemacht-6ae747c05e7018b4bea94ce0",
+    "image": "https://images.bild.de/6ae747c05e7018b4bea94ce0/c7964bcdee0908f3c648dc07811fdf24,a41dac2c?w=1280",
+    "date": 0,
+    "titleSl": "\"Skrbelo me je zanj\" - televizijski odvetnik Ingo Lenßen svojega brata naredi za filmsko zvezdo"
+   },
+   {
+    "title": "Polizei macht in Frankfurt ernst - „Wasser marsch!“",
+    "link": "https://www.bild.de/news/polizei-macht-in-frankfurt-ernst-wasser-marsch-6ae628c6aedea8cd9ffbfb9a",
+    "image": "https://images.bild.de/6ae628c6aedea8cd9ffbfb9a/b7afd714c966a388a3d07f91a73345b5,b407bb4?w=1280",
+    "date": 0,
+    "titleSl": "Policija v Frankfurtu postaja resna - \"Voda naprej!\""
+   },
+   {
+    "title": "Olise, Neuer und Urbig dabei? - Drei Bayern-Entscheidungen gefallen",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-olise-neuer-und-urbig-dabei-drei-bayern-entscheidungen-gefallen-6ae846a0aedea8cd9ffc15f1",
+    "image": "https://images.bild.de/6ae846a0aedea8cd9ffc15f1/1c00da7790270cfd48561e6b95af728b,ac055d9f?w=1280",
+    "date": 0,
+    "titleSl": "Olise, Neuer in Urbig tam? - Sprejete so bile tri odločitve Bayerna"
+   },
+   {
     "title": "Skandal in Serbien - Massenschlägerei im Handball",
     "link": "https://www.bild.de/sport/mehr-sport/skandal-im-serbischen-handball-erst-massenschlaegerei-dann-verbruederung-6ae851d0a44ac0400ca56f18",
     "image": "https://images.bild.de/6ae851d0a44ac0400ca56f18/cdde5ba9023380933fbcb78c50c31f27,2137cb0a?w=1280",
@@ -433,32 +454,11 @@
     "titleSl": "Poroka pri Joko Winterscheidt - Kdo bo ukradel šov? Ta sanjski par!"
    },
    {
-    "title": "Olise, Neuer und Urbig dabei? - Drei Bayern-Entscheidungen gefallen",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-olise-neuer-und-urbig-dabei-drei-bayern-entscheidungen-gefallen-6ae846a0aedea8cd9ffc15f1",
-    "image": "https://images.bild.de/6ae846a0aedea8cd9ffc15f1/0ace1cdde8cc2d199f59e86948c72709,1361b40e?w=1280",
-    "date": 0,
-    "titleSl": "Olise, Neuer in Urbig tam? - Sprejete so bile tri odločitve Bayerna"
-   },
-   {
     "title": "Pokal-Duell bei Bayern - Klub-Legende: „Traue Hertha die Pokal-Sensation zu!“",
     "link": "https://www.bild.de/sport/fussball/hertha-bsc-klub-legende-traue-hertha-die-pokal-sensation-zu-6ae86200a68c18ce70cdbc08",
     "image": "https://images.bild.de/6ae86200a68c18ce70cdbc08/03c6509e245146c2f78577a9b4823da0,de13e01e?w=1280",
     "date": 0,
     "titleSl": "Pokalni dvoboj pri Bayernu - legenda kluba: \"Zaupajte Herthi, da bo pokalna senzacija!\""
-   },
-   {
-    "title": "Tor-Premiere gegen HSV - Wird ER jetzt Eintrachts Schlüssel zum Erfolg?",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-wird-onyedika-jetzt-der-schluessel-zum-erfolg-6ae86b7f8cf0ad2f474f5bc4",
-    "image": "https://images.bild.de/6ae86b7f8cf0ad2f474f5bc4/73c739917cfcb08a603f7e0f2e44fc6f,2bc44e7e?w=1280",
-    "date": 0,
-    "titleSl": "Premiera gola proti HSV - bo ON zdaj Eintrachtov ključ do uspeha?"
-   },
-   {
-    "title": "„Ich habe mir Sorgen um ihn gemacht“ - TV-Anwalt Ingo Lenßen macht Bruder zum Filmstar",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/tv-anwalt-ingo-lenssen-macht-bruder-zum-filmstar-ich-habe-mir-sorgen-um-ihn-gemacht-6ae747c05e7018b4bea94ce0",
-    "image": "https://images.bild.de/6ae747c05e7018b4bea94ce0/c7964bcdee0908f3c648dc07811fdf24,a41dac2c?w=1280",
-    "date": 0,
-    "titleSl": "\"Skrbelo me je zanj\" - televizijski odvetnik Ingo Lenßen svojega brata naredi za filmsko zvezdo"
    }
   ],
   "krone": [
@@ -477,11 +477,11 @@
     "titleSl": "“Leaving your body” – zvezda “Fack ju Göhte” Pallaske žaluje za izgubo svojega partnerja"
    },
    {
-    "title": "Arbeiten im Alter - Modell: Wer Ältere aussortiert, soll Strafe zahlen",
+    "title": "Länger im Job bleiben - Modell: Wer Ältere aussortiert, soll Strafe zahlen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1iTTNoQ3pMTUJzT3RqQ3I2Qm44eUN6MktQOXV2ZWZiQWxnNEFTRnh4N2p3N01sUVlfYTZ0S2NwNGtNZw?oc=5",
     "image": "",
     "date": 1793619600000,
-    "titleSl": "Delo v starosti - model: Kdor ločuje starejše, naj plača kazen"
+    "titleSl": "Ostanite dlje v službi - model: Kdor izloča starejše, naj plača kazen"
    },
    {
     "title": "Erneut Rekord geknackt - Ansturm auf Zivildienst setzt sich im Oktober fort",
