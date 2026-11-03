@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T14:06:26.036Z",
+ "generatedAt": "2026-11-03T14:08:24.831Z",
  "sources": {
   "siol": [
    {
@@ -47,6 +47,12 @@
     "date": 1793714414000
    },
    {
+    "title": "Več kot četrtina obrokov ni primerna za vsakodnevno uživanje",
+    "link": "https://www.24ur.com/novice/slovenija/vec-kot-cetrtina-obrokov-ni-primernih-za-vsakodnevno-uzivanje.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/1d7640d9170cb4fc76ee_63673230.jpg?v=38e9&fop=fp:0.47:0.43",
+    "date": 1793713605000
+   },
+   {
     "title": "Šest letal, šest bombnih groženj: pristala v Varšavi, Murcii, Sofiji in Rimu",
     "link": "https://www.24ur.com/novice/tujina/letalo-na-poti-iz-londona-na-poljsko-zasilno-pristalo-zaradi-groznje-z-bombo.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/fbb6c2daec566f6e4baa_63673143.jpg?v=29a6&fop=fp:0.40:0.43",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/vrtovec-projekt-jek-2-zelimo-pripeljati-tako-dalec-da-ga-ne-bo-mogoce-ustaviti.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/8fbe27e768040ef64f0a_63595042.jpg?v=c52d&fop=fp:0.54:0.28",
     "date": 1793708508000
-   },
-   {
-    "title": "Evropa pred zimo z najnižjimi zalogami plina po letu 2013",
-    "link": "https://www.24ur.com/novice/tujina/evropa-pred-zimo-z-najnizjimi-zalogami-plina-po-letu-2013.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2026/b188fa29dccafcbc0339_63668100.jpg?v=d3ab&fop=fp:0.48:0.46",
-    "date": 1793708138000
    }
   ],
   "rtvslo": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Third teen arrested after Halloween party stabbings",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "date": 1793714549000,
+    "titleSl": "Tretja najstnica, aretirana po zabadanju na zabavi za noč čarovnic"
+   },
+   {
     "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
     "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005e/live/4825efe0-d774-11f1-b441-2b33b063138f.png",
     "date": 1793709724000,
     "titleSl": "West Ham pristopi k Parkerju, potem ko odpusti šefa Nuna"
-   },
-   {
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
-    "date": 1793707679000,
-    "titleSl": "Združeno kraljestvo in EU se dogovorita o osnutku dogovora o odpravi birokracije pri brexitu zaradi izvoza hrane"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Trump says that US will stop paying Israel military aid after year-end",
-    "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae9e4f6-1793713398.jpg?resize=1920%2C1440",
-    "date": 1793713325000,
-    "titleSl": "Trump pravi, da bodo ZDA po koncu leta prenehale plačevati vojaško pomoč Izraelu"
-   },
    {
     "title": "Iran commander sets out five conditions for regional security",
     "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae7d89e7739-1793579166.jpg?resize=1920%2C1440",
     "date": 1793711103000,
     "titleSl": "Kako bo guverner Floride Ron DeSantis oblikoval svojo državno vmesno dirko 2026"
+   },
+   {
+    "title": "Cyberattack disrupts supermarkets across Europe",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/cyberattack-disrupts-supermarkets-across-europe?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793709494.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793709501000,
+    "titleSl": "Kibernetski napad moti supermarkete po vsej Evropi"
    }
   ],
   "guardian": [
@@ -584,18 +584,6 @@
   ],
   "elpais": [
    {
-    "title": "Rusia y Ucrania volverán a negociar en Emiratos Árabes, bajo mediación de Estados Unidos",
-    "link": "https://elpais.com/internacional/2026-11-03/rusia-anuncia-que-negociara-con-ucrania-bajo-mediacion-de-estados-unidos-la-proxima-semana-en-abu-dabi.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/D7QVQNKCNJNYRHOMKWWBT5XP3I.jpg?auth=056c891b6bd9741aa9b1f29e43e31091eb42fab0f62875b0af501af2433b0746",
-    "date": 1793714614000
-   },
-   {
-    "title": "El Gobierno aprueba el decreto para la implantación definitiva de la radio digital tras dos décadas de retraso",
-    "link": "https://elpais.com/economia/2026-11-03/el-gobierno-aprueba-el-decreto-para-la-implantacion-definitiva-de-la-radio-digital-tras-dos-decadas-de-retraso.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/62WGR7VSVNEH7B2XL2NHNJTG6U.png?auth=f58ca587afa622128663c141c992f948d08d3d658e063c2d373291e44c4928c0",
-    "date": 1793714324000
-   },
-   {
     "title": "Llarena cierra la instrucción contra Puigdemont, Comín y Puig y envía el caso a la Sala Penal para que aplique la amnistía",
     "link": "https://elpais.com/espana/elecciones-generales/2026-11-03/llarena-cierra-el-sumario-contra-puigdemont-comin-y-puig-y-lo-envia-a-la-sala-penal-para-que-aplique-la-amnistia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/XETWABGCFRGFVPEBOLHKTJ4K6Q.JPG?auth=57bab31c50e8c8e3d675052d17142553a6d6a181ed7a3706432efca417395ea3",
@@ -620,6 +608,19 @@
     "link": "https://elpais.com/espana/2026-11-03/las-ausencias-de-lula-y-sheinbaum-dejan-solo-a-sanchez-frente-a-milei-en-la-cumbre-iberoamericana-de-madrid.html",
     "image": "https://imagenes.elpais.com/resizer/v2/7ZS2VXFDRZFS7EA5HXU7JOOOFM.jpg?auth=281f1803a46698875b87cd200c9c2ff585601788fdf4d4fba7e31a72b903e087",
     "date": 1793713916000
+   },
+   {
+    "title": "El juez pide a la Policía investigar quién es el autor del punzón que marcó las joyas de Zapatero",
+    "link": "https://elpais.com/espana/2026-11-03/el-juez-pide-a-la-policia-investigar-quien-es-el-autor-del-punzon-que-marco-las-joyas-de-zapatero.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/43COPIVHPZCW5LSPINMCX5D2SQ.jpg?auth=d37ac5fa5e9fed8fa596c32f606f41449d5e595b4c4265e81c202dac6b552e88",
+    "date": 1793713546000
+   },
+   {
+    "title": "Sanidad limita a un máximo de 17 horas las guardias de los médicos residentes",
+    "link": "https://elpais.com/sociedad/2026-11-03/sanidad-limita-a-un-maximo-de-17-horas-las-guardias-de-los-medicos-residentes.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VFT7RE7NPJNIVIC4GVT7PUWXQI.jpg?auth=8b182ede87543b85cf2733f7266a1cd92c12b8f0c82e3ab98dc899b47189077e",
+    "date": 1793713317000,
+    "titleSl": "Sanidad limita a un máximo de 17 horas las guardias de los médicos resides"
    }
   ]
  },
