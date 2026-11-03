@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T07:02:25.740Z",
+ "generatedAt": "2026-11-03T07:04:25.966Z",
  "sources": {
   "siol": [
    {
@@ -243,11 +243,25 @@
   ],
   "bbc": [
    {
+    "title": "Apple unsure when more foldable iPhones will be available after selling out",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+    "date": 1793689383000,
+    "titleSl": "Apple ni prepričan, kdaj bo po razprodaji na voljo več zložljivih iPhonov"
+   },
+   {
     "title": "The referee who became a role model after bouncing back from Diaz error",
     "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg",
     "date": 1793688091000,
     "titleSl": "Sodnik, ki je postal vzornik po vrnitvi po napaki Diaz"
+   },
+   {
+    "title": "AI data centres could undermine UK's emissions goals, BBC finds",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d46/live/2f770bd0-d6bd-11f1-aacc-5b5f23abff4b.jpg",
+    "date": 1793687237000,
+    "titleSl": "Podatkovni centri umetne inteligence bi lahko ogrozili cilje Združenega kraljestva glede emisij, ugotavlja BBC"
    },
    {
     "title": "North Korea denies being behind record $6.3bn Binance hack",
@@ -269,20 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6718/live/8b889960-d740-11f1-9ecd-137d429a1395.jpg",
     "date": 1793682911000,
     "titleSl": "Kraljevi nekdanji konj je zmagal na prestižnem Melbournskem pokalu"
-   },
-   {
-    "title": "The Papers: Mahmood's 'Duty of care' or 'climbdown' and 'The new cold war'",
-    "link": "https://www.bbc.co.uk/news/articles/cvrly70kr2dpo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31b/live/a3f9acd0-d715-11f1-93e1-3b657b665bcf.jpg",
-    "date": 1793682872000,
-    "titleSl": "The Papers: Mahmoodova 'Duty of care' ali 'climbdown' in 'The new cold war'"
-   },
-   {
-    "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-    "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97bc/live/a5a46a40-d74f-11f1-93e1-3b657b665bcf.jpg",
-    "date": 1793682043000,
-    "titleSl": "Američani se odpravljajo na volitve, ki bi lahko opredelile Trumpovo zaključno poglavje"
    }
   ],
   "aljazeera": [
@@ -460,6 +460,19 @@
   ],
   "krone": [
    {
+    "title": "Kainbach II – Puch - Ein Brief hat in Graz für Zündstoff gesorgt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQT3BzY2l1X1pJSUNGZVIxWm9RT1FybnJDNG8zTDc5UHBDalFxRFdEd0xfOGNyRXh0SFBMRjBOcG1yZw?oc=5",
+    "image": "",
+    "date": 1793689200000,
+    "titleSl": "Kainbach II – Puch - Ein Kratek klobuk v Gradcu za Zündstoff gesorgt"
+   },
+   {
+    "title": "Wolfgang Mayer - Bald-Landesrat stellte sich Hearing im Landtag",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vZWQ1Wl9Ed0Q0QlVrbFJUZk5kUEh5aERFbGk1MF9nSHM3VmpzM0lMUzB2LW1MTGR4dThVSjVFZXZBZw?oc=5",
+    "image": "",
+    "date": 1793689200000
+   },
+   {
     "title": "Keine Verletzten - Auto ging auf A2 bei Laßnitzhöhe in Flammen auf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nRUZITzdwd1FWOFlJZ1A3Mk05WnVJVjlCYk50N2Q4Mm5kdlFiZW5HZWNBLUFoQXdaTlVJQWlNYUhBUQ?oc=5",
     "image": "",
@@ -483,23 +496,15 @@
     "image": "",
     "date": 1793687718000,
     "titleSl": "1300 ur letenja - kopilot letala smrti je bil star 20 let"
-   },
-   {
-    "title": "Das freie Wort - Bei Integration: Statt Druck Wertschätzung",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jcjVDYS1zSXZnMUhGcmw2QVNYU0ZUM3FYLUp2THROXzhaRWdMdFB5NDcwanNTSWphNUZGU2k5UjIyV1hhd3NfRVoyUEdFSFJ3OWFZNi1LT09Eeko1ZmE4TUMyQlpPMmduM2tJSQ?oc=5",
-    "image": "",
-    "date": 1793687625000,
-    "titleSl": "Das freie Wort - Bei Integracija: Statt Druck Wertschätzung"
-   },
-   {
-    "title": "Namhafte Unterstützer: - Meister Hartberg legt sich mit dem Weltverband an!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CTWNWQkRNeXpMTnZkX1pzOTJHYWQtWjlueDIxTi1hanVhYmN5MUdqMTJFRHZXNGdabUtxa3MwUzRMdw?oc=5",
-    "image": "",
-    "date": 1793687400000,
-    "titleSl": "Znani podporniki: - Mojster Hartberg prevzame svetovno zvezo!"
    }
   ],
   "rainews": [
+   {
+    "title": "Il morbillo torna a fare paura a New York, morto un bambino",
+    "link": "https://www.rainews.it/articoli/2026/11/new-york-bimbo-muore-di-morbillo-non-succedeva-da-piu-di-trentanni-48a290e9-7126-4714-aa70-f6b169dea135.html",
+    "image": "https://www.rainews.it/dl/img/2023/07/17/1689588754959_GettyImages.jpg",
+    "date": 1793688000000
+   },
    {
     "title": "Pescara, riaperte al traffico le strade chiuse per la pioggia",
     "link": "https://www.rainews.it/video/2026/11/maltempo-piogge-allagamenti-pescara-monitoraggio-fiumi-pescara-saline-maltempo-infiltrazioni-acqua-atrio-stazione-centrale-pescara-manutenzione-tombini-pescara--b9650702-d632-448e-b1b4-a4d04695534d.html",
@@ -534,13 +539,6 @@
     "image": "https://www.rainews.it/dl/img/2026/10/16/1792122746934_sempio_poggi.jpg",
     "date": 1793684100000,
     "titleSl": "Primer Garlasco, v dnevnikih, zaseženih pri Andrei Sempiu, omemba Ferrija, starejšega moškega, ki je umrl"
-   },
-   {
-    "title": "Federica Brignone dice addio all&#x27;Arma dei Carabinieri",
-    "link": "https://www.rainews.it/video/2026/11/federica-brignone-si-congeda-dallarma-dei-carabinieri-cb0a05df-8f91-4d47-b685-d4acfb9f7958.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/03/1793683892863_videoframe.png",
-    "date": 1793683800000,
-    "titleSl": "Federica Brignone dice addio all 'Arma dei Carabinieri"
    }
   ],
   "lemonde": [
@@ -557,6 +555,13 @@
     "image": "https://img.lemde.fr/2026/10/22/501/0/4000/2000/644/322/60/0/ab6548d_upload-1-h0uzavzko3ak-raf-ukr-industrie-020.JPG",
     "date": 1793682011000,
     "titleSl": "En Ukraine, l'industrie sidérurgique menacée d' effondrement : « A l'heure actuelle, aucune production d' acier n'est assurée dans le pays »"
+   },
+   {
+    "title": "Assurance-vie : les bonus des fonds en euros, des taux alléchants en trompe-l’œil",
+    "link": "https://www.lemonde.fr/argent/article/2026/11/03/assurance-vie-les-bonus-des-fonds-en-euros-des-taux-allechants-en-trompe-l-il_6805533_1657007.html",
+    "image": "https://img.lemde.fr/2023/04/17/471/0/3000/1500/644/322/60/0/d334d5e_1681719510917-rtyguio.jpg",
+    "date": 1793682008000,
+    "titleSl": "Assurance-vie : les bonus des fonds en euros, des taux alléchants en trompe-l'œil"
    },
    {
     "title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
@@ -578,13 +583,6 @@
     "image": "https://img.lemde.fr/2026/11/02/642/0/7704/3852/644/322/60/0/66da241_ftp-1-wdm6e2ebdgpi-afp-d66r2dz.jpg",
     "date": 1793678408000,
     "titleSl": "Au premier jour du procès de « la petite inconnue de l 'A10 » : « Monsieur, vous m' entendez ? » « Madame, vous êtes là ? »"
-   },
-   {
-    "title": "Les séries de la semaine : « Black Doves », « The Gilded Age », « Singapura » et « ONG »",
-    "link": "https://www.lemonde.fr/series/article/2026/11/03/les-series-de-la-semaine-black-doves-the-gilded-age-singapura-et-ong_6805453_5439376.html",
-    "image": "https://img.lemde.fr/2026/11/02/92/0/1112/556/644/322/60/0/98efa37_upload-1-jgbo6bzfcbth-a6d1b3d-629555341-thegilded01w0184146-003.jpg",
-    "date": 1793676608000,
-    "titleSl": "Serije tedna: “Črni golobi”, “Pozlačena doba”, “Singapura” in “ONG”"
    }
   ],
   "elpais": [
