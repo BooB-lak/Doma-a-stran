@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T10:06:25.668Z",
+ "generatedAt": "2026-11-03T10:08:26.605Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "Five Things I’m Watching for in Tuesday’s Midterms",
+    "link": "https://www.nytimes.com/2026/11/03/opinion/midterms-democrats-republicans-senate.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/opinion/03soltisanderson-image/03soltisanderson-image-mediumSquareAt3X.jpg",
+    "date": 1793700205000,
+    "titleSl": "Pet stvari, na katere pazim v torek na izpitih"
+   },
+   {
+    "title": "Ken Burns: Why I’m Optimistic About the Midterms",
+    "link": "https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03burns-mkht/03burns-mkht-mediumSquareAt3X.jpg",
+    "date": 1793700196000,
+    "titleSl": "Ken Burns: Zakaj sem optimističen glede vmesnih volitev"
+   },
+   {
     "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
     "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-saudi-aramco-gjzm/03biz-saudi-aramco-gjzm-mediumSquareAt3X.jpg",
@@ -213,13 +227,6 @@
     "titleSl": "Jimmy Kimmel se posmehuje predsednikovemu \"Pettysburškemu nagovoru\""
    },
    {
-    "title": "Latin America’s Swing to the Right Was Never About Trump",
-    "link": "https://www.nytimes.com/2026/11/03/opinion/lula-brazil-latin-america-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03shifter-btck/03shifter-btck-mediumSquareAt3X-v2.jpg",
-    "date": 1793685607000,
-    "titleSl": "Latinskoameriški zasuk v desno ni bil nikoli o Trumpu"
-   },
-   {
     "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
     "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
     "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/01xp-iran-01-mcgh-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
     "date": 1793678284000,
     "titleSl": "Otrok umre zaradi ošpic v prvem smrtnem primeru v državi New York po 30 letih"
-   },
-   {
-    "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
-    "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/dc-justice-promo-hfbt/dc-justice-promo-hfbt-mediumSquareAt3X.jpg",
-    "date": 1793677003000,
-    "titleSl": "Pred vmesnimi izpiti se pravosodno ministrstvo močno otepa dediščina leta 2020."
    }
   ],
   "bbc": [
@@ -463,6 +463,12 @@
   ],
   "krone": [
    {
+    "title": "Große Zukunftshoffnung - Ronaldo-Sohn (16) darf sich über Premiere freuen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5DbmNpVTRQQU9TNjlhSklXcmV5cGJQMHVtVDVFSlRLZ3ZSVjR5VWFkdDRuNWF5RTdDZUE0MUROVnUyUQ?oc=5",
+    "image": "",
+    "date": 1793700180000
+   },
+   {
     "title": "„Krone“-Kommentar - Austro-Kanzler reist nach Peking",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xMkNKUXZiaElzeHJlOG9XVktJQ2ZzZTJ3LW13RDZWNEFmOUQxOVN3TUQ5eE9ic1hIak9Ib3RVT3I1dw?oc=5",
     "image": "",
@@ -470,38 +476,32 @@
     "titleSl": "„Krone“-Komentar - Austro-Kanzler reist nach Peking"
    },
    {
+    "title": "Benya-Preis erhalten - Firma baut mit Ausbildung auf die Jugend",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15MFNaYy1FQjFyOWlpaXRXNzR3NXo0Y1NVQmwyaHg2V1ZTS2wxV0l0WWU2M3JyeGI2RFlHVUpvc1ozdw?oc=5",
+    "image": "",
+    "date": 1793700000000,
+    "titleSl": "Prejeta nagrada Benya – podjetje z usposabljanjem gradi na mladih"
+   },
+   {
+    "title": "Mehr Lebensfreude - Party, Pointen und Professoren gegen Herbst-Blues",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GR2ZNZFk3bGRRVU1Yc09nMVp5LW10QmNnRGdEOURlenJUTjBGYTBjd0xZcmNZTmhnV2NqWW05YXJTdw?oc=5",
+    "image": "",
+    "date": 1793700000000,
+    "titleSl": "Več veselja do življenja - zabava, udarci in profesorji proti jesenskemu bluesu"
+   },
+   {
+    "title": "Coole Saison - Zams investiert 300.000 € in winterfesten Eisplatz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oc0lldkVQWHlSM3BSN2RTSTlqNG1wcGZ4RE8ydG1yR196Z0Z3UGlMdWtFUlNIN083MW1VSk80ZDhMdw?oc=5",
+    "image": "",
+    "date": 1793700000000,
+    "titleSl": "Kul sezona – Zams vloži 300.000 € v drsališče, ki je odporno na zimo"
+   },
+   {
     "title": "Vernissage - Slowenien und Wien jenseits der Klischees",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rdWluTEZGUllXYlVkdWdwRGVkTjZrRU5YeW5LZ01zNkJuRy1QTFZvOXlVbk5Ld250b3ExRnN5T0pUZw?oc=5",
     "image": "",
-    "date": 1793700000000
-   },
-   {
-    "title": "Ursache geklärt - Brand in Keller: Kinder warfen Feuerwerk in Keller",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yM1F5clVwYmV0MkVQOHpSTnlfWjdFZ0JaZHA3akFxUS13UmVrU1BRQW5ERlR6b2hocGhjNndVNmpxdw?oc=5",
-    "image": "",
-    "date": 1793699880000,
-    "titleSl": "Ursache geklärt - Znamka v Kellerju: Kinder warfen Feuerwerk v Kellerju"
-   },
-   {
-    "title": "Kommt „Spar-Start“? - Marterbauers Mannschaft: Für wen es jetzt eng wird",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40a2FzdUtLZ3E3SE9xemxYbjVEdkNseDdJMGZoOUUtaFhtalMyaE5ZeFE2aVNMQXlmZVA0RUZZd1U5dw?oc=5",
-    "image": "",
-    "date": 1793699729000,
-    "titleSl": "Prihaja “Spar-Start”? - Marterbauerjeva ekipa: Komu je zdaj tesno"
-   },
-   {
-    "title": "Aufstieg in Gefahr - Englischer Traditionsklub wirft den Trainer raus",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53WWU4VDIyVWxjbkt0cnc4TWlqRG1XNF9UdDFVWVNfQllEcHJER1NnVVZ6a2RTQzI2Z0FXUzBwSE43UQ?oc=5",
-    "image": "",
-    "date": 1793699640000,
-    "titleSl": "Napredovanje v nevarnosti - tradicionalni angleški klub vrže trenerja"
-   },
-   {
-    "title": "Identität unbekannt - Rätsel um Mann ohne Erinnerung am Airport Neapel",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10cmxKaVlxc1RqdUJjeHdYUkY3QWJkaUpjNTBwTkYzc2E0Tk1SRzRBZUhXYjk5a1I0di13WlFLaHFiUQ?oc=5",
-    "image": "",
-    "date": 1793698380000,
-    "titleSl": "Identität unbekannt - Rätsel um Mann ohne Erinnerung am Letališče Neapel"
+    "date": 1793700000000,
+    "titleSl": "Vernissage - Slovenija in Dunaj onkraj klišejev"
    }
   ],
   "rainews": [
@@ -594,6 +594,13 @@
   ],
   "elpais": [
    {
+    "title": "Apple TV prepara una serie documental sobre Justin Timberlake que ahondará en la polémica por el pezón de Janet Jackson",
+    "link": "https://elpais.com/television/2026-11-03/apple-tv-prepara-una-serie-documental-sobre-justin-timberlake-que-ahondara-en-la-polemica-por-el-pezon-de-janet-jackson.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/YUR2VJWLZ5KHVF6AGP3XZ43VUA.jpg?auth=7d20aab66a3a4766543f3d53912d8446f4bf2b1084f4ad5f819c91b910fbd7a9",
+    "date": 1793700164000,
+    "titleSl": "Apple TV pripravlja dokumentarno serijo o Justinu Timberlaku, ki se bo poglobila v polemiko o bradavici Janet Jackson"
+   },
+   {
     "title": "Foro World in Progress 2026 de Barcelona, en directo | Calviño: “El multilateralismo está vivo y funciona”",
     "link": "https://elpais.com/internacional/2026-11-03/foro-world-in-progress-de-barcelona-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/PP37YTZKXBEK5LETONOD3BSVE4.jpg?auth=18711306327a9a035068ede748d2ec5f4f3e19e8cb4922b39890b63d1a7f259a",
@@ -627,13 +634,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261103/1233093_094402_video_1800.mp4",
     "date": 1793698181000,
     "titleSl": "Feijóo poziva sindikate, naj prekličejo splošno stavko zaradi tragedije v Urdi: \"69 smrti pozneje je resna napaka\""
-   },
-   {
-    "title": "Amancio Ortega, Sandra Ortega y Juan Roig lideran la lista Forbes de las mayores fortunas de España",
-    "link": "https://cincodias.elpais.com/fortunas/2026-11-03/amancio-ortega-sandra-ortega-y-juan-roig-lideran-la-lista-forbes-de-las-mayores-fortunas-de-espana.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/CD46LTYAKRC6DKI7VVLLCBHW5Y.jpg?auth=f62e7ead4c05b7d1a7d3ef67f31b5093ed06893262f9ad096b911ec42ff986a7",
-    "date": 1793696632000,
-    "titleSl": "Amancio Ortega, Sandra Ortega in Juan Roig vodijo na Forbesovem seznamu največjih bogacev v Španiji"
    }
   ]
  },
