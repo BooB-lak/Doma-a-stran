@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T11:20:41.281Z",
+ "generatedAt": "2026-11-03T11:22:28.819Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Zaradi groženj z bombo na varšavskih letališčih pristali dve letali",
     "link": "https://www.24ur.com/novice/tujina/letalo-na-poti-iz-londona-na-poljsko-zasilno-pristalo-zaradi-groznje-z-bombo.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/fbb6c2daec566f6e4baa_63673143.jpg?v=29a6&fop=fp:0.40:0.43",
-    "date": 1793704640000
+    "date": 1793704924000
    },
    {
     "title": "Anja Gašperju: Lahko narediva kompromis in imava tri otroke",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Po težki poškodbi slovo še ene smučarske zvezdnice",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/po-tezki-poskodbi-slovo-se-ene-smucarske-zvezdnice-467688",
+    "image": "https://www.zurnal24.si/media/img/f9/e1/a121510aa841a3754b0b.jpeg",
+    "date": 1793704860000
+   },
+   {
     "title": "Dončić želel še več vprašanj, nato po prvem vstal in odšel",
     "link": "https://www.zurnal24.si/sport/kosarka/doncic-zelel-se-vec-vprasanj-nato-po-prvem-vstal-in-odsel-467685",
     "image": "https://www.zurnal24.si/media/img/7c/1f/e7984e5e061bbdc80689.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/nogomet/zgodilo-se-je-najhujse-soigralec-slovenca-preminil-dan-po-trku-467676",
     "image": "https://www.zurnal24.si/media/img/01/ff/d003bd4f8e39e9e80e01.jpeg",
     "date": 1793697960000
-   },
-   {
-    "title": "Liga NBA spet okradla Dončića, navijači besnijo: \"To je kriminal!\"",
-    "link": "https://www.zurnal24.si/sport/kosarka/liga-nba-spet-okradla-doncica-navijaci-besnijo-to-je-kriminal-467674",
-    "image": "https://www.zurnal24.si/media/img/d8/ca/7dc543582f23cd22614f.jpeg",
-    "date": 1793697180000
    }
   ],
   "reuters": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Alaska Senate candidates trade accusations ahead of election",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793703661.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793703687000,
-    "titleSl": "Kandidati za senat Aljaske pred volitvami izmenjujejo obtožbe"
-   },
-   {
-    "title": "Who decides the US midterms?",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/3/who-decides-the-us-midterms?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/BTN_Thumbnail_Landscape_V07-1793703331.png?resize=1920%2C1008&quality=80",
-    "date": 1793703369000,
-    "titleSl": "Kdo odloča o izpitih v ZDA?"
-   },
-   {
     "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
     "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6ae99970da-1793694064.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793701225.jpg?resize=1920%2C1080&quality=80",
     "date": 1793701254000,
     "titleSl": "Kandidati za senat v Iowi podajajo končne pritožbe za vmesne volitve"
+   },
+   {
+    "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+    "link": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae9a305-1793696517.jpg?resize=1920%2C1440",
+    "date": 1793701098000,
+    "titleSl": "Najmanj 73 ranjenih, ko je Rusija bombardirala ukrajinsko bolnišnico in elektrarne"
+   },
+   {
+    "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
+    "link": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2023/03/2022-02-18T163131Z_302401676_RC2EMS9P4PEH_RTRMADP_3_LEBANON-CRISIS-ELECTRICITY.jpg?resize=1920%2C1440",
+    "date": 1793701047000,
+    "titleSl": "Libanon zmanjšuje moč javnim organom, saj se elektroenergetska kriza poglablja"
    }
   ],
   "guardian": [
@@ -458,17 +458,17 @@
   ],
   "krone": [
    {
-    "title": "Kampf um den Senat - Diese sieben Bundesstaaten entscheiden die US-Wahl",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VMXhhM1ZXcm1lazA1dTlrT1hCbGxvSmdJbU5HR3dmS0xSMHExcVJ1Y2QtOHJHYzV1clRoWWpqLV8xdw?oc=5",
-    "image": "",
-    "date": 1793704620000
-   },
-   {
     "title": "„Der Zoo hat zu“ - Kebekus‘ Erziehung „basiert auf Lügen, Drohen“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LU1dxTTgzbUE5N0oyTmJqQk5RazFlNkFPcWxUTGNMUXlFMlhkUHBiRXdHeldyVjdFTWt0LXdnQVlEdw?oc=5",
     "image": "",
     "date": 1793704620000,
     "titleSl": "„Der Zoo hat zu“ - Kebekus ‘Erziehung „basiert auf Lügen, Drohen“"
+   },
+   {
+    "title": "Kampf um den Senat - Diese sieben Bundesstaaten entscheiden die US-Wahl",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VMXhhM1ZXcm1lazA1dTlrT1hCbGxvSmdJbU5HR3dmS0xSMHExcVJ1Y2QtOHJHYzV1clRoWWpqLV8xdw?oc=5",
+    "image": "",
+    "date": 1793704620000
    },
    {
     "title": "MediaMarkt und Saturn - EU gibt grünes Licht für chinesische Übernahme",
@@ -583,11 +583,30 @@
   ],
   "elpais": [
    {
-    "title": "Foro World in Progress 2026 de Barcelona, en directo | Shlomo Ben-Ami: “En Israel hace falta un líder visionario que tenga la brutalidad necesaria para tomar decisiones y resistir la presión”",
+    "title": "Foro World in Progress 2026 de Barcelona, en directo | Shlomo Ben-Ami: “En Israel hace falta un líder visionario que tenga la brutalidad necesaria para tomar decisiones”",
     "link": "https://elpais.com/internacional/2026-11-03/foro-world-in-progress-de-barcelona-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/WDYDWX3OBNCU7JEI6SKA3LRHJ4.jpg?auth=9a38bd314c3c3c39fb83962d192f9e1d7f20a9f5ce21ac2eefac467720b2d089",
-    "date": 1793704362000,
-    "titleSl": "Foro World in Progress 2026 de Barcelona, en directo | Shlomo Ben-Ami: \"En Israel hace falta un líder visionario que tenga la brutalidad necesaria para tomar decisiones y resistir la presión\""
+    "date": 1793704728000,
+    "titleSl": "Foro World in Progress 2026 de Barcelona, en directo | Shlomo Ben-Ami: \"En Israel hace falta un líder visionario que tenga la brutalidad necesaria para tomar decisiones\""
+   },
+   {
+    "title": "Un jurado condena por homicidio imprudente y no por asesinato machista al hombre que mató a su mujer en Mazarrón",
+    "link": "https://elpais.com/sociedad/2026-11-03/un-jurado-condena-por-homicidio-imprudente-y-no-por-asesinato-machista-al-hombre-que-mato-a-su-mujer-en-mazarron.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/KT3WNB7GZNCSRISYOPKOPNL5RM.jpg?auth=2fb31e8b3b6ae6fe2d0bb7b6a1b3f640cfcabccd1ccc86bf388dd1507f5fb376",
+    "date": 1793704333000
+   },
+   {
+    "title": "Txus di Fellatio acusa de traición a dos miembros del grupo, no los echa, pero advierte: “Fuera de Mägo de Oz hace mucho frío”",
+    "link": "https://elpais.com/cultura/2026-11-03/txus-di-fellatio-acusa-de-traicion-a-dos-miembros-del-grupo-no-los-echa-pero-advierte-fuera-de-mago-de-oz-hace-mucho-frio.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/AXB5YXNWARA2DGIWLJGXMT7LYA.jpg?auth=2bca95ad13a4805bd4300dfe3ade2fc93320c9a47725b8fd7e4556702b38f9da",
+    "date": 1793704273000,
+    "titleSl": "Txus di Fellatio acusa de traición a dos miembros del grupo, no los echa, pero advierte: ‚ Fuera de Mägo de Oz hace mucho frío '"
+   },
+   {
+    "title": "La Guardia Civil interviene más de una tonelada de cocaína en un pesquero de Santa Pola",
+    "link": "https://elpais.com/espana/comunidad-valenciana/2026-11-03/la-guardia-civil-interviene-mas-de-una-tonelada-de-cocaina-en-un-pesquero-de-santa-pola.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/HQEJMK6S65G3DJFQXQQLAYEHQ4.jpg?auth=2ca70b65b88ac88227e7a3d5abe6d33b87c844ceb48ac4ae4ff9bf767eb2b5cd",
+    "date": 1793704022000
    },
    {
     "title": "El truco para encontrar la casa caliente al volver del trabajo: el radiador de Cecotec con wifi que activas desde el móvil",
@@ -602,26 +621,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/P4BOPW4EPJGLBNK5F423JXATOQ.jpg?auth=aa6ed09866063fb9de5de5cf6708c821c0562cba4cc34e77272f52d3210a2f72",
     "date": 1793702740000,
     "titleSl": "Prehranjevanje v šoli ne le nahrani, ampak tudi izboljša učni uspeh"
-   },
-   {
-    "title": "Paris Jackson se cansa de esperar: la hija del rey del pop reclama 600 millones de dólares del patrimonio de su padre para ella y sus hermanos",
-    "link": "https://elpais.com/gente/2026-11-03/paris-jackson-se-cansa-de-esperar-la-hija-del-rey-del-pop-reclama-600-millones-de-dolares-del-patrimonio-de-su-padre-para-ella-y-sus-hermanos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/YSBSP6TIG5HT5M4BSLU463PS3Y.jpg?auth=eef299136e18834a333813ac139e9e0a7667b13bf73d0e948f9e387b81352d03",
-    "date": 1793702331000,
-    "titleSl": "Paris Jackson se je naveličala čakati: hči kralja popa zahteva 600 milijonov dolarjev od očetovega premoženja zase in za njene brate in sestre"
-   },
-   {
-    "title": "Jesús de Miguel, el fanático del Real Madrid que decidió quedarse en Tenerife",
-    "link": "https://elpais.com/deportes/futbol/2026-11-03/jesus-de-miguel-el-fanatico-del-real-madrid-que-decidio-quedarse-en-tenerife.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/HKUCF5UH4ZHVZEEOOTUH7GQ6A4.jpg?auth=c4fd3ddea76445f2eed880079f8221dfe18abe2df0d551107f6ae3097e809834",
-    "date": 1793702088000
-   },
-   {
-    "title": "Jon Rahm confirma su salida de LIV y pide volver al PGA Tour",
-    "link": "https://elpais.com/deportes/2026-11-03/jon-rahm-confirma-su-salida-de-liv-y-pide-volver-al-pga-tour.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/UIGA7Q3MCBIADIA6GXY6JCQ46I.jpg?auth=2df3b89f1cea805ed76aab2dc8d4ac1e75b15e69273d92c38653f9fb49ba31d8",
-    "date": 1793701619000,
-    "titleSl": "Jon Rahm confirmma su salida de LIV y pide volver al PGA Tour"
    }
   ]
  },
