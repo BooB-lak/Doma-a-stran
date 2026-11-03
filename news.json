@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T07:48:24.769Z",
+ "generatedAt": "2026-11-03T07:50:39.395Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Tako je bila videti Natalija Verboten preden je postala vroča Natalija Nationale",
+    "link": "https://www.zurnal24.si/magazin/vip/tako-je-bila-videti-natalija-verboten-preden-je-postala-vroca-natalija-nationale-467664",
+    "image": "https://www.zurnal24.si/media/img/f0/f6/8e3d3e0ce0a3ec531f5a.jpeg",
+    "date": 1793692080000
+   },
+   {
     "title": "Na mestu je umrl: 37-letnik je nalgal hlodovino na tovornjak, sledilo je ...",
     "link": "https://www.zurnal24.si/slovenija/37-letnik-umrl-med-nalaganjem-hlodovine-na-tovornjak-467661",
     "image": "https://www.zurnal24.si/media/img/bd/7d/cfae15d2a72063179652.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/intervjuji/kranjska-gora-je-bogata-obcina-zakaj-mladi-odhajajo-467599",
     "image": "https://www.zurnal24.si/media/img/ab/02/2edab7995f83bb4dd1a6.jpeg",
     "date": 1793686320000
-   },
-   {
-    "title": "Nemčija: Temu protestniku se smeji ves svet",
-    "link": "https://www.zurnal24.si/magazin/bizarno/nemcija-temu-protestniku-se-smeji-ves-svet-467623",
-    "image": "https://www.zurnal24.si/media/img/db/96/d5e551d36ae319d7aa6e.png",
-    "date": 1793686260000
    }
   ],
   "reuters": [
@@ -243,11 +243,18 @@
   ],
   "bbc": [
    {
-    "title": "What is the zeptoverse?",
+    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg",
+    "date": 1793692214000,
+    "titleSl": "Od skuterjev do šampona – ljudje, ki rešujejo na stotine pred potapljanjem v smetišnici"
+   },
+   {
+    "title": "Watch: What is the zeptoverse?",
     "link": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2988/live/542a8cb0-d756-11f1-b441-2b33b063138f.jpg",
     "date": 1793691221000,
-    "titleSl": "Kaj je zeptoverse?"
+    "titleSl": "Oglejte si: Kaj je zeptoverse?"
    },
    {
     "title": "Emery looks to show Villa can compete with elite",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg",
     "date": 1793688091000,
     "titleSl": "Sodnik, ki je postal vzornik po vrnitvi po napaki Diaz"
-   },
-   {
-    "title": "James Blunt on Traitors: I tried - and failed - to get banished",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg7l8p0ezgo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a2/live/18cc4100-d70a-11f1-81b9-c76bd127a61a.png",
-    "date": 1793687605000,
-    "titleSl": "James Blunt o izdajalcih: Poskušal sem - in mi ni uspelo - biti izgnan"
    }
   ],
   "aljazeera": [
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Saudi-Arabien: Asien-Cup nach Huthi-Angriffen verschoben",
+    "link": "https://www.spiegel.de/sport/fussball/saudi-arabien-asien-cup-nach-huthi-angriffen-verschoben-a-3e76d891-8f63-4c5d-aa37-7841df8320df#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/4bc675ea-562c-46e3-b946-4e330d09d45c_w520_r2.08_fpx43.32_fpy44.96.jpg",
+    "date": 1793691660000,
+    "titleSl": "Savdska Arabija: Azijski pokal preložen po napadih Hutijev"
+   },
+   {
     "title": "Schaeffler baut Tausende Stellen ab und schließt vier deutsche Werke",
     "link": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/b4066ce3-537b-4f3c-aa61-0980bac5e21c_w520_r2.08_fpx50.67_fpy50.jpg",
@@ -408,29 +415,29 @@
     "image": "https://cdn.prod.www.spiegel.de/images/57e87acb-02c9-47f8-9134-df2d4647f59d_w520_r2.08_fpx41_fpy48.jpg",
     "date": 1793686620000,
     "titleSl": "Španec: Was das Zugunglück in Toledo mit Stuttgart 21 verbindet"
-   },
-   {
-    "title": "Ukraine: 26 Tote bei russischen Angriffen auf Schulgebäude nahe Saporischschja",
-    "link": "https://www.spiegel.de/ausland/ukraine-26-tote-bei-russischen-angriffen-auf-schulgebaeude-nahe-saporischschja-a-da431ff0-9641-46e1-af7b-ac3264faf56f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/67bd760a-8291-45a5-8bcd-e83a80290ea7_w520_r2.08_fpx65.31_fpy54.93.jpg",
-    "date": 1793683200000,
-    "titleSl": "Ukrajina: 26 Tote bei russischen Angriffen auf Schulgebäude nahe Saporischschja"
    }
   ],
   "bild": [
-   {
-    "title": "Für drinnen und draußen - Die besten Herbstaktivitäten für Kinder",
-    "link": "https://www.bild.de/leben-wissen/lifestyle/herbstaktivitaeten-fuer-kinder-ideen-fuer-drinnen-und-draussen-6509581ef5ad427e93e33c17",
-    "image": "https://images.bild.de/6509581ef5ad427e93e33c17/59a4e59a796bee93a9267fe88bd9b9e2,dd4059b3?w=1280",
-    "date": 0,
-    "titleSl": "Za notri in zunaj - Najboljše jesenske aktivnosti za otroke"
-   },
    {
     "title": "„Zustand hat sich verschlechtert“ - Zweitliga-Stürmer erleidet Herzstillstand",
     "link": "https://www.bild.de/sport/fussball/horror-crash-in-spanien-zweitliga-stuermer-erleidet-herzstillstand-6ae9152b0e29c4a23c567255",
     "image": "https://images.bild.de/6ae9152b0e29c4a23c567255/b6407f2fee4a3731c6af2acd900744ce,9034579e?w=1280",
     "date": 0,
     "titleSl": "\"Stanje se je poslabšalo\" - Napadalec druge lige utrpi srčni zastoj"
+   },
+   {
+    "title": "Schwerer Unfall auf der A30 - Autofahrer kracht am Stauende in Lkw",
+    "link": "https://www.bild.de/news/a30-bei-rheine-autofahrer-kracht-in-lkw-schwer-verletzt-6ae983a8c017c95ef8c831ed",
+    "image": "https://images.bild.de/6ae983a8c017c95ef8c831ed/3dc045dfc14f0a64c674d9a2b0ab2db0,d64b939d?w=1280",
+    "date": 0,
+    "titleSl": "Huda nesreča na A30 - voznik trči v tovornjak na koncu zastoja"
+   },
+   {
+    "title": "Für drinnen und draußen - Die besten Herbstaktivitäten für Kinder",
+    "link": "https://www.bild.de/leben-wissen/lifestyle/herbstaktivitaeten-fuer-kinder-ideen-fuer-drinnen-und-draussen-6509581ef5ad427e93e33c17",
+    "image": "https://images.bild.de/6509581ef5ad427e93e33c17/59a4e59a796bee93a9267fe88bd9b9e2,dd4059b3?w=1280",
+    "date": 0,
+    "titleSl": "Za notri in zunaj - Najboljše jesenske aktivnosti za otroke"
    },
    {
     "title": "Schließt vier Standorte in Deutschland - Autozulieferer Schaeffler streicht 3460 Stellen",
@@ -452,16 +459,16 @@
     "image": "https://images.bild.de/6ae854425e7018b4bea95832/943e83c94abf656e95d87224a314255a,f7a5d419?w=1280",
     "date": 0,
     "titleSl": "Kaj si misli bodoči dedek Thorsten - Nico Legat bo očka!"
-   },
-   {
-    "title": "Lieben sie den Formel-1-Weltmeister bald mehr als Schumi? - Antonelli-Wahnsinn in Italien",
-    "link": "https://www.bild.de/sport/mehr-sport/formel-1-wahnsinn-um-kimi-antonelli-in-italien-neuer-weltmeister-bald-groesser-als-schumacher-6ae97a0c0e29c4a23c56748a",
-    "image": "https://images.bild.de/6ae97a0c0e29c4a23c56748a/edd52affece10420af197264f397fc82,7b0320f9?w=1280",
-    "date": 0,
-    "titleSl": "Lieben sie den Formel-1-Weltmeister bald mehr als Schumi? - Antonelli-Wahnsinn v Italiji"
    }
   ],
   "krone": [
+   {
+    "title": "Eilantrag abgewiesen - Gericht stoppt letztes Trump-Manöver vor Midterms",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0MUFRUFdtOEJTM3lXNnFVU19WX1hVekRNOFV3MFoyaWZoMTZPemhnaFZvUzdtR0VwemF4Ty04c3p0dw?oc=5",
+    "image": "",
+    "date": 1793692020000,
+    "titleSl": "Nujna vloga zavrnjena – sodišče ustavi zadnji Trumpov manever pred vmesnimi izpiti"
+   },
    {
     "title": "Ohne Pöltl - Toronto siegt nach Comeback im Schlussviertel",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uRk13clZMNjBRNTVLUnZ0SjNwRHE4THJRQ1RBU3dqeldONmw4bVhMWElrazRiZ0JYSzBEYUFmY0ZFdw?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1793690640000,
     "titleSl": "Rumeno-rdeči nogometni pogovor - Peter Schöttel ekskluzivno govori o izstopu iz ÖFB"
-   },
-   {
-    "title": "„Chef im Ring“ - Warum Becker nicht Zverevs Trainer sein möchte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPSHozYlZtZ3NzMWh1d044UmVjOVJpNzJwUjhXOUdTVW05UThfZUsxQ2hqanpMS3ItNGpGR0Nidjh4dw?oc=5",
-    "image": "",
-    "date": 1793690580000,
-    "titleSl": "\"Šef v ringu\" - Zakaj Becker noče biti Zverevov trener"
    }
   ],
   "rainews": [
@@ -572,6 +572,13 @@
     "titleSl": "Assurance-vie : les bonus des fonds en euros, des taux alléchants en trompe-l'œil"
    },
    {
+    "title": "« La grande erreur d’Emmanuel Macron a été de ne pas avoir structuré une nouvelle force politique, comme si lui seul était capable de faire »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/03/la-grande-erreur-d-emmanuel-macron-a-ete-de-ne-pas-avoir-structure-une-nouvelle-force-politique-comme-si-lui-seul-etait-capable-de-faire_6805529_3232.html",
+    "image": "https://img.lemde.fr/2026/11/03/368/0/5869/2934/644/322/60/0/67fe7d1_upload-1-du8jkadpssxt-000-d4fn4qn.jpg",
+    "date": 1793680203000,
+    "titleSl": "\"Velika napaka Emmanuela Macrona je bila, da ni strukturiral nove politične sile, kot da bi bil tega sposoben narediti samo on\""
+   },
+   {
     "title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
     "link": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html",
     "image": "https://img.lemde.fr/2026/10/21/84/0/5159/2579/644/322/60/0/d0a67d3_upload-1-hsgp0wjbnmyf-cbi1348021.JPG",
@@ -584,13 +591,6 @@
     "image": "https://img.lemde.fr/2026/10/30/299/0/3072/1536/644/322/60/0/36c021f_upload-1-vqjtrh1euolh-media-appel-mid-therm.png",
     "date": 1793678408000,
     "titleSl": "Comment la popularité de Donald Trump s'est érodée en deux ans"
-   },
-   {
-    "title": "Au premier jour du procès de « la petite inconnue de l’A10 » : « Vous m’entendez, monsieur ? », « Vous êtes là, madame ? »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/03/au-premier-jour-du-proces-de-la-petite-inconnue-de-l-a10-monsieur-vous-m-entendez-madame-vous-etes-la_6805486_3224.html",
-    "image": "https://img.lemde.fr/2026/11/02/642/0/7704/3852/644/322/60/0/66da241_ftp-1-wdm6e2ebdgpi-afp-d66r2dz.jpg",
-    "date": 1793678408000,
-    "titleSl": "Au premier jour du procès de « la petite inconnue de l 'A10 » : « Vous m' entendez, monsieur ? », « Vous êtes là, madame ? «"
    }
   ],
   "elpais": [
@@ -598,7 +598,7 @@
     "title": "Estados Unidos ataca la isla iraní de Qeshm en la víspera de sus elecciones de medio mandato",
     "link": "https://elpais.com/internacional/2026-11-03/estados-unidos-la-isla-irani-de-qeshm-en-la-vispera-de-sus-elecciones-de-medio-mandato.html",
     "image": "https://imagenes.elpais.com/resizer/v2/3WOY5Y5IX5OOFIUPQ4HINAP6BI.jpg?auth=6e489d7baea6b878e0843c7b2dd99331f59a48aa9681b3be5cf91b172fae3251",
-    "date": 1793691301000,
+    "date": 1793691909000,
     "titleSl": "ZDA napadejo iranski otok Qeshm na predvečer svojih vmesnih volitev"
    },
    {
