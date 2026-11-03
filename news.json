@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T06:00:59.034Z",
+ "generatedAt": "2026-11-03T06:02:23.622Z",
  "sources": {
   "siol": [
    {
@@ -418,6 +418,12 @@
   ],
   "bild": [
    {
+    "title": "Mail von Martenstein - Lieber Verteidigungsminister Boris Pistorius!",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-lieber-verteidigungsminister-boris-pistorius-6ae8afdb5debd57cb7abfecf",
+    "image": "https://images.bild.de/6ae8afdb5debd57cb7abfecf/b7e0e98404e35dc70d75825c85c498ee,2a3e981?w=1280",
+    "date": 0
+   },
+   {
     "title": "Horror-Crash in Spanien - Zweitliga-Stürmer erleidet Herzstillstand",
     "link": "https://www.bild.de/sport/fussball/horror-crash-in-spanien-zweitliga-stuermer-erleidet-herzstillstand-6ae9152b0e29c4a23c567255",
     "image": "https://images.bild.de/6ae9152b0e29c4a23c567255/b6407f2fee4a3731c6af2acd900744ce,9034579e?w=1280",
@@ -449,13 +455,6 @@
     "image": "https://images.bild.de/6ae0b0dbdcd605c8d4cea8b6/e1b126cf232208eda85412171a063a13,f0955c74?w=1280",
     "date": 0,
     "titleSl": "Sredozemske zimske čarovnije - S temi nasveti rožmarin preživi zimo"
-   },
-   {
-    "title": "Diesmal gar nicht peinlich … - Gladbach schnappt sich Bundesliga-Rekord!",
-    "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-gladbach-schnappt-sich-naechsten-rekord-6ae8b490b3f0fa60211d67e4",
-    "image": "https://images.bild.de/6ae8b490b3f0fa60211d67e4/db04ea49579dac67eb541f18e6709d2a,da0cdecd?w=1280",
-    "date": 0,
-    "titleSl": "Tokrat sploh ni sramotno ... - Gladbach dosegel rekord Bundeslige!"
    }
   ],
   "krone": [
@@ -494,7 +493,8 @@
     "title": "Bewohner legte Feuer - Im Brandhaus kehrt langsam wieder Ruhe ein",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MbTVDREVJNkZEUjdRLXRlcDJacHFkbUdzXzlGazhtRzV4aGkxenhSMVFuRF9FX1pQYjVmTXZWdXlBZw?oc=5",
     "image": "",
-    "date": 1793683800000
+    "date": 1793683800000,
+    "titleSl": "Stanovalec zažgal - v gasilski dom se počasi vrača mir"
    }
   ],
   "rainews": [
@@ -509,13 +509,15 @@
     "title": "Violati sigilli della casa in cui è stata uccisa Pamela Genini. Madre: \"Chi è entrato aveva chiavi\"",
     "link": "https://www.rainews.it/articoli/2026/11/violati-i-sigilli-della-casa-in-cui-e-stata-uccisa-pamela-genini-1ca015fc-54d1-40b4-8763-0922a1782557.html",
     "image": "https://www.rainews.it/dl/img/2026/11/03/1793684870166_Cattura.PNG",
-    "date": 1793684400000
+    "date": 1793684400000,
+    "titleSl": "Pečati hiše, kjer je bila ubita Pamela Genini, so bili polomljeni. Mati: \"Kdor je vstopil, je imel ključe\""
    },
    {
     "title": "Caso Garlasco, nei diari sequestrati ad Andrea Sempio, un riferimento a Ferri, anziano morto",
     "link": "https://www.rainews.it/articoli/2026/11/caso-garlasco-nei-diari-sequestrati-ad-andrea-sempio-un-riferimento-a-ferri-anziano-morto-omicidio-di-chiara-poggi-4a1fdfd1-1fee-4ba8-8049-8f85f88fee74.html",
     "image": "https://www.rainews.it/dl/img/2026/10/16/1792122746934_sempio_poggi.jpg",
-    "date": 1793684100000
+    "date": 1793684100000,
+    "titleSl": "Primer Garlasco, v dnevnikih, zaseženih pri Andrei Sempiu, omemba Ferrija, starejšega moškega, ki je umrl"
    },
    {
     "title": "Federica Brignone dice addio all&#x27;Arma dei Carabinieri",
@@ -528,7 +530,8 @@
     "title": "La muraglia di fuoco della raffineria di Jaroslavl colpita dai droni",
     "link": "https://www.rainews.it/video/2026/11/la-muraglia-di-fuoco-della-raffineria-di-jaroslavl-colpita-dai-droni-lattacco-di-kiev-in-russia-92780888-a567-4881-90f1-641984e21f14.html",
     "image": "https://www.rainews.it/dl/img/2026/11/03/1793683677995_WhatsApp_Image__at_...jpeg",
-    "date": 1793683440000
+    "date": 1793683440000,
+    "titleSl": "Požarni zid rafinerije v Jaroslavlju so zadeli droni"
    },
    {
     "title": "Un aereo da turismo precipita in Messico: i rottami in fiamme",
@@ -587,19 +590,22 @@
     "title": "El ‘shaker’ eléctrico que prepara batidos sin grumos en apenas 15 segundos",
     "link": "https://elpais.com/escaparate/estilo-de-vida/shaker-electrico-batidos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/5FNCCVCNAZBWFKPSFLD6SH5U7Q.png?auth=778578812463cc407040dc84b93409c801d865e5e7fcd18a3007ddeac713b2c1",
-    "date": 1793684700000
+    "date": 1793684700000,
+    "titleSl": "Električni stresalnik, ki pripravi smutije brez grudic v samo 15 sekundah"
    },
    {
     "title": "Las plantillas extrafinas que usan los profesionales de la nieve para no pasar frío en los pies",
     "link": "https://elpais.com/escaparate/estilo-de-vida/plantillas-calentadoras.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EQGWOLWNLJH6PBZP46XQ6BJOJQ.png?auth=1df7968da3f7c7ae49a1e6041758a15add8722c35e31834a218bc6a64ffa6733",
-    "date": 1793683800000
+    "date": 1793683800000,
+    "titleSl": "Izjemno tanki vložki, ki jih profesionalci na snegu uporabljajo, da jim noge ne zebe"
    },
    {
     "title": "El pasamontañas térmico antiviento que usan motoristas y ciclistas cuando llega el frío",
     "link": "https://elpais.com/escaparate/estilo-de-vida/pasamontanas-termico-para-moto-y-bici.html",
     "image": "https://imagenes.elpais.com/resizer/v2/P4UDCNWQOVC2BNJJFM24BQAFKA.png?auth=b330b05ed12c53f541eba189b068bfca8434d250ab5fdb4a9e91d27a07072bdc",
-    "date": 1793682900000
+    "date": 1793682900000,
+    "titleSl": "Termo odporna na veter balaclava, ki jo uporabljajo motoristi in kolesarji, ko pride mraz"
    },
    {
     "title": "La policía desaloja la acampada de Sol sin disturbios después de que las comisiones organizadoras anunciaran su retirada",
@@ -612,7 +618,8 @@
     "title": "Estados Unidos vota en unas ‘midterms’ decisivas para el poder de Trump: siete claves de las elecciones",
     "link": "https://elpais.com/us/2026-11-03/estados-unidos-vota-en-unas-midterms-decisivas-para-el-poder-de-trump-siete-claves-de-las-elecciones.html",
     "image": "https://imagenes.elpais.com/resizer/v2/5BO65QIPMNK27PZRF6VXOA5LRU.jpg?auth=1b7a58465fe9cf26c115564e5fac04e58079b0ddc3b05ac55924e9db59f2b382",
-    "date": 1793682000000
+    "date": 1793682000000,
+    "titleSl": "Združene države volijo v odločilnih vmesnih volitvah za Trumpovo moč: sedem ključev do volitev"
    },
    {
     "title": "Videoanálisis | “Los hispanos elegibles para votar pueden determinar la dirección del país o si habrá una ‘ola azul”",
