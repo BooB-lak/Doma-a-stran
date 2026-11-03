@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-03T06:48:24.080Z",
+ "generatedAt": "2026-11-03T06:50:40.475Z",
  "sources": {
   "siol": [
+   {
+    "title": "Oranžno opozorilo še velja, primorska avtocesta ostaja zaprta",
+    "link": "https://siol.net/novice/slovenija/oranzno-opozorilo-se-velja-primorska-avtocesta-ostaja-zaprta-705386",
+    "image": "https://siol.net/media/img/1c/6e/527f237b4c9a4de8c0ab.jpeg",
+    "date": 1793688600000
+   },
    {
     "title": "Med nakladanjem hlodovine 37-letnika stresla elektrika, umrl je na kraju",
     "link": "https://siol.net/novice/crna-kronika/med-nakladanjem-hlodovine-37-letnika-stresla-elektrika-umrl-je-na-kraju-705385",
@@ -31,15 +37,15 @@
     "link": "https://siol.net/novice/svet/americani-danes-na-kongresne-volitve-sredi-predsedniskega-mandata-705381",
     "image": "https://siol.net/media/img/08/1a/614d38f870c4fd558f3b.jpeg",
     "date": 1793684220000
-   },
-   {
-    "title": "Dončić kljub negodovanju navijačev ostal brez priznanja, nato pa odgovoril na najboljši način",
-    "link": "https://siol.net/sportal/kosarka/liga-nba-2-november-1-2-705357",
-    "image": "https://siol.net/media/img/cf/83/d6aec9424550b32289be.jpeg",
-    "date": 1793683920000
    }
   ],
   "24ur": [
+   {
+    "title": "Nesreča pri nakladanju hlodovine: 37-letnik umrl zaradi električnega udara",
+    "link": "https://www.24ur.com/novice/crna-kronika/nesreca-pri-nakladanju-hlodovine-37-letnik-umrl-zaradi-elektricnega-udara.html",
+    "image": "https://images.24ur.com/media/images/213xX/Dec2025/3b055d18f1bb7eb67e25_63510219.jpg?v=4138&fop=fp:0.48:0.40",
+    "date": 1793688284000
+   },
    {
     "title": "Diddy bo na prostosti mesec dni prej, kot je bilo določeno",
     "link": "https://www.24ur.com/popin/tuja-scena/diddy-bo-na-prostosti-mesec-dni-prej-kot-je-bilo-doloceno.html",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/kratke-noge-dolgo-telo-in-velik-znacaj-osvojili-umetnike-dobili-razstavo.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/e2168f55183f585a957a_63672829.jpg?v=14c2&fop=fp:0.60:0.30",
     "date": 1793682259000
-   },
-   {
-    "title": "Kdo bo zmagovalec Otoka ljubezni Adria? Odločitev je v vaših rokah!",
-    "link": "https://www.24ur.com/tv-oddaje/otok-ljubezni-adria/kdo-bo-zmagovalec-otoka-ljubezni-adria-odlocitev-je-v-vasih-rokah.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/6f78ecf03ed93d07535d_63646164.jpg?v=cdc4&fop=fp:0.48:0.50",
-    "date": 1793682011000
    }
   ],
   "rtvslo": [
@@ -331,18 +331,18 @@
   ],
   "guardian": [
    {
+    "title": "RBA interest rates live updates: Reserve Bank of Australia announces cash rate hike to 4.85% after meeting today – latest news",
+    "link": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+    "image": "https://i.guim.co.uk/img/media/44e689b97ec54dbe56c68e3e73ad7833d781badf/338_0_3420_2736/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=d357951c51b00a471fc97952206b3d4d",
+    "date": 1793687631000,
+    "titleSl": "Obrestne mere RBA v živo: Rezervna banka Avstralije po današnjem sestanku napoveduje dvig gotovinskih obrestnih mer na 4,85% – najnovejše novice"
+   },
+   {
     "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
     "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
     "image": "https://i.guim.co.uk/img/media/a507f65a0fdc95194e0fcde19ff9269175f70390/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a6b3474d5c77f470e55369507906489",
     "date": 1793687359000,
     "titleSl": "ZDA naj bi napadle iranski otok Qeshm, medtem ko Vance izraža optimizem glede dogovora"
-   },
-   {
-    "title": "RBA interest rates live updates: Reserve Bank of Australia announces cash rate hike to 4.85% after meeting today – latest news",
-    "link": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
-    "image": "https://i.guim.co.uk/img/media/44e689b97ec54dbe56c68e3e73ad7833d781badf/338_0_3420_2736/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=d357951c51b00a471fc97952206b3d4d",
-    "date": 1793686867000,
-    "titleSl": "Obrestne mere RBA v živo: Rezervna banka Avstralije po današnjem sestanku napoveduje dvig gotovinskih obrestnih mer na 4,85% – najnovejše novice"
    },
    {
     "title": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
@@ -419,6 +419,12 @@
   ],
   "bild": [
    {
+    "title": "Kaum ein Kunde weiß das - Park-Falle beim Einkaufen",
+    "link": "https://www.bild.de/news/edeka-parkplatz-kundin-zahlt-30-euro-strafe-fuer-zweimal-parken-6ae89a321d5fd399fd461705",
+    "image": "https://images.bild.de/6ae89a321d5fd399fd461705/f553d69d508daf60691bfc372475c75e,db4d1074?w=1280",
+    "date": 0
+   },
+   {
     "title": "Schwede in Neapel gestrandet - Gedächtnis verloren? Mann (25) lebt am Airport",
     "link": "https://www.bild.de/news/ausland/ohne-erinnerung-daniel-25-lebt-und-schlaeft-am-flughafen-neapel-6ae8a2fd8cf0ad2f474f6163",
     "image": "https://images.bild.de/6ae8a2fd8cf0ad2f474f6163/70409a25c6f94ec22741b07e8b3b5686,728acc58?w=1280",
@@ -452,13 +458,6 @@
     "image": "https://images.bild.de/65915db7136f1033ebf1ee6e/9aaacf3b34dede4d0d4db9e111b1b641,80dd90e4?w=1280",
     "date": 0,
     "titleSl": "WWE-Comeback von John Cena - Hier die neue Folge \"RAW\" aus New York schauen"
-   },
-   {
-    "title": "Interessante Andeutung - Fortuna hat das Toreschießen verlernt!",
-    "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-schleusener-und-co-haben-das-toreschiessen-verlernt-6ae89dabfa18ad14b908ef48",
-    "image": "https://images.bild.de/6ae89dabfa18ad14b908ef48/7596deb9838df3fa7e9952953b44675e,465935e6?w=1280",
-    "date": 0,
-    "titleSl": "Zanimiv namig - Fortuna je pozabila zabijati gole!"
    }
   ],
   "krone": [
@@ -491,18 +490,18 @@
     "titleSl": "Gradiščanska als Vorbild - Auer (SPÖ) fordert kostenlose Nachhilfe"
    },
    {
+    "title": "Stromnetz im Visier - Selenskyj: Kreml plant Großangriff während US-Wahl",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkRmdPb1dqZEMxRG9YWG5zWlhrUVZVQmNwOC1VM2dlZGltZW5jZ1BiaVBJelBnZHFzbnVPSTdxMzFjQQ?oc=5",
+    "image": "",
+    "date": 1793686260000,
+    "titleSl": "Stromnetz im Visier - Selenskyj: Kremeljska tovarna Großangriff während US-Wahl"
+   },
+   {
     "title": "Nach Karriereende - Lara Gut-Behrami: „Ohne Rennen ist alles schöner“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TLUI1TFRFRmFOWW9jLV9DdXhMTDYzaDd4bF8zb3JQdnUxNHNGYW5JTmZZV3ZCTEs4b1J1RUxMSnoydw?oc=5",
     "image": "",
     "date": 1793686200000,
     "titleSl": "Po koncu kariere - Lara Gut-Behrami: \"Brez dirkanja je vse lepše\""
-   },
-   {
-    "title": "Nach Ermittlungen - Millionengrab – ÖVP will Neustart für Grazer Messe",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DTl9UUTlGVnhhQ2NHcjFjcFgycEFybVZ0bjBDQThpbF9KckYwVHlVbVRsekltMHYyUl9YdEd6UUhsUQ?oc=5",
-    "image": "",
-    "date": 1793685600000,
-    "titleSl": "Nach Ermittlungen - Millionengrab – ÖVP bo Neustart für Grazer Messe"
    }
   ],
   "rainews": [
@@ -572,18 +571,18 @@
     "titleSl": "Proračun 2027 : l'Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent"
    },
    {
-    "title": "Au premier jour du procès de « la petite inconnue de l’A10 » : « Monsieur, vous m’entendez ? » « Madame, vous êtes là ? »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/03/au-premier-jour-du-proces-de-la-petite-inconnue-de-l-a10-monsieur-vous-m-entendez-madame-vous-etes-la_6805486_3224.html",
-    "image": "https://img.lemde.fr/2026/11/02/642/0/7704/3852/644/322/60/0/66da241_ftp-1-wdm6e2ebdgpi-afp-d66r2dz.jpg",
-    "date": 1793678412000,
-    "titleSl": "Au premier jour du procès de « la petite inconnue de l 'A10 » : « Monsieur, vous m' entendez ? » « Madame, vous êtes là ? »"
-   },
-   {
     "title": "Comment la popularité de Donald Trump s’est érodée en deux ans",
     "link": "https://www.lemonde.fr/international/visuel/2026/11/03/comment-la-popularite-de-donald-trump-s-est-erodee-en-deux-ans_6805520_3210.html",
     "image": "https://img.lemde.fr/2026/10/30/299/0/3072/1536/644/322/60/0/36c021f_upload-1-vqjtrh1euolh-media-appel-mid-therm.png",
     "date": 1793678408000,
     "titleSl": "Comment la popularité de Donald Trump s'est érodée en deux ans"
+   },
+   {
+    "title": "Au premier jour du procès de « la petite inconnue de l’A10 » : « Monsieur, vous m’entendez ? » « Madame, vous êtes là ? »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/03/au-premier-jour-du-proces-de-la-petite-inconnue-de-l-a10-monsieur-vous-m-entendez-madame-vous-etes-la_6805486_3224.html",
+    "image": "https://img.lemde.fr/2026/11/02/642/0/7704/3852/644/322/60/0/66da241_ftp-1-wdm6e2ebdgpi-afp-d66r2dz.jpg",
+    "date": 1793678408000,
+    "titleSl": "Au premier jour du procès de « la petite inconnue de l 'A10 » : « Monsieur, vous m' entendez ? » « Madame, vous êtes là ? »"
    },
    {
     "title": "Les séries de la semaine : « Black Doves », « The Gilded Age », « Singapura » et « ONG »",
@@ -632,7 +631,7 @@
    {
     "title": "La policía desaloja la acampada de Sol sin disturbios después de que varias comisiones organizadoras anunciaran su retirada",
     "link": "https://elpais.com/espana/madrid/2026-11-03/la-policia-desaloja-la-acampada-de-sol-sin-disturbios-despues-de-que-las-comisiones-organizadoras-anunciaran-su-retirada.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/PASTJXCUA5FGNJ2YC75R6NI5C4.jpeg?auth=c0ebd62cf1cdedb94f8b524afadb21977248608306ee135486b18184aab0b8e0",
+    "image": "https://imagenes.elpais.com/resizer/v2/4KU7TEBM2NHD3LLLUMXJBJ723A.jpg?auth=05b9445a4e5c5f27d0df24153f1e6c62204f5e0055ccd53554d6440b1f1489a5",
     "date": 1793682017000,
     "titleSl": "Policija je brez pretresov izselila kamp Sol, potem ko je več organizacijskih odborov napovedalo umik"
    }
