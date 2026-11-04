@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T12:24:24.811Z",
+ "generatedAt": "2026-11-04T12:26:25.767Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/digisvet/kri-sprozila-alarm-v-franciji-705504",
     "image": "https://siol.net/media/img/ca/8d/b2a2ee15f00dfba4e3bf.jpeg",
     "date": 1793794860000
+   },
+   {
+    "title": "Po napovedanih bojkotih so se oglasili pri IIHF",
+    "link": "https://siol.net/sportal/hokej/iihf-bojkot-sp-rusija-hokej-705503",
+    "image": "https://siol.net/media/img/36/e5/33b83299d12205b457f7.jpeg",
+    "date": 1793794680000
    },
    {
     "title": "Zelenski odlikoval Melanio Trump",
@@ -25,12 +31,6 @@
     "link": "https://siol.net/novice/slovenija/vlada-danes-na-regijskem-delovnem-obisku-v-jugovzhodni-sloveniji-705471",
     "image": "https://siol.net/media/img/f6/7b/79d3c524d2acf9a5567c.jpeg",
     "date": 1793793900000
-   },
-   {
-    "title": "Veliki pokrovitelj hokejskega SP bi se v primeru vrnitve Rusov lahko umaknil",
-    "link": "https://siol.net/sportal/hokej/veliki-pokrovitelj-hokejskega-sp-bi-se-v-primeru-vrnitve-rusov-lahko-umaknil-705503",
-    "image": "https://siol.net/media/img/14/5d/69fc87290baaaf210cd5.jpeg",
-    "date": 1793793360000
    },
    {
     "title": "Pustolovec Simon Reeve je razkril, katere nesreče med potovanji so bile zanj skoraj usodne",
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
+    "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+    "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+    "image": "https://i.guim.co.uk/img/media/288a15e92c7bafcb3600eb1b2d8e20cc71573794/291_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=ea9e9485765618f79b2b7718417f1089",
+    "date": 1793794758000,
+    "titleSl": "Izraelska volilna komisija zavrača Netanjahujeve trditve o volilni goljufiji"
+   },
+   {
+    "title": "First secretary of state Louise Haigh faces deputy Conservative leader Alex Burghart – PMQs live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/e668013d41e01452c19380ab3a95a1004a6377b4/0_0_1667_1333/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=c2b27bcf79a7267bb3f4e4e6afeb23f3",
+    "date": 1793794582000,
+    "titleSl": "Prva državna sekretarka Louise Haigh se sooča z namestnikom vodje konservativcev Alexom Burghartom - PMQ v živo"
+   },
+   {
+    "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+    "link": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
+    "image": "https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=140&quality=85&auto=format&fit=max&s=02a871bd76b3863b7ce46866ab81cc4d",
+    "date": 1793794531000,
+    "titleSl": "Združeno kraljestvo bo uvedlo prepoznavanje obraza v največjem zatiranju priseljevanja doslej"
+   },
+   {
     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
     "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed",
     "date": 1793793824000,
     "titleSl": "Vmesne volitve v ZDA leta 2026: rezultati v živo iz tekem za senat, predstavniški dom in guvernerje v vseh 50 zveznih državah"
-   },
-   {
-    "title": "First secretary of state Louise Haigh faces deputy Conservative leader Alex Burghart – PMQs live",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/a1bf138c8ae6b295d96342f82285c68ae2507ae9/357_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9a9952205950b45c6650bbf663ba0a25",
-    "date": 1793793813000,
-    "titleSl": "Prva državna sekretarka Louise Haigh se sooča z namestnikom vodje konservativcev Alexom Burghartom - PMQ v živo"
    },
    {
     "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/00aa8230ea7928211f7c36c1f95619ad93686d48/862_635_3653_2925/master/3653.jpg?width=140&quality=85&auto=format&fit=max&s=0c95b9c34758c9feaa4c21c5d4bfa2ac",
     "date": 1793793499000,
     "titleSl": "BMW opozarja na dobiček, saj šteje stroške načrta za 8.000 zmanjšanj delovnih mest"
-   },
-   {
-    "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-    "image": "https://i.guim.co.uk/img/media/ddc1feea6c5943f75451f0066d0041f953d7daa2/456_0_6633_5307/master/6633.jpg?width=140&quality=85&auto=format&fit=max&s=5a477195f447335424abcc345f83867b",
-    "date": 1793793477000,
-    "titleSl": "EU bo vodila pogovore o podpori Ukrajini z ZDA, Natom, partnerji – Evropa v živo"
-   },
-   {
-    "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-    "image": "https://i.guim.co.uk/img/media/4ab69f763ed7999e4c40c3864e1f7c775b107016/799_0_7922_6336/master/7922.jpg?width=140&quality=85&auto=format&fit=max&s=147a0407a089310d71fd0baf88695134",
-    "date": 1793792876000,
-    "titleSl": "Vmesne volitve v ZDA leta 2026 v živo: demokrati osvojijo nadzor nad kongresom, volivci pa kaznujejo Trumpa"
    }
   ],
   "spiegel": [
@@ -416,6 +416,32 @@
   ],
   "bild": [
    {
+    "title": "Pünktlich zum neuen Kinofilm - Godzilla bricht Lego-Rekord",
+    "link": "https://www.bild.de/leben-wissen/digital/lego-godzilla-bricht-rekord-5363-teile-und-70-zentimeter-gross-6aeb00e91a1d431301d466c4",
+    "image": "https://images.bild.de/6aeb00e91a1d431301d466c4/a947f7cb6eca935061c38b8f724c57f1,d179ae2a?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Neue Kontingente - Bahn-Flex-Ticket fast für lau – so geht's Schritt für Schritt",
+    "link": "https://www.bild.de/leben-wissen/sparfochs/neue-sparfochs-strategie-bahn-flex-ticket-fast-fuer-lau-so-gehts-schritt-fuer-schritt-6a71c045cc46967c04cae667",
+    "image": "https://images.bild.de/6a71c045cc46967c04cae667/8f495d5db50569257cac22f7766e6929,bd7b4faf?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Motivations-Guru spurlos verschwunden - Tschakka, dann war er weg!",
+    "link": "https://www.bild.de/news/inland/motivations-guru-spurlos-verschwunden-tschakka-dann-war-er-weg-6aeb1b731a1d431301d46a64",
+    "image": "https://images.bild.de/6aeb1b731a1d431301d46a64/b79da22205e31dc0e379cdf6abe432d7,5b208dd0?w=1280",
+    "date": 0,
+    "titleSl": "Motivacije-Guru spurlos verschwunden - Tschakka, dann war er weg!"
+   },
+   {
+    "title": "Neue KI-Funktion - Spotify will für Remix-Funktion viel Geld",
+    "link": "https://www.bild.de/leben-wissen/digital/spotify-ki-remixe-koennten-bis-zu-fuenf-euro-monatlich-extra-kosten-6ae9d05dac7c361a5891c2a3",
+    "image": "https://images.bild.de/6ae9d05dac7c361a5891c2a3/71db6ad3dd04cba5aceba9ff22f8e378,bd324b6a?w=1280",
+    "date": 0,
+    "titleSl": "Neue KI-Funktion - Spotify bo für Remix-Funktion viel Geld"
+   },
+   {
     "title": "Traum wird wahr - Zweitliga-Profi fürs Nationalteam nominiert",
     "link": "https://www.bild.de/sport/fussball/fcm-profi-hyrylaeinen-traeumt-von-nationalteam-und-bundesliga-6ae9e12d36ba9db5f4e974ff",
     "image": "https://images.bild.de/6ae9e12d36ba9db5f4e974ff/d078d9b576bccca85a19348b90e0aebd,990b0dc8?w=1280",
@@ -427,33 +453,15 @@
     "image": "https://images.bild.de/6ae9be76b29cb2129b795062/1c369103f988ba3fbef8a334788c2b2a,9590fd8c?w=1280",
     "date": 0,
     "titleSl": "Millionen Versicherte zaroka - Wer die Corona-Impfung jetzt selbst zahlen muss"
-   },
-   {
-    "title": "Millionärs-Familie abgestürzt - Privatjet-Pilot steuerte in gefährlichen Sturm",
-    "link": "https://www.bild.de/news/ausland/flugzeug-absturz-in-florida-experte-vermutet-sturm-als-ursache-6aead6cc955da465e2264e24",
-    "image": "https://images.bild.de/6aead6cc955da465e2264e24/16ffce8888bd37a8e09ecad843e77287,3658bd6b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Spannender Vorgang in Nürnberg - „Chatzi“ soll früher nach Frankfurt kommen!",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-kommt-joti-chatzialexiou-doch-schneller-6aeb1460dbf7fd911f5d1aa5",
-    "image": "https://images.bild.de/6aeb1460dbf7fd911f5d1aa5/bde7a8678870f3ab87c5b063efc99588,eee45bc8?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Verlobung im Fürstenhaus Schaumburg-Lippe - KI-Königin heiratet deutschen Erbprinzen",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/donatus-zu-schaumburg-lippe-verlobt-mit-ki-unternehmerin-emily-liu-6aeafb1c748580e4813c37dd",
-    "image": "https://images.bild.de/6aeafb1c748580e4813c37dd/a6088a03c93ea7625b967d6ec8f15b74,dc6f0149?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Sommer, Sonne, Vanessa! - Mai-Urlaub im November",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sommer-sonne-vanessa-mai-traumurlaub-im-november-6aeb0774b1907deb6c941631",
-    "image": "https://images.bild.de/6aeb0774b1907deb6c941631/724bc5d4abcb75fe12fdfb94c0ffd4d7,162ff130?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Auf S4 - Pkw brannte nach Crash mit Bus komplett aus",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4M2Y4a0luN2U1N1d1bE1fTWpwUmVHR2tIQkhDTG8tNzJGZVdqNEVuZDg2dlZZWmVhRkFSbVoyRmM4Zw?oc=5",
+    "image": "",
+    "date": 1793794920000
+   },
    {
     "title": "„Meine Kids haben keinen Appetit mehr auf Snacks“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wOVhfZmM4NXdzWDdnU3duNUlRZ2M3b1F5a0l4Z1ZZWFU3SEU4NXFoODNSLXA5TVFwSUszbG1iUEZYdw?oc=5",
@@ -484,12 +492,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3YXdNNXFGSjA2bllZV1dOeVRpNkdjbzdnMlJtVlhYck82WFluNEMyZ0I1al9jZUZ0VnBPVHlYd0Mwdw?oc=5",
     "image": "",
     "date": 1793793300000
-   },
-   {
-    "title": "Streit eskaliert - Paar legt sich vor Polizeistation mit Beamten an",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9wSG5rNXJfem9lbzZnUHB6bUZ5TEduejJGQzN6bFBIRFlUVTBTTkJMUHktbUY4c3JSZTNfcjJCbVpxQQ?oc=5",
-    "image": "",
-    "date": 1793793180000
    }
   ],
   "rainews": [
