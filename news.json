@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T04:52:23.882Z",
+ "generatedAt": "2026-11-04T04:54:24.316Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Vsak tretji je poročal o trpinčenju na delovnem mestu",
+    "link": "https://www.zurnal24.si/moj-sanjski-siht/vsak-tretji-je-porocal-o-trpincenju-na-delovnem-mestu-467113",
+    "image": "https://www.zurnal24.si/media/img/be/dc/3258b54db977590de031.jpeg",
+    "date": 1793768040000
+   },
+   {
     "title": "Nori prizori! Tako je reagiral nasprotni trener, ko so ga vprašali o Luki",
     "link": "https://www.zurnal24.si/sport/kosarka/nori-prizori-tako-je-reagiral-nasprotni-trener-ko-so-ga-vprasali-o-luki-467719",
     "image": "https://www.zurnal24.si/media/img/45/fa/a0db033d4114d4420df9.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/roman-abramovic-z-19-let-mlajso-prvic-v-javnosti-467693",
     "image": "https://www.zurnal24.si/media/img/c7/a2/37f353de5eeecb24ec2b.jpeg",
     "date": 1793767440000
-   },
-   {
-    "title": "Ta znana Slovenka je v letu in pol dvakrat rodila",
-    "link": "https://www.zurnal24.si/magazin/film-glasba-tv/ta-znana-slovenka-je-v-letu-in-pol-dvakrat-rodila-467680",
-    "image": "https://www.zurnal24.si/media/img/9c/f3/521dfd1bdd1dff491607.jpeg",
-    "date": 1793767380000
    }
   ],
   "reuters": [
@@ -199,11 +199,11 @@
   ],
   "nyt": [
    {
-    "title": "It Only Took Four Months to Destroy Lindsey Graham’s Legacy",
-    "link": "https://www.nytimes.com/2026/11/03/opinion/annie-andrews-south-carolina-senate.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hennigan-darline-graham-bw-tight-gqvf/03hennigan-darline-graham-bw-tight-gqvf-mediumSquareAt3X.jpg",
-    "date": 1793767736000,
-    "titleSl": "Potrebovali so le štiri mesece, da so uničili zapuščino Lindsey Graham"
+    "title": "The American People Have Repudiated Trump",
+    "link": "https://www.nytimes.com/2026/11/03/opinion/democracy-midterms-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04editorial-voting-pclz/04editorial-voting-pclz-mediumSquareAt3X.jpg",
+    "date": 1793767595000,
+    "titleSl": "Ameriško ljudstvo je zavrnilo Trumpa"
    },
    {
     "title": "Trump Says in Interview That He Will Accept Election Results",
@@ -243,6 +243,20 @@
   ],
   "bbc": [
    {
+    "title": "How America voted in maps and charts",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png",
+    "date": 1793767628000,
+    "titleSl": "Kako je Amerika glasovala na zemljevidih in lestvicah"
+   },
+   {
+    "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42cd/live/3c7a3d80-d80b-11f1-915d-779ac405bbbc.jpg",
+    "date": 1793767272000,
+    "titleSl": "Ekstatični prizori in zgodovinski trenutki: Kaj se je do zdaj zgodilo v vmesnih terminih"
+   },
+   {
     "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
     "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb44/live/543807b0-d7fa-11f1-a701-fddedf244c16.jpg",
@@ -257,13 +271,6 @@
     "titleSl": "Južna Karolina prvič po skoraj treh desetletjih izvolila demokratskega senatorja"
    },
    {
-    "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-    "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dde/live/6d838380-d7f9-11f1-afc1-71ff3c391379.jpg",
-    "date": 1793759887000,
-    "titleSl": "Demokratska vzhajajoča zvezda Ossoff bo predvidoma zasedla sedež v Gruziji"
-   },
-   {
     "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
     "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775f/live/b94b9cb0-d7ec-11f1-93e1-3b657b665bcf.jpg",
@@ -276,30 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c5/live/aa0e52d0-d7f9-11f1-afc1-71ff3c391379.jpg",
     "date": 1793758300000,
     "titleSl": "Morilec, ki je pobegnil iz zapora v Tennesseeju, ujet po enotedenskem lovu"
-   },
-   {
-    "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
-    "date": 1793756166000,
-    "titleSl": "Nič več riževih zrn v Kelloggovih riževih krispijih zaradi spreminjajočega se vremena"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeab2fd-1793766141.jpg?resize=1920%2C1389",
-    "date": 1793766354000,
-    "titleSl": "Demokratka Amy Acton je premagala republikanca Viveka Ramaswamyja v tekmi za guvernerja Ohia"
-   },
-   {
-    "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
-    "link": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aea8f64574b-1793757028.jpg?resize=1920%2C1440",
-    "date": 1793765954000,
-    "titleSl": "Sherrod Brown, demokrat iz Ohia, se je vrnil v ameriški senat"
-   },
    {
     "title": "Talarico wins Texas Senate race, ending decades of Republican dominance",
     "link": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793762710.jpg?resize=1920%2C1080&quality=80",
     "date": 1793762717000,
     "titleSl": "Ossoff zmagal na ponovnih volitvah v Gruziji in zasedel mesto v senatu za demokrate"
+   },
+   {
+    "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793762456.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793762465000,
+    "titleSl": "Demokrat Roy Cooper praznuje obrnjeni sedež v senatu Severne Karoline"
+   },
+   {
+    "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+    "link": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aea5a2991d5-1793743401.jpg?resize=1920%2C1440",
+    "date": 1793762197000,
+    "titleSl": "EU poziva k ukrepanju, medtem ko Nemčija, Romunija in Združeno kraljestvo poročajo o kibernetskih napadih v supermarketih"
    }
   ],
   "guardian": [
@@ -375,16 +375,16 @@
   ],
   "spiegel": [
    {
+    "title": "Midterms 2026 in den USA: Demokraten erobern laut Prognosen Mehrheit im Repräsentantenhaus und im Senat",
+    "link": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/07d74bd6-adcc-4d79-a45b-32446408123e_w520_r2.08_fpx44_fpy43.jpg",
+    "date": 1793767980000
+   },
+   {
     "title": "Kunst: Warum der Dackel zum deutschen Modehund wurde",
     "link": "https://www.spiegel.de/kultur/kunst-warum-der-dackel-zum-deutschen-modehund-wurde-a-dc5da40a-a3dc-473c-887a-4e3b9445cac3#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/8bcc94a7-894c-4630-8f0d-936c6f0726b6_w520_r2.08_fpx62.79_fpy54.97.jpg",
     "date": 1793767320000
-   },
-   {
-    "title": "Midterms 2026 in den USA: Demokraten gewinnen in Kansas ersten Senatssitz seit 1932 - und verteidigen Gouverneursposten in Kalifornien",
-    "link": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-demokraten-gewinnen-in-kansas-ersten-senatssitz-seit-1932-und-verteidigen-gouverneursposten-in-kalifornien-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/07d74bd6-adcc-4d79-a45b-32446408123e_w520_r2.08_fpx44_fpy43.jpg",
-    "date": 1793767200000
    },
    {
     "title": "Linkenchefin Ines Schwerdtner bei Markus Lanz: Streit über Vanessa Emde",
@@ -491,6 +491,13 @@
   ],
   "rainews": [
    {
+    "title": "Caso Garlasco, la timeline del delitto: le mosse dell&#x27;assassino nella villetta",
+    "link": "https://www.rainews.it/articoli/2026/11/caso-garlasco-la-timeline-del-delitto-le-mosse-dellassassino-nella-villetta-lomicidio-chiara-poggi-65ba4f3f-6b19-4f87-a310-644fb002b8c5.html",
+    "image": "https://www.rainews.it/dl/img/2023/08/27/1693134840010_GettyImages.jpg",
+    "date": 1793767860000,
+    "titleSl": "Caso Garlasco, la timeline del delitto: le mosse dell 'assassino nella villetta"
+   },
+   {
     "title": "L&#x27;America boccia Trump, i Democratici conquistano sia la Camera che il Senato",
     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
     "image": "https://www.rainews.it/dl/img/2026/11/04/1793758982634_DCHU.jpg",
@@ -521,13 +528,6 @@
     "link": "https://www.rainews.it/video/2026/11/tensioni-nel-golfo-spiragli-di-dialogo-tra-teheran-e-washington-crolla-il-petrolio-bffb6ec8-4a25-48cb-a86a-4cef2f47285b.html",
     "image": "https://www.rainews.it/dl/img/2026/11/04/1793754403831_SON_Mazzone_finale.jpg",
     "date": 1793754300000
-   },
-   {
-    "title": "Yemen: Onu, situazione a Taiz sempre più drammatica per un milione di persone",
-    "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-dc276a60-ca05-4660-a3bd-09dbfb34c40d.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/04/1793751347822_emergenza_umanitaria_taiz.jpg",
-    "date": 1793751600000,
-    "titleSl": "Jemen: Onu, situazione a Taiz sempre più drammatica per un milione di persone"
    }
   ],
   "lemonde": [
@@ -572,10 +572,10 @@
   ],
   "elpais": [
    {
-    "title": "Las ‘midterms’ 2026, en vivo |Vuelco político en Estados Unidos: los demócratas reconquistan el Congreso en un duro castigo a Trump",
+    "title": "Las ‘midterms’ 2026, en vivo | Vuelco político en Estados Unidos: los demócratas reconquistan el Congreso en un duro castigo a Trump",
     "link": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/6F6BWDV5PNHUNLFMIYF3KBJOKA.jpg?auth=6110e9bb3bd2d5658c90055c33fe1646bb6775a098a1a8e3c0e14d3fe8258c67",
-    "date": 1793767700000
+    "date": 1793767989000
    },
    {
     "title": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
