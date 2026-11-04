@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-04T21:14:23.210Z",
+ "generatedAt": "2026-11-04T21:16:23.593Z",
  "sources": {
   "siol": [
+   {
+    "title": "Šturmova Slavija trpi proti velikemu Arsenalu, Como blesti v Franciji #vŽivo",
+    "link": "https://siol.net/sportal/nogomet/liga-prvakov-ligaski-del-cetrti-krog-sreda-705501",
+    "image": "https://siol.net/media/img/02/c7/847b41da64b616c086a1.jpeg",
+    "date": 1793826900000
+   },
    {
     "title": "ACH Volley uspešno začel kvalifikacije za ligo prvakov",
     "link": "https://siol.net/sportal/odbojka/odbojka-ach-volley-liga-prvakov-2-krog-prva-tekma-705496",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/svet/trump-razmislja-o-usodi-hegsetha-vojna-z-iranom-botrovala-porazu-republikancev-705549",
     "image": "https://siol.net/media/img/7a/c0/407a54471b5df68b1749.jpeg",
     "date": 1793822760000
-   },
-   {
-    "title": "Kakšno strašansko orožje so razvili Ukrajinci?",
-    "link": "https://siol.net/novice/svet/kaksno-strasansko-orozje-so-razvili-ukrajinci-705548",
-    "image": "https://siol.net/media/img/cf/35/269a4015147d04705cdf.jpeg",
-    "date": 1793822640000
    }
   ],
   "24ur": [
@@ -79,10 +79,10 @@
   ],
   "rtvslo": [
    {
-    "title": "V Novem mestu proslavili ustanovitev univerze",
-    "link": "https://www.rtvslo.si/slovenija/v-novem-mestu-proslavili-ustanovitev-univerze/799067",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/04/67118923.jpg",
-    "date": 1793824579000
+    "title": "ACH Volley suveren na začetku kvalifikacij za Ligo prvakov",
+    "link": "https://www.rtvslo.si/sport/odbojka/ach-volley-suveren-na-zacetku-kvalifikacij-za-ligo-prvakov/799068",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/10/17/67114043.jpg",
+    "date": 1793826495000
    },
    {
     "title": "Italija bo zaradi demografske krize zmanjšala število učiteljev",
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "US midterm election results live: Trump blames Iran war after losses",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aeb90f5ad3ed-1793822965.jpg?resize=1920%2C1440",
+    "date": 1793826000000,
+    "titleSl": "Rezultati ameriških vmesnih volitev v živo: Trump krivi vojno v Iranu za izgubami"
+   },
+   {
+    "title": "Democrat leaders hail midterm election success",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793825425.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793825431000,
+    "titleSl": "Voditelji demokratov pozdravljajo uspeh vmesnih volitev"
+   },
+   {
     "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
     "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeb7dae-1793818030.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Villegas-1-1793782551.jpeg?resize=1920%2C1440",
     "date": 1793821837000,
     "titleSl": "Demokratična progresivna krila zmagujejo v Kalifornijski osrednji dolini"
-   },
-   {
-    "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-    "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeb7d449f3d-1793817924.jpg?resize=1920%2C1440",
-    "date": 1793820641000,
-    "titleSl": "Hakeem Jeffries obljublja osredotočenost na \"cenovno dostopnost\" po zmagi demokratičnega vmesnega mandata"
-   },
-   {
-    "title": "WHO approves trials for two new Ebola vaccines",
-    "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T194805Z_1852803134_RC2F4OAT0BYO_RTRMADP_3_HEALTH-EBOLA-CONGO-1792981072.jpg?resize=1920%2C1440",
-    "date": 1793820129000,
-    "titleSl": "SZO odobrila preskuse za dve novi cepivi proti eboli"
    }
   ],
   "guardian": [
@@ -415,15 +415,15 @@
   ],
   "bild": [
    {
-    "title": "Verletzt runter! - BVB-Schock um Guirassy",
-    "link": "https://www.bild.de/sport/fussball/bvb-serhou-guirassy-muss-in-der-champions-league-verletzt-raus-6aeb97fc09e0301c03e7fb49",
-    "image": "https://images.bild.de/6aeb97fc09e0301c03e7fb49/973f992a8b361ce516570513887fa072,dcbd86f0?w=1280",
-    "date": 0
-   },
-   {
     "title": "Freie-Wähler-Chef - Hubert Aiwanger tot in Berliner Hotel entdeckt",
     "link": "https://www.bild.de/news/freie-waehler-chef-hubert-aiwanger-tot-in-berliner-hotel-entdeckt-6aeb904709e0301c03e7faf3",
     "image": "https://images.bild.de/6aeb904709e0301c03e7faf3/ea7a3ade639fc8b5183a24b5a52f571d,1c487d0b?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Verletzt runter! - BVB-Schock um Guirassy",
+    "link": "https://www.bild.de/sport/fussball/bvb-serhou-guirassy-muss-in-der-champions-league-verletzt-raus-6aeb97fc09e0301c03e7fb49",
+    "image": "https://images.bild.de/6aeb97fc09e0301c03e7fb49/973f992a8b361ce516570513887fa072,dcbd86f0?w=1280",
     "date": 0
    },
    {
