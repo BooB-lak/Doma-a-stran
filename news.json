@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T10:44:25.899Z",
+ "generatedAt": "2026-11-04T10:46:24.068Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
+    "date": 1793789151000,
+    "titleSl": "Nič več riževih zrn v Kelloggovih riževih krispijih zaradi spreminjajočega se vremena"
+   },
+   {
     "title": "Scottish government needs to act faster on grooming gang inquiry, says survivor",
     "link": "https://www.bbc.co.uk/news/articles/ckly0vvx41y3o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b54/live/e6dd1420-d7a5-11f1-84dd-e55f4bec0ecd.jpg",
@@ -276,23 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg",
     "date": 1793786605000,
     "titleSl": "West Ham potrdil nekdanjega vezista Scotta Parkerja za novega glavnega trenerja"
-   },
-   {
-    "title": "West Ham confirm Parker as boss",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg",
-    "date": 1793786605000,
-    "titleSl": "West Ham potrjuje Parkerja za novega trenerja"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Israel vote results confirmed as election commission rejects fraud claims",
-    "link": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6aeaf36f2120-1793782639.jpg?resize=1920%2C1440",
-    "date": 1793788641000,
-    "titleSl": "Izraelu so potrdili rezultate glasovanja, saj volilna komisija zavrača trditve o golju"
-   },
    {
     "title": "Photos: US Democrats celebrate winning control of Congress",
     "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeab39e-1793766302.jpg?resize=1920%2C1440",
     "date": 1793785711000,
     "titleSl": "Republikanska stranka prerazporeja igre na srečo na Floridi, medtem ko demokrati vztrajajo"
+   },
+   {
+    "title": "‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
+    "link": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeae57cc908-1793779068.jpg?resize=1920%2C1440",
+    "date": 1793785669000,
+    "titleSl": "\"Zavračanje sovraštva\": Abdul El-Sayed je zmagal v senatu kljub rasističnim napadom"
    }
   ],
   "guardian": [
@@ -375,6 +375,24 @@
   ],
   "spiegel": [
    {
+    "title": "Luftverschmutzung in Neu-Delhi übersteigt WHO-Grenzwert um das 30-fache",
+    "link": "https://www.spiegel.de/wissenschaft/luftverschmutzung-in-neu-delhi-uebersteigt-who-grenzwert-um-das-30-fache-a-c7599129-ba95-4fb1-8af9-de3fd0a2b3ab#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/2bf53901-b1a1-46ec-b736-9a19c8be7f91_w520_r2.08_fpx57.21_fpy49.98.jpg",
+    "date": 1793788920000
+   },
+   {
+    "title": "Hohe Energiepreise: Inflation im Euroraum steigt auf vier Prozent",
+    "link": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/6bb7f235-8ad0-4395-b43f-6d60269f4436_w520_r2.08_fpx50.66_fpy49.99.jpg",
+    "date": 1793788740000
+   },
+   {
+    "title": "Janosch ist tot: Er ließ sich von nichts fesseln. Auch nicht von der Wirklichkeit",
+    "link": "https://www.spiegel.de/kultur/janosch-ist-tot-er-liess-sich-von-nichts-fesseln-auch-nicht-von-der-wirklichkeit-a-cd7a5982-a1d1-49a9-8013-50ec16266e47#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/f59bad5f-ddcf-4fa5-b04f-b6ea1d67fd9e_w520_r2.08_fpx59.3_fpy44.98.jpg",
+    "date": 1793788560000
+   },
+   {
     "title": "Veganes Kinderessen: Eier, wir brauchen Eier",
     "link": "https://www.spiegel.de/familie/veganes-kinderessen-eier-wir-brauchen-eier-a-c09db804-8192-4bf3-aa77-40fada9da270#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/b186e95f-f6a4-4237-bc25-121d3be7e900_w520_r2.08_fpx46.66_fpy50.jpg",
@@ -393,24 +411,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/7c4410d5-0bc2-4162-aa58-cc63fc62c0ca_w520_r2.08_fpx42_fpy52.98.jpg",
     "date": 1793787180000,
     "titleSl": "Izrael: Wahlprüfung abgeschlossen. Aber der Streit um die Regierungsbildung geht weiter"
-   },
-   {
-    "title": "Midterms in den USA: Warum die Republikaner ihre Hochburg Texas verloren",
-    "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-warum-die-republikaner-ihre-hochburg-texas-verloren-a-5090f63f-040a-4da5-93c8-a787c742d3f4#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/46aa074e-83c2-46dc-af22-913b17237468_w520_r2.08_fpx52_fpy56.jpg",
-    "date": 1793786700000
-   },
-   {
-    "title": "John Frieda: Starfriseur mit 75 Jahren gestorben",
-    "link": "https://www.spiegel.de/panorama/leute/john-frieda-starfriseur-mit-75-jahren-gestorben-a-f5281ce4-cc55-4a3b-b9f6-ac3faa0a2ada#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/3f631fe4-b287-4135-88ce-57001a33c83f_w520_r2.08_fpx44.96_fpy33.74.jpg",
-    "date": 1793786160000
-   },
-   {
-    "title": "Rezept für Stroganoff mit Pilzen und Gnocchi – schnell und herzhaft",
-    "link": "https://www.spiegel.de/effilee/rezept-fuer-stroganoff-mit-pilzen-und-gnocchi-schnell-und-herzhaft-a-fffbdca3-32f2-4ef8-a59a-39b1b5a713c5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/abd2518a-1ead-4e45-b802-51923514ab2c_w520_r2.08_fpx42.02_fpy48.99.jpg",
-    "date": 1793785260000
    }
   ],
   "bild": [
@@ -453,6 +453,12 @@
   ],
   "krone": [
    {
+    "title": "Neues Video begeistert - Delfin Mimmo taucht in Venedig neben Wasserbus auf",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00MmJIU3QyX3BlS3RHTEdYc0dLVkIxYjByTjl3UGpBbVBnc3JhSElDb2h0ZzMxRVRuakZ1cElJZkMxZw?oc=5",
+    "image": "",
+    "date": 1793788860000
+   },
+   {
     "title": "Neuer Vertrag - Bis 2030! SK Rapid verlängert mit Flügelstürmer",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sNFhOeW1XZUszNHpGQ21NeUFSeEh0TmtOZGNPaUtpeXhEaWFjTDJhcE0zUXhaYnd1ZGIyMTFsVThtZw?oc=5",
     "image": "",
@@ -482,12 +488,6 @@
     "image": "",
     "date": 1793788080000,
     "titleSl": "Erfreuliche Zahlen: - Pozitiven Bilanz! Neuer Rekordumsatz für den Gak"
-   },
-   {
-    "title": "Erfolgreiche Bewerbung - Festspiele: Schneider wird neuer Technikchef",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaeWhvbWV0dGtlVWFGNXNnYmluVWdXYVBoc3NJSC1kNG9wNjJvX2JNYzI4bFNCQUpla01qaEhMaU9rZw?oc=5",
-    "image": "",
-    "date": 1793787900000
    }
   ],
   "rainews": [
@@ -541,18 +541,18 @@
     "date": 1793787675000
    },
    {
+    "title": "L’Olympique lyonnais et l’entraîneur Paulo Fonseca se séparent, malgré un bon début de saison",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/04/l-olympique-lyonnais-et-l-entraineur-paulo-fonseca-se-separent-malgre-un-bon-debut-de-saison_6806142_3242.html",
+    "image": "https://img.lemde.fr/2026/11/01/132/0/1813/906/644/322/60/0/5c2e2d6_ftp-1-llc2ebsnavhg-2026-11-01t180533z-1562275968-up1emb11e98ee-rtrmadp-3-soccer-france-ol-sco.JPG",
+    "date": 1793787056000,
+    "titleSl": "L’Olympique lyonnais et l'entraîneur Paulo Fonseca se séparent, malgré un bon début de saison"
+   },
+   {
     "title": "Cyberattaque au Crédit mutuel Arkéa : le détournement est évalué à 118 millions d’euros",
     "link": "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
     "image": "https://img.lemde.fr/2025/09/05/464/0/5568/2784/644/322/60/0/e678eb3_upload-1-9lky8afeyqvc-000-36qb4ty.jpg",
     "date": 1793786918000,
     "titleSl": "Cyberattaque au Crédit mutuel Arkéa : le détournement est évalué à 118 milijonov d'eur"
-   },
-   {
-    "title": "Relèvement du plafond du Livret A : « On est loin de la volonté affichée par Emmanuel Macron d’orienter l’épargne des Français vers des placements à long terme »",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/04/relevement-du-plafond-du-livret-a-on-est-loin-de-la-volonte-affichee-par-emmanuel-macron-d-orienter-l-epargne-des-francais-vers-des-placements-a-long-terme_6806139_3234.html",
-    "image": "https://img.lemde.fr/2026/11/04/115/0/5616/2808/644/322/60/0/dd78fe9_upload-1-fe07stbywxpw-000-par7125749.jpg",
-    "date": 1793786406000,
-    "titleSl": "Relèvement du plafond du Livret A : « On est loin de la volonté affichée par Emmanuel Macron d&#39;orienter l&#39;épargne des Français vers des placements à long terme »"
    },
    {
     "title": "« Groland » s’arrête en décembre après trente-quatre ans d’humour satirique sur Canal+",
@@ -581,7 +581,7 @@
     "title": "Las ‘midterms’ 2026, en vivo | Vuelco político en Estados Unidos: los demócratas logran el control total del Congreso en un duro castigo a Trump",
     "link": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TDQVYGNPSJARRF5ZL7YWMWIUM4.JPG?auth=425dd893e15b9eaa03a33a2065374ca1efad00653f356b9b6bb0bab8f59ccd17",
-    "date": 1793788330000
+    "date": 1793788857000
    },
    {
     "title": "La píldora para adelgazar Wegovy supera las expectativas y lleva a Novo a mejorar sus previsiones para 2026",
