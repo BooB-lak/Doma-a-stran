@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T15:01:02.861Z",
+ "generatedAt": "2026-11-04T15:02:24.056Z",
  "sources": {
   "siol": [
    {
@@ -123,6 +123,12 @@
     "date": 1793803440000
    },
    {
+    "title": "Tri kazenske ovadbe, na tnalu tudi Matoz in Bržan",
+    "link": "https://www.zurnal24.si/slovenija/tri-kazenske-ovadbe-na-tnalu-tudi-matoz-in-brzan-467763",
+    "image": "https://www.zurnal24.si/media/img/8a/g1/70dfd02ff36657b42289.jpeg",
+    "date": 1793803200000
+   },
+   {
     "title": "Zakaj lahko Kitajci električne avtomobile izdelajo 10.000 evrov ceneje?",
     "link": "https://www.zurnal24.si/avto/zakaj-lahko-kitajci-elektricne-avtomobile-izdelajo-10-000-evrov-ceneje-466748",
     "image": "https://www.zurnal24.si/media/img/5a/95/7c14313a3538221807ad.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/novi-zapleti-ob-vrnitvi-rusije-na-tekmovanja-bojkot-tudi-glavnega-pokrovitelja-sp-467757",
     "image": "https://www.zurnal24.si/media/img/b8/f3/d8a2a8aadd2732a7ebdd.jpeg",
     "date": 1793799120000
-   },
-   {
-    "title": "Zaostrili bodo kazni za potnike v javnem prometu",
-    "link": "https://www.zurnal24.si/svet/zaostrili-bodo-kazni-za-potnike-v-javnem-prometu-467756",
-    "image": "https://www.zurnal24.si/media/img/b9/87/282f634f8720f43c7682.jpeg",
-    "date": 1793796900000
    }
   ],
   "reuters": [
@@ -202,7 +202,7 @@
     "title": "Jimmy Kimmel Rides Election Day’s ‘Blue Tsunami’",
     "link": "https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html",
     "image": "",
-    "date": 1793804240000,
+    "date": 1793804329000,
     "titleSl": "\"Modri cunami\" Jimmyja Kimmela na dan volitev"
    },
    {
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Trump loses control of Congress",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793803329.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793803343000,
+    "titleSl": "Trump izgubil nadzor nad kongresom"
+   },
+   {
     "title": "Why is the western US still counting votes after election day?",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793802977.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/164A2722-1793793869.jpg?resize=1920%2C1440",
     "date": 1793799652000,
     "titleSl": "Izraelski naseljenci na strehi Hebrona ogrožajo palestinsko identiteto mesta"
-   },
-   {
-    "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793799143.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793799185000,
-    "titleSl": "Prostovoljec iz Gaze Adam Hamawy je osvojil zgodovinski sedež v ameriškem kongresu"
    }
   ],
   "guardian": [
@@ -414,6 +414,18 @@
   ],
   "bild": [
    {
+    "title": "Unfassbare Geschichte von Beachvolleyballerin Borger - Ich wurde unter der Dusche fotografiert",
+    "link": "https://www.bild.de/sport/mehr-sport/deutsche-beachvolleyballerin-borger-wurde-beim-duschen-fotografiert-6ae857fea68c18ce70cdba9a",
+    "image": "https://images.bild.de/6ae857fea68c18ce70cdba9a/4056a4d46d2d4b01177db78b8ee3f602,eac75d21?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Gericht entscheidet - Alkohol im Urin! Marius kommt doch nicht frei",
+    "link": "https://www.bild.de/unterhaltung/royals-adel/gericht-entscheidet-alkohol-im-urin-marius-kommt-doch-nicht-frei-6aeb469f99c6bf1f5f1aad52",
+    "image": "https://images.bild.de/6aeb469f99c6bf1f5f1aad52/7c4127cba915441d1f2d36f567db79e3-landscape,c6314703?w=1280",
+    "date": 0
+   },
+   {
     "title": "Traum wird wahr - Zweitliga-Profi fürs Nationalteam nominiert",
     "link": "https://www.bild.de/sport/fussball/fcm-profi-hyrylaeinen-traeumt-von-nationalteam-und-bundesliga-6ae9e12d36ba9db5f4e974ff",
     "image": "https://images.bild.de/6ae9e12d36ba9db5f4e974ff/d078d9b576bccca85a19348b90e0aebd,990b0dc8?w=1280",
@@ -436,21 +448,15 @@
     "link": "https://www.bild.de/politik/ausland-und-internationales/ramsan-kadyrow-er-soll-putin-84-000-maenner-fuer-den-ukraine-krieg-schicken-6aeb0e89b1907deb6c9416fc",
     "image": "https://images.bild.de/6aeb0e89b1907deb6c9416fc/b3ecd1b1b9c7ff231f1f85a3385174a9,e63faeb7?w=1280",
     "date": 0
-   },
-   {
-    "title": "Talent ist bereits drittschnellster Profi der Liga - Wird ER Dortmunds nächster Millionen-Jackpot?",
-    "link": "https://www.bild.de/sport/fussball/bvb-wird-er-dortmunds-naechster-millionen-jackpot-6aeafa4f748580e4813c37c8",
-    "image": "https://images.bild.de/6aeafa4f748580e4813c37c8/b9d7e81b124831b408a2950049029010,16a73c10?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Höherer Preis? - Das soll sich beim iPhone 18 ändern",
-    "link": "https://www.bild.de/leben-wissen/digital/iphone-18-das-soll-sich-beim-neuen-basismodell-aendern-6aeb405a99c6bf1f5f1aac7d",
-    "image": "https://images.bild.de/6aeb405a99c6bf1f5f1aac7d/db4c77ecf5cf20ce4cc7a07928b31598,e79f67c7?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Nicht verpassen! - Künstler verwandeln Balkone zur offenen Bühne",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zdGY5V1A2QU1VZDZ6THBVNHBiZ0ZpWmFMX2pTOVhFVFNheXBLUnRydHJiR05DTmpvRndnV2xYc1Awdw?oc=5",
+    "image": "",
+    "date": 1793804400000
+   },
    {
     "title": "Graz als Zugpferd - Steirischer Wohnbau kommt wieder in Bewegung",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvaW5IMlNiUVByNEFfcUc3Vy1DQ043Ukg5Tk5VQXNlenVIOUNKRExjaHhudHJMYktPbk5JRmMyd1RfQQ?oc=5",
@@ -482,12 +488,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYUFc2R0JWeWRKdU04bmFNUGRJbHg0a0J5Q19FTldXMFJTNzFOLU04WUtfMERKQkNmeksyRHZqRTl6dw?oc=5",
     "image": "",
     "date": 1793802300000
-   },
-   {
-    "title": "„Unvergesslicher Tag“ - Nach WM-Triumph: Antonelli bei Sennas Familie",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JWDh6VmlGbk1lUFRxYkFldXJ6a2lmWkJEbEc3WXR2NjNGb1UtSmlWOXUtbDhmdGV1TFRPbnlrZE4zQQ?oc=5",
-    "image": "",
-    "date": 1793802000000
    }
   ],
   "rainews": [
@@ -575,12 +575,6 @@
   ],
   "elpais": [
    {
-    "title": "Acorralado en la Casa Blanca, Trump puede ser más peligroso para el mundo",
-    "link": "https://elpais.com/videos/2026-11-04/acorralado-en-la-casa-blanca-trump-puede-ser-mas-peligroso-para-el-mundo.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261104/1233744_144900_video_1800.mp4",
-    "date": 1793804005000
-   },
-   {
     "title": "Las ‘midterms’ 2026, en vivo | Estados Unidos asimila el impacto de la ola azul que arrebató el Congreso a los republicanos y repudió las políticas de Trump",
     "link": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/WJALBCEW6VKAPDIYDNRWL6Z6JI.jpg?auth=a2f2aee1fe31f13836b9014831e22c6831b897c28bf55b7d4441d33942438356",
@@ -610,6 +604,12 @@
     "link": "https://elpais.com/espana/elecciones-generales/2026-11-04/el-supremo-archiva-una-querella-y-tres-denuncias-contra-sanchez-y-sus-ministros-por-la-crisis-de-ceuta.html",
     "image": "https://imagenes.elpais.com/resizer/v2/A7PD64ZIHZEADBTXAG4C7F3FNU.jpg?auth=3b01dcc266a6e264ad693c4a05dbcb4bdd3d40615e3596ea87064f38ab7b0f45",
     "date": 1793801821000
+   },
+   {
+    "title": "Florentino Pérez ficha a Rafa Nadal para la directiva del Real Madrid",
+    "link": "https://elpais.com/deportes/futbol/2026-11-04/el-real-madrid-propone-la-entrada-de-rafael-nadal-como-nuevo-miembro-de-su-junta-directiva.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/QXXDDN2N7FJWXJZL7ZBNTIBERU.jpg?auth=e353ad73abc259fda2e958d517feec58a609e430bbfb7e6e98ecb6991ba5dc13",
+    "date": 1793801493000
    }
   ]
  },
