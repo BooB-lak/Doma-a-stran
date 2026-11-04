@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T00:14:25.416Z",
+ "generatedAt": "2026-11-04T00:16:25.191Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Ballot scanner glitch disrupts voting in New York",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793750863.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793750882000,
+    "titleSl": "Napaka čitalnika glasovnic moti glasovanje v New Yorku"
+   },
+   {
+    "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-03T113139Z_2096027326_RC29GOAN95R3_RTRMADP_3_IRAN-CRISIS-1793743300.jpg?resize=1920%2C1440",
+    "date": 1793750400000,
+    "titleSl": "Iran War Live: Teheran pripravlja načrt \"maksimalnega odvračanja\" za vsak nov napad"
+   },
+   {
     "title": "Where have there been technical issues so far during US midterm elections?",
     "link": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793743170.jpg?resize=1920%2C1080&quality=80",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6aea4fa20a-1793740706.jpg?resize=1920%2C1440",
     "date": 1793744353000,
     "titleSl": "Raphinha, Lamal odpustil Barcelono do zmage nad Aston Villo s 3: 0 v Ligi prvakov"
-   },
-   {
-    "title": "President Zelenskyy says US elections will impact war in Ukraine",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793742180.jpg?resize=1316%2C1080&quality=80",
-    "date": 1793742199000,
-    "titleSl": "Predsednik Zelenskyy pravi, da bodo volitve v ZDA vplivale na vojno v Ukrajini"
-   },
-   {
-    "title": "Texans vote in most expensive Senate race in US history",
-    "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-03T131328Z_535802031_RC2DGOA00GHC_RTRMADP_3_USA-ELECTION-TEXAS-1793736955.jpg?resize=1920%2C1440",
-    "date": 1793742113000,
-    "titleSl": "Teksašani glasujejo v najdražji tekmi za senat v zgodovini ZDA"
    }
   ],
   "guardian": [
@@ -415,11 +415,16 @@
   ],
   "bild": [
    {
-    "title": "Alaska - Zwei Sullivans auf Wahlzettel! Republikaner wittert Wahlbetrug",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/dan-sullivan-us-justiz-untersucht-zweiten-sullivan-auf-dem-wahlzettel-6aea5f8d9664b64e37ecc325",
-    "image": "https://images.bild.de/6aea5f8d9664b64e37ecc325/112b4a2495c66ebaaf400c78be595a5a,631e5264?w=1280",
-    "date": 0,
-    "titleSl": "Aljaska - Zwei Sullivans auf Wahlzettel! Republikaner wittert Wahlbetrug"
+    "title": "Diese Geste wird noch Thema werden ... - Brisanter Karl-Jubel bei Bayern-Sieg!",
+    "link": "https://www.bild.de/sport/fussball/champions-league-diese-geste-wird-noch-thema-werden-brisanter-karl-jubel-bei-bayern-sieg-6aea3890cad3152eb3265fd9",
+    "image": "https://images.bild.de/6aea3890cad3152eb3265fd9/cf6fbd770fbd9842bece828bac1abf6d,401b52f6?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Deswegen verdienst du auch so viel Geld“ - Hummels kritisiert den Karl-Jubel",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-mats-hummels-kritisiert-den-jubel-von-lennart-karl-6aea5b408654beaecfe28dcc",
+    "image": "https://images.bild.de/6aea5b408654beaecfe28dcc/fa38bfbf6a173d0e356d3e7a4cd01ae6,753fe94?w=1280",
+    "date": 0
    },
    {
     "title": "„Ich habe jeden Tag Schmerzen“ - Neuer macht ehrliches Geständnis",
@@ -434,23 +439,18 @@
     "date": 0
    },
    {
+    "title": "Alaska - Zwei Sullivans auf Wahlzettel! Republikaner wittert Wahlbetrug",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/dan-sullivan-us-justiz-untersucht-zweiten-sullivan-auf-dem-wahlzettel-6aea5f8d9664b64e37ecc325",
+    "image": "https://images.bild.de/6aea5f8d9664b64e37ecc325/112b4a2495c66ebaaf400c78be595a5a,631e5264?w=1280",
+    "date": 0,
+    "titleSl": "Aljaska - Zwei Sullivans auf Wahlzettel! Republikaner wittert Wahlbetrug"
+   },
+   {
     "title": "„Das letzte Kapitel schreiben“ - Trainer-Beben in Heidenheim!",
     "link": "https://www.bild.de/sport/fussball/trainer-beben-in-heidenheim-das-letzte-kapitel-schreiben-6aea30222375fcc055ec5ef9",
     "image": "https://images.bild.de/6aea30222375fcc055ec5ef9/1e7a30be3c09b8b05312cca7ced99b74,af751a3f?w=1280",
     "date": 0,
     "titleSl": "„Das letzte Kapitel schreiben“ - Trener-Beben v Heidenheimu!"
-   },
-   {
-    "title": "Diese Geste wird noch Thema werden ... - Brisanter Karl-Jubel bei Bayern-Sieg!",
-    "link": "https://www.bild.de/sport/fussball/champions-league-diese-geste-wird-noch-thema-werden-brisanter-karl-jubel-bei-bayern-sieg-6aea3890cad3152eb3265fd9",
-    "image": "https://images.bild.de/6aea3890cad3152eb3265fd9/cf6fbd770fbd9842bece828bac1abf6d,401b52f6?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Deswegen verdienst du auch so viel Geld“ - Hummels kritisiert den Karl-Jubel",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-mats-hummels-kritisiert-den-jubel-von-lennart-karl-6aea5b408654beaecfe28dcc",
-    "image": "https://images.bild.de/6aea5b408654beaecfe28dcc/fa38bfbf6a173d0e356d3e7a4cd01ae6,753fe94?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -458,7 +458,7 @@
     "title": "Volkspartei umgefallen - Verbrenner-Verbot kommt nun doch durch Hintertür",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YRjVXMHNNMmZVTUxpS3ZpSDZrSmd6cTJQVk9Fb05DYzdKZHdVbDJZOUxVd3cwWFJWQzg5SG52SHA3Zw?oc=5",
     "image": "",
-    "date": 1793749033000
+    "date": 1793751299000
    },
    {
     "title": "Werbung - Abtauchen im AVITA Resort Bad Tatzmannsdorf",
@@ -555,22 +555,22 @@
     "titleSl": "EN DIRECT, guerre en Ukraine : au moins 33 morts au lendemain d'une attaque russe contre un centre de distribution d' aide humanitaire dans la région de Zaporijia"
    },
    {
+    "title": "La conférence du député LFI Raphaël Arnault, annulée à Lyon pour des raisons de sécurité, aura finalement lieu à Villeurbanne",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/03/la-conference-du-depute-lfi-raphael-arnault-annulee-a-lyon-pour-des-raisons-de-securite-aura-finalement-lieu-a-villeurbanne_6805669_823448.html",
+    "image": "https://img.lemde.fr/2026/10/29/0/0/7923/3961/644/322/60/0/f6f9a0a_ftp-1-c4e2dx6ziosb-afp-d4t37g3.jpg",
+    "date": 1793740395000
+   },
+   {
     "title": "Espagne : le ministre des transports démissionne après la catastrophe ferroviaire meurtrière",
     "link": "https://www.lemonde.fr/international/article/2026/11/03/espagne-le-ministre-des-transports-demissionne-apres-la-catastrophe-ferroviaire-meurtriere_6805667_3210.html",
     "image": "https://img.lemde.fr/2026/11/03/361/0/4039/2019/644/322/60/0/5a31b89_ftp-1-rlofecd31gqz-afp-d6by8g3.jpg",
     "date": 1793739210000
    },
    {
-    "title": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les résultats des élections de mi-mandat en direct",
+    "title": "EN DIRECT, midterms 2026 : du Kentucky à la Californie, suivez les résultats des élections de mi-mandat en direct",
     "link": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-du-texas-a-la-californie-suivez-les-elections-de-mi-mandat-en-direct_6805528_3210.html",
     "image": "https://img.lemde.fr/2026/11/03/416/0/4995/2497/644/322/60/0/2ca41c4_ftp-1-7c3akull4jer-2303393421.jpg",
     "date": 1793739000000
-   },
-   {
-    "title": "Des syndicats et associations de sept pays européens appellent à manifester contre la vie chère fin novembre",
-    "link": "https://www.lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html",
-    "image": "https://img.lemde.fr/2026/10/30/110/0/8256/4128/644/322/60/0/da61012_ftp-1-tii7u4yu6ot1-afp-d4xa43p.jpg",
-    "date": 1793738907000
    }
   ],
   "elpais": [
