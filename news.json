@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T22:00:56.985Z",
+ "generatedAt": "2026-11-04T22:02:23.891Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Has Been Thumped. That Doesn’t Make Him Any Less Dangerous.",
+    "link": "https://www.nytimes.com/2026/11/04/opinion/trump-midterms-democracy-threats.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04bouie-hcgp/04bouie-hcgp-mediumSquareAt3X.jpg",
+    "date": 1793829532000,
+    "titleSl": "Trump je bil pretepen. To ga ne naredi nič manj nevarnega."
+   },
+   {
     "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
     "link": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/04/us/04dc-trump-investigations-1/04dc-trump-investigations-1-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
     "date": 1793827166000,
     "titleSl": "Delnice SpaceX in Tesla se sesuvajo, ko kandidati, ki jih podpira Elon Musk, izgubijo v Teksasu"
-   },
-   {
-    "title": "Trump Wanted Democrats to Win",
-    "link": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/04cottle-cfbj-cover/04cottle-cfbj-cover-mediumSquareAt3X-v2.jpg",
-    "date": 1793822407000,
-    "titleSl": "Trump je želel, da zmagajo demokrati"
    }
   ],
   "bbc": [
@@ -415,12 +415,6 @@
   ],
   "bild": [
    {
-    "title": "Leipzigs Spektakel-Spiel - Und dann kommt Haaland!",
-    "link": "https://www.bild.de/sport/fussball/rb-leipzig-haaland-entscheidet-wildes-3-2-gegen-manchester-city-6aeb4d358379e9b057e16bf0",
-    "image": "https://images.bild.de/6aeb4d358379e9b057e16bf0/67d1753cbe983e9860958b42b139848c,f67b8e16?w=1280",
-    "date": 0
-   },
-   {
     "title": "Wie starb der Freie-Wähler-Chef? - Hubert Aiwanger tot in Berliner Hotel",
     "link": "https://www.bild.de/news/freie-waehler-chef-hubert-aiwanger-tot-in-berliner-hotel-entdeckt-6aeb904709e0301c03e7faf3",
     "image": "https://images.bild.de/6aeb904709e0301c03e7faf3/ea7a3ade639fc8b5183a24b5a52f571d,1c487d0b?w=1280",
@@ -428,28 +422,33 @@
     "titleSl": "Wie starb der Freie-Wähler-Chef? - Hubert Aiwanger tot v hotelu Berliner"
    },
    {
+    "title": "Er schreibt Handball-Geschichte - Kurioses Auswahl-Debüt für Dresdner Top-Talent",
+    "link": "https://www.bild.de/sport/mehr-sport/handball-kurioses-auswahl-debuet-fuer-dresdner-top-talent-6aeb5aa499c6bf1f5f1aaf9c",
+    "image": "https://images.bild.de/6aeb5aa499c6bf1f5f1aaf9c/28a02348e0300dccf37d67fb2496964a,1cfcb2f0?w=1280",
+    "date": 0
+   },
+   {
+    "title": "„Geschockt“ ++ „Tragödie“ ++ „Zu früh“ - Politische Weggefährten trauern um Aiwanger",
+    "link": "https://www.bild.de/politik/inland/hubert-aiwanger-soeder-und-politik-trauern-um-den-streitbaren-fw-chef-6aeba2eabae554fcd0d6ae5f",
+    "image": "https://images.bild.de/6aeba2eabae554fcd0d6ae5f/070c1d8d2ecd3c9174ad41a17c9f8499,eac0dc3?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Leipzigs Spektakel-Spiel - Und dann kommt Haaland!",
+    "link": "https://www.bild.de/sport/fussball/rb-leipzig-haaland-entscheidet-wildes-3-2-gegen-manchester-city-6aeb4d358379e9b057e16bf0",
+    "image": "https://images.bild.de/6aeb4d358379e9b057e16bf0/67d1753cbe983e9860958b42b139848c,f67b8e16?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Silva und Karetsas treffen, aber Guirassy verletzt - SIEG & SORGE",
+    "link": "https://www.bild.de/sport/fussball/sieg-sorge-silva-und-karetsas-treffen-fuer-bvb-aber-schock-um-guirassy-6aeb9c2909e0301c03e7fb88",
+    "image": "https://images.bild.de/6aeb9c2909e0301c03e7fb88/7aaa0448bcd1a1b27df9ebeb381473a4,77c2ce51?w=1280",
+    "date": 0
+   },
+   {
     "title": "BILD-Reporterin Isabel Pfannkuche vor Ort - Hier hatte Hubert Aiwanger noch eingecheckt",
     "link": "https://www.bild.de/politik/inland/bild-reporterin-isabel-pfannkuche-vor-ort-hier-hatte-hubert-aiwanger-noch-eingecheckt-6aeba343eca9cecdd5d4701b",
     "image": "https://images.bild.de/6aeba343eca9cecdd5d4701b/699abc31ac55c389d0a75aadd03997ad-landscape,288e13f0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Padel-Nationalteam schreibt Geschichte - Deutsche WM-Sensation!",
-    "link": "https://www.bild.de/sport/mehr-sport/deutsche-wm-sensation-nationalteam-schreibt-geschichte-6aeb86ec09e0301c03e7fa7e",
-    "image": "https://images.bild.de/6aeb86ec09e0301c03e7fa7e/1175eb4b4ea1663deb2a477a19a6b061,2640daf0?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Beschuss aus den eigenen Reihen - Kommt es jetzt zum „Putsch“ gegen Trump?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-nach-wahlpleite-kommt-es-jetzt-zum-putsch-6aeb49a08379e9b057e16b6d",
-    "image": "https://images.bild.de/6aeb49a08379e9b057e16b6d/fbff123480d932b76404ea527d142025,bd2c0925?w=1280",
-    "date": 0,
-    "titleSl": "Beschuss aus den eigenen Reihen - Kommt es jetzt zum \"Putsch\" gegen Trump?"
-   },
-   {
-    "title": "Es geschah nach „Love Island VIP“ - Reality-Star als Vergewaltiger verurteilt",
-    "link": "https://www.bild.de/regional/muenchen/es-geschah-nach-love-island-reality-star-zu-haftstrafe-verurteilt-6aea1081ab17ab430fd9ee65",
-    "image": "https://images.bild.de/6aea1081ab17ab430fd9ee65/a8bdbc87b4f01eb91000fcb2c97d26a1,9070a60c?w=1280",
     "date": 0
    }
   ],
