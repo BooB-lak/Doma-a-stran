@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T12:14:23.133Z",
+ "generatedAt": "2026-11-05T12:16:24.385Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Na udaru groženj z bombami že najmanj 15 letal, eksplozivov za zdaj niso našli",
+    "link": "https://www.24ur.com/novice/tujina/zaradi-groznje-z-bombo-preusmerili-potnisko-letalo-namenjeno-v-rim.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/c1dc19ff26fa0deeec2b_63674467.jpg?v=bbcc&fop=fp:0.49:0.58",
+    "date": 1793880949000
+   },
+   {
     "title": "V Hormuški ožini naj bi zagorele tri ladje",
     "link": "https://www.24ur.com/novice/tujina/v-hormuski-ozini-naj-bi-zagorele-tri-ladje.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/80bef5ddf69c4024fd66_63616787.jpg?v=862f&fop=fp:0.47:0.54",
@@ -51,12 +57,6 @@
     "link": "https://www.24ur.com/sport/nogomet/ronaldo-s-custveno-izpovedjo-koncal-reprezentancno-pot.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/ec37eb5fb02eda70a26e_63674474.jpg?v=7faa&fop=fp:0.54:0.25",
     "date": 1793880088000
-   },
-   {
-    "title": "Na udaru groženj z bombami že najmanj 15 letal, eksplozivov za zdaj niso našli",
-    "link": "https://www.24ur.com/novice/tujina/zaradi-groznje-z-bombo-preusmerili-potnisko-letalo-namenjeno-v-rim.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/c1dc19ff26fa0deeec2b_63674467.jpg?v=bbcc&fop=fp:0.49:0.58",
-    "date": 1793880081000
    },
    {
     "title": "Srbsko tožilstvo preverja okoliščine vrnitve letala z Vulinom na krovu",
@@ -78,6 +78,12 @@
    }
   ],
   "rtvslo": [
+   {
+    "title": "Se naposled obetata posvetovalna referenduma o zakrivanju obraza na javnih krajih in javni upravi?",
+    "link": "https://www.rtvslo.si/slovenija/se-naposled-obetata-posvetovalna-referenduma-o-zakrivanju-obraza-na-javnih-krajih-in-javni-upravi/799123",
+    "image": "https://img.rtvcdn.si/_up/upload/2017/04/28/65399545_burka.jpg",
+    "date": 1793880926000
+   },
    {
     "title": "Nagradna igra: brezplačno na MMC-jevo premiero drame Tabloid na Liffu",
     "link": "https://www.rtvslo.si/kultura/liffe/nagradna-igra-brezplacno-na-mmc-jevo-premiero-drame-tabloid-na-liffu/799112",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/lokalne-novice/stajerska/spanski-vlagatelji-ne-bodo-gradili-parkirisca-za-tovornjake-v-hocah/799106",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/05/67119067.jpg",
     "date": 1793877644000
-   },
-   {
-    "title": "\"Umetnost, ki človeka ne naredi boljšega in srečnejšega, sodi na smetišče\"",
-    "link": "https://www.rtvslo.si/kultura/oder/umetnost-ki-cloveka-ne-naredi-boljsega-in-srecnejsega-sodi-na-smetisce/799100",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/19/67105472.jpg",
-    "date": 1793877007000
    }
   ],
   "zurnal": [
@@ -294,11 +294,11 @@
     "titleSl": "Zakaj več naložb ne omogoča cenovno dostopnih stanovanj v Gani"
    },
    {
-    "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
+    "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
     "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae883948fdbf-1793622932.jpg?resize=1920%2C1440",
     "date": 1793878469000,
-    "titleSl": "Palantir koplje podatke z bojišča, vendar ali Ukrajina \"plačuje s krvjo\"?"
+    "titleSl": "Palantir zbira podatke z bojišča, ki jih Ukrajina plačuje \"s krvjo\""
    },
    {
     "title": "‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?",
@@ -454,12 +454,6 @@
   ],
   "krone": [
    {
-    "title": "Trumps Deal wankt - Russische Diesel-Tanker ändern abrupt ihren Kurs",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9IZFY2cmRTcDI3NnRRZ2x3NkxtczN4VDhabVZKa3JQTUJvZndCblJKU2liLVZxaERoaHFJV2xUOUlVQQ?oc=5",
-    "image": "",
-    "date": 1793880540000
-   },
-   {
     "title": "Dreieinhalb Jahre Haft - Russischer Kapitän wegen Kabelsabotage verurteilt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBlT3E3VUtzSmJ5d3phekJVVGY4VC1ZNjVxdzhDQmF5dnpkRkl3NG5kbXFuOTM1Z1labXZ0QWgwa3BJZw?oc=5",
     "image": "",
@@ -478,15 +472,20 @@
     "date": 1793880180000
    },
    {
-    "title": "„unkraut-frei“: Die neue Eventreihe in Klagenfurt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9udUJ3c1RDbE95UE84UTF5YmE1YW1rZl9RMFpfWC1lcjVuT3BlcGMwT1dGNXNtaF8xVlFudDJCd3lSZw?oc=5",
+    "title": "30 Feuer pro Tag in EU - Batteriebrände: 2,6 Mrd. Euro Schaden pro Jahr",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBb29FNDRTMUV2Yy05OG5iYlZvRW51RmZESnNjeU1LeUZpREhzQXJkYjN0MGQzSmNKdTZGTGMyY2VLdw?oc=5",
     "image": "",
-    "date": 1793880000000,
-    "titleSl": "„unkraut-frei“: Die neue Eventreihe v Celovcu"
+    "date": 1793880120000
    },
    {
     "title": "Gleich drei Verletzte - Nach Kollision mit Hirsch: Pkw prallte gegen Auto",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oZUVHSHRhd2dkR2F4MWZEb0duOWpqbV9WTURQRnBhMWY1RktyLXhBY0NBaTlWbHFIQnFhTlJnYmdnQQ?oc=5",
+    "image": "",
+    "date": 1793880000000
+   },
+   {
+    "title": "Tests sind kostenlos: - Besserer Schutz mit Testkarten gegen K.-o.-Tropfen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NeGNJZUQ3aGp0S3AtM0s5bTV0Si1fTXkwNGxsRVRyQzMyb3JkZ2pCaUZtYzdDRjV6X2FnclcwcHdlZw?oc=5",
     "image": "",
     "date": 1793880000000
    }
@@ -584,6 +583,12 @@
     "date": 1793880642000
    },
    {
+    "title": "Margarita García Robayo gana el Premio Herralde 2026 con una novela sobre la vergüenza en la herencia familiar",
+    "link": "https://elpais.com/cultura/2026-11-05/margarita-garcia-robayo-gana-el-premio-herralde-2026-con-una-novela-sobre-la-verguenza-en-la-herencia-familiar.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/JO3VYAJ7B5LFLDE4LOVUIGQWZE.jpg?auth=35a8cab1dfb41ff3b35de447d7880936265229c4cb5df5e8c257140897e27757",
+    "date": 1793880584000
+   },
+   {
     "title": "El Supremo amnistía a la exconsejera catalana Clara Ponsatí y cierra su procedimiento por desobediencia",
     "link": "https://elpais.com/espana/2026-11-05/el-supremo-amnistia-a-la-exconsejera-catalana-clara-ponsati-y-cierra-su-procedimiento-por-desobediencia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TLX4LFWBL5Z43SMHDRGPML74CE.jpg?auth=1337f333c59bef59ca28f4fd2601d5b9e115a397016a1f026ba0935174cdd0d7",
@@ -609,12 +614,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/3MMTHOSLWFFLBBOBUBTEPDC3YQ.jpg?auth=b5c9172faf4708e52f29b9c4f777cf8f6fbcf99bcbefe3d6cf3f3ae424e98922",
     "date": 1793879123000,
     "titleSl": "La UCO registracija la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos"
-   },
-   {
-    "title": "El Cuarteto Pavel Haas lleva a Schubert al borde del abismo en la Fundación Juan March",
-    "link": "https://elpais.com/cultura/2026-11-05/el-cuarteto-pavel-haas-lleva-a-schubert-al-borde-del-abismo-en-la-fundacion-juan-march.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/5NLHKZ6CPJA3XF3EWFZF5QBTQ4.jpeg?auth=cedb596d03e6567aa8224016e6cc8d6c066e6afeff30322a5880e84981d11507",
-    "date": 1793878807000
    }
   ]
  },
