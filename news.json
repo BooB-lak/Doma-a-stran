@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T13:14:23.252Z",
+ "generatedAt": "2026-11-05T13:16:23.675Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "3,000 tarantulas hidden inside luggage seized at Peruvian airport",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/3000-tarantulas-hidden-inside-luggage-seized-at-peruvian-airport?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793883318.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793883370000,
+    "titleSl": "Na perujskem letališču zasegli 3.000 tarantul, skritih v prtljagi"
+   },
+   {
     "title": "Cristiano Ronaldo announces international retirement",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793881948.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Neurahomes1-1792438943.jpeg?resize=1200%2C675",
     "date": 1793878949000,
     "titleSl": "Zakaj več naložb ne omogoča cenovno dostopnih stanovanj v Gani"
-   },
-   {
-    "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
-    "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae883948fdbf-1793622932.jpg?resize=1920%2C1440",
-    "date": 1793878469000,
-    "titleSl": "Palantir zbira podatke z bojišča, ki jih Ukrajina plačuje \"s krvjo\""
    }
   ],
   "guardian": [
@@ -415,15 +415,27 @@
   ],
   "bild": [
    {
-    "title": "Markus Söder - „Wir sind alle zutiefst geschockt“",
-    "link": "https://www.bild.de/politik/inland/hubert-aiwanger-soeder-und-politik-trauern-um-den-streitbaren-fw-chef-6aeba2eabae554fcd0d6ae5f",
-    "image": "https://images.bild.de/6aeba2eabae554fcd0d6ae5f/090ac32fc8b090288e1b4955f365e3f3,10ef801a?w=1280",
+    "title": "Podcast über das Crans-Montana-Inferno - „Hinter der verschlossenen Tür lagen drei Tote“",
+    "link": "https://www.bild.de/news/inland/crans-montana-hinter-der-verschlossenen-tuer-lagen-drei-tote-6aeb038a1a1d431301d4671d",
+    "image": "https://images.bild.de/6aeb038a1a1d431301d4671d/d317852635784e06e394592fe8ab7eef,a5e3ae8f?w=1280",
     "date": 0
    },
    {
     "title": "„Freiheit statt Sozialismus“ - Merz reaktiviert 50 Jahre alten CDU-Kampfslogan",
     "link": "https://www.bild.de/politik/inland/freiheit-statt-sozialismus-merz-reaktiviert-50-jahre-alten-cdu-kampfslogan-6aec43960ed738572938c39e",
     "image": "https://images.bild.de/6aec43960ed738572938c39e/0eba7baa7d93a2e13dbe3defdcba5170,bc307862?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Wie der Freie-Wähler-Chef wirklich war - Wir bestellten heimlich Drinks auf Aiwangers Rechnung",
+    "link": "https://www.bild.de/politik/wegbegleiter-verraet-wie-aiwanger-wirklich-war-wir-bestellten-heimlich-drinks-auf-seine-rechnung-6aec49c10ed738572938c486",
+    "image": "https://images.bild.de/6aec49c10ed738572938c486/28bcc0bec259802973ad1c7a1391756a,8d6aed03?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Markus Söder - „Wir sind alle zutiefst geschockt“",
+    "link": "https://www.bild.de/politik/inland/hubert-aiwanger-soeder-und-politik-trauern-um-den-streitbaren-fw-chef-6aeba2eabae554fcd0d6ae5f",
+    "image": "https://images.bild.de/6aeba2eabae554fcd0d6ae5f/090ac32fc8b090288e1b4955f365e3f3,10ef801a?w=1280",
     "date": 0
    },
    {
@@ -437,22 +449,15 @@
     "link": "https://www.bild.de/sport/fussball/juergen-klopp-die-streichliste-des-bundestrainers-6aec6433eca9cecdd5d47c48",
     "image": "https://images.bild.de/6aec6433eca9cecdd5d47c48/18d69e9fc07efff558378ab07e11f615,530c4c54?w=1280",
     "date": 0
-   },
-   {
-    "title": "Kommentar von Henning Feindt - Darum geht es jetzt gar nicht!",
-    "link": "https://www.bild.de/sport/fussball/juergen-klopp-nominiert-niclas-fuellkrug-worauf-er-jetzt-setzt-6aec4ac30ed738572938c4ae",
-    "image": "https://images.bild.de/6aec4ac30ed738572938c4ae/022817d839400f9a43b4e469a6027ff2,a0b15e77?w=1280",
-    "date": 0,
-    "titleSl": "Komentar von Henning Feindt - Darum geht es jetzt gar nicht!"
-   },
-   {
-    "title": "Nächster Hoffenheim-Ausfall - Ilzers bittere Personal-Beichte",
-    "link": "https://www.bild.de/sport/fussball/tsg-hoffenheim-christian-lzers-bittere-personal-beichte-6aec6f7bc7da7601aa4f885c",
-    "image": "https://images.bild.de/6aec6f7bc7da7601aa4f885c/aea5bf1cfb1da6d8c1b135ed14e6331f,4343eb4f?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Eurofighter im Einsatz - Bombenalarm – vier Flüge in Wien bedroht",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sUnh1M3JCSGRCMFlFYW5iWWw2R2tWS3phUFBQS1NUTXdNNlJwVjByN3BJV2tRcXFyTVBsYlNjSGVjUQ?oc=5",
+    "image": "",
+    "date": 1793884260000
+   },
    {
     "title": "55 Minuten zu spät - Pendler wütend auf die ÖBB: „Alles nur Ausreden!“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nMm03WklTUWFEZ0cwRjRJVTRJNzdWQmtraExtdGRUYWtndDZGYXBUSEtBQWJWX3NkdC1uUzIzR3ZhZw?oc=5",
@@ -482,12 +487,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Kb182V1lZdTlEMkRadk0tdXA2a0V0ODlDckZIRmRwSTV6azlMa1Q4YzVxd01lNUlEQVp4QUN2aExqUQ?oc=5",
     "image": "",
     "date": 1793883420000
-   },
-   {
-    "title": "Zwei Menschen starben - Bedingte Haft und Geldstrafe nach Todesabsturz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rOVZ3b3lOX2QxU1dIdVdPT0l3NU5kb3JQcDJvMXlkUGdZY3pwWlV0RTRPcGNxRlJsbWw2OV9DR0txUQ?oc=5",
-    "image": "",
-    "date": 1793882760000
    }
   ],
   "rainews": [
@@ -582,8 +581,14 @@
     "title": "Los últimos presupuestos del Gobierno de Almeida destinarán 248 millones a vivienda, un 3,6% del gasto total",
     "link": "https://elpais.com/espana/madrid/2026-11-05/los-ultimos-presupuestos-del-gobierno-de-almeida-destinaran-248-millones-a-vivienda-un-36-del-gasto-total.html",
     "image": "https://imagenes.elpais.com/resizer/v2/ANJ66RAW6NJ6ROVJQGZCT7JJ74.jpg?auth=6a197ac02223738f456acc4827d6f09454e3b09fae35e754af8b08f3fa8cafa0",
-    "date": 1793884132000,
+    "date": 1793884239000,
     "titleSl": "Los últimos presupuestos del Gobierno de Almeida destinarán 248 millones a vivienda, un 3,6% del gasto skupaj"
+   },
+   {
+    "title": "La Fiscalía rebaja la pena de cárcel que solicita para Ignacio González en su primer juicio por corrupción",
+    "link": "https://elpais.com/espana/2026-11-05/la-fiscalia-rebaja-la-pena-de-carcel-que-solicita-para-ignacio-gonzalez-en-su-primer-juicio-por-corrupcion.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/EBVYZMYY2RO73F77IWOCZONFVY.jpg?auth=09914b411f17f6a1b1a4c621fccf8feddb1c965525a9ebd3174d778591a81800",
+    "date": 1793884207000
    },
    {
     "title": "El Banco de Inglaterra sube los tipos de interés por primera vez en tres años hasta alcanzar el 4%",
@@ -609,12 +614,6 @@
     "link": "https://elpais.com/escaparate/belleza/rutina-skin1004-madagascar-centella-asiatica.html",
     "image": "https://imagenes.elpais.com/resizer/v2/U6TM2SVHZZDJVFWFNWYO63DHWA.png?auth=d4ffd2362083226add9baebf3090f2d51de3003cf23bca6ab933a7710fbb7699",
     "date": 1793883420000
-   },
-   {
-    "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
-    "link": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/VK5TDQWPQRHRXASYJUSN32GCWE.jpg?auth=60318bd8e01b7930208dab8c293333b73c4cb68604f411efd513d6640068e525",
-    "date": 1793883190000
    }
   ]
  },
