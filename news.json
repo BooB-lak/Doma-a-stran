@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-05T10:16:22.693Z",
+ "generatedAt": "2026-11-05T10:18:23.503Z",
  "sources": {
   "siol": [
+   {
+    "title": "V Evropi nove grožnje z bombami na letalih",
+    "link": "https://siol.net/novice/svet/v-evropi-nove-groznje-z-bombami-na-letalih-705586",
+    "image": "https://siol.net/media/img/41/1b/1ce81adb69a769765857.jpeg",
+    "date": 1793873280000
+   },
    {
     "title": "Za konec tedna bo v Idriji adrenalinsko in napeto, dobili bomo državne prvake",
     "link": "https://siol.net/avtomoto/novice/za-konec-tedna-bo-v-idriji-adrenalinsko-in-napeto-dobili-bomo-drzavne-prvake-705585",
@@ -30,12 +36,6 @@
     "title": "Uefa stopila v bran ženi Aleksandra Čeferina in zavrnila očitke",
     "link": "https://siol.net/sportal/nogomet/uefa-stopila-v-bran-zeni-aleksandra-ceferina-in-zavrnila-ocitke-705576",
     "image": "https://siol.net/media/img/99/e6/eaa39bb00bfe950800e5.jpeg",
-    "date": 1793872020000
-   },
-   {
-    "title": "Nogometni zvezdnik v spodnjicah povzroča prometne zastoje",
-    "link": "https://siol.net/trendi/zvezde-in-slavni/nogometni-zvezdnik-v-spodnjicah-povzroca-prometne-zastoje-705574",
-    "image": "https://siol.net/media/img/20/78/50133a0c233fcaca3151.jpeg",
     "date": 1793872020000
    }
   ],
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261102__D6827LT__v1__HighRes__FblEurC1BayernMunichPresser-1793870795.jpg?resize=1920%2C1440",
+    "date": 1793873066000,
+    "titleSl": "Anglež Harry Kane podaljša pogodbo z Bayernom do leta 2029"
+   },
+   {
     "title": "A month after Yemen government offensive began, war of attrition takes hold",
     "link": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26308592470205-1793869495.jpg?resize=1920%2C1440",
@@ -320,29 +327,22 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aec4f3dce6b9-1793871677.jpg?resize=1920%2C1440",
     "date": 1793871873000,
     "titleSl": "To je Gaza, bedak."
-   },
-   {
-    "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-    "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aec3777-1793865591.jpg?resize=1920%2C1440",
-    "date": 1793870015000,
-    "titleSl": "Rusija pravi, da je napadla ukrajinsko poštno vozlišče in ladjo, ko je Ukrajina napadla Ryazan"
    }
   ],
   "guardian": [
-   {
-    "title": "Multiple planes diverted amid bomb threats to commercial flights across Europe – live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33",
-    "date": 1793873234000,
-    "titleSl": "Več letal preusmerjenih zaradi groženj z bombami na komercialne lete po Evropi – v živo"
-   },
    {
     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
     "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874",
     "date": 1793872868000,
     "titleSl": "Vmesne volitve v ZDA leta 2026 v živo: demokrati gledajo zgodovinsko razburjeno v tekmi za senat v Mississippiju, ko se začne igra obtoževanja republikancev"
+   },
+   {
+    "title": "Multiple planes diverted amid bomb threats to commercial flights across Europe – live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33",
+    "date": 1793872865000,
+    "titleSl": "Več letal preusmerjenih zaradi groženj z bombami na komercialne lete po Evropi – v živo"
    },
    {
     "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
@@ -422,6 +422,18 @@
     "date": 0
    },
    {
+    "title": "Nach Füllkrug - Nächster Klopp-Stürmer enthüllt",
+    "link": "https://www.bild.de/sport/fussball/naechster-klopp-stuermer-enthuellt-6aec395b0ed738572938c2c0",
+    "image": "https://images.bild.de/6aec395b0ed738572938c2c0/0ea461e9a65a8527d5b767bbfb864a42,325be52c?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Podcast über das Crans-Montana-Inferno - „Hinter der verschlossenen Tür lagen drei Tote“",
+    "link": "https://www.bild.de/news/inland/crans-montana-die-verhaengnisvolle-kette-die-zum-inferno-fuehrte-6aeb038a1a1d431301d4671d",
+    "image": "https://images.bild.de/6aeb038a1a1d431301d4671d/d317852635784e06e394592fe8ab7eef,a5e3ae8f?w=1280",
+    "date": 0
+   },
+   {
     "title": "Rechtsmedizin führt Sofortobduktion durch - Polizei fand Aiwanger tot im Bett",
     "link": "https://www.bild.de/news/inland/polizei-fand-hubert-aiwanger-tot-im-bett-obduktion-bereits-im-gange-6aeb904709e0301c03e7faf3",
     "image": "https://images.bild.de/6aeb904709e0301c03e7faf3/ea7a3ade639fc8b5183a24b5a52f571d,1c487d0b?w=1280",
@@ -438,18 +450,6 @@
     "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-bittere-geschichte-vergessener-profi-ngankam-6aeba277eca9cecdd5d47017",
     "image": "https://images.bild.de/6aeba277eca9cecdd5d47017/3124c13cf3d8500b2c65e31b2ba7bbeb,2be19184?w=1280",
     "date": 0
-   },
-   {
-    "title": "Endlich offiziell! - Kane verlängert bei Bayern",
-    "link": "https://www.bild.de/sport/fussball/harry-kane-verlaengert-seinen-vertrag-beim-fc-bayern-6aec37260ed738572938c291",
-    "image": "https://images.bild.de/6aec37260ed738572938c291/6b63c4bb1ee8f941ff16ba0ded92675f,7e412d25?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Ich bin unglaublich stolz“ - Die Stimmen zu Bayerns Kane-Verlängerung",
-    "link": "https://www.bild.de/sport/fussball/ich-bin-unglaublich-stolz-die-stimmen-zu-bayerns-kane-verlaengerung-6aec53180ed738572938c57e",
-    "image": "https://images.bild.de/6aec53180ed738572938c57e/dfcb45be17428af731a4ebb1e4c75028,d55a2215?w=1280",
-    "date": 0
    }
   ],
   "krone": [
@@ -459,12 +459,6 @@
     "image": "",
     "date": 1793873460000,
     "titleSl": "Letalske družbe bedroht - Bombenalarm über Europa – Flug muss in Wien landen"
-   },
-   {
-    "title": "Erwartet mehr US-Hilfe - Selenskyj zu Midterms: „Putin wird überlegen, …“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yX2NQdTFodVAwdzcwY2tXMjVVZlBOMWpsS1JtYW9rUE5BZXNMYWJHWHgwN3habVluM1gxRXZjNGtUdw?oc=5",
-    "image": "",
-    "date": 1793873400000
    },
    {
     "title": "55 Minuten zu spät - Pendler wütend auf die ÖBB: „Alles nur Ausreden!“",
@@ -485,6 +479,13 @@
     "image": "",
     "date": 1793873040000,
     "titleSl": "Kampf um den Aufstieg - LASK-Gegner bejubelt Champions-League -\"Wunder\""
+   },
+   {
+    "title": "„Bankmitarbeiterin“ lockte Opfer in Falle",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0UjhUa05ZVkQ0T3VGSm5MZzJqcGJ1WU9tUWl2eTByQUJlYWQxZFM0b1pUbjJ0RWxSRU9rbXB0TG9VUQ?oc=5",
+    "image": "",
+    "date": 1793872920000,
+    "titleSl": "Lockte \"Bankmitarbeiterin\" Opfer in Falle"
    },
    {
     "title": "2000 Gäste an Bord - US-Küstenwache hält Kreuzfahrtschiff fest",
@@ -580,16 +581,16 @@
   ],
   "elpais": [
    {
+    "title": "Última hora de la Cumbre Iberoamericana, en directo | Milei homologa el socialismo democrático con el fascismo ante Pedro Sánchez",
+    "link": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ELX7ZZRRUNFUTKLDLQPHAJWTEU.jpg?auth=372f413c7cfed7081753c42a236ec28444fe99bf9e5d83727a94e3980a3e92a5",
+    "date": 1793873578000
+   },
+   {
     "title": "La Fiscalía rebaja la pena de cárcel que solicita para Ignacio González en su primer juicio por corrupción",
     "link": "https://elpais.com/espana/2026-11-05/la-fiscalia-rebaja-la-pena-de-carcel-que-solicita-para-ignacio-gonzalez-en-su-primer-juicio-por-corrupcion.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EBVYZMYY2RO73F77IWOCZONFVY.jpg?auth=09914b411f17f6a1b1a4c621fccf8feddb1c965525a9ebd3174d778591a81800",
     "date": 1793873416000
-   },
-   {
-    "title": "Última hora de la Cumbre Iberoamericana, en directo | Milei homologa el socialismo democrático con el fascismo ante Pedro Sánchez",
-    "link": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ELX7ZZRRUNFUTKLDLQPHAJWTEU.jpg?auth=372f413c7cfed7081753c42a236ec28444fe99bf9e5d83727a94e3980a3e92a5",
-    "date": 1793873408000
    },
    {
     "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
