@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T18:42:23.305Z",
+ "generatedAt": "2026-11-05T18:44:22.712Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+    "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
+    "date": 1793904064000,
+    "titleSl": "Oddelek za pravosodje pospeši kazensko preiskavo uhajanja splava s strani vrhovnega sodišča"
+   },
+   {
     "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
     "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
@@ -232,16 +239,16 @@
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg",
     "date": 1793901219000,
     "titleSl": "Ponudba Lane Nusseibeh v Združenih narodih trči z vlogo Združenih arabskih emiratov v Sudanu"
-   },
-   {
-    "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
-    "link": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-florida-redoubt-hvwj/05nat-florida-redoubt-hvwj-mediumSquareAt3X.jpg",
-    "date": 1793900945000,
-    "titleSl": "\"Florida je zadnje glavno sidro\" za republikance"
    }
   ],
   "bbc": [
+   {
+    "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cmq8nn2q01wdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/815a/live/25c0ccd0-d941-11f1-93e1-3b657b665bcf.jpg",
+    "date": 1793903904000,
+    "titleSl": "\"Ne bojim se za svojo varnost pred spletno zlorabo - ker smo tako navajeni na to\""
+   },
    {
     "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
     "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4608/live/21082060-d939-11f1-93e1-3b657b665bcf.jpg",
     "date": 1793899429000,
     "titleSl": "Farage pravi, da je zaskrbljen, da bo Trump okrepil vojno v Iranu po vmesni \"katastrofi\""
-   },
-   {
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
-    "date": 1793898595000,
-    "titleSl": "Obrestne mere so se v prvem povečanju v več kot treh letih zvišale na 4%"
    }
   ],
   "aljazeera": [
@@ -334,8 +334,15 @@
     "title": "US elections 2026 live: Democrats flip four more House seats as Republicans trade blame for brutal midterms losses",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
     "image": "https://i.guim.co.uk/img/media/2d74642ff0459809ae0e038abee7d53046e79273/0_0_3233_2587/master/3233.jpg?width=140&quality=85&auto=format&fit=max&s=fa5e5043233800d8c2d44dfaf7e83516",
-    "date": 1793903117000,
+    "date": 1793903327000,
     "titleSl": "Volitve v ZDA leta 2026 v živo: Demokrati so zamenjali še štiri sedeže v predstavniškem domu, medtem ko republikanci zamenjujejo krivdo za brutalne vmesne izgube"
+   },
+   {
+    "title": "Indiana puts man to death as three US executions to be carried out on same day",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+    "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/623_0_4319_3456/master/4319.jpg?width=140&quality=85&auto=format&fit=max&s=ec9a25fd3f45ad8ab384b471268e9b6b",
+    "date": 1793903242000,
+    "titleSl": "Indiana usmrti človeka kot tri usmrtitve v ZDA, ki bodo izvedene na isti dan"
    },
    {
     "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=50e2936ab2cf39c0fdf76e1fb1df7301",
     "date": 1793901474000,
     "titleSl": "Več letal se je preusmerilo, ko so po vsej Evropi poročali o grožnjah z bombami na komercialne lete – kot se je zgodilo"
-   },
-   {
-    "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
-    "image": "https://i.guim.co.uk/img/media/492f67798c2bbe507fc39e64217ca67f1b870408/369_0_3691_2953/master/3691.jpg?width=140&quality=85&auto=format&fit=max&s=f5019accda805cb39a4a8ed6994b522c",
-    "date": 1793900681000,
-    "titleSl": "Harmeet Dhillon, kontroverzni vodja oddelka za državljanske pravice Ministrstva za pravosodje, odstopa"
    }
   ],
   "spiegel": [
@@ -455,6 +455,12 @@
   ],
   "krone": [
    {
+    "title": "Mord mit Humor - Kommissar Jennerwein lässt die Alpen beben",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRcC1UalQ1Tk5tcTJ1dHhwUkp6YzdPVTJlOTlpbllfcjBfLWJvdzhVeUFKZl9Fak9EZWlUbzJFNU9aZw?oc=5",
+    "image": "",
+    "date": 1793904127000
+   },
+   {
     "title": "„Das war Gold wert“ - ÖSV-Dame schwärmt von ganz speziellem Training",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BSXVXUFEzS0psMndDdmgtSS0ydnNtUDkzMG1JTk8yRVlad08wTk9lcDQ5T1BRUlZZeExfR3pFZmJPUQ?oc=5",
     "image": "",
@@ -485,12 +491,6 @@
     "image": "",
     "date": 1793901780000,
     "titleSl": "Rutsch rüber, Sydney! - Rihannas X-Mas Dessous: \"Ungezogen\" und megahot!"
-   },
-   {
-    "title": "Happy-End fehlt noch - Solche Geschichten schreibt nur das Leben",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lRG9aT0hNa1BjNUdlQnZVbXl5RVdXaV9udUEwd2d3OGFvSEw1MzJLbE1pVTV3Tzh4UDg4TnRtams5UQ?oc=5",
-    "image": "",
-    "date": 1793901600000
    }
   ],
   "rainews": [
