@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T02:26:21.975Z",
+ "generatedAt": "2026-11-05T02:28:21.423Z",
  "sources": {
   "siol": [
    {
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "UK commits to 'time-bound' talks on slavery apology",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d167/live/fa72efc0-d8b6-11f1-aa81-e1435663d61c.jpg",
+    "date": 1793845038000,
+    "titleSl": "Združeno kraljestvo se zavezuje k \"časovno omejenim\" pogovorom o opravičilu za suženjstvo"
+   },
+   {
     "title": "The Papers: 'Crushing midterm rebuke' and 'Trumped'",
     "link": "https://www.bbc.co.uk/news/articles/cqn06j94jlrxo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e7b/live/bb88ed00-d8b1-11f1-93e1-3b657b665bcf.jpg",
@@ -275,23 +282,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdbb/live/b9988eb0-d8b1-11f1-93e1-3b657b665bcf.jpg",
     "date": 1793837239000,
     "titleSl": "Pet razlogov, zakaj so republikanci tako slabo izgubili"
-   },
-   {
-    "title": "Interest rates expected to rise for first time in over three years",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
-    "date": 1793836809000,
-    "titleSl": "Pričakuje se, da se bodo obrestne mere prvič po več kot treh letih zvišale"
    }
   ],
   "aljazeera": [
-   {
-    "title": "El Salvador’s Bukele touts military intervention in Haiti",
-    "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aebd471-1793840241.jpg?resize=1920%2C1440",
-    "date": 1793844607000,
-    "titleSl": "Salvadorski Bukele promovira vojaško posredovanje na Haitiju"
-   },
    {
     "title": "Election deniers lose races for governor in key US swing states",
     "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
@@ -326,6 +319,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aebce7319341-1793838707.jpg?resize=1920%2C1308",
     "date": 1793838343000,
     "titleSl": "Demokrati so zmagali v kongresu. Toda ali lahko izpolnijo svoje obljube?"
+   },
+   {
+    "title": "Historic firsts redraw US political map in 2026 midterm elections",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793838251.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793838260000,
+    "titleSl": "Zgodovinski začetki na novo narišejo ameriški politični zemljevid na vmesnih volitvah leta 2026"
    }
   ],
   "guardian": [
@@ -333,7 +333,7 @@
     "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
     "link": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/83556f77433668ba8656e3e68bdde36d96c3d05c/204_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=9c671c388d920851d20299834e65a6b2",
-    "date": 1793844583000,
+    "date": 1793845198000,
     "titleSl": "Posodobitve sojenja Beau Lamarre-Condon v živo: obtoženi dvojni morilec priča v odmevnem primeru"
    },
    {
@@ -351,11 +351,11 @@
     "titleSl": "Skoraj pol milijarde dolarjev vmesne porabe Elona Muska je bilo neuspešnih"
    },
    {
-    "title": "Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial",
+    "title": "Former police officer Beau Lamarre-Condon tells double murder trial he heard homophobic abuse at work",
     "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/44608c2394601d9f8dad83d90b1a5867b69d293a/514_185_992_794/master/992.jpg?width=140&quality=85&auto=format&fit=max&s=2187ec8c32e3445ac5d54778c2d88893",
     "date": 1793843279000,
-    "titleSl": "Nekdanji policist Beau Lamarre-Condon vstopi v prostor za priče na sojenju za dvojni umor v Sydneyju"
+    "titleSl": "Nekdanji policist Beau Lamarre-Condon pripoveduje o dvojnem sojenju za umor, ko je slišal homofobno zlorabo na delovnem mestu"
    },
    {
     "title": "Datacenters were on the ballot. US voters rejected them",
@@ -462,8 +462,21 @@
     "date": 1793842578000
    },
    {
+    "title": "Das freie Wort - Petition",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4TUJvTjUxeDNHTjZLbDBGSjl5OG5FbGFmRmJBQm1HUlVzS2xBZ2p2cG9aeFdkcXVHWERaRXpKX3JfMEVudDRORnVNS2t3Y2ZnN1NDSEFzd0lUeDZJb3BtLUxUS3JmYm9tZGVtaA?oc=5",
+    "image": "",
+    "date": 1793838738000,
+    "titleSl": "Das freie Wort - Peticija"
+   },
+   {
     "title": "Das freie Wort - Hacker-Angriffe auf Supermärkte",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ud25IdmlycnhXWlgxd3NCMVlKZTk3ZllVQjd6OWp0TW03d2poTGVqUXRMNkttMUVIcmZoalZoX0NGekp3ZlhULV9NTlVYN1lzQWViUXBaS1o5dGlKa2FPUU9fUnVqRnp5dzNfTg?oc=5",
+    "image": "",
+    "date": 1793838738000
+   },
+   {
+    "title": "Das freie Wort - Flugticket-Abgabe",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JMkI5U2lHcTVpM0RhZWNDYVJxamxsN08zOGhzZGwwMk01aXVUQ3dPRFhOWDNicmduYmtrZWRXTjBoTW9SdG00Rk1WYkotd3h6T25uaTZ6VHRnaTFfREFyQmctV2JkRjEtX3oxTA?oc=5",
     "image": "",
     "date": 1793838738000
    },
@@ -478,19 +491,6 @@
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PUGdJNkhCNzdDb2NLVXBzQlVRR1Y4NDNqQ2lmMDJUU2Vpc29mVkduUWptb1ZsM081cXhUeTQtZHVhcFNuNmo2V19OOFhvd1VjcnZ3QlBKb1pjeTBNdk5OMGw2UUM4dGdoNF8teQ?oc=5",
     "image": "",
     "date": 1793838738000
-   },
-   {
-    "title": "Das freie Wort - Herr Marterbauer und das Budget",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QdU9jU194ZlVWdGZjeUViVUphRklLbFBwanpmeFhVb2pnMGZVSTg5SW9UQXRDdFRMaExQRGpWRGdBd1Y0UUpDb3VtZjdRVXRXRG8ySEFnTHJGRHFLOHY5TW5NMDUxSmllWmxsRg?oc=5",
-    "image": "",
-    "date": 1793838738000
-   },
-   {
-    "title": "Das freie Wort - Petition",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4TUJvTjUxeDNHTjZLbDBGSjl5OG5FbGFmRmJBQm1HUlVzS2xBZ2p2cG9aeFdkcXVHWERaRXpKX3JfMEVudDRORnVNS2t3Y2ZnN1NDSEFzd0lUeDZJb3BtLUxUS3JmYm9tZGVtaA?oc=5",
-    "image": "",
-    "date": 1793838738000,
-    "titleSl": "Das freie Wort - Peticija"
    }
   ],
   "rainews": [
@@ -527,10 +527,11 @@
     "date": 1793833320000
    },
    {
-    "title": "Calcio, una poltrona per due: sfida Malagò-Galliani per i vertici della Figc",
-    "link": "https://www.rainews.it/articoli/2026/11/calcio-figc-presidenza-assemblea-elettiva-giovanni-malago-adriano-galliani-candidati-98cc268a-61c4-4e29-a737-7fcb3d7030a6.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/04/1793826819253_ipiccyimage_.jpg",
-    "date": 1793830620000
+    "title": "Zelensky: “Colloquio con Witkoff e Kushner, prepariamo trilaterale entro una settimana\"",
+    "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-2e9154e0-7867-4a10-80ad-e4e7a1dc4020.html",
+    "image": "https://www.rainews.it/dl/img/2026/10/20/1792518535114_DVRY.jpg",
+    "date": 1793831220000,
+    "titleSl": "Zelenski: \"Colloquio con Witkoff e Kushner, prepariamo trilaterale entro una settimana\""
    }
   ],
   "lemonde": [
