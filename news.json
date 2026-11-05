@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T06:06:23.060Z",
+ "generatedAt": "2026-11-05T06:08:23.468Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Dončić z novim zgodovinskim dosežkom, Lakersom nova zmaga",
     "link": "https://www.24ur.com/sport/kosarka/doncic-z-novim-zgodovinskim-dosezkom.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/edec25b45d08b2403758_63674221.jpg?v=1ca2&fop=fp:0.60:0.21",
-    "date": 1793858496000
+    "date": 1793858820000
    },
    {
     "title": "Preverili, kako bojna glava razprši svoj bojni tovor",
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
+    "link": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/889f/live/a6b3b310-d8de-11f1-bc8e-97806a9f0cfa.jpg",
+    "date": 1793858839000,
+    "titleSl": "Nadrealistični trenutek Tarantino in Kylie Minogue sta prišla v moj rojstni kraj, da bi igrala v mojem novem filmu"
+   },
+   {
     "title": "£200m taxpayer-funded trains sit barely used for three years",
     "link": "https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2063/live/d22e3000-d858-11f1-94f3-cf7d1e52bb8c.png",
@@ -275,13 +282,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f611/live/a9e3b7f0-d8cb-11f1-91f1-d78b0d8c70b4.jpg",
     "date": 1793850476000,
     "titleSl": "Vance hodi po Trumpovi vrvi z ostro volilno kritiko, ki krivi vojno v Iranu"
-   },
-   {
-    "title": "More asbestos found in Parliament, as MPs urged to get on with revamp",
-    "link": "https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40af/live/3897ab80-d860-11f1-94f3-cf7d1e52bb8c.png",
-    "date": 1793847934000,
-    "titleSl": "V parlamentu našli več azbesta, saj so poslanci pozvali k prenovi"
    }
   ],
   "aljazeera": [
@@ -452,10 +452,23 @@
   ],
   "krone": [
    {
+    "title": "Trotz Hitze und Dürre - Kärnten fehlt Gesetz gegen Fluss-Verbauungen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Lc0JmTm54VUplZmRDLU1UUHhSbEdHTVN0UTRSb1FVZ2lwNjhuOG5YVnV4Ri1uTzlnVUhPMWJJLXh3UQ?oc=5",
+    "image": "",
+    "date": 1793858400000
+   },
+   {
     "title": "Sanktionsvermerk - Linzer Stahlhändler unter Russland-Verdacht",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42NFBmdWVHQUxtdnJUVXk1TU9vMjVQXzR0MlZHUDhmU1pwUlNSTjR1OHBfLXdxTWpZVDlLYjNpaFhjdw?oc=5",
     "image": "",
     "date": 1793858400000
+   },
+   {
+    "title": "Burgtheater-Premiere - Mit Nicholas Ofczarek ins „Hotel Savoy“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81VTR5NS1ja0VrRFA0a0Vlekg1anVvYWFhLWZtM2wxXzVXY25STU9LaW1rRlk4Zm5QYVBaS3FjUHFJdw?oc=5",
+    "image": "",
+    "date": 1793858400000,
+    "titleSl": "Burgtheater-Premiere - Mit Nicholas Ofczarek ins \"Hotel Savoy\""
    },
    {
     "title": "Schulterschluss - Mehr Druck im Kampf gegen den Tirol-Aufschlag",
@@ -475,19 +488,6 @@
     "image": "",
     "date": 1793858400000,
     "titleSl": "\"Bitte gebt uns keine leeren Versprechen mehr!\""
-   },
-   {
-    "title": "Trotz Hitze und Dürre - Kärnten fehlt Gesetz gegen Fluss-Verbauungen",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Lc0JmTm54VUplZmRDLU1UUHhSbEdHTVN0UTRSb1FVZ2lwNjhuOG5YVnV4Ri1uTzlnVUhPMWJJLXh3UQ?oc=5",
-    "image": "",
-    "date": 1793858400000
-   },
-   {
-    "title": "Burgtheater-Premiere - Mit Nicholas Ofczarek ins „Hotel Savoy“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81VTR5NS1ja0VrRFA0a0Vlekg1anVvYWFhLWZtM2wxXzVXY25STU9LaW1rRlk4Zm5QYVBaS3FjUHFJdw?oc=5",
-    "image": "",
-    "date": 1793858400000,
-    "titleSl": "Burgtheater-Premiere - Mit Nicholas Ofczarek ins \"Hotel Savoy\""
    }
   ],
   "rainews": [
@@ -573,6 +573,13 @@
   ],
   "elpais": [
    {
+    "title": "Ni subir la caldera ni gastar de más: el rollo de aislante térmico que optimiza la temperatura de casa",
+    "link": "https://elpais.com/escaparate/estilo-de-vida/rollo-de-aislante-termico.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/CDEZ6KLZXBHBPI6GHBC4LGWJKA.png?auth=21df84ce6df6ac9f6409f6b81c163a01a306e079175bb2559b3b94446aae8e7a",
+    "date": 1793857500000,
+    "titleSl": "Ni subir la caldera ni gastar de más: el rollo de aislante térmico que optimiza la temperature de casa"
+   },
+   {
     "title": "La prenda que necesitas en un armario cápsula: el vaquero recto de tiro alto que combina con todo",
     "link": "https://elpais.com/escaparate/estilo-de-vida/vaqueros-rectos-levis-724-high-rise-straight-mujer.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DXTBDOZC5FFJTBH567WA3C2U3U.png?auth=8dcf00d110813b99d9f355cbf7ab7827670cc6b2b6f40527e98f0171af9a1c49",
@@ -604,12 +611,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/ORFKWQ7BWRBTTBHNIKOYOGMCQY.png?auth=e0bad9eda9075f4d8ed122a9a83c62af8e2c9289b7d53e944917c2b92144a0ed&width=1200",
     "date": 1793853901000,
     "titleSl": "¿Cómo se están moviesendo las encuestas tras el accidente?"
-   },
-   {
-    "title": "¿Ha llegado el fin del trumpismo?",
-    "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-05/ha-llegado-el-fin-del-trumpismo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/S5OZ4RXQMNHCHB3MEMEIWOFIIA.jpg?auth=b05f92423904c43398766ce2b032d107df70e82e830b7cdfd9ce5688cc665432&width=1200",
-    "date": 1793853901000
    }
   ]
  },
