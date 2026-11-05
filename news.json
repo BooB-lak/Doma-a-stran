@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T12:42:22.520Z",
+ "generatedAt": "2026-11-05T12:44:31.326Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "After Riots and Protests, French Workers Are Going on Strike",
+    "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
+    "date": 1793882499000,
+    "titleSl": "Po nemirih in protestih francoski delavci stavkajo"
+   },
+   {
     "title": "Elon Musk’s Very Bad Night",
     "link": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/04/opinion/04eks-midterm-image/04eks-midterm-image-mediumSquareAt3X.jpg",
     "date": 1793876672000,
     "titleSl": "Zvonec zvoni za Trumpizem"
-   },
-   {
-    "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
-    "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-steal-jvlt/04int-israel-steal-jvlt-mediumSquareAt3X.jpg",
-    "date": 1793876658000,
-    "titleSl": "Netanjahu obtožil volilno goljufijo v povezavi z arabsko udeležbo"
    }
   ],
   "bbc": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Cristiano Ronaldo announces international retirement",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793881948.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793881956000,
+    "titleSl": "Cristiano Ronaldo napoveduje mednarodno upokojitev"
+   },
+   {
     "title": "New Yorkers rally against gun violence after Ghanaian teen’s killing",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-javits-protest-1793881489.png?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae883948fdbf-1793622932.jpg?resize=1920%2C1440",
     "date": 1793878469000,
     "titleSl": "Palantir zbira podatke z bojišča, ki jih Ukrajina plačuje \"s krvjo\""
-   },
-   {
-    "title": "‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?",
-    "link": "https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aec4349a5ba-1793868617.jpg?resize=1920%2C1440",
-    "date": 1793878418000,
-    "titleSl": "\"Knives out\": Ali bo kongres odpoklical Petea Hegsetha po vmesni izgubi republikanske stranke?"
    }
   ],
   "guardian": [
@@ -415,10 +415,23 @@
   ],
   "bild": [
    {
+    "title": "Bombendrohungen! - Mehrere Flugzeuge müssen notlanden",
+    "link": "https://www.bild.de/news/ausland/bombendrohungen-mehrere-flugzeuge-muessen-notlanden-6aec74fc47b5fce02f878eb4",
+    "image": "https://images.bild.de/6aec74fc47b5fce02f878eb4/f93144fb6a1d5e7ae77d2e534347631f,72e1d76f?w=1280",
+    "date": 0
+   },
+   {
     "title": "„Tatort“-Star spielt KZ-Monster - Nach Drehschluss brauchte Axel Prahl Umarmungen",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/axel-prahl-ueber-holocaust-drama-block-10-eine-der-wichtigsten-rollen-meines-lebens-6ae0685867fc5d0d0ce66d62",
     "image": "https://images.bild.de/6ae0685867fc5d0d0ce66d62/ae40f4a5a5cde309628abf399506835a,c7ae67fe?w=1280",
     "date": 0
+   },
+   {
+    "title": "Experten warnen - Waschmaschinentür nicht offen stehen lassen",
+    "link": "https://www.bild.de/leben-wissen/wohnen-living/waschmaschinentuer-offen-lassen-dieser-fehler-kann-schaeden-verursachen-6adb24989fbb7e8e310dd090",
+    "image": "https://images.bild.de/6adb24989fbb7e8e310dd090/0e1a59342f071f05e426a6989e221a2b,2f88c8cc?w=1280",
+    "date": 0,
+    "titleSl": "Strokovno opozorilo - Waschmaschinentür nicht offen stehen lassen"
    },
    {
     "title": "Sie waren schon in der Luft! - Bombendrohung gegen mindestens 14 Flüge in Europa",
@@ -427,32 +440,26 @@
     "date": 0
    },
    {
+    "title": "Jackpot geknackt - Deutschland hat zwei neue Lotto-Millionäre",
+    "link": "https://www.bild.de/news/inland/jackpot-geknackt-deutschland-hat-zwei-neue-lotto-millionaere-6aeb28fe09e0301c03e7f1af",
+    "image": "https://images.bild.de/6aeb28fe09e0301c03e7f1af/c9a6669096fc10e07da9da31c9393c2b,2558168c?w=1280",
+    "date": 0
+   },
+   {
     "title": "Ronaldo nie wieder für Portugal? - „Da falle ich vom Glauben ab! Dann sollten sie sich schämen!“",
     "link": "https://www.bild.de/sport/fussball/ronaldo-nie-wieder-fuer-portugal-reif-faellt-fast-vom-glauben-ab-6aec713cc7da7601aa4f88b5",
     "image": "https://images.bild.de/6aec713cc7da7601aa4f88b5/685e3834d6360159a3659492f1899d31-landscape,563ef7f2?w=1280",
     "date": 0,
     "titleSl": "Ronaldo nie wieder für Portugal? - \"Da falle ich vom Glauben ab! Dann sollten sie sich schämen!“"
-   },
-   {
-    "title": "„Er dachte, er kriegt noch den Lacher“ - Bankett-Witz von Bayern-Boss geht nicht ganz auf",
-    "link": "https://www.bild.de/sport/fussball/er-dachte-er-kriegt-noch-den-lacher-bankett-witz-von-bayern-boss-geht-nicht-ganz-auf-6aec6f4cc7da7601aa4f8853",
-    "image": "https://images.bild.de/6aec6f4cc7da7601aa4f8853/2e6277b7a81f1ff7990f5c2e30baf1f2,9be96924?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Diskussion in Live-Sendung - Bekommt Kane von den Bayern zu wenig Geld?",
-    "link": "https://www.bild.de/sport/fussball/bekommt-harry-kane-von-bayern-zu-wenig-geld-diskussionen-bei-reif-ist-live-6aec42d5eca9cecdd5d4779e",
-    "image": "https://images.bild.de/6aec42d5eca9cecdd5d4779e/c2f99d8e771e0dd6c4304e9b78c8bdf1-landscape,80b3dd8b?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Ist es Ihnen im Hintergrund aufgefallen? - Spannendes Pokal-Detail in Kane-Verlängerungsvideo",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-spannendes-pokal-detail-in-video-botschaft-von-harry-kane-6aec42b8eca9cecdd5d47794",
-    "image": "https://images.bild.de/6aec42b8eca9cecdd5d47794/8fa2ea3f7d7b817c4c4fa6bd8a978417-landscape,77ae7861?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Kurioser Wildwechsel - Autofahrerin filmt Känguru im Kamptal",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rWGVrRFdtZm81elFadzBqdWRqbXVkUUVoRXFOemx1LVkxeU9RUXVZNEcxMTlyZ3d3U2JmaGpGY0hJZw?oc=5",
+    "image": "",
+    "date": 1793882340000
+   },
    {
     "title": "Aggressiver Slowake - Auf Alko-Unfall folgte Diebstahl von Spirituosen",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HMVprMFFvTXlVdHNualEzVk5OWnpDd3RlUWNma1ZtRlNkbkxOTUpmamxaVEhxaHFmbU45RTVfNFFodw?oc=5",
@@ -478,12 +485,6 @@
     "date": 1793881500000
    },
    {
-    "title": "Starker Auftritt - Triathlet begeistert bei Olympia mit Radbestzeit",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rSHF5OEhaYzVNUXRZTU1XVEVFSzBLRHBneHJoV3JnemNjZjdqS3Z5clJpZ1VtSFZVam45NHpaM1Vrdw?oc=5",
-    "image": "",
-    "date": 1793881500000
-   },
-   {
     "title": "Viertelfinale erreicht - Miedler/Oberleitner in Paris weiter gut in Schwung",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FT2lTVnlWNy0yczBRUWJxUTlXeUdwZm1IdHFHSHBrZ2E3U1I4cmo4dG9qdEg2WGFoek1VUE1MTEd0Zw?oc=5",
     "image": "",
@@ -492,6 +493,12 @@
    }
   ],
   "rainews": [
+   {
+    "title": "Scontri dopo sgombero Askatasuna, misure cautelari per antagonisti",
+    "link": "https://www.rainews.it/articoli/2026/11/scontri-dopo-sgombero-askatasuna-misure-cautelari-per-antagonisti-168d1768-998b-477c-bf64-6e4ac47fb8c2.html",
+    "image": "https://www.rainews.it/dl/img/2026/01/31/1769890950442_rainewsffdcdfecaddcc.jpg",
+    "date": 1793882640000
+   },
    {
     "title": "Scontri dopo lo sgombero di Askatasuna, misure cautelari per 16 antagonisti",
     "link": "https://www.rainews.it/video/2026/11/scontri-dopo-lo-sgombero-di-askatasuna-misure-cautelari-per-16-antagonisti-fd3e3813-897b-4f33-8efb-898ccc36f2dc.html",
@@ -506,11 +513,10 @@
     "titleSl": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d 'albergo"
    },
    {
-    "title": "Mobilitazioni in Francia: la Tour Eiffel chiusa per lo sciopero nazionale",
+    "title": "Francia: la Tour Eiffel chiusa per lo sciopero nazionale, incappucciati incendiano liceo a Tolosa",
     "link": "https://www.rainews.it/articoli/2026/11/mobilitazioni-in-francia-la-tour-eiffel-chiusa-per-lo-sciopero-nazionale-4f92af5e-7d14-47c2-95bd-2c4580b23714.html",
     "image": "https://www.rainews.it/dl/img/2026/11/05/1793880695280_DHRX.jpg",
-    "date": 1793880780000,
-    "titleSl": "Mobilitazioni v Franciji: la Tour Eiffel chiusa per lo sciopero nazionale"
+    "date": 1793880780000
    },
    {
     "title": "Conference league, questa sera alle 18:45 Atalanta-Kairat Almaty",
@@ -525,22 +531,15 @@
     "image": "https://www.rainews.it/dl/img/2026/09/29/1790697517275_TG3FuoriTG_2048x1152_logo.png",
     "date": 1793879294000,
     "titleSl": "TG3 Fuori TG del 05.11.2026"
-   },
-   {
-    "title": "Cristiano Ronaldo si ritira dalla nazionale: fine di un’era per il Portogallo",
-    "link": "https://www.rainews.it/articoli/2026/11/cristiano-ronaldo-si-ritira-dalla-nazionale-fine-di-unera-per-il-portogallo-876b9f29-9502-4052-9812-5396561f71e5.html",
-    "image": "https://www.rainews.it/dl/img/2026/10/11/1791708662344_rainewsebaadcaca.jpg",
-    "date": 1793877900000,
-    "titleSl": "Cristiano Ronaldo si ritira dalla nazionale: fine di un'era per il Portogallo"
    }
   ],
   "lemonde": [
    {
-    "title": "En Ile-de-France, le nombre de locations Airbnb « à l’année » a atteint un record en 2025",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/05/en-ile-de-france-le-nombre-de-locations-airbnb-a-l-annee-a-atteint-un-record-en-2025_6806858_3234.html",
-    "image": "https://img.lemde.fr/2021/02/19/0/6/5037/2515/644/322/60/0/8bad65e_267622375-488970.jpg",
-    "date": 1793878537000,
-    "titleSl": "En Ile-de-France, le nombre de locations Airbnb « à l 'année » a atteint un record en 2025"
+    "title": "EN DIRECT, guerre en Ukraine : l’importation de gazole russe aux Etats-Unis tourne court",
+    "link": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-l-importation-de-gazole-russe-aux-etats-unis-tourne-court_6803934_3210.html",
+    "image": "https://img.lemde.fr/2026/06/16/1244/0/8057/4028/644/322/60/0/f3a1876_ftp-1-vcmt6691mlqv-2026-06-16t105318z-1261458877-rc2yula650zw-rtrmadp-3-russia-tatneft-fuel-restrictions.JPG",
+    "date": 1793882371000,
+    "titleSl": "EN DIRECT, guerre en Ukraine : l'importation de gazole russe aux Etats-Unis tourne court"
    },
    {
     "title": "Alan Jones, dernier champion du monde australien de formule 1 et premier sacré avec l’écurie Williams, est mort",
@@ -585,6 +584,13 @@
     "titleSl": "La UCO registracija la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos"
    },
    {
+    "title": "Alcaraz accede a los cuartos de París por la baja de Berrettini",
+    "link": "https://elpais.com/deportes/tenis/2026-11-05/alcaraz-accede-a-los-cuartos-de-paris-por-la-baja-de-berrettini.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/VSKH2NTOXRMTNGD2ECWJBYOMBE.jpg?auth=ffc8e5a74f4a927e38c765b651141a75494b3e6887927354c1a8a0a67d61c6c5",
+    "date": 1793882312000,
+    "titleSl": "Alcaraz access a los cuartos de París por la baja de Berrettini"
+   },
+   {
     "title": "Detenido un profesor de Secundaria en una concentración por la educación pública en Madrid",
     "link": "https://elpais.com/educacion/2026-11-05/detenido-un-profesor-de-secundaria-en-una-concentracion-por-la-educacion-publica-en-madrid.html",
     "image": "https://imagenes.elpais.com/resizer/v2/64WLLWA7JFCGHP2HWVDQS3D66U.jpg?auth=2856e260bfc823dddcb3fd6a0c02598896c03693ee2b24fe2b16deb52f87516c",
@@ -607,12 +613,6 @@
     "link": "https://elpais.com/economia/2026-11-05/las-empresas-reclaman-dejar-de-pagar-las-bajas-laborales-y-dar-el-control-a-las-mutuas-para-frenar-el-absentismo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/LPNXRTWP3FE7ZLSQMLCEMOPWIA.jpg?auth=021cfe499661c9811c239992064e83152d4787a67f1c45704fa3c0a7fcd5bb40",
     "date": 1793881806000
-   },
-   {
-    "title": "Competencia propone convertir en urbanizable todo el suelo no protegido para acelerar la construcción de vivienda",
-    "link": "https://elpais.com/economia/vivienda/2026-11-05/competencia-propone-convertir-en-urbanizable-todo-el-suelo-no-protegido-para-acelerar-la-construccion-de-vivienda.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MJHUS3LSNFNNRO772EUIQURSJ4.jpg?auth=1a8148406743e2594c4eb9bb01d4efc77458edf5f7e3230d5188200f378d7b56",
-    "date": 1793881513000
    }
   ]
  },
