@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T11:50:33.342Z",
+ "generatedAt": "2026-11-06T11:52:22.430Z",
  "sources": {
   "siol": [
    {
@@ -243,11 +243,18 @@
   ],
   "bbc": [
    {
-    "title": "Schools in lockdown and boy in hospital",
+    "title": "Met chief warns policing 'heading for failure' without reform",
+    "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfe/live/66892280-d9b4-11f1-a701-fddedf244c16.jpg",
+    "date": 1793965862000,
+    "titleSl": "Vodja MET-a opozarja na policijsko \"smer proti neuspehu\" brez reforme"
+   },
+   {
+    "title": "Two Gloucester schools in lockdown after boy hurt in incident",
     "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d01/live/5da01630-d9d5-11f1-9e5a-c30c5e3d8c85.jpg",
     "date": 1793965431000,
-    "titleSl": "Šole so zaprte in fant je v bolnišnici"
+    "titleSl": "Dve šoli v Gloucestru sta zaprti, potem ko se je fant poškodoval v incidentu"
    },
    {
     "title": "Tube drivers to stage strikes in Christmas run-up",
@@ -276,30 +283,9 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
     "date": 1793964080000,
     "titleSl": "Dva mrtva po avtobusnih nesrečah v Franciji, pravijo uradniki"
-   },
-   {
-    "title": "Irish media outlets evacuated after bomb threats",
-    "link": "https://www.bbc.co.uk/news/articles/cme8rr30n55ko?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997f/live/c2996b20-4a78-11ef-a0d4-af0fa324f0f6.jpg",
-    "date": 1793964071000,
-    "titleSl": "Irski mediji so se evakuirali po grožnjah z bombo"
    }
   ],
   "aljazeera": [
-   {
-    "title": "Tanzania’s smallholder farmers struggle to benefit from digital agriculture",
-    "link": "https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2024/06/Tanzania-Elephants-Feature-Image-1718015095.jpg?resize=1920%2C1440",
-    "date": 1793964939000,
-    "titleSl": "Tanzanijski mali kmetje se s težavo okoriščajo z digitalnim kmetijstvom"
-   },
-   {
-    "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
-    "link": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T170531Z_1281862151_RC2SBOAW6FCR_RTRMADP_3_RUSSIA-ENERGY-SUMMIT-BILATS-IRAN-1793959522.jpg?resize=1920%2C1440",
-    "date": 1793964518000,
-    "titleSl": "Dogovor o izstrelitvi raket ponazarja poglabljanje rusko-iranskih odnosov"
-   },
    {
     "title": "Hoax or bomb threats? What we know about flight disruptions across Europe",
     "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/getty_694e5012c2-1766739986.jpg?resize=1920%2C1440",
     "date": 1793955700000,
     "titleSl": "Sodišče podeli hišni pripor bivšemu malajskemu premierju Najibu po 12 milijonih $ kraljeve pomilostitve"
+   },
+   {
+    "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+    "link": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T034054Z_476490639_RC22IOARUHVY_RTRMADP_3_GLOBAL-MARKETS-1793950968.jpg?resize=1920%2C1440",
+    "date": 1793954465000,
+    "titleSl": "Padec tehnoloških delnic, ki ga vodijo ameriški strahovi pred umetno inteligenco, se nadaljuje v azij"
+   },
+   {
+    "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+    "link": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/PHOTO-2026-11-04-00-19-44-2-1793949474.jpg?resize=1200%2C675",
+    "date": 1793953977000,
+    "titleSl": "Zaprtje indijskega mornarja v Veliki Britaniji zaradi sankcij proti Rusiji sproži \"popolno nevihto\""
    }
   ],
   "guardian": [
@@ -577,7 +577,7 @@
     "title": "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas",
     "link": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html",
     "image": "https://imagenes.elpais.com/resizer/v2/QZUESOP5XNEBPFRFGVT2FIGMDM.jpg?auth=f69bfe013c6823ab67c639d916ff2baf0a30eda46381da0255bdfcc481a67dd6",
-    "date": 1793965222000
+    "date": 1793965698000
    },
    {
     "title": "Amazon rebaja un 46% uno de los calefactores Rowenta más vendidos justo antes de Black Friday",
