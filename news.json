@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T00:28:20.576Z",
+ "generatedAt": "2026-11-06T00:30:46.638Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Elon Musk’s Very Bad Night",
+    "link": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
+    "date": 1793924921000,
+    "titleSl": "Zelo slaba noč Elona Muska"
+   },
+   {
     "title": "Black Southerners Voted at Unusually High Levels — and They Voted for Democrats",
     "link": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04nat-black-south-01-kmth/04nat-black-south-01-kmth-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/05/opinion/05opinions-bpl-live/05opinions-bpl-live-mediumSquareAt3X.png",
     "date": 1793922945000,
     "titleSl": "Oglejte si v živo: Kaj nam povedo vmesne volitve leta 2028"
-   },
-   {
-    "title": "In Alaska, Ranked-Choice Ballots Are Unlikely to Be Enough for Dan Sullivan",
-    "link": "https://www.nytimes.com/2026/11/05/us/alaska-ranked-choice-data-sullivan-peltola.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05EA-ALASKA-RCV-ANALYSIS-SUB-kcjz/05EA-ALASKA-RCV-ANALYSIS-SUB-kcjz-mediumSquareAt3X-v2.jpg",
-    "date": 1793920602000,
-    "titleSl": "Na Aljaski je malo verjetno, da bodo lističi z uvrstitvijo na lestvici dovolj za Dana Sullivana"
    }
   ],
   "bbc": [
@@ -287,27 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793924390.jpg?resize=1920%2C1080&quality=80",
-    "date": 1793924397000,
-    "titleSl": "Izraelski naseljenci so zažgali palestinski oljčni nasad v bližini Ramale"
-   },
-   {
-    "title": "Turkiye’s parliament ratifies Mecca defence agreement",
-    "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26219433507335-1791229441.jpg?resize=1920%2C1440",
-    "date": 1793924122000,
-    "titleSl": "Turkiyev parlament ratificiral obrambni sporazum z Meko"
-   },
-   {
-    "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
-    "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aed076216140-1793918818.jpg?resize=1920%2C1440",
-    "date": 1793923591000,
-    "titleSl": "Trump se je srečal z ruskim odposlancem, potem ko se je pojavil z Melanijo Trump in Ukrajinci"
-   },
-   {
     "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/14414821-1793917435.jpg?resize=1920%2C1440",
@@ -327,22 +306,43 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aeccf04a40eb-1793904388.jpg?resize=1920%2C1440",
     "date": 1793915371000,
     "titleSl": "Generacija Z in mladi volivci pomagajo na novo opredeliti ameriško politiko po vmesnih volitvah"
+   },
+   {
+    "title": "South Africa’s ANC on track for new lows in local polls",
+    "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeac6a727ef-1793771175.jpg?resize=1920%2C1440",
+    "date": 1793915296000,
+    "titleSl": "Južnoafriški ANC na dobri poti do novih najnižjih vrednosti v lokalnih anketah"
+   },
+   {
+    "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793914940.jpg?resize=1200%2C675",
+    "date": 1793914950000,
+    "titleSl": "Družina in prijatelji žalujejo za španskim nogometašem Jesusom de Miguelom"
+   },
+   {
+    "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793914414.jpg?resize=1920%2C1080&quality=80",
+    "date": 1793914420000,
+    "titleSl": "Izraelska rušenja so v Bidduju razselila več kot 100 Palestincev"
    }
   ],
   "guardian": [
    {
+    "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+    "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
+    "date": 1793923922000,
+    "titleSl": "Volitve v ZDA leta 2026 v živo: demokrati imajo skoraj 100 več sedežev v predstavniškem domu kot republikanci, medtem ko modri val še naprej narašča"
+   },
+   {
     "title": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
     "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/178_0_2715_2171/master/2715.jpg?width=140&quality=85&auto=format&fit=max&s=f28f36d7c46b054d98cea30d7767e80c",
-    "date": 1793924301000,
+    "date": 1793923878000,
     "titleSl": "Posodobitve sojenja Beau Lamarre-Condon v živo: nekdanji policist nadaljuje dokaze v sojenju za dvojni umor"
-   },
-   {
-    "title": "US elections 2026 live: Democrats exceed 250 House seats as blue sweep of Congress grows",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-    "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
-    "date": 1793924122000,
-    "titleSl": "Volitve v ZDA leta 2026 v živo: Demokrati presegajo 250 sedežev v predstavniškem domu, medtem ko narašča modri zamah"
    },
    {
     "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
@@ -416,6 +416,13 @@
   ],
   "bild": [
    {
+    "title": "Klartext bei Illner - US-General: Putin hat Trump gekauft",
+    "link": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/klartext-bei-illner-us-general-putin-hat-trump-gekauft-6aed189ea389bc337cfc7539",
+    "image": "https://images.bild.de/6aed189ea389bc337cfc7539/a5083ba20458970a5714938869b7c1be,4895378f?w=1280",
+    "date": 0,
+    "titleSl": "Klartext bei Illner - US General: Putin hat Trump gekauft"
+   },
+   {
     "title": "Nach Treffen mit russischem Unterhändler - Trump kündigt „großen Deal“ für ganz Europa an",
     "link": "https://www.bild.de/politik/ausland-und-internationales/trump-grosses-abkommen-soll-ukraine-und-ganz-europa-betreffen-6aed014747b5fce02f879901",
     "image": "https://images.bild.de/6aed014747b5fce02f879901/f886095875561a78d63be770b5e0d25f,e73dbc3c?w=1280",
@@ -446,13 +453,6 @@
     "link": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
     "image": "https://images.bild.de/5c374fa54ae86300019b6bd4/46f0163c60f213f5b67697aa168c3555,ecd5a197?w=1280",
     "date": 0
-   },
-   {
-    "title": "Schwaches Spiel in Leverkusen - Traumtor bestraft Bayer!",
-    "link": "https://www.bild.de/sport/fussball/schwaches-spiel-in-leverkusen-traumtor-bestraft-bayer-6aecdcb4a389bc337cfc7356",
-    "image": "https://images.bild.de/6aecdcb4a389bc337cfc7356/d0d6aee667139e1829bb5094309c3636,233e9782?w=1280",
-    "date": 0,
-    "titleSl": "Schwaches Spiel v Leverkusnu - Traumtor Bestraft Bayer!"
    }
   ],
   "krone": [
