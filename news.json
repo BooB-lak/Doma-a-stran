@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T09:46:25.448Z",
+ "generatedAt": "2026-11-06T09:48:22.520Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/trendi/zvezde-in-slavni/zena-matta-damona-zaradi-mozganske-anevrizme-prestala-operacijo-705661",
     "image": "https://siol.net/media/img/ee/bf/e363e6e4473f368fb802.jpeg",
     "date": 1793958180000
+   },
+   {
+    "title": "Ponoči iz poslovnega prostora na območju Kranja ukradli večjo količino nakita",
+    "link": "https://siol.net/novice/slovenija/ponoci-iz-poslovnega-prostora-na-obmocju-kranja-ukradli-vecjo-kolicino-nakita-705673",
+    "image": "https://siol.net/media/img/78/94/bb6a668a54b3ce7e81ff.jpeg",
+    "date": 1793958060000
    },
    {
     "title": "Z ameriških borz izpuhtelo 2,5 bilijona dolarjev. Se obeta nova kriza?",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/radarska-slika-padavin-aktualna-vremenska-slika-za-slovenijo-664368",
     "image": "https://siol.net/media/img/fc/e8/04a39738d32ef800c163.jpeg",
     "date": 1793954760000
-   },
-   {
-    "title": "Levica zaradi grobega posega v Meščevo zasebnost sklicuje nujno konferenco",
-    "link": "https://siol.net/novice/slovenija/levca-zaradi-grobega-posega-v-zasebnost-mesca-sklicuje-nujno-konferenco-705666",
-    "image": "https://siol.net/media/img/1d/85/632fb448afef95b63525.jpeg",
-    "date": 1793954580000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Kdo bo prejel najprestižnejšo napovedovalsko nagrado - kristalni mikrofon?",
+    "link": "https://www.rtvslo.si/kultura/drugo/kdo-bo-prejel-najprestiznejso-napovedovalsko-nagrado-kristalni-mikrofon/799215",
+    "image": "https://img.rtvcdn.si/_up/upload/2019/11/06/65623099.jpg",
+    "date": 1793958379000
+   },
+   {
     "title": "Insajderski namigi: Od prvenca makedonske režiserke Kosare Mitić do Schleinzerjevega Rose",
     "link": "https://www.rtvslo.si/kultura/liffe/insajderski-namigi-od-prvenca-makedonske-reziserke-kosare-mitic-do-schleinzerjevega-rose/799210",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/19/67114519.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/svet/evropa/papez-leon-xiv-po-operaciji-pljuc-zacenja-obsezno-turnejo-po-juzni-ameriki/799201",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/06/67119287.jpg",
     "date": 1793952744000
-   },
-   {
-    "title": "Mesec za preoblikovanje avtobusnega sistema v Ljubljani in uvedbo krožnih avtobusnih linij",
-    "link": "https://www.rtvslo.si/slovenija/lokalne-volitve-2026/mestne-obcine/ljubljana/mesec-za-preoblikovanje-avtobusnega-sistema-v-ljubljani-in-uvedbo-kroznih-avtobusnih-linij/799199",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/13/67112573.jpg",
-    "date": 1793952198000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "'Several victims' after bus crashes in France, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "date": 1793958409000,
+    "titleSl": "\"Več žrtev\" po avtobusnih nesrečah v Franciji, pravijo uradniki"
+   },
+   {
     "title": "Two boys charged over Halloween party stabbings",
     "link": "https://www.bbc.co.uk/news/articles/c8qlnx4x349zo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f917/live/19a7c8d0-d90b-11f1-b72c-d16cdc75f35f.jpg",
@@ -255,13 +262,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0546/live/fbd37a30-d9b3-11f1-bbc7-9574ed12e2df.jpg",
     "date": 1793957765000,
     "titleSl": "Sedem aretiranih in policijski kombi so zažgali med nasiljem na Škotskem v noči kresa"
-   },
-   {
-    "title": "'Several victims' after school bus crashes in France, officials say",
-    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-    "date": 1793957523000,
-    "titleSl": "\"Več žrtev\" po nesreči šolskega avtobusa v Franciji, pravijo uradniki"
    },
    {
     "title": "Met chief warns policing 'heading for failure' without reform",
@@ -334,8 +334,15 @@
     "title": "European skies on high alert after hoax bomb threats this week – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
     "image": "https://i.guim.co.uk/img/media/58e977d2b6d34908f3a1633b4fa07e17d6057f95/318_0_3183_2546/master/3183.jpg?width=140&quality=85&auto=format&fit=max&s=29222f7d7f4e7258fa14098766047133",
-    "date": 1793955830000,
+    "date": 1793958171000,
     "titleSl": "Evropsko nebo v visoki pripravljenosti po grožnjah s potegavščinsko bombo ta teden – Evropa v živo"
+   },
+   {
+    "title": "Burnham to force employers to publish salaries on job ads in latest government ‘small fix’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/7d21f801a9b99774274ae32975f25f5875148bb3/828_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ec40a5e115b642ffc9596dffc934f49d",
+    "date": 1793958018000,
+    "titleSl": "Burnham bo prisilil delodajalce, da objavijo plače na oglasih za zaposlitev v najnovejšem vladnem \"majhnem popravku\" – politika Združenega kraljestva v živo"
    },
    {
     "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
@@ -347,7 +354,7 @@
    {
     "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
     "link": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
-    "image": "https://i.guim.co.uk/img/media/62fc3347def3843ff69f1f50b31698a322af379d/410_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=88fdb77398c56d5003918f62550dd5f2",
+    "image": "https://i.guim.co.uk/img/media/7be38b4c9d96e2e92e9362d0d1df716fa0472332/634_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=05d8e92e573867f037d96116a46e368e",
     "date": 1793955280000,
     "titleSl": "Delodajalce je treba prisiliti, da dajo plače na zaposlitvene oglase, napoveduje Andy Burnham"
    },
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/286062f82c7a7d95006741bfa7179e17aa4fda3b/253_0_2486_1989/master/2486.jpg?width=140&quality=85&auto=format&fit=max&s=6d909587748c49deade41cd47ae1e36c",
     "date": 1793953390000,
     "titleSl": "Smrt je \"izrazita možnost\" pri tekmovanjih v teku s trki in klofutanju po obrazu, zaslišijo se poizvedbe"
-   },
-   {
-    "title": "Seven people arrested in Glasgow after Bonfire Night violence across Scotland",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
-    "image": "https://i.guim.co.uk/img/media/9bfef3a2b2445c85d1a812e11259a5e7bfa27a53/490_0_4897_3917/master/4897.jpg?width=140&quality=85&auto=format&fit=max&s=f2e17368b39296ce0fe9f9a3b2fd086c",
-    "date": 1793952684000,
-    "titleSl": "Sedem oseb je bilo aretiranih v Glasgowu po nasilju na Bonfire Night po vsej Škotski"
    }
   ],
   "spiegel": [
@@ -414,6 +414,25 @@
   ],
   "bild": [
    {
+    "title": "Mit Model Anouchka - Maschmeyer erklärt den Hand-in-Hand-Moment",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/carsten-maschmeyer-er-spricht-exklusiv-ueber-model-anouchka-6aec784893d31cdb1e6ce807",
+    "image": "https://images.bild.de/6aec784893d31cdb1e6ce807/6938f593fa5c62683929977fd4dcb42d,ca848694?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Fans sauer! - Porno-Star sorgt für Zoff bei England-Klub",
+    "link": "https://www.bild.de/sport/fussball/fans-sauer-porno-star-sorgt-fuer-zoff-bei-england-klub-6aed7ae0a389bc337cfc77ba",
+    "image": "https://images.bild.de/6aed7ae0a389bc337cfc77ba/a8fe50310440f689bbd9c2503f432e2a,797c4212?w=1280",
+    "date": 0,
+    "titleSl": "Ventilatorji sauer! - Porno-Star sorgt für Zoff bei England-Klub"
+   },
+   {
+    "title": "Gibts im Internet für unter 10 Euro - Häftling löste Fußfessel mit Universalschlüssel",
+    "link": "https://www.bild.de/regional/essen/flucht-in-essen-haeftling-mit-10-euro-schluessel-befreit-6aec6badc7da7601aa4f87cb",
+    "image": "https://images.bild.de/6aec6badc7da7601aa4f87cb/93f3a2d738629c6047a29b6e98da6599,58d115f9?w=1280",
+    "date": 0
+   },
+   {
     "title": "BILD-Reporter Karl Keim bei Aiwangers Heimat - „Er hat sich die Sorgen der Menschen angenommen“",
     "link": "https://www.bild.de/politik/in-rahstorf-ist-aiwanger-gross-geworden-er-hat-sich-die-sorgen-der-menschen-angenommen-6aeca1a947b5fce02f87940d",
     "image": "https://images.bild.de/6aeca1a947b5fce02f87940d/cfaf51eb988327d3b581948ff920ba58-landscape,275a2647?w=1280",
@@ -431,27 +450,23 @@
     "link": "https://www.bild.de/news/inland/inferno-von-crans-montana-bar-betreiber-soll-ehefrau-verpruegelt-haben-6aea0a198654beaecfe2896d",
     "image": "https://images.bild.de/6aea0a198654beaecfe2896d/921d772ae6efe6b9bf72fd9b24f99dbf,fa93759a?w=1280",
     "date": 0
-   },
-   {
-    "title": "Noch ein Problem für Eralp - Nächste Linke kämpft für kriminelle Clan-Mitglieder",
-    "link": "https://www.bild.de/politik/inland/neuer-aerger-um-radikalen-fluegel-naechste-problem-linke-in-berlin-6aed80a2a389bc337cfc7828",
-    "image": "https://images.bild.de/6aed80a2a389bc337cfc7828/013920573d8a63576e5140247dc19703,ae282fb?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Bares für Rares“ am 6. November 2026 - Lange vergessene Brosche wird zum Glücksfund",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-heute-vergessene-edelbrosche-uebertrifft-die-expertise-6aed8fcf320931eb80f5bb51",
-    "image": "https://images.bild.de/6aed8fcf320931eb80f5bb51/ab054d560a84848dfaeb856e2c674627,f629729e?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Škoda Kamiq im Gebrauchtwagen-Check - Kompakter Crossover punktet mit viel Platz",
-    "link": "https://www.bild.de/leben-wissen/auto/skoda-kamiq-bj-2024-im-gebrauchtwagen-check-praktisch-und-durchdacht-6ae89a5c1d5fd399fd46170f",
-    "image": "https://images.bild.de/6ae89a5c1d5fd399fd46170f/75ea71b697d9bd059ae10e64d5ed1372-landscape,e3f3de49?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Weltweite Angriffe - FBI warnt: Kühlregale weiter im Visier von Hackern",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUeFk4UzlpRWpPWnJwRGU4MXlNMVRvUHFaMUJiYzNqeVMtN1N2TE1ETmZfM2VnYmRUVzluWFk5ZGtkUQ?oc=5",
+    "image": "",
+    "date": 1793957640000,
+    "titleSl": "Weltweite Angriffe - opozorilo FBI: Kühlregale weiter im Visier von Hackern"
+   },
+   {
+    "title": "Ex-Mitarbeiter in Haft - 800.000 Euro bei Waldviertler Kultfirma gestohlen",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqcEstdGJ6V0FCUjdncXVZaVU0YktSUGdHS2xjMFB1cVVXSHdhekFXak5vVHVDTkVUb3hObXYzV0p2QQ?oc=5",
+    "image": "",
+    "date": 1793957100000,
+    "titleSl": "Ex-Mitarbeiter in Haft - 800.000 evrov bei Waldviertler Kultfirma gestohlen"
+   },
    {
     "title": "Gefährlicher Streich - Nadel-Spuk mit Folgen: Das droht den jungen Tätern",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OOFJWcXpvbzZ1R0h5UzhwSE13NWVOeTQtS3pNdWNMUXdKUUdpWkluY01WaU5tcHVZaExTTWlnR1ZvQQ?oc=5",
@@ -476,19 +491,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KTG1fNi1LQ28yVGRRa3hGR0l6T1RmbmNMejJ4aHAxWjJkd3p2R3VqdnRkaTQzam5DYkpWaTVMb21zUQ?oc=5",
     "image": "",
     "date": 1793955720000
-   },
-   {
-    "title": "„Keine Frage!“ - Können Menschen Frieden lernen?",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vVGRNY2VYaWlBcTRtNjJHZUlOWFVDSThJMlVrZEIzaUJGRXo5X3ExbjlIcmpyOU5uRjV0Nng2VW1Hdw?oc=5",
-    "image": "",
-    "date": 1793955600000,
-    "titleSl": "\"Keine Frage!\" - Können Menschen Frieden lernen?"
-   },
-   {
-    "title": "Leicht und stark - Chinesen bringen Supersport-Motorrad á la Ducati",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wQW50UmdZcDJ5QUhFN1ZfN2lFZWRhSnQwT081dmtYM3JFSVE4ZkVvdk9KY2NBM1FTSFc1WFBQc2hYUQ?oc=5",
-    "image": "",
-    "date": 1793955600000
    }
   ],
   "rainews": [
@@ -576,6 +578,31 @@
   ],
   "elpais": [
    {
+    "title": "The XX, Pixies, The War on Drugs y Amelie Lens lideran el primer adelanto del Bilbao BBK Live",
+    "link": "https://elpais.com/cultura/2026-11-06/the-xx-pixies-the-war-on-drugs-y-amelie-lens-lideran-el-primer-adelanto-del-bilbao-bbk-live.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/MQDYPX3JZBOZ7MCPBHRDQ6QQXM.jpg?auth=9a44408080e9391122331341ccfc74ffc0127c792116e022800da73778d30d32",
+    "date": 1793958139000
+   },
+   {
+    "title": "La Séptima se estrena por encima de las expectativas, con varios programas en el 3%",
+    "link": "https://elpais.com/television/2026-11-06/la-septima-se-estrena-por-encima-de-las-expectativas-con-varios-programas-en-el-3.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/2O7HBKQQKBLSLC2UQ35GROZ7IQ.jpg?auth=89857b0a3489eeee9cd9e88f9e98e41d331c0e4838548a553444c6fc9841154a",
+    "date": 1793957910000
+   },
+   {
+    "title": "Los hombres menores de 30 años lideraron el cambio de partido a favor de los demócratas en las ‘midterms’",
+    "link": "https://elpais.com/us/2026-11-06/los-hombres-menores-de-30-anos-lideraron-el-cambio-de-partido-a-favor-de-los-democratas-en-las-midterms.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/GNVCC2ZGZZJIJHUDCUH7AVBJAI.jpg?auth=25302c7bf332d79063c79628650ffea704473215e888b3e470e514d4be84609b",
+    "date": 1793957400000
+   },
+   {
+    "title": "Las nuevas congresistas, gobernadoras y alcaldesas que pintan el mapa de Estados Unidos de azul “como una apisonadora”",
+    "link": "https://elpais.com/us/2026-11-06/las-nuevas-congresistas-gobernadoras-y-alcaldesas-que-pintan-el-mapa-de-estados-unidos-de-azul-como-una-apisonadora.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/R4ILRGS3PFAPZPUKLRN36RUJ6U.jpg?auth=8d0fcd45e85e74c2c1d21187d8b7552ea2fc8c7b1f1779328c16610bdb46fcf4",
+    "date": 1793957400000,
+    "titleSl": "Las nuevas congresistas, gobernadoras y alcaldesas que pintan el mapa de Estados Unidos de azul \"como una apisonadora\""
+   },
+   {
     "title": "El fondo del Monte de Piedad, Dalí, el agua y la historia del cine: exposiciones para abrir noviembre",
     "link": "https://elpais.com/espana/madrid/2026-11-06/el-fondo-del-monte-de-piedad-dali-el-agua-y-la-historia-del-cine-exposiciones-para-abrir-noviembre.html",
     "image": "https://imagenes.elpais.com/resizer/v2/KDXY2QC6XZF6BFZUOSKTFLS7ZI.jpg?auth=02ccd5b8d0fd165c56ebd4e1522db953ec9f5e90b630b59d9862c79d04a4e9c5",
@@ -586,31 +613,6 @@
     "link": "https://elpais.com/espana/pais-vasco/2026-11-06/la-guardia-civil-detiene-a-dos-personas-en-san-sebastian-acusados-de-pertenecer-a-una-organizacion-criminal.html",
     "image": "https://imagenes.elpais.com/resizer/v2/C2J6CRMMTNCK5M2KAYMFLANGBU.jpeg?auth=7a9dff0a4abd027f0ca724ff1f1340c605645bb16373109aec36b7cf9d65c796",
     "date": 1793956420000
-   },
-   {
-    "title": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
-    "link": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZKI6SCWZTNGL5NDIMWL6LUXSSE.jpg?auth=8514ad97ba16f533b7b80562e562821566454f00181c37df425c84e63950d5e8",
-    "date": 1793956348000
-   },
-   {
-    "title": "Arca sopla las velas de los 15 años del Mira, el festival de electrónica del otoño",
-    "link": "https://elpais.com/espana/catalunya/2026-11-06/arca-sopla-las-velas-de-los-15-anos-del-mira-el-festival-de-electronica-del-otono.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/IEJ3R4OXWFG67CDW5EU6J55JNA.jpg?auth=50b54eb3b8395e13d756fe97102afd17f4b614be38a605ee680d751293ccfc9d",
-    "date": 1793956277000
-   },
-   {
-    "title": "El ataque a un centro de ayuda en la provincia ucrania de Zaporiyia suma ya 50 víctimas mortales",
-    "link": "https://elpais.com/internacional/2026-11-05/el-ataque-a-un-centro-de-ayuda-en-la-provincia-ucrania-de-zaporiyia-suma-ya-43-victimas-mortales.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/GZGXDRQCNVOR7JQRKTL77V4SC4.jpg?auth=01b8b59b497a5b34a14364261a05c8d8f91d3f8636c420037c96cd188cb53382",
-    "date": 1793955903000
-   },
-   {
-    "title": "Almodóvar se viene arriba y hace historia en ‘La revuelta’ al cantar ‘Suck it to me’ en directo 30 años después: “Fabio y yo hacíamos parodia del punk”",
-    "link": "https://elpais.com/television/2026-11-06/almodovar-se-viene-arriba-y-hace-historia-en-la-revuelta-al-cantar-suck-it-to-me-en-directo-30-anos-despues-fabio-y-yo-haciamos-parodia-del-punk.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/WJY276QWWFDQJKECP6OPEXGTBQ.jpg?auth=9312b153cd9d30f4514217b4f95ee39b0b72d26bb0f53c065a098631961cb8dc",
-    "date": 1793955203000,
-    "titleSl": "Almodóvar se viene arriba y hace historia en ‘La revuelta’ al cantar ‘Suck it to me’ en directo 30 años después: \"Fabio y yo hacíamos parodia del punk\""
    }
   ]
  },
