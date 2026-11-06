@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T10:48:23.186Z",
+ "generatedAt": "2026-11-06T10:50:37.491Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/trendi/zvezde-in-slavni/olivier-martinez-po-sodnem-sporu-od-halle-berry-zahteva-vec-kot-200-tisoc-evrov-705676",
     "image": "https://siol.net/media/img/1c/bc/014911a09b96335f04d7.jpeg",
     "date": 1793961960000
+   },
+   {
+    "title": "V nesreči šolskega avtobusa v Franciji najmanj dva mrtva, več ranjenih",
+    "link": "https://siol.net/novice/svet/v-nesreci-solskega-avtobusa-v-franciji-najmanj-dva-mrtva-vec-ranjenih-705682",
+    "image": "https://siol.net/media/img/68/77/1f169b65f13455e3eed8.jpeg",
+    "date": 1793961780000
    },
    {
     "title": "Še pred nekaj tedni nepredstavljivo, danes pa lahko Olimpija prehiti Maribor",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/trendi/zvezde-in-slavni/zena-matta-damona-zaradi-mozganske-anevrizme-prestala-operacijo-705661",
     "image": "https://siol.net/media/img/ee/bf/e363e6e4473f368fb802.jpeg",
     "date": 1793958180000
-   },
-   {
-    "title": "Ponoči iz poslovnega prostora na območju Kranja ukradli večjo količino nakita",
-    "link": "https://siol.net/novice/slovenija/ponoci-iz-poslovnega-prostora-na-obmocju-kranja-ukradli-vecjo-kolicino-nakita-705673",
-    "image": "https://siol.net/media/img/78/94/bb6a668a54b3ce7e81ff.jpeg",
-    "date": 1793958060000
    }
   ],
   "24ur": [
@@ -123,7 +123,7 @@
     "date": 1793960460000
    },
    {
-    "title": "Huda nesreča avtobusa, umrlo naj bi več ljudi",
+    "title": "Huda nesreča avtobusa, najmanj dva mrtva",
     "link": "https://www.zurnal24.si/svet/huda-nesreca-avtobusa-umrlo-naj-bi-vec-ljudi-467853",
     "image": "https://www.zurnal24.si/media/img/d9/d3/99bd58e1c6f5922a3559.jpeg",
     "date": 1793958900000
@@ -413,15 +413,28 @@
   ],
   "bild": [
    {
-    "title": "Mit zwei Kugeln - Aus Versehen! Jäger erschießt sich selbst",
-    "link": "https://www.bild.de/regional/rheinland-pfalz/mit-zwei-kugeln-jaeger-erschiesst-sich-aus-versehen-selbst-6aecca9dc7da7601aa4f91c3",
-    "image": "https://images.bild.de/6aecca9dc7da7601aa4f91c3/9037518ef623854478a812b21a5b3c20,8bda27da?w=1280",
-    "date": 0
-   },
-   {
     "title": "Flüge aus Prag betroffen - Wieder Bombendrohungen gegen Passagierflugzeuge",
     "link": "https://www.bild.de/news/fluege-aus-prag-betroffen-wieder-bombendrohungen-gegen-passagierflugzeuge-6aedad05a389bc337cfc7c3d",
     "image": "https://images.bild.de/6aedad05a389bc337cfc7c3d/cd2742dd7d969e9fdfe325d7eb246ec1,35531af0?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Aus Protest Läden dicht - So sähe es in Halles Läden ohne migrantische Händler aus",
+    "link": "https://www.bild.de/regional/sachsen-anhalt/aus-protest-laeden-dicht-so-saehe-es-in-halles-laeden-ohne-migrantische-haendler-aus-6aec3408eca9cecdd5d475d4",
+    "image": "https://images.bild.de/6aec3408eca9cecdd5d475d4/ffde023ee3a98ecd3382f84e1d98c062,329449e7?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Er war wütend auf seine Bank - Sicherheitsmann stoppt Todesschützen in Florida",
+    "link": "https://www.bild.de/news/ausland/er-war-wuetend-auf-seine-bank-sicherheitsmann-stoppt-todesschuetzen-in-florida-6aed9182320931eb80f5bb75",
+    "image": "https://images.bild.de/6aed9182320931eb80f5bb75/4533477ed0c8d13e2dc1a8080aa4bebb,7157b2b9?w=1280",
+    "date": 0,
+    "titleSl": "Er war wütend auf seine Bank - Sicherheitsmann je ustavil Todesschützen na Floridi"
+   },
+   {
+    "title": "Mit zwei Kugeln - Aus Versehen! Jäger erschießt sich selbst",
+    "link": "https://www.bild.de/regional/rheinland-pfalz/mit-zwei-kugeln-jaeger-erschiesst-sich-aus-versehen-selbst-6aecca9dc7da7601aa4f91c3",
+    "image": "https://images.bild.de/6aecca9dc7da7601aa4f91c3/9037518ef623854478a812b21a5b3c20,8bda27da?w=1280",
     "date": 0
    },
    {
@@ -436,32 +449,26 @@
     "image": "https://images.bild.de/6aed6b7f47b5fce02f879ad0/6465ee1416af340fde94912796c9f1a0,11ad181d?w=1280",
     "date": 0,
     "titleSl": "Nach Lkw-Unfall - \"Extreme Gefahr!» Alarm za darila v Krefeldu"
-   },
-   {
-    "title": "Prime-Kunden aufgepasst! - Amazon streicht beliebten Lieferando-Vorteil",
-    "link": "https://www.bild.de/leben-wissen/digital/amazon-prime-und-lieferando-gratis-lieferung-endet-in-wenigen-tagen-6aed97da320931eb80f5bbf4",
-    "image": "https://images.bild.de/6aed97da320931eb80f5bbf4/0fce65893b95ec520a55bdd55ab77312,d9e34ec7?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Werder ohne Chance - Top-Transfer haut im Sommer ab",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-ohne-chance-dieser-top-transfer-haut-im-sommer-ab-6aed944f47b5fce02f879d23",
-    "image": "https://images.bild.de/6aed944f47b5fce02f879d23/4ae7c0c8fab666f28603bf32c0a8da0c,ed9b5a75?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Aus nach fünf Jahren - Sinner trennt sich von Trainer! Schwede übernimmt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXaVotdVRFU0hYY3VTeUdjbUw1ZHpqVWZpOXFfM2J4Nl93N0RON2NFMnktOG5LeW9Va3Q1QmF0bXRTZw?oc=5",
+    "image": "",
+    "date": 1793961840000
+   },
+   {
+    "title": "Nach nur 14 Monaten - Pierpaolo Piccioli verlässt Luxuslabel Balenciaga",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ZM0dvMm9Vbnl3c3FCN0dsMkh1cHBQYThSd0tjTWwxZGdoeFd0RmhRbFdwNVNBWWhHaHFTNnJvVVdrQQ?oc=5",
+    "image": "",
+    "date": 1793961600000
+   },
    {
     "title": "„Sieg Heil“-Rufe in Zillertalbahn: Jetzt Anklage!",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UQXBZb1ZPSWNSS09sQnVjV1FzOHNWZXhHRllOdDFWOHFMVG5sWDNyLWo1al8wcU54cUlIRFhaVS03Zw?oc=5",
     "image": "",
     "date": 1793961120000
-   },
-   {
-    "title": "Diskussion um Jungstar - Freund: Lennart Karl? „Er scheißt sich nichts“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUMm91YjhCNzZQeDRqa3lmNjNaSlNYWmprTGZjSVNsRHpNa19SanpBR0h0cGZabzA0bjlNbmg4S3FUZw?oc=5",
-    "image": "",
-    "date": 1793961000000
    },
    {
     "title": "Eine Person verletzt - Blechsalat sorgt für Chaos im Berufsverkehr",
@@ -470,22 +477,16 @@
     "date": 1793961000000
    },
    {
+    "title": "Diskussion um Jungstar - Freund: Lennart Karl? „Er scheißt sich nichts“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUMm91YjhCNzZQeDRqa3lmNjNaSlNYWmprTGZjSVNsRHpNa19SanpBR0h0cGZabzA0bjlNbmg4S3FUZw?oc=5",
+    "image": "",
+    "date": 1793961000000
+   },
+   {
     "title": "Kinostarts der Woche - Helen Mirren zeigt Mordlust & Godzilla ist zurück",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56dzJCVlB1QkRKcWV0MHRKZGxiNC1FVDdNLXFCMmpUVXM4bktWYmNsazlTR3JvaDM1ZFh6cWtyR0F2dw?oc=5",
     "image": "",
     "date": 1793960940000
-   },
-   {
-    "title": "Bruch im September - Jesus bedauert CR7-Rücktritt – und hängt Bild auf",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tOEpFVmg3Z1BHWWNKZWRXQkpSekNEejBveVNMUmRzTmx5RDl2RzBEVlZ0VHZ5OGZBQlplVVdxbm1OUQ?oc=5",
-    "image": "",
-    "date": 1793960460000
-   },
-   {
-    "title": "Halloween-Teufelei - Echter Horror! Kind verschluckt fast Nagel-Falle",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zX0YycEF5NVhRQnZVbV9uQnpkR2tOYy01NVdaQm5ObTB0VUs1U3pWanFMRnQ0ZmQxUTJmcnhPT0hIZw?oc=5",
-    "image": "",
-    "date": 1793960460000
    }
   ],
   "rainews": [
@@ -545,11 +546,11 @@
     "titleSl": "L 'année 2026 sera « probablement» la deuxième année la plus chaude jamais enregistrée dans le monde, après 2024"
    },
    {
-    "title": "Confrontés au séisme de l’IA, des mathématiciens cherchent des pistes de cohabitation",
-    "link": "https://www.lemonde.fr/sciences/article/2026/11/06/confrontes-au-seisme-de-l-ia-des-mathematiciens-cherchent-des-pistes-de-cohabitation_6807757_1650684.html",
-    "image": "https://img.lemde.fr/2026/01/22/250/0/3000/1500/644/322/60/0/b0242cb_upload-1-6zuflj8298qw-fond-17.jpg",
-    "date": 1793957410000,
-    "titleSl": "Confrontés au séisme de l 'IA, des mathématiciens cherchent des pistes de cohabitation"
+    "title": "Au Masters 1000 de Paris, les joueurs doivent composer avec l’une des surfaces les plus rapides du circuit",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/06/au-masters-1000-de-paris-les-joueurs-doivent-composer-avec-l-une-des-surfaces-les-plus-rapides-du-circuit_6807758_3242.html",
+    "image": "https://img.lemde.fr/2026/11/05/720/0/8640/4320/644/322/60/0/cf92a94_ftp-1-ot9xt64hi5bn-afp-d6je6kt.jpg",
+    "date": 1793957413000,
+    "titleSl": "Au Masters 1000 de Paris, les joueurs doivent composer avec l'une des surfaces les plus rapides du circuit"
    },
    {
     "title": "Au Mexique, la concentration des data centers suscite l’inquiétude des habitants de l’Etat du Querétaro",
@@ -559,11 +560,10 @@
     "titleSl": "Au Mexique, la concentration des data centres suscite l 'quiétudedes habitants de l'Etat du Querétaro"
    },
    {
-    "title": "Incendie dans le lycée Nelson-Mandela de Nantes : deux élèves de 16 ans ont été mis en examen, selon le parquet",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/06/incendie-dans-le-lycee-nelson-mandela-de-nantes-deux-eleves-de-16-ans-ont-ete-mis-en-examen-selon-le-parquet_6807751_3224.html",
-    "image": "https://img.lemde.fr/2026/11/03/631/0/7572/3786/644/322/60/0/6e635bc_ftp-1-y5hz2pzyaarb-afp-d6988t8.jpg",
-    "date": 1793955783000,
-    "titleSl": "Incendie dans le lycée Nelson-Mandela de Nantes : deux élèves de 16 ans ont été mis en examen, selon le parket"
+    "title": "« Novaïa Gazeta » dans « Le Monde », trente ans de journalisme de combat face aux pouvoirs russes",
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/06/novaia-gazeta-dans-le-monde-trente-ans-de-journalisme-de-combat-face-aux-pouvoirs-russes_6807750_4500055.html",
+    "image": "https://img.lemde.fr/2026/11/03/864/0/5184/2592/644/322/60/0/c205286_upload-1-a370rgukjbcn-maxbestof203751.jpg",
+    "date": 1793955618000
    },
    {
     "title": "Les importations d’animaux vers Vantara, gigantesque sanctuaire indien, restent sous surveillance malgré la volonté du centre de redorer son image",
