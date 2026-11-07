@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T15:52:24.456Z",
+ "generatedAt": "2026-11-07T15:54:22.855Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1794065640000
    },
    {
-    "title": "V streljanju na Poljskem mrtvi in ranjeni",
+    "title": "Grozljivka: na znanem turističnem trgu ubitih najmanj osem ljudi, več kot ducat ranjenih: \"Zatecite se na varno\"",
     "link": "https://siol.net/novice/svet/v-streljanju-na-poljskem-mrtvi-in-ranjeni-705754",
     "image": "https://siol.net/media/img/ef/48/11e7f10872e6410fb627.png",
     "date": 1794064860000
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Z avtomobila streljal na ljudi v središču Krakova, najmanj pet mrtvih",
+    "link": "https://www.24ur.com/novice/tujina/z-avtomobila-streljal-na-ljudi-v-srediscu-krakova-najmanj-pet-mrtvih.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/5a0157ab26380f7f3126_63675640.jpg?v=8286&fop=fp:0.46:0.54",
+    "date": 1794066702000
+   },
+   {
     "title": "Kvalifikacije Bezzecchiju, iz prve vrste še Marquez in DiGiannantonio",
     "link": "https://www.24ur.com/sport/motogp/vn-katarja-zadnji-treningi-pred-kvalifikacijami-v-losailu.html",
     "image": "https://images.24ur.com/media/images/213xX/Sep2026/a5356388b44eb2e260ae_63646661.jpg?v=c26b&fop=fp:0.52:0.39",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/na-zaledeneli-reki-obticala-srna-resevalec-tvegal-zivljenje.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/ac4fe1a7842847fb3e5b_63675632.jpg?v=0da4&fop=fp:0.56:0.33",
     "date": 1794062592000
-   },
-   {
-    "title": "Tik pred tlemi trčila, se zapletla in utrpela smrtne poškodbe",
-    "link": "https://www.24ur.com/novice/tujina/tik-pred-tlemi-trcila-se-zapletla-in-utrpela-smrtne-poskodbe.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/8e812f25dbc39620d37b_63675628.jpg?v=a551&fop=fp:0.40:0.24",
-    "date": 1794061982000
    }
   ],
   "rtvslo": [
@@ -300,11 +300,11 @@
     "titleSl": "Trumpov novi šef kabineta Stephen Miller pravi, da je \"rešil Ameriko\""
    },
    {
-    "title": "Casualties reported after shooting in Poland’s Krakow",
+    "title": "At least five people killed in shooting in Poland’s Krakow",
     "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6aef428423-1794065028.jpg?resize=1920%2C1440",
     "date": 1794064975000,
-    "titleSl": "Po streljanju v poljskem Krakovu so poročali o žrtvah"
+    "titleSl": "V streljanju v poljskem Krakovu je umrlo najmanj pet ljudi"
    },
    {
     "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
@@ -330,10 +330,10 @@
   ],
   "guardian": [
    {
-    "title": "Krakow shooting latest updates: five killed and more than a dozen injured, police say",
+    "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
     "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/0ba585ac87e3a2c28b9b171801fb854c71310266/639_0_4381_3505/master/4381.jpg?width=140&quality=85&auto=format&fit=max&s=ccff5c2fe243d350d07c3bdf5bdc8bdb",
-    "date": 1794065614000,
+    "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
+    "date": 1794066458000,
     "titleSl": "Najnovejše novice o streljanju v Krakovu: pet mrtvih in več kot ducat ranjenih, pravi policija"
    },
    {
@@ -575,7 +575,7 @@
     "title": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza mayor de Cracovia",
     "link": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DQWVYXKU3JD63NAQ732E7SS3VA.JPG?auth=4072c1b24d74acdf5aee332320d170f35d545b5a77827495e273c142b1891c21",
-    "date": 1794065742000,
+    "date": 1794066690000,
     "titleSl": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza Mayor de Cracovia"
    },
    {
