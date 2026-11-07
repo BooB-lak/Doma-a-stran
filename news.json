@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-07T16:14:22.039Z",
+ "generatedAt": "2026-11-07T16:16:23.445Z",
  "sources": {
   "siol": [
+   {
+    "title": "Nogometna pravljica iz alpskega raja lahko dobi novo poglavje",
+    "link": "https://siol.net/sportal/nogomet/italijansko-prvenstvo-11-krog-705707",
+    "image": "https://siol.net/media/img/15/77/e56c811e57f527348224.jpeg",
+    "date": 1794068040000
+   },
    {
     "title": "Cedevita Olimpija v Srbiji, Krka doma #vŽivo",
     "link": "https://siol.net/sportal/kosarka/liga-aba-sedmi-krog-705749",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-10-krog-705704",
     "image": "https://siol.net/media/img/b1/00/9bcd80a86eb3e0445a9a.jpeg",
     "date": 1794063540000
-   },
-   {
-    "title": "V ogenj Bayern in Borussia #vŽivo",
-    "link": "https://siol.net/sportal/nogomet/nemsko-prvenstvo-9-krog-705716",
-    "image": "https://siol.net/media/img/78/26/abe1c816efc86f86d462.jpeg",
-    "date": 1794063240000
    }
   ],
   "24ur": [
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Zapeljal na glavni trg in začel streljati, umrlo pet oseb",
+    "link": "https://www.zurnal24.si/svet/zapeljal-na-glavni-trg-in-zacel-streljati-umrlo-pet-oseb-467906",
+    "image": "https://www.zurnal24.si/media/img/6d/0b/5143b78dae379397793c.jpeg",
+    "date": 1794068100000
+   },
+   {
     "title": "Grozljiv prizor na avtocesti: Iz gorečega letala rešili le še trupli",
     "link": "https://www.zurnal24.si/svet/grozljiv-prizor-na-avtocesti-iz-gorecega-letala-resili-le-se-trupli-467905",
     "image": "https://www.zurnal24.si/media/img/f6/af/044381a315bf1c74fbb1.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/svet/brutalen-pretep-zaradi-parkiranja-58-letnik-hudo-poskodovan-467902",
     "image": "https://www.zurnal24.si/media/img/34/64/2200c2f8585208d6123b.jpeg",
     "date": 1794055980000
-   },
-   {
-    "title": "Belgijski prvak zapustil Pogačarja, razkril tudi pravi razlog",
-    "link": "https://www.zurnal24.si/sport/kolesarstvo/belgijski-prvak-zapustil-pogacarja-razkril-tudi-pravi-razlog-467900",
-    "image": "https://www.zurnal24.si/media/img/06/cf/4d3f3d1ce7924fdb378f.jpeg",
-    "date": 1794054660000
    }
   ],
   "reuters": [
@@ -263,6 +263,13 @@
     "titleSl": "Dva moška aretirana, potem ko je bil v napadu z mečem ranje"
    },
    {
+    "title": "Evacuations in Liverpool city centre after car crash causes gas leak",
+    "link": "https://www.bbc.co.uk/news/articles/c9203x7pj0kjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/61af1640-dabb-11f1-a701-fddedf244c16.jpg",
+    "date": 1794064000000,
+    "titleSl": "Evakuacije v središču Liverpoola po prometni nesreči povzročijo uhajanje plina"
+   },
+   {
     "title": "Hamilton, Leclerc and Verstappen to have penalties",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c32/live/d1e82420-daba-11f1-8c3b-f3c0d6bd7c4f.jpg",
@@ -275,13 +282,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6b/live/1dd78550-dab7-11f1-8c3b-f3c0d6bd7c4f.jpg",
     "date": 1794061720000,
     "titleSl": "Pločevinke ribje juhe Baxters so se spomnile zaradi strahu, da bi lahko \"nabreknile in potencialno počile\""
-   },
-   {
-    "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
-    "link": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dc/live/9f7d7c60-daab-11f1-9da2-b11e4d68c08e.jpg",
-    "date": 1794056637000,
-    "titleSl": "Knicksi branijo Taylor Swift, potem ko so igralci poimenovali njeno \"najbolj lažno slavno oboževalko\""
    }
   ],
   "aljazeera": [
@@ -333,7 +333,7 @@
     "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
     "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
-    "date": 1794067137000,
+    "date": 1794067608000,
     "titleSl": "Najnovejše novice o streljanju v Krakovu: pet mrtvih in več kot ducat ranjenih, pravi policija"
    },
    {
@@ -413,17 +413,17 @@
   ],
   "bild": [
    {
+    "title": "Auf dem Marktplatz - Fünf Tote und viele Verletzte bei Schüssen in Krakau",
+    "link": "https://www.bild.de/news/ausland/auf-dem-marktplatz-tote-und-verletzte-nach-schuessen-in-krakau-6aef423b80d3a1c6aa66c4d5",
+    "image": "https://images.bild.de/6aef423b80d3a1c6aa66c4d5/d8469f07c0add745d4ac099b4ddc10bb,e1b14eda?w=1280",
+    "date": 0
+   },
+   {
     "title": "Weltrekord in Sachsen - Dieses Mett-Baguette ist echt ein Brett!",
     "link": "https://www.bild.de/regional/sachsen/59-meter-lang-deutsche-stellen-mettbroetchen-weltrekord-auf-6aef2ed5a389bc337cfc923d",
     "image": "https://images.bild.de/6aef2ed5a389bc337cfc923d/3a215a213063cdb2a98fc06a6f4a731d,6de4a476?w=1280",
     "date": 0,
     "titleSl": "Weltrekord na Sachsenu - Dieses Mett-Baguette ist echt ein Brett!"
-   },
-   {
-    "title": "Auf dem Marktplatz - Fünf Tote und viele Verletzte bei Schüssen in Krakau",
-    "link": "https://www.bild.de/news/ausland/auf-dem-marktplatz-tote-und-verletzte-nach-schuessen-in-krakau-6aef423b80d3a1c6aa66c4d5",
-    "image": "https://images.bild.de/6aef423b80d3a1c6aa66c4d5/d8469f07c0add745d4ac099b4ddc10bb,e1b14eda?w=1280",
-    "date": 0
    },
    {
     "title": "Angreifer auf Gut Skaugum - Mann attackiert Marius Borg in seinem Haus",
@@ -459,14 +459,14 @@
     "date": 1794067260000
    },
    {
-    "title": "„Hackathon 2026“ - „Spinnereien“ und coole Lösungen für Kniffliges",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPMTRXdllNZjB0ZlhFby1QRmFtbm43VUNQOXktenVRclNLWlI2ajhTVUtjWTUyMm5ZWjBpRHhkTEhRdw?oc=5",
+    "title": "Europaballett tanzt - Theater des Balletts wird zum „Rockpalast“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4waVFQRmhFQm95QUdPWGFHaXVyc18wbGUtSXM4YTN1cGhtclg0a1hjS3pMYTdVME1NdmVBM3d6bWR2QQ?oc=5",
     "image": "",
     "date": 1794067200000
    },
    {
-    "title": "Europaballett tanzt - Theater des Balletts wird zum „Rockpalast“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4waVFQRmhFQm95QUdPWGFHaXVyc18wbGUtSXM4YTN1cGhtclg0a1hjS3pMYTdVME1NdmVBM3d6bWR2QQ?oc=5",
+    "title": "„Hackathon 2026“ - „Spinnereien“ und coole Lösungen für Kniffliges",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPMTRXdllNZjB0ZlhFby1QRmFtbm43VUNQOXktenVRclNLWlI2ajhTVUtjWTUyMm5ZWjBpRHhkTEhRdw?oc=5",
     "image": "",
     "date": 1794067200000
    },
@@ -477,16 +477,18 @@
     "date": 1794066180000
    },
    {
-    "title": "Bis 2035 - Offiziell! Formel 1 verlängert mit Kultstrecke",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wdTJNVEFIOVZ4ak1JUjVObFp2QUZ5MmUxR0E5OGp5cGRleENBTk5Zb0oyd0l3T1pUeGVSUGExVEpMZw?oc=5",
+    "title": "Bundesliga im Ticker - LIVE: Feiert auch GAK gegen Lustenau eine Torshow?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VYTJnSktvOXRTMEcySkgzZEFCYlo1d2g1UlZOOHZYSFo5MjhPUVhhckFmSERNWGJsRHpQaVppMmdKQQ?oc=5",
     "image": "",
-    "date": 1794064620000
+    "date": 1794066180000,
+    "titleSl": "Bundesliga im Ticker - LIVE: Feiert auch gak gegen Lustenau eine Torshow?"
    },
    {
-    "title": "Aus gegen Mainz - Es bleibt zäh: Bayerns Neuer schon wieder verletzt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xYl9WSjdOd2RKWmRfbTVYOE1iM05jOF9lTzIzenFlLUlTZElEdmpfYzBfOWhpc2dCdC0wc0pBc09ndw?oc=5",
+    "title": "Premier League - LIVE: Arsenal hat mit Hull City viel Mühe",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FWGp3azhZQ2FoR3RhWmotbTBDMnh5UVYzRFRWNzdQSU9hc3k3S082RzBUWmxQRU9vcnNEX3ZRcHNlUQ?oc=5",
     "image": "",
-    "date": 1794064560000
+    "date": 1794065700000,
+    "titleSl": "Premier League - V ŽIVO: Arsenal hat mit Hull City viel Mühe"
    }
   ],
   "rainews": [
@@ -575,6 +577,19 @@
   ],
   "elpais": [
    {
+    "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal: “Se va a grabar en condiciones distintas”",
+    "link": "https://elpais.com/television/2026-11-07/la-revuelta-cancela-la-presencia-de-su-publico-previsto-para-la-entrevista-con-santiago-abascal-se-va-a-grabar-en-condiciones-distintas.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/GG56AB4FGRCWBMGYH7LWJ7AATI.jpg?auth=9183fe596593d2ec4472067ed45b00ea172d5771a5571aeaf436d04b30651189",
+    "date": 1794067596000,
+    "titleSl": "„La revuelta“ cancela la presencia de su público previsto para la entrevista con Santiago Abascal: „Se va a grabar en condiciones distintas“"
+   },
+   {
+    "title": "El Hierro pide más ayuda al Estado ante la llegada de más cayucos a Canarias",
+    "link": "https://elpais.com/espana/2026-11-07/el-hierro-pide-mas-ayuda-al-estado-ante-la-llegada-de-mas-cayucos-a-canarias.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/JBIK27VZ4ZJXFIZ2U2KW42RD3E.jpg?auth=867f20080e8fd714c899e9b27fedd3420f5c668023404585b1feb3d5fdba61b2",
+    "date": 1794067233000
+   },
+   {
     "title": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza mayor de Cracovia",
     "link": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DQWVYXKU3JD63NAQ732E7SS3VA.JPG?auth=4072c1b24d74acdf5aee332320d170f35d545b5a77827495e273c142b1891c21",
@@ -600,19 +615,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261107/1235059_151506_video_1800.mp4",
     "date": 1794060112000,
     "titleSl": "Sánchez llama a una votación masiva el 29-N: \"La mejor receta contra la involución se llama movilización\""
-   },
-   {
-    "title": "Feijóo, desde Valladolid: “El PSOE está a punto de canonizar al señor Puente, qué falta de respeto”",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-11-07/feijoo-desde-valladolid-el-psoe-esta-a-punto-de-canonizar-al-senor-puente-que-falta-de-respeto.html",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261107/1235062_152237_video_1800.mp4",
-    "date": 1794059582000,
-    "titleSl": "Feijóo, desde Valladolid: \"El PSOE está a punto de canonizar al señor Puente, qué falta de respeto\""
-   },
-   {
-    "title": "Rusia golpea con fuerza el sistema energético de Ucrania en vísperas de una nueva ronda de negociaciones de paz",
-    "link": "https://elpais.com/internacional/2026-11-07/rusia-golpea-con-fuerza-el-sistema-energetico-de-ucrania-en-visperas-de-una-nueva-ronda-de-negociaciones-de-paz.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/66DNP25UXFNW3JXUS2O5KQQXV4.jpg?auth=0a48874dbf21256fe298ccab1b3702f1d0d54a127e2c28561808848112f59f43",
-    "date": 1794057559000
    }
   ]
  },
