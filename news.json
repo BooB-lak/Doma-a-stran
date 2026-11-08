@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T17:46:22.000Z",
+ "generatedAt": "2026-11-08T17:48:22.078Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Norris vodilni, odlična dirka za Verstappna",
     "link": "https://www.24ur.com/sport/formula1/jubilejna-400-dirka-hamiltona-bo-poskrbel-za-sok-in-presenetil-vse.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/8a817b94c241e275c3a8_63635994.jpg?v=c7a3&fop=fp:0.50:0.47",
-    "date": 1794159706000
+    "date": 1794159979000
    },
    {
     "title": "Vlak treščil v drugega, iztirilo več vagonov: najmanj 120 ranjenih",
@@ -331,6 +331,13 @@
   ],
   "guardian": [
    {
+    "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
+    "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
+    "image": "https://i.guim.co.uk/img/media/d71f2d0dd58e7fe61cbc061733f7d8a12bbeeabb/528_0_4193_3354/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=66f25c602c9706bccdf03e536cc5b4d9",
+    "date": 1794159759000,
+    "titleSl": "Polovica skladov NZS v Angliji nima sredstev, namenjenih za kritje porodniškega dopusta"
+   },
+   {
     "title": "Collision of two trains in Egypt kills at least seven",
     "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
     "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=140&quality=85&auto=format&fit=max&s=51a17381a25777a029d4c199d691e2b4",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/2f0cfda5b4b7109ebe4ec8eb20a10ab54f0a4474/981_0_6708_5367/master/6708.jpg?width=140&quality=85&auto=format&fit=max&s=5ab2c142e6b26ce718c663761b1e8733",
     "date": 1794150043000,
     "titleSl": "Goveja industrija tiho zatre del lastnega učnega načrta za naravoslovje, potem ko rančarji protestirajo"
-   },
-   {
-    "title": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
-    "image": "https://i.guim.co.uk/img/media/3ccaece5cc48aad5908346391943e02e0802357f/1705_186_4187_3349/master/4187.jpg?width=140&quality=85&auto=format&fit=max&s=7df3b60523e58831f139e906f57236eb",
-    "date": 1794149819000,
-    "titleSl": "Konec \"kometa bruhanja\": Scillonian III odpluje na zadnje potovanje z otokov Scilly"
    }
   ],
   "spiegel": [
@@ -414,17 +414,23 @@
   ],
   "bild": [
    {
-    "title": "Live im TV - Hoeneß zweifelt an Musiala",
-    "link": "https://www.bild.de/sport/fussball/live-im-tv-hoeness-zweifelt-an-musiala-6af0773580d3a1c6aa66d3ba",
-    "image": "https://images.bild.de/6af0773580d3a1c6aa66d3ba/f4d996815af4f50d79d07adfa9fa31e1-landscape,833335a1?w=1280",
-    "date": 0
-   },
-   {
     "title": "Quarterback zerlegt die Falcons - Burrow-Show beim NFL-Spektakel in Spanien!",
     "link": "https://www.bild.de/sport/mehr-sport/nfl-burrow-show-beim-spektakel-in-madrid-quarterback-zerlegt-atlanta-6af0b37ee81147c5b07dc35a",
     "image": "https://images.bild.de/6af0b37ee81147c5b07dc35a/84f71bdb7bd025c0d24512e680465971-landscape,143858bb?w=1280",
     "date": 0,
     "titleSl": "Quarterback zerlegt die Falcons - Burrow-Show beim NFL-Spektakel v španščini!"
+   },
+   {
+    "title": "FCM feiert 4:1-Gala - Doch eine dicke Sorge überschattet den Sieg",
+    "link": "https://www.bild.de/sport/fussball/1-fc-magdeburg-4-1-gegen-st-pauli-fcm-stuermt-auf-platz-vier-6af091b2d487d5232edf0fe0",
+    "image": "https://images.bild.de/6af091b2d487d5232edf0fe0/13883fd8443af26c91ec619bf7840463,f1e9e3?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Live im TV - Hoeneß zweifelt an Musiala",
+    "link": "https://www.bild.de/sport/fussball/live-im-tv-hoeness-zweifelt-an-musiala-6af0773580d3a1c6aa66d3ba",
+    "image": "https://images.bild.de/6af0773580d3a1c6aa66d3ba/f4d996815af4f50d79d07adfa9fa31e1-landscape,833335a1?w=1280",
+    "date": 0
    },
    {
     "title": "Leiche in Brandenburg gefunden - Vermisste Lisa (13) aus Berlin ist tot",
@@ -443,25 +449,24 @@
     "link": "https://www.bild.de/sport/mehr-sport/jack-campbell-bewegende-geste-fuer-verletzten-nfl-star-6af0af1e513d142081ffff64",
     "image": "https://images.bild.de/6af0af1e513d142081ffff64/ecf6e9054ce2b64a40c86e13fc6cd85a-landscape,b2b94af?w=1280",
     "date": 0
-   },
-   {
-    "title": "Spiel in Norwegen unterbrochen - Tribüne stürzt ein, eine Person im Krankenhaus",
-    "link": "https://www.bild.de/sport/fussball/fussball-tribuene-stuerzt-ein-eine-person-im-krankenhaus-6af0a5f380d3a1c6aa66d791",
-    "image": "https://images.bild.de/6af0a5f380d3a1c6aa66d791/4424f61860b87793a9f1a468d008fcb9,5d864f3c?w=1280",
-    "date": 0,
-    "titleSl": "Spiel in Norwaygen unterbrochen - Tribüne stürzt ein, eine Person im Krankenhaus"
    }
   ],
   "krone": [
    {
-    "title": "Positiver Quali-Druck - Neue Situation im Slalomteam steigert Motivation",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xT2I3WUg2WVBNbkxQUVdqay1ZUkM1SDZLVXE1NDV3dHhYX1h3MUxJZzkzbXlsUzlrWU1iUzVhZTJ2Zw?oc=5",
+    "title": "„Abstiegskampf!“ Austria-Frust nach WSG-Match",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05bFd6Ynh5V2ZDU3JYQ2sxcUFXeElMbkpOZUtYdjZ4RDcxaEl6QkN3OHcybUlpOTUtWVVZYkVKMzZ4Zw?oc=5",
     "image": "",
-    "date": 1794159000000
+    "date": 1794159240000
    },
    {
     "title": "FIFA-Wahl im März - Zeit für den Umsturz läuft ab – wo ist Europa?",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PNm1WVmJqUEptWEhKT1Q1d2xrbzUtUHROdVRsc2dIRXBoYUVTalp4QjktdHhSeHI4RGVjbW1UeWxldw?oc=5",
+    "image": "",
+    "date": 1794159000000
+   },
+   {
+    "title": "Positiver Quali-Druck - Neue Situation im Slalomteam steigert Motivation",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xT2I3WUg2WVBNbkxQUVdqay1ZUkM1SDZLVXE1NDV3dHhYX1h3MUxJZzkzbXlsUzlrWU1iUzVhZTJ2Zw?oc=5",
     "image": "",
     "date": 1794159000000
    },
@@ -480,12 +485,6 @@
    {
     "title": "Geschäfte unter Druck - Schnäppchen und Co.: Schattenseiten für den Handel",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UZGphYk9YYkhRSklmbzgxcEJXcW5QWHhDWUpKUFZrOW1MOTFxcXA4a0hrODh2TXdVa0VlLXdSc3N1dw?oc=5",
-    "image": "",
-    "date": 1794157200000
-   },
-   {
-    "title": "Tiroler VP Parteitag - Söder wird gefeiert, ÖVP muss Kritik einstecken",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4cGNoRk1WYjk2RksyRXZwSjl5Y1FNWVdTMXVoaUxadjJfRW5BcW5LTy0yMDVsNkc5SERnZHp5aW5Vdw?oc=5",
     "image": "",
     "date": 1794157200000
    }
@@ -578,7 +577,7 @@
     "title": "Norris emerge en el aguacero del GP de Brasil",
     "link": "https://elpais.com/deportes/formula-1/2026-11-07/norris-emerge-en-el-aguacero-del-gp-de-brasil.html",
     "image": "https://imagenes.elpais.com/resizer/v2/S7LJ25AM3RNLHEGZY7M3NFPSFA.jpg?auth=6c39a55973db06db3da1c9017443274b6b71f1b2530059dd642b4188df9fbf27",
-    "date": 1794159905000
+    "date": 1794159665000
    },
    {
     "title": "Alcaraz, un campeón sin fronteras: Shelton a la lona y París ya en su expediente",
@@ -600,11 +599,10 @@
     "titleSl": "Eisenkot apela a un Gobierno de “emergencia nacional” ante la “necesidad urgente de un nuevo liderazgo” en Izrael"
    },
    {
-    "title": "GP de Qatar| Márquez termina segundo en Lusail y tendrá que esperar al menos hasta el Gran Premio de Portugal para coronarse",
+    "title": "GP de Qatar en directo, la carrera de MotoGP, en vivo | Márquez termina segundo en Lusail y tendrá que esperar al menos hasta el Gran Premio de Portugal para coronarse",
     "link": "https://elpais.com/deportes/motociclismo/2026-11-08/gp-de-qatar-en-directo-la-carrera-de-motogp-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/SONS5AVFVZGFBDKYM2J5ONKDUE.JPG?auth=63c3a0b6265b4a52143aa21969f2d9fac8187b66a51d08240ba92166ae5cbe54",
-    "date": 1794153506000,
-    "titleSl": "GP de Katar| Márquez termina segundo en Lusail y tendrá que esperar al menos hasta el Gran Premio de Portugal para coronarse"
+    "date": 1794153506000
    },
    {
     "title": "NFL en el Santiago Bernabéu: el partido entre Cincinnati Bengals y Atlanta Falcons, en imágenes",
