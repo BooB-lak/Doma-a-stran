@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-08T12:48:23.852Z",
+ "generatedAt": "2026-11-08T12:50:36.189Z",
  "sources": {
   "siol": [
    {
     "title": "Trump mesto tiskovnega predstavnika Bele hiše ponudil vodji UFC Dani Whiteu",
     "link": "https://siol.net/novice/svet/trump-mesto-tiskovnega-predstavnika-bele-hise-ponudil-vodji-ufc-dani-whiteu-705779",
-    "image": "https://siol.net/media/img/bf/0c/21c24bec4bd989cc2595.jpg",
+    "image": "https://siol.net/media/img/65/8c/e6b85a8a8ef3274dab3b.jpg",
     "date": 1794141960000
    },
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Poslovil se je Sebastián Lelio, čilski režiser z oskarjem nagrajene Fantastične ženske",
+    "link": "https://www.rtvslo.si/kultura/film-in-tv/poslovil-se-je-sebastian-lelio-cilski-reziser-z-oskarjem-nagrajene-fantasticne-zenske/799419",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/08/67119976.jpg",
+    "date": 1794142093000
+   },
+   {
     "title": "Po ruskih napadih v Ukrajini več sto tisoč prebivalcev brez električne energije",
     "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/po-ruskih-napadih-v-ukrajini-vec-sto-tisoc-prebivalcev-brez-elektricne-energije/799418",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/08/67119971.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/knjige/120-let-od-pesnikovega-slovesa-kobarid-se-je-poklonil-simonu-gregorcicu/799413",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/08/67119968.jpg",
     "date": 1794135881000
-   },
-   {
-    "title": "Anjuša Belehar: Downtown down",
-    "link": "https://www.rtvslo.si/kultura/beremo/anjusa-belehar-downtown-down/799410",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/08/67119958.jpg",
-    "date": 1794134914000
    }
   ],
   "zurnal": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "The Price of Child Stardom",
+    "link": "https://www.nytimes.com/2026/11/08/briefing/the-price-of-child-stardom.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/08themorning-nl-kpop/08themorning-nl-kpop-mediumSquareAt3X.gif",
+    "date": 1794141784000,
+    "titleSl": "Cena otroškega zvezdništva"
+   },
+   {
     "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
     "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-ckmj/08int-israel-eisenkot-wtk-ckmj-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-assess-lphq/08dc-assess-lphq-mediumSquareAt3X.jpg",
     "date": 1794132128000,
     "titleSl": "Za Trumpa in Ameriko jasna volilna sodba, vendar nejasna prihodnost"
-   },
-   {
-    "title": "How Mississippi Reached the Verge of Electing a Black Senator",
-    "link": "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-mississippi-senate-plhv/08nat-mississippi-senate-plhv-mediumSquareAt3X.jpg",
-    "date": 1794132124000,
-    "titleSl": "Kako je Mississippi dosegel mejo izvolitve črnega senatorja"
    }
   ],
   "bbc": [
@@ -413,39 +413,41 @@
   ],
   "bild": [
    {
+    "title": "Trainer ahnte nichts - Mikrofon-Spionage bei Werder",
+    "link": "https://www.bild.de/sport/fussball/werder-bremen-trainer-ahnte-nichts-mikrofon-spionage-bei-werder-6af04f7ea389bc337cfc9e01",
+    "image": "https://images.bild.de/6af04f7ea389bc337cfc9e01/02ad85c6bc34a98670c9fdea02ed152c,22b4f9ee?w=1280",
+    "date": 0,
+    "titleSl": "Trener ahnte nichts - Mikrofon-Spionage bei Werder"
+   },
+   {
+    "title": "Bill Kaulitz verkündet in Berlin - In diesem Outfit moderiere ich „Wetten, dass..?“",
+    "link": "https://www.bild.de/unterhaltung/musik/bill-kaulitz-von-tokio-hotel-in-diesem-outfit-moderiere-ich-wetten-dass-6af02cf00a21c433c3c4f694",
+    "image": "https://images.bild.de/6af02cf00a21c433c3c4f694/c5429365aa94a7b0804b2eb0e9591ab8,a3651e17?w=1280",
+    "date": 0,
+    "titleSl": "Bill Kaulitz verkündet v Berlinu - In diesem Outfit moderiere ich „Wetten, dass..?“"
+   },
+   {
+    "title": "3 Festnahmen! - Pali-Schande vor dem Reichstag",
+    "link": "https://www.bild.de/regional/berlin/drei-verdaechtige-palaestina-fahne-vorm-reichstag-gehisst-6af058d1a389bc337cfc9ecc",
+    "image": "https://images.bild.de/6af058d1a389bc337cfc9ecc/3157229489189faec2973931741eadef,2c8b7c16?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Wie lange der Bayern-Torwart ausfällt - Neuer-Diagnose da!",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-diagnose-von-manuel-neuer-diagnose-da-so-lange-faellt-er-aus-6af03a46a389bc337cfc9c31",
+    "image": "https://images.bild.de/6af03a46a389bc337cfc9c31/a2cd670b688d6e2fc95f248ab0aa4389,fda0a6a?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Einspruch gegen Strafbefehl - JP Kraemer rechnet sich ärmer",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/jp-kraemer-einspruch-gegen-270-000-euro-strafe-eingelegt-6aef3419bd9dc1882a99edfb",
+    "image": "https://images.bild.de/6aef3419bd9dc1882a99edfb/a7041fb765a3f3aba4f8a4ca0409b8f7,21c23562?w=1280",
+    "date": 0
+   },
+   {
     "title": "13-Jährige verschwunden - Hier fleht Lisas Mutter um Hilfe",
     "link": "https://www.bild.de/regional/berlin/lisa-13-aus-berlin-vermisst-mutter-bittet-im-livestream-um-hilfe-6af034091125adfe9365c2c0",
     "image": "https://images.bild.de/6af034091125adfe9365c2c0/e58d2cc46158969b828d26734bac9371,bb14c83d?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Schande am Reichstagsgebäude - Palästinenser-Flagge erst nach einer Stunde entfernt",
-    "link": "https://www.bild.de/regional/berlin/schande-am-reichstagsgebaeude-palaestinenser-flagge-erst-nach-einer-stunde-entfernt-6af06c3d1125adfe9365c88c",
-    "image": "https://images.bild.de/6af06c3d1125adfe9365c88c/53d7fffe1e54048225fffef205cfa52d,2d8ca8f3?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Trotz Platz 17 - Ilzer warnt vor Krisen-Schalke",
-    "link": "https://www.bild.de/sport/fussball/tsg-hoffenheim-trainer-ilzer-warnt-vor-krisen-schalke-6af0672ba389bc337cfca02f",
-    "image": "https://images.bild.de/6af0672ba389bc337cfca02f/a8b366a31d8194876453a9d5ae7028e5,58af307f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Nach Krebs-OP - NFL-Legende (59) spricht über Familien-Planung",
-    "link": "https://www.bild.de/sport/mehr-sport/nfl-nach-krebs-op-deion-sanders-59-spricht-ueber-familien-planung-6acdefea5c63f3f92ddddc55",
-    "image": "https://images.bild.de/6acdefea5c63f3f92ddddc55/d07ea1ca9c863e14ca3ac284651dcdfb,c0824c73?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Bauernseufzer“ gewinnt - Zum 1. Mal! „Wurst des Jahres“ gekürt",
-    "link": "https://www.bild.de/regional/thueringen/sogar-weisswurstkoenigin-begeistert-der-bauernseufzer-ist-die-wurst-des-jahres-6af04b0d80d3a1c6aa66cf27",
-    "image": "https://images.bild.de/6af04b0d80d3a1c6aa66cf27/efee0cc1cc1439fd775c7c9a08bc8390,e39ee2bc?w=1280",
-    "date": 0
-   },
-   {
-    "title": "BILD-Polizeireporter Axel Lier - „Es gibt Parallelen zum Fall Rebecca Reusch“",
-    "link": "https://www.bild.de/news/inland/vermisste-13-jaehrige-in-berlin-marzahn-axel-lier-ordnet-ein-6af0633280d3a1c6aa66d186",
-    "image": "https://images.bild.de/6af0633280d3a1c6aa66d186/85171efadbc21ebbfa0c0210a1b87bd5,5e77fdae?w=1280",
     "date": 0
    }
   ],
@@ -490,11 +492,18 @@
   ],
   "rainews": [
    {
-    "title": "Serie A, Napoli-Lazio 1-1: gli azzurri pareggiano a al 49&#x27;",
+    "title": "Serie A, Napoli-Lazio 1-1: gli azzurri pareggiano al 49&#x27;",
     "link": "https://www.rainews.it/maratona/2026/11/calcio-serie-a-giornata-11-sassuolo-lazio-roma-cagliari-torino-como-milan-bologna-venezia-inter-parma-udinese-genoa-juventus-monza-napoli-frosinone-lecce-fiorentina-atalanta-risultati-cronaca-aggiornamenti-diretta-highlights-sintesi-video-5796d6fd-90a5-4793-bf4c-20bbb7f02ceb.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/08/1794141458791_TZMTSIPANICZVHRTRMADPSIPAUSA.JPG",
-    "date": 1794141780000,
-    "titleSl": "Serie A, Napoli-Lazio 1-1: gli azzurri pareggiano a al 49'"
+    "image": "https://www.rainews.it/dl/img/2026/11/08/1794141960012_large.jpg",
+    "date": 1794142140000,
+    "titleSl": "Serie A, Napoli-Lazio 1-1: gli azzurri pareggiano al 49'"
+   },
+   {
+    "title": "I genitori e la sorella, sono i cadaveri scoperti a casa dell&#x27;attentatore di Cracovia",
+    "link": "https://www.rainews.it/video/2026/11/i-genitori-e-la-sorella-sono-i-cadaveri-scoperti-a-casa-dellattentatore-di-cracovia--182fe77a-4a6b-401f-b09c-45cc5e46fe37.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/08/1794139697602_videoframe.png",
+    "date": 1794139560000,
+    "titleSl": "I genitori e la sorella, sono i cadaveri scoperti a casa dell 'atentatore di Cracovia"
    },
    {
     "title": "Svolta in Israele, l&#x27;incarico a Eisenkot:\" Farò tutto il possibile per dimostrarci all&#x27;altezza\"",
@@ -522,13 +531,6 @@
     "link": "https://www.rainews.it/maratona/2026/11/media-mosca-ad-abu-dhabi-con-delegazione-ampliata-ucraina-al-gelo-sotto-i-raid-russi-dc41b29e-9f1b-42d3-8fee-edf4f23b7cd3.html",
     "image": "https://www.rainews.it/dl/img/2026/9/23/1790158661372_BSzqjTG.jpg",
     "date": 1794136740000
-   },
-   {
-    "title": "L&#x27;articolo 33 della Costituzione entra nello statuto dell&#x27;Orienteering",
-    "link": "https://www.rainews.it/articoli/2026/11/articolo-33-costituzione-italiana-entra-statuto-orienteering-orientamento-fisos-sport-turismo-ambiente-cultura-giomi-federazioni-sportive-coni-citta-arte-ministero-fiso-mennea-7a7bc9e5-4e51-40bc-b15d-9e4ab7f18c82.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/08/1794133931152_giomi.jpg",
-    "date": 1794136260000,
-    "titleSl": "L'articolo 33 della Costituzione entra nello statuto dell'Orienteering"
    }
   ],
   "lemonde": [
