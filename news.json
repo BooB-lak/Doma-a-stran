@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T18:04:23.006Z",
+ "generatedAt": "2026-11-08T18:06:23.368Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,7 @@
     "title": "Norris vodilni, odlična dirka za Verstappna in Hadjarja",
     "link": "https://www.24ur.com/sport/formula1/jubilejna-400-dirka-hamiltona-bo-poskrbel-za-sok-in-presenetil-vse.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/8a817b94c241e275c3a8_63635994.jpg?v=c7a3&fop=fp:0.50:0.47",
-    "date": 1794160255000
+    "date": 1794161156000
    },
    {
     "title": "Vlak treščil v drugega, iztirilo več vagonov: najmanj 120 ranjenih",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Blizu prizorišča napada v Krakovu tudi slovenski dijaki",
+    "link": "https://www.zurnal24.si/svet/blizu-prizorisca-napada-v-krakovu-tudi-slovenski-dijaki-467938",
+    "image": "https://www.zurnal24.si/media/img/f2/b1/f4c4f42a6ef8af03130a.jpeg",
+    "date": 1794160560000
+   },
+   {
     "title": "Marquez ni zmagal, a naredil velik korak k naslovu",
     "link": "https://www.zurnal24.si/sport/moto-sporti/marquez-ni-zmagal-a-naredil-velik-korak-k-naslovu-467937",
     "image": "https://www.zurnal24.si/media/img/20/4a/8ff5c85899066d8bc3b7.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/avto/renaultu-se-je-smejalo-zdaj-bo-fiat-popravil-napako-467858",
     "image": "https://www.zurnal24.si/media/img/f2/87/bbe3d4045f6824febf2b.jpeg",
     "date": 1794149676000
-   },
-   {
-    "title": "Potnika opisala grozljivo nesrečo: \"Ljudje so bili ukleščeni pod sedeži\"",
-    "link": "https://www.zurnal24.si/svet/potnika-opisala-grozljivo-nesreco-ljudje-so-bili-uklesceni-pod-sedezi-467933",
-    "image": "https://www.zurnal24.si/media/img/89/f2/2befeb2a55668af0aace.jpeg",
-    "date": 1794148020000
    }
   ],
   "reuters": [
@@ -243,11 +243,25 @@
   ],
   "bbc": [
    {
+    "title": "Alcaraz takes revenge on Shelton to win first Paris title",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ae/live/c1b3eb80-db95-11f1-a42b-dbe60e973664.jpg",
+    "date": 1794160595000,
+    "titleSl": "Alcaraz se maščuje Sheltonu za osvojitev prvega pariškega naslova"
+   },
+   {
     "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
     "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d42/live/5bcb9e00-db7a-11f1-a701-fddedf244c16.jpg",
     "date": 1794159748000,
     "titleSl": "Dva aretirana, potem ko so policisti ranjeni v pretepu pred dogodkom pretepa z golimi členki"
+   },
+   {
+    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+    "date": 1794159313000,
+    "titleSl": "Sedem mrtvih in več kot 100 poškodovanih po trčenju vlakov v Egiptu"
    },
    {
     "title": "Footage shows derailed carriages after fatal train crash in Egypt",
@@ -269,20 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
     "date": 1794152245000,
     "titleSl": "Vlada razmišlja o prepovedi vstopa mlajšim od 16 let v Vinted in eBay"
-   },
-   {
-    "title": "Homes and temples glow across India to mark Diwali",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b73/live/64aba5a0-db85-11f1-b441-2b33b063138f.jpg",
-    "date": 1794148929000,
-    "titleSl": "Prenočišča in templji svetijo po vsej Indiji v znamenje Diwalija"
-   },
-   {
-    "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-    "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg",
-    "date": 1794145747000,
-    "titleSl": "Kralj vodi slovesno nedeljsko mašo spomina na Cenotaph"
    }
   ],
   "aljazeera": [
@@ -533,6 +533,13 @@
   ],
   "lemonde": [
    {
+    "title": "Immigration : Une proposition de loi socialiste veut régulariser 300 000 travailleurs sans‑papiers",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/08/immigration-une-proposition-de-loi-socialiste-veut-regulariser-300-000-travailleurs-sans-papiers_6808461_3224.html",
+    "image": "https://img.lemde.fr/2026/11/06/223/0/8256/4128/644/322/60/0/2a371ba_upload-1-g5eym2hvqakg-000-34g83wt.jpg",
+    "date": 1794160808000,
+    "titleSl": "Priseljevanje : Une proposition de loi socialiste veut régulariser 300 000 travailleurs sans-papiers"
+   },
+   {
     "title": "Carlos Alcaraz, vainqueur du Masters 1000 de Paris, trouve dans le plaisir de jouer la force de vaincre",
     "link": "https://www.lemonde.fr/sport/article/2026/11/08/vainqueur-du-masters-1000-de-paris-carlos-alcaraz-trouve-dans-le-plaisir-de-jouer-la-force-de-vaincre_6808458_3242.html",
     "image": "https://img.lemde.fr/2026/11/08/500/0/6000/3000/644/322/60/0/8fe9349_ftp-1-wje3xwdt6srw-2026-11-08t162513z-912258524-up1emb819lz07-rtrmadp-3-tennis-paris.JPG",
@@ -564,13 +571,6 @@
     "image": "https://img.lemde.fr/2026/11/06/542/0/7576/3788/644/322/60/0/dad5d06_upload-1-e5depojz021v-zola-intime-3a-naissance-d27un-photographe-2.jpg",
     "date": 1794155411000,
     "titleSl": "« Zola intime : naissance d'un photographe », sur Arte : la vie d'Emile révélée par la lumière"
-   },
-   {
-    "title": "Le ministre de la justice américain, Todd Blanche, prêt à défendre les membres de l’administration Trump visés par des enquêtes de la majorité démocrate au Congrès",
-    "link": "https://www.lemonde.fr/international/article/2026/11/08/le-ministre-de-la-justice-americain-todd-blanche-pret-a-defendre-les-membres-de-l-administration-trump-vises-par-des-enquetes-de-la-majorite-democrate-au-congres_6808449_3210.html",
-    "image": "https://img.lemde.fr/2026/11/04/560/0/5500/2750/644/322/60/0/8461c65_ftp-1-0p5bsz7lw8no-2303068127.jpg",
-    "date": 1794154425000,
-    "titleSl": "Le ministre de la justice américain, Todd Blanche, prêt à défendre les membres de l'administration Trump visés par des enquêtes de la majorité démocrate au Congrès"
    }
   ],
   "elpais": [
