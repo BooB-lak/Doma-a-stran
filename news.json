@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T17:20:34.969Z",
+ "generatedAt": "2026-11-09T17:22:21.830Z",
  "sources": {
   "siol": [
    {
@@ -294,11 +294,11 @@
     "titleSl": "Al Jazeera se preizkuša v rolkanju na mladinskih olimpijskih igrah"
    },
    {
-    "title": "France accuses Iran of cyberattack on European fridges",
+    "title": "France accuses Iran of cyberattack on supermarket fridges",
     "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260302__99JK9FE__v1__HighRes__FranceIranUsIsraelConflict-1772529099.jpg?resize=1920%2C1440",
     "date": 1794242013000,
-    "titleSl": "Francija obtožuje Iran kibernetskega napada na evropske hladilnike"
+    "titleSl": "Francija obtožuje Iran kibernetskega napada na hladilnike v supermarketih"
    },
    {
     "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
@@ -330,6 +330,13 @@
    }
   ],
   "guardian": [
+   {
+    "title": "Only known handwritten final draft of MLK Jr’s I Have A Dream speech to be auctioned",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/mlk-dream-speech-auction",
+    "image": "https://i.guim.co.uk/img/media/164b176801704416bd10e29614cf4931231839e1/643_0_4258_3407/master/4258.jpg?width=140&quality=85&auto=format&fit=max&s=dc24b464c9a0faf8149dab7e9ef91da6",
+    "date": 1794244407000,
+    "titleSl": "Edini znani ročno napisani končni osnutek govora MLK Jr I Have A Dream, ki bo prodan na dražbi"
+   },
    {
     "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – as it happened",
     "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843",
     "date": 1794243406000,
     "titleSl": "Burnham opozarja, da se bo NHS \"boril\", da bi se spopadel, če svetovalci ne bodo nadaljevali pogovorov o plačilu – britanska politika v živo"
-   },
-   {
-    "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-    "image": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=08fae72606a752db6b7d1434d2b8d7fa",
-    "date": 1794242555000,
-    "titleSl": "Silicijeva dolina in Trump podpirata izvršnega direktorja Nvidie po njegovi aferi z domnevnim kitajskim vohunom"
    }
   ],
   "spiegel": [
@@ -454,10 +454,11 @@
   ],
   "krone": [
    {
-    "title": "Über Weg gespannt - Ermittlungen nach Zahnseide-Vorfall eingestellt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RU2xDTl83dnZwVFhEbEdtQTVwcS16UXB0WXRBMEFTSFpHQXJhZ2hfbnVwbWllSVhKOHdnLUwwY2J2UQ?oc=5",
+    "title": "Jugendspiele in Dakar - Achleitner holt Olympia-Bronze im letzten Versuch!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Fc0NPZlBIczJxR0NxWWNXZjhtYk90SlZRcVh3TU1JNS1ZOVd2XzJWYUhySHdvUmRDLUNqdExLc3hldw?oc=5",
     "image": "",
-    "date": 1794243600000
+    "date": 1794244140000,
+    "titleSl": "Jugendspiele v Dakarju - Achleitner holt Olympia-Bronze im letzten Versuch!"
    },
    {
     "title": "„Die Folge wäre ein Streit jeder gegen jeden!“",
@@ -467,6 +468,12 @@
     "titleSl": "\"Die Folge wäre ein Streit jeder gegen jeden!\""
    },
    {
+    "title": "Über Weg gespannt - Ermittlungen nach Zahnseide-Vorfall eingestellt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RU2xDTl83dnZwVFhEbEdtQTVwcS16UXB0WXRBMEFTSFpHQXJhZ2hfbnVwbWllSVhKOHdnLUwwY2J2UQ?oc=5",
+    "image": "",
+    "date": 1794243600000
+   },
+   {
     "title": "Kelag & Kärntnermilch - 14 Millionen Euro für Biomasse-Heizwerk",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rZnpEY0NWMGl3UFA4Ul94aHdLOGtqQ0x3UmgtSnk4dmxtRkZZTVc1U0JCblY0RUo2YmZRRExZU0lQZw?oc=5",
     "image": "",
@@ -474,23 +481,16 @@
     "titleSl": "Kelag & Kärntnermilch - 14 milijonov evrov za Biomasse-Heizwerk"
    },
    {
+    "title": "Jubiläumsjahr 2027 - Stift Kremsmünster sucht Gott seit 1250 Jahren",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrZDJYRXA2cC1rYlVObVpxSUtfZmwyeG4xRUd6Wk1XdDZ3OG4zQ1hxVHVRdFlzY3kwakJPU2E3RjNjdw?oc=5",
+    "image": "",
+    "date": 1794243600000
+   },
+   {
     "title": "Nvidia-Boss „erwischt“ - Wenn ein Seitensprung 250 Milliarden Dollar kostet",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1USWVkZXVmMVU0aEJfQncwR0dpLUZCVnhBb1VnV1JkdGVKSHZtTXhWT2syQ001LVdIWWVHRVNWa19mdw?oc=5",
     "image": "",
     "date": 1794243540000
-   },
-   {
-    "title": "Mordfall Lisa (†13) - Täter war schon wegen Missbrauchsvideos im Visier",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLVZZVnNpbi1wcnQ5bms5UEZoQXJXTnMxQ2NIbkIwTjBtTS1CbEU4cENlV2tpOFZ3cnF5RnlYRjB6dw?oc=5",
-    "image": "",
-    "date": 1794243360000
-   },
-   {
-    "title": "Debatte in Graz - Kunasek: „Altstadtschutz wird nicht angetastet!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LNEhuVmJtSXpqQWRrTlA4SXNNQVp3V1JDRVdSV1VqdUJwcDUxZ1g2ajg5ZUFDVi1tVEFFQWl0X3E4dw?oc=5",
-    "image": "",
-    "date": 1794240900000,
-    "titleSl": "Debata v Gradcu - Kunasek: „Altstadtschutz wird nicht angetastet!“"
    }
   ],
   "rainews": [
