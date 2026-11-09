@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T17:14:23.392Z",
+ "generatedAt": "2026-11-09T17:16:23.460Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+    "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
+    "date": 1794243556000,
+    "titleSl": "Bi demokratično zatiranje umetne inteligence škodovalo gospodarstvu ali ga rešilo?"
+   },
+   {
     "title": "How Did Greek Fire Work? And 6 Other Lost Inventions.",
     "link": "https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html",
     "image": "https://static01.nyt.com/images/2026/11/09/science/09SCI-UNKNOWNS-LOST-top2/09SCI-UNKNOWNS-LOST-top2-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
     "date": 1794241445000,
     "titleSl": "Nvidijina cena delnic pade po preiskavi generalnega direktorja Jensena Huanga"
-   },
-   {
-    "title": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape",
-    "link": "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-russell-brand-sentencing-ktbl/09cul-russell-brand-sentencing-ktbl-mediumSquareAt3X.jpg",
-    "date": 1794238627000,
-    "titleSl": "Russell Brand obsojen na 10 let in pol zapora zaradi posilstva"
    }
   ],
   "bbc": [
@@ -331,25 +331,39 @@
   ],
   "guardian": [
    {
-    "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – latest updates",
+    "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – as it happened",
     "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
     "image": "https://i.guim.co.uk/img/media/2932dc867e0a4f6a2df2af502311f646fae12730/114_13_5339_4271/master/5339.jpg?width=140&quality=85&auto=format&fit=max&s=43be54778d4a160aa933c96b19fa46e5",
-    "date": 1794243295000,
-    "titleSl": "Russell Brand obsojen na več kot 10 let za posilstva in spolne napade – najnovejše novice"
-   },
-   {
-    "title": "Burnham warns that NHS will ‘struggle’ to cope if consultants don’t resume talks over pay – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-    "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843",
-    "date": 1794243277000,
-    "titleSl": "Burnham opozarja, da se bo NHS \"boril\", da bi se spopadel, če svetovalci ne bodo nadaljevali pogovorov o plačilu – britanska politika v živo"
+    "date": 1794244029000,
+    "titleSl": "Russell Brand obsojen na več kot 10 let za posilstva in spolne napade – kot se je zgodilo"
    },
    {
     "title": "France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges",
     "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
     "image": "https://i.guim.co.uk/img/media/aed983f049b0e852c755b8dc230e7c7ba34f9947/46_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=42afd10fdc599d54a04a733cea348aeb",
-    "date": 1794243213000,
+    "date": 1794243778000,
     "titleSl": "Francija krivi iransko revolucionarno gardo za kibernetske napade na hladilnike v supermarketih"
+   },
+   {
+    "title": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
+    "link": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement",
+    "image": "https://i.guim.co.uk/img/media/0aafddba6dcd8e789dd15dc96c3beee6afdd963f/580_5_937_749/master/937.jpg?width=140&quality=85&auto=format&fit=max&s=8109b8a6da757ae5432413eedb4b40f9",
+    "date": 1794243614000,
+    "titleSl": "Rdeče črte brexita laburistov, pripravljene na \"dostojno upokojitev\", pravi njihov soavtor"
+   },
+   {
+    "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d",
+    "date": 1794243581000,
+    "titleSl": "Trump poskuša podvomiti o vmesni volilni zmagi demokratov, dvomiti o predčasnih volilnih številkah in glasovalnih avtomatih – v živo"
+   },
+   {
+    "title": "Burnham warns that NHS will ‘struggle’ to cope if consultants don’t resume talks over pay – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843",
+    "date": 1794243406000,
+    "titleSl": "Burnham opozarja, da se bo NHS \"boril\", da bi se spopadel, če svetovalci ne bodo nadaljevali pogovorov o plačilu – britanska politika v živo"
    },
    {
     "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=08fae72606a752db6b7d1434d2b8d7fa",
     "date": 1794242555000,
     "titleSl": "Silicijeva dolina in Trump podpirata izvršnega direktorja Nvidie po njegovi aferi z domnevnim kitajskim vohunom"
-   },
-   {
-    "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d",
-    "date": 1794242541000,
-    "titleSl": "Trump poskuša podvomiti o vmesni volilni zmagi demokratov, dvomiti o predčasnih volilnih številkah in glasovalnih avtomatih – v živo"
-   },
-   {
-    "title": "Judo star Teddy Riner announces plan to run in France’s presidential election",
-    "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
-    "image": "https://i.guim.co.uk/img/media/cdf22028f2dc61c37365d0b51d5d0b48cbbc6b90/485_0_3528_2823/master/3528.jpg?width=140&quality=85&auto=format&fit=max&s=b4ea5be7a7927efe608c7a3ae70896fd",
-    "date": 1794241490000,
-    "titleSl": "Zvezdnik juda Teddy Riner napoveduje, da namerava kandidirati na francoskih predsedniških volitvah"
    }
   ],
   "spiegel": [
@@ -415,6 +415,31 @@
   ],
   "bild": [
    {
+    "title": "Doppelter Weltrekord - Mit 180 km/h in den Himmel katapultiert!",
+    "link": "https://www.bild.de/sport/mehr-sport/doppelter-weltrekord-mit-180-km-h-in-den-himmel-katapultiert-6af1f309d43db387e55074bc",
+    "image": "https://images.bild.de/6af1f309d43db387e55074bc/77c7439a86e292c26d3576864f033490,67f19a18?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Schülerin (13) entführt und getötet - Polizei: Lisa ist Zufallsopfer von Pädokriminellem",
+    "link": "https://www.bild.de/news/inland/schuelerin-13-verschleppt-und-getoetet-kinderpornografie-polizei-ermittelt-bereits-gegen-lisas-killer-6af1ef82d43db387e5507470",
+    "image": "https://images.bild.de/6af1ef82d43db387e5507470/ba0bb44ad5c50974dd280d214818cd60,1c1793d8?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Mehr als 500 Tage gefangen - Jugendliche sendet Hilferuf über Videospiel",
+    "link": "https://www.bild.de/leben-wissen/digital/ueber-500-tage-vermisst-among-us-chat-fuehrt-fbi-zu-jugendlicher-6af18f9280d3a1c6aa66e0ad",
+    "image": "https://images.bild.de/6af18f9280d3a1c6aa66e0ad/6da7304219bdeb4c4f186621c2756906,90871970?w=1280",
+    "date": 0,
+    "titleSl": "Mehr ALS 500 Tage gefangen - Jugendliche sendet Hilferuf über Videospiel"
+   },
+   {
+    "title": "Fernsehsender muss sich entschuldigen - Junge (8) beleidigt Macron im TV als Dreckskerl",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/junge-8-beleidigt-macron-live-im-tv-als-dreckskerl-6af1ee1dd43db387e5507427",
+    "image": "https://images.bild.de/6af1ee1dd43db387e5507427/2353010a7b4d0d74f7224a992628a0ca,618e032b?w=1280",
+    "date": 0
+   },
+   {
     "title": "Asylrecht - So können Syrer Abschiebung um 3,5 Jahre verzögern",
     "link": "https://www.bild.de/politik/inland/asylrecht-mit-legalen-tricks-koennen-syrer-ihre-abschiebung-um-3-5-jahre-verzoegern-6aeb234db1907deb6c941961",
     "image": "https://images.bild.de/6aeb234db1907deb6c941961/fccfd7b08f3ec6e73ca4496ee997088c,bacfb16d?w=1280",
@@ -425,61 +450,15 @@
     "link": "https://www.bild.de/politik/ausland-und-internationales/cyberangriff-auf-700-kuehlanlagen-frankreich-beschuldigt-den-iran-6af1f90879e1656222c37eb5",
     "image": "https://images.bild.de/6af1f90879e1656222c37eb5/4c6be77c74daa5e477c71923b7137e99,81ae985f?w=1280",
     "date": 0
-   },
-   {
-    "title": "Mehr als eine Stunde lang - Wütender Chinese baggert Behörde kaputt",
-    "link": "https://www.bild.de/news/video-zeigt-zerstoerung-eine-stunde-lang-greift-niemand-ein-6af1da7bc422fb6d38f48047",
-    "image": "https://images.bild.de/6af1da7bc422fb6d38f48047/835ce737ed8bb76006332690eb0e8bbd,17f05d4c?w=1280",
-    "date": 0,
-    "titleSl": "Mehr als eine Stunde lang - Wütender kitajski baggert Behörde kaputt"
-   },
-   {
-    "title": "Mehr als 500 Tage gefangen - Jugendliche sendet Hilferuf über Videospiel",
-    "link": "https://www.bild.de/leben-wissen/digital/ueber-500-tage-vermisst-among-us-chat-fuehrt-fbi-zu-jugendlicher-6af18f9280d3a1c6aa66e0ad",
-    "image": "https://images.bild.de/6af18f9280d3a1c6aa66e0ad/6da7304219bdeb4c4f186621c2756906,90871970?w=1280",
-    "date": 0,
-    "titleSl": "Mehr ALS 500 Tage gefangen - Jugendliche sendet Hilferuf über Videospiel"
-   },
-   {
-    "title": "Gilt auch bei Einbrüchen und Diebstählen - BMW geklaut – Versicherung muss nichts zahlen",
-    "link": "https://www.bild.de/leben-wissen/sparfochs/bmw-gestohlen-zwei-fehler-kosten-20-000-euro-entschaedigung-6ac4d471967e8c06339d2957",
-    "image": "https://images.bild.de/6ac4d471967e8c06339d2957/65ace1003d3480f660d9cb66d239b5be,e7079a0f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Einen Tag nach seinem Geburtstag - Trainer in der 2. Liga gefeuert",
-    "link": "https://www.bild.de/sport/fussball/holstein-kiel-feuert-trainer-tim-walter-6af0297f0c8b26135b035e79",
-    "image": "https://images.bild.de/6af0297f0c8b26135b035e79/ca23c80af6e4abbb13f12693b36a1850,163812db?w=1280",
-    "date": 0,
-    "titleSl": "Einen Tag nach seinem Geburtstag - Trener v der 2. Liga gefeuert"
    }
   ],
   "krone": [
    {
-    "title": "Mordfall Lisa (†13) - Gegen Täter wurde wegen Kinderpornos ermittelt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RLVZZVnNpbi1wcnQ5bms5UEZoQXJXTnMxQ2NIbkIwTjBtTS1CbEU4cENlV2tpOFZ3cnF5RnlYRjB6dw?oc=5",
+    "title": "„Die Folge wäre ein Streit jeder gegen jeden!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1aSXdfTjhWRTVEVUw3M3FJUFRSZ1RZT3B5cTU2dWZOTG9tbU5mTll1NFlYUm1rakFxNWxxWlJxTkthdw?oc=5",
     "image": "",
-    "date": 1794243360000
-   },
-   {
-    "title": "Erstrunden-Erfolg - Schwärzler legt im Kampf um Finals in Japan vor",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03aHVLNXQ0cEZkU29NVlRKMmFyWnhpSmpPNk9sNWhKeTRVdktfMVBhM1ZfLUpNaUhmM2swQ0hoSEZ0UQ?oc=5",
-    "image": "",
-    "date": 1794241500000
-   },
-   {
-    "title": "Debatte in Graz - Kunasek: „Altstadtschutz wird nicht angetastet!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LNEhuVmJtSXpqQWRrTlA4SXNNQVp3V1JDRVdSV1VqdUJwcDUxZ1g2ajg5ZUFDVi1tVEFFQWl0X3E4dw?oc=5",
-    "image": "",
-    "date": 1794240900000,
-    "titleSl": "Debata v Gradcu - Kunasek: „Altstadtschutz wird nicht angetastet!“"
-   },
-   {
-    "title": "Handball – Das Magazin - JAGS zu Gast! Meisterprüfung für Linzer Handballer",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBiVzJ4cGg5Y0o2SVdKbW93VHc5ampVZ3hPUG05OHNNclkwU2dERkR1eEJMVk14bnhsRVh6MXgzWXREZw?oc=5",
-    "image": "",
-    "date": 1794240720000,
-    "titleSl": "Rokomet – Das Magazin - JAGS zu Gast! Meisterprüfung für Linzer rokometaš"
+    "date": 1794243600000,
+    "titleSl": "\"Die Folge wäre ein Streit jeder gegen jeden!\""
    },
    {
     "title": "Nach Horror-Wochen - Hamann nimmt Sturm Graz aus dem Meisterrennen",
@@ -488,10 +467,28 @@
     "date": 1794240360000
    },
    {
-    "title": "Wer ist schuld? - Katze „Murli“ totgebissen: Hund muss vor Richterin",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XUVE5ejZIUDhDb09xbHpvZ2ZXWjUtZlZXemt3MkpqOGhkb1VoRW9rRk9uSkJ6NDlPdzd5Y2VxZ0VYdw?oc=5",
+    "title": "krone.tv fragt nach - Christkindlmarkt-Besuch: Leistbar oder zu teuer?",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JOXZSbnZ6YnJKTl9qbnRrXzNIbWRCYjN5anY4cUJWWXJUdzZlVHdZUHFiaTZBTVRHUThMYlFFeGNxZw?oc=5",
     "image": "",
-    "date": 1794240000000
+    "date": 1794239900000
+   },
+   {
+    "title": "Bayern-Legende Maier - Ikone rät Neuer zum Aufhören: „Lass es sein, Manu“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OcGFMTFZpcVFPOTU3aGl3Sm9uU0FZaC1vZWFBb2oySUpCSktmTHNpTzZYWjlDX042dk9MeFNvaUNnQQ?oc=5",
+    "image": "",
+    "date": 1794239280000
+   },
+   {
+    "title": "Ehemann verletzt - Krakau-Attentäter tötete zweifache Mutter aus NÖ",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kdzE2VWNzODhrZHA3VmllcWhNMUdJNVpnZHRnTU9oc2tIc0R2clRQcGJDQzU4N2ZZOFVldl9TUE0tdw?oc=5",
+    "image": "",
+    "date": 1794238672000
+   },
+   {
+    "title": "Mit neuem Eingang - Stadt Salzburg öffnet Eisflächen für Hobbysportler",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWaVZTOEJnazkxV3IzSWNXTnRVZTFPd05ISDAzN09ucEtKQy1IR3V0clRSZFUtQjFtb2FBWVpfVjhhUQ?oc=5",
+    "image": "",
+    "date": 1794238200000
    }
   ],
   "rainews": [
@@ -537,6 +534,13 @@
   ],
   "lemonde": [
    {
+    "title": "Le bilan que Vladimir Poutine voulait cacher : 400 000 morts russes dans la guerre en Ukraine",
+    "link": "https://www.lemonde.fr/international/article/2026/11/09/le-bilan-que-vladimir-poutine-voulait-cacher-400-000-morts-russes-dans-la-guerre-en-ukraine_6808679_3210.html",
+    "image": "https://img.lemde.fr/2026/11/09/649/0/4786/2393/644/322/60/0/42ca6c4_upload-1-asi8g7koph3d-2025-09-12t121350z-1412449370-rc28qga4p9gt-rtrmadp-3-ukraine-crisis-russia-monument.JPG",
+    "date": 1794243938000,
+    "titleSl": "Le bilan que Vladimir Poutine voulait cacher : 400 000 morts russes dans la guerre en Ukrajina"
+   },
+   {
     "title": "Cyberattaque contre des réfrigérateurs de supermarchés : la justice ouvre une enquête contre un groupe iranien, Jean-Noël Barrot souhaite « des sanctions à l’échelle européenne »",
     "link": "https://www.lemonde.fr/pixels/article/2026/11/09/cyberattaque-des-refrigerateurs-de-supermarche-la-justice-ouvre-une-enquete-contre-un-groupe-iranien-jean-noel-barrot-souhaite-des-sanctions-a-l-echelle-europeenne_6808673_4408996.html",
     "image": "https://img.lemde.fr/2026/10/13/327/0/3887/1943/644/322/60/0/dba269e_ftp-1-mjtevtety7ar-2026-10-13t095730z-767635427-rc282oa8e168-rtrmadp-3-france-cyberattack.JPG",
@@ -563,17 +567,11 @@
     "date": 1794240027000
    },
    {
-    "title": "VIDEO Attentat à Cracovie : les Polonais rendent hommage aux victimes",
-    "link": "https://www.lemonde.fr/international/video/2026/11/09/attentat-a-cracovie-les-polonais-rendent-hommage-aux-victimes_6808665_3210.html",
-    "image": "https://img.lemde.fr/2026/11/09/651/0/7812/3906/644/322/60/0/62ccb83_ftp-1-smecycw7fsok-cb9734c093914d0fa39836af45253e6a-0-bce19fe2188f4a8ca8428b3cfb929aa1.jpg",
-    "date": 1794239415000
-   },
-   {
-    "title": "Airbnb durcit son règlement : les hôtes n’ont plus le droit de demander à défaire le lit, lancer une machine ou laver la vaisselle",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/09/airbnb-durcit-son-reglement-les-hotes-n-ont-plus-le-droit-de-demander-a-defaire-le-lit-lancer-une-machine-ou-laver-la-vaisselle_6808664_3224.html",
-    "image": "https://img.lemde.fr/2026/11/09/624/0/7490/3745/644/322/60/0/d7c47d8_upload-1-91lo5fn74bl4-000-34hh847.jpg",
-    "date": 1794238927000,
-    "titleSl": "Airbnb durcit son règlement : les hôtes n'on plus le droit de demander à défaire le lit, lancer une machine ou laver la vaisselle"
+    "title": "Pour lutter contre le « gaspillage immobilier », les professionnels du bâtiment imaginent un nouvel avenir au patrimoine",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/09/pour-lutter-contre-le-gaspillage-immobilier-les-professionnels-du-batiment-imaginent-un-nouvel-avenir-au-patrimoine_6808666_3246.html",
+    "image": "https://img.lemde.fr/2026/11/08/519/0/6378/3189/644/322/60/0/8f61a93_upload-1-wpxcmqa6do41-lemonde-culture-0811.JPG",
+    "date": 1794240012000,
+    "titleSl": "Pour lutter contre le « gaspillage imobilier », les professionnels du bâtiment imaginent un nouvel avenir au patrimoine"
    }
   ],
   "elpais": [
