@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-09T20:02:31.144Z",
+ "generatedAt": "2026-11-09T20:04:23.335Z",
  "sources": {
   "siol": [
+   {
+    "title": "Preplah v Španiji: Lamine Yamal poškodovan",
+    "link": "https://siol.net/sportal/nogomet/preplah-v-spaniji-lamine-yamal-poskodovan-705894",
+    "image": "https://siol.net/media/img/2c/f2/5582d8eb6a57dc4e188e.jpeg",
+    "date": 1794254520000
+   },
    {
     "title": "Kim Kardashian vrača denar: adventni koledar za 136 evrov razočaral kupce",
     "link": "https://siol.net/trendi/zvezde-in-slavni/kim-kardashian-vraca-denar-adventni-koledar-za-136-evrov-razocaral-kupce-705830",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/kosarka/liga-nba-9-november-705891",
     "image": "https://siol.net/media/img/4f/40/51a424c7364c44d7f5a8.jpeg",
     "date": 1794248580000
-   },
-   {
-    "title": "Si je Donald Trump premislil?",
-    "link": "https://siol.net/novice/svet/si-je-donald-trump-premislil-705893",
-    "image": "https://siol.net/media/img/f3/cb/f63fb6a438a6cb44afba.jpeg",
-    "date": 1794247800000
    }
   ],
   "24ur": [
@@ -220,13 +220,6 @@
     "titleSl": "Bi lahko odziv volivcev proti umetni inteligenci dejansko pomagal gospodarstvu?"
    },
    {
-    "title": "The Clergy in Congress",
-    "link": "https://www.nytimes.com/2026/11/09/briefing/religious-democrats.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09themorning-nl-Clergy-hjgk/09themorning-nl-Clergy-hjgk-mediumSquareAt3X.jpg",
-    "date": 1794252333000,
-    "titleSl": "Duhovščina v kongresu"
-   },
-   {
     "title": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape",
     "link": "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/09cul-russell-brand-sentencing-ktbl/09cul-russell-brand-sentencing-ktbl-mediumSquareAt3X.jpg",
@@ -239,6 +232,13 @@
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
     "date": 1794249520000,
     "titleSl": "Preiskava ameriškega ministrstva za trgovino v zvezi z Megaspeedom je bila ustavljena po posredovanju podjetja Nvidia"
+   },
+   {
+    "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09DC-TRUMP-ELECITON-fqzt/09DC-TRUMP-ELECITON-fqzt-mediumSquareAt3X.jpg",
+    "date": 1794249432000,
+    "titleSl": "Trump se vrača k trditvam o nameščenih volitvah in dvomi o vmesnih rezultatih"
    }
   ],
   "bbc": [
@@ -415,15 +415,21 @@
   ],
   "bild": [
    {
-    "title": "Affäre mit China-Spionin - Was wusste Trump über den verliebten Nvidia-Chef?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/nvidia-affaere-mit-china-spionin-was-wusste-trump-ueber-den-verliebten-tech-boss-6af1e478d0fb1ac9ce0ece1c",
-    "image": "https://images.bild.de/6af1e478d0fb1ac9ce0ece1c/15722b2ccc0a0d075626c03aff9a7189,6c40e1d2?w=1280",
+    "title": "AfD-Ehrenvorsitzender - Gauland an Krebs erkrankt",
+    "link": "https://www.bild.de/politik/inland/alexander-gauland-an-krebs-erkrankt-darum-fehlt-er-im-bundestag-6af21da279e1656222c38114",
+    "image": "https://images.bild.de/6af21da279e1656222c38114/52ec18e4fdb4a02f9ff069c9fbbc839b,3fe098a3?w=1280",
     "date": 0
    },
    {
-    "title": "AfD-Urgestein schwer erkrankt - Gauland hat Krebs",
-    "link": "https://www.bild.de/politik/inland/alexander-gauland-an-krebs-erkrankt-darum-fehlt-er-im-bundestag-6af21da279e1656222c38114",
-    "image": "https://images.bild.de/6af21da279e1656222c38114/52ec18e4fdb4a02f9ff069c9fbbc839b,3fe098a3?w=1280",
+    "title": "Rote Karte im FA Cup - Trainer fliegt wegen Kopfstoß",
+    "link": "https://www.bild.de/sport/fussball/fa-cup-trainer-sieht-wegen-kopfstoss-die-rote-karte-6af1f4bbd0fb1ac9ce0ecf50",
+    "image": "https://images.bild.de/6af1f4bbd0fb1ac9ce0ecf50/116f42442aee9ad620b0ab968741b9b9,d03fffc1?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Affäre mit China-Spionin - Was wusste Trump über den verliebten Nvidia-Chef?",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/nvidia-affaere-mit-china-spionin-was-wusste-trump-ueber-den-verliebten-tech-boss-6af1e478d0fb1ac9ce0ece1c",
+    "image": "https://images.bild.de/6af1e478d0fb1ac9ce0ece1c/15722b2ccc0a0d075626c03aff9a7189,6c40e1d2?w=1280",
     "date": 0
    },
    {
@@ -443,12 +449,6 @@
     "title": "Hatte mehr als 6 Millionen Zuschauer - Beliebter Koch kommt als Restauranttester zurück",
     "link": "https://www.bild.de/news/hatte-mehr-als-6-millionen-zuschauer-beliebter-koch-kommt-als-restauranttester-zurueck-6ae68471aedea8cd9ffc01a6",
     "image": "https://images.bild.de/6ae68471aedea8cd9ffc01a6/6d0d447f034690924bdcc6407b8e41af,6e14b8f2?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Vorschau GZSZ heute auf RTL+ - Was läuft da zwischen Julian und Emily?",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-heute-auf-rtl-emily-kann-ihre-gefuehle-fuer-julian-nicht-verbergen-6af1828a53650a498f207bab",
-    "image": "https://images.bild.de/6af1828a53650a498f207bab/cac8566de4a96ec3aaeb4d1eeebe1ea0,d485a3f4?w=1280",
     "date": 0
    }
   ],
@@ -580,7 +580,7 @@
     "title": "Última hora de la actualidad política, en directo | Abascal, sobre la entrevista con Broncano: “Ha sido un debate muy serio. Yo esperaba otra cosa”",
     "link": "https://elpais.com/espana/2026-11-09/ultima-hora-de-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EHGJSARV5BGLDAFXOL76ESXBNU.jpg?auth=513e35ec384163c8a67797e492a97c3a207fead3d6ec78dd19357aa0942ee1ca",
-    "date": 1794254126000,
+    "date": 1794254469000,
     "titleSl": "Última hora de la actualidad política, en directo | Abascal, sobre la entrevista con Broncano: \"Ha sido un debate muy serio. Yo esperaba otra cosa”"
    },
    {
