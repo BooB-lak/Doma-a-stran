@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T14:28:22.961Z",
+ "generatedAt": "2026-11-09T14:30:49.538Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/avtomoto/novice/smuci-sotor-ali-kolesa-kaksen-bi-bil-vas-icaur-v27-705867",
     "image": "https://siol.net/media/img/f9/26/a26c279d4df685a8ad48.jpeg",
     "date": 1794234300000
+   },
+   {
+    "title": "Na drog trgovine Ikea v Ljubljani obesili svarilo. Ikea odgovarja.",
+    "link": "https://siol.net/novice/slovenija/na-drog-trgovine-ikea-v-ljubljani-obesili-svarilo-ikea-odgovarja-705879",
+    "image": "https://siol.net/media/img/7c/4a/deed6f147ddc09d537a4.jpg",
+    "date": 1794234180000
    },
    {
     "title": "Po razkritju mafijske združbe v Sloveniji: to je odločilo sodišče",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/mojca-sojar-zupanska-funkcija-zame-predstavlja-koordinacijo-vsega-tega-zupanskikandidati-705617",
     "image": "https://siol.net/media/img/dd/4f/e75e398d921c65f2b400.jpeg",
     "date": 1794232800000
-   },
-   {
-    "title": "V Zagrebu štiri zdravstvene tehnike priprli zaradi suma umora pacienta",
-    "link": "https://siol.net/novice/svet/v-zagrebu-stiri-zdravstvene-tehnike-priprli-zaradi-suma-umora-pacienta-705871",
-    "image": "https://siol.net/media/img/35/e5/588899506e6f97fd5423.jpeg",
-    "date": 1794231180000
    }
   ],
   "24ur": [
@@ -123,6 +123,12 @@
     "date": 1794234240000
    },
    {
+    "title": "Občina odgovarja predsedniku NK Celja, ki grozi tudi s selitvijo kluba",
+    "link": "https://www.zurnal24.si/sport/nogomet/obcina-odgovarja-predsedniku-nk-celja-ki-grozi-tudi-s-selitvijo-kluba-467982",
+    "image": "https://www.zurnal24.si/media/img/45/90/6eb07d0f791f44ded12d.jpeg",
+    "date": 1794232980000
+   },
+   {
     "title": "Toyota razvija hibrid prihodnosti s porabo le 2,8 litra",
     "link": "https://www.zurnal24.si/avto/toyota-razvija-hibrid-prihodnosti-s-porabo-le-28-litra-467951",
     "image": "https://www.zurnal24.si/media/img/7f/62/450e67495e0e226fcd2b.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/opozorila-vladi-evropska-pravila-so-jasna-467976",
     "image": "https://www.zurnal24.si/media/img/48/13/61ea6ad69a167cf5c5c6.jpeg",
     "date": 1794227220000
-   },
-   {
-    "title": "Ima jo 160.000 Slovencev: Ne boli, a lahko povzroči slepoto, kap ...",
-    "link": "https://www.zurnal24.si/zdravje/ima-jo-160-000-slovencev-ne-boli-a-lahko-povzroci-slepoto-kap-467978",
-    "image": "https://www.zurnal24.si/media/img/e6/d8/05ae9d2f534bc5e9a8ed.jpeg",
-    "date": 1794225360000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape",
+    "link": "https://www.nytimes.com/2026/11/09/arts/russell-brand-sentencing.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-russell-brand-sentencing-ktbl/09cul-russell-brand-sentencing-ktbl-mediumSquareAt3X.jpg",
+    "date": 1794234466000,
+    "titleSl": "Russell Brand obsojen na 10 let in pol zapora zaradi posilstva"
+   },
+   {
     "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
     "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-jensen-influence-qbhw/09biz-jensen-influence-qbhw-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
     "date": 1794229952000,
     "titleSl": "Kako je bančna implozija v Paragvaju spodbudila predsednika"
-   },
-   {
-    "title": "There’s a New Roy Cohn in Town",
-    "link": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09bird-vzfb/09bird-vzfb-mediumSquareAt3X.jpg",
-    "date": 1794229632000,
-    "titleSl": "V mestu je nov Roy Cohn"
    }
   ],
   "bbc": [
@@ -331,11 +331,39 @@
   ],
   "guardian": [
    {
-    "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
+    "title": "Judge begins sentencing Russell Brand for rape and sexual assault as prosecution calls for long jail term – latest updates",
     "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
     "image": "https://i.guim.co.uk/img/media/db2ce7f0c0ff0af5e5eb6902720b89424f4bce10/62_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=6cc8eed262f7545b22224d9ca60fb24d",
-    "date": 1794233395000,
-    "titleSl": "Tožilstvo poziva k dolgotrajni zaporni kazni, saj je Russell Brand obsojen zaradi posilstva in spolnega napada – najnovejše posodobitve"
+    "date": 1794234280000,
+    "titleSl": "Sodnik začne obsoditi Russella Branda zaradi posilstva in spolnega napada, saj tožilstvo zahteva dolgotrajno zaporno kazen – najnovejše posodobitve"
+   },
+   {
+    "title": "Burnham says bravery of Brand’s victims will change the justice system to better support survivors – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+    "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843",
+    "date": 1794234273000,
+    "titleSl": "Burnham pravi, da bo pogum Brandovih žrtev spremenil pravosodni sistem za boljšo podporo preživelim – britanska politika v živo"
+   },
+   {
+    "title": "EU sues IBM and two European firms over troubled entry/exit border system",
+    "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
+    "image": "https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/222_0_2919_2336/master/2919.jpg?width=140&quality=85&auto=format&fit=max&s=e22ca6f51d1bd73b95db705e80cecde5",
+    "date": 1794234266000,
+    "titleSl": "EU toži IBM in dve evropski podjetji zaradi težavnega vstopno-izstopnega mejnega sistema"
+   },
+   {
+    "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
+    "image": "https://i.guim.co.uk/img/media/a9d2e705b3334bda29e063201f3deddd0609de89/395_0_4972_3977/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=4bd317a9b5dcedf3516629539b73c8e2",
+    "date": 1794233880000,
+    "titleSl": "Joe Biden bo omejil promocijo spominov v Beli hiši zaradi napredovanja raka"
+   },
+   {
+    "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+    "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17",
+    "date": 1794233874000,
+    "titleSl": "Poljski minister za pravosodje pravi, da bo cilj preiskave streljanja v Krakovu ugotoviti, ali je 24-letnik deloval sam – Evropa v živo"
    },
    {
     "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
@@ -343,37 +371,15 @@
     "image": "https://i.guim.co.uk/img/media/535318ddf017dc682b293bfcd483a717eefaf8a0/247_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=fea5ea819b06767f490c86405124d198",
     "date": 1794233289000,
     "titleSl": "Thames Water upnike prosi za več časa, da bi pomagali odplačati 20 milijard £ dolga"
-   },
-   {
-    "title": "‘Exceedingly heavy-handed’: ACT police criticised by magistrate for Tasering disabled Aboriginal woman",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/exceedingly-heavy-handed-act-police-officers-criticised-by-magistrate-for-taser-arrest-of-disabled-aboriginal-woman-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/6fce0b552bf50c7ce2b6e690c11bf5a8594062c1/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c68c0d760461d3d41763486755d78553",
-    "date": 1794232813000,
-    "titleSl": "\"Izjemno težka roka\": policija, ki jo je sodnik kritiziral zaradi omamljanja invalidne aboridžinske ženske"
-   },
-   {
-    "title": "There’s more than a whiff of politics to the sudden call to slash Labor’s green energy subsidies",
-    "link": "https://www.theguardian.com/business/2026/nov/10/labor-cuts-green-energy-subsidies-inflation",
-    "image": "https://i.guim.co.uk/img/media/2207fcae915df5cc9e38bf70a33ab75e699b4030/752_0_3556_2845/master/3556.jpg?width=140&quality=85&auto=format&fit=max&s=4be5c515e0015f63bfc7f3347b7fbc74",
-    "date": 1794232812000,
-    "titleSl": "Nenaden poziv k zmanjšanju subvencij za zeleno energijo laburistov je več kot le kanček politike"
-   },
-   {
-    "title": "EU sues IBM and two European firms over troubled entry/exit border system",
-    "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
-    "image": "https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/222_0_2919_2336/master/2919.jpg?width=140&quality=85&auto=format&fit=max&s=e22ca6f51d1bd73b95db705e80cecde5",
-    "date": 1794232635000,
-    "titleSl": "EU toži IBM in dve evropski podjetji zaradi težavnega vstopno-izstopnega mejnega sistema"
-   },
-   {
-    "title": "Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief of staff role – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d",
-    "date": 1794232569000,
-    "titleSl": "Politika deportacije \"bi lahko bila pretežka\", pravi Trump, ko Miller začne vlogo vodje osebja – v živo"
    }
   ],
   "spiegel": [
+   {
+    "title": "Ines Schwerdtner: Linkenchefin räumt ein, dass Mieten trotz Vergesellschaftung steigen können",
+    "link": "https://www.spiegel.de/politik/deutschland/ines-schwerdtner-linkenchefin-raeumt-ein-dass-mieten-trotz-vergesellschaftung-steigen-koennen-a-4b34bef2-f014-4459-b386-8191499d4c96#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/d4d2c69b-8ad1-46c2-87d6-fd7a7b4c2ec9_w520_r2.08_fpx71_fpy21.jpg",
+    "date": 1794234180000
+   },
    {
     "title": "E 10, Benzin, Diesel: Sinkender Ölpreis sorgt für Erholung an der Zapfsäule",
     "link": "https://www.spiegel.de/wirtschaft/e-10-benzin-diesel-sinkender-oelpreis-sorgt-fuer-erholung-an-der-zapfsaeule-a-29f929ff-3e9a-4239-8c85-07942e5402ad#ref=rss",
@@ -405,12 +411,6 @@
     "link": "https://www.spiegel.de/kultur/musik/la-roux-erneutes-comeback-mit-old-flames-leider-fieberfrei-a-531ab500-2953-4ade-af6b-395be8ecdb1f#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/d6420306-ee5a-408c-884e-4fb47b875008_w520_r2.08_fpx51.99_fpy50.jpg",
     "date": 1794229380000
-   },
-   {
-    "title": "Ilse Aigner: CDU-Vorstand schlägt CSU-Politikerin als Bundespräsidentin vor",
-    "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/6e9aea07-02a2-45b9-bad3-03e37858c198_w520_r2.08_fpx53_fpy38.jpg",
-    "date": 1794226620000
    }
   ],
   "bild": [
@@ -580,6 +580,18 @@
   ],
   "elpais": [
    {
+    "title": "La UB abrirá la nueva Facultad de Matemáticas en la Diagonal en 2029",
+    "link": "https://elpais.com/espana/catalunya/2026-11-09/la-ub-abrira-la-nueva-facultad-de-matematicas-en-la-diagonal-en-2029.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/C4ATVUSNQVCSLCFNZ6FRWOJEQQ.jpg?auth=af2f313535343de7781d59e5ac0e603e3ad9edfa1faea523ed951fd7d0fb1ce7",
+    "date": 1794233950000
+   },
+   {
+    "title": "Patricia Gómez y María Jesús González ganan el Premio Fundación Macba por una exposición sobre el internamiento",
+    "link": "https://elpais.com/espana/catalunya/2026-11-09/patricia-gomez-y-maria-jesus-gonzalez-ganan-el-premio-fundacion-macba-por-una-exposicion-sobre-el-internamiento.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/C5PAHLZBQRJEFO6PNVZCUSYLJM.jpg?auth=d1ad7de0f81be18aacf6fe1b81ffbc6dc38a850ecf116f8283afda86f9884976",
+    "date": 1794233527000
+   },
+   {
     "title": "El diario ruso ‘Nóvaya Gazeta’ se despide con la promesa de seguir haciendo periodismo: “Encontraremos una nueva oportunidad”",
     "link": "https://elpais.com/internacional/2026-11-09/el-diario-ruso-novaya-gazeta-se-despide-con-la-promesa-de-seguir-haciendo-periodismo-encontraremos-una-nueva-oportunidad.html",
     "image": "https://imagenes.elpais.com/resizer/v2/3XMKF3N3GFOAJBT2XC5V2ZQ22E.jpg?auth=fabb49c26348bf78f8367007d6a6ccb370bba248c7c1fa5167d1fcb00202fd97",
@@ -604,19 +616,6 @@
     "link": "https://elpais.com/espana/2026-11-09/canarias-reclama-al-estado-un-paquete-extraordinario-para-el-hierro-y-reuniones-semanales-para-tratar-la-migracion.html",
     "image": "https://imagenes.elpais.com/resizer/v2/4QHS77IRKRJ6TCJNEGLIGRNUC4.jpg?auth=15fc3662f92d285255881b0de6dad33efae4a20462713711c317b40b4e28828d",
     "date": 1794232638000
-   },
-   {
-    "title": "Aparece en la trastienda de una galería de París un ‘caravaggio’ perdido: “Era de tal calidad que no tuve la más mínima duda”",
-    "link": "https://elpais.com/cultura/2026-11-09/aparece-en-la-trastienda-de-una-galeria-de-paris-un-caravaggio-perdido.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/7LZVASTAJZC35JXWRY5Q7UWAJA.jpg?auth=fb9b156784ac2bf80c7d568c93ff0931bdca20f01931f965b7d6ef0366e23aa7",
-    "date": 1794232438000
-   },
-   {
-    "title": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez: “Es absolutamente falso”",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/feijoo-niega-haber-ofrecido-pagos-a-koldo-garcia-para-difamar-a-sanchez-es-absolutamente-falso.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/R7COGJYLVZFF5HTD47PEMDIJHE.jpg?auth=e66c71c12177cee086e964dd193ec0b00fd7fc689b78b7c592dd76205cbcb2ea",
-    "date": 1794232221000,
-    "titleSl": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez: \"Es absolutamente falso\""
    }
   ]
  },
