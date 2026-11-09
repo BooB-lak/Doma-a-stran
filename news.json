@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T12:42:24.673Z",
+ "generatedAt": "2026-11-09T12:44:23.497Z",
  "sources": {
   "siol": [
    {
@@ -123,12 +123,6 @@
     "date": 1794227220000
    },
    {
-    "title": "V DELU: Opravila pregled, nato čakala tri leta. Ko se je vrnila, jo je čakalo novo plačilo",
-    "link": "https://www.zurnal24.si/slovenija/v-delu-opravila-pregled-nato-cakala-tri-leta-ko-se-je-vrnila-jo-je-cakalo-novo-placilo-467977",
-    "image": "https://www.zurnal24.si/media/img/da/2c/ca4643cefb2ea6ed4c9e.jpeg",
-    "date": 1794226200000
-   },
-   {
     "title": "Ima jo 160.000 Slovencev: Ne boli, a lahko povzroči slepoto, kap ...",
     "link": "https://www.zurnal24.si/zdravje/ima-jo-160-000-slovencev-ne-boli-a-lahko-povzroci-slepoto-kap-467978",
     "image": "https://www.zurnal24.si/media/img/da/2c/ca4643cefb2ea6ed4c9e.jpeg",
@@ -151,6 +145,12 @@
     "link": "https://www.zurnal24.si/slovenija/umrl-je-matjaz-kmecl-467970",
     "image": "https://www.zurnal24.si/media/img/ce/0d/f9c39bb2053ec0cfe53f.jpeg",
     "date": 1794221760000
+   },
+   {
+    "title": "Ta teden prinaša \"brco v tazadnjo\"",
+    "link": "https://www.zurnal24.si/magazin/horoskop-in-numerologija/ta-teden-prinasa-brco-v-tazadnjo-467967",
+    "image": "https://www.zurnal24.si/media/img/19/4a/90b1efd56634e45b2467.jpeg",
+    "date": 1794220920000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+    "link": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-china-huang-jvhc/09biz-china-huang-jvhc-mediumSquareAt3X.jpg",
+    "date": 1794227616000,
+    "titleSl": "Kitajska zavrača zahtevke za vohunjenje, ki vključujejo izvršnega direktorja družbe Nvidia Jensena Huanga"
+   },
+   {
     "title": "Nvidia’s Stock Price Set to Drop After Investigation Into CEO Jensen Huang",
     "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
     "date": 1794220980000,
     "titleSl": "Kako je bančna implozija v Paragvaju spodbudila predsednika"
-   },
-   {
-    "title": "Is Jensen Huang too Powerful to Be Punished by Nvidia?",
-    "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-jensen-influence-qbhw/09biz-jensen-influence-qbhw-mediumSquareAt3X.jpg",
-    "date": 1794218647000,
-    "titleSl": "Je Jensen Huang preveč močan, da bi ga Nvidia kaznovala?"
    }
   ],
   "bbc": [
@@ -334,8 +334,15 @@
     "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
     "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
     "image": "https://i.guim.co.uk/img/media/f0e10b04191082319bbd3f7199555e5030cffac1/46_0_3188_2551/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=3b2281da79a9d6f0ce33eab731c6160a",
-    "date": 1794227037000,
+    "date": 1794227816000,
     "titleSl": "Tožilstvo poziva k dolgotrajni zaporni kazni, saj je Russell Brand obsojen zaradi posilstva in spolnega napada – najnovejše posodobitve"
+   },
+   {
+    "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+    "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17",
+    "date": 1794227126000,
+    "titleSl": "Poljski minister za pravosodje pravi, da bo cilj preiskave streljanja v Krakovu ugotoviti, ali je 24-letnik deloval sam – Evropa v živo"
    },
    {
     "title": "Polanski says Labour has ‘shocking record’ on climate issues as ministers expected to cut EV targets for car industry – UK politics live",
@@ -357,13 +364,6 @@
     "image": "https://i.guim.co.uk/img/media/91b819bcc74a87ba2158e7bae518801fb140af52/692_369_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=c442afe3c3d4d785ea938fdf46018042",
     "date": 1794225261000,
     "titleSl": "Delnice podjetja Nvidia propadajo, saj je izvršni direktor preiskoval zahtevke vohunov | Prva stvar"
-   },
-   {
-    "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-    "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17",
-    "date": 1794224887000,
-    "titleSl": "Poljski minister za pravosodje pravi, da bo cilj preiskave streljanja v Krakovu ugotoviti, ali je 24-letnik deloval sam – Evropa v živo"
    },
    {
     "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
@@ -414,6 +414,12 @@
   ],
   "bild": [
    {
+    "title": "Mutmaßlicher Täter ist 22 - Lisa war gefesselt",
+    "link": "https://www.bild.de/regional/brandenburg/13-jaehrige-tot-in-brandenburg-gefunden-lisa-war-gefesselt-6af1aecac422fb6d38f478a1",
+    "image": "https://images.bild.de/6af1aecac422fb6d38f478a1/79e31db28fd406808677ede71927d098,16de6cbc?w=1280",
+    "date": 0
+   },
+   {
     "title": "Von wegen „bezahlbar machen“ - Linke will Mieten nach Enteignungen in Berlin erhöhen",
     "link": "https://www.bild.de/politik/inland/linke-gibt-zu-mieten-in-berlin-werden-steigen-6af17bd942449d0f3750c2a4",
     "image": "https://images.bild.de/6af17bd942449d0f3750c2a4/caafd4e2214677e560bc7ebd4de6031e,8d5ba461?w=1280",
@@ -443,15 +449,22 @@
     "link": "https://www.bild.de/sport/mehr-sport/deutschlands-heisseste-boxerin-ihre-gegnerin-hat-den-tod-vor-augen-6af09403d487d5232edf1032",
     "image": "https://images.bild.de/6af09403d487d5232edf1032/db2ee5c25661f9c8481a217ffbb2b6d3,eb5e704a?w=1280",
     "date": 0
-   },
-   {
-    "title": "Alarmierende Studie - Warnung vor Vitamin-Falle der Influencer",
-    "link": "https://www.bild.de/leben-wissen/digital/nahrungsergaenzung-auf-tiktok-vier-tricks-der-influencer-entlarvt-6af1999e53650a498f207de5",
-    "image": "https://images.bild.de/6af1999e53650a498f207de5/496e659c8476b3fd20cebe12f4c786bf,f8a0f379?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "„Krone“ war dabei - Geheim: Erstmals israelischer Minister in Graz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XZ3VHLWF2R3dmWUJRMTFobE9MXzM4NzZwZkplTnUyekNYX0p1MmJVa21qWGhvOHg5eXdZTzhNZ1JGZw?oc=5",
+    "image": "",
+    "date": 1794227580000,
+    "titleSl": "\"Krone\" vojni dabei - Geheim: Erstmals je izraelski minister v Gradcu"
+   },
+   {
+    "title": "300-mm-SiC-Wafer - Infineon feiert „technologischen Durchbruch“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxdl9BZVBZdjIwSlFWYXFvLXlSWWN5Z0l5blZRMkZDUXMyUkZSSVpEeHo0QS1ma3NHQjVlNEdKMFpWUQ?oc=5",
+    "image": "",
+    "date": 1794227580000
+   },
    {
     "title": "Trennung von Britney? - Timberlake räumt mit Gerücht über seinen Hit auf",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1JX0RGamJEU1ZlUlZxZ0dQTzdoSHJGdzQ2M19qUFVZRVg3OVBrNnNjSDJrS3QxaGtYVG5qMjlnV1FIUQ?oc=5",
@@ -472,23 +485,10 @@
     "date": 1794227160000
    },
    {
-    "title": "ÖVP ist sich uneinig - Arbeit für Asylwerber: Karner blockt Mattle ab",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zYkY4OVVCdkVNTlNtMng2dzBjX1R6UjRjVTA5N3NRNlZHNkxIdlQyS0t3WERLM1RnbnlaRXFkQWJDQQ?oc=5",
+    "title": "Wie sein Papa - Arnies Sohn Joseph glänzt bei Bodybuilding-Bewerb",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rem1DY0p5bVcyNjlkQmJLY3lqcGJ6VXQ5UUdhX21SOHNaTWxFMEtLMFZYRnhrc1B3V2cxOW9JNFQtZw?oc=5",
     "image": "",
-    "date": 1794227100000
-   },
-   {
-    "title": "Turbulente Szenen - Crash, Kokain und eine Prügel-Attacke in Wien",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rNEsxMGlMMzBpNzh4SEpoU0xGalR0b0hJeGRiaUo1QzFITzBZWUFMeWhhd1Y1ck8tZnBpS3MzOGJRZw?oc=5",
-    "image": "",
-    "date": 1794226920000,
-    "titleSl": "Turbulente Szenen - Crash, Kokain und eine Prügel-Attacke na Dunaju"
-   },
-   {
-    "title": "Gemeindefinanzen - Lustenau schafft Zweitwohnsitzabgabe ab",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4td0VfQTA1cVQwZ25SamhBVGZMTndIQmVLQUh3T2VZM0JNb2tISkZTNzJlSlR0ZHpHTV9rTHU3UWVydw?oc=5",
-    "image": "",
-    "date": 1794226800000
+    "date": 1794227160000
    }
   ],
   "rainews": [
