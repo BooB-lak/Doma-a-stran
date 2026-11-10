@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T12:22:23.870Z",
+ "generatedAt": "2026-11-10T12:24:22.755Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Četverica zbirk kratkih zgodb, ki je nominirana za nagrado Maruše Krese 2026",
+    "link": "https://www.rtvslo.si/kultura/knjige/cetverica-zbirk-kratkih-zgodb-ki-je-nominirana-za-nagrado-maruse-krese-2026/799637",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/03/05/67024039.jpg",
+    "date": 1794313380000
+   },
+   {
     "title": "Matjaž Rozman: Sprva napadalec, zdaj vratar s skoraj 400 nastopi v prvi ligi",
     "link": "https://www.rtvslo.si/sport/nogomet/prva-liga/matjaz-rozman-sprva-napadalec-zdaj-vratar-s-skoraj-400-nastopi-v-prvi-ligi/799628",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/10/67120548.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/liffe/insajderski-namigi-od-prevarantke-s-kapljico-krvi-elizabeth-holmes-do-krvave-grofice/799621",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/10/67120522.jpg",
     "date": 1794308898000
-   },
-   {
-    "title": "Promet po hitri cesti čez Rebernice v ponedeljek znova v obe smeri",
-    "link": "https://www.rtvslo.si/lokalne-novice/gorisko/promet-po-hitri-cesti-cez-rebernice-v-ponedeljek-znova-v-obe-smeri/799618",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/10/67120515.jpg",
-    "date": 1794308108000
    }
   ],
   "zurnal": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-    "link": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af2ed0732a1-1794305287.jpg?resize=1920%2C1440",
-    "date": 1794311554000,
-    "titleSl": "Trump pravi, da morajo Izrael in zalivski zavezniki povrniti stroške vojne v Iranu: Kaj to pomeni?"
-   },
-   {
     "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
     "link": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2e8796627-1794304121.jpg?resize=1920%2C1440",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794306535.jpg?resize=1920%2C1080&quality=80",
     "date": 1794306635000,
     "titleSl": "Humanoidni robot se udeleži antarktičnega ultramaratona... in ne uspe"
+   },
+   {
+    "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
+    "link": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261108__D6UQ9H6__v1__HighRes__BritainLiteratureAward-1794301843.jpg?resize=1920%2C1440",
+    "date": 1794306155000,
+    "titleSl": "Knjiga britanskega avtorja M John Harrisona Konec vsega je prejela Bookerjevo nagrado"
    }
   ],
   "guardian": [
@@ -421,6 +421,18 @@
     "date": 0
    },
    {
+    "title": "Kuriose Aktion im Livestream - Ex-England-Star verbrennt Arsenal-Trikot",
+    "link": "https://www.bild.de/sport/fussball/kuriose-aktion-im-livestream-ex-england-star-verbrennt-arsenal-trikot-6af2fa60f0b67a4b24663ea4",
+    "image": "https://images.bild.de/6af2fa60f0b67a4b24663ea4/020a776033bd0cf303c91cba8954f707-landscape,a9a49809?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Auch Zifferblätter betroffen - Für diese Fitbit-Uhren schrumpft die App-Auswahl",
+    "link": "https://www.bild.de/leben-wissen/digital/fitbit-aus-fuer-apps-und-zifferblaetter-von-drittanbietern-6af30249f0b67a4b24663fdd",
+    "image": "https://images.bild.de/6af30249f0b67a4b24663fdd/a5cbc596f1f8bc6cbb93df93082dd506,b2fcfdc7?w=1280",
+    "date": 0
+   },
+   {
     "title": "SEK-Einsatz in Hamburg - Elbphilharmonie geräumt! Polizei findet zwei Tote in Wohnung",
     "link": "https://www.bild.de/news/sek-einsatz-elbphilharmonie-geraeumt-polizei-findet-zwei-tote-in-wohnung-6af3087cf0b67a4b2466408d",
     "image": "https://images.bild.de/6af3087cf0b67a4b2466408d/8f97433cd3354e6c7320cd755f9f7b64,970412ec?w=1280",
@@ -438,22 +450,15 @@
     "link": "https://www.bild.de/regional/rostock/live-ticker-zum-mordprozess-um-fabian-gina-h-raeumt-alibi-deal-ein-69f2f4ded6078134c45a3b9c",
     "image": "https://images.bild.de/69f2f4ded6078134c45a3b9c/674ac8b898d42ae993a379657055ef0d,133851d0?w=1280",
     "date": 0
-   },
-   {
-    "title": "Moderne trifft Low-Tech - Diese Trends zeigen sich 2027 beim Hausbau",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/welche-hausbautrends-2027-besonders-hervorstechen-6aedfff91d9d38d6d601ba8d",
-    "image": "https://images.bild.de/6aedfff91d9d38d6d601ba8d/92c7600b1cf2028e52c7004041186139,44995f6f?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Gebühr für KI-Funktionen - Samsung plant Bezahl-Abo für Galaxy AI",
-    "link": "https://www.bild.de/leben-wissen/digital/galaxy-ai-samsung-plant-offenbar-premium-abo-ab-4-99-dollar-6af2e2c08bbbd74e35880d02",
-    "image": "https://images.bild.de/6af2e2c08bbbd74e35880d02/148f6f6bf5b81fc7ee731d67e8fcbf69,6992799b?w=1280",
-    "date": 0,
-    "titleSl": "Gebühr für KI-Funktionen - Samsungov obrat Bezahl-Abo für Galaxy AI"
    }
   ],
   "krone": [
+   {
+    "title": "Neue Section Control - So heftige Strafen drohen jetzt Kroatien-Urlaubern",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5mNHlubXFZU0l0TnhscXV0eFhLODBRVHhTZU5NNTROSlBZc3hJWWJSY0phaE8tMzNwWEFqUTFHdm9Bdw?oc=5",
+    "image": "",
+    "date": 1794313260000
+   },
    {
     "title": "Rekordwert - Bodensee-Phosphor auf unter 10 Mikrogramm gesenkt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWaTA3dGd5bmxmVDktTlhzTzBlX0lKb3J4Q1Qyb1ZUa0tZWm1SaGdXWUlGNmdJWlZnLWxLTzJGYnZpdw?oc=5",
@@ -483,12 +488,6 @@
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfVW9SRkZqVWNFTzBnQklLYUlfa29CRUViOEJFY29OU1h2N1cwaGJnOUVZYW0tQURDVC10c2ZUbi1LZw?oc=5",
     "image": "",
     "date": 1794312090000
-   },
-   {
-    "title": "Historischer Tiefstand - Das „Moldauherz“ ist aus dem Stausee aufgetaucht",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnc0k2Vzh0b09qRDk0OFpodUxSYzI1RHV3MzJuaTJxTWFpV1lTVk1XSy1vYTBXRWhBMElrb09wVUUtUQ?oc=5",
-    "image": "",
-    "date": 1794312000000
    }
   ],
   "rainews": [
@@ -579,20 +578,20 @@
     "title": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
     "link": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261110/1235989_113720_video_1800.mp4",
-    "date": 1794313037000
+    "date": 1794313240000
+   },
+   {
+    "title": "Última hora de la actualidad política, en directo | Feijóo: “España no necesita un estado más grande. Lo que necesita es un estado que funcione”",
+    "link": "https://elpais.com/espana/2026-11-10/ultima-hora-de-la-actualidad-politica-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/O55TULYKQJLFFLKKSPOT2WV2ZE.jpg?auth=480cfda0736a48a8d2fcf3786de88fea9a10b9cc1ae454a507a9d807bd7d0869",
+    "date": 1794313043000,
+    "titleSl": "Última hora de la actualidad política, en directo | Feijóo: »España no necesita un estado más grande. Lo que necesita es un estado que funcione”"
    },
    {
     "title": "Cómo terminar la jornada frente al ordenador sin ojos rojos ni dolor de cabeza: las gafas con filtro del 95%",
     "link": "https://elpais.com/escaparate/estilo-de-vida/como-terminar-la-jornada-frente-al-ordenador-sin-ojos-rojos-ni-dolor-de-cabeza-las-gafas-con-filtro-del-95.html",
     "image": "https://imagenes.elpais.com/resizer/v2/RPKFHFSUG5DRBJL44WQZAVZB7Q.png?auth=cf0a9b9b8151bb601ec22c5b19005336e9a25250f3d2c45662b8552fd67dab81",
     "date": 1794312900000
-   },
-   {
-    "title": "Última hora de la actualidad política, en directo | Feijóo: “España no necesita un estado más grande. Lo que necesita es un estado que funcione”",
-    "link": "https://elpais.com/espana/2026-11-10/ultima-hora-de-la-actualidad-politica-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/O55TULYKQJLFFLKKSPOT2WV2ZE.jpg?auth=480cfda0736a48a8d2fcf3786de88fea9a10b9cc1ae454a507a9d807bd7d0869",
-    "date": 1794312805000,
-    "titleSl": "Última hora de la actualidad política, en directo | Feijóo: »España no necesita un estado más grande. Lo que necesita es un estado que funcione”"
    },
    {
     "title": "Polonia detiene a dos ucranios acusados de sabotaje por encargo de Rusia con matrículas que imitaban las del ejército de Ucrania",
@@ -607,10 +606,11 @@
     "date": 1794312279000
    },
    {
-    "title": "Arrancan en Abu Dabi las negociaciones entre Rusia, Ucrania y EE UU, las primeras en nueve meses",
-    "link": "https://elpais.com/internacional/2026-11-10/arrancan-en-abu-dabi-las-negociaciones-entre-rusia-ucrania-y-ee-uu-las-primeras-en-nueve-meses.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/PYBVXXSWVJNRDL2RUHYO44HO7E.jpg?auth=c96b2cd7902645079ce545d862a567abd8494fb2c274da9a2a53d5458791c5cc",
-    "date": 1794311900000
+    "title": "On, la marca de zapatillas de Roger Federer, revisa al alza sus previsiones de beneficios",
+    "link": "https://cincodias.elpais.com/companias/2026-11-10/on-la-marca-de-zapatillas-de-roger-federer-revisa-al-alza-sus-previsiones-de-beneficios.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/2YHAMQEOBFFLTOHLISYC5ERHFA.jpg?auth=24bc00f534e7b7bc7e0ddecd123ce835b0a9fbe7c95eab2aa7011983e130918b",
+    "date": 1794312121000,
+    "titleSl": "On, la marca de zapatillas de Roger Federer, revisa al alza sus previsiones deġos"
    }
   ]
  },
