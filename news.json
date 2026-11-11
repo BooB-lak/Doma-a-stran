@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T10:00:58.459Z",
+ "generatedAt": "2026-11-11T10:02:25.303Z",
  "sources": {
   "siol": [
    {
@@ -91,6 +91,12 @@
     "date": 1794389985000
    },
    {
+    "title": "Nevladniki: Napoved prepovedi našega referendumskega angažiranja nas ne bo prestrašila",
+    "link": "https://www.rtvslo.si/slovenija/nevladniki-napoved-prepovedi-nasega-referendumskega-angaziranja-nas-ne-bo-prestrasila/799729",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/11/67120790.jpg",
+    "date": 1794389540000
+   },
+   {
     "title": "S filmom Divji konj številka devet se začenja 37. mednarodni filmski festival Liffe",
     "link": "https://www.rtvslo.si/kultura/liffe/s-filmom-divji-konj-stevilka-devet-se-zacenja-37-mednarodni-filmski-festival-liffe/799721",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/21/67115312.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/smucarke-odpotovale-v-levi-slovenija-brez-moskega-predstavnika/799722",
     "image": "https://img.rtvcdn.si/_up/upload/2025/11/15/66994738.jpg",
     "date": 1794387616000
-   },
-   {
-    "title": "Kandidati na volitvah z UI-jem ustvarili podobe kraja, množico podpornikov ...",
-    "link": "https://www.rtvslo.si/znanost-in-tehnologija/kandidati-na-volitvah-z-ui-jem-ustvarili-podobe-kraja-mnozico-podpornikov/799723",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/05/30/67048159.jpg",
-    "date": 1794387298000
    }
   ],
   "zurnal": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Gaza Grad: A Palestinian-Russian family’s longing for home",
+    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GAZA-GRAD-1-1794389937.jpg?resize=1920%2C1080&quality=80",
+    "date": 1794389959000,
+    "titleSl": "Grad v Gazi: hrepenenje palestinsko-ruske družine po domu"
+   },
+   {
     "title": "What do Kyiv residents think about giving up territory to Russia?",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794388012.jpg?resize=1920%2C1080&quality=80",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261110__D6YV7X2__v1__MidRes__ChinaEconomyTrade-1794360353_9cc7d6-1794379571.jpg?resize=1200%2C630&quality=80",
     "date": 1794385750000,
     "titleSl": "Zakaj trgovinski presežek Kitajske v višini 1 bilijona $ ni dobra novica za njeno gospodarstvo"
-   },
-   {
-    "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-    "link": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af3eb2f86fc-1794370351.jpg?resize=1920%2C1440",
-    "date": 1794385316000,
-    "titleSl": "Iran zanika pogovore z ZDA, pravi, da bo Hormuz ostal zaprt, dokler zahteve ne bodo izpolnjene"
    }
   ],
   "guardian": [
@@ -414,6 +414,24 @@
   ],
   "bild": [
    {
+    "title": "Nach Pokal-Krawallen - Ost-Klub erwirkt Entscheidung vor Landesgericht",
+    "link": "https://www.bild.de/sport/fussball/nach-pokal-krawallen-ost-klub-erwirkt-strafmilderung-vor-landesgericht-6af4388ee22aeb948141f85a",
+    "image": "https://images.bild.de/6af4388ee22aeb948141f85a/6acabe547e90c32dc0c86bcf0fdf5df5,52d2ad2a?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Vater festgenommen - Gerettet! Baby war 24 Stunden lebendig begraben",
+    "link": "https://www.bild.de/news/ausland/gerettet-baby-war-24-stunden-lebendig-begraben-6af40c1a5d6c43adf40ca0c3",
+    "image": "https://images.bild.de/6af40c1a5d6c43adf40ca0c3/26b9d6b7c5f6e8c4903b6291662b37c9,adfc0009?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Mann (21) unter Verdacht - 14-Jährige totgerast! Fahrer flieht vor Polizei",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/bornheim-nrw-14-jaehrige-totgerast-fahrer-21-flieht-vor-polizei-6af433d6c45061d752ba5ea4",
+    "image": "https://images.bild.de/6af433d6c45061d752ba5ea4/4c8156e5c711a4d822ff1502d5bef6c0,292f9a5b?w=1280",
+    "date": 0
+   },
+   {
     "title": "Welche Frage jetzt geklärt werden muss - Hamann-Klartext zu Bayerns Neuer-Problem",
     "link": "https://www.bild.de/sport/fussball/manuel-neuer-hamann-zweifelt-an-rueckkehr-als-bayern-nummer-1-6af435dfdb4e2fa8f6eb70e3",
     "image": "https://images.bild.de/6af435dfdb4e2fa8f6eb70e3/06d0410688ac09c95eb0c8680e05fc84,e0327766?w=1280",
@@ -431,27 +449,29 @@
     "link": "https://www.bild.de/regional/berlin/schuelerin-13-verschleppt-und-ermordet-lisas-mutmasslicher-killer-ist-tot-6af42a03c45061d752ba5dc0",
     "image": "https://images.bild.de/6af42a03c45061d752ba5dc0/c4d9ab5b8f185831a30863de906fa406,16de6cbc?w=1280",
     "date": 0
-   },
-   {
-    "title": "Die große Stürmer-Diskussion - „Füllkrug ist die Messlatte für alle!“",
-    "link": "https://www.bild.de/sport/fussball/niclas-fuellkrug-12-tore-in-11-spielen-reicht-das-fuer-die-em-6af438ebc45061d752ba5f41",
-    "image": "https://images.bild.de/6af438ebc45061d752ba5f41/3e63ec9fc4a556936d63830a0b5ba9e7-landscape,729a46b9?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Oscar-Verleihung der Autowelt - Das Goldene Lenkrad wird 50",
-    "link": "https://www.bild.de/news/das-goldene-lenkrad-wird-50-boris-becker-barbara-schoeneberger-und-co-auf-dem-roten-teppich-6af394d442c2bfde5b993725",
-    "image": "https://images.bild.de/6af394d442c2bfde5b993725/0ab8cd2541688f7997e69be63ac86bf5-landscape,6081c4db?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Ministerien richten sich teuer ein - Regierung verpulvert Millionen für Möbel und Deko",
-    "link": "https://www.bild.de/politik/inland/ministerien-richten-sich-teuer-ein-regierung-verpulvert-millionen-fuer-moebel-und-dekoration-6af4208fe22aeb948141f665",
-    "image": "https://images.bild.de/6af4208fe22aeb948141f665/6b98a907a22fe243c6b7f0ba622f0096,a5f99162?w=1280",
-    "date": 0
    }
   ],
   "krone": [
+   {
+    "title": "Häusliche Gewalt - Freundin (19) gewürgt und mit Messer attackiert",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MODAwU19mWFR4U0tsMThBY2tUcVF6U3dHd2l6b1VhdnBmVFVtckp5SHRxLWFOU2xtSzNRV2MyT1N0UQ?oc=5",
+    "image": "",
+    "date": 1794391260000
+   },
+   {
+    "title": "„Alle haben Unfall nur fotografiert oder gefilmt!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzMFN3NEZFM0NFZVp3SUZuUTRXRTZlM1VFc2F3a3JoREJwZXFPUE9HaW5WVlZLN0hQUEdKY184emltZw?oc=5",
+    "image": "",
+    "date": 1794391256000,
+    "titleSl": "Alle haben Unfall nur fotografiert oder gefilmt!"
+   },
+   {
+    "title": "Eine Person verletzt - Tirol: Crash im Frühverkehr fordert Rettungskräfte",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5meGFNX09qQmkxUHhrYXNSZU10RWxuTWpsXzdQdXRsWENIS0w5LTV1TUFNVDJNV3JWU0h0X1F0OFh2Zw?oc=5",
+    "image": "",
+    "date": 1794391200000,
+    "titleSl": "Eine Person verletzt - Tirolska: Crash im Frühverkehr fordert Rettungskräfte"
+   },
    {
     "title": "Kooperation - Neue Chancen für Basketballtalente",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kMGhUUlJ1d1pZVXNtMUZ5SC1IQnVJR0NheTdrMWhOV0c4eVlHa3NtV0QwLVJsRURIMkN1UGpMMEp1UQ?oc=5",
@@ -459,36 +479,16 @@
     "date": 1794391200000
    },
    {
-    "title": "Gruseliger Vorfall - Annette Frier: Wahrsagerin sagte Autounfall voraus",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sRnRpX29SbFlnT0VHWUtlOWlERGhFV1lITlBMNV9tNlhUVGc2bENPQ2pWdUlFMXFzd3o0TncxZFVJZw?oc=5",
+    "title": "Heime werde zugesperrt - Nur noch 341 Asylwerber werden in NÖ versorgt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ISzAxZnZSdmloVV9GUmxVcjVsckNWUENjX0g1QWNtb0h2bldOVGZMTnl1ekFURTlrZU9COURCSVZZQQ?oc=5",
     "image": "",
-    "date": 1794390840000
+    "date": 1794391200000
    },
    {
-    "title": "Witziger ORF-Auftritt - Scheib schlagfertig: „Hauptsoch‘ vor di Deitschn“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Da2Jod3NzVk5Hdy1uNkgyeURCNXR0bmZNbEpDNnVSaEVmd0pZNEEyRVRKMW1jcXVBeGZ4Y01HVEpYdw?oc=5",
+    "title": "Nach Würstel-Rallye - Medaillengewinner feiern Wiens Würstelstand-Kultur",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xN091UnpQOS1TOXVnak50V0s1RGRwMk9ST3dDclZHYmxHNENPSXpqTWZJZFcybGlqajk5SndBdzlWQQ?oc=5",
     "image": "",
-    "date": 1794390780000
-   },
-   {
-    "title": "Hat Brustkrebs - Kuttner will Chemo mit Video-Tagebuch begleiten",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TNmQwSGdPenFxUnZEYnNYZWM0V3FSeFcyaVQ0bFZQa3g0c25JSHd0OEVweTNzeGVJTUZZQTREa0g5Zw?oc=5",
-    "image": "",
-    "date": 1794390660000,
-    "titleSl": "Hat Brustkrebs - Kuttner bo Chemo mit Video-Tagebuch begleiten"
-   },
-   {
-    "title": "Folge von Mittwoch - Energie, Lebensfreude: Bewegung macht es möglich!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WMTBNS0I2akMyVVdOX3JvQVFXRWM3YkNSc3czU21WWjRNNGJ3czlYUVN5VTlxZHFVcnpFOUcwNjN4dw?oc=5",
-    "image": "",
-    "date": 1794390600000
-   },
-   {
-    "title": "Mega-Jetset-Hochzeit - Enkelin von Diane von Fürstenberg hat Ja gesagt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YQ0d5SGs3WmdfeUUtcHlYcDdiakhkS3dHa2VJYXA0OXM1TTBpQXhGbjUzdl9CR1R5czVvVEs1NmhaZw?oc=5",
-    "image": "",
-    "date": 1794390000000,
-    "titleSl": "Mega-Jetset-Hochzeit - Enkelin von Diane von Fürstenberg klobuk Ja gesagt"
+    "date": 1794391200000
    }
   ],
   "rainews": [
@@ -505,6 +505,13 @@
     "image": "https://www.rainews.it/dl/img/2026/11/06/1793975391837_dbccbaecfaebbcf.jpg",
     "date": 1794390720000,
     "titleSl": "E-pošta fanno scattare nuovi allarmi bomba: evakuirajte raznoliko scuola a Roma"
+   },
+   {
+    "title": "La morte del piccolo Domenico, indagati due sanitari dell&#x27;ospedale di Bolzano",
+    "link": "https://www.rainews.it/articoli/2026/11/la-morte-del-piccolo-domenico-indagati-due-sanitari-dellospedale-di-bolzano-47cb7aa9-5ee4-4dfc-b040-46b622302ac9.html",
+    "image": "https://www.rainews.it/dl/img/2026/02/25/1772032590719_ok.jpg",
+    "date": 1794390660000,
+    "titleSl": "La morte del piccolo Domenico, indagati due sanitari dell'ospedale di Bolzano"
    },
    {
     "title": "Francia: Houellebecq sotto indagine per istigazione all’odio contro i musulmani",
@@ -524,13 +531,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/11/1794387328218_videoframe.png",
     "date": 1794387180000,
     "titleSl": "Manovra, Meloni v videu: »Senza il bollo auto gli italiani risparmiano 2,3 miliardi«"
-   },
-   {
-    "title": "Video, l&#x27;istante dell&#x27;arresto delle presunte spie polacche a Kalingrad",
-    "link": "https://www.rainews.it/video/2026/11/video-listante-dellarresto-delle-presunte-spie-polacche-a-kalingrad-alta-tensione-ea987dd8-a987-43aa-9ad1-e8d68850c1b2.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/11/1794384798065_TZLOPRPRTRMADPBASEIMAGEXRUSSIAPOLANDKALININGRAD.JPG",
-    "date": 1794387180000,
-    "titleSl": "Video, l'istante dell'arresto delle presunte spie polacche a Kalingrad"
    }
   ],
   "lemonde": [
