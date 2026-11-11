@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T19:26:25.600Z",
+ "generatedAt": "2026-11-11T19:28:21.131Z",
  "sources": {
   "siol": [
    {
@@ -41,16 +41,16 @@
   ],
   "24ur": [
    {
+    "title": "Požar v industrijski coni na Kokrici, stanovalci naj zaprejo okna",
+    "link": "https://www.24ur.com/novice/crna-kronika/pozar-v-industrijski-coni-na-kokrici-stanovalci-naj-zaprejo-okna.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/a35a7a292138e5148d47_63677920.jpg?v=1091&fop=fp:0.37:0.16",
+    "date": 1794425233000
+   },
+   {
     "title": "V Mariboru se je danes ustavil čas, takoj ko je ura odbila 11:11",
     "link": "https://www.24ur.com/popin/domaca-scena/v-mariboru-se-je-danes-ustavil-cas-takoj-ko-je-ura-odbila-1111.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/1bb94b07b3b02d0bc531_63677924.jpg?v=2089&fop=fp:0.37:0.42",
     "date": 1794424721000
-   },
-   {
-    "title": "Požar v industrijski coni na Kokrici, stanovalci naj zaprejo okna",
-    "link": "https://www.24ur.com/novice/crna-kronika/pozar-v-industrijski-coni-na-kokrici-stanovalci-naj-zaprejo-okna.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/a35a7a292138e5148d47_63677920.jpg?v=1091&fop=fp:0.37:0.16",
-    "date": 1794424623000
    },
    {
     "title": "Mladoletniki ustrahujejo tudi prebivalce Fužin",
@@ -78,6 +78,12 @@
    }
   ],
   "rtvslo": [
+   {
+    "title": "Zagorelo je v industrijskem obratu na Kokrici",
+    "link": "https://www.rtvslo.si/crna-kronika/zagorelo-je-v-industrijskem-obratu-na-kokrici/799812",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/08/06/67066100.jpg",
+    "date": 1794425201000
+   },
    {
     "title": "Mariborski odbojkarji do gladke zmage v Zagrebu",
     "link": "https://www.rtvslo.si/sport/odbojka/mariborski-odbojkarji-do-gladke-zmage-v-zagrebu/799811",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/lokalne-novice/gorisko/cigler-kralj-na-obisku-v-posocju-na-podezelju-je-na-prvem-mestu-clovek-kmet/799802",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/11/67120967.jpg",
     "date": 1794419729000
-   },
-   {
-    "title": "Blatter pravi, da bo Uefa našla protikandidata za Infantina",
-    "link": "https://www.rtvslo.si/sport/nogomet/blatter-pravi-da-bo-uefa-nasla-protikandidata-za-infantina/799803",
-    "image": "https://img.rtvcdn.si/_up/upload/2015/06/03/65219586_blatter-3.jpg",
-    "date": 1794419659000
    }
   ],
   "zurnal": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Which key races remain undecided one week after the US midterms?",
-    "link": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af4a60998b9e-1794418185.jpg?resize=1920%2C1440",
-    "date": 1794424469000,
-    "titleSl": "Kateri ključni volilni izidi še niso znani en teden po vmesnih volitvah v ZDA?"
-   },
-   {
     "title": "More than one million people in Lebanon face acute food shortages, UN says",
     "link": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-07-06T164242Z_1674135773_RC2N7MA0IQW8_RTRMADP_3_IRAN-CRISIS-LEBANON-RETURN-1794415884.jpg?resize=1920%2C1440",
@@ -315,11 +308,11 @@
     "titleSl": "Vpliv Zohrana Mamdanija narašča, saj demokrati razmišljajo o strategijah za leto 2028"
    },
    {
-    "title": "‘Malign actors’: Ireland fears undersea cables face threat from Russia",
+    "title": "Ireland fears undersea cables face growing threat from ‘malign actors’",
     "link": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Royal-Navy-202511-003-1794417885.jpg?resize=1920%2C1440",
     "date": 1794421149000,
-    "titleSl": "»Zlonamerni akterji«: Irska se boji, da so podmorski kabli izpostavljeni grožnji s strani Rusije"
+    "titleSl": "Irska se boji, da so podmorski kabli izpostavljeni vse večji grožnji s strani »zlonamernih akterjev«"
    },
    {
     "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
@@ -327,15 +320,36 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-11T164533Z_485515734_RC2CCBAMPLOK_RTRMADP_3_RUSSIA-USA-AMBASSADOR-1794420120.jpg?resize=1920%2C1440",
     "date": 1794420790000,
     "titleSl": "Ruski veleposlanik v ZDA Aleksander Darčjev je umrl v starosti 66 let"
+   },
+   {
+    "title": "Spain faces nationwide protests over soaring housing costs",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794419331.jpg?resize=1920%2C1080&quality=80",
+    "date": 1794419343000,
+    "titleSl": "V Španiji potekajo protesti po vsej državi zaradi naraščajočih stroškov stanovanj"
    }
   ],
   "guardian": [
+   {
+    "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
+    "link": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+    "image": "https://i.guim.co.uk/img/media/1b649855fa074407e8669b52440db74680645869/622_0_4636_3711/master/4636.jpg?width=140&quality=85&auto=format&fit=max&s=d3de01cc7638dc266c7aee2d3960c128",
+    "date": 1794424226000,
+    "titleSl": "Lastnik trgovske verige Poundland je po navedbah poslancev izčrpal milijone, ko je bila veriga »na robu propada«."
+   },
    {
     "title": "Double amputee marathon runner criticises Badenoch for ‘weaponising his success’",
     "link": "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare",
     "image": "https://i.guim.co.uk/img/media/8a546e76765a7b819e0695cfdcfdb7adb25f2c2a/244_130_2295_1836/master/2295.jpg?width=140&quality=85&auto=format&fit=max&s=b05b9dbb5da7fe482dd2885707148861",
     "date": 1794424056000,
     "titleSl": "Maratonski tekač z dvojno amputacijo kritizira Badenochovo zaradi »izkoriščanja njegovega uspeha«"
+   },
+   {
+    "title": "British soldier charged with rape of army servicewoman in Cyprus",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
+    "image": "https://i.guim.co.uk/img/media/5167e0ab27bbc49b96bcf786736a68beb746cf00/400_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=439692406d0afafc41fe7a0960bcca9a",
+    "date": 1794424008000,
+    "titleSl": "Britanskega vojaka so obtožili posilstva vojakinje na Cipru"
    },
    {
     "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/c0e0e1436188a54323f8e247d48e0f1b12f5b884/179_0_2809_2248/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=2ac05d5d2759008f14c1751f4b60f1b2",
     "date": 1794423601000,
     "titleSl": "Pri davčni upravi ZDA je bila vložena pritožba v zvezi s hišno pomočnico predsednika Fife Giannija Infantina."
-   },
-   {
-    "title": "‘The world we know is over’ without urgent climate action, Marshall Islands president tells Cop31",
-    "link": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
-    "image": "https://i.guim.co.uk/img/media/e8fccf9b5435bc3b341f2de6392ce34e6cc2cb45/537_0_4331_3466/master/4331.jpg?width=140&quality=85&auto=format&fit=max&s=b970b056a1811969297cfe58def843c3",
-    "date": 1794423128000,
-    "titleSl": "Predsednik Marshallovih otokov na konferenci COP31 pravi, da je »svet, kot ga poznamo, končan«, če ne bomo nemudoma ukrepali proti podnebnim spremembam."
-   },
-   {
-    "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
-    "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-    "image": "https://i.guim.co.uk/img/media/670f7b1292952fbdbf85579bbc17110a0b1e8a16/499_0_4522_3617/master/4522.jpg?width=140&quality=85&auto=format&fit=max&s=e1201028ddc5ea474dc793f23069ff7f",
-    "date": 1794423062000,
-    "titleSl": "Milijoni ljudi so se pridružili prvi splošni stavki v Španiji po 14 letih v znak protesta proti stroškom stanovanj"
    }
   ],
   "spiegel": [
@@ -463,6 +463,13 @@
   ],
   "krone": [
    {
+    "title": "Bergretter rückten aus - Verletzt! Hund „Henk“ stürzte knapp 60 Meter ab",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MWllIcTFRNFNBWjkyLUdrak91aVV2OGVZUTljNk1keTg4a2FTLS1mNUFHa3ZEdWNkOGtjdmI4ZTllZw?oc=5",
+    "image": "",
+    "date": 1794425160000,
+    "titleSl": "Gorski reševalci so posredovali – pes je poškodovan! Pes »Henk« je padel s skoraj 60 metrov"
+   },
+   {
     "title": "ÖFB-Team geschlagen - Ndukwe-Rot bei verpatztem U19-EM-Quali-Auftakt",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4UW13a0JFbDlKLUlSbi14c1hVOWdmOF9ET0VsV1AxVGdyZVprcHloU3k2YVB1Ym03d0ZSM1kzYzJOUQ?oc=5",
     "image": "",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1794422272000,
     "titleSl": "Obremenitev s hrupom – Tovornjaki povzročajo tresenje hiš: Prebivalci so obupani"
-   },
-   {
-    "title": "Zuvor Konto geleert - Witwe kassiert nach Tod von Clanchef 4500 Euro",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4ycW1vcU9GTUpIcUlfOG1GbmRPTXozTkU5aDlvQ1pQMmpsMndlTmdOYzJ3dlRhM1l6anhQaElpOVhrdw?oc=5",
-    "image": "",
-    "date": 1794421878000,
-    "titleSl": "Pred tem je bil račun izpraznjen – vdova je po smrti vodje klana prejela 4.500 evrov"
    }
   ],
   "rainews": [
@@ -598,14 +598,14 @@
     "title": "Huelga general 11N y actualidad política, en directo | Miles de personas recorren las calles de numerosas ciudades en las manifestaciones de la huelga general",
     "link": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/G5NJY2MOFJE7TA4RHQARYDD55A.jpg?auth=4758a16ca815d5be4feb409f4dbbdbc824016ae2e0265954479a9fe1c9877b68",
-    "date": 1794424713000,
+    "date": 1794425213000,
     "titleSl": "Splošna stavka 11. novembra in aktualno politično dogajanje, v živo | Na ulicah številnih mest se je v okviru demonstracij ob splošni stavki zbralo na tisoče ljudi"
    },
    {
     "title": "‘Charles’ deja vientos de 148 kilómetros por hora, alumnos sin clase, vuelos cancelados y ríos en alerta",
     "link": "https://elpais.com/espana/2026-11-11/charles-deja-vientos-de-148-kilometros-por-hora-alumnos-sin-clase-vuelos-cancelados-y-rios-en-alerta.html",
     "image": "https://imagenes.elpais.com/resizer/v2/PTEVVKCOWRJ2BCOSIPFEZTH5LY.jpg?auth=13f571430374432772a653e904612361d19e2284cc07c05e8171e34436250edc",
-    "date": 1794424545000,
+    "date": 1794424878000,
     "titleSl": "»Charles« je prinesel veter s hitrostjo 148 kilometrov na uro, učenci so ostali brez pouka, leti so bili odpovedani, reke pa so pod nadzorom"
    },
    {
