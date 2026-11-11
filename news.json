@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-11T09:16:24.150Z",
+ "generatedAt": "2026-11-11T09:18:23.173Z",
  "sources": {
   "siol": [
+   {
+    "title": "Šokantne obtožbe proti Kylie Jenner: toži jo že četrta zaposlena",
+    "link": "https://siol.net/trendi/zvezde-in-slavni/sokantne-obtozbe-proti-kylie-jenner-tozi-jo-ze-cetrta-zaposlena-706018",
+    "image": "https://siol.net/media/img/f0/05/d42f0cab59fcfd750b42.jpeg",
+    "date": 1794388620000
+   },
    {
     "title": "Odpoklic žličke za kašico Nuby",
     "link": "https://siol.net/novice/slovenija/odpoklic-nuby-zlicke-za-kasico-706016",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/avtomoto/novice/maserati-bo-imel-svoj-otok-v-dubaju-840-luksuznih-stanovanj-in-plavajoca-restavracija-706011",
     "image": "https://siol.net/media/img/ag/ag/f0439acaf8fb9e0e9a26.jpg",
     "date": 1794383760000
-   },
-   {
-    "title": "Potrjeno: Andreja Slokar se vrača",
-    "link": "https://siol.net/sportal/zimski-sporti/potrjeno-andreja-slokar-se-vraca-706009",
-    "image": "https://siol.net/media/img/39/ed/562879e49f6a85641354.jpeg",
-    "date": 1794382260000
    }
   ],
   "24ur": [
@@ -117,7 +117,7 @@
   ],
   "zurnal": [
    {
-    "title": "Komentator prestopil mejo, toda ni vedel, da ga sliši ves svet",
+    "title": "Komentator prestopil mejo, ne da bi vedel, da ga sliši ves svet",
     "link": "https://www.zurnal24.si/sport/komentator-zalil-zvezdnico-toda-ni-vedel-da-ga-slisi-ves-svet-468060",
     "image": "https://www.zurnal24.si/media/img/2d/6e/fdb9d37bb1e582ff7829.jpeg",
     "date": 1794388140000
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "What do Kyiv residents think about giving up territory to Russia?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794388012.jpg?resize=1920%2C1080&quality=80",
+    "date": 1794388079000,
+    "titleSl": "Kaj menijo prebivalci Kijeva o predaji ozemlja Rusiji?"
+   },
+   {
+    "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
+    "link": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa547eedc57-1789216750.jpg?resize=1920%2C1440",
+    "date": 1794387539000,
+    "titleSl": "Ameriško veleposlaništvo zavrača trditve Hutijev o blokadi Jemna in poudarja obleganje Taiza"
+   },
+   {
     "title": "Putin is not ready to make peace in Abu Dhabi",
     "link": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af349e95bbe-1794329065.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af3eb2f86fc-1794370351.jpg?resize=1920%2C1440",
     "date": 1794385316000,
     "titleSl": "Iran zanika pogovore z ZDA, pravi, da bo Hormuz ostal zaprt, dokler zahteve ne bodo izpolnjene"
-   },
-   {
-    "title": "Students run for safety after fireworks set off inside French school",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-clean-1794383707.jpg?resize=1920%2C1080&quality=80",
-    "date": 1794383755000,
-    "titleSl": "Učenci tečejo za varnost po ognjemetu, ki se je začel v francoski šoli"
-   },
-   {
-    "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-    "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67abd4-1785179092.jpg?resize=1920%2C1440",
-    "date": 1794381988000,
-    "titleSl": "Kitajska univerza kupuje čipe Nvidia AI H200 kljub prepovedi v ZDA, kažejo zapisi"
    }
   ],
   "guardian": [
@@ -334,14 +334,28 @@
     "title": "Burnham hails approval for two huge windfarm projects as ‘power under British control’ – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/ddb99fecfdb0da37f16d53cabc49cf15e1855ddc/0_0_2858_2286/master/2858.jpg?width=140&quality=85&auto=format&fit=max&s=d07c1230145c7c8709e57a2d727b174a",
-    "date": 1794387309000,
+    "date": 1794388490000,
     "titleSl": "Burnham pozdravlja odobritev dveh velikih projektov vetrne elektrarne kot \"moč pod britanskim nadzorom\" – britanska politika v živo"
+   },
+   {
+    "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+    "image": "https://i.guim.co.uk/img/media/36b9da6acba28c654b99b345f25e497170ef452b/117_48_3687_2950/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=6931e516c086a9463f5db0317eb6795e",
+    "date": 1794388291000,
+    "titleSl": "Ameriški finančni minister Scott Bessent naj bi bil zadnji Trumpov uradnik, ki naj bi se preselil v vojaško bazo"
+   },
+   {
+    "title": "Ed Miliband says national security of all countries at risk from climate crisis",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
+    "image": "https://i.guim.co.uk/img/media/5abef6272b524d031e88e996ddb75818ad7ddf73/0_0_3417_2735/master/3417.jpg?width=140&quality=85&auto=format&fit=max&s=68a9655e241aa3e1eebadc36b3d06bea",
+    "date": 1794388187000,
+    "titleSl": "Ed Miliband pravi, da je nacionalna varnost vseh držav, ki jih ogroža podnebna kriza"
    },
    {
     "title": "Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/b47f5b5a8987f90d8391829d14e309dddde388a1/320_0_3195_2556/master/3195.jpg?width=140&quality=85&auto=format&fit=max&s=acae4844f6171b647547d91c900186bd",
-    "date": 1794386686000,
+    "date": 1794388058000,
     "titleSl": "Ukrajinski Zelenskij \"zadovoljen\" s pristopom ameriških odposlancev, ko pogovori o Rusiji vstopajo drugi dan – Evropa v živo"
    },
    {
@@ -352,25 +366,11 @@
     "titleSl": "Jonathan Ross \"zgrožen\" nad razkritji Davida Walliamsa in Russella Branda"
    },
    {
-    "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-    "image": "https://i.guim.co.uk/img/media/36b9da6acba28c654b99b345f25e497170ef452b/117_48_3687_2950/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=6931e516c086a9463f5db0317eb6795e",
-    "date": 1794385370000,
-    "titleSl": "Ameriški finančni minister Scott Bessent naj bi bil zadnji Trumpov uradnik, ki naj bi se preselil v vojaško bazo"
-   },
-   {
     "title": "Aldi cuts hundreds of UK head office roles as part of global cost trimming",
     "link": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
     "image": "https://i.guim.co.uk/img/media/19fc66d07d82f5bb12c4b846f341470c9cbe0156/1340_119_3799_3041/master/3799.jpg?width=140&quality=85&auto=format&fit=max&s=df11649a9b256aa16a588e32585d23fa",
     "date": 1794382212000,
     "titleSl": "Aldi zmanjšuje na stotine vlog v glavni pisarni v Združenem kraljestvu kot del globalnega zmanjševanja stroškov"
-   },
-   {
-    "title": "Lending to property investors falls at record pace, as Australians fall behind on home loans",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments",
-    "image": "https://i.guim.co.uk/img/media/8f1e364c2c85fcb9c9f35295c873d740e6fa3de6/1119_0_6319_5058/master/6319.jpg?width=140&quality=85&auto=format&fit=max&s=1b5fc6903dd2f1e7412d79ea6383df47",
-    "date": 1794380535000,
-    "titleSl": "Posojila vlagateljem v nepremičnine padajo z rekordno hitrostjo, saj Avstralci zaostajajo pri stanovanjskih posojilih"
    }
   ],
   "spiegel": [
@@ -416,9 +416,21 @@
   ],
   "bild": [
    {
+    "title": "Schülerin verschleppt und ermordet - Lisas mutmaßlicher Killer ist tot",
+    "link": "https://www.bild.de/regional/berlin/schuelerin-13-verschleppt-und-ermordet-lisas-mutmasslicher-killer-ist-tot-6af42a03c45061d752ba5dc0",
+    "image": "https://images.bild.de/6af42a03c45061d752ba5dc0/c4d9ab5b8f185831a30863de906fa406,16de6cbc?w=1280",
+    "date": 0
+   },
+   {
     "title": "Verleihung zum 50. Goldenen Lenkrad - So golden glänzte die Gala",
     "link": "https://www.bild.de/leben-wissen/auto/das-goldene-lenkrad-die-preisverleihung-2026-6aeb5a93eca9cecdd5d46bee",
     "image": "https://images.bild.de/6aeb5a93eca9cecdd5d46bee/949d97381dc3e83461de83db808267fa,975abdc3?w=1280",
+    "date": 0
+   },
+   {
+    "title": "Mitarbeiterin kam ohne Code nicht raus - Eingesperrt in Kylie Jenners Luxus-Schrank",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/kylie-jenner-haushaelterin-soll-in-schrank-eingesperrt-worden-sein-6af40b34f0b67a4b2466512d",
+    "image": "https://images.bild.de/6af40b34f0b67a4b2466512d/97ccb3561273d2b2a1a335ff8116b5d0,ad6bfcd0?w=1280",
     "date": 0
    },
    {
@@ -437,18 +449,6 @@
     "title": "Zu viele Fehlgriffe - Zukunft von Heldt völlig offen",
     "link": "https://www.bild.de/sport/fussball/1-fc-union-horst-heldt-steht-wegen-des-kaders-unter-druck-6af1da46d43db387e55071c0",
     "image": "https://images.bild.de/6af1da46d43db387e55071c0/0953bc81a06fabaac35ef7113047b02c,a3006438?w=1280",
-    "date": 0
-   },
-   {
-    "title": "Schülerin verschleppt und ermordet - Lisas mutmaßlicher Killer ist tot",
-    "link": "https://www.bild.de/regional/berlin/schuelerin-13-verschleppt-und-ermordet-lisas-mutmasslicher-killer-ist-tot-6af42a03c45061d752ba5dc0",
-    "image": "https://images.bild.de/6af42a03c45061d752ba5dc0/c4d9ab5b8f185831a30863de906fa406,16de6cbc?w=1280",
-    "date": 0
-   },
-   {
-    "title": "„Ich weiß nicht, was er hat“ - Hamann kontert Hoeneß in der Musiala-Diskussion!",
-    "link": "https://www.bild.de/sport/fussball/fc-bayern-ich-weiss-nicht-was-er-hat-hamann-kontert-hoeness-in-der-musiala-diskussion-6af2c8cde39746b7b04be2c6",
-    "image": "https://images.bild.de/6af2c8cde39746b7b04be2c6/e8116c0d35751033cf1ba0ae17159012,e53581b0?w=1280",
     "date": 0
    }
   ],
@@ -486,10 +486,10 @@
     "date": 1794387900000
    },
    {
-    "title": "Fahrer verletzt - SUV rast auf Gehsteig: Tote in North Hollywood",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LQzQ1Q2Zfam03UEE5Y1FxZU5pMi1EWmFqb0MxSjJjLTZRTjNmRXM0Zl9aZzVYYm9sNVZSaU9ydHQxZw?oc=5",
+    "title": "Drei Verletzte - Auto kam ins Schleudern und landete dann in Bach",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0dlVnUmZvQmpfN044VXBNOWxlWGJrSy1BejQ2d0Q5UFF5cmJjYXJIT3hudlBSZHdGYkRhWi1YeHF0Zw?oc=5",
     "image": "",
-    "date": 1794387900000
+    "date": 1794387600000
    }
   ],
   "rainews": [
@@ -558,13 +558,6 @@
     "titleSl": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d 'exhiber des cadavres « avec fierté »"
    },
    {
-    "title": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étrangère à partir d’un champ de ruines »",
-    "link": "https://www.lemonde.fr/idees/article/2026/11/11/aux-etats-unis-les-democrates-ont-deux-ans-pour-redessiner-une-politique-etrangere-a-partir-d-un-champ-de-ruines_6808933_3232.html",
-    "image": "https://img.lemde.fr/2026/11/10/161/0/5500/2750/644/322/60/0/252dc84_upload-1-qepgh8rjcmgd-2026-02-13t165029z-583329227-rc24ljawfxl7-rtrmadp-3-security-munich.JPG",
-    "date": 1794373229000,
-    "titleSl": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étrangère à partir d'un champ de ruines »"
-   },
-   {
     "title": "Procès des parents de « la petite inconnue de l’A10 » : le psychiatre Daniel Zagury ouvre la porte du huis clos familial",
     "link": "https://www.lemonde.fr/societe/article/2026/11/11/proces-des-parents-de-la-petite-inconnue-de-l-a10-le-psychiatre-daniel-zagury-ouvre-la-porte-du-huis-clos-familial_6808934_3224.html",
     "image": "https://img.lemde.fr/2026/10/29/415/0/8817/4408/644/322/60/0/8295702_ftp-1-ekdp1gjayutw-afp-d4pr7t3.jpg",
@@ -576,6 +569,13 @@
     "link": "https://www.lemonde.fr/societe/article/2026/11/11/arrets-maladie-pour-raisons-de-sante-mentale-la-delicate-prise-en-charge-des-troubles-lies-au-travail_6808931_3224.html",
     "image": "https://img.lemde.fr/2026/11/03/344/0/2752/1376/644/322/60/0/14f7ddc_upload-1-hmyrusds0sw6-image0.jpeg",
     "date": 1794373221000
+   },
+   {
+    "title": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étrangère à partir d’un champ de ruines »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/11/aux-etats-unis-les-democrates-ont-deux-ans-pour-redessiner-une-politique-etrangere-a-partir-d-un-champ-de-ruines_6808933_3232.html",
+    "image": "https://img.lemde.fr/2026/11/10/161/0/5500/2750/644/322/60/0/252dc84_upload-1-qepgh8rjcmgd-2026-02-13t165029z-583329227-rc24ljawfxl7-rtrmadp-3-security-munich.JPG",
+    "date": 1794373215000,
+    "titleSl": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étrangère à partir d'un champ de ruines »"
    }
   ],
   "elpais": [
