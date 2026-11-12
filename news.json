@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:32:23.548Z",
+ "generatedAt": "2026-11-12T15:34:22.424Z",
  "sources": {
   "siol": [
    {
@@ -199,9 +199,16 @@
   ],
   "nyt": [
    {
+    "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X.jpg",
+    "date": 1794496985000,
+    "titleSl": "Trump pravi, da bo Vanca umaknil s pogajanj o Iranu, da se bo lahko osredotočil na volilno prevaro"
+   },
+   {
     "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
     "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-    "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "image": "",
     "date": 1794496903000,
     "titleSl": "Delnice podjetja Nvidia so močno padle, potem ko je Jensen Huang odstopil s položaja izvršnega direktorja"
    },
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-collapse-live-scene-hvqk/12met-building-collapse-live-scene-hvqk-mediumSquareAt3X.jpg",
     "date": 1794494428000,
     "titleSl": "V bližini stavbe v Brooklynu, ki se je zrušila, so potekala izkopavanja"
-   },
-   {
-    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg",
-    "date": 1794493683000,
-    "titleSl": "Singapur pravi, da ZDA niso v pomoč pri preiskavi primera Alice Huang in podjetja Megaspeed"
    }
   ],
   "bbc": [
@@ -287,20 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Manchester United sacked manager Michael Carrick",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794496859.jpg?resize=1920%2C1080&quality=80",
-    "date": 1794496903000,
-    "titleSl": "Manchester United je odpustil trenerja Michaela Carricka"
-   },
-   {
-    "title": "UK court finds two Iranian men guilty of spying for Iran",
-    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af5cb73301c9-1794493299.jpg?resize=1920%2C1440",
-    "date": 1794496548000,
-    "titleSl": "Britansko sodišče je dva Iranca spoznalo za kriva vohunjenja za Iran"
-   },
-   {
     "title": "Spain approves housing reforms after nationwide strike over costs",
     "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af5c94bd7bf-1794492747.jpg?resize=1920%2C1440",
@@ -327,6 +313,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794495040.jpg?resize=1920%2C1080&quality=80",
     "date": 1794494420000,
     "titleSl": "Generalni direktor podjetja Nvidia Jensen Huang odstopa"
+   },
+   {
+    "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
+    "link": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af51e33-1794448947.jpg?resize=1920%2C1440",
+    "date": 1794494322000,
+    "titleSl": "Karavana migrantov po vmesnih volitvah v ZDA odhaja iz južne Mehike proti ZDA"
+   },
+   {
+    "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+    "link": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260820__C66784N__v1__HighRes__IraqIranPoliticsDiplomacyReligionIslamShia-1787255506-1794488319.jpg?resize=1200%2C630&quality=80",
+    "date": 1794493674000,
+    "titleSl": "»Niti vojne niti miru«: Ali lahko Iran prebije zastoj v odnosih z ZDA?"
    }
   ],
   "guardian": [
@@ -334,15 +334,8 @@
     "title": "Washington DC shooting latest updates: multiple people shot in Logan Circle",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
     "image": "https://i.guim.co.uk/img/media/dec2e2850502c62e10426e09016ac28c7cca0aa8/1140_207_5731_4585/master/5731.jpg?width=140&quality=85&auto=format&fit=max&s=ed7af434febbb8b28d44615b194cc562",
-    "date": 1794496993000,
+    "date": 1794496600000,
     "titleSl": "Najnovejše informacije o streljanju v Washingtonu, D.C.: več ljudi je bilo ustreljenih v okrožju Logan Circle"
-   },
-   {
-    "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
-    "date": 1794496943000,
-    "titleSl": "Sadiq Khan se pridružuje laburističnim predstavnikom, ki pozivajo premierja, naj ne zmanjšuje ciljev glede električnih vozil – britanska politika v živo"
    },
    {
     "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
@@ -366,6 +359,13 @@
     "titleSl": "V Washingtonu D.C. je bilo ustreljenih več ljudi, policija pa ljudi opozarja, naj ostanejo v zaprtih prostorih."
    },
    {
+    "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
+    "date": 1794496384000,
+    "titleSl": "Sadiq Khan se pridružuje laburističnim predstavnikom, ki pozivajo premierja, naj ne zmanjšuje ciljev glede električnih vozil – britanska politika v živo"
+   },
+   {
     "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
     "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
@@ -374,6 +374,13 @@
    }
   ],
   "spiegel": [
+   {
+    "title": "Künstliche Intelligenz: Sam Altmans Machtpoker - Podcast Firewall",
+    "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-sam-altmans-machtpoker-podcast-firewall-a-1fb17c5b-eda4-45f5-bfd3-5c878da93544#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a29cf2a9-73ae-4a55-b9dc-dec1bde533ca_w520_r2.08_fpx62.94_fpy49.98.jpg",
+    "date": 1794496320000,
+    "titleSl": "Umetna inteligenca: Sam Altman in njegova igra moči – Podcast Firewall"
+   },
    {
     "title": "»Inglourious Basterds«: Wie Quentin Tarantino gleich zwei Schauspielerinnen feuerte",
     "link": "https://www.spiegel.de/kultur/kino/inglourious-basterds-wie-quentin-tarantino-gleich-zwei-schauspielerinnen-feuerte-a-ccf6fa96-cd87-4e8b-a705-e1850005649a#ref=rss",
@@ -398,7 +405,7 @@
    {
     "title": "Nvidia: Jensen Huang tritt nach Spionageaffäre zurück",
     "link": "https://www.spiegel.de/wirtschaft/jensen-huang-nvidia-chef-tritt-nach-spionageaffaere-zurueck-a-776bb012-48a6-4c08-9939-a77fad020e47#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/65bf550a-a0f8-435b-b322-9289c19f19c6_w520_r2.08_fpx58.02_fpy45.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/49113e72-1220-4b8b-b36f-f2b82f1919fd_w520_r2.08_fpx52.58_fpy45.jpg",
     "date": 1794491820000,
     "titleSl": "Nvidia: Jensen Huang odstopa po škandalu s špijonažo"
    },
@@ -408,16 +415,37 @@
     "image": "https://cdn.prod.www.spiegel.de/images/6d92d088-f499-4744-b774-aec53762fbe4_w520_r2.08_fpx38.68_fpy50.jpg",
     "date": 1794490740000,
     "titleSl": "Finančni kriminal: Carina naj bi postala učinkovitejša – Bundestag sprejme nova pooblastila"
-   },
-   {
-    "title": "Kalte Progression: Steuerzahler zahlen 2026 und 2027 gut 23 Milliarden Euro drauf",
-    "link": "https://www.spiegel.de/wirtschaft/kalte-progression-steuerzahler-zahlen-2026-und-2027-gut-23-milliarden-euro-drauf-a-5755f76a-dd16-42d4-ba29-2cb4db616fa2#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/bdd4a5c5-1460-456a-ae84-86f4b92304a0_w520_r2.08_fpx30_fpy55.01.jpg",
-    "date": 1794489900000,
-    "titleSl": "Hladna progresija: Davkoplačevalci bodo v letih 2026 in 2027 plačali več kot 23 milijard evrov"
    }
   ],
   "bild": [
+   {
+    "title": "Sie hat schon einen Neuen - Trennung bei Sarah & Christian von Boetticher",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/trennung-bei-christian-von-boetticher-und-seiner-sarah-6af5d16650175c81de7a3e08",
+    "image": "https://images.bild.de/6af5d16650175c81de7a3e08/6bc9a80b3e4b9caa01c6b05060c81618,733044e?w=1280",
+    "date": 0,
+    "titleSl": "Ona že ima novega – ločitev Sare in Christiana von Boetticherja"
+   },
+   {
+    "title": "Vorschau für den 12. November 2026 - So geht es heute bei „Unter uns“ weiter",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/unter-uns-heute-im-tv-naomi-konfrontiert-patrizia-mit-ihren-luegen-6aec6274eca9cecdd5d47c08",
+    "image": "https://images.bild.de/6aec6274eca9cecdd5d47c08/e9aee3e13246636af0578c01503bccbc,b69da699?w=1280",
+    "date": 0,
+    "titleSl": "Napoved za 12. november 2026 – Kaj se bo danes zgodilo v nadaljevanju serije »Unter uns«"
+   },
+   {
+    "title": "Deutsche U19 jubelt, aber … - Sorgen um Bayern-Juwel (17)",
+    "link": "https://www.bild.de/sport/fussball/dfb-sorgen-um-bayern-juwel-kiala-nach-u19-sieg-6af5d328c45061d752ba88c4",
+    "image": "https://images.bild.de/6af5d328c45061d752ba88c4/b13d828dca0ef7c4c5674e05bce9c8e4-landscape,5ca49193?w=1280",
+    "date": 0,
+    "titleSl": "Nemška reprezentanca do 19 let slavi, vendar … – Skrb za biser Bayerna (17)"
+   },
+   {
+    "title": "Es soll ein Turtelvideo geben - Hotel-Krimi um Affäre des Ex- Nvidia-Boss",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/nvidia-affaere-um-jensen-huang-immer-krasser-es-soll-ein-turtelvideo-geben-6af5ac22d2f851d14ad011e5",
+    "image": "https://images.bild.de/6af5ac22d2f851d14ad011e5/bebb4c4c9cd90fcf726a81eaf06c85fd,77b4aeb8?w=1280",
+    "date": 0,
+    "titleSl": "Naj bi obstajal videoposnetek z golobčkoma – hotelska kriminalka o aferi nekdanjega šefa podjetja Nvidia"
+   },
    {
     "title": "16 Tote - Schwere Explosion in türkischem Stahlwerk",
     "link": "https://www.bild.de/news/explosion-in-der-tuerkei-fordert-mindestens-16-tote-kran-stuerzt-in-industrieofen-6af22a7bd0fb1ac9ce0ed205",
@@ -431,34 +459,6 @@
     "image": "https://images.bild.de/6af5c592d2f851d14ad015c8/b315fb330b1339b9960165bfad29e87c,bd7dd9c?w=1280",
     "date": 0,
     "titleSl": "Nova sezona »Germany Shore« – v zabavno vilo se selijo te zvezde"
-   },
-   {
-    "title": "Er will sich weiter nach oben kämpfen - Hier anmelden und Boxabend mit Ardian Krasniqi live sehen",
-    "link": "https://www.bild.de/sport/mehr-sport/ardian-krasniqi-titelverteidigung-und-13-boxkaempfe-am-samstag-live-ab-17-30-uhr-sehen-6af16f66f440347ad9f2fae0",
-    "image": "https://images.bild.de/6af16f66f440347ad9f2fae0/80568952871b51a894b4598a39b9533a,d21ac5c5?w=1280",
-    "date": 0,
-    "titleSl": "Želi se še naprej boriti za vrh – Prijavite se tukaj in si oglejte boksarski večer z Ardianom Krasniqijem v živo"
-   },
-   {
-    "title": "BILD enthüllt - Zweitligist plant Millionen-Deal",
-    "link": "https://www.bild.de/sport/fussball/fussball-dieser-zweitligist-plant-einen-millionen-bau-6af4462de22aeb948141fa54",
-    "image": "https://images.bild.de/6af4462de22aeb948141fa54/f145b5019e07d638dac4bed417bfcf36,c3ab2281?w=1280",
-    "date": 0,
-    "titleSl": "BILD razkriva – klub iz druge lige načrtuje milijonsko pogodbo"
-   },
-   {
-    "title": "Fans nicht zugelassen - Klare Pleite im Geheimtest zweier Zweitligisten",
-    "link": "https://www.bild.de/sport/fussball/1-fc-magdeburg-trainer-sander-kritisiert-auftritt-nach-0-3-pleite-6af5c8af50175c81de7a3d1e",
-    "image": "https://images.bild.de/6af5c8af50175c81de7a3d1e/a8ce6cb048fd68300ab84be431ff8978,21f93fb0?w=1280",
-    "date": 0,
-    "titleSl": "Navijači niso dovoljeni – Jasen poraz v tajnem testu dveh ekip iz druge lige"
-   },
-   {
-    "title": "Brisante Email-Umfrage bei Mitarbeitern - NRW will mehr Mitarbeiter mit Migrationshintergrund",
-    "link": "https://www.bild.de/politik/inland/nrw-ministerien-beschaeftigte-sollen-einwanderungsgeschichte-ankreuzen-6af3306242c2bfde5b9930ed",
-    "image": "https://images.bild.de/6af3306242c2bfde5b9930ed/d0f6d6d3417add225ab696c244f04754,d4a9ba49?w=1280",
-    "date": 0,
-    "titleSl": "Vznemirljiva e-poštna anketa med zaposlenimi – Severno Porenje-Vestfalija želi več zaposlenih s priseljenskim ozadjem"
    }
   ],
   "krone": [
@@ -468,6 +468,20 @@
     "image": "",
     "date": 1794497512000,
     "titleSl": "»Zelo kritične razmere« – na vzhodu manjka več kot polovica vseh krvodajalcev"
+   },
+   {
+    "title": "Erst im Jahr 2028 - Radbrücke wird über die Gaswerkgasse gebaut",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJakJXZVBkTFk1MGdPX3k1VFh3RUhWWUt3a0dnX2JFTUJIdFpEeDZCSWtHOFkyTUVhQ2paVjZKOWRrQQ?oc=5",
+    "image": "",
+    "date": 1794497400000,
+    "titleSl": "Šele leta 2028 – kolesarski most bo zgrajen nad ulico Gaswerkgasse"
+   },
+   {
+    "title": "Schlafmittel in Wein - Diebische Pflegerin muss 3,5 Jahre hinter Gitter",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pTmFocmFJY0ZhZ3hCQ1VZYzdyWkRrWTV4QW1GZGVOQUhyb1hVSUYxdVBsWkItdVVxWGlDVE1rYloxUQ?oc=5",
+    "image": "",
+    "date": 1794497400000,
+    "titleSl": "Uspavalna sredstva v vinu – Negovalka tatica mora za 3,5 leta za rešetke"
    },
    {
     "title": "Salvat sagt „Adios“ - Coach verlässt den Vöslauer Handball-Meister!",
@@ -489,20 +503,6 @@
     "image": "",
     "date": 1794495762000,
     "titleSl": "»Na trgu Rathausplatz se ne želim samo drsati.«"
-   },
-   {
-    "title": "Ukraine-Hilfen - Eine Ohrfeige aus Budapest für Kanzler Merz",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HUWNhcE9RNDNkbDVYaHpfQzU4dnlCYUF3RzBndjhNZENLUlpuRURMaE55U2s3UUdyWkVKMktmdlN6Zw?oc=5",
-    "image": "",
-    "date": 1794495720000,
-    "titleSl": "Pomoč Ukrajini – Šamar iz Budimpešte za kanclerja Merza"
-   },
-   {
-    "title": "Kommentar des Tages - Sparstift: „Ohne Kunst und Kultur wird´s finster“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ib2IyR1VHX3hTdFZEeDl0Rmd0eklYaXl3M0gwQUt2TFh5Sm9qWDY2djJWbEhZcVd6VEJMZzBpLXQ3dw?oc=5",
-    "image": "",
-    "date": 1794495600000,
-    "titleSl": "Komentar dneva – Varčevalni svinčnik: »Brez umetnosti in kulture bo temno«"
    }
   ],
   "rainews": [
@@ -598,7 +598,7 @@
     "title": "La exabogada de Koldo García declara al juez que la web ‘Okdiario’ le pagó toda la defensa del exasesor de Ábalos",
     "link": "https://elpais.com/espana/2026-11-12/la-exabogada-de-koldo-garcia-afirma-al-juez-que-la-web-okdiario-le-pago-toda-la-defensa-del-exasesor-de-abalos.html",
     "image": "https://imagenes.elpais.com/resizer/v2/TQOQGP7QBBDAXHMGAO473VJYDY.JPG?auth=640f954663b7c630c1f554f5c0874a02ebaee0752cf6bd29ccc042e35636de54",
-    "date": 1794496752000,
+    "date": 1794497491000,
     "titleSl": "Nekdanja odvetnica Kolda Garcíe je sodniku izjavila, da je spletno mesto »Okdiario« plačalo celotno obrambo nekdanjega svetovalca Ábalosa."
    },
    {
@@ -618,7 +618,7 @@
    {
     "title": "Trump amenaza con duplicar los aranceles a México si no endurece la frontera",
     "link": "https://elpais.com/us/2026-11-12/trump-amenaza-con-duplicar-los-aranceles-a-mexico-si-no-endurece-la-frontera.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/U4P2CNOGYBLFDCXONTG5HBBNXI.jpg?auth=bf3865d20608bcb3c4f48083a8cbb1d9c30a6a193dd2feaa207bdaa472b5b3f9",
+    "image": "https://imagenes.elpais.com/resizer/v2/MV6ICCSCBRAJ3GHIDNI45ZG4RQ.JPG?auth=9de9e1a7daf05c88e0b7b44dde2ad810901e5c4434e42e2839ff6e76dd87645f",
     "date": 1794495216000,
     "titleSl": "Trump grozi, da bo podvojil carine za Mehiko, če ne bo poostrila nadzora na meji"
    },
