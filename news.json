@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:52:26.689Z",
+ "generatedAt": "2026-11-12T15:54:24.572Z",
  "sources": {
   "siol": [
    {
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Dragulji slovenske dediščine: Od Piranskega mestnega statuta do prvega slovenskega celovečerca",
+    "link": "https://www.rtvslo.si/kultura/dediscina/dragulji-slovenske-dediscine-od-piranskega-mestnega-statuta-do-prvega-slovenskega-celovecerca/799929",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121264.jpg",
+    "date": 1794498754000
+   },
+   {
     "title": "Rončević po prometni nesreči: \"Vse OK, že nadaljujemo z delom na reformi šolstva\"",
     "link": "https://www.rtvslo.si/crna-kronika/roncevic-po-prometni-nesreci-vse-ok-ze-nadaljujemo-z-delom-na-reformi-solstva/799931",
     "image": "https://img.rtvcdn.si/_up/upload/2026/06/01/67048698.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/andreja-slokar-pred-prvim-slalomom-po-vec-kot-letu-in-pol-ne-vem-natancno-kam-trenutno-sodim/799923",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121245.jpg",
     "date": 1794495336000
-   },
-   {
-    "title": "V vodi v Logatcu niso zaznali bakterij, a prekuhavanje ostaja",
-    "link": "https://www.rtvslo.si/okolje/v-vodi-v-logatcu-niso-zaznali-bakterij-a-prekuhavanje-ostaja/799921",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/10/67120506.jpg",
-    "date": 1794495184000
    }
   ],
   "zurnal": [
@@ -201,7 +201,7 @@
    {
     "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
     "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-    "image": "",
+    "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
     "date": 1794497404000,
     "titleSl": "Delnice podjetja Nvidia so močno padle, potem ko je Jensen Huang odstopil s položaja izvršnega direktorja"
    },
@@ -333,16 +333,30 @@
    {
     "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-    "image": "https://i.guim.co.uk/img/media/dec2e2850502c62e10426e09016ac28c7cca0aa8/1140_207_5731_4585/master/5731.jpg?width=140&quality=85&auto=format&fit=max&s=ed7af434febbb8b28d44615b194cc562",
-    "date": 1794497965000,
+    "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
+    "date": 1794498580000,
     "titleSl": "Najnovejše informacije o streljanju v Washingtonu, D.C.: policija potrjuje, da je ena oseba umrla, štiri pa so bile ranjene"
    },
    {
     "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
-    "date": 1794497705000,
+    "date": 1794498555000,
     "titleSl": "Sadiq Khan se pridružuje laburističnim predstavnikom, ki pozivajo premierja, naj ne zmanjšuje ciljev glede električnih vozil – britanska politika v živo"
+   },
+   {
+    "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
+    "date": 1794498473000,
+    "titleSl": "Ameriški odposlanci so se sestali s Putinom, medtem ko je Zelenski dejal, da je storitev Starlink za ukrajinsko vojsko ponovno prekinjena – Evropa v živo"
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+    "date": 1794498181000,
+    "titleSl": "Izvršni direktor podjetja Nvidia Jensen Huang je zaradi škandala odstopil, začasno pa ga je nadomestila finančna direktorica Colette Kress – spremljajte v živo"
    },
    {
     "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297",
     "date": 1794497470000,
     "titleSl": "Jensen Huang odstopa s položaja izvršnega direktorja podjetja Nvidia zaradi domnevnih afer"
-   },
-   {
-    "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-    "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
-    "date": 1794496576000,
-    "titleSl": "Izvršni direktor podjetja Nvidia Jensen Huang je zaradi škandala odstopil, začasno pa ga je nadomestila finančna direktorica Colette Kress – spremljajte v živo"
-   },
-   {
-    "title": "Multiple people shot in Washington DC as police warn people to stay inside",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-    "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
-    "date": 1794496438000,
-    "titleSl": "V Washingtonu D.C. je bilo ustreljenih več ljudi, policija pa ljudi opozarja, naj ostanejo v zaprtih prostorih."
    }
   ],
   "spiegel": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Hufe statt Fahrkarte - Zwei Pferde steigen plötzlich in Linienbus ein",
+    "link": "https://www.bild.de/news/ausland/naechster-halt-pferdestall-zwei-pferde-steigen-ploetzlich-in-linienbus-ein-6af5ae5050175c81de7a3905",
+    "image": "https://images.bild.de/6af5ae5050175c81de7a3905/165619956e85d24437e6cd2090e94e83,a9fb94f9?w=1280",
+    "date": 0,
+    "titleSl": "Kopita namesto vozovnice – dva konja nenadoma vstopita v avtobus"
+   },
+   {
     "title": "Sechs Tage im australischen Busch - So spektakulär wird William gerettet",
     "link": "https://www.bild.de/news/ausland/sechs-tage-im-australischen-busch-so-spektakulaer-wird-william-gerettet-6af5bc44d2f851d14ad014ae",
     "image": "https://images.bild.de/6af5bc44d2f851d14ad014ae/288e6652135092d50663f2a5251258e3,8fbb1225?w=1280",
@@ -452,16 +459,16 @@
     "image": "https://images.bild.de/6af58d77c45061d752ba7568/7f406630ef194ab8de0a9339613817ca,fcae91c?w=1280",
     "date": 0,
     "titleSl": "Za spektakularno tekmo lige NFL v bavarskem stadionu – Patriotsi so prispeli v München!"
-   },
-   {
-    "title": "Nach Oleschky, jetzt Kostjantyniwka - Putin schlägt neuen Propaganda-Plan vor",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/putin-will-zweite-humanitaere-mission-in-der-ukraine-nach-oleschky-jetzt-kostjantyniwka-6af5bd9d50175c81de7a3b84",
-    "image": "https://images.bild.de/6af5bd9d50175c81de7a3b84/82b0cdb4192d8ad4caea9891312f602d,a12ec3fe?w=1280",
-    "date": 0,
-    "titleSl": "Po Oleškah zdaj Kostjantynivka – Putin predlaga nov propagandni načrt"
    }
   ],
   "krone": [
+   {
+    "title": "Carrick-Ende bei ManU ++ Andreeva im Halbfinale",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWZWRqal9jbXRlUnVBQjg3SUxrTnVfaFk2em5zNERwbVkxSGktYjVaeFJvaDU0ODZfUFBLWjhXS0Nydw?oc=5",
+    "image": "",
+    "date": 1794498720000,
+    "titleSl": "Carrick-Ende pri ManU ++ Andreeva v polfinalu"
+   },
    {
     "title": "Filmhighlights - Im Kino: Fliegende Fäuste und krimineller Wahnsinn",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8wMGhjZGNXMEx0SkpzelpHWXlXZ1lfX0I1Y2sxLXpxbkV5YkE4MkJnM0xSYS1fNE9oVUNTMEhxci1SQQ?oc=5",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1794497400000,
     "titleSl": "Uspavalna sredstva v vinu – Negovalka tatica mora za 3,5 leta za rešetke"
-   },
-   {
-    "title": "Salvat sagt „Adios“ - Coach verlässt den Vöslauer Handball-Meister!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ucW9SZHN0WjdjeEdsNER2aWNpalk5V0lsdXUzNFpCRlFhU3Nlbi1pdzcyMFluRFNKMkM3VmR2czZnZw?oc=5",
-    "image": "",
-    "date": 1794497100000,
-    "titleSl": "Salvat pravi »Adijo« – trener zapušča vöslavskega rokomentnega prvaka!"
    }
   ],
   "rainews": [
