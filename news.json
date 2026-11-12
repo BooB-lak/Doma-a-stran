@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T14:42:25.331Z",
+ "generatedAt": "2026-11-12T14:44:24.301Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Vlada s finančno injekcijo: Nekateri bodo prejeli najmanj 50 evrov pomoči",
+    "link": "https://www.zurnal24.si/slovenija/kmetijstvo-vlada-odlok-pomoc-denar-468149",
+    "image": "https://www.zurnal24.si/media/img/bf/78/3290ad501874197daba2.jpeg",
+    "date": 1794494580000
+   },
+   {
     "title": "Anže Lanišek: \"Ni tako, da bi komaj čakal začetek sezone\"",
     "link": "https://www.zurnal24.si/sport/zimski-sporti/lanisek-v-sezono-povsem-miren-bolj-me-zanima-nekaj-drugega-468148",
     "image": "https://www.zurnal24.si/media/img/db/b8/0d4866e8ae034703513c.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/slovenija/sporno-posojilo-borzena-stiri-milijoni-ostali-nevrnjeni-468140",
     "image": "https://www.zurnal24.si/media/img/a1/01/0ee6962034b3bf6d2278.jpeg",
     "date": 1794486600000
-   },
-   {
-    "title": "Trebnje: Medved napadel domačina, dobrih sto metrov od njegove hiše",
-    "link": "https://www.zurnal24.si/slovenija/trebnje-medved-napadel-domacina-dobrih-sto-metrov-od-njegove-hise-468139",
-    "image": "https://www.zurnal24.si/media/img/e9/6c/b08ca2e95cc54b8c21af.jpeg",
-    "date": 1794486180000
    }
   ],
   "reuters": [
@@ -331,27 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-    "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
-    "date": 1794494032000,
-    "titleSl": "Izvršni direktor podjetja Nvidia Jensen Huang je zaradi škandala odstopil, začasno pa ga je nadomestila finančna direktorica Colette Kress – spremljajte v živo"
-   },
-   {
-    "title": "Farage was guest on Brand podcast after sexual assault investigation began",
-    "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
-    "image": "https://i.guim.co.uk/img/media/31a0c8520659515ad37e4772730fce3f77c5c94b/360_0_3598_2878/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=f4b9d586781171ca56504621e0e74aef",
-    "date": 1794493817000,
-    "titleSl": "Farage je bil gost v Brandovem podkastu, potem ko se je začela preiskava o spolnem napadu."
-   },
-   {
-    "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-    "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
-    "date": 1794493640000,
-    "titleSl": "»Imel sem pogum, da verjamem v Mississippi,« pravi Scott Colom po zgodovinski zmagi v senatu – ameriška politika v živo"
-   },
-   {
     "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
     "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
@@ -371,9 +350,37 @@
     "image": "https://i.guim.co.uk/img/media/5933f141c2d2f0c5b81d6ddb525b6016cd588787/403_0_2367_1894/master/2367.jpg?width=140&quality=85&auto=format&fit=max&s=3d63cba933117cd02f210d3b831c808d",
     "date": 1794492978000,
     "titleSl": "Mladim v Združenem kraljestvu zmanjkuje časa za cepljenje proti meningitisu B"
+   },
+   {
+    "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+    "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
+    "date": 1794492813000,
+    "titleSl": "»Imel sem pogum, da verjamem v Mississippi,« pravi Scott Colom po zgodovinski zmagi v senatu – ameriška politika v živo"
+   },
+   {
+    "title": "DC shooting injures at least 5 in Logan Circle neighborhood as police respond to ‘active’ scene",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+    "image": "https://i.guim.co.uk/img/media/86db128e4767b0807260302c30d021d5f8b0409e/882_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4151ec20096f8fa08ddff518ab981114",
+    "date": 1794492590000,
+    "titleSl": "V streljanju v Washingtonu je bilo v soseski Logan Circle ranjenih najmanj pet ljudi, policija pa se je odzvala na »aktivno« prizorišče."
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+    "date": 1794492479000,
+    "titleSl": "Izvršni direktor podjetja Nvidia Jensen Huang je zaradi škandala odstopil, začasno pa ga je nadomestila finančna direktorica Colette Kress – spremljajte v živo"
    }
   ],
   "spiegel": [
+   {
+    "title": "Russland: Ukraine greift offenbar russischen Militär sowie Kriegsschiff an",
+    "link": "https://www.spiegel.de/ausland/russland-ukraine-greift-offenbar-russischen-militaer-sowie-kriegsschiff-an-a-542b7b39-72c1-4967-836c-591659fa211e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/73668039-7ff1-4e07-abdd-c391652ac095_w520_r2.08_fpx33.34_fpy50.jpg",
+    "date": 1794494280000,
+    "titleSl": "Rusija: Ukrajina očitno napada rusko vojsko in vojaško ladjo"
+   },
    {
     "title": "Warum Markus Söder jetzt noch breitbeiniger durch Berlin laufen dürfte",
     "link": "https://www.spiegel.de/politik/deutschland/warum-markus-soeder-jetzt-noch-breitbeiniger-durch-berlin-laufen-duerfte-a-3f95b855-5de6-4193-8e07-5c9faf7de705#ref=rss",
@@ -408,13 +415,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/64ab8495-8bf3-4503-89fb-4feaa30bb89d_w520_r2.08_fpx69.84_fpy44.99.jpg",
     "date": 1794487860000,
     "titleSl": "Scarlett Johansson prejema tako slabe ponudbe, da dvomi o celotni filmski industriji"
-   },
-   {
-    "title": "Stromsteuer: Wirtschaft kritisiert Schlingerkurs der Regierung",
-    "link": "https://www.spiegel.de/wirtschaft/stromsteuer-wirtschaft-kritisiert-schlingerkurs-der-regierung-a-1b53162b-b41a-4462-9e5c-896a8a327156#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ce8e99cc-cfb7-467e-b41a-cd715e0540ee_w520_r2.08_fpx49_fpy36.jpg",
-    "date": 1794486300000,
-    "titleSl": "Davek na električno energijo: gospodarstvo kritizira vladno nihanje"
    }
   ],
   "bild": [
