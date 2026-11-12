@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T18:26:24.734Z",
+ "generatedAt": "2026-11-12T18:28:23.298Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Po požaru v Logatcu prvi rezultati kakovosti vode: Prekuhavanja še ni konec",
+    "link": "https://www.zurnal24.si/slovenija/kakovost-voda-logatec-pozar-prekuhavanje-468160",
+    "image": "https://www.zurnal24.si/media/img/48/3d/a3fb8265bf8b15bd57c0.png",
+    "date": 1794507960000
+   },
+   {
     "title": "Drugi krog v Ljubljani \"tako rekoč že dejstvo\"",
     "link": "https://www.zurnal24.si/slovenija/volitve-ljubljana-raziskava-valicon-zurnal24-drugi-krog-jankovic-mesec-468158",
     "image": "https://www.zurnal24.si/media/img/56/e5/51139bbf8c196cbc7030.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/kolesarstvo/voznika-ki-je-do-smrti-zbil-kolesarsko-legendo-po-hudi-kapi-doletel-nov-udarec-468151",
     "image": "https://www.zurnal24.si/media/img/e5/f7/f08aafb91890a567cb89.jpeg",
     "date": 1794497280000
-   },
-   {
-    "title": "Policija razkrila podrobnosti Rončevićeve nesreče",
-    "link": "https://www.zurnal24.si/slovenija/borut-roncevic-prometna-nesreca-policija-podrobnosti-468152",
-    "image": "https://www.zurnal24.si/media/img/5f/38/4de5a8166e166a8f6246.jpeg",
-    "date": 1794496320000
    }
   ],
   "reuters": [
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-mediumSquareAt3X.jpg",
+    "date": 1794507806000,
+    "titleSl": "Kdo je Colette Kress, začasna izvršna direktorica podjetja Nvidia, ki bo nadomestila Jensena Huanga?"
+   },
+   {
     "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
     "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
     "date": 1794505339000,
     "titleSl": "Ena oseba je bila ustreljena in štiri so bile ranjene v bližini stanovanjske stavbe v Washingtonu, D.C."
-   },
-   {
-    "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
-    "date": 1794504970000,
-    "titleSl": "Trump pravi, da bo Vancea umaknil iz pogajanj z Iranom, da se bo lahko osredotočil na volilne prevare"
    }
   ],
   "bbc": [
@@ -331,20 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-    "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29",
-    "date": 1794507203000,
-    "titleSl": "Hegseth podeli medaljo stražarju, ki ga je opomnil na Arlingtonskem narodnem pokopališču – ameriška politika v živo"
-   },
-   {
-    "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-    "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
-    "date": 1794507176000,
-    "titleSl": "Osumljenec streljanja v telovadnici v Washingtonu D.C. je storil samomor, štiri osebe so bile ranjene, ena pa je umrla."
-   },
-   {
     "title": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
     "image": "https://i.guim.co.uk/img/media/79757adb826f69461c2e82c8b5fb08b11c578c41/809_0_4055_3243/master/4055.jpg?width=140&quality=85&auto=format&fit=max&s=657d55cb9fc45a3381e1e99247147bc8",
@@ -371,6 +357,20 @@
     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
     "date": 1794506322000,
     "titleSl": "Sadiq Khan se pridružuje predstavnikom laburistov, ki pozivajo premierja, naj ne zmanjšuje ciljev glede električnih vozil – britanska politika v živo"
+   },
+   {
+    "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+    "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29",
+    "date": 1794506058000,
+    "titleSl": "Hegseth podeli medaljo stražarju, ki ga je opomnil na Arlingtonskem narodnem pokopališču – ameriška politika v živo"
+   },
+   {
+    "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+    "date": 1794506055000,
+    "titleSl": "Po poročilih naj bi Nvidiin Jensen Huang pričal pred ameriškim kongresom sredi škandala, medtem ko ga je finančna direktorica Colette Kress nadomestila kot začasna izvršna direktorica – spremljajte v živo."
    }
   ],
   "spiegel": [
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "Leone XIV in Perù, un ritorno a casa. Oggi consegna delle chiavi di Lima e incontro con i vescovi",
+    "link": "https://www.rainews.it/maratona/2026/11/papa-leone-xiv-viaggio-apostolico-in-uruguay-argentina-e-peru-pontefice-38858411-8e7e-4d4e-8e59-931552e919c8.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/12/1794501482291_WhatsApp_Image__at_...jpeg",
+    "date": 1794507960000,
+    "titleSl": "Leon XIV. v Peruju, vrnitev domov. Danes predaja ključev Lime in srečanje s škofi"
+   },
+   {
     "title": "Jensen Huang, la parabola del re dei microchip partito da Taiwan",
     "link": "https://www.rainews.it/articoli/2026/11/jensen-huang-la-parabola-del-re-dei-microchip-partito-da-taiwan-e303a112-2cc3-47aa-b22a-e5f2e93f18e3.html",
     "image": "https://www.rainews.it/dl/img/2026/11/08/1794170079356_small.jpg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/12/1794486621528_logo.PNG",
     "date": 1794506100000,
     "titleSl": "ATP Finals 2026, žreb skupin: s kom bodo igrali Italijani"
-   },
-   {
-    "title": "Israele bombarda l&#x27;ospedale Nasser a Gaza, almeno 6 morti e 20 feriti",
-    "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ea1f5961-3dad-48e4-a3b5-1ca0c763fe0c.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/12/1794462505153_vlcsnaphms.png",
-    "date": 1794505500000,
-    "titleSl": "Izrael je bombardiral bolnišnico Nasser v Gazi, pri čemer je umrlo najmanj 6 ljudi, 20 pa jih je bilo ranjenih"
    }
   ],
   "lemonde": [
