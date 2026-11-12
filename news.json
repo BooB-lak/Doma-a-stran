@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-12T15:58:24.011Z",
+ "generatedAt": "2026-11-12T16:00:59.195Z",
  "sources": {
   "siol": [
+   {
+    "title": "\"Mislil sem, da mi bodo ljudje rekli, da sem otročji\"",
+    "link": "https://siol.net/sportal/zimski-sporti/ate-lie-mcgrath-mislil-sem-da-mi-bodo-ljudje-rekli-da-sem-otrocji-706159",
+    "image": "https://siol.net/media/img/05/fc/317c230a3b2305e4f44b.jpeg",
+    "date": 1794499200000
+   },
    {
     "title": "Štiri leta zapora za smrt Rebellina? Sodni postopek se je nepričakovano zapletel.",
     "link": "https://siol.net/sportal/kolesarstvo/stiri-leta-zapora-za-smrt-rebellina-sodni-postopek-se-je-nepricakovano-zapletel-706166",
@@ -31,15 +37,15 @@
     "link": "https://siol.net/novice/slovenija/upravne-enote-v-postopke-odvzema-drzavljanstva-za-13-rusov-s-slovenskim-drzavljanstvom-706161",
     "image": "https://siol.net/media/img/39/1a/c938d7efc229e1889ddb.jpg",
     "date": 1794494880000
-   },
-   {
-    "title": "Vladislav Tretjak pozval k preiskavi in kaznim za tiste, ki so napovedali bojkot",
-    "link": "https://siol.net/sportal/hokej/vladislav-tretjak-pozval-k-preiskavi-in-kaznim-za-tiste-ki-so-napovedali-bojkot-706134",
-    "image": "https://siol.net/media/img/92/38/c3d906bd1b92f9158461.jpeg",
-    "date": 1794494400000
    }
   ],
   "24ur": [
+   {
+    "title": "Šolski minister udeležen v prometni nesreči",
+    "link": "https://www.24ur.com/novice/slovenija/minister-za-solstvo-udelezen-v-prometni-nesreci.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/4b9438e0432d5ee471ca_63644222.jpg?v=d495&fop=fp:0.59:0.25",
+    "date": 1794499249000
+   },
    {
     "title": "'V sekundah je moški padel na tla in nastala je luža krvi'",
     "link": "https://www.24ur.com/novice/tujina/v-blizini-bele-hise-odjeknili-streli-stiri-osebe-ranjene-napadalec-na-begu.html",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/delni-rezultati-meritev-vode-v-logatcu-nevarnih-bakterij-niso-zaznali.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2025/ba540f7561d9de0e9874_63426073.jpg?v=c595&fop=fp:0.58:0.34",
     "date": 1794496168000
-   },
-   {
-    "title": "Šolski minister udeležen v prometni nesreči",
-    "link": "https://www.24ur.com/novice/slovenija/minister-za-solstvo-udelezen-v-prometni-nesreci.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/4b9438e0432d5ee471ca_63644222.jpg?v=d495&fop=fp:0.59:0.25",
-    "date": 1794495153000
    }
   ],
   "rtvslo": [
@@ -201,7 +201,7 @@
    {
     "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
     "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-    "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "image": "",
     "date": 1794498796000,
     "titleSl": "Delnice podjetja Nvidia so močno padle, potem ko je Jensen Huang odstopil s položaja izvršnega direktorja"
    },
@@ -209,7 +209,7 @@
     "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
     "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X.jpg",
-    "date": 1794496985000,
+    "date": 1794496986000,
     "titleSl": "Trump pravi, da bo Vanca umaknil s pogajanj o Iranu, da se bo lahko osredotočil na volilno prevaro"
    },
    {
@@ -243,11 +243,18 @@
   ],
   "bbc": [
    {
-    "title": "The superstar tech boss - who is Jensen Huang?",
+    "title": "The rise and fall of Jensen Huang",
     "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf6b/live/a165c340-deaf-11f1-a701-fddedf244c16.jpg",
-    "date": 1794498534000,
-    "titleSl": "Tehnološki šef superzvezdnik – kdo je Jensen Huang?"
+    "date": 1794499091000,
+    "titleSl": "Vzpon in padec Jensna Huanga"
+   },
+   {
+    "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+    "date": 1794497199000,
+    "titleSl": "Kaj vemo o odstopu izvršnega direktorja podjetja Nvidia Jensna Huanga zaradi obtožb o aferi"
    },
    {
     "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
@@ -255,13 +262,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
     "date": 1794496599000,
     "titleSl": "Ukrajina pravi, da je vojaški sistem Starlink ponovno prekinjen, medtem ko se ameriški odposlanci srečujejo s Putinom v Moskvi"
-   },
-   {
-    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
-    "date": 1794496232000,
-    "titleSl": "Kdo je začasna izvršna direktorica podjetja Nvidia Colette Kress – in kdo bi lahko prevzel to funkcijo za stalno?"
    },
    {
     "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
@@ -333,16 +333,30 @@
    {
     "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-    "image": "https://i.guim.co.uk/img/media/dec2e2850502c62e10426e09016ac28c7cca0aa8/1140_207_5731_4585/master/5731.jpg?width=140&quality=85&auto=format&fit=max&s=ed7af434febbb8b28d44615b194cc562",
-    "date": 1794497965000,
+    "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
+    "date": 1794498580000,
     "titleSl": "Najnovejše informacije o streljanju v Washingtonu, D.C.: policija potrjuje, da je ena oseba umrla, štiri pa so bile ranjene"
    },
    {
     "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
-    "date": 1794497705000,
+    "date": 1794498555000,
     "titleSl": "Sadiq Khan se pridružuje laburističnim predstavnikom, ki pozivajo premierja, naj ne zmanjšuje ciljev glede električnih vozil – britanska politika v živo"
+   },
+   {
+    "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
+    "date": 1794498473000,
+    "titleSl": "Ameriška odposlanca sta se sestala s Putinom, medtem ko Zelenski pravi, da je sistem Starlink ponovno prekinil delovanje za ukrajinsko vojsko – Evropa v živo"
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+    "date": 1794498181000,
+    "titleSl": "Izvršni direktor podjetja Nvidia Jensen Huang je zaradi škandala odstopil, začasno pa ga je nadomestila finančna direktorica Colette Kress – spremljajte v živo"
    },
    {
     "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297",
     "date": 1794497470000,
     "titleSl": "Jensen Huang odstopa s položaja izvršnega direktorja podjetja Nvidia zaradi domnevnih afer"
-   },
-   {
-    "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-    "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
-    "date": 1794496576000,
-    "titleSl": "Izvršni direktor podjetja Nvidia Jensen Huang je zaradi škandala odstopil, začasno pa ga je nadomestila finančna direktorica Colette Kress – spremljajte v živo"
-   },
-   {
-    "title": "Multiple people shot in Washington DC as police warn people to stay inside",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-    "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
-    "date": 1794496438000,
-    "titleSl": "V Washingtonu D.C.-ju je bilo ustreljenih več ljudi, policija pa ljudi opozarja, naj ostanejo v zaprtih prostorih."
    }
   ],
   "spiegel": [
@@ -419,6 +419,34 @@
   ],
   "bild": [
    {
+    "title": "Vorschau für den 12. November 2026 - Johannas Babybeichte stellt ihre Liebe auf die Probe",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/gzsz-heute-im-tv-johannas-schwangerschaft-veraendert-alles-6aec797347b5fce02f878f4b",
+    "image": "https://images.bild.de/6aec797347b5fce02f878f4b/867f6b13ddbc45ed842b0b52a02f8807,b451665d?w=1280",
+    "date": 0,
+    "titleSl": "Napoved za 12. november 2026 – Johannino priznanje o otroku preizkusi njuno ljubezen"
+   },
+   {
+    "title": "Sie hat schon einen Neuen - Trennung bei Sarah & Christian von Boetticher",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/trennung-bei-christian-von-boetticher-und-seiner-sarah-6af5d16650175c81de7a3e08",
+    "image": "https://images.bild.de/6af5d16650175c81de7a3e08/6bc9a80b3e4b9caa01c6b05060c81618,733044e?w=1280",
+    "date": 0,
+    "titleSl": "Ona že ima novega – ločitev Sare in Christiana von Boetticherja"
+   },
+   {
+    "title": "Sichere Schnäppchenjagd - Vorsicht vor diesen KI-Fallen am Black Friday",
+    "link": "https://www.bild.de/leben-wissen/digital/black-friday-so-erkennen-sie-ki-betrug-und-fake-shops-6af4133b42c2bfde5b9939ce",
+    "image": "https://images.bild.de/6af4133b42c2bfde5b9939ce/eb1459df4d1ad32c4ad6cf429e1b1d99,a0897933?w=1280",
+    "date": 0,
+    "titleSl": "Varen lov na ugodne ponudbe – pazite na te pasti umetne inteligence na Black Friday"
+   },
+   {
+    "title": "Diesel-Unfall legt Autobahn lahm - A3 stundenlang voll gesperrt",
+    "link": "https://www.bild.de/news/inland/diesel-unfall-legt-autobahn-lahm-seit-gestern-abend-a3-voll-gesperrt-6af41da1e5e3b7f1c80ac99a",
+    "image": "https://images.bild.de/6af41da1e5e3b7f1c80ac99a/398a4dcddebcb4adefe3c84559ca5d4a,fd36cd4d?w=1280",
+    "date": 0,
+    "titleSl": "Zaradi razlitega dizelskega goriva je avtocesta blokirana – avtocesta A3 je bila več ur popolnoma zaprta"
+   },
+   {
     "title": "Tochter (15) von Ex-HSV-Star - Krebs-Therapie bei Diekmeier-Tochter schlägt nicht an",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/tochter-von-hsv-star-dennis-diekmeier-krebs-therapie-schlaegt-nicht-an-6af5867050175c81de7a2a47",
     "image": "https://images.bild.de/6af5867050175c81de7a2a47/7bad021035974b1a1c73326143ac08f7,9b95ca38?w=1280",
@@ -431,34 +459,6 @@
     "image": "https://images.bild.de/6af4af33c45061d752ba6ccb/4e7198de96a921cf51c67cb7c1eb1fa5,b2517b96?w=1280",
     "date": 0,
     "titleSl": "Vušković pred vrnitvijo v HSV – največje vrnitve po suspenzu zaradi dopinga"
-   },
-   {
-    "title": "Jetzt spricht der Präsident - Watzke-Klartext zu Nmecha-Jubel",
-    "link": "https://www.bild.de/sport/fussball/borussia-dortmund-watzke-klartext-zur-debatte-um-felix-nmecha-6af5b53150175c81de7a39d8",
-    "image": "https://images.bild.de/6af5b53150175c81de7a39d8/7a393fd1fe241db0b2792cf25ca15a47,840e2dee?w=1280",
-    "date": 0,
-    "titleSl": "Zdaj govori predsednik – Watzke odkrito o Nmechinem slavju"
-   },
-   {
-    "title": "Spionierte schon vor deutscher Küste - Ukraine trifft Russen-Schiff in der Ostsee",
-    "link": "https://www.bild.de/politik/naro-fominsk-russisches-kriegsschiff-soll-in-ostsee-getroffen-sein-6af5c43e50175c81de7a3c72",
-    "image": "https://images.bild.de/6af5c43e50175c81de7a3c72/cdf8c3f1707a7512222a4128c8a68156,edfd244e?w=1280",
-    "date": 0,
-    "titleSl": "Že pred nemško obalo je vohunila – Ukrajina je v Baltskem morju prestregla rusko ladjo"
-   },
-   {
-    "title": "Hufe statt Fahrkarte - Zwei Pferde steigen plötzlich in Linienbus ein",
-    "link": "https://www.bild.de/news/ausland/naechster-halt-pferdestall-zwei-pferde-steigen-ploetzlich-in-linienbus-ein-6af5ae5050175c81de7a3905",
-    "image": "https://images.bild.de/6af5ae5050175c81de7a3905/165619956e85d24437e6cd2090e94e83,a9fb94f9?w=1280",
-    "date": 0,
-    "titleSl": "Kopita namesto vozovnice – dva konja nenadoma vstopita v avtobus"
-   },
-   {
-    "title": "Sechs Tage im australischen Busch - So spektakulär wird William gerettet",
-    "link": "https://www.bild.de/news/ausland/sechs-tage-im-australischen-busch-so-spektakulaer-wird-william-gerettet-6af5bc44d2f851d14ad014ae",
-    "image": "https://images.bild.de/6af5bc44d2f851d14ad014ae/288e6652135092d50663f2a5251258e3,8fbb1225?w=1280",
-    "date": 0,
-    "titleSl": "Šest dni v avstralskem grmišču – tako spektakularno je bil William rešen"
    }
   ],
   "krone": [
@@ -598,8 +598,15 @@
     "title": "Última hora de la actualidad política, en directo | Sheinbaum mantendrá una conversación telefónica con Pedro Sánchez esta tarde",
     "link": "https://elpais.com/espana/2026-11-12/ultima-hora-de-la-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/VD4MX7DRCFBO5BEXD7PQCCHRUA.jpg?auth=d4c3834102649faa748dd81d2a2ae6d5b29e915538483290bfef9a6887dea054",
-    "date": 1794498516000,
+    "date": 1794499106000,
     "titleSl": "Zadnje novice s področja politike v živo | Sheinbaumova bo danes popoldne opravila telefonski pogovor s Pedrom Sánchezem"
+   },
+   {
+    "title": "La familia de Jesús de Miguel emite un comunicado por las donaciones recibidas: “Cada gesto ha significado mucho para nosotros”",
+    "link": "https://elpais.com/deportes/futbol/2026-11-12/la-familia-de-jesus-de-miguel-emite-un-comunicado-por-las-donaciones-cada-gesto-ha-significado-mucho-para-nosotros.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/6QFFW7KS6ROYNED3PIRFNE5K5I.jpg?auth=9507ba409b7faba6a46629e4bc4fd2bb5945731ae6c4e79372967f2b91ac4c47",
+    "date": 1794498584000,
+    "titleSl": "Družina Jesúsa de Miguela je izdala sporočilo v zvezi s prejetimi donacijami: »Vsaka gesta nam je veliko pomenila.«"
    },
    {
     "title": "Más Madrid planta la bandera de Palestina en los olivos donados por Israel y Almeida lo tilda de “ofensivo”",
@@ -623,18 +630,11 @@
     "titleSl": "Nekdanja odvetnica Kolda Garcíe je sodniku izjavila, da je spletno mesto »Okdiario« plačalo celotno obrambo nekdanjega svetovalca Ábalosa."
    },
    {
-    "title": "Transportes vuelve a negociar con los sindicatos para evitar más huelgas ferroviarias tras el siniestro de Urda",
-    "link": "https://elpais.com/economia/2026-11-12/transportes-vuelve-a-negociar-con-los-sindicatos-para-evitar-mas-huelgas-ferroviarias-tras-el-siniestro-de-urda.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/GR3Z2LCISFAWVGKH3WRPB5RHI4.jpg?auth=19a88424b13121bb4fe59f91ec595804fc5bf8504cd1797fd66c7b1ecb987989",
-    "date": 1794497404000,
-    "titleSl": "Ministrstvo za promet ponovno začenja pogajanja s sindikati, da bi preprečilo nadaljnje železniške stavke po nesreči v Urdi."
-   },
-   {
-    "title": "El ‘error Wild’ de Vox: Abascal tropieza ante el grupo de votantes que más lo apoya",
-    "link": "https://elpais.com/espana/2026-11-12/el-error-wild-de-vox-abascal-tropieza-ante-el-grupo-de-votantes-que-mas-lo-apoya.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/P72S2C4MGZG6VPMFFTYV2PFY7A.jpg?auth=22d3c44e042699518c2e31397b80bda0d1a7623910e5e39656524f1cdc6890d4",
-    "date": 1794495739000,
-    "titleSl": "»Napaka Wild« stranke Vox: Abascal se spotakne pred skupino volivcev, ki ga najbolj podpira"
+    "title": "Las Nuevas Generaciones del PP promocionan a Feijóo con el mote de sus lapsus ‘Anotop At’",
+    "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/las-nuevas-generaciones-del-pp-promocionan-a-feijoo-con-el-mote-de-sus-lapsus-anatot-at.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/SZGWKA73HNCWXFT6OBPLC23V4M.jpeg?auth=5e19b8b1c0556622af1b861b3da2100a1728704c5ddf2a66c048550d25d78401",
+    "date": 1794497464000,
+    "titleSl": "Mladi člani stranke PP promovirajo Feijóoja z vzdevkom, ki izhaja iz njegovega lapsusa »Anotop At«."
    }
   ]
  },
