@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T13:06:23.764Z",
+ "generatedAt": "2026-11-12T13:08:23.973Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Minister Rončević udeležen v prometni nesreči",
+    "link": "https://www.zurnal24.si/slovenija/minister-roncevic-udelezen-v-prometni-nesreci-468144",
+    "image": "https://www.zurnal24.si/media/img/87/9b/a17998cd3eb600da4f2b.png",
+    "date": 1794488820000
+   },
+   {
     "title": "Barkley javno obtožil igralca, ki je poškodoval Dončića",
     "link": "https://www.zurnal24.si/sport/kosarka/barkley-javno-obtozil-igralca-ki-je-poskodoval-doncica-468142",
     "image": "https://www.zurnal24.si/media/img/52/8e/9024a66d0fe70d894a7c.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/zdravje/kako-je-bolje-urinirati-sede-ali-stoje-to-so-ugotavili-raziskovalci-468135",
     "image": "https://www.zurnal24.si/media/img/3a/47/399efc205e641ec388ea.jpeg",
     "date": 1794481680000
-   },
-   {
-    "title": "Plače bodo vojakom zvišali za kar 20–30 odstotkov",
-    "link": "https://www.zurnal24.si/svet/place-bodo-vojakom-zvisali-za-kar-20-30-odstotkov-468132",
-    "image": "https://www.zurnal24.si/media/img/ae/cf/3554d0ed6859ffe94ed9.jpeg",
-    "date": 1794481440000
    }
   ],
   "reuters": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+    "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f349/live/ceac1200-de96-11f1-93e1-3b657b665bcf.png",
+    "date": 1794488772000,
+    "titleSl": "Dva moška sta bila spoznana za kriva vohunjenja za Iran v zvezi z načrtom napada na novinarje s sedežem v Združenem kraljestvu"
+   },
+   {
     "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
     "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
@@ -271,13 +278,6 @@
     "titleSl": "Šole, knjižnice in starši se soočajo s »težko odločitvijo« glede knjig Davida Walliamsa"
    },
    {
-    "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
-    "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f349/live/ceac1200-de96-11f1-93e1-3b657b665bcf.png",
-    "date": 1794487137000,
-    "titleSl": "Dva moška sta bila spoznana za kriva vohunjenja za Iran v zvezi z načrtom napada na novinarje s sedežem v Združenem kraljestvu"
-   },
-   {
     "title": "Resident Evil Requiem sweeps Golden Joystick Awards",
     "link": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017a/live/9f5c4cb0-1261-11f1-808c-3f897f9a068e.jpg",
@@ -286,13 +286,6 @@
    }
   ],
   "aljazeera": [
-   {
-    "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
-    "link": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/thumbnail-website-1794485468.jpg?resize=1920%2C1080&quality=80",
-    "date": 1794487161000,
-    "titleSl": "»Veliki Izrael«: Kako je krščanski sionizem prodrl v ameriško politiko"
-   },
    {
     "title": "Missing teenager found in bushland during aerial search in Australia",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/missing-teenager-found-in-bushland-during-aerial-search-in-australia?traffic_source=rss",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5a70d-1794483981.jpg?resize=1920%2C1440",
     "date": 1794483799000,
     "titleSl": "Upravni odbor družbe Nvidia razmišlja o prihodnosti Jensna Huanga: Ali lahko odstrani svojega ustanovitelja?"
+   },
+   {
+    "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
+    "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316139692648-1794476182.jpg?resize=1920%2C1440",
+    "date": 1794483076000,
+    "titleSl": "Kdo je Scott Colom, prvi temnopolti senator v Mississippiju po 150 letih?"
    }
   ],
   "guardian": [
@@ -334,29 +334,36 @@
     "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
     "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
-    "date": 1794487872000,
+    "date": 1794488684000,
     "titleSl": "»Imel sem pogum, da verjamem v Mississippi,« pravi Scott Colom po zgodovinski zmagi v senatu – ameriška politika v živo"
    },
    {
     "title": "Young people should get fewer welfare benefits, according to Milburn review on the workforce – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/c641e402d808f00f61489b84a29a01069fdf14bf/902_15_3323_2659/master/3323.jpg?width=140&quality=85&auto=format&fit=max&s=7f5dac0e6d6f46df34460069c2264a5e",
-    "date": 1794487701000,
+    "date": 1794488670000,
     "titleSl": "Po mnenju Milburnovega poročila o delovni sili bi morali mladi prejemati manj socialnih prejemkov – britanska politika v živo"
-   },
-   {
-    "title": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
-    "link": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
-    "image": "https://i.guim.co.uk/img/media/d574eac2c0ce73a1b1c450f728cce7a4bb4fac79/0_0_4848_3880/master/4848.jpg?width=140&quality=85&auto=format&fit=max&s=65178d04f865531904365165e800d669",
-    "date": 1794487429000,
-    "titleSl": "Banka Metro Bank je naprodaj, milijarder pa je pripravljen plačati 420 milijonov GBP za nepričakovan dobiček"
    },
    {
     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
-    "date": 1794487169000,
+    "date": 1794488663000,
     "titleSl": "Po poročilih se je uprava podjetja Nvidia sestala, da bi odločila o prihodnosti izvršnega direktorja Jensena Huanga, saj je cena delnic tega velikana na področju čipov strmo padla – spremljajte v živo."
+   },
+   {
+    "title": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/8a139431f84b32f3591eca48664c0707ca0905d2/202_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=8dee47e8be485e3afb7797d2ff04992d",
+    "date": 1794488658000,
+    "titleSl": "Zelenski poziva Evropo, naj »nameni pozornost« varnostnim odnosom z Rusijo, medtem ko se ameriški odposlanci sestajajo s Putinom – Evropa v živo"
+   },
+   {
+    "title": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
+    "link": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
+    "image": "https://i.guim.co.uk/img/media/8dd2e9e59b6d92f8f011307fd95746c3cdabf54c/412_112_6540_5232/master/6540.jpg?width=140&quality=85&auto=format&fit=max&s=3a3852314fd0894c454b6f4720a977af",
+    "date": 1794487429000,
+    "titleSl": "Banka Metro Bank je naprodaj, milijarder pa je pripravljen plačati 420 milijonov GBP za nepričakovan dobiček"
    },
    {
     "title": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
@@ -364,16 +371,16 @@
     "image": "https://i.guim.co.uk/img/media/9f8f14e2a01ec8c9a4d21b8b65ed45042405e31d/820_0_5862_4690/master/5862.jpg?width=140&quality=85&auto=format&fit=max&s=7f6da137da3ee2aac8277aa8d883eebd",
     "date": 1794487073000,
     "titleSl": "Umetna inteligenca je Združenemu kraljestvu pomagala preseči pričakovanja – toda ali bo odpornost Britanije izzvenela?"
-   },
-   {
-    "title": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/8a139431f84b32f3591eca48664c0707ca0905d2/202_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=8dee47e8be485e3afb7797d2ff04992d",
-    "date": 1794486747000,
-    "titleSl": "Zelenski poziva Evropo, naj »nameni pozornost« varnostnim odnosom z Rusijo, medtem ko se ameriški odposlanci sestajajo s Putinom – Evropa v živo"
    }
   ],
   "spiegel": [
+   {
+    "title": "Italien: Hunderte Schulen erhalten erneut Bombendrohungen",
+    "link": "https://www.spiegel.de/panorama/justiz/italien-hunderte-schulen-erhalten-erneut-bombendrohungen-a-93a0323c-1830-45fd-9bfa-f6d1113b2b98#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/2f66802e-1946-41b8-b121-1959f10f2cff_w520_r2.08_fpx33.23_fpy49.85.jpg",
+    "date": 1794488520000,
+    "titleSl": "Italija: Na stotine šol je ponovno prejelo grožnje z bombami"
+   },
    {
     "title": "Scarlett Johansson bekommt so schlechte Angebote, dass sie ganze Filme infrage stellt",
     "link": "https://www.spiegel.de/kultur/kino/scarlett-johansson-bekommt-so-schlechte-angebote-dass-sie-ganze-filme-infrage-stellt-a-5357d12e-f2e8-4258-9b86-7685ae6f176a#ref=rss",
@@ -408,16 +415,16 @@
     "image": "https://cdn.prod.www.spiegel.de/images/5e963d73-219b-4178-831d-19612f2f2ae4_w520_r2.08_fpx64_fpy50.jpg",
     "date": 1794484140000,
     "titleSl": "ZDA – Pete Hegseth: Kako so demokrati zamočili pri odstavljanju predsednika"
-   },
-   {
-    "title": "Fußball: Manchester United trennt sich von Michael Carrick – Gerücht um Pep Guardiola als US-Coach",
-    "link": "https://www.spiegel.de/sport/fussball-manchester-united-trennt-sich-von-michael-carrick-geruecht-um-pep-guardiola-als-us-coach-a-b7a38535-2f60-4898-86c5-77d20266d936#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8caa8369-945a-4094-8943-0788dc45baa4_w520_r2.08_fpx46.31_fpy44.99.jpg",
-    "date": 1794483840000,
-    "titleSl": "Nogomet: Manchester United se je razšel z Michaelom Carrickom – govorice o Pepu Guardioli kot trenerju ZDA"
    }
   ],
   "bild": [
+   {
+    "title": "Nur zwei Stunden nach Carrick - Nächster Premier-League-Klub feuert Trainer!",
+    "link": "https://www.bild.de/sport/fussball/naechster-premier-league-klub-feuert-trainer-6af5b55ad2f851d14ad013e3",
+    "image": "https://images.bild.de/6af5b55ad2f851d14ad013e3/dd76d6d0b0aeabe59e5d502ae4fbf8ca,78ec67ae?w=1280",
+    "date": 0,
+    "titleSl": "Samo dve uri po Carricku – še en klub Premier lige je odpustil trenerja!"
+   },
    {
     "title": "8 Spiele ohne Sieg - FSV-Spieler spricht von „schwieriger Situation“",
     "link": "https://www.bild.de/sport/fussball/fsv-frankfurt-erster-fsv-spieler-spricht-von-schwieriger-situation-6af5b750d2f851d14ad01423",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af598f6d2f851d14ad00bfa/68d2749b05285a014bd042f509b8796b,3707fdda?w=1280",
     "date": 0,
     "titleSl": "Zapisala se je v zgodovino, zdaj pa potone – večja od Titanika! Velikanska ladja je potonila."
-   },
-   {
-    "title": "Nach Sieg gegen Eindhoven - Dürfen Eintracht-Frauen sogar vom Titel träumen?",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-duerfen-eintracht-frauen-sogar-vom-titel-traeumen-6af5b329d2f851d14ad013a4",
-    "image": "https://images.bild.de/6af5b329d2f851d14ad013a4/3483a0e654e23747202c6932ffdfbbcd,656f8620?w=1280",
-    "date": 0,
-    "titleSl": "Po zmagi nad Eindhovnom – ali lahko Eintrachtove nogometašice sploh sanjajo o naslovu?"
    }
   ],
   "krone": [
