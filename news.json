@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T21:32:25.058Z",
+ "generatedAt": "2026-11-12T21:34:23.337Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-tomb-jmqc/12dc-tomb-jmqc-mediumSquareAt3X.jpg",
+    "date": 1794519093000,
+    "titleSl": "Pete Hegseth, vojakov ukor in lekcija pri grobnici neznanih vojakov"
+   },
+   {
     "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
     "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
@@ -225,13 +232,6 @@
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
     "date": 1794515223000,
     "titleSl": "Ali bo Vrhovno sodišče preprečilo preiskave kongresa?"
-   },
-   {
-    "title": "A Warrior Secretary and a Lesson at the Tomb of the Unknowns",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-tomb-jmqc/12dc-tomb-jmqc-mediumSquareAt3X.jpg",
-    "date": 1794515015000,
-    "titleSl": "Tajnica bojevnikov in lekcija pri grobnici neznanih vojakov"
    },
    {
     "title": "What We Know About the Victims of the Brooklyn Building Collapse",
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Deadly shooting in Washington DC",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794518292.jpg?resize=1920%2C1080&quality=80",
+    "date": 1794518304000,
+    "titleSl": "Smrtno streljanje v Washingtonu, D.C."
+   },
+   {
     "title": "Microsoft outage hits tens of thousands of users",
     "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af61fba-1794514874.jpg?resize=1920%2C1440",
@@ -320,29 +327,29 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794514540.jpg?resize=1920%2C1080&quality=80",
     "date": 1794514547000,
     "titleSl": "Svetovno prvenstvo v Katarju za igralce do 17 let bo potekalo kljub umiku ZDA"
-   },
-   {
-    "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-    "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af6151d6657e-1794512157.jpg?resize=1920%2C1440",
-    "date": 1794514341000,
-    "titleSl": "Regionalna varnost je v ospredju evropskih pogovorov v Dublinu zaradi hibridnih napadov"
    }
   ],
   "guardian": [
+   {
+    "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+    "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
+    "date": 1794518595000,
+    "titleSl": "Osumljenec streljanja v telovadnici v Washingtonu D.C.-ju je storil samomor, štirje ljudje so bili ranjeni, ena oseba pa je umrla."
+   },
+   {
+    "title": "Washington DC shooting: police identify victim and suspect – latest updates",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+    "image": "https://i.guim.co.uk/img/media/3cd3120cd9fb92c56aa9f2a63c7334b6ff87b8ca/973_285_3896_3116/master/3896.jpg?width=140&quality=85&auto=format&fit=max&s=24a749709717c530d96cc97f1bb4c549",
+    "date": 1794518414000,
+    "titleSl": "Streljanje v Washingtonu, D.C.: policija je identificirala žrtev in osumljenca – najnovejše informacije"
+   },
    {
     "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
     "date": 1794518256000,
     "titleSl": "Po poročilih naj bi Nvidiin Jensen Huang pričal pred ameriškim kongresom sredi škandala, medtem ko ga je finančna direktorica Colette Kress nadomestila kot začasna izvršna direktorica – spremljajte v živo."
-   },
-   {
-    "title": "Washington DC shooting: police identify victim and suspect – latest updates",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-    "image": "https://i.guim.co.uk/img/media/3cd3120cd9fb92c56aa9f2a63c7334b6ff87b8ca/973_285_3896_3116/master/3896.jpg?width=140&quality=85&auto=format&fit=max&s=24a749709717c530d96cc97f1bb4c549",
-    "date": 1794518117000,
-    "titleSl": "Streljanje v Washingtonu, D.C.: policija je identificirala žrtev in osumljenca – najnovejše informacije"
    },
    {
     "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/5f218e51631345e11985a307bd897497ea95ea56/923_290_3028_2422/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=7b66a3012c3bc82d0fa6986375b1d0d6",
     "date": 1794517212000,
     "titleSl": "Norveška je sledila zgledu Finske in ruskim športnikom prepovedala vstop v državo zaradi vojne v Ukrajini."
-   },
-   {
-    "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
-    "link": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-    "image": "https://i.guim.co.uk/img/media/784c2ab8d8cdd24c117ad4f5a75d285bddf0cfd9/104_0_5005_4005/master/5005.jpg?width=140&quality=85&auto=format&fit=max&s=bf05b73ded2c763db5607dc9bf20f5df",
-    "date": 1794517145000,
-    "titleSl": "Andy Burnham pravi, da bi lahko sklenili dogovor z EU-jem, ki bi bil koristen za vse strani"
    }
   ],
   "spiegel": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "7 Tage! 7 Kontinente! - Deutscher wagt den Marathon-Wahnsinn",
+    "link": "https://www.bild.de/sport/mehr-sport/7-tage-7-kontinente-7-marathons-deutscher-wagt-den-marathon-wahnsinn-6af469d550175c81de7a1abd",
+    "image": "https://images.bild.de/6af469d550175c81de7a1abd/40862be293e1615b787f222dee04b089,ed692719?w=1280",
+    "date": 0,
+    "titleSl": "7 dni! 7 celin! – Nemec se podviga v maratonsko norost"
+   },
+   {
     "title": "„Sie wollte nur Blumen holen“ - Todesdrama um TV-Star am Friedhof! Ehemann geschockt",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/irmelin-krause-tot-sie-wollte-nur-blumen-holen-ehemann-spricht-ueber-toedlichen-unfall-6af580165596369bf0edc235",
     "image": "https://images.bild.de/6af580165596369bf0edc235/138e3ff15981f912741cd9cf6e9af62f,dfa5fe5b?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af62443bd5f0f09f2c13769/702218d611a280feac393f03b3ad42a7,77b4aeb8?w=1280",
     "date": 0,
     "titleSl": "Po poročanju medijev – Nekdanji direktor podjetja Nvidia je imel še več razmerij"
-   },
-   {
-    "title": "Er starb in den USA - Werder trauert um Meister-Stürmer (87)",
-    "link": "https://www.bild.de/sport/fussball/er-starb-in-den-usa-werder-bremen-trauert-um-meister-stuermer-6af5e66ad2f851d14ad0193f",
-    "image": "https://images.bild.de/6af5e66ad2f851d14ad0193f/4284155baea06192f6edc52e46972ceb,380fbf2f?w=1280",
-    "date": 0,
-    "titleSl": "Umrl je v ZDA – Werder žaluje za prvakom med napadalci (87)"
    }
   ],
   "krone": [
@@ -595,18 +595,18 @@
   ],
   "elpais": [
    {
-    "title": "República Checa - España en directo | La selección checa se queda con un jugador menos tras la expulsión de Krejci",
-    "link": "https://elpais.com/deportes/futbol/2026-11-12/republica-checa-espana-en-directo-el-partido-de-la-nations-league-en-vivo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6G52FOK23VN4XDXTJ3J6N44WYU.jpg?auth=bbccd6aa5e6ddf845b77426c4dba525b92f4c8069d550c6f14780a74fac5ebeb",
-    "date": 1794519009000,
-    "titleSl": "Češka – Španija v živo | Češka reprezentanca ostaja z igralcem manj po izključitvi Krejcija"
-   },
-   {
     "title": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
     "link": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261112/1237154_205432_video_1800.mp4",
     "date": 1794518770000,
     "titleSl": "Feijóo se predstavlja kot »upravitelj«, ki bo »rešil težave«, povezane z »ropanjem« s strani Sáncheza"
+   },
+   {
+    "title": "República Checa - España en directo | La selección checa se queda con un jugador menos tras la expulsión de Krejci",
+    "link": "https://elpais.com/deportes/futbol/2026-11-12/republica-checa-espana-en-directo-el-partido-de-la-nations-league-en-vivo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/6G52FOK23VN4XDXTJ3J6N44WYU.jpg?auth=bbccd6aa5e6ddf845b77426c4dba525b92f4c8069d550c6f14780a74fac5ebeb",
+    "date": 1794518690000,
+    "titleSl": "Češka – Španija v živo | Češka reprezentanca ostaja z igralcem manj po izključitvi Krejcija"
    },
    {
     "title": "El Betis y el Levante sufren mucho para avanzar a la segunda ronda de la Copa",
