@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-12T09:34:28.584Z",
+ "generatedAt": "2026-11-12T09:36:25.279Z",
  "sources": {
   "siol": [
+   {
+    "title": "Medved napadel moškega med jutranjim sprehodom",
+    "link": "https://siol.net/novice/slovenija/medved-napadel-moskega-med-jutranjim-sprehodom-706109",
+    "image": "https://siol.net/media/img/6c/70/39e445f732a09174f9cf.jpeg",
+    "date": 1794475980000
+   },
    {
     "title": "Je to res najboljši film Guya Ritchieja?",
     "link": "https://siol.net/trendi/glasba-in-film/je-to-res-najboljsi-film-guya-ritchieja-706062",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/borzen-bo-razkril-ugotovitve-pregleda-spornega-71-milijonskega-posojila-706100",
     "image": "https://siol.net/media/img/88/d0/5f0c0c5b0877f183a693.jpeg",
     "date": 1794472080000
-   },
-   {
-    "title": "Po poškodbi Dončića jeze ne skrivajo: trener Redick tarča kritik",
-    "link": "https://siol.net/sportal/kosarka/po-poskodbi-doncica-jeze-ne-skrivajo-trener-redick-tarca-kritik-706102",
-    "image": "https://siol.net/media/img/cc/45/194de58428b6d1a53270.jpeg",
-    "date": 1794471900000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Ministrstvo za izobraževanje po oceni računskega sodišča neučinkovito pri digitalizaciji šolstva",
+    "link": "https://www.rtvslo.si/slovenija/ministrstvo-za-izobrazevanje-po-oceni-racunskega-sodisca-neucinkovito-pri-digitalizaciji-solstva/799859",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121127.jpg",
+    "date": 1794476120000
+   },
+   {
     "title": "Dejan Verčič: Tuji svetovalci so pri nas že dolgo, a se pretvarjamo, da jih ni",
     "link": "https://www.rtvslo.si/slovenija/ob-osmih/dejan-vercic-tuji-svetovalci-so-pri-nas-ze-dolgo-a-se-pretvarjamo-da-jih-ni/799852",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121120.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/kultura/leto-srecka-kosovela-in-zofke-kveder/predstava-srecko-moj-sosed-priseljeni-sosed-postna-usluzbenka-pianistka-in-neulovljiv-kraski-duh/799855",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121125.jpg",
     "date": 1794473822000
-   },
-   {
-    "title": "Voznik tovornega vozila umrl po trčenju v varovalno ograjo",
-    "link": "https://www.rtvslo.si/crna-kronika/voznik-tovornega-vozila-umrl-po-trcenju-v-varovalno-ograjo/799857",
-    "image": "https://img.rtvcdn.si/_up/upload/2020/03/04/65660066.jpg",
-    "date": 1794473765000
    }
   ],
   "zurnal": [
@@ -331,11 +331,11 @@
   ],
   "guardian": [
    {
-    "title": "US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live",
+    "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
     "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4",
-    "date": 1794475367000,
-    "titleSl": "Ameriški odposlanci naj bi se v Moskvi sestali s Putinom, da bi razpravljali o premirju v Ukrajini – Evropa v živo"
+    "date": 1794475664000,
+    "titleSl": "Zelenski pravi, da je Ukrajina utrpela »znatne« motnje v delovanju sistema Starshield, medtem ko so se ameriški odposlanci sestali s Putinom – Evropa v živo"
    },
    {
     "title": "AI helps UK economy grow at fastest pace for more than two years",
@@ -419,6 +419,34 @@
   ],
   "bild": [
    {
+    "title": "Bluttat nach Café-Streit in Mannheim - Ein Toter, dann fällt ein Polizeischuss",
+    "link": "https://www.bild.de/news/ausland/bluttat-nach-cafe-streit-ein-toter-dann-faellt-ein-polizeischuss-6af57f0ad2f851d14ad004a0",
+    "image": "https://images.bild.de/6af57f0ad2f851d14ad004a0/d504f61ccc1d77f7d25c814df2ee70b5,75f8e50b?w=1280",
+    "date": 0,
+    "titleSl": "Krvav zločin po prepiru v kavarni v Mannheimu – ena smrtna žrtev, nato pa še strel policije"
+   },
+   {
+    "title": "Nach Mord an Fabian - Gina H. geht gegen Lebenslang-Urteil vor",
+    "link": "https://www.bild.de/news/nach-mord-an-fabian-gina-h-geht-gegen-lebenslang-urteil-vor-6af587fcc45061d752ba74cf",
+    "image": "https://images.bild.de/6af587fcc45061d752ba74cf/1ae22d17062f816158efa60f728b77b1,10a8885?w=1280",
+    "date": 0,
+    "titleSl": "Po umoru Fabiana – Gina H. se pritoži na dosmrtno zaporno kazen"
+   },
+   {
+    "title": "Bataclan-Attentat - Liebe ist stärker als Terror",
+    "link": "https://www.bild.de/news/ausland/10-jahre-nach-bataclan-wie-johannes-und-floriane-im-horror-liebe-fanden-690b291c1d404fd31fc8a759",
+    "image": "https://images.bild.de/690b291c1d404fd31fc8a759/3cfc47114ac8af04d5002e5ce493f129,393aa713?w=1280",
+    "date": 0,
+    "titleSl": "Napad na Bataclan – Ljubezen je močnejša od terorizma"
+   },
+   {
+    "title": "„Bares für Rares“ am 12. November 2026 - Der Name hinter diesem Ring begeistert Händler",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-heute-fuer-den-namen-hinter-diesem-ring-schwaermen-haendler-6af567865596369bf0edc08c",
+    "image": "https://images.bild.de/6af567865596369bf0edc08c/65f3c3fe1e80103de03450eb83bcbf06,48998b8b?w=1280",
+    "date": 0,
+    "titleSl": "»Bares für Rares« dne 12. novembra 2026 – Ime, ki se skriva za tem prstanom, navdušuje trgovce"
+   },
+   {
     "title": "Schon heute auf RTL+ - So geht es nächste Woche bei „Unter uns“ weiter",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/unter-uns-heute-auf-rtl-haelt-bambi-den-dry-december-wirklich-durch-6af56a03c45061d752ba7275",
     "image": "https://images.bild.de/6af56a03c45061d752ba7275/1a3bfd46e520bdf36df86efaf46e3a78,2b4d99b6?w=1280",
@@ -431,34 +459,6 @@
     "image": "https://images.bild.de/6af5632cc45061d752ba71ef/dd930b178264ef63b6864705ad27597c,ae174549?w=1280",
     "date": 0,
     "titleSl": "Novinar časopisa BILD pred porušeno hišo v New Yorku – »Slišalo se je kot pridušen grom.«"
-   },
-   {
-    "title": "Deutsche Padel-Spielerin verrät - „Wir schlafen teilweise zu dritt in einem Bett“",
-    "link": "https://www.bild.de/sport/fussball/padel-spielerin-verraet-schlafen-teilweise-zu-dritt-in-einem-bett-6af4bfdbc45061d752ba6d7f",
-    "image": "https://images.bild.de/6af4bfdbc45061d752ba6d7f/caea1087ab9e4348e7175b1fcb2ad2aa,5abf20e7?w=1280",
-    "date": 0,
-    "titleSl": "Nemška igralka padla pravi – »Včasih spimo po tri v eni postelji«"
-   },
-   {
-    "title": "Offiziell aber Geisterspiel - Diese 5000 Fans sind in Serbien im Stadion",
-    "link": "https://www.bild.de/sport/fussball/dfb-kein-geisterspiel-diese-5-000-fans-sind-in-serbien-im-stadion-6af5799150175c81de7a2868",
-    "image": "https://images.bild.de/6af5799150175c81de7a2868/6fb1d8e563fd825993425333c01bb572,a2d55441?w=1280",
-    "date": 0,
-    "titleSl": "Uradno pa tekma brez gledalcev – na stadionu v Srbiji je bilo 5.000 navijačev"
-   },
-   {
-    "title": "Es gibt drei Knackpunkte - Was ist dran an den Karius-Gerüchten bei Bayern?",
-    "link": "https://www.bild.de/sport/fussball/geruechte-um-fc-bayern-und-loris-karius-was-ist-dran-6af5634550175c81de7a26a9",
-    "image": "https://images.bild.de/6af5634550175c81de7a26a9/7d677d3898d1908b2558c90d554ecfe5,4eabc5a3?w=1280",
-    "date": 0,
-    "titleSl": "Obstajajo trije ključni dejavniki – kaj je res na govoricah o Kariusu v Bayernu?"
-   },
-   {
-    "title": "Trumps Gesandte in Moskau - Welches Ukraine-Geschenk bekommt Putin heute?",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/witkoff-kushner-in-moskau-welches-ukraine-geschenk-bringen-trumps-leute-putin-6af56dc1c45061d752ba728e",
-    "image": "https://images.bild.de/6af56dc1c45061d752ba728e/4031c9487089bdcdb857d4a5618bbee4,3a127eec?w=1280",
-    "date": 0,
-    "titleSl": "Trumpov odposlanec v Moskvi – Kakšno darilo za Ukrajino bo Putin prejel danes?"
    }
   ],
   "krone": [
@@ -558,11 +558,11 @@
     "titleSl": "Stanovanja: gradbeni podjetniki so vse bolj potopljeni v krizo"
    },
    {
-    "title": "Gérald Passedat, chef triplement étoilé, vend son mythique restaurant Le Petit Nice à la famille Saadé",
+    "title": "Gérald Passedat, chef triplement étoilé, vend son célèbre restaurant Le Petit Nice à la famille Saadé",
     "link": "https://www.lemonde.fr/economie/article/2026/11/12/gerald-passedat-chef-triplement-etoile-vend-son-mythique-restaurant-le-petit-nice-a-la-famille-saade_6809078_3234.html",
     "image": "https://img.lemde.fr/2026/11/12/0/0/8256/4128/644/322/60/0/5e6bf04_ftp-1-uaq1bkdp9nfg-afp-d7944t4.jpg",
-    "date": 1794475318000,
-    "titleSl": "Gérald Passedat, kuharski mojster s tremi Michelinovimi zvezdicami, je svojo legendarno restavracijo Le Petit Nice prodal družini Saadé."
+    "date": 1794475317000,
+    "titleSl": "Gérald Passedat, kuharski mojster s tremi Michelinovimi zvezdicami, je svojo znamenito restavracijo Le Petit Nice prodal družini Saadé."
    },
    {
     "title": "EN DIRECT, guerre en Ukraine : les émissaires américains rencontrent Vladimir Poutine à Moscou ; une femme tuée par un drone à Kiev... Les dernières informations sur le conflit",
@@ -579,34 +579,41 @@
     "titleSl": "Na Poljskem so nacionalisti štiri dni po napadu v Krakovu množično protestirali"
    },
    {
+    "title": "Les images de l’effondrement d’un immeuble de Brooklyn, à New York",
+    "link": "https://www.lemonde.fr/international/video/2026/11/12/les-images-de-l-effondrement-d-un-immeuble-de-brooklyn-a-new-york_6809073_3210.html",
+    "image": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/2c1ff58_ftp-1-m7mp1vhbspex-23c93bc8b3c14174afe145f17688ef0c-1-3630a41549184498bc121d6426429897.jpg",
+    "date": 1794471232000,
+    "titleSl": "Posnetki zrušenja stavbe v Brooklynu v New Yorku"
+   },
+   {
     "title": "En Allemagne, l’économie va mieux qu’en France, mais l’envolée de la dette fait craindre une « crise budgétaire » d’envergure",
     "link": "https://www.lemonde.fr/economie/article/2026/11/12/en-allemagne-l-economie-va-mieux-qu-en-france-mais-l-envolee-de-la-dette-fait-craindre-une-crise-budgetaire-d-envergure_6809071_3234.html",
     "image": "https://img.lemde.fr/2026/11/11/513/0/5494/2747/644/322/60/0/a0faa40_ftp-1-nt97ndd69jfu-afp-d76j9xg.jpg",
     "date": 1794470409000,
     "titleSl": "V Nemčiji je gospodarstvo v boljšem stanju kot v Franciji, vendar pa naraščajoči dolg vzbuja strah pred obsežno »proračunsko krizo«."
-   },
-   {
-    "title": "EN DIRECT, présidentielle 2027 : suivez le grand oral de huit candidats sur les services publics ; Gabriel Attal est le premier à s’exprimer",
-    "link": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics_6809070_823448.html",
-    "image": "https://img.lemde.fr/2026/11/12/497/0/3000/1500/644/322/60/0/3f68ccd_upload-1-vygujvtwtv5e-gj3a1791.jpg",
-    "date": 1794468675000,
-    "titleSl": "V ŽIVO, predsedniške volitve 2027: spremljajte razpravo osmih kandidatov o javnih storitvah; Gabriel Attal bo prvi spregovoril"
    }
   ],
   "elpais": [
+   {
+    "title": "Última hora de la actualidad política, en directo | Rufián, sobre las actuaciones policiales en las manifestaciones por la vivienda: “No hay que descargar de responsabilidad al PSOE”",
+    "link": "https://elpais.com/espana/2026-11-12/ultima-hora-de-la-actualidad-politica-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/3NPISVPQUVFEDMTJAU6OJBVHYA.jpg?auth=dd4075b8ae8c46fc21226738be03b766cc47c278c8bae87ba74188ed76c4311f",
+    "date": 1794476106000,
+    "titleSl": "Zadnje politične novice v živo | Rufián o policijskem posredovanju na protestih zaradi stanovanj: »PSOE ne smemo razbremeniti odgovornosti.«"
+   },
+   {
+    "title": "Marlaska promete investigar las cargas policiales mientras la izquierda le pide la dimisión",
+    "link": "https://elpais.com/espana/2026-11-12/marlaska-ordena-una-investigacion-sobre-las-cargas-policiales-en-las-manifestaciones-y-pide-que-no-se-use-gas-lacrimogeno.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/IKDBL5JYAZPHJHJFLQFYHQEDRA.jpg?auth=a7dd7efe0a035b41f026dd5ce897eafb7302d47ecf70432bfed55ed38c890eef",
+    "date": 1794476037000,
+    "titleSl": "Marlaska obljublja preiskavo policijskih posegov, medtem ko levica zahteva njegov odstop"
+   },
    {
     "title": "El debate de candidatos catalanes a las elecciones generales del 29-N, en directo | Choque entre los candidatos por el uso del catalán en las instituciones",
     "link": "https://elpais.com/espana/catalunya/2026-11-12/el-debate-de-candidatos-catalanes-a-las-elecciones-generales-del-29-n-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/QXDQJZU2ERDQHMUWWX6IQXTUQY.jpg?auth=4cc130ebfc6b5b0ac6b896e8e7ef96d251764af4c0ea5bace774b322cbadf008",
     "date": 1794475882000,
     "titleSl": "Razprava katalonskih kandidatov pred splošnimi volitvami 29. novembra, v živo | Spor med kandidati glede uporabe katalonščine v institucijah"
-   },
-   {
-    "title": "Última hora de la actualidad política, en directo | Rufián, sobre las actuaciones policiales en las manifestaciones por la vivienda: “No hay que descargar de responsabilidad al PSOE”",
-    "link": "https://elpais.com/espana/2026-11-12/ultima-hora-de-la-actualidad-politica-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/3NPISVPQUVFEDMTJAU6OJBVHYA.jpg?auth=dd4075b8ae8c46fc21226738be03b766cc47c278c8bae87ba74188ed76c4311f",
-    "date": 1794475822000,
-    "titleSl": "Zadnje politične novice v živo | Rufián o policijskem posredovanju na protestih zaradi stanovanj: »PSOE ne smemo razbremeniti odgovornosti.«"
    },
    {
     "title": "Ayuso habla de “terror sindical” por la huelga y la oposición le responde que ella es una enchufada del PP",
@@ -616,25 +623,18 @@
     "titleSl": "Ayuso govori o »sindikalnem terorju« zaradi stavke, opozicija pa ji odgovarja, da je sama protežiranka stranke PP"
    },
    {
+    "title": "La Policía Nacional desaloja la acampada por la vivienda de Sevilla",
+    "link": "https://elpais.com/espana/andalucia/2026-11-12/la-policia-nacional-desaloja-la-acampada-por-la-vivienda-de-sevilla.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/RYU76BQMWVGPZHAPLQVL6JLWTA.jpg?auth=ae287cf8bd2a6135308b3c0cebf3c301e890812440ecef0373176c7d89d464f1",
+    "date": 1794475511000,
+    "titleSl": "Nacionalna policija je izpraznila taborišče za stanovanja v Sevilli"
+   },
+   {
     "title": "La Junta Electoral ordena retirar unas declaraciones del delegado de Urbanismo de Madrid",
     "link": "https://elpais.com/espana/madrid/2026-11-12/la-junta-electoral-ordena-retirar-unas-declaraciones-del-delegado-de-urbanismo-de-madrid.html",
     "image": "https://imagenes.elpais.com/resizer/v2/A5CZWLETG5CPBAQF3DTRFYJXPU.jpg?auth=2f5530f29e2365e10568c1f369bcde1c1fd70301df80f3d7abcf47f0c3ffd76a",
     "date": 1794475381000,
     "titleSl": "Volilna komisija je odredila umik izjav pooblaščenca za urbanizem v Madridu"
-   },
-   {
-    "title": "Marlaska ordena investigar las cargas policiales en las manifestaciones y no usar gas lacrimógeno",
-    "link": "https://elpais.com/espana/2026-11-12/marlaska-ordena-una-investigacion-sobre-las-cargas-policiales-en-las-manifestaciones-y-pide-que-no-se-use-gas-lacrimogeno.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/IKDBL5JYAZPHJHJFLQFYHQEDRA.jpg?auth=a7dd7efe0a035b41f026dd5ce897eafb7302d47ecf70432bfed55ed38c890eef",
-    "date": 1794475034000,
-    "titleSl": "Marlaska je odredil preiskavo policijskih posegov na protestih in prepoved uporabe solzivca"
-   },
-   {
-    "title": "Las medias térmicas de efecto piel arrasaron en TikTok el pasado invierno, pero ¿de verdad merecen la pena? Pruebo las más vendidas de Amazon y te lo cuento todo",
-    "link": "https://elpais.com/escaparate/estilo-de-vida/probamos-medias-termicas-superventas-amazon.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/XIAMFHPM25BP7H5VDID2GGD5J4.png?auth=f11a2e94ed8898a3a5726690fb157ad7586aab067cb9ac8be53e5d98a77a8351",
-    "date": 1794474092000,
-    "titleSl": "Prejšnjo zimo so bile na TikToku izjemno priljubljene tople nogavice z učinkom usnja, vendar ali so res vredne nakupa? Preizkusila sem najbolje prodajane na Amazonu in vam bom povedala vse o njih"
    }
   ]
  },
