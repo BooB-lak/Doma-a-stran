@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T11:20:35.912Z",
+ "generatedAt": "2026-11-12T11:22:25.025Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-robot-1794480746.png?resize=1920%2C1080&quality=80",
+    "date": 1794480803000,
+    "titleSl": "Robot je za Al Jazeero dejal, da je umetna inteligenca »preveč koristna, da bi izginila«"
+   },
+   {
     "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
     "link": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af0e9130e-1794173203.jpg?resize=1920%2C1440",
@@ -295,7 +302,7 @@
    },
    {
     "title": "Manchester United sack Michael Carrick as manager",
-    "link": "https://www.aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261103__D6BZ6UC__v1__HighRes__FblEurC1ManUtdRoma-1794480574.jpg?resize=1920%2C1440",
     "date": 1794479609000,
     "titleSl": "Manchester United je odpustil trenerja Michaela Carricka"
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-07-03T174824Z_113749651_RC24ZLAW03N8_RTRMADP_3_SOCCER-WORLDCUP-INDIA-1794407642.jpg?resize=1920%2C1440",
     "date": 1794472808000,
     "titleSl": "Indija zaobide lastna pravila, da bi kupila izraelsko tehnologijo za vdiranje v telefone"
-   },
-   {
-    "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
-    "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af566af-1794467504.jpg?resize=1920%2C1440",
-    "date": 1794472520000,
-    "titleSl": "V napadu na severozahodu Pakistana ubitih deset policistov in 18 borcev"
    }
   ],
   "guardian": [
@@ -463,18 +463,25 @@
   ],
   "krone": [
    {
-    "title": "Stadt reagiert prompt - Kind erleidet Asthmaanfall – Turnsaal gesperrt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwS1llTXBMVG1MSzBkUFRKZEd4aGY5amNpZmM4UFhVX01ZeEZvQlBTUVhqaE16N09SMm5vX0hwaU5rdw?oc=5",
+    "title": "Defekt als Grund - 15-Minuten-Stromausfall bei 13.000 Gasteinern",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBlZHBfSmljVjhIN3Fjc0FjRmFhSmdfZnlGZW51NWJodUpOTUxNcXM5bHF0U3lPQzJDdThrLVRfSWstUQ?oc=5",
     "image": "",
-    "date": 1794481980000,
-    "titleSl": "Mesto se je odzvalo hitro – otrok je doživel astmatični napad – telovadnica je bila zaprta"
+    "date": 1794482460000,
+    "titleSl": "Okvara kot vzrok – 15-minutni izpad električne energije pri 13.000 odjemalcih v Gasteinu"
    },
    {
     "title": "„Lage sehr kritisch“ - Im Osten fehlt mehr als Hälfte aller Blutspenden",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05UklERlpSdTVNWjc0X2pWYVFlUFh0S25oRXRrM0IweExoTlVuUnY0X3JQUWpjN3A2T1RjbEpnb3pyQQ?oc=5",
     "image": "",
-    "date": 1794481302000,
+    "date": 1794482359000,
     "titleSl": "»Razmere so zelo kritične« – na vzhodu manjka več kot polovica vseh darovanih enot krvi"
+   },
+   {
+    "title": "Stadt reagiert prompt - Kind erleidet Asthmaanfall – Turnsaal gesperrt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwS1llTXBMVG1MSzBkUFRKZEd4aGY5amNpZmM4UFhVX01ZeEZvQlBTUVhqaE16N09SMm5vX0hwaU5rdw?oc=5",
+    "image": "",
+    "date": 1794481980000,
+    "titleSl": "Mesto se je odzvalo hitro – otrok je doživel astmatični napad – telovadnica je bila zaprta"
    },
    {
     "title": "„Ich will am Rathausplatz ja nicht nur eislaufen“",
@@ -496,29 +503,22 @@
     "image": "",
     "date": 1794481200000,
     "titleSl": "Revizor naj plača – spor glede izvedenskega mnenja je lahko za mesto drag"
-   },
-   {
-    "title": "Die möglichen Hebel - Wie Nvidia-Boss Huang nach Affäre stürzen könnte",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MR09MR0prVVV5djBlUEE0ZnAybW1kZXhxU3RmdzJYMC1kSGtnX1VibkVFYlp1MW83enFBelVPR2NXdw?oc=5",
-    "image": "",
-    "date": 1794481080000,
-    "titleSl": "Možni vzvodi – kako bi lahko direktor podjetja Nvidia Huang padel po aferi"
    }
   ],
   "rainews": [
+   {
+    "title": "Israele bombarda l&#x27;ospedale Nasser a Gaza, almeno 6 morti e 20 feriti",
+    "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ea1f5961-3dad-48e4-a3b5-1ca0c763fe0c.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/12/1794462505153_vlcsnaphms.png",
+    "date": 1794482340000,
+    "titleSl": "Izrael je bombardiral bolnišnico Nasser v Gazi, pri čemer je umrlo najmanj 6 oseb, 20 pa jih je bilo ranjenih"
+   },
    {
     "title": "Papa Leone XIV è in Perù, un ritorno a casa. Ad accoglierlo tre milioni di persone",
     "link": "https://www.rainews.it/maratona/2026/11/papa-leone-xiv-viaggio-apostolico-in-uruguay-argentina-e-peru-pontefice-38858411-8e7e-4d4e-8e59-931552e919c8.html",
     "image": "https://www.rainews.it/dl/img/2026/11/12/1794467727250_DKT.jpg",
     "date": 1794481980000,
     "titleSl": "Papež Leon XIV. je v Peruju, kar je zanj kot vrnitev domov. Sprejelo ga je tri milijone ljudi"
-   },
-   {
-    "title": "Israele bombarda l&#x27;ospedale Nasser a Gaza, almeno 6 morti e 20 feriti",
-    "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ea1f5961-3dad-48e4-a3b5-1ca0c763fe0c.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/12/1794462505153_vlcsnaphms.png",
-    "date": 1794481140000,
-    "titleSl": "Izrael je bombardiral bolnišnico Nasser v Gazi, pri čemer je umrlo najmanj 6 oseb, 20 pa jih je bilo ranjenih"
    },
    {
     "title": "Cartellino rosso alla violenza, arbitri: “Pene severe in caso di aggressioni”",
