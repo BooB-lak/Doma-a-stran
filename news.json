@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T08:42:24.863Z",
+ "generatedAt": "2026-11-12T08:44:20.950Z",
  "sources": {
   "siol": [
    {
@@ -47,6 +47,12 @@
     "date": 1794472788000
    },
    {
+    "title": "Voznik tovornjaka trčil v ograjo, zapeljal s ceste in na kraju umrl",
+    "link": "https://www.24ur.com/novice/crna-kronika/voznik-tovornjaka-trcil-v-ograjo-zapeljal-s-ceste-in-zaradi-hudih-poskodb-umrl.html",
+    "image": "https://images.24ur.com/media/images/213xX/Oct2017/b642c468f0_61988269.jpg?v=8261&fop=fp:0.43:0.48",
+    "date": 1794472670000
+   },
+   {
     "title": "Preobrat v republikanski utrdbi, Mississippi po več kot 140 letih s temnopoltim senatorjem",
     "link": "https://www.24ur.com/novice/tujina/demokrati-odnesli-zmago-tudi-v-republikanski-utrdbi-mississippi.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/0ffc7d5d8ea3d912b897_63678060.jpg?v=3a04&fop=fp:0.46:0.37",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/tujina/v-new-yorku-se-je-zrusila-stavba-umrli-najmanj-dve-osebi.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/1a8899e227abb152d46d_63678059.jpg?v=51a6&fop=fp:0.33:0.44",
     "date": 1794468865000
-   },
-   {
-    "title": "Ogenj zajel celotno ostrešje, na terenu je bilo 90 gasilcev",
-    "link": "https://www.24ur.com/novice/slovenija/v-industrijski-coni-na-kokrici-pozar-gasilo-90-gasilcev.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/eb98e6332b5fa902d6b9_63677958.jpg?v=396c&fop=fp:0.44:0.51",
-    "date": 1794468664000
    }
   ],
   "rtvslo": [
@@ -331,10 +331,17 @@
   ],
   "guardian": [
    {
+    "title": "‘Tourists hate themselves’ – which is why Tasmania is telling people to stay away",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+    "image": "https://i.guim.co.uk/img/media/e85646f7aa4c4738df04d5911c9d698d1a06e28a/441_118_1061_849/master/1061.jpg?width=140&quality=85&auto=format&fit=max&s=c3f9e77e65bdaa33630b95d28fe5b94c",
+    "date": 1794472257000,
+    "titleSl": "»Turisti sovražijo sami sebe« – zato Tasmanija ljudem sporoča, naj se držijo stran"
+   },
+   {
     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
-    "date": 1794471819000,
+    "date": 1794472076000,
     "titleSl": "Po poročilih naj bi se upravni odbor podjetja Nvidia sestal, da bi odločil o prihodnosti izvršnega direktorja Jensena Huanga, saj cena delnic tega velikana na področju čipov strmo pada – spremljajte v živo."
    },
    {
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=12ff34a009b7acaf088f4b450b3e1c93",
     "date": 1794466544000,
     "titleSl": "Manj delovnih ur in višje plače – ali več izgorelosti in nadzora: delodajalcem je bilo naročeno, naj se pripravijo na umetno inteligenco"
-   },
-   {
-    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-    "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-    "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e7cc781873a609353d81df20f9e53",
-    "date": 1794465811000,
-    "titleSl": "Četrtkovo poročilo: Kaj vemo (in česa ne vemo) o Alice Huang in aferi Nvidia"
    }
   ],
   "spiegel": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Trumps Gesandte in Moskau - Welches Ukraine-Geschenk bekommt Putin heute?",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/witkoff-kushner-in-moskau-welches-ukraine-geschenk-bringen-trumps-leute-putin-6af56dc1c45061d752ba728e",
+    "image": "https://images.bild.de/6af56dc1c45061d752ba728e/4031c9487089bdcdb857d4a5618bbee4,3a127eec?w=1280",
+    "date": 0,
+    "titleSl": "Trumpov odposlanec v Moskvi – Kakšno darilo za Ukrajino bo Putin prejel danes?"
+   },
+   {
+    "title": "Blatter über Infantino - „Niemand darf mit ihm im Lift fahren“",
+    "link": "https://www.bild.de/sport/fussball/blatter-ueber-infantino-er-ist-ein-diktator-niemand-darf-mit-ihm-im-lift-fahren-6af4ca9453bdf3c35cc4f95c",
+    "image": "https://images.bild.de/6af4ca9453bdf3c35cc4f95c/9e72e7d3353d310e5f889eec3bf0ff58,78026efb?w=1280",
+    "date": 0,
+    "titleSl": "Blatter o Infantinu – »Nihče ne sme z njim v dvigalo«"
+   },
+   {
     "title": "Super für Fortuna - Langeneke-Liebling verzichtet auf Länderspiele",
     "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf-langeneke-liebling-verzichtet-auf-laenderspiele-6af4798ac45061d752ba6884",
     "image": "https://images.bild.de/6af4798ac45061d752ba6884/0a471e1f8b2a8861bbcd6a4c2efc6087,48c1ce72?w=1280",
@@ -433,13 +447,6 @@
     "titleSl": "Številni navijači ga ne poznajo – Bayer lahko zdaj načrtuje z zvezdnikom za 30 milijonov"
    },
    {
-    "title": "Blatter über Infantino - „Niemand darf mit ihm im Lift fahren“",
-    "link": "https://www.bild.de/sport/fussball/blatter-ueber-infantino-er-ist-ein-diktator-niemand-darf-mit-ihm-im-lift-fahren-6af4ca9453bdf3c35cc4f95c",
-    "image": "https://images.bild.de/6af4ca9453bdf3c35cc4f95c/9e72e7d3353d310e5f889eec3bf0ff58,78026efb?w=1280",
-    "date": 0,
-    "titleSl": "Blatter o Infantinu – »Nihče ne sme z njim v dvigalo«"
-   },
-   {
     "title": "Kader wird umgekrempelt - Winter-Freigabe für diese Gladbach-Stars!",
     "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-winter-freigabe-fuer-diese-gladbach-stars-6af463a4e22aeb948141fda6",
     "image": "https://images.bild.de/6af463a4e22aeb948141fda6/4c5a5c24ae6c1a165468e6db254f5fb3,7ca8eff7?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af560c0c45061d752ba71c1/c88fb91161b5bf1e0cfba5ac69b8bd4d-landscape,f6899070?w=1280",
     "date": 0,
     "titleSl": "BILD pri raciji pri »Gremium MC« – policija vdre v prostore motoristov"
-   },
-   {
-    "title": "Raus beim Serbien-Spiel - Klopp streicht diesen DFB-Star",
-    "link": "https://www.bild.de/sport/fussball/dfb-fuers-serbien-spiel-klopp-streicht-diesen-dfb-star-6af57457d2f851d14ad00409",
-    "image": "https://images.bild.de/6af57457d2f851d14ad00409/4f06e1725aae93425cb3edb26288bc39,71559aa7?w=1280",
-    "date": 0,
-    "titleSl": "Izpad na tekmi s Srbijo – Klopp črta to zvezdo nemške reprezentance"
    }
   ],
   "krone": [
@@ -551,11 +551,25 @@
   ],
   "lemonde": [
    {
+    "title": "En Pologne, les nationalistes défilent en nombre quatre jours après l’attentat de Cracovie",
+    "link": "https://www.lemonde.fr/international/article/2026/11/12/en-pologne-les-nationalistes-defilent-en-nombre-quatre-jours-apres-l-attentat-de-cracovie_6809074_3210.html",
+    "image": "https://img.lemde.fr/2026/11/11/684/0/8192/4096/644/322/60/0/028121e_ftp-1-gogoqulxna2q-afp-d77879p.jpg",
+    "date": 1794472204000,
+    "titleSl": "Na Poljskem so nacionalisti štiri dni po napadu v Krakovu množično protestirali"
+   },
+   {
     "title": "Les images de l’effondrement d’un immeuble de Brooklyn, à New York",
     "link": "https://www.lemonde.fr/international/video/2026/11/12/les-images-de-l-effondrement-d-un-immeuble-de-brooklyn-a-new-york_6809073_3210.html",
     "image": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/2c1ff58_ftp-1-m7mp1vhbspex-23c93bc8b3c14174afe145f17688ef0c-1-3630a41549184498bc121d6426429897.jpg",
     "date": 1794471232000,
     "titleSl": "Posnetki zrušitve stavbe v Brooklynu v New Yorku"
+   },
+   {
+    "title": "En Allemagne, l’économie va mieux qu’en France, mais l’envolée de la dette fait craindre une « crise budgétaire » d’envergure",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/12/en-allemagne-l-economie-va-mieux-qu-en-france-mais-l-envolee-de-la-dette-fait-craindre-une-crise-budgetaire-d-envergure_6809071_3234.html",
+    "image": "https://img.lemde.fr/2026/11/11/513/0/5494/2747/644/322/60/0/a0faa40_ftp-1-nt97ndd69jfu-afp-d76j9xg.jpg",
+    "date": 1794470409000,
+    "titleSl": "V Nemčiji je gospodarstvo v boljšem stanju kot v Franciji, vendar pa naraščajoči dolg vzbuja strah pred obsežno »proračunsko krizo«."
    },
    {
     "title": "« Faites preuve de respect ! » : un garde américain rappelle à l’ordre Pete Hegseth près de la tombe du Soldat inconnu",
@@ -564,32 +578,18 @@
     "date": 1794466509000
    },
    {
+    "title": "« Le soleil de l’Ukraine se lève dans le Donbass », un livre de photos en hommage au travail d’Antoni Lallican, photoreporter français tué en Ukraine",
+    "link": "https://www.lemonde.fr/international/article/2026/11/12/le-soleil-de-l-ukraine-se-leve-dans-le-donbass-un-livre-de-photos-en-hommage-au-travail-d-antoni-lallican-photoreporter-francais-tue-en-ukraine_6809066_3210.html",
+    "image": "https://img.lemde.fr/2026/11/10/590/0/4724/2362/644/322/60/0/58dcad3_upload-1-9h303rsjaxib-antoni-lallican-donbas-057.jpg",
+    "date": 1794465004000,
+    "titleSl": "« Le soleil de l’Ukraine se lève dans le Donbass », knjiga fotografij v spomin na delo Antonija Lallicana, francoskega fotoreporterja, ki je bil ubit v Ukrajini"
+   },
+   {
     "title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
     "link": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
     "image": "https://img.lemde.fr/2026/10/21/3407/0/4480/2240/644/322/60/0/f671cad_upload-1-jsmc8yzdhfbn-cbi1349071.JPG",
     "date": 1794463211000,
     "titleSl": "Proračun za leto 2027: Senat želi rešiti predlog, ki ga je zavrnila Državna skupščina"
-   },
-   {
-    "title": "EN DIRECT, guerre en Ukraine : les émissaires américains, Steve Witkoff et Jared Kushner, sont arrivés à Moscou pour rencontrer Vladimir Poutine",
-    "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html",
-    "image": "https://img.lemde.fr/2026/11/12/329/0/2769/1384/644/322/60/0/f96f571_ftp-1-ukbvjjcvbwui-2026-11-12t070932z-1629805928-rc27moal0bmn-rtrmadp-3-ukraine-crisis-talks-moscow.JPG",
-    "date": 1794461669000,
-    "titleSl": "V ŽIVO, vojna v Ukrajini: Ameriška odposlanca Steve Witkoff in Jared Kushner sta prispela v Moskvo na srečanje z Vladimirjem Putinom"
-   },
-   {
-    "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
-    "link": "https://www.lemonde.fr/idees/article/2026/11/12/credit-d-impot-recherche-pacte-dutreil-quitte-a-mettre-un-pognon-de-dingue-dans-les-aides-publiques-aux-entreprises-encore-faudrait-il-que-la-collectivite-en-ait-pour-son-argent_6809058_3232.html",
-    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/c4672f4_upload-1-ujmazdjtr0fc-frame-841.jpg",
-    "date": 1794459642000,
-    "titleSl": "Davčna olajšava za raziskave, zakon Dutreil …: »Če že namenjamo 'nezaslišano veliko denarja' za javno pomoč podjetjem, bi bilo treba zagotoviti, da bo skupnost za ta denar dobila ustrezno protivrednost.«"
-   },
-   {
-    "title": "Génocide des Tutsi : au Sénégal, l’avenir incertain des génocidaires condamnés par la justice internationale",
-    "link": "https://www.lemonde.fr/afrique/article/2026/11/12/genocide-des-tutsi-au-senegal-l-avenir-incertain-des-genocidaires-condamnes-par-la-justice-internationale_6809053_3212.html",
-    "image": "https://img.lemde.fr/2026/11/10/137/0/1540/770/644/322/60/0/f78eb8b_upload-1-8zk32gh0mq97-000-app2000101971282.jpg",
-    "date": 1794459622000,
-    "titleSl": "Genocid nad Tutsiji: v Senegalu negotova prihodnost storilcev genocida, ki jih je obsodilo mednarodno sodišče"
    }
   ],
   "elpais": [
