@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T07:06:24.179Z",
+ "generatedAt": "2026-11-12T07:08:24.356Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Nov nor met Dončića in dobra novica, gleženj ni resno poškodovan",
+    "link": "https://www.24ur.com/sport/kosarka/luka-doncic-austin-reaves-jj-redick-los-angeles-lakers-nba.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/0cc4d4dd3ff3f1db231d_63678019.jpg?v=21a8&fop=fp:0.55:0.17",
+    "date": 1794467204000
+   },
+   {
     "title": "Mlademu Urbanu so se uresničile sanje: nastopil je z Jakovom Jozinovićem",
     "link": "https://www.24ur.com/popin/glasba/mlademu-urbanu-so-se-uresnicile-sanje-nastopil-je-z-jakovom-jozinovicem.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/60ab6e3228c08f2d2dc1_63677609.jpg?v=d34a&fop=fp:0.47:0.61",
@@ -59,12 +65,6 @@
     "date": 1794465913000
    },
    {
-    "title": "Nov nor met Dončića in dobra novica, gleženj ni resno poškodovan",
-    "link": "https://www.24ur.com/sport/kosarka/luka-doncic-austin-reaves-jj-redick-los-angeles-lakers-nba.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/0cc4d4dd3ff3f1db231d_63678019.jpg?v=21a8&fop=fp:0.55:0.17",
-    "date": 1794464983000
-   },
-   {
     "title": "Prihajajo obilne padavine z nalivi: reke bodo hitro naraščale, hladilo se bo",
     "link": "https://www.24ur.com/novice/slovenija/reke-bodo-hitro-narascale-poskrbite-za-pretocnost-kanalov-in-odtokov.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/0cf0a699017e932dd09e_63606122.jpg?v=a74e&fop=fp:0.44:0.44",
@@ -78,6 +78,12 @@
    }
   ],
   "rtvslo": [
+   {
+    "title": "Luka Dončić: Malo boli, vendar bo vse v redu",
+    "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/luka-doncic-malo-boli-vendar-bo-vse-v-redu/799832",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121033.jpg",
+    "date": 1794467194000
+   },
    {
     "title": "Prihajajo nalivi, meja sneženja se lahko v petek spusti do 600 metrov nad morjem",
     "link": "https://www.rtvslo.si/okolje/vreme/prihajajo-nalivi-meja-snezenja-se-lahko-v-petek-spusti-do-600-metrov-nad-morjem/799829",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/slovenija/lokalne-volitve-2026/mestne-obcine/koper/kako-bi-kandidati-za-zupana-kopra-zagotovili-dostopna-stanovanja-in-kje-vidijo-resitev-za-vodooskrbo/799473",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/09/67120178.jpg",
     "date": 1794460205000
-   },
-   {
-    "title": "Dončić si je v zadnji četrtini zvil desni gleženj - sedma zaporedna zmaga Lakersov",
-    "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/doncic-si-je-v-zadnji-cetrtini-zvil-desni-glezenj-sedma-zaporedna-zmaga-lakersov/799817",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121031.jpg",
-    "date": 1794445229000
    }
   ],
   "zurnal": [
@@ -331,18 +331,25 @@
   ],
   "guardian": [
    {
+    "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+    "date": 1794466983000,
+    "titleSl": "Po poročilih naj bi se upravni odbor podjetja Nvidia sestal, da bi odločil o prihodnosti izvršnega direktorja Jensena Huanga, saj cena delnic tega velikana na področju čipov strmo pada – spremljajte v živo."
+   },
+   {
+    "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+    "image": "https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=12ff34a009b7acaf088f4b450b3e1c93",
+    "date": 1794466544000,
+    "titleSl": "Manj delovnih ur in višje plače – ali več izgorelosti in nadzora: delodajalcem je bilo naročeno, naj se pripravijo na umetno inteligenco"
+   },
+   {
     "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
     "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
     "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e7cc781873a609353d81df20f9e53",
     "date": 1794465811000,
     "titleSl": "Četrtkovo poročilo: Kaj vemo (in česa ne vemo) o Alice Huang in aferi Nvidia"
-   },
-   {
-    "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-    "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
-    "date": 1794465370000,
-    "titleSl": "Po poročilih naj bi se upravni odbor podjetja Nvidia sestal, da bi odločil o prihodnosti izvršnega direktorja Jensena Huanga, saj cena delnic tega velikana na področju čipov strmo pada – spremljajte v živo."
    },
    {
     "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/516_503_2306_1845/master/2306.jpg?width=140&quality=85&auto=format&fit=max&s=44c734af5ce7f77b7461e525a37c0f06",
     "date": 1794461907000,
     "titleSl": "Beau Lamarre-Condon na sojenju pravi, naturopat mu je postavil diagnozo raka, vendar se ne spomni, kateri."
-   },
-   {
-    "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e",
-    "date": 1794455215000,
-    "titleSl": "Scott Colom je razglasil zmago, ko je po svoji zgodovinski zmagi v senatu nagovoril podpornike v Mississippiju – kako se je to zgodilo"
    }
   ],
   "spiegel": [
@@ -426,6 +426,13 @@
     "titleSl": "Poker za milijarde glede proračuna – te zvišane davčne stopnje bodo res postale resničnost"
    },
    {
+    "title": "Video vom Tatort in Ronnenberg - Fahrer rast nach Streit in Menschengruppe",
+    "link": "https://www.bild.de/news/inland/niedersachsen-autofahrer-faehrt-in-maennergruppe-und-fluechtet-6af5601a50175c81de7a266f",
+    "image": "https://images.bild.de/6af5601a50175c81de7a266f/627cdb25e978347d0b07538f8f0976b6,c8c43d3f?w=1280",
+    "date": 0,
+    "titleSl": "Videoposnetek s kraja zločina v Ronnenbergu – Voznik po prepiru zapelje v skupino ljudi"
+   },
+   {
     "title": "Gut gemeint, aber gefährlich - Darum sollten Sie Rehe im Winter nicht füttern",
     "link": "https://www.bild.de/leben-wissen/haustiere/rehe-im-winter-fuettern-warum-das-gefaehrlich-sein-kann-6af45585db4e2fa8f6eb744f",
     "image": "https://images.bild.de/6af45585db4e2fa8f6eb744f/474f200f69cbb7f7330fc234e55f1b38,2d893e73?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af423c3e22aeb948141f69a/348525f798f51f9b7faf2f32dc50feef,3bdc51d8?w=1280",
     "date": 0,
     "titleSl": "Končno vitka! – Ali moram zdaj vedno uporabljati injekcijo za hujšanje?"
-   },
-   {
-    "title": "Kader wird umgekrempelt - Winter-Freigabe für diese Gladbach-Stars!",
-    "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-winter-freigabe-fuer-diese-gladbach-stars-6af463a4e22aeb948141fda6",
-    "image": "https://images.bild.de/6af463a4e22aeb948141fda6/4c5a5c24ae6c1a165468e6db254f5fb3,7ca8eff7?w=1280",
-    "date": 0,
-    "titleSl": "Ekipa bo preoblikovana – zimska odobritev za te zvezdnike Gladbacha!"
    }
   ],
   "krone": [
