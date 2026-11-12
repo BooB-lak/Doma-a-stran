@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:38:25.124Z",
+ "generatedAt": "2026-11-12T15:40:35.615Z",
  "sources": {
   "siol": [
    {
@@ -47,6 +47,12 @@
     "date": 1794497773000
    },
    {
+    "title": "Dvoboj med Juretom in Dominikom, nekdo bo naredil usodno napako",
+    "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/dvoboj-med-juretom-in-dominikom-nekdo-bo-naredil-usodno-napako.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/6150091efd2209cfa95a_63678192.jpg?v=adbe&fop=fp:0.49:0.28",
+    "date": 1794497664000
+   },
+   {
     "title": "Ko 'pločevinke' gostujejo, Tivoli običajno poka po šivih in se vse iskri",
     "link": "https://www.24ur.com/sport/hokej/ko-plocevinke-gostujejo-tivoli-obicajno-poka-po-sivih-in-se-vse-iskri.html",
     "image": "https://images.24ur.com/media/images/213xX/Jan2026/c1bcc414a20435c5f308_63533028.jpg?v=6f0f&fop=fp:0.62:0.27",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/za-13-ruskih-drzavljanov-predlagali-odvzem-slovenskega-drzavljanstva.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2024/3e39981e4723584ba965_63332220.jpg?v=57ea&fop=fp:0.55:0.46",
     "date": 1794495047000
-   },
-   {
-    "title": "Brez pologa za stanovanjski kredit, subvencionirana obrestna mera ...",
-    "link": "https://www.24ur.com/novice/slovenija/brez-pologa-za-stanovanjski-kredit-subvencionirana-obrestna-mera.html",
-    "image": "https://images.24ur.com/media/images/213xX/Sep2026/c73a54b3ea7b092aa73c_63653037.jpg?v=078a&fop=fp:0.50:0.40",
-    "date": 1794494401000
    }
   ],
   "rtvslo": [
@@ -117,7 +117,7 @@
   ],
   "zurnal": [
    {
-    "title": "Pomoč pri odplačevanju kredita: Takšno rešitev za mlade predlaga država",
+    "title": "Pomoč pri odplačevanju kredita: Takšno rešitev za mlade predlaga vlada",
     "link": "https://www.zurnal24.si/pod-streho/stanovanja-dom-mladi-pomoc-kredit-drzava-vlada-468153",
     "image": "https://www.zurnal24.si/media/img/42/15/236d621fc6918aa36f33.jpeg",
     "date": 1794497760000
@@ -287,6 +287,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Manchester United sacked manager Michael Carrick",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794496859.jpg?resize=1920%2C1080&quality=80",
+    "date": 1794496903000,
+    "titleSl": "Manchester United je odpustil trenerja Michaela Carricka"
+   },
+   {
+    "title": "UK court finds two Iranian men guilty of spying for Iran",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af5cb73301c9-1794493299.jpg?resize=1920%2C1440",
+    "date": 1794496548000,
+    "titleSl": "Britansko sodišče je dva Iranca spoznalo za kriva vohunjenja za Iran"
+   },
+   {
     "title": "Spain approves housing reforms after nationwide strike over costs",
     "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af5c94bd7bf-1794492747.jpg?resize=1920%2C1440",
@@ -313,20 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794495040.jpg?resize=1920%2C1080&quality=80",
     "date": 1794494420000,
     "titleSl": "Generalni direktor podjetja Nvidia Jensen Huang odstopa"
-   },
-   {
-    "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
-    "link": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af51e33-1794448947.jpg?resize=1920%2C1440",
-    "date": 1794494322000,
-    "titleSl": "Karavana migrantov po vmesnih volitvah v ZDA odhaja iz južne Mehike proti ZDA"
-   },
-   {
-    "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-    "link": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260820__C66784N__v1__HighRes__IraqIranPoliticsDiplomacyReligionIslamShia-1787255506-1794488319.jpg?resize=1200%2C630&quality=80",
-    "date": 1794493674000,
-    "titleSl": "»Niti vojne niti miru«: Ali lahko Iran prebije zastoj v odnosih z ZDA?"
    }
   ],
   "guardian": [
@@ -419,11 +419,32 @@
   ],
   "bild": [
    {
+    "title": "Nach Spionageaffäre - Nvidia-Chef tritt zurück!",
+    "link": "https://www.bild.de/politik/jensen-huang-tritt-zurueck-affaere-mit-mutmasslicher-spionin-bei-nvidia-6af5c4e450175c81de7a3c8f",
+    "image": "https://images.bild.de/6af5c4e450175c81de7a3c8f/848762e02f0b1c2a6dbb204d45a235e7,dc8652b9?w=1280",
+    "date": 0,
+    "titleSl": "Po vohunski aferi – direktor podjetja Nvidia odstopa!"
+   },
+   {
+    "title": "BILD-Reporter am eingestürzten Haus in New York - „Es klang wie ein dumpfes Grollen“",
+    "link": "https://www.bild.de/news/ausland/bild-vor-ort-bei-der-tragoedie-in-brooklyn-zweistoeckiges-gebaeude-ploetzlich-eingestuerzt-6af5632cc45061d752ba71ef",
+    "image": "https://images.bild.de/6af5632cc45061d752ba71ef/dd930b178264ef63b6864705ad27597c,ae174549?w=1280",
+    "date": 0,
+    "titleSl": "Novinar časopisa BILD pred porušeno hišo v New Yorku – »Slišalo se je kot pridušeno grmenje.«"
+   },
+   {
     "title": "Bei Staatsbesuch in Paris - Macron-Wache bricht plötzlich zusammen",
     "link": "https://www.bild.de/news/macron-hilft-kollabiertem-gardisten-empfang-in-paris-wird-fortgesetzt-6af4ce8cc45061d752ba6df1",
     "image": "https://images.bild.de/6af4ce8cc45061d752ba6df1/b753ec459448073ce7477189fd1d5488,47f1a6f3?w=1280",
     "date": 0,
     "titleSl": "Med državniškim obiskom v Parizu – Macronova straža se nenadoma zruši"
+   },
+   {
+    "title": "Was dahintersteckt - Werder-Boss glaubt an Füllkrug-Transfer",
+    "link": "https://www.bild.de/sport/fussball/werder-bremen-was-dahintersteckt-werder-boss-glaubt-an-fuellkrug-transfer-6af59ec5c45061d752ba7c22",
+    "image": "https://images.bild.de/6af59ec5c45061d752ba7c22/77c4e4ec7c061108fcca716b4009a757,9d016cba?w=1280",
+    "date": 0,
+    "titleSl": "Kaj se skriva za tem – vodja Werderja verjame v prestop Füllkruga"
    },
    {
     "title": "Sie hat schon einen Neuen - Trennung bei Sarah & Christian von Boetticher",
@@ -438,27 +459,6 @@
     "image": "https://images.bild.de/6af5b8e650175c81de7a3a67/0389507b4c55b312b4ee667ae925fc3f,274f2838?w=1280",
     "date": 0,
     "titleSl": "Padec delnic podjetja Nvidia – »Izgubil sem 5.000 evrov, ker Huang ne zna obvladovati svojih hlač!«"
-   },
-   {
-    "title": "Schau mal, Putin! - Deutsche Kriegs-KI findet den Feind in Minuten",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/deutsche-kriegs-ki-findet-den-feind-in-minuten-doch-es-gibt-ein-risiko-6af45497c45061d752ba6399",
-    "image": "https://images.bild.de/6af45497c45061d752ba6399/a8d073a6af683ec5b9457b4699cb935e,6cf3951c?w=1280",
-    "date": 0,
-    "titleSl": "Poglej, Putin! – Nemška vojaška umetna inteligenca v nekaj minutah najde sovražnika"
-   },
-   {
-    "title": "Vorschau für den 12. November 2026 - So geht es heute bei „Unter uns“ weiter",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/unter-uns-heute-im-tv-naomi-konfrontiert-patrizia-mit-ihren-luegen-6aec6274eca9cecdd5d47c08",
-    "image": "https://images.bild.de/6aec6274eca9cecdd5d47c08/e9aee3e13246636af0578c01503bccbc,b69da699?w=1280",
-    "date": 0,
-    "titleSl": "Napoved za 12. november 2026 – Kaj se bo danes zgodilo v nadaljevanju serije »Unter uns«"
-   },
-   {
-    "title": "Deutsche U19 jubelt, aber … - Sorgen um Bayern-Juwel (17)",
-    "link": "https://www.bild.de/sport/fussball/dfb-sorgen-um-bayern-juwel-kiala-nach-u19-sieg-6af5d328c45061d752ba88c4",
-    "image": "https://images.bild.de/6af5d328c45061d752ba88c4/b13d828dca0ef7c4c5674e05bce9c8e4-landscape,5ca49193?w=1280",
-    "date": 0,
-    "titleSl": "Nemška reprezentanca do 19 let slavi, vendar … – Skrb za biser Bayerna (17)"
    }
   ],
   "krone": [
