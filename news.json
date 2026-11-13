@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T15:02:22.536Z",
+ "generatedAt": "2026-11-13T15:04:24.202Z",
  "sources": {
   "siol": [
    {
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Novost pri nas: Na naše ceste bo v ponedeljek zapeljal prvi baterijski tramvaj",
+    "link": "https://www.zurnal24.si/avto/novost-pri-nas-na-nase-ceste-bo-v-ponedeljek-zapeljal-prvi-baterijski-tramvaj-468204",
+    "image": "https://www.zurnal24.si/media/img/fd/71/e29e862a6a314f5c31a9.png",
+    "date": 1794582120000
+   },
+   {
     "title": "Začelo se je: Dež prehaja v sneg, zapade ga lahko tudi do 30 cm",
     "link": "https://www.zurnal24.si/svet/zacelo-se-je-dez-prehaja-v-sneg-zapade-ga-lahko-tudi-do-30-cm-468203",
     "image": "https://www.zurnal24.si/media/img/fd/30/7c7fb8a7bda7dafa16f3.png",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/sport/nogomet/benjamin-sesko-dobil-novega-trenerja-apetiti-hitro-zrasli-manchester-united-mauricio-pocehttino-michael-carrick-468199",
     "image": "https://www.zurnal24.si/media/img/67/c6/827e30af41da104f98d7.jpeg",
     "date": 1794575820000
-   },
-   {
-    "title": "Cesta bo popolnoma zaprta",
-    "link": "https://www.zurnal24.si/slovenija/cesta-bo-popolnoma-zaprta-468196",
-    "image": "https://www.zurnal24.si/media/img/59/98/1ef372e1bf2863a81eb5.jpeg",
-    "date": 1794574740000
    }
   ],
   "reuters": [
@@ -199,18 +199,25 @@
   ],
   "nyt": [
    {
+    "title": "Brooklyn D.A. Opens Criminal Inquiry Into Flatbush Building Collapse",
+    "link": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-flatbus-building-collapse-investigation.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13met-flatbush-investigation-qkwh/13met-flatbush-investigation-qkwh-mediumSquareAt3X.jpg",
+    "date": 1794582151000,
+    "titleSl": "Okrožni tožilec Brooklyna je sprožil kazensko preiskavo v zvezi s porušitvijo stavbe v Flatbushu"
+   },
+   {
+    "title": "Even Scott Colom’s Backers Were Skeptical. Here’s How He Won in Mississippi.",
+    "link": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-colom-profile-qzmv/00pol-colom-profile-qzmv-mediumSquareAt3X.jpg",
+    "date": 1794582070000,
+    "titleSl": "Tudi podporniki Scotta Coloma so bili skeptični. Tako je zmagal v Mississippiju."
+   },
+   {
     "title": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
     "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
     "date": 1794581631000,
     "titleSl": "Microsoft se trudi odpraviti izpad, ki že drugi dan povzroča motnje v delovanju storitve Outlook"
-   },
-   {
-    "title": "‘I Had to Have Faith’: How a Democrat Defied Long Odds in Mississippi’s Senate Race",
-    "link": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-colom-profile-qzmv/00pol-colom-profile-qzmv-mediumSquareAt3X.jpg",
-    "date": 1794580996000,
-    "titleSl": "»Morala sem verjeti«: Kako je demokratka kljubovala velikim oviram v senatni tekmi v Misisipiju"
    },
    {
     "title": "‘We Squandered an Opportunity’: The Christian Right on Its Election Rout",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-quicktock-bqmg/12met-building-quicktock-bqmg-mediumSquareAt3X.jpg",
     "date": 1794576226000,
     "titleSl": "Kako se je odvijalo usodno zrušenje stavbe v Brooklynu"
-   },
-   {
-    "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
-    "link": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/13nat-ohio-restaurant-NEW-kcgh/13nat-ohio-restaurant-NEW-kcgh-mediumSquareAt3X.jpg",
-    "date": 1794575837000,
-    "titleSl": "Restavracija je gostila Ramaswamyja po njegovem napadalnem oglasu. Zdaj plačuje ceno."
    }
   ],
   "bbc": [
@@ -278,11 +278,11 @@
     "titleSl": "Nekdanji Hamasov telesni stražar je kriv napada z nožem v Združenem kraljestvu"
    },
    {
-    "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+    "title": "NHS, schools and police forces hit by Microsoft outage",
     "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7967/live/40c9bd50-df65-11f1-93e1-3b657b665bcf.jpg",
     "date": 1794577285000,
-    "titleSl": "Med storitvami v Združenem kraljestvu, ki jih je prizadela izpad delovanja Microsofta, so splošni zdravniki, policija in lekarne"
+    "titleSl": "Izpad delovanja Microsofta je prizadel nacionalni zdravstveni sistem, šole in policijske sile"
    }
   ],
   "aljazeera": [
@@ -331,20 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5",
-    "date": 1794581857000,
-    "titleSl": "Vodja zunanje politike EU Kallasova pravi, da Evropa ne sme stopiti v ruske »pasti« pri pogajanjih o Ukrajini – Europe live"
-   },
-   {
-    "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-    "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
-    "date": 1794581802000,
-    "titleSl": "Microsoft se trudi odpraviti globalno motnjo v delovanju storitev Teams in Outlook"
-   },
-   {
     "title": "Eleanor Donaldson, wife of former DUP leader, placed on sex offender register",
     "link": "https://www.theguardian.com/uk-news/2026/nov/13/eleanor-donaldson-wife-of-former-dup-leader-placed-on-sex-offender-register",
     "image": "https://i.guim.co.uk/img/media/c3e0c410a3c3f5700bd6a040ee01fb66d6133fe2/124_18_1110_888/master/1110.jpg?width=140&quality=85&auto=format&fit=max&s=e2d6a05204c9386f4e43a11e4638f648",
@@ -366,14 +352,35 @@
     "titleSl": "Stroške varovanja Nigela Faragea je krila stranka Reform UK, kljub trditvam o donaciji v višini več kot 5 milijonov GBP"
    },
    {
-    "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
+    "title": "Scott Bessent says attempt to put Megaspeed on trade blacklist stalled ‘because commerce has the pen’ – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
     "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189",
     "date": 1794580334000,
-    "titleSl": "Scott Bessent očita ministrstvu za trgovino zamudo pri uvrstitvi kitajskega podjetja za obdelavo podatkov na črni seznam – ameriška politika v živo"
+    "titleSl": "Scott Bessent pravi, uvrstitev podjetja Megaspeed na črni seznam trgovinskih partnerjev je bila ustavljena, »ker ima trgovinsko ministrstvo zadnjo besedo« – dogajanje v ameriški politiki v živo"
+   },
+   {
+    "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5",
+    "date": 1794580147000,
+    "titleSl": "Vodja zunanje politike EU Kallasova pravi, da Evropa ne sme stopiti v ruske »pasti« pri pogajanjih o Ukrajini – Europe live"
+   },
+   {
+    "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
+    "link": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship",
+    "image": "https://i.guim.co.uk/img/media/18dbe9dbe030c08dbbef2b75bee94cd46e51688c/339_0_2375_1900/master/2375.jpg?width=140&quality=85&auto=format&fit=max&s=9c064b228db39da397abc968ca7fb205",
+    "date": 1794579924000,
+    "titleSl": "Prepovedane knjige iz irske sobe »zlobne literature« so končno ugledale luč sveta"
    }
   ],
   "spiegel": [
+   {
+    "title": "Kitschkrieg kritisieren 1Live scharf – Sender wehrt sich",
+    "link": "https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich-a-4836f0d2-2d14-44c5-8586-21bd76aeaadc#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/ecd4e873-2d7c-49f7-8142-fcdbb8cc064f_w520_r2.08_fpx53_fpy53.jpg",
+    "date": 1794581880000,
+    "titleSl": "Kitschkrieg ostro kritizira 1Live – radijska postaja se brani"
+   },
    {
     "title": "DFB-Auswahl in der Nations League: Wie Jürgen Klopp die Nationalelf neu erfinden will",
     "link": "https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will-a-36c998b7-843a-4be9-8b71-7a7e5863e200#ref=rss",
@@ -396,13 +403,6 @@
     "titleSl": "Borussia Dortmund: BVB je prekinil sporno partnerstvo z družbo Rheinmetall"
    },
    {
-    "title": "Öl-Versorgung erholt sich erstmals seit Beginn des Irankriegs etwas",
-    "link": "https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/b394db67-9e71-4142-9cfb-325c617bd321_w520_r2.08_fpx47.68_fpy49.99.jpg",
-    "date": 1794577620000,
-    "titleSl": "Oskrba z nafto se prvič od začetka vojne v Iranu nekoliko izboljšuje"
-   },
-   {
     "title": "Arbeitsmarkt: Warum Berufseinsteiger KI-Folgen besonders spüren",
     "link": "https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren-a-fd1af8c9-d506-4c6f-8200-9a046f6c73f7#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/98cafe7f-9c20-4a90-8d48-d082a7449325_w520_r2.08_fpx63.32_fpy52.98.jpg",
@@ -418,6 +418,27 @@
    }
   ],
   "bild": [
+   {
+    "title": "Hätte er längst im Knast sitzen müssen? - Lisas mutmaßlicher Killer floh schon vor der Polizei",
+    "link": "https://www.bild.de/regional/berlin/lisas-moerder-baute-vor-einem-jahr-unfall-und-hatte-waffen-dabei-6af49310e22aeb94814203c8",
+    "image": "https://images.bild.de/6af49310e22aeb94814203c8/93e3ba2f2aad5cb20d86415943ffcb50,30730453?w=1280",
+    "date": 0,
+    "titleSl": "Bi moral že zdavnaj sedeti v zaporu? – Domnevni Lisin morilec je že pobegnil pred policijo"
+   },
+   {
+    "title": "„Keine Angst!“ - Hier hören, was Steffis Bruder sagt, als BILD ihn findet",
+    "link": "https://www.bild.de/news/las-vegas-bruder-von-steffi-graf-lebt-in-tunnelsystem-wie-er-sich-dazu-aeussert-6af1cfa4d43db387e550709d",
+    "image": "https://images.bild.de/6af1cfa4d43db387e550709d/54847992354bd68edb919300d8bf0224,b1b894af?w=1280",
+    "date": 0,
+    "titleSl": "»Keine Angst!« – Tukaj lahko slišite, kaj pravi Steffijin brat, ko ga je našel časopis BILD"
+   },
+   {
+    "title": "Start in 6. Liga? - Bundesligist plant neue Mannschaft",
+    "link": "https://www.bild.de/sport/fussball/bundesliga-start-in-6-liga-rb-leipzig-plant-neue-mannschaft-6af7111c84c7128d8f27e51a",
+    "image": "https://images.bild.de/6af7111c84c7128d8f27e51a/d39a6dd1a53c5a95bfd99587c05e83b5,a41f2bc1?w=1280",
+    "date": 0,
+    "titleSl": "Začetek v 6. ligi? – Klub iz Bundeslige načrtuje novo ekipo"
+   },
    {
     "title": "Bis zu 56 Prozent mehr! - Päckchen und Pakete werden teurer",
     "link": "https://www.bild.de/politik/inland/dhl-erhoeht-paketpreise-2027-um-bis-zu-56-prozent-6af70a0184c7128d8f27e419",
@@ -438,30 +459,16 @@
     "image": "https://images.bild.de/6af6f1dd5a72dceba1d61563/c949ac2e3f75710ce9cabeec9af73cf2,f3b4c3?w=1280",
     "date": 0,
     "titleSl": "Ekskluzivno za trenerja Eintrachta – Hütter namiguje na prestop zvezdnika iz Frankfurta"
-   },
-   {
-    "title": "Das gab's schon mal in Nürnberg - Scobel wird zum Tor-Phantom",
-    "link": "https://www.bild.de/sport/fussball/fcn-das-gabs-schon-mal-in-nuernberg-scobel-wird-zum-tor-phantom-6af5cae0c45061d752ba876b",
-    "image": "https://images.bild.de/6af5cae0c45061d752ba876b/86ba831e4745a3d9b80c14b3af1cdfb3,fe76e4d2?w=1280",
-    "date": 0,
-    "titleSl": "To se je že zgodilo v Nürnbergu – Scobel postane vratarski fantom"
-   },
-   {
-    "title": "Spitzenkräfte rechnen mit Kanzler ab - Frontalangriff gegen Merz aus den eigenen Reihen",
-    "link": "https://www.bild.de/politik/inland/spitzenkraefte-rechnen-mit-kanzler-ab-frontalangriff-gegen-merz-aus-den-eigenen-reihen-6af6ef165a72dceba1d61505",
-    "image": "https://images.bild.de/6af6ef165a72dceba1d61505/9ac365851a7c9ba63b7259a233568787,aa721a71?w=1280",
-    "date": 0,
-    "titleSl": "Vodilni člani stranke obračunajo s kanclerjem – neposreden napad na Merza iz vrst njegove stranke"
-   },
-   {
-    "title": "Betrugsvorwürfe - Die Anklage gegen Start-up-Star Wanja Oberhof",
-    "link": "https://www.bild.de/news/ausland/wanja-oberhof-us-grand-jury-klagt-ihn-wegen-betrugs-an-6af6ad345a72dceba1d60f71",
-    "image": "https://images.bild.de/6af6ad345a72dceba1d60f71/e79864548d8cdd8ce47adf2cb077335f,202bbf4e?w=1280",
-    "date": 0,
-    "titleSl": "Obtožbe goljufije – Obtožnica proti zvezdniku zagonskih podjetij Wanji Oberhofu"
    }
   ],
   "krone": [
+   {
+    "title": "Jäger schuld? - Ein Schuss – und Kater „Balu“ blieb verschwunden",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xdmEzNmIxOC1mbEpxaDBJUnVjRnI2RHdEZUoySWMta0Q0c1JLZGM0elh1cmxyQjVxNmNXOHJGcmtVZw?oc=5",
+    "image": "",
+    "date": 1794582000000,
+    "titleSl": "Kriv je lovec? – En strel – in maček »Balu« je izginil"
+   },
    {
     "title": "Sparkurs in Graz - Keine ÖVP-Vorschläge? „Das ist schlichtweg falsch“",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMNFVUZG1vN0tZY19qek1KaVVOcmNIN3dBVkloNmx3MFpORlpHSlJMNlJ3d0F0Wnh4Mkw4S1k3OVFUUQ?oc=5",
@@ -470,39 +477,32 @@
     "titleSl": "Varčevalni ukrepi v Gradcu – brez predlogov Avstrijske ljudske stranke (ÖVP)? »To preprosto ne drži«"
    },
    {
+    "title": "Bühne auf engstem Raum - Auftritt am Stubentisch im Volkskunstmuseum",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96MUFaUExpMktTNGtMTWtQY3Q2SXp5eFhjWmhwdDdvWExLdVZBMERVU0ppU3JJS1NzQzAwSkpqR1NkUQ?oc=5",
+    "image": "",
+    "date": 1794582000000,
+    "titleSl": "Oder na najmanjšem prostoru – nastop na mizi v Muzeju ljudske umetnosti"
+   },
+   {
+    "title": "Buch und Kalender - Linzer Geschichte mit echten bewegten Momenten",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1qeHlsMzNUbmVtU2VlR19zQnNRSWhCelF3MHhrekNocnlpZFg4blZtMXJ5d05DVDRGV1pkSmkxZXMtQQ?oc=5",
+    "image": "",
+    "date": 1794582000000,
+    "titleSl": "Knjiga in koledar – Zgodovina Linza s pravimi premikajočimi se trenutki"
+   },
+   {
+    "title": "Arnulf-Komposch-Schau - Spieglein, Spieglein an der Wand.",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wNVdjSlBYc2JFNkhjcGJKeHpBZTR2Tl84aVczZEg5RWwtbW13cnZydlNVNzhfQnNvTTQ0LUd3SGxjdw?oc=5",
+    "image": "",
+    "date": 1794582000000,
+    "titleSl": "Razstava Arnulfa Komposcha – Ogledalce, ogledalce na steni."
+   },
+   {
     "title": "Fanpackages gewinnen - Die Hungerspiele kommen wieder ins Kino",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54VDN5M1NfOHVVNzgyQXRheE1BMUZHSW9odTlkMU5jQ3RwODNrTERwZmg4YVBPMGNDSG5jVzYwalVfdw?oc=5",
     "image": "",
     "date": 1794581520000,
     "titleSl": "Osvojite pakete za oboževalce – Igre lakote se vračajo v kino"
-   },
-   {
-    "title": "Bregenz vs. Altach - Ländle-Testderby wird zu einem wahren Torfestival",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmejlTdnNBVmhQdXhudWlxZkxLZUNjSnRSbVU0a2FRNlVfUF9mRkJWeENNUkFMRkhsLWJkR0Rvb0dvdw?oc=5",
-    "image": "",
-    "date": 1794581160000,
-    "titleSl": "Bregenz proti Altachu – Ländle-Testderby postane pravi festival golov"
-   },
-   {
-    "title": "Entscheidende Zutat - Was es für ein glückliches Leben wirklich braucht",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wUl9weFpGbk5rV1JSeGtzTXVrWkxtc0huZkxJbkwwWENOakRTVmhMel9FSVF3Sk1RN1hMRU5fTVhXZw?oc=5",
-    "image": "",
-    "date": 1794581100000,
-    "titleSl": "Ključna sestavina – Kaj je resnično potrebno za srečno življenje"
-   },
-   {
-    "title": "Krone Sport-News - Klassenerhalt nach Krimi ++ Zwei ÖFB-Ausfälle",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHeXJVRmlXZkpaeHlaTjlGLXVmRUphZ0MyMl91LWlrRFoxUFV3d19JTFBZalZqalZablY4Z3VRbmhXQQ?oc=5",
-    "image": "",
-    "date": 1794580800000,
-    "titleSl": "Krone Sport-News – Klassenerhalt nach Krimi ++ Zwei ÖFB-Ausfälle"
-   },
-   {
-    "title": "Saftige Abfindung? - VW bietet Viertelmillion, damit Mitarbeiter gehen!",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB5THY2R29Sejl4d1lNV1k1eWtvZFFMNU9QYWp0MVBPRXZmMXlPZmp3OHU0elh4S0ZtdkE3M0w2cWlxQQ?oc=5",
-    "image": "",
-    "date": 1794580680000,
-    "titleSl": "Sočna odpravnina? – VW ponuja četrt milijona, da bi zaposleni odšli!"
    }
   ],
   "rainews": [
