@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T22:26:24.585Z",
+ "generatedAt": "2026-11-13T22:28:24.014Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
+    "link": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-laubacher-boebert-vhmj/10nat-laubacher-boebert-vhmj-mediumSquareAt3X.jpg",
+    "date": 1794608687000,
+    "titleSl": "Spoznajte Eileen Laubacher, veteranko mornarice, ki je premagala Lauren Boebert"
+   },
+   {
     "title": "Microsoft’s Global Outage and Fixes: What We Know",
     "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
@@ -222,7 +229,7 @@
    {
     "title": "Search and Rescue Underway in New Orleans After Cargo Ship Crashes Into Riverboat",
     "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-    "image": "",
+    "image": "https://static01.nyt.com/images/2026/11/13/arts/thumb/thumb-facebookJumbo.jpg",
     "date": 1794606528000,
     "titleSl": "V New Orleansu poteka iskalna in reševalna akcija po trčenju tovorne ladje v rečno ladjo"
    },
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-11-05-midterm-simulations-index/2026-11-05-midterm-simulations-index-mediumSquareAt3X-v4.jpg",
     "date": 1794605509000,
     "titleSl": "Ali so se spori glede prerazmejitve volilnih okrožij obrnili proti republikancem? Z eno besedo: ne."
-   },
-   {
-    "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-    "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
-    "date": 1794605338000,
-    "titleSl": "Kako je Microsoft hitel, da bi se po globalni okvari ponovno povezal s spletom"
    }
   ],
   "bbc": [
@@ -287,18 +287,11 @@
   ],
   "aljazeera": [
    {
-    "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af786424d0dd-1794606658.jpg?resize=1920%2C1440",
-    "date": 1794607327000,
-    "titleSl": "V ŽIVO: FAA je po izpadu komunikacij v ZDA odredila nacionalno prepoved vzletov"
-   },
-   {
-    "title": "FAA grounds US flights nationwide after ‘communication issue’",
+    "title": "US grounds all flights after ‘communication issue’",
     "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af78164-1794605412.jpg?resize=1920%2C1440",
     "date": 1794605528000,
-    "titleSl": "FAA je zaradi »težav s komunikacijo« po vsej državi prizemljila lete v ZDA"
+    "titleSl": "ZDA so zaradi »težav s komunikacijo« ustavile vse lete"
    },
    {
     "title": "Pope Leo cheered on return to Peru city where he served as bishop",
@@ -327,6 +320,13 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af76c6baabc-1794600043.jpg?resize=1920%2C1440",
     "date": 1794601700000,
     "titleSl": "Papež se je zahvalil množicam ob čustvenem povratku v svoj »drugi dom« v perujskem Chiclayu"
+   },
+   {
+    "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+    "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af75898-1794594968.jpg?resize=1920%2C1440",
+    "date": 1794601089000,
+    "titleSl": "Nekdanjemu predsedniku Paragvaja Peni grozi nova obtožba zaradi propada banke Ueno"
    }
   ],
   "guardian": [
@@ -419,18 +419,18 @@
   ],
   "bild": [
    {
-    "title": "„Kommunikationsproblem“ - Landesweiter Flugstopp in den USA!",
-    "link": "https://www.bild.de/news/sicherheitsgruende-landesweiter-flugstopp-in-den-usa-6af77d83aa0d1596fb27e6d0",
-    "image": "https://images.bild.de/6af77d83aa0d1596fb27e6d0/c73a797276e36c043ab87fda7f3b951b,3af812ea?w=1280",
-    "date": 0,
-    "titleSl": "»Težava s komunikacijo« – prekinitev letov po vsej državi v ZDA!"
-   },
-   {
     "title": "US-Kreuzfahrtschiff sinkt nach Crash - Das Wunder von New Orleans",
     "link": "https://www.bild.de/news/130-passagiere-an-bord-us-kreuzfahrtschiff-nach-tanker-crash-umgekippt-6af76ac59c2b3eae1f35e343",
     "image": "https://images.bild.de/6af76ac59c2b3eae1f35e343/905de03d48badf13750ed0fc686137c9,4a67a964?w=1280",
     "date": 0,
     "titleSl": "Ameriška križarka potone po trčenju – čudež v New Orleansu"
+   },
+   {
+    "title": "„Kommunikationsproblem“ - Landesweiter Flugstopp in den USA!",
+    "link": "https://www.bild.de/news/sicherheitsgruende-landesweiter-flugstopp-in-den-usa-6af77d83aa0d1596fb27e6d0",
+    "image": "https://images.bild.de/6af77d83aa0d1596fb27e6d0/c73a797276e36c043ab87fda7f3b951b,3af812ea?w=1280",
+    "date": 0,
+    "titleSl": "»Težava s komunikacijo« – prekinitev letov po vsej državi v ZDA!"
    },
    {
     "title": "Shoppen, Essen, Friseur - Hier treffen Sie die HSV-Stars",
@@ -510,7 +510,7 @@
     "title": "S&P conferma il rating dell’Italia a BBB+/A-2: “L’export compensa i dazi Usa”",
     "link": "https://www.rainews.it/articoli/2026/11/economia-finanza-rating-italia-standard-poor-s-conferma-bbb-a-2-export-compensa-dazi-6aa2ae78-b7c6-4e25-9bdd-8a587bfa79fd.html",
     "image": "https://www.rainews.it/dl/img/2026/11/13/1794607357837_ecdaeaafe.jpg",
-    "date": 1794607740000,
+    "date": 1794608640000,
     "titleSl": "S&P potrjuje bonitetno oceno Italije BBB+/A-2: »Izvoz kompenzira ameriške carine«"
    },
    {
