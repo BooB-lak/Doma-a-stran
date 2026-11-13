@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T11:16:25.209Z",
+ "generatedAt": "2026-11-13T11:18:22.515Z",
  "sources": {
   "siol": [
    {
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "El Salvador deploys armed robots to fight gangs in Haiti",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567418.jpg?resize=1200%2C675",
+    "date": 1794567440000,
+    "titleSl": "El Salvador je za boj proti tolpam na Haitiju uporabil oborožene robote"
+   },
+   {
     "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567001.jpg?resize=1920%2C1080&quality=80",
@@ -320,29 +327,29 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2-1794559552.jpg?resize=1500%2C1080",
     "date": 1794563010000,
     "titleSl": "Z vsakim deževjem Gaza tvega izgubo dostopa do električne energije in zdravstvenega varstva"
-   },
-   {
-    "title": "Microsoft hit by global outages: What happened and why?",
-    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af6c919a6f5-1794558233.jpg?resize=1920%2C1440",
-    "date": 1794562255000,
-    "titleSl": "Microsoft je prizadel globalni izpad: Kaj se je zgodilo in zakaj?"
    }
   ],
   "guardian": [
+   {
+    "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=ec4243ee74c1d4d50a59fa15af29f3d6",
+    "date": 1794568342000,
+    "titleSl": "Voditelji se sestanejo v Dublinu v času iskanja glavnega pogajalca EU za mirovna pogajanja z Rusijo – Evropa v živo"
+   },
+   {
+    "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+    "image": "https://i.guim.co.uk/img/media/10932ac8c9cc15a1ae8c48d7b5b73278e22a95a3/813_0_4081_3265/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e59d9e0ac8a027834f2adbd129e9a366",
+    "date": 1794568162000,
+    "titleSl": "Van Hollen se je spravil na Schumerja, medtem ko se demokrati soočajo s prvo veliko preizkušnjo po vmesnih volitvah – ameriška politika v živo"
+   },
    {
     "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316",
     "date": 1794567384000,
     "titleSl": "Odbor opozarja, da bo sporazum med Združenim kraljestvom in EU povzročil »naraščajoč pritisk« na parlament, da natančno preuči zakonodajo – politične razmere v Združenem kraljestvu v živo"
-   },
-   {
-    "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=ec4243ee74c1d4d50a59fa15af29f3d6",
-    "date": 1794567136000,
-    "titleSl": "Voditelji se sestanejo v Dublinu v času iskanja glavnega pogajalca EU za mirovna pogajanja z Rusijo – Evropa v živo"
    },
    {
     "title": "Planned asylum centre near Oxfordshire village to face legal challenge",
@@ -364,16 +371,23 @@
     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
     "date": 1794564913000,
     "titleSl": "Microsoft se trudi odpraviti globalno motnjo v delovanju storitev Teams in Outlook"
-   },
-   {
-    "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-    "image": "https://i.guim.co.uk/img/media/323c32993821d256fab890df565491d603ec4a0e/263_0_4265_3413/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=df3331e4c669e5fe2eabf0c95e4977db",
-    "date": 1794564699000,
-    "titleSl": "Izpad delovanja sistema Microsoft je prizadel bolnišnice, splošne zdravnike, šole in policijo po vsej Veliki Britaniji"
    }
   ],
   "spiegel": [
+   {
+    "title": "Usher und Chris Brown sollen sich backstage gezofft haben",
+    "link": "https://www.spiegel.de/kultur/musik/usher-und-chris-brown-sollen-sich-backstage-gezofft-haben-a-eb67bfee-5034-4f8d-9e4b-078927966a36#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/78d8746b-56fc-4545-89fb-80c5e3b5c9f8_w520_r2.08_fpx54.6_fpy49.99.jpg",
+    "date": 1794568080000,
+    "titleSl": "Usher in Chris Brown naj bi se sprla za odrom"
+   },
+   {
+    "title": "Gasspeicher in Deutschland: Reiche setzt auf alte Kohle- und Ölkraftwerke",
+    "link": "https://www.spiegel.de/wirtschaft/soziales/gasspeicher-in-deutschland-reiche-setzt-auf-alte-kohle-und-oelkraftwerke-a-27a31085-5bb0-4460-8bb5-0024af1d419e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/d960d784-f865-453d-95a1-4b42614d87a1_w520_r2.08_fpx61.34_fpy50.jpg",
+    "date": 1794567900000,
+    "titleSl": "Skladišča plina v Nemčiji: Bogati stavijo na stare elektrarne na premog in nafto"
+   },
    {
     "title": "Veranstaltung der CDU-Europapartei: Und plötzlich taucht Clanchef Issa Rammo bei der EVP auf",
     "link": "https://www.spiegel.de/politik/deutschland/veranstaltung-der-cdu-europapartei-und-ploetzlich-taucht-clanchef-issa-rammo-bei-der-evp-auf-a-aa11decf-c46d-414e-8c8d-421a13ae55f2#ref=rss",
@@ -401,20 +415,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/5512d7e6-f392-41d1-a0b2-a9c76842b81e_w520_r2.08_fpx43.86_fpy50.jpg",
     "date": 1794564840000,
     "titleSl": "Delnica Nvidia: Milijardna afera Jensena Huanga in njene posledice za podjetja na področju umetne inteligence"
-   },
-   {
-    "title": "Nations League: Italien siegt gegen Frankreich – Désiré Doué verletzt sich an den Zähnen",
-    "link": "https://www.spiegel.de/sport/fussball/nations-league-italien-siegt-gegen-frankreich-desire-doue-verletzt-sich-an-den-zaehnen-a-587ab48a-0e19-4879-8022-dcac32873a0e#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/5d3cea37-b581-44c7-ae14-3b814c8977b7_w520_r2.08_fpx33.34_fpy50.jpg",
-    "date": 1794564360000,
-    "titleSl": "Liga narodov: Italija je premagala Francijo – Désiré Doué si je poškodoval zobe"
-   },
-   {
-    "title": "Rom – Stare fallen in Viertel ein: Anwohner schützen sie sich mit Regenschirmen vor Vogelkot",
-    "link": "https://www.spiegel.de/panorama/rom-stare-fallen-in-viertel-ein-anwohner-schuetzen-sie-sich-mit-regenschirmen-vor-vogelkot-a-8cb63763-1158-42af-a0a6-85a89850857f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/aad2224a-5a0e-4d07-a741-265c5fd27998_w520_r2.08_fpx30_fpy45.jpg",
-    "date": 1794562620000,
-    "titleSl": "Rim – V četrt so padale zvezde: Prebivalci so se z dežniki zaščitili pred ptičjimi iztrebki"
    }
   ],
   "bild": [
