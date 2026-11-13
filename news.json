@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T01:22:22.890Z",
+ "generatedAt": "2026-11-13T01:24:22.681Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,13 @@
   ],
   "nyt": [
    {
+    "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+    "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+    "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg",
+    "date": 1794532980000,
+    "titleSl": "Kaj morate vedeti o usodnem zrušenju stavbe v Brooklynu"
+   },
+   {
     "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
     "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
@@ -232,13 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
     "date": 1794526845000,
     "titleSl": "Izpad je prizadel Outlook, Teams in druge Microsoftove programe"
-   },
-   {
-    "title": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
-    "link": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/opinion/12Witt/12Witt-mediumSquareAt3X.jpg",
-    "date": 1794526015000,
-    "titleSl": "Napisal sem biografijo Jensena Huanga. To je privedlo do njegovega padca."
    }
   ],
   "bbc": [
@@ -246,7 +246,7 @@
     "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
     "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42d/live/d07632f0-deff-11f1-93e1-3b657b665bcf.jpg",
-    "date": 1794532826000,
+    "date": 1794532986000,
     "titleSl": "Pegula je rešila zaključno žogo in premagala Noskovo ter se uvrstila med najboljše štiri na zaključnem turnirju WTA"
    },
    {
@@ -331,25 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-    "image": "https://i.guim.co.uk/img/media/06d384564fbc81b578cacdc1b55f26b478bccb02/438_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=e3f98cc8492314845668bf7c919131a1",
-    "date": 1794532519000,
-    "titleSl": "Pričakuje se, da bo Jensen Huang iz podjetja Nvidia pričal pred kongresom sredi pozivov k zaostritvi ukrepov proti izvozu čipov na Kitajsko – v živo"
-   },
-   {
-    "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/98e2bff19e4445496fd0da8a491d3cb83c3bdeac/257_0_2562_2050/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=d43de4137917c4bf62509ab2f2a05acc",
-    "date": 1794532492000,
-    "titleSl": "Novice v živo s tiskovne konference Pata Cumminsa: Avstralski kapetan kriketa govori o trditvah Usmana Khawaje glede »afero s smirkovim papirjem«"
+    "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+    "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+    "date": 1794532793000,
+    "titleSl": "Microsoft začenja obnavljati storitve, saj globalna motnja prizadene Outlook in Teams"
    },
    {
     "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
     "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29",
-    "date": 1794531562000,
+    "date": 1794532757000,
     "titleSl": "Hegseth je podelil medaljo stražarju, ki ga je opomnil na pokopališču Arlington National Cemetery – ameriška politika v živo"
+   },
+   {
+    "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/98e2bff19e4445496fd0da8a491d3cb83c3bdeac/257_0_2562_2050/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=d43de4137917c4bf62509ab2f2a05acc",
+    "date": 1794532744000,
+    "titleSl": "Novice v živo s tiskovne konference Pata Cumminsa: Avstralski kapetan kriketa govori o trditvah Usmana Khawaje glede »afero s smirkovim papirjem«"
+   },
+   {
+    "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+    "image": "https://i.guim.co.uk/img/media/06d384564fbc81b578cacdc1b55f26b478bccb02/438_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=e3f98cc8492314845668bf7c919131a1",
+    "date": 1794532519000,
+    "titleSl": "Pričakuje se, da bo Jensen Huang iz podjetja Nvidia pričal pred kongresom sredi pozivov k zaostritvi ukrepov proti izvozu čipov na Kitajsko – v živo"
    },
    {
     "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/ecf2178df4b098ee20ab4c7247fd09987a19d4fa/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=34a529d7bd115eb804f97ec9c7d25c4b",
     "date": 1794529194000,
     "titleSl": "Vse glasnejši pozivi k izpustitvi priljubljene kalifornijske medicinske sestre, ki jo je pridržala imigracijska služba ICE: »Želimo, da se vrne domov.«"
-   },
-   {
-    "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-    "image": "https://i.guim.co.uk/img/media/16a9e0aed91c3b4022e42015b6599e223f5d81ab/0_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ee231f477f9f6916b617e58d71aa04d5",
-    "date": 1794528237000,
-    "titleSl": "Kdo bi lahko nadomestil odhajajočega Jensena Huanga na položaju izvršnega direktorja podjetja Nvidia?"
    }
   ],
   "spiegel": [
