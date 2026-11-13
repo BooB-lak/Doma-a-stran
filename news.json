@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-13T11:26:23.043Z",
+ "generatedAt": "2026-11-13T11:28:22.267Z",
  "sources": {
   "siol": [
+   {
+    "title": "Iran: Zadeli smo ameriški radar v Bahrajnu #vŽivo",
+    "link": "https://siol.net/novice/svet/iran-zadeli-smo-ameriski-radar-v-bahrajnu-vzivo-706243",
+    "image": "https://siol.net/media/img/50/61/1883c2f2287497908652.jpeg",
+    "date": 1794568740000
+   },
    {
     "title": "Iz Kalifornije po pridobitvi državljanstva naravnost v slovensko reprezezentanco",
     "link": "https://siol.net/sportal/drugi-sporti/iz-kalifornije-po-pridobitvi-drzavljanstva-naravnost-v-slovensko-reprezezentanco-706241",
@@ -27,16 +33,10 @@
     "date": 1794567720000
    },
    {
-    "title": "Janša proti povezovanju financiranja podpore Ukrajin in pogajanj o proračunu EU",
+    "title": "Janša proti povezovanju financiranja podpore Ukrajini in pogajanj o proračunu EU",
     "link": "https://siol.net/novice/svet/voditelji-clanic-o-vlogi-eu-v-pogovorih-med-ukrajino-in-rusijo-706187",
     "image": "https://siol.net/media/img/71/c8/afcb7dbcb31647f709f0.jpeg",
     "date": 1794567540000
-   },
-   {
-    "title": "Benjamin Šeško poslal sporočilo odpuščenemu trenerju Manchester Uniteda",
-    "link": "https://siol.net/sportal/nogomet/benjamin-sesko-poslal-sporocilo-odpuscenemu-trenerju-manchester-uniteda-706236",
-    "image": "https://siol.net/media/img/78/a5/1e51643cd49909a61d15.jpeg",
-    "date": 1794566700000
    }
   ],
   "24ur": [
@@ -79,6 +79,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Andrew Herman nova okrepitev slovenskega plavanja",
+    "link": "https://www.rtvslo.si/sport/preostali-sporti/andrew-herman-nova-okrepitev-slovenskega-plavanja/800017",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/13/67121460.jpg",
+    "date": 1794569202000
+   },
+   {
     "title": "Ko prostovoljci trenirajo za najtežje trenutke na cesti",
     "link": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/ko-prostovoljci-trenirajo-za-najtezje-trenutke-na-cesti/799397",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/08/67119839.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/crna-kronika/za-sabotazo-zelezniske-infrastrukture-obsojen-na-dve-leti-in-tri-mesece-zapora/800001",
     "image": "https://img.rtvcdn.si/_up/upload/2025/10/23/66988469.jpg",
     "date": 1794564935000
-   },
-   {
-    "title": "Novi siloviti napadi ukrajinske in ruske vojske. Žrtve na obeh straneh.",
-    "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/novi-siloviti-napadi-ukrajinske-in-ruske-vojske-zrtve-na-obeh-straneh/800000",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/13/67121409.jpg",
-    "date": 1794564838000
    }
   ],
   "zurnal": [
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Live: Microsoft struggles to restore services as outage hits global users",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af6f17258af-1794568562.jpg?resize=1920%2C1440",
+    "date": 1794568681000,
+    "titleSl": "V živo: Microsoft se trudi obnoviti storitve, saj je izpad prizadel uporabnike po vsem svetu"
+   },
+   {
     "title": "El Salvador deploys armed robots to fight gangs in Haiti",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567418.jpg?resize=1200%2C675",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316520987093-1794558218.jpg?resize=1920%2C1440",
     "date": 1794564698000,
     "titleSl": "Rusija in Ukrajina poročata o nočnih napadih sredi ameriških diplomatskih prizadevanj"
-   },
-   {
-    "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-    "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2-1794559552.jpg?resize=1500%2C1080",
-    "date": 1794563010000,
-    "titleSl": "Z vsakim deževjem Gaza tvega izgubo dostopa do električne energije in zdravstvenega varstva"
    }
   ],
   "guardian": [
@@ -419,6 +419,20 @@
   ],
   "bild": [
    {
+    "title": "Berliner SPD-Chef Krach - Immunität soll aufgehoben werden!",
+    "link": "https://www.bild.de/politik/berliner-spd-chef-krach-immunitaet-soll-aufgehoben-werden-6af6f1f87f8bbad09ea620b4",
+    "image": "https://images.bild.de/6af6f1f87f8bbad09ea620b4/f57c513d54b61410c21269057a50c98d,10a8885?w=1280",
+    "date": 0,
+    "titleSl": "Prepir vodje berlinske SPD – imuniteto je treba odvzeti!"
+   },
+   {
+    "title": "Kommentar - Was diese Regierung noch zusammenhält",
+    "link": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-was-diese-regierung-noch-zusammenhaelt-6af6333bf484a0aa2239a73c",
+    "image": "https://images.bild.de/6af6333bf484a0aa2239a73c/ed3e37fe459930ec908be1276671a412,92a080bf?w=1280",
+    "date": 0,
+    "titleSl": "Komentar – Kaj še drži to vlado skupaj"
+   },
+   {
     "title": "Sechs Menschen erschossen - Mordanklage gegen Freundin und Helferin des Stade-Killers",
     "link": "https://www.bild.de/regional/niedersachsen/sechsfach-mord-von-stade-anklage-gegen-freundin-und-helferin-6af6c2d59849eea0701e1310",
     "image": "https://images.bild.de/6af6c2d59849eea0701e1310/bf84a821208591921e764889b7c3d4c9,829ff50d?w=1280",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6af65ef85a72dceba1d60d53/973cbd5e6e4f7c698aa1c33f0b1ebed4,d8f77ec?w=1280",
     "date": 0,
     "titleSl": "Že za tekmo z Dortmundom – Blessin razkriva svoj načrt za Kühna"
-   },
-   {
-    "title": "Top-Leistungen in der Bundesliga - Werder-Star träumt von Olympia",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-top-leistungen-in-der-bundesliga-star-traeumt-von-olympia-6af6d7be7f8bbad09ea61db2",
-    "image": "https://images.bild.de/6af6d7be7f8bbad09ea61db2/55febfb4e363bd485f22e85515158fe8,820afaf7?w=1280",
-    "date": 0,
-    "titleSl": "Vrhunske predstave v Bundesligi – zvezdnik Werderja sanja o olimpijskih igrah"
-   },
-   {
-    "title": "Entschieden - BVB kündigt Rheinmetall",
-    "link": "https://www.bild.de/sport/fussball/borussia-dortmund-kuendigt-rheinmetall-6af2ecb942c2bfde5b99186e",
-    "image": "https://images.bild.de/6af2ecb942c2bfde5b99186e/4764db9ed91abcc2ff2ec3343c6dabc3,b5eb05a5?w=1280",
-    "date": 0,
-    "titleSl": "Odločeno – BVB odpoveduje pogodbo z družbo Rheinmetall"
    }
   ],
   "krone": [
@@ -507,18 +507,18 @@
   ],
   "rainews": [
    {
+    "title": "Mosca, esplode auto: ferito ex primo ministro ucraino. Siparietto Zelensky a Meloni sui social",
+    "link": "https://www.rainews.it/maratona/2026/11/guerra-ucraina-abu-dhabi-negoziati-senza-svolte-accordo-prigionieri-giorgetti-firma-decreto-armi-a-kiev-e9354c7a-6760-4df6-bc3d-4386d75fe9f0.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/13/1794563032857_AAAAAAAAAAAAAA.jpg",
+    "date": 1794569040000,
+    "titleSl": "Moskva, eksplozija avtomobila: poškodovan nekdanji ukrajinski premier. Kratka izmenjava med Zelenskim in Meloni na družbenih omrežjih"
+   },
+   {
     "title": "Rousset dirige la Theodora di Händel a Santa Cecilia per l’unica data italiana",
     "link": "https://www.rainews.it/articoli/2026/11/rousset-dirige-la-theodora-di-handel-a-santa-cecilia-per-lunica-data-italiana-742e0f17-1403-4757-9a22-c97ee6384fa9.html",
     "image": "https://www.rainews.it/dl/img/2026/11/13/1794568798321_WhatsApp_Image__at_...jpeg",
     "date": 1794568860000,
     "titleSl": "Rousset bo dirigiral Händlovo opero Teodora v gledališču Santa Cecilia na edini predstavi v Italiji"
-   },
-   {
-    "title": "Mosca, esplode auto: ferito consigliere dell&#x27;ex premier ucraino Azarov. Negoziati Kiev-Mosca",
-    "link": "https://www.rainews.it/maratona/2026/11/guerra-ucraina-abu-dhabi-negoziati-senza-svolte-accordo-prigionieri-giorgetti-firma-decreto-armi-a-kiev-e9354c7a-6760-4df6-bc3d-4386d75fe9f0.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/13/1794563032857_AAAAAAAAAAAAAA.jpg",
-    "date": 1794565920000,
-    "titleSl": "V Moskvi je eksplodiral avtomobil: poškodovan je bil svetovalec nekdanjega ukrajinskega premierja Azarova. Pogajanja med Kijevom in Moskvo"
    },
    {
     "title": "Rapina con kalashnikov nel centro di Parigi: bottino da 1 milione da De Beers",
@@ -551,6 +551,13 @@
   ],
   "lemonde": [
    {
+    "title": "Plus de 50 manifestations attendues samedi lors de l’acte V des mobilisations sociales ; 70 000 policiers et gendarmes devraient être mobilisés",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/13/acte-v-des-mobilisations-sociales-entre-50-et-60-defiles-sur-l-ensemble-du-territoire-national-prevoit-le-ministre-de-l-interieur_6809320_3224.html",
+    "image": "https://img.lemde.fr/2026/11/10/494/0/5919/2959/644/322/60/0/4f5dc74_ftp-1-gfzxcdqmjas1-2026-11-10t195027z-1101204124-rc24loagx7lv-rtrmadp-3-france-protest.JPG",
+    "date": 1794568586000,
+    "titleSl": "V soboto je v okviru petega vala družbenih protestov pričakovati več kot 50 shodov; predvidoma bo razporejenih 70.000 policistov in pripadnikov žandarmerije."
+   },
+   {
     "title": "EN DIRECT, guerre en Ukraine : Kaja Kallas met en garde contre les « pièges » tendus par Moscou",
     "link": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-kaja-kallas-met-en-garde-contre-les-pieges-tendus-par-moscou_6808609_3210.html",
     "image": "https://img.lemde.fr/2026/11/13/475/0/4530/2265/644/322/60/0/aca7c05_ftp-1-eppcfbfvcrsb-2026-11-13t050411z-1304454358-rc2qmoayiatl-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
@@ -561,8 +568,22 @@
     "title": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
     "link": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
     "image": "https://img.lemde.fr/2026/11/12/633/0/7646/3823/644/322/60/0/e0d5813_ftp-1-4211qcg8b03w-2304840770.jpg",
-    "date": 1794566565000,
+    "date": 1794566563000,
     "titleSl": "Kaj vemo o izpadu storitev Outlook in Microsoft 365"
+   },
+   {
+    "title": "Pascale Weeks, autrice culinaire : « Une recette doit être pensée et partagée pour que les gens puissent la réussir »",
+    "link": "https://www.lemonde.fr/le-monde-passe-a-table/article/2026/11/13/pascale-weeks-autrice-culinaire-une-recette-doit-etre-pensee-et-partagee-pour-que-les-gens-puissent-la-reussir_6809311_6082232.html",
+    "image": "https://img.lemde.fr/2026/11/05/450/0/1200/600/644/322/60/0/442ef4d_ftp-1-cakpl842ixbj-450913-3535593.jpg",
+    "date": 1794565808000,
+    "titleSl": "Pascale Weeks, avtorica kulinaričnih receptov: »Recept je treba zasnovati in deliti tako, da ga ljudje lahko uspešno pripravijo.«"
+   },
+   {
+    "title": "A Taïwan, les écarts de Jensen Huang suscitent davantage d’intérêt que les grandes manœuvres navales chinoises",
+    "link": "https://www.lemonde.fr/international/article/2026/11/13/a-taiwan-les-ecarts-de-jensen-huang-suscitent-davantage-d-interet-que-les-grandes-man-uvres-navales-chinoises_6809308_3210.html",
+    "image": "https://img.lemde.fr/2026/11/12/88/0/3024/1512/644/322/60/0/023766a_ftp-1-fqabkjtmeozr-2026-11-12t034400z-1808739074-rc23moaxmn7z-rtrmadp-3-nvidia-probe-ceo.JPG",
+    "date": 1794564013000,
+    "titleSl": "Na Tajvanu izjave Jensna Huanga vzbujajo več zanimanja kot velike kitajske pomorske vaje"
    },
    {
     "title": "Lunettes connectées : la concurrence accrue devrait « pousser les fabricants à redoubler d’efforts en matière de respect de la vie privée »",
@@ -570,27 +591,6 @@
     "image": "https://img.lemde.fr/2026/11/13/762/0/4928/2464/644/322/60/0/8e310d0_upload-1-rp8ucr4h53h9-ap26139696058769.jpg",
     "date": 1794564007000,
     "titleSl": "Pametna očala: povečana konkurenca bi morala »spodbuditi proizvajalce, da še bolj okrepijo prizadevanja na področju varovanja zasebnosti«"
-   },
-   {
-    "title": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plainte en diffamation « très prochainement » contre Marine Tondelier",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html",
-    "image": "https://img.lemde.fr/2026/11/13/460/0/5528/2764/644/322/60/0/9740b97_upload-1-4zplx9hvnr7e-000-d47r7wb.jpg",
-    "date": 1794563073000,
-    "titleSl": "Rasistični napad v Trappesu: Nacionalno združenje napoveduje, da bo »kmalu« vložilo tožbo zaradi obrekovanja proti Marine Tondelier"
-   },
-   {
-    "title": "La SNCF et l’Etat scellent un accord pour moderniser le rail français, le doute subsiste sur son financement",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/13/la-sncf-et-l-etat-scellent-un-accord-pour-moderniser-le-rail-francais-le-doute-subsiste-sur-son-financement_6809303_3234.html",
-    "image": "https://img.lemde.fr/2026/11/04/432/0/5152/2576/644/322/60/0/a8fbad3_ftp-1-fn3lfbllpyyp-2026-11-04t154609z-16986210-rc23hoax2b14-rtrmadp-3-france-protest-strike.JPG",
-    "date": 1794562762000,
-    "titleSl": "Družba SNCF in država sta sklenili sporazum o posodobitvi francoskih železnic, vendar ostajajo dvomi glede njegovega financiranja"
-   },
-   {
-    "title": "Julien Jeanneney, constitutionnaliste : « Là où juges, presse et opposition tiennent bon, l’érosion démocratique peut être freinée »",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/13/julien-jeanneney-constitutionnaliste-la-ou-juges-presse-et-opposition-tiennent-bon-l-erosion-democratique-peut-etre-freinee_6809302_823448.html",
-    "image": "https://img.lemde.fr/2026/11/12/41/0/5280/2640/644/322/60/0/3f6bc2e_upload-1-g1prtltdjllq-000-b9h67r7.jpg",
-    "date": 1794562200000,
-    "titleSl": "Julien Jeanneney, ustavni pravnik: »Kjer sodniki, mediji in opozicija vztrajajo, je mogoče ustaviti propadanje demokracije.«"
    }
   ],
   "elpais": [
