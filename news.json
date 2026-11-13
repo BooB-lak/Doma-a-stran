@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T19:56:22.757Z",
+ "generatedAt": "2026-11-13T19:58:24.862Z",
  "sources": {
   "siol": [
    {
@@ -44,7 +44,13 @@
     "title": "Slovenija v polnem Ljudskem vrtu išče presenečenje proti Švici, 0:0*",
     "link": "https://www.24ur.com/sport/nogomet/ljudski-vrt-v-pricakovanju-slovenske-reprezentance.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/18342dfd37dee45a087b_63679279.jpg?v=ec97&fop=fp:0.46:0.58",
-    "date": 1794599637000
+    "date": 1794599839000
+   },
+   {
+    "title": "Moški sredi dneva pretepel in davil filipinskega delavca",
+    "link": "https://www.24ur.com/novice/slovenija/moski-sredi-noci-davil-filipinskega-delavca-v-delavski-svetovalnici-opozorila.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jul2026/5079abff0d9f86465eff_63624346.jpg?v=dad8&fop=fp:0.30:0.42",
+    "date": 1794599784000
    },
    {
     "title": "Ponekod padle prve snežinke: višje predele Slovenije pobelil sneg",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/novice/slovenija/outlook-teams-in-copilot-nedosegljivi.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/8828d38b0fc0fded73dc_63678691.jpg?v=f9f4&fop=fp:0.48:0.51",
     "date": 1794598650000
-   },
-   {
-    "title": "Je medvedka napadla zaradi mladiča ali pa je bil morda kriv pes?",
-    "link": "https://www.24ur.com/novice/slovenija/je-medvedka-napadla-zaradi-mladica-ali-pa-je-bil-morda-kriv-pes.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/b9b177e6a757260429e9_63679247.jpg?v=221d&fop=fp:0.43:0.38",
-    "date": 1794596878000
    }
   ],
   "rtvslo": [
@@ -208,7 +208,7 @@
    {
     "title": "Sister June Carpenter, the Oldest Shaker, Has Died",
     "link": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00obit-carpenter-zqjl/00obit-carpenter-zqjl-facebookJumbo-v2.jpg",
+    "image": "",
     "date": 1794598024000,
     "titleSl": "Umrla je sestra June Carpenter, najstarejša članica skupnosti Shakerjev"
    },
@@ -551,11 +551,39 @@
   ],
   "lemonde": [
    {
-    "title": "EN DIRECT, France - Afrique du Sud : les Springboks chamboulent leur première ligne juste avant la rencontre, pour surprendre les Bleus",
+    "title": "La Madrague, maison mythique de Brigitte Bardot à Saint-Tropez, ouvrira ses portes au public dès l’été prochain",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/13/la-madrague-maison-mythique-de-brigitte-bardot-a-saint-tropez-ouvrira-ses-portes-au-public-des-l-ete-prochain_6809382_3246.html",
+    "image": "https://img.lemde.fr/2025/12/28/504/0/6048/3024/644/322/60/0/81d3675_ftp-1-4hazhmzf8ot7-5760946-01-06.jpg",
+    "date": 1794599342000,
+    "titleSl": "La Madrague, mitska hiša Brigitte Bardot v Saint-Tropezu, bo prihodnje poletje odprla svoja vrata za javnost."
+   },
+   {
+    "title": "Au Pérou, le pape Léon XIV, de retour dans son ancien diocèse, acclamé par une foule gigantesque de fidèles",
+    "link": "https://www.lemonde.fr/international/article/2026/11/13/au-perou-le-pape-leon-xiv-de-retour-dans-son-ancien-diocese-acclame-par-une-foule-gigantesque-de-fideles_6809380_3210.html",
+    "image": "https://img.lemde.fr/2026/11/13/526/0/8640/4320/644/322/60/0/c3acb98_ftp-1-nxmstpaezwhf-0a6a094322d347f38041da07a493e338-0-9c576620e33f4e318244419d4b5b21f4.jpg",
+    "date": 1794596410000,
+    "titleSl": "V Peruju je papež Leon XIV. ob vrnitvi v svojo nekdanjo škofijo deležen navdušenega sprejema s strani ogromne množice vernikov."
+   },
+   {
+    "title": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html",
+    "image": "https://img.lemde.fr/2026/11/13/922/0/7488/3744/644/322/60/0/5d2ed86_upload-1-6kwihuw97e7p-000-a2jg7gj.jpg",
+    "date": 1794594605000,
+    "titleSl": "Vse, kar morate vedeti o minimalni plači (SMIC), ki jo bo vlada zvišala"
+   },
+   {
+    "title": "EN DIRECT, France - Afrique du Sud : les Bleus au défi des doubles champions du monde",
     "link": "https://www.lemonde.fr/sport/live/2026/11/13/en-direct-france-afrique-du-sud-suivez-le-choc-du-championnat-des-nations-de-rugby_6809376_3242.html",
     "image": "https://img.lemde.fr/2026/11/13/72/0/4750/2375/644/322/60/0/1b93caf_ftp-1-b2bc2ofjulms-afp-d7f32xr.jpg",
     "date": 1794593404000,
-    "titleSl": "V ŽIVO, Francija – Južna Afrika: Springboksi tik pred tekmo premešajo svojo prvo vrsto, da bi presenetili Francoze"
+    "titleSl": "V ŽIVO, Francija – Južna Afrika: Modri se soočajo z dvakratnimi svetovnimi prvaki"
+   },
+   {
+    "title": "Bono et The Edge, de U2 : « La démocratie n’est pas hors course. Le match n’est pas terminé »",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/13/bono-et-the-edge-de-u2-la-democratie-n-est-pas-hors-course-le-match-n-est-pas-termine_6809374_3246.html",
+    "image": "https://img.lemde.fr/2026/11/10/33/0/3500/1750/644/322/60/0/f65b840_upload-1-yevqfg33yisz-photo-u2-2026-photo-credit-michael-schwartz.jpg",
+    "date": 1794592815000,
+    "titleSl": "Bono in The Edge iz skupine U2: »Demokracija ni izločena iz tekme. Le match n’est pas terminé«"
    },
    {
     "title": "La lente dérive terroriste de Kevin Tessier, l’auteur de l’attentat de Trappes, vue par ses proches : « Il s’énervait devant la télé, avec des insultes racistes »",
@@ -563,34 +591,6 @@
     "image": "https://img.lemde.fr/2026/11/13/679/0/2480/1240/644/322/60/0/149e95d_upload-1-ay7oktv3qds4-le-monde-v2.jpg",
     "date": 1794592813000,
     "titleSl": "Počasno drsenje v terorizem Kevina Tessierja, storilca napada v Trappesu, kot ga vidijo njegovi bližnji: »Pred televizijo je postajal razdražen in izrekal rasistične žaljivke.«"
-   },
-   {
-    "title": "La panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques : « On a tous un peu été dans le même bateau que nos clients »",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html",
-    "image": "https://img.lemde.fr/2026/11/13/245/0/3122/1561/644/322/60/0/b2cf6a8_upload-1-zce6safwf4nq-000-d7cu846.jpg",
-    "date": 1794592092000,
-    "titleSl": "Izpad delovanja Microsofta je opozoril podjetja in zaposlene na njihovo odvisnost od digitalnih orodij: »Vsi smo bili v istem čolnu kot naše stranke.«"
-   },
-   {
-    "title": "Le reggae de Dub Inc sur les scènes françaises et les pancartes des manifestations",
-    "link": "https://www.lemonde.fr/culture/article/2026/11/13/le-reggae-de-dub-inc-sur-les-scenes-francaises-et-les-pancartes-des-manifestations_6809367_3246.html",
-    "image": "https://img.lemde.fr/2026/11/10/2489/0/4080/2040/644/322/60/0/e2d9c2f_upload-1-tajqnbp0wgie-dubinc-2022-toine-photocompulsif-1-hd.jpg",
-    "date": 1794591008000,
-    "titleSl": "Reggae skupine Dub Inc na francoskih odrih in transparentih na protestih"
-   },
-   {
-    "title": "Sollicitée par Donald Trump, la Russie jubile à l’idée de peser sur l’architecture de sécurité européenne",
-    "link": "https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html",
-    "image": "https://img.lemde.fr/2026/11/10/552/0/5000/2500/644/322/60/0/899076b_ftp-1-7dh0k9ndn0yb-2026-11-10t090843z-1947322998-rc2xkoa94tre-rtrmadp-3-ukraine-crisis-talks-abu-dhabi.JPG",
-    "date": 1794591006000,
-    "titleSl": "Rusija, ki jo je povabil Donald Trump, se veseli možnosti vplivanja na evropsko varnostno strukturo"
-   },
-   {
-    "title": "Les effets de la hausse du smic sur le marché du travail suscitent des interrogations",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/13/les-effets-de-la-hausse-du-smic-sur-le-marche-du-travail-suscitent-des-interrogations_6809363_823448.html",
-    "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/15f944d_upload-1-r6csypvgv2me-energie-07.png",
-    "date": 1794589471000,
-    "titleSl": "Vprašanja vzbuja vpliv zvišanja minimalne plače na trg dela"
    }
   ],
   "elpais": [
