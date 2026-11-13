@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-13T17:12:22.238Z",
+ "generatedAt": "2026-11-13T17:14:22.313Z",
  "sources": {
   "siol": [
+   {
+    "title": "Peklenski dnevi za Rusijo? Helikopterji padajo z neba, strateški bombniki bežijo.",
+    "link": "https://siol.net/novice/svet/peklenski-dnevi-za-rusijo-helikopterji-padajo-z-neba-strateski-bombniki-bezijo-706225",
+    "image": "https://siol.net/media/img/c2/3a/3f296b2942dc65bdeae2.jpeg",
+    "date": 1794589920000
+   },
    {
     "title": "Kitajska odobrila prvo tableto za hujšanje",
     "link": "https://siol.net/novice/svet/kitajska-odobrila-prvo-tableto-za-hujsanje-706265",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/novice/slovenija/ljubljana-bo-prva-v-evropi-preizkusila-baterijski-tramvaj-sprejme-250-potnikov-vozi-brez-tirnic-foto-706262",
     "image": "https://siol.net/media/img/bb/5f/ba75fc6cc7d7a1e59e0c.jpeg",
     "date": 1794586380000
-   },
-   {
-    "title": "Pogačar dobil jasno sporočilo velikega tekmeca: \"Želim oba naslova!\"",
-    "link": "https://siol.net/sportal/kolesarstvo/pogacar-dobil-jasno-sporocilo-velikega-tekmeca-zelim-oba-naslova-706260",
-    "image": "https://siol.net/media/img/41/dc/8ffeca7ad8236006c506.jpeg",
-    "date": 1794585600000
    }
   ],
   "24ur": [
@@ -85,6 +85,12 @@
     "date": 1794589861000
    },
    {
+    "title": "Sinner še daleč od vrnitve na teniška igrišča",
+    "link": "https://www.rtvslo.si/sport/tenis/sinner-se-dalec-od-vrnitve-na-teniska-igrisca/800069",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/06/29/67057075.jpg",
+    "date": 1794589700000
+   },
+   {
     "title": "Francoska akademija nagrajuje Nicole Kidman, igralko, ki se ne prestraši brezkompromisnih vlog",
     "link": "https://www.rtvslo.si/kultura/film-in-tv/francoska-akademija-nagrajuje-nicole-kidman-igralko-ki-se-ne-prestrasi-brezkompromisnih-vlog/800064",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/13/67121557.jpg",
@@ -107,12 +113,6 @@
     "link": "https://www.rtvslo.si/gospodarstvo/britanski-nizkocenovnik-easyjet-ob-prevzemu-adrie-tehnike-napoveduje-nove-nalozbe/800060",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/13/67121551.jpg",
     "date": 1794586733000
-   },
-   {
-    "title": "Trump naj bi razmislil o vojaškem napadu na Kubo pred koncem svojega predsednikovanja",
-    "link": "https://www.rtvslo.si/svet/s-in-j-amerika/trump-naj-bi-razmislil-o-vojaskem-napadu-na-kubo-pred-koncem-svojega-predsednikovanja/800063",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/13/67121554.jpg",
-    "date": 1794585826000
    }
   ],
   "zurnal": [
@@ -243,6 +243,13 @@
   ],
   "bbc": [
    {
+    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+    "date": 1794589966000,
+    "titleSl": "Zakaj izpad storitev družbe Microsoft traja tako dolgo in ali bodo e-poštna sporočila izgubljena?"
+   },
+   {
     "title": "Police investigating David Walliams over reports alleging serious sexual offences",
     "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f8/live/38cb0fd0-df13-11f0-8db4-97f4d263443d.jpg",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cec/live/f72f4470-df6f-11f1-8112-6b9154c79b48.jpg",
     "date": 1794584970000,
     "titleSl": "Morski psi, lestve in štiriletni načrt – kako je Anglija zmagala na svetovnem prvenstvu"
-   },
-   {
-    "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-    "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece6/live/20d43a70-df60-11f1-a701-fddedf244c16.jpg",
-    "date": 1794584688000,
-    "titleSl": "Sodišča, vohuni in poslanci: Kako se je izpad delovanja Microsofta odrazil po vsem svetu"
    }
   ],
   "aljazeera": [
@@ -334,7 +334,7 @@
     "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
     "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189",
-    "date": 1794589400000,
+    "date": 1794588422000,
     "titleSl": "Scott Bessent očita ministrstvu za trgovino zamudo pri uvrstitvi kitajskega podjetja za obdelavo podatkov na črni seznam – ameriška politika v živo"
    },
    {
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Ulf Poschardt über die Auto-Zukunft - „Ich bin ein Kulturkämpfer gegen das Verbrennerverbot“",
+    "link": "https://www.bild.de/leben-wissen/auto/ich-bin-ein-kulturkaempfer-gegen-das-verbrennerverbot-6af7379827adfb0b7bb2d6ae",
+    "image": "https://images.bild.de/6af7379827adfb0b7bb2d6ae/dcaa3751ece73379a190cd5b58da65a3-landscape,ca7b01be?w=1280",
+    "date": 0,
+    "titleSl": "Ulf Poschardt o prihodnosti avtomobilizma – »Sem borec za kulturo, ki nasprotuje prepovedi motorjev z notranjim zgorevanjem.«"
+   },
+   {
     "title": "Jahrzehnte versunken - Polizei findet geheimnisvollen BMW-Oldtimer",
     "link": "https://www.bild.de/regional/baden-wuerttemberg/jahrzehnte-versunken-polizei-findet-geheimnisvollen-bmw-oldtimer-6af6e7669849eea0701e164d",
     "image": "https://images.bild.de/6af6e7669849eea0701e164d/4676ac832e28c4efddec8dba2f7724d2,bb05af30?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af6cc417f8bbad09ea61ca4/a3b3a8748d1cb40144271c47d4df973e,5a691e16?w=1280",
     "date": 0,
     "titleSl": "Eminemov kultni tovornjak »Mom's Spaghetti« – Rapovski superzvezdnik nenadoma prodaja testenine v Münchnu"
-   },
-   {
-    "title": "„Fühle mich mit Text nicht mehr wohl“ - Mickie Krause distanziert sich von „Friseusen“-Hit",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/ballermann-mickie-krause-distanziert-sich-von-hit-10-nackte-friseusen-6af704219849eea0701e1967",
-    "image": "https://images.bild.de/6af704219849eea0701e1967/891973711425a29d5897f04edeef0f2e,96ed39?w=1280",
-    "date": 0,
-    "titleSl": "»Z besedilom se ne počutim več dobro« – Mickie Krause se distancira od hita »Friseusen«"
    }
   ],
   "krone": [
@@ -468,6 +468,13 @@
     "image": "",
     "date": 1794589680000,
     "titleSl": "Neverjetno dejanje – streljanje na igrišču: 21-letnik »se je želel zabavati«"
+   },
+   {
+    "title": "Deutsche berichten: - Ehe-Aus bei Bayern-Star Manuel Neuer",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzM05scTdScWFFaDNoaWNnRjJoX1ZCcHVFYk91VXNsSVE1ODVJRndaMUIwcFJQSXVuTlVLaGxaX2w5dw?oc=5",
+    "image": "",
+    "date": 1794589200000,
+    "titleSl": "Nemški mediji poročajo: – Konec zakonske zveze zvezdnika Bayerna Manuela Neuerja"
    },
    {
     "title": "„Wir geben den Kampf um unsere Tiere nicht auf!“",
@@ -496,13 +503,6 @@
     "image": "",
     "date": 1794589200000,
     "titleSl": "»Bolni kravi je bolje kot bolni kmetici.«"
-   },
-   {
-    "title": "115 Jobs stark bedroht - Sägewerk-Kahlschlag: Erste Kritik und Schockstarre",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPX01LU3hxc3ctazdoRzZ1S2cwbnZhY1FKWE9tQW83S0hfQjNoeEtQRVM3VE1tZ0dwOTJJNHMzaXZCdw?oc=5",
-    "image": "",
-    "date": 1794589200000,
-    "titleSl": "115 delovnih mest je resno ogroženih – zaprtje žage: prve kritike in šok"
    }
   ],
   "rainews": [
