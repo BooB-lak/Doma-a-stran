@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T21:54:24.294Z",
+ "generatedAt": "2026-11-13T21:56:25.173Z",
  "sources": {
   "siol": [
    {
@@ -201,7 +201,7 @@
    {
     "title": "Search and Rescue Underway in New Orleans After Cargo Ship Crashes Into Riverboat",
     "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/arts/thumb/thumb-facebookJumbo.jpg",
+    "image": "",
     "date": 1794606528000,
     "titleSl": "V New Orleansu poteka iskalna in reševalna akcija po trčenju tovorne ladje v rečno ladjo"
    },
@@ -229,14 +229,14 @@
    {
     "title": "Inquiry Into Brooklyn Building Collapse Expands as Families Demand Answers",
     "link": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/13vid-bk-building-collapse-51152-cover/13vid-bk-building-collapse-51152-cover-facebookJumbo-v2.jpg",
+    "image": "",
     "date": 1794600938000,
     "titleSl": "Preiskava zrušenja stavbe v Brooklynu se širi, saj družine zahtevajo odgovore"
    },
    {
     "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
     "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/arts/RV_Thumbnail-25/RV_Thumbnail-25--facebookJumbo.png?play-overlay",
+    "image": "",
     "date": 1794600845000,
     "titleSl": "Zakaj je bil Jensen Huang ključnega pomena za vzpon podjetja Nvidia"
    }
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "US grounds all flights after ‘communication issue’",
+    "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af78164-1794605412.jpg?resize=1920%2C1440",
+    "date": 1794605528000,
+    "titleSl": "ZDA so zaradi »težav s komunikacijo« začasno ustavile vse lete"
+   },
+   {
     "title": "Pope Leo cheered on return to Peru city where he served as bishop",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794603121.jpg?resize=1920%2C1080&quality=80",
@@ -320,29 +327,29 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af75898-1794594968.jpg?resize=1920%2C1440",
     "date": 1794601089000,
     "titleSl": "Nekdanjemu predsedniku Paragvaja Peñi grozi nova obtožba zaradi propada banke Ueno"
-   },
-   {
-    "title": "Microsoft says services still returning amid widespread outage",
-    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af73d29-1794587945.jpg?resize=1920%2C1440",
-    "date": 1794600973000,
-    "titleSl": "Microsoft pravi, da se storitve še vedno obnavljajo kljub razširjenim izpadom"
    }
   ],
   "guardian": [
+   {
+    "title": "FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights",
+    "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+    "image": "https://i.guim.co.uk/img/media/00dec276feaa13633c2f6979640250c2d33b3997/1281_1265_5301_4240/master/5301.jpg?width=140&quality=85&auto=format&fit=max&s=ba1ed9538fc1d843221a35ac6858be5a",
+    "date": 1794606288000,
+    "titleSl": "FAA je izdal nacionalni ukaz o prepovedi vzletov, zaradi česar je prišlo do zamude ali odpovedi skoraj 7.000 letov."
+   },
+   {
+    "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+    "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3",
+    "date": 1794606248000,
+    "titleSl": "Po besedah ministra za promet so zaradi »težav s komunikacijo« v sistemu kontrole zračnega prometa leti na vseh letališčih v ZDA prizemljeni – v živo"
+   },
    {
     "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
     "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
     "image": "https://i.guim.co.uk/img/media/d24ecfe085b5748a596ec8152c77a991779dc686/572_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=2fa830b4b6a80cafec41c4f31bf8de1b",
     "date": 1794605683000,
     "titleSl": "Raziskovalni inštitut meni, da je treba odstraniti grdo navlako, da bi oživili glavne ulice v Združenem kraljestvu"
-   },
-   {
-    "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-    "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3",
-    "date": 1794605671000,
-    "titleSl": "Po besedah ministra za promet so zaradi »težav s komunikacijo« v sistemu kontrole zračnega prometa leti na vseh letališčih v ZDA prizemljeni – v živo"
    },
    {
     "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
@@ -364,13 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
     "date": 1794604446000,
     "titleSl": "Tanker trči v križarko na reki Mississippi v New Orleansu"
-   },
-   {
-    "title": "Microsoft outage shakes up companies, schools and local governments across US",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-    "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
-    "date": 1794604439000,
-    "titleSl": "Izpad delovanja sistema Microsoft je pretresel podjetja, šole in lokalne uprave po vseh ZDA"
    }
   ],
   "spiegel": [
