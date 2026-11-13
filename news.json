@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T10:50:36.936Z",
+ "generatedAt": "2026-11-13T10:52:24.361Z",
  "sources": {
   "siol": [
    {
@@ -229,7 +229,7 @@
    {
     "title": "Seth Meyers Is Excited by Scott Colom’s Historic Win in Mississippi",
     "link": "https://www.nytimes.com/2026/11/13/arts/television/late-night-seth-meyers-scott-colom.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/arts/13latenight/13latenight-facebookJumbo.jpg",
+    "image": "",
     "date": 1794554424000,
     "titleSl": "Seth Meyers je navdušen nad zgodovinsko zmago Scotta Coloma v Mississippiju"
    },
@@ -242,6 +242,13 @@
    }
   ],
   "bbc": [
+   {
+    "title": "Water firm pleads guilty after four killed in blast",
+    "link": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/305e/live/4854ecc0-de93-11f1-93e1-3b657b665bcf.jpg",
+    "date": 1794566640000,
+    "titleSl": "Podjetje za oskrbo z vodo je priznalo krivdo po eksploziji, v kateri so umrle štiri osebe"
+   },
    {
     "title": "Piddington to bring legal challenge over asylum base plans",
     "link": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss",
@@ -276,13 +283,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg",
     "date": 1794563701000,
     "titleSl": "Fernandes zavrača drugo ponudbo za pogodbo s strani Man Utdja"
-   },
-   {
-    "title": "England thrashed by Australia in first one day international",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9e/live/9e5c94f0-df3e-11f1-a48c-75dd2efdacb5.jpg",
-    "date": 1794562294000,
-    "titleSl": "Avstralija je v prvi enodnevni mednarodni tekmi premagala Anglijo"
    }
   ],
   "aljazeera": [
@@ -331,13 +331,6 @@
   ],
   "guardian": [
    {
-    "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9",
-    "date": 1794566131000,
-    "titleSl": "Voditelji se sestanejo v Dublinu v času iskanja glavnega pogajalca EU za mirovna pogajanja z Rusijo – Evropa v živo"
-   },
-   {
     "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316",
@@ -357,6 +350,13 @@
     "image": "https://i.guim.co.uk/img/media/323c32993821d256fab890df565491d603ec4a0e/263_0_4265_3413/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=df3331e4c669e5fe2eabf0c95e4977db",
     "date": 1794564699000,
     "titleSl": "Izpad delovanja sistema Microsoft je prizadel bolnišnice, splošne zdravnike, šole in policijo po vsej Veliki Britaniji"
+   },
+   {
+    "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9",
+    "date": 1794564438000,
+    "titleSl": "Voditelji se sestanejo v Dublinu v času iskanja glavnega pogajalca EU za mirovna pogajanja z Rusijo – Evropa v živo"
    },
    {
     "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
@@ -419,18 +419,25 @@
   ],
   "bild": [
    {
-    "title": "Ganz Werder kämpft - Bekommt Fritz dank Füllkrug einen neuen Vertrag?",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-kaempft-bekommt-clemens-fritz-dank-niclas-fuellkrug-einen-neuen-vertrag-6af6d72f9849eea0701e1484",
-    "image": "https://images.bild.de/6af6d72f9849eea0701e1484/b03326b746c5c3ef5cc38f10af81b858,f17b7e59?w=1280",
-    "date": 0,
-    "titleSl": "Celotni Werder se bori – bo Fritz zaradi Füllkruga dobil novo pogodbo?"
-   },
-   {
     "title": "Entschieden - BVB kündigt Rheinmetall",
     "link": "https://www.bild.de/sport/fussball/borussia-dortmund-kuendigt-rheinmetall-6af2ecb942c2bfde5b99186e",
     "image": "https://images.bild.de/6af2ecb942c2bfde5b99186e/4764db9ed91abcc2ff2ec3343c6dabc3,b5eb05a5?w=1280",
     "date": 0,
     "titleSl": "Odločeno – BVB odpoveduje pogodbo z družbo Rheinmetall"
+   },
+   {
+    "title": "Starship Flug 15 - SpaceX plant heute historischen Fangversuch",
+    "link": "https://www.bild.de/news/ausland/starship-flug-15-spacex-plant-heute-historischen-fangversuch-6af0917b1125adfe9365cb2f",
+    "image": "https://images.bild.de/6af0917b1125adfe9365cb2f/83888694eb282a91f59a336666f51667,fb48819e?w=1280",
+    "date": 0,
+    "titleSl": "Let vesoljskega plovila Starship 15 – SpaceX danes načrtuje zgodovinski poskus ulova"
+   },
+   {
+    "title": "Ganz Werder kämpft - Bekommt Fritz dank Füllkrug einen neuen Vertrag?",
+    "link": "https://www.bild.de/sport/fussball/werder-bremen-kaempft-bekommt-clemens-fritz-dank-niclas-fuellkrug-einen-neuen-vertrag-6af6d72f9849eea0701e1484",
+    "image": "https://images.bild.de/6af6d72f9849eea0701e1484/b03326b746c5c3ef5cc38f10af81b858,f17b7e59?w=1280",
+    "date": 0,
+    "titleSl": "Celotni Werder se bori – bo Fritz zaradi Füllkruga dobil novo pogodbo?"
    },
    {
     "title": "Nach Diskussionen über Podcast - Mark Keller äußert sich zum „Verwelkt“-Zoff",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af5e0f95596369bf0edd782/8554b363a6ee0a290118dfc9dfde9287,a0ee641d?w=1280",
     "date": 0,
     "titleSl": "Izkušeni branilec se je končno vrnil – Heintz je bil resno poškodovan"
-   },
-   {
-    "title": "Kate über ihre Krebserkrankung - „Sie sagten, es wird gute und schlechte Tage geben“",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/kate-spricht-ueber-ihren-krebs-und-die-zeit-im-krankenhaus-6af6cdd25a72dceba1d6118f",
-    "image": "https://images.bild.de/6af6cdd25a72dceba1d6118f/c02eb774dffa0965cbd79b54a88f04af,f5d2f0a7?w=1280",
-    "date": 0,
-    "titleSl": "Kate o svoji bolezni – »Rekli so, da bodo dobri in slabi dnevi«"
    }
   ],
   "krone": [
@@ -468,13 +468,6 @@
     "image": "",
     "date": 1794566820000,
     "titleSl": "Celo princ čestita – zgodovinsko! Cela država praznuje »nogometne viteze«"
-   },
-   {
-    "title": "Skandal um Affären - Ex-Nvidia-Chef Huang: „Bin ein Stück Sch****!“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iSncxOGs0ZGZYSkhjQXBHU0ZiSlhWZlVrNlpBRnYwQ3dXOXdNU3U0TlNybHZyUzljUEQ0VzVuVnUyQQ?oc=5",
-    "image": "",
-    "date": 1794566700000,
-    "titleSl": "Škandal zaradi afer – nekdanji direktor podjetja Nvidia Huang: »Sem kos s****!«"
    },
    {
     "title": "Temperaturen sinken - Schnee im Anmarsch: Jetzt wird es ungemütlich",
@@ -503,6 +496,13 @@
     "image": "",
     "date": 1794565560000,
     "titleSl": "Iskanje se bliža koncu – Pattinson ali Turner kot agent 007? To pravi Villeneuve"
+   },
+   {
+    "title": "Von USA verwaltet - Venezuela erhält 12 Mrd. Dollar aus Ölgeschäften",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZdFpKOGN2SkN5dWV6RVhNRHc0WllQMjlOTTk0bWZvOGwxSHFBdUZnLW1hMjVjODVJejFVMGVnWWVPZw?oc=5",
+    "image": "",
+    "date": 1794565500000,
+    "titleSl": "Pod upravljanjem ZDA – Venezuela prejme 12 milijard dolarjev iz naftnih poslov"
    }
   ],
   "rainews": [
