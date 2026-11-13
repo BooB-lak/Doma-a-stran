@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-13T15:06:27.930Z",
+ "generatedAt": "2026-11-13T15:08:24.049Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zaradi neprijavljenih alergenov odpoklic dveh kozmetičnih krem",
+    "link": "https://siol.net/novice/slovenija/zaradi-neprijavljenih-alergenov-odpoklic-dveh-kozmeticnih-krem-706259",
+    "image": "https://siol.net/media/img/0b/f9/ba457f1b0d0aff0eca08.jpeg",
+    "date": 1794582420000
+   },
    {
     "title": "Ostre besede zaradi neprebranega poročila #video",
     "link": "https://siol.net/novice/slovenija/ostre-besede-zaradi-neprebranega-porocila-video-706232",
@@ -31,12 +37,6 @@
     "link": "https://siol.net/sportal/nogomet/jana-oblaka-v-mariboru-sokiral-s-spektakularnimi-skarjicami-706256",
     "image": "https://siol.net/media/img/9c/f0/0c0c2d012c19a2628786.jpeg",
     "date": 1794579660000
-   },
-   {
-    "title": "Nenavadna napaka jo bo drago stala: skoraj dve leti brez atletskih tekmovanj",
-    "link": "https://siol.net/sportal/atletika/nenavadna-napaka-jo-bo-drago-stala-skoraj-dve-leti-brez-atletskih-tekmovanj-706255",
-    "image": "https://siol.net/media/img/94/f1/1c0497a4ed82b2494a0d.jpeg",
-    "date": 1794579180000
    }
   ],
   "24ur": [
@@ -44,7 +44,7 @@
     "title": "Predsednik Fiskalnega sveta mora v dveh tednih vrniti službeno stanovanje",
     "link": "https://www.24ur.com/novice/slovenija/predsednik-fiskalnega-sveta-mora-v-dveh-tednih-vrniti-sluzbeno-stanovanje.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/b4e9cc3360f95b3296a0_63679107.jpg?v=8aa2&fop=fp:0.58:0.33",
-    "date": 1794582327000
+    "date": 1794582417000
    },
    {
     "title": "Do Renč je mogoče priti le prek Krasa, zrušil se je zid na gradu Kromberk",
@@ -375,6 +375,13 @@
   ],
   "spiegel": [
    {
+    "title": "Angela Merkel würde heute für die »Ehe für alle« stimmen",
+    "link": "https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a12da707-6ea9-4ef4-9d6c-87b2b08fa406_w520_r2.08_fpx33.25_fpy49.88.jpg",
+    "date": 1794582180000,
+    "titleSl": "Angela Merkel bi danes glasovala za »zakonsko zvezo za vse«"
+   },
+   {
     "title": "Kitschkrieg kritisieren 1Live scharf – Sender wehrt sich",
     "link": "https://www.spiegel.de/kultur/musik/kitschkrieg-kritisieren-1live-scharf-sender-wehrt-sich-a-4836f0d2-2d14-44c5-8586-21bd76aeaadc#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/ecd4e873-2d7c-49f7-8142-fcdbb8cc064f_w520_r2.08_fpx53_fpy53.jpg",
@@ -408,16 +415,23 @@
     "image": "https://cdn.prod.www.spiegel.de/images/98cafe7f-9c20-4a90-8d48-d082a7449325_w520_r2.08_fpx63.32_fpy52.98.jpg",
     "date": 1794576540000,
     "titleSl": "Trg dela: Zakaj mladi zaposleni še posebej občutijo posledice umetne inteligence"
-   },
-   {
-    "title": "Ukraine-Verhandlungen: Deutschland laut Friedrich Merz bei nächsten Gesprächen »gesetzt«",
-    "link": "https://www.spiegel.de/politik/ukraine-verhandlungen-deutschland-laut-friedrich-merz-bei-naechsten-gespraechen-gesetzt-a-846f2c06-57be-4740-9452-b750a51456a2#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ab4badfb-6e2b-4f46-87dc-ca750aa78b86_w520_r2.08_fpx61_fpy49.jpg",
-    "date": 1794576360000,
-    "titleSl": "Pogajanja o Ukrajini: Po besedah Friedricha Merza bo Nemčija »v igri« na naslednjih pogovorih"
    }
   ],
   "bild": [
+   {
+    "title": "Die Rinder sind in Nordmazedonien los - Mehr als 1000 Kühe terrorisieren Kleinstadt",
+    "link": "https://www.bild.de/news/kriva-palanka-1-000-rinder-sorgen-fuer-chaos-6af6d18b559aca3d9f99284a",
+    "image": "https://images.bild.de/6af6d18b559aca3d9f99284a/9c7ac8f280df95ee3043c3de5fdb2489,b5e1ca8?w=1280",
+    "date": 0,
+    "titleSl": "Govedo je na prostosti v Severni Makedoniji – več kot 1000 krav terorizira majhno mesto"
+   },
+   {
+    "title": "Bluttat nach Café-Streit in Mannheim - Ein Toter, dann fällt ein Polizeischuss",
+    "link": "https://www.bild.de/news/ausland/schuesse-in-mannheim-ein-toter-und-ein-verletzter-6af57f0ad2f851d14ad004a0",
+    "image": "https://images.bild.de/6af57f0ad2f851d14ad004a0/d504f61ccc1d77f7d25c814df2ee70b5,75f8e50b?w=1280",
+    "date": 0,
+    "titleSl": "Krvav zločin po prepiru v kavarni v Mannheimu – ena smrtna žrtev, nato pa še policijski strel"
+   },
    {
     "title": "Hätte er längst im Knast sitzen müssen? - Lisas mutmaßlicher Killer floh schon vor der Polizei",
     "link": "https://www.bild.de/regional/berlin/lisas-moerder-baute-vor-einem-jahr-unfall-und-hatte-waffen-dabei-6af49310e22aeb94814203c8",
@@ -445,20 +459,6 @@
     "image": "https://images.bild.de/6af70a0184c7128d8f27e419/5472a1a10aeb4a9fc4caea71e736f21c,15ab3e91?w=1280",
     "date": 0,
     "titleSl": "Do 56 odstotkov več! – Pošiljke in paketi bodo dražji"
-   },
-   {
-    "title": "Russell Brands Ex-Freundin in neuer Doku - Ich musste Zähne putzen, bis sie bluteten",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/russell-brands-ex-freundin-in-neuer-doku-ich-musste-zaehne-putzen-bis-sie-bluteten-6af6fdd384c7128d8f27e29f",
-    "image": "https://images.bild.de/6af6fdd384c7128d8f27e29f/99e003fa48609b74926f3a1374674aee,fde85fc1?w=1280",
-    "date": 0,
-    "titleSl": "Nekdanja deklica Russlla Brandsa v novem dokumentarnem filmu – Morala sem si umivati zobe, dokler niso začeli krvaveti"
-   },
-   {
-    "title": "Eintracht-Trainer exklusiv - Hütter deutet Wechsel von Frankfurt-Star an",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-huetter-deutet-wechsel-von-bundesliga-star-an-6af6f1dd5a72dceba1d61563",
-    "image": "https://images.bild.de/6af6f1dd5a72dceba1d61563/c949ac2e3f75710ce9cabeec9af73cf2,f3b4c3?w=1280",
-    "date": 0,
-    "titleSl": "Ekskluzivno za trenerja Eintrachta – Hütter namiguje na prestop zvezdnika iz Frankfurta"
    }
   ],
   "krone": [
