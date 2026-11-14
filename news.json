@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T21:56:24.184Z",
+ "generatedAt": "2026-11-14T21:58:23.261Z",
  "sources": {
   "siol": [
    {
@@ -208,7 +208,7 @@
    {
     "title": "When Disaster Hit Next Door in Flatbush",
     "link": "https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/lens/13met-building-ticktock2-top-01/13met-building-ticktock2-top-01-facebookJumbo.jpg",
+    "image": "",
     "date": 1794690351000,
     "titleSl": "Ko je naravna nesreča prizadela sosede v Flatbushu"
    },
@@ -236,7 +236,7 @@
    {
     "title": "In the Rubble of a Fallen Building, He Rescued a 2-Year-Old",
     "link": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/nyregion/14met-building-worker/14met-building-worker-facebookJumbo-v4.jpg",
+    "image": "",
     "date": 1794684257000,
     "titleSl": "Iz ruševin porušene stavbe je rešil 2-letnega otroka"
    }
@@ -287,6 +287,13 @@
   ],
   "aljazeera": [
    {
+    "title": "US flights resume after ageing technology blamed for outage",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794692170.jpg?resize=1920%2C1080&quality=80",
+    "date": 1794692179000,
+    "titleSl": "Leti v ZDA se nadaljujejo po tem, ko je bila za izpad kriva zastarela tehnologija"
+   },
+   {
     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=1920%2C1440",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8b0272660-1794682919.jpg?resize=1920%2C1440",
     "date": 1794685584000,
     "titleSl": "Več kot 100.000 ljudi se je udeležilo novih protestov rumenih jopičev po vsej Franciji"
-   },
-   {
-    "title": "Tens of thousands march in latest Portugal housing protests",
-    "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8a8f765ab-1794681079.jpg?resize=1920%2C1440",
-    "date": 1794684475000,
-    "titleSl": "Na zadnjih protestih zaradi stanovanjske problematike na Portugalskem je sodelovalo več deset tisoč ljudi"
    }
   ],
   "guardian": [
@@ -419,6 +419,27 @@
   ],
   "bild": [
    {
+    "title": "Tödlicher Unfall in Berlin - Bus überrollt Kind auf Fahrrad",
+    "link": "https://www.bild.de/regional/berlin/toedlicher-unfall-in-berlin-bus-ueberrollt-kind-auf-fahrrad-6af896949849eea0701e2ecf",
+    "image": "https://images.bild.de/6af896949849eea0701e2ecf/3ee635f0c0a0958b55c722b0143e4557,5389f899?w=1280",
+    "date": 0,
+    "titleSl": "Smrtna nesreča v Berlinu – avtobus je povozil otroka na kolesu"
+   },
+   {
+    "title": "Bewerbung des Ex-Arbeitsministers - Angriff auf Klingbeil! Heil will SPD-Chef werden",
+    "link": "https://www.bild.de/politik/inland/exklusiv-bewerbung-des-ex-arbeitsministers-angriff-auf-klingbeil-heil-will-spd-chef-werden-6af861e0389d31d8c8a80498",
+    "image": "https://images.bild.de/6af861e0389d31d8c8a80498/feb695e48c01c1d2d2833d773551af87,83cd30a8?w=1280",
+    "date": 0,
+    "titleSl": "Kandidatura nekdanjega ministra za delo – napad na Klingbeila! Heil želi postati vodja SPD"
+   },
+   {
+    "title": "Fußball-Legende reanimierte Opfer - Mario Basler rettet Unfallfahrer das Leben",
+    "link": "https://www.bild.de/regional/rheinland-pfalz/mario-basler-rettet-unfallfahrer-das-leben-fussball-legende-reanimierte-opfer-6af8d1e7395fd5dc547365c6",
+    "image": "https://images.bild.de/6af8d1e7395fd5dc547365c6/66dd8a8ff094c098f70db7f5d4ca1843,a7698be9?w=1280",
+    "date": 0,
+    "titleSl": "Nogometna legenda oživila žrtev – Mario Basler rešil življenje vozniku, ki je povzročil prometno nesrečo"
+   },
+   {
     "title": "Riesen-Rakete erstmals wieder aufgefangen - Elon Musk schreibt Weltraumgeschichte",
     "link": "https://www.bild.de/news/riesen-rakete-erstmals-wieder-aufgefangen-elon-musk-schreibt-weltraumgeschichte-6af8d2d94495f9bd85b8042b",
     "image": "https://images.bild.de/6af8d2d94495f9bd85b8042b/c02352771d84099916057c8b4f5860d9,b0e80f11?w=1280",
@@ -438,37 +459,9 @@
     "image": "https://images.bild.de/6af82ae44495f9bd85b7f9d6/0e51be2dc95808e32a7521c731a26267,1b71c41e?w=1280",
     "date": 0,
     "titleSl": "Oboževalci se borijo za serijo na kanalu Sat.1 – nizka gledanost! Televizijska postaja ukine serijo »Die Landarztpraxis«"
-   },
-   {
-    "title": "Im ersten Spiel nach Ronaldo - Heftige Portugal-Abreibung",
-    "link": "https://www.bild.de/sport/fussball/im-ersten-spiel-nach-ronaldo-heftige-portugal-abreibung-6af8b7451953ef0a312a3fa4",
-    "image": "https://images.bild.de/6af8b7451953ef0a312a3fa4/f7bbcf6a7ef13770a36b9eb59e321273,a8ad2e13?w=1280",
-    "date": 0,
-    "titleSl": "Prva tekma po odhodu Ronalda – huda pretepačina s Portugalsko"
-   },
-   {
-    "title": "Englischer Medienbericht - Guardiola verhandelt nächste Woche mit Nationalteam",
-    "link": "https://www.bild.de/sport/fussball/guardiola-verhandelt-naechste-woche-mit-nationalteam-6af8ccb34495f9bd85b803f2",
-    "image": "https://images.bild.de/6af8ccb34495f9bd85b803f2/61c70d9beb3f402e556c050ba5514ae3,4752e84a?w=1280",
-    "date": 0,
-    "titleSl": "Angleško medijsko poročilo – Guardiola bo prihodnji teden opravil pogajanja z reprezentanco"
-   },
-   {
-    "title": "„Creepshots“ in Gruppen-Chat entdeckt - Männer teilen über 13.000 illegale Fotos von Frauen",
-    "link": "https://www.bild.de/news/ausland/in-whatsapp-chat-maenner-teilen-13-000-heimlich-aufgenommene-fotos-von-frauen-6af8babe4495f9bd85b80345",
-    "image": "https://images.bild.de/6af8babe4495f9bd85b80345/e8846ca73dca0d6af84d3b18189e9828,adf57e07?w=1280",
-    "date": 0,
-    "titleSl": "V skupinskem klepetu so odkrili »skrite fotografije« – moški so si izmenjali več kot 13.000 nezakonitih fotografij žensk"
    }
   ],
   "krone": [
-   {
-    "title": "Über 5400 Fälle heuer - Mehrere Ausbrüche: USA nicht mehr masernfrei",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Ga0hrRWhkeU85czRRNEJlT2VmQldJNXRST2NORDN6ZGprblVrWE5ITkJEZmxoclpBbE10U2dIbkZlZw?oc=5",
-    "image": "",
-    "date": 1794692760000,
-    "titleSl": "Letos več kot 5400 primerov – Več izbruhov: ZDA niso več proste ošpic"
-   },
    {
     "title": "GUTEN MORGEN - Novemberstimmung | Novemberpolitik | krone.at",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oUkFQQ2JMTTlra2dHWFJoY25ISEUzVGN1NHJ4QnBiY1RHMktkQ1lKUS15b3JVcVNEOXVydXo2RkFUQQ?oc=5",
@@ -503,6 +496,13 @@
     "image": "",
     "date": 1794691200000,
     "titleSl": "Liga narodov – V ŽIVO: 4:0! Danska je premagala Portugalsko"
+   },
+   {
+    "title": "Dobratsch-Nachtflug - Bundesheer-Einsatz auf über 1700 Meter Seehöhe",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HNGdtM1NOeFZ4QVVRYnk1bzRuNlNXQVh6cE5EdFFXOUUtOHFmRktJZ3JuUzZ4dURqN3BNdU1lMGVxUQ?oc=5",
+    "image": "",
+    "date": 1794690211000,
+    "titleSl": "Nočni let na Dobraču – intervencija avstrijske vojske na nadmorski višini več kot 1700 metrov"
    }
   ],
   "rainews": [
