@@ -1880,12 +1880,39 @@ body.settings-open .dashboard-layout{
 }
 
 /* ---------- TRIDNEVNI KOLEDAR ---------- */
-.day-strip{
+.day-strip,
+.day-strip-frame,
+.day-strip-cards{
   display:grid;
   grid-template-columns:repeat(3,minmax(0,1fr));
   gap:6px;
-  margin-bottom:12px;
 }
+.day-strip{
+  position:relative;
+  margin-bottom:18px;
+}
+
+/* Polna višina izhaja iz skritega okenca z obema dolgima imenoma. */
+.day-box-measure{
+  grid-area:1 / 1;
+  visibility:hidden;
+  pointer-events:none;
+}
+.day-strip-frame{
+  position:absolute;
+  inset:0 0 auto;
+}
+.day-strip-frame.has-multiple{
+  bottom:0;
+}
+.day-strip-cards{
+  position:absolute;
+  inset:0;
+  grid-template-rows:minmax(0,1fr);
+}
+.day-strip-cards > [data-day="0"]{ grid-area:1 / 1; }
+.day-strip-cards > [data-day="1"]{ grid-area:1 / 2; }
+.day-strip-cards > [data-day="2"]{ grid-area:1 / 3; }
 
 .day-box{
   display:flex;
@@ -1898,6 +1925,10 @@ body.settings-open .dashboard-layout{
   color:var(--text);
   text-align:left;
   min-height:96px;
+  min-width:0;
+}
+.day-strip-cards .day-box[data-day]{
+  min-height:0;
 }
 body.light-theme .day-box{
   background:#fff;
@@ -1917,17 +1948,23 @@ body.light-theme .day-box{
   align-items:baseline;
   gap:4px;
 }
+.day-head,.day-dow{
+  flex:none;
+}
 .day-num{
+  flex:none;
   font-size:17px;
   font-weight:800;
   line-height:1;
   font-variant-numeric:tabular-nums;
 }
 .day-mon{
+  overflow-wrap:anywhere;
   font-size:9.5px;
   color:var(--muted);
 }
 .day-dow{
+  overflow-wrap:anywhere;
   font-size:9px;
   color:var(--muted);
   text-transform:uppercase;
@@ -1935,62 +1972,57 @@ body.light-theme .day-box{
   margin-top:-2px;
 }
 
-/* Barvne oznake. Namenoma blage, da ne kricijo. */
+/* Prazniki in svetovni dnevi: celotno ime se prelomi v več vrstic. */
+.day-tags{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  min-height:0;
+}
+.day-tags:empty{
+  display:none;
+}
+.day-strip-cards .day-tags{
+  overflow-y:auto;
+}
+.day-tags .day-tag{
+  flex:none;
+}
+
 .day-tag{
   border-radius:6px;
   padding:3px 5px;
-  line-height:1.25;
-}
-.day-tag-kind{
-  display:block;
-  font-size:8.5px;
-  font-weight:700;
-  text-transform:uppercase;
-  letter-spacing:.03em;
-  opacity:.85;
-}
-.day-tag-name{
-  display:block;
-  font-size:10px;
-  overflow:hidden;
-  display:-webkit-box;
-  -webkit-line-clamp:3;
-  -webkit-box-orient:vertical;
+  font-size:11px;
+  font-weight:600;
+  line-height:1.3;
+  overflow-wrap:anywhere;
 }
 
-/* zelena - svetovni dan */
-.day-tag.t-world{
-  background:rgba(64,168,96,.20);
-  color:#8ee0aa;
-}
-body.light-theme .day-tag.t-world{
-  background:#dff3e4;
-  color:#1e6b38;
-}
-
-/* modra - drzavni praznik, ki je delovni dan */
-.day-tag.t-state{
+.day-tag.t-world,.dayinfo-item.t-world{
   background:rgba(70,130,215,.20);
-  color:#9cc4f2;
+  color:#a9d1ff;
 }
-body.light-theme .day-tag.t-state{
+body.light-theme .day-tag.t-world,body.light-theme .dayinfo-item.t-world{
   background:#dbe8fa;
-  color:#1a4f8f;
+  color:#19497f;
 }
 
-/* rdeca - dela prost dan (blago, ne krici) */
-.day-tag.t-free{
-  background:rgba(205,80,80,.20);
-  color:#f0a3a3;
+.day-tag.t-state,.dayinfo-item.t-state{
+  background:rgba(64,168,96,.20);
+  color:#9ce9b4;
 }
-body.light-theme .day-tag.t-free{
+body.light-theme .day-tag.t-state,body.light-theme .dayinfo-item.t-state{
+  background:#dff3e4;
+  color:#1c6335;
+}
+
+.day-tag.t-free,.dayinfo-item.t-free{
+  background:rgba(205,80,80,.20);
+  color:#ffb0b0;
+}
+body.light-theme .day-tag.t-free,body.light-theme .dayinfo-item.t-free{
   background:#fadedd;
   color:#8f2a2a;
-}
-
-.day-more{
-  font-size:9px;
-  color:var(--muted);
 }
 
 /* --- vsebina pojavnega okna za dan --- */
@@ -2005,28 +2037,16 @@ body.light-theme .day-tag.t-free{
   border-radius:9px;
   margin-bottom:8px;
 }
-.dayinfo-kind{
-  display:block;
-  font-size:10px;
-  font-weight:700;
-  text-transform:uppercase;
-  letter-spacing:.04em;
-  margin-bottom:3px;
-  opacity:.9;
-}
 .dayinfo-name{
   font-size:14px;
   line-height:1.4;
 }
-.dayinfo-item a{
-  display:inline-block;
-  margin-top:6px;
-  font-size:11.5px;
-  color:var(--blue);
-}
 .dayinfo-empty{
   color:var(--muted);
   font-size:13px;
+}
+.dayinfo-note a{
+  color:var(--blue);
 }
 .dayinfo-note{
   margin-top:10px;
@@ -4586,7 +4606,6 @@ async function loadPrebuiltNews(){
 
     /* Dogodki "Na današnji dan" pridejo iz iste datoteke. */
     if(data.onThisDay) applyOnThisDay(data.onThisDay);
-    if(data.threeDays) applyThreeDays(data.threeDays);
 
     const builtAt=data.generatedAt ? new Date(data.generatedAt) : null;
     const label=builtAt && !isNaN(builtAt)
@@ -4722,6 +4741,7 @@ document.addEventListener("keydown",e=>{
 
 function tickClock(){
   const now = new Date();
+  updateThreeDays(now);
 
   const t = qs("#clockTime");
   const d = qs("#clockDate");
@@ -4970,130 +4990,315 @@ function applyOnThisDay(data){
 
 /* ---------- tridnevni koledar s prazniki ---------- */
 
-let dayStripData = [];
+const SI_PRAZNIKI = {
+  "01-01": ["Novo leto", "prost"],
+  "01-02": ["Novo leto", "prost"],
+  "02-08": ["Prešernov dan, slovenski kulturni praznik", "prost"],
+  "04-27": ["Dan upora proti okupatorju", "prost"],
+  "05-01": ["Praznik dela", "prost"],
+  "05-02": ["Praznik dela", "prost"],
+  "06-08": ["Dan Primoža Trubarja", "delovni"],
+  "06-25": ["Dan državnosti", "prost"],
+  "08-07": ["Dan Triglava", "delovni"],
+  "08-15": ["Marijino vnebovzetje", "drug-prost"],
+  "08-17": ["Združitev prekmurskih Slovencev z matičnim narodom", "delovni"],
+  "09-15": ["Vrnitev Primorske k matični domovini", "delovni"],
+  "09-23": ["Dan slovenskega športa", "delovni"],
+  "10-25": ["Dan suverenosti", "delovni"],
+  "10-31": ["Dan reformacije", "drug-prost"],
+  "11-01": ["Dan spomina na mrtve", "prost"],
+  "11-10": ["Dan znanosti", "delovni"],
+  "11-23": ["Dan Rudolfa Maistra", "delovni"],
+  "12-25": ["Božič", "drug-prost"],
+  "12-26": ["Dan samostojnosti in enotnosti", "prost"]
+};
 
 /*
-  "Svetovni dan miotonične distrofije" -> oznaka "Svetovni dan",
-  ime pa samo "miotonične distrofije". Uporabnik noce podvajanja.
+  Svetovni dnevi: slovenska Wikipedija, različica 6774056, CC BY-SA 4.0.
+  https://sl.wikipedia.org/w/index.php?oldid=6774056
+  Priredba tabele za koledarski izračun. Datumi sledijo navedenemu seznamu.
 */
-function razdeliImeDneva(ime){
-  const m = String(ime||"").match(
-    /^\s*((?:svetovni|mednarodni|evropski|nacionalni|slovenski)\s+dan(?:ovi)?)\s+(.+)$/i
-  );
-  if(m){
-    const oznaka = m[1].charAt(0).toUpperCase() + m[1].slice(1).toLowerCase();
-    return { oznaka, ime: m[2].trim() };
-  }
-  return { oznaka:"Svetovni dan", ime:String(ime||"").trim() };
+const SVETOVNI_DNEVI = {
+  "01-01": ["Svetovni dan miru"],
+  "01-16": ["Svetovni dan religij"],
+  "01-19": ["Svetovni dan edinosti Cerkve"],
+  "01-27": ["Svetovni dan spomina na žrtve holokavsta"],
+  "01-31": ["Svetovni dan boja proti kajenju"],
+  "02-02": ["Svetovni dan mokrišč"],
+  "02-04": ["Svetovni dan boja proti raku"],
+  "02-09": ["Svetovni dan varne uporabe interneta"],
+  "02-11": ["Svetovni dan bolnikov"],
+  "02-21": ["Svetovni dan materinščine"],
+  "03-01": ["Svetovni dan civilne zaščite"],
+  "03-03": ["Svetovni dan prosto živečih živalskih in rastlinskih vrst"],
+  "03-06": ["Svetovni dan varčevanja z energijo"],
+  "03-19": ["Svetovni dan pripovedništva"],
+  "03-20": ["Svetovni dan ustnega zdravja"],
+  "03-21": ["Svetovni dan boja proti rasni diskriminaciji","Svetovni dan Downovega sindroma","Svetovni dan gozdov","Svetovni dan lutkarjev","Svetovni dan poezije","Svetovni dan strpnosti"],
+  "03-22": ["Svetovni dan voda"],
+  "03-23": ["Svetovni dan meteorologije"],
+  "03-24": ["Svetovni dan tuberkuloze"],
+  "03-25": ["Svetovni dan mater"],
+  "03-27": ["Svetovni dan gledališča"],
+  "04-02": ["Svetovni dan etnologije","Svetovni dan mladinske književnosti"],
+  "04-04": ["Svetovni dan zapuščenih živali"],
+  "04-07": ["Svetovni dan zdravja"],
+  "04-08": ["Svetovni dan Romov"],
+  "04-11": ["Svetovni dan hišnih ljubljenčkov"],
+  "04-12": ["Svetovni dan lionizma"],
+  "04-15": ["Svetovni dan mladih prostovoljcev"],
+  "04-17": ["Svetovni dan hemofilije"],
+  "04-18": ["Svetovni dan radioamaterjev"],
+  "04-22": ["Svetovni dan brez avtomobila","Svetovni dan Zemlje"],
+  "04-23": ["Svetovni dan knjige in avtorskih pravic"],
+  "04-26": ["Svetovni dan intelektualne lastnine"],
+  "04-28": ["Svetovni dan varnosti in zdravja pri delu"],
+  "04-29": ["Svetovni dan plesa"],
+  "05-03": ["Svetovni dan svobode tiska"],
+  "05-04": ["Svetovni dan gasilcev"],
+  "05-06": ["Svetovni dan medicinskih sester in babic"],
+  "05-08": ["Svetovni dan Rdečega križa"],
+  "05-09": ["Svetovni dan Evrope"],
+  "05-10": ["Svetovni dan možganske kapi","Svetovni dan ptic selivk"],
+  "05-13": ["Svetovni dan hipertenzije","Svetovni dan pravične trgovine"],
+  "05-15": ["Svetovni dan družine","Svetovni dan oporečnikov","Svetovni dan podnebnih sprememb"],
+  "05-17": ["Svetovni dan telekomunikacij"],
+  "05-18": ["Svetovni dan muzejev","Svetovni dan podjetnic"],
+  "05-20": ["Svetovni dan čebel"],
+  "05-21": ["Svetovni dan kulturnega razvoja"],
+  "05-22": ["Svetovni dan biodiverzitete"],
+  "05-28": ["Svetovni dan sonca"],
+  "05-29": ["Svetovni dan pripadnikov mirovnih operacij ZN"],
+  "05-31": ["Svetovni dan nekajenja","Svetovni dan športa"],
+  "06-05": ["Svetovni dan varstva okolja"],
+  "06-08": ["Svetovni dan oceanov"],
+  "06-12": ["Svetovni dan boja proti otroškemu delu"],
+  "06-14": ["Svetovni dan krvodajalstva"],
+  "06-15": ["Svetovni dan osveščanja o nasilju nad starejšimi"],
+  "06-17": ["Svetovni dan boja proti širjenju puščav in suše"],
+  "06-20": ["Svetovni dan beguncev"],
+  "06-21": ["Svetovni dan amiotrofične lateralne skleroze","Svetovni dan glasbe","Svetovni dan joge"],
+  "06-26": ["Svetovni dan podpore žrtvam mučenja"],
+  "07-11": ["Svetovni dan prebivalstva"],
+  "08-02": ["Svetovni dan dojenja"],
+  "08-08": ["Svetovni dan mačk"],
+  "08-12": ["Svetovni dan mladih"],
+  "09-08": ["Svetovni dan boja proti nepismenosti"],
+  "09-10": ["Svetovni dan preprečevanja samomorov"],
+  "09-11": ["Svetovni dan prve pomoči"],
+  "09-15": ["Svetovni dan miotonične distrofije"],
+  "09-16": ["Svetovni dan ohranjanja ozonske plasti"],
+  "09-21": ["Svetovni dan alzheimerjeve bolezni"],
+  "09-24": ["Svetovni dan šolskega mleka"],
+  "09-25": ["Svetovni dan farmacevtov"],
+  "09-26": ["Svetovni dan jezikov"],
+  "09-27": ["Svetovni dan turizma"],
+  "09-29": ["Svetovni dan srca"],
+  "09-30": ["Svetovni dan gluhonemih"],
+  "10-01": ["Svetovni dan arhitekture","Svetovni dan starejših","Svetovni dan vegetarijanstva"],
+  "10-02": ["Svetovni dan stomistov"],
+  "10-04": ["Svetovni dan varstva živali"],
+  "10-05": ["Svetovni dan učiteljev"],
+  "10-06": ["Svetovni dan bivalnega okolja"],
+  "10-07": ["Svetovni dan nepopolnosti"],
+  "10-09": ["Svetovni dan pošte"],
+  "10-10": ["Svetovni dan duševnega zdravja"],
+  "10-11": ["Svetovni dan boja proti bolečini"],
+  "10-12": ["Svetovni dan revmatskih bolezni"],
+  "10-14": ["Svetovni dan standardizacije"],
+  "10-15": ["Svetovni dan hoje","Svetovni dan kmetic"],
+  "10-16": ["Svetovni dan hrane","Svetovni dan hrbteničnih bolezni in okvar"],
+  "10-17": ["Svetovni dan boja proti revščini","Svetovni dan travme"],
+  "10-20": ["Svetovni dan osteoporoze"],
+  "10-24": ["Svetovni dan OZN"],
+  "10-29": ["Svetovni dan psoriaze"],
+  "10-31": ["Svetovni dan varčevanja"],
+  "11-10": ["Svetovni dan znanosti za mir in razvoj"],
+  "11-11": ["Svetovni dan boja proti odvisnosti","Svetovni dan mladine"],
+  "11-14": ["Svetovni dan diabetisa"],
+  "11-16": ["Svetovni dan kronične obstruktivne pljučne bolezni"],
+  "11-17": ["Svetovni dan izseljencev","Svetovni dan študentov"],
+  "11-20": ["Svetovni dan otroka"],
+  "11-21": ["Svetovni dan pozdrava","Svetovni dan televizije"],
+  "11-25": ["Svetovni dan boja proti nasilju nad ženskami"],
+  "11-27": ["Svetovni dan delovne terapije"],
+  "11-28": ["Svetovni dan pravice vedeti"],
+  "11-29": ["Svetovni dan urbanizma"],
+  "11-30": ["Svetovni dan boja proti smrtni kazni","Svetovni dan varstva potrošnikov"],
+  "12-01": ["Svetovni dan boja proti aidsu"],
+  "12-02": ["Svetovni dan boja proti sužnosti"],
+  "12-03": ["Svetovni dan invalidov"],
+  "12-05": ["Svetovni dan prostovoljcev"],
+  "12-07": ["Svetovni dan civilnega letalstva"],
+  "12-10": ["Svetovni dan človekovih pravic"],
+  "12-11": ["Svetovni dan gora"],
+  "12-17": ["Svetovni dan letalstva"],
+  "12-18": ["Svetovni dan migrantov"],
+  "12-20": ["Svetovni dan človeške solidarnosti"]
+};
+
+// Mesec (1–12), dan tedna (0 = nedelja), pojavitev (-1 = zadnja), ime.
+const PREMIČNI_SVETOVNI_DNEVI = [
+  [5,4,1,"Svetovni dan astme"],
+  [7,0,-1,"Svetovni dan barij"],
+  [10,1,1,"Svetovni dan habitata"],
+  [9,0,-1,"Svetovni dan rek"],
+  [11,0,3,"Svetovni dan spomina na žrtve prometnih nesreč"],
+  [6,6,2,"Svetovni dan velnesa"],
+  [4,6,-1,"Svetovni dan veterinarjev"],
+  [12,0,2,"Svetovni dan zborovskega petja"]
+];
+
+function velikaNoc(leto) {
+  const a = leto % 19;
+  const b = Math.floor(leto / 100);
+  const c = leto % 100;
+  const d = Math.floor(b / 4);
+  const e = b % 4;
+  const f = Math.floor((b + 8) / 25);
+  const g = Math.floor((b - f + 1) / 3);
+  const h = (19 * a + b - d - g + 15) % 30;
+  const i = Math.floor(c / 4);
+  const k = c % 4;
+  const l = (32 + 2 * e + 2 * i - h - k) % 7;
+  const m = Math.floor((a + 11 * h + 22 * l) / 451);
+  const mesec = Math.floor((h + l - 7 * m + 114) / 31);
+  const dan = ((h + l - 7 * m + 114) % 31) + 1;
+  return new Date(Date.UTC(leto, mesec - 1, dan));
 }
 
-function oznakaPraznika(vrsta){
-  if(vrsta === "prost")   return { kind:"Dela prost dan", css:"t-free" };
-  if(vrsta === "verski")  return { kind:"Dela prost dan", css:"t-free" };
-  return { kind:"Državni praznik", css:"t-state" };
+function praznikZaDan(datum, velikaNocLeta){
+  const kljuc = pad2(datum.getUTCMonth()+1)+"-"+pad2(datum.getUTCDate());
+  const razlika = (datum - velikaNocLeta)/86400000;
+  return SI_PRAZNIKI[kljuc] || ({
+    0: ["Velikonočna nedelja", "drug-prost"],
+    1: ["Velikonočni ponedeljek", "drug-prost"],
+    49: ["Binkoštna nedelja", "drug-prost"]
+  })[razlika] || null;
 }
 
-function dayBoxHtml(d, index){
-  const razred = ["day-box"];
-  if(index === 0) razred.push("is-today");
+function koledarskiDnevi(danes){
+  return Array.from({length:3},(_,index)=>{
+    // Civilni datum je enak datumu ure na strani. UTC se uporablja za štetje dni.
+    const datum = new Date(Date.UTC(danes.getFullYear(),danes.getMonth(),danes.getDate()+index));
+    const leto = datum.getUTCFullYear();
+    const mesec = datum.getUTCMonth()+1;
+    const dan = datum.getUTCDate();
+    const teden = datum.getUTCDay();
+    const dniVMesecu = new Date(Date.UTC(leto,mesec,0)).getUTCDate();
+    const svetovni = [...(SVETOVNI_DNEVI[pad2(mesec)+"-"+pad2(dan)] || [])];
 
-  let oznake = "";
-
-  if(d.praznik){
-    const o = oznakaPraznika(d.praznik.vrsta);
-    oznake += `
-      <span class="day-tag ${o.css}">
-        <span class="day-tag-kind">${esc(o.kind)}</span>
-        <span class="day-tag-name">${esc(d.praznik.ime)}</span>
-      </span>`;
-  }
-
-  const svetovni = Array.isArray(d.svetovni) ? d.svetovni : [];
-  if(svetovni.length){
-    const prvi = razdeliImeDneva(svetovni[0].ime);
-    oznake += `
-      <span class="day-tag t-world">
-        <span class="day-tag-kind">${esc(prvi.oznaka)}</span>
-        <span class="day-tag-name">${esc(prvi.ime)}</span>
-      </span>`;
-
-    if(svetovni.length > 1){
-      oznake += `<span class="day-more">+${svetovni.length-1} še</span>`;
+    for(const [m,d,pojavitev,ime] of PREMIČNI_SVETOVNI_DNEVI){
+      if(m !== mesec || d !== teden) continue;
+      if(pojavitev === -1 ? dan+7 > dniVMesecu : Math.ceil(dan/7) === pojavitev){
+        svetovni.push(ime);
+      }
     }
-  }
 
+    return {
+      leto, dan, mesec,
+      mesecIme:SL_MESECI_IME[mesec-1],
+      danIme:SL_DNEVI[teden],
+      praznik:praznikZaDan(datum,velikaNoc(leto)),
+      svetovni
+    };
+  });
+}
+
+function oznakeDneva(d){
+  const oznake = [];
+  if(d.praznik){
+    const [ime,vrsta] = d.praznik;
+    const naziv = vrsta === "drug-prost" ? "Dela prost dan" : "Državni praznik";
+    oznake.push({
+      ime:naziv+": "+ime,
+      css:vrsta === "delovni" ? "t-state" : "t-free",
+      opis:vrsta === "delovni" ? "Delovni dan" : "Dela prost dan"
+    });
+  }
+  for(const ime of d.svetovni) oznake.push({ime,css:"t-world",opis:"Svetovni dan"});
+  return oznake;
+}
+
+function dayBoxContent(d,oznake){
   return `
-    <button type="button" class="${razred.join(" ")}" data-day="${index}">
-      <span class="day-head">
-        <span class="day-num">${d.dan}.</span>
-        <span class="day-mon">${esc(d.mesecIme || "")}</span>
-      </span>
-      <span class="day-dow">${esc(d.danIme || "")}</span>
-      ${oznake}
-    </button>
-  `;
+    <span class="day-head">
+      <span class="day-num">${d.dan}.</span>
+      <span class="day-mon">${esc(d.mesecIme)}</span>
+    </span>
+    <span class="day-dow">${esc(d.danIme)}</span>
+    <span class="day-tags">${oznake.map(o=>
+      `<span class="day-tag ${o.css}" title="${esc(o.opis)}">${esc(o.ime)}</span>`
+    ).join("")}</span>`;
+}
+
+function dayBoxHtml(d,index,oznake){
+  return `
+    <button type="button" class="day-box${index === 0 ? " is-today" : ""}" data-day="${index}"
+            ${index === 0 ? 'aria-current="date"' : ""}>
+      ${dayBoxContent(d,oznake)}
+    </button>`;
+}
+
+/* Imeni merita prostor in se ne upoštevata kot praznika izbranega datuma. */
+const dayBoxSample = {
+  dan:30, mesecIme:"september", danIme:"ponedeljek",
+  praznik:SI_PRAZNIKI["08-17"], svetovni:SVETOVNI_DNEVI["03-03"]
+};
+
+function dayBoxMeasure(oznake){
+  return `<div class="day-box day-box-measure" aria-hidden="true">${dayBoxContent(dayBoxSample,oznake)}</div>`;
 }
 
 function odpriDanInfo(index){
   const d = dayStripData[index];
   if(!d) return;
 
-  let telo = `<div class="dayinfo-h">${d.dan}. ${esc(d.mesecIme||"")} · ${esc(d.danIme||"")}</div>`;
+  const oznake = oznakeDneva(d);
+  const vsebina = oznake.length
+    ? oznake.map(o=>
+        `<div class="dayinfo-item ${o.css}"><div class="dayinfo-name">${esc(o.ime)}</div></div>`
+      ).join("")
+    : '<div class="dayinfo-empty">Za ta dan ni zabeleženega praznika ali svetovnega dneva.</div>';
 
-  if(d.praznik){
-    const o = oznakaPraznika(d.praznik.vrsta);
-    telo += `
-      <div class="dayinfo-item ${o.css}">
-        <span class="dayinfo-kind">${esc(o.kind)}</span>
-        <span class="dayinfo-name">${esc(d.praznik.ime)}</span>
-      </div>`;
-  }
-
-  const svetovni = Array.isArray(d.svetovni) ? d.svetovni : [];
-  for(const s of svetovni){
-    const r = razdeliImeDneva(s.ime);
-    const povezava = quickNewsSafeUrl(s.url);
-    telo += `
-      <div class="dayinfo-item t-world">
-        <span class="dayinfo-kind">${esc(r.oznaka)}</span>
-        <span class="dayinfo-name">${esc(r.ime)}</span>
-        ${povezava ? `<a href="${esc(povezava)}" target="_blank" rel="noopener noreferrer">Zakaj ta dan? Odpri razlago &rsaquo;</a>` : ""}
-      </div>`;
-  }
-
-  if(!d.praznik && !svetovni.length){
-    telo += `<div class="dayinfo-empty">Za ta dan ni zabeleženega praznika ali svetovnega dneva.</div>`;
-  }
-
-  telo += `<div class="dayinfo-note">Prazniki po Zakonu o praznikih in dela prostih dnevih.
-           Svetovni dnevi s slovenske Wikipedije.</div>`;
-
-  openPopup("Koledar", telo);
+  openPopup("Koledar", `
+    <div class="dayinfo-h">${d.dan}. ${esc(d.mesecIme)} ${d.leto} · ${esc(d.danIme)}</div>
+    ${vsebina}
+    <div class="dayinfo-note">
+      <a href="https://www.gov.si/teme/drzavni-prazniki-in-dela-prosti-dnevi/" target="_blank" rel="noopener noreferrer">Prazniki in dela prosti dnevi</a> ·
+      <a href="https://sl.wikipedia.org/w/index.php?oldid=6774056" target="_blank" rel="noopener noreferrer">Svetovni dnevi (Wikipedija)</a> ·
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>
+    </div>
+  `);
 }
 
-let dayStripSignature = "";
+let dayStripData = [];
+let dayStripDate = "";
 
-function applyThreeDays(data){
+function updateThreeDays(danes){
+  const kljuc = danes.getFullYear()+"-"+pad2(danes.getMonth()+1)+"-"+pad2(danes.getDate());
+  if(kljuc === dayStripDate) return;
   const strip = qs("#dayStrip");
   if(!strip) return;
 
-  const days = data && Array.isArray(data.days) ? data.days : [];
-  if(!days.length){
-    strip.classList.add("hidden");
-    return;
-  }
-
-  const signature = JSON.stringify(days);
-  if(signature === dayStripSignature && dayStripData.length) return;
-  dayStripSignature = signature;
-
-  dayStripData = days;
-  strip.innerHTML = days.map((d,i)=>dayBoxHtml(d,i)).join("");
+  dayStripData = koledarskiDnevi(danes);
+  const oznake = dayStripData.map(oznakeDneva);
+  const najvec = Math.max(...oznake.map(v=>v.length));
+  const vzorec = oznakeDneva(dayBoxSample);
+  strip.innerHTML = `
+    ${dayBoxMeasure(vzorec)}
+    <div class="day-strip-frame${najvec >= 2 ? " has-multiple" : ""}">
+      ${najvec === 0 ? dayBoxMeasure([]) : ""}
+      ${najvec === 1 ? vzorec.map(o=>dayBoxMeasure([o])).join("") : ""}
+      <div class="day-strip-cards">
+        ${dayStripData.map((d,i)=>dayBoxHtml(d,i,oznake[i])).join("")}
+      </div>
+    </div>`;
   strip.classList.remove("hidden");
-
   strip.querySelectorAll(".day-box").forEach(btn=>{
     btn.addEventListener("click",()=>odpriDanInfo(Number(btn.dataset.day)));
   });
+  dayStripDate = kljuc;
 }
 
 /* ============================================================
