@@ -2842,7 +2842,7 @@ body.light-theme .search-suggest-item.active{
   }
   .modal{max-height:calc(100dvh - 24px);overflow:auto}
 
-  #cards{
+  :where(body:not(.published-desktop-links)) #cards{
     grid-template-columns:none!important;
     grid-auto-rows:auto!important;
     grid-auto-flow:column!important;
@@ -2859,12 +2859,15 @@ body.light-theme .search-suggest-item.active{
     scrollbar-width:thin;
     padding:0 0 4px;
   }
-  body.edit-mode #cards{column-gap:12px!important}
-  #cards .card-column{width:100%!important;min-width:0;max-width:none;gap:12px}
-  body:not(.edit-mode) #cards .card-column{display:contents}
-  body:not(.edit-mode) #cards .card-column::after{content:none}
-  body:not(.edit-mode) #cards .card,body.edit-mode #cards .card-column{scroll-snap-align:start}
-  #cards .card,body.edit-mode #cards .card,body:not(.edit-mode) #cards .card{
+  body:where(:not(.published-desktop-links)).edit-mode #cards{column-gap:12px!important}
+  :where(body:not(.published-desktop-links)) #cards .card-column{width:100%!important;min-width:0;max-width:none;gap:12px}
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .card-column{display:contents}
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .card-column::after{content:none}
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .card,
+  body:where(:not(.published-desktop-links)).edit-mode #cards .card-column{scroll-snap-align:start}
+  :where(body:not(.published-desktop-links)) #cards .card,
+  body:where(:not(.published-desktop-links)).edit-mode #cards .card,
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .card{
     width:100%!important;
     min-width:0!important;
     max-width:none!important;
@@ -2872,26 +2875,27 @@ body.light-theme .search-suggest-item.active{
     padding:10px 10px 9px!important;
     border-radius:12px;
   }
-  body:not(.light-theme) #cards .card{background:var(--panel)!important}
-  body.light-theme #cards .card{background:var(--panel)!important}
-  #cards .card-head{
+  body:where(:not(.published-desktop-links)):not(.light-theme) #cards .card{background:var(--panel)!important}
+  body:where(:not(.published-desktop-links)).light-theme #cards .card{background:var(--panel)!important}
+  :where(body:not(.published-desktop-links)) #cards .card-head{
     align-items:center!important;
     gap:5px!important;
     min-height:34px!important;
     margin-bottom:4px!important;
   }
-  #cards .card-head > span{top:0}
-  #cards .card-title{
+  :where(body:not(.published-desktop-links)) #cards .card-head > span{top:0}
+  :where(body:not(.published-desktop-links)) #cards .card-title{
     min-width:0;
     white-space:normal;
     overflow-wrap:anywhere;
     font-size:14px;
     line-height:1.24!important;
   }
-  #cards .card-menu,#cards .add-link-head{min-width:30px;min-height:44px}
-  #cards .link-row,
-  body:not(.edit-mode) #cards .link-row{min-height:44px!important;padding:0!important}
-  #cards .link-row a{
+  :where(body:not(.published-desktop-links)) #cards .card-menu,
+  :where(body:not(.published-desktop-links)) #cards .add-link-head{min-width:30px;min-height:44px}
+  :where(body:not(.published-desktop-links)) #cards .link-row,
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .link-row{min-height:44px!important;padding:0!important}
+  :where(body:not(.published-desktop-links)) #cards .link-row a{
     display:flex;
     align-items:center;
     padding:6px 4px;
@@ -2903,15 +2907,15 @@ body.light-theme .search-suggest-item.active{
     overflow-wrap:anywhere;
     text-overflow:clip;
   }
-  body:not(.edit-mode) #cards .links{
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .links{
     display:grid;
     grid-template-columns:repeat(2,minmax(0,1fr));
     column-gap:8px;
   }
-  #cards .link-row a{box-shadow:0 1px 0 var(--line)}
-  #cards .link-row a:focus-visible{outline:2px solid var(--blue);outline-offset:-2px;border-radius:5px}
-  body:not(.edit-mode) #cards .card:not(.compact-links-open) .link-row:nth-child(n+9){display:none}
-  body:not(.edit-mode) #cards .compact-links-toggle{
+  :where(body:not(.published-desktop-links)) #cards .link-row a{box-shadow:0 1px 0 var(--line)}
+  :where(body:not(.published-desktop-links)) #cards .link-row a:focus-visible{outline:2px solid var(--blue);outline-offset:-2px;border-radius:5px}
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .card:not(.compact-links-open) .link-row:nth-child(n+9){display:none}
+  body:where(:not(.published-desktop-links)):not(.edit-mode) #cards .compact-links-toggle{
     display:block;
     width:100%;
     min-height:44px;
@@ -2992,6 +2996,18 @@ body.light-theme .search-suggest-item.active{
 
 @media (max-width:350px){
   .search-tabs-row{flex-wrap:wrap;justify-content:center!important}
+}
+/* Objavljena namizna postavitev ima šest stolpcev tudi v ožjem oknu. */
+body.published-desktop-links #cards{
+  grid-template-columns:repeat(6,max-content)!important;
+  max-width:100%!important;
+  justify-content:safe center!important;
+  overflow-x:auto!important;
+}
+body.published-desktop-links #cards .card-column{max-width:none}
+body.published-desktop-links #cards .card{
+  border-color:transparent!important;
+  box-shadow:none!important;
 }
 </style>
 </head>
@@ -3229,6 +3245,8 @@ body.light-theme .search-suggest-item.active{
 <script src="world-days.js?v=20261115"></script>
 <script src="news-freshness.js?v=20261115"></script>
 <script>
+// Številko povečamo, ko v HTML objavimo nov seznam povezav.
+const PUBLISHED_LINKS_REVISION=5;
 const DESKTOP_STORE="moja_zacetna_stran_v30_blic";
 const MOBILE_STORE="moja_zacetna_stran_mobilna_v4";
 const touchDevice=matchMedia("(pointer:coarse)").matches ||
@@ -3254,9 +3272,13 @@ const deviceState=readSavedState(STORE);
 // Na telefonu ali tablici enkrat uvozimo namizne povezave in obdržimo druge nastavitve.
 const previousState=touchDevice && !deviceState ? readSavedState(DESKTOP_STORE) : null;
 let state=deviceState || {...initialState,...previousState,cards:initialState.cards};
-if(touchDevice && state.mobileLinksRevision!==5){
-  state={...state,cards:initialState.cards,mobileLinksRevision:5};
+// Različica 5 je številko uvoza zapisala samo v mobilni profil.
+const savedLinksRevision=deviceState?.linksRevision ?? (touchDevice ? deviceState?.mobileLinksRevision : undefined);
+if(savedLinksRevision!==PUBLISHED_LINKS_REVISION){
+  state.cards=initialState.cards;
 }
+const publishedCards=structuredClone(initialState.cards);
+let desktopEditing=false;
 const compactLayout = matchMedia("(max-width:1250px), (max-width:1440px) and (pointer:coarse)");
 const compactOpenCards = new Set();
 const COMPACT_LINKS_PREVIEW = 8;
@@ -3271,7 +3293,10 @@ const compactControls=qs("#compactLinksControls");
 const compactPrev=qs("#compactLinksPrev");
 const compactNext=qs("#compactLinksNext");
 
-function editingEnabled(){return compactLayout.matches ? settings.compactEdit : settings.edit}
+function editingEnabled(){
+  if(!touchDevice) return desktopEditing;
+  return compactLayout.matches ? settings.compactEdit : settings.edit;
+}
 
 function arrangeCompactSections(){
   const compact=compactLayout.matches;
@@ -3326,7 +3351,10 @@ compactLayout.addEventListener("change",()=>{
   applySettings();
 });
 
-function save(){localStorage.setItem(STORE,JSON.stringify(state))}
+function save(){
+  state.linksRevision=PUBLISHED_LINKS_REVISION;
+  localStorage.setItem(STORE,JSON.stringify(state));
+}
 function saveSettings(){localStorage.setItem(SETTINGS,JSON.stringify(settings))}
 function id(){return crypto.randomUUID ? crypto.randomUUID() : Date.now()+"_"+Math.random().toString(16).slice(2)}
 function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
@@ -3335,6 +3363,7 @@ function normalizeUrl(u){u=(u||"").trim(); if(!u)return ""; if(!/^https?:\/\//i.
 /* settings */
 function applySettings(){
   const edit=editingEnabled();
+  document.body.classList.toggle("published-desktop-links",!touchDevice && !edit);
   document.body.classList.toggle("light-theme",settings.theme==="light");
   document.body.classList.toggle("hide-card-borders",!settings.borders);
   document.body.classList.toggle("weather-hidden",!settings.weather);
@@ -3381,7 +3410,8 @@ document.addEventListener("keydown",e=>{
   ["sEdit","edit"],["sAddCards","addCards"],["sAddLinks","addLinks"],["sDrag","drag"],
   ["sResize","resize"],["sBorders","borders"],["sWeather","weather"],["sSeason","season"]
 ].forEach(([el,key])=>qs("#"+el).addEventListener("change",e=>{
-  settings[key==="edit" && compactLayout.matches ? "compactEdit" : key]=e.target.checked;
+  if(key==="edit" && !touchDevice) desktopEditing=e.target.checked;
+  else settings[key==="edit" && compactLayout.matches ? "compactEdit" : key]=e.target.checked;
   saveSettings();
   applySettings();
   if(key==="weather"){
@@ -3613,8 +3643,8 @@ function normalizeCardColumns(){
   }
 }
 
-function cardsInColumn(col){
-  return state.cards
+function cardsInColumn(col,cards=state.cards){
+  return cards
     .filter(c=>c.col===col)
     .sort((a,b)=>(a.order||0)-(b.order||0));
 }
@@ -3895,10 +3925,11 @@ function renderCards(){
   const cols=buildCardColumns(box);
   const edit=editingEnabled();
 
-  qs("#emptyCards").classList.toggle("hidden",state.cards.length>0);
+  const cards=!touchDevice && !edit ? publishedCards : state.cards;
+  qs("#emptyCards").classList.toggle("hidden",cards.length>0);
 
   for(let col=0; col<CARD_COLUMNS; col++){
-    cardsInColumn(col).forEach(card=>{
+    cardsInColumn(col,cards).forEach(card=>{
       const el=document.createElement("article");
       el.className="card";
       el.dataset.card=card.id;
