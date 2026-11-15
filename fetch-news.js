@@ -15,9 +15,9 @@
 const fs = require("fs");
 const path = require("path");
 const worldDays = require("./world-days.js");
-const { publicationDate, newest } = require("./news-freshness.js");
+const { publicationDate, newest, hopPostsUrl, parseHopPosts } = require("./news-freshness.js");
 
-const COUNT = 6;
+const COUNT = 12;
 const FALLBACK_AGE = 24 * 60 * 60 * 1000;
 const REUTERS_WORLD_FEED = "https://feed.quanwenrss.com/feed/reuters-world.xml";
 const REUTERS_FALLBACK_AGE = 6 * 60 * 60 * 1000;
@@ -56,6 +56,11 @@ const SOURCES = [
     feeds: ["https://www.zurnal24.si/feeds/latest"]
   },
   {
+    id: "hop",
+    name: "HOP.si",
+    homepage: "https://hop.si/"
+  },
+  {
     id: "reuters",
     name: "Reuters",
     homepage: "https://www.reuters.com/",
@@ -63,7 +68,7 @@ const SOURCES = [
     feeds: [
       // Vir Reuters World vsebuje neposredne povezave do člankov in fotografij.
       REUTERS_WORLD_FEED,
-      "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "https://openrss.org/reuters.com/world"
     ]
   },
@@ -97,7 +102,7 @@ const SOURCES = [
     translate: true,
     feeds: [
       "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://news.google.com/rss/search?q=site%3Abbc.com%2Fnews%20when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen"
+      "https://news.google.com/rss/search?q=site%3Abbc.com%2Fnews&hl=en-GB&gl=GB&ceid=GB%3Aen"
     ]
   },
   {
@@ -108,7 +113,7 @@ const SOURCES = [
     lang: "EN",
     feeds: [
       "https://www.aljazeera.com/xml/rss/all.xml",
-      "https://news.google.com/rss/search?q=site%3Aaljazeera.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+      "https://news.google.com/rss/search?q=site%3Aaljazeera.com&hl=en-US&gl=US&ceid=US%3Aen"
     ]
   },
 
@@ -149,7 +154,7 @@ const SOURCES = [
     feeds: [
       "https://www.bild.de/feed/alles.xml",
       "https://openrss.org/www.bild.de",
-      "https://news.google.com/rss/search?q=site%3Abild.de%20when%3A1d&hl=de&gl=DE&ceid=DE%3Ade"
+      "https://news.google.com/rss/search?q=site%3Abild.de&hl=de&gl=DE&ceid=DE%3Ade"
     ]
   },
   {
@@ -161,7 +166,7 @@ const SOURCES = [
     feeds: [
       "https://api.krone.at/v1/rss/rssfeed-google.xml?id=2311992",
       "https://openrss.org/www.krone.at",
-      "https://news.google.com/rss/search?q=site%3Akrone.at%20when%3A1d&hl=de&gl=AT&ceid=AT%3Ade"
+      "https://news.google.com/rss/search?q=site%3Akrone.at&hl=de&gl=AT&ceid=AT%3Ade"
     ]
   },
   {
@@ -174,7 +179,7 @@ const SOURCES = [
       "https://www.rainews.it/rss/tutti",
       "https://www.rainews.it/rss/mondo",
       "https://openrss.org/www.rainews.it",
-      "https://news.google.com/rss/search?q=site%3Arainews.it%20when%3A1d&hl=it&gl=IT&ceid=IT%3Ait"
+      "https://news.google.com/rss/search?q=site%3Arainews.it&hl=it&gl=IT&ceid=IT%3Ait"
     ]
   },
   {
@@ -186,7 +191,7 @@ const SOURCES = [
     feeds: [
       "https://www.lemonde.fr/rss/une.xml",
       "https://www.lemonde.fr/international/rss_full.xml",
-      "https://news.google.com/rss/search?q=site%3Alemonde.fr%20when%3A1d&hl=fr&gl=FR&ceid=FR%3Afr"
+      "https://news.google.com/rss/search?q=site%3Alemonde.fr&hl=fr&gl=FR&ceid=FR%3Afr"
     ]
   },
   {
@@ -198,7 +203,7 @@ const SOURCES = [
     feeds: [
       "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
       "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
-      "https://news.google.com/rss/search?q=site%3Aelpais.com%20when%3A1d&hl=es&gl=ES&ceid=ES%3Aes"
+      "https://news.google.com/rss/search?q=site%3Aelpais.com&hl=es&gl=ES&ceid=ES%3Aes"
     ]
   }
 ];
@@ -905,10 +910,10 @@ async function loadFeeds(source, feeds) {
         const article = new URL(item.link);
         return article.protocol === "https:" &&
           ["www.reuters.com", "reuters.com"].includes(article.hostname) &&
-          article.pathname !== "/" && item.image;
+          article.pathname !== "/";
       });
     }
-    console.log(`  ${source.name}: ${newest(items).length} svežih iz ${feed}`);
+    console.log(`  ${source.name}: ${newest(items, Date.now(), COUNT).length} objav iz ${feed}`);
     return items;
   }));
   return results.flatMap((result, index) => {
@@ -919,6 +924,13 @@ async function loadFeeds(source, feeds) {
 }
 
 async function loadSource(source) {
+  if (source.id === "hop") {
+    const posts = parseHopPosts(JSON.parse(await get(hopPostsUrl)), decodeEntities);
+    const items = newest(posts, Date.now(), COUNT);
+    if (!items.length) throw new Error("HOP.si ni vrnil preverljivih objav");
+    return items;
+  }
+
   const aggregators = source.feeds.filter(feed => ["news.google.com", "openrss.org"].includes(new URL(feed).hostname));
   const publisherFeeds = source.feeds.filter(feed => !aggregators.includes(feed));
   const fallbackAge = source.id === "reuters" ? REUTERS_FALLBACK_AGE : FALLBACK_AGE;
@@ -935,7 +947,7 @@ async function loadSource(source) {
       if (items.length === COUNT && Date.now() - items[0].date <= fallbackAge) break;
     }
   }
-  if (!items.length) throw new Error("ni preverljivih objav v zadnjih 48 urah");
+  if (!items.length) throw new Error("ni preverljivih objav");
   return items;
 }
 
@@ -1045,16 +1057,16 @@ async function main() {
   const out = { generatedAt: "", sources: {} };
 
   async function collect(source) {
+    const previousItems = newest(previousFile?.sources?.[source.id] || [], Date.now(), COUNT);
     try {
-      const items = await loadSource(source);
-      await resolveGoogleLinks(items);
-      if (source.id === "nyt") {
-        const previousImages = new Map((previousFile?.sources?.nyt || [])
-          .filter(item => item.image && !isRejectedImage(item.image))
-          .map(item => [item.link, item.image]));
-        for (const item of items) {
-          if (!item.image) item.image = previousImages.get(item.link) || "";
-        }
+      const fetched = await loadSource(source);
+      await resolveGoogleLinks(fetched);
+      const items = newest([...fetched, ...previousItems], Date.now(), COUNT);
+      const previousImages = new Map(previousItems
+        .filter(item => item.image && !isRejectedImage(item.image))
+        .map(item => [item.link, item.image]));
+      for (const item of items) {
+        if (!item.image) item.image = previousImages.get(item.link) || "";
       }
       await enrichImages(source, items);
 
@@ -1064,8 +1076,8 @@ async function main() {
 
       return [source.id, items];
     } catch (err) {
-      console.log(`  ✗ ${source.name}: ${err.message}`);
-      return [source.id, []];
+      console.log("  " + source.name + ": " + err.message);
+      return [source.id, previousItems];
     }
   }
 
