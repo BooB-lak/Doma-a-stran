@@ -3000,10 +3000,12 @@ body.light-theme .search-suggest-item.active{
 /* Objavljena namizna postavitev ima šest stolpcev tudi v ožjem oknu. */
 body.published-desktop-links #cards{
   grid-template-columns:repeat(6,max-content)!important;
+  grid-auto-rows:auto;
   max-width:100%!important;
   justify-content:safe center!important;
   overflow-x:auto!important;
 }
+body.published-desktop-links:not(.light-theme) #cards{color-scheme:dark}
 body.published-desktop-links #cards .card-column{max-width:none}
 body.published-desktop-links #cards .card{
   border-color:transparent!important;
