@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T07:20:44.179Z",
+ "generatedAt": "2026-11-15T07:22:32.322Z",
  "sources": {
   "siol": [
    {
@@ -202,7 +202,8 @@
     "title": "Nate Silver’s Unscientific, Totally Subjective Breakdown of the Democrats’ Future Stars",
     "link": "https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15silver-vfhb/15silver-vfhb-mediumSquareAt3X.jpg",
-    "date": 1794726956000
+    "date": 1794726956000,
+    "titleSl": "Neznanstvena, popolnoma subjektivna analiza prihodnjih zvezd Demokratske stranke, ki jo je pripravil Nate Silver"
    },
    {
     "title": "Thoughts Near the End of a Life",
@@ -245,13 +246,15 @@
     "title": "Alleged Russell Brand rape victim wants age of consent law changed",
     "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg",
-    "date": 1794727192000
+    "date": 1794727192000,
+    "titleSl": "Domnevna žrtev posilstva Russlla Branda želi spremembo zakona o starosti za spolno soglasje"
    },
    {
     "title": "How Aston Villa are reclaiming their identity",
     "link": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8a/live/a96f30c0-e009-11f1-9fd4-8b3c9f9dfc89.jpg",
-    "date": 1794726725000
+    "date": 1794726725000,
+    "titleSl": "Kako Aston Villa ponovno vzpostavlja svojo identiteto"
    },
    {
     "title": "Ruthless Australia win record fourth Women's World Cup",
@@ -283,6 +286,13 @@
    }
   ],
   "aljazeera": [
+   {
+    "title": "ASEAN summit: Who’s attending and what’s at stake?",
+    "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26028267291630-1791246790_c99e6e-1791246925.jpg?resize=1200%2C630&quality=80",
+    "date": 1794726684000,
+    "titleSl": "Vrh ASEAN: Kdo se ga udeležuje in kaj je na kocki?"
+   },
    {
     "title": "Israel: Making the Holy Land burn",
     "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
@@ -317,28 +327,22 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26254425908327-1794714537.jpg?resize=1920%2C1440",
     "date": 1794717897000,
     "titleSl": "Newyorški demokratični socialisti pozivajo Ocasio-Cortezovo, naj kandidira za predsednico ZDA"
-   },
-   {
-    "title": "Video shows moment of Brooklyn building collapse from inside",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794717096.jpg?resize=1920%2C1080&quality=80",
-    "date": 1794717115000
    }
   ],
   "guardian": [
    {
-    "title": "Australia v England: second men’s cricket one-day international – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/41cafbde483bd465501fb271ca30d68324b6dece/621_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=e7a438bc21e56b6c75ad9b7087dc21cb",
-    "date": 1794726585000,
-    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
-   },
-   {
     "title": "Australia 34-10 New Zealand: Women’s Rugby League World Cup final – live reaction",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
     "image": "https://i.guim.co.uk/img/media/871e75049ea0256e5825fb7c3c4a88104e80161d/275_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=1d34410c85444e6731d7a807d5283658",
-    "date": 1794726474000,
+    "date": 1794726974000,
     "titleSl": "Avstralija 34 – 10 Nova Zelandija: finale svetovnega prvenstva v ragbiju lige za ženske – odzivi v živo"
+   },
+   {
+    "title": "Australia v England: second men’s cricket one-day international – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/41cafbde483bd465501fb271ca30d68324b6dece/621_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=e7a438bc21e56b6c75ad9b7087dc21cb",
+    "date": 1794726681000,
+    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
    },
    {
     "title": "‘I’m scared about my future’: young people on the stress and desperation of jobseeking",
@@ -503,10 +507,18 @@
   ],
   "rainews": [
    {
+    "title": "Boom di chiamate al numero antiviolenza 1522 dopo il film \"Se domani non torno\" su Giulia Cecchettin",
+    "link": "https://www.rainews.it/articoli/2026/11/boom-di-chiamate-al-numero-antiviolenza-1522-dopo-il-film-se-domani-non-torno-su-giulia-cecchettin-734d0925-2ce4-4198-af07-c196dcbcf553.html",
+    "image": "https://www.rainews.it/dl/img/2024/05/15/1715799603990_.png",
+    "date": 1794725580000,
+    "titleSl": "Po filmu »Se domani non torno« o Giulii Cecchettin je prišlo do porasta klicev na telefonsko številko za pomoč žrtvam nasilja 1522."
+   },
+   {
     "title": "La tregua di carta di Gaza sotto il fuoco dell&#x27;artiglieria Idf: bambini tra le vittime",
     "link": "https://www.rainews.it/video/2026/11/la-tregua-di-carta-di-gaza-sotto-il-fuoco-dellartiglieria-idf-bambini-tra-le-vittime-video-d54ba429-5b89-4fa3-a4ab-664858c5eadf.html",
     "image": "https://www.rainews.it/dl/img/2026/11/15/1794725422063_son_Goracci_IsraeleGaza.transferxcode_mixframe.jpeg",
-    "date": 1794725100000
+    "date": 1794725100000,
+    "titleSl": "Papirnato premirje v Gazi pod ognjem izraelske artiljerije: med žrtvami so tudi otroci"
    },
    {
     "title": "Ovazione e lacrime per Phil Collins, entrato nella Rock Hall come solista 16 anni dopo i Genesis",
@@ -535,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/05/22/1779465886390_rainewsdffafddc.jpg",
     "date": 1794721800000,
     "titleSl": "Prometne nesreče: »V 15 letih 30 % manj smrtnih žrtev, vendar še vedno 8 žrtev na dan. Treba je okrepiti prizadevanja.«"
-   },
-   {
-    "title": "SpaceX fa la storia, recupera per la prima volta un veicolo spaziale",
-    "link": "https://www.rainews.it/articoli/2026/11/spacex-fa-la-storia-recupera-per-la-prima-volta-un-veicolo-spaziale-2cdce957-e08d-4583-bb97-7b64b1ec61a5.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/14/1794692451051_vlcsnaphms.png",
-    "date": 1794716280000,
-    "titleSl": "SpaceX piše zgodovino in prvič uspešno pristane z vesoljskim plovilom"
    }
   ],
   "lemonde": [
