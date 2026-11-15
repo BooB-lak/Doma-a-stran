@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T06:02:34.622Z",
+ "generatedAt": "2026-11-15T06:04:33.899Z",
  "sources": {
   "siol": [
    {
@@ -199,6 +199,20 @@
   ],
   "nyt": [
    {
+    "title": "Nate Silver Picks 27 Democrats to Watch",
+    "link": "https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15silver-vfhb/15silver-vfhb-mediumSquareAt3X.jpg",
+    "date": 1794722414000,
+    "titleSl": "Nate Silver izbere 27 demokratov, ki jih je treba spremljati"
+   },
+   {
+    "title": "Late in Life, Here’s What I Know",
+    "link": "https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html",
+    "image": "",
+    "date": 1794722406000,
+    "titleSl": "V poznejših letih življenja vem naslednje"
+   },
+   {
     "title": "Is Italy the Model for Europe’s Future?",
     "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-horowitz-italianization-khbp/00int-horowitz-italianization-khbp-mediumSquareAt3X.jpg",
@@ -215,7 +229,7 @@
    {
     "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
     "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/world/00int-canada-bear/00int-canada-bear-facebookJumbo.jpg",
+    "image": "",
     "date": 1794718870000,
     "titleSl": "V narodnem parku Banff vlada grizli po imenu »Šef«."
    },
@@ -225,20 +239,6 @@
     "image": "https://static01.nyt.com/images/2026/12/14/multimedia/14int-mexico-singer-tlfb/14int-mexico-singer-tlfb-mediumSquareAt3X.jpg",
     "date": 1794716285000,
     "titleSl": "Mehiški glasbenik je zapel nekaj svojih uspešnic. Oblasti so prekinile nastop, nato pa ga aretirale."
-   },
-   {
-    "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
-    "link": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14wea-big-waves-topart-01-hbqw/14wea-big-waves-topart-01-hbqw-mediumSquareAt3X-v2.jpg",
-    "date": 1794715319000,
-    "titleSl": "Deskarji so na sedmem nebu, saj ogromni valovi udarjajo ob kalifornijsko obalo"
-   },
-   {
-    "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
-    "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-no-shows-01-cfgk/14asia-eurovision-no-shows-01-cfgk-mediumSquareAt3X.jpg",
-    "date": 1794714858000,
-    "titleSl": "Na azijskem tekmovanju za pesem Evrovizije ne nastopajo Kitajska, Indija, Pakistan, Indonezija in Japonska"
    }
   ],
   "bbc": [
@@ -331,32 +331,18 @@
   ],
   "guardian": [
    {
-    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-    "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-    "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d86f59594943d3e382cf380ea2fd4e71",
-    "date": 1794722406000,
-    "titleSl": "»Jensen Huang je znorel«: kako je najpametnejši človek na področju umetne inteligence nasedel najstarejšemu triku na svetu"
-   },
-   {
-    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-    "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-    "image": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c",
-    "date": 1794722405000,
-    "titleSl": "Najvišje sodišče na svetu bo odločilo, ali je Mjanmar zagrešil genocid nad Rohingi"
+    "title": "Australia v England: second men’s cricket one-day international – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/990cd8717922d1590bf9ccc120553b28cc11a645/0_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=1bfeccec74db25b906e32bf9f75fab3a",
+    "date": 1794722192000,
+    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
    },
    {
     "title": "Australia v New Zealand: Women’s Rugby League World Cup final – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
     "image": "https://i.guim.co.uk/img/media/5f84ce124814683b2d255bf2f41cb1b4120bdd1f/241_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=904d919527a0d56a751a9b21fd16381e",
-    "date": 1794722353000,
+    "date": 1794722187000,
     "titleSl": "Avstralija proti Novi Zelandiji: finale svetovnega prvenstva v ragbiju za ženske – v živo"
-   },
-   {
-    "title": "Australia v England: second men’s cricket one-day international – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/990cd8717922d1590bf9ccc120553b28cc11a645/0_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=1bfeccec74db25b906e32bf9f75fab3a",
-    "date": 1794722254000,
-    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
    },
    {
     "title": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
@@ -371,6 +357,20 @@
     "image": "https://i.guim.co.uk/img/media/7293fee7c5006470fff711745a36d119e8a64398/1289_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c381cc7d5fb68f46f781d4b2ff1e3086",
     "date": 1794718804000,
     "titleSl": "Pri 17 letih sem hodila s 36-letnikom. Zdaj se mi ta odločitev zdi povsem drugačna | Polly Hudson"
+   },
+   {
+    "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+    "image": "https://i.guim.co.uk/img/media/52f9c92ccc5c888555d84f9e9f0d23bcefc8dc7f/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fe8c7bfdcd45924c1b6bba78b62c1c09",
+    "date": 1794718354000,
+    "titleSl": "Ameriški sodnik je blokiral Trumpov načrt za prenovo zgodovinskega igrišča za golf v Washingtonu"
+   },
+   {
+    "title": "World leaders head to Asia for back-to-back diplomatic summits",
+    "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+    "image": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
+    "date": 1794715202000,
+    "titleSl": "Svetovni voditelji potujejo v Azijo na zaporedne diplomatske vrhe"
    }
   ],
   "spiegel": [
@@ -498,11 +498,11 @@
     "titleSl": "Filzmaier analizira – Ko politiki enkrat nekaj storijo"
    },
    {
-    "title": "„Wir müssen in Europa den Umkehrschub einleiten“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xWDdCWmNqa1hGUncwbnAwLVBtd0FpTDNtOEtiQ05qSmxUSk05ajR2aXJMOFh4VUt3bFhaWDlqYjBOdw?oc=5",
+    "title": "Jetzt spricht Familie - Tochter von Diana: „Haben alles für Mama getan!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FTURKZkZyTFF5eGktTnJIcjRPSXhEQzJGQi1lb1c4X3ZVeHhpZjNKRlRRU00wbVo4cEZRMHZPSy1BQQ?oc=5",
     "image": "",
     "date": 1794718800000,
-    "titleSl": "»V Evropi moramo začeti z zaviranjem.«"
+    "titleSl": "Zdaj spregovori družina – Dianina hči: »Za mamo smo storili vse!«"
    }
   ],
   "rainews": [
@@ -595,6 +595,13 @@
   ],
   "elpais": [
    {
+    "title": "Amazon adelanta Black Friday en sus radiadores y calefactores más vendidos",
+    "link": "https://elpais.com/escaparate/estilo-de-vida/calefactores-ofertas.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/F4WFGFBBZZGX5GKSHBLIDWOEAM.png?auth=5a3d0a38c2fcfec3471b1a4364452a1a2b2bd6ae99a5d8df134fdf60673c27f1",
+    "date": 1794722400000,
+    "titleSl": "Amazon predčasno uvaja Črni petek za svoje najbolje prodajane radiatorje in grelnike"
+   },
+   {
     "title": "Las botas de agua más estilosas para los días de lluvia: seis colores por menos de 35 euros",
     "link": "https://elpais.com/escaparate/estilo-de-vida/botas-agua-de-lluvia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/4LVF2FKOLRAFHMMLNIPTUFNIXY.png?auth=9fa7317d19806a703ebfb297ac5dd38c4a49c13bd39926613708a59b7c98ba1f",
@@ -628,13 +635,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/GQTJ6M2XX73OA562JPWZSHQDKQ.jpg?auth=aa598acc7a38248896bd753f86ff5009d0516f5888809b3e097aac41bb5dd5eb",
     "date": 1794717901000,
     "titleSl": "Dramatična zgodba žrtev goljufije, ki ne morejo dobiti svojega denarja nazaj: »Banka mi je rekla, da je krivda moja.«"
-   },
-   {
-    "title": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
-    "link": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/MRRQ4KQKB5LG5P23YZ4U6SECUM.jpg?auth=35e26532f2afcef4327b64cd2f9b3c1e6549acd93cfdca26268c86e496c7fc9b",
-    "date": 1794717901000,
-    "titleSl": "Politika in finance igrajo v prid Hernándezu de Cosu za predsednika ECB"
    }
   ]
  },
