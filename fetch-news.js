@@ -14,8 +14,11 @@
 
 const fs = require("fs");
 const path = require("path");
+const worldDays = require("./world-days.js");
+const { publicationDate, newest } = require("./news-freshness.js");
 
 const COUNT = 6;
+const FALLBACK_AGE = 24 * 60 * 60 * 1000;
 const OUT_FILE = process.env.NEWS_OUT || "news.json";
 
 const UA =
@@ -56,8 +59,6 @@ const SOURCES = [
     homepage: "https://www.reuters.com/",
     translate: true,
     feeds: [
-      "https://reutersbest.com/topic/politics-general/feed/",
-      "https://reutersbest.com/topic/business-finance/feed/",
       "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
       "https://openrss.org/reuters.com/world"
     ]
@@ -143,7 +144,6 @@ const SOURCES = [
     lang: "DE",
     feeds: [
       "https://www.bild.de/feed/alles.xml",
-      "https://www.bild.de/rssfeeds/vw-newsticker/vw-newsticker-17052052,view=rss2.bild.xml",
       "https://openrss.org/www.bild.de",
       "https://news.google.com/rss/search?q=site%3Abild.de%20when%3A1d&hl=de&gl=DE&ceid=DE%3Ade"
     ]
@@ -402,7 +402,6 @@ function parseFeed(xml, source) {
   if (isAtom) blocks = xml.match(/<entry\b[\s\S]*?<\/entry>/gi) || [];
 
   const items = [];
-  const seen = new Set();
 
   for (const block of blocks) {
     let link = "";
@@ -422,23 +421,19 @@ function parseFeed(xml, source) {
     if (!title || !link) continue;
     if (title.replace(/[^\p{L}\p{N}]/gu, "").length < 10) continue;
 
-    const key = title.toLowerCase();
-    if (seen.has(key)) continue;
-    seen.add(key);
-
-    const rawDate = tagText(block, ["pubDate", "published", "updated", "dc:date"]);
-    const parsed = rawDate ? Date.parse(rawDate) : NaN;
+    const date = ["pubDate", "published", "dc:date", "date", "updated"]
+      .map(name => publicationDate(tagText(block, [name])))
+      .find(Boolean) || 0;
 
     items.push({
       title,
       link,
       image: imageFromItemBlock(block, link),
-      date: Number.isFinite(parsed) ? parsed : 0
+      date
     });
   }
 
-  if (items.some(x => x.date > 0)) items.sort((a, b) => b.date - a.date);
-  return items.slice(0, COUNT);
+  return items;
 }
 
 /* ---------------- prevajanje v slovenscino ---------------- */
@@ -865,171 +860,62 @@ function prazinikiZaLeto(leto) {
   return [...SI_PRAZNIKI_FIKSNI, ...premicniPrazniki(leto)];
 }
 
-/*
-  Svetovni dnevi s slovenske Wikipedije.
-  Strani ne poznam vnaprej, zato je razclenjevalnik namenoma
-  prizanesljiv: iscemo datum ("15. september") in ob njem ime dneva.
-*/
-const SL_MESEC_STEVILKA = {
-  januar: 1, februar: 2, marec: 3, april: 4, maj: 5, junij: 6,
-  julij: 7, avgust: 8, september: 9, oktober: 10, november: 11, december: 12
-};
-
-async function loadSvetovniDnevi() {
-  const url =
-    "https://sl.wikipedia.org/w/api.php?action=parse&format=json" +
-    "&formatversion=2&redirects=1&prop=wikitext&page=" +
-    encodeURIComponent("Seznam praznikov z oznako Svetovni dan");
-
-  const zemljevid = {};
-
-  try {
-    const raw = await get(url, 20000);
-    const data = JSON.parse(raw);
-    const wikitext = (data && data.parse && data.parse.wikitext) || "";
-    if (!wikitext) throw new Error("stran brez vsebine");
-
-    for (const vrstica of wikitext.split("\n")) {
-      if (!/^[*|]/.test(vrstica.trim())) continue;
-
-      const cista = cleanWikitext(vrstica.replace(/^[*|!]+\s*/, ""));
-      if (!cista) continue;
-
-      const m = cista.match(
-        /(\d{1,2})\.\s*(januar|februar|marec|april|maj|junij|julij|avgust|september|oktober|november|december)/i
-      );
-      if (!m) continue;
-
-      const dan = parseInt(m[1], 10);
-      const mesec = SL_MESEC_STEVILKA[m[2].toLowerCase()];
-      if (!dan || !mesec) continue;
-
-      /* Ime je tisto, kar ostane za datumom. */
-      let ime = cista.slice(m.index + m[0].length)
-        .replace(/^[\s–—:,-]+/, "")
-        .trim();
-
-      if (ime.length < 5) continue;
-
-      /* Povezava na clanek, ce obstaja - za pojasnilo ob kliku. */
-      const povezava = vrstica.match(/\[\[([^\]|]+)(?:\|[^\]]*)?\]\]\s*$/);
-      const naslov = povezava ? povezava[1].trim() : ime;
-
-      const kljuc = String(mesec).padStart(2, "0") + "-" +
-                    String(dan).padStart(2, "0");
-
-      if (!zemljevid[kljuc]) zemljevid[kljuc] = [];
-      if (zemljevid[kljuc].length < 6) {
-        zemljevid[kljuc].push({
-          ime,
-          url: "https://sl.wikipedia.org/wiki/" +
-               encodeURIComponent(naslov.replace(/ /g, "_"))
-        });
-      }
-    }
-
-    const skupaj = Object.values(zemljevid).reduce((a, b) => a + b.length, 0);
-    console.log(`  ✓ Svetovni dnevi: ${skupaj} zapisov za ${Object.keys(zemljevid).length} datumov`);
-  } catch (err) {
-    console.log(`  ✗ Svetovni dnevi: ${err.message}`);
-  }
-
-  return zemljevid;
-}
 
 const SL_DNEVI_IME = ["nedelja", "ponedeljek", "torek", "sreda",
                       "četrtek", "petek", "sobota"];
 
-async function loadTriDni(previous) {
+function loadTriDni() {
   const zdaj = new Date();
-  const dayKey = mdKljuc(zdaj);
-
-  if (previous && previous.date === dayKey && Array.isArray(previous.days)) {
-    console.log(`  · Trije dnevi: iz pomnilnika`);
-    return previous;
-  }
-
-  const svetovni = await loadSvetovniDnevi();
-  const prazniki = prazinikiZaLeto(zdaj.getFullYear());
-
-  const days = [];
-
-  for (let odmik = 0; odmik < 3; odmik++) {
+  const days = Array.from({ length: 3 }, (_, offset) => {
     const d = new Date(zdaj);
-    d.setDate(zdaj.getDate() + odmik);
+    d.setDate(zdaj.getDate() + offset);
 
-    const kljuc = mdKljuc(d);
-    const praznik = prazniki.find(p => p.md === kljuc) || null;
-
-    days.push({
+    const datum = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+    const praznik = prazinikiZaLeto(d.getFullYear()).find(p => p.md === mdKljuc(d)) || null;
+    return {
       dan: d.getDate(),
       mesec: d.getMonth() + 1,
       mesecIme: SL_MESECI[d.getMonth()],
       danIme: SL_DNEVI_IME[d.getDay()],
-      praznik: praznik
-        ? { ime: praznik.ime, vrsta: praznik.vrsta }
-        : null,
-      svetovni: svetovni[kljuc] || []
-    });
-  }
-
-  const skupaj = days.reduce((a, d) => a + d.svetovni.length + (d.praznik ? 1 : 0), 0);
-  console.log(`  ✓ Trije dnevi: ${skupaj} oznak skupaj`);
-
-  return { date: dayKey, days };
+      praznik: praznik ? { ime: praznik.ime, vrsta: praznik.vrsta } : null,
+      svetovni: worldDays.forDate(datum).map(ime => ({
+        ime,
+        url: "https://sl.wikipedia.org/wiki/Seznam_praznikov_z_oznako_Svetovni_dan"
+      }))
+    };
+  });
+  return { date: mdKljuc(zdaj), days };
 }
 
 /* ---------------- glavni tok ---------------- */
 
-/*
-  Nekateri stari RSS naslovi se odzivajo, a jih medij ne polni vec
-  (npr. rss.cnn.com je vracal clanke izpred let). Napake ni, zato
-  se brez te preverbe zastarela vsebina tiho prikaze kot novica.
-
-  Prag je namenoma velikodusen: loviti hocemo MRTVE vire (leta stare),
-  ne pa pocasnejsih tematskih virov. Pri 3 dneh je bil prag prestrog
-  in je zavrnil delujoc reutersbest.com.
-*/
-const MAX_FEED_AGE_DAYS = 14;
-
-function feedAgeDays(items) {
-  const dated = items.filter(x => x.date > 0);
-  if (!dated.length) return null; /* brez datumov ne moremo soditi */
-  const newest = Math.max(...dated.map(x => x.date));
-  return (Date.now() - newest) / 86400000;
+async function loadFeeds(source, feeds) {
+  const results = await Promise.allSettled(feeds.map(async feed => {
+    const items = parseFeed(await get(feed), source);
+    console.log(`  ${source.name}: ${newest(items).length} svežih iz ${feed}`);
+    return items;
+  }));
+  return results.flatMap((result, index) => {
+    if (result.status === "fulfilled") return result.value;
+    console.log(`  ${source.name}: ${feeds[index]} -> ${result.reason.message}`);
+    return [];
+  });
 }
 
 async function loadSource(source) {
-  let lastErr = null;
-
-  for (const feed of source.feeds) {
-    try {
-      const xml = await get(feed);
-      const items = parseFeed(xml, source);
-
-      if (!items.length) {
-        console.log(`  · ${source.name}: ${feed} brez uporabnih novic`);
-        continue;
-      }
-
-      const age = feedAgeDays(items);
-      if (age !== null && age > MAX_FEED_AGE_DAYS) {
-        console.log(
-          `  · ${source.name}: ${feed} je ZASTAREL ` +
-            `(najnovejša novica stara ${age.toFixed(1)} dni) - preskakujem`
-        );
-        continue;
-      }
-
-      console.log(`  ✓ ${source.name}: ${items.length} novic iz ${feed}`);
-      return items;
-    } catch (err) {
-      lastErr = err;
-      console.log(`  · ${source.name}: ${feed} -> ${err.message}`);
+  const aggregators = source.feeds.filter(feed => ["news.google.com", "openrss.org"].includes(new URL(feed).hostname));
+  const publisherFeeds = source.feeds.filter(feed => !aggregators.includes(feed));
+  let items = newest(await loadFeeds(source, publisherFeeds), Date.now(), COUNT);
+  if (items.length < COUNT || Date.now() - items[0].date > FALLBACK_AGE) {
+    // Pri Reutersu začnemo s svežimi zadetki za reuters.com; naslednji vir je rezerva.
+    for (const feed of aggregators) {
+      const fallback = await loadFeeds(source, [feed]);
+      items = newest([...items, ...fallback], Date.now(), COUNT);
+      if (items.length === COUNT && Date.now() - items[0].date <= FALLBACK_AGE) break;
     }
   }
-
-  throw lastErr || new Error("ni svežih novic");
+  if (!items.length) throw new Error("ni preverljivih objav v zadnjih 48 urah");
+  return items;
 }
 
 async function enrichImages(source, items) {
@@ -1135,12 +1021,9 @@ async function main() {
     console.log(`(v pomnilniku ${translationCache.size} prevodov)\n`);
   }
 
-  const out = {
-    generatedAt: new Date().toISOString(),
-    sources: {}
-  };
+  const out = { generatedAt: "", sources: {} };
 
-  for (const source of SOURCES) {
+  async function collect(source) {
     try {
       const items = await loadSource(source);
       await resolveGoogleLinks(items);
@@ -1150,20 +1033,25 @@ async function main() {
         await translateItems(source, items, translationCache);
       }
 
-      out.sources[source.id] = items;
+      return [source.id, items];
     } catch (err) {
       console.log(`  ✗ ${source.name}: ${err.message}`);
-      out.sources[source.id] = [];
+      return [source.id, []];
     }
+  }
+
+  // Omejimo vzporednost, da posamezen počasen RSS ne zadrži vseh vrstic.
+  for (let index = 0; index < SOURCES.length; index += 5) {
+    const group = SOURCES.slice(index, index + 5);
+    Object.assign(out.sources, Object.fromEntries(await Promise.all(group.map(collect))));
   }
 
   out.onThisDay = await loadOnThisDay(
     previousFile ? previousFile.onThisDay : null
   );
 
-  out.threeDays = await loadTriDni(
-    previousFile ? previousFile.threeDays : null
-  );
+  out.threeDays = loadTriDni();
+  out.generatedAt = new Date().toISOString();
 
   const target = path.resolve(process.cwd(), OUT_FILE);
   fs.writeFileSync(target, JSON.stringify(out, null, 1), "utf8");
