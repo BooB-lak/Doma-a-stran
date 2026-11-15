@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T05:36:27.355Z",
+ "generatedAt": "2026-11-15T05:38:32.940Z",
  "sources": {
   "siol": [
    {
@@ -79,12 +79,6 @@
   ],
   "rtvslo": [
    {
-    "title": "\"Tekma v Skopju bo ključna, da ustvarimo evforijo in nato bodo tribune na vsaki domači tekmi polne\"",
-    "link": "https://www.rtvslo.si/sport/nogomet/tekma-v-skopju-bo-kljucna-da-ustvarimo-evforijo-in-nato-bodo-tribune-na-vsaki-domaci-tekmi-polne/800090",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/14/67121628.jpg",
-    "date": 1794720830000
-   },
-   {
     "title": "Čančar se je tik pred prihodom Burgosa v Stožice vrnil na parket",
     "link": "https://www.rtvslo.si/sport/kosarka/cancar-se-je-tik-pred-prihodom-burgosa-v-stozice-vrnil-na-parket/800164",
     "image": "https://img.rtvcdn.si/_up/upload/2024/12/05/66315512.jpg",
@@ -113,6 +107,12 @@
     "link": "https://www.rtvslo.si/sport/rokomet/ajdovke-s-se-eno-visoko-zmago-suvereno-med-najboljsih-16/800156",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/14/67121777.jpg",
     "date": 1794686994000
+   },
+   {
+    "title": "Friškovec s sedmimi trojkami popeljala Slovenijo do prve zmage",
+    "link": "https://www.rtvslo.si/sport/kosarka/friskovec-s-sedmimi-trojkami-popeljala-slovenijo-do-prve-zmage/800154",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/14/67121771.jpg",
+    "date": 1794683179000
    }
   ],
   "zurnal": [
@@ -287,13 +287,6 @@
   ],
   "aljazeera": [
    {
-    "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-    "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af933691f04-1794716521.jpg?resize=1920%2C1440",
-    "date": 1794719102000,
-    "titleSl": "V Kambodži se je začel vrh frankofonskih držav sredi spora med Ruando in DR Kongo"
-   },
-   {
     "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
     "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26254425908327-1794714537.jpg?resize=1920%2C1440",
@@ -327,22 +320,29 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794713406.jpg?resize=1920%2C1080&quality=80",
     "date": 1794713429000,
     "titleSl": "Italijanski umetnik na novo interpretira slike Marije, da bi razkril trpljenje Gaze"
+   },
+   {
+    "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+    "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7a35f-1794614111.jpg?resize=1920%2C1440",
+    "date": 1794711546000,
+    "titleSl": "Koalicija pod vodstvom Savdske Arabije je prestregla dve raketi in dva brezpilotna letalnika v Rijadu"
    }
   ],
   "guardian": [
    {
-    "title": "Australia v England: second men’s cricket one-day international – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/990cd8717922d1590bf9ccc120553b28cc11a645/0_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=1bfeccec74db25b906e32bf9f75fab3a",
-    "date": 1794720416000,
-    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
-   },
-   {
     "title": "Australia v New Zealand: Women’s Rugby League World Cup final – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
     "image": "https://i.guim.co.uk/img/media/f98075d62ba04c2767f582ab8493121d9d22d30a/499_0_5354_4283/master/5354.jpg?width=140&quality=85&auto=format&fit=max&s=97e1b459d4bed6efdded4dc0499150fe",
-    "date": 1794720368000,
+    "date": 1794720633000,
     "titleSl": "Avstralija proti Novi Zelandiji: finale svetovnega prvenstva v ragbiju za ženske – v živo"
+   },
+   {
+    "title": "Australia v England: second men’s cricket one-day international – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/990cd8717922d1590bf9ccc120553b28cc11a645/0_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=1bfeccec74db25b906e32bf9f75fab3a",
+    "date": 1794720543000,
+    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
    },
    {
     "title": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Brasilien-Blackout bei „Schlag den Star“ - Frank Thelen erkennt Geburtsland seiner Frau nicht",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/schlag-den-star-frank-thelen-erkennt-geburtsland-seiner-frau-nicht-6af902899849eea0701e323d",
+    "image": "https://images.bild.de/6af902899849eea0701e323d/2631944f9887739135000ead9002bb92,9a8010e0?w=1280",
+    "date": 1794720970000,
+    "titleSl": "Brazilska blokada pri »Schlag den Star« – Frank Thelen ne prepozna rojstne države svoje žene"
+   },
+   {
     "title": "Sieg bei Profi-Debüt - Miss Deutschland schlägt Gegnerin blutig",
     "link": "https://www.bild.de/sport/mehr-sport/tatjana-genrich-blutiges-profi-debuet-nach-15-jahren-ringpause-6af8d262395fd5dc547365cc",
     "image": "https://images.bild.de/6af8d262395fd5dc547365cc/643a130ae0662814a6bfe02c994caa1a,f56544ba?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af870de9849eea0701e2ce7/ad6f7f089b2f06458d6f7fff61968f18,d228fe54?w=1280",
     "date": 1794717190000,
     "titleSl": "Eishockey-HammerEishockey-Hammer – Pokal Nemčije prvič prihaja na vzhod"
-   },
-   {
-    "title": "„Wir machen nur Scheiße!“ - Zweitliga-Trainer explodiert in der Auszeit",
-    "link": "https://www.bild.de/sport/mehr-sport/handball-zweitliga-trainer-explodiert-in-der-auszeit-6af8c6db4495f9bd85b803c4",
-    "image": "https://images.bild.de/6af8c6db4495f9bd85b803c4/695a11b865b4fe86ade37dc4d836908e,e06f8f22?w=1280",
-    "date": 1794716524000,
-    "titleSl": "»Wir machen nur Scheiße!» – Trener druge lige eksplodira med odmorom"
    }
   ],
   "krone": [
@@ -491,18 +491,18 @@
     "titleSl": "»V Evropi moramo začeti z zaviranjem«"
    },
    {
-    "title": "„95 Prozent der Lebensmittel kommen aus Böden“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VUnVUQnJzT2VkejlUejJTYlp5OTU4NUE5a2NRd3ZQcUtPdTEzUnJXOXZkSS1lYXJHR1Z1Q1JxVm1pQQ?oc=5",
+    "title": "Unvergessene Pop-Größe - 10. Todestag von George Michael: Ruhm und Rausch",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBTNzh4TFlvd09Td1FZeFd2UG9oNENodC1TVXFvd2pIYmpnSUJuME5YNFpkU1I1cTRXUEV0N1hzSFJnZw?oc=5",
     "image": "",
     "date": 1794718800000,
-    "titleSl": "»95 odstotkov živil izvira iz tal«"
+    "titleSl": "Nepozabna pop zvezda – 10. Obletnica smrti Georgea Michaela: Slava in omama"
    },
    {
-    "title": "Koalitions-Eskalation - FPÖ lehnt ÖVP-Mann als neuen Flughafen-Boss ab",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zVUd1UlJfU0FCU0U4VmI4TTBkdWZoeU1NUjIyb1RJelJPejh0bHdvQkJ5aWtDVTI5anIwU0dBOEZjZw?oc=5",
+    "title": "Jetzt spricht Familie - Tochter von Diana: „Haben alles für Mama getan!“",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FTURKZkZyTFF5eGktTnJIcjRPSXhEQzJGQi1lb1c4X3ZVeHhpZjNKRlRRU00wbVo4cEZRMHZPSy1BQQ?oc=5",
     "image": "",
     "date": 1794718800000,
-    "titleSl": "Eskalacija v koaliciji – FPÖ zavrača kandidata ÖVP za novega direktorja letališča"
+    "titleSl": "Zdaj spregovori družina – Dianina hči: »Za mamo smo storili vse!«"
    }
   ],
   "rainews": [
@@ -598,7 +598,8 @@
     "title": "La lámpara de luz diurna que gana protagonismo en invierno: qué es y para qué sirve redes",
     "link": "https://elpais.com/escaparate/estilo-de-vida/lampara-luz-diurna-beurer.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DGL5D2AGSBGGXAMTTXWOSVVB6Y.png?auth=18024707ba500c0baa8500d846bf3cf38f153d34a6f21e2baf38a96e12e2d99d",
-    "date": 1794720600000
+    "date": 1794720600000,
+    "titleSl": "Svetilka z dnevno svetlobo, ki pozimi postane pomembna: kaj je in čemu služi – članki"
    },
    {
     "title": "El ritual de tres pasos para iluminar el rostro y conseguir un acabado ‘no-makeup makeup’",
