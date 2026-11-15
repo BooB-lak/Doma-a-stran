@@ -1439,6 +1439,27 @@ body.light-theme .wx-storm .wx-precip{ color:#a56200; }
   gap:9px 6px;
   margin:0;
 }
+.moon-summary{
+  display:grid;
+  grid-template-columns:46px minmax(0,1fr);
+  align-items:center;
+  gap:10px;
+}
+.moon-disc{
+  position:relative;
+  width:46px;
+  aspect-ratio:1;
+  border-radius:50%;
+  overflow:hidden;
+  background:#273140;
+  box-shadow:0 0 0 1px #738097;
+}
+body.light-theme .moon-disc{ background:#304058; }
+.moon-disc-lit{
+  position:absolute;
+  inset:0;
+  background:linear-gradient(145deg,#fff1c6,#c6c3b8);
+}
 .weather-moon .weather-astro-data dl{ grid-template-columns:repeat(2,minmax(0,1fr)); }
 .weather-astro-data dt{
   color:var(--muted);
@@ -2248,6 +2269,33 @@ body.light-theme .day-tag.t-free,body.light-theme .dayinfo-item.t-free{
   max-width:100%;
 }
 
+.daily-photo-body{
+  padding:8px 10px 10px;
+  font-size:12px;
+}
+.daily-photo-image{
+  display:block;
+}
+.daily-photo-image img{
+  display:block;
+  width:100%;
+  max-height:310px;
+  object-fit:contain;
+  border-radius:5px;
+}
+.daily-photo-status{
+  margin:0 0 6px;
+  color:var(--muted);
+}
+.daily-photo-source{
+  display:inline-block;
+  margin-top:5px;
+  color:var(--blue);
+}
+#dailyPhotoBox[hidden], #dailyPhotoBox [hidden]{
+  display:none;
+}
+
 /* Okence sme rasti po visini, ker ni vec omejeno z zgornjo vrsto. */
 .tools-sidebar .otd-item{
   min-height:132px;
@@ -2727,6 +2775,7 @@ body.light-theme .search-suggest-item.active{
   <div class="setting-row"><span>Dovoli spreminjanje velikosti</span><label class="switch"><input id="sResize" type="checkbox" checked><span class="slider"></span></label></div>
   <div class="setting-row"><span>Prikaži robove okenc</span><label class="switch"><input id="sBorders" type="checkbox" checked><span class="slider"></span></label></div>
   <div class="setting-row"><span>Prikaži vreme na desni</span><label class="switch"><input id="sWeather" type="checkbox" checked><span class="slider"></span></label></div>
+  <div class="setting-row"><span id="dailyPhotoSettingLabel">Naključna fotografija (18+)</span><label class="switch"><input id="dailyPhotoSetting" type="checkbox" aria-labelledby="dailyPhotoSettingLabel" aria-controls="dailyPhotoBox"><span class="slider"></span></label></div>
   <div class="setting-row"><span>Sezonski učinek ob miški</span><label class="switch"><input id="sSeason" type="checkbox" checked><span class="slider"></span></label></div>
 
   <div class="setting-row season-pick-row">
@@ -2764,6 +2813,15 @@ body.light-theme .search-suggest-item.active{
         <button type="button" id="otdItem" class="otd-item"
                 title="Klikni za celoten seznam"></button>
       </div>
+
+      <section id="dailyPhotoBox" class="otd-box" aria-labelledby="dailyPhotoTitle" hidden>
+        <div class="otd-head"><span id="dailyPhotoTitle" class="otd-title">Naključna fotografija</span></div>
+        <div class="daily-photo-body">
+          <a id="dailyPhotoImage" class="daily-photo-image" aria-label="Odpri galerijo na PornPics" target="_blank" rel="noopener noreferrer" hidden></a>
+          <p id="dailyPhotoStatus" class="daily-photo-status" role="status"></p>
+          <a id="dailyPhotoSource" class="daily-photo-source" target="_blank" rel="noopener noreferrer">Odpri zadetke na PornPics</a>
+        </div>
+      </section>
     </aside>
 
     <main class="dashboard-main">
@@ -6258,14 +6316,50 @@ function wxMessage(id,message){
   const span=document.createElement("span");
   span.className="news-muted";
   span.textContent=message;
-  qs(id).replaceChildren(span);
+  const target=qs(id);
+  target.classList.remove("moon-summary");
+  target.replaceChildren(span);
 }
 function wxMetrics(id,values){
   qs(id).innerHTML = "<dl>"+values.map(([label,value])=>
     `<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`
   ).join("")+"</dl>";
 }
-function renderAstronomy(daily,index,timeFormat){
+// Open-Meteo poda meno ob lokalnem poldnevu. Vmes jo linearno približamo.
+function moonPhaseAt(daily,index,now){
+  const phase=daily.moon_phase?.[index];
+  const valid=value=>Number.isFinite(value) && value>=0 && value<=1;
+  if(!valid(phase)) return null;
+  const noon=daily.time[index]+43200;
+  const neighbor=now<noon ? index-1 : index+1;
+  const next=daily.moon_phase[neighbor];
+  const nextNoon=daily.time[neighbor]+43200;
+  const gap=nextNoon-noon;
+  if(!valid(next) || !Number.isFinite(gap) || !gap) return phase;
+  const ratio=Math.min(1,Math.max(0,(now-noon)/gap));
+  const difference=((next-phase+1.5)%1)-0.5;
+  return (phase+difference*ratio+1)%1;
+}
+function moonDisc(phase,latitude,label){
+  const side=(phase<=0.5 ? 1 : -1)*(latitude<0 ? -1 : 1);
+  const terminator=Math.cos(2*Math.PI*phase);
+  const point=(angle,x)=>{
+    const y=Math.sin(angle);
+    return (50+50*side*x*Math.cos(angle)).toFixed(2)+"% "+(50+50*y).toFixed(2)+"%";
+  };
+  const points=Array.from({length:33},(_,i)=>point(Math.PI*(i/32-0.5),1));
+  for(let i=32;i>=0;i--) points.push(point(Math.PI*(i/32-0.5),terminator));
+  const icon=document.createElement("span");
+  icon.className="moon-disc";
+  icon.setAttribute("role","img");
+  icon.setAttribute("aria-label",label);
+  const light=document.createElement("span");
+  light.className="moon-disc-lit";
+  light.style.clipPath="polygon("+points.join(",")+")";
+  icon.append(light);
+  return icon;
+}
+function renderAstronomy(daily,index,timeFormat,currentTime,latitude){
   const timeAt=(values,missing="—")=>{
     const value=values?.[index];
     if(!Number.isFinite(value)) return Array.isArray(values) ? missing : "—";
@@ -6278,8 +6372,8 @@ function renderAstronomy(daily,index,timeFormat){
     ["Sončni zahod",timeAt(daily.sunset,"Brez zahoda")],
     ["Dnevna svetloba",minutes===null ? "—" : Math.floor(minutes/60)+" h "+minutes%60+" min"]
   ]);
-  const phase=daily.moon_phase?.[index];
-  const hasPhase=Number.isFinite(phase) && phase>=0 && phase<=1;
+  const phase=moonPhaseAt(daily,index,currentTime);
+  const hasPhase=phase!==null;
   const illumination=hasPhase ? Math.round(50*(1-Math.cos(2*Math.PI*phase))) : null;
   wxMetrics("#moonForecast",[
     ["Mena",hasPhase ? moonPhaseLabel(phase) : "—"],
@@ -6287,6 +6381,9 @@ function renderAstronomy(daily,index,timeFormat){
     ["Vzhod Lune",timeAt(daily.moonrise,"Brez vzhoda")],
     ["Zahod Lune",timeAt(daily.moonset,"Brez zahoda")]
   ]);
+  const moon=qs("#moonForecast");
+  moon.classList.toggle("moon-summary",hasPhase);
+  if(hasPhase) moon.prepend(moonDisc(phase,latitude,moonPhaseLabel(phase)+", približno "+illumination+" % osvetljene površine"));
 }
 /* GURS – Register prostorskih enot (CC BY 4.0), posnetek prek stefanb/gurs-rpe.
    Središča naselij so predhodno pretvorjena iz D96/TM v WGS84. */
@@ -6507,7 +6604,7 @@ async function loadWeather(){
   WX_LOADING_TARGETS.forEach(id=>wxMessage(id,"Nalagam …"));
   try{
     const params=new URLSearchParams({
-      latitude:p.latitude,longitude:p.longitude,timezone:"auto",forecast_days:"5",timeformat:"unixtime",
+      latitude:p.latitude,longitude:p.longitude,timezone:"auto",forecast_days:"5",past_days:"1",timeformat:"unixtime",
       daily:"weather_code,temperature_2m_max,temperature_2m_min,sunrise,sunset,daylight_duration,moonrise,moonset,moon_phase",
       hourly:"temperature_2m,weather_code,precipitation_probability,is_day"
     });
@@ -6523,11 +6620,15 @@ async function loadWeather(){
     const today=dateFormat.format(new Date(now*1000));
     const dayIndex=daily.time.findIndex(t=>dateFormat.format(new Date(t*1000))===today);
 
-    qs("#daily").innerHTML=daily.time.slice(0,5).map((t,i)=>`<div class="forecast-item">
+    const firstDay=Math.max(0,dayIndex);
+    qs("#daily").innerHTML=daily.time.slice(firstDay,firstDay+5).map((t,j)=>{
+      const i=firstDay+j;
+      return `<div class="forecast-item">
       <div class="day">${i===dayIndex ? "danes" : dayFormat.format(new Date(t*1000))}</div>
       <div class="wx-icon">${wxIcon(daily.weather_code?.[i])}</div>
       <div class="temp-hi">${wxNumber(daily.temperature_2m_max?.[i],"°")}</div>
-      <div class="temp-lo">${wxNumber(daily.temperature_2m_min?.[i],"°")}</div></div>`).join("");
+      <div class="temp-lo">${wxNumber(daily.temperature_2m_min?.[i],"°")}</div></div>`;
+    }).join("");
 
     const hourIndex=hourly.time.findIndex(t=>t>=now);
     if(hourIndex<0){
@@ -6546,7 +6647,7 @@ async function loadWeather(){
       wxMessage("#daylightForecast","Podatki za danes niso na voljo.");
       wxMessage("#moonForecast","Podatki za danes niso na voljo.");
     }else{
-      renderAstronomy(daily,dayIndex,timeFormat);
+      renderAstronomy(daily,dayIndex,timeFormat,now,p.latitude);
     }
     weatherLocalDate=dateFormat;
     weatherDateShown=today;
@@ -6611,6 +6712,125 @@ initLowerDividerTracking();
 initClockAndOtd();
 initQuickNews();
 initializeWeatherPlace();
+</script>
+<script>
+(() => {
+  const source = new URL("https://www.pornpics.com/?q=closeup+hairy+pussy");
+  const settingKey = "homepage.photo.enabled";
+  const lastPhotoKey = "homepage.photo.last";
+  const setting = document.getElementById("dailyPhotoSetting");
+  const box = document.getElementById("dailyPhotoBox");
+  const imageLink = document.getElementById("dailyPhotoImage");
+  const status = document.getElementById("dailyPhotoStatus");
+  let activeRequest;
+
+  function readSetting(key) {
+    try { return localStorage.getItem(key); } catch { return null; }
+  }
+
+  function saveSetting(key, value) {
+    try { localStorage.setItem(key, value); } catch {}
+  }
+
+  function siteUrl(value, origin) {
+    if (!value) return null;
+    try {
+      const url = new URL(value, source);
+      return url.origin === origin && !url.username && !url.password ? url : null;
+    } catch {
+      return null;
+    }
+  }
+
+  function findPhotos(html) {
+    const template = document.createElement("template");
+    template.innerHTML = html;
+    const photos = new Map();
+    for (const link of template.content.querySelectorAll(".thumbwook a.rel-link")) {
+      const gallery = siteUrl(link.getAttribute("href"), source.origin);
+      const image = link.querySelector("img");
+      if (!gallery || !/^\/galleries\/[^/]+/.test(gallery.pathname) || !image) continue;
+      const cdn = "https://cdni.pornpics.com";
+      const photo = siteUrl(image.getAttribute("data-src"), cdn) || siteUrl(image.getAttribute("src"), cdn);
+      if (photo) photos.set(photo.origin + photo.pathname, { src: photo.href, gallery: gallery.href });
+    }
+    return photos;
+  }
+
+  function loadPhoto(src, signal) {
+    const image = new Image();
+    image.alt = "Fotografija iz iskanja na PornPics";
+    image.referrerPolicy = "no-referrer";
+    return new Promise(resolve => {
+      const interrupted = () => finish(false);
+      const timer = setTimeout(interrupted, 3500);
+      function finish(loaded) {
+        clearTimeout(timer);
+        signal.removeEventListener("abort", interrupted);
+        image.onload = null;
+        image.onerror = null;
+        if (!loaded) image.removeAttribute("src");
+        resolve(loaded ? image : null);
+      }
+      if (signal.aborted) return interrupted();
+      signal.addEventListener("abort", interrupted, { once: true });
+      image.onload = () => finish(true);
+      image.onerror = interrupted;
+      image.src = src;
+    });
+  }
+
+  async function showPhoto() {
+    activeRequest?.abort();
+    box.hidden = !setting.checked;
+    imageLink.hidden = true;
+    imageLink.replaceChildren();
+    if (box.hidden) return;
+
+    const request = new AbortController();
+    activeRequest = request;
+    const timeout = setTimeout(() => request.abort(), 12000);
+    status.hidden = false;
+    status.textContent = "Nalagam fotografijo …";
+    try {
+      const response = await fetch(source, {
+        signal: request.signal, credentials: "omit", cache: "no-cache", referrerPolicy: "no-referrer"
+      });
+      if (!response.ok) throw new Error("Iskanje ni dosegljivo.");
+
+      const photos = findPhotos(await response.text());
+      if (photos.size > 1) photos.delete(readSetting(lastPhotoKey));
+      const candidates = [...photos.entries()];
+      while (candidates.length && !request.signal.aborted) {
+        const index = Math.floor(Math.random() * candidates.length);
+        const [[key, photo]] = candidates.splice(index, 1);
+        const image = await loadPhoto(photo.src, request.signal);
+        if (!image || request.signal.aborted) continue;
+        imageLink.href = photo.gallery;
+        imageLink.replaceChildren(image);
+        imageLink.hidden = false;
+        status.hidden = true;
+        saveSetting(lastPhotoKey, key);
+        return;
+      }
+    } catch {
+      // Povezava do zadetkov ostane na voljo tudi, ko se slika ne naloži.
+    } finally {
+      clearTimeout(timeout);
+      if (activeRequest === request && !box.hidden && !status.hidden) {
+        status.textContent = "Fotografija trenutno ni dosegljiva.";
+      }
+    }
+  }
+
+  document.getElementById("dailyPhotoSource").href = source.href;
+  setting.checked = readSetting(settingKey) === "1";
+  setting.addEventListener("change", () => {
+    saveSetting(settingKey, setting.checked ? "1" : "0");
+    showPhoto();
+  });
+  if (setting.checked) showPhoto();
+})();
 </script>
 </body>
 </html>
