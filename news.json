@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T05:28:30.969Z",
+ "generatedAt": "2026-11-15T05:31:04.447Z",
  "sources": {
   "siol": [
    {
@@ -155,6 +155,34 @@
   ],
   "reuters": [
    {
+    "title": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack",
+    "link": "https://www.reuters.com/world/americas/guatemala-decrees-state-emergency-two-departments-after-lawmaker-killed-attack-2026-11-15/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ALL7NWWQAFJTXJLH452SVFNQO4.jpg",
+    "date": 1794719099000,
+    "titleSl": "Gvatemala je po napadu, v katerem je bil ubit poslanec, v dveh departmajih razglasila izredno stanje"
+   },
+   {
+    "title": "Philippines, Australia sign defence pact with eye on China",
+    "link": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NS5FX6VKVNJ6TBK5TTWF6TUVTI.jpg",
+    "date": 1794718171000,
+    "titleSl": "Filipini in Avstralija sta podpisala obrambni sporazum s poudarkom na Kitajski"
+   },
+   {
+    "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+    "link": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CLD5J4LXD5J6LAWIHFPX574A7Y.jpg",
+    "date": 1794717943000,
+    "titleSl": "Najboljši rezultat na južnokorejskem davčnem izpitu je dosegel kandidat, ki je priznal goljufanje z umetno inteligenco"
+   },
+   {
+    "title": "Bahrain's interior ministry issues alerts of potential threats",
+    "link": "https://www.reuters.com/world/middle-east/bahrains-interior-ministry-issues-alerts-potential-threats-2026-11-15/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/466BJJQ7PVGY5O53NZ3KL65MHM.png",
+    "date": 1794716753000,
+    "titleSl": "Bahrajnsko ministrstvo za notranje zadeve izdaja opozorila o morebitnih grožnjah"
+   },
+   {
     "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
     "link": "https://www.reuters.com/world/middle-east/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province-2026-11-15/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MNAFVRNWZZLWFCDF6MJ5GEC3J4.jpg",
@@ -167,34 +195,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ISNVLN44NFLTZEKWY22LI7D5I4.jpg",
     "date": 1794710571000,
     "titleSl": "Vodja Zvezne uprave za letalstvo ZDA (FAA) pravi, da bodo motnje v letalskem prometu v ZDA trajale do poznega nedeljskega večera."
-   },
-   {
-    "title": "US aviation shutdown blamed on L3 Harris installed router",
-    "link": "https://www.reuters.com/business/aerospace-defense/us-aviation-shutdown-blamed-l3-harris-installed-router-2026-11-14/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MEOBGSFHWVPO5OGHJQ7UAFMIRE.jpg",
-    "date": 1794701591000,
-    "titleSl": "Za zaustavitev letalskega prometa v ZDA je kriv usmerjevalnik, ki ga je namestilo podjetje L3 Harris"
-   },
-   {
-    "title": "Pope Leo visits remote Andes town on special stop of Peru tour",
-    "link": "https://www.reuters.com/world/americas/pope-leo-visits-remote-andes-town-special-stop-peru-tour-2026-11-14/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3IK5HWYSYZPKHJ377D3LY5DY5M.jpg",
-    "date": 1794701503000,
-    "titleSl": "Papež Frančišek je v okviru svojega obiska v Peruju obiskal oddaljeno mesto v Andih"
-   },
-   {
-    "title": "UK's Prince William to be joined by wife Kate for visit to India",
-    "link": "https://www.reuters.com/business/environment/uks-prince-william-be-joined-by-wife-kate-visit-india-2026-11-15/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V2ZUXA5XG5K4TAJORBDAFSPSKA.jpg",
-    "date": 1794701043000,
-    "titleSl": "Britanskega princa Williama bo na obisku v Indiji spremljala žena Kate"
-   },
-   {
-    "title": "‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown",
-    "link": "https://www.reuters.com/business/aerospace-defense/i-dont-know-what-do-student-pilot-first-solo-flight-caught-us-shutdown-2026-11-14/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KRH3NKJX6ZJPDJQ3W7WISNUG4Q.jpg",
-    "date": 1794699377000,
-    "titleSl": "»Ne vem, kaj naj storim«: študent pilot na svojem prvem samostojnem letu je ujet v zaprtje vlade v ZDA"
    }
   ],
   "nyt": [
@@ -325,23 +325,24 @@
     "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
     "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7a35f-1794614111.jpg?resize=1920%2C1440",
-    "date": 1794711546000
+    "date": 1794711546000,
+    "titleSl": "Koalicija pod vodstvom Savdske Arabije je prestregla dve raketi in dva brezpilotna letalnika v Rijadu"
    }
   ],
   "guardian": [
    {
-    "title": "Australia v New Zealand: Women’s Rugby League World Cup final – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
-    "image": "https://i.guim.co.uk/img/media/fcf7dd1d96e2cd7516f34729e174b738caf6e90a/577_0_4652_3721/master/4652.jpg?width=140&quality=85&auto=format&fit=max&s=ee785b780b99c7d3662f8b9638570c02",
-    "date": 1794719706000,
-    "titleSl": "Avstralija proti Novi Zelandiji: finale svetovnega prvenstva v ragbiju za ženske – v živo"
-   },
-   {
     "title": "Australia v England: second men’s cricket one-day international – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
     "image": "https://i.guim.co.uk/img/media/990cd8717922d1590bf9ccc120553b28cc11a645/0_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=1bfeccec74db25b906e32bf9f75fab3a",
-    "date": 1794719469000,
+    "date": 1794720416000,
     "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
+   },
+   {
+    "title": "Australia v New Zealand: Women’s Rugby League World Cup final – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
+    "image": "https://i.guim.co.uk/img/media/f98075d62ba04c2767f582ab8493121d9d22d30a/499_0_5354_4283/master/5354.jpg?width=140&quality=85&auto=format&fit=max&s=97e1b459d4bed6efdded4dc0499150fe",
+    "date": 1794720368000,
+    "titleSl": "Avstralija proti Novi Zelandiji: finale svetovnega prvenstva v ragbiju za ženske – v živo"
    },
    {
     "title": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
@@ -418,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Sieg bei Profi-Debüt - Miss Deutschland schlägt Gegnerin blutig",
+    "link": "https://www.bild.de/sport/mehr-sport/tatjana-genrich-blutiges-profi-debuet-nach-15-jahren-ringpause-6af8d262395fd5dc547365cc",
+    "image": "https://images.bild.de/6af8d262395fd5dc547365cc/643a130ae0662814a6bfe02c994caa1a,f56544ba?w=1280",
+    "date": 1794720605000,
+    "titleSl": "Zmaga pri profesionalnem debiju – Miss Nemčije je nasprotnico pretepla do krvi"
+   },
+   {
     "title": "Dreier-Gipfel soll in China stattfinden - Putin bestätigt historisches Treffen mit Trump und Xi",
     "link": "https://www.bild.de/politik/ausland-und-internationales/trump-putin-und-xi-historisches-dreier-treffen-in-shenzhen-geplant-6af92a1e9849eea0701e32d5",
     "image": "https://images.bild.de/6af92a1e9849eea0701e32d5/a34323fd172d3a7d53817c59e4f877bd,d00507c?w=1280",
@@ -451,13 +459,6 @@
     "image": "https://images.bild.de/6af8c6db4495f9bd85b803c4/695a11b865b4fe86ade37dc4d836908e,e06f8f22?w=1280",
     "date": 1794716524000,
     "titleSl": "»Wir machen nur Scheiße!» – Trener druge lige eksplodira med odmorom"
-   },
-   {
-    "title": "Nvidia und die Affäre um Jensen Huang - Hier verspielt er sein Milliarden-Reich",
-    "link": "https://www.bild.de/politik/nvidia-und-die-affaere-um-jensen-huang-im-fegefeuer-der-lust-6af892939849eea0701e2e8c",
-    "image": "https://images.bild.de/6af892939849eea0701e2e8c/12ad1bfef0696537ea00a2a585454b9d,8ec2cd29?w=1280",
-    "date": 1794715671000,
-    "titleSl": "Nvidia in afera okoli Jensena Huanga – tukaj je zapravil svoj milijardni imperij"
    }
   ],
   "krone": [
@@ -490,17 +491,18 @@
     "titleSl": "»V Evropi moramo začeti z zaviranjem«"
    },
    {
-    "title": "„95 Prozent der Lebensmittel kommen aus Böden“",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VUnVUQnJzT2VkejlUejJTYlp5OTU4NUE5a2NRd3ZQcUtPdTEzUnJXOXZkSS1lYXJHR1Z1Q1JxVm1pQQ?oc=5",
+    "title": "Schlager glänzt - Die ÖFB-Noten: Einer kam, sah und traf zum Sieg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wN09qajFEcnZ6QWVkbGUzYm5iZkRHSnlsMjdGMUlZZ2ZQa1p1VWxHbGx6bGQ4c1VOTTk4b0pvRWtmQQ?oc=5",
     "image": "",
-    "date": 1794718800000
+    "date": 1794718680000,
+    "titleSl": "Schlager blesti – Ocene avstrijske nogometne zveze: Prišel je, videl in zadel za zmago"
    },
    {
-    "title": "Koalitions-Eskalation - FPÖ lehnt ÖVP-Mann als neuen Flughafen-Boss ab",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zVUd1UlJfU0FCU0U4VmI4TTBkdWZoeU1NUjIyb1RJelJPejh0bHdvQkJ5aWtDVTI5anIwU0dBOEZjZw?oc=5",
+    "title": "Nations League - Frankreich, Italien & Co. ab 20.45 Uhr im Einsatz",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nYnM0aGYxSGR4cGVkZjhMRkJxeU9ydkwwdHZjSGQ2S3NxbjhKQXF2M1pTSVdaQm83dGVaUWVJNC03Zw?oc=5",
     "image": "",
-    "date": 1794718800000,
-    "titleSl": "Eskalacija v koaliciji – FPÖ zavrača kandidata ÖVP za novega direktorja letališča"
+    "date": 1794717720000,
+    "titleSl": "Liga narodov – Francija, Italija in druge reprezentance bodo na igrišču od 20.45 ure dalje"
    }
   ],
   "rainews": [
