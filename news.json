@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T06:06:28.189Z",
+ "generatedAt": "2026-11-15T06:08:31.569Z",
  "sources": {
   "siol": [
    {
@@ -53,6 +53,12 @@
     "date": 1794722402000
    },
    {
+    "title": "Košarkarske copate na klin obesil eden najboljših ostrostrelcev v ligi NBA",
+    "link": "https://www.24ur.com/sport/kosarka/kosarkarske-cevlje-na-klin-obesil-eden-najboljsih-ostrostrelecv-v-ligi-nba.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/e7a4155e834a2225505b_63679427.jpg?v=923c&fop=fp:0.49:0.47",
+    "date": 1794718816000
+   },
+   {
     "title": "Tehnik se je že januarja brutalno znesel nad pacientom? Družina ima pet zahtev",
     "link": "https://www.24ur.com/novice/tujina/kristianova-druzina-ima-pet-zahtev.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2026/e5e7285c70fb871bb801_63629468.jpg?v=db96&fop=fp:0.47:0.56",
@@ -69,12 +75,6 @@
     "link": "https://www.24ur.com/sport/nogomet/tukaj-so-navijaci-bolj-za-fuzbal-v-ljubljani-pa.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/fbdef48e3e3fa87f92d8_63679287.jpg?v=9ebf&fop=fp:0.48:0.55",
     "date": 1794683895000
-   },
-   {
-    "title": "Jure Knez kot prvi Slovenec na seznamu 50 izjemnih voditeljev z vsega sveta",
-    "link": "https://www.24ur.com/novice/gospodarstvo/jure-knez-kot-prvi-slovenec-na-seznamu-50-izjemnih-voditeljev-z-vsega-sveta.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/6e0e808258a77222ce16_63679455.jpg?v=7b97&fop=fp:0.38:0.39",
-    "date": 1794682144000
    }
   ],
   "rtvslo": [
@@ -208,7 +208,7 @@
    {
     "title": "Late in Life, Here’s What I Know",
     "link": "https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/arts/15rosenblatt-still/15rosenblatt-still-facebookJumbo-v5.jpg",
+    "image": "",
     "date": 1794722406000,
     "titleSl": "V poznejših letih življenja vem naslednje"
    },
@@ -229,7 +229,7 @@
    {
     "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
     "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/world/00int-canada-bear/00int-canada-bear-facebookJumbo.jpg",
+    "image": "",
     "date": 1794718870000,
     "titleSl": "V narodnem parku Banff vlada grizli po imenu »Šef«."
    },
@@ -331,18 +331,32 @@
   ],
   "guardian": [
    {
-    "title": "Australia v England: second men’s cricket one-day international – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/990cd8717922d1590bf9ccc120553b28cc11a645/0_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=1bfeccec74db25b906e32bf9f75fab3a",
-    "date": 1794722192000,
-    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
+    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+    "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d86f59594943d3e382cf380ea2fd4e71",
+    "date": 1794722406000,
+    "titleSl": "»Jensen Huang je znorel«: kako je najpametnejši človek na področju umetne inteligence nasedel najstarejšemu triku na svetu"
+   },
+   {
+    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+    "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+    "image": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c",
+    "date": 1794722405000,
+    "titleSl": "Najvišje sodišče na svetu bo odločilo, ali je Mjanmar zagrešil genocid nad Rohingi"
    },
    {
     "title": "Australia v New Zealand: Women’s Rugby League World Cup final – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
     "image": "https://i.guim.co.uk/img/media/5f84ce124814683b2d255bf2f41cb1b4120bdd1f/241_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=904d919527a0d56a751a9b21fd16381e",
-    "date": 1794722187000,
+    "date": 1794722353000,
     "titleSl": "Avstralija proti Novi Zelandiji: finale svetovnega prvenstva v ragbiju za ženske – v živo"
+   },
+   {
+    "title": "Australia v England: second men’s cricket one-day international – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/990cd8717922d1590bf9ccc120553b28cc11a645/0_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=1bfeccec74db25b906e32bf9f75fab3a",
+    "date": 1794722254000,
+    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
    },
    {
     "title": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
@@ -357,20 +371,6 @@
     "image": "https://i.guim.co.uk/img/media/7293fee7c5006470fff711745a36d119e8a64398/1289_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c381cc7d5fb68f46f781d4b2ff1e3086",
     "date": 1794718804000,
     "titleSl": "Pri 17 letih sem hodila s 36-letnikom. Zdaj se mi ta odločitev zdi povsem drugačna | Polly Hudson"
-   },
-   {
-    "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
-    "image": "https://i.guim.co.uk/img/media/52f9c92ccc5c888555d84f9e9f0d23bcefc8dc7f/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fe8c7bfdcd45924c1b6bba78b62c1c09",
-    "date": 1794718354000,
-    "titleSl": "Ameriški sodnik je blokiral Trumpov načrt za prenovo zgodovinskega igrišča za golf v Washingtonu"
-   },
-   {
-    "title": "World leaders head to Asia for back-to-back diplomatic summits",
-    "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-    "image": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
-    "date": 1794715202000,
-    "titleSl": "Svetovni voditelji potujejo v Azijo na zaporedne diplomatske vrhe"
    }
   ],
   "spiegel": [
@@ -463,18 +463,18 @@
   ],
   "krone": [
    {
-    "title": "Dorotheum-Auktion - Max Oppenheimers „Hess-Quartett“ wiederentdeckt",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwVG92OV90WVBlSFRPcDBmaXJCZEVMYmFBV2RwdWhRYV92TzFwQnpqajNjbWRrRVFqcXk2TFQzQWp5QQ?oc=5",
-    "image": "",
-    "date": 1794722400000,
-    "titleSl": "Dražba Dorotheum – Ponovno odkritje »Hessovega kvarteta« Maxa Oppenheimerja"
-   },
-   {
     "title": "Landesversammlung - Führung der Bergrettung Tirol: Mann ersetzt Frau",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QeFpVZml5MGdVRTZSUjhIUkM5eUw3Q1U5b3hQV25IWTVGR1NaY1kxNmxYemhmVkt6ZFlVbndnOE5hQQ?oc=5",
     "image": "",
     "date": 1794722400000,
     "titleSl": "Deželna skupščina – Vodenje gorske reševalne službe na Tirolskem: moški nadomesti žensko"
+   },
+   {
+    "title": "Dorotheum-Auktion - Max Oppenheimers „Hess-Quartett“ wiederentdeckt",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwVG92OV90WVBlSFRPcDBmaXJCZEVMYmFBV2RwdWhRYV92TzFwQnpqajNjbWRrRVFqcXk2TFQzQWp5QQ?oc=5",
+    "image": "",
+    "date": 1794722400000,
+    "titleSl": "Dražba Dorotheum – Ponovno odkritje »Hessovega kvarteta« Maxa Oppenheimerja"
    },
    {
     "title": "„Krone“-Kolumne - Das Comeback der Greta Thunberg",
@@ -565,18 +565,18 @@
     "titleSl": "Iran trdi, da je izvedel napad z droni na ameriško oporišče v Bahrajnu"
    },
    {
-    "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
-    "link": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
-    "image": "https://img.lemde.fr/2026/10/15/430/0/4521/2260/644/322/60/0/edec89f_ftp-1-ecsowwizk5lr-2026-10-15t153251z-1370989464-rc243oaqiyhf-rtrmadp-3-iran-crisis-aramco.JPG",
-    "date": 1794720612000,
-    "titleSl": "Saudova Arabija, kraljevina, ujeta med dvema vojnama, preobremenjena zaradi stopnjevanja regionalnih rivalstev"
-   },
-   {
     "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
     "link": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
     "image": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/ec621ad_upload-1-lwnlnctfp1wj-02-pb-lemonde-ebola-ituri-temoignages-acteurs-riposte.jpg",
     "date": 1794720609000,
     "titleSl": "Šest mesecev epidemije ebole v DR Kongo: pripovedujejo o svojem življenju v ospredju boja proti virusu"
+   },
+   {
+    "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
+    "link": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
+    "image": "https://img.lemde.fr/2026/10/15/430/0/4521/2260/644/322/60/0/edec89f_ftp-1-ecsowwizk5lr-2026-10-15t153251z-1370989464-rc243oaqiyhf-rtrmadp-3-iran-crisis-aramco.JPG",
+    "date": 1794720601000,
+    "titleSl": "Saudova Arabija, kraljevina, ujeta med dvema vojnama, preobremenjena zaradi stopnjevanja regionalnih rivalstev"
    },
    {
     "title": "Le lent déclin économique de la France face au reste de l’Europe",
