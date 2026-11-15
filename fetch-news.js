@@ -19,6 +19,8 @@ const { publicationDate, newest } = require("./news-freshness.js");
 
 const COUNT = 6;
 const FALLBACK_AGE = 24 * 60 * 60 * 1000;
+const REUTERS_WORLD_FEED = "https://feed.quanwenrss.com/feed/reuters-world.xml";
+const REUTERS_FALLBACK_AGE = 6 * 60 * 60 * 1000;
 const OUT_FILE = process.env.NEWS_OUT || "news.json";
 
 const UA =
@@ -59,6 +61,8 @@ const SOURCES = [
     homepage: "https://www.reuters.com/",
     translate: true,
     feeds: [
+      // Vir Reuters World vsebuje neposredne povezave do člankov in fotografij.
+      REUTERS_WORLD_FEED,
       "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
       "https://openrss.org/reuters.com/world"
     ]
@@ -891,7 +895,15 @@ function loadTriDni() {
 
 async function loadFeeds(source, feeds) {
   const results = await Promise.allSettled(feeds.map(async feed => {
-    const items = parseFeed(await get(feed), source);
+    let items = parseFeed(await get(feed), source);
+    if (feed === REUTERS_WORLD_FEED) {
+      items = items.filter(item => {
+        const article = new URL(item.link);
+        return article.protocol === "https:" &&
+          ["www.reuters.com", "reuters.com"].includes(article.hostname) &&
+          article.pathname !== "/" && item.image;
+      });
+    }
     console.log(`  ${source.name}: ${newest(items).length} svežih iz ${feed}`);
     return items;
   }));
@@ -905,13 +917,13 @@ async function loadFeeds(source, feeds) {
 async function loadSource(source) {
   const aggregators = source.feeds.filter(feed => ["news.google.com", "openrss.org"].includes(new URL(feed).hostname));
   const publisherFeeds = source.feeds.filter(feed => !aggregators.includes(feed));
+  const fallbackAge = source.id === "reuters" ? REUTERS_FALLBACK_AGE : FALLBACK_AGE;
   let items = newest(await loadFeeds(source, publisherFeeds), Date.now(), COUNT);
-  if (items.length < COUNT || Date.now() - items[0].date > FALLBACK_AGE) {
-    // Pri Reutersu začnemo s svežimi zadetki za reuters.com; naslednji vir je rezerva.
+  if (items.length < COUNT || Date.now() - items[0].date > fallbackAge) {
     for (const feed of aggregators) {
       const fallback = await loadFeeds(source, [feed]);
       items = newest([...items, ...fallback], Date.now(), COUNT);
-      if (items.length === COUNT && Date.now() - items[0].date <= FALLBACK_AGE) break;
+      if (items.length === COUNT && Date.now() - items[0].date <= fallbackAge) break;
     }
   }
   if (!items.length) throw new Error("ni preverljivih objav v zadnjih 48 urah");
