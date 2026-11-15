@@ -158,16 +158,8 @@ const SOURCES = [
     homepage: "https://www.krone.at/",
     translate: true,
     lang: "DE",
-    /*
-      Krone RSS ne tece na krone.at, ampak na api.krone.at -
-      zato so prejsnji trije naslovi odpovedali in vir je padel
-      na Google News, kjer povezav ni mogoce razresiti (nova
-      oblika "AU_yqL..." se ne da dekodirati) in zato ni slik.
-    */
     feeds: [
-      "https://api.krone.at/v1/rss/rssfeed-nachrichten",
-      "https://api.krone.at/v1/rss/rssfeed-krone",
-      "https://api.krone.at/v1/rss/rssfeed-oesterreich",
+      "https://api.krone.at/v1/rss/rssfeed-google.xml?id=2311992",
       "https://openrss.org/www.krone.at",
       "https://news.google.com/rss/search?q=site%3Akrone.at%20when%3A1d&hl=de&gl=AT&ceid=AT%3Ade"
     ]
@@ -272,6 +264,7 @@ function looksLikeImage(u) {
 function isRejectedImage(u) {
   const s = String(u || "").toLowerCase();
   return (
+    /^https?:\/\/static\d*\.nyt\.com\/newsgraphics\/images\/icons\/defaultPromoCrop\.png(?:[?#]|$)/i.test(s) ||
     /news\.google\.com/.test(s) ||
     /\bgstatic\.com/.test(s) ||
     /lh\d+\.googleusercontent\.com/.test(s) ||
@@ -303,15 +296,26 @@ async function get(url, timeoutMs = 20000, asText = true) {
 
 /* ---------------- iskanje slik ---------------- */
 
-function imageFromItemBlock(block, base) {
+function imageFromItemBlock(block, base, preferLargest = false) {
   // media:content / media:thumbnail / enclosure / image
   const attrRx =
     /<(?:media:)?(?:content|thumbnail|enclosure|image)\b[^>]*?\b(?:url|src|href)\s*=\s*["']([^"']+)["'][^>]*>/gi;
+  let bestImage = "";
+  let bestWidth = -1;
   let m;
   while ((m = attrRx.exec(block)) !== null) {
     const u = absoluteUrl(decodeEntities(m[1]), base);
-    if (u && looksLikeImage(u) && !isRejectedImage(u)) return u;
+    if (!u || !looksLikeImage(u) || isRejectedImage(u)) continue;
+    if (!preferLargest) return u;
+
+    // Guardian objavi več podpisanih velikosti iste slike. Uporabi celoten objavljeni URL.
+    const width = Number(m[0].match(/\swidth\s*=\s*["'](\d+)["']/i)?.[1] || 0);
+    if (width > bestWidth) {
+      bestImage = u;
+      bestWidth = width;
+    }
   }
+  if (bestImage) return bestImage;
 
   // <image><url>...</url></image>
   const inner = block.match(/<image\b[^>]*>[\s\S]*?<url>([\s\S]*?)<\/url>/i);
@@ -432,7 +436,7 @@ function parseFeed(xml, source) {
     items.push({
       title,
       link,
-      image: imageFromItemBlock(block, link),
+      image: imageFromItemBlock(block, link, source.id === "guardian"),
       date
     });
   }
@@ -918,7 +922,12 @@ async function loadSource(source) {
   const aggregators = source.feeds.filter(feed => ["news.google.com", "openrss.org"].includes(new URL(feed).hostname));
   const publisherFeeds = source.feeds.filter(feed => !aggregators.includes(feed));
   const fallbackAge = source.id === "reuters" ? REUTERS_FALLBACK_AGE : FALLBACK_AGE;
-  let items = newest(await loadFeeds(source, publisherFeeds), Date.now(), COUNT);
+  let published = await loadFeeds(source, publisherFeeds);
+  if (source.id === "nyt") {
+    const images = new Map(published.filter(item => item.image).map(item => [item.link, item.image]));
+    published = published.map(item => item.image ? item : { ...item, image: images.get(item.link) || "" });
+  }
+  let items = newest(published, Date.now(), COUNT);
   if (items.length < COUNT || Date.now() - items[0].date > fallbackAge) {
     for (const feed of aggregators) {
       const fallback = await loadFeeds(source, [feed]);
@@ -1039,6 +1048,14 @@ async function main() {
     try {
       const items = await loadSource(source);
       await resolveGoogleLinks(items);
+      if (source.id === "nyt") {
+        const previousImages = new Map((previousFile?.sources?.nyt || [])
+          .filter(item => item.image && !isRejectedImage(item.image))
+          .map(item => [item.link, item.image]));
+        for (const item of items) {
+          if (!item.image) item.image = previousImages.get(item.link) || "";
+        }
+      }
       await enrichImages(source, items);
 
       if (source.translate) {

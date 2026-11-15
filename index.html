@@ -1707,6 +1707,8 @@ body.light-theme .lower-section-divider{
 .quick-news-card a:hover .quick-news-image{
   transform:scale(1.015);
 }
+:is(#quickNews-nyt,#quickNews-guardian) .quick-news-image{object-fit:contain}
+:is(#quickNews-nyt,#quickNews-guardian) .quick-news-card a:hover .quick-news-image{transform:none}
 .quick-news-title{
   margin-top:9px;
   color:var(--text);
@@ -4513,8 +4515,7 @@ const QUICK_NEWS_SOURCES = [
     name:"Kronen Zeitung",
     homepage:"https://www.krone.at/",
     feeds:[
-      "https://api.krone.at/v1/rss/rssfeed-nachrichten",
-      "https://api.krone.at/v1/rss/rssfeed-krone",
+      "https://api.krone.at/v1/rss/rssfeed-google.xml?id=2311992",
       "https://openrss.org/www.krone.at",
       "https://news.google.com/rss/search?q=site%3Akrone.at%20when%3A1d&hl=de&gl=AT&ceid=AT%3Ade"
     ]
@@ -4550,8 +4551,10 @@ const QUICK_NEWS_SOURCES = [
 ];
 
 function quickNewsSafeUrl(value){
+  const url=String(value||"").trim();
+  if(!url) return "";
   try{
-    const u=new URL(String(value||"").trim(),location.href);
+    const u=new URL(url,location.href);
     if(u.protocol==="http:" || u.protocol==="https:") return u.href;
   }catch(_){}
   return "";
@@ -4639,13 +4642,15 @@ function quickNewsLooksLikeImageUrl(value){
   );
 }
 
-function quickNewsExtractImage(item,articleUrl){
+function quickNewsExtractImage(item,articleUrl,preferLargest=false){
   /*
     Pomembno: media:thumbnail / media:content sta XML namespace elementa.
     querySelector("media\\:thumbnail") v nekaterih brskalnikih in RSS-jih
     ni zanesljiv, zato tukaj pregledamo localName + namespaceURI.
   */
   const all=[...item.getElementsByTagName("*")];
+  let bestImage="";
+  let bestWidth=-1;
 
   for(const node of all){
     const local=String(node.localName||node.nodeName||"").toLowerCase();
@@ -4680,11 +4685,16 @@ function quickNewsExtractImage(item,articleUrl){
 
     for(const candidate of candidates){
       const url=quickNewsAbsoluteUrl(candidate,articleUrl);
-      if(url && (isImageNode || quickNewsLooksLikeImageUrl(url))){
-        return url;
+      if(!url) continue;
+      if(!preferLargest) return url;
+      const width=Number(node.getAttribute("width"))||0;
+      if(width>bestWidth){
+        bestImage=url;
+        bestWidth=width;
       }
     }
   }
+  if(bestImage) return bestImage;
 
   /*
     Rezerva: poišči katerikoli XML atribut z zelo verjetnim slikovnim URL-jem.
@@ -4714,12 +4724,13 @@ function quickNewsExtractImage(item,articleUrl){
 }
 
 const QUICK_NEWS_IMAGE_PROXY_IDS=new Set([
-  "rtvslo","zurnal","reuters","nyt","bbc","aljazeera",
-  "guardian","spiegel","bild","krone","rainews","lemonde","elpais"
+  "rtvslo","zurnal","reuters","bbc","aljazeera",
+  "spiegel","bild","krone","rainews","lemonde","elpais"
 ]);
 
 function quickNewsDisplayImageUrl(imageUrl,source){
   const original=quickNewsSafeUrl(imageUrl);
+  if(source.id==="nyt" && /^https?:\/\/static\d*\.nyt\.com\/newsgraphics\/images\/icons\/defaultPromoCrop\.png(?:[?#]|$)/i.test(original)) return "";
   if(!original) return "";
 
   if(!QUICK_NEWS_IMAGE_PROXY_IDS.has(source.id)){
@@ -4851,7 +4862,7 @@ function quickNewsParseXml(xmlText,source){
     return {
       title,
       link,
-      image:quickNewsExtractImage(node,link||source.homepage),
+      image:quickNewsExtractImage(node,link||source.homepage,source.id==="guardian"),
       date
     };
   }).filter(x=>x.title && x.link);
@@ -5103,6 +5114,7 @@ function quickNewsCardHtml(item,source,index){
             src="${esc(displayImage)}"
             data-original-image="${esc(originalImage)}"
             alt=""
+            ${source.id==="nyt"?'referrerpolicy="no-referrer"':""}
             loading="${index<2?"eager":"lazy"}">`
     : `<div class="quick-news-placeholder">${esc(source.name)}</div>`;
 
