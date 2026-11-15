@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T16:38:30.285Z",
+ "generatedAt": "2026-11-15T16:40:47.487Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Ded, Xpeng, čuj!",
+    "link": "https://www.rtvslo.si/kolumne/ded-xpeng-cuj/800209",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/15/67121921.jpg",
+    "date": 1794760753000
+   },
+   {
     "title": "Čehi množično proti vladnemu načrtu glede financiranja javnih medijev",
     "link": "https://www.rtvslo.si/svet/evropa/cehi-mnozicno-proti-vladnemu-nacrtu-glede-financiranja-javnih-medijev/800212",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/15/67121922.jpg",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/kultura/film-in-tv/nordijska-kriminalisticna-serija-hildur-na-tv-slo-in-knjizna-predloga-v-mmc-jevi-nagradni-igri/800195",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/03/67118362.jpg",
     "date": 1794750473000
-   },
-   {
-    "title": "Z biološkimi vzorci do identitete žrtev vojnega ali povojnega nasilja",
-    "link": "https://www.rtvslo.si/slovenija/z-bioloskimi-vzorci-do-identitete-zrtev-vojnega-ali-povojnega-nasilja/800196",
-    "image": "https://img.rtvcdn.si/_up/upload/2020/10/03/65702760.jpg",
-    "date": 1794749119000
    }
   ],
   "zurnal": [
@@ -720,14 +720,14 @@
     "title": "NFL week 10: Patriots v Lions, and more – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live",
     "image": "https://i.guim.co.uk/img/media/2517a27b9af0eca379d42f67bcae4b76bb19e462/295_0_2716_2174/master/2716.jpg?width=700&quality=85&auto=format&fit=max&s=bb94f111f5857e9e3dcea24fecd91f37",
-    "date": 1794760086000,
+    "date": 1794760194000,
     "titleSl": "10. teden lige NFL: Patriots proti Lions in še več – v živo"
    },
    {
     "title": "Scotland v Australia: Nations Championship rugby union – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/scotland-v-australia-nations-championship-rugby-union-live",
     "image": "https://i.guim.co.uk/img/media/6047e982a547181e4960bd4511bb64d56a8a304e/326_0_4240_3393/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=9500a3c74a27861f7b551fb1572c6ff4",
-    "date": 1794760078000,
+    "date": 1794760142000,
     "titleSl": "Škotska proti Avstraliji: Pokal narodov v ragbiju – v živo"
    },
    {
@@ -889,6 +889,27 @@
   ],
   "bild": [
    {
+    "title": "Huangs angebliche Geliebte abgetaucht - Nvidias Top-Managerin im Affärenstrudel",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/huangs-angebliche-geliebte-kimberly-powell-ist-mitten-im-skandal-abgetaucht-nvidias-top-managerin-im-affaerenstrudel-6af59692c45061d752ba7b29",
+    "image": "https://images.bild.de/6af59692c45061d752ba7b29/018b8d326fcae6f23b46fa210ca3a3c1,84ba0235?w=1280",
+    "date": 1794760608000,
+    "titleSl": "Huangova domnevna ljubimka je izginila – vodilna menedžerka pri podjetju Nvidia v vrtincu afere"
+   },
+   {
+    "title": "Identität des Mannes im Internet gestohlen - Betrüger zocken Frauen mit diesem Möbelverkäufer ab",
+    "link": "https://www.bild.de/news/ausland/identitaet-im-internet-gestohlen-millionenbetrug-mit-diesem-moebelverkaeufer-6af979d44468a1e3991a2ffe",
+    "image": "https://images.bild.de/6af979d44468a1e3991a2ffe/fe4d7697f4a1f27e2fe1d41320be1aea,d425eff6?w=1280",
+    "date": 1794760541000,
+    "titleSl": "Identiteta moškega je bila ukradena na internetu – goljufi prevarajo ženske s tem prodajalcem pohištva"
+   },
+   {
+    "title": "Zwickau wollte ihn - Jetzt sich Patz entschieden",
+    "link": "https://www.bild.de/sport/fussball/zwickau-wollte-ihn-als-trainer-jetzt-hat-sich-patz-entschieden-6af9db759849eea0701e3c95",
+    "image": "https://images.bild.de/6af9db759849eea0701e3c95/f6d6ca9f5605deed12465244172ded1f,a7b71b60?w=1280",
+    "date": 1794760540000,
+    "titleSl": "Zwickau ga je želel – zdaj se je Patz odločil"
+   },
+   {
     "title": "NFL-Spektakel in München - Jetzt wird sogar Silbereisen zum Football-Fan",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/nfl-spektakel-in-muenchen-jetzt-wird-sogar-silbereisen-zum-football-fan-6af9cea14468a1e3991a358a",
     "image": "https://images.bild.de/6af9cea14468a1e3991a358a/71addde30a0582e2b4bd59a1dcbba1db,91d48202?w=1280",
@@ -950,30 +971,23 @@
     "image": "https://images.bild.de/6af8d2d94495f9bd85b8042b/c02352771d84099916057c8b4f5860d9,b0e80f11?w=1280",
     "date": 1794759615000,
     "titleSl": "Raketa velikan je bila prvič ponovno prestrežena – Elon Musk piše vesoljsko zgodovino"
-   },
-   {
-    "title": "Chinas Elektroflieger hebt erstmals ab - Dieser Jet fliegt nur mit Strom!",
-    "link": "https://www.bild.de/news/comac-ce-25a-erster-bemannter-flug-19-passagiere-auf-kurzstrecken-6af880f9389d31d8c8a80678",
-    "image": "https://images.bild.de/6af880f9389d31d8c8a80678/7aeecf04bc946f8f01703c07769a5039,6dde45c4?w=1280",
-    "date": 1794759589000,
-    "titleSl": "Kitajsko električno letalo prvič poleti – to letalo leti samo na elektriko!"
-   },
-   {
-    "title": "Tödlicher Unfall in Berlin - Das sagt die Polizei zum Tod des Kindes",
-    "link": "https://www.bild.de/news/berlin-tiergarten-kind-stirbt-nach-fahrradsturz-unter-bus-6af8b75d9849eea0701e307f",
-    "image": "https://images.bild.de/6af8b75d9849eea0701e307f/fbc423db52d6f9fffebc272f9fc6fe22-landscape,ce77f26b?w=1280",
-    "date": 1794759550000,
-    "titleSl": "Smrtna nesreča v Berlinu – to pravi policija o smrti otroka"
-   },
-   {
-    "title": "Hamburg erlebt Microsoft-Moment - Totaler Systemabsturz beim HCH",
-    "link": "https://www.bild.de/regional/hamburg/hbl-hamburg-erlebt-microsoft-moment-totaler-systemabsturz-beim-hch-6af99cad4495f9bd85b80d72",
-    "image": "https://images.bild.de/6af99cad4495f9bd85b80d72/845ca5ed79f1372709152275150b54b1,748e0162?w=1280",
-    "date": 1794759480000,
-    "titleSl": "Hamburg doživlja Microsoftov trenutek – popolna sistemska okvara v podjetju HCH"
    }
   ],
   "krone": [
+   {
+    "title": "Eishockey-WM - US-Frauen stürmen mit 5:0-Sieg ins Finale",
+    "link": "https://www.krone.at/4376972",
+    "image": "https://imgl.krone.at/scaled/4376976/v4a4a1e/full.jpg",
+    "date": 1794760697000,
+    "titleSl": "Svetovno prvenstvo v hokeju na ledu – Ameriške hokejistke so z zmago s 5:0 prodrle v finale"
+   },
+   {
+    "title": "Sind „Wahnsinnige“ - Sadisten-Netzwerk hat unsere Kinder im Visier",
+    "link": "https://www.krone.at/4376478",
+    "image": "https://imgl.krone.at/scaled/4110120/v2226b1/full.jpg",
+    "date": 1794760654000,
+    "titleSl": "Ali so »norci« – sadistična mreža, ki ima na muhi naše otroke?"
+   },
    {
     "title": "Das Tierheim lädt ein - Hier treffen sich Senioren und Katzen zum Kaffee",
     "link": "https://www.krone.at/4376208",
@@ -994,13 +1008,6 @@
     "image": "https://imgl.krone.at/scaled/4376825/v44b1db/full.jpg",
     "date": 1794759916000,
     "titleSl": "Južna Tirolska in Vorarlberg – Veliko ponovno srečanje na božični tržnici"
-   },
-   {
-    "title": "Sind „Wahnsinnige“ - Sadisten-Netzwerk hat unsere Kinder im Visier",
-    "link": "https://www.krone.at/4376478",
-    "image": "https://imgl.krone.at/scaled/4110120/v2226b1/full.jpg",
-    "date": 1794759816000,
-    "titleSl": "Ali so »norci« – sadistična mreža, ki ima na muhi naše otroke?"
    },
    {
     "title": "Hilfe für Gabriel - „Dass er mich nicht als Mama wahrnimmt, tut weh!“",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4376763/v43871b/full.jpg",
     "date": 1794758520000,
     "titleSl": "Gledališče Schauspielhaus Graz – Izbrisati nacistične zločine z Elfriede Jelinek"
-   },
-   {
-    "title": "Zwei Insassen verletzt - Lenker (18) mit Auto auf Böschung geschleudert",
-    "link": "https://www.krone.at/4376695",
-    "image": "https://imgl.krone.at/scaled/4135264/ve3d561/full.jpg",
-    "date": 1794758447000,
-    "titleSl": "Dva potnika sta bila poškodovana – voznik (18 let) je z avtomobilom trčil v nasip"
    }
   ],
   "rainews": [
