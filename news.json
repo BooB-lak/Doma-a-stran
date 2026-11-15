@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T12:26:27.629Z",
+ "generatedAt": "2026-11-15T12:28:31.590Z",
  "sources": {
   "siol": [
    {
@@ -208,14 +208,14 @@
    {
     "title": "Iran Attacks Bahrain for the Second Time in Days",
     "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-    "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "image": "",
     "date": 1794744424000,
     "titleSl": "Iran je že drugič v nekaj dneh napadel Bahrajn"
    },
    {
     "title": "The Flaw at the Heart of Anthropic’s I.P.O.",
     "link": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/arts/15opinions-sarin-video-image/15opinions-sarin-video-image-facebookJumbo.png",
+    "image": "",
     "date": 1794740409000,
     "titleSl": "Pomanjkljivost v središču prve javne ponudbe delnic podjetja Anthropic"
    },
@@ -250,6 +250,13 @@
     "titleSl": "Dominantna Avstralija je v finalu svetovnega prvenstva za moške premagala Novo Zelandijo"
    },
    {
+    "title": "Man dies after being hit by ambulance near Sunderland",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy492w3wpwo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "date": 1794745197000,
+    "titleSl": "Moški je umrl po tem, ko ga je zadelo rešilno vozilo v bližini Sunderlanda"
+   },
+   {
     "title": "McIlroy wins record-equalling eighth European title",
     "link": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac2e/live/af1f1b20-e0e5-11f1-a701-fddedf244c16.jpg",
@@ -276,16 +283,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7754/live/74669a10-e051-11f1-8d5a-49633fbae59d.jpg",
     "date": 1794743511000,
     "titleSl": "»Na to smo čakali 73 let« – navijači Walesa so navdušeni po zmagi nad Novo Zelandijo"
-   },
-   {
-    "title": "Minister backs legal right to job support for young people",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/494d/live/2803a660-e0e0-11f1-8175-3108136b4191.jpg",
-    "date": 1794743479000,
-    "titleSl": "Minister podpira zakonsko pravico mladih do podpore pri zaposlovanju"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+    "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/163A5524-1-1794734694.jpg?resize=1920%2C1440",
+    "date": 1794744165000,
+    "titleSl": "Obleganje industrijskega območja Beit Ula v Hebronu ogroža palestinsko gospodarstvo"
+   },
    {
     "title": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
     "link": "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss",
@@ -320,13 +327,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261115__D7HJ4XJ__v1__HighRes__CricketNzlInd-1794725094.jpg?resize=1920%2C1440",
     "date": 1794739956000,
     "titleSl": "Indijsko zmago nad Pakistanom na azijskem prvenstvu za igralce do 19 let je zasenčilo nasilje po tekmi"
-   },
-   {
-    "title": "Spain football coach denies racism ahead of England match",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794738386.jpg?resize=1920%2C1080&quality=80",
-    "date": 1794738508000,
-    "titleSl": "Španski nogometni trener pred tekmo z Anglijo zanika rasizem"
    }
   ],
   "guardian": [
@@ -334,7 +334,7 @@
     "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
     "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
-    "date": 1794744679000,
+    "date": 1794745285000,
     "titleSl": "Iran je napadel letalsko oporišče v Bahrajnu, ko so se napadi v Zalivu nadaljevali – kriza na Bližnjem vzhodu v živo"
    },
    {
@@ -419,18 +419,25 @@
   ],
   "bild": [
    {
-    "title": "„Wenn wir losgehen, wird es teuer!“ - Sabia Boulahrouz: Ihre Tochter ist ganz die Mama",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sabia-boulahrouz-erster-roter-teppich-mit-tochter-katharina-6af6cd62559aca3d9f9927fb",
-    "image": "https://images.bild.de/6af6cd62559aca3d9f9927fb/843803abed482c6708bd57b5248163fb,165a13a?w=1280",
-    "date": 1794745430000,
-    "titleSl": "»Ko greva ven, bo drago!«» – Sabia Boulahrouz: Njena hči je čisto taka kot mama"
-   },
-   {
     "title": "Abgelehnte Asylbewerber - Deutschland plant Abschiebezentrum in Ruanda",
     "link": "https://www.bild.de/politik/ausland-und-internationales/abgelehnte-asylbewerber-deutschland-plant-abschiebezentrum-in-ruanda-6af995219849eea0701e3848",
     "image": "https://images.bild.de/6af995219849eea0701e3848/7933dfd16a490e01b5901083312b50a0,ffab1e15?w=1280",
-    "date": 1794745233000,
+    "date": 1794745630000,
     "titleSl": "Zavrnjeni prosilci za azil – Nemčija načrtuje center za deportacijo v Ruandi"
+   },
+   {
+    "title": "Papst Leo hebt ab - Vater unser im Heli",
+    "link": "https://www.bild.de/news/ausland/ja-diese-bilder-sind-echt-papst-leo-xiv-im-militaerhubschrauber-6af964a74468a1e3991a2ed3",
+    "image": "https://images.bild.de/6af964a74468a1e3991a2ed3/f89d5b78ac11588c3653da6dc0f53474,a8298e14?w=1280",
+    "date": 1794745564000,
+    "titleSl": "Papež Frančišek vzleta – Oče naš v nebesih"
+   },
+   {
+    "title": "„Wenn wir losgehen, wird es teuer!“ - Tochter von Sabia Boulahrouz ist ganz die Mama",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/sabia-boulahrouz-erster-roter-teppich-mit-tochter-katharina-6af6cd62559aca3d9f9927fb",
+    "image": "https://images.bild.de/6af6cd62559aca3d9f9927fb/843803abed482c6708bd57b5248163fb,165a13a?w=1280",
+    "date": 1794745561000,
+    "titleSl": "»Ko greva ven, bo drago!» – Hči Sabie Boulahrouz je čisto taka kot mama"
    },
    {
     "title": "Blutgerinnsel in der Lunge entdeckt - Patriots-Star kämpfte sich nach lebensgefährlicher Diagnose zurück",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af989624495f9bd85b80b60/3056f46b5a9f28e85bda680cf6d0bf6e,17aba392?w=1280",
     "date": 1794744726000,
     "titleSl": "Ali se Saarbrücken krepi? – Alarm v obrambi pri FCS-ju!"
-   },
-   {
-    "title": "Für das NFL-Spiel in München - Klopp drückt Football-Star die Daumen",
-    "link": "https://www.bild.de/sport/mehr-sport/fuer-das-nfl-spiel-in-muenchen-klopp-drueckt-football-star-die-daumen-6af8907513cac723aac70cd9",
-    "image": "https://images.bild.de/6af8907513cac723aac70cd9/cacfa27cc878e215253cd77577365c9e,28d2600c?w=1280",
-    "date": 1794744725000,
-    "titleSl": "Za tekmo lige NFL v Münchnu – Klopp drži pesti za nogometno zvezdo"
    }
   ],
   "krone": [
@@ -507,6 +507,13 @@
   ],
   "rainews": [
    {
+    "title": "La madre di Chiara, morta in un incidente stradale: \"Non è stata una fatalità, si poteva evitare\"",
+    "link": "https://www.rainews.it/video/2026/11/la-madre-di-chiara-morta-a-23-anni-in-un-incidente-stradale-non-e-stata-una-fatalita-si-poteva-evitare-358c55b9-6cb5-4e7a-b5ac-b501bf35210e.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/15/1794745107972_.png",
+    "date": 1794745080000,
+    "titleSl": "Mati Chiare, ki je umrla v prometni nesreči: »To ni bila nesreča, bilo bi jo mogoče preprečiti.«"
+   },
+   {
     "title": "Passeggero ubriaco e armato di coltello sul volo Islanda-Milano, fermato dall&#x27;equipaggio dell&#x27;aereo",
     "link": "https://www.rainews.it/articoli/2026/11/passeggero-ubriaco-e-armato-di-coltello-sul-volo-islanda-milano-fermato-dallequipaggio-dellaereo-6d56edfd-a017-408f-997b-ba4b92b272d8.html",
     "image": "https://www.rainews.it/dl/img/2024/08/21/1724234882923_rainewsbaafbae.jpg",
@@ -540,13 +547,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/15/1794733203494_Screenshot__alle_...png",
     "date": 1794742200000,
     "titleSl": "V Rimu se začenja »Corri Libera«, združeni proti nasilju nad ženskami"
-   },
-   {
-    "title": "Qualità della vita 2026, Bolzano è la provincia in cui si vive meglio in Italia, l&#x27;ultima è Taranto",
-    "link": "https://www.rainews.it/articoli/2026/11/qualita-della-vita-2026-bolzano-e-la-provincia-in-cui-si-vive-meglio-in-italia-lultima-e-taranto-27c766c7-1b75-453e-85af-c6d32288a09d.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/15/1794742412105_large.jpg",
-    "date": 1794742020000,
-    "titleSl": "Kakovost življenja 2026: Bolzano je provinca z najboljšo kakovostjo življenja v Italiji, na zadnjem mestu pa je Taranto"
    }
   ],
   "lemonde": [
@@ -595,13 +595,6 @@
   ],
   "elpais": [
    {
-    "title": "El meteórico vuelo de Rafa Jódar, un debutante extraordinario: “Todavía no lo he asimilado”",
-    "link": "https://elpais.com/deportes/tenis/2026-11-15/el-meteorico-vuelo-de-rafa-jodar-un-debutante-extraordinario-todavia-no-lo-he-asimilado.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/AM6FOYGYCVFSZBC3MXG7CCHB2Q.jpg?auth=beb4ee88d723e1e8b43ed66ad07b0749ff323ea6f2c4b05ef329d7e73ed150ad",
-    "date": 1794745525000,
-    "titleSl": "Meteorološki polet Rafa Jódarja, izjemnega novinca: »Še vedno tega nisem dojel.«"
-   },
-   {
     "title": "Campaña electoral 29N y actualidad política, en directo | Sánchez asegura que estas elecciones son un referéndum entre “la buena política y la mala educación”",
     "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/RUOIDAPXYNLRLB6HJLR5VW444E.jpg?auth=bf078fb0a6501d6c39ee88e15d8ba03fec19efc242ea844593b50e4b288629ea",
@@ -609,18 +602,18 @@
     "titleSl": "Volilna kampanja 29. novembra in aktualna politična dogajanja v živo | Sánchez trdi, da so te volitve referendum med »dobro politiko in slabo vzgojo«"
    },
    {
-    "title": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
-    "link": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/K26KCW54FRMP5IX2DW5H7EM74M.jpg?auth=73a35e027fc136bf8cdac04ec20c8998e4a6a5dbb7804aa6909a7794975ad753",
-    "date": 1794744917000,
-    "titleSl": "Migracijska pot na Kanarske otoke je zabeležila rekordno število prihodov v enem samem dnevu – 1.500 oseb"
-   },
-   {
     "title": "CC OO convoca huelga en Navidad en el transporte por carretera por el retraso del Gobierno en el anticipo de la jubilación",
     "link": "https://elpais.com/economia/2026-11-15/cc-oo-convoca-huelga-en-navidad-en-el-transporte-de-mercancias-por-el-retraso-del-gobierno-en-el-anticipo-de-la-jubilacion.html",
     "image": "https://imagenes.elpais.com/resizer/v2/3CA7Y2JU6VHM3ITCWHJISF6B4M.jpg?auth=9ad8d9c0a86b3e6873f658672d6c556acfcfc05457d3e54aca0eaf93b3b78f8b",
     "date": 1794741576000,
     "titleSl": "Sindikat CC OO poziva k božični stavki v cestnem prometu zaradi zamude vlade pri predčasnem upokojevanju"
+   },
+   {
+    "title": "El meteórico vuelo de Rafa Jódar, un debutante extraordinario: “Todavía no lo he asimilado”",
+    "link": "https://elpais.com/deportes/tenis/2026-11-15/el-meteorico-vuelo-de-rafa-jodar-un-debutante-extraordinario-todavia-no-lo-he-asimilado.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/AM6FOYGYCVFSZBC3MXG7CCHB2Q.jpg?auth=beb4ee88d723e1e8b43ed66ad07b0749ff323ea6f2c4b05ef329d7e73ed150ad",
+    "date": 1794740525000,
+    "titleSl": "Meteorološki polet Rafa Jódarja, izjemnega novinca: »Še vedno tega nisem dojel.«"
    },
    {
     "title": "La Orquestra de la Comunitat Valenciana narra a Schumann con Thomas Hengelbrock antes de desembarcar en Madrid",
@@ -635,6 +628,13 @@
     "image": "https://imagenes.elpais.com/resizer/v2/L4M6KP56NBMLVJE4F62YBPULAY.jpg?auth=966dac2e8dc3a48a8c6a2d505edc3882635458597f5a4fd5c4b087ff46d7225b",
     "date": 1794736956000,
     "titleSl": "Osamljenost učitelja v učilnici in kako jo odpraviti"
+   },
+   {
+    "title": "Los bomberos buscan a una persona tras el derrumbe de una casa en Riba-roja d’Ebre (Tarragona)",
+    "link": "https://elpais.com/espana/catalunya/2026-11-15/los-bomberos-buscan-a-una-persona-tras-el-derrumbe-de-una-casa-en-riba-roja-debre-tarragona.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/MIJL6AG3EFJIZPUDQVHR2CD7VE.jpg?auth=757e6c05ba42b53b0dde79cdd0cd2576619be087aae1f08cbf8ce6b35bfd75ae",
+    "date": 1794733180000,
+    "titleSl": "Gasilci iščejo osebo po zrušenju hiše v Riba-roja d'Ebre (Tarragona)"
    }
   ]
  },
