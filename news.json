@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T08:42:29.546Z",
+ "generatedAt": "2026-11-15T08:44:30.054Z",
  "sources": {
   "siol": [
    {
@@ -41,6 +41,12 @@
   ],
   "24ur": [
    {
+    "title": "Odprlo se je več kot 3100 volišč, Janša svoj glas že oddal",
+    "link": "https://www.24ur.com/novice/slovenija/odprlo-se-je-vec-kot-3100-volisc-volivci-izbirajo-zupane-in-svetnike.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/aa074eea11a397131b3f_63679477.jpg?v=dd5e&fop=fp:0.41:0.47",
+    "date": 1794732124000
+   },
+   {
     "title": "Najprej zagorelo v industrijskem obratu, nato še med pripravo kosila",
     "link": "https://www.24ur.com/novice/crna-kronika/najprej-zagorelo-v-industrijskem-obratu-nato-se-med-pripravo-kosila.html",
     "image": "https://images.24ur.com/media/images/213xX/Apr2022/de03fa9910968d438d15_62707763.jpg?v=68bb&fop=fp:0.47:0.41",
@@ -57,12 +63,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/hci-brada-pitta-in-angeline-jolie-zaradi-motenj-hranjenja-na-zdravljenju-bilo-je-tezko.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/62ba456146729600f903_63679281.jpg?v=a350&fop=fp:0.40:0.29",
     "date": 1794731095000
-   },
-   {
-    "title": "Odprlo se je več kot 3100 volišč, Janša svoj glas že oddal",
-    "link": "https://www.24ur.com/novice/slovenija/odprlo-se-je-vec-kot-3100-volisc-volivci-izbirajo-zupane-in-svetnike.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/aa074eea11a397131b3f_63679477.jpg?v=dd5e&fop=fp:0.41:0.47",
-    "date": 1794729704000
    },
    {
     "title": "United naj bi Pochettinu plačeval milijon evrov na mesec",
@@ -117,6 +117,12 @@
   ],
   "zurnal": [
    {
+    "title": "Tepeš spregovoril o šokantnem slovesu Klinčeve: \"Ema se je odločila, kot se je ...\"",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/tepes-spregovoril-o-sokantnem-slovesu-klinceve-ema-se-je-odlocila-kot-se-je-468252",
+    "image": "https://www.zurnal24.si/media/img/df/6e/96d65e410696aead6633.jpeg",
+    "date": 1794732120000
+   },
+   {
     "title": "Ravnanje Slovencev razbesnelo Hrvate: \"V 33 letih dela tega še nisem videl\"",
     "link": "https://www.zurnal24.si/svet/ravnanje-slovencev-razbesnelo-hrvate-v-33-letih-dela-tega-se-nisem-videl-468250",
     "image": "https://www.zurnal24.si/media/img/55/cb/8fe655ace09d397f2511.jpeg",
@@ -145,12 +151,6 @@
     "link": "https://www.zurnal24.si/moj-sanjski-siht/mene-umetna-inteligenca-ze-tako-dobro-pozna-da-bi-me-lahko-cez-leto-klonirala-468115",
     "image": "https://www.zurnal24.si/media/img/05/38/a4908b029f50afae828c.jpeg",
     "date": 1794722640000
-   },
-   {
-    "title": "Za 14.500 evrov so na cesto narisali rumene pike. Vozniki naj bi zaradi njih vozili počasneje!",
-    "link": "https://www.zurnal24.si/avto/za-14-500-evrov-so-na-cesto-narisali-rumene-pike-vozniki-naj-bi-zaradi-njih-vozili-pocasneje-467799",
-    "image": "https://www.zurnal24.si/media/img/92/10/40a9b10655b299d5ea07.jpeg",
-    "date": 1794720300000
    }
   ],
   "reuters": [
@@ -208,7 +208,7 @@
    {
     "title": "Thoughts Near the End of a Life",
     "link": "https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/arts/15rosenblatt-still/15rosenblatt-still-facebookJumbo-v5.jpg",
+    "image": "",
     "date": 1794726870000,
     "titleSl": "Misli ob koncu življenja"
    },
@@ -229,7 +229,7 @@
    {
     "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
     "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/world/00int-canada-bear/00int-canada-bear-facebookJumbo.jpg",
+    "image": "",
     "date": 1794718870000,
     "titleSl": "V narodnem parku Banff vlada grizli po imenu »Šef«."
    },
@@ -331,25 +331,25 @@
   ],
   "guardian": [
    {
-    "title": "Australia v England: second men’s cricket one-day international – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/2efa3cae28ef07bf506cba3d7e5c73611cb81f06/310_0_3940_3152/master/3940.jpg?width=140&quality=85&auto=format&fit=max&s=9f8b6e36e121dc850447941684e7bf1a",
-    "date": 1794731382000,
-    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
+    "title": "Spain v England Nations League buildup, WSL and more – matchday live",
+    "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb",
+    "date": 1794731524000,
+    "titleSl": "Priprave na tekmo Španija – Anglija v Ligi narodov, WSL in še več – tekme v živo"
    },
    {
     "title": "Australia v New Zealand: men’s Rugby League World Cup final – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates",
     "image": "https://i.guim.co.uk/img/media/d11dd3f82b969d1596d10a695eedbc6c0931b1ff/443_0_2678_2143/master/2678.jpg?width=140&quality=85&auto=format&fit=max&s=3c88c90b879dc104d097053e65b00b80",
-    "date": 1794731364000,
+    "date": 1794731519000,
     "titleSl": "Avstralija proti Novi Zelandiji: finale svetovnega prvenstva v ragbiju lige za moške – v živo"
    },
    {
-    "title": "Spain v England Nations League buildup, WSL and more – matchday live",
-    "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-    "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb",
-    "date": 1794730794000,
-    "titleSl": "Priprave na tekmo Španija – Anglija v Ligi narodov, WSL in še več – tekme v živo"
+    "title": "Australia v England: second men’s cricket one-day international – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/2efa3cae28ef07bf506cba3d7e5c73611cb81f06/310_0_3940_3152/master/3940.jpg?width=140&quality=85&auto=format&fit=max&s=9f8b6e36e121dc850447941684e7bf1a",
+    "date": 1794731382000,
+    "titleSl": "Avstralija proti Angliji: druga enodnevna mednarodna tekma v kriketu za moške – v živo"
    },
    {
     "title": "Alexander Zverev’s troubled start as world No 1 sums up dismal year for men’s tennis | Tumaini Carayol",
@@ -359,18 +359,18 @@
     "titleSl": "Težaven začetek Alexandra Zvereva kot svetovnega številka 1 povzema slabo leto za moški tenis | Tumaini Carayol"
    },
    {
-    "title": "First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title",
-    "link": "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report",
-    "image": "https://i.guim.co.uk/img/media/6fa84a9839fa30bda787fcb339fbd11df603b2ca/680_0_6275_5022/master/6275.jpg?width=140&quality=85&auto=format&fit=max&s=8fa2241a7f1b3385f954d1c30406861b",
-    "date": 1794726945000,
-    "titleSl": "Bliskovita igra v prvem polčasu je Avstraliji zagotovila četrti zaporedni naslov svetovnega prvaka v ženski ligi ragbija"
+    "title": "Oxford is platforming race baiter Nathan Cofnas. I know how corrosive that will be for Black students | Ebony Riddell Bamber",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/15/oxford-platforming-nathan-cofnas-black-students-frank-ellis",
+    "image": "https://i.guim.co.uk/img/media/e43550ba5e2245323342c27646ca576dbdd814e0/913_0_4572_3657/master/4572.jpg?width=140&quality=85&auto=format&fit=max&s=f4ef13847d27713919fc7debc73d5b72",
+    "date": 1794729608000,
+    "titleSl": "Oxford daje prostor rasnemu provokatorju Nathanu Cofnasu. Vem, kako škodljivo bo to za temnopolte študente | Ebony Riddell Bamber"
    },
    {
-    "title": "‘I’m scared about my future’: young people on the stress and desperation of jobseeking",
-    "link": "https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health",
-    "image": "https://i.guim.co.uk/img/media/962538406383ce8589ef6c12e49d06bf4d7bd20f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d47b08485d3e533ad8cb313161759ff4",
-    "date": 1794726007000,
-    "titleSl": "»Bojim se za svojo prihodnost«: mladi o stresu in obupu pri iskanju zaposlitve"
+    "title": "Looking for an ancient tree worth a detour? There’s an app for that",
+    "link": "https://www.theguardian.com/environment/2026/nov/15/ancient-tree-worth-a-detour-digital-app-",
+    "image": "https://i.guim.co.uk/img/media/ce56556d167751942e141bd2234a3648f37a95e5/0_12_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=b18e2a7ec88b9398730ad52c5f5c59cb",
+    "date": 1794729607000,
+    "titleSl": "Iščete starodavno drevo, zaradi katerega se splača narediti ovinek? Za to obstaja aplikacija"
    }
   ],
   "spiegel": [
@@ -419,6 +419,13 @@
   ],
   "bild": [
    {
+    "title": "Exklusive Turtel-Fotos mit Boxerin - Bei Eros Ramazzotti schlägt die Liebe zu",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/eros-ramazzotti-weltexklusive-schmuse-fotos-diese-boxerin-haut-ihn-um-6af829a453bfd3fb2fb17f2c",
+    "image": "https://images.bild.de/6af829a453bfd3fb2fb17f2c/d45634b5f1f9ec0e2c26cfc8e1b79b9f,f1af920d?w=1280",
+    "date": 1794732196000,
+    "titleSl": "Ekskluzivne fotografije para z boksarko – Pri Erosu Ramazzottiju se prebuja ljubezen"
+   },
+   {
     "title": "„Beste Atmosphäre“ - So schwärmt Tom Brady vom München-Spiel",
     "link": "https://www.bild.de/sport/mehr-sport/beste-atmosphaere-die-er-je-erlebt-hat-so-schwaermt-tom-brady-vom-muenchen-spiel-6af850f59849eea0701e2b32",
     "image": "https://images.bild.de/6af850f59849eea0701e2b32/35211c12a402b8ff11b54c0fb55e4ac2-landscape,d0f96c61?w=1280",
@@ -452,13 +459,6 @@
     "image": "https://images.bild.de/6af8c6db4495f9bd85b803c4/695a11b865b4fe86ade37dc4d836908e,e06f8f22?w=1280",
     "date": 1794730838000,
     "titleSl": "»Wir machen nur Scheiße!» – Trener druge lige eksplodira med odmorom"
-   },
-   {
-    "title": "Eishockey-HammerEishockey-Hammer - Deutschland Cup kommt erstmals in den Osten",
-    "link": "https://www.bild.de/sport/mehr-sport/eishockey-der-deutschland-cup-kommt-erstmals-in-den-osten-6af870de9849eea0701e2ce7",
-    "image": "https://images.bild.de/6af870de9849eea0701e2ce7/ad6f7f089b2f06458d6f7fff61968f18,d228fe54?w=1280",
-    "date": 1794730665000,
-    "titleSl": "Eishockey-HammerEishockey-Hammer – Pokal Nemčije prvič prihaja na vzhod"
    }
   ],
   "krone": [
