@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T13:12:30.996Z",
+ "generatedAt": "2026-11-16T13:14:30.555Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,12 @@
   ],
   "24ur": [
    {
+    "title": "Nova prevara: zloraba številk pri registraciji Viber računov",
+    "link": "https://www.24ur.com/novice/slovenija/zloraba-telefonskih-stevilk-pri-registraciji-viber-racunov.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/fd34d161deeb58bb100e_63680158.png?v=6251&fop=fp:0.50:0.57",
+    "date": 1794834540000
+   },
+   {
     "title": "Janša: V drugem krogu ljubljanskih volitev bodo naši volivci ostali doma",
     "link": "https://www.24ur.com/novice/slovenija-odloca/jansa-v-drugem-krogu-ljubljanskih-volitev-bodo-nasi-volivci-ostali-doma.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/7f7f3b93ae2b9059d81e_63680146.jpg?v=5a63&fop=fp:0.31:0.73",
@@ -141,15 +147,15 @@
     "link": "https://www.24ur.com/sport/nogomet/mijatovic-pred-severno-makedonijo-zelo-pomembna-tekma-tezko-bo.html",
     "image": "https://images.24ur.com/media/images/213xX/Jan2026/6c19104bb00a5de52447_63527830.jpg?v=1ed4&fop=fp:0.45:0.26",
     "date": 1794824313000
-   },
-   {
-    "title": "Avto Aleksandre Prijović v plamenih: je šlo za nameren požig?",
-    "link": "https://www.24ur.com/popin/tuja-scena/avto-aleksandre-prijovic-v-plamenih-je-slo-za-nameren-pozig.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/96a438d1a7346094f64f_63680046.png?v=3ba9&fop=fp:0.44:0.48",
-    "date": 1794823904000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Evropska komisija odobrila državno pomoč avtoprevoznikom",
+    "link": "https://www.rtvslo.si/gospodarstvo/evropska-komisija-odobrila-drzavno-pomoc-avtoprevoznikom/800294",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122173.jpg",
+    "date": 1794834730000
+   },
    {
     "title": "Doba slikark: dve umetnici, ki sta v 18. stoletju osvojili evropske dvore",
     "link": "https://www.rtvslo.si/kultura/vizualna-umetnost/doba-slikark-dve-umetnici-ki-sta-v-18-stoletju-osvojili-evropske-dvore/800285",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/slovenija/prvi-krog-lokalnih-volitev-visja-udelezba-slaba-zastopanost-zensk-in-pomoc-umetne-inteligence/800264",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122112.jpg",
     "date": 1794829818000
-   },
-   {
-    "title": "Putin, Trump in Ši v svetu brez pravil: Kdo bo odločal?",
-    "link": "https://www.rtvslo.si/svet/azija-z-oceanijo/putin-trump-in-si-v-svetu-brez-pravil-kdo-bo-odlocal/800279",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122151.jpg",
-    "date": 1794828977000
    }
   ],
   "zurnal": [
@@ -545,18 +545,18 @@
   ],
   "bbc": [
    {
+    "title": "Russell Brand prison message denying rape 'appalling' and being investigated, No 10 says",
+    "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg",
+    "date": 1794834743000,
+    "titleSl": "Po besedah predstavnika vlade je sporočilo Russlla Branda iz zapora, v katerem zanika posilstvo in trdi, da je obtožba »grozljiva«, predmet preiskave."
+   },
+   {
     "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
     "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
     "date": 1794833684000,
     "titleSl": "Pet držav EU naj bi napovedalo ustanovitev centra za deportacijo migrantov v Ruandi"
-   },
-   {
-    "title": "Russell Brand prison message denying rape 'appalling' and being investigated, No 10 says",
-    "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/020200b0-e1b2-11f1-9a3f-99aca912798e.jpg",
-    "date": 1794832915000,
-    "titleSl": "Po besedah predstavnika vlade je sporočilo Russlla Branda iz zapora, v katerem zanika posilstvo in trdi, da je obtožba »grozljiva«, predmet preiskave."
    },
    {
     "title": "Man sentenced over 'horrific' attempted murder of three children in Dublin",
@@ -787,7 +787,7 @@
     "titleSl": "Izjava blagovne znamke iz zapora, v kateri trdi, da je nedolžen, je »šokantna« in bi lahko pomenila kršitev pravil, pravijo na Downing Streetu – britanska politika v živo"
    },
    {
-    "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+    "title": "Ukraine hits Kerch Bridge between Russia and occupied Crimea",
     "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
     "image": "https://i.guim.co.uk/img/media/5d9bc8ebc5b7c43c5302bea08323e6024d72f453/860_0_4299_3439/master/4299.jpg?width=700&quality=85&auto=format&fit=max&s=7876044d7b2edfcc5febf4af6ce1d026",
     "date": 1794833109000,
@@ -977,8 +977,22 @@
     "title": "Abstimmung wiederholt - Nach Landtag-Eklat liegt jetzt neues Gutachten vor",
     "link": "https://www.krone.at/4377773",
     "image": "https://imgl.krone.at/scaled/4314537/v579586/full.jpg",
-    "date": 1794834683000,
+    "date": 1794834833000,
     "titleSl": "Glasovanje se ponavlja – po škandalu v deželnem zboru je zdaj na voljo novo mnenje"
+   },
+   {
+    "title": "Trotz Sprachförderung - Sieben von zehn Kindern tun sich in Deutsch schwer",
+    "link": "https://www.krone.at/4377852",
+    "image": "https://imgl.krone.at/scaled/4162258/v331363/full.jpg",
+    "date": 1794834809000,
+    "titleSl": "Kljub spodbujanju učenja jezika – sedem od desetih otrok ima težave z nemščino"
+   },
+   {
+    "title": "Getrennte Abstimmungen - Trotz Annäherung neue Groteske um Wehrdienstreform",
+    "link": "https://www.krone.at/4377660",
+    "image": "https://imgl.krone.at/scaled/4370027/ve212c2/full.jpg",
+    "date": 1794834750000,
+    "titleSl": "Ločena glasovanja – Kljub zbliževanju nova grozljivka o reformi vojaške službe"
    },
    {
     "title": "Astro-Vorschau: - „Diesen Montag habe ich im Kalender vorgemerkt“",
@@ -1042,20 +1056,6 @@
     "image": "https://imgl.krone.at/scaled/4377098/ve62fa6/full.jpg",
     "date": 1794833814000,
     "titleSl": "ATP Finals v Tickerju – zdaj V ŽIVO: Ali bo Carlos Alcaraz spodletel proti ameriškemu igralcu?"
-   },
-   {
-    "title": "„Schwieriges Thema“ - Alexander Zverev kämpft um Einbürgerung seiner Oma",
-    "link": "https://www.krone.at/4377588",
-    "image": "https://imgl.krone.at/scaled/4377608/v33377e/full.jpg",
-    "date": 1794833744000,
-    "titleSl": "»Težka tema« – Alexander Zverev se bori za državljanstvo svoje babice"
-   },
-   {
-    "title": "Schwere Krankheit - Biermösl-Blosn-Mitgründer Michael Well gestorben",
-    "link": "https://www.krone.at/4377828",
-    "image": "https://imgl.krone.at/scaled/4377851/v9b9403/full.jpg",
-    "date": 1794833397000,
-    "titleSl": "Huda bolezen – Umrl je Michael Well, soustanovitelj skupine Biermösl-Blosn"
    }
   ],
   "rainews": [
