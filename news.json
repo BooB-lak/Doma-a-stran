@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:16:41.303Z",
+ "generatedAt": "2026-11-16T20:18:30.353Z",
  "sources": {
   "siol": [
    {
@@ -107,7 +107,7 @@
     "date": 1794853326000
    },
    {
-    "title": "Liga narodov: Šturm za hitro vodstvo Slovenije v Skopju",
+    "title": "Liga narodov: Šturm za vodstvo Slovenije v Skopju",
     "link": "https://www.24ur.com/sport/nogomet/sm-slo.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/6e1cc5d11f9a825ef089_63679290.jpg?v=5c61&fop=fp:0.51:0.51",
     "date": 1794852646000
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Ministrstvo za kulturo zavrača očitke nevladnikov o zadrževanju denarja",
+    "link": "https://www.rtvslo.si/kultura/ministrstvo-za-kulturo-zavraca-ocitke-nevladnikov-o-zadrzevanju-denarja/800332",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/09/17/67105100.jpg",
+    "date": 1794854541000
+   },
+   {
     "title": "Bećirović, Cvijanović in Filipović prisegli za člane predsedstva BiH-a",
     "link": "https://www.rtvslo.si/svet/evropa/becirovic-cvijanovic-in-filipovic-prisegli-za-clane-predsedstva-bih-a/800331",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122257.jpg",
@@ -181,6 +187,12 @@
     "date": 1794852901000
    },
    {
+    "title": "Severna Makedonija - Slovenija 0:1; Švica - Škotska 1:0",
+    "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/severna-makedonija-slovenija-0-1-svica-skotska-1-0/800276",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122273.jpg",
+    "date": 1794851695000
+   },
+   {
     "title": "Ob 20.45: Severna Makedonija - Slovenija, Švica - Škotska (postave)",
     "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/ob-20-45-severna-makedonija-slovenija-svica-skotska-postave/800276",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108326.jpg",
@@ -209,18 +221,6 @@
     "link": "https://www.rtvslo.si/znanost-in-tehnologija/si-cert-obravnava-primere-zlorab-telefonskih-stevilk-pri-registraciji-na-aplikaciji-viber/800321",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122234.jpg",
     "date": 1794850243000
-   },
-   {
-    "title": "Dars naj bi na fiktivni bančni račun nakazal 1,8 milijona evrov",
-    "link": "https://www.rtvslo.si/gospodarstvo/dars-naj-bi-na-fiktivni-bancni-racun-nakazal-1-8-milijona-evrov/800324",
-    "image": "https://img.rtvcdn.si/_up/upload/2023/11/08/66131476.jpg",
-    "date": 1794849071000
-   },
-   {
-    "title": "RTV Slovenija predstavila mikrodramo Moja dva fanta",
-    "link": "https://www.rtvslo.si/rtv/za-medije/sporocila-za-javnost/rtv-slovenija-predstavila-mikrodramo-moja-dva-fanta/800325",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122240.jpg",
-    "date": 1794848958000
    }
   ],
   "zurnal": [
@@ -459,18 +459,18 @@
   ],
   "nyt": [
    {
+    "title": "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
+    "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
+    "date": 1794860056000,
+    "titleSl": "Transakcije banke Chase so bile zaradi »tehnične težave« prekinjene sredi poročil o izpadu"
+   },
+   {
     "title": "Challenging Consensus, Scientist Says Epstein Autopsy Photos Show Homicide",
     "link": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-epstein-autopsy-jvkm/16nat-epstein-autopsy-jvkm-mediumSquareAt3X.jpg",
     "date": 1794859689000,
     "titleSl": "Znanstvenik, ki izpodbija splošno mnenje, pravi, da fotografije Epsteinove obdukcije kažejo na umor"
-   },
-   {
-    "title": "Chase Bank Reports Technical Issue Disrupting Transactions",
-    "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
-    "date": 1794859210000,
-    "titleSl": "Banka Chase poroča o tehnični težavi, ki ovira transakcije"
    },
    {
     "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
@@ -719,16 +719,23 @@
    {
     "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League – live",
     "link": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
-    "image": "https://i.guim.co.uk/img/media/14cb59a7d3f0852327289185eb9131ea348572d4/391_68_3823_3059/master/3823.jpg?width=700&quality=85&auto=format&fit=max&s=c59c84a76f38461cf320bb572ba86179",
-    "date": 1794859258000,
+    "image": "https://i.guim.co.uk/img/media/ead0ac76580b85e84f084834e7df261958ff6255/656_303_3627_2902/master/3627.jpg?width=700&quality=85&auto=format&fit=max&s=f8fcd40f0bf67724863c2b64b4e1ec5d",
+    "date": 1794860149000,
     "titleSl": "Švica proti Škotski, Nemčija proti Nizozemski in še več: Liga narodov – v živo"
    },
    {
     "title": "United States v Canada: women’s ice hockey world championship 2026 final – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/16/usa-canada-womens-ice-hockey-world-championship-final-live",
     "image": "https://i.guim.co.uk/img/media/1c980eb3c67f495edc2b0b1ac9b6ca9f570485f7/489_0_4588_3670/master/4588.jpg?width=700&quality=85&auto=format&fit=max&s=15181fe855bd7e57b40d78289ecf2696",
-    "date": 1794859210000,
+    "date": 1794860052000,
     "titleSl": "Združene države proti Kanadi: finale svetovnega prvenstva v hokeju na ledu za ženske 2026 – v živo"
+   },
+   {
+    "title": "Failed UK asylum seekers to lose five-day grace period and face immediate removal",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
+    "image": "https://i.guim.co.uk/img/media/26d456813260a71cc5a24d0234d78199c8f8c003/535_59_1388_1110/master/1388.jpg?width=700&quality=85&auto=format&fit=max&s=ddecc20df3d1172d38281c4e77f49178",
+    "date": 1794859584000,
+    "titleSl": "Prosilcem za azil v Združenem kraljestvu, katerih prošnje so bile zavrnjene, bo odvzet petdnevni rok za prostovoljni odhod in grozi jim takojšnja odstranitev"
    },
    {
     "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
@@ -745,11 +752,11 @@
     "titleSl": "Trump brani ministra za trgovino Lutnicka zaradi domnevnega počasnega uvajanja omejitev izvoza čipov Nvidia – v živo"
    },
    {
-    "title": "People behind Leave.EU and Vote Leave launch new incarnations of pro-Brexit campaigns",
+    "title": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
     "link": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
     "image": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=886fafabcd5b45640316f4d75fddb782",
     "date": 1794857925000,
-    "titleSl": "Ljudje, ki stojijo za organizacijama Leave.EU in Vote Leave, začenjajo nove različice kampanj za brexit"
+    "titleSl": "Veterani gibanj Leave.EU in Vote Leave so začeli izvajati konkurenčne kampanje za zagovarjanje brexita"
    },
    {
     "title": "How Milburn won over Labour on tackling rising youth unemployment",
@@ -792,20 +799,13 @@
     "image": "https://i.guim.co.uk/img/media/7b8bab95f621af31b5180565a9a5e4c394e3d560/278_0_2777_2222/master/2777.jpg?width=700&quality=85&auto=format&fit=max&s=fdf515f74e36da19a1fb8d0d4e5792da",
     "date": 1794854862000,
     "titleSl": "Glenn Close joka! John Malkovich joka! Toda na podelitvi častnih oskarjev želijo vsi govoriti z Nathanom Fielderjem."
-   },
-   {
-    "title": "Devon police renewed shotgun licence of known abuser who later killed his wife",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/16/domestic-abuser-john-perkins-shotguns-kathryn-devon-police",
-    "image": "https://i.guim.co.uk/img/media/d9591f80abef826d3c7f669b01ee750ea052fd8c/859_41_4608_3685/master/4608.jpg?width=700&quality=85&auto=format&fit=max&s=32df256ee9d4b5eb5298657c65aedab9",
-    "date": 1794854813000,
-    "titleSl": "Policija v Devonu je podaljšala dovoljenje za posedovanje puške znanemu nasilnežu, ki je pozneje ubil svojo ženo"
    }
   ],
   "spiegel": [
    {
     "title": "Deutschland gegen Niederlande im Liveticker: Gewinnt Jürgen Klopp sein erstes »Finale« als Bundestrainer?",
     "link": "https://www.spiegel.de/sport/fussball/deutschland-gegen-niederlande-im-liveticker-gewinnt-juergen-klopp-sein-erstes-finale-als-bundestrainer-a-034f2191-1055-43ac-8956-b1bc6674c39c#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/89a34b16-cf98-48e3-9d1f-a45568754a34_w520_r2.08_fpx46_fpy45.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/36483433-a8fa-4084-b626-535e72eabb82_w520_r2.08_fpx49_fpy27.jpg",
     "date": 1794859740000,
     "titleSl": "Nemčija proti Nizozemski v živo: Bo Jürgen Klopp osvojil svoj prvi »finale« kot nemški selektor?"
    },
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Nach ÖFB-Abreise - Teamarzt verrät: So steht es um das Knie von Demir",
+    "link": "https://www.krone.at/4378397",
+    "image": "https://imgl.krone.at/scaled/4378402/v72f5f3/full.jpg",
+    "date": 1794860269000,
+    "titleSl": "Po odhodu iz ÖFB – zdravnik reprezentance razkriva: Takšno je stanje Demirjevega kolena"
+   },
+   {
     "title": "Förderung begrenzen - Denglers Volksbegehren heißt „Parteien-Speck weg“",
     "link": "https://www.krone.at/4378387",
     "image": "https://imgl.krone.at/scaled/4378410/va1168a/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4378375/vfed289/full.jpg",
     "date": 1794857476000,
     "titleSl": "Napad v Bolgariji – brezpilotna letala so zadela tovorno ladjo, ki se je prevrnila"
-   },
-   {
-    "title": "Spuren verwischt - Wilderer erlegte Gams und trennte ihr den Kopf ab",
-    "link": "https://www.krone.at/4378350",
-    "image": "https://imgl.krone.at/scaled/4378351/v23fbab/full.jpg",
-    "date": 1794857393000,
-    "titleSl": "Zbrisane sledi – divji lovec je ustrelil gamsa in mu odrezal glavo"
    }
   ],
   "rainews": [
