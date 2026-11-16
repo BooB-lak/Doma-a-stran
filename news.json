@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T18:24:34.818Z",
+ "generatedAt": "2026-11-16T18:26:39.449Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/novice/slovenija/dars-naj-bi-kljub-opozorilom-o-spletni-prevari-izgubil-18-milijona-evrov-706446",
     "image": "https://siol.net/media/img/d7/65/94e2d8adb57cb93bca06.jpeg",
     "date": 1794852360000
+   },
+   {
+    "title": "Slovenska skupina izvedla pesem, ki je razjezila Kosovarje in Albance. Zahtevajo opravičilo Marte Kos.",
+    "link": "https://siol.net/novice/svet/slovenska-skupina-izvedla-pesem-ki-je-razjezila-kosovarje-in-albance-zahtevajo-opravicilo-marte-kos-706445",
+    "image": "https://siol.net/media/img/16/9b/b46d2ad2a259baccc4cd.jpeg",
+    "date": 1794851880000
    },
    {
     "title": "Jurij Tepeš: Upam, da se bomo po koncu pogovarjali o sezoni brez diskvalifikacij",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/trendi/zvezde-in-slavni/britanski-igralec-robert-pattinson-bo-novi-james-bond-706438",
     "image": "https://siol.net/media/img/85/3f/7cebeb5c2072dfb2bb00.jpeg",
     "date": 1794843360000
-   },
-   {
-    "title": "Srbija tudi uradno prekinila pogodbo s podjetjem zeta Donalda Trumpa",
-    "link": "https://siol.net/novice/svet/srbija-tudi-uradno-prekinila-pogodbo-s-podjetjem-zeta-donalda-trumpa-706435",
-    "image": "https://siol.net/media/img/80/43/ed6515b4e8f3981e1931.jpeg",
-    "date": 1794842220000
    }
   ],
   "24ur": [
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Previdno! Prometna nesreča zaprla avtocesto, udeleženih več vozil",
+    "link": "https://www.zurnal24.si/slovenija/previdno-prometna-nesreca-zaprla-avtocesto-udelezenih-vec-vozil-468330",
+    "image": "https://www.zurnal24.si/media/img/4c/d3/70b1840adc1f4b3b22f9.jpeg",
+    "date": 1794853080000
+   },
+   {
     "title": "Kaos na slovenskih avtocestah: Srne, gosta megla in prometna nesreča",
     "link": "https://www.zurnal24.si/slovenija/kaos-na-slovenskih-avtocestah-srne-gosta-megla-in-prometna-nesreca-468329",
     "image": "https://www.zurnal24.si/media/img/a6/e2/b47957b2d633cd151be0.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/sport/zimski-sporti/brez-padca-toda-s-hudimi-posledicami-to-zimo-ne-bo-vec-smucal-468310",
     "image": "https://www.zurnal24.si/media/img/5f/96/2539567a45c26fc2c69c.jpeg",
     "date": 1794833700000
-   },
-   {
-    "title": "Janša napovedal, kako bo SDS ravnala v drugem krogu ljubljanskih volitev",
-    "link": "https://www.zurnal24.si/slovenija/jansa-napovedal-kako-bo-sds-ravnala-v-drugem-krogu-ljubljanskih-volitev-468318",
-    "image": "https://www.zurnal24.si/media/img/7a/75/1ca75cf76fa51c7406d3.jpeg",
-    "date": 1794833220000
    }
   ],
   "hop": [
@@ -634,7 +634,8 @@
     "title": "British actor Robert Pattinson named as new James Bond",
     "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb36bf-1794848447.jpg?resize=1920%2C1440",
-    "date": 1794852794000
+    "date": 1794852794000,
+    "titleSl": "Britanski igralec Robert Pattinson je bil imenovan za novega Jamesa Bonda"
    },
    {
     "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
@@ -716,18 +717,46 @@
   ],
   "guardian": [
    {
-    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "date": 1794852810000,
-    "titleSl": "Trump brani ministra za trgovino Lutnicka zaradi domnevnega počasnega uvajanja omejitev izvoza čipov Nvidia – v živo"
+    "title": "Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty",
+    "link": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message",
+    "image": "https://i.guim.co.uk/img/media/d57aa2b8f95231e7400a5ffa8a372cc6c25e1437/416_0_2740_2192/master/2740.jpg?width=700&quality=85&auto=format&fit=max&s=4363bb1ff756a5024cd4d89e0e278074",
+    "date": 1794853489000,
+    "titleSl": "Ministrstvo za pravosodje preiskuje sporočilo Russella Branda iz zapora, v katerem trdi, da ni kriv"
    },
    {
     "title": "United States v Canada: women’s ice hockey world championship 2026 final – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/16/usa-canada-womens-ice-hockey-world-championship-final-live",
-    "image": "https://i.guim.co.uk/img/media/8a0b46c986fd7813dfdf5d36048ffd7709cfd1aa/133_0_1349_1080/master/1349.jpg?width=700&quality=85&auto=format&fit=max&s=e5505b6d7873e5df292787a8bd46692f",
-    "date": 1794852653000,
+    "image": "https://i.guim.co.uk/img/media/896451bc5a3c7c9a361d078e3a9443863698a185/321_0_5758_4606/master/5758.jpg?width=700&quality=85&auto=format&fit=max&s=24094320f0abd09a76a05c024ae1f018",
+    "date": 1794853467000,
     "titleSl": "Združene države proti Kanadi: finale svetovnega prvenstva v hokeju na ledu za ženske 2026 – v živo"
+   },
+   {
+    "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+    "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+    "image": "https://i.guim.co.uk/img/media/1314ca56ea87a76eb19c89d8d928610638be91b9/145_0_1491_1193/master/1491.jpg?width=700&quality=85&auto=format&fit=max&s=7c15ff3ce857b870fa9abdd901989cd7",
+    "date": 1794853382000,
+    "titleSl": "Kitajska pravi, da bodo Xi, Trump in Putin na tristranskem srečanju razpravljali o »svetovnem miru«"
+   },
+   {
+    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "date": 1794853202000,
+    "titleSl": "Trump brani ministra za trgovino Lutnicka zaradi domnevnega počasnega uvajanja omejitev izvoza čipov Nvidia – v živo"
+   },
+   {
+    "title": "Anthropic recognises the risks to humanity – but is its governance really up to the job?",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
+    "image": "https://i.guim.co.uk/img/media/4ce1d62a943c0a858adb74474c7448ca415c876e/484_0_4840_3872/master/4840.jpg?width=700&quality=85&auto=format&fit=max&s=af180b8dbbb5836e53717e734b7ddd06",
+    "date": 1794853137000,
+    "titleSl": "Anthropic se zaveda tveganj za človeštvo – toda ali je njegovo upravljanje res kos nalogi?"
+   },
+   {
+    "title": "‘Let the aid in’: Deadly winter approaches in Gaza - The Latest",
+    "link": "https://www.theguardian.com/news/video/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
+    "image": "https://i.guim.co.uk/img/media/47b7d74ba2cce3d0deaf5ca85de5573c62c10720/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=a0238586527ce65ee2241d55f37e2688",
+    "date": 1794852817000,
+    "titleSl": "»Dovolite vstop pomoči«: V Gazi se bliža smrtonosna zima – Najnovejše novice"
    },
    {
     "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
@@ -753,7 +782,7 @@
    {
     "title": "Spain in pain as historic run ends but De la Fuente feels best is yet to come",
     "link": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
-    "image": "https://i.guim.co.uk/img/media/5055106e3f335a2765a72e6325123929ec3bf675/200_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=bb60a97cfe99624df16ec9e3bb739e36",
+    "image": "https://i.guim.co.uk/img/media/5055106e3f335a2765a72e6325123929ec3bf675/1097_1299_2055_1644/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=28ec70115d3d77a504d23b97282e8440",
     "date": 1794851318000,
     "titleSl": "Španija je potrta zaradi konca zgodovinskega niza zmag, vendar De la Fuente meni, da najboljše šele prihaja"
    },
@@ -770,37 +799,23 @@
     "image": "https://i.guim.co.uk/img/media/599dffa27d0e04310da87eef9c0a002a92559bcd/46_0_541_433/master/541.jpg?width=700&quality=85&auto=format&fit=max&s=a59cc08bbd8de26a71782f2ab798d21e",
     "date": 1794850567000,
     "titleSl": "Emma Barnett odstopa z mesta voditeljice oddaje Today na radiu BBC Radio 4"
-   },
-   {
-    "title": "Beckham firm sues after fragrance found for sale in discount store",
-    "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-    "image": "https://i.guim.co.uk/img/media/b545f9d7a790ea86d7c205a1aa43db5a001f1e42/1779_175_2064_1652/master/2064.jpg?width=700&quality=85&auto=format&fit=max&s=3f18bdcf9703cc4974b217da2b9f5ef1",
-    "date": 1794850559000,
-    "titleSl": "Podjetje Beckham je vložilo tožbo, potem ko je bilo ugotovljeno, da se parfum prodaja v diskontni trgovini"
-   },
-   {
-    "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
-    "image": "https://i.guim.co.uk/img/media/48612869f527ad64a47895bf8b003e95eece7943/219_0_2690_2152/master/2690.jpg?width=700&quality=85&auto=format&fit=max&s=60f9732fc1b1f499cc0b2b67d98e97d8",
-    "date": 1794848874000,
-    "titleSl": "Sodnik je določil nov datum sojenja Lindsay Clancy zaradi umora njenih treh otrok za marec"
-   },
-   {
-    "title": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage’s sacking",
-    "link": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
-    "image": "https://i.guim.co.uk/img/media/f3cfc1ef196ba14cbcbadf32bbde611199980266/329_66_1267_1014/master/1267.jpg?width=700&quality=85&auto=format&fit=max&s=b979eaf75448f1d128f5ff79bb7f1fb3",
-    "date": 1794848594000,
-    "titleSl": "Thomas Frank je bil potrjen kot trener Crystal Palaca po odpuščanju Pierra Sagea"
-   },
-   {
-    "title": "Naming your feelings can be harder than you think. This simple tool can help",
-    "link": "https://www.theguardian.com/wellness/2026/nov/16/naming-your-feelings-mental-health",
-    "image": "https://i.guim.co.uk/img/media/7d6c6412622798b05b5b5eacfa9f49b76ef22640/940_886_1120_897/master/1120.jpg?width=700&quality=85&auto=format&fit=max&s=c8ece82ad02f05c58ded72163073e84d",
-    "date": 1794848449000,
-    "titleSl": "Poimenovanje svojih čustev je lahko težje, kot si mislite. To preprosto orodje vam lahko pomaga"
    }
   ],
   "spiegel": [
+   {
+    "title": "SPIEGEL Buchpreis 2026: Laudatio von Eva Horn auf Tony Tulathimutte",
+    "link": "https://www.spiegel.de/kultur/spiegel-buchpreis-2026-laudatio-von-eva-horn-auf-tony-tulathimutte-a-ed3a89cb-83bd-48c8-9941-fb2c87837c31#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/d9d392c8-dfd2-4e22-bdf4-865ce196d5ba_w520_r2.08_fpx48.03_fpy54.97.jpg",
+    "date": 1794853260000,
+    "titleSl": "Nagrada SPIEGEL Buchpreis 2026: Slavnostni govor Eve Horn o Tonyju Tulathimutteju"
+   },
+   {
+    "title": "»Fiasko« von Tony Tulathimutte: Warum dieses Buch das beste des Jahres ist",
+    "link": "https://www.spiegel.de/kultur/literatur/fiasko-von-tony-tulathimutte-warum-dieses-buch-das-beste-des-jahres-ist-a-278f971f-2737-4c6c-b48f-e886c91caf5a#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/b4dda362-615b-4a83-83c0-47911d50f192_w520_r2.08_fpx51_fpy57.jpg",
+    "date": 1794853260000,
+    "titleSl": "»Fiasko« Tonyja Tulathimutteja: Zakaj je ta knjiga najboljša v letu"
+   },
    {
     "title": "SPIEGEL Buchpreis 2026: Tony Tulathimutte gewinnt mit »Fiasko«",
     "link": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-tony-tulathimutte-gewinnt-mit-fiasko-a-b382b96a-2de3-4f73-b844-1a2fc003570d#ref=rss",
@@ -870,20 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/7262c5d8-198e-40b5-9e09-766e1ea2f421_w520_r2.08_fpx62_fpy45.jpg",
     "date": 1794846360000,
     "titleSl": "Stockach – Konstanca: domnevni goljuf je med ogledom hiše padel skozi strop"
-   },
-   {
-    "title": "Donald Trump: Können die Demokraten nach den US-Midterms die Zölle wirklich stoppen?",
-    "link": "https://www.spiegel.de/wirtschaft/service/donald-trump-koennen-die-demokraten-nach-den-us-midterms-die-zoelle-wirklich-stoppen-a-93d3e5c2-9594-424c-bf96-cb2f925e009b#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/933b4e0d-6085-4849-9527-b6e61813e98c_w520_r2.08_fpx68.5_fpy54.98.jpg",
-    "date": 1794845640000,
-    "titleSl": "Donald Trump: Ali lahko demokrati po vmesnih volitvah v ZDA resnično ustavijo carine?"
-   },
-   {
-    "title": "Fischer-Erben wollen Van-Gogh-Auktion bei Sotheby’s stoppen",
-    "link": "https://www.spiegel.de/kultur/fischer-erben-wollen-van-gogh-auktion-bei-sothebys-stoppen-a-1669ba84-8247-40b4-9056-f9428c5b44cc#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c1892905-d222-46cb-b3c4-5a3b02db7002_w520_r2.08_fpx37.3_fpy50.jpg",
-    "date": 1794845100000,
-    "titleSl": "Dediči Fischerja želijo ustaviti dražbo Van Gogha pri Sotheby'su"
    }
   ],
   "bild": [
@@ -1067,11 +1068,11 @@
     "titleSl": "Sera 24 – Oddaja z dne 16. 11. 2026"
    },
    {
-    "title": "Under 21, Italia-Belgio: 1-1 al 45&#x27;. Segui la DIRETTA",
+    "title": "Under 21, Italia-Belgio: 1-2 al 52. Segui la DIRETTA",
     "link": "https://www.rainews.it/articoli/2026/11/calcio-azzurrini-under-21-italia-sfida-il-belgio-per-ottava-vittoria-consecutiva-diretta-live-aggiornamenti-video-4e4bdeb4-e0d5-4316-9fd9-88f6f0d39930.html",
     "image": "https://www.rainews.it/dl/img/2026/11/16/1794850346621_.png",
-    "date": 1794852120000,
-    "titleSl": "U-21, Italija – Belgija: 1 : 1 v 45. minuti. Spremljajte PRENOS V ŽIVO"
+    "date": 1794853080000,
+    "titleSl": "U-21, Italija – Belgija: 1 : 2 v 52. minuti. Spremljajte PRENOS V ŽIVO"
    },
    {
     "title": "Domani allerta arancione su settori della Toscana, gialla in 6 regioni",
@@ -1232,6 +1233,13 @@
   ],
   "elpais": [
    {
+    "title": "Dentro del ‘Ejército de Lula’: la estrategia en redes del presidente brasileño que quiere copiar el PSOE",
+    "link": "https://elpais.com/espana/2026-11-16/dentro-del-ejercito-de-lula-la-estrategia-en-redes-del-presidente-brasileno-que-quiere-copiar-el-psoe.html",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261116/1238436_180014_video_1800.mp4",
+    "date": 1794852599000,
+    "titleSl": "V »Lulini vojski«: strategija brazilskega predsednika na družbenih omrežjih, ki jo želi posnemati PSOE"
+   },
+   {
     "title": "EL PAÍS y la SER organizan un debate entre candidatos del País Vasco a las generales del 29-N",
     "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pais-y-la-ser-organizan-un-debate-entre-candidatos-del-pais-vasco-a-las-generales-del-29-n.html",
     "image": "https://imagenes.elpais.com/resizer/v2/DJQPAWATDNBERO643BKJRUBIGQ.jpeg?auth=bd31d66f075ca2bf0cedcad52b1c43a4d9879e6fd07da707df06718980b71c9a",
@@ -1307,13 +1315,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/TKRKIQXBHFEUVKBKSP5RVW3NIY.jpg?auth=cd5d4681e67b35190512c00256ba16b2d6ff0d07c324498b52fb64bd6b58d092",
     "date": 1794844841000,
     "titleSl": "Medameriška razvojna banka ocenjuje, da bo Latinska Amerika v desetletju zabeležila 5,1 % večjo rast, če ji bo uspelo izkoristiti potencial umetne inteligence."
-   },
-   {
-    "title": "Los grandes centros de datos de EE UU ya consumen tanta energía como todo Chile",
-    "link": "https://elpais.com/tecnologia/2026-11-16/los-grandes-centros-de-datos-de-ee-uu-ya-consumen-tanta-energia-como-todo-chile.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/KKTF3XDEJBM65IKWD7EJFQC3VM.jpg?auth=f32b2c066e24052d153d8bef73491856e1deb1823940535cc8377ac87f9a66ac",
-    "date": 1794844800000,
-    "titleSl": "Veliki podatkovni centri v ZDA že porabijo toliko energije kot celotno Čile"
    }
   ]
  },
