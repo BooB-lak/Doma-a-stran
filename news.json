@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-16T11:32:40.224Z",
+ "generatedAt": "2026-11-16T11:36:31.616Z",
  "sources": {
   "siol": [
+   {
+    "title": "Odpoklic konzervirane hrane za pse",
+    "link": "https://siol.net/novice/slovenija/odpoklic-konzervirane-hrane-za-pse-706412",
+    "image": "https://siol.net/media/img/1d/50/0acd1ac4bd4e453a29ea.jpeg",
+    "date": 1794828600000
+   },
    {
     "title": "Depardieu umaknil pritožbo na pogojno kazen in se opravičil žrtvam",
     "link": "https://siol.net/trendi/zvezde-in-slavni/depardieu-umaknil-pritozbo-na-pogojno-kazen-in-se-opravicil-zrtvam-706411",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/slovenija/v-akciji-slovenija-piha-00-zacasno-odvzeli-413-vozniskih-dovoljenj-706403",
     "image": "https://siol.net/media/img/4d/7f/cc93994b6d96f3272c4e.jpeg",
     "date": 1794824820000
-   },
-   {
-    "title": "Preobrat pri Russllu Brandu: premeščen v ustanovo z jogo, žena pravi, da zaupata Bogu",
-    "link": "https://siol.net/trendi/zvezde-in-slavni/preobrat-pri-russllu-brandu-premescen-v-ustanovo-z-jogo-zena-pravi-da-zaupata-bogu-706394",
-    "image": "https://siol.net/media/img/e3/a4/251f0832a17ee2ccacc4.jpeg",
-    "date": 1794824160000
    }
   ],
   "24ur": [
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Rekorder belgijske vrste Lukaku končal reprezentančno kariero",
+    "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/rekorder-belgijske-vrste-lukaku-koncal-reprezentancno-kariero/800277",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/06/15/67053387.jpg",
+    "date": 1794828745000
+   },
+   {
     "title": "Slovenci nocoj v Skopju v vlogi favorita za drugo mesto v skupini",
     "link": "https://www.rtvslo.si/sport/nogomet/liga-narodov/slovenci-nocoj-v-skopju-v-vlogi-favorita-za-drugo-mesto-v-skupini/800276",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108326.jpg",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/zelenski-pozval-zda-k-odpravi-omejitev-pri-uporabi-sistema-starshield/800260",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/24/67116161.jpg",
     "date": 1794819028000
-   },
-   {
-    "title": "Zofka Kveder, morje in Trst v literarnem večeru v živo",
-    "link": "https://www.rtvslo.si/kultura/leto-srecka-kosovela-in-zofke-kveder/zofka-kveder-morje-in-trst-v-literarnem-veceru-v-zivo/800258",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/10/02/66974894.jpg",
-    "date": 1794818505000
    }
   ],
   "zurnal": [
@@ -524,7 +524,7 @@
    {
     "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
     "link": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-sbf-anthropic-bzgc/00biz-sbf-anthropic-bzgc-mediumSquareAt3X-v2.jpg",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-sbf-anthropic-bzgc/00biz-sbf-anthropic-bzgc-mediumSquareAt3X-v3.jpg",
     "date": 1794823329000,
     "titleSl": "Kako je Sam Bankman-Fried zamudil priložnost za 35 milijard USD od podjetja Anthropic"
    },
@@ -889,18 +889,25 @@
   ],
   "bild": [
    {
+    "title": "Schlimme Nacht für Zverev - Magenverstimmung nach Sushi-Bestellung",
+    "link": "https://www.bild.de/sport/mehr-sport/alexander-zverev-sehr-sehr-schlecht-geschlafen-6afad2cd629e93479f6dc82b",
+    "image": "https://images.bild.de/6afad2cd629e93479f6dc82b/10e9d676a10194b7431749be3439ee32,53407a4?w=1280",
+    "date": 1794828809000,
+    "titleSl": "Slaba noč za Zvereva – želodčne težave po naročilu sušija"
+   },
+   {
+    "title": "Neun Autos bei Massencrash - Fahranfänger (18) verursachte Unfall mit drei Toten",
+    "link": "https://www.bild.de/regional/baden-wuerttemberg/erbach-baden-wuerttemberg-drei-tote-und-14-verletzte-bei-massencrash-6afa0cd69849eea0701e3ee2",
+    "image": "https://images.bild.de/6afa0cd69849eea0701e3ee2/ca2b9d8df60155edd9798628db3cc78c,1dcb4d65?w=1280",
+    "date": 1794828749000,
+    "titleSl": "Devet avtomobilov v množični nesreči – mlad voznik (18 let) je povzročil nesrečo s tremi smrtnimi žrtvami"
+   },
+   {
     "title": "Schadenersatz in Milliardenhöhe - 18.000 Hotels in Europa verklagen Booking.com",
     "link": "https://www.bild.de/leben-wissen/reisen/18-000-hotels-in-europa-verklagen-booking-com-6afacac6629e93479f6dc747",
     "image": "https://images.bild.de/6afacac6629e93479f6dc747/fe240928d3c230593e582766343051e2,df15f44c?w=1280",
     "date": 1794828573000,
     "titleSl": "Odškodnina v višini več milijard – 18.000 hotelov v Evropi toži podjetje Booking.com"
-   },
-   {
-    "title": "Schwerer Unfall mit neun Autos - Fahranfänger (18) verursachte Unfall mit drei Toten",
-    "link": "https://www.bild.de/regional/baden-wuerttemberg/erbach-baden-wuerttemberg-drei-tote-und-14-verletzte-bei-massencrash-6afa0cd69849eea0701e3ee2",
-    "image": "https://images.bild.de/6afa0cd69849eea0701e3ee2/ca2b9d8df60155edd9798628db3cc78c,1dcb4d65?w=1280",
-    "date": 1794828527000,
-    "titleSl": "Huda prometna nesreča z devetimi avtomobili – mlad voznik (18 let) je povzročil prometno nesrečo s tremi smrtnimi žrtvami"
    },
    {
     "title": "Ingrid (62) wurde krank - Ich sorgte mich um alle, nur nicht um meine Leber",
@@ -964,16 +971,51 @@
     "image": "https://images.bild.de/6afa8e029849eea0701e4197/5e1f6b9e707214e41160c09953204489,e61e906f?w=1280",
     "date": 1794827765000,
     "titleSl": "Predogled tedna od 16. novembra 2026 – Tako se nadaljuje »Vihar ljubezni«"
-   },
-   {
-    "title": "Staatsschutz in Sorge vor 20. November - Radikale unterwandern Schülerproteste",
-    "link": "https://www.bild.de/news/inland/genz-proteste-radikale-wollen-gen-z-proteste-kapern-6afac0be4495f9bd85b8208c",
-    "image": "https://images.bild.de/6afac0be4495f9bd85b8208c/2eea41bf31b1ba767dbda8a166492446,b786bd6d?w=1280",
-    "date": 1794827701000,
-    "titleSl": "Staatsschutz v skrbeh pred 20. novembra – Radikalci se infiltrirajo v proteste dijakov"
    }
   ],
   "krone": [
+   {
+    "title": "Ab Herbst 2028 - Pianist Igor Levit wird Professor am Mozarteum",
+    "link": "https://www.krone.at/4377700",
+    "image": "https://imgl.krone.at/scaled/4325361/v544315/full.jpg",
+    "date": 1794828920000,
+    "titleSl": "Od jeseni 2028 – Pianist Igor Levit bo postal profesor na Mozarteumu"
+   },
+   {
+    "title": "Sperre eingerichtet - Leck an Güterzug: Einsatz auf Brennerstrecke",
+    "link": "https://www.krone.at/4377718",
+    "image": "https://imgl.krone.at/scaled/4352594/v601263/full.jpg",
+    "date": 1794828878000,
+    "titleSl": "Zapora vzpostavljena – puščanje na tovornem vlaku: intervencija na progi Brenner"
+   },
+   {
+    "title": "Gewinnspiel - 15 Jahre WellCard – 15 Gewinnchancen!",
+    "link": "https://www.krone.at/4371116",
+    "image": "https://imgl.krone.at/scaled/4377710/v4f548c/full.jpg",
+    "date": 1794828878000,
+    "titleSl": "Nagradna igra – 15 let kartice WellCard – 15 možnosti za zmago!"
+   },
+   {
+    "title": "94 Tore in 135 Spielen - Paukenschlag! Rekordmann zieht einen Schlussstrich",
+    "link": "https://www.krone.at/4377678",
+    "image": "https://imgl.krone.at/scaled/4163745/v087edf/full.jpg",
+    "date": 1794828807000,
+    "titleSl": "94 golov na 135 tekmah – senzacionalno! Rekorder postavlja piko na i"
+   },
+   {
+    "title": "Sandro Ingolitsch - „Ich war nervös, es ging um die Existenz!“",
+    "link": "https://www.krone.at/4377165",
+    "image": "https://imgl.krone.at/scaled/4377167/vd11d38/full.jpg",
+    "date": 1794828792000,
+    "titleSl": "Sandro Ingolitsch – »Ich war nervös, es ging um die Existenz!«"
+   },
+   {
+    "title": "Sie haben keine Chance - So tricksen Sie All-you-can-eat-Buffets aus",
+    "link": "https://www.krone.at/4377517",
+    "image": "https://imgl.krone.at/scaled/4377521/v82b010/full.jpg",
+    "date": 1794828729000,
+    "titleSl": "Nimajo možnosti – tako prekabrite samopostrežne bifeje z neomejenimi količinami hrane"
+   },
    {
     "title": "Entschuldigte sich - Gérard Depardieu hat Verurteilung angenommen",
     "link": "https://www.krone.at/4377715",
@@ -982,25 +1024,11 @@
     "titleSl": "Opravičil se je – Gérard Depardieu je sprejel obsodbo"
    },
    {
-    "title": "Sperre eingerichtet - Leck an Zug: Feuerwehreinsatz auf Brennerstrecke",
-    "link": "https://www.krone.at/4377718",
-    "image": "https://imgl.krone.at/scaled/4352594/v601263/full.jpg",
-    "date": 1794828657000,
-    "titleSl": "Zapora vzpostavljena – puščanje na vlaku: posredovanje gasilcev na progi Brenner"
-   },
-   {
     "title": "Ehrung für Muster - Dinner auf dem Center Court und Diamant-Armband",
     "link": "https://www.krone.at/4377589",
     "image": "https://imgl.krone.at/scaled/4377592/vc304ee/full.jpg",
     "date": 1794828655000,
     "titleSl": "Priznanje za vzor – večerja na osrednjem igrišču in diamantna zapestnica"
-   },
-   {
-    "title": "Sandro Ingolitsch - „Ich war nervös, es ging um die Existenz!“",
-    "link": "https://www.krone.at/4377165",
-    "image": "https://imgl.krone.at/scaled/4377167/vd11d38/full.jpg",
-    "date": 1794828630000,
-    "titleSl": "Sandro Ingolitsch – »Ich war nervös, es ging um die Existenz!«"
    },
    {
     "title": "Besser als Legenden - Super-Brasilianer auf den Spuren von Bode Miller",
@@ -1029,34 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/3201270/v629bee/full.jpg",
     "date": 1794827820000,
     "titleSl": "Šampanjec ni priljubljen – Francozi zdaj odpirajo steklenice prosecca"
-   },
-   {
-    "title": "Neuer Milliardenkredit - Versiegt bald Geldfluss nach Kiew? Die EU baut vor",
-    "link": "https://www.krone.at/4377363",
-    "image": "https://imgl.krone.at/scaled/4377366/v50aa98/full.jpg",
-    "date": 1794827726000,
-    "titleSl": "Novo posojilo v višini milijarde evrov – Ali bo pretok denarja v Kijev kmalu presahnil? EU se pripravlja"
-   },
-   {
-    "title": "Hauch-von-Nichts-Look - Liz Hurley super sexy – und frisch verlobt?",
-    "link": "https://www.krone.at/4377654",
-    "image": "https://imgl.krone.at/scaled/4377664/v4bdc39/full.jpg",
-    "date": 1794827561000,
-    "titleSl": "Videz »Hauch-von-Nichts« – Liz Hurley je super seksi – in sveže zaročena?"
-   },
-   {
-    "title": "Gewinnspiel - 15 Jahre WellCard – 15 Gewinnchancen!",
-    "link": "https://www.krone.at/4371116",
-    "image": "https://imgl.krone.at/scaled/4377710/v4f548c/full.jpg",
-    "date": 1794827512000,
-    "titleSl": "Nagradna igra – 15 let kartice WellCard – 15 možnosti za zmago!"
-   },
-   {
-    "title": "Ski-Stars reagieren - „Verrückt!“ Underdog meldet sich nach Levi-Coup",
-    "link": "https://www.krone.at/4377374",
-    "image": "https://imgl.krone.at/scaled/4377553/vab169a/full.jpg",
-    "date": 1794827386000,
-    "titleSl": "Odzivi smučarskih zvezdnikov – »Noro!«»Avtsajder se oglasi po zmagi v Leviju«"
    }
   ],
   "rainews": [
@@ -1147,6 +1147,13 @@
   ],
   "lemonde": [
    {
+    "title": "Armes autonomes : « Confier la décision de tuer à des systèmes algorithmiques revient à franchir une ligne rouge morale »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/16/armes-autonomes-confier-la-decision-de-tuer-a-des-systemes-algorithmiques-revient-a-franchir-une-ligne-rouge-morale_6811701_3232.html",
+    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/effc97e_upload-1-myd5dvgloxwz-frame-1276.jpg",
+    "date": 1794828607000,
+    "titleSl": "Avtonomno orožje: »Prepustiti odločitev o ubijanju algoritmičnim sistemom pomeni prestopiti moralno rdečo črto«"
+   },
+   {
     "title": "L’armée israélienne affirme avoir frappé une cargaison d’armes du Hezbollah dans l’est du Liban",
     "link": "https://www.lemonde.fr/international/article/2026/11/16/l-armee-israelienne-affirme-avoir-frappe-une-cargaison-d-armes-du-hezbollah-dans-l-est-du-liban_6811700_3210.html",
     "image": "https://img.lemde.fr/2026/11/16/222/0/5884/2942/644/322/60/0/a71084c_upload-1-f8quocuemdtm-000-a36p4fr.jpg",
@@ -1222,29 +1229,22 @@
     "image": "https://img.lemde.fr/2026/11/16/875/0/6000/3000/644/322/60/0/31564e9_upload-1-nqxmopatnop3-2024-04-18t061550z-2013221288-rc2057ay757b-rtrmadp-3-greece-economy-rebound.JPG",
     "date": 1794819621000,
     "titleSl": "Grčija uvaja številne ukrepe za privabljanje velikih premoženj in hedge skladov"
-   },
-   {
-    "title": "L’œuf mayonnaise fait son huitième championnat, entre tradition et haute voltige",
-    "link": "https://www.lemonde.fr/m-perso/article/2026/11/16/l-uf-mayonnaise-fait-son-huitieme-championnat-entre-tradition-et-haute-voltige_6811668_4497916.html",
-    "image": "https://img.lemde.fr/2026/11/10/504/0/4032/2016/644/322/60/0/260f1d4_upload-1-7r90aecsn0kb-img-2144.jpeg",
-    "date": 1794819612000,
-    "titleSl": "L’œuf mayonnaise praznuje svoje osmo prvenstvo, med tradicijo in vrhunskimi dosežki"
    }
   ],
   "elpais": [
+   {
+    "title": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+    "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/QU42BT6PZFBE5BBFT4LLIFLKMY.jpg?auth=8dd6292c833e82ede57be0001c7a59af248e6833813097c80f91e7f25cfc3103",
+    "date": 1794828712000,
+    "titleSl": "Frente Amplio se zavzema za 32-urni delovnik in upokojitev pri 65 letih"
+   },
    {
     "title": "Campaña electoral 29-N y actualidad política, en directo | Frente Amplio presenta un programa centrado en la vivienda y la redistribución de la riqueza",
     "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/EH4WQA7RWJHDJE3CEPJZFWFORY.jpg?auth=954d15037fb8320fb738e94f53e92d89ee7bbabad81c06b2918fea693de43459",
     "date": 1794827941000,
     "titleSl": "Volilna kampanja 29. novembra in aktualno politične razmere, v živo | Stranka Frente Amplio predstavlja program, osredotočen na stanovanjsko problematiko in prerazporeditev premoženja"
-   },
-   {
-    "title": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/QU42BT6PZFBE5BBFT4LLIFLKMY.jpg?auth=8dd6292c833e82ede57be0001c7a59af248e6833813097c80f91e7f25cfc3103",
-    "date": 1794827857000,
-    "titleSl": "Frente Amplio se zavzema za 32-urni delovnik in upokojitev pri 65 letih"
    },
    {
     "title": "El ‘mea culpa’ de Vinicius: “Aproveché las vacaciones para descansar y terminé entrenando menos”",
@@ -1298,7 +1298,7 @@
    {
     "title": "La acampada de plaza de Catalunya se traslada a La Barceloneta: “Esto no acaba, la gente sigue sin tener techo”",
     "link": "https://elpais.com/espana/catalunya/2026-11-16/a-la-acampada-de-plaza-de-catalunya-se-traslada-a-la-barceloneta-esto-no-acaba-la-gente-sigue-sin-tener-techo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/SXLKTF5TW5EF7J3BQJEHW5W7QM.jpg?auth=4531db22aeeeb96a48abd793d1f10def7befeb87b889d42bc15c1c8e347ace91",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261116/1238279_112815_video_1800.mp4",
     "date": 1794824801000,
     "titleSl": "Protestni tabor na trgu Plaza de Catalunya se seli v La Barceloneto: »To se ne konča, ljudje še vedno nimajo strehe nad glavo.«"
    },
