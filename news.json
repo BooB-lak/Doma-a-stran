@@ -1,12 +1,30 @@
 {
- "generatedAt": "2026-11-17T09:28:33.921Z",
+ "generatedAt": "2026-11-17T09:31:12.016Z",
  "sources": {
   "siol": [
+   {
+    "title": "Na severu Srbije strmoglavilo vojaško letalo mig-29",
+    "link": "https://siol.net/novice/svet/na-severu-srbije-strmoglavilo-vojasko-letalo-mig-29-706471",
+    "image": "https://siol.net/media/img/82/c0/332d152a10418e962a00.jpeg",
+    "date": 1794907740000
+   },
+   {
+    "title": "Boksar Lee Reeves umrl po treh mesecih v umetni komi",
+    "link": "https://siol.net/sportal/drugi-sporti/lee-reeves-smrt-boks-706477",
+    "image": "https://siol.net/media/img/7d/2e/69ef684c14d2326a41d3.jpeg",
+    "date": 1794907380000
+   },
    {
     "title": "Nika Vodan: \"Prisotni so 'živčki'. Bilo bi čudno, če ne bi bili malo nervozni.\"",
     "link": "https://siol.net/sportal/zimski-sporti/nika-vodan-pred-zacetkom-sezone-smucarski-skoki-706391",
     "image": "https://siol.net/media/img/2d/9e/32d4ec8de8f0bab715a8.jpeg",
     "date": 1794907320000
+   },
+   {
+    "title": "Hajdinjak: Slovenija se nagiba k sodelovanju v obrambnem instrumentu EU SAFE",
+    "link": "https://siol.net/novice/slovenija/hajdinjak-slovenija-se-nagiba-k-sodelovanju-v-obrambnem-instrumentu-eu-safe-706476",
+    "image": "https://siol.net/media/img/1a/ed/c8730383fcd353ed446d.jpeg",
+    "date": 1794907260000
    },
    {
     "title": "Mu bo danes končno uspelo?",
@@ -55,24 +73,6 @@
     "link": "https://siol.net/novice/slovenija/policista-policijske-postaje-ljubljana-moste-iz-deroce-ljubljanice-resila-moskega-706469",
     "image": "https://siol.net/media/img/ac/67/02620dce6658352023fe.jpeg",
     "date": 1794904800000
-   },
-   {
-    "title": "Marcel Hirscher se tudi v Gurglu še ne bo vrnil",
-    "link": "https://siol.net/sportal/zimski-sporti/marcel-hirscher-vrnitev-svetovni-pokal-706464",
-    "image": "https://siol.net/media/img/ag/02/9df00007e687e98f0ad5.jpeg",
-    "date": 1794903300000
-   },
-   {
-    "title": "Papeža zadel predmet iz množice #video",
-    "link": "https://siol.net/novice/svet/papeza-zadel-predmet-iz-mnozice-video-706465",
-    "image": "https://siol.net/media/img/f4/bf/9ebd435edcfe87ae8f65.jpeg",
-    "date": 1794902940000
-   },
-   {
-    "title": "Nočna mora za nekdanjo poslanko Svobode Moniko Pekošak?",
-    "link": "https://siol.net/novice/slovenija/nocna-mora-za-nekdanjo-poslanko-svobode-moniko-pekosak-706463",
-    "image": "https://siol.net/media/img/c5/57/d23d4a52a53c61f148ba.jpeg",
-    "date": 1794902460000
    }
   ],
   "24ur": [
@@ -87,6 +87,12 @@
     "link": "https://www.24ur.com/novice/tujina/v-pragi-v-trcenju-vlakov-na-nadvozu-vec-poskodovanih.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/6dd828c2c459d6e22962_63680481.jpg?v=31bf&fop=fp:0.38:0.36",
     "date": 1794906582000
+   },
+   {
+    "title": "Mladoletnikom zasegli skuterje in nevarno pirotehniko",
+    "link": "https://www.24ur.com/novice/tujina/zasezeni-skuterji-in-prepovedana-pirotehnika-kategorij-f3-in-f4.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/290f3bce8688f8791da8_63680488.jpg?v=764c&fop=fp:0.43:0.41",
+    "date": 1794905974000
    },
    {
     "title": "Skočila v deročo Ljubljanico in rešila hudo poškodovanega moškega",
@@ -141,12 +147,6 @@
     "link": "https://www.24ur.com/novice/tujina/papeza-leona-na-papamobilu-zadel-rozni-venec.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/4091ffa14dc9c204c1da_63680370.jpg?v=619f&fop=fp:0.48:0.19",
     "date": 1794899539000
-   },
-   {
-    "title": "Dejan Vunjak s koncertom obeležil 40 let očetove glasbe",
-    "link": "https://www.24ur.com/dejan-vunjak-s-koncertom-obelezil-40-let-ocetove-glasbe.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/70de0586c9bef77d9d28_63680358.jpg?v=0b08&fop=fp:0.47:0.42",
-    "date": 1794898612000
    }
   ],
   "rtvslo": [
@@ -373,11 +373,67 @@
   ],
   "reuters": [
    {
+    "title": "LPG tanker sends distress signal off Bulgaria's Black Sea coast, maritime security sources say",
+    "link": "https://www.reuters.com/world/lpg-tanker-sends-distress-signal-off-bulgarias-black-sea-coast-maritime-security-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/466BJJQ7PVGY5O53NZ3KL65MHM.png",
+    "date": 1794907133000,
+    "titleSl": "Cisterna za utekočinjeni naftni plin je poslala klic v sili z bolgarske obale Črnega morja, pravijo viri za pomorsko varnost."
+   },
+   {
+    "title": "Russian strikes hit two bridges in Kyiv",
+    "link": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RKNUN2XTFFORBJKN7VG7T3GBV4.jpg",
+    "date": 1794906959000,
+    "titleSl": "Ruski napadi so zadeli dva mostova v Kijevu"
+   },
+   {
+    "title": "After South America tour, Pope Leo jokes reporters are more tired than him",
+    "link": "https://www.reuters.com/world/americas/after-south-america-tour-pope-leo-jokes-reporters-are-more-tired-than-him-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RZOKX3XD5NPTVPFPFBPWZ5XY4A.jpg",
+    "date": 1794906304000,
+    "titleSl": "Po turneji po Južni Ameriki se je papež Leon pošalil, da so novinarji bolj utrujeni kot on."
+   },
+   {
+    "title": "Oman, Iran discuss safeguarding maritime corridors, as attacks in Hormuz increase",
+    "link": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S4FGAEY3SNPYHN3MOMAOKLXD2I.jpg",
+    "date": 1794906258000,
+    "titleSl": "Oman in Iran razpravljata o zaščiti pomorskih koridorjev zaradi vse pogostejših napadov v Hormuški ožini"
+   },
+   {
     "title": "Malaysia loosens rare earths curbs for France amid upgraded ties",
     "link": "https://www.reuters.com/business/aerospace-defense/france-malaysia-eye-defence-rare-earths-cooperation-during-macron-visit-kuala-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TIBVU2JRSNP7FEEXYNGQTBN5MI.jpg",
-    "date": 1794900223000,
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SDANC3RVPFJWROP6VJZMR5J4X4.jpg",
+    "date": 1794906147000,
     "titleSl": "Malezija je v okviru okrepljenih vezi z Francijo omilila omejitve glede redkih zemeljskih elementov"
+   },
+   {
+    "title": "South Korea tightens university exam checks to screen for hidden cameras",
+    "link": "https://www.reuters.com/world/asia-pacific/south-korea-tightens-university-exam-checks-screen-hidden-cameras-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JSO4U4SA65JNFAX2SOPHBUPUAI.jpg",
+    "date": 1794905203000,
+    "titleSl": "Južna Koreja poostruje nadzor nad univerzitetnimi izpiti, da bi odkrila skrite kamere"
+   },
+   {
+    "title": "Odds rise of Trump-Kim meeting on APEC sidelines, analysts say",
+    "link": "https://www.reuters.com/world/asia-pacific/odds-rise-trump-kim-meeting-apec-sidelines-analysts-say-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/67I6ULFKNNKF3AZMOF2CYSV5XY.jpg",
+    "date": 1794904450000,
+    "titleSl": "Analitiki pravijo, da se povečuje verjetnost srečanja Trumpa in Kima ob robu vrha APEC"
+   },
+   {
+    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
+    "link": "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/U34L2UKPJFJJBPHLKYZ33QQOHM.jpg",
+    "date": 1794902018000,
+    "titleSl": "Kanada in Kitajska podaljšujeta trgovinske sporazume, saj se Xi pred vrhom APEC-a sreča s Carneyjem"
+   },
+   {
+    "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
+    "link": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HWIB6HOPTNPOXP2UAAQJEAVZTQ.jpg",
+    "date": 1794901268000,
+    "titleSl": "Trump bo azijsko turnejo začel s pogovori v okviru skupine Quad v Manili pred obiskom na Kitajskem"
    },
    {
     "title": "Baidu CEO says AI investment must deliver profits to avoid bubble",
@@ -385,27 +441,6 @@
     "image": "",
     "date": 1794899880000,
     "titleSl": "Generalni direktor družbe Baidu pravi, da morajo naložbe v umetno inteligenco prinašati dobiček, da bi se izognili mehurčku"
-   },
-   {
-    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
-    "link": "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/U34L2UKPJFJJBPHLKYZ33QQOHM.jpg",
-    "date": 1794899691000,
-    "titleSl": "Kanada in Kitajska podaljšujeta trgovinske sporazume, saj se Xi pred vrhom APEC-a sreča s Carneyjem"
-   },
-   {
-    "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
-    "link": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HWIB6HOPTNPOXP2UAAQJEAVZTQ.jpg",
-    "date": 1794899515000,
-    "titleSl": "Trump bo azijsko turnejo začel s pogovori v okviru skupine Quad v Manili pred obiskom na Kitajskem"
-   },
-   {
-    "title": "Oman, Iran discuss safeguarding maritime corridors, as attacks in Hormuz increase",
-    "link": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S4FGAEY3SNPYHN3MOMAOKLXD2I.jpg",
-    "date": 1794899427000,
-    "titleSl": "Oman in Iran razpravljata o zaščiti pomorskih koridorjev zaradi vse pogostejših napadov v Hormuški ožini"
    },
    {
     "title": "Wildlife whereabouts lost as Russian researchers cut off from satellite tracking",
@@ -420,41 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/466BJJQ7PVGY5O53NZ3KL65MHM.png",
     "date": 1794898540000,
     "titleSl": "Rusija pravi, da je Ukrajina že drugi dan napadla njen most na Krimu v največjem napadu z droni v vojni"
-   },
-   {
-    "title": "Deutsche Bank shares fall 5% as it defends itself from media reports based on leaks",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmQ3T01Hcm0yRUd2MFhyVVctWW5XSjNsb25MWkVtbmxFQWp0cmxXbUIwYVk1bjJfTFF6SFVIWTVSV2U2eU92b1JOeEJIQ0ZycDV4TkxOc0RoN0s4S2YwRHpMZERuTVZCeEpIQzRHVzY3UWV5Y3c4UW0xZDY4eFBZa1MtQVBfSGQzN0E1c1JJWGpnNlNrNmtVQUlwTXliSjdoRnBXWUQxbW4yWF9oQjBXelBjUQ?oc=5",
-    "image": "",
-    "date": 1794898500000,
-    "titleSl": "Delnice Deutsche Bank so padle za 5 %, saj se banka brani pred medijskimi poročili, ki temeljijo na razkritih informacijah"
-   },
-   {
-    "title": "EXCLUSIVE: India may limit leveraged stock bets to curb volatility, sources say",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0tQWdjMmJOOUJOV3RYNzByeUVmLTZNYTRKTGszNHBqTVR2OHlrZnBLQXN6UlhFeFhOMGRBblFpSTJjcVJVckMybVJDYnhWU01VanpQOWNkVXFhZmlrYXM0empDNE5aXzBSQUVnSnBTSDlYZ3JJNURScmdzSFM5ei1VTTdiZVVhOTA4RjdOMHF0VkQ4bHhVdFZRek91d0NXVjlxVkh1UmMxWDZMMmpfelJ0aHhubWRu?oc=5",
-    "image": "",
-    "date": 1794898500000,
-    "titleSl": "EKSKLUZIVNO: Viri pravijo, da bo Indija morda omejila finančne stave na delnice s finančnim vzvodom, da bi zajezila volatilnost"
-   },
-   {
-    "title": "Horns and drones banned as Shenzhen hushes for Trump and APEC",
-    "link": "https://www.reuters.com/technology/horns-drones-banned-shenzhen-hushes-trump-apec-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HUSZVQC6X5LWDJ3DAY6WZZXS6Y.jpg",
-    "date": 1794898360000,
-    "titleSl": "V Šendženu so prepovedali uporabo hup in dronov, da bi zagotovili mir med obiskom Trumpa in vrhom APEC"
-   },
-   {
-    "title": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office",
-    "link": "https://www.reuters.com/world/china/papua-new-guineas-prime-minister-says-taiwan-does-not-operate-there-anymore-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2332ZK7MZFMGVP2N7GFOOGPC64.jpg",
-    "date": 1794896938000,
-    "titleSl": "Predsednik vlade Papue Nove Gvineje je povedal Siju, da »ni bilo lahko« zapreti tajvanskega urada"
-   },
-   {
-    "title": "Russian strikes hit two bridges in Kyiv, cause water, power cuts, mayor says",
-    "link": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RKNUN2XTFFORBJKN7VG7T3GBV4.jpg",
-    "date": 1794896569000,
-    "titleSl": "Ruski napadi so zadeli dva mostova v Kijevu in povzročili izpade vode in električne energije, pravi župan"
    }
   ],
   "nyt": [
@@ -717,6 +717,27 @@
   ],
   "guardian": [
    {
+    "title": "Youth unemployment plan could cut welfare bill before election, says Milburn, but overall savings will take years – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=700&quality=85&auto=format&fit=max&s=b550187dae9788f656db381fb658a0bd",
+    "date": 1794907552000,
+    "titleSl": "Načrt za zmanjšanje brezposelnosti mladih bi lahko zmanjšal stroške socialne pomoči pred volitvami, pravi Milburn, vendar bodo splošni prihranki trajali več let – britanska politika v živo"
+   },
+   {
+    "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
+    "image": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=eab19ebdd5580c858ac9becdb861d487",
+    "date": 1794907403000,
+    "titleSl": "COP31 v živo: prvi osnutek sporazuma pod pritiskom, saj podnebna pogajanja vstopajo v zadnje dni"
+   },
+   {
+    "title": "Declan Rice agrees new Arsenal contract making him club’s joint highest-paid player",
+    "link": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
+    "image": "https://i.guim.co.uk/img/media/3a6ee97e0fb4df224b55d9fc84622ed09c0c37a8/92_307_2104_1683/master/2104.jpg?width=700&quality=85&auto=format&fit=max&s=a3afb4b26f27a48554af02da67ccbe3a",
+    "date": 1794907174000,
+    "titleSl": "Declan Rice je podpisal novo pogodbo z Arsenalom, zaradi česar je postal eden najbolje plačanih igralcev kluba"
+   },
+   {
     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
@@ -729,13 +750,6 @@
     "image": "https://i.guim.co.uk/img/media/49d53bdf2950c3cd72a7414be447d3f94fccfda2/821_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=74d697461935070b8307db48b88b8511",
     "date": 1794906621000,
     "titleSl": "Vrhovi APEC in ASEAN v živo: Trumpa v Manili čakajo protesti, medtem ko Xi v Shenzhenu pozdravlja voditelje"
-   },
-   {
-    "title": "Youth unemployment plan could cut welfare bill before election, says Milburn, but overall savings will take years – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=700&quality=85&auto=format&fit=max&s=b550187dae9788f656db381fb658a0bd",
-    "date": 1794906244000,
-    "titleSl": "Načrt za zmanjšanje brezposelnosti mladih bi lahko zmanjšal stroške socialne pomoči pred volitvami, pravi Milburn, vendar bodo splošni prihranki trajali več let – britanska politika v živo"
    },
    {
     "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
@@ -757,13 +771,6 @@
     "image": "https://i.guim.co.uk/img/media/421da98f3eee945b02fbcb505187826c17538212/590_80_1784_1427/master/1784.jpg?width=700&quality=85&auto=format&fit=max&s=8960eabf95339a0314651dfa69a9a05b",
     "date": 1794906008000,
     "titleSl": "Recenzija knjige »Pripadnost« Sonie Gandhi – Indijska političarka starejše generacije prekinja molk"
-   },
-   {
-    "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-    "image": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=eab19ebdd5580c858ac9becdb861d487",
-    "date": 1794905496000,
-    "titleSl": "COP31 v živo: prvi osnutek sporazuma pod pritiskom, saj podnebna pogajanja vstopajo v zadnje dni"
    },
    {
     "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
@@ -792,13 +799,6 @@
     "image": "https://i.guim.co.uk/img/media/d260578488a1117396b1fbbce4ccf0dce45018db/31_0_4684_3746/master/4684.jpg?width=700&quality=85&auto=format&fit=max&s=b87b23fb669c29dba682856cefbed757",
     "date": 1794902409000,
     "titleSl": "»Želi spremeniti življenja drugih«: zgodba o nagradi Sócrates, ki jo je prejel Bukayo Saka"
-   },
-   {
-    "title": "Drought, early harvests and wet winters: can an experimental orchard save the UK’s cider industry?",
-    "link": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
-    "image": "https://i.guim.co.uk/img/media/c16ddee7422bfaf3bc19a0615c31918926df7941/229_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=79627ba077ef8809a0a4693193030aa7",
-    "date": 1794902408000,
-    "titleSl": "Suša, zgodnje letine in mokre zime: ali lahko poskusni sadovnjak reši britansko industrijo jabolčnika?"
    }
   ],
   "spiegel": [
@@ -888,6 +888,13 @@
   ],
   "bild": [
    {
+    "title": "Mit schmutziger Bombe - Iran soll Anschlag in Washington planen",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/iran-us-geheimdienst-warnt-vor-anschlag-mit-schmutziger-bombe-in-washington-6afbf64e9893cadb7bd1567f",
+    "image": "https://images.bild.de/6afbf64e9893cadb7bd1567f/1ddd6888f1019173297bfed5b23f3900,a1759abe?w=1280",
+    "date": 1794907775000,
+    "titleSl": "Z umazano bombo – Iran naj bi načrtoval napad v Washingtonu"
+   },
+   {
     "title": "Klingbeils EZB-Plan - Dieser Deutsche soll Europas Zinsen mitbestimmen",
     "link": "https://www.bild.de/politik/inland/markus-brunnermeier-finanzminister-klingbeil-will-deutschen-als-ezb-chefoekonom-6afc17949893cadb7bd159bd",
     "image": "https://images.bild.de/6afc17949893cadb7bd159bd/c18069eb474ecb487aac88b9a4684073,fc34b5d8?w=1280",
@@ -963,29 +970,22 @@
     "image": "https://images.bild.de/6afc1460028f6e41ab3f2231/2b25c81bf4707ab27103e74d18c13326,daf63312?w=1280",
     "date": 1794906577000,
     "titleSl": "Po razkritjih iz zaupnih bančnih dokumentov – delnica Deutsche Bank je strmoglavila!"
-   },
-   {
-    "title": "Ski-Star Emma Aicher - Essen beim Japaner nach Sieg in Finnland",
-    "link": "https://www.bild.de/sport/mehr-sport/emma-aicher-mit-levi-sieg-an-die-spitze-des-gesamtweltcups-6afae27804d5cec509c6a725",
-    "image": "https://images.bild.de/6afae27804d5cec509c6a725/8a5d71bb41104728b6800ddb14a417d1,5ac26d5b?w=1280",
-    "date": 1794906532000,
-    "titleSl": "Smučarka Emma Aicher – Po zmagi na Finskem na večerjo k Japoncu"
    }
   ],
   "krone": [
+   {
+    "title": "Beweismittelfälschung - Brisant: Strafantrag gegen Stadtwerke-Vorstände",
+    "link": "https://www.krone.at/4378638",
+    "image": "https://imgl.krone.at/scaled/4378640/v30e907/full.jpg",
+    "date": 1794907735000,
+    "titleSl": "Ponarejanje dokazov – Eksplozivno: Kazenska ovadba proti članom uprave komunalnega podjetja"
+   },
    {
     "title": "„Krone“ kennt Zahlen - Abnehmspritze sicher? Acht tödliche Verdachtsfälle",
     "link": "https://www.krone.at/4378378",
     "image": "https://imgl.krone.at/scaled/4043985/v2872b4/full.jpg",
     "date": 1794907296000,
     "titleSl": "»Krone« pozna številke – je injekcija za hujšanje varna? Osem sumov smrti"
-   },
-   {
-    "title": "Beweismittelfälschung - Brisant: Strafantrag gegen Stadtwerke-Vorstände",
-    "link": "https://www.krone.at/4378638",
-    "image": "https://imgl.krone.at/scaled/4378640/v30e907/full.jpg",
-    "date": 1794907262000,
-    "titleSl": "Ponarejanje dokazov – Eksplozivno: Kazenska ovadba proti članom uprave komunalnega podjetja"
    },
    {
     "title": "Großeinsatz in Tirol - Bauernhof in Flammen: Alle Tiere entkamen Feuertod",
@@ -1059,6 +1059,13 @@
    }
   ],
   "rainews": [
+   {
+    "title": "Ecco il pianeta “evanescente” che scompare per l’attrazione di un corpo celeste nascosto",
+    "link": "https://www.rainews.it/articoli/2026/11/toi-2535-b-il-pianeta-evanescente-che-scompare-per-lattrazione-di-un-corpo-celeste-nascosto-3f05addc-74ab-401c-85ba-e8830d54bc06.html",
+    "image": "https://www.rainews.it/dl/img/2026/08/29/1787980763366_tamasky.jpg",
+    "date": 1794906720000,
+    "titleSl": "Tukaj je »izginjajoči« planet, ki izgine zaradi privlačnosti skritega nebesnega telesa"
+   },
    {
     "title": "ATP Finals, Cobolli si arrende a Medvedev in due set: 7-6, 6-3",
     "link": "https://www.rainews.it/maratona/2026/11/tennis-atp-finals-2026-torino-zverev-alcaraz-shelton-medvedev-cobolli-fils-tiafoe-jodar-35dcb6f1-811a-4d67-a256-a0994a5e7216.html",
@@ -1135,16 +1142,16 @@
     "image": "https://www.rainews.it/dl/img/2026/11/17/1794898070636_.jpg",
     "date": 1794903540000,
     "titleSl": "Ruski droni nad Kijevom: dva glavna mostova sta zaprta. Vrh v Shenzhenu: tristransko srečanje Trumpa, Putina in Xija"
-   },
-   {
-    "title": "Il viaggio di William a Kate, partecipano a una partita di cricket in strada a Mumbai",
-    "link": "https://www.rainews.it/video/2026/11/il-video-di-william-a-kate-partecipano-a-una-partita-di-cricket-in-strada-a-mumbai-d03fba5c-40d6-40fd-a21d-312bbdba2eb3.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/17/1794902319465_RainewsScreenshotms.png",
-    "date": 1794902160000,
-    "titleSl": "Obisk Williama in Kate, udeležita se tekme v uličnem kriketu v Mumbaju"
    }
   ],
   "lemonde": [
+   {
+    "title": "Marine Le Pen et l’Ukraine, entre hypocrisie et lâcheté",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/17/marine-le-pen-et-l-ukraine-entre-hypocrisie-et-lachete_6812934_3232.html",
+    "image": "https://img.lemde.fr/2026/10/26/250/0/3000/1500/644/322/60/0/6d9f417_upload-1-ggcepq222xwu-meetingrn-orleans-asurp-204821.jpg",
+    "date": 1794907810000,
+    "titleSl": "Marine Le Pen in Ukrajina, med hinavščino in strahopetnostjo"
+   },
    {
     "title": "L’entreprise française OVHcloud dévoile son premier modèle d’IA, baptisé Olala",
     "link": "https://www.lemonde.fr/pixels/article/2026/11/17/l-entreprise-francaise-ovhcloud-devoile-son-premier-modele-d-ia-baptise-olala_6812932_4408996.html",
@@ -1221,13 +1228,6 @@
     "image": "https://img.lemde.fr/2026/11/16/413/0/3000/1500/644/322/60/0/f91372f_upload-1-e6ggxnwb10wa-db-00-papier-prez.jpg",
     "date": 1794895206000,
     "titleSl": "»Inside Deutsche Bank«, preiskava 230 novinarjev in 50 medijev na podlagi 15 milijonov datotek"
-   },
-   {
-    "title": "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels",
-    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-secrets-inavouables-du-geant-bancaire-reveles-par-15-millions-de-documents-confidentiels_6812911_4355770.html",
-    "image": "https://img.lemde.fr/2026/11/16/250/0/3000/1500/644/322/60/0/1c63edb_upload-1-qpqxynkvgnol-db-01-papier-cadrage.jpg",
-    "date": 1794895085000,
-    "titleSl": "»Inside Deutsche Bank«: skrivnosti bančnega velikana, ki jih ni mogoče priznati, razkriva 15 milijonov zaupnih dokumentov"
    }
   ],
   "elpais": [
