@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T09:56:37.482Z",
+ "generatedAt": "2026-11-17T09:58:30.858Z",
  "sources": {
   "siol": [
    {
@@ -462,8 +462,15 @@
     "title": "Live Updates: Trump’s Whirlwind Asia Trip Starts in the Philippines",
     "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-promo-jgmt/17trump-summits-promo-jgmt-mediumSquareAt3X.jpg",
-    "date": 1794908991000,
+    "date": 1794909372000,
     "titleSl": "Posodobitve v živo: Trumpovo burno potovanje po Aziji se začne na Filipinih"
+   },
+   {
+    "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+    "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
+    "date": 1794909326000,
+    "titleSl": "Ukrajina je napadla Kerški most, ki povezuje Rusijo z zasedenim Krimom"
    },
    {
     "title": "Carney and Xi Announce Canada-China Trade Pact",
@@ -534,16 +541,16 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
     "date": 1794895212000,
     "titleSl": "Razkriti dokumenti kažejo, da se je Deutsche Bank približevala ruskim oligarhom"
-   },
-   {
-    "title": "Trump’s Ego Trip With Xi and Putin Will End Badly",
-    "link": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/opinion/17campbell-image/17campbell-image-mediumSquareAt3X.jpg",
-    "date": 1794895212000,
-    "titleSl": "Trumpovo bahanje s predsednikoma Xi Jinpingom in Putinom se bo slabo končalo"
    }
   ],
   "bbc": [
+   {
+    "title": "Pochettino says he would tell Guardiola to take USA job",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg",
+    "date": 1794908904000,
+    "titleSl": "Pochettino pravi, da bi Guardioli svetoval, naj sprejme službo v ZDA"
+   },
    {
     "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
     "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce5d/live/cceee0b0-e20f-11f1-949a-f7d7fdb21969.jpg",
     "date": 1794899888000,
     "titleSl": "Irski boksar Reeves je umrl v starosti 31 let po treh mesecih v komi"
-   },
-   {
-    "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-    "link": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210f/live/3ab82110-e251-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1794899408000,
-    "titleSl": "Oglejte si: Vedenje detektiva, ki je zlorabljal Met, je postajalo vse bolj skrajno"
    }
   ],
   "aljazeera": [
@@ -889,10 +889,31 @@
   ],
   "bild": [
    {
+    "title": "Das freut alle Fans - Hertha will diesen Nationalspieler verpflichten",
+    "link": "https://www.bild.de/sport/fussball/hertha-bsc-will-nationalspieler-fest-verpflichten-6afafc1504d5cec509c6cd61",
+    "image": "https://images.bild.de/6afafc1504d5cec509c6cd61/0a003586278329b7ef81a477bb3f7f83,1f844e57?w=1280",
+    "date": 1794909435000,
+    "titleSl": "To bo razveselilo vse navijače – Hertha bo podpisala pogodbo s tem reprezentantom"
+   },
+   {
+    "title": "Folgen für Millionen Deutsche - Merz zieht große Job-Reform vor",
+    "link": "https://www.bild.de/politik/inland/arbeitsrecht-kanzler-merz-zieht-reform-vor-folgen-fuer-millionen-deutsche-6afc163e6837d711cd2c7d56",
+    "image": "https://images.bild.de/6afc163e6837d711cd2c7d56/eb4ee47ed3a792ac46a9bcd9b0374fae,bd80ed0f?w=1280",
+    "date": 1794909394000,
+    "titleSl": "Posledice za milijone Nemcev – Merz daje prednost obsežni reformi trga dela"
+   },
+   {
+    "title": "Deutschland hat zu wenig Strom - Uns droht ein Jahrzehnt Stillstand",
+    "link": "https://www.bild.de/politik/inland/deutschland-hat-zu-wenig-strom-uns-droht-ein-jahrzehnt-stillstand-6afbf5efda95436aa182f7c6",
+    "image": "https://images.bild.de/6afbf5efda95436aa182f7c6/142d081202e8cf8f13fda4188793d3ae,7e870fe5?w=1280",
+    "date": 1794909386000,
+    "titleSl": "Nemčija ima premalo električne energije – grozi nam desetletje mirovanja"
+   },
+   {
     "title": "Riesige Blamage für Putin - Krim-Brücke teilweise eingestürzt! Krisen-Sitzung im Kreml",
     "link": "https://www.bild.de/politik/ausland-und-internationales/krim-bruecke-offenbar-eingestuerzt-waere-mega-blamage-fuer-putin-6afbea19bfa018bfcc989a7e",
     "image": "https://images.bild.de/6afbea19bfa018bfcc989a7e/65917e419829db4b7bec90a0a25beec5,b195c847?w=1280",
-    "date": 1794909250000,
+    "date": 1794909376000,
     "titleSl": "Velika sramota za Putina – Krimski most se je delno zrušil! Krizni sestanek v Kremlju"
    },
    {
@@ -950,30 +971,16 @@
     "image": "https://images.bild.de/6afbf07d028f6e41ab3f1eb9/1db8db0baf5afba069758842aa8d19a5,aec26e8d?w=1280",
     "date": 1794908804000,
     "titleSl": "Hollywoodska zvezda pozdravlja Pattinsonovo zasedbo – zdaj želi Brad Pitt postati Bondov zlobnež"
-   },
-   {
-    "title": "Er hat nur Augen fürs Essen - Woody Allen beim Familiendinner in Spanien",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/woody-allen-seine-tochter-zeigt-fotos-von-der-familie-bei-dinner-in-spanien-6afbf245028f6e41ab3f1ede",
-    "image": "https://images.bild.de/6afbf245028f6e41ab3f1ede/9edb3bbe2656bbff047eba9214a4029f,ffbbc006?w=1280",
-    "date": 1794908800000,
-    "titleSl": "Er hat nur Augen fürs Essen – Woody Allen beim Familiendinner in Spanien"
-   },
-   {
-    "title": "Deutschland hat zu wenig Strom - Uns droht ein Jahrzehnt Stillstand",
-    "link": "https://www.bild.de/politik/inland/deutschland-hat-zu-wenig-strom-uns-droht-ein-jahrzehnt-stillstand-6afbf5efda95436aa182f7c6",
-    "image": "https://images.bild.de/6afbf5efda95436aa182f7c6/142d081202e8cf8f13fda4188793d3ae,7e870fe5?w=1280",
-    "date": 1794908795000,
-    "titleSl": "Nemčija ima premalo električne energije – grozi nam desetletje mirovanja"
-   },
-   {
-    "title": "Mädchen (13) überfahren - Totraser (32) kam erst dieses Jahr aus dem Knast",
-    "link": "https://www.bild.de/regional/bayern/sailauf-maedchen-13-bei-verfolgungsjagd-totgefahren-6afb776fbfa018bfcc989747",
-    "image": "https://images.bild.de/6afb776fbfa018bfcc989747/c9305c7939fc93d64142aef03ba1a343,3478c676?w=1280",
-    "date": 1794908781000,
-    "titleSl": "Deklica (13) je bila povožena – divjak (32) je letos prišel iz zapora"
    }
   ],
   "krone": [
+   {
+    "title": "Mit Hermann Maier - Die ersten Ski-Stars für TV-Hit stehen fest",
+    "link": "https://www.krone.at/4378796",
+    "image": "https://imgl.krone.at/scaled/4378812/v231698/full.jpg",
+    "date": 1794909430000,
+    "titleSl": "Z Hermannom Maierjem – Znane so prve zvezde smučanja za TV-Hit"
+   },
    {
     "title": "Nach zwei Jahren Pause - Orangerie im Schlosspark: Ins Neue Jahr tanzen",
     "link": "https://www.krone.at/4378810",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4378328/v3ba9d6/full.jpg",
     "date": 1794906880000,
     "titleSl": "Dogovor že do leta 2027? - Deportacije: Zdaj potekajo pogajanja z Ruando"
-   },
-   {
-    "title": "Pläne vor dem Vollzug - Erste Details: Was bei Gesundheitsreform neu wird",
-    "link": "https://www.krone.at/4377739",
-    "image": "https://imgl.krone.at/scaled/3922112/v72cb9a/full.jpg",
-    "date": 1794906838000,
-    "titleSl": "Načrti pred izvedbo – Prve podrobnosti: Kaj bo novega v zdravstveni reformi"
    }
   ],
   "rainews": [
