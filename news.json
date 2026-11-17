@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:36:55.048Z",
+ "generatedAt": "2026-11-17T20:38:32.581Z",
  "sources": {
   "siol": [
    {
@@ -77,10 +77,22 @@
   ],
   "24ur": [
    {
+    "title": "V strmoglavljenju ruskega vojaškega letala umrlo 19 ljudi",
+    "link": "https://www.24ur.com/novice/tujina/v-strmoglavljenju-ruskega-vojaskega-letala-v-sibiriji-umrlo-19-ljudi.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/d54742982846bb3e734f_63681048.jpg?v=a6d6&fop=fp:0.53:0.46",
+    "date": 1794947662000
+   },
+   {
     "title": "Kajzer ostaja minister za zunanje in evropske zadeve",
     "link": "https://www.24ur.com/novice/slovenija/prva-interpelacije-aktualne-vlade-zagovarjal-se-bo-kajzer.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/ab1ee9e762bab77c3c5e_63680874.jpg?v=b1c1&fop=fp:0.51:0.41",
     "date": 1794947440000
+   },
+   {
+    "title": "Ukrajina objavila posnetek napada na Krimski most: veselje v štabu",
+    "link": "https://www.24ur.com/novice/tujina/po-ukrajinskem-napadu-naj-bi-se-zrusil-del-krimskega-mostu.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/9836294d4540fe3a7c9b_63681040.jpg?v=f1a0&fop=fp:0.47:0.34",
+    "date": 1794947099000
    },
    {
     "title": "Netanjahu naj bi mimo vojske in vlade načrtoval nove napade na Iran",
@@ -135,18 +147,6 @@
     "link": "https://www.24ur.com/sport/nogomet/nogometni-svet-spet-ovit-v-crno-tragedija-brez-primere-v-argentini.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/7dfff201626b2c90380e_63680940.jpg?v=e69b&fop=fp:0.60:0.14",
     "date": 1794939799000
-   },
-   {
-    "title": "Med televizijskim soočenjem gosta obračunala s pestmi in brcami",
-    "link": "https://www.24ur.com/novice/tujina/med-televizijskim-soocenjem-v-zivo-zapele-pesti.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/50b29e0e53d15737192a_63680923.jpg?v=0169&fop=fp:0.37:0.39",
-    "date": 1794939427000
-   },
-   {
-    "title": "Kaj razkriva ovadba zoper Petriča?",
-    "link": "https://www.24ur.com/novice/slovenija/mnz-zaradi-prepoznih-postopkov.html",
-    "image": "https://images.24ur.com/media/images/213xX/May2026/968640fe2df0998f070c_63585601.jpg?v=a7bb&fop=fp:0.31:0.25",
-    "date": 1794939286000
    }
   ],
   "rtvslo": [
@@ -376,7 +376,8 @@
     "title": "AppLovin among firms in talks to acquire Criteo, sources say",
     "link": "https://www.reuters.com/legal/transactional/applovin-among-firms-talks-acquire-criteo-sources-say-2026-11-17/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6LSUNMY355IGXB5DXVQRSHGUS4.jpg",
-    "date": 1794946828000
+    "date": 1794946828000,
+    "titleSl": "Viri pravijo, da je AppLovin med podjetji, ki se pogajajo o prevzemu podjetja Criteo"
    },
    {
     "title": "Thousands march in support of Bukele's Haiti mission as analysts warn of escalation",
@@ -424,7 +425,8 @@
     "title": "Root cause of US aviation shutdown not yet determined, Duffy says",
     "link": "https://www.reuters.com/world/us/duffy-says-no-root-cause-yet-found-router-failure-that-caused-ground-stop-2026-11-17/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/I4WPW5ADCVNFDMJ5GDHCZXGRFU.jpg",
-    "date": 1794945835000
+    "date": 1794945835000,
+    "titleSl": "Glavni vzrok za zaustavitev letalskega prometa v ZDA še ni ugotovljen, pravi Duffy"
    },
    {
     "title": "France is not 'co-belligerent' in Ukraine, French minister says",
@@ -887,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Großer Reformplan - Koalition plant neuen Asyl-Deal!",
+    "link": "https://www.bild.de/politik/inland/einbuergerung-union-will-acht-jahre-wartezeit-und-strengere-regeln-6afc2ad36837d711cd2c8005",
+    "image": "https://images.bild.de/6afc2ad36837d711cd2c8005/203061afdbb5d016100e424d9a4940f1,cb4f0ac9?w=1280",
+    "date": 1794947836000,
+    "titleSl": "Obsežen načrt reform – Koalicija načrtuje nov dogovor o azilu!"
+   },
+   {
     "title": "Nach nur anderthalb Monaten - Kompanys Sichtschutz schon kaputt!",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-sichtschutz-von-trainer-kompany-schon-nach-anderthalb-monaten-kaputt-6afc6b95bf787977ad3db808",
     "image": "https://images.bild.de/6afc6b95bf787977ad3db808/8543e1673f38085be41ba554c2941884,15370fc2?w=1280",
@@ -962,16 +971,16 @@
     "image": "https://images.bild.de/6afc6650cdc4b5009f0a8fe1/f1980711e9b0657e868edc00d4c4fce1,58a5b923?w=1280",
     "date": 1794945359000,
     "titleSl": "Schalkerjev junak napredovanja priznava – »Namerno sem slabo treniral«"
-   },
-   {
-    "title": "Nr. 1 der Welt reist mit tierischer Begleitung - Zverevs kleiner Hunde-Zoo",
-    "link": "https://www.bild.de/sport/mehr-sport/alexander-zverev-loevik-ist-der-ruhepol-so-lebt-sein-hunde-rudel-6afc1f986837d711cd2c7e71",
-    "image": "https://images.bild.de/6afc1f986837d711cd2c7e71/b03bd54910df33db41431cdde6e0c70c,7991dff7?w=1280",
-    "date": 1794944793000,
-    "titleSl": "Št. 1 na svetu potuje v družbi živali – Zverevov mali pasji živalski vrt"
    }
   ],
   "krone": [
+   {
+    "title": "Auf frischer Tat - E-Scooter-Seriendieb im Pflichtschulalter gefasst",
+    "link": "https://www.krone.at/4379808",
+    "image": "https://imgl.krone.at/scaled/4379814/vcfeff2/full.jpg",
+    "date": 1794947844000,
+    "titleSl": "Pri dejanju – prijet je bil mladoletni serijski tat električnih skirojev"
+   },
    {
     "title": "Nations-League-TICKER - LIVE: Pause! Österreich gegen Israel 0:1 zurück",
     "link": "https://www.krone.at/4377759",
@@ -1020,13 +1029,6 @@
     "image": "https://imgl.krone.at/scaled/4379872/v3e0ac7/full.jpg",
     "date": 1794946843000,
     "titleSl": "Naslednja okvara – motnje v delovanju notranjega omrežja ameriške obveščevalne službe NSA"
-   },
-   {
-    "title": "Auf frischer Tat - E-Scooter-Seriendieb im Pflichtschulalter gefasst",
-    "link": "https://www.krone.at/4379808",
-    "image": "https://imgl.krone.at/scaled/4379814/vcfeff2/full.jpg",
-    "date": 1794946070000,
-    "titleSl": "Pri dejanju – prijet je bil mladoletni serijski tat električnih skirojev"
    },
    {
     "title": "21 Floriani im Einsatz - Werkstatt in Flammen: Arbeiter musste ins Spital",
@@ -1318,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-17T20:36:31.114Z",
+   "checkedAt": "2026-11-17T20:38:24.232Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-17T20:36:32.169Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-17T20:36:32.602Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-17T20:36:32.604Z",
+   "checkedAt": "2026-11-17T20:38:25.036Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-17T20:36:50.982Z",
+   "checkedAt": "2026-11-17T20:38:25.045Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-17T20:38:25.347Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-17T20:38:25.722Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-17T20:36:51.058Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-17T20:36:51.113Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-17T20:36:51.137Z",
+   "checkedAt": "2026-11-17T20:38:26.075Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-17T20:36:51.209Z",
+   "checkedAt": "2026-11-17T20:38:26.080Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-17T20:38:26.165Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-17T20:38:26.195Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-17T20:36:53.537Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-17T20:36:53.638Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-17T20:36:53.919Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-17T20:36:53.988Z",
+   "checkedAt": "2026-11-17T20:38:29.362Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-17T20:36:54.049Z",
+   "checkedAt": "2026-11-17T20:38:30.013Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-17T20:38:30.539Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-17T20:38:30.636Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-17T20:36:54.942Z",
+   "checkedAt": "2026-11-17T20:38:30.704Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-17T20:38:31.275Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-17T20:36:55.047Z",
+   "checkedAt": "2026-11-17T20:38:32.580Z",
    "success": true
   }
  },
