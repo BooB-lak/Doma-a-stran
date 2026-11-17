@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:10:41.097Z",
+ "generatedAt": "2026-11-17T06:12:39.198Z",
  "sources": {
   "siol": [
    {
@@ -460,7 +460,7 @@
   "nyt": [
    {
     "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
-    "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oliagarchs-leaked-documents.html",
+    "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
     "date": 1794895212000,
     "titleSl": "Razkriti dokumenti kažejo, da se je Deutsche Bank približevala ruskim oligarhom"
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "How predatory Met detective's behaviour became increasingly extreme",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49pjvqw8vo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c75/live/48afb510-e203-11f1-99b6-a35a62fa4264.jpg",
+    "date": 1794895758000,
+    "titleSl": "Kako je vedenje detektiva londonske policije postajalo vse bolj skrajno"
+   },
+   {
     "title": "How Met failed to stop rape-unit detective who abused women",
     "link": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f492/live/73e8fc20-e1f2-11f1-99a1-253766e7ad8b.png",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
     "date": 1794874798000,
     "titleSl": "Kakšna je zgodba s škotskim šefom Pocognolijem – je čas, da gre?"
-   },
-   {
-    "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-    "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
-    "date": 1794874194000,
-    "titleSl": "Meteorološka služba Met Office je izdala rumeno opozorilo, saj bi lahko sneg v torek zjutraj oviral promet."
    }
   ],
   "aljazeera": [
@@ -806,7 +806,8 @@
     "title": "»Hells Angels«-Ableger in Mönchengladbach verboten",
     "link": "https://www.spiegel.de/panorama/justiz/hells-angels-ableger-in-moenchengladbach-verboten-a-afd764d3-7569-42a7-8100-391f8b1132e4#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/006ac0d0-c9b7-48c8-8b2e-c7c635fc6172_w520_r2.08_fpx50.34_fpy55.01.jpg",
-    "date": 1794895620000
+    "date": 1794895620000,
+    "titleSl": "Podružnica kluba »Hells Angels« v Mönchengladbachu je bila prepovedana"
    },
    {
     "title": "Deutsche Bank: Datenleak \"Inside Deutsche Bank\" enthüllt dunkle Geheimnisse",
@@ -816,11 +817,25 @@
     "titleSl": "Deutsche Bank: Odtekanje podatkov »Inside Deutsche Bank« razkriva temne skrivnosti"
    },
    {
-    "title": "Jeffrey Epstein, Donald Trump: Die gefährlichsten Kunden der Deutschen Bank",
-    "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-donald-trump-die-gefaehrlichsten-kunden-der-deutschen-bank-a-ab8e3ad4-6b0c-463f-b027-8388b3a54cf8#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
+    "title": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/8587b94b-96e3-4386-bac0-4f9a43e8e574_w520_r2.08_fpx45_fpy55.png",
     "date": 1794895200000,
-    "titleSl": "Jeffrey Epstein, Donald Trump: Najnevarnejši stranki Deutsche Bank"
+    "titleSl": "Christian Sewing: Kako se je predsednik uprave Deutsche Bank prebil na vrh"
+   },
+   {
+    "title": "Wie die Deutsche Bank vor der Ukraine-Invasion ihr Russlandgeschäft ankurbelte",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/wie-die-deutsche-bank-vor-ukraine-invasion-ihr-russlandgeschaeft-ankurbelte-a-d24d8143-c9b3-4d8f-9993-cf45f98fdbcc#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/5dc23635-3096-4db8-b8f0-79381a575400_w520_r2.08_fpx56_fpy37.png",
+    "date": 1794895200000,
+    "titleSl": "Kako je Deutsche Bank pred invazijo na Ukrajino okrepila svoje poslovanje v Rusiji"
+   },
+   {
+    "title": "Deutsche Bank: Das müssen Sie über das Datenleak »Inside Deutsche Bank« wissen",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-das-muessen-sie-ueber-das-datenleak-inside-deutsche-bank-wissen-a-8ad9866a-bc73-43a4-9123-81f7aa96fcb5#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/8d34b259-5c15-4f23-8b35-83e2125e907c_w520_r2.08_fpx48_fpy17.png",
+    "date": 1794895200000,
+    "titleSl": "Deutsche Bank: To morate vedeti o razkritju podatkov »Inside Deutsche Bank«"
    },
    {
     "title": "»Inside Deutsche Bank« – so recherchierte der SPIEGEL",
@@ -830,11 +845,25 @@
     "titleSl": "»V zakulisju Deutsche Bank« – tako je raziskoval časopis SPIEGEL"
    },
    {
-    "title": "Deutsche Bank: Das müssen Sie über das Datenleak »Inside Deutsche Bank« wissen",
-    "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-das-muessen-sie-ueber-das-datenleak-inside-deutsche-bank-wissen-a-8ad9866a-bc73-43a4-9123-81f7aa96fcb5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8d34b259-5c15-4f23-8b35-83e2125e907c_w520_r2.08_fpx48_fpy17.png",
+    "title": "Jeffrey Epstein: Interne Unterlagen belasten Deutsche Bank mit weiteren Zahlungen",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-interne-unterlagen-belasten-deutsche-bank-mit-weiteren-zahlungen-a-7055c4a4-a3ac-41f8-a1f7-e6312c13abb3#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a48a532a-249e-4fcd-a79a-364fb0d2a841_w520_r2.08_fpx53_fpy43.png",
     "date": 1794895200000,
-    "titleSl": "Deutsche Bank: To morate vedeti o razkritju podatkov »Inside Deutsche Bank«"
+    "titleSl": "Jeffrey Epstein: Notranji dokumenti obremenjujejo Deutsche Bank z dodatnimi plačili"
+   },
+   {
+    "title": "Jeffrey Epstein, Donald Trump: Die gefährlichsten Kunden der Deutschen Bank",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-donald-trump-die-gefaehrlichsten-kunden-der-deutschen-bank-a-ab8e3ad4-6b0c-463f-b027-8388b3a54cf8#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
+    "date": 1794895200000,
+    "titleSl": "Jeffrey Epstein, Donald Trump: Najnevarnejši stranki Deutsche Bank"
+   },
+   {
+    "title": "Axel Springer: So funktionierte das Steuergeschenk für Mathias Döpfner",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-so-funktionierte-der-steuertrick-von-mathias-doepfner-a-56e3e52e-281c-4121-a0f5-e3ee1cd64377#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/79805be5-34aa-4338-aa92-7ac9f682a6b5_w520_r2.08_fpx56_fpy45.jpg",
+    "date": 1794895200000,
+    "titleSl": "Axel Springer: Kako je delovala davčna ugodnost za Mathiasa Döpfnerja"
    },
    {
     "title": "Ukrainekrieg: Kyjiw meldet russische Angriffe auf kritische Infrastruktur und Brücken",
@@ -856,34 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/3ea52a2e-bf31-4b3e-bbdc-a7dd8b4a750a_w520_r2.08_fpx34.35_fpy50.87.jpg",
     "date": 1794891660000,
     "titleSl": "Marcel Fratzscher kritizira Friedricha Merza zaradi načrta za nadaljnje znižanje davka na električno energijo"
-   },
-   {
-    "title": "Klimakrise: Extremwetter forderte seit 1996 mehr als 900.000 Todesopfer",
-    "link": "https://www.spiegel.de/wissenschaft/klimakrise-extremwetter-forderte-seit-1996-mehr-als-900-000-todesopfer-a-5729e7d1-7d52-4611-b870-0abbf11c3116#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/3273283f-f5c7-4ec8-950d-76060595c9b4_w520_r2.08_fpx66.64_fpy50.jpg",
-    "date": 1794891600000,
-    "titleSl": "Podnebna kriza: od leta 1996 je zaradi ekstremnih vremenskih razmer umrlo več kot 900.000 ljudi"
-   },
-   {
-    "title": "»Prominent verwandt«: Die Familie als letzte Ressource der Verwüstung",
-    "link": "https://www.spiegel.de/kultur/tv/prominent-verwandt-die-familie-als-letzte-ressource-der-verwuestung-a-58c7817c-8efd-4dde-aba6-245954dbed8a#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ae3602cf-4293-44c7-93f6-6ab565bc4ced_w520_r2.08_fpx51_fpy44.jpg",
-    "date": 1794891420000,
-    "titleSl": "»Prominent verwandt«: Družina kot zadnji vir opustošenja"
-   },
-   {
-    "title": "Hyrox: Was Sie von dem Ausdauer-Kraft-Wettkampf lernen können",
-    "link": "https://www.spiegel.de/fitness/hyrox-was-sie-von-dem-ausdauer-kraft-wettkampf-lernen-koennen-a-21e87206-d728-4d81-a031-5e2a622007d5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/60c4c33e-4d87-4db0-a012-1bcf32c7f3a1_w520_r2.08_fpx46_fpy45.jpg",
-    "date": 1794889800000,
-    "titleSl": "Hyrox: Kaj se lahko naučite iz tekmovanja v vzdržljivosti in moči"
-   },
-   {
-    "title": "Fitness: So wird ihr Rücken wieder gerade (und schmerzfrei)",
-    "link": "https://www.spiegel.de/fitness/fitness-so-wird-ihr-ruecken-wieder-gerade-und-schmerzfrei-a-d2e95255-cf0e-4f6b-9f58-cb4d9e4ebc38#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/89729020-1c7e-4f8c-bc60-f2f6d4e1f0a1_w520_r2.08_fpx50_fpy50.jpg",
-    "date": 1794889800000,
-    "titleSl": "Fitnes: Tako bo vaš hrbet spet raven (in brez bolečin)"
    }
   ],
   "bild": [
@@ -1109,6 +1110,13 @@
     "titleSl": "Slabo vreme: oranžni alarm v Toskani, rumeni v 6 regijah"
    },
    {
+    "title": "I due vortici marini si stagliano sul cielo della baia di San Francisco",
+    "link": "https://www.rainews.it/video/2026/11/i-due-vortici-marini-si-stagliano-sul-cielo-della-baia-di-san-francisco-8a7ba676-3f48-4fb6-ac5c-4c4df03166b6.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/17/1794891099678_TZLOPRPRTRMADPBASEIMAGEXUSAWATERSPOUTSUGC.JPG",
+    "date": 1794891000000,
+    "titleSl": "Dva morska vrtinca se dvigata proti nebu nad zalivom San Francisco."
+   },
+   {
     "title": "Giornalista ucciso da due sicari in moto: denunciava narcos e politici",
     "link": "https://www.rainews.it/video/2026/11/giornalista-costaricano-ucciso-a-colpi-di-arma-da-fuoco-e-il-primo-caso-del-genere-negli-ultimi-25--cb770190-eb3b-4fba-a4aa-29251c519061.html",
     "image": "https://www.rainews.it/dl/img/2026/11/17/1794890917995_TZLOPRPRTRMADPBASEIMAGEXCOSTARICAVIOLENCE.JPG",
@@ -1135,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/17/1794870170429_SON_Sciotto__opposizioni.transferframe.jpeg",
     "date": 1794884880000,
     "titleSl": "Oster napad opozicije: »Treba ga je preoblikovati.« Demokratska stranka (Pd) zahteva sredstva za zdravstvo"
-   },
-   {
-    "title": "Tensioni sulle pensioni e sul Superbonus",
-    "link": "https://www.rainews.it/video/2026/11/tensioni-sulle-pensioni-e-sul-superbonus-a4cd5556-a408-435c-b4ab-12d778b8e6f0.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/17/1794870627177_son_bagnacani_manovra.transferframe.jpeg",
-    "date": 1794884400000,
-    "titleSl": "Napetosti glede pokojnin in Superbonusa"
    }
   ],
   "lemonde": [
@@ -1191,7 +1192,8 @@
     "title": "Pollution de l’air : malgré des progrès, Paris, Lyon et Marseille encore loin des meilleures villes européennes",
     "link": "https://www.lemonde.fr/planete/article/2026/11/17/pollution-de-l-air-malgre-des-progres-paris-lyon-et-marseille-encore-loin-des-meilleures-villes-europeennes_6812906_3244.html",
     "image": "https://img.lemde.fr/2026/11/16/66/0/5867/2933/644/322/60/0/607cded_upload-1-unmziqx5v56a-000-399n4hz.jpg",
-    "date": 1794892804000
+    "date": 1794892804000,
+    "titleSl": "Onesnaženost zraka: kljub napredku so Pariz, Lyon in Marseille še vedno daleč za najboljšimi evropskimi mesti"
    },
    {
     "title": "Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle",
