@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T23:20:48.163Z",
+ "generatedAt": "2026-11-17T23:22:30.305Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+    "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+    "image": "https://static01.nyt.com/images/2026/07/29/multimedia/17xp-apple/17xp-apple-mediumSquareAt3X.jpg",
+    "date": 1794957458000,
+    "titleSl": "Apple obravnava izpade, ki vplivajo na storitve Apple Pay, iCloud in aplikacije"
+   },
+   {
     "title": "Iran Is Emboldened After Trump and GOP’s Election Losses, Officials Say",
     "link": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-iran-intel-mbjf/17dc-iran-intel-mbjf-mediumSquareAt3X.jpg",
@@ -513,13 +520,6 @@
     "image": "",
     "date": 1794951979000,
     "titleSl": "Kevin Bleyer, avtor Obamovega govora, v katerem je izpostavil Trumpa, je umrl v starosti 54 let"
-   },
-   {
-    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-    "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-    "image": "https://static01.nyt.com/images/2026/07/29/multimedia/17xp-apple/17xp-apple-mediumSquareAt3X.jpg",
-    "date": 1794951565000,
-    "titleSl": "Apple obravnava izpade, ki vplivajo na storitve Apple Pay, iCloud in aplikacije"
    },
    {
     "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Top spy agency suffers network outage, the latest US technical failure",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-emma-1711-1794957490.png?resize=1920%2C1080&quality=80",
+    "date": 1794957552000,
+    "titleSl": "Največja obveščevalna agencija je utrpela izpad omrežja, kar je najnovejša tehnična okvara v ZDA."
+   },
+   {
     "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
     "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc71bd7d1d-1794929085.jpg?resize=1920%2C1440",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc98823e-1794939010.jpg?resize=1920%2C1440",
     "date": 1794948029000,
     "titleSl": "Zaradi osnutka podnebnega sporazuma na konferenci COP31 naraščajo napetosti"
-   },
-   {
-    "title": "Kalshi halts Trump speech bets after CFTC order",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcae05-1794944517.jpg?resize=1920%2C1440",
-    "date": 1794946818000,
-    "titleSl": "Kalshi je po odredbi CFTC prekinil stave na Trumpov govor"
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-17T23:20:36.959Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-17T23:20:37.558Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-17T23:20:38.630Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-17T23:20:38.821Z",
+   "checkedAt": "2026-11-17T23:22:23.015Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-17T23:20:39.455Z",
+   "checkedAt": "2026-11-17T23:22:23.566Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-17T23:22:23.596Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-17T23:22:23.759Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-17T23:22:24.215Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-17T23:20:39.774Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-17T23:20:39.796Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-17T23:20:39.962Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-17T23:20:40.011Z",
+   "checkedAt": "2026-11-17T23:22:24.738Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-17T23:20:42.012Z",
+   "checkedAt": "2026-11-17T23:22:24.792Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-17T23:22:25.016Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-17T23:22:25.215Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-17T23:22:28.055Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-17T23:20:42.726Z",
+   "checkedAt": "2026-11-17T23:22:28.473Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-17T23:20:42.829Z",
+   "checkedAt": "2026-11-17T23:22:28.861Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-17T23:20:43.021Z",
+   "checkedAt": "2026-11-17T23:22:29.071Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-17T23:20:43.238Z",
+   "checkedAt": "2026-11-17T23:22:29.211Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-17T23:20:45.873Z",
+   "checkedAt": "2026-11-17T23:22:30.165Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-17T23:20:48.162Z",
+   "checkedAt": "2026-11-17T23:22:30.304Z",
    "success": true
   }
  },
