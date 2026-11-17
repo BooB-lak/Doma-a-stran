@@ -3117,6 +3117,21 @@ body:not(.edit-mode) .news-directory-remove{display:none}
 #quickNews-reuters .quick-news-image{object-fit:contain}
 #quickNews-reuters .quick-news-card a:hover .quick-news-image{transform:none}
 .quick-news-published{display:block;margin-top:5px;color:var(--muted);font-size:11px;line-height:1.3}
+.quick-news-source-title{min-width:0}
+.quick-news-source-title a{display:inline-flex;align-items:center;gap:8px;max-width:100%}
+.quick-news-source-title a span{min-width:0}
+.quick-news-source-logo{
+  display:block;
+  flex:none;
+  width:26px;
+  height:26px;
+  object-fit:contain;
+  padding:2px;
+  border-radius:5px;
+  background:#fff;
+}
+.quick-news-source-status{min-width:0;max-width:52%;overflow-wrap:break-word}
+@media(max-width:650px){.quick-news-source-logo{width:24px;height:24px}}
 </style>
 </head>
 <body>
@@ -5620,7 +5635,12 @@ function quickNewsBuildShell(){
     <section id="quickNews-${esc(source.id)}" class="quick-news-source" data-news-source="${esc(source.id)}" tabindex="-1">
       <div class="quick-news-source-head">
         <h2 class="quick-news-source-title">
-          <a href="${esc(source.homepage)}" target="_blank" rel="noopener noreferrer">${esc(source.name)}</a>
+          <a href="${esc(source.homepage)}" target="_blank" rel="noopener noreferrer">
+            <img class="quick-news-source-logo"
+                 src="https://www.google.com/s2/favicons?domain_url=${encodeURIComponent(source.homepage)}&amp;sz=64"
+                 width="26" height="26" alt="" aria-hidden="true" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+            <span>${esc(source.name)}</span>
+          </a>
         </h2>
         <div class="quick-news-source-status" id="quick-news-status-${esc(source.id)}"></div>
       </div>
@@ -5629,6 +5649,10 @@ function quickNewsBuildShell(){
       </div>
     </section>
   `).join("");
+
+  host.querySelectorAll(".quick-news-source-logo").forEach(icon=>{
+    icon.addEventListener("error",()=>icon.remove(),{once:true});
+  });
 
   const select=qs("#compactNewsSource");
   select.options.length=1;
