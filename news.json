@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:06:30.559Z",
+ "generatedAt": "2026-11-17T20:08:34.268Z",
  "sources": {
   "siol": [
    {
@@ -77,10 +77,22 @@
   ],
   "24ur": [
    {
+    "title": "Netanjahu naj bi mimo vojske in vlade načrtoval nove napade na Iran",
+    "link": "https://www.24ur.com/novice/tujina/netanjahu-naj-mimo-vojske-in-vlade-nacrtoval-napad-na-iran.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/b03310c1ad1363e96d31_63681029.jpg?v=5fee&fop=fp:0.28:0.24",
+    "date": 1794945796000
+   },
+   {
     "title": "Kajzer ostaja minister za zunanje in evropske zadeve",
     "link": "https://www.24ur.com/novice/slovenija/prva-interpelacije-aktualne-vlade-zagovarjal-se-bo-kajzer.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/ab1ee9e762bab77c3c5e_63680874.jpg?v=b1c1&fop=fp:0.51:0.41",
     "date": 1794945555000
+   },
+   {
+    "title": "Kaj si o novem Jamesu Bondu mislijo tuji mediji?",
+    "link": "https://www.24ur.com/popin/tuja-scena/kaj-si-o-novem-jamesu-bondu-mislijo-tuji-mediji.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/1b471588f24e4618e7f2_63680935.jpg?v=9639&fop=fp:0.47:0.41",
+    "date": 1794944492000
    },
    {
     "title": "Slovenke 'pustošile' na Kodeljevem: Avstrijke domov z - 43",
@@ -135,18 +147,6 @@
     "link": "https://www.24ur.com/novice/tujina/skoraj-200-spletnih-mest-tarca-kibernetskega-napada.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/c3faf9e8e88e20758c81_63680934.jpg?v=ff87&fop=fp:0.60:0.23",
     "date": 1794938567000
-   },
-   {
-    "title": "Branko Grims k Domoljubom za Evropo: delimo skupne vrednote",
-    "link": "https://www.24ur.com/novice/tujina/branko-grims-k-domoljubom-za-evropo.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jun2024/2734cec3029079bf7456_63247377.jpg?v=e6d1&fop=fp:0.50:0.34",
-    "date": 1794937805000
-   },
-   {
-    "title": "'Nov film Bučko med otroci spodbuja moč prijateljstva'",
-    "link": "https://www.24ur.com/popin/domaca-scena/nov-film-bucko-med-otroci-spodbuja-moc-prijateljstva.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/6dfbf576b729e46e3f05_63680899.jpg?v=5f18&fop=fp:0.43:0.53",
-    "date": 1794937387000
    }
   ],
   "rtvslo": [
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
+    "date": 1794946028000,
+    "titleSl": "Ameriškega vojaka, ki ga je britanska policija aretirala zaradi suma vohunjenja, so vzeli v pripor ameriške vojske"
+   },
+   {
     "title": "Protest against talk by academic who made Arday plagiarism claim",
     "link": "https://www.bbc.co.uk/news/articles/c61md50k8vx4o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/509d/live/c8b549e0-e2b8-11f1-bee0-ef418afc697f.jpg",
@@ -564,13 +571,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54d5/live/44d27670-e2a9-11f1-8226-87dfa5049e9a.jpg",
     "date": 1794943784000,
     "titleSl": "Kralj pravi, da bi morala angleška cerkev zaščititi »vsako vero«."
-   },
-   {
-    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
-    "date": 1794942505000,
-    "titleSl": "Ameriškega vojaka, ki ga je britanska policija aretirala zaradi suma vohunjenja, so vzeli v pripor ameriške vojske"
    },
    {
     "title": "British Airways plane veers off Heathrow taxiway",
@@ -666,11 +666,11 @@
     "titleSl": "Več kot 100.000 ljudi se je udeležilo protestov zaradi plač v Franciji"
    },
    {
-    "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+    "title": "NSA says outage of classified internal communications due to ‘maintenance’",
     "link": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2018/08/c8be4fcf71d94217b096d241aac04dbe_18.jpeg?resize=1200%2C675",
     "date": 1794942194000,
-    "titleSl": "NSA pripisuje izpad omrežja v ZDA običajnim dejavnostim »vzdrževanja«"
+    "titleSl": "NSA pravi, da je prišlo do izpada tajnih notranjih komunikacij zaradi »vzdrževanja«"
    },
    {
     "title": "Monster waves threaten California coast as storms intensify",
@@ -889,6 +889,20 @@
   ],
   "bild": [
    {
+    "title": "Kantersieg für Brasilien - Vinicius: Frust trotz Blitz-Hattrick",
+    "link": "https://www.bild.de/sport/fussball/frust-bei-vinicius-jr-trotz-hattrick-fuer-brasilien-6afc500a80722ed8fbcb0eb1",
+    "image": "https://images.bild.de/6afc500a80722ed8fbcb0eb1/7b76416496a7540b0a64ff22571d6c4d,aad49b93?w=1280",
+    "date": 1794946022000,
+    "titleSl": "Visoka zmaga za Brazilijo – Vinicius: Frustracija kljub hitremu hat-tricku"
+   },
+   {
+    "title": "„Mit die beste Szene seit Jahren“ - Dieses Foto wollte TV-Experte Reif unbedingt erklären",
+    "link": "https://www.bild.de/sport/fussball/mit-die-beste-szene-seit-jahren-dieses-foto-wollte-tv-experte-reif-unbedingt-erklaeren-6afc148a9893cadb7bd15933",
+    "image": "https://images.bild.de/6afc148a9893cadb7bd15933/ed600e3f13975f70500002dc60d6aa19-landscape,ccb6b8b6?w=1280",
+    "date": 1794945948000,
+    "titleSl": "»Najboljši prizor v zadnjih letih« – Televizijski strokovnjak Reif je nujno želel pojasniti to fotografijo"
+   },
+   {
     "title": "Nach nur anderthalb Monaten - Kompanys Sichtschutz schon kaputt!",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-sichtschutz-von-trainer-kompany-schon-nach-anderthalb-monaten-kaputt-6afc6b95bf787977ad3db808",
     "image": "https://images.bild.de/6afc6b95bf787977ad3db808/01f20b26dfadccab490b8c116b94759d,b39f8f90?w=1280",
@@ -957,36 +971,36 @@
     "image": "https://images.bild.de/6afc166fbfa018bfcc989e2b/dffd9b09eebd34c974b8641a22a25c5a,6b2a5805?w=1280",
     "date": 1794943454000,
     "titleSl": "Nekdanji član tolpe Mongols je želel maščevanje – mati je pomagala pri poskusu umora vodje tolpe Hells Angels"
-   },
-   {
-    "title": "Pfarrer geschockt - Diebe haben den Duft meiner toten Mutter gestohlen",
-    "link": "https://www.bild.de/regional/baden-wuerttemberg/einbrecher-stehlen-pfarrer-den-duft-seiner-toten-mutter-6af19b9a80d3a1c6aa66e216",
-    "image": "https://images.bild.de/6af19b9a80d3a1c6aa66e216/1c5e096f230033f36d7f52c2a6b57d8e,324cb50e?w=1280",
-    "date": 1794943334000,
-    "titleSl": "Župnik je pretresen – Tatovi so ukradli parfum moje pokojne matere"
-   },
-   {
-    "title": "Nürnberg gibt Zahlen bekannt - Spieler-Verkäufe retten FCN-Gewinn",
-    "link": "https://www.bild.de/sport/fussball/fcn-nuernberg-gibt-zahlen-bekannt-spieler-verkaeufe-retten-fcn-gewinn-6afc6407cdc4b5009f0a8f77",
-    "image": "https://images.bild.de/6afc6407cdc4b5009f0a8f77/e2e5b5e3bc4f586d5fede1a27a94e8eb,837ae8e5?w=1280",
-    "date": 1794943278000,
-    "titleSl": "Nürnberg je objavil številke – prodaja igralcev je rešila dobiček kluba FCN"
    }
   ],
   "krone": [
+   {
+    "title": "Peter Stöger scherzt - Luft raus! Was ist mit den Bällen in Debrecen los?",
+    "link": "https://www.krone.at/4379832",
+    "image": "https://imgl.krone.at/scaled/4379857/vfbbe50/full.jpg",
+    "date": 1794946083000,
+    "titleSl": "Peter Stöger se šali – Izpustite zrak! Kaj je narobe z žogami v Debrecenu?"
+   },
+   {
+    "title": "Auf frischer Tat - E-Scooter-Seriendieb im Pflichtschulalter gefasst",
+    "link": "https://www.krone.at/4379808",
+    "image": "https://imgl.krone.at/scaled/4379814/vcfeff2/full.jpg",
+    "date": 1794946070000,
+    "titleSl": "Pri dejanju – prijet je bil mladoletni serijski tat električnih skirojev"
+   },
+   {
+    "title": "Nations League - Konferenz LIVE: Norwegen gegen Dänen schon zurück",
+    "link": "https://www.krone.at/4377749",
+    "image": "https://imgl.krone.at/scaled/4379859/vda43da/full.jpg",
+    "date": 1794946014000,
+    "titleSl": "Liga narodov – Konferenca V ŽIVO: Norveška že zaostaja proti Danski"
+   },
    {
     "title": "Nations-League-TICKER - LIVE: ÖFB-Elf bestimmend, aber noch nicht konkret",
     "link": "https://www.krone.at/4377759",
     "image": "https://imgl.krone.at/scaled/4379850/v1e2f91/full.jpg",
     "date": 1794945872000,
     "titleSl": "Liga narodov – TEKOČI REZULTATI – V ŽIVO: Avstrijska reprezentanca je v premoči, vendar še ni dosegla zadetka"
-   },
-   {
-    "title": "Peter Stöger scherzt - Luft raus! Was ist mit den Bällen in Debrecen los?",
-    "link": "https://www.krone.at/4379832",
-    "image": "https://imgl.krone.at/scaled/4379857/vfbbe50/full.jpg",
-    "date": 1794945811000,
-    "titleSl": "Peter Stöger se šali – Izpustite zrak! Kaj je narobe z žogami v Debrecenu?"
    },
    {
     "title": "21 Floriani im Einsatz - Werkstatt in Flammen: Arbeiter musste ins Spital",
@@ -1001,13 +1015,6 @@
     "image": "https://imgl.krone.at/scaled/1996113/v81cca3/full.jpg",
     "date": 1794945439000,
     "titleSl": "Bil je sam na poti – 73-letni Štajerec rešen iz gorske stiske"
-   },
-   {
-    "title": "Auf frischer Tat - Die Polizei fasste Seriendieb im Pflichtschulalter",
-    "link": "https://www.krone.at/4379808",
-    "image": "https://imgl.krone.at/scaled/4379814/vcfeff2/full.jpg",
-    "date": 1794945426000,
-    "titleSl": "Pri dejanju – policija je prijela serijskega tatca v obdobju obveznega šolanja"
    },
    {
     "title": "Das sagt der ÖFB-Boss - U21-EM in Kärnten? KFV-Präsident hat Hoffnung!",
@@ -1036,13 +1043,6 @@
     "image": "https://imgl.krone.at/scaled/4377745/vbb3018/full.jpg",
     "date": 1794943446000,
     "titleSl": "ATP Finals v Torinu – V ŽIVO: Tako je pri Alexu Zverevu proti Benu Sheltonu"
-   },
-   {
-    "title": "Nations League - LIVE: Konferenz mit Portugal, Norwegen und Irland",
-    "link": "https://www.krone.at/4377749",
-    "image": "https://imgl.krone.at/scaled/4377752/v1c78cb/full.jpg",
-    "date": 1794943119000,
-    "titleSl": "Liga narodov – V ŽIVO: Konferenca s Portugalsko, Norveško in Irsko"
    },
    {
     "title": "14-Jähriger vermisst - Neun Tage ohne Spur! Eltern durchleben Albtraum",
