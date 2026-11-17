@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-17T19:58:52.827Z",
+ "generatedAt": "2026-11-17T20:01:11.147Z",
  "sources": {
   "siol": [
    {
-    "title": "Kajzer prestal interpelacijo",
+    "title": "Minister Kajzer prestal interpelacijo",
     "link": "https://siol.net/novice/slovenija/v-dz-danes-glasovanje-o-interpelaciji-zoper-kajzerja-706454",
     "image": "https://siol.net/media/img/a7/3c/e3dd98a78433c17ede8c.jpeg",
     "date": 1794945240000
@@ -39,6 +39,12 @@
     "date": 1794943140000
    },
    {
+    "title": "Ne veste, iz katere skodelice piti svojo najljubšo kavo?",
+    "link": "https://siol.net/trendi/zanimivosti/ne-veste-iz-katere-skodelice-piti-svojo-najljubso-kavo-706485",
+    "image": "https://siol.net/media/img/85/cb/1dbf2a6a0f3548ca6600.jpeg",
+    "date": 1794941880000
+   },
+   {
     "title": "Na ukrajinski fronti so izginili novinarji: \"Zahodni mediji o tem ne poročajo\"",
     "link": "https://siol.net/novice/svet/na-ukrajinski-fronti-so-izginili-novinarji-zahodni-mediji-o-tem-ne-porocajo-706480",
     "image": "https://siol.net/media/img/bc/e1/6950c0bb12845bc4c95f.jpeg",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/kosarka/kosarka-kvalifikacije-ep-2027-3-krog-1-706519",
     "image": "https://siol.net/media/img/28/b0/e6e3e03657b5e3b7c862.jpeg",
     "date": 1794940620000
-   },
-   {
-    "title": "Matjaž Kek spet na radarju za selektorski stolček",
-    "link": "https://siol.net/sportal/nogomet/matjaz-kek-spet-na-radarju-za-selektorski-stolcek-706543",
-    "image": "https://siol.net/media/img/22/af/01e8bb488792cac45366.jpeg",
-    "date": 1794939600000
    }
   ],
   "24ur": [
@@ -80,7 +80,7 @@
     "title": "Kajzer ostaja minister za zunanje in evropske zadeve",
     "link": "https://www.24ur.com/novice/slovenija/prva-interpelacije-aktualne-vlade-zagovarjal-se-bo-kajzer.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/ab1ee9e762bab77c3c5e_63680874.jpg?v=b1c1&fop=fp:0.51:0.41",
-    "date": 1794945454000
+    "date": 1794945555000
    },
    {
     "title": "Slovenke 'pustošile' na Kodeljevem: Avstrijke domov z - 43",
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Minister prestal interpelacijo",
+    "link": "https://www.zurnal24.si/slovenija/minister-kajzer-prestal-interpelacijo-468383",
+    "image": "https://www.zurnal24.si/media/img/09/89/16f72c7b288f6d5f6ad7.jpeg",
+    "date": 1794945300000
+   },
+   {
     "title": "Težave za Apple: Doletel jih je obsežen tehnični izpad",
     "link": "https://www.zurnal24.si/svet/tezave-za-apple-doletel-jih-je-obsezen-tehnicni-izpad-468382",
     "image": "https://www.zurnal24.si/media/img/60/ed/6b15c896ae9f3a23b35b.jpeg",
@@ -288,12 +294,6 @@
     "title": "Google svari: Hekerji prehajajo na avtonomne sisteme UI za izvajanje hitrih napadov",
     "link": "https://www.zurnal24.si/svet/google-svari-hekerji-prehajajo-na-avtonomne-sisteme-ui-za-izvajanje-hitrih-napadov-468371",
     "image": "https://www.zurnal24.si/media/img/5b/9c/2cafa57a477362b51941.jpeg",
-    "date": 1794929760000
-   },
-   {
-    "title": "Slovenska košarkarja izbrana za novinca tedna",
-    "link": "https://www.zurnal24.si/sport/kosarka/slovenska-kosarkarja-izbrana-za-novinca-tedna-468372",
-    "image": "https://www.zurnal24.si/media/img/da/41/553e2c96038c014963c1.jpeg",
     "date": 1794929760000
    }
   ],
@@ -666,11 +666,11 @@
     "titleSl": "Več kot 100.000 ljudi se je udeležilo protestov zaradi plač v Franciji"
    },
    {
-    "title": "NSA’s classified internal communications network reportedly faces outage",
+    "title": "NSA says outage of classified internal communications due to ‘maintenance’",
     "link": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2018/08/c8be4fcf71d94217b096d241aac04dbe_18.jpeg?resize=1200%2C675",
     "date": 1794942194000,
-    "titleSl": "Po poročilih je notranje komunikacijsko omrežje NSA s stopnjo zaupnosti izpostavljeno izpadom"
+    "titleSl": "NSA pravi, da je prišlo do izpada tajnih notranjih komunikacij zaradi »vzdrževanja«"
    },
    {
     "title": "Monster waves threaten California coast as storms intensify",
@@ -741,8 +741,15 @@
     "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "date": 1794944370000,
+    "date": 1794944956000,
     "titleSl": "NSA trdi, da je začasno prekinitev delovanja notranjega omrežja povzročilo »načrtovano redno vzdrževanje« – v živo"
+   },
+   {
+    "title": "Milburn’s absurdly ambitious report offers blueprint for fixing everything and everyone",
+    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis",
+    "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=700&quality=85&auto=format&fit=max&s=2777d8d1522ebb48be4cc3a6389403f0",
+    "date": 1794944851000,
+    "titleSl": "Milburnovo absurdno ambiciozno poročilo ponuja načrt za ureditev vsega in vseh"
    },
    {
     "title": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
@@ -792,13 +799,6 @@
     "image": "https://i.guim.co.uk/img/media/27a354721d84af588c31e5fcb303ba781ed60548/0_0_2000_1600/master/2000.jpg?width=700&quality=85&auto=format&fit=max&s=2357c3a94a958cc50bc948a0eac0ebe7",
     "date": 1794941875000,
     "titleSl": "Ali je konferenca COP vredna truda? Fiona Harvey in Ajit Niranjan sta odgovorila na vaša vprašanja o podnebnih pogajanjih"
-   },
-   {
-    "title": "Joe Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
-    "image": "https://i.guim.co.uk/img/media/5fa089ce1711b9c770424cc67276448ee1fbdfdc/270_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=84f9f3503e982f5623dfc57c808837e4",
-    "date": 1794940071000,
-    "titleSl": "Joe Biden v novih spominih Zelenskega kritizira kot »razpoloženjskega« in »ne tako hvaležnega«"
    }
   ],
   "spiegel": [
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Tech-Chaos in den USA - Pannenserie schürt wilde Verschwörungstheorien",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/tech-pannen-serie-erschuettert-die-usa-hier-stimmt-etwas-nicht-6afc72d2cdc4b5009f0a9173",
+    "image": "https://images.bild.de/6afc72d2cdc4b5009f0a9173/dd68ba22c62fb7f3fec47a7a66c8097f,8bf879e9?w=1280",
+    "date": 1794945560000,
+    "titleSl": "Tehnološki kaos v ZDA – niz napak spodbuja divje teorije zarote"
+   },
+   {
     "title": "Schalker Aufstiegsheld gesteht - „Ich habe absichtlich schlechter trainiert“",
     "link": "https://www.bild.de/sport/fussball/schalker-aufstiegsheld-gesteht-ich-trainierte-absichtlich-schlechter-6afc6650cdc4b5009f0a8fe1",
     "image": "https://images.bild.de/6afc6650cdc4b5009f0a8fe1/f1980711e9b0657e868edc00d4c4fce1,58a5b923?w=1280",
@@ -964,16 +971,16 @@
     "image": "https://images.bild.de/6afc84e1bf787977ad3dbac3/f966a9d1e6daf4ee1123211208457d7e,b07cc61c?w=1280",
     "date": 1794942579000,
     "titleSl": "»Naredil sem hude napake« – Huang se je vrnil z čustvenimi besedami"
-   },
-   {
-    "title": "Großer Reformplan - Koalition plant neuen Asyl-Deal!",
-    "link": "https://www.bild.de/politik/inland/einbuergerung-union-will-acht-jahre-wartezeit-und-strengere-regeln-6afc2ad36837d711cd2c8005",
-    "image": "https://images.bild.de/6afc2ad36837d711cd2c8005/203061afdbb5d016100e424d9a4940f1,cb4f0ac9?w=1280",
-    "date": 1794942535000,
-    "titleSl": "Obsežen načrt reform – Koalicija načrtuje nov dogovor o azilu!"
    }
   ],
   "krone": [
+   {
+    "title": "21 Floriani im Einsatz - Werkstatt in Flammen: Arbeiter musste ins Spital",
+    "link": "https://www.krone.at/4379777",
+    "image": "https://imgl.krone.at/scaled/3801730/v2851ae/full.jpg",
+    "date": 1794945603000,
+    "titleSl": "21 Floriani im Einsatz – Werkstatt in Flammen: Arbeiter musste ins Spital"
+   },
    {
     "title": "War allein unterwegs - 73-jähriger Steirer aus alpiner Nolage gerettet",
     "link": "https://www.krone.at/4379815",
@@ -1050,16 +1057,16 @@
     "image": "https://imgl.krone.at/scaled/4379794/v536212/full.jpg",
     "date": 1794942156000,
     "titleSl": "Poraz v Ljubljani – Avstrijske nogometašice so izgubile tudi tretjo tekmo kvalifikacij za EP"
-   },
-   {
-    "title": "Schauspielhaus Graz - Andrea Vilter: „Werde mich nicht mehr bewerben“",
-    "link": "https://www.krone.at/4379576",
-    "image": "https://imgl.krone.at/scaled/4379580/v9d4b5a/full.jpg",
-    "date": 1794942058000,
-    "titleSl": "Gledališče Schauspielhaus Graz – Andrea Vilter: »Ne bom se več prijavljala«"
    }
   ],
   "rainews": [
+   {
+    "title": "Da campioni sportivi a leader politici",
+    "link": "https://www.rainews.it/video/2026/11/sport-da-campioni-sportivi-a-leader-politici-b45297b8-d14a-457b-a29f-78552d627457.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/17/1794944852854_videoframe.png",
+    "date": 1794944760000,
+    "titleSl": "Od športnih prvakov do političnih voditeljev"
+   },
    {
     "title": "ATP Finals. in campo la sfida Zverev-Shelton. Fils-Jodar 4-6 6-2 6-2",
     "link": "https://www.rainews.it/maratona/2026/11/tennis-atp-finals-2026-torino-zverev-alcaraz-shelton-medvedev-cobolli-fils-tiafoe-jodar-35dcb6f1-811a-4d67-a256-a0994a5e7216.html",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/17/1794937682890_.png",
     "date": 1794937800000,
     "titleSl": "Bliža se konec tekme za mesto predsednika Nogometne zveze med Malagòjem in Gallianijem"
-   },
-   {
-    "title": "Ritorno a Tembaine: il Desert Rally 2026 trasforma il Sahara in un set di emozioni",
-    "link": "https://www.rainews.it/articoli/2026/11/ritorno-a-tembaine-il-desert-rally-2026-trasforma-il-sahara-in-un-set-di-emozioni--29a5a54f-677b-4c21-a062-9f58bd9ec9a0.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/17/1794937412025_IMG.jpg",
-    "date": 1794937440000,
-    "titleSl": "Vrnitev v Tembaine: relija Desert Rally 2026 bo Saharo spremenil v prizorišče vznemirljivih dogodkov"
    }
   ],
   "lemonde": [
