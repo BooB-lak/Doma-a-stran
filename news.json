@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:14:50.332Z",
+ "generatedAt": "2026-11-17T20:16:47.888Z",
  "sources": {
   "siol": [
    {
@@ -631,6 +631,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Police charge crowds at Brussels student march",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946381.jpg?resize=1620%2C1080&quality=80",
+    "date": 1794946447000,
+    "titleSl": "Policija je napadla množico na študentskem shodu v Bruslju"
+   },
+   {
+    "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc982d1952-1794938925.jpg?resize=1920%2C1440",
+    "date": 1794946301000,
+    "titleSl": "Kitajska in Kanada po srečanju Carneyja in Xija razširita obseg znižanja carin"
+   },
+   {
     "title": "India’s footballers celebrate SAFF final win against Pakistan",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794945192.jpg?resize=1200%2C675",
@@ -699,20 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794941071.jpg?resize=1920%2C1080&quality=80",
     "date": 1794941279000,
     "titleSl": "Indijski drsalec limba je podrl svetovni rekord"
-   },
-   {
-    "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-    "link": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-17T145028Z_604251274_RC2PPOAJT3NI_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-JERICHO-VIOLENCE-1794939255.jpg?resize=1920%2C1440",
-    "date": 1794941026000,
-    "titleSl": "V izraelskem naseljenskem pogromu je bila ubita Palestinka, 10 ljudi pa je bilo ranjenih"
-   },
-   {
-    "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afc86fa-1794934522.jpg?resize=1200%2C675",
-    "date": 1794939246000,
-    "titleSl": "Jensen Huang se strinja, da bo pričal pred ameriškim kongresom, in pravi, da lahko ponovno prevzame vlogo generalnega direktorja."
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-17T20:14:23.635Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-17T20:14:25.007Z",
+   "checkedAt": "2026-11-17T20:16:23.924Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-17T20:14:25.020Z",
+   "checkedAt": "2026-11-17T20:16:24.435Z",
    "success": true
   },
-  "rtvslo": {
-   "checkedAt": "2026-11-17T20:14:29.628Z",
+  "zurnal": {
+   "checkedAt": "2026-11-17T20:16:24.996Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-17T20:12:27.839Z",
-   "success": false
+   "checkedAt": "2026-11-17T20:16:26.492Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-17T20:16:42.953Z",
+   "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-17T20:14:43.887Z",
+   "checkedAt": "2026-11-17T20:16:43.265Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-17T20:14:44.016Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-17T20:14:44.090Z",
+   "checkedAt": "2026-11-17T20:16:43.275Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-17T20:14:44.114Z",
+   "checkedAt": "2026-11-17T20:16:43.368Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-17T20:16:43.698Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-17T20:14:45.940Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-17T20:14:46.216Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-17T20:14:46.630Z",
+   "checkedAt": "2026-11-17T20:16:46.984Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-17T20:14:47.576Z",
+   "checkedAt": "2026-11-17T20:16:47.171Z",
    "success": true
   },
-  "rainews": {
-   "checkedAt": "2026-11-17T20:14:47.869Z",
+  "spiegel": {
+   "checkedAt": "2026-11-17T20:16:47.310Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-17T20:14:48.434Z",
+   "checkedAt": "2026-11-17T20:16:47.317Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-17T20:16:47.524Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-17T20:16:47.709Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-17T20:14:50.331Z",
+   "checkedAt": "2026-11-17T20:16:47.887Z",
    "success": true
   }
  },
