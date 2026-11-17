@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T23:50:40.487Z",
+ "generatedAt": "2026-11-17T23:52:30.730Z",
  "sources": {
   "siol": [
    {
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+    "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=1200%2C630",
+    "date": 1794958718000,
+    "titleSl": "Kuvajt poroča o napadih z droni, medtem ko si Iran in ZDA izmenjujeta napade na Kešm in Bahrajn"
+   },
+   {
     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
     "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321467242182-1794953286.jpg?resize=1920%2C1440",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=1920%2C1440",
     "date": 1794949076000,
     "titleSl": "Poveljnik ameriške mornarice pravi, da je vojna z Iranom povzročila »obremenitev« pomorskih sil"
-   },
-   {
-    "title": "What’s behind the ANC’s decline in South Africa?",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?resize=1920%2C1080&quality=80",
-    "date": 1794948427000,
-    "titleSl": "Kaj je razlog za upad podpore stranki ANC v Južni Afriki?"
    }
   ],
   "guardian": [
@@ -738,11 +738,11 @@
     "titleSl": "Nvidia podvoji prihodke, upravni odbor pa pravi, da ne namerava ponovno imenovati Jensna Huanga"
    },
    {
-    "title": "First responders describe rescue efforts after New Orleans boat crash: ‘we have to save each other’",
+    "title": "First responders describe rescue efforts after New Orleans boat crash: ‘We have to save each other’",
     "link": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
     "image": "https://i.guim.co.uk/img/media/0320814945102d2dc8c282047d930500f2308966/350_0_2182_1746/master/2182.jpg?width=700&quality=85&auto=format&fit=max&s=439378632be53011f22f717fd3512f6e",
     "date": 1794958102000,
-    "titleSl": "Reševalci, ki so prvi prispeli na kraj nesreče, opisujejo reševalna prizadevanja po nesreči ladje v New Orleansu: »Moramo rešiti drug drugega.«"
+    "titleSl": "Reševalci opisujejo reševalna prizadevanja po nesreči ladje v New Orleansu: »Drug drugega si moramo rešiti.«"
    },
    {
     "title": "California bans Waymo self-driving cars from freeways",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-17T23:50:36.574Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-17T23:50:37.797Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-17T23:50:37.802Z",
+   "checkedAt": "2026-11-17T23:52:27.159Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-17T23:50:37.904Z",
+   "checkedAt": "2026-11-17T23:52:27.761Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-17T23:52:27.779Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-17T23:52:27.854Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-17T23:50:38.131Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-17T23:50:38.344Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-17T23:50:38.410Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-17T23:50:38.459Z",
+   "checkedAt": "2026-11-17T23:52:28.100Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-17T23:50:38.503Z",
+   "checkedAt": "2026-11-17T23:52:28.149Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-17T23:52:28.184Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-17T23:50:38.570Z",
+   "checkedAt": "2026-11-17T23:52:28.846Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-17T23:50:39.098Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-17T23:52:29.841Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-17T23:50:39.364Z",
+  "guardian": {
+   "checkedAt": "2026-11-17T23:52:29.871Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-17T23:50:39.682Z",
+   "checkedAt": "2026-11-17T23:52:30.057Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-17T23:52:30.091Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-17T23:52:30.146Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-17T23:50:39.814Z",
+   "checkedAt": "2026-11-17T23:52:30.238Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-17T23:50:40.307Z",
+   "checkedAt": "2026-11-17T23:52:30.602Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-17T23:50:40.486Z",
+   "checkedAt": "2026-11-17T23:52:30.730Z",
    "success": true
   }
  },
