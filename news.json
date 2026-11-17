@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T17:38:33.205Z",
+ "generatedAt": "2026-11-17T17:40:41.808Z",
  "sources": {
   "siol": [
    {
@@ -80,7 +80,7 @@
     "title": "Med televizijskim soočenjem gosta obračunala s pestmi in brcami",
     "link": "https://www.24ur.com/novice/tujina/med-televizijskim-soocenjem-v-zivo-zapele-pesti.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/50b29e0e53d15737192a_63680923.jpg?v=0169&fop=fp:0.37:0.39",
-    "date": 1794937041000
+    "date": 1794937117000
    },
    {
     "title": "Zdravstveni prispevek 48,60 evra namesto 39,36 evra mesečno?",
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Nov udarec: ZZZS predlaga zdravstveni prispevek v višini skoraj 50 evrov",
+    "link": "https://www.zurnal24.si/slovenija/zzzs-predlog-dvig-obveznega-zdravstvenega-prispevka-48-60-evra-468378",
+    "image": "https://www.zurnal24.si/media/img/50/bc/5251b7bf38ff1a363f90.jpeg",
+    "date": 1794936540000
+   },
+   {
     "title": "Predsednico Pirc Musar sprejel kralj Karel III.",
     "link": "https://www.zurnal24.si/slovenija/predsednico-pirc-musar-sprejel-kralj-karel-iii-468377",
     "image": "https://www.zurnal24.si/media/img/97/3a/3d4605157ba65a51f941.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/avto/odpovejte-pogodbe-avtoserviserji-napovedujejo-upor-proti-zavarovalnicam-468335",
     "image": "https://www.zurnal24.si/media/img/b3/f3/1dbd23059a66c82372b6.jpeg",
     "date": 1794924000000
-   },
-   {
-    "title": "Messiju že ponudili novo službo",
-    "link": "https://www.zurnal24.si/sport/nogomet/messiju-ze-ponudili-novo-sluzbo-lionel-messi-scaloni-argentina-468364",
-    "image": "https://www.zurnal24.si/media/img/f0/49/d0cd3980f8ecf4ccefb6.jpeg",
-    "date": 1794923640000
    }
   ],
   "hop": [
@@ -552,6 +552,13 @@
     "titleSl": "Trump pravi, da ZDA »zelo resno« jemljejo vsak iranski načrt proti Washingtonu"
    },
    {
+    "title": "Arsenal Double winner Storey dies aged 81",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg",
+    "date": 1794936821000,
+    "titleSl": "Storey, dvakratni zmagovalec z Arsenalom, je umrl v starosti 81 let"
+   },
+   {
     "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
     "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a7/live/7ef929f0-e29c-11f1-8dda-8925a81c3da5.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/acefa850-e2a3-11f1-8226-87dfa5049e9a.jpg",
     "date": 1794931764000,
     "titleSl": "Glavni trener Južne Afrike Erasmus je bil suspendiran za šest tekem"
-   },
-   {
-    "title": "UK sanctions firms over Israeli West Bank settlements",
-    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-    "date": 1794931187000,
-    "titleSl": "Združeno kraljestvo je uvedlo sankcije proti podjetjem zaradi izraelskih naselbin na Zahodnem bregu"
    }
   ],
   "aljazeera": [
@@ -717,18 +717,32 @@
   ],
   "guardian": [
    {
+    "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+    "image": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
+    "date": 1794936926000,
+    "titleSl": "Jensen Huang pravi, da bi mu bilo »v čast«, če bi se vrnil v podjetje Nvidia kot izvršni direktor"
+   },
+   {
+    "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+    "link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+    "image": "https://i.guim.co.uk/img/media/a4611f99a54be31a3aa99444b5865a3d82fb7c0b/669_335_2043_1634/master/2043.jpg?width=700&quality=85&auto=format&fit=max&s=b4b52fe54815a705f1d1c98a2dd990ad",
+    "date": 1794936640000,
+    "titleSl": "Kako je Ukrajina zadela Kerški most, simbol Putinove vladavine"
+   },
+   {
+    "title": "Burnham delays announcement about options for closer relationship with EU until next month – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/f24e544ba2a602587d0ef6266b51104e0ef20807/2503_25_2273_1818/master/2273.jpg?width=700&quality=85&auto=format&fit=max&s=5078c71fbc2920f50fd9b0c403f1c650",
+    "date": 1794936638000,
+    "titleSl": "Burnham bo napoved o možnostih za tesnejše odnose z EU preložil na naslednji mesec – britanska politika v živo"
+   },
+   {
     "title": "Our climate experts Ajit Niranjan and Fiona Harvey answer your questions on Cop31 – live",
     "link": "https://www.theguardian.com/environment/live/2026/nov/17/what-do-you-want-to-know-about-the-cop31-climate-talks-ask-fiona-harvey-and-ajit-niranjan",
     "image": "https://i.guim.co.uk/img/media/27a354721d84af588c31e5fcb303ba781ed60548/0_0_2000_1600/master/2000.jpg?width=700&quality=85&auto=format&fit=max&s=2357c3a94a958cc50bc948a0eac0ebe7",
     "date": 1794936326000,
     "titleSl": "Naša podnebna strokovnjaka Ajit Niranjan in Fiona Harvey odgovarjata na vaša vprašanja o konferenci COP31 – v živo"
-   },
-   {
-    "title": "Burnham makes Milburn head of unit to implement new jobs and welfare approach for young people – live",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=700&quality=85&auto=format&fit=max&s=2777d8d1522ebb48be4cc3a6389403f0",
-    "date": 1794936203000,
-    "titleSl": "Burnham je imenoval Milburna za vodjo enote, ki bo izvajala nove pristope na področju zaposlovanja in socialne varnosti za mlade – v živo"
    },
    {
     "title": "Costa Rican journalist shot dead in first such killing in 25 years",
@@ -780,28 +794,21 @@
     "titleSl": "Pocognolijeva želja po tem, kako mora Škotska igrati, je v nevarnosti, da postane neizvedljiva."
    },
    {
-    "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-    "image": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
-    "date": 1794933655000,
-    "titleSl": "Jensen Huang pravi, da bi mu bilo »v čast«, če bi se vrnil v podjetje Nvidia kot izvršni direktor"
-   },
-   {
     "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
     "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
     "image": "https://i.guim.co.uk/img/media/6e5067fd3f834e6d5b85601c27ba90c5e02e9e24/1481_0_6287_5030/master/6287.jpg?width=700&quality=85&auto=format&fit=max&s=4296225f4d45128a6eaf81d1c0ef8e35",
     "date": 1794933626000,
     "titleSl": "»Hranili so ga za črne dni«: Napad Ukrajine na kerški most je dokaz, da ima Kijev še vedno adute v rokavu"
-   },
-   {
-    "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/7b3f958711df37a4e270dd08ada3259ad62ef273/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=0e981116ef15e5241fcc46a41038d8ae",
-    "date": 1794933621000,
-    "titleSl": "Zelenski poziva zaveznike, naj brez odlašanja pošljejo sisteme zračne obrambe, saj Rusija stopnjuje napade – kako se je zgodilo"
    }
   ],
   "spiegel": [
+   {
+    "title": "Augsburg: 15-Jährige verletzt Mädchen mit Messer",
+    "link": "https://www.spiegel.de/panorama/justiz/augsburg-15-jaehrige-verletzt-maedchen-mit-messer-a-dc6a3696-122f-409b-a497-821477763134#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/e087e963-e216-4dc5-a710-d25c61bb130d_w520_r2.08_fpx29.28_fpy54.97.jpg",
+    "date": 1794937020000,
+    "titleSl": "Augsburg: 15-letnica z nožem poškodovala dekle"
+   },
    {
     "title": "Infantino-Herausforderer Philippe Diallo: Ein Held ist, wer antritt, obwohl er chancenlos ist",
     "link": "https://www.spiegel.de/sport/infantino-herausforderer-philippe-diallo-ein-held-ist-wer-antritt-obwohl-er-chancenlos-ist-a-fc5dbc7c-c064-4dbd-b550-bde189acf0e7#ref=rss",
@@ -878,16 +885,16 @@
     "image": "https://cdn.prod.www.spiegel.de/images/5e6aa8cd-fd81-40e3-ad60-9bc4d3624b20_w520_r2.08_fpx55.3_fpy45.jpg",
     "date": 1794930360000,
     "titleSl": "Kurt Krömer: Državno tožilstvo po prijavi stranke AfD ne bo začelo preiskave"
-   },
-   {
-    "title": "Lena Meyer-Landrut: Sängerin äußert sich auf TikTok zu Comeback",
-    "link": "https://www.spiegel.de/panorama/justiz/lena-meyer-landrut-saengerin-aeussert-sich-auf-tiktok-zu-comeback-a-35b88c2f-7eb8-45ad-a30f-a7b3570d4946#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8216680d-7d1b-479d-8afe-a847b484fc7f_w520_r2.08_fpx52.63_fpy54.99.jpg",
-    "date": 1794930300000,
-    "titleSl": "Lena Meyer-Landrut: pevka na TikToku spregovori o vrnitvi"
    }
   ],
   "bild": [
+   {
+    "title": "Live-Ticker von Nürnbergs JHV - „Danke, Miro, dass Du verlängert hast!“",
+    "link": "https://www.bild.de/sport/fussball/fcn-bilanzen-wahlen-stadion-so-spannend-wird-nuernbergs-jhv-6afc7ea3bf787977ad3dba4a",
+    "image": "https://images.bild.de/6afc7ea3bf787977ad3dba4a/56f8dbfdb75a2ef0efd439230826b6fb,d86c5463?w=1280",
+    "date": 1794937095000,
+    "titleSl": "Prenos v živo z letne skupščine v Nürnbergu – »Hvala, Miro, ker si podaljšal!«"
+   },
    {
     "title": "Mädchen (†13) überfahren - Wegen Mordes! Totraser und Beifahrer in U-Haft",
     "link": "https://www.bild.de/regional/bayern/sailauf-maedchen-13-toedlich-erfasst-zwei-tatverdaechtige-in-u-haft-6afc8701bf787977ad3dbadd",
@@ -922,13 +929,6 @@
     "image": "https://images.bild.de/6afc7940cdc4b5009f0a923e/2ac7c3bc9480f83411ba5b5f92c93763,f8b167f0?w=1280",
     "date": 1794936760000,
     "titleSl": "Po spolnem škandalu in sumu glede Kitajske – Nvidia pred usodno nočjo!"
-   },
-   {
-    "title": "Bilanzen. Wahlen. Stadion - So spannend wird Nürnbergs Mitgliederversammlung",
-    "link": "https://www.bild.de/sport/fussball/fcn-bilanzen-wahlen-stadion-so-spannend-wird-nuernbergs-jhv-6afc7ea3bf787977ad3dba4a",
-    "image": "https://images.bild.de/6afc7ea3bf787977ad3dba4a/893e90666f6ac528c12b1b2ef317ceb6,212db2a8?w=1280",
-    "date": 1794936711000,
-    "titleSl": "Bilance. Volitve. Stadion – tako razburljiva bo skupščina članov v Nürnbergu"
    },
    {
     "title": "Er erzählt aus seinem Leben - DFB-Star liest aus seinem Kinderbuch vor",
