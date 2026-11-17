@@ -15,12 +15,10 @@
 const fs = require("fs");
 const path = require("path");
 const worldDays = require("./world-days.js");
-const { publicationDate, newest, hopPostsUrl, parseHopPosts } = require("./news-freshness.js");
+const { publicationDate, newest, hopPostsUrl, parseHopPosts, reutersSitemapUrl, reutersFeedUrls, reutersItems, reutersImageUrl, parseReutersSitemap } = require("./news-freshness.js");
 
 const COUNT = 12;
 const FALLBACK_AGE = 24 * 60 * 60 * 1000;
-const REUTERS_WORLD_FEED = "https://feed.quanwenrss.com/feed/reuters-world.xml";
-const REUTERS_FALLBACK_AGE = 6 * 60 * 60 * 1000;
 const OUT_FILE = process.env.NEWS_OUT || "news.json";
 
 const UA =
@@ -65,12 +63,7 @@ const SOURCES = [
     name: "Reuters",
     homepage: "https://www.reuters.com/",
     translate: true,
-    feeds: [
-      // Vir Reuters World vsebuje neposredne povezave do člankov in fotografij.
-      REUTERS_WORLD_FEED,
-      "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "https://openrss.org/reuters.com/world"
-    ]
+    feeds: reutersFeedUrls
   },
   {
     id: "nyt",
@@ -267,6 +260,7 @@ function looksLikeImage(u) {
   "/fallback" lahko zavrnila tudi povsem veljavne slike.
 */
 function isRejectedImage(u) {
+  if (u && !reutersImageUrl(u)) return true;
   const s = String(u || "").toLowerCase();
   return (
     /^https?:\/\/static\d*\.nyt\.com\/newsgraphics\/images\/icons\/defaultPromoCrop\.png(?:[?#]|$)/i.test(s) ||
@@ -334,9 +328,8 @@ function imageFromItemBlock(block, base, preferLargest = false) {
     tagText(block, ["content:encoded"]) ||
     tagText(block, ["description"]) ||
     tagText(block, ["summary"]);
-  const img = html.match(/<img[^>]+src\s*=\s*["']([^"']+)["']/i);
-  if (img) {
-    const u = absoluteUrl(img[1], base);
+  for (const img of html.matchAll(/<img[^>]+src\s*=\s*["']([^"']+)["']/gi)) {
+    const u = absoluteUrl(decodeEntities(img[1]), base);
     if (u && !isRejectedImage(u)) return u;
   }
 
@@ -905,14 +898,7 @@ function loadTriDni() {
 async function loadFeeds(source, feeds) {
   const results = await Promise.allSettled(feeds.map(async feed => {
     let items = parseFeed(await get(feed), source);
-    if (feed === REUTERS_WORLD_FEED) {
-      items = items.filter(item => {
-        const article = new URL(item.link);
-        return article.protocol === "https:" &&
-          ["www.reuters.com", "reuters.com"].includes(article.hostname) &&
-          article.pathname !== "/";
-      });
-    }
+    if (source.id === "reuters") items = reutersItems(items);
     console.log(`  ${source.name}: ${newest(items, Date.now(), COUNT).length} objav iz ${feed}`);
     return items;
   }));
@@ -923,7 +909,20 @@ async function loadFeeds(source, feeds) {
   });
 }
 
+async function loadReutersSource(source) {
+  // Posredniški RSS doda fotografije neposrednim URL-jem iz Reutersovega seznama.
+  const results = await Promise.allSettled([
+    get(reutersSitemapUrl, 12000).then(xml => parseReutersSitemap(xml, decodeEntities)),
+    loadFeeds(source, source.feeds)
+  ]);
+  const items = results.flatMap(result => result.status === 'fulfilled' ? result.value : []);
+  const latest = newest(reutersItems(items), Date.now(), COUNT);
+  if (!latest.length) throw new Error('Reuters trenutno ni vrnil neposrednih člankov');
+  return latest;
+}
+
 async function loadSource(source) {
+  if (source.id === "reuters") return loadReutersSource(source);
   if (source.id === "hop") {
     const posts = parseHopPosts(JSON.parse(await get(hopPostsUrl)), decodeEntities);
     const items = newest(posts, Date.now(), COUNT);
@@ -933,7 +932,7 @@ async function loadSource(source) {
 
   const aggregators = source.feeds.filter(feed => ["news.google.com", "openrss.org"].includes(new URL(feed).hostname));
   const publisherFeeds = source.feeds.filter(feed => !aggregators.includes(feed));
-  const fallbackAge = source.id === "reuters" ? REUTERS_FALLBACK_AGE : FALLBACK_AGE;
+  const fallbackAge = FALLBACK_AGE;
   let published = await loadFeeds(source, publisherFeeds);
   if (source.id === "nyt") {
     const images = new Map(published.filter(item => item.image).map(item => [item.link, item.image]));
@@ -1054,10 +1053,11 @@ async function main() {
     console.log(`(v pomnilniku ${translationCache.size} prevodov)\n`);
   }
 
-  const out = { generatedAt: "", sources: {} };
+  const out = { generatedAt: "", sources: {}, sourceStatus: {} };
 
   async function collect(source) {
-    const previousItems = newest(previousFile?.sources?.[source.id] || [], Date.now(), COUNT);
+    const prior = previousFile?.sources?.[source.id] || [];
+    const previousItems = newest(source.id === "reuters" ? reutersItems(prior) : prior, Date.now(), COUNT);
     try {
       const fetched = await loadSource(source);
       await resolveGoogleLinks(fetched);
@@ -1074,9 +1074,14 @@ async function main() {
         await translateItems(source, items, translationCache);
       }
 
+      out.sourceStatus[source.id] = { checkedAt: new Date().toISOString(), success: true };
       return [source.id, items];
     } catch (err) {
       console.log("  " + source.name + ": " + err.message);
+      out.sourceStatus[source.id] = {
+        checkedAt: previousFile?.sourceStatus?.[source.id]?.checkedAt || null,
+        success: false
+      };
       return [source.id, previousItems];
     }
   }

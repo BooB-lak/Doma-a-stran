@@ -44,7 +44,76 @@
     });
   }
 
-  const news = { publicationDate, newest, hopPostsUrl, parseHopPosts };
+  const reutersSitemapUrl = 'https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml';
+  const reutersFeedUrls = [
+    'https://feed.quanwenrss.com/feed/reuters-latest.xml',
+    'https://feed.quanwenrss.com/feed/reuters-world.xml',
+    'https://feed.quanwenrss.com/feed/reuters-business.xml',
+    'https://feed.quanwenrss.com/feed/reuters-technology.xml',
+    'https://feed.quanwenrss.com/feed/reuters-markets.xml'
+  ];
+
+  function reutersArticleUrl(value) {
+    try {
+      const url = new URL(value);
+      if (!['http:', 'https:'].includes(url.protocol) || !['www.reuters.com', 'reuters.com'].includes(url.hostname)) return '';
+      if (!/-\d{4}-\d{2}-\d{2}\/?$/.test(url.pathname)) return '';
+      url.protocol = 'https:';
+      url.hostname = 'www.reuters.com';
+      url.search = '';
+      url.hash = '';
+      url.pathname = url.pathname.replace(/\/?$/, '/');
+      return url.href;
+    } catch {
+      return '';
+    }
+  }
+
+  function reutersImageUrl(value) {
+    if (!value) return '';
+    try {
+      const url = new URL(value);
+      if (!['http:', 'https:'].includes(url.protocol)) return '';
+      const path = url.pathname.toLowerCase();
+      if (/466bjjq7pvgy5o53nz3kl65mhm/.test(path)) return '';
+      if (/(?:^|\/)(?:reuters[-_])?(?:logo|favicon|default|placeholder)[-_.\/]/.test(path)) return '';
+      if (/(?:^|\/)reuters[-_]logo(?:[-_.\/]|$)/.test(path)) return '';
+      if (url.hostname === 'news.google.com' || url.hostname.endsWith('.gstatic.com')) return '';
+      return url.href;
+    } catch {
+      return '';
+    }
+  }
+
+  function reutersItems(items) {
+    const articles = items.flatMap(item => {
+      const link = reutersArticleUrl(item?.link);
+      return link ? [{ ...item, link, image: reutersImageUrl(item.image) }] : [];
+    });
+    const images = new Map();
+    for (const item of articles) {
+      if (item.image && !images.has(item.link)) images.set(item.link, item.image);
+    }
+    return articles.map(item => item.image ? item : { ...item, image: images.get(item.link) || '' });
+  }
+
+  function parseReutersSitemap(xml, decodeText) {
+    const text = (block, name) => {
+      const match = block.match(new RegExp('<' + name + '\\b[^>]*>([\\s\\S]*?)</' + name + '\\s*>', 'i'));
+      return match ? decodeText(match[1].replace(/^\s*<!\[CDATA\[|\]\]>\s*$/g, '')).trim() : '';
+    };
+    const items = [];
+    for (const [, block] of xml.matchAll(/<url\b[^>]*>([\s\S]*?)<\/url\s*>/gi)) {
+      const link = reutersArticleUrl(text(block, 'loc'));
+      const title = text(block, 'news:title');
+      const date = publicationDate(text(block, 'news:publication_date'));
+      const image = reutersImageUrl(text(block, 'image:loc') || text(block, 'video:thumbnail_loc'));
+      if (link && title && date) items.push({ title, link, image, date });
+    }
+    return items;
+  }
+
+  const news = { publicationDate, newest, hopPostsUrl, parseHopPosts, reutersSitemapUrl, reutersFeedUrls, reutersItems, reutersArticleUrl, reutersImageUrl, parseReutersSitemap };
   if (typeof module === "object" && module.exports) module.exports = news;
   else globalThis.newsFreshness = news;
 })();
