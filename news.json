@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T14:22:32.922Z",
+ "generatedAt": "2026-11-18T14:24:31.550Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "The Anthropic I.P.O. Will Change the Future of A.I.",
+    "link": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
+    "image": "",
+    "date": 1795011612000,
+    "titleSl": "Prva javna ponudba delnic podjetja Anthropic bo spremenila prihodnost umetne inteligence."
+   },
+   {
     "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
     "link": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-investigate-vtkq/18dc-investigate-vtkq-mediumSquareAt3X-v3.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-jphl/18biz-java-response-jphl-mediumSquareAt3X.jpg",
     "date": 1795009364000,
     "titleSl": "Bolnišnice hitijo z odpravljanjem ranljivosti v programu Java"
-   },
-   {
-    "title": "‘Send Iran a Clear Message That the War Is Over’: 3 Opinion Writers on How to Check Trump on Foreign Policy",
-    "link": "https://www.nytimes.com/2026/11/18/opinion/trump-iran-us-foreign-policy.html",
-    "image": "",
-    "date": 1795008957000,
-    "titleSl": "»Iranu pošljite jasno sporočilo, da je vojne konec«: trije avtorji kolumn o tem, kako Trumpa obrzdati na področju zunanje politike"
    }
   ],
   "bbc": [
@@ -564,6 +564,13 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d5/live/68b519f0-e31a-11f1-a094-5fdc692f3e33.jpg",
     "date": 1795008229000,
     "titleSl": "Burnham obljublja, da bo »hitro ukrepal« glede poročila o mladih, ki niso zaposleni, se ne izobražujejo in se ne usposabljajo"
+   },
+   {
+    "title": "Home secretary plans to tackle 'corrosive' perception of two-tier policing",
+    "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4035/live/d90bfb90-e2c2-11f1-a9da-01a195e70ea0.jpg",
+    "date": 1795007979000,
+    "titleSl": "Minister za notranje zadeve namerava odpraviti »škodljivo« dojemanje dvotirnega policijskega dela"
    },
    {
     "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbd/live/7b56a630-e349-11f1-99aa-0f40b013ad11.jpg",
     "date": 1795005972000,
     "titleSl": "Ivanu Toneyju ni uspelo preprečiti sodnega spora v zvezi z Erom 2028"
-   },
-   {
-    "title": "Trump shakes hands with Putin and Xi ahead of landmark talks in China",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
-    "date": 1795005564000,
-    "titleSl": "Trump si je pred zgodovinskimi pogovori na Kitajskem rokoval s Putinom in Šijem"
    }
   ],
   "aljazeera": [
@@ -717,18 +717,25 @@
   ],
   "guardian": [
    {
+    "title": "Carlos Alcaraz v Daniil Medvedev: ATP Finals tennis group stage – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/18/carlos-alcaraz-v-daniil-medvedev-atp-finals-tennis-group-stage-live",
+    "image": "https://i.guim.co.uk/img/media/8ea3e032764db567ac59ab0430e4450e84424606/421_0_4912_3929/master/4912.jpg?width=700&quality=85&auto=format&fit=max&s=c1cd79492e9fce689d965ca6ccec075e",
+    "date": 1795011634000,
+    "titleSl": "Carlos Alcaraz proti Daniilu Medvedevu: Skupinski del teniškega turnirja ATP Finals – v živo"
+   },
+   {
+    "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
+    "date": 1795011624000,
+    "titleSl": "COP31 v živo: Aktivisti pravijo, drobtine, ki jih bogati svet ponuja revnim državam za pomoč pri prilagajanju na podnebne spremembe"
+   },
+   {
     "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
     "link": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
     "image": "https://i.guim.co.uk/img/media/df327e4e617830e1f697e61146d7a0ce405a03e5/590_0_6706_5366/master/6706.jpg?width=700&quality=85&auto=format&fit=max&s=6a62b754c7d7b9baf4a21856010c6364",
     "date": 1795011509000,
     "titleSl": "Triletni deček je umrl po »nujnem medicinskem primeru« v vrtcu v Greater Manchesterju"
-   },
-   {
-    "title": "Carlos Alcaraz v Daniil Medvedev: ATP Finals tennis group stage – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/18/carlos-alcaraz-v-daniil-medvedev-atp-finals-tennis-group-stage-live",
-    "image": "https://i.guim.co.uk/img/media/8ea3e032764db567ac59ab0430e4450e84424606/421_0_4912_3929/master/4912.jpg?width=700&quality=85&auto=format&fit=max&s=c1cd79492e9fce689d965ca6ccec075e",
-    "date": 1795011487000,
-    "titleSl": "Carlos Alcaraz proti Daniilu Medvedevu: Skupinski del teniškega turnirja ATP Finals – v živo"
    },
    {
     "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
@@ -787,13 +794,6 @@
     "titleSl": "Analiza je pokazala, da je Poslovni svet Avstralije bolj usklajen z industrijo fosilnih goriv kot z vrednotami svojih članov."
    },
    {
-    "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
-    "date": 1795010109000,
-    "titleSl": "COP31 v živo: Aktivisti pravijo, drobtine, ki jih bogati svet ponuja revnim državam za pomoč pri prilagajanju na podnebne spremembe"
-   },
-   {
     "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
     "link": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
     "image": "https://i.guim.co.uk/img/media/70e660fd41167b951c370313da615a9538afcd67/145_272_4671_3738/master/4671.jpg?width=700&quality=85&auto=format&fit=max&s=602c88dbdb439ee9faae01351e187a79",
@@ -802,6 +802,13 @@
    }
   ],
   "spiegel": [
+   {
+    "title": "Winfried Kretschmann: Politiker berichtet von Missbrauchserfahrungen im Internat",
+    "link": "https://www.spiegel.de/panorama/leute/winfried-kretschmann-politiker-berichtet-von-missbrauchserfahrungen-im-internat-a-43455d10-0699-480c-9182-e26df76e69db#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/9e91e156-be3f-482c-ad76-9c801b8c4064_w520_r2.08_fpx51.28_fpy44.88.jpg",
+    "date": 1795011660000,
+    "titleSl": "Winfried Kretschmann: Politik poroča o izkušnjah z zlorabami v internatu"
+   },
    {
     "title": "Stromsteuer runter, Spritpreisdeckel ab 2027 – das bringen Ihnen die neuen Entlastungen",
     "link": "https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss",
@@ -878,16 +885,16 @@
     "image": "https://cdn.prod.www.spiegel.de/images/fa491904-3f65-4c67-a5e3-7603f12c7824_w520_r2.08_fpx63.97_fpy49.98.jpg",
     "date": 1795004880000,
     "titleSl": "Jemen: Kako je v državljanski vojni okrepila svoje položaje dolgo podcenjevana milica Hutijev"
-   },
-   {
-    "title": "Xi Jinping empfängt Donald Trump persönlich am Flughafen",
-    "link": "https://www.spiegel.de/ausland/xi-jinping-empfaengt-donald-trump-persoenlich-am-flughafen-a-1c046d0b-75bb-4cce-b787-1c29134402f7#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/cfd0ede9-239d-45c8-a335-44012ffa6e90_w520_r2.08_fpx29.99_fpy52.96.jpg",
-    "date": 1795003800000,
-    "titleSl": "Xi Jinping osebno sprejme Donalda Trumpa na letališču"
    }
   ],
   "bild": [
+   {
+    "title": "Vor Darmstädter Krisen-Duell - Papela-Comeback macht Hoffnung",
+    "link": "https://www.bild.de/sport/fussball/darmstadt-98-trainer-kohfeldt-hofft-auf-papela-comeback-6afdac504d1895cf2a8efc57",
+    "image": "https://images.bild.de/6afdac504d1895cf2a8efc57/377371e44cd89b34a17926f89302fbda,9e0cd2da?w=1280",
+    "date": 1795011595000,
+    "titleSl": "Pred dvobojem v Darmstadtu – Papelova vrnitev vliva upanje"
+   },
    {
     "title": "Plötzlich ist die Ex-Affäre am Handy - Knossi-Anruf bringt Lola Weippert ins Schwitzen",
     "link": "https://www.bild.de/unterhaltung/bildgg/lola-weippert-knossi-ruft-sie-wegen-ihres-ex-freundes-an-6afd7095a883f861e533061f",
@@ -964,22 +971,15 @@
     "image": "https://images.bild.de/6afd7888bb7e7a6679f928b2/72de88a050be41b5fd1d3517e92c9fad,b8ff862d?w=1280",
     "date": 1795010427000,
     "titleSl": "Lea Marlen Woitack – Nekdanja zvezdnica serije GZSZ preseneča z novico o otroku"
-   },
-   {
-    "title": "Pech-Preuße wieder fit - Bolay lauert auf seine Chance",
-    "link": "https://www.bild.de/sport/fussball/pech-preusse-wieder-fit-bolay-lauert-auf-seine-chance-6afd962dbb7e7a6679f92dc6",
-    "image": "https://images.bild.de/6afd962dbb7e7a6679f92dc6/96c463f125fc1a7e16bf3d1e890eb216,cd5ffb07?w=1280",
-    "date": 1795010379000,
-    "titleSl": "Pech-Preuße je spet pripravljen – Bolay čaka na svojo priložnost"
    }
   ],
   "krone": [
    {
-    "title": "42-Jähriger verstorben - Polizei sucht nach tödlichem Unfall nach Zeugen",
+    "title": "42-Jähriger verstorben - Polizei sucht Zeugen nach tödlichem Unfall",
     "link": "https://www.krone.at/4380725",
     "image": "https://imgl.krone.at/scaled/4251394/vc9443a/full.jpg",
-    "date": 1795011678000,
-    "titleSl": "Umrl je 42-letnik – policija po smrtni nesreči išče priče"
+    "date": 1795011733000,
+    "titleSl": "Umrl je 42-letnik – policija išče priče smrtne nesreče"
    },
    {
     "title": "Messer und Faust - Gewalteskalation in Wiener Schule: Festnahme!",
@@ -1110,6 +1110,13 @@
     "titleSl": "Trump v Shenzhenu, jutri trilateralno srečanje s Šijem in Putinom"
    },
    {
+    "title": "Sanremo 77, la rivincita dei Jalisse: dopo 29 no il sogno dell&#x27;Ariston può diventare realtà",
+    "link": "https://www.rainews.it/articoli/2026/11/sanremo-77-la-rivincita-dei-jalisse-dopo-29-no-il-sogno-dellariston-puo-diventare-realta-317b81e1-b521-4a44-93b5-3d56ac8e98e5.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/18/1795006150180_BeFunkycollage_.jpg",
+    "date": 1795008360000,
+    "titleSl": "Sanremo 77, vrnitev skupine Jalisse: po 29 »ne«-jih lahko sanje o nastopu v dvorani Ariston postanejo resničnost"
+   },
+   {
     "title": "Tg2 Medicina 33 del 18/11/2026",
     "link": "https://www.rainews.it/rubriche/tg2medicina33/video/2026/11/Tg2-Medicina-33-del-18112026-abb448ab-670c-4b0e-bdbe-a398941268b8.html",
     "image": "https://www.rainews.it/dl/img/2025/11/05/1762340114039_Tg2_Medicina_33_2048x1152.jpg",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/18/1795000628412_rainewsfcbdddebbcfdeebe.jpg",
     "date": 1795006080000,
     "titleSl": "Se v Izraelu začenja obdobje po Netanjahujevi vladavini? Začetek razgradnje njegovih najbolj spornih reform"
-   },
-   {
-    "title": "Sci alpino, Gurgl: Italia a caccia di conferme, Braathen punta al tris, Vinatzer ci riprova",
-    "link": "https://www.rainews.it/maratona/2026/11/sci-coppa-del-mondo-slalom-gurgl-austria-vinatzer-braathen-azzurri-diretta-live-aggiornamenti-news-video-9aded3de-b8d6-4ed1-86f3-eb101ad816ce.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/18/1794996717385_rainewsfdfdbdad.jpg",
-    "date": 1795005660000,
-    "titleSl": "Alpsko smučanje, Gurgl: Italija želi potrditi uspeh, Braathen cilja na trojno zmago, Vinatzer bo poskusil znova"
    }
   ],
   "lemonde": [
@@ -1232,6 +1232,13 @@
   ],
   "elpais": [
    {
+    "title": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante",
+    "link": "https://elpais.com/sociedad/2026-11-18/la-audiencia-nacional-admite-la-querella-contra-julio-iglesias-por-delitos-contra-la-libertad-sexual-lesiones-y-trato-degradante.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/2J27QVSCLRFUVKCV7DJYTKJUPY.jpg?auth=fc7f31c9bb5c5dd1216b43aa649ee9a899bd773523d3777f215d290082aaf5bd",
+    "date": 1795011732000,
+    "titleSl": "Nacionalno sodišče je sprejelo tožbo proti Juliu Iglesiasu zaradi kaznivih dejanj zoper spolno svobodo, telesnih poškodb in ponižujočega ravnanja"
+   },
+   {
     "title": "Carlos Alcaraz - Daniil Medvedev, en directo|el español se impone en el primer set (6-2), gana en el segundo (5-3) y juega con un vendaje",
     "link": "https://elpais.com/deportes/tenis/2026-11-18/carlos-alcaraz-daniil-medvedev-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/4LDLRPO4Q5KAHM2DAATTM5LGA4.jpg?auth=5676c37438d9ac0f1965cf68269a3dd01798be8bec77ba1b4f411bb4ee4d2a0b",
@@ -1239,11 +1246,11 @@
     "titleSl": "Carlos Alcaraz – Daniil Medvedev, v živo|Španec je zmagal v prvem nizu (6–2), vodi v drugem (5–3) in igra s povojem"
    },
    {
-    "title": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante",
-    "link": "https://elpais.com/sociedad/2026-11-18/la-audiencia-nacional-admite-la-querella-contra-julio-iglesias-por-delitos-contra-la-libertad-sexual-lesiones-y-trato-degradante.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/2J27QVSCLRFUVKCV7DJYTKJUPY.jpg?auth=fc7f31c9bb5c5dd1216b43aa649ee9a899bd773523d3777f215d290082aaf5bd",
-    "date": 1795011499000,
-    "titleSl": "Nacionalno sodišče je sprejelo tožbo proti Juliu Iglesiasu zaradi kaznivih dejanj zoper spolno svobodo, telesnih poškodb in ponižujočega ravnanja"
+    "title": "La justicia revoca la condena contra el paparazi condenado por acosar a Gerard Piqué y Clara Chía",
+    "link": "https://elpais.com/gente/2026-11-18/la-justicia-revoca-la-condena-contra-el-paparazi-condenado-por-acosar-a-gerard-pique-y-clara-chia.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/2C2Z6GVCCTFSHECZTN4LO3OSFE.jpg?auth=3efb4027ca141f093368f4d7e20dc2b1e68f0f0b5e25024cf4e0469c903b6972",
+    "date": 1795011457000,
+    "titleSl": "Sodišče je razveljavilo obsodbo paparaca, obsojenega zaradi nadlegovanja Gerarda Piquéa in Clare Chía"
    },
    {
     "title": "Frente Amplio centra en siete provincias la pelea por el escaño con el PP y Vox",
@@ -1307,79 +1314,72 @@
     "image": "https://imagenes.elpais.com/resizer/v2/KKPCCJR33JBTTF55WF66PJC5UY.jpg?auth=e5c32f4297a176d85a7a2ce0a102b719ba5d7273cbfb381741aa5a83df065d75",
     "date": 1795005917000,
     "titleSl": "Operacija proti drogam se je končala z zaprtjem socialnega centra Mestne občine Madrid"
-   },
-   {
-    "title": "Feijóo abre la puerta a una “derogación total” de la ley de la eutanasia",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/feijoo-abre-la-puerta-a-una-derogacion-total-de-la-ley-de-la-eutanasia.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/HEIZOIZVCFL2PC2QYN46ZTTNII.jpg?auth=5471bfd7657632b94e74ef1be5ea2d65a96926024bc92c4afb72101bb552a527",
-    "date": 1795005509000,
-    "titleSl": "Feijóo odpira vrata »popolni razveljavitvi« zakona o evtanaziji"
    }
   ]
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T14:22:22.315Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-18T14:22:22.988Z",
+   "checkedAt": "2026-11-18T14:24:22.637Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-18T14:22:23.037Z",
+   "checkedAt": "2026-11-18T14:24:23.537Z",
    "success": true
   },
-  "zurnal": {
-   "checkedAt": "2026-11-18T14:22:23.401Z",
+  "siol": {
+   "checkedAt": "2026-11-18T14:24:23.803Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-18T14:22:23.582Z",
+   "checkedAt": "2026-11-18T14:24:24.149Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-18T14:24:24.272Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-18T14:22:23.924Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-18T14:22:23.939Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-18T14:22:24.515Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-18T14:22:25.756Z",
+   "checkedAt": "2026-11-18T14:24:24.680Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-18T14:22:28.396Z",
+   "checkedAt": "2026-11-18T14:24:24.741Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-18T14:22:28.716Z",
+  "reuters": {
+   "checkedAt": "2026-11-18T14:24:25.011Z",
    "success": true
   },
-  "rainews": {
-   "checkedAt": "2026-11-18T14:22:29.081Z",
+  "nyt": {
+   "checkedAt": "2026-11-18T14:24:26.744Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-18T14:22:30.226Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-18T14:22:31.111Z",
+  "bbc": {
+   "checkedAt": "2026-11-18T14:24:26.847Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T14:22:32.806Z",
+   "checkedAt": "2026-11-18T14:24:28.634Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T14:24:28.923Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-18T14:24:29.545Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-18T14:24:29.845Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-18T14:24:29.872Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T14:22:32.921Z",
+   "checkedAt": "2026-11-18T14:24:31.549Z",
    "success": true
   }
  },
