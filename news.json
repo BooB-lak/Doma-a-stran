@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T20:54:34.220Z",
+ "generatedAt": "2026-11-18T20:56:32.469Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Prince Harry says he would rejoin army as he warns of Russia threat",
+    "link": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ac/live/9a53b3f0-e37d-11f1-b879-03485a55c082.jpg",
+    "date": 1795035315000,
+    "titleSl": "Princ Harry pravi, da bi se vrnil v vojsko, saj opozarja na rusko grožnjo"
+   },
+   {
     "title": "UK government asks for Russell Brand's YouTube account to be removed",
     "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c05a/live/ff349a00-e38c-11f1-bc86-33d7d6275eba.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
     "date": 1795021240000,
     "titleSl": "V starem plinovodu, kjer Ukrajina vodi podzemno vojno z Rusijo"
-   },
-   {
-    "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
-    "date": 1795021204000,
-    "titleSl": "»Droni tukaj ne letijo« – poročila BBC-ja z nove ukrajinske frontne črte"
    }
   ],
   "aljazeera": [
@@ -977,9 +977,16 @@
    {
     "title": "Stapler in Flammen - Brand in Holzbetrieb forderte die Einsatzkräfte",
     "link": "https://www.krone.at/4381196",
-    "image": "https://imgl.krone.at/scaled/4381227/ve526c8/full.jpg",
-    "date": 1795035204000,
+    "image": "https://imgl.krone.at/scaled/4381227/v784c52/full.jpg",
+    "date": 1795035361000,
     "titleSl": "Viličar v plamenih – Požar v lesni dejavnosti je zahteval posredovanje reševalnih služb"
+   },
+   {
+    "title": "F1-Wackelkandidat - Cadillac: Zukunft von Valtteri Bottas geklärt",
+    "link": "https://www.krone.at/4381226",
+    "image": "https://imgl.krone.at/scaled/4381228/va1bffd/full.jpg",
+    "date": 1795035260000,
+    "titleSl": "F1 – Negotov kandidat – Cadillac: Prihodnost Valtterija Bottasa je razjasnjena"
    },
    {
     "title": "ICE Hockey League - Capitals beenden Pleitenserie gegen Ljubljana",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4381181/v9a1e38/full.jpg",
     "date": 1795033078000,
     "titleSl": "Z dvema psoma – Avtomobil v plamenih: Štajerka je še uspela pobegniti"
-   },
-   {
-    "title": "Rotlicht übersehen - Zug erfasste Auto: Lenkerin blieb unverletzt",
-    "link": "https://www.krone.at/4381197",
-    "image": "https://imgl.krone.at/scaled/3826543/v12a2e2/full.jpg",
-    "date": 1795033001000,
-    "titleSl": "Voznica je spregledala rdečo luč – vlak je trčil v avtomobil: ostala je nepoškodovana"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T20:54:27.324Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-18T20:54:28.312Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-18T20:54:28.489Z",
+   "checkedAt": "2026-11-18T20:56:24.794Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-18T20:54:28.983Z",
+   "checkedAt": "2026-11-18T20:56:25.605Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-18T20:56:25.718Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-18T20:56:25.969Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-18T20:54:29.186Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-18T20:54:29.378Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-18T20:54:29.385Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-18T20:54:29.527Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-18T20:54:29.671Z",
+   "checkedAt": "2026-11-18T20:56:26.233Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-18T20:54:31.208Z",
+   "checkedAt": "2026-11-18T20:56:26.456Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-18T20:54:31.517Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-18T20:56:26.559Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-18T20:54:31.695Z",
+  "guardian": {
+   "checkedAt": "2026-11-18T20:56:26.781Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-18T20:56:26.783Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-18T20:56:28.681Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T20:54:33.104Z",
+   "checkedAt": "2026-11-18T20:56:29.248Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T20:56:29.515Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-18T20:56:29.621Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-18T20:54:33.431Z",
+   "checkedAt": "2026-11-18T20:56:29.814Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-18T20:54:34.116Z",
+   "checkedAt": "2026-11-18T20:56:31.627Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T20:54:34.219Z",
+   "checkedAt": "2026-11-18T20:56:32.468Z",
    "success": true
   }
  },
