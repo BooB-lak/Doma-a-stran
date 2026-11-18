@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T16:50:46.681Z",
+ "generatedAt": "2026-11-18T16:52:33.646Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/sportal/nogomet/anketa-zreb-play-off-elitna-skupina-liga-narodov-706635",
     "image": "https://siol.net/media/img/93/28/bdcb95a711029c669030.jpeg",
     "date": 1795020240000
+   },
+   {
+    "title": "Novo poglavje afere Alexandra Zvereva: nekdanje dekle ga znova toži",
+    "link": "https://siol.net/sportal/tenis/novo-poglavje-afere-alexandra-zvereva-nekdanje-dekle-ga-znova-tozi-706636",
+    "image": "https://siol.net/media/img/ff/0a/05e8febd5f2b655a5b2e.jpeg",
+    "date": 1795020060000
    },
    {
     "title": "Kaj je najmočnejši napovednik ločitve?",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/odbojka/kvalifikacije-liga-prvkov-tretji-krog-prva-tekma-706625",
     "image": "https://siol.net/media/img/a2/73/8992ec16c16a7b6caa9f.jpeg",
     "date": 1795013640000
-   },
-   {
-    "title": "Gregor Hudohmet v hišnem priporu, prestajal naj bi ga kar v Sloveniji",
-    "link": "https://siol.net/novice/slovenija/gregor-hudohmet-v-hisnem-priporu-prestajal-naj-bi-ga-kar-v-sloveniji-706626",
-    "image": "https://siol.net/media/img/8a/3a/cd3cd62da1e9d6e3a7e8.jpeg",
-    "date": 1795013520000
    }
   ],
   "24ur": [
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Police investigate death of boy, 3, after nursery incident",
+    "link": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0797/live/c7d45720-e365-11f1-9f51-4bfc31543510.jpg",
+    "date": 1795020718000,
+    "titleSl": "Policija preiskuje smrt 3-letnega dečka po incidentu v vrtcu"
+   },
+   {
     "title": "Council wins injunction to prevent flag-raising",
     "link": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db59/live/2d22b160-e33b-11f1-99b6-a35a62fa4264.jpg",
     "date": 1795011062000,
     "titleSl": "Polnilo za povečanje zadnjice so po smrti mame našli v njenem srcu in pljučih"
-   },
-   {
-    "title": "Seven Anthropic founders who are about to become multi-billionaires",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-    "date": 1795010114000,
-    "titleSl": "Sedem ustanoviteljev podjetja Anthropic, ki bodo kmalu postali multimilijarderji"
    }
   ],
   "aljazeera": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Anwalt siegessicher - Ex-Freundin reicht neue Klage gegen Zverev ein",
+    "link": "https://www.krone.at/4381054",
+    "image": "https://imgl.krone.at/scaled/4381063/v221970/full.jpg",
+    "date": 1795020702000,
+    "titleSl": "Odvetnik je prepričan v zmago – Nekdanja deklica je vložila novo tožbo proti Zverevu"
+   },
+   {
     "title": "Lehrling verurteilt: - „Mama, ich hab gerade zwei Leute abgestochen“",
     "link": "https://www.krone.at/4380183",
     "image": "https://imgl.krone.at/scaled/4380206/v285084/full.jpg",
@@ -994,13 +1001,6 @@
     "image": "https://imgl.krone.at/scaled/4380276/v0f1b51/full.jpg",
     "date": 1795020508000,
     "titleSl": "»Tam spijo otroci« – Thomas Stipsits v nabiralniku najde sovražna pisma!"
-   },
-   {
-    "title": "Anwalt siegessicher - Ex-Freundin reicht neue Klage gegen Zverev ein",
-    "link": "https://www.krone.at/4381054",
-    "image": "https://imgl.krone.at/scaled/4381063/v221970/full.jpg",
-    "date": 1795020500000,
-    "titleSl": "Odvetnik je prepričan v zmago – Nekdanja deklica je vložila novo tožbo proti Zverevu"
    },
    {
     "title": "Bekannt durch TikTok - „Neues Kapitel“: Influencerin (24) wird Pastorin",
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T16:50:35.322Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-18T16:50:36.199Z",
+   "checkedAt": "2026-11-18T16:52:25.036Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-18T16:50:36.259Z",
+   "checkedAt": "2026-11-18T16:52:25.486Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-18T16:52:25.501Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-18T16:50:36.403Z",
+   "checkedAt": "2026-11-18T16:52:25.786Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-18T16:50:36.606Z",
+   "checkedAt": "2026-11-18T16:52:26.454Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-18T16:50:37.053Z",
+   "checkedAt": "2026-11-18T16:52:26.743Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-18T16:50:37.156Z",
+   "checkedAt": "2026-11-18T16:52:26.886Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-18T16:50:37.217Z",
+   "checkedAt": "2026-11-18T16:52:26.957Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-18T16:50:39.083Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-18T16:50:39.801Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-18T16:50:40.076Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-18T16:50:42.039Z",
+   "checkedAt": "2026-11-18T16:52:28.623Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T16:50:43.857Z",
+   "checkedAt": "2026-11-18T16:52:29.434Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T16:52:29.537Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-18T16:52:29.853Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-18T16:52:29.902Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-18T16:50:46.462Z",
+   "checkedAt": "2026-11-18T16:52:32.703Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T16:50:46.680Z",
+   "checkedAt": "2026-11-18T16:52:33.645Z",
    "success": true
   }
  },
