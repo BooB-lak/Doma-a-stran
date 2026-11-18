@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T06:24:32.607Z",
+ "generatedAt": "2026-11-18T06:26:31.217Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Na tekočih stopnicah poškodovanih deset otrok",
+    "link": "https://www.zurnal24.si/svet/tekoce-stopnice-10-otrok-poskodba-beograd-468386",
+    "image": "https://www.zurnal24.si/media/img/4a/2a/2b9f0d7158ff802b1725.jpeg",
+    "date": 1794983040000
+   },
+   {
     "title": "Slovenija med največjimi poraženkami nepremičninskega trga",
     "link": "https://www.zurnal24.si/pod-streho/nepremicnine/slovenija-med-najvecjimi-porazenkami-nepremicninskega-trga-468027",
     "image": "https://www.zurnal24.si/media/img/60/3a/737076211e91e1a117bb.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/svet/tezave-za-apple-doletel-jih-je-obsezen-tehnicni-izpad-468382",
     "image": "https://www.zurnal24.si/media/img/60/ed/6b15c896ae9f3a23b35b.jpeg",
     "date": 1794943320000
-   },
-   {
-    "title": "Dnevni horoskop za sredo, 18. novembra 2026",
-    "link": "https://www.zurnal24.si/magazin/horoskop-in-numerologija/dnevni-horoskop-za-sredo-18-novembra-2026-468363",
-    "image": "https://www.zurnal24.si/media/img/5a/61/78cf424e754facd98479.jpeg",
-    "date": 1794942000000
    }
   ],
   "hop": [
@@ -548,13 +548,15 @@
     "title": "What's gone wrong at Britain's worst bathing site?",
     "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg",
-    "date": 1794982364000
+    "date": 1794982364000,
+    "titleSl": "Kaj je šlo narobe na najslabšem kopališču v Veliki Britaniji?"
    },
    {
     "title": "How important are Nvidia and Jensen Huang to the US economy?",
     "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-    "date": 1794981861000
+    "date": 1794981861000,
+    "titleSl": "Kako pomembna sta Nvidia in Jensen Huang za ameriško gospodarstvo?"
    },
    {
     "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
@@ -718,7 +720,7 @@
     "title": "Australia v England: third and deciding men’s cricket one-day international – live",
     "link": "https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates",
     "image": "https://i.guim.co.uk/img/media/a11ffcde4bb7bc3b863b075c6c00aac8f1948f6d/614_0_5701_4563/master/5701.jpg?width=700&quality=85&auto=format&fit=max&s=d911e64b27e1b275f57d4c8eba43c7bd",
-    "date": 1794982434000,
+    "date": 1794982722000,
     "titleSl": "Avstralija proti Angliji: tretja in odločilna enodnevna mednarodna tekma v kriketu za moške – v živo"
    },
    {
@@ -808,13 +810,6 @@
     "titleSl": "Aldi: Kako je Deutsche Bank milijardnemu klanu Aldi znižala davke"
    },
    {
-    "title": "Deutsche Bank: Die heiklen Geschäfte in Kolumbien, dem Land der Kartelle",
-    "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle-a-8661372f-c528-4667-82d1-37a18184d9f5#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/b1ec1307-f9d8-45c0-88fe-81a8471051fc_w520_r2.08_fpx64_fpy51.png",
-    "date": 1794981600000,
-    "titleSl": "Deutsche Bank: Občutljivi posli v Kolumbiji, deželi kartelov"
-   },
-   {
     "title": "Deutsche Bank und Rüstung: Bombengeschäfte",
     "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-ruestung-wie-das-geldhaus-lernte-die-bomben-zu-lieben-a-089adde5-f23c-4544-9fbb-5e66e13bce6b#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/991b12fa-3eda-4b6d-a4ba-b8c77273aa86_w520_r2.08_fpx50_fpy50.png",
@@ -827,6 +822,13 @@
     "image": "https://cdn.prod.www.spiegel.de/images/1a7c98ff-af41-4e5b-97b5-96d0c321bedf_w520_r2.08_fpx41_fpy42.png",
     "date": 1794981600000,
     "titleSl": "Deutsche Bank in Jho Low: Kakšno vlogo je imela banka v škandalu 1MDB?"
+   },
+   {
+    "title": "Deutsche Bank: Die heiklen Geschäfte in Kolumbien, dem Land der Kartelle",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-die-heiklen-geschaefte-in-kolumbien-dem-land-der-kartelle-a-8661372f-c528-4667-82d1-37a18184d9f5#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/b1ec1307-f9d8-45c0-88fe-81a8471051fc_w520_r2.08_fpx64_fpy51.png",
+    "date": 1794981600000,
+    "titleSl": "Deutsche Bank: Občutljivi posli v Kolumbiji, deželi kartelov"
    },
    {
     "title": "Mercedes hofft auf Millionenbetrag bei Auktion von seltenem Wagen",
@@ -1062,7 +1064,8 @@
     "title": "Cina, iniziati i colloqui tra Xi e Putin al vertice Apec di Shenzen: domani l&#x27;incontro con Trump",
     "link": "https://www.rainews.it/maratona/2026/11/cina-iniziati-i-colloqui-tra-xi-e-putin-al-vertice-apec-di-shenzen-incontreranno-trump-la-guerra-in-ucraina-giorno-1729-3f0dc93b-2116-4804-86b3-cd5b5f2f3dd9.html",
     "image": "https://www.rainews.it/dl/img/2026/11/18/1794977897522_DTWD.jpg",
-    "date": 1794982920000
+    "date": 1794982920000,
+    "titleSl": "Kitajska, začeli so se pogovori med Šijem in Putinom na vrhu APEC v Šendženu: jutri srečanje s Trumpom"
    },
    {
     "title": "Vertice Schenzhen, Xi-Putin: \"Rapporti saldi come una montagna\"",
@@ -1089,7 +1092,8 @@
     "title": "Parata di stelle al GQ Men of the Year: Raye illumina la scena",
     "link": "https://www.rainews.it/video/2026/11/parata-di-stelle-al-gq-men-of-the-year-raye-illumina-la-scena-video--1ea1e6d4-c822-438e-a519-8cd74bef3167.html",
     "image": "https://www.rainews.it/dl/img/2026/11/18/1794981138100_raye.PNG",
-    "date": 1794980880000
+    "date": 1794980880000,
+    "titleSl": "Parada zvezd na prireditvi GQ Men of the Year: Raye osvetli prizorišče"
    },
    {
     "title": "Paris Hilton contro gli abusi del deepfake: \"Serve una legge che tuteli le donne\"",
@@ -1316,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T06:24:23.569Z",
+   "checkedAt": "2026-11-18T06:26:22.912Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-18T06:24:24.418Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-18T06:24:25.395Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-18T06:24:25.472Z",
+   "checkedAt": "2026-11-18T06:26:23.531Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-18T06:24:26.447Z",
+   "checkedAt": "2026-11-18T06:26:23.761Z",
    "success": true
   },
-  "guardian": {
-   "checkedAt": "2026-11-18T06:24:26.864Z",
+  "zurnal": {
+   "checkedAt": "2026-11-18T06:26:23.861Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-18T06:24:26.918Z",
+  "hop": {
+   "checkedAt": "2026-11-18T06:26:24.235Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-18T06:24:26.949Z",
+   "checkedAt": "2026-11-18T06:26:24.554Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-18T06:26:24.648Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-18T06:26:24.657Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-18T06:24:26.961Z",
+   "checkedAt": "2026-11-18T06:26:24.943Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-18T06:24:29.114Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-18T06:24:29.890Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-18T06:24:30.101Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-18T06:24:30.139Z",
+   "checkedAt": "2026-11-18T06:26:27.800Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-18T06:24:30.472Z",
+   "checkedAt": "2026-11-18T06:26:28.099Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-18T06:26:28.141Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T06:26:28.172Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-18T06:26:28.475Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-18T06:24:31.675Z",
+   "checkedAt": "2026-11-18T06:26:31.059Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T06:24:32.606Z",
+   "checkedAt": "2026-11-18T06:26:31.216Z",
    "success": true
   }
  },
