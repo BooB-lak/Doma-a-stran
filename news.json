@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-18T12:01:07.016Z",
+ "generatedAt": "2026-11-18T12:03:00.099Z",
  "sources": {
   "siol": [
+   {
+    "title": "V ruskem napadu na Ukrajino ubitih več ljudi #vŽivo",
+    "link": "https://siol.net/novice/svet/v-ruskem-napadu-na-ukrajino-ubitih-vec-ljudi-vzivo-706598",
+    "image": "https://siol.net/media/img/94/fb/96df1ed7649ed4f0dc99.jpeg",
+    "date": 1795003080000
+   },
    {
     "title": "Največji vseh časov se po hudem boju z duševnim zdravjem vrača",
     "link": "https://siol.net/sportal/drugi-sporti/najvecji-vseh-casov-se-po-hudem-boju-z-dusevnim-zdravjem-vraca-706597",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/slovenija/kaj-se-dogaja-z-vremenom-v-crnomlju-zjutraj-namerili-17-stopinj-celzija-706582",
     "image": "https://siol.net/media/img/35/04/c9b8639e6f4d934000b7.jpeg",
     "date": 1794996720000
-   },
-   {
-    "title": "Strokovnjaki in pobudniki kampanje O tem govorimo!: Raki prebavil niso ena sama bolezen",
-    "link": "https://siol.net/novice/slovenija/strokovnjaki-in-pobudniki-kampanje-o-tem-govorimo-raki-prebavil-niso-ena-sama-bolezen-706573",
-    "image": "https://siol.net/media/img/90/b4/124d287db4ce16c5ec59.png",
-    "date": 1794996660000
    }
   ],
   "24ur": [
@@ -469,7 +469,7 @@
     "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
     "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
     "image": "https://static01.nyt.com/images/2026/11/13/world/13russia-musician-profle/13russia-musician-profle-mediumSquareAt3X.jpg",
-    "date": 1795002664000,
+    "date": 1795002665000,
     "titleSl": "Boris Grebenščikov, ruski rock glasbenik s »potrebo po uporu«"
    },
    {
@@ -499,6 +499,13 @@
     "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-promo2315/17trump-summits-promo2315-mediumSquareAt3X.jpg",
     "date": 1795001340000,
     "titleSl": "Trump se je pred odhodom na Kitajsko srečal s filipinskim voditeljem"
+   },
+   {
+    "title": "What to Expect at Today’s DealBook Summit",
+    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-lineup-vance-musk.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18db-summit-bpfg/18db-summit-bpfg-mediumSquareAt3X.jpg",
+    "date": 1795000986000,
+    "titleSl": "Kaj lahko pričakujete na današnjem vrhu DealBook"
    },
    {
     "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska’s Senate Race",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18wea-CAstorms-qfjm/18wea-CAstorms-qfjm-mediumSquareAt3X.jpg",
     "date": 1794999490000,
     "titleSl": "Kalifornijo preplavlja še ena nevihta"
-   },
-   {
-    "title": "A Visual Tour of President Trump’s Visits to Asia",
-    "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-trump-asia-visual-stack-ckfp/18int-trump-asia-visual-stack-ckfp-mediumSquareAt3X.jpg",
-    "date": 1794997476000,
-    "titleSl": "Vizualni prikaz obiskov predsednika Trumpa v Aziji"
    }
   ],
   "bbc": [
@@ -717,18 +717,39 @@
   ],
   "guardian": [
    {
-    "title": "Duckett’s bold 133 steers England to ODI series win as sandpapergate latest rocks Australia",
-    "link": "https://www.theguardian.com/sport/2026/nov/18/ben-duckett-steers-england-odi-cricket-series-win-sandpapergate-australia",
-    "image": "https://i.guim.co.uk/img/media/9ff096b569e51dd04286ff128227400f350f3c0c/218_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=ad8b092d2bbb55e5616a28d33b4d2f64",
-    "date": 1795002537000,
-    "titleSl": "Duckettov pogumni rezultat 133 točk je Anglijo popeljal do zmage v seriji tekem ODI, medtem ko je škandal s smirkovim papirjem ponovno pretresel Avstralijo"
+    "title": "Ireland’s Prendergast free to face South Africa after avoiding hip-drop tackle ban",
+    "link": "https://www.theguardian.com/sport/2026/nov/18/ireland-sam-prendergast-free-face-south-africa-avoiding-hip-drop-tackle-ban-rassie-erasmus-rugby-union",
+    "image": "https://i.guim.co.uk/img/media/7d19fe0aed2f6e3d4d8bcd5cc6d86eb394c10753/529_116_4224_3380/master/4224.jpg?width=700&quality=85&auto=format&fit=max&s=8eaeadd281a190cce36ec8bdbc31b87a",
+    "date": 1795003027000,
+    "titleSl": "Irec Prendergast bo lahko igral proti Južni Afriki, saj se je izognil prepovedi zaradi »hip-drop«-tacklea"
+   },
+   {
+    "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
+    "date": 1795002897000,
+    "titleSl": "Vrh APEC v živo: Xi je pozdravil Trumpa ob njegovem obisku na Kitajskem, Putin pa je v svojem govoru dejal, da je Evropa v »ponižujočem upadu«"
    },
    {
     "title": "‘Many’ Tory votes would switch to Labour if it committed to rejoining EU, claims Lammy – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/7b2a3ff43ff6fa32989aabeec476a93683a41c44/640_0_5810_4648/master/5810.jpg?width=700&quality=85&auto=format&fit=max&s=3aa7c67ee7a1b228b6d2639287d24233",
-    "date": 1795002536000,
+    "date": 1795002735000,
     "titleSl": "Lammy trdi, da bi »veliko« glasov konservativcev prešlo na laburiste, če bi se ti zavezali k ponovni vključitvi v EU – britanska politika v živo"
+   },
+   {
+    "title": "We made GTA 6, the world’s biggest video game – we should have working conditions to match | Nestor Uriarte",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
+    "image": "https://i.guim.co.uk/img/media/6f6a96abc7c44dbaf4071cc6e2ab2db0d18bd33b/298_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=a8cc7dd7eabf8a7e0c0062ce07fea792",
+    "date": 1795002657000,
+    "titleSl": "Ustvarili smo GTA 6, največjo videoigro na svetu – naši delovni pogoji bi morali biti temu primerni | Nestor Uriarte"
+   },
+   {
+    "title": "Duckett’s bold 133 steers England to ODI series win as sandpapergate latest rocks Australia",
+    "link": "https://www.theguardian.com/sport/2026/nov/18/ben-duckett-steers-england-odi-cricket-series-win-sandpapergate-australia",
+    "image": "https://i.guim.co.uk/img/media/770c860d209b17d77d8cf606f871dded891ec0a4/283_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=10f24a0cbdbde8abe394491a57c1f74e",
+    "date": 1795002537000,
+    "titleSl": "Duckettov pogumni rezultat 133 točk je Anglijo popeljal do zmage v seriji tekem ODI, medtem ko je škandal s smirkovim papirjem ponovno pretresel Avstralijo"
    },
    {
     "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
@@ -750,13 +771,6 @@
     "image": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=700&quality=85&auto=format&fit=max&s=ed1e3978c358b00cbdb77752e4f4661a",
     "date": 1795002293000,
     "titleSl": "Schumer pravi, da je Peltolina zmaga na Aljaski »darilo za vso Ameriko« – ameriška politika v živo"
-   },
-   {
-    "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
-    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-    "image": "https://i.guim.co.uk/img/media/6d9c0f7dcf81d04a8d81f66107543a4e06c61df1/188_0_3626_2901/master/3626.jpg?width=700&quality=85&auto=format&fit=max&s=5b4c55057869394cbbfa5c6f9102aefe",
-    "date": 1795002016000,
-    "titleSl": "Vrh APEC v živo: Xi je pozdravil Trumpa ob njegovem obisku na Kitajskem, Putin pa je v svojem govoru dejal, da je Evropa v »ponižujočem upadu«"
    },
    {
     "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
@@ -785,23 +799,16 @@
     "image": "https://i.guim.co.uk/img/media/df3c16ca56d1bf485b7bfcf167139b76363e7c10/334_0_3331_2666/master/3331.jpg?width=700&quality=85&auto=format&fit=max&s=3d6495e30793f2ef6a8e87346681ebde",
     "date": 1794999657000,
     "titleSl": "Aktivistka za nadzor nad orožjem čaka dolgo okrevanje po množičnem streljanju v Washingtonu, D.C."
-   },
-   {
-    "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
-    "image": "https://i.guim.co.uk/img/media/fcbdd13eb87efed150c236b2d6160a6fe219474e/435_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=dd21e1dedb58f35f186cce34369e2dbb",
-    "date": 1794999657000,
-    "titleSl": "Po nedavnih zmagah ima levica nov cilj: doseči, da bo AOC kandidirala za predsednico."
-   },
-   {
-    "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? |",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-    "image": "https://i.guim.co.uk/img/media/dc0fad56b1b1eaa91b8cd09ea4c2a7af3e4071b3/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=6a0831369697e6aeb5bb0a66493cb181",
-    "date": 1794999656000,
-    "titleSl": "Po 49 letih je Nasina sonda Voyager 1 od nas oddaljena en svetlobni dan. Ali lahko rešimo to »bledo modro piko«? |"
    }
   ],
   "spiegel": [
+   {
+    "title": "Berlin: Ringbahn soll ab 2030 für mehr als ein Jahr gesperrt werden",
+    "link": "https://www.spiegel.de/mobilitaet/bus-bahn/berlin-ringbahn-soll-ab-2030-fuer-mehr-als-ein-jahr-gesperrt-werden-a-f4c7cbe6-1740-4a2f-b769-b2c31c9cfc48#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/fac6553d-2e79-4fc9-8c3e-b34206f57754_w520_r2.08_fpx66.67_fpy50.jpg",
+    "date": 1795003260000,
+    "titleSl": "Berlin: Proga Ringbahn bo od leta 2030 več kot eno leto zaprta"
+   },
    {
     "title": "Deutsche Bank: So stimmt die Bank Mitarbeitende auf die Berichterstattung ein",
     "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-so-stimmt-die-bank-mitarbeitende-auf-die-berichterstattung-ein-a-eb701341-d665-4e23-9db1-335d39547474#ref=rss",
@@ -878,16 +885,16 @@
     "image": "https://cdn.prod.www.spiegel.de/images/bb2595a2-c97b-45ae-91e2-b0ccf18852b8_w520_r2.08_fpx48_fpy50.jpg",
     "date": 1795000560000,
     "titleSl": "Znižanje davka na električno energijo: Friedrich Merz posega v rezerve, Klingbeil pa popušča"
-   },
-   {
-    "title": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-    "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/4653602c-c8d9-4175-b819-f5739956805c_w520_r2.08_fpx50_fpy50.png",
-    "date": 1795000320000,
-    "titleSl": "Dnevni kviz v reviji SPIEGEL: 7 vprašanj iz splošne kulture vsak dan"
    }
   ],
   "bild": [
+   {
+    "title": "Tierbaby wurde als Frühstück verkauft - Sie sollte in die Pfanne, nun ist sie ein Star",
+    "link": "https://www.bild.de/news/ausland/schildkroete-wurde-als-fruehstueck-verkauft-vom-snack-zum-star-6afc3861028f6e41ab3f2837",
+    "image": "https://images.bild.de/6afc3861028f6e41ab3f2837/7cb2150b6eac7920300eee7ee2bae332,e10f4f7f?w=1280",
+    "date": 1795003206000,
+    "titleSl": "Živalca je bila prodana kot zajtrk – morala bi končati v ponvi, zdaj pa je zvezda"
+   },
    {
     "title": "Bedeutung, Geschichte, Regelungen - Wo ist der Buß- und Bettag 2026 ein Feiertag?",
     "link": "https://www.bild.de/leben-wissen/feste-feiertage/buss-und-bettag-2026-wer-hat-an-diesem-tag-frei-6553700ae30c936ee0b266f4",
@@ -908,13 +915,6 @@
     "image": "https://images.bild.de/6afd5b5efc384ca056385a92/5538e0881ad0c2faa677cf45a566fc95,b535da30?w=1280",
     "date": 1795003003000,
     "titleSl": "Ustrelil je svojega sošolca (15) – Starša morilca iz učilnice (15) pred sodiščem"
-   },
-   {
-    "title": "Tierbaby wurde als Frühstück verkauft - Sie sollte in die Pfanne, nun ist sie ein Star",
-    "link": "https://www.bild.de/news/ausland/schildkroete-wurde-als-fruehstueck-verkauft-vom-snack-zum-star-6afc3861028f6e41ab3f2837",
-    "image": "https://images.bild.de/6afc3861028f6e41ab3f2837/7cb2150b6eac7920300eee7ee2bae332,e10f4f7f?w=1280",
-    "date": 1795002988000,
-    "titleSl": "Živalca je bila prodana kot zajtrk – morala bi končati v ponvi, zdaj pa je zvezda"
    },
    {
     "title": "Rekord-Bewertung - „GTA 6“ ist das beste Spiel aller Zeiten",
@@ -974,6 +974,27 @@
    }
   ],
   "krone": [
+   {
+    "title": "Über den Tellerrand - Wissenschaft mal anders: So hört sich Forschung an",
+    "link": "https://www.krone.at/4371453",
+    "image": "https://imgl.krone.at/scaled/4371455/vbc88a0/full.jpg",
+    "date": 1795003239000,
+    "titleSl": "Über den Tellerrand – Wissenschaft mal anders: So hört sich Forschung an"
+   },
+   {
+    "title": "Die Stimme Österreichs - Bürgermeistergehälter kürzen: Eine gute Idee?",
+    "link": "https://www.krone.at/4380408",
+    "image": "https://imgl.krone.at/scaled/4094159/vfea1ba/full.jpg",
+    "date": 1795003228000,
+    "titleSl": "Glas Avstrije – Znižanje plač županov: dobra ideja?"
+   },
+   {
+    "title": "„Bitte nicht lächeln!“ - Warum Familienfotos nicht perfekt sein müssen",
+    "link": "https://www.krone.at/4368692",
+    "image": "https://imgl.krone.at/scaled/4368819/vbdbd3c/full.jpg",
+    "date": 1795003207000,
+    "titleSl": "»Prosim, ne smejte se!« – Zakaj družinske fotografije niso nujno popolne"
+   },
    {
     "title": "Plakette abgekratzt - Nach zwei Unfällen mit Fahrerflucht ausgeforscht",
     "link": "https://www.krone.at/4380370",
@@ -1036,27 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/3841578/vb09bf9/full.jpg",
     "date": 1795001878000,
     "titleSl": "Sprememba pri ženski ekipi – »Fantastična leta!«»Selektor hokejske reprezentance odhaja«"
-   },
-   {
-    "title": "Nach Huangs Affäre - Nvidia stellt Verkauf von KI-Chips nach China ein",
-    "link": "https://www.krone.at/4380465",
-    "image": "https://imgl.krone.at/scaled/4378403/vbd2165/full.jpg",
-    "date": 1795001878000,
-    "titleSl": "Po Huangovi aferi – Nvidia preneha s prodajo čipov za umetno inteligenco na Kitajskem"
-   },
-   {
-    "title": "Ex-Teamspieler Japans - Kozo Tashima hält vor FIFA-Wahl an Kandidatur fest",
-    "link": "https://www.krone.at/4380458",
-    "image": "https://imgl.krone.at/scaled/4368043/v794d09/full.jpg",
-    "date": 1795001785000,
-    "titleSl": "Nekdanji japonski reprezentant – Kozo Tashima vztraja pri kandidaturi pred volitvami v FIFA-i"
-   },
-   {
-    "title": "Schock nach Fehlgeburt - Spital gibt Mutter totes Baby mit nach Hause",
-    "link": "https://www.krone.at/4380389",
-    "image": "https://imgl.krone.at/scaled/4380407/v186db4/full.jpg",
-    "date": 1795001646000,
-    "titleSl": "Šok po spontanem splavu – bolnišnica je materi domov poslala mrtvega otroka"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T12:00:56.006Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-18T12:00:56.625Z",
+   "checkedAt": "2026-11-18T12:02:44.733Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-18T12:00:56.638Z",
+   "checkedAt": "2026-11-18T12:02:45.647Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-18T12:02:45.737Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-18T12:00:56.822Z",
+   "checkedAt": "2026-11-18T12:02:46.496Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-18T12:00:57.332Z",
+   "checkedAt": "2026-11-18T12:02:52.540Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-18T12:00:57.541Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-18T12:00:57.659Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-18T12:00:57.953Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-18T12:00:59.700Z",
+   "checkedAt": "2026-11-18T12:02:52.616Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-18T12:01:02.387Z",
+   "checkedAt": "2026-11-18T12:02:52.663Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-18T12:02:52.948Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-18T12:02:54.724Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-18T12:02:56.086Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-18T12:01:03.113Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-18T12:01:04.745Z",
+   "checkedAt": "2026-11-18T12:02:56.238Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-18T12:01:05.131Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-18T12:01:06.254Z",
+   "checkedAt": "2026-11-18T12:02:56.407Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T12:01:06.922Z",
+   "checkedAt": "2026-11-18T12:02:56.506Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T12:02:58.064Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-18T12:02:59.997Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T12:01:07.016Z",
+   "checkedAt": "2026-11-18T12:03:00.099Z",
    "success": true
   }
  },
