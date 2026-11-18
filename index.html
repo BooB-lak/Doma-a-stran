@@ -7006,7 +7006,8 @@ function updateThreeDays(danes){
 
 const SEASON_MAX = 12;
 const SEASON_MIN_MOVE = 32;
-const SEASON_SPAWN_INTERVAL = 1200; /* največ en delec na 1,2 sekunde */
+const SEASON_DELAY_MIN = 300;
+const SEASON_DELAY_MAX = 1000;
 
 const SEASONS = {
   jesen: {
@@ -7018,8 +7019,7 @@ const SEASONS = {
     vrtenje: [0.02,0.09],
     zivljenje: [90,150],
     oblika: "list",
-    variante: 1,
-    razmik: 72          /* redkeje kot ostali - listov je bilo prevec */
+    variante: 1
   },
   zima: {
     ime: "zima",
@@ -7030,8 +7030,7 @@ const SEASONS = {
     vrtenje: [0.01,0.04],
     zivljenje: [110,190],
     oblika: "snezinka",
-    variante: 4,        /* stiri razlicne oblike snezink */
-    razmik: 42
+    variante: 4         /* stiri razlicne oblike snezink */
   },
   pomlad: {
     ime: "pomlad",
@@ -7042,8 +7041,7 @@ const SEASONS = {
     vrtenje: [0.03,0.10],
     zivljenje: [110,175],
     oblika: "cvet",
-    variante: 1,
-    razmik: 48
+    variante: 1
   },
   poletje: {
     ime: "poletje",
@@ -7054,8 +7052,7 @@ const SEASONS = {
     vrtenje: [0.004,0.02],
     zivljenje: [80,130],
     oblika: "sonce",
-    variante: 1,
-    razmik: 46
+    variante: 1
   }
 };
 
@@ -7084,7 +7081,7 @@ function setSeasonOverride(vrednost){
   /* Ob preklopu pocistimo stare delce, da je razlika takoj vidna. */
   seasonParticles = [];
   seasonLastX = seasonLastY = null;
-  seasonLastSpawn = performance.now();
+  planSeasonSpawn();
   if(seasonCtx) seasonCtx.clearRect(0,0,window.innerWidth,window.innerHeight);
 
   qsa(".season-pick button").forEach(b=>{
@@ -7097,7 +7094,7 @@ let seasonCtx = null;
 let seasonParticles = [];
 let seasonRaf = null;
 let seasonOn = true;
-let seasonLastSpawn = 0;
+let seasonNextSpawnAt = 0;
 let seasonLastX = null;
 let seasonLastY = null;
 
@@ -7111,6 +7108,20 @@ function seasonResize(){
   seasonCanvas.style.width  = window.innerWidth + "px";
   seasonCanvas.style.height = window.innerHeight + "px";
   if(seasonCtx) seasonCtx.setTransform(dpr,0,0,dpr,0,0);
+}
+
+function planSeasonSpawn(now = performance.now()) {
+  seasonNextSpawnAt = now + nakljucno(SEASON_DELAY_MIN, SEASON_DELAY_MAX);
+}
+
+function createSeasonBurst(x, y) {
+  const roll = Math.random();
+  const count = roll < 0.60 ? 1 : roll < 0.88 ? 2 : 3;
+  for (let index = 0; index < count; index++) {
+    const offsetX = index === 0 ? 0 : (index % 2 ? -1 : 1) * nakljucno(14, 30);
+    const offsetY = index === 0 ? 0 : nakljucno(-12, 12);
+    ustvariDelec(x + offsetX, y + offsetY);
+  }
 }
 
 function ustvariDelec(x,y){
@@ -7332,7 +7343,7 @@ function setSeasonEnabled(vklopljeno){
   const next = !!vklopljeno && !reduced;
   if (next !== seasonOn) {
     seasonLastX = seasonLastY = null;
-    seasonLastSpawn = performance.now();
+    planSeasonSpawn();
   }
   seasonOn = next;
   if(!seasonOn){
@@ -7358,14 +7369,14 @@ function initSeason(){
   document.addEventListener("mousemove", e=>{
     if(!seasonOn || document.hidden) return;
 
+    const zdaj = performance.now();
     if (seasonLastX === null) {
       seasonLastX = e.clientX;
       seasonLastY = e.clientY;
+      planSeasonSpawn(zdaj);
       return;
     }
-    const zdaj = performance.now();
-    const razmik = Math.max(SEASON_SPAWN_INTERVAL, trenutnaSezona().razmik || 0);
-    if(zdaj - seasonLastSpawn < razmik) return;
+    if (zdaj < seasonNextSpawnAt) return;
 
     if(seasonLastX !== null){
       const dx = e.clientX - seasonLastX;
@@ -7375,9 +7386,9 @@ function initSeason(){
 
     seasonLastX = e.clientX;
     seasonLastY = e.clientY;
-    seasonLastSpawn = zdaj;
+    planSeasonSpawn(zdaj);
 
-    ustvariDelec(e.clientX, e.clientY);
+    createSeasonBurst(e.clientX, e.clientY);
     seasonZagon();
   }, { passive:true });
 
@@ -7385,7 +7396,7 @@ function initSeason(){
   document.addEventListener("visibilitychange", ()=>{
     if(document.hidden){
       seasonLastX = seasonLastY = null;
-      seasonLastSpawn = performance.now();
+      planSeasonSpawn();
       seasonParticles = [];
       if(seasonRaf){ cancelAnimationFrame(seasonRaf); seasonRaf = null; }
     }
