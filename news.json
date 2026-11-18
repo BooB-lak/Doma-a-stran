@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T16:12:35.041Z",
+ "generatedAt": "2026-11-18T16:14:33.140Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "The Anthropic I.P.O. Will Change the Future of A.I.",
+    "link": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
+    "image": "",
+    "date": 1795018154000,
+    "titleSl": "Prva javna ponudba delnic podjetja Anthropic bo spremenila prihodnost umetne inteligence."
+   },
+   {
     "title": "Live Updates: Trump, Xi and Putin Shake Hands as Leaders Gather in China",
     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-facebookJumbo.jpg",
     "date": 1795014327000,
     "titleSl": "Tukaj so najnovejše informacije."
-   },
-   {
-    "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
-    "link": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-    "image": "",
-    "date": 1795013943000,
-    "titleSl": "Po navedbah tožilcev je Irski državljan s sekiro in kemikalijami sabotiral ameriško vojaško letalo"
    }
   ],
   "bbc": [
@@ -550,6 +550,13 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
     "date": 1795018244000,
     "titleSl": "Trump si je pred zgodovinskimi pogovori na Kitajskem rokoval s Putinom in Šijem"
+   },
+   {
+    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+    "date": 1795017932000,
+    "titleSl": "Demokrati so za predsednika predstavniškega doma ZDA predlagali Hakeema Jeffriesa"
    },
    {
     "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
     "date": 1795007826000,
     "titleSl": "Predvidoma se bo običajen račun za električno energijo od januarja dalje zvišal za 443 GBP na leto, saj se stopnja inflacije ponovno zvišuje."
-   },
-   {
-    "title": "What's behind the recent flurry of global tech outages?",
-    "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
-    "date": 1795007813000,
-    "titleSl": "Kaj se skriva za nedavnim valom globalnih izpadov tehnoloških storitev?"
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T16:12:24.286Z",
+   "checkedAt": "2026-11-18T16:14:24.638Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-18T16:12:24.745Z",
+   "checkedAt": "2026-11-18T16:14:25.327Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-18T16:12:25.503Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-18T16:12:26.250Z",
+   "checkedAt": "2026-11-18T16:14:25.622Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-18T16:12:26.780Z",
+   "checkedAt": "2026-11-18T16:14:25.936Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-18T16:12:27.191Z",
+  "hop": {
+   "checkedAt": "2026-11-18T16:14:28.063Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-18T15:28:27.996Z",
    "success": false
   },
-  "nyt": {
-   "checkedAt": "2026-11-18T16:12:27.372Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-18T16:14:28.422Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-18T16:12:27.396Z",
+   "checkedAt": "2026-11-18T16:14:28.625Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-18T16:14:30.339Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-18T16:12:29.078Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-18T16:12:30.032Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-18T16:12:30.526Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-18T16:12:30.648Z",
+   "checkedAt": "2026-11-18T16:14:30.360Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T16:12:31.378Z",
+   "checkedAt": "2026-11-18T16:14:31.351Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T16:14:31.406Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-18T16:14:31.713Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-18T16:14:31.986Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-18T16:12:33.637Z",
+   "checkedAt": "2026-11-18T16:14:32.296Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T16:12:35.039Z",
+   "checkedAt": "2026-11-18T16:14:33.139Z",
    "success": true
   }
  },
