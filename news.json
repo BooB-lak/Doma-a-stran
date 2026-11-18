@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T02:10:39.934Z",
+ "generatedAt": "2026-11-18T02:12:28.832Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "The Papers: 'Over-25s next in line' and 'Clean for Colleen'",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2ekyd43j5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb1/live/170396f0-e2e7-11f1-a094-5fdc692f3e33.jpg",
+    "date": 1794967836000,
+    "titleSl": "Časopisi: »Osebe, starejše od 25 let, so naslednje na vrsti« in »Čisto za Colleen«"
+   },
+   {
     "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f50/live/c11d31f0-e2b5-11f1-a094-5fdc692f3e33.jpg",
     "date": 1794955875000,
     "titleSl": "»Težko je vztrajati.« Mladi, ki niso zaposleni, se ne izobražujejo in se ne usposabljajo, so za BBC spregovorili o težavah pri iskanju zaposlitve."
-   },
-   {
-    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
-    "date": 1794955590000,
-    "titleSl": "Ameriškega vojaka, ki ga je britanska policija aretirala zaradi suma vohunjenja, so vzeli v pripor ameriške vojske"
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T02:10:34.217Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-18T02:10:34.766Z",
+   "checkedAt": "2026-11-18T02:12:23.838Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-18T02:10:34.781Z",
+   "checkedAt": "2026-11-18T02:12:24.451Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-18T02:12:24.532Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-18T02:10:35.161Z",
+   "checkedAt": "2026-11-18T02:12:24.991Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-18T02:10:35.733Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-18T02:10:36.054Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-18T02:10:36.069Z",
+   "checkedAt": "2026-11-18T02:12:25.567Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-18T02:10:36.072Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-18T02:10:36.357Z",
+   "checkedAt": "2026-11-18T02:12:25.901Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-18T02:10:38.301Z",
+   "checkedAt": "2026-11-18T02:12:26.033Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-18T02:10:39.043Z",
+  "guardian": {
+   "checkedAt": "2026-11-18T02:12:26.108Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-18T02:12:26.396Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-18T02:12:27.568Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T02:10:39.140Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-18T02:10:39.465Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-18T02:10:39.647Z",
+   "checkedAt": "2026-11-18T02:12:27.968Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-18T02:10:39.711Z",
+   "checkedAt": "2026-11-18T02:12:28.184Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T02:12:28.186Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-18T02:12:28.493Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-18T02:12:28.630Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T02:10:39.933Z",
+   "checkedAt": "2026-11-18T02:12:28.831Z",
    "success": true
   }
  },
