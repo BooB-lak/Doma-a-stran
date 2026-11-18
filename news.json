@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T00:52:25.974Z",
+ "generatedAt": "2026-11-18T00:54:34.104Z",
  "sources": {
   "siol": [
    {
@@ -380,17 +380,31 @@
     "titleSl": "Brian Kelly potrjuje razgovor v Marylandu"
    },
    {
+    "title": "Tech outage wave reaches US government, Trump says all is 'fine'",
+    "link": "https://www.reuters.com/business/aerospace-defense/trump-shrugs-off-spate-us-outages-says-things-like-that-happen-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2XR4P2GRVJJJRIY4QDQKJEAD2M.jpg",
+    "date": 1794962258000,
+    "titleSl": "Val izpadov tehnoloških storitev je dosegel ameriško vlado, Trump pa pravi, da je vse »v redu«."
+   },
+   {
     "title": "Huawei says US put 'sinister spin' on business activities, failed to prove charges at trial",
     "link": "https://www.reuters.com/legal/litigation/huawei-says-us-put-sinister-spin-business-activities-failed-prove-charges-trial-2026-11-18/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YXMSOH7A5ZNJ7OXMGU4PNREUHM.jpg",
-    "date": 1794961482000,
+    "date": 1794962098000,
     "titleSl": "Huawei pravi, da so ZDA »zlonamerno prikazale« njegove poslovne dejavnosti in na sojenju niso dokazale obtožb"
+   },
+   {
+    "title": "Huang pitches Nvidia comeback, WSJ reports SEC probing the chipmaker",
+    "link": "https://www.reuters.com/business/nvidia-board-forms-committee-national-security-export-control-oversight-2026-11-17/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/T4WWFKMYFFMO7EL4CHXKH2VALI.jpg",
+    "date": 1794961895000,
+    "titleSl": "Huang napoveduje vrnitev podjetja Nvidia, WSJ poroča, da SEC preiskuje proizvajalca čipov"
    },
    {
     "title": "Waymo pauses robotaxi rides on US freeways after California ban",
     "link": "https://www.reuters.com/business/autos-transportation/waymo-pauses-robotaxi-rides-us-freeways-after-california-ban-2026-11-18/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IZRA6RMBPBKT7JR4WL46QEEWVU.jpg",
-    "date": 1794961088000,
+    "date": 1794961730000,
     "titleSl": "Waymo je po prepovedi v Kaliforniji začasno ustavil vožnje z robotaksiji na avtocestah v ZDA"
    },
    {
@@ -441,20 +455,6 @@
     "image": "",
     "date": 1794958953000,
     "titleSl": "Kingsi upajo, da se bodo izognili najslabšemu rezultatu franšize 0–7 na domačem igrišču proti Sunsom"
-   },
-   {
-    "title": "Kalshi loses bid to prevent Maryland from policing prediction market",
-    "link": "https://www.reuters.com/legal/government/kalshi-loses-bid-prevent-maryland-policing-prediction-market-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AE76HETTVJKBTO5DS6YJXLYTRM.jpg",
-    "date": 1794958167000,
-    "titleSl": "Kalshi ni uspel preprečiti, da bi Maryland nadzoroval trg napovedi"
-   },
-   {
-    "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
-    "link": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7Y25CZPFRFLA5NB55T4QZBQP64.jpg",
-    "date": 1794957825000,
-    "titleSl": "Ukrajina je poškodovala krimski cestni most in s tem zadala udarec Putinu pred srečanjem s Šijem in Trumpom"
    }
   ],
   "nyt": [
@@ -1319,68 +1319,68 @@
   ]
  },
  "sourceStatus": {
+  "24ur": {
+   "checkedAt": "2026-11-18T00:54:23.833Z",
+   "success": true
+  },
   "siol": {
-   "checkedAt": "2026-11-18T00:52:22.446Z",
+   "checkedAt": "2026-11-18T00:54:24.556Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-18T00:52:22.675Z",
+   "checkedAt": "2026-11-18T00:54:26.845Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-18T00:52:23.033Z",
+   "checkedAt": "2026-11-18T00:54:27.553Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-18T00:52:23.489Z",
-   "success": true
-  },
-  "24ur": {
-   "checkedAt": "2026-11-18T00:52:24.234Z",
+   "checkedAt": "2026-11-18T00:54:27.648Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-18T00:52:24.452Z",
+   "checkedAt": "2026-11-18T00:54:27.986Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-18T00:52:24.475Z",
+   "checkedAt": "2026-11-18T00:54:28.078Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-18T00:52:24.578Z",
+   "checkedAt": "2026-11-18T00:54:28.084Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-18T00:52:24.619Z",
+   "checkedAt": "2026-11-18T00:54:28.273Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-18T00:52:24.982Z",
+   "checkedAt": "2026-11-18T00:54:31.297Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T00:52:25.380Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-18T00:52:25.463Z",
+   "checkedAt": "2026-11-18T00:54:31.893Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-18T00:52:25.510Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-18T00:52:25.749Z",
+   "checkedAt": "2026-11-18T00:54:31.936Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-18T00:52:25.818Z",
+   "checkedAt": "2026-11-18T00:54:32.195Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-18T00:54:32.507Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-18T00:54:33.050Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T00:52:25.973Z",
+   "checkedAt": "2026-11-18T00:54:34.103Z",
    "success": true
   }
  },
