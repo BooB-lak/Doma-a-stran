@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T00:34:27.787Z",
+ "generatedAt": "2026-11-18T00:36:30.524Z",
  "sources": {
   "siol": [
    {
@@ -373,6 +373,20 @@
   ],
   "reuters": [
    {
+    "title": "Huawei says US put 'sinister spin' on business activities, failed to prove charges at trial",
+    "link": "https://www.reuters.com/legal/litigation/huawei-says-us-put-sinister-spin-business-activities-failed-prove-charges-trial-2026-11-18/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YXMSOH7A5ZNJ7OXMGU4PNREUHM.jpg",
+    "date": 1794961482000,
+    "titleSl": "Huawei pravi, da so ZDA »zlonamerno prikazale« njegove poslovne dejavnosti in na sojenju niso dokazale obtožb"
+   },
+   {
+    "title": "Waymo pauses robotaxi rides on US freeways after California ban",
+    "link": "https://www.reuters.com/business/autos-transportation/waymo-pauses-robotaxi-rides-us-freeways-after-california-ban-2026-11-18/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IZRA6RMBPBKT7JR4WL46QEEWVU.jpg",
+    "date": 1794961088000,
+    "titleSl": "Waymo je po prepovedi v Kaliforniji začasno ustavil vožnje z robotaksiji na avtocestah v ZDA"
+   },
+   {
     "title": "UK pay settlements edge up to 3.2%, Brightmine says",
     "link": "https://www.reuters.com/world/uk/uk-pay-settlements-edge-up-32-brightmine-says-2026-11-18/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/26EHR4WRARLRPEDNETLP52XL4E.jpg",
@@ -441,20 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/E5JGAB3X5ZLKVIRVC6PGMUOPQ4.jpg",
     "date": 1794957711000,
     "titleSl": "Klaremsonski uporniški Dabo: »Trener Swinney bo osvojil še eno državno prvenstvo.«"
-   },
-   {
-    "title": "New York bill would punish judges who misuse AI",
-    "link": "https://www.reuters.com/legal/government/new-york-bill-would-punish-judges-who-misuse-ai-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/A7BQGZVFUZOQFNT5SO62NZSQOQ.jpg",
-    "date": 1794957662000,
-    "titleSl": "Zakon v New Yorku bi kaznoval sodnike, ki zlorabljajo umetno inteligenco"
-   },
-   {
-    "title": "German minister rejects US criticism of Kyiv's deep strikes as 'stupid'",
-    "link": "https://www.reuters.com/world/europe/german-minister-rejects-us-criticism-kyivs-deep-strikes-stupid-2026-11-17/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JSKYL4JRDRK53KXTHX2XAMIVIA.jpg",
-    "date": 1794957651000,
-    "titleSl": "Nemški minister je kritike ZDA glede globokih napadov Kijeva označil za »neumne«"
    }
   ],
   "nyt": [
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Donald Trump: Technikprobleme in Serie – Kritik in eigenen Reihen wächst",
+    "link": "https://www.spiegel.de/ausland/donald-trump-technikprobleme-in-serie-kritik-in-eigenen-reihen-waechst-a-ac69b24a-5440-4007-a586-c375f20b6b68#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/e4354bce-e7fe-44ca-a403-9e77fa5e7499_w520_r2.08_fpx50_fpy48.99.jpg",
+    "date": 1794961920000,
+    "titleSl": "Donald Trump: Tehnične težave se vrstijo – narašča kritika v lastnih vrstah"
+   },
+   {
     "title": "Wayne Rooney über psychischen Tiefpunkt: Düstere Jahre bei Manchester United",
     "link": "https://www.spiegel.de/panorama/leute/wayne-rooney-ueber-psychischen-tiefpunkt-duestere-jahre-bei-manchester-united-a-d78ab554-962d-47fc-bc65-d4de2542784b#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/86bda2a1-00b1-41b5-96b1-64bf5d42890a_w520_r2.08_fpx62_fpy50.jpg",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/c299f7e4-daf0-478d-bc81-d8cc06adbd31_w520_r2.08_fpx46.41_fpy50.jpg",
     "date": 1794940860000,
     "titleSl": "Vsakdanje uganke: Zakaj imajo kopenske živali vedno sodo število nog?"
-   },
-   {
-    "title": "Ruanda-Deal: Dieser Mann kann kein Partner sein – Meinung",
-    "link": "https://www.spiegel.de/ausland/ruanda-deal-dieser-mann-kann-kein-partner-sein-meinung-a-d9d38003-6d8b-4488-ac12-5d5ea4dbee87#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/0012ce32-f2de-4079-bd86-653aaf923595_w520_r2.08_fpx69.98_fpy50.98.jpg",
-    "date": 1794940800000,
-    "titleSl": "Sporazum z Ruando: Ta človek ne more biti partner – Mnenje"
    }
   ],
   "bild": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-18T00:34:21.955Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-18T00:34:22.590Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-18T00:34:22.840Z",
+   "checkedAt": "2026-11-18T00:36:22.720Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-18T00:34:22.918Z",
+   "checkedAt": "2026-11-18T00:36:23.357Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-18T00:36:23.652Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-18T00:36:23.852Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-18T00:34:23.196Z",
+   "checkedAt": "2026-11-18T00:36:24.220Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-18T00:34:23.624Z",
+   "checkedAt": "2026-11-18T00:36:24.549Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-18T00:34:23.728Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-18T00:34:23.774Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-18T00:34:23.996Z",
+   "checkedAt": "2026-11-18T00:36:24.638Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-18T00:34:26.850Z",
+   "checkedAt": "2026-11-18T00:36:24.714Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-18T00:34:27.121Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-18T00:36:24.847Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-18T00:34:27.274Z",
+  "reuters": {
+   "checkedAt": "2026-11-18T00:36:28.404Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-18T00:34:27.297Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-18T00:34:27.648Z",
+   "checkedAt": "2026-11-18T00:36:28.900Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-18T00:34:27.685Z",
+   "checkedAt": "2026-11-18T00:36:29.474Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-18T00:36:29.505Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-18T00:36:29.588Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-18T00:36:30.293Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-18T00:34:27.786Z",
+   "checkedAt": "2026-11-18T00:36:30.524Z",
    "success": true
   }
  },
