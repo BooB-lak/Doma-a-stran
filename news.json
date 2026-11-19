@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T02:08:25.248Z",
+ "generatedAt": "2026-11-19T02:10:44.890Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,20 @@
   ],
   "nyt": [
    {
+    "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
+    "date": 1795054016000,
+    "titleSl": "Mesto v Massachusettsu se upira Amazonovim dostavnim dronom"
+   },
+   {
+    "title": "Takeaways From the 2026 DealBook Summit",
+    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
+    "date": 1795053948000,
+    "titleSl": "Ključne ugotovitve z vrha DealBook 2026"
+   },
+   {
     "title": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
     "link": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
     "image": "",
@@ -527,20 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-obama-dems-01-wqbm/18pol-obama-dems-01-wqbm-mediumSquareAt3X.jpg",
     "date": 1795050637000,
     "titleSl": "Obama prihodnjim demokratskim članom predstavniškega doma svetuje, naj še naprej delujejo na območjih, ki so naklonjena republikancem"
-   },
-   {
-    "title": "Takeaways From the 2026 DealBook Summit",
-    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
-    "date": 1795050304000,
-    "titleSl": "Ključne ugotovitve z vrha DealBook 2026"
-   },
-   {
-    "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
-    "date": 1795049865000,
-    "titleSl": "Trump, Xi in Putin si segajo v roke, ko se voditelji zbirajo na Kitajskem"
    }
   ],
   "bbc": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T02:08:21.438Z",
+   "checkedAt": "2026-11-19T02:10:40.020Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-19T02:08:22.075Z",
+   "checkedAt": "2026-11-19T02:10:40.661Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-19T02:08:22.447Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-19T02:08:22.701Z",
+   "checkedAt": "2026-11-19T02:10:40.961Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T02:08:23.010Z",
+   "checkedAt": "2026-11-19T02:10:40.986Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-19T02:10:41.222Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-19T02:08:23.332Z",
+   "checkedAt": "2026-11-19T02:10:41.723Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-19T02:08:23.377Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-19T02:08:23.461Z",
+   "checkedAt": "2026-11-19T02:10:41.755Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-19T02:08:23.519Z",
+   "checkedAt": "2026-11-19T02:10:41.766Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-19T02:08:23.801Z",
+   "checkedAt": "2026-11-19T02:10:41.956Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-19T02:08:24.101Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-19T02:08:24.313Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-19T02:08:24.688Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-19T02:08:24.768Z",
+  "nyt": {
+   "checkedAt": "2026-11-19T02:10:43.538Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-19T02:08:25.069Z",
+   "checkedAt": "2026-11-19T02:10:43.986Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-19T02:10:44.170Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-19T02:10:44.342Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-19T02:10:44.598Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-19T02:10:44.609Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T02:08:25.247Z",
+   "checkedAt": "2026-11-19T02:10:44.889Z",
    "success": true
   }
  },
