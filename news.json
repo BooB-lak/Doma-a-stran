@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T05:52:26.767Z",
+ "generatedAt": "2026-11-19T05:54:32.180Z",
  "sources": {
   "siol": [
    {
@@ -459,18 +459,25 @@
   ],
   "nyt": [
    {
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+    "image": "",
+    "date": 1795067552000,
+    "titleSl": "Tukaj so najnovejše informacije."
+   },
+   {
+    "title": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food",
+    "link": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg",
+    "date": 1795067497000,
+    "titleSl": "Neizpostavljeni pripadniki plemena Awá iz Brazilije so prišli iz deževnega gozda v iskanju hrane"
+   },
+   {
     "title": "Undoing Brexit",
     "link": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-theworld-britain-eu-01-bwzt-promo/19int-theworld-britain-eu-01-bwzt-promo-mediumSquareAt3X.jpg",
     "date": 1795067285000,
     "titleSl": "Razveljavitev brexita"
-   },
-   {
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
-    "image": "",
-    "date": 1795066925000,
-    "titleSl": "Tukaj so najnovejše informacije."
    },
    {
     "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-canada-carney-wrap-mjhp/18int-canada-carney-wrap-mjhp-mediumSquareAt3X.jpg",
     "date": 1795060737000,
     "titleSl": "Carney in Trump sta na azijskem vrhu imela nenačrtovano srečanje o trgovini"
-   },
-   {
-    "title": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
-    "link": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-GTAFlu-wqvt/18xp-GTAFlu-wqvt-mediumSquareAt3X.jpg",
-    "date": 1795060470000,
-    "titleSl": "»Gripa GTA« povzroča, da se šole in delovna mesta pripravljajo na bolniške dni"
    }
   ],
   "bbc": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T05:52:21.593Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-19T05:52:22.426Z",
+   "checkedAt": "2026-11-19T05:54:22.589Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T05:52:22.583Z",
+   "checkedAt": "2026-11-19T05:54:23.671Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-19T05:54:23.824Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-19T05:52:22.692Z",
+   "checkedAt": "2026-11-19T05:54:23.835Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-19T05:52:23.239Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-19T05:52:23.592Z",
+   "checkedAt": "2026-11-19T05:54:24.830Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-19T05:52:23.642Z",
+   "checkedAt": "2026-11-19T05:54:25.194Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-19T05:54:25.228Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-19T05:52:23.768Z",
+   "checkedAt": "2026-11-19T05:54:25.510Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-19T05:52:23.937Z",
+   "checkedAt": "2026-11-19T05:54:25.513Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-19T05:52:25.475Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-19T05:52:26.016Z",
+   "checkedAt": "2026-11-19T05:54:27.506Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-19T05:52:26.039Z",
+   "checkedAt": "2026-11-19T05:54:28.230Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-19T05:52:26.165Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-19T05:52:26.436Z",
+   "checkedAt": "2026-11-19T05:54:28.481Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-19T05:52:26.532Z",
+   "checkedAt": "2026-11-19T05:54:28.917Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-19T05:54:28.937Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-19T05:54:29.234Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T05:52:26.766Z",
+   "checkedAt": "2026-11-19T05:54:32.179Z",
    "success": true
   }
  },
