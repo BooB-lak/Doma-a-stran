@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T03:14:29.769Z",
+ "generatedAt": "2026-11-19T03:16:31.456Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,19 @@
   ],
   "nyt": [
    {
+    "title": "At Gloria Steinem Memorial, Michelle Obama, Hillary Clinton and More Big Names Gather",
+    "link": "https://www.nytimes.com/2026/11/18/style/gloria-steinem-memorial-photos.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18ST-STEINEM-SCENE-top-kzhj/18ST-STEINEM-SCENE-top-kzhj-mediumSquareAt3X.jpg",
+    "date": 1795058003000
+   },
+   {
+    "title": "Takeaways From the 2026 DealBook Summit",
+    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
+    "date": 1795057963000,
+    "titleSl": "Ključne ugotovitve z vrha DealBook 2026"
+   },
+   {
     "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
@@ -522,25 +535,11 @@
     "titleSl": "Mesto v Massachusettsu se upira Amazonovim dostavnim dronom"
    },
    {
-    "title": "Takeaways From the 2026 DealBook Summit",
-    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
-    "date": 1795053948000,
-    "titleSl": "Ključne ugotovitve z vrha DealBook 2026"
-   },
-   {
     "title": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
     "link": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
     "image": "",
     "date": 1795053757000,
     "titleSl": "Nevihta je prinesla močno deževje in poplave v območje zaliva San Francisco"
-   },
-   {
-    "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
-    "link": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-democrat-1-fvck/19nat-TX-democrat-1-fvck-mediumSquareAt3X.jpg",
-    "date": 1795053598000,
-    "titleSl": "Zmaga Ericke Lomick v teksaškem predstavniškem domu se sooča z izpodbijanjem na vrhovnem sodišču zvezne države"
    }
   ],
   "bbc": [
@@ -717,25 +716,30 @@
   ],
   "guardian": [
    {
+    "title": "Apec summit live: Xi, Trump and Putin set to hold historic trilateral in China",
+    "link": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
+    "image": "https://i.guim.co.uk/img/media/29425dc9f4b1dc8945a6662e407e2cb220eb479d/0_0_5000_4000/master/5000.png?width=700&quality=85&auto=format&fit=max&s=efb7ce16cb686d12ec148bbaa7c990ad",
+    "date": 1795058048000,
+    "titleSl": "Vrh APEC v živo: Xi, Trump in Putin bodo na Kitajskem imeli zgodovinsko tristransko srečanje"
+   },
+   {
+    "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=700&quality=85&auto=format&fit=max&s=ba20d55057ae66a6c50b0dd1aafff4a8",
+    "date": 1795057912000
+   },
+   {
+    "title": "Beau Lamarre-Condon’s ‘wounded pride’ after break-up with Jesse Baird led to ‘darker plan for revenge’, crown alleges",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/0531a2e953231af47512ada3cda5ebb111031ea5/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=5858bcce237619b843835ad1ba8d945d",
+    "date": 1795057820000
+   },
+   {
     "title": "‘I’ll take the rap for that’: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears",
     "link": "https://www.theguardian.com/australia-news/2026/nov/19/cfmeu-big-build-inquiry-labour-hire-fake-invoices-sports-clubs-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/f7292a5967b684151163c76cd8ca8bc81eb97af3/224_0_2236_1789/master/2236.jpg?width=700&quality=85&auto=format&fit=max&s=28df6d65fe6d6cc60444e732592010c8",
     "date": 1795057300000,
     "titleSl": "»Jaz bom prevzel krivdo za to«: Kraljeva komisija za preiskavo projekta Big Build je izvedela, da je direktor podjetja za zaposlovanje zahteval lažne račune za sponzorstva športnih klubov"
-   },
-   {
-    "title": "Apec summit live: Xi, Trump and Putin set to hold historic trilateral in China",
-    "link": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
-    "image": "https://i.guim.co.uk/img/media/29425dc9f4b1dc8945a6662e407e2cb220eb479d/0_0_5000_4000/master/5000.png?width=700&quality=85&auto=format&fit=max&s=efb7ce16cb686d12ec148bbaa7c990ad",
-    "date": 1795056733000,
-    "titleSl": "Vrh APEC v živo: Xi, Trump in Putin bodo na Kitajskem imeli zgodovinsko tristransko srečanje"
-   },
-   {
-    "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=700&quality=85&auto=format&fit=max&s=ba20d55057ae66a6c50b0dd1aafff4a8",
-    "date": 1795056460000,
-    "titleSl": "Trump v izjavah pred vrhom na Kitajskem zmanjšuje pomen izpadov v ZDA in varnostnih pomislekov glede podjetja Nvidia – v živo"
    },
    {
     "title": "One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
@@ -785,13 +789,6 @@
     "image": "https://i.guim.co.uk/img/media/f9f5212fc0956900ba97c6edec783a649f9bb14b/630_0_6300_5042/master/6300.jpg?width=700&quality=85&auto=format&fit=max&s=c6f70b6391e6ac91d1b4e8cc81465e62",
     "date": 1795050214000,
     "titleSl": "Rekordno deževje je zajelo kalifornijsko območje zaliva, ko je prispela »atmosferska reka«"
-   },
-   {
-    "title": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
-    "image": "https://i.guim.co.uk/img/media/0531a2e953231af47512ada3cda5ebb111031ea5/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=5858bcce237619b843835ad1ba8d945d",
-    "date": 1795050025000,
-    "titleSl": "Tožilstvo trdi, da je pričanje Beauja Lamarreja-Condona o smrti Jesseja Bairda in Luka Daviesa »izjemno domišljijsko«."
    },
    {
     "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
@@ -889,6 +886,12 @@
   ],
   "bild": [
    {
+    "title": "Vom 16.11. bis 22.11.2026 - Das Wochenhoroskop für Steinbock",
+    "link": "https://www.bild.de/leben-wissen/horoskop/horoskop-steinbock-vom-16-11-22-11-2026-ein-aha-moment-veraendert-alles-6af4404be22aeb948141f998",
+    "image": "https://images.bild.de/6af4404be22aeb948141f998/afea15d974b82a82008f16efcac5d3bf,69dcd70e?w=1280",
+    "date": 1795057985000
+   },
+   {
     "title": "Vom 16.11. bis 22.11.2026 - Das Wochenhoroskop für Schütze",
     "link": "https://www.bild.de/leben-wissen/horoskop/horoskop-schuetze-vom-16-11-22-11-2026-das-glueck-nimmt-fahrt-auf-6af4404ac45061d752ba6093",
     "image": "https://images.bild.de/6af4404ac45061d752ba6093/9cf0c42b682131735f26add41624aa4d,7eca5022?w=1280",
@@ -964,13 +967,6 @@
     "image": "https://images.bild.de/6afe33994d1895cf2a8f0623/17d1d74491275f4ce4b2b91ebd1c467e,e3b63ea3?w=1280",
     "date": 1795051529000,
     "titleSl": "Nov udarec Putinovemu mostu – Ukrajina napade železniški promet na Krim"
-   },
-   {
-    "title": "Aktie teurer als geplant - KI-Riese Anthropic legt Rekord-Börsengang hin",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/anthropic-83-dollar-je-aktie-bis-zu-1-4-billionen-wert-6afe207da0547afb26e79475",
-    "image": "https://images.bild.de/6afe207da0547afb26e79475/adfc3759ceecf73386bcd55fd9c9c57d,1f89a394?w=1280",
-    "date": 1795051505000,
-    "titleSl": "Delnica dražja od načrtovane – velikan umetne inteligence Anthropic je izvedel rekordno prvo javno ponudbo delnic"
    }
   ],
   "krone": [
@@ -1320,67 +1316,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T03:14:22.807Z",
+   "checkedAt": "2026-11-19T03:16:27.286Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-19T03:14:23.853Z",
+   "checkedAt": "2026-11-19T03:16:27.905Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-19T03:14:23.891Z",
+   "checkedAt": "2026-11-19T03:16:27.907Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T03:14:23.952Z",
+   "checkedAt": "2026-11-19T03:16:27.943Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-19T03:14:24.719Z",
+   "checkedAt": "2026-11-19T03:16:28.803Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-19T03:14:25.225Z",
+   "checkedAt": "2026-11-19T03:16:28.875Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-19T03:14:25.232Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-19T03:14:25.423Z",
+   "checkedAt": "2026-11-19T03:16:28.906Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-19T03:14:25.477Z",
+   "checkedAt": "2026-11-19T03:16:29.609Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-19T03:16:29.788Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-19T03:14:27.435Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-19T03:14:28.268Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-19T03:14:28.440Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-19T03:14:28.656Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-19T03:14:28.716Z",
+   "checkedAt": "2026-11-19T03:16:30.300Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-19T03:14:29.595Z",
+   "checkedAt": "2026-11-19T03:16:30.576Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-19T03:16:30.660Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-19T03:16:30.727Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-19T03:16:31.036Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-19T03:16:31.385Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T03:14:29.768Z",
+   "checkedAt": "2026-11-19T03:16:31.455Z",
    "success": true
   }
  },
