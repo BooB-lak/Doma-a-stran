@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-19T10:46:35.181Z",
+ "generatedAt": "2026-11-19T10:48:34.207Z",
  "sources": {
   "siol": [
+   {
+    "title": "Putinova zvijača: kje je njegov jedrski kovček?",
+    "link": "https://siol.net/novice/svet/putinova-zvijaca-kje-je-njegov-jedrski-kovcek-706685",
+    "image": "https://siol.net/media/img/cc/d1/d9569c5f6bc18eb3bf38.jpeg",
+    "date": 1795085220000
+   },
    {
     "title": "Inšpektorji s kmetije na Zatrniku odvzeli 14 glav goveda",
     "link": "https://siol.net/novice/slovenija/inspektorji-s-kmetije-na-zatrniku-odvzeli-14-govedi-706683",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/svet/na-fidziju-zaradi-suse-razglasili-izredne-razmere-706674",
     "image": "https://siol.net/media/img/59/89/81243db8b499a46f72b7.jpeg",
     "date": 1795078620000
-   },
-   {
-    "title": "To je sestra Anne iz MasterChefa, nastopila je na Ljubljanskem tednu mode",
-    "link": "https://siol.net/trendi/zvezde-in-slavni/to-je-sestra-anne-iz-masterchefa-nastopila-je-na-ljubljanskem-tednu-mode-706670",
-    "image": "https://siol.net/media/img/40/e5/ee8ad71f6fa7f443f5f0.jpeg",
-    "date": 1795076160000
    }
   ],
   "24ur": [
@@ -373,6 +373,20 @@
   ],
   "reuters": [
    {
+    "title": "Italy antitrust closes Vorwerk probe after consumer compensation deal",
+    "link": "https://www.reuters.com/business/finance/italy-antitrust-closes-vorwerk-probe-after-consumer-compensation-deal-2026-11-19/",
+    "image": "",
+    "date": 1795085006000,
+    "titleSl": "Italijanski protimonopolni organ je zaključil preiskavo družbe Vorwerk po sklenitvi sporazuma o odškodnini potrošnikom"
+   },
+   {
+    "title": "Brazil's corn ethanol boom accelerating growth of feedlot beef",
+    "link": "https://www.reuters.com/world/americas/brazils-corn-ethanol-boom-accelerating-growth-feedlot-beef-2026-11-19/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AARSTLCHZ5LMBOEONWZ7TOCZ4Q.jpg",
+    "date": 1795084287000,
+    "titleSl": "Razcvet proizvodnje etanola iz koruze v Braziliji pospešuje rast govedoreje v hlevski reji"
+   },
+   {
     "title": "Healthy again, Kompany wants to shift focus back to football normality",
     "link": "https://www.reuters.com/sports/soccer/healthy-again-kompany-wants-shift-focus-back-football-normality-2026-11-19/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/A6VM6C5FI5NVXJTNKLDIHK3XDY.jpg",
@@ -441,20 +455,6 @@
     "image": "",
     "date": 1795082951000,
     "titleSl": "Poročilo iz Združenega kraljestva ugotavlja, da posadka jahte Lynch ni bila seznanjena s tveganjem zaradi vetra pred usodno potopitvijo"
-   },
-   {
-    "title": "Senegal president implements 2026 budget changes by decree amid impasse with parliament",
-    "link": "https://www.reuters.com/world/africa/senegal-president-implements-2026-budget-changes-by-decree-amid-impasse-with-2026-11-19/",
-    "image": "",
-    "date": 1795082761000,
-    "titleSl": "Senegalski predsednik je s sklepom uvedel spremembe proračuna za leto 2026 zaradi zastoja v parlamentu"
-   },
-   {
-    "title": "Pochettino thrown in at the deep end as United reign begins at Anfield",
-    "link": "https://www.reuters.com/sports/soccer/pochettino-thrown-deep-end-united-reign-begins-anfield-2026-11-19/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5X47Q6DNJVJJ5FJ5W2VRFX7OR4.jpg",
-    "date": 1795082662000,
-    "titleSl": "Pochettino je bil vržen v globoko vodo, saj se je na Anfieldu začela vladavina Uniteda"
    }
   ],
   "nyt": [
@@ -548,7 +548,7 @@
     "title": "Anthropic raises $81bn in record-breaking stock market debut",
     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-    "date": 1795083136000,
+    "date": 1795085284000,
     "titleSl": "Anthropic je ob rekordnem prvem nastopu na borzi zbral 81 milijard USD"
    },
    {
@@ -631,11 +631,11 @@
   ],
   "aljazeera": [
    {
-    "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+    "title": "UN top court finds Myanmar killed 10,000 Rohingya as it rules on ‘genocide’",
     "link": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afeb834e9ff6-1795078196.jpg?resize=1920%2C1440",
     "date": 1795084296000,
-    "titleSl": "Najvišje sodišče ZN je Mjanmar obsodilo zaradi »namere po genocidu« nad pripadniki ljudstva Rohingya"
+    "titleSl": "Najvišje sodišče ZN je ugotovilo, da je Mjanmar pobil 10.000 pripadnikov ljudstva Rohingya, in razsodilo o »genocidu«"
    },
    {
     "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
@@ -803,18 +803,18 @@
   ],
   "spiegel": [
    {
-    "title": "Apec-Gipfel in Shenzhen, China: Xi Jingping warnt im Gespräch mit Donald Trump und Wladimir Putin vor Atomkrieg",
-    "link": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/25d8e017-28a3-419a-a89e-8156853160da_w520_r2.08_fpx53_fpy49.jpg",
-    "date": 1795084980000,
-    "titleSl": "Vrh APEC v Shenzhenu na Kitajskem: Xi Jinping v pogovoru z Donaldom Trumpom in Vladimirjem Putinom opozarja pred jedrsko vojno"
-   },
-   {
     "title": "James Bond: Wo Robert Pattinson als 007 glänzt – und wo er fehlen wird",
     "link": "https://www.spiegel.de/kultur/kino/james-bond-wo-robert-pattinson-als-007-glaenzt-und-wo-er-fehlen-wird-a-a72a2b55-3fab-4abc-a6c4-0f14b94920d7#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/01f6b874-c9e7-439a-a4f3-6636a0b37bda_w520_r2.08_fpx64.63_fpy44.98.jpg",
     "date": 1795084980000,
     "titleSl": "James Bond: Kje bo Robert Pattinson zasijal kot agent 007 – in kje ga bo pogrešal"
+   },
+   {
+    "title": "Apec-Gipfel in Shenzhen, China: Xi Jingping warnt im Gespräch mit Donald Trump und Wladimir Putin vor Atomkrieg",
+    "link": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/25d8e017-28a3-419a-a89e-8156853160da_w520_r2.08_fpx53_fpy49.jpg",
+    "date": 1795084980000,
+    "titleSl": "Vrh APEC v Shenzhenu na Kitajskem: Xi Jinping v pogovoru z Donaldom Trumpom in Vladimirjem Putinom opozarja pred jedrsko vojno"
    },
    {
     "title": "Ukraine-Krieg: Terror durch Russlands kleine Marschflugkörper Geran-5 K5-K",
@@ -1061,6 +1061,13 @@
   ],
   "rainews": [
    {
+    "title": "ATP Finals, Cobolli perde 6-7, 0-6 contro Tiafoe ed è fuori. Alcaraz in semifinale",
+    "link": "https://www.rainews.it/maratona/2026/11/tennis-atp-finals-2026-torino-zverev-alcaraz-shelton-medvedev-cobolli-fils-tiafoe-jodar-35dcb6f1-811a-4d67-a256-a0994a5e7216.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/18/1795035304326_DWUXM.jpg",
+    "date": 1795085160000,
+    "titleSl": "Finale ATP, Cobolli izgubi s 6–7, 0–6 proti Tiafoeu in izpade. Alcaraz v polfinalu"
+   },
+   {
     "title": "Sapori e colori del 19/11/2026",
     "link": "https://www.rainews.it/rubriche/saporiecolori/video/2026/11/Sapori-e-colori-del-19112026-7f11b147-cc35-499d-8624-9e590c129363.html",
     "image": "https://www.rainews.it/dl/img/2026/11/5244_saporiecolori_ONLINE_19112026_1100.jpeg",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2024/10/17/1729162973451_aeaebabaafacca.jpeg",
     "date": 1795081260000,
     "titleSl": "Revija Variety in 100 največjih filmskih zvezd vseh časov: zmagala je Marilyn, na seznamu sta tudi Mastroianni in Loren"
-   },
-   {
-    "title": "Trilaterale Shenzhen, Trump: \"Stiamo facendo la storia in molti sensi\"",
-    "link": "https://www.rainews.it/video/2026/11/trilaterale-shenzhen-trump-stiamo-facendo-la-storia-in-molti-sensi-video-0caebb6c-89df-4062-9875-5b325b7fe19f.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/19/1795077623752_RAN_..frame.jpeg",
-    "date": 1795079700000,
-    "titleSl": "Trilateralno srečanje v Shenzhenu, Trump: »V mnogih pogledih ustvarjamo zgodovino.«"
    }
   ],
   "lemonde": [
@@ -1233,6 +1233,13 @@
   ],
   "elpais": [
    {
+    "title": "La aspiradora sin cable con un precio mínimo histórico por los suelos con su descuento de Black Friday",
+    "link": "https://elpais.com/escaparate/ofertas-y-descuentos/semana-black-friday-2026-aspiradora-sin-cable.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/OAQG5F76BNFQZKD62IN2VJCW6M.png?auth=34b2918b96364f2d9227e31819361ff74d0091d32df27721896feaa8594483f9",
+    "date": 1795085233000,
+    "titleSl": "Brezžični sesalnik po najnižji ceni doslej, ki je zaradi popusta ob črnem petku padla na tla"
+   },
+   {
     "title": "El Parlamento de Dinamarca ratifica por unanimidad el acuerdo con Estados Unidos por Groenlandia",
     "link": "https://elpais.com/internacional/2026-11-19/el-parlamento-de-dinamarca-ratifica-por-unanimidad-el-acuerdo-con-estados-unidos-por-groenlandia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/GYBKKFH5XZN6HCSCEUISZNNNYU.jpg?auth=55393bd86442bae4e13951485e8b35e8604b6258a924474c8b98c6d0ad14d47b",
@@ -1259,13 +1266,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/XKC722ZDURCRRPR6F23OS2QEUU.jpg?auth=94114cd015dbbce4a623e44fdc335cdb70158d24a1bb3b34a352926d5ccbc953",
     "date": 1795084447000,
     "titleSl": "Mednarodno sodišče je ugotovilo, da je mjanmarska vojska pobila na tisoče pripadnikov ljudstva Rohinga in nad njimi izvajala »skrajno nasilje«."
-   },
-   {
-    "title": "La aspiradora sin cable con un precio mínimo histórico por los suelos con su descuento de Black Friday",
-    "link": "https://elpais.com/escaparate/ofertas-y-descuentos/semana-black-friday-2026-aspiradora-sin-cable.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/OAQG5F76BNFQZKD62IN2VJCW6M.png?auth=34b2918b96364f2d9227e31819361ff74d0091d32df27721896feaa8594483f9",
-    "date": 1795084188000,
-    "titleSl": "Brezžični sesalnik po najnižji ceni doslej, ki je zaradi popusta ob črnem petku padla na tla"
    },
    {
     "title": "El escritor español Vicente Luis Mora gana el National Book Award, el premio más prestigioso de las letras en EE UU",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T10:46:22.326Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-19T10:46:23.133Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-19T10:46:23.183Z",
+   "checkedAt": "2026-11-19T10:48:23.892Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-19T10:46:23.404Z",
+   "checkedAt": "2026-11-19T10:48:24.636Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-19T10:48:24.784Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-19T10:48:25.190Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-19T10:46:23.863Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-19T10:46:24.212Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-19T10:46:24.271Z",
+   "checkedAt": "2026-11-19T10:48:26.010Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-19T10:46:24.299Z",
+   "checkedAt": "2026-11-19T10:48:26.282Z",
    "success": true
   },
-  "reuters": {
-   "checkedAt": "2026-11-19T10:46:24.539Z",
+  "guardian": {
+   "checkedAt": "2026-11-19T10:48:26.408Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-19T10:46:26.595Z",
+   "checkedAt": "2026-11-19T10:48:26.491Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-19T10:46:27.602Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-19T10:48:28.603Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-19T10:48:30.471Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-19T10:46:28.873Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-19T10:46:29.175Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-19T10:46:29.753Z",
+   "checkedAt": "2026-11-19T10:48:30.988Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-19T10:46:32.202Z",
+   "checkedAt": "2026-11-19T10:48:31.276Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-19T10:48:31.436Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-19T10:48:32.043Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-19T10:48:32.851Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T10:46:35.181Z",
+   "checkedAt": "2026-11-19T10:48:34.206Z",
    "success": true
   }
  },
