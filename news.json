@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:36:42.824Z",
+ "generatedAt": "2026-11-19T13:38:34.868Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/svet/to-je-trump-storil-putinu-706672",
     "image": "https://siol.net/media/img/32/21/bcbe270bc1f9ec21142c.jpeg",
     "date": 1795095180000
+   },
+   {
+    "title": "Asta Vrečko se že poslavlja od Zorana Stevanovića: Ladja se potaplja",
+    "link": "https://siol.net/novice/slovenija/asta-vrecko-se-ze-poslavlja-od-zorana-stevanovica-ladja-se-potaplja-706710",
+    "image": "https://siol.net/media/img/7c/c8/4f1de08bc74a5fe71bac.jpeg",
+    "date": 1795094640000
    },
    {
     "title": "Začelo se je sojenje za umor dveletne deklice Danke",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/kolesarstvo/jan-tratnik-poskrbel-za-veselje-mladih-kolesarjev-v-idriji-706700",
     "image": "https://siol.net/media/img/47/db/d5dfba27dd8ae8c544af.jpeg",
     "date": 1795090800000
-   },
-   {
-    "title": "Zakaj čakanje na nižjo ceno energije ni strategija?",
-    "link": "https://siol.net/novice/slovenija/zakaj-cakanje-na-nizjo-ceno-energije-ni-strategija-706384",
-    "image": "https://siol.net/media/img/59/38/a4f4077c1d03d4630658.jpeg",
-    "date": 1795090020000
    }
   ],
   "24ur": [
@@ -889,6 +889,20 @@
   ],
   "bild": [
    {
+    "title": "Hannover-Trainer zockte was anderes - GTA-6-Geständnis von Wagner",
+    "link": "https://www.bild.de/sport/fussball/gta-6-gestaendnis-von-trainer-sandro-wagner-zum-neuen-spiel-6afec032a3767a11a0be9dd8",
+    "image": "https://images.bild.de/6afec032a3767a11a0be9dd8/3313d8f53bc6e1b20cef41a9cd46caa4,720caf24?w=1280",
+    "date": 1795095368000,
+    "titleSl": "Trener Hannovra je igral nekaj drugega – Wagnerjevo priznanje glede igre GTA 6"
+   },
+   {
+    "title": "Es geht um 519 Mio. Schweizer Franken - Gläubiger jagen Ex-Hertha-Investor Windhorst",
+    "link": "https://www.bild.de/sport/fussball/hertha-bsc-lars-windhorst-gericht-ordnet-pfaendung-an-6afee2b94d1895cf2a8f130d",
+    "image": "https://images.bild.de/6afee2b94d1895cf2a8f130d/132892af9287acf2c48f0fc67f7568ce,a940a160?w=1280",
+    "date": 1795095188000,
+    "titleSl": "Gre za 519 milijonov Švicarskih frankov – Upniki lovijo nekdanjega vlagatelja v Hertho Windhorsta"
+   },
+   {
     "title": "Poker-Skandal in Kalifornien - Casino schmeißt zwei Spielerinnen raus",
     "link": "https://www.bild.de/sport/mehr-sport/poker-skandal-in-kalifornien-casino-schmeisst-zwei-poker-spielerinnen-raus-6afec676a3767a11a0be9eea",
     "image": "https://images.bild.de/6afec676a3767a11a0be9eea/b4a996a97ad79f6f5a58ad39220617e5,a0b0b1db?w=1280",
@@ -957,20 +971,6 @@
     "image": "https://images.bild.de/6afeeeb9ee91e990acae6b20/c817477e7605843b6bc2d9aa7ee78675,c699a83e?w=1280",
     "date": 1795094746000,
     "titleSl": "Požar ob trčenju med vzletom – letalo je strmoglavilo na avtocesto, šest potnikov je preživelo"
-   },
-   {
-    "title": "Schauspieler und Multitalent im Steckbrief - Was „Tatort“-Star Jan Josef Liefers alles kann",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/jan-josef-liefers-im-steckbrief-was-kann-der-tatort-star-nicht-62a31ed09471d247b32ab6e2",
-    "image": "https://images.bild.de/62a31ed09471d247b32ab6e2/1354c11345a155c5b363df2c56c287c8,34808b4d?w=1280",
-    "date": 1795094738000,
-    "titleSl": "Igralec in vsestranski talent v profilu – Kaj vse zmore zvezdnik serije »Tatort« Jan Josef Liefers"
-   },
-   {
-    "title": "Souverän im Viertelfinale - Trainer erklärt die zwei Gesichter der Eisbären",
-    "link": "https://www.bild.de/sport/mehr-sport/eisbaeren-berlin-dubois-erklaert-die-zwei-gesichter-nach-9-2-gala-6afed682c1e8003ef73c421f",
-    "image": "https://images.bild.de/6afed682c1e8003ef73c421f/8e972eac286e2b75b1108084dfc76186,c7015823?w=1280",
-    "date": 1795094637000,
-    "titleSl": "Suvereni v četrtfinalu – trener pojasnjuje dve plati Eisbärenov"
    }
   ],
   "krone": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T13:36:24.811Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-19T13:36:25.519Z",
+   "checkedAt": "2026-11-19T13:38:28.968Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-19T13:36:25.564Z",
+   "checkedAt": "2026-11-19T13:38:29.949Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T13:36:25.881Z",
+   "checkedAt": "2026-11-19T13:38:29.990Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-19T13:38:30.085Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-19T13:36:26.425Z",
+   "checkedAt": "2026-11-19T13:38:30.514Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-19T13:36:26.862Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-19T13:36:27.035Z",
+   "checkedAt": "2026-11-19T13:38:30.597Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-19T13:36:27.071Z",
+   "checkedAt": "2026-11-19T13:38:30.620Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-19T13:36:30.553Z",
+   "checkedAt": "2026-11-19T13:38:30.646Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-19T13:38:30.653Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-19T13:36:36.517Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-19T13:36:37.290Z",
+   "checkedAt": "2026-11-19T13:38:30.984Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-19T13:36:37.550Z",
+   "checkedAt": "2026-11-19T13:38:31.120Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-19T13:36:37.704Z",
+   "checkedAt": "2026-11-19T13:38:31.360Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-19T13:36:38.414Z",
+   "checkedAt": "2026-11-19T13:38:31.398Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-19T13:38:31.497Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-19T13:36:42.655Z",
+   "checkedAt": "2026-11-19T13:38:34.772Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T13:36:42.822Z",
+   "checkedAt": "2026-11-19T13:38:34.867Z",
    "success": true
   }
  },
