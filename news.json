@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-19T07:46:30.295Z",
+ "generatedAt": "2026-11-19T07:48:33.972Z",
  "sources": {
   "siol": [
+   {
+    "title": "Radarska slika padavin – aktualna vremenska slika za Slovenijo",
+    "link": "https://siol.net/novice/slovenija/radarska-slika-padavin-aktualna-vremenska-slika-za-slovenijo-664368",
+    "image": "https://siol.net/media/img/fc/e8/04a39738d32ef800c163.jpeg",
+    "date": 1795074360000
+   },
    {
     "title": "V kombiju tujih registrskih oznak je tihotapil kar 18 oseb",
     "link": "https://siol.net/novice/slovenija/v-kombiju-tujih-registrskih-oznak-je-tihotapil-kar-18-oseb-706664",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/svet/trump-na-srecanju-s-putinom-706651",
     "image": "https://siol.net/media/img/54/e3/2443f4f3944d0a6b0be8.jpeg",
     "date": 1795066980000
-   },
-   {
-    "title": "ACH Volley optimistično na pomembno gostovanje, proti Nizozemcem dobili dober opomnik",
-    "link": "https://siol.net/sportal/odbojka/kvalifikacije-liga-prvkov-tretji-krog-prva-tekma-706625",
-    "image": "https://siol.net/media/img/a2/73/8992ec16c16a7b6caa9f.jpeg",
-    "date": 1795066740000
    }
   ],
   "24ur": [
@@ -373,9 +373,30 @@
   ],
   "reuters": [
    {
+    "title": "Giannis Antetokounmpo leads Heat past Bucks in first game vs. former team",
+    "link": "https://www.reuters.com/sports/basketball/giannis-antetokounmpo-leads-heat-past-bucks-first-game-vs-former-team--flm-2026-11-19/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LUFGB7BTNFOBFKFUIRL237EBJA.jpg",
+    "date": 1795074070000,
+    "titleSl": "Giannis Antetokounmpo je vodil ekipo Heat do zmage nad Bucks v prvi tekmi proti svoji nekdanji ekipi"
+   },
+   {
+    "title": "Kenya chooses US consortium to develop Mrima Hill critical minerals project",
+    "link": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/74U3YHF6RNK6JB4ZXUFDEV7GTE.jpg",
+    "date": 1795073637000,
+    "titleSl": "Kenija je izbrala ameriški konzorcij za razvoj projekta pridobivanja kritičnih mineralov na hribu Mrima Hill"
+   },
+   {
+    "title": "Paytm, Pine Labs shares plunge as UPI transaction fee rollout in India delayed",
+    "link": "https://www.reuters.com/world/india/paytm-pine-labs-shares-plunge-upi-transaction-fee-rollout-india-delayed-2026-11-19/",
+    "image": "",
+    "date": 1795073553000,
+    "titleSl": "Delnice družb Paytm in Pine Labs so močno padle zaradi zamude pri uvedbi provizije za transakcije UPI v Indiji"
+   },
+   {
     "title": "Balanced Rockets' attack bounces Pacers",
     "link": "https://www.reuters.com/sports/basketball/balanced-rockets-attack-bounces-pacers--flm-2026-11-19/",
-    "image": "",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TGSQVV336RKZPJCFLLPPAQDLCY.jpg",
     "date": 1795073362000,
     "titleSl": "Uravnotežen napad Rocketsov je premagal Pacerse"
    },
@@ -434,27 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TRP4C7L5OJOS3DNUOXOWTWW2UE.jpg",
     "date": 1795071845000,
     "titleSl": "Družba Repsol si prizadeva, da bi leta 2028 ponovno dosegla dobiček v sektorju kemikalij, saj se preoblikovanje izplača"
-   },
-   {
-    "title": "UK's EU reset hits China EV speed bump",
-    "link": "https://www.reuters.com/world/uk/uks-eu-reset-hits-china-ev-speed-bump-2026-11-19/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EMH437C3HFPHLEI3WRCLHOYPWM.jpg",
-    "date": 1795071837000,
-    "titleSl": "Ponastavitev odnosov Združenega kraljestva z EU je naletela na oviro v obliki kitajskih električnih vozil"
-   },
-   {
-    "title": "F1 drivers welcome possible V8 return after FIA president's signal",
-    "link": "https://www.reuters.com/sports/formula1/f1-drivers-welcome-possible-v8-return-after-fia-presidents-signal-2026-11-19/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VVEXUYEN5VOIZO5F7GKADV3CGA.jpg",
-    "date": 1795071766000,
-    "titleSl": "Vozniki Formule 1 pozdravljajo morebitno vrnitev motorjev V8 po namigu predsednika FIA"
-   },
-   {
-    "title": "L'Oréal-led group eyes up to 15% stake in Armani, paper says",
-    "link": "https://www.reuters.com/legal/transactional/loral-led-group-eyes-up-15-stake-armani-paper-says-2026-11-19/",
-    "image": "",
-    "date": 1795071707000,
-    "titleSl": "Po poročanju časopisa si skupina pod vodstvom družbe L'Oréal želi pridobiti do 15 % deleža v družbi Armani"
    }
   ],
   "nyt": [
@@ -596,7 +596,7 @@
    {
     "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
     "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f5/live/b1b32250-e3ec-11f1-99a1-253766e7ad8b.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
     "date": 1795063372000,
     "titleSl": "To je izjemen diplomatski trenutek za kitajskega predsednika Šija, vendar pa prinaša tudi pasti."
    },
@@ -717,18 +717,18 @@
   ],
   "guardian": [
    {
+    "title": "Apec summit live: Trump praises ‘great relationship’ with Putin ahead of historic trilateral talks with Xi",
+    "link": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
+    "image": "https://i.guim.co.uk/img/media/5550b761e14f24070365092165015331725e7371/107_0_2613_2090/master/2613.jpg?width=700&quality=85&auto=format&fit=max&s=c7072908924c0f4572a620b1915eee06",
+    "date": 1795074369000,
+    "titleSl": "Vrh APEC v živo: Trump pred zgodovinskimi tristranskimi pogovori s Sijem hvali »odlične odnose« s Putinom"
+   },
+   {
     "title": "Cop31 live: ‘Lean in and move faster’ climate summit told as deal remains elusive",
     "link": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
     "image": "https://i.guim.co.uk/img/media/6e208b70b2482810e34a68eb4631c760433f1202/472_0_4716_3773/master/4716.jpg?width=700&quality=85&auto=format&fit=max&s=3a38d4e21d4d302a049ee12cca119fbd",
     "date": 1795074195000,
     "titleSl": "COP31 v živo: Na podnebni konferenci so udeležence pozvali, naj »se bolj zavzamejo in ukrepajo hitreje«, saj dogovor še vedno ni dosežen"
-   },
-   {
-    "title": "Apec summit live: Trump praises ‘great relationship’ with Putin ahead of historic trilateral talks with Xi",
-    "link": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
-    "image": "https://i.guim.co.uk/img/media/5550b761e14f24070365092165015331725e7371/107_0_2613_2090/master/2613.jpg?width=700&quality=85&auto=format&fit=max&s=c7072908924c0f4572a620b1915eee06",
-    "date": 1795074061000,
-    "titleSl": "Vrh APEC v živo: Trump pred zgodovinskimi tristranskimi pogovori s Sijem hvali »odlične odnose« s Putinom"
    },
    {
     "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Schuss auf Mercedes an der Autobahn - Mordanschlag in voller Fahrt",
+    "link": "https://www.bild.de/regional/koeln/mordkommission-ermittelt-schuss-auf-mercedesfahrer-47-an-autobahnabfahrt-6afe125cd1425f9c166360ac",
+    "image": "https://images.bild.de/6afe125cd1425f9c166360ac/9fd4f7a6e529cc644602377f3386cf73,ca43a9f4?w=1280",
+    "date": 1795074327000,
+    "titleSl": "Strel na Mercedes na avtocesti – Poskus umora med vožnjo"
+   },
+   {
     "title": "Bayern-Boss enthüllt - Geheim-OP bei Kompany!",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-boss-jan-christian-dreesen-enthuellt-geheime-schulter-op-bei-vincent-kompany-6afe9fd9332a07285981e04f",
     "image": "https://images.bild.de/6afe9fd9332a07285981e04f/b7bdf05fa9b5a1ce861740c91dc0fae7,e0771e3c?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6af4731bc45061d752ba6795/4bba1d28a25edae7d28217f4c110891c,b4f0d331?w=1280",
     "date": 1795071485000,
     "titleSl": "»To je grozno življenje« – mož smrtno bolne Marie von Welser je obupan"
-   },
-   {
-    "title": "Generalprobe vor der WM - Mega-Sensation um Littler!",
-    "link": "https://www.bild.de/sport/mehr-sport/luke-litter-sensation-um-den-besten-darts-spieler-der-welt-6afe97764d1895cf2a8f0932",
-    "image": "https://images.bild.de/6afe97764d1895cf2a8f0932/60b6fb5f8d5f6e3281decb81eab05584,624cb895?w=1280",
-    "date": 1795071181000,
-    "titleSl": "Generalna vaja pred SP – mega senzacija z Littlerjem!"
    }
   ],
   "krone": [
@@ -1075,6 +1075,13 @@
     "titleSl": "Opozorilo pred nevihtami na morju, valovi se lomijo na obali Marine di Massa"
    },
    {
+    "title": "Lampedusa, si ribalta una barca con migranti a bordo: dispersa bimba di 6 anni. Salvati 50 naufraghi",
+    "link": "https://www.rainews.it/articoli/2026/11/si-ribalta-barca-con-migranti-a-lampedusa-dispersa-bimba-salvati-naufraghi-96b14081-eb3d-484c-a05c-b951e7ca2a37.html",
+    "image": "https://www.rainews.it/dl/img/2026/04/05/1775389107187_cop_lampedusa_sbarco.transferframe.jpeg",
+    "date": 1795072440000,
+    "titleSl": "Lampedusa: Prevrnil se je čoln z migranti na krovu; pogrešana je 6-letna deklica. Rešenih je bilo 50 brodolomcev."
+   },
+   {
     "title": "Mattina 24 - Puntata del 19/11/2026",
     "link": "https://www.rainews.it/rubriche/mattina24/video/2026/11/Mattina-24---Puntata-del-19112026-37cf7586-8a4b-4869-b62c-4200f6c12f4c.html",
     "image": "https://www.rainews.it/dl/img/2025/10/09/1760011000774_MATTINA24_4%20RAIPLAY%202048%201152.jpg",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2021/11/16/1637058394770_girlgbfad.jpg",
     "date": 1795050060000,
     "titleSl": "Mladoletniki in digitalni svet: »Potrebni so preventivni ukrepi in pravila za preprečevanje tveganj, povezanih z umetno inteligenco.«"
-   },
-   {
-    "title": "Cop31, con la crisi energetica arabi e russi più forti nel negoziato",
-    "link": "https://www.rainews.it/maratona/2026/11/cop31-antalya-turchia-conferenza-cambiamento-climatico-2026-crisi-emissioni-c02-carbonio-idrocarburi-transizione-energetica-48f0ab1e-e726-4897-aa13-c054ed189251.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/18/1795012765192_.jfif",
-    "date": 1795046760000,
-    "titleSl": "COP31: Zaradi energetske krize so Arabci in Rusi močnejši v pogajanjih"
    }
   ],
   "lemonde": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T07:46:24.330Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-19T07:46:24.651Z",
+   "checkedAt": "2026-11-19T07:48:24.436Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-19T07:46:24.936Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-19T07:46:25.903Z",
+   "checkedAt": "2026-11-19T07:48:25.292Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T07:46:26.004Z",
+   "checkedAt": "2026-11-19T07:48:25.611Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-19T07:46:26.329Z",
+  "siol": {
+   "checkedAt": "2026-11-19T07:48:25.725Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-19T07:46:26.449Z",
+  "hop": {
+   "checkedAt": "2026-11-19T07:48:25.984Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-19T07:46:26.454Z",
+   "checkedAt": "2026-11-19T07:48:26.144Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-19T07:48:26.185Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-19T07:48:26.206Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-19T07:46:26.492Z",
+   "checkedAt": "2026-11-19T07:48:26.329Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-19T07:46:26.649Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-19T07:46:27.680Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-19T07:46:27.788Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-19T07:46:28.166Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-19T07:46:29.208Z",
+   "checkedAt": "2026-11-19T07:48:31.327Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-19T07:46:29.260Z",
+   "checkedAt": "2026-11-19T07:48:31.894Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-19T07:48:31.985Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-19T07:48:32.640Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-19T07:48:32.937Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-19T07:48:33.765Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T07:46:30.294Z",
+   "checkedAt": "2026-11-19T07:48:33.971Z",
    "success": true
   }
  },
