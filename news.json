@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T17:24:30.985Z",
+ "generatedAt": "2026-11-19T17:26:28.589Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Dovoljenje za šestpasovnico izdano",
+    "link": "https://www.zurnal24.si/avto/sestpasovnica-zahodna-ljubljanska-obvoznica-gradbeno-dovoljenje-468504",
+    "image": "https://www.zurnal24.si/media/img/9c/c1/d39a80f1eeef247203f0.jpeg",
+    "date": 1795109160000
+   },
+   {
     "title": "Znanemu novinarju odvzeli akreditacijo, Leclerc vztraja: To ni moje maslo",
     "link": "https://www.zurnal24.si/sport/moto-sporti/znanemu-novinarju-odvzeli-akreditacijo-leclerc-vztraja-to-ni-moje-maslo-468497",
     "image": "https://www.zurnal24.si/media/img/9f/81/6d12324769d01bb7cb4d.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/sport/zimski-sporti/kraftovo-nenavadno-priznanje-nikoli-vec-na-havaje-468492",
     "image": "https://www.zurnal24.si/media/img/7a/89/1005bf6aff466501592b.jpeg",
     "date": 1795099980000
-   },
-   {
-    "title": "Novo poročilo: Najslabši avtomobil na tehničnih pregledih",
-    "link": "https://www.zurnal24.si/avto/iz-druge-roke/novo-porocilo-najslabsi-avtomobil-na-tehnicnih-pregledih-468449",
-    "image": "https://www.zurnal24.si/media/img/6e/df/b5a5d7e69b76607a5164.jpeg",
-    "date": 1795094184000
    }
   ],
   "hop": [
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
+    "link": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=1920%2C1440",
+    "date": 1795108530000,
+    "titleSl": "»To ni oprostitev krivde«: Hegseth je po glasovanju o odstavitvi še vedno pod drobnogledom"
+   },
+   {
     "title": "Trump and Putin ‘hijacked’ China summit",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795107690.jpg?resize=1920%2C1080&quality=80",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Aspire-Zone-4-1795090308.jpeg?resize=1920%2C1440",
     "date": 1795096070000,
     "titleSl": "Svetovno prvenstvo FIFA U-17 2026 se začenja v Katarju kljub umiku ZDA"
-   },
-   {
-    "title": "Where Roots Lie: Surviving Child Grooming and Exploitation",
-    "link": "https://www.aljazeera.com/video/witness/2026/11/19/where-roots-lie-surviving-child-grooming-and-exploitation?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-Thumbnail-1794988167.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795095000000,
-    "titleSl": "Kje so korenine: preživetje po zlorabi otrok in njihovem izkoriščanju"
    }
   ],
   "guardian": [
@@ -889,11 +889,25 @@
   ],
   "bild": [
    {
+    "title": "„Er wollte ein Machtspiel veranstalten!“ - Bill Kaulitz tritt im Pyro-Zoff mit Beamten nach",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/bill-kaulitz-legt-im-pyro-zoff-mit-leipziger-beamten-nach-6afeb3ee4d1895cf2a8f0b75",
+    "image": "https://images.bild.de/6afeb3ee4d1895cf2a8f0b75/eaf7f87afdd1b8d6efe4e72ec59863cf,c13d6e30?w=1280",
+    "date": 1795109092000,
+    "titleSl": "»Hotel je izvajati igro moči!» – Bill Kaulitz se je v prepiru zaradi pirotehnike spravil na policiste"
+   },
+   {
     "title": "AfD-Politiker bestätigt BILD-Bericht - Siegmund will am 8. Dezember Ministerpräsident werden",
     "link": "https://www.bild.de/politik/afd-politiker-bestaetigt-bild-bericht-siegmund-will-am-8-dezember-ministerpraesident-werden-6aff2e7cc1e8003ef73c4d5f",
     "image": "https://images.bild.de/6aff2e7cc1e8003ef73c4d5f/c02eb91e709da45546f6bf4bf075b894,10a8885?w=1280",
-    "date": 1795108918000,
+    "date": 1795109021000,
     "titleSl": "Politik iz stranke AfD je potrdil poročilo časopisa BILD – Siegmund bo 8. decembra postal ministrski predsednik"
+   },
+   {
+    "title": "Milliarden-Aufschlag an der Nasdaq - Erster Kurs von Anthropic übertrifft alle Erwartungen",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/anthropic-boersengang-bringt-81-3-milliarden-euro-6afefd939c68d2fcf0c7d164",
+    "image": "https://images.bild.de/6afefd939c68d2fcf0c7d164/7f3549c1a9d2022b24a3be73dc706cf5,bd3fe6b5?w=1280",
+    "date": 1795108957000,
+    "titleSl": "Milijardni skok na borzi Nasdaq – Prvi tečaj delnic družbe Anthropic je presegel vsa pričakovanja"
    },
    {
     "title": "Beim Hoffenheim-Nachwuchs - Preußen braucht gesunde Härte",
@@ -945,13 +959,6 @@
     "titleSl": "Priznanje na sodišču – vodja vrtca je več let zlorabljal otroke"
    },
    {
-    "title": "Milliarden-Aufschlag an der Nasdaq - Erster Kurs von Anthropic übertrifft alle Erwartungen",
-    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/anthropic-boersengang-bringt-81-3-milliarden-euro-6afefd939c68d2fcf0c7d164",
-    "image": "https://images.bild.de/6afefd939c68d2fcf0c7d164/7f3549c1a9d2022b24a3be73dc706cf5,bd3fe6b5?w=1280",
-    "date": 1795107999000,
-    "titleSl": "Milijardni skok na borzi Nasdaq – Prvi tečaj delnic družbe Anthropic je presegel vsa pričakovanja"
-   },
-   {
     "title": "52 Cent gegen 83 Dollar - Anthropic-Aktie macht 2800 Mitarbeiter reich",
     "link": "https://www.bild.de/news/anthropic-groesster-boersengang-macht-2-800-mitarbeiter-zu-millionaeren-6aff13caee91e990acae70de",
     "image": "https://images.bild.de/6aff13caee91e990acae70de/53476427a99be8102a75370709d53dfd,5dc8e8f0?w=1280",
@@ -964,16 +971,16 @@
     "image": "https://images.bild.de/6afef0ba39a3e8110f0e2375/1e89101b1570a43859f202b32acb5806,9a34de76?w=1280",
     "date": 1795107631000,
     "titleSl": "Samo enkrat je bil na televiziji prikazan poljub – konec ljubezni med Alico Schmidt in njenim neznanim fantom"
-   },
-   {
-    "title": "Gäste und Themen vom 19. November 2026 - Wer ist heute Abend bei Markus Lanz zu Gast?",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/markus-lanz-heute-das-sind-die-gaeste-und-themen-am-donnerstag-6aff26e3e79e7594eb9b62c1",
-    "image": "https://images.bild.de/6aff26e3e79e7594eb9b62c1/e2f3bc542fd8ecef273ae72ad8e3ab51,389d1f89?w=1280",
-    "date": 1795107562000,
-    "titleSl": "Gostje in teme z dne 19. novembra 2026 – Wer ist heute Abend bei Markus Lanz zu Gast?"
    }
   ],
   "krone": [
+   {
+    "title": "„Russensau“-Attacke - Bald staatenlos? Kneissl zieht brisanten Vergleich",
+    "link": "https://www.krone.at/4382287",
+    "image": "https://imgl.krone.at/scaled/4382304/v56e317/full.jpg",
+    "date": 1795109149000,
+    "titleSl": "Napad z izrazom »ruska svinja« – Kmalu brez državljanstva? Kneisslova naredi kontroverzno primerjavo"
+   },
    {
     "title": "Abwaage gleich live - „Teufelchen sagt: ,Mach es, du bist unsterblich!‘“",
     "link": "https://www.krone.at/4380708",
@@ -1050,16 +1057,16 @@
     "image": "https://imgl.krone.at/scaled/4381898/v135cb7/full.jpg",
     "date": 1795107630000,
     "titleSl": "Rop bencinske črpalke – redni kupec, ki je storil rop, mora v zapor"
-   },
-   {
-    "title": "Schon wieder Ärger - Kein Geld! Hartberg musste die FIFA einschalten!",
-    "link": "https://www.krone.at/4382104",
-    "image": "https://imgl.krone.at/scaled/4382108/v4702f0/full.jpg",
-    "date": 1795107621000,
-    "titleSl": "Spet težave – ni denarja! Hartberg je moral vključiti FIFA-o!"
    }
   ],
   "rainews": [
+   {
+    "title": "Economia24 del 19/11/2026",
+    "link": "https://www.rainews.it/rubriche/economia24/video/2026/11/Economia24-del-19112026-b4ef87f9-0d0b-4b02-8862-01ced498530a.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/5258_economia24_ONLINE_19112026_1800.jpeg",
+    "date": 1795109069000,
+    "titleSl": "Economia24 z dne 19. 11. 2026"
+   },
    {
     "title": "Due ragazzini imitano il videogioco Gta: rubano un bus e finiscono in un fosso",
     "link": "https://www.rainews.it/articoli/2026/11/due-ragazzini-imitano-videogioco-gta-rubano-un-bus-e-finiscono-in-un-fosso-8eb7b5c5-1ec1-43dc-a8fc-0c830b67d179.html",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2023/06/28/1687948282174_CHFilippoUngarovisitsRohingyarefugeecamps.jpg",
     "date": 1795099680000,
     "titleSl": "Zgodovinska sodba Mednarodnega sodišča: »V Mjanmaru je prišlo do genocida nad Rohingi«"
-   },
-   {
-    "title": "È morto Corrado Augias, grande divulgatore culturale: una vita spesa per diffondere la conoscenza",
-    "link": "https://www.rainews.it/articoli/2026/11/morto-corrado-augias-aveva-91-anni-d7112858-8fbb-48d7-bec8-0c84da450026.html",
-    "image": "https://www.rainews.it/dl/img/2025/01/25/1737821239822_rainewsedccbadcfedba.jpg",
-    "date": 1795099500000,
-    "titleSl": "Umrl je Corrado Augias, velik kulturni razširjevalec: življenje, preživeto za širjenje znanja"
    }
   ],
   "lemonde": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T17:24:23.122Z",
+   "checkedAt": "2026-11-19T17:26:22.549Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-19T17:24:23.903Z",
+   "checkedAt": "2026-11-19T17:26:23.235Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-19T17:24:23.949Z",
+   "checkedAt": "2026-11-19T17:26:23.580Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T17:24:24.094Z",
+   "checkedAt": "2026-11-19T17:26:23.855Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-19T17:24:24.735Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-19T17:24:25.054Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-19T17:24:25.094Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-19T17:24:25.180Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-19T17:24:25.433Z",
+   "checkedAt": "2026-11-19T17:26:24.222Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-19T17:24:26.965Z",
+   "checkedAt": "2026-11-19T17:26:24.410Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-19T17:26:24.437Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-19T17:26:24.491Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-19T17:26:24.962Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-19T17:26:26.188Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-19T17:24:27.535Z",
+   "checkedAt": "2026-11-19T17:26:26.601Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-19T17:24:27.854Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-19T17:24:28.149Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-19T17:24:28.792Z",
+   "checkedAt": "2026-11-19T17:26:26.917Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-19T17:24:30.344Z",
+   "checkedAt": "2026-11-19T17:26:27.915Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-19T17:26:28.429Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-19T17:26:28.488Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T17:24:30.985Z",
+   "checkedAt": "2026-11-19T17:26:28.587Z",
    "success": true
   }
  },
