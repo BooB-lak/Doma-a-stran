@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T05:50:39.271Z",
+ "generatedAt": "2026-11-19T05:52:26.767Z",
  "sources": {
   "siol": [
    {
@@ -225,10 +225,22 @@
   ],
   "zurnal": [
    {
+    "title": "Mamica štirih otrok: \"Veseli december je zame najhujši mesec\"",
+    "link": "https://www.zurnal24.si/slovenija/mamica-stirih-otrok-veseli-december-je-zame-najhujsi-mesec-468069",
+    "image": "https://www.zurnal24.si/media/img/da/g4/1e7e6e4668018dc2ac27.jpeg",
+    "date": 1795067460000
+   },
+   {
     "title": "Zadnji polfinalist MasterChefa je postal brat znanega slovenskega športnika",
     "link": "https://www.zurnal24.si/magazin/vip/zadnji-polfinalist-masterchefa-je-postal-brat-znanega-slovenskega-sportnika-468444",
     "image": "https://www.zurnal24.si/media/img/e3/89/bf971d0e1c2d2b98d3c4.png",
     "date": 1795066320000
+   },
+   {
+    "title": "To so najbogatejši Slovenci",
+    "link": "https://www.zurnal24.si/slovenija/to-so-najbogatejsi-slovenci-468445",
+    "image": "https://www.zurnal24.si/media/img/35/34/37c640fde8948e84ec2e.jpeg",
+    "date": 1795066200000
    },
    {
     "title": "Nove zaposlitve: Plačilo med 9 in 12 evrov na uro",
@@ -283,18 +295,6 @@
     "link": "https://www.zurnal24.si/svet/se-en-udarec-za-vucica-epp-mu-obraca-hrbet-468443",
     "image": "https://www.zurnal24.si/media/img/a4/6d/cc07ed9652985870dbbc.jpeg",
     "date": 1795033560000
-   },
-   {
-    "title": "Cedevita Olimpija še do tretje zaporedne zmage",
-    "link": "https://www.zurnal24.si/sport/kosarka/cedevita-olimpija-se-do-tretje-zaporedne-zmage-468442",
-    "image": "https://www.zurnal24.si/media/img/14/6f/0be703ac3a6b8862507b.jpeg",
-    "date": 1795031340000
-   },
-   {
-    "title": "Preobrat v aferi Gen-I, oglasilo se je romunsko tožilstvo",
-    "link": "https://www.zurnal24.si/slovenija/preobrat-v-aferi-gen-i-oglasilo-se-je-romunsko-tozilstvo-468441",
-    "image": "https://www.zurnal24.si/media/img/26/40/62a3d8f77718ee264e6f.png",
-    "date": 1795029600000
    }
   ],
   "hop": [
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Undoing Brexit",
+    "link": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-theworld-britain-eu-01-bwzt-promo/19int-theworld-britain-eu-01-bwzt-promo-mediumSquareAt3X.jpg",
+    "date": 1795067285000,
+    "titleSl": "Razveljavitev brexita"
+   },
+   {
     "title": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
     "image": "",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-GTAFlu-wqvt/18xp-GTAFlu-wqvt-mediumSquareAt3X.jpg",
     "date": 1795060470000,
     "titleSl": "»Gripa GTA« povzroča, da se šole in delovna mesta pripravljajo na bolniške dni"
-   },
-   {
-    "title": "National Book Award for Nonfiction Goes to Writer Denied Visa to Attend",
-    "link": "https://www.nytimes.com/2026/11/18/books/national-book-award-for-nonfiction-goes-to-writer-denied-visa-to-attend.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18TBR-NBA-zqjv/18TBR-NBA-zqjv-mediumSquareAt3X.jpg",
-    "date": 1795059908000,
-    "titleSl": "Nacionalno književno nagrado za strokovno literaturo je prejel pisatelj, ki mu je bil zavrnjen vizum za udeležbo"
    }
   ],
   "bbc": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T05:50:34.853Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-19T05:50:35.496Z",
+   "checkedAt": "2026-11-19T05:52:21.593Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-19T05:50:35.598Z",
+   "checkedAt": "2026-11-19T05:52:22.426Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T05:50:36.026Z",
+   "checkedAt": "2026-11-19T05:52:22.583Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-19T05:52:22.692Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-19T05:50:36.128Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-19T05:50:36.413Z",
+   "checkedAt": "2026-11-19T05:52:23.239Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-19T05:50:36.465Z",
+   "checkedAt": "2026-11-19T05:52:23.592Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-19T05:52:23.642Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-19T05:50:36.482Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-19T05:50:36.506Z",
+   "checkedAt": "2026-11-19T05:52:23.768Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-19T05:50:36.873Z",
+   "checkedAt": "2026-11-19T05:52:23.937Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-19T05:50:37.082Z",
+  "nyt": {
+   "checkedAt": "2026-11-19T05:52:25.475Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-19T05:50:37.149Z",
+   "checkedAt": "2026-11-19T05:52:26.016Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-19T05:52:26.039Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-19T05:50:37.264Z",
+   "checkedAt": "2026-11-19T05:52:26.165Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-19T05:50:37.488Z",
+   "checkedAt": "2026-11-19T05:52:26.436Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-19T05:50:39.158Z",
+   "checkedAt": "2026-11-19T05:52:26.532Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T05:50:39.270Z",
+   "checkedAt": "2026-11-19T05:52:26.766Z",
    "success": true
   }
  },
