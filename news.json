@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T03:02:30.416Z",
+ "generatedAt": "2026-11-19T03:04:32.023Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/19visualUploader-43868-cover/19visualUploader-43868-cover-mediumSquareAt3X-v2.jpg",
+    "date": 1795057423000,
+    "titleSl": "Ali je Kitajska med sprejemom na vrhu APEC poslala glasbeno sporočilo japonski ministrici Takaichi?"
+   },
+   {
     "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
     "link": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-governance-bvmc/18biz-anthropic-governance-bvmc-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-democrat-1-fvck/19nat-TX-democrat-1-fvck-mediumSquareAt3X.jpg",
     "date": 1795053598000,
     "titleSl": "Zmaga Ericke Lomick v teksaškem predstavniškem domu se sooča z izpodbijanjem na vrhovnem sodišču zvezne države"
-   },
-   {
-    "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
-    "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-    "date": 1795053294000,
-    "titleSl": "Kako so čipi Nvidia končali v rokah kitajske vojske"
    }
   ],
   "bbc": [
@@ -552,11 +552,11 @@
     "titleSl": "Elon Musk pravi, da je bila rekordna poraba za vmesne volitve v ZDA »precej nespametna«"
    },
    {
-    "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+    "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
     "date": 1795054815000,
-    "titleSl": "Podjetje Anthropic, ki je razvilo Claude, je pripravljeno na vstop na borzo z vrednostjo do 1,5 bilijona USD"
+    "titleSl": "Vrednost velikana umetne inteligence Anthropic je pred vstopom na borzo ocenjena na do 1,5 bilijona USD"
    },
    {
     "title": "'Feudal' leasehold system set to be scrapped in England and Wales",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-19T03:02:23.013Z",
+   "checkedAt": "2026-11-19T03:04:24.493Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-19T03:02:23.791Z",
+   "checkedAt": "2026-11-19T03:04:25.177Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-19T03:02:24.092Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-19T03:02:24.437Z",
+   "checkedAt": "2026-11-19T03:04:25.203Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-19T03:02:24.849Z",
+   "checkedAt": "2026-11-19T03:04:25.491Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-19T03:02:25.281Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-19T03:02:25.318Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-19T03:02:25.433Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-19T03:02:27.063Z",
+  "hop": {
+   "checkedAt": "2026-11-19T03:04:26.171Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-19T03:02:27.849Z",
+   "checkedAt": "2026-11-19T03:04:26.552Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-19T03:04:26.659Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-19T03:04:26.874Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-19T03:04:28.629Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-19T03:04:28.646Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-19T03:02:28.664Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-19T03:02:28.756Z",
+   "checkedAt": "2026-11-19T03:04:29.365Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-19T03:02:28.792Z",
+   "checkedAt": "2026-11-19T03:04:29.490Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-19T03:04:29.800Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-19T03:02:28.967Z",
+   "checkedAt": "2026-11-19T03:04:29.890Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-19T03:02:30.137Z",
+   "checkedAt": "2026-11-19T03:04:30.683Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-19T03:02:30.416Z",
+   "checkedAt": "2026-11-19T03:04:32.022Z",
    "success": true
   }
  },
