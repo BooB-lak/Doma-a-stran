@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T11:36:33.464Z",
+ "generatedAt": "2026-11-20T11:38:36.815Z",
  "sources": {
   "siol": [
    {
@@ -151,10 +151,22 @@
   ],
   "rtvslo": [
    {
+    "title": "Sindikat kmetov nasprotuje krčenju kmetijskih programov na Univerzi v Mariboru",
+    "link": "https://www.rtvslo.si/slovenija/sindikat-kmetov-nasprotuje-krcenju-kmetijskih-programov-na-univerzi-v-mariboru/800739",
+    "image": "https://img.rtvcdn.si/_up/upload/2010/11/24/64746032_sindikat-kmetov-slovenije.jpg",
+    "date": 1795174595000
+   },
+   {
     "title": "Vse več športnikov išče dodaten vir zaslužka na platformi OnlyFans",
     "link": "https://www.rtvslo.si/zabava-in-slog/zanimivosti/vse-vec-sportnikov-isce-dodaten-vir-zasluzka-na-platformi-onlyfans/800729",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123323.jpg",
     "date": 1795173886000
+   },
+   {
+    "title": "Lekarniška zbornica opozarja na lažne telefonske klicatelje, ki prodajajo izdelke neznanega izvora",
+    "link": "https://www.rtvslo.si/crna-kronika/lekarniska-zbornica-opozarja-na-lazne-telefonske-klicatelje-ki-prodajajo-izdelke-neznanega-izvora/800734",
+    "image": "https://img.rtvcdn.si/_up/upload/2011/10/26/64830672_lekarne.jpg",
+    "date": 1795173225000
    },
    {
     "title": "Lekarniška zbornica opozarja na lažne telefonske klice, ki prodajajo izdelke neznanega izvora",
@@ -209,21 +221,15 @@
     "link": "https://www.rtvslo.si/slovenija/ob-osmih/peter-merse-politicna-teza-zorana-stevanovica-se-je-bistveno-zmanjsala/800714",
     "image": "https://img.rtvcdn.si/_up/upload/2026/09/29/67108014.jpg",
     "date": 1795169796000
-   },
-   {
-    "title": "V Španiji izkopali 2000-letni mozaik ter stenske poslikave z upodobitvami živali in mitoloških likov",
-    "link": "https://www.rtvslo.si/kultura/dediscina/v-spaniji-izkopali-2000-letni-mozaik-ter-stenske-poslikave-z-upodobitvami-zivali-in-mitoloskih-likov/800721",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123301.jpg",
-    "date": 1795169388000
-   },
-   {
-    "title": "Srbski parlament izvolil šest podpredsednikov, vsi iz Študentske liste",
-    "link": "https://www.rtvslo.si/svet/evropa/srbski-parlament-izvolil-sest-podpredsednikov-vsi-iz-studentske-liste/800724",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123309.jpg",
-    "date": 1795169328000
    }
   ],
   "zurnal": [
+   {
+    "title": "Dramatično tudi pri sosedih: Zaradi dronov zaprli letališče",
+    "link": "https://www.zurnal24.si/svet/dramaticno-tudi-pri-sosedih-zaradi-dronov-zaprli-letalisce-468540",
+    "image": "https://www.zurnal24.si/media/img/0a/1c/44ea01b53e5ccc007c84.jpeg",
+    "date": 1795174560000
+   },
    {
     "title": "Trenerje skrbi nova videoigra: \"Upam, da ne bodo zamenjali dneva za noč\"",
     "link": "https://www.zurnal24.si/sport/trenerje-skrbi-nova-videoigra-upam-da-ne-bodo-zamenjali-dneva-za-noc-468530",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/tako-so-jo-kritizirali-a-melania-se-znova-podaja-v-to-468524",
     "image": "https://www.zurnal24.si/media/img/94/49/989bc42cb24f1a3a1e2e.jpeg",
     "date": 1795162140000
-   },
-   {
-    "title": "Zaradi volitev v občini završalo, po razveljavitvi glasovanja še ugovor",
-    "link": "https://www.zurnal24.si/slovenija/po-razveljavitvi-glasovanja-se-ugovor-odlocitev-bo-znana-v-ponedeljek-468521",
-    "image": "https://www.zurnal24.si/media/img/a1/5d/6429f87af33afc4e7c98.jpeg",
-    "date": 1795160820000
    }
   ],
   "hop": [
@@ -376,13 +376,15 @@
     "title": "Rockets face tough test at Nuggets with Alperen Sengun’s status uncertain",
     "link": "https://www.reuters.com/sports/basketball/rockets-face-tough-test-nuggets-with-alperen-senguns-status-uncertain--flm-2026-11-20/",
     "image": "",
-    "date": 1795174172000
+    "date": 1795174172000,
+    "titleSl": "Rockets se soočajo s težko preizkušnjo pri Nuggetsih, status Alperena Senguna pa je negotov"
    },
    {
     "title": "UN cuts food aid target despite looming hunger crisis",
     "link": "https://www.reuters.com/world/un-cuts-food-aid-target-despite-looming-hunger-crisis-2026-11-20/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6NWCFPRTWFOELPOTFS2RCNWB44.jpg",
-    "date": 1795173983000
+    "date": 1795173983000,
+    "titleSl": "ZN zmanjšujejo ciljno vrednost pomoči v hrani kljub bližajoči se krizi lakote"
    },
    {
     "title": "Marquez taking cautious approach in Portugal as he chases MotoGP history",
@@ -718,14 +720,15 @@
     "title": "Pochettino’s first session leaked on drone footage; Nations League draw updates – football live",
     "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
     "image": "https://i.guim.co.uk/img/media/bb93f967665ae9fb691d3afd181a77af7f661bf7/928_685_4524_3622/master/4524.jpg?width=700&quality=85&auto=format&fit=max&s=8867d4bffccaae40843f98f89225db11",
-    "date": 1795174311000,
+    "date": 1795174534000,
     "titleSl": "Posnetek prvega treninga Pochettina, ki ga je posnel dron, je pricurljal v javnost; novice o žrebu za Ligo narodov – nogomet v živo"
    },
    {
     "title": "Sandpaper and silence: Marsh hides away as England’s T20 winners roll into MCG",
     "link": "https://www.theguardian.com/sport/2026/nov/20/mitch-marsh-sandpaper-cricket-scandal-england-australia-t20",
     "image": "https://i.guim.co.uk/img/media/cb7def0221a6c57f5f6eb73478f7a058491ac2fa/550_136_3899_3119/master/3899.jpg?width=700&quality=85&auto=format&fit=max&s=618ca9b2f2c28ddb28616114c1886773",
-    "date": 1795174231000
+    "date": 1795174231000,
+    "titleSl": "Brusni papir in tišina: Marsh se skriva, medtem ko angleški zmagovalci T20 prihajajo na MCG"
    },
    {
     "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
@@ -799,6 +802,13 @@
    }
   ],
   "spiegel": [
+   {
+    "title": "Samoa: USA vergeben erste Lizenzen für Tiefseebergbau im Pazifik",
+    "link": "https://www.spiegel.de/wissenschaft/technik/samoa-usa-vergeben-erste-lizenzen-fuer-tiefseebergbau-im-pazifik-a-e10d57ce-075d-4ac3-bddd-018f43c09d0f#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/8cc968f3-2177-4419-b70d-3b7cdff5de82_w520_r2.08_fpx64.65_fpy54.99.jpg",
+    "date": 1795174560000,
+    "titleSl": "Samoa: ZDA so izdale prva dovoljenja za globokomorsko rudarjenje v Tihem oceanu"
+   },
    {
     "title": "Jennifer Lawcrene: »Ich habe Implantate. Sie sind neu«, sagt Jennifer Lawrence",
     "link": "https://www.spiegel.de/panorama/leute/jennifer-lawcrene-ich-habe-implantate-sie-sind-neu-sagt-jennifer-lawrence-a-1836de0c-e0a8-4230-82b3-2966c07e7b34#ref=rss",
@@ -875,34 +885,43 @@
     "image": "https://cdn.prod.www.spiegel.de/images/63b21f56-ab56-4211-83f0-01471c998b41_w520_r2.08_fpx68.68_fpy54.99.jpg",
     "date": 1795167120000,
     "titleSl": "»Generacija Z prevzema vajeti«: Tako potekajo protesti – Novičarski blog"
-   },
-   {
-    "title": "Thüringer Lehrer zu sechs Jahren Haft verurteilt",
-    "link": "https://www.spiegel.de/panorama/justiz/thueringer-lehrer-zu-sechs-jahren-haft-verurteilt-a-22b0cea4-e64b-4718-9a71-e5033582c818#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c9fcd454-a70b-4fa5-88bb-afa0baada7e9_w520_r2.08_fpx34.24_fpy44.99.jpg",
-    "date": 1795166700000,
-    "titleSl": "Turingijski učitelj obsojen na šest let zapora"
    }
   ],
   "bild": [
    {
+    "title": "Auslosungs-Knaller in der Nations League - Deutscher Gegner im Viertelfinale steht fest",
+    "link": "https://www.bild.de/sport/fussball/nations-league-auslosung-viertelfinale-im-liveticker-jetzt-wird-es-spannend-fuer-klopp-6b000e00be487c5437746b7c",
+    "image": "https://images.bild.de/6b000e00be487c5437746b7c/889afb2043ff81eba16c9cfd5ae8c5df,6f037629?w=1280",
+    "date": 1795174622000,
+    "titleSl": "Žreb v Ligi narodov – znan je nemški nasprotnik v četrtfinalu"
+   },
+   {
+    "title": "Brückentage 2027 - So werden aus 26 Urlaubstagen bis zu 53 freie Tage",
+    "link": "https://www.bild.de/leben-wissen/mein-recht-verbraucherportal/brueckentage-2027-so-holen-sie-das-maximum-aus-ihrem-urlaub-6a8f0223198bb9fbdfaffff4",
+    "image": "https://images.bild.de/6a8f0223198bb9fbdfaffff4/a6569e277205f7373a275cbd88607f8c,22f977a5?w=1280",
+    "date": 1795174581000,
+    "titleSl": "Podaljšani vikendi v letu 2027 – tako lahko iz 26 dni dopusta dobite do 53 prostih dni"
+   },
+   {
+    "title": "Er soll Mob in Frankfurt angefeuert haben - Innenstadt-Verbot für Batman bei GenZ-Demo",
+    "link": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6",
+    "image": "https://images.bild.de/6afffc4db237b5b41c9a1fd6/ea3883d9ff93d3555517296890609fdf,3783235f?w=1280",
+    "date": 1795174575000,
+    "titleSl": "Naj bi spodbudil množico v Frankfurtu – Batmanu prepovedan vstop v središče mesta na demonstracijah generacije Z"
+   },
+   {
     "title": "Pistorius rudert zurück - Mit Putin reden – aber doch nicht in Moskau",
     "link": "https://www.bild.de/politik/inland/verteidigungsminister-pistorius-einladung-nach-moskau-auszuschlagen-waere-falsches-signal-6b00061939a3e8110f0e3624",
     "image": "https://images.bild.de/6b00061939a3e8110f0e3624/f81a90fc0e415fe5d39094ecc885a5b0,b16b7876?w=1280",
-    "date": 1795174503000
+    "date": 1795174503000,
+    "titleSl": "Pistorius se je premislil – Pogovor s Putinom – vendar ne v Moskvi"
    },
    {
     "title": "So viel hat er noch nie kassiert - Deutscher Poker-Spieler mit dickstem Karriere-Gewinn",
     "link": "https://www.bild.de/sport/mehr-sport/poker-so-viel-hat-er-noch-nie-kassiert-deutscher-poker-spieler-mit-dickstem-karriere-gewinn-6b0022415842ff528b9e16bd",
     "image": "https://images.bild.de/6b0022415842ff528b9e16bd/f7d1d8c544a12eecf21e5a0cc0e9e2cb-landscape,b1831fa4?w=1280",
-    "date": 1795174419000
-   },
-   {
-    "title": "Auslosungs-Knaller in der Nations League - Deutscher Gegner im Viertelfinale steht fest",
-    "link": "https://www.bild.de/sport/fussball/nations-league-auslosung-viertelfinale-im-liveticker-jetzt-wird-es-spannend-fuer-klopp-6b000e00be487c5437746b7c",
-    "image": "https://images.bild.de/6b000e00be487c5437746b7c/889afb2043ff81eba16c9cfd5ae8c5df,6f037629?w=1280",
-    "date": 1795174169000,
-    "titleSl": "Žreb v Ligi narodov – znan je nemški nasprotnik v četrtfinalu"
+    "date": 1795174419000,
+    "titleSl": "Toliko še nikoli ni zaslužil – nemški igralec pokra z največjim dobitkom v karieri"
    },
    {
     "title": "Für die Mainz-Wende - Das will Boss Heidel jetzt in Augsburg sehen!",
@@ -924,13 +943,6 @@
     "image": "https://images.bild.de/6b00039ebe487c5437746a3d/079b38a5b88fada3b7eb0a41e89ee42e,f29bd055?w=1280",
     "date": 1795173924000,
     "titleSl": "Zanimiva izjava – Kaj si Elversbergov Wagner misli o najboljših ekipah"
-   },
-   {
-    "title": "Er soll Mob in Frankfurt angefeuert haben - Innenstadt-Verbot für Batman bei GenZ-Demo",
-    "link": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6",
-    "image": "https://images.bild.de/6afffc4db237b5b41c9a1fd6/ea3883d9ff93d3555517296890609fdf,3783235f?w=1280",
-    "date": 1795173921000,
-    "titleSl": "Naj bi spodbudil množico v Frankfurtu – Batmanu prepovedan vstop v središče mesta na demonstracijah generacije Z"
    },
    {
     "title": "Lustrinellis Maßnahme - Mit Käsefondue aus der Union-Krise",
@@ -959,42 +971,36 @@
     "image": "https://images.bild.de/6af571455596369bf0edc126/c8b39f52d93a6462a59947185d71d712,1ce47111?w=1280",
     "date": 1795173800000,
     "titleSl": "V hladnem letnem času – ogrevanje brez radiatorjev! Ali se te tapete splača kupiti?"
-   },
-   {
-    "title": "Luftalarm in 42 Städten - Russische Marschflugkörper schlagen in Polen ein",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/luftalarm-in-42-staedten-flugobjekt-dringt-in-polens-luftraum-ein-und-stuerzt-ab-6b000cc039a3e8110f0e3731",
-    "image": "https://images.bild.de/6b000cc039a3e8110f0e3731/25ba495daf8ba0030186e38f197c2677,cbc9c8ef?w=1280",
-    "date": 1795173754000,
-    "titleSl": "Zračni alarm v 42 mestih – ruske manevrirne rakete so zadele Poljsko"
    }
   ],
   "krone": [
    {
-    "title": "Spielen Sie hier mit! - 24 Tage voller Freude: Adventkalender gewinnen",
-    "link": "https://www.krone.at/4371567",
-    "image": "https://imgl.krone.at/scaled/4382810/v80e149/full.jpg",
-    "date": 1795174499000,
-    "titleSl": "Sodelujte tukaj! – 24 dni polnih veselja: osvojite adventni koledar"
-   },
-   {
-    "title": "Mega-Unwetter in USA - Mann durch Wassermassen in Auto gefangen",
-    "link": "https://www.krone.at/4383063",
-    "image": "https://imgl.krone.at/scaled/4383062/v62b7f5/full.jpg",
-    "date": 1795174464000
-   },
-   {
     "title": "In der Nations League - Klopp-Elf gegen Belgien – Hammer-Los für Spanien",
     "link": "https://www.krone.at/4382630",
     "image": "https://imgl.krone.at/scaled/4382631/v09ec22/full.jpg",
-    "date": 1795174459000,
+    "date": 1795174680000,
     "titleSl": "V Ligi narodov – Kloppova ekipa proti Belgiji – težak žreb za Španijo"
    },
    {
     "title": "„Völlige Eskalation“ - Ausschreitungen in Wien: Demo wurde aufgelöst",
     "link": "https://www.krone.at/4382637",
-    "image": "https://imgl.krone.at/scaled/4344055/v7c28b6/full.jpg",
-    "date": 1795174328000,
+    "image": "https://imgl.krone.at/scaled/4383097/v63f429/full.jpg",
+    "date": 1795174642000,
     "titleSl": "»Popolna eskalacija« – Izgredi na Dunaju: Protest je bil razgnan"
+   },
+   {
+    "title": "Spielen Sie hier mit - 24 Tage Freude: Tolle Adventkalender zu gewinnen!",
+    "link": "https://www.krone.at/4371567",
+    "image": "https://imgl.krone.at/scaled/4382810/v80e149/full.jpg",
+    "date": 1795174627000,
+    "titleSl": "Sodelujte tukaj – 24 dni veselja: osvojite odlične adventne koledarje!"
+   },
+   {
+    "title": "Mega-Unwetter in USA - Mann durch Wassermassen in Auto gefangen",
+    "link": "https://www.krone.at/4383063",
+    "image": "https://imgl.krone.at/scaled/4383062/v62b7f5/full.jpg",
+    "date": 1795174464000,
+    "titleSl": "Hudo neurje v ZDA – moškega je v avtomobilu ujela vodna gmota"
    },
    {
     "title": "Dr. Helmut Marko: - „Das hat den Charme der Grazer Nordeinfahrt“",
@@ -1314,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T11:36:28.370Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-20T11:36:29.051Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-20T11:36:29.070Z",
+   "checkedAt": "2026-11-20T11:38:26.220Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T11:36:29.423Z",
+   "checkedAt": "2026-11-20T11:38:27.091Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-20T11:38:27.356Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-20T11:38:27.400Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T11:36:29.461Z",
+   "checkedAt": "2026-11-20T11:38:28.244Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-20T11:36:29.500Z",
+   "checkedAt": "2026-11-20T11:38:28.350Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-20T11:36:29.538Z",
+   "checkedAt": "2026-11-20T11:38:28.383Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-20T11:36:29.572Z",
+   "checkedAt": "2026-11-20T11:38:28.387Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-20T11:36:30.334Z",
+   "checkedAt": "2026-11-20T11:38:30.558Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T11:36:31.765Z",
+   "checkedAt": "2026-11-20T11:38:31.974Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T11:36:31.799Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-20T11:36:31.983Z",
+   "checkedAt": "2026-11-20T11:38:32.742Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T11:36:31.989Z",
+   "checkedAt": "2026-11-20T11:38:32.876Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-20T11:36:33.235Z",
+  "spiegel": {
+   "checkedAt": "2026-11-20T11:38:34.017Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T11:36:33.404Z",
+   "checkedAt": "2026-11-20T11:38:36.586Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-20T11:38:36.683Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T11:36:33.464Z",
+   "checkedAt": "2026-11-20T11:38:36.814Z",
    "success": true
   }
  },
