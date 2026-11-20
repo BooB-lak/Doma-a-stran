@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:48:36.129Z",
+ "generatedAt": "2026-11-20T23:50:48.215Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
+    "link": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20INMAN-01-pjqf/20INMAN-01-pjqf-mediumSquareAt3X.jpg",
+    "date": 1795217586000,
+    "titleSl": "Bobby Ray Inman, obveščevalni uradnik v času Carterja in Reagana, je umrl v starosti 95 let"
+   },
+   {
     "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
     "link": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20xp-krampus/20xp-krampus-mediumSquareAt3X.jpg",
@@ -501,6 +508,13 @@
     "titleSl": "Kaj so kraljevske plime in zakaj vsi govorijo o njih?"
    },
    {
+    "title": "The Evening: Are Nvidia Chips Helping Power the Chinese Military?",
+    "link": "https://www.nytimes.com/2026/11/20/briefing/nvidia-anthropic-ice.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20THE-EVENING-CHINA-HUANG-vlmf/20THE-EVENING-CHINA-HUANG-vlmf-mediumSquareAt3X.jpg",
+    "date": 1795214955000,
+    "titleSl": "Večer: Ali čipi Nvidia pomagajo kitajski vojski?"
+   },
+   {
     "title": "What Is a Stock Market Correction?",
     "link": "https://www.nytimes.com/article/stock-market-correction.html",
     "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-correction-explainer-promo/20biz-correction-explainer-promo-mediumSquareAt3X.png",
@@ -527,20 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
     "date": 1795214110000,
     "titleSl": "Uradniki so odkrili vrsto težav v zvezi z usposabljanjem pri uradu ICE v okviru Trumpovih strožjih ukrepov na področju priseljevanja"
-   },
-   {
-    "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
-    "date": 1795214045000,
-    "titleSl": "Trump se hvali s tovarištvom s predsednikoma Xi Jinpingom in Putinom, vendar ima malo tega, kar bi lahko pokazal"
-   },
-   {
-    "title": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
-    "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
-    "date": 1795213153000,
-    "titleSl": "Vodilni volilni uradnik New Hampshira ponovno poudarja namen ohraniti prve predvolitve v državi"
    }
   ],
   "bbc": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T23:48:21.301Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-20T23:48:21.953Z",
+   "checkedAt": "2026-11-20T23:50:42.825Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T23:48:21.969Z",
+   "checkedAt": "2026-11-20T23:50:43.657Z",
    "success": true
   },
-  "hop": {
-   "checkedAt": "2026-11-20T23:48:22.548Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-20T23:50:43.673Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-20T23:48:23.043Z",
+   "checkedAt": "2026-11-20T23:50:44.277Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-20T23:48:23.401Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-20T23:48:23.406Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T23:48:23.450Z",
+  "hop": {
+   "checkedAt": "2026-11-20T23:50:44.377Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-20T23:48:23.454Z",
+   "checkedAt": "2026-11-20T23:50:44.571Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T23:50:44.676Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-20T23:50:44.719Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T23:48:33.929Z",
+   "checkedAt": "2026-11-20T23:50:44.818Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-20T23:48:34.130Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-20T23:48:34.178Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-20T23:48:34.259Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-20T23:48:34.616Z",
+  "nyt": {
+   "checkedAt": "2026-11-20T23:50:47.542Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T23:48:34.621Z",
+   "checkedAt": "2026-11-20T23:50:47.609Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-20T23:50:47.872Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-20T23:50:47.894Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-20T23:50:48.038Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-20T23:50:48.091Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T23:48:36.128Z",
+   "checkedAt": "2026-11-20T23:50:48.214Z",
    "success": true
   }
  },
