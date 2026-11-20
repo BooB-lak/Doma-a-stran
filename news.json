@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:08:28.600Z",
+ "generatedAt": "2026-11-20T23:10:44.864Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+    "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+    "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
+    "date": 1795215946000,
+    "titleSl": "Vojna pustoši tudi po ukrajinskem prostoživečem svetu"
+   },
+   {
     "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
     "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00wea-kingtide-jmzl/00wea-kingtide-jmzl-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-stevie-wonder-tvqw/20cul-stevie-wonder-tvqw-mediumSquareAt3X.jpg",
     "date": 1795211786000,
     "titleSl": "Stevie Wonder z izvedbo skladbe »Key of Life« vse vabi, naj se pridružijo njegovemu veselju"
-   },
-   {
-    "title": "The Race to Build a Quantum Computer Has Become a Sprint",
-    "link": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
-    "date": 1795211166000,
-    "titleSl": "Tekma za izdelavo kvantnega računalnika je postala sprint"
    }
   ],
   "bbc": [
@@ -978,7 +978,7 @@
     "title": "Cage Fight Series 19 - Käfig-Hit! Auch Pizzalieferant bot Leckerbissen",
     "link": "https://www.krone.at/4371144",
     "image": "https://imgl.krone.at/scaled/4384033/vef6f0d/full.jpg",
-    "date": 1795215974000,
+    "date": 1795216199000,
     "titleSl": "Serija borb v kletki 19 – Käfig-Hit! Tudi dostavljalec pic je ponudil poslastico"
    },
    {
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T23:08:24.030Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-20T23:08:24.662Z",
+   "checkedAt": "2026-11-20T23:10:39.069Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T23:08:24.745Z",
+   "checkedAt": "2026-11-20T23:10:39.469Z",
    "success": true
   },
-  "zurnal": {
-   "checkedAt": "2026-11-20T23:08:24.917Z",
+  "siol": {
+   "checkedAt": "2026-11-20T23:10:39.503Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T23:08:25.273Z",
+   "checkedAt": "2026-11-20T23:10:40.402Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-20T23:08:25.477Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-20T23:08:25.574Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T23:08:25.627Z",
+  "zurnal": {
+   "checkedAt": "2026-11-20T23:10:40.484Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-20T23:08:25.696Z",
+   "checkedAt": "2026-11-20T23:10:40.857Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-20T23:10:40.900Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T23:10:40.981Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T23:08:26.064Z",
+   "checkedAt": "2026-11-20T23:10:41.090Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-20T23:08:26.574Z",
+  "nyt": {
+   "checkedAt": "2026-11-20T23:10:42.563Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T23:08:26.705Z",
+   "checkedAt": "2026-11-20T23:10:43.308Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-20T23:10:43.420Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T23:08:26.784Z",
+   "checkedAt": "2026-11-20T23:10:43.903Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T23:08:26.816Z",
+   "checkedAt": "2026-11-20T23:10:44.323Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-20T23:08:28.455Z",
+   "checkedAt": "2026-11-20T23:10:44.675Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T23:08:28.599Z",
+   "checkedAt": "2026-11-20T23:10:44.863Z",
    "success": true
   }
  },
