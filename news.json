@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T00:02:35.479Z",
+ "generatedAt": "2026-11-20T00:04:25.095Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg",
+    "date": 1795132674000,
+    "titleSl": "Arsenal »ima sestavine«, vendar je evropska elita na drugi ravni"
+   },
+   {
     "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
     "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
@@ -620,16 +627,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg",
     "date": 1795119370000,
     "titleSl": "Frank je vesel, da je »spet v cirkusu« v Palacu"
-   },
-   {
-    "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/4384ee10-e439-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1795118522000,
-    "titleSl": "Bowen: Sodba glede genocida v Mjanmaru je zgodovinska in bi lahko imela daljnosežne posledice"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=1200%2C675",
+    "date": 1795132720000,
+    "titleSl": "Vojna v Iranu v živo: Hutijci stopnjujejo napade na saudsko prestolnico"
+   },
    {
     "title": "Six killed in suspected gas explosion at Georgia apartment building",
     "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795117645.jpg?resize=1920%2C1080&quality=80",
     "date": 1795121031000,
     "titleSl": "Ali bo vrh v Shenzhenu zagotovil svetovni mir?"
-   },
-   {
-    "title": "How vaccine fears fuelled a major measles comeback in the US",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795120395.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795120514000,
-    "titleSl": "Kako so strahovi pred cepljenjem spodbudili velik povratek ošpic v ZDA"
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T00:02:30.193Z",
+   "checkedAt": "2026-11-20T00:04:20.804Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T00:02:31.172Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-20T00:02:31.203Z",
+   "checkedAt": "2026-11-20T00:04:21.496Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-20T00:02:31.349Z",
+   "checkedAt": "2026-11-20T00:04:21.748Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-20T00:04:21.785Z",
    "success": true
   },
   "hop": {
    "checkedAt": "2026-11-20T00:02:31.789Z",
-   "success": true
+   "success": false
   },
   "guardian": {
-   "checkedAt": "2026-11-20T00:02:31.939Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T00:02:31.999Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-20T00:02:32.050Z",
+   "checkedAt": "2026-11-20T00:04:22.506Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-20T00:02:32.080Z",
+   "checkedAt": "2026-11-20T00:04:22.544Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T00:02:32.241Z",
+   "checkedAt": "2026-11-20T00:04:22.965Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-20T00:02:32.645Z",
+  "bbc": {
+   "checkedAt": "2026-11-20T00:04:24.126Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-20T00:04:24.178Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T00:02:32.734Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-20T00:02:32.917Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-20T00:02:33.245Z",
+   "checkedAt": "2026-11-20T00:04:24.588Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-20T00:02:33.476Z",
+   "checkedAt": "2026-11-20T00:04:24.636Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-20T00:04:24.644Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-20T00:04:24.819Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-20T00:04:24.907Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T00:02:35.479Z",
+   "checkedAt": "2026-11-20T00:04:25.094Z",
    "success": true
   }
  },
