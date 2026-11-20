@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:06:43.435Z",
+ "generatedAt": "2026-11-20T17:08:35.541Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/sportal/kolesarstvo/mladi-slovenec-maj-bohak-ostaja-v-mladinski-ekipi-red-bulla-706811",
     "image": "https://siol.net/media/img/f6/59/5318cb6fb766eb7d4155.jpeg",
     "date": 1795194000000
+   },
+   {
+    "title": "Koalicija kljub izstopu dveh poslancev iz Resni.ce ostaja trdna",
+    "link": "https://siol.net/novice/slovenija/koalicija-kljub-izstopu-dveh-poslancev-iz-resni-ce-ostaja-trdna-706827",
+    "image": "https://siol.net/media/img/e0/21/c73303e0ba776f5e1460.jpeg",
+    "date": 1795193760000
    },
    {
     "title": "Slovenija na uvodni tekmi četrta, Norveška razred zase",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/zimski-sporti/smucarski-skoki-lillehammer-mesana-ekipna-tekma-706816",
     "image": "https://siol.net/media/img/16/7f/047af1555282c15c4157.jpeg",
     "date": 1795189200000
-   },
-   {
-    "title": "Janša: Pred strateškim svetom so veliki izzivi",
-    "link": "https://siol.net/novice/slovenija/jansa-pred-strateskim-svetom-so-veliki-izzivi-706821",
-    "image": "https://siol.net/media/img/1a/82/31664248572f79ef6eb4.jpeg",
-    "date": 1795188960000
    }
   ],
   "24ur": [
@@ -652,11 +652,11 @@
     "titleSl": "Ameriški senat je sprejel zakon za pospešitev odobritev energetskih projektov"
    },
    {
-    "title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
+    "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
     "link": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-06T191310Z_1131641346_RC2UX1AFCIMG_RTRMADP_3_SPAIN-ELECTION-VOX-1689598559.jpg?resize=1920%2C1440",
     "date": 1795190731000,
-    "titleSl": "»Izgnati vsiljivce«: Nevarne obljube španske skrajno desničarske stranke Vox"
+    "titleSl": "Kaj je Vox in kako je španska skrajno desna stranka pridobila na pomenu?"
    },
    {
     "title": "One third of attacks on children worldwide recorded in Palestine",
@@ -716,6 +716,13 @@
    }
   ],
   "guardian": [
+   {
+    "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
+    "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "date": 1795194247000,
+    "titleSl": "COP31 v živo: razburljiva podnebna pogajanja se nadaljujejo v podaljšku brez obetov za nov osnutek sporazuma"
+   },
    {
     "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
     "link": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
@@ -778,13 +785,6 @@
     "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=700&quality=85&auto=format&fit=max&s=208f4dc2f1acef8d1b4443cd0df870d0",
     "date": 1795192914000,
     "titleSl": "EU si želi »čim tesnejše odnose« z Združenim kraljestvom po dogovoru o ponovni vzpostavitvi odnosa po brexitu – v živo"
-   },
-   {
-    "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
-    "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "date": 1795192579000,
-    "titleSl": "COP31 v živo: razburljiva podnebna pogajanja se nadaljujejo v podaljšku brez obetov za nov osnutek sporazuma"
    },
    {
     "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
@@ -975,6 +975,20 @@
   ],
   "krone": [
    {
+    "title": "Minister: „Gfraster!“ - 13-Jähriger rückt vom Krisenheim zu Überfällen aus",
+    "link": "https://www.krone.at/4382972",
+    "image": "https://imgl.krone.at/scaled/4382883/v3930ac/full.jpg",
+    "date": 1795194420000,
+    "titleSl": "Minister: »Poredenec!« – 13-letnik se iz zavetišča za osebe v krizi odpravi na ropanje"
+   },
+   {
+    "title": "Vor „Black Friday“ - Neues Gesetz: „Später bezahlen“ wird schwieriger",
+    "link": "https://www.krone.at/4378873",
+    "image": "https://imgl.krone.at/scaled/3818688/vb07e0e/full.jpg",
+    "date": 1795194380000,
+    "titleSl": "Pred »črnim petkom« – nov zakon: »Plačaj pozneje« bo težje"
+   },
+   {
     "title": "Vier Schicksale - „Ruf den Papa an“: Was Scheidung mit Kindern macht",
     "link": "https://www.krone.at/4373147",
     "image": "https://imgl.krone.at/scaled/4377571/v82a4a0/full.jpg",
@@ -1043,23 +1057,16 @@
     "image": "https://imgl.krone.at/scaled/4383565/v525ce0/full.jpg",
     "date": 1795194008000,
     "titleSl": "Padec iz avtomobila – Voznik pravi, da se je Sally (18) želela uleči"
-   },
-   {
-    "title": "150 Teilnehmer - Gen-Z-Demo in Graz: „Wir haben die Schnauze voll!“",
-    "link": "https://www.krone.at/4383656",
-    "image": "https://imgl.krone.at/scaled/4383693/v14932a/full.jpg",
-    "date": 1795194002000,
-    "titleSl": "150 udeležencev – Demonstracije generacije Z v Gradcu: »Dovolj nam je!«"
-   },
-   {
-    "title": "Youngster zeigt auf! - Starker Auftakt! ÖSV-Mixed-Team holt Stockerlplatz",
-    "link": "https://www.krone.at/4381382",
-    "image": "https://imgl.krone.at/scaled/4383626/v44d075/full.jpg",
-    "date": 1795193939000,
-    "titleSl": "Mladinec se izkaže! – Odličen začetek! Mešana ekipa ÖSV osvoji mesto na zmagovalnem odru"
    }
   ],
   "rainews": [
+   {
+    "title": "Borse in profondo rosso, crolla il tech",
+    "link": "https://www.rainews.it/articoli/2026/11/borse-in-profondo-rosso-crolla-il-tech-6452f973-2072-426c-b6df-44f4ebb4e11c.html",
+    "image": "https://www.rainews.it/dl/img/2023/11/16/1700153641653_Immagine.jpg",
+    "date": 1795194240000,
+    "titleSl": "Borze v globoki rdeči barvi, tehnološki sektor je padel"
+   },
    {
     "title": "Cortei, a Roma due studenti fanno scudo agli agenti davanti al ministero",
     "link": "https://www.rainews.it/articoli/2026/11/sciopero-generale-a-roma-due-studenti-fanno-scudo-ad-agenti-davanti-al-ministero-8a61357a-f130-432b-a56d-4b49f989a7e5.html",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2025/09/30/1759222931269_2048x1152.jpg",
     "date": 1795187147000,
     "titleSl": "Pomeriggio 24 – Oddaja z dne 20. 11. 2026"
-   },
-   {
-    "title": "Corteo a Roma, lanciato un monopattino contro gli agenti, uno studente lo mette a posto: \"Che fate?\"",
-    "link": "https://www.rainews.it/video/2026/11/roma-il-corteo-degli-studenti-davanti-al-ministero-dellistruzione-lanciato-anche-un-monopattino-c3f26622-2d69-4dde-8171-9c01fdfbe309.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/20/1795185318791_Immagine__.png",
-    "date": 1795185060000,
-    "titleSl": "Na protestu v Rimu je nekdo vrgel električni skiro proti policistom, študent pa ga je postavil na mesto: »Kaj počnete?«"
    }
   ],
   "lemonde": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T17:06:28.352Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-20T17:06:28.902Z",
+   "checkedAt": "2026-11-20T17:08:27.001Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T17:06:28.942Z",
+   "checkedAt": "2026-11-20T17:08:28.098Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-20T17:08:28.478Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-20T17:06:29.364Z",
+   "checkedAt": "2026-11-20T17:08:28.684Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T17:06:29.818Z",
+   "checkedAt": "2026-11-20T17:08:28.813Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-20T17:06:30.143Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T17:06:30.336Z",
+   "checkedAt": "2026-11-20T17:08:28.898Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-20T17:06:30.544Z",
+   "checkedAt": "2026-11-20T17:08:29.003Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T17:06:32.380Z",
+  "guardian": {
+   "checkedAt": "2026-11-20T17:08:29.130Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T17:06:35.208Z",
+   "checkedAt": "2026-11-20T17:08:29.174Z",
    "success": true
   },
-  "rainews": {
-   "checkedAt": "2026-11-20T17:06:36.341Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-20T17:06:37.188Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-20T17:08:30.869Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T17:06:39.230Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-20T17:06:40.096Z",
+   "checkedAt": "2026-11-20T17:08:31.030Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T17:06:43.270Z",
+   "checkedAt": "2026-11-20T17:08:31.236Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-20T17:08:31.361Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-20T17:08:34.538Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-20T17:08:35.428Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T17:06:43.434Z",
+   "checkedAt": "2026-11-20T17:08:35.540Z",
    "success": true
   }
  },
