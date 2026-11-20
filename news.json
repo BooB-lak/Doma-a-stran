@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T18:18:39.912Z",
+ "generatedAt": "2026-11-20T18:20:46.965Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Beljak - Olimpija 0:0",
+    "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/beljak-olimpija-0-0/800775",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123436.jpg",
+    "date": 1795198506000
+   },
+   {
     "title": "Lakersi v pokalnem obračunu ob 4.00 gostijo skromni Sacramento",
     "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/lakersi-v-pokalnem-obracunu-ob-4-00-gostijo-skromni-sacramento/800719",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/12/67121030.jpg",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/kultura/drugo/fridl-jarc-izrazito-smo-podprli-pobudo-poljske-da-se-rusija-izkljuci-z-beneskega-bienala/800770",
     "image": "https://img.rtvcdn.si/_up/upload/2026/10/31/67117827.jpg",
     "date": 1795189491000
-   },
-   {
-    "title": "Strateški svet za umetno inteligenco naj bi prve ukrepe pripravil do marca",
-    "link": "https://www.rtvslo.si/gospodarstvo/strateski-svet-za-umetno-inteligenco-naj-bi-prve-ukrepe-pripravil-do-marca/800771",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123403.jpg",
-    "date": 1795189385000
    }
   ],
   "zurnal": [
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers",
+    "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
+    "date": 1795197936000,
+    "titleSl": "Mreža čipov osumljenca vohunjenja je povezana s kitajskimi vojaškimi dobavitelji"
+   },
+   {
     "title": "Jonathan Yardley, Who Reviewed 3,000 Books and Pulled Zero Punches, Has Died",
     "link": "https://www.nytimes.com/2026/11/20/books/jonathan-yardley-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00obit-yardley-hmlw/00obit-yardley-hmlw-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00-AI-token-callout-01-bwlm/00-AI-token-callout-01-bwlm-mediumSquareAt3X.jpg",
     "date": 1795190405000,
     "titleSl": "Ali vam vaš delodajalec naroča, da uporabljate umetno inteligenco? Želimo slišati vaše mnenje."
-   },
-   {
-    "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
-    "link": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-paxton-1t-pbwj/20nat-paxton-1t-pbwj-mediumSquareAt3X.jpg",
-    "date": 1795190177000,
-    "titleSl": "Ken Paxton ob odhodu s položaja umakne tožbe proti političnim nasprotnikom"
    }
   ],
   "bbc": [
@@ -557,6 +557,13 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8e/live/36d953b0-e4d7-11f1-ae38-71bf515761f1.jpg",
     "date": 1795197620000,
     "titleSl": "Svetovno prvenstvo v netballu za moške – vprašanje ni, ali bo potekalo, ampak kdaj?"
+   },
+   {
+    "title": "'Right time' for Smith exit - but Murray not ready for role",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/032d4920-e506-11f1-b40b-5f46e8cf687c.jpg",
+    "date": 1795196858000,
+    "titleSl": "»Pravi čas« za Smithov odhod – vendar Murray ni pripravljen na vlogo"
    },
    {
     "title": "Calls for consent defence change after Joanne Young rape case",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
     "date": 1795192912000,
     "titleSl": "Faisal Islam: Ta sporazum med Združenim kraljestvom in EU o znižanju stroškov ne pomeni, da bodo sledile nižje cene"
-   },
-   {
-    "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-    "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b1/live/8179c6e0-e4f8-11f1-99a1-253766e7ad8b.jpg",
-    "date": 1795192789000,
-    "titleSl": "Daniel Thomas je bil obsojen na 15 mesecev zapora zaradi prediranja čolna"
    }
   ],
   "aljazeera": [
@@ -720,8 +720,29 @@
     "title": "Trump boasts of ‘great’ relationship with Xi in wide-ranging press conference after Asia trip – live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
-    "date": 1795198041000,
+    "date": 1795198645000,
     "titleSl": "Trump se po obsežni tiskovni konferenci po azijski turneji hvali z »odličnimi« odnosi s Sijem – v živo"
+   },
+   {
+    "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw – live",
+    "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+    "image": "https://i.guim.co.uk/img/media/a87b38a80782dd29e77eb49a598b51f3684f958e/0_0_5381_4305/master/5381.jpg?width=700&quality=85&auto=format&fit=max&s=dc0079c542126e4b0843a0274a59aa35",
+    "date": 1795198596000,
+    "titleSl": "Pochettino zahteva besedo pri pomembnih odločitvah v Unitedu; Arteta sprejme ukrepe v zvezi s fantazijskim nogometom; žreb za Ligo narodov – v živo"
+   },
+   {
+    "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+    "image": "https://i.guim.co.uk/img/media/f8e40ebdb59af4c88a35f0a5831e5d5d9dafb33f/0_183_3993_3194/master/3993.jpg?width=700&quality=85&auto=format&fit=max&s=86edd8ae1433850f5e341fbae5f34b25",
+    "date": 1795198285000,
+    "titleSl": "Nigel Farage pravi, da nihče drug v stranki Reform UK ni primeren za vodenje stranke"
+   },
+   {
+    "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
+    "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "date": 1795198276000,
+    "titleSl": "COP31 v živo: razburljiva podnebna pogajanja se nadaljujejo v podaljšku brez obetov za nov osnutek sporazuma"
    },
    {
     "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
@@ -729,13 +750,6 @@
     "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=700&quality=85&auto=format&fit=max&s=cfe2a193d15f66ab4c0a55464b902496",
     "date": 1795198012000,
     "titleSl": "Operacija v Združenem kraljestvu preprečuje tveganje kibernetskega napada na hladilnike in zamrzovalnike v supermarketih"
-   },
-   {
-    "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw – live",
-    "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-    "image": "https://i.guim.co.uk/img/media/a87b38a80782dd29e77eb49a598b51f3684f958e/0_0_5381_4305/master/5381.jpg?width=700&quality=85&auto=format&fit=max&s=dc0079c542126e4b0843a0274a59aa35",
-    "date": 1795197936000,
-    "titleSl": "Pochettino zahteva besedo pri pomembnih odločitvah v Unitedu; Arteta sprejme ukrepe v zvezi s fantazijskim nogometom; žreb za Ligo narodov – v živo"
    },
    {
     "title": "Premier League team news: predicted lineups for the weekend action",
@@ -766,18 +780,11 @@
     "titleSl": "Volivci v štirih od petih volilnih okrožij Združenega kraljestva podpirajo ponovno vključitev v EU"
    },
    {
-    "title": "After Brand, and now another horrific rape verdict, shame really does have to change sides | Jonathan Freedland",
+    "title": "After Russell Brand, and now another horrific rape verdict, shame really does have to change sides | Jonathan Freedland",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/20/russell-brand-rape-verdict-shame-men-women",
     "image": "https://i.guim.co.uk/img/media/d02b9af16ad741274fd2d411b8a6528da9d44a97/1465_397_4352_3481/master/4352.jpg?width=700&quality=85&auto=format&fit=max&s=6d88e6fa700d672fe2041ebbab2cef87",
     "date": 1795197163000,
-    "titleSl": "Po primeru Brand in zdaj še eni grozljivi sodbi v zvezi s posilstvom mora sramota resnično preiti na drugo stran | Jonathan Freedland"
-   },
-   {
-    "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
-    "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "date": 1795197031000,
-    "titleSl": "COP31 v živo: razburljiva podnebna pogajanja se nadaljujejo v podaljšku brez obetov za nov osnutek sporazuma"
+    "titleSl": "Po Russellu Brandu je tukaj še ena grozljiva sodba v zadevi posilstva. Res je čas, da se sramota preusmeri na drugo stran | Jonathan Freedland"
    },
    {
     "title": "Two men killed after glider crashes into Loch Leven in Scotland",
@@ -792,13 +799,6 @@
     "image": "https://i.guim.co.uk/img/media/67d48b03daadfbe3598ac85c0a45561da095975b/1105_414_4482_3586/master/4482.jpg?width=700&quality=85&auto=format&fit=max&s=b0c7645ecf2c102c85c8508825ed47ad",
     "date": 1795196416000,
     "titleSl": "Konjske dirke pretresle grožnje s smrtjo, ki jih je Bowens prejel po varnostnem incidentu z De Boinvillom"
-   },
-   {
-    "title": "Joanne Young’s faith in justice system is sign of real change, but courts are still catching up",
-    "link": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
-    "image": "https://i.guim.co.uk/img/media/29d9cd1104652204d08aac35e8b9099daebed0d8/0_0_4928_3943/master/4928.jpg?width=700&quality=85&auto=format&fit=max&s=60e92f131169c4da143044b02af9446c",
-    "date": 1795196346000,
-    "titleSl": "Vera Joanne Young v pravosodni sistem je znak resničnih sprememb, vendar sodišča še vedno dohitevajo."
    }
   ],
   "spiegel": [
@@ -892,8 +892,29 @@
     "title": "Live-Ticker - „Helm auf!“ in Leipzig",
     "link": "https://www.bild.de/news/inland/liveticker-zu-gen-z-proteste-polizei-fuerchtet-neue-krawalle-6affeabeb237b5b41c9a1e74",
     "image": "https://images.bild.de/6affeabeb237b5b41c9a1e74/13429e882f2d9653ccdc472cbe20d7a0,811f16f5?w=1280",
-    "date": 1795198604000,
+    "date": 1795198704000,
     "titleSl": "Prenos v živo – »Helm auf!« v Leipzigu"
+   },
+   {
+    "title": "Selbst die Linke ist überrascht - Berliner SPD will „Anti-Palästina-Rassismus“ erfassen",
+    "link": "https://www.bild.de/politik/inland/berliner-spd-will-anti-palaestinensischen-rassismus-extra-erfassen-lassen-6b004e28b237b5b41c9a2a96",
+    "image": "https://images.bild.de/6b004e28b237b5b41c9a2a96/fcc753513df57e23aa58de538c63cdbb,b462b7e5?w=1280",
+    "date": 1795198661000,
+    "titleSl": "Presenečena je celo Levica – Berlinska SPD želi zajeti »protipalestinski rasizem«"
+   },
+   {
+    "title": "Unwetter in Kalifornien und Florida - Erst Todesfeuer, jetzt Sturzflut",
+    "link": "https://www.bild.de/news/ausland/unwetter-in-kalifornien-und-florida-erst-todesfeuer-jetzt-sturzflut-6b000edfb237b5b41c9a21d0",
+    "image": "https://images.bild.de/6b000edfb237b5b41c9a21d0/9100742491bb1fc959a87db5aa4be9b6,847d1498?w=1280",
+    "date": 1795198646000,
+    "titleSl": "Neurje v Kaliforniji in na Floridi – najprej smrtonosni požar, zdaj pa še poplava"
+   },
+   {
+    "title": "BILD sprach mit den Video-Machern - Neuer gab nicht zu, Neuer zu sein",
+    "link": "https://www.bild.de/sport/fussball/bild-sprach-mit-den-jungs-die-die-videos-machten-neuer-gab-nicht-zu-neuer-zu-sein-6b00658db237b5b41c9a2dcc",
+    "image": "https://images.bild.de/6b00658db237b5b41c9a2dcc/950aef35227ec7f3d812d29289982d0d,932f1538?w=1280",
+    "date": 1795198622000,
+    "titleSl": "BILD je govoril z avtorji videoposnetka – Neuer ni priznal, da je Neuer"
    },
    {
     "title": "Mega-Überraschung! - NFL-Team feuert Star-Quarterback",
@@ -924,13 +945,6 @@
     "titleSl": "Tik pred začetkom tekme – Nenadoma nenavadne razmere glede trenerja pri drugoligašu"
    },
    {
-    "title": "Unwetter in Kalifornien und Florida - Erst Todesfeuer, jetzt Sturzflut",
-    "link": "https://www.bild.de/news/ausland/unwetter-in-kalifornien-und-florida-erst-todesfeuer-jetzt-sturzflut-6b000edfb237b5b41c9a21d0",
-    "image": "https://images.bild.de/6b000edfb237b5b41c9a21d0/9100742491bb1fc959a87db5aa4be9b6,847d1498?w=1280",
-    "date": 1795198468000,
-    "titleSl": "Neurje v Kaliforniji in na Floridi – najprej smrtonosni požar, zdaj pa še poplava"
-   },
-   {
     "title": "In der neuen Staffel 2026 - Alle Teams und Talente von „The Voice of Germany“",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/the-voice-of-germany-2026-das-sind-alle-teams-und-talente-6afc40799e0813f450afb1de",
     "image": "https://images.bild.de/6afc40799e0813f450afb1de/6f5b5b0f4ff7329280f55b551095c752,ee7d7897?w=1280",
@@ -957,20 +971,6 @@
     "image": "https://images.bild.de/65b114693f11df421f3df0bd/f3dfc4af92485f538ff98b5ca0b93604,7b0b451b?w=1280",
     "date": 1795197991000,
     "titleSl": "»SmackDown« v živo od 2. ure dalje – Nocoj bo razrešena velika uganka WWE"
-   },
-   {
-    "title": "Schauspieler im Steckbrief - Die vielen Facetten des GZSZ-Stars Jan Kittmann",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/jan-kittmann-im-steckbrief-wie-tickt-der-gzsz-frauenschwarm-698d917ff4d0b8d94ca19ad4",
-    "image": "https://images.bild.de/698d917ff4d0b8d94ca19ad4/b0aceb0559df17b32493313531c53585,3cb508b8?w=1280",
-    "date": 1795197910000,
-    "titleSl": "Igralec v profilu – številne plati zvezdnika serije GZSZ Jana Kittmanna"
-   },
-   {
-    "title": "Rechtsstreit mit Ex-Profi El Ghazi beendet - Mainz muss 2,6 Mio. Euro für 51 Spielminuten zahlen",
-    "link": "https://www.bild.de/sport/fussball/fall-el-ghazi-beendet-mainz-05-zahlt-2-64-mio-fuer-51-spielminuten-6b001ba9be487c5437746d58",
-    "image": "https://images.bild.de/6b001ba9be487c5437746d58/5c0fa68fdeb816d4794648646c8c335e,60833ada?w=1280",
-    "date": 1795197890000,
-    "titleSl": "Pravni spor z nekdanjim profesionalnim igralcem El Ghazijem je končan – Mainz mora plačati 2,6 milijona EUR Evrov za 51 minut igre"
    }
   ],
   "krone": [
@@ -1147,6 +1147,13 @@
   ],
   "lemonde": [
    {
+    "title": "Au terme de longues négociations, le Royaume-Uni et l’Union européenne font un pas l’un vers l’autre",
+    "link": "https://www.lemonde.fr/international/article/2026/11/20/au-terme-de-longues-negociations-le-royaume-uni-et-l-union-europeenne-font-un-pas-l-un-vers-l-autre_6813690_3210.html",
+    "image": "https://img.lemde.fr/2026/11/20/155/0/4432/2216/644/322/60/0/28cf159_ftp-1-em1yiplzdogw-8834e5c74af641c0bc368e48f43e41df-0-b5d3c646aa0e4fee8172ac5fa9b72fb3.jpg",
+    "date": 1795198517000,
+    "titleSl": "Po dolgotrajnih pogajanjih sta Združeno kraljestvo in Evropska unija naredila korak drug proti drugemu."
+   },
+   {
     "title": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
     "link": "https://www.lemonde.fr/afrique/article/2026/11/20/minerais-critiques-au-kenya-un-consortium-americain-met-la-main-sur-un-site-prometteur_6813689_3212.html",
     "image": "https://img.lemde.fr/2026/11/20/350/0/4200/2100/644/322/60/0/f0544c3_upload-1-mhtffawx25uc-000-77d26zp.jpg",
@@ -1222,13 +1229,6 @@
     "image": "https://img.lemde.fr/2026/11/20/315/0/5041/2520/644/322/60/0/eafdd87_upload-1-7fnyjusefjic-000-a99j9xx.jpg",
     "date": 1795194002000,
     "titleSl": "Pri Accorju glavni delničar zahteva odstop predsednika uprave Sébastiena Bazina"
-   },
-   {
-    "title": "Contre la guerre et la vie chère, pour la jeunesse : les images des manifestations en Italie",
-    "link": "https://www.lemonde.fr/international/video/2026/11/20/contre-la-guerre-et-la-vie-chere-pour-la-jeunesse-les-images-des-manifestations-en-italie_6813669_3210.html",
-    "image": "https://img.lemde.fr/2026/11/20/1810/0/3621/1810/644/322/60/0/52c17eb_ftp-1-h4cwzkfncwxk-3564b44f8e614397bd1b2e999cfc1785-0-e96cda1abed74687925b06beb24f3e42.jpg",
-    "date": 1795193711000,
-    "titleSl": "Proti vojni in visokim življenjskim stroškom, za mlade: fotografije protestov v Italiji"
    }
   ],
   "elpais": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T18:18:22.760Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-20T18:18:23.308Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-20T18:18:23.657Z",
+   "checkedAt": "2026-11-20T18:20:37.412Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T18:18:23.780Z",
+   "checkedAt": "2026-11-20T18:20:38.022Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-20T18:20:38.052Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-20T18:20:38.385Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T18:18:23.896Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-20T18:18:24.119Z",
+   "checkedAt": "2026-11-20T18:20:38.934Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-20T18:18:24.228Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T18:18:24.258Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-20T18:18:24.323Z",
+   "checkedAt": "2026-11-20T18:20:39.382Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T18:18:33.047Z",
+   "checkedAt": "2026-11-20T18:20:39.608Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-20T18:20:41.233Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-20T18:20:41.374Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T18:20:42.870Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T18:18:33.496Z",
+   "checkedAt": "2026-11-20T18:20:43.691Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-20T18:18:33.594Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-20T18:18:33.817Z",
+   "checkedAt": "2026-11-20T18:20:44.379Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T18:18:34.078Z",
+   "checkedAt": "2026-11-20T18:20:44.670Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-20T18:20:45.703Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T18:18:39.778Z",
+   "checkedAt": "2026-11-20T18:20:46.576Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T18:18:39.911Z",
+   "checkedAt": "2026-11-20T18:20:46.964Z",
    "success": true
   }
  },
