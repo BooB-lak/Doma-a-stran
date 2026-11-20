@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:38:27.493Z",
+ "generatedAt": "2026-11-20T08:40:42.813Z",
  "sources": {
   "siol": [
    {
@@ -459,8 +459,14 @@
   ],
   "nyt": [
    {
+    "title": "Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’",
+    "link": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
+    "image": "",
+    "date": 1795162483000
+   },
+   {
     "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
-    "link": "https://www.nytimes.com/2026/11/20/world/australia/wreck-of-first-australian-built-warship-is-revealed-128-years-after-it-sank.html",
+    "link": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
     "image": "",
     "date": 1795162387000,
     "titleSl": "Razbitine prve vojaške ladje avstralske izdelave so bile odkrite 128 let po tem, ko je potonila"
@@ -534,13 +540,6 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X-v2.jpg",
     "date": 1795145105000,
     "titleSl": "Povodni konj Fiona, zvezda živalskega vrta v Cincinnatiju in širše, je poginila, potem ko je pojedla otroški klobuk"
-   },
-   {
-    "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
-    "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
-    "date": 1795141408000,
-    "titleSl": "To ni kibernetska apokalipsa, vendar pa ni dobro"
    }
   ],
   "bbc": [
@@ -975,6 +974,12 @@
   ],
   "krone": [
    {
+    "title": "Unmut in Bevölkerung - So viel hat der Iran-Krieg die USA bisher gekostet",
+    "link": "https://www.krone.at/4382680",
+    "image": "https://imgl.krone.at/scaled/4097942/v9b1e62/full.jpg",
+    "date": 1795163971000
+   },
+   {
     "title": "Alarm im Cine Nova - Wiener Neustadt: Kinobar stand in Flammen",
     "link": "https://www.krone.at/4382694",
     "image": "https://imgl.krone.at/scaled/4382697/v1a9935/full.jpg",
@@ -1050,13 +1055,6 @@
     "image": "https://imgl.krone.at/scaled/4344055/v7c28b6/full.jpg",
     "date": 1795162312000,
     "titleSl": "Več kot 1000 udeležencev – »Generacija Z prevzema vajeti«: v Dunaju poteka več demonstracij hkrati"
-   },
-   {
-    "title": "„Trauma“ durch Brexit - Diese Schmerzen wollen Brüssel und London lindern",
-    "link": "https://www.krone.at/4382647",
-    "image": "https://imgl.krone.at/scaled/4382663/v806017/full.jpg",
-    "date": 1795162212000,
-    "titleSl": "»Travma« zaradi brexita – Bruselj in London želita ublažiti te bolečine"
    }
   ],
   "rainews": [
@@ -1296,18 +1294,18 @@
     "titleSl": "Trije robotski sesalniki Ecovacs po zelo znižanih cenah ob Črnem petku: do 400 evrov ceneje"
    },
    {
-    "title": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
-    "link": "https://elpais.com/economia/2026-11-20/las-rentas-mas-altas-acaparan-tres-cuartas-partes-de-las-ventajas-fiscales-al-alquiler-de-vivienda.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/KZUJR5IV6ZA4PMQ5DCNMEL6KKM.jpg?auth=16d5809007f829f7f5ec0caa2ba4c71eb207f3364e9fae8ac4ff64379182f7a8",
-    "date": 1795149901000,
-    "titleSl": "Najvišji dohodki zajemajo tri četrtine davčnih ugodnosti pri najemu stanovanj"
-   },
-   {
     "title": "El Roto: el cambio",
     "link": "https://elpais.com/opinion/2026-11-20/el-roto-el-cambio.html",
     "image": "https://imagenes.elpais.com/resizer/v2/N27ON6IPV5G2ZP67BMU3UVG2FI.jpg?auth=c66c744cbc9c9a2a4f4798d3669ad196615a3f337396ea67077dbf8a7834529c",
     "date": 1795149901000,
     "titleSl": "El Roto: sprememba"
+   },
+   {
+    "title": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
+    "link": "https://elpais.com/economia/2026-11-20/las-rentas-mas-altas-acaparan-tres-cuartas-partes-de-las-ventajas-fiscales-al-alquiler-de-vivienda.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/KZUJR5IV6ZA4PMQ5DCNMEL6KKM.jpg?auth=16d5809007f829f7f5ec0caa2ba4c71eb207f3364e9fae8ac4ff64379182f7a8",
+    "date": 1795149901000,
+    "titleSl": "Najvišji dohodki zajemajo tri četrtine davčnih ugodnosti pri najemu stanovanj"
    },
    {
     "title": "Isabel Coixet: “¿Café Starbucks? Lo hemos abrazado a cambio de nada”",
@@ -1320,67 +1318,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T08:38:22.597Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-20T08:38:23.361Z",
+   "checkedAt": "2026-11-20T08:40:39.463Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T08:38:23.382Z",
+   "checkedAt": "2026-11-20T08:40:40.100Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T08:38:23.897Z",
+   "checkedAt": "2026-11-20T08:40:40.573Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T08:38:24.418Z",
+   "checkedAt": "2026-11-20T08:40:40.716Z",
    "success": true
   },
-  "bbc": {
-   "checkedAt": "2026-11-20T08:38:24.702Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T08:38:24.709Z",
+  "zurnal": {
+   "checkedAt": "2026-11-20T08:40:40.902Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-20T08:38:24.736Z",
+   "checkedAt": "2026-11-20T08:40:40.967Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-20T08:38:24.766Z",
+  "bbc": {
+   "checkedAt": "2026-11-20T08:40:40.970Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T08:40:40.994Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T08:38:25.097Z",
+   "checkedAt": "2026-11-20T08:40:41.645Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-20T08:38:25.371Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-20T08:38:25.446Z",
+  "nyt": {
+   "checkedAt": "2026-11-20T08:40:41.856Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T08:38:25.555Z",
+   "checkedAt": "2026-11-20T08:40:41.890Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-20T08:38:27.261Z",
+  "spiegel": {
+   "checkedAt": "2026-11-20T08:40:42.079Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T08:38:27.388Z",
+   "checkedAt": "2026-11-20T08:40:42.105Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-20T08:40:42.137Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-20T08:40:42.756Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T08:38:27.492Z",
+   "checkedAt": "2026-11-20T08:40:42.812Z",
    "success": true
   }
  },
