@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:44:37.999Z",
+ "generatedAt": "2026-11-20T22:46:29.159Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+    "link": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
+    "date": 1795214767000,
+    "titleSl": "Matematik iz podjetja Anthropic trdi, riemannovo domnevo rešil s pomočjo modela Claude"
+   },
+   {
     "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
     "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
@@ -508,13 +515,6 @@
     "titleSl": "Stevie Wonder z izvedbo skladbe »Key of Life« vse vabi, naj se pridružijo njegovemu veselju"
    },
    {
-    "title": "Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem",
-    "link": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
-    "date": 1795211223000,
-    "titleSl": "Matematik iz podjetja Anthropic trdi, da je rešil najbolj znan matematični problem"
-   },
-   {
     "title": "The Race to Build a Quantum Computer Has Become a Sprint",
     "link": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
@@ -550,6 +550,13 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f08/live/599393b0-e50f-11f1-99b6-a35a62fa4264.jpg",
     "date": 1795214567000,
     "titleSl": "Razprodaja tehnoloških delnic povzroča padec trgov, saj delnice družbe Anthropic padajo"
+   },
+   {
+    "title": "NFL great Brady could buy Chelsea stake",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg",
+    "date": 1795214195000,
+    "titleSl": "Velikan lige NFL Brady bi lahko kupil delež v Chelseaju"
    },
    {
     "title": "Price survives match darts to reach Grand Slam semis",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8e/live/36d953b0-e4d7-11f1-ae38-71bf515761f1.jpg",
     "date": 1795197620000,
     "titleSl": "Svetovno prvenstvo v netballu za moške – vprašanje ni, ali bo potekalo, ampak kdaj?"
-   },
-   {
-    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
-    "date": 1795196988000,
-    "titleSl": "Burnham pravi, da bo Združeno kraljestvo po sklenitvi sporazuma raziskalo še tesnejše vezi z EU"
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T22:44:30.182Z",
+   "checkedAt": "2026-11-20T22:46:24.137Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T22:44:30.728Z",
+   "checkedAt": "2026-11-20T22:46:24.819Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T22:44:30.731Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-20T22:44:31.060Z",
+   "checkedAt": "2026-11-20T22:46:25.149Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T22:44:31.500Z",
+   "checkedAt": "2026-11-20T22:46:25.382Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T22:44:31.875Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-20T22:44:31.926Z",
+  "zurnal": {
+   "checkedAt": "2026-11-20T22:46:25.670Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-20T22:44:31.939Z",
+   "checkedAt": "2026-11-20T22:46:26.008Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-20T22:46:26.075Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T22:44:32.198Z",
+   "checkedAt": "2026-11-20T22:46:26.447Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-20T22:44:35.141Z",
+   "checkedAt": "2026-11-20T22:46:27.608Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-20T22:44:35.740Z",
+  "nyt": {
+   "checkedAt": "2026-11-20T22:46:27.718Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T22:44:36.088Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-20T22:44:36.581Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-20T22:44:36.701Z",
+   "checkedAt": "2026-11-20T22:46:28.137Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-20T22:44:37.055Z",
+   "checkedAt": "2026-11-20T22:46:28.164Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-20T22:46:28.212Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-20T22:46:28.836Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-20T22:46:29.010Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T22:44:37.998Z",
+   "checkedAt": "2026-11-20T22:46:29.158Z",
    "success": true
   }
  },
