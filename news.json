@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T16:16:36.240Z",
+ "generatedAt": "2026-11-20T16:18:34.164Z",
  "sources": {
   "siol": [
    {
@@ -89,6 +89,12 @@
     "date": 1795190961000
    },
    {
+    "title": "Leila Mazouzi in Nika Tomc tretji na svetu",
+    "link": "https://www.24ur.com/sport/ostalo/leila-mazouzi-in-nika-tomc-tretje-na-svetu.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/ba80b2b51d77a429905e_63642687.jpg?v=908f&fop=fp:0.48:0.15",
+    "date": 1795190742000
+   },
+   {
     "title": "'Želimo knjige, ne pušk': mladi po Evropi stopili na ulice",
     "link": "https://www.24ur.com/novice/tujina/zelimo-knjige-ne-pusk-mladi-po-evropi-stopili-na-ulice.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/13330e2e7bec48836093_63682951.jpg?v=d89a&fop=fp:0.45:0.41",
@@ -141,15 +147,15 @@
     "link": "https://www.24ur.com/novice/tujina/razbili-kriminalno-zdruzbo-ki-je-s-spolnim-izkoriscanjem-sluzila-milijone.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/9c96e66c1aa8d77484df_63682896.jpg?v=a8c3&fop=fp:0.49:0.24",
     "date": 1795185375000
-   },
-   {
-    "title": "Za preboj med elito bo treba premagati Wales",
-    "link": "https://www.24ur.com/sport/nogomet/za-preboj-med-elito-bo-treba-premagati-wales.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/fbdef48e3e3fa87f92d8_63679287.jpg?v=9ebf&fop=fp:0.48:0.55",
-    "date": 1795185063000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Ob 19.15: Beljak - Olimpija",
+    "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/ob-19-15-beljak-olimpija/800775",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123436.jpg",
+    "date": 1795191402000
+   },
    {
     "title": "Ameriški trgovec z umetninami obsojen zaradi lažnega predstavljanja, da je staroselec",
     "link": "https://www.rtvslo.si/kultura/dediscina/ameriski-trgovec-z-umetninami-obsojen-zaradi-laznega-predstavljanja-da-je-staroselec/800773",
@@ -213,12 +219,6 @@
    {
     "title": "Na vrhu seznama najboljših vinogradov sveta je končal starodavni nemški",
     "link": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/na-vrhu-seznama-najboljsih-vinogradov-sveta-je-koncal-starodavni-nemski/800712",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123310.jpg",
-    "date": 1795182850000
-   },
-   {
-    "title": "Na vrhu seznamu najboljših vinogradov sveta je končal starodavni nemški",
-    "link": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/na-vrhu-seznamu-najboljsih-vinogradov-sveta-je-koncal-starodavni-nemski/800712",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123310.jpg",
     "date": 1795182850000
    }
@@ -373,10 +373,38 @@
   ],
   "reuters": [
    {
+    "title": "Anthropic founder to make large gift to Trump accounts, Bessent says",
+    "link": "https://www.reuters.com/world/us/anthropic-founder-make-large-gift-trump-accounts-bessent-says-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LDAT5LRHMZLZXE3B6AZPONXZPE.jpg",
+    "date": 1795191288000,
+    "titleSl": "Ustanovitelj podjetja Anthropic bo Trumpovim računom namenil veliko donacijo, pravi Bessent"
+   },
+   {
+    "title": "Report: NFL to consider travel rules for international games",
+    "link": "https://www.reuters.com/sports/report-nfl-consider-travel-rules-international-games--flm-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VHEHJC56R5NHHP2DOLI7NPKF4E.jpg",
+    "date": 1795190754000,
+    "titleSl": "Poročilo: NFL bo preučila pravila o potovanjih za mednarodne tekme"
+   },
+   {
+    "title": "ECB's Nagel: Will likely need to act in December but price expectations remain anchored",
+    "link": "https://www.reuters.com/markets/europe/ecbs-nagel-will-likely-need-act-december-price-expectations-remain-anchored-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KZNU3RQ53FISNEGNY2ND4KYXSA.jpg",
+    "date": 1795190529000,
+    "titleSl": "Nagel iz ECB: Verjetno bo treba ukrepati decembra, vendar pričakovanja glede cen ostajajo stabilna"
+   },
+   {
+    "title": "Nigeria rescue teams search for survivors after funeral barge capsizes in Bayelsa",
+    "link": "https://www.reuters.com/world/africa/nigeria-rescue-teams-search-survivors-after-funeral-barge-capsizes-bayelsa-2026-11-20/",
+    "image": "",
+    "date": 1795190468000,
+    "titleSl": "Nigerijske reševalne ekipe iščejo preživele po prevrnitvi pogrebne barže v Bayelsi"
+   },
+   {
     "title": "Bitcoin falls below $60,000 level",
     "link": "https://www.reuters.com/technology/bitcoin-falls-below-60000-level-2026-11-20/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3MW5DAEVVVL5DB77G4NKIKGOGY.jpg",
-    "date": 1795189910000,
+    "date": 1795189929000,
     "titleSl": "Bitcoin pade pod raven 60.000 $"
    },
    {
@@ -427,34 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LL6RL2RRUBIJDAKGGJ5NNDMELI.jpg",
     "date": 1795188557000,
     "titleSl": "Sodba glede genocida v Mjanmaru lahko okrepi tožbo Gaze proti Izraelu"
-   },
-   {
-    "title": "Founder of UK anti-migrant group jailed for slashing small boat in Channel",
-    "link": "https://www.reuters.com/world/uk/founder-uk-anti-migrant-group-jailed-slashing-small-boat-channel-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K3GUAJYETFN7TME3C4TNPGDS4M.jpg",
-    "date": 1795188421000,
-    "titleSl": "Ustanovitelj britanske protimigrantske skupine je bil obsojen na zaporno kazen zaradi poškodovanja majhnega čolna v Rokavskem prelivu"
-   },
-   {
-    "title": "UK man convicted of planning petrol bomb attack on migrant hotel",
-    "link": "https://www.reuters.com/world/uk/uk-man-convicted-planning-petrol-bomb-attack-migrant-hotel-2026-11-20/",
-    "image": "",
-    "date": 1795188236000,
-    "titleSl": "Britanec obsojen zaradi načrtovanja napada z bencinsko bombo na hotel za migrante"
-   },
-   {
-    "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-    "link": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DYM22WOHJRK7XA3UOTGHWFBJ2M.jpg",
-    "date": 1795187760000,
-    "titleSl": "Spotika podjetja Anthropic po njegovem prvem nastopu je preizkus realnosti za trgovanje z UI"
-   },
-   {
-    "title": "Agreement in principle for F1 to have V8 engines in 2030, says Brown",
-    "link": "https://www.reuters.com/sports/formula1/agreement-principle-f1-have-v8-engines-2030-says-brown-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NZKP5Y2DDBO7VKSGFQHBJOJBLY.jpg",
-    "date": 1795187730000,
-    "titleSl": "Brown pravi, da je doseženo načelno soglasje, da bo F1 leta 2030 uporabljala motorje V8"
    }
   ],
   "nyt": [
@@ -631,6 +631,20 @@
   ],
   "aljazeera": [
    {
+    "title": "US Senate passes bill to speed up energy project approvals",
+    "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b006722d46b5-1795188514.jpg?resize=1920%2C1440",
+    "date": 1795191012000,
+    "titleSl": "Ameriški senat je sprejel zakon za pospešitev odobritev energetskih projektov"
+   },
+   {
+    "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+    "link": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-06T191310Z_1131641346_RC2UX1AFCIMG_RTRMADP_3_SPAIN-ELECTION-VOX-1689598559.jpg?resize=1920%2C1440",
+    "date": 1795190731000,
+    "titleSl": "Kaj je Vox in kako je španska skrajno desna stranka postala tako pomembna?"
+   },
+   {
     "title": "One third of attacks on children worldwide recorded in Palestine",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-15.45.20-1795189633.png?resize=1200%2C675",
@@ -699,23 +713,16 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0036685618d-1795176040.jpg?resize=1920%2C1440",
     "date": 1795183157000,
     "titleSl": "Združeno kraljestvo pravi, da bo nov sporazum »ponovno zgradil mostove« z EU: Kaj vsebuje?"
-   },
-   {
-    "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-    "link": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Fergie-Chambers1-1788295416.png?resize=1200%2C630",
-    "date": 1795182314000,
-    "titleSl": "Špansko sodišče je odobrilo varščino za propalestinskega aktivista Jamesa »Fergieja« Chambersa"
-   },
-   {
-    "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
-    "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-20T163141Z_958203687_RC23TKA36O31_RTRMADP_3_OIL-INVENTORIES-EIA-1778555463.jpg?resize=1920%2C1440",
-    "date": 1795182176000,
-    "titleSl": "Trump, Putin in Ši se zavezujejo k povečanju svetovnih zalog nafte – toda kako?"
    }
   ],
   "guardian": [
+   {
+    "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+    "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+    "image": "https://i.guim.co.uk/img/media/40ddac72b97d30f4ecd468edb3e34acd6a88e9b3/684_0_2044_1636/master/2044.jpg?width=700&quality=85&auto=format&fit=max&s=4a9f4a2807f0da6eb739166ca58040ab",
+    "date": 1795191361000,
+    "titleSl": "Po poročilih so ruske rakete in brezpilotna letala med napadi na Ukrajino zadeli Poljsko"
+   },
    {
     "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
     "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
@@ -792,16 +799,16 @@
     "image": "https://i.guim.co.uk/img/media/803a07b3d049c498409c19962d75833e389d5abc/222_0_2140_1712/master/2140.jpg?width=700&quality=85&auto=format&fit=max&s=b4f67f15530d2b41194979655f77d6e5",
     "date": 1795189119000,
     "titleSl": "Melania: recenzija serije – tako slaba je, da sem zaradi nje izgubila sposobnost zaznavanja časa in prostora"
-   },
-   {
-    "title": "Delays mean Robert Pattinson doesn’t have to do a third Batman movie. DC Studios had better persuade him – and fast",
-    "link": "https://www.theguardian.com/film/2026/nov/20/robert-pattinson-batman-james-bond-third-movie-delays-dc",
-    "image": "https://i.guim.co.uk/img/media/c8c00617b792d1d53f2d2b318820d5758dc61551/592_0_2225_1782/master/2225.jpg?width=700&quality=85&auto=format&fit=max&s=704246eaf3acaa3ce8ab2bfad1288195",
-    "date": 1795188915000,
-    "titleSl": "Zaradi zamud Robertu Pattinsonu ni treba posneti tretjega filma o Batmanu. Pri DC Studiosu bi ga morali prepričati – in to hitro."
    }
   ],
   "spiegel": [
+   {
+    "title": "Schleswig-Holstein: Zweijährige bei Fenstersturz lebensgefährlich verletzt",
+    "link": "https://www.spiegel.de/panorama/schleswig-holstein-zweijaehrige-bei-fenstersturz-lebensgefaehrlich-verletzt-a-21bf9f2d-67de-44dd-96b2-cdca4b4c2734#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/51de05ab-3d05-4482-bcfc-e3cbf2843aff_w520_r2.08_fpx62_fpy45.jpg",
+    "date": 1795191420000,
+    "titleSl": "Šlezija-Holstein: Dveletnica je utrpela življenjsko nevarne poškodbe zaradi padca skozi okno"
+   },
    {
     "title": "Uno-Klimakonferenz in Antalya: Streit über fossile Energien – Klimagipfel geht in die Verlängerung",
     "link": "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-streit-ueber-fossile-energien-klimagipfel-geht-in-die-verlaengerung-a-acb69199-ffa2-4b15-ad2b-62145c0613c8#ref=rss",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/4653602c-c8d9-4175-b819-f5739956805c_w520_r2.08_fpx50_fpy50.png",
     "date": 1795186320000,
     "titleSl": "Dnevni kviz v reviji SPIEGEL: 7 vprašanj iz splošne kulture vsak dan"
-   },
-   {
-    "title": "»Gen Z regelt«: Zehntausende europaweit auf der Straße – Festnahmen in Wien",
-    "link": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-so-laufen-die-proteste-newsblog-a-5b6f94e2-5b27-476e-966d-50850ad73956#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/39c8c81b-08c5-4dfa-a84f-66b20984ee78_w520_r2.08_fpx33.4_fpy50.jpg",
-    "date": 1795186320000,
-    "titleSl": "»Generacija Z prevzema vajeti«: Deset tisoč ljudi po vsej Evropi na ulicah – aretacije na Dunaju"
    }
   ],
   "bild": [
@@ -975,6 +975,20 @@
   ],
   "krone": [
    {
+    "title": "Achtung Punschzeit! - Alko-Unfälle: Bezirk Feldkirch liegt an der Spitze",
+    "link": "https://www.krone.at/4383238",
+    "image": "https://imgl.krone.at/scaled/3862425/v579d55/full.jpg",
+    "date": 1795191480000,
+    "titleSl": "Pozor, čas je za punč! – Nesreče pod vplivom alkohola: Okrožje Feldkirch je na vrhu lestvice"
+   },
+   {
+    "title": "Am 14. Dezember - Lilli Tagger winkt besondere Tennis-Auszeichnung",
+    "link": "https://www.krone.at/4383649",
+    "image": "https://imgl.krone.at/scaled/4102769/vb75588/full.jpg",
+    "date": 1795191452000,
+    "titleSl": "14. decembra – Lilli Tagger bo prejela posebno teniško priznanje"
+   },
+   {
     "title": "Mixed-Teambewerb - LIVE: Finale! Gelingt dem ÖSV-Team der Angriff?",
     "link": "https://www.krone.at/4381382",
     "image": "https://imgl.krone.at/scaled/4383626/v44d075/full.jpg",
@@ -1043,20 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4377629/v4f2ad3/full.jpg",
     "date": 1795189928000,
     "titleSl": "Pohvala s posledicami – ko se pri otroku stavek »Pameten si« obrne proti vam"
-   },
-   {
-    "title": "Mit Drag-Video - Helene Fischer veröffentlichte neue Single",
-    "link": "https://www.krone.at/4383527",
-    "image": "https://imgl.krone.at/scaled/4283400/v5b268c/full.jpg",
-    "date": 1795189908000,
-    "titleSl": "Videoposnetek s plesom drag – Helene Fischer je izdala novo skladbo"
-   },
-   {
-    "title": "„Nicht einstimmig“ - „Ungerecht“: Myanmar weist Völkermordurteil zurück",
-    "link": "https://www.krone.at/4383474",
-    "image": "https://imgl.krone.at/scaled/4383546/vf1b3ac/full.jpg",
-    "date": 1795189459000,
-    "titleSl": "»Ne soglasno« – »Nepravično«: Mjanmar zavrača sodbo o genocidu"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T16:16:30.021Z",
+   "checkedAt": "2026-11-20T16:18:22.985Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T16:16:30.961Z",
+   "checkedAt": "2026-11-20T16:18:23.872Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T16:16:31.003Z",
+   "checkedAt": "2026-11-20T16:18:23.903Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-20T16:16:31.119Z",
+   "checkedAt": "2026-11-20T16:18:24.100Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T16:16:31.859Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-20T16:16:32.051Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T16:16:32.059Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T16:16:32.217Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-20T16:16:32.310Z",
+   "checkedAt": "2026-11-20T16:18:24.403Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-20T16:16:33.813Z",
+   "checkedAt": "2026-11-20T16:18:24.613Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-20T16:18:24.778Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T16:18:26.895Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-20T16:18:27.970Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-20T16:18:30.836Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T16:16:33.897Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-20T16:16:33.958Z",
+   "checkedAt": "2026-11-20T16:18:31.248Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T16:16:33.989Z",
+   "checkedAt": "2026-11-20T16:18:31.368Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T16:16:34.242Z",
+   "checkedAt": "2026-11-20T16:18:31.467Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T16:16:36.049Z",
+   "checkedAt": "2026-11-20T16:18:32.418Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-20T16:18:34.013Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T16:16:36.239Z",
+   "checkedAt": "2026-11-20T16:18:34.163Z",
    "success": true
   }
  },
