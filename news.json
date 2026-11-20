@@ -1,12 +1,24 @@
 {
- "generatedAt": "2026-11-20T08:28:29.618Z",
+ "generatedAt": "2026-11-20T08:30:53.330Z",
  "sources": {
   "siol": [
+   {
+    "title": "Slovenec med zvezdami Hollywooda: bo prihodnji teden dosegel sanjski uspeh?",
+    "link": "https://siol.net/trendi/zvezde-in-slavni/slovenec-med-zvezdami-hollywooda-bo-prihodnji-teden-dosegel-sanjski-uspeh-706763",
+    "image": "https://siol.net/media/img/a9/2d/cf99769392a70b86c609.jpeg",
+    "date": 1795163400000
+   },
    {
     "title": "S to preprosto vajo boste ohranili vitalnost tudi v zrelih letih",
     "link": "https://siol.net/trendi/zdravo-zivljenje/s-to-preprosto-vajo-boste-ohranili-vitalnost-tudi-v-zrelih-letih-706712",
     "image": "https://siol.net/media/img/6e/03/d169b844acc9f1f8f211.jpeg",
     "date": 1795162980000
+   },
+   {
+    "title": "Zdravstveni blagajni zmanjkuje denarja: zamikajo plačila, posledice bodo občutili tudi izvajalci",
+    "link": "https://siol.net/novice/slovenija/zdravstveni-blagajni-zmanjkuje-denarja-zamikajo-placila-posledice-bodo-obcutili-tudi-izvajalci-706765",
+    "image": "https://siol.net/media/img/46/6b/1e4a138735466f3163eb.jpeg",
+    "date": 1795162740000
    },
    {
     "title": "Odločitev o ugovoru na volitve v Radencih v ponedeljek",
@@ -61,18 +73,6 @@
     "link": "https://siol.net/novice/svet/v-novem-ruskem-napadu-na-mostove-v-kijevu-ubitih-vec-ljudi-706753",
     "image": "https://siol.net/media/img/1a/05/3fc880520577c400879e.jpeg",
     "date": 1795157040000
-   },
-   {
-    "title": "Delo začenja strateški svet za umetno inteligenco in digitalizacijo: sestavljajo ga številna znana imena",
-    "link": "https://siol.net/novice/slovenija/delo-zacenja-strateski-svet-za-umetno-inteligenco-in-digitalizacijo-sestavljajo-ga-stevilna-znana-imena-706752",
-    "image": "https://siol.net/media/img/f4/5e/d9a9a17ab2a7dc18aca5.jpeg",
-    "date": 1795156260000
-   },
-   {
-    "title": "To zimo bomo nosili takšne bunde: skrivnost je v preprostih kombinacijah #nagradnaigra",
-    "link": "https://siol.net/trendi/moda-in-lepota/to-zimo-bomo-nosili-taksne-bunde-skrivnost-je-v-preprostih-kombinacijah-nagradnaigra-706624",
-    "image": "https://siol.net/media/img/1e/6e/f829620daaea5c69b3bc.jpeg",
-    "date": 1795155840000
    }
   ],
   "24ur": [
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Urška izlila dušo: Takrat sem res trpela",
+    "link": "https://www.zurnal24.si/sport/kolesarstvo/urska-izlila-duso-takrat-sem-res-trpela-468525",
+    "image": "https://www.zurnal24.si/media/img/98/5a/a06a0dd2ee4fa1fe1f61.jpeg",
+    "date": 1795163340000
+   },
+   {
     "title": "Za bizarno potezo Wembanyame se skriva prav poseben razlog",
     "link": "https://www.zurnal24.si/sport/kosarka/za-bizarno-potezo-wembanyame-se-skriva-prav-poseben-razlog-468523",
     "image": "https://www.zurnal24.si/media/img/ee/bb/21d6965e1539ecb780ee.png",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/svet/putin-napovedal-precej-bolj-bolec-napad-besede-tudi-uresnicil-468512",
     "image": "https://www.zurnal24.si/media/img/57/e3/a6eb33907c8e667cbba7.jpeg",
     "date": 1795155360000
-   },
-   {
-    "title": "Nenavadna prometna nesreča pri sosedih: 18-letnica padla iz avta in umrla",
-    "link": "https://www.zurnal24.si/svet/nenavadna-prometna-nesreca-pri-sosedih-18-letnica-padla-iz-avta-in-umrla-468510",
-    "image": "https://www.zurnal24.si/media/img/4c/d3/70b1840adc1f4b3b22f9.jpeg",
-    "date": 1795154100000
    }
   ],
   "hop": [
@@ -373,11 +373,32 @@
   ],
   "reuters": [
    {
+    "title": "Ukraine strains Russian logistics with Crimean bridge strikes",
+    "link": "https://www.reuters.com/world/china/ukraine-strains-russian-logistics-with-crimean-bridge-strikes-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MDZVRL3WSJIUNHYRMDWYCQMFKM.jpg",
+    "date": 1795162636000,
+    "titleSl": "Ukrajina z napadi na Krimski most obremenjuje rusko logistiko"
+   },
+   {
+    "title": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say",
+    "link": "https://www.reuters.com/world/middle-east/iraqi-security-forces-deploy-iran-backed-militia-stronghold-security-officials-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XPYTBLCKLZLFFLLUBRVUBXSC5I.jpg",
+    "date": 1795162413000,
+    "titleSl": "Varnostni uradniki pravijo, da bodo iraške varnostne sile razporejene v oporišče milice, ki jo podpira Iran"
+   },
+   {
     "title": "Metro Bank draws early takeover interest from Barclays and PE firms, Bloomberg News reports",
     "link": "https://www.reuters.com/legal/transactional/metro-bank-draws-early-takeover-interest-barclays-pe-firms-bloomberg-news-2026-11-20/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFKYMNGWT5MQZHSPGHC7MC4FIQ.jpg",
     "date": 1795162244000,
     "titleSl": "Bloomberg News poroča, da so banka Barclays in zasebna investicijska podjetja že izrazila zanimanje za prevzem banke Metro Bank"
+   },
+   {
+    "title": "Trump's personalized diplomacy hits its limits with 3-way summit",
+    "link": "https://www.reuters.com/world/china/trumps-personalized-diplomacy-hits-its-limits-with-3-way-summit-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WAWZGFQ6MZLEZBODGSC3OFKBO4.jpg",
+    "date": 1795162108000,
+    "titleSl": "Trumpova personalizirana diplomacija je dosegla svoje meje s tristranskim vrhom"
    },
    {
     "title": "NBA roundup: Knicks hold off Timberwolves' late rally for 3rd straight win",
@@ -387,17 +408,17 @@
     "titleSl": "Povzetek NBA: Knicks so zadržali pozno preobrat Timberwolvesov in dosegli tretjo zaporedno zmago"
    },
    {
-    "title": "Ukraine strains Russian logistics with Crimean bridge strikes",
-    "link": "https://www.reuters.com/world/china/ukraine-strains-russian-logistics-with-crimean-bridge-strikes-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MDZVRL3WSJIUNHYRMDWYCQMFKM.jpg",
-    "date": 1795161933000,
-    "titleSl": "Ukrajina z napadi na Krimski most obremenjuje rusko logistiko"
+    "title": "Trump, Xi and Putin release 'peace declaration'",
+    "link": "https://www.reuters.com/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S3OHTBQCIVICHLPUSLF7VMFB64.jpg",
+    "date": 1795161980000,
+    "titleSl": "Trump, Xi in Putin so objavili »mirovno deklaracijo«"
    },
    {
     "title": "Polish army investigates report of unknown objects near Ukraine border",
     "link": "https://www.reuters.com/business/aerospace-defense/polish-army-investigates-report-unknown-objects-near-ukraine-border-2026-11-20/",
     "image": "",
-    "date": 1795161674000,
+    "date": 1795161684000,
     "titleSl": "Poljska vojska preiskuje poročilo o neznanih predmetih v bližini ukrajinske meje"
    },
    {
@@ -425,7 +446,7 @@
     "title": "Malaysia says it will resettle 10,000 Rohingya refugees in Turkey",
     "link": "https://www.reuters.com/world/asia-pacific/malaysia-says-it-will-resettle-10000-rohingya-refugees-turkey-2026-11-20/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TGAHJ5CEJZP7PB7WSAYPS77G5A.jpg",
-    "date": 1795160759000,
+    "date": 1795160842000,
     "titleSl": "Malezija pravi, da bo v Turčiji preselila 10.000 beguncev Rohingja"
    },
    {
@@ -434,27 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/N2VFUBUYNFOKXMOBGDKPXNTI3Y.jpg",
     "date": 1795160694000,
     "titleSl": "Indijska pritožba brez umetne inteligence privablja rekordne tuje nakupe, o tem, ali bo to trajalo, pa bodo odločali dobički"
-   },
-   {
-    "title": "Russia says it hits sea vessels, energy and transport facilities in Ukraine",
-    "link": "https://www.reuters.com/world/russia-says-it-hits-sea-vessels-energy-transport-facilities-ukraine-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KLOSNT2CKVMTBG4AQUDIC5BYXE.jpg",
-    "date": 1795160116000,
-    "titleSl": "Rusija pravi, da je zadela ladje, energetske in prometne objekte v Ukrajini"
-   },
-   {
-    "title": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say",
-    "link": "https://www.reuters.com/world/middle-east/iraqi-security-forces-deploy-iran-backed-militia-stronghold-security-officials-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XPYTBLCKLZLFFLLUBRVUBXSC5I.jpg",
-    "date": 1795159902000,
-    "titleSl": "Varnostni uradniki pravijo, da bodo iraške varnostne sile razporejene v oporišče milice, ki jo podpira Iran"
-   },
-   {
-    "title": "UK borrowing beats forecasts as Healey's deficit picture improves",
-    "link": "https://www.reuters.com/world/uk/uk-borrowing-beats-forecasts-healeys-deficit-picture-improves-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BTOVYLIBN5KQ3HIRUKPOSKJ3UI.jpg",
-    "date": 1795159776000,
-    "titleSl": "Zadolževanje Združenega kraljestva presega napovedi, saj se Healeyjeva slika primanjkljaja izboljšuje"
    }
   ],
   "nyt": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T08:28:22.652Z",
+   "checkedAt": "2026-11-20T08:30:46.823Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T08:28:23.718Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-20T08:28:23.769Z",
+   "checkedAt": "2026-11-20T08:30:47.349Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T08:28:23.863Z",
+   "checkedAt": "2026-11-20T08:30:47.599Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-20T08:30:47.661Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T08:28:24.166Z",
+   "checkedAt": "2026-11-20T08:30:48.387Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-20T08:28:24.535Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-20T08:28:24.613Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T08:28:24.633Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-20T08:28:24.865Z",
+   "checkedAt": "2026-11-20T08:30:48.656Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-20T08:28:27.782Z",
+   "checkedAt": "2026-11-20T08:30:48.704Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-20T08:28:28.185Z",
+  "nyt": {
+   "checkedAt": "2026-11-20T08:30:48.800Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-20T08:30:48.886Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-20T08:30:51.946Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T08:28:28.201Z",
+   "checkedAt": "2026-11-20T08:30:52.501Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-20T08:30:52.758Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T08:28:28.402Z",
+   "checkedAt": "2026-11-20T08:30:52.937Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T08:28:28.454Z",
+   "checkedAt": "2026-11-20T08:30:53.032Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-20T08:28:29.538Z",
+   "checkedAt": "2026-11-20T08:30:53.171Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T08:28:29.618Z",
+   "checkedAt": "2026-11-20T08:30:53.329Z",
    "success": true
   }
  },
