@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T02:24:32.449Z",
+ "generatedAt": "2026-11-20T02:26:30.558Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,20 @@
   ],
   "nyt": [
    {
+    "title": "Amid Outcry, Army Delays its Plan to Blow Up Toxic Ammunition in Iowa",
+    "link": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00CLI-LEAD-EXPLOSION-vfpg/00CLI-LEAD-EXPLOSION-vfpg-mediumSquareAt3X.jpg",
+    "date": 1795141504000,
+    "titleSl": "Sredi protestov vojska odloži načrt za uničenje strupenega streliva v Iowi"
+   },
+   {
+    "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
+    "link": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
+    "date": 1795141408000,
+    "titleSl": "To ni kibernetska apokalipsa, vendar pa ni dobro"
+   },
+   {
     "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
     "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
@@ -527,20 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
     "date": 1795134347000,
     "titleSl": "Zaradi prve javne ponudbe delnic podjetja Anthropic so tehnološki raziskovalci čez noč postali milijonarji"
-   },
-   {
-    "title": "The Army Warns Iowa of Toxic Cloud as It Prepares to Blow Up Old Ammo",
-    "link": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00CLI-LEAD-EXPLOSION-vfpg/00CLI-LEAD-EXPLOSION-vfpg-mediumSquareAt3X.jpg",
-    "date": 1795134019000,
-    "titleSl": "Vojska opozarja Iovo na strupeni oblak, saj se pripravlja na uničenje starega streliva"
-   },
-   {
-    "title": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
-    "link": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-dems-2028-cjpz/19pol-dems-2028-cjpz-mediumSquareAt3X.jpg",
-    "date": 1795133766000,
-    "titleSl": "Nekdanji Bidenov vodja bo s pomočjo Alexa Sorosa zbral pomočnike kandidatov za leto 2028"
    }
   ],
   "bbc": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T02:24:28.040Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-20T02:24:29.097Z",
+   "checkedAt": "2026-11-20T02:26:22.579Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-20T02:24:29.182Z",
+   "checkedAt": "2026-11-20T02:26:23.150Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T02:24:29.502Z",
+   "checkedAt": "2026-11-20T02:26:23.169Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-20T02:26:23.530Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T02:24:29.605Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-20T02:24:29.721Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T02:24:29.780Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T02:24:29.809Z",
+   "checkedAt": "2026-11-20T02:26:23.914Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-20T02:24:29.822Z",
+   "checkedAt": "2026-11-20T02:26:24.273Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-20T02:26:24.327Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T02:26:24.364Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-20T02:24:30.063Z",
+   "checkedAt": "2026-11-20T02:26:24.644Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-20T02:24:30.252Z",
+  "nyt": {
+   "checkedAt": "2026-11-20T02:26:27.229Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T02:24:30.560Z",
+   "checkedAt": "2026-11-20T02:26:27.963Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-20T02:26:28.460Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T02:24:31.020Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-20T02:24:31.216Z",
+   "checkedAt": "2026-11-20T02:26:28.612Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T02:24:32.166Z",
+   "checkedAt": "2026-11-20T02:26:28.653Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-20T02:26:30.319Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T02:24:32.448Z",
+   "checkedAt": "2026-11-20T02:26:30.557Z",
    "success": true
   }
  },
