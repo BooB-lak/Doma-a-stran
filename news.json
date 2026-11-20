@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T01:14:27.315Z",
+ "generatedAt": "2026-11-20T01:16:29.771Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+    "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
+    "date": 1795137217000,
+    "titleSl": "Družba Nvidia je bila pozvana, naj prodaja čipe podjetjem, povezanim s kitajsko vojsko in družbo Megaspeed"
+   },
+   {
     "title": "Top White House Cybersecurity Official Steps Down",
     "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
     "date": 1795128317000,
     "titleSl": "Anthropic debitira na Wall Streetu kot podjetje v vrednosti 2 bilijona USD"
-   },
-   {
-    "title": "In Florida, More Rain Threatens Flooded Areas and Roads",
-    "link": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
-    "date": 1795127825000,
-    "titleSl": "Na Floridi nove padavine ogrožajo poplavljena območja in ceste"
    }
   ],
   "bbc": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T01:14:20.394Z",
+   "checkedAt": "2026-11-20T01:16:26.230Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T01:14:21.080Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-20T01:14:21.518Z",
+   "checkedAt": "2026-11-20T01:16:26.747Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-20T01:14:22.174Z",
+   "checkedAt": "2026-11-20T01:16:26.761Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-20T01:16:26.858Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T01:14:22.208Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-20T01:14:22.432Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T01:14:22.661Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-20T01:14:22.907Z",
+   "checkedAt": "2026-11-20T01:16:27.502Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-20T01:14:24.287Z",
+   "checkedAt": "2026-11-20T01:16:27.568Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-20T01:14:24.526Z",
+   "checkedAt": "2026-11-20T01:16:27.593Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-20T01:14:25.187Z",
+  "guardian": {
+   "checkedAt": "2026-11-20T01:16:27.635Z",
    "success": true
   },
-  "rainews": {
-   "checkedAt": "2026-11-20T01:14:25.648Z",
+  "reuters": {
+   "checkedAt": "2026-11-20T01:16:28.254Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-20T01:16:29.181Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-20T01:14:25.819Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-20T01:14:26.023Z",
+   "checkedAt": "2026-11-20T01:16:29.283Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T01:14:27.169Z",
+   "checkedAt": "2026-11-20T01:16:29.319Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-20T01:16:29.415Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-20T01:16:29.436Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-20T01:16:29.472Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T01:14:27.314Z",
+   "checkedAt": "2026-11-20T01:16:29.771Z",
    "success": true
   }
  },
