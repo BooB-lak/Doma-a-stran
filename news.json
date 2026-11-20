@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:26:28.841Z",
+ "generatedAt": "2026-11-20T08:28:29.618Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,12 @@
   ],
   "24ur": [
    {
+    "title": "Ste videli Majo iz Ivančne Gorice?",
+    "link": "https://www.24ur.com/novice/crna-kronika/ste-videli-majo-iz-ivancne-gorice.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/b9dc99bf0ceb6dde80d2_63682491.jpg?v=3ffa&fop=fp:0.47:0.41",
+    "date": 1795163051000
+   },
+   {
     "title": "Slovo Fione: pogoltnila kapo obiskovalca in poginila",
     "link": "https://www.24ur.com/novice/tujina/v-ogrado-za-povodne-konje-vrgel-kapo-fiona-kljub-naporom-poginila.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/203423f7c347add55f1b_63682454.jpg?v=9397&fop=fp:0.49:0.44",
@@ -141,15 +147,15 @@
     "link": "https://www.dominvrt.si/dom/nepremicnine/prodajate-hiso-ali-stanovanje-odstranite-te-stvari.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2025/a704f191acd2b1762016_63492989.jpg?v=b56d&fop=fp:0.59:0.61",
     "date": 1795155707000
-   },
-   {
-    "title": "ZZZS zamika milijonska plačila: bodo bolniki to občutili?",
-    "link": "https://www.24ur.com/novice/slovenija/zamik-placila-obveznosti-zzzs-bolnisnice-po-posojila-lekarne-brez-25-milijonov.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/c87ca9243845bce287bd_63681926.jpg?v=1a5d&fop=fp:0.46:0.36",
-    "date": 1795155023000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Pred poslanci novela zakona o tujcih, ki med drugim zaostruje združevanje družin",
+    "link": "https://www.rtvslo.si/slovenija/pred-poslanci-novela-zakona-o-tujcih-ki-med-drugim-zaostruje-zdruzevanje-druzin/800704",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123281.jpg",
+    "date": 1795163266000
+   },
    {
     "title": "V znamenju Mozarta: Od klavirskih mojstrovin do velike serenade",
     "link": "https://www.rtvslo.si/kultura/glasba/v-znamenju-mozarta-od-klavirskih-mojstrovin-do-velike-serenade/800391",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/zabava-in-slog/glasba/fenomen-elle-langley-se-nadaljuje-glasbenica-prepricljivo-zmagala-na-podelitvi-nagrad-za-country/800689",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123269.jpg",
     "date": 1795158240000
-   },
-   {
-    "title": "Fenomen Elle Langley se nadaljuje: glasbenica prepričljivo zmagala na podelitvi country nagrad",
-    "link": "https://www.rtvslo.si/zabava-in-slog/glasba/fenomen-elle-langley-se-nadaljuje-glasbenica-prepricljivo-zmagala-na-podelitvi-country-nagrad/800689",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123269.jpg",
-    "date": 1795158240000
    }
   ],
   "zurnal": [
@@ -233,7 +233,7 @@
    {
     "title": "Tako so jo kritizirali, a Melania se znova podaja v to",
     "link": "https://www.zurnal24.si/magazin/vip/tako-so-jo-kritizirali-a-melania-se-znova-podaja-v-to-468524",
-    "image": "https://www.zurnal24.si/media/img/c1/a7/6ae69ac1a8e2d539b0d0.jpeg",
+    "image": "https://www.zurnal24.si/media/img/94/49/989bc42cb24f1a3a1e2e.jpeg",
     "date": 1795162140000
    },
    {
@@ -717,18 +717,32 @@
   ],
   "guardian": [
    {
+    "title": "Andy Burnham heads to Brussels as UK and EU close in on Brexit reset deal – live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=700&quality=85&auto=format&fit=max&s=b40ce3b97bcf03ef54a13b4f75b985cc",
+    "date": 1795162960000,
+    "titleSl": "Andy Burnham odhaja v Bruselj, saj se Združeno kraljestvo in EU približujeta novemu dogovoru o brexitu – v živo"
+   },
+   {
+    "title": "Joanne Young praised for bravery in exposing rape by husband and strangers",
+    "link": "https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity",
+    "image": "https://i.guim.co.uk/img/media/73c77c52c51ef56affefe47af014e07e9badd691/586_609_1167_933/master/1167.jpg?width=700&quality=85&auto=format&fit=max&s=f50dda453ff320379b1175ef9799b10d",
+    "date": 1795162936000,
+    "titleSl": "Joanne Young je bila pohvaljena zaradi poguma pri razkritju posilstva s strani moža in neznancev"
+   },
+   {
+    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+    "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+    "image": "https://i.guim.co.uk/img/media/a336fb77a4aa4c7e47ea3fc416e63babf551e1e9/649_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=495f02aa84d577d7f96d0fe34e616732",
+    "date": 1795162768000,
+    "titleSl": "Pogajanja o ponovni vzpostavitvi odnosov med Združenim kraljestvom in EU bodo potekala »do zadnjega trenutka«, saj se bliža odločilno srečanje na vrhu."
+   },
+   {
     "title": "Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live",
     "link": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
     "image": "https://i.guim.co.uk/img/media/aeabbfb1da8193532a86e74e3483eb342ed18a23/0_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=3f861f240c753c33ce3ed9d7d86543fa",
     "date": 1795162653000,
     "titleSl": "Azijske delnice so na poti k najslabšemu tednu od leta 2020, saj prva javna ponudba delnic podjetja Anthropic ni ustavila padca delnic podjetij, povezanih z umetno inteligenco – poslovne novice v živo"
-   },
-   {
-    "title": "Andy Burnham heads to Brussels as UK and EU close in on Brexit reset deal – live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=700&quality=85&auto=format&fit=max&s=b40ce3b97bcf03ef54a13b4f75b985cc",
-    "date": 1795162513000,
-    "titleSl": "Andy Burnham odhaja v Bruselj, saj se Združeno kraljestvo in EU približujeta novemu dogovoru o brexitu – v živo"
    },
    {
     "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
@@ -785,20 +799,6 @@
     "image": "https://i.guim.co.uk/img/media/e185115079ae67cbd5dd3b9ce8c2718c7753bdd7/368_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=ccbd7ca389aec1b377aedcb092c7eb44",
     "date": 1795161626000,
     "titleSl": "Kaj nam zgodovina pove o lestvici Premier lige po 10 tekmah v sezoni"
-   },
-   {
-    "title": "Week in wildlife: Christmas crabs, a shy possum and baboons taking liberties",
-    "link": "https://www.theguardian.com/environment/gallery/2026/nov/20/week-in-wildlife-christmas-crabs-a-shy-possum-and-baboons-taking-liberties",
-    "image": "https://i.guim.co.uk/img/media/9b56312b77a84cbe7c685971a7384356fcc51fdb/432_41_1748_1399/master/1748.jpg?width=700&quality=85&auto=format&fit=max&s=0fc8d996848fd8d558a807a749c58bbc",
-    "date": 1795161625000,
-    "titleSl": "Teden v divjini: božične rakovice, sramežljiv oposum in pavijani, ki si dovolijo preveč"
-   },
-   {
-    "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-    "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-    "image": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=700&quality=85&auto=format&fit=max&s=47a544936e5e9e30564ebe94a05765d9",
-    "date": 1795159531000,
-    "titleSl": "Zadolževanje vlade Združenega kraljestva se je povečalo manj, kot je bilo predvideno, kar je presenetljivo spodbudilo ministra za finance Johna Healeyja."
    }
   ],
   "spiegel": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Alarm im Cine Nova - Wiener Neustadt: Kinobar stand in Flammen",
+    "link": "https://www.krone.at/4382694",
+    "image": "https://imgl.krone.at/scaled/4382697/v1a9935/full.jpg",
+    "date": 1795163266000,
+    "titleSl": "Alarm v kinu Cine Nova – Wiener Neustadt: Kinobar je zajel požar"
+   },
+   {
     "title": "Was alles wackelt - „Katalog des Grauens“ von VW schockt Mitarbeiter",
     "link": "https://www.krone.at/4382577",
     "image": "https://imgl.krone.at/scaled/4382578/vab470b/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4382663/v806017/full.jpg",
     "date": 1795162212000,
     "titleSl": "»Travma« zaradi brexita – Bruselj in London želita ublažiti te bolečine"
-   },
-   {
-    "title": "Rennpremiere in Gurgl - Vom Kamerakind zur Slalom-Hoffnung im ÖSV-Team",
-    "link": "https://www.krone.at/4382681",
-    "image": "https://imgl.krone.at/scaled/4382688/va30006/full.jpg",
-    "date": 1795162045000,
-    "titleSl": "Premiera dirke v Gurglu – Od snemalke do upa za slalom v ekipi ÖSV"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T08:26:22.141Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-20T08:26:23.077Z",
+   "checkedAt": "2026-11-20T08:28:22.652Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-20T08:26:23.614Z",
+   "checkedAt": "2026-11-20T08:28:23.718Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-20T08:26:23.720Z",
+   "checkedAt": "2026-11-20T08:28:23.769Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-20T08:28:23.863Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T08:26:23.771Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T08:26:24.139Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-20T08:26:24.262Z",
+   "checkedAt": "2026-11-20T08:28:24.166Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-20T08:26:24.304Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-20T08:26:24.355Z",
+   "checkedAt": "2026-11-20T08:28:24.535Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-20T08:26:24.409Z",
+   "checkedAt": "2026-11-20T08:28:24.613Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-20T08:28:24.633Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-20T08:28:24.865Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T08:28:27.782Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T08:26:25.117Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-20T08:26:25.493Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-20T08:26:25.502Z",
+   "checkedAt": "2026-11-20T08:28:28.185Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T08:26:27.562Z",
+   "checkedAt": "2026-11-20T08:28:28.201Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-20T08:28:28.402Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-20T08:28:28.454Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-20T08:26:28.679Z",
+   "checkedAt": "2026-11-20T08:28:29.538Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T08:26:28.840Z",
+   "checkedAt": "2026-11-20T08:28:29.618Z",
    "success": true
   }
  },
