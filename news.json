@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T14:34:37.454Z",
+ "generatedAt": "2026-11-20T14:36:41.437Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/sportal/drugi-sporti/nova-kolajna-za-slovenijo-tudi-leila-mazouzi-bronasta-706814",
     "image": "https://siol.net/media/img/30/6c/d26f46a455a38f1e49d2.jpeg",
     "date": 1795183500000
+   },
+   {
+    "title": "Kolinda razkrila, kako je bilo kuhati s Pahorjem",
+    "link": "https://siol.net/novice/slovenija/kolinda-razkrila-kako-je-bilo-kuhati-s-pahorjem-706813",
+    "image": "https://siol.net/media/img/ba/35/7cebe529d27ddac90d73.jpeg",
+    "date": 1795183380000
    },
    {
     "title": "Ministrstvo ob grožnji Petrola: Sprememb regulacije cen goriv ne načrtujemo",
@@ -67,15 +73,15 @@
     "link": "https://siol.net/novice/slovenija/novomeski-policisti-prijeli-roparja-pekarne-v-brsljinu-706802",
     "image": "https://siol.net/media/img/93/cf/328d8ad767218405979a.jpeg",
     "date": 1795177800000
-   },
-   {
-    "title": "Voznik tovornega vozila opit za volanom",
-    "link": "https://siol.net/novice/slovenija/voznik-tovornega-vozila-opit-za-volanom-706801",
-    "image": "https://siol.net/media/img/d9/95/b81074359f9d9b2f3a01.jpeg",
-    "date": 1795177320000
    }
   ],
   "24ur": [
+   {
+    "title": "Bezzecchi na prvem treningu najhitrejši, kako bo na drugem?",
+    "link": "https://www.24ur.com/sport/motogp/prosti-treningi-v-portimau-almansa-najhitrejsi-v-moto3.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/b5a0261aeadd6b7160eb_63675937.jpg?v=3898&fop=fp:0.64:0.18",
+    "date": 1795185340000
+   },
    {
     "title": "Za preboj med elito bo treba premagati Wales",
     "link": "https://www.24ur.com/sport/nogomet/za-preboj-med-elito-bo-treba-premagati-wales.html",
@@ -141,12 +147,6 @@
     "link": "https://www.24ur.com/sport/odbojka/vse-je-v-rokah-ach-ja-a-baku-v-tivoli-ne-bo-prispel-z-belo-zastavo.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/d8a98f0bc478e7dc508d_63678640.jpg?v=19c0&fop=fp:0.42:0.17",
     "date": 1795176753000
-   },
-   {
-    "title": "Bezzecchi postavil najhitrejši čas prvega treninga v Portimau",
-    "link": "https://www.24ur.com/sport/motogp/prosti-treningi-v-portimau-almansa-najhitrejsi-v-moto3.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/b5a0261aeadd6b7160eb_63675937.jpg?v=3898&fop=fp:0.64:0.18",
-    "date": 1795175973000
    }
   ],
   "rtvslo": [
@@ -373,11 +373,46 @@
   ],
   "reuters": [
    {
+    "title": "What EU and UK have agreed to at summit",
+    "link": "https://www.reuters.com/world/uk/what-eu-uk-have-agreed-summit-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HDLA6D7YWBNXTB422JFY3N7EJM.jpg",
+    "date": 1795184848000,
+    "titleSl": "O čem sta se EU in Združeno kraljestvo dogovorila na vrhu"
+   },
+   {
+    "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance",
+    "link": "https://www.reuters.com/world/asia-pacific/us-treasury-presses-singapore-malaysia-iran-sanctions-compliance-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQSSHVSX2FLQPPBRMO2HSS2AFM.jpg",
+    "date": 1795184829000,
+    "titleSl": "Ameriško ministrstvo za finance pritiska na Singapur in Malezijo glede spoštovanja sankcij proti Iranu"
+   },
+   {
     "title": "Italian workers and students protest over wages and public services",
     "link": "https://www.reuters.com/world/thousands-protest-across-italy-strike-over-wages-public-spending-2026-11-20/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BHDIQ5Q5CZNTJE2UYF2YEIWHE4.jpg",
     "date": 1795184623000,
     "titleSl": "Italijanski delavci in študenti protestirajo zaradi plač in javnih storitev"
+   },
+   {
+    "title": "Murray State, Wisconsin vie for consolation prize in Bahamas",
+    "link": "https://www.reuters.com/sports/basketball/murray-state-wisconsin-vie-consolation-prize-bahamas--flm-2026-11-20/",
+    "image": "",
+    "date": 1795184384000,
+    "titleSl": "Murray State in Wisconsin se potegujeta za tolažilno nagrado na Bahamih"
+   },
+   {
+    "title": "Bristling Springboks won't be 'broken' by Erasmus ban",
+    "link": "https://www.reuters.com/sports/bristling-springboks-wont-be-broken-by-erasmus-ban-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WWFE5WPIL5O7VNNECDQLA4NUR4.jpg",
+    "date": 1795184260000,
+    "titleSl": "Razburjeni Springboksi ne bodo »zlomljeni« zaradi Erasmove prepovedi"
+   },
+   {
+    "title": "Dealmaker Orcel's decades-long quest to shake up European banking",
+    "link": "https://www.reuters.com/business/finance/dealmaker-orcels-decades-long-quest-shake-up-european-banking-2026-11-20/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YUORMHNA4FPOZDMP6AA3IJRFXI.jpg",
+    "date": 1795184206000,
+    "titleSl": "Večdesetletno prizadevanje poslovneža Orcela za preoblikovanje evropskega bančništva"
    },
    {
     "title": "Britain and EU clinch food and youth deals, but are stuck on tuition fees",
@@ -420,41 +455,6 @@
     "image": "",
     "date": 1795183775000,
     "titleSl": "OakNorth pridobi bančno licenco v ZDA"
-   },
-   {
-    "title": "SocGen sees S&P 500 ending 2027 at 8,500 on AI, earnings support",
-    "link": "https://www.reuters.com/markets/europe/socgen-sees-sp-500-ending-2027-8500-ai-earnings-support-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MO5SXIMHL5PVROZ6CLFWAFNF4A.jpg",
-    "date": 1795183671000,
-    "titleSl": "SocGen pričakuje, da bo indeks S&P 500 konec leta 2027 dosegel 8.500 točk zaradi umetne inteligence in podpore dobička"
-   },
-   {
-    "title": "Saudi Arabia once banned Grand Theft Auto. Now it's got a stake in it",
-    "link": "https://www.reuters.com/technology/saudi-arabia-once-banned-grand-theft-auto-now-its-got-stake-it-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QMZU55JP3FMRPFBX7K5UQC7KHQ.jpg",
-    "date": 1795183651000,
-    "titleSl": "Savdska Arabija je nekoč prepovedala igro Grand Theft Auto. Zdaj ima v njej delež"
-   },
-   {
-    "title": "Italy gives green light to Tesla self-driving system ahead of EU approval",
-    "link": "https://www.reuters.com/world/italy-gives-green-light-tesla-self-driving-system-ahead-eu-approval-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LWPH5HGSQZNB5LJ3WXJP6RKWSU.jpg",
-    "date": 1795183449000,
-    "titleSl": "Italija je dala zeleno luč Teslinemu sistemu za samovozeča vozila pred odobritvijo EU"
-   },
-   {
-    "title": "India's markets regulator proposes removing additional disclosure requirements for offshore funds",
-    "link": "https://www.reuters.com/legal/government/indias-markets-regulator-proposes-removing-additional-disclosure-requirements-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FHNTMPVOJNNYPISNWYJZXKMSVA.jpg",
-    "date": 1795183441000,
-    "titleSl": "Indijski regulator trga predlaga odpravo dodatnih zahtev glede razkritja za tuje sklade"
-   },
-   {
-    "title": "Mercedes gets German approval for assisted point-to-point driving",
-    "link": "https://www.reuters.com/business/mercedes-gets-german-approval-assisted-point-to-point-driving-2026-11-20/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Q2VQ4FER7VOTTIXY2IMBTKDNBM.jpg",
-    "date": 1795183366000,
-    "titleSl": "Mercedes je pridobil nemško odobritev za samodejno vožnjo od točke do točke"
    }
   ],
   "nyt": [
@@ -462,7 +462,7 @@
     "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
     "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
-    "date": 1795185203000,
+    "date": 1795185282000,
     "titleSl": "Britanija na vrhu EU napoveduje preoblikovanje sporazuma o brexitu: Kaj morate vedeti"
    },
    {
@@ -638,11 +638,11 @@
     "titleSl": "Največja Siova moč je v tem, česar se odloči, da ne bo storil."
    },
    {
-    "title": "‘Rebuild bridges’ and reset after Brexit: What we know about EU-UK deal",
+    "title": "UK says new deal will ‘rebuild bridges’ with EU: What’s in it?",
     "link": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0036685618d-1795176040.jpg?resize=1920%2C1440",
     "date": 1795183157000,
-    "titleSl": "»Ponovna izgradnja mostov« in ponastavitev po brexitu: Kaj vemo o sporazumu med EU in Združenim kraljestvom"
+    "titleSl": "Združeno kraljestvo pravi, da bo nov sporazum »ponovno zgradil mostove« z EU: Kaj vsebuje?"
    },
    {
     "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
@@ -717,10 +717,24 @@
   ],
   "guardian": [
    {
+    "title": "Carlos Alcaraz flies past Flavio Cobolli in ATP Finals tennis group stage – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/20/carlos-alcaraz-v-flavio-cobolli-atp-finals-tennis-group-stage-live",
+    "image": "https://i.guim.co.uk/img/media/62d8ecb7e398b2944a87b69497957d1b56673548/1336_375_5692_4554/master/5692.jpg?width=700&quality=85&auto=format&fit=max&s=61e5cd2d87559c43b3c719508e3bd8c8",
+    "date": 1795185041000,
+    "titleSl": "Carlos Alcaraz je v skupinskem delu teniškega turnirja ATP Finals premagal Flavia Cobollija – v živo"
+   },
+   {
+    "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=700&quality=85&auto=format&fit=max&s=af24f0cf49a41ba2a997760ec1726603",
+    "date": 1795184905000,
+    "titleSl": "EU želi »čim tesnejše odnose« z Združenim kraljestvom po dogovoru o ponovni vzpostavitvi sporazuma o brexitu – v živo"
+   },
+   {
     "title": "Pochettino session leaked on drone footage; Arteta takes fantasy football action; Nations League draw – live",
     "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
     "image": "https://i.guim.co.uk/img/media/a87b38a80782dd29e77eb49a598b51f3684f958e/0_0_5381_4305/master/5381.jpg?width=700&quality=85&auto=format&fit=max&s=dc0079c542126e4b0843a0274a59aa35",
-    "date": 1795184622000,
+    "date": 1795184724000,
     "titleSl": "Posnetek treninga Pochettina je pricurljal v javnost prek posnetka z dronom; Arteta je sprejel ukrepe v zvezi s fantazijskim nogometom; žreb za Ligo narodov – v živo"
    },
    {
@@ -731,25 +745,18 @@
     "titleSl": "COP31 v živo: »Nismo prišli sem prosjačit,« pravijo afriški ministri ob vstopu v zadnji dan podnebnih pogajanj"
    },
    {
-    "title": "Carlos Alcaraz flies past Flavio Cobolli in ATP Finals tennis group stage – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/20/carlos-alcaraz-v-flavio-cobolli-atp-finals-tennis-group-stage-live",
-    "image": "https://i.guim.co.uk/img/media/62d8ecb7e398b2944a87b69497957d1b56673548/1336_375_5692_4554/master/5692.jpg?width=700&quality=85&auto=format&fit=max&s=61e5cd2d87559c43b3c719508e3bd8c8",
-    "date": 1795184589000,
-    "titleSl": "Carlos Alcaraz je v skupinskem delu teniškega turnirja ATP Finals premagal Flavia Cobollija – v živo"
-   },
-   {
-    "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=700&quality=85&auto=format&fit=max&s=af24f0cf49a41ba2a997760ec1726603",
-    "date": 1795184451000,
-    "titleSl": "EU želi »čim tesnejše odnose« z Združenim kraljestvom po dogovoru o ponovni vzpostavitvi sporazuma o brexitu – v živo"
-   },
-   {
     "title": "Pontins owner fined £1m over death of woman at Somerset holiday park",
     "link": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
     "image": "https://i.guim.co.uk/img/media/9ad8c696d258244b72a26475e7676f3fce03fcf7/0_174_1536_1229/master/1536.jpg?width=700&quality=85&auto=format&fit=max&s=a0bac98bf005c84542f50f68497b8c39",
     "date": 1795183666000,
     "titleSl": "Lastnik Pontinsa je bil zaradi smrti ženske v počitniškem parku v Somersetu kaznovan z milijonom funtov"
+   },
+   {
+    "title": "To be beside the sea: the joy of Australian beach rituals – in pictures",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/penelope-green-photography-sea-of-life-exhibition-australian-beach-daily-rituals-in-pictures",
+    "image": "https://i.guim.co.uk/img/media/ce9c7410f92a81f018ca890f9e886b4734f6ca91/0_739_2016_1613/master/2016.jpg?width=700&quality=85&auto=format&fit=max&s=a3fe25bddfd1e547565c93319c1d84a1",
+    "date": 1795183233000,
+    "titleSl": "Biti ob morju: veselje avstralskih obredov na plaži – v slikah"
    },
    {
     "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
@@ -759,6 +766,13 @@
     "titleSl": "Medtem ko koalicija v Novem Južnem Walesu opazuje stranko One Nation, se pojavlja nova grožnja: neodvisni kandidati."
    },
    {
+    "title": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/58448698552467e1e97c8b19cfadf89d2ce9c50f/0_656_1536_1229/master/1536.jpg?width=700&quality=85&auto=format&fit=max&s=f5bfcfb41431be6fe6de8c366566be3f",
+    "date": 1795183232000,
+    "titleSl": "Sem avstralsko-palestinski zdravnik, ki so ga zavrnili na meji z Zahodnim bregom. Stigma rojstva v Gazi ovira pot k miru"
+   },
+   {
     "title": "‘It gives me power’: the swimming class that’s changing lives",
     "link": "https://www.theguardian.com/australia-news/2026/nov/21/splash-of-colour-swimming-classes-changing-lives-australia-ntwnfb",
     "image": "https://i.guim.co.uk/img/media/d955ecd035f7710fd8f0f6d6ff3a3d86958f3a04/397_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=759725e6bce1424426b4dc5887a42e56",
@@ -766,39 +780,25 @@
     "titleSl": "»Daje mi moč«: tečaj plavanja, ki spreminja življenja"
    },
    {
+    "title": "Steve Smith’s silence speaks louder than words to reshape his sandpapergate legacy | Martin Pegan",
+    "link": "https://www.theguardian.com/sport/blog/2026/nov/20/steve-smith-silence-sandpapergate-cricket-legacy-warner-cummins-khawaja-bancroft-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/331aa11ae4598b23332ffda772f8828e73310dee/289_0_1861_1489/master/1861.jpg?width=700&quality=85&auto=format&fit=max&s=34b815d846a8e6e4f8a389bcb9124402",
+    "date": 1795183231000,
+    "titleSl": "Steve Smith z molkom pove več kot z besedami, da bi spremenil svojo zapuščino v zvezi s škandalom z brusnim papirjem | Martin Pegan"
+   },
+   {
+    "title": "The Body is a hit – and every lesbian I know is obsessed. Why aren’t there more sapphic stories on screen?",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/every-lesbian-i-know-is-obsessed-with-the-body-on-netflix",
+    "image": "https://i.guim.co.uk/img/media/fc712f5d9b5d0a1cabe9ad005ec5fd5dc0948a49/231_0_2721_2178/master/2721.jpg?width=700&quality=85&auto=format&fit=max&s=db8c9a20d708d535cc8e7594f66dafca",
+    "date": 1795183231000,
+    "titleSl": "Serija The Body je prava uspešnica – in vse lezbijke, ki jih poznam, so obsedene z njo. Zakaj na zaslonih ni več lezbičnih zgodb?"
+   },
+   {
     "title": "From Bobby Fischer to Magnus Carlsen: 22 of the most famous world chess championship games",
     "link": "https://www.theguardian.com/sport/2026/nov/20/greatest-chess-games-world-championship-history",
     "image": "https://i.guim.co.uk/img/media/724e671dc8c47dfc2b1d0a0b4bf7cbe6b4d5097a/0_0_4170_2503/master/4170.jpg?width=700&quality=85&auto=format&fit=max&s=8fcda303c759ea948f20c88e81904791",
     "date": 1795183051000,
     "titleSl": "Od Bobbyja Fischerja do Magnusa Carlsena: 22 najbolj znanih partij svetovnega prvenstva v šahu"
-   },
-   {
-    "title": "Global stock markets slump as Anthropic’s record IPO fails to stem AI sell-off",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=700&quality=85&auto=format&fit=max&s=596ba3d2019739e719893041bb4db60a",
-    "date": 1795182793000,
-    "titleSl": "Svetovni delniški trgi so padli, saj rekordni prvi javni izid delnic družbe Anthropic ni ustavil razprodaje delnic v sektorju umetne inteligence"
-   },
-   {
-    "title": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
-    "link": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
-    "image": "https://i.guim.co.uk/img/media/72e9413a40ec3b068d7d3b3df9e86e1187d4f5ab/664_295_4431_3545/master/4431.jpg?width=700&quality=85&auto=format&fit=max&s=c65542a09cf38374618d624770a2fe12",
-    "date": 1795182226000,
-    "titleSl": "Mahmood »sluti prevaro« v zvezi z zagotavljanjem stanovanj za ranljive osebe v Birminghamu"
-   },
-   {
-    "title": "‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again",
-    "link": "https://www.theguardian.com/global-development/2026/nov/20/children-measles-surges-us-mexico-bolivia",
-    "image": "https://i.guim.co.uk/img/media/959c76ba1a94f838496d952073f2f47afa56dbe3/681_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=d1d95dba405d81ff0eaca835aaa8d38d",
-    "date": 1795181937000,
-    "titleSl": "»Borijo se za kisik«: otroci plačujejo ceno, ker države dopuščajo ponovni porast ošpic"
-   },
-   {
-    "title": "Judge says ICE ‘made a mockery of court orders’ with instant re-arrest policy",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
-    "image": "https://i.guim.co.uk/img/media/8f32deb14cc10ae41483895e401b529e65e7973a/161_0_1611_1289/master/1611.jpg?width=700&quality=85&auto=format&fit=max&s=50c8c0a5b42700959f2785b82146b725",
-    "date": 1795181196000,
-    "titleSl": "Sodnik pravi, da je služba ICE »posmehovala sodnim odredbam« s politiko takojšnjih ponovnih prijetij"
    }
   ],
   "spiegel": [
@@ -889,6 +889,27 @@
   ],
   "bild": [
    {
+    "title": "Emmy Combs verlor als Kind ihre Haare - Influencerin wurde mit Glatze zum Beauty-Star",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/emmy-combs-wurde-mit-glatze-zum-beauty-star-influencerin-verlor-als-kind-ihre-haare-6b0018f239a3e8110f0e3930",
+    "image": "https://images.bild.de/6b0018f239a3e8110f0e3930/5418379397a2276618a7b609e1e9bd52,7e8d6070?w=1280",
+    "date": 1795185346000,
+    "titleSl": "Emmy Combs je kot otrok izgubila lase – kot influencerka je s plešastostjo postala zvezda na področju lepote"
+   },
+   {
+    "title": "„Deutschland am Morgen“-Moderator trauert - Seine Mutter stirbt 6 Tage nach Umzug ins Heim",
+    "link": "https://www.bild.de/unterhaltung/rtl-moderator-trauert-mama-du-fehlst-6afefb3fc1e8003ef73c4717",
+    "image": "https://images.bild.de/6afefb3fc1e8003ef73c4717/494f543b2dca6760a46e448eeb1ec0ac,a4e267ee?w=1280",
+    "date": 1795185330000,
+    "titleSl": "Žalujoči voditelj oddaje »Deutschland am Morgen« – njegova mama je umrla 6 dni po selitvi v dom za ostarele"
+   },
+   {
+    "title": "Mäuse qualvoll verendet - Verbotene Klebefallen! PETA zeigt Bäckerei an",
+    "link": "https://www.bild.de/regional/berlin/anzeige-gegen-baeckerei-maeuse-qualvoll-in-klebefallen-verendet-6affec70be487c543774682f",
+    "image": "https://images.bild.de/6affec70be487c543774682f/9ae3e9cbaccbed78f8904632bdc3de40,bbb752c7?w=1280",
+    "date": 1795185188000,
+    "titleSl": "Miši so poginile v mukah – prepovedane lepilne pasti! PETA vloži prijavo proti pekarni"
+   },
+   {
     "title": "Pflegekosten als mögliches Motiv - Rentner soll Frau im Seniorenheim erdrosselt haben",
     "link": "https://www.bild.de/regional/rheinland-pfalz/anklage-ehemann-soll-75-jaehrige-erdrosselt-haben-6b003a09be487c54377471e7",
     "image": "https://images.bild.de/6b003a09be487c54377471e7/200d4f2dffaf6b0a4376d2785d446d05,249e100d?w=1280",
@@ -950,30 +971,16 @@
     "image": "https://images.bild.de/6b0014f0be487c5437746c74/095246898d2957ca0aacd6d4e2177d6b,bbc56277?w=1280",
     "date": 1795184329000,
     "titleSl": "Čakalne dobe za električna vozila se podaljšujejo – povpraševanje po modelu VW ID.Polo podaljšuje čakalno dobo"
-   },
-   {
-    "title": "Werder-Trainer gibt Verletzten-Update - Bittere Thioune-Sätze vorm Nordderby",
-    "link": "https://www.bild.de/sport/fussball/werder-bremen-verletzten-update-bittere-thioune-saetze-vorm-nordderby-gegen-hsv-6b0046b539a3e8110f0e40cf",
-    "image": "https://images.bild.de/6b0046b539a3e8110f0e40cf/0683579c19887c8acf90f9a80c269663,4f3bad5c?w=1280",
-    "date": 1795184325000,
-    "titleSl": "Trener Werderja poroča o poškodovanih igralcih – grenki komentarji Thiouneja pred severnim derbijem"
-   },
-   {
-    "title": "Nach Wut-Rede - Wolfsburg suspendiert kritische Lattwein",
-    "link": "https://www.bild.de/sport/fussball/nach-wut-rede-vfl-wolfsburg-suspendiert-kritische-lena-lattwein-6b004bae5842ff528b9e1c71",
-    "image": "https://images.bild.de/6b004bae5842ff528b9e1c71/594078d817e0860db5c8d3e856cc5b3f,a3704d09?w=1280",
-    "date": 1795184304000,
-    "titleSl": "Po besednem izbruhu – Wolfsburg suspendiral kritičnega Lattweina"
-   },
-   {
-    "title": "Luftalarm in 42 Städten - Russische Marschflugkörper schlagen in Polen ein",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/luftalarm-in-42-staedten-flugobjekt-dringt-in-polens-luftraum-ein-und-stuerzt-ab-6b000cc039a3e8110f0e3731",
-    "image": "https://images.bild.de/6b000cc039a3e8110f0e3731/25ba495daf8ba0030186e38f197c2677,cbc9c8ef?w=1280",
-    "date": 1795184275000,
-    "titleSl": "Zračni alarm v 42 mestih – ruske manevrirne rakete so zadele Poljsko"
    }
   ],
   "krone": [
+   {
+    "title": "Motiv ersetzt - Slowakei: Aufregung um Teufelchen-Weihnachtspost",
+    "link": "https://www.krone.at/4383378",
+    "image": "https://imgl.krone.at/scaled/4383401/vf79776/full.jpg",
+    "date": 1795185358000,
+    "titleSl": "Motiv ersetzt – Slovaška: Vznemirjenje zaradi božične pošte z motivom hudičkov"
+   },
    {
     "title": "Spielen Sie hier mit - 24 Tage Freude: Tolle Adventkalender zu gewinnen!",
     "link": "https://www.krone.at/4371567",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4380597/veb3de1/full.jpg",
     "date": 1795183256000,
     "titleSl": "Branje na vasi v adventnem času – razkritje skritih zamisli za zgodovinski roman"
-   },
-   {
-    "title": "Oberösterreich - „Wer will mich?“: Diese Tiere haben kein Zuhause",
-    "link": "https://www.krone.at/4381515",
-    "image": "https://imgl.krone.at/scaled/4381617/v0b4e84/full.jpg",
-    "date": 1795183248000,
-    "titleSl": "Zgornja Avstrija – »Wer will mich?»: Te živali nimajo doma"
    }
   ],
   "rainews": [
@@ -1236,7 +1236,7 @@
     "title": "Carlos Alcaraz - Flavio Cobolli en directo, el partido de las ATP Finals en vivo|Carlos Alcaraz derrota en dos sets a Cobolli en su último partido de la fase de grupos de las ATP Finals",
     "link": "https://elpais.com/deportes/tenis/2026-11-20/carlos-alcaraz-flavio-cobolli-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/FCMBOARWDRIBFO2WKEGGGENB7A.jpg?auth=e7c4552d40649e125c12de9a3a88b05f38067dccc67744acaa4a6e0240dd2c35",
-    "date": 1795184777000,
+    "date": 1795185066000,
     "titleSl": "Carlos Alcaraz – Flavio Cobolli v živo, tekma ATP Finals v živo | Carlos Alcaraz je v svoji zadnji tekmi skupinskega dela ATP Finals premagal Cobollija v dveh nizih"
    },
    {
@@ -1275,6 +1275,13 @@
     "titleSl": "Vrhovno sodišče ohranja začasno odloženo glasovalno pravico 163.000 osebam, ki so pridobile državljanstvo na podlagi »zakona o vnukih«, čeprav zdaj živijo v Španiji."
    },
    {
+    "title": "Los obispos se comprometen “rotundamente” a mantener el acuerdo de reparación con las víctimas aunque cambie el Gobierno",
+    "link": "https://elpais.com/sociedad/2026-11-20/los-obispos-se-comprometen-rotundamente-a-mantener-el-acuerdo-de-reparacion-con-las-victimas-aunque-cambie-el-gobierno.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/6OVA6RLGJNP4PKOEP2OS2QHEGI.jpg?auth=b618282f0d151bd954c4dcbbf634f63ebbe197b8a5f7b37e7c2d7cd91d8d52c5",
+    "date": 1795183027000,
+    "titleSl": "Škofje se »odločno« zavezujejo k spoštovanju sporazuma o odškodnini za žrtve, tudi če se vlada spremeni."
+   },
+   {
     "title": "Malasia retira el comunicado en el que anunciaba el traslado de 10.000 rohinyás a Turquía",
     "link": "https://elpais.com/internacional/2026-11-20/turquia-acogera-a-10000-rohinyas-reubicados-desde-malasia.html",
     "image": "https://imagenes.elpais.com/resizer/v2/Z3CNFY7X2FMQZPLQIJRUHJRAIY.jpg?auth=e931eb311bffc45dcb8f40e3e30b056a95e5568361e3e91b27859d8321851be0",
@@ -1307,79 +1314,72 @@
     "image": "https://imagenes.elpais.com/resizer/v2/LGEFJOMHJ5PCNMQCOLD4L4G2UA.jpg?auth=ed9d1957776fa8cc6ab7f00879bf012ace559ebf84dec1837420685be5084ba0",
     "date": 1795181971000,
     "titleSl": "Podjetje Anthropic beleži 10-odstotni padec na borzi zaradi kaznovanja podjetij, ki se ukvarjajo z umetno inteligenco"
-   },
-   {
-    "title": "“Es un retroceso democrático”: el pulso entre Ayuso y los profesores en huelga se agrava con un formulario para delatar “adoctrinamiento”",
-    "link": "https://elpais.com/educacion/2026-11-20/temor-en-los-centros-educativos-por-la-censura-del-gobierno-de-ayuso-a-la-huelga-es-un-retroceso-democratico.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/TPN4GDBMLJILNEJEVGSXTVTSN4.jpg?auth=5a02a24cd0dac4defbd8c6912fcdde366ed8749a14f47478e20872ae88f4d595",
-    "date": 1795181875000,
-    "titleSl": "»To je korak nazaj za demokracijo«: napetost med Ayuso in stavkajočimi učitelji se stopnjuje zaradi obrazca za prijavo »indoktrinacije«"
    }
   ]
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-20T14:34:25.991Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-20T14:34:26.799Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-20T14:34:27.041Z",
+   "checkedAt": "2026-11-20T14:36:23.468Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-20T14:34:27.183Z",
+   "checkedAt": "2026-11-20T14:36:24.167Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-20T14:36:24.395Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-20T14:34:27.787Z",
+   "checkedAt": "2026-11-20T14:36:24.985Z",
    "success": true
   },
-  "guardian": {
-   "checkedAt": "2026-11-20T14:34:28.087Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-20T14:34:28.092Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-20T14:34:28.113Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-20T14:34:28.212Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-20T14:36:25.856Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-20T14:34:29.801Z",
+   "checkedAt": "2026-11-20T14:36:26.045Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-20T14:34:30.592Z",
+  "bbc": {
+   "checkedAt": "2026-11-20T14:36:26.323Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-20T14:36:28.179Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-20T14:36:32.642Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-20T14:36:34.047Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-20T14:34:30.716Z",
+   "checkedAt": "2026-11-20T14:36:34.436Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-20T14:34:31.135Z",
+   "checkedAt": "2026-11-20T14:36:34.539Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-20T14:34:31.228Z",
+   "checkedAt": "2026-11-20T14:36:34.745Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-20T14:36:36.668Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-20T14:34:34.616Z",
+   "checkedAt": "2026-11-20T14:36:38.673Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-20T14:34:37.452Z",
+   "checkedAt": "2026-11-20T14:36:41.436Z",
    "success": true
   }
  },
