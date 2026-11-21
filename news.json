@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T00:02:27.411Z",
+ "generatedAt": "2026-11-21T00:04:31.344Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+    "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fff/live/40c02ae0-e50c-11f1-b40b-5f46e8cf687c.jpg",
+    "date": 1795219329000,
+    "titleSl": "Podjetje Next je ustavilo prodajo spalnih vreč za dojenčke, potem ko je nova mamica opozorila na težavo"
+   },
+   {
     "title": "Price beats Kotaskova to become undisputed champion",
     "link": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795f/live/1dc78710-e53c-11f1-8e3b-a9faa658e88c.jpg",
@@ -620,16 +627,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
     "date": 1795203920000,
     "titleSl": "Gérard Depardieu in francoski avtor sta pod preiskavo zaradi obtožb o spolnih zlorabah"
-   },
-   {
-    "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
-    "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc2/live/7ee93fe0-e517-11f1-9835-bf055edbb9ff.jpg",
-    "date": 1795203690000,
-    "titleSl": "Burnham v pismu valižanskemu ministrskemu predsedniku zavrača pozive k prenosu pristojnosti"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=1920%2C1440",
+    "date": 1795219206000,
+    "titleSl": "Vojna v Iranu v živo: Koalicija pod vodstvom Savdske Arabije je sestrelila rakete Hutijevcev"
+   },
    {
     "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
     "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261111_121337-1795187514.jpg?resize=1920%2C1440",
     "date": 1795207508000,
     "titleSl": "Zaradi vojne v Sudanu otroci invalidi nimajo dostopa do izobraževanja"
-   },
-   {
-    "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-    "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=1920%2C1440",
-    "date": 1795206646000,
-    "titleSl": "Rusija se pritožuje nad »novo železno zaveso«, saj je Estonija zaprla svoje meje"
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-21T00:02:22.101Z",
+   "checkedAt": "2026-11-21T00:04:26.214Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-21T00:02:22.794Z",
+   "checkedAt": "2026-11-21T00:04:26.661Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-21T00:02:22.800Z",
+   "checkedAt": "2026-11-21T00:04:26.766Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-21T00:02:23.081Z",
+   "checkedAt": "2026-11-21T00:04:27.117Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-21T00:02:23.613Z",
+   "checkedAt": "2026-11-21T00:04:27.417Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-21T00:02:23.922Z",
+   "checkedAt": "2026-11-21T00:04:27.655Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-21T00:02:23.996Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-21T00:02:24.004Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-21T00:02:24.027Z",
+   "checkedAt": "2026-11-21T00:04:27.888Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-21T00:02:24.179Z",
+   "checkedAt": "2026-11-21T00:04:28.133Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-21T00:04:29.498Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-21T00:04:29.596Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-21T00:02:24.709Z",
+   "checkedAt": "2026-11-21T00:04:30.164Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-21T00:02:24.871Z",
+   "checkedAt": "2026-11-21T00:04:30.198Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-21T00:02:25.258Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-21T00:02:25.397Z",
+   "checkedAt": "2026-11-21T00:04:30.452Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-21T00:02:27.211Z",
+   "checkedAt": "2026-11-21T00:04:30.524Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-21T00:04:30.594Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-21T00:02:27.410Z",
+   "checkedAt": "2026-11-21T00:04:31.343Z",
    "success": true
   }
  },
