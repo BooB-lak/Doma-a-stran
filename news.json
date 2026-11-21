@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T15:14:34.520Z",
+ "generatedAt": "2026-11-21T15:16:27.779Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/novice/svet/skok-giorgie-meloni-s-padalom-to-se-zgodi-706870",
     "image": "https://siol.net/media/img/17/11/7df3a3dec703ff352a39.jpeg",
     "date": 1795273980000
+   },
+   {
+    "title": "Alcaraz v težavah, prvi niz je dobil Shelton",
+    "link": "https://siol.net/sportal/tenis/torino-zakljucni-turnir-atp-polfinale-706861",
+    "image": "https://siol.net/media/img/a5/2a/8fb343e200bc906aa4fb.jpeg",
+    "date": 1795273200000
    },
    {
     "title": "Marc Marquez po odstopu na šprintu še ni svetovni prvak",
@@ -49,12 +55,6 @@
     "link": "https://siol.net/sportal/hokej/alpska-liga-21-november-706869",
     "image": "https://siol.net/media/img/32/09/706181b4776f570913d1.jpg",
     "date": 1795270620000
-   },
-   {
-    "title": "Alcaraz v težavah, prvi niz dobil Shelton",
-    "link": "https://siol.net/sportal/tenis/torino-zakljucni-turnir-atp-polfinale-706861",
-    "image": "https://siol.net/media/img/a5/2a/8fb343e200bc906aa4fb.jpeg",
-    "date": 1795270500000
    },
    {
     "title": "Odličen skok Maje Kovačič, slabi pogoji za Niko Prevc #vŽivo",
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Nekdanjega šefa policije našli mrtvega",
+    "link": "https://www.zurnal24.si/svet/nekdanjega-sefa-policije-nasli-mrtvega-gianni-de-gennaro-paolo-borsellino-468587",
+    "image": "https://www.zurnal24.si/media/img/cb/36/ec7b02983fe00091fd7e.jpeg",
+    "date": 1795273920000
+   },
+   {
     "title": "Zaušnica za Čeferina, vse kaže na neugoden razplet",
     "link": "https://www.zurnal24.si/sport/nogomet/zausnica-za-ceferina-vse-kaze-na-neugoden-razplet-468585",
     "image": "https://www.zurnal24.si/media/img/39/94/ae3da1c033a0bba92a61.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/sport/nogomet/umrla-ikona-nogometni-svet-je-zavit-v-crno-468577",
     "image": "https://www.zurnal24.si/media/img/f2/1d/b1921ac3237254b26c32.jpeg",
     "date": 1795259340000
-   },
-   {
-    "title": "Dončić povsem izgubil živce, padale so težke kletvice",
-    "link": "https://www.zurnal24.si/sport/kosarka/doncic-povsem-izgubil-zivce-padale-so-tezke-kletvice-468575",
-    "image": "https://www.zurnal24.si/media/img/f9/f0/fbbf4c8aef8e8461b5d6.jpeg",
-    "date": 1795257360000
    }
   ],
   "hop": [
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "10 Days After Fatal Building Collapse, a Brooklyn Block Is in Limbo",
+    "link": "https://www.nytimes.com/2026/11/21/nyregion/brooklyn-building-collapse-flatbush-ave.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21met-flatbush-block-02-kmgp/21met-flatbush-block-02-kmgp-mediumSquareAt3X.jpg",
+    "date": 1795274001000,
+    "titleSl": "10 dni po usodnem zrušenju stavbe je soseska v Brooklynu še vedno v negotovosti"
+   },
+   {
     "title": "Advice to Democrats: Impeach Trump’s Cabinet",
     "link": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/21/opinion/21opinions-roundtable-image/21opinions-roundtable-image-mediumSquareAt3X-v5.png",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
     "date": 1795264295000,
     "titleSl": "Turške mačke iz Vana se spopadajo z naraščajočimi temperaturami"
-   },
-   {
-    "title": "The Sisterhood Rocks!",
-    "link": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/opinion/21dowd-temp/21dowd-temp-mediumSquareAt3X.jpg",
-    "date": 1795262412000,
-    "titleSl": "Sestrstvo je super!"
    }
   ],
   "bbc": [
@@ -717,11 +717,39 @@
   ],
   "guardian": [
    {
+    "title": "Lossiemouth gives Mullins third winner at Punchestown, results from Ascot, Haydock and more – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/21/horse-racing-updates-news-and-results-from-ascot-haydock-and-more-live",
+    "image": "https://i.guim.co.uk/img/media/7671fd4cd94713bb667eb23f500c3d7249f518fb/2_0_4706_3765/master/4706.jpg?width=700&quality=85&auto=format&fit=max&s=a50a85febe91fb8bb0060b87b6853719",
+    "date": 1795273989000,
+    "titleSl": "Lossiemouth je Mullinsu prinesel tretjo zmago v Punchestownu, rezultati iz Ascota, Haydocka in še več – v živo"
+   },
+   {
     "title": "Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live",
     "link": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
     "image": "https://i.guim.co.uk/img/media/dabe6642f976b8368a95bed6609125500a72fb0a/236_0_3036_2429/master/3036.jpg?width=700&quality=85&auto=format&fit=max&s=61e45d3de4ceafe6a81d92886b7142c5",
-    "date": 1795273583000,
+    "date": 1795273985000,
     "titleSl": "Chelsea proti Leedsu, Tottenham proti Ipswichu in še več: nogometni urnik – v živo"
+   },
+   {
+    "title": "England v New Zealand: Nations Championship rugby union – live",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/21/england-v-new-zealand-nations-championship-rugby-union-live",
+    "image": "https://i.guim.co.uk/img/media/cefa34d1c653e7576a37b1d5dae66b6a72113700/107_141_2294_1835/master/2294.jpg?width=700&quality=85&auto=format&fit=max&s=da4c63df973905ffc3ad8e0dc791e7b5",
+    "date": 1795273881000,
+    "titleSl": "Anglija – Nova Zelandija: Pokal narodov v ragbiju – v živo"
+   },
+   {
+    "title": "ATP Finals tennis: Carlos Alcaraz v Ben Shelton – live semi-final updates",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/21/atp-finals-tennis-carlos-alcaraz-v-ben-shelton-live-semi-final-updates",
+    "image": "https://i.guim.co.uk/img/media/1411c8711d2eb348af78e7b6cd0d0f685469ccae/474_0_4080_3264/master/4080.jpg?width=700&quality=85&auto=format&fit=max&s=26b4c42ffb06fd276e6dd044d199c4e8",
+    "date": 1795273803000,
+    "titleSl": "Tenis na zaključnem turnirju ATP: Carlos Alcaraz proti Benu Sheltnu – posodobitve v živo s polfinala"
+   },
+   {
+    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=700&quality=85&auto=format&fit=max&s=6080c10b38b1e681d1b0d391f90b9fb8",
+    "date": 1795273802000,
+    "titleSl": "Cop31 v živo: svet pozvan, naj se izogne eni »najbolj razočaranih konferenc Cop doslej«, saj se pogajanja zavlečejo čez rok"
    },
    {
     "title": "Liverpool keeper Keating holds leaders Chelsea at bay in scoreless WSL draw",
@@ -729,27 +757,6 @@
     "image": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=700&quality=85&auto=format&fit=max&s=4a8c30a740b5f3d2dbabec8e455eb7dd",
     "date": 1795273430000,
     "titleSl": "Vratarka Liverpoola Keatingova je vodilni ekipi Chelsea preprečila zmago v tekmi WSL brez zadetkov"
-   },
-   {
-    "title": "ATP Finals tennis: Carlos Alcaraz v Ben Shelton – live semi-final updates",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/21/atp-finals-tennis-carlos-alcaraz-v-ben-shelton-live-semi-final-updates",
-    "image": "https://i.guim.co.uk/img/media/1411c8711d2eb348af78e7b6cd0d0f685469ccae/474_0_4080_3264/master/4080.jpg?width=700&quality=85&auto=format&fit=max&s=26b4c42ffb06fd276e6dd044d199c4e8",
-    "date": 1795273370000,
-    "titleSl": "Tenis na zaključnem turnirju ATP: Carlos Alcaraz proti Benu Sheltnu – posodobitve v živo s polfinala"
-   },
-   {
-    "title": "Lossiemouth gives Mullins third winner at Punchestown, results from Ascot, Haydock and more – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/21/horse-racing-updates-news-and-results-from-ascot-haydock-and-more-live",
-    "image": "https://i.guim.co.uk/img/media/7671fd4cd94713bb667eb23f500c3d7249f518fb/2_0_4706_3765/master/4706.jpg?width=700&quality=85&auto=format&fit=max&s=a50a85febe91fb8bb0060b87b6853719",
-    "date": 1795273243000,
-    "titleSl": "Lossiemouth je Mullinsu prinesel tretjo zmago v Punchestownu, rezultati iz Ascota, Haydocka in še več – v živo"
-   },
-   {
-    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=700&quality=85&auto=format&fit=max&s=6080c10b38b1e681d1b0d391f90b9fb8",
-    "date": 1795273237000,
-    "titleSl": "Cop31 v živo: svet pozvan, naj se izogne eni »najbolj razočaranih konferenc Cop doslej«, saj se pogajanja zavlečejo čez rok"
    },
    {
     "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
@@ -764,13 +771,6 @@
     "image": "https://i.guim.co.uk/img/media/2d1e7859de38f86aa30a3bae0278ef83a82a5933/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=02918802f0d1ce8850905c3c00b796eb",
     "date": 1795273200000,
     "titleSl": "Priča pripoveduje o neuspešni usmrtitvi v Teksasu: »Bilo je grozljivo, strašljivo in boleče.«"
-   },
-   {
-    "title": "England v New Zealand: Nations Championship rugby union – live",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/21/england-v-new-zealand-nations-championship-rugby-union-live",
-    "image": "https://i.guim.co.uk/img/media/cefa34d1c653e7576a37b1d5dae66b6a72113700/107_141_2294_1835/master/2294.jpg?width=700&quality=85&auto=format&fit=max&s=da4c63df973905ffc3ad8e0dc791e7b5",
-    "date": 1795273161000,
-    "titleSl": "Anglija – Nova Zelandija: Pokal narodov v ragbiju – v živo"
    },
    {
     "title": "Federal judge denies request to release man shot by immigration agents in New York",
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Bei Palästina-Länderspiel - Stinke-Geste! Rassismus-Vorwurf gegen Union-Talent",
+    "link": "https://www.bild.de/sport/fussball/bei-palaestina-laenderspiel-stinke-geste-rassismus-vorwurf-gegen-union-talent-6b008b70be487c5437747a68",
+    "image": "https://images.bild.de/6b008b70be487c5437747a68/8e865ed36797b16613662152e993552f,cd109d95?w=1280",
+    "date": 1795274010000,
+    "titleSl": "Na mednarodni tekmi s Palestino – žaljiva kretnja! Obtožba rasizma proti nadarjenemu igralcu Uniona"
+   },
+   {
     "title": "5 Millionen Dollar Kopfgeld - Brennende Laster bei Festnahme von Drogenboss",
     "link": "https://www.bild.de/news/ausland/5-mio-dollar-kopfgeld-brennende-laster-und-schuesse-bei-festnahme-von-drogenboss-6b0163aa4490a28f5fdb7e61",
     "image": "https://images.bild.de/6b0163aa4490a28f5fdb7e61/d3252aab400aac6ee50587cf1a86f480,df0cf40b?w=1280",
@@ -964,22 +971,15 @@
     "image": "https://images.bild.de/6afd6be24e6cd4bac15ced3f/ba6f0555b61eea15eccdcad2008f7c81,c44601f7?w=1280",
     "date": 1795272527000,
     "titleSl": "Prizadetih je 450 zaposlenih – nemška livarna po 130 letih v stečaju"
-   },
-   {
-    "title": "Gigantische Zahlen zum Gaming-Hit - Milliarden-Rekord! GTA 6 schlägt Taylor Swift",
-    "link": "https://www.bild.de/unterhaltung/bildgg/gta-6-schlaegt-sogar-taylor-swift-3-4-milliarden-euro-am-ersten-tag-6b01943645d8681e4fca3da7",
-    "image": "https://images.bild.de/6b01943645d8681e4fca3da7/ef12c889cfb640392ddb202be07ec0ea,2f456ec8?w=1280",
-    "date": 1795272173000,
-    "titleSl": "Neverjetne številke za igričarsko uspešnico – milijardni rekord! GTA 6 premaga Taylor Swift"
    }
   ],
   "krone": [
    {
-    "title": "Deutsche Bundesliga - Elfer verschossen! Ilzer-Team weiter 0:1 hinten",
+    "title": "Deutsche Bundesliga - Hütter gegen Ilzer: Beide Teams vergeben Elfmeter",
     "link": "https://www.krone.at/4383791",
     "image": "https://imgl.krone.at/scaled/4384822/v85b779/full.jpg",
-    "date": 1795273915000,
-    "titleSl": "Nemška Bundesliga – Zgrešen enajstmetrski strel! Ilzerjeva ekipa še naprej zaostaja z 0:1"
+    "date": 1795274161000,
+    "titleSl": "Nemška Bundesliga - Hütter proti Ilzerju: Obe ekipi dosojata enajstmetrovke"
    },
    {
     "title": "Akademietheater - „Treulose“ als Sezierkurs am offenen Herzen",
@@ -1243,7 +1243,7 @@
     "title": "Carlos Alcaraz - Ben Shelton en directo | Alcaraz se lleva el segundo set y el partido se decide en el tercero",
     "link": "https://elpais.com/deportes/tenis/2026-11-21/carlos-alcaraz-ben-shelton-en-directo-las-semifinales-de-las-atp-finals-en-vivo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/AGBUX3UDZZLNZBRYG4CPL4DG2Q.jpg?auth=0bec1fa9a4bdde75e1b09c54b92a3c953c4acd232d28452bd9b867893c162f12",
-    "date": 1795273746000,
+    "date": 1795273904000,
     "titleSl": "Carlos Alcaraz – Ben Shelton v živo | Alcaraz je dobil drugi niz, o zmagovalcu pa bo odločal tretji niz"
    },
    {
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-21T15:14:26.210Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-21T15:14:27.189Z",
+   "checkedAt": "2026-11-21T15:16:22.078Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-21T15:14:27.207Z",
+   "checkedAt": "2026-11-21T15:16:22.731Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-21T15:16:22.820Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-21T15:14:27.253Z",
+   "checkedAt": "2026-11-21T15:16:23.598Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-21T15:14:28.131Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-21T15:14:28.227Z",
-   "success": true
-  },
-  "guardian": {
-   "checkedAt": "2026-11-21T15:14:28.290Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-21T15:14:28.298Z",
+   "checkedAt": "2026-11-21T15:16:23.610Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-21T15:14:28.313Z",
+   "checkedAt": "2026-11-21T15:16:24.007Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-21T15:16:24.028Z",
+   "success": true
+  },
+  "guardian": {
+   "checkedAt": "2026-11-21T15:16:24.059Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-21T15:14:28.561Z",
+   "checkedAt": "2026-11-21T15:16:24.347Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-21T15:14:28.672Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-21T15:14:28.765Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-21T15:14:28.886Z",
+  "nyt": {
+   "checkedAt": "2026-11-21T15:16:25.889Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-21T15:14:29.052Z",
+   "checkedAt": "2026-11-21T15:16:26.356Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-21T15:16:26.572Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-21T15:16:26.605Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-21T15:16:27.343Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-21T15:14:32.338Z",
+   "checkedAt": "2026-11-21T15:16:27.644Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-21T15:14:34.520Z",
+   "checkedAt": "2026-11-21T15:16:27.778Z",
    "success": true
   }
  },
