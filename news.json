@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-22T08:34:38.285Z",
+ "generatedAt": "2026-11-22T08:36:31.363Z",
  "sources": {
   "siol": [
+   {
+    "title": "Dve intervenciji na istem kraju, ena se je končala tragično",
+    "link": "https://siol.net/novice/slovenija/dve-intervenciji-na-istem-kraju-ena-se-je-koncala-tragicno-706898",
+    "image": "https://siol.net/media/img/b4/ff/c0baef1de2d94eba10cb.jpeg",
+    "date": 1795336500000
+   },
    {
     "title": "Alcaraz po zgodovino, Zverev ima drugačne načrte",
     "link": "https://siol.net/sportal/tenis/alcaraz-po-zgodovino-zverev-ima-drugacne-nacrte-706897",
@@ -65,12 +71,6 @@
    {
     "title": "Takšne dirke pa že dolgo ne! 35 sprememb na prvem mestu, zmaga Verstappnu.",
     "link": "https://siol.net/sportal/avtomotosport/vn-las-vegasa-prehitevanja-35-sprememb-na-prvem-mestu-verstappen-zmaga-706874",
-    "image": "https://siol.net/media/img/5c/9d/a37dfcf2ecf3430dfefb.jpeg",
-    "date": 1795326000000
-   },
-   {
-    "title": "Takšne dirke pa že dolgo ne! Prehitevanja eno za drugim, zmaga Verstappnu.",
-    "link": "https://siol.net/sportal/avtomotosport/vn-las-vegasa-prehitevanje-verstappen-zmaga-706874",
     "image": "https://siol.net/media/img/5c/9d/a37dfcf2ecf3430dfefb.jpeg",
     "date": 1795326000000
    }
@@ -373,6 +373,13 @@
   ],
   "reuters": [
    {
+    "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "link": "https://www.reuters.com/business/finance/snb-closely-watching-second-round-inflation-effects-vice-chairman-tells-paper-2026-11-22/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CXF7WZIMYRI2JM4CYGQFWCS6FI.jpg",
+    "date": 1795335877000,
+    "titleSl": "Podpredsednik SNB za časopis pravi, da SNB pozorno spremlja učinke inflacije drugega kroga"
+   },
+   {
     "title": "Verstappen revels in Russell's misfortune in Las Vegas",
     "link": "https://www.reuters.com/sports/formula1/verstappen-revels-russells-misfortune-las-vegas-2026-11-22/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RFYWGMPQLBLMZCFJM5XVWKCR2E.jpg",
@@ -448,13 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BFARMETJJRM6RIKZRNBO365ZSM.jpg",
     "date": 1795320257000,
     "titleSl": "Nathan MacKinnon iz ekipe Avalanche bo po ponovni oceni poškodbe odsoten 12 tednov"
-   },
-   {
-    "title": "Mavericks finish strong to hold off Clippers",
-    "link": "https://www.reuters.com/sports/basketball/mavericks-finish-strong-hold-off-clippers--flm-2026-11-22/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KDEMZ4VVUBK4NLF2IVQW4YV7PM.jpg",
-    "date": 1795320246000,
-    "titleSl": "Mavericksi so močno zaključili in premagali Clipperse"
    }
   ],
   "nyt": [
@@ -462,7 +462,7 @@
     "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
     "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
-    "date": 1795335224000,
+    "date": 1795336505000,
     "titleSl": "Južnokorejski minister za izobraževanje je odstopil zaradi pravil proti goljufanju z uporabo umetne inteligence"
    },
    {
@@ -717,11 +717,11 @@
   ],
   "guardian": [
    {
-    "title": "Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever",
+    "title": "Cop31 live: A new draft deal on the table as talks go into final hours",
     "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "image": "https://i.guim.co.uk/img/media/b3af68f0e62aec37feb23f801aa2b9118c97630e/463_0_4633_3707/master/4633.jpg?width=700&quality=85&auto=format&fit=max&s=d83854f7ce4346a1fecbf9d49c27be23",
     "date": 1795335602000,
-    "titleSl": "COP31 v živo: pregled novega osnutka sporazuma, saj obstaja tveganje, da bodo zaradi razhajanj na pogajanjih to najdaljša podnebna pogajanja doslej"
+    "titleSl": "COP31 v živo: Na mizi je nov osnutek sporazuma, pogajanja pa vstopajo v zadnje ure"
    },
    {
     "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
@@ -975,6 +975,20 @@
   ],
   "krone": [
    {
+    "title": "Polizei kontrolliert - 23 Führerscheine wegen Drogen und Alkohol weg",
+    "link": "https://www.krone.at/4385587",
+    "image": "https://imgl.krone.at/scaled/3836749/vb8300b/full.jpg",
+    "date": 1795336525000,
+    "titleSl": "Policija je izvedla kontrolo – 23 vozniških dovoljenj je bilo odvzetih zaradi drog in alkohola"
+   },
+   {
+    "title": "Herzog stichelt: - „Da wäre Hallensprecher Torschützenkönig geworden“",
+    "link": "https://www.krone.at/4385594",
+    "image": "https://imgl.krone.at/scaled/4384709/v16fad2/full.jpg",
+    "date": 1795336507000,
+    "titleSl": "Herzog zbadljivo pripomni: – »Dvoranski napovedovalec bi postal najboljši strelec.«"
+   },
+   {
     "title": "Sieg bei Jungbullen - Wacker: In 55 Sekunden war das Spiel entschieden",
     "link": "https://www.krone.at/4385582",
     "image": "https://imgl.krone.at/scaled/4385583/v2225ed/full.jpg",
@@ -1043,20 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/3976524/vc8bd89/full.jpg",
     "date": 1795333217000,
     "titleSl": "Čustveni posnetki – Miley Cyrus: Poroka v Palm Springsu, polna solz"
-   },
-   {
-    "title": "Verliert Rapid Fans? - Das Ja ist alternativlos! Jetzt nur keine Unruhe",
-    "link": "https://www.krone.at/4385554",
-    "image": "https://imgl.krone.at/scaled/4183029/v08ff0b/full.jpg",
-    "date": 1795331198000,
-    "titleSl": "Ali Rapid izgublja navijače? – Odgovor je nedvomno pritrdilen! Zdaj pa brez nemira"
-   },
-   {
-    "title": "Erstmals zugelassen - Mercedes fährt jetzt selbst quer durch die Stadt",
-    "link": "https://www.krone.at/4384377",
-    "image": "https://imgl.krone.at/scaled/4384379/vb83c3f/full.jpg",
-    "date": 1795330964000,
-    "titleSl": "Prvič registriran – Mercedes zdaj sam vozi po mestu"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-22T08:34:27.736Z",
+   "checkedAt": "2026-11-22T08:36:21.586Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-22T08:34:28.615Z",
+   "checkedAt": "2026-11-22T08:36:22.540Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-22T08:34:28.788Z",
+   "checkedAt": "2026-11-22T08:36:22.735Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-22T08:34:29.121Z",
+   "checkedAt": "2026-11-22T08:36:22.845Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-22T08:34:29.390Z",
+   "checkedAt": "2026-11-22T08:36:23.433Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-22T08:34:29.477Z",
+   "checkedAt": "2026-11-22T08:36:23.917Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-22T08:34:29.503Z",
+   "checkedAt": "2026-11-22T08:36:24.019Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-22T08:34:29.537Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-22T08:34:29.833Z",
+   "checkedAt": "2026-11-22T08:36:24.097Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-22T08:34:33.183Z",
+   "checkedAt": "2026-11-22T08:36:26.270Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-22T08:34:33.336Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-22T08:34:33.616Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-22T08:34:33.686Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-22T08:34:34.330Z",
+  "reuters": {
+   "checkedAt": "2026-11-22T08:36:26.352Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-22T08:34:37.495Z",
+   "checkedAt": "2026-11-22T08:36:27.140Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-22T08:36:27.161Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-22T08:36:27.648Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-22T08:36:27.664Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-22T08:36:30.685Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-22T08:34:38.284Z",
+   "checkedAt": "2026-11-22T08:36:31.362Z",
    "success": true
   }
  },
