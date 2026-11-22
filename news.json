@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T10:28:29.166Z",
+ "generatedAt": "2026-11-22T10:30:57.256Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Padavine bodo od jugozahoda zajele vso državo",
+    "link": "https://www.rtvslo.si/okolje/padavine-bodo-od-jugozahoda-zajele-vso-drzavo/800880",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/22/67123964.jpg",
+    "date": 1795343380000
+   },
+   {
     "title": "V Goričanah spet zažvenketale verige parkeljnov",
     "link": "https://www.rtvslo.si/zabava-in-slog/zanimivosti/v-goricanah-spet-zazvenketale-verige-parkeljnov/800872",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/22/67123921.jpg",
@@ -213,12 +219,6 @@
    {
     "title": "Haugan stotinko pred McGrathom, Pinheiro Braathen odstopil",
     "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/haugan-stotinko-pred-mcgrathom-pinheiro-braathen-odstopil/800870",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/15/67121849.jpg",
-    "date": 1795336262000
-   },
-   {
-    "title": "Pinheiro Braathen odstopil v Gurglu",
-    "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/pinheiro-braathen-odstopil-v-gurglu/800870",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/15/67121849.jpg",
     "date": 1795336262000
    }
@@ -373,10 +373,17 @@
   ],
   "reuters": [
    {
+    "title": "COP31 climate talks close to final deal",
+    "link": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NAAOA3ZZLJP75PI6HP2FTISTHA.jpg",
+    "date": 1795342094000,
+    "titleSl": "Pogajanja o podnebnih spremembah na COP31 so blizu končnega dogovora"
+   },
+   {
     "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount",
     "link": "https://www.reuters.com/world/kyivs-restaurant-owners-brace-tough-winter-war-pressures-mount-2026-11-22/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XBZ5VPUA6NILJC3ERZWE6GWTV4.jpg",
-    "date": 1795341944000,
+    "date": 1795342065000,
     "titleSl": "Lastniki restavracij v Kijevu se pripravljajo na težko zimo, saj se pritisk zaradi vojne povečuje"
    },
    {
@@ -387,10 +394,17 @@
     "titleSl": "Šef Ferrarija je razočaran zaradi zadnjega trčenja med Leclercom in Hamiltonom"
    },
    {
+    "title": "Russian cargo ship still on fire off Finland after attack",
+    "link": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NA4JP5EH3NL53C4PFP7G6HHJKU.jpg",
+    "date": 1795338857000,
+    "titleSl": "Ruska tovorna ladja po napadu še vedno gori pred obalo Finske"
+   },
+   {
     "title": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says",
     "link": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WLLVBGOOWVKR5CXL64AXGXO4VQ.jpg",
-    "date": 1795337988000,
+    "date": 1795338103000,
     "titleSl": "Po besedah Zelenskega je po tem, ko je ruski dron zadel stavbo v regiji Kijev, pogrešanih najmanj 14 oseb"
    },
    {
@@ -408,11 +422,11 @@
     "titleSl": "Povzetek dogajanja v ligi NBA: Knicksi so zapravili veliko prednost, zmagali pa so po zadnjem metu Mikala Bridgesa."
    },
    {
-    "title": "Russian cargo ship still on fire off Finland after attack",
-    "link": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NA4JP5EH3NL53C4PFP7G6HHJKU.jpg",
-    "date": 1795336230000,
-    "titleSl": "Ruska tovorna ladja po napadu še vedno gori pred obalo Finske"
+    "title": "Seven body bags recovered, 50 missing after Indonesian factory fire",
+    "link": "https://www.reuters.com/world/asia-pacific/indonesia-rescuers-search-36-missing-after-factory-fire-kills-3-2026-11-22/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NUCYF52VGZMZBOZPWDCDUCYYUU.jpg",
+    "date": 1795336287000,
+    "titleSl": "Po požaru v indonezijski tovarni so našli sedem vreč s trupli, 50 oseb pa pogrešajo"
    },
    {
     "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
@@ -441,20 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5ICJ3WG5SNOVLIZJ43N7ADOY7U.jpg",
     "date": 1795331854000,
     "titleSl": "Wall Street je zaradi razprodaje delnic v sektorju umetne inteligence končal z močnim padcem"
-   },
-   {
-    "title": "Canucks earn rare home win in shootout over Wild",
-    "link": "https://www.reuters.com/sports/nhl/canucks-earn-rare-home-win-shootout-over-wild--flm-2026-11-22/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5XNDCBFBJJOSNBI37MJJGZ7ZKE.jpg",
-    "date": 1795328914000,
-    "titleSl": "Canucksi so dosegli redko domačo zmago v streljanju kazenskih strelov proti Wildom"
-   },
-   {
-    "title": "COP31 climate talks close to final deal",
-    "link": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NAAOA3ZZLJP75PI6HP2FTISTHA.jpg",
-    "date": 1795328830000,
-    "titleSl": "Pogajanja o podnebnih spremembah na COP31 so blizu končnega dogovora"
    }
   ],
   "nyt": [
@@ -1061,6 +1061,13 @@
   ],
   "rainews": [
    {
+    "title": "Sci, slalom maschile a Gurgl: 1ª manche amara, fuori Braathen e Vinatzer",
+    "link": "https://www.rainews.it/maratona/2026/11/sci-coppa-del-mondo-slalom-gurgl-austria-vinatzer-braathen-azzurri-diretta-live-aggiornamenti-news-video-9aded3de-b8d6-4ed1-86f3-eb101ad816ce.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/21/1795268440521_rainewsdfcdaefeaff.jpg",
+    "date": 1795343160000,
+    "titleSl": "Smučanje, moški slalom v Gurglu: 1. vožnja je bila grenka, izpadla sta Braathen in Vinatzer"
+   },
+   {
     "title": "La sonda BepiColombo entra nell’orbita di Mercurio dopo 8 anni di viaggio nello spazio",
     "link": "https://www.rainews.it/articoli/2026/11/la-sonda-bepicolombo-entra-nellorbita-di-mercurio-dopo-8-anni-di-viaggio-nello-spazio-8f0c979d-0d45-483d-8b91-58643927b8cb.html",
     "image": "https://www.rainews.it/dl/img/2026/11/22/1795330384881_SON_Bettini_BepiColombo_Mercurio.transferframe.jpeg",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2021/06/18/1624020146383_2048x1152logo.jpg",
     "date": 1795333173000,
     "titleSl": "TG1 Medicina z dne 22. 11. 2026"
-   },
-   {
-    "title": "\"Natale con Ditony\", il jointalbum di Natale di Ditonellapiaga e TonyPitony",
-    "link": "https://www.rainews.it/video/2026/11/natale-con-ditony-il-jointalbum-di-natale-di-ditonellapiaga-e-tonypitony-d7886fbb-bdb0-421b-bc65-1483ac3bd017.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/22/1795327809184_son_pitoni_ditonellapiaga.transferframe.jpeg",
-    "date": 1795332720000,
-    "titleSl": "»Natale con Ditony«, skupni božični album Ditonellapiage in Tonyja Pitonyja"
    }
   ],
   "lemonde": [
@@ -1240,6 +1240,13 @@
     "titleSl": "Dokumentarni film o obisku drugih svetov Cristine Fernández Cubas, pisateljice, ki je ves čas na tanki vrvici"
    },
    {
+    "title": "La lucha de las mujeres que gestaron a niños en ‘la mansión de los horrores’ de Los Ángeles",
+    "link": "https://elpais.com/us/2026-11-22/la-lucha-de-las-mujeres-que-gestaron-a-ninos-en-la-mansion-de-los-horrores-de-los-angeles.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/B73SDSL745ES7HNP2IUN3KPMJ4.jpg?auth=677234b425e22937120365b2e4ba4fcfd79f78c596066de16d4ad02daad20740",
+    "date": 1795339800000,
+    "titleSl": "Boj žensk, ki so nosile otroke v »hiši groze« v Los Angelesu"
+   },
+   {
     "title": "La presidencia de la cumbre del clima intenta salvar ‘in extremis’ la COP31",
     "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-22/la-presidencia-de-la-cop31-lanza-un-nuevo-borrador-de-acuerdo-para-desatascar-el-caotico-final-de-la-cumbre-del-clima.html",
     "image": "https://imagenes.elpais.com/resizer/v2/XOPUXEXJXZNKTNUFKT5IFFYJNU.jpg?auth=b2a1b14df815f8e96e5a0c66c74c934eaa15bb5c8663da061e005123700ae444",
@@ -1308,79 +1315,72 @@
     "image": "https://imagenes.elpais.com/resizer/v2/JSJQ76ACCJCYZP3BRY4SVS4N6Q.png?auth=512d3d0fdcf6e72b9d4e1db5f6f945cc9362f2bad0023b58fbcf8deb27224007",
     "date": 1795324500000,
     "titleSl": "Popusti ob črnem petku v trgovini Ikea: do 30 % na kuhinjske pripomočke in tekstil za božič"
-   },
-   {
-    "title": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/6GMU23HZJJA33E6TJ3UUJ52ESI.png?auth=5dcc05206d778f70bbdb639799a4356ced0fc847bb286311db5ba586c14fad3a",
-    "date": 1795323456000,
-    "titleSl": "Po podatkih raziskave javnega mnenja, ki jo je izvedla agencija 40dB, je PSOE blizu izenačenju s stranko PP."
    }
   ]
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-22T10:28:22.582Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-22T10:28:23.564Z",
+   "checkedAt": "2026-11-22T10:30:47.789Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-22T10:28:23.812Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-22T10:28:24.506Z",
+   "checkedAt": "2026-11-22T10:30:48.709Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-22T10:28:25.015Z",
+   "checkedAt": "2026-11-22T10:30:48.785Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-22T10:30:48.798Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-22T10:30:49.429Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-22T10:28:25.221Z",
+   "checkedAt": "2026-11-22T10:30:49.855Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-22T10:28:25.303Z",
+   "checkedAt": "2026-11-22T10:30:49.934Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-22T10:28:25.306Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-22T10:28:25.437Z",
+   "checkedAt": "2026-11-22T10:30:50.057Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-22T10:28:25.561Z",
+   "checkedAt": "2026-11-22T10:30:50.121Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-22T10:28:26.522Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-22T10:28:26.679Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-22T10:28:28.410Z",
+  "reuters": {
+   "checkedAt": "2026-11-22T10:30:52.306Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-22T10:28:28.616Z",
+   "checkedAt": "2026-11-22T10:30:53.266Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-22T10:30:53.285Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-22T10:30:53.594Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-22T10:28:29.048Z",
+   "checkedAt": "2026-11-22T10:30:54.062Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-22T10:30:55.475Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-22T10:28:29.165Z",
+   "checkedAt": "2026-11-22T10:30:57.254Z",
    "success": true
   }
  },
