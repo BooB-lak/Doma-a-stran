@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T22:02:30.246Z",
+ "generatedAt": "2026-11-23T22:04:34.965Z",
  "sources": {
   "siol": [
    {
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Drei Verletzte, Staatsschutz ermittelt - Maskierter attackiert Grüne in Parteibüro",
+    "link": "https://www.bild.de/regional/nordrhein-westfalen/schwerte-maskierter-attackiert-gruene-in-parteibuero-drei-verletzte-6b04b1dd39a3e8110f0e95f0",
+    "image": "https://images.bild.de/6b04b1dd39a3e8110f0e95f0/3fb0a5634b0bb77965d01334def74801,3bd7794?w=1280",
+    "date": 1795471271000,
+    "titleSl": "Trije poškodovani, preiskuje služba za zaščito ustavnega reda – Maskirani napadalec napadel Zelene v strankarskem uradu"
+   },
+   {
     "title": "Zwischen Tradition und neuen Trends - Endlich wieder Weihnachtsmarkt!",
     "link": "https://www.bild.de/news/inland/weihnachtsmaerkte-im-wandel-das-sagen-die-leser-6b03ed50172877701c06f036",
     "image": "https://images.bild.de/6b03ed50172877701c06f036/c73c2364d87a79afc9c38219abdfa00f,a2709b4b?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6afd89c9fc384ca056386098/740c789e887f44fea4fae44e1eb270a3,6d5288fe?w=1280",
     "date": 1795465298000,
     "titleSl": "Spor v vladi glede dodeljevanja državljanstva – CDU želi potni list podeliti šele po 8 letih"
-   },
-   {
-    "title": "Live-Ticker - Trump postet bizarres BH-Bild zu Nvidia-Chef",
-    "link": "https://www.bild.de/politik/eilmeldung-eil-nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-6b04480639a3e8110f0e8ab7",
-    "image": "https://images.bild.de/6b04480639a3e8110f0e8ab7/aa67f83cfb11b8cad0b35b869f85c8ca,fdadcdf6?w=1280",
-    "date": 1795464861000,
-    "titleSl": "Novice v živo – Trump je objavil nenavadno fotografijo nedrčka v zvezi z direktorjem podjetja Nvidia"
    }
   ],
   "krone": [
@@ -1320,27 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T22:02:24.279Z",
+   "checkedAt": "2026-11-23T22:04:28.044Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T22:02:25.226Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-23T22:02:25.248Z",
+   "checkedAt": "2026-11-23T22:04:28.712Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T22:02:25.407Z",
+   "checkedAt": "2026-11-23T22:04:29.251Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-23T22:04:29.277Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T22:02:27.590Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T22:02:27.922Z",
+   "checkedAt": "2026-11-23T22:04:30.021Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-23T22:02:28.044Z",
+   "checkedAt": "2026-11-23T22:04:30.389Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-23T22:04:30.416Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T22:02:28.053Z",
+   "checkedAt": "2026-11-23T22:04:30.444Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T22:02:28.165Z",
+   "checkedAt": "2026-11-23T22:04:30.587Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T22:02:28.824Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-23T22:02:28.965Z",
+   "checkedAt": "2026-11-23T22:04:31.140Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T22:02:29.404Z",
+   "checkedAt": "2026-11-23T22:04:31.430Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-23T22:02:29.523Z",
+  "bild": {
+   "checkedAt": "2026-11-23T22:04:33.425Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T22:02:30.055Z",
+   "checkedAt": "2026-11-23T22:04:33.897Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T22:04:34.171Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T22:02:30.245Z",
+   "checkedAt": "2026-11-23T22:04:34.964Z",
    "success": true
   }
  },
