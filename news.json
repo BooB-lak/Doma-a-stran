@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T20:20:40.431Z",
+ "generatedAt": "2026-11-23T20:22:32.381Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Schwentnerjev nagrajenec Mitja Čander: Moč knjige je v njeni protejski naravi",
+    "link": "https://www.rtvslo.si/kultura/knjige/schwentnerjev-nagrajenec-mitja-cander-moc-knjige-je-v-njeni-protejski-naravi/801018",
+    "image": "https://img.rtvcdn.si/_up/upload/2019/12/24/65638385.jpg",
+    "date": 1795465197000
+   },
+   {
     "title": "Slovenke prepričane, da bodo dobro pripravljene pričakale EP",
     "link": "https://www.rtvslo.si/sport/rokomet/slovenke-prepricane-da-bodo-dobro-pripravljene-pricakale-ep/801034",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/23/67124402.jpg",
@@ -213,12 +219,6 @@
    {
     "title": "Evropska komisija za prepoved nastopanja ruskih športnikov pod rusko zastavo v EU-ju",
     "link": "https://www.rtvslo.si/sport/evropska-komisija-za-prepoved-nastopanja-ruskih-sportnikov-pod-rusko-zastavo-v-eu-ju/801027",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/07/67059516.jpg",
-    "date": 1795454384000
-   },
-   {
-    "title": "Evropska komisija za prepoved nastopanja ruskih športnikov pod rusko zastavo v EU",
-    "link": "https://www.rtvslo.si/sport/evropska-komisija-za-prepoved-nastopanja-ruskih-sportnikov-pod-rusko-zastavo-v-eu/801027",
     "image": "https://img.rtvcdn.si/_up/upload/2026/07/07/67059516.jpg",
     "date": 1795454384000
    }
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Opfer sei mitschuldig - Verlag wirbt mit Bildern von Pelicots Missbrauch",
+    "link": "https://www.krone.at/4387547",
+    "image": "https://imgl.krone.at/scaled/4387572/vda2c02/full.jpg",
+    "date": 1795465281000,
+    "titleSl": "Žrtev je sostorilka – Založba oglašuje s fotografijami Pelicotovih zlorab"
+   },
+   {
     "title": "Auf Grünstreifen - Feuerwehr Stans sicherte absturzgefährdeten Lkw",
     "link": "https://www.krone.at/4387598",
     "image": "https://imgl.krone.at/scaled/4387600/vc7bc3a/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4387539/v464156/full.jpg",
     "date": 1795461952000,
     "titleSl": "Avstrijska nogometna zveza (ÖFB) je potrdila: – Rangnick je bil operiran! Selektor bo dva tedna v bolnišnici"
-   },
-   {
-    "title": "„Lebensfrohe Frau“ - Weltrekordlerin stirbt im Alter von nur 33 Jahren",
-    "link": "https://www.krone.at/4387525",
-    "image": "https://imgl.krone.at/scaled/4387544/v61d632/full.jpg",
-    "date": 1795461931000,
-    "titleSl": "»Živahna ženska« – svetovna rekorderka je umrla pri komaj 33 letih"
    }
   ],
   "rainews": [
@@ -1320,27 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T20:20:36.558Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-23T20:20:37.302Z",
+   "checkedAt": "2026-11-23T20:22:27.576Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T20:20:37.550Z",
+   "checkedAt": "2026-11-23T20:22:28.173Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-23T20:22:28.177Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-23T20:20:38.283Z",
+   "checkedAt": "2026-11-23T20:22:28.278Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T20:20:38.348Z",
+   "checkedAt": "2026-11-23T20:22:28.778Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T20:20:38.594Z",
+   "checkedAt": "2026-11-23T20:22:28.818Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-23T20:22:28.833Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1352,35 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-23T20:20:38.650Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T20:20:38.754Z",
+   "checkedAt": "2026-11-23T20:22:28.856Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T20:20:39.029Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-23T20:20:39.667Z",
+   "checkedAt": "2026-11-23T20:22:29.521Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T20:20:39.673Z",
+   "checkedAt": "2026-11-23T20:22:29.603Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T20:20:39.937Z",
+   "checkedAt": "2026-11-23T20:22:29.628Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-23T20:22:29.740Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T20:20:40.220Z",
+   "checkedAt": "2026-11-23T20:22:29.802Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-23T20:20:40.329Z",
+   "checkedAt": "2026-11-23T20:22:32.280Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T20:20:40.430Z",
+   "checkedAt": "2026-11-23T20:22:32.380Z",
    "success": true
   }
  },
