@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:14:32.805Z",
+ "generatedAt": "2026-11-23T21:16:31.738Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Phumzile Mlambo-Ngcuka, South Africa’s First Female Deputy President, Has Died",
+    "link": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23Phumzile-Mlambo-Ngcuka-vblz/23Phumzile-Mlambo-Ngcuka-vblz-mediumSquareAt3X.jpg",
+    "date": 1795468323000,
+    "titleSl": "Umrla je Phumzile Mlambo-Ngcuka, prva podpredsednica Južne Afrike"
+   },
+   {
     "title": "As Tides Near Record Levels in California, a Storm Threatens to Make Things Worse",
     "link": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-CASTORM-pwlz/23wea-CASTORM-pwlz-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
     "date": 1795462033000,
     "titleSl": "Pogajanja na konferenci COP31 v Turčiji so propadla zaradi spora glede fosilnih goriv"
-   },
-   {
-    "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-    "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
-    "date": 1795461563000,
-    "titleSl": "Analiza kaže, da je v Ukrajini umrlo več kot 700.000 ruskih vojakov"
    }
   ],
   "bbc": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Ski-Ass ganz offen - Franz zum Karriereende: „Es waren die Schmerzen!“",
+    "link": "https://www.krone.at/4387628",
+    "image": "https://imgl.krone.at/scaled/4387633/vb4f9e2/full.jpg",
+    "date": 1795468547000,
+    "titleSl": "Smučarski as odkrito - Franz ob koncu kariere: \"To je bila bolečina!\""
+   },
+   {
     "title": "Schwierige Bergung - E-Auto blieb auf Sockel in Hauseingang hängen",
     "link": "https://www.krone.at/4387624",
     "image": "https://imgl.krone.at/scaled/4387630/vc57532/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4387311/v6b8027/full.jpg",
     "date": 1795463851000,
     "titleSl": "Športni svetovalec spregovori – Wagner: »V WAC-u so bili že slepi.«"
-   },
-   {
-    "title": "Aktie stürzt ab - Im Eilverfahren: BYD-Elektro-SUV in EU verboten",
-    "link": "https://www.krone.at/4387522",
-    "image": "https://imgl.krone.at/scaled/4387524/ve3bd39/full.jpg",
-    "date": 1795463339000,
-    "titleSl": "Delnica pada – V hitrem postopku: električni SUV BYD prepovedan v EU"
    }
   ],
   "rainews": [
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T21:14:27.870Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-23T21:14:28.531Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-23T21:14:28.746Z",
+   "checkedAt": "2026-11-23T21:16:25.518Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T21:14:29.037Z",
+   "checkedAt": "2026-11-23T21:16:26.270Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-23T21:16:26.594Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-23T21:16:26.777Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T21:14:29.105Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-23T21:14:29.343Z",
+   "checkedAt": "2026-11-23T21:16:26.962Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-23T21:14:29.467Z",
+   "checkedAt": "2026-11-23T21:16:27.445Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-23T21:14:29.488Z",
+   "checkedAt": "2026-11-23T21:16:27.566Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T21:14:29.780Z",
+   "checkedAt": "2026-11-23T21:16:27.630Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-23T21:14:30.226Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-23T21:14:30.274Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-23T21:14:30.639Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-23T21:14:31.146Z",
+  "nyt": {
+   "checkedAt": "2026-11-23T21:16:28.810Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T21:14:32.071Z",
+   "checkedAt": "2026-11-23T21:16:29.690Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-23T21:16:29.807Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-23T21:16:30.326Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-23T21:16:30.777Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T21:16:31.469Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T21:14:32.804Z",
+   "checkedAt": "2026-11-23T21:16:31.737Z",
    "success": true
   }
  },
