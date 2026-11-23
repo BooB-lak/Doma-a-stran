@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T17:28:32.492Z",
+ "generatedAt": "2026-11-23T17:30:54.745Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "What failure of COP31 reveals about a divided world",
+    "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c7d/live/76349960-e74e-11f1-88dc-f746e0cde621.jpg",
+    "date": 1795454665000,
+    "titleSl": "Kaj razkriva neuspeh konference COP31 o razdeljenem svetu"
+   },
+   {
     "title": "Teenage girl stabbed multiple times by 14-year-old boy, murder trial told",
     "link": "https://www.bbc.co.uk/news/articles/cmlydn1zye23o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0c/live/0faea620-e750-11f1-a094-5fdc692f3e33.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg",
     "date": 1795446590000,
     "titleSl": "Fifa je potrdila, da bo Združeno kraljestvo gostilo svetovno prvenstvo za ženske leta 2035"
-   },
-   {
-    "title": "How Ukraine attacked Russian ships in Libya",
-    "link": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75c/live/ff08f8d0-e73f-11f1-99a1-253766e7ad8b.jpg",
-    "date": 1795444332000,
-    "titleSl": "Kako je Ukrajina napadla ruske ladje v Libiji"
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T17:28:23.022Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-23T17:28:23.732Z",
+   "checkedAt": "2026-11-23T17:30:49.417Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T17:28:24.128Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-23T17:28:24.475Z",
+   "checkedAt": "2026-11-23T17:30:50.186Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-23T17:28:24.749Z",
+   "checkedAt": "2026-11-23T17:30:50.418Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-23T17:30:50.531Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-23T17:30:51.000Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T17:28:25.069Z",
+   "checkedAt": "2026-11-23T17:30:51.184Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "aljazeera": {
+   "checkedAt": "2026-11-23T17:30:51.287Z",
+   "success": true
+  },
   "reuters": {
-   "checkedAt": "2026-11-23T17:28:25.131Z",
+   "checkedAt": "2026-11-23T17:30:51.622Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-23T17:28:25.175Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T17:28:25.225Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-23T17:28:26.011Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-23T17:28:26.810Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-23T17:28:28.637Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-23T17:28:28.739Z",
+   "checkedAt": "2026-11-23T17:30:53.022Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T17:28:32.339Z",
+   "checkedAt": "2026-11-23T17:30:53.567Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-23T17:30:53.648Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-23T17:30:53.776Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-23T17:30:54.081Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T17:30:54.670Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T17:28:32.491Z",
+   "checkedAt": "2026-11-23T17:30:54.744Z",
    "success": true
   }
  },
