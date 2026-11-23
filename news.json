@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:28:32.164Z",
+ "generatedAt": "2026-11-23T21:30:56.980Z",
  "sources": {
   "siol": [
    {
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Israel’s southern Syria incursion triggers fear and destruction",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795468750.jpg?resize=1918%2C1080&quality=80",
+    "date": 1795468757000,
+    "titleSl": "Izraelski vdor v južno Sirijo povzroča strah in uničenje"
+   },
+   {
     "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
     "link": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-18T142725Z_1699232240_RC2PVCAIIX5G_RTRMADP_3_XAI-GROK-EU-1774548597.jpg?resize=1920%2C1440",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=1920%2C1440",
     "date": 1795461630000,
     "titleSl": "Rusija grozi »sovražni« Estoniji z »odprto vojno«"
-   },
-   {
-    "title": "Thousands flee Manchester concert after unknown substance released",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795460852.jpg?resize=1920%2C1073&quality=80",
-    "date": 1795460857000,
-    "titleSl": "Na tisoče ljudi je pobegnilo s koncerta v Manchestru po izpustu neznane snovi"
    }
   ],
   "guardian": [
@@ -975,18 +975,18 @@
   ],
   "krone": [
    {
+    "title": "Ski-Ass ganz offen - Franz zum Karriereende: „Es waren die Schmerzen!“",
+    "link": "https://www.krone.at/4387628",
+    "image": "https://imgl.krone.at/scaled/4387633/vb4f9e2/full.jpg",
+    "date": 1795469406000,
+    "titleSl": "Smučarski as odkrito - Franz ob koncu kariere: \"To je bila bolečina!\""
+   },
+   {
     "title": "Opfer sei mitschuldig - Verlag wirbt mit Bildern von Pelicots Missbrauch",
     "link": "https://www.krone.at/4387547",
     "image": "https://imgl.krone.at/scaled/4387572/vda2c02/full.jpg",
     "date": 1795469029000,
     "titleSl": "Žrtev je sostorilka – Založba oglašuje s fotografijami Pelicotovih zlorab"
-   },
-   {
-    "title": "Ski-Ass ganz offen - Franz zum Karriereende: „Es waren die Schmerzen!“",
-    "link": "https://www.krone.at/4387628",
-    "image": "https://imgl.krone.at/scaled/4387633/vb4f9e2/full.jpg",
-    "date": 1795468972000,
-    "titleSl": "Smučarski as odkrito - Franz ob koncu kariere: \"To je bila bolečina!\""
    },
    {
     "title": "Entwarnung von Behörde - Gesuchtes Tier in Istanbul war wohl doch kein Löwe",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T21:28:29.576Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-23T21:28:30.587Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-23T21:28:30.666Z",
+   "checkedAt": "2026-11-23T21:30:51.332Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T21:28:30.704Z",
+   "checkedAt": "2026-11-23T21:30:52.019Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-23T21:30:52.390Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-23T21:30:52.478Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T21:28:31.088Z",
+   "checkedAt": "2026-11-23T21:30:52.860Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T21:28:31.146Z",
+   "checkedAt": "2026-11-23T21:30:53.135Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-23T21:30:53.201Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T21:28:31.284Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-23T21:28:31.350Z",
-   "success": true
-  },
   "reuters": {
-   "checkedAt": "2026-11-23T21:28:31.470Z",
+   "checkedAt": "2026-11-23T21:30:53.464Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-23T21:28:31.566Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-23T21:28:31.630Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-23T21:28:31.871Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-23T21:30:55.432Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T21:28:31.968Z",
+   "checkedAt": "2026-11-23T21:30:56.278Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T21:30:56.353Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-23T21:30:56.374Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-23T21:30:56.586Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T21:28:32.061Z",
+   "checkedAt": "2026-11-23T21:30:56.768Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T21:28:32.163Z",
+   "checkedAt": "2026-11-23T21:30:56.979Z",
    "success": true
   }
  },
