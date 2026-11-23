@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T16:58:30.803Z",
+ "generatedAt": "2026-11-23T17:01:06.927Z",
  "sources": {
   "siol": [
    {
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Rechnungshof prüft - Berliner SPD-Größe soll sich Extra-Rente erschlichen haben",
+    "link": "https://www.bild.de/politik/inland/rechnungshof-prueft-berliner-spd-chef-soll-sich-extra-rente-erschlichen-haben-6affe0115842ff528b9e0f97",
+    "image": "https://images.bild.de/6affe0115842ff528b9e0f97/6a7e74218a0b4ad5c7009bc2fa656dd3,58994f0?w=1280",
+    "date": 1795453130000,
+    "titleSl": "Računsko sodišče preverja – vodilni član berlinske SPD naj bi si pridobil dodatno pokojnino"
+   },
+   {
     "title": "Wegen Konzert ohne Kopftuch - Mullahs peitschen iranische Sängerin aus",
     "link": "https://www.bild.de/politik/ausland-und-internationales/iran-saengerin-parastu-ahmadi-mit-74-peitschenhieben-bestraft-6b043fd666a00c9ca1fe0ee1",
     "image": "https://images.bild.de/6b043fd666a00c9ca1fe0ee1/23fdad4e157c4097cd9d82de5d81e8e4,8c186e27?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6b04488266a00c9ca1fe1045/8500da1a86fb07a8388908414250b4ed,b543f5c?w=1280",
     "date": 1795452386000,
     "titleSl": "Aiwangerjeva vdova o svoji prihodnosti – »Dva otroka, ki sta izgubila očeta«"
-   },
-   {
-    "title": "Im Schwarzwald - Das ist Deutschlands bestes Hotel",
-    "link": "https://www.bild.de/leben-wissen/reisen/bestes-hotel-deutschlands-2027-ein-haus-im-schwarzwald-siegt-6b045bb766a00c9ca1fe13be",
-    "image": "https://images.bild.de/6b045bb766a00c9ca1fe13be/cad4a2aa881a9012b823eec65c73cfe0,f83e24aa?w=1280",
-    "date": 1795452298000,
-    "titleSl": "V Črnem gozdu – To je najboljši hotel v Nemčiji"
    }
   ],
   "krone": [
@@ -1320,27 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T16:58:24.254Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-23T16:58:25.063Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-23T16:58:25.077Z",
+   "checkedAt": "2026-11-23T17:01:00.467Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T16:58:25.419Z",
+   "checkedAt": "2026-11-23T17:01:00.951Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T16:58:25.812Z",
+   "checkedAt": "2026-11-23T17:01:03.093Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-23T17:01:03.240Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-23T17:01:03.285Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T16:58:26.075Z",
+   "checkedAt": "2026-11-23T17:01:03.526Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-23T17:01:03.546Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1352,35 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-23T16:58:26.159Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-23T16:58:26.266Z",
+   "checkedAt": "2026-11-23T17:01:03.612Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T16:58:26.403Z",
+   "checkedAt": "2026-11-23T17:01:03.922Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T16:58:26.966Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-23T16:58:27.517Z",
+   "checkedAt": "2026-11-23T17:01:04.547Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-23T16:58:28.447Z",
+   "checkedAt": "2026-11-23T17:01:04.666Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-23T17:01:04.753Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T16:58:29.280Z",
+   "checkedAt": "2026-11-23T17:01:05.000Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T16:58:30.536Z",
+   "checkedAt": "2026-11-23T17:01:06.815Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T16:58:30.802Z",
+   "checkedAt": "2026-11-23T17:01:06.926Z",
    "success": true
   }
  },
