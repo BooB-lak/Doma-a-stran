@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:12:28.536Z",
+ "generatedAt": "2026-11-23T21:14:32.805Z",
  "sources": {
   "siol": [
    {
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Ann-Katrin Berger: Nationaltorhüterin wechselt vom US-Club Gotham FC zu Union Berlin",
+    "link": "https://www.spiegel.de/sport/fussball/ann-katrin-berger-nationaltorhueterin-wechselt-vom-us-club-gotham-fc-zu-union-berlin-a-6b31424e-43a2-4929-af19-fbd4940d83b0#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/48f9fd57-b886-4316-a0c8-5ac77dc1fff8_w520_r2.08_fpx60.67_fpy45.jpg",
+    "date": 1795468140000,
+    "titleSl": "Ann-Katrin Berger: Nacionalna vratarka se iz ameriškega kluba Gotham FC seli v Union Berlin"
+   },
+   {
     "title": "Nvidia: Jensen Huang kehrt auf Druck von Donald Trump zurück",
     "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-kehrt-auf-druck-von-donald-trump-zurueck-a-24b07e86-c1ee-4a84-833e-61d4784dd87f#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/95be4018-972c-411a-b74d-416569fa2aae_w520_r2.08_fpx45.99_fpy44.99.jpg",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w520_r2.08_fpx28.09_fpy49.93.png",
     "date": 1795452240000,
     "titleSl": "Novice dneva: Jedrsko orožje v vesolju, Jensen Huang je spet direktor podjetja Nvidia, Markus Söder se pritožuje"
-   },
-   {
-    "title": "Nato-Treffen in Berlin: Friedrich Merz und Mark Rutte bekräftigen Sicherheitsgarantien für die Ukraine",
-    "link": "https://www.spiegel.de/politik/deutschland/nato-treffen-in-berlin-friedrich-merz-und-mark-rutte-bekraeftigen-sicherheitsgarantien-fuer-die-ukraine-a-8466115a-c858-4447-907a-07adb51289ee#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/868fb0db-184a-4225-b9cb-d5db6a317874_w520_r2.08_fpx53.35_fpy50.jpg",
-    "date": 1795450860000,
-    "titleSl": "Srečanje zveze Nato v Berlinu: Friedrich Merz in Mark Rutte potrjujeta varnostna jamstva za Ukrajino"
    }
   ],
   "bild": [
@@ -1320,27 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T21:12:23.626Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-23T21:12:24.235Z",
+   "checkedAt": "2026-11-23T21:14:27.870Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T21:12:24.589Z",
+   "checkedAt": "2026-11-23T21:14:28.531Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-23T21:12:24.943Z",
+   "checkedAt": "2026-11-23T21:14:28.746Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-23T21:14:29.037Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T21:12:25.182Z",
+   "checkedAt": "2026-11-23T21:14:29.105Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T21:12:25.385Z",
+   "checkedAt": "2026-11-23T21:14:29.343Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-23T21:14:29.467Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1352,35 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-23T21:12:25.551Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T21:12:25.562Z",
+   "checkedAt": "2026-11-23T21:14:29.488Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T21:12:25.930Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-23T21:12:26.459Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-23T21:12:26.757Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-23T21:12:26.874Z",
+   "checkedAt": "2026-11-23T21:14:29.780Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-23T21:12:27.388Z",
+   "checkedAt": "2026-11-23T21:14:30.226Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T21:12:28.399Z",
+   "checkedAt": "2026-11-23T21:14:30.274Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-23T21:14:30.639Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-23T21:14:31.146Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-23T21:14:32.071Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T21:12:28.535Z",
+   "checkedAt": "2026-11-23T21:14:32.804Z",
    "success": true
   }
  },
