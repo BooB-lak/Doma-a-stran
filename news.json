@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T06:40:47.165Z",
+ "generatedAt": "2026-11-23T06:42:34.330Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Anketa Mediane: Podpora vladi Janeza Janše nekoliko nižja",
+    "link": "https://www.zurnal24.si/slovenija/anketa-mediane-podpora-vladi-janeza-janse-nekoliko-nizja-468623",
+    "image": "https://www.zurnal24.si/media/img/98/33/b0c3379bb335cb9d2aae.jpeg",
+    "date": 1795415460000
+   },
+   {
     "title": "Znana Slovenca par postala januarja, po poroki sedaj že zibata!",
     "link": "https://www.zurnal24.si/magazin/vip/znana-slovenca-par-postala-januarja-po-poroki-sedaj-ze-zibata-468621",
     "image": "https://www.zurnal24.si/media/img/8c/3e/63b65a08291b544944cc.png",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/slovenija/prihaja-zimski-preobrat-dele-slovenije-bo-kmalu-zasnezilo-468617",
     "image": "https://www.zurnal24.si/media/img/5c/b9/21f57ad5abaee911676d.jpeg",
     "date": 1795373700000
-   },
-   {
-    "title": "Petarda Maribora po nizu porazov, do zmage tudi Celjani",
-    "link": "https://www.zurnal24.si/sport/nogomet/petarda-maribora-po-nizu-porazov-do-zmage-tudi-celjani-468618",
-    "image": "https://www.zurnal24.si/media/img/67/ef/62a5dbc5fffe20bb5b04.jpeg",
-    "date": 1795373340000
    }
   ],
   "hop": [
@@ -873,18 +873,18 @@
     "titleSl": "Knjigi Petra Hahneja in Ulfa Poschardta postajata uspešnici – toda ali je knjiga o jezi res izum desničarjev?"
    },
    {
-    "title": "Sparkurs im Unternehmen – was Sie hinnehmen müssen und wo Sie sich wehren können",
-    "link": "https://www.spiegel.de/karriere/sparkurs-im-unternehmen-was-sie-hinnehmen-muessen-und-wo-sie-sich-wehren-koennen-a-c2f283d4-e3de-45df-a031-58080041ee56#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ca689c11-1457-451d-a00c-c384bac0fef4_w520_r2.08_fpx52_fpy50.png",
-    "date": 1795408200000,
-    "titleSl": "Varčevanje v podjetju – kaj morate sprejeti in kje se lahko uprete"
-   },
-   {
     "title": "Konflikte im Job: Wenn Kollegen nicht mehr miteinander reden – was hilft",
     "link": "https://www.spiegel.de/karriere/konflikte-im-job-wenn-kollegen-nicht-mehr-miteinander-reden-was-hilft-a-064e24f3-bcc7-441b-b5c1-615d892735a1#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/fb78f294-5495-4091-b22c-d95188f745bd_w520_r2.08_fpx46.98_fpy44.96.jpg",
     "date": 1795408200000,
     "titleSl": "Konflikti na delovnem mestu: Kaj lahko pomaga, če sodelavci ne govorijo več drug z drugim?"
+   },
+   {
+    "title": "Sparkurs im Unternehmen – was Sie hinnehmen müssen und wo Sie sich wehren können",
+    "link": "https://www.spiegel.de/karriere/sparkurs-im-unternehmen-was-sie-hinnehmen-muessen-und-wo-sie-sich-wehren-koennen-a-c2f283d4-e3de-45df-a031-58080041ee56#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/ca689c11-1457-451d-a00c-c384bac0fef4_w520_r2.08_fpx52_fpy50.png",
+    "date": 1795408200000,
+    "titleSl": "Varčevanje v podjetju – kaj morate sprejeti in kje se lahko uprete"
    }
   ],
   "bild": [
@@ -978,13 +978,15 @@
     "title": "„Kinder waren fertig“ - Nach Beschwerden: Jetzt meldet Mutter Spuckattacke",
     "link": "https://www.krone.at/4385967",
     "image": "https://imgl.krone.at/scaled/4385991/vfd5cb7/full.jpg",
-    "date": 1795415972000
+    "date": 1795415972000,
+    "titleSl": "»Otroci so bili pripravljeni« – Po pritožbah: zdaj mati poroča o pljuvanju"
    },
    {
     "title": "Bald arbeitslos - „Haben Angst, keine so guten Jobs mehr zu finden!“",
     "link": "https://www.krone.at/4386090",
     "image": "https://imgl.krone.at/scaled/4386101/v4ae586/full.jpg",
-    "date": 1795415945000
+    "date": 1795415945000,
+    "titleSl": "Kmalu brezposelni – »Bojijo se, da ne bodo več našli tako dobrih služb!«"
    },
    {
     "title": "Ukrainischer Angriff - Explosion! Russisches Kriegsschiff sinkt in Libyen",
@@ -1318,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T06:40:42.250Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-23T06:40:43.275Z",
+   "checkedAt": "2026-11-23T06:42:29.308Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-23T06:40:43.308Z",
+   "checkedAt": "2026-11-23T06:42:30.057Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T06:40:43.371Z",
+   "checkedAt": "2026-11-23T06:42:30.144Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T06:40:43.635Z",
+   "checkedAt": "2026-11-23T06:42:30.644Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-23T06:42:30.713Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T06:40:43.719Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-23T06:40:43.727Z",
+   "checkedAt": "2026-11-23T06:42:30.832Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-23T06:40:43.767Z",
+   "checkedAt": "2026-11-23T06:42:30.864Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-23T06:42:30.880Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-23T06:40:43.880Z",
+   "checkedAt": "2026-11-23T06:42:31.006Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T06:40:44.065Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-23T06:40:44.186Z",
+   "checkedAt": "2026-11-23T06:42:31.141Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T06:40:44.287Z",
+   "checkedAt": "2026-11-23T06:42:31.226Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-23T06:42:31.277Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T06:40:44.445Z",
+   "checkedAt": "2026-11-23T06:42:31.577Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T06:40:44.555Z",
+   "checkedAt": "2026-11-23T06:42:31.646Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-23T06:40:47.061Z",
+   "checkedAt": "2026-11-23T06:42:34.227Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T06:40:47.164Z",
+   "checkedAt": "2026-11-23T06:42:34.329Z",
    "success": true
   }
  },
