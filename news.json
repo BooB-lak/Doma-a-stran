@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T04:10:43.168Z",
+ "generatedAt": "2026-11-23T04:12:33.459Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Zakaj je Volkswagen pri novem hibridu izbral samo eno prestavo? Odgovor je zanimiv",
+    "link": "https://www.zurnal24.si/avto/zakaj-je-volkswagen-pri-novem-hibridu-izbral-samo-eno-prestavo-odgovor-je-zanimiv-467847",
+    "image": "https://www.zurnal24.si/media/img/b6/c5/1c5959bc5e834bd080ca.jpeg",
+    "date": 1795407120000
+   },
+   {
     "title": "Vozili smo zeekr 001: pet let star posebnež, ki se pelje kot evropska športna smetana",
     "link": "https://www.zurnal24.si/avto/testi/vozili-smo-zeekr-001-pet-let-star-posebnez-ki-se-pelje-kot-evropska-sportna-smetana-468544",
     "image": "https://www.zurnal24.si/media/img/c3/7a/6ddb415cba121665ff4a.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/sport/kolesarstvo/to-naj-bi-bil-glavni-razlog-da-je-roglic-tako-dolgo-izbiral-ekipo-468611",
     "image": "https://www.zurnal24.si/media/img/71/01/9fda041881548bde88ec.jpeg",
     "date": 1795361460000
-   },
-   {
-    "title": "Preplah na frankfurtskem letališču, po prihodu dveh letal zbolelo več potnikov",
-    "link": "https://www.zurnal24.si/popotnik/preplah-na-frankfurtskem-letaliscu-po-prihodu-dveh-letal-zbolelo-vec-potnikov-468610",
-    "image": "https://www.zurnal24.si/media/img/25/e1/e8da70e97e72b66c3037.jpeg",
-    "date": 1795360200000
    }
   ],
   "hop": [
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Kampf um DFB-Reform - Traditionsklubs gehen auf Nordost-Verband los",
+    "link": "https://www.bild.de/sport/fussball/regionalliga-reform-faehnchen-im-wind-klubs-gehen-auf-dfb-vize-hermann-winkler-los-6b032a965842ff528b9e4203",
+    "image": "https://images.bild.de/6b032a965842ff528b9e4203/04d3f3715e3bbb2879d4eaa9646a6194,4273f4fe?w=1280",
+    "date": 1795406857000,
+    "titleSl": "Boj za reformo DFB – tradicionalni klubi napadajo severovzhodno zvezo"
+   },
+   {
     "title": "Wer hätte das gedacht - Dynamo ärgert sich über ein 2:2 in Lautern!",
     "link": "https://www.bild.de/sport/fussball/warum-sich-dynamo-dresden-ueber-ein-2-2-in-kaiserslautern-aergert-6b02f07939a3e8110f0e6a32",
     "image": "https://images.bild.de/6b02f07939a3e8110f0e6a32/dcb75546376f472e441e3ccfcd4947b7,bf5dff85?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6afd8757bb7e7a6679f92b9d/84ff971bd71a207f4027325a7e7fab8a,7ea996eb?w=1280",
     "date": 1795406137000,
     "titleSl": "Od 23. 11. do 29. 11. 2026 – Tedenski horoskop za Ribe"
-   },
-   {
-    "title": "Tabellenführung zurückerobert - Dresdens 18-Minuten-Wahnsinn gegen Potsdam",
-    "link": "https://www.bild.de/sport/mehr-sport/handball-dresdens-18-minuten-wahnsinn-gegen-potsdam-6b035ab85842ff528b9e447c",
-    "image": "https://images.bild.de/6b035ab85842ff528b9e447c/dcd1e07d93d1a282057766927353bb2c,8c4033c3?w=1280",
-    "date": 1795406016000,
-    "titleSl": "Ponovno prevzemanje vodstva na lestvici – Dresdenova 18-minutna norost proti Potsdamu"
    }
   ],
   "krone": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T04:10:37.472Z",
+   "checkedAt": "2026-11-23T04:12:29.165Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T04:10:38.303Z",
+   "checkedAt": "2026-11-23T04:12:29.906Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T04:10:38.397Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-23T04:10:38.515Z",
+   "checkedAt": "2026-11-23T04:12:30.060Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T04:10:39.450Z",
+   "checkedAt": "2026-11-23T04:12:30.358Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-23T04:12:30.571Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T04:10:39.806Z",
+   "checkedAt": "2026-11-23T04:12:30.770Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-23T04:10:39.971Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-23T04:10:40.092Z",
+   "checkedAt": "2026-11-23T04:12:30.801Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-23T04:10:40.125Z",
+   "checkedAt": "2026-11-23T04:12:30.826Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-23T04:10:40.184Z",
+   "checkedAt": "2026-11-23T04:12:30.915Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-23T04:10:41.066Z",
+  "reuters": {
+   "checkedAt": "2026-11-23T04:12:31.072Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T04:10:41.291Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-23T04:10:41.782Z",
+   "checkedAt": "2026-11-23T04:12:31.325Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T04:10:42.949Z",
+   "checkedAt": "2026-11-23T04:12:31.555Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-23T04:12:31.621Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T04:12:32.342Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T04:10:42.959Z",
+   "checkedAt": "2026-11-23T04:12:33.305Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T04:10:43.167Z",
+   "checkedAt": "2026-11-23T04:12:33.458Z",
    "success": true
   }
  },
