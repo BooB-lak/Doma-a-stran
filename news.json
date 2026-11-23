@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:12:31.688Z",
+ "generatedAt": "2026-11-23T19:14:27.045Z",
  "sources": {
   "siol": [
    {
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "800 Euro erbeutet - Bewaffneter Räuber überfiel Supermarkt bei Bahnhof",
+    "link": "https://www.krone.at/4387499",
+    "image": "https://imgl.krone.at/scaled/4103700/v789bac/full.jpg",
+    "date": 1795461146000,
+    "titleSl": "Oborožen ropar je iz supermarketa v bližini železniške postaje odnesel 800 evrov"
+   },
+   {
     "title": "„Ich lebe noch!“ - Behörden-Posse um für tot erklärten Salzburger",
     "link": "https://www.krone.at/4386621",
     "image": "https://imgl.krone.at/scaled/4386885/veab134/full.jpg",
@@ -1001,13 +1008,6 @@
     "image": "https://imgl.krone.at/scaled/4387509/vcf7144/full.jpg",
     "date": 1795460463000,
     "titleSl": "Zapora pri Pettnauu – verižni trk 12 vozil na avtocesti"
-   },
-   {
-    "title": "800 Euro erbeutet - Bewaffneter Räuber überfiel Supermarkt bei Bahnhof",
-    "link": "https://www.krone.at/4387499",
-    "image": "https://imgl.krone.at/scaled/4103700/v789bac/full.jpg",
-    "date": 1795460438000,
-    "titleSl": "Oborožen ropar je iz supermarketa v bližini železniške postaje odnesel 800 evrov"
    },
    {
     "title": "Aktie stürzt ab - Im Eilverfahren: BYD-Elektro-SUV in EU verboten",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T19:12:24.081Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-23T19:12:25.022Z",
+   "checkedAt": "2026-11-23T19:14:22.493Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T19:12:25.303Z",
+   "checkedAt": "2026-11-23T19:14:23.110Z",
    "success": true
   },
-  "hop": {
-   "checkedAt": "2026-11-23T19:12:25.542Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-23T19:14:23.471Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-23T19:12:25.812Z",
+   "checkedAt": "2026-11-23T19:14:23.597Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-23T19:14:24.549Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T19:12:26.115Z",
+   "checkedAt": "2026-11-23T19:14:24.708Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-23T19:14:24.750Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-23T19:14:24.756Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T19:12:26.204Z",
-   "success": true
-  },
   "reuters": {
-   "checkedAt": "2026-11-23T19:12:26.433Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-23T19:12:28.401Z",
+   "checkedAt": "2026-11-23T19:14:25.198Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T19:12:29.122Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-23T19:12:29.312Z",
+   "checkedAt": "2026-11-23T19:14:25.850Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T19:12:29.648Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-23T19:12:29.945Z",
+   "checkedAt": "2026-11-23T19:14:26.298Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T19:12:31.496Z",
+   "checkedAt": "2026-11-23T19:14:26.325Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-23T19:14:26.721Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T19:14:26.940Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T19:12:31.687Z",
+   "checkedAt": "2026-11-23T19:14:27.044Z",
    "success": true
   }
  },
