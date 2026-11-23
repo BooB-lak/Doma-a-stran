@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T22:34:29.956Z",
+ "generatedAt": "2026-11-23T22:36:30.938Z",
  "sources": {
   "siol": [
    {
@@ -373,6 +373,27 @@
   ],
   "reuters": [
    {
+    "title": "AustralianSuper to support Brookfield's $2.53 billion takeover of Reliance Worldwide",
+    "link": "https://www.reuters.com/legal/transactional/australiansuper-support-brookfields-253-billion-takeover-reliance-worldwide-2026-11-23/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NYJBMMXB5RJDHAQ6VOTOORUEMI.jpg",
+    "date": 1795472274000,
+    "titleSl": "AustralianSuper bo podprl Brookfieldov prevzem podjetja Reliance Worldwide v vrednosti 2,53 milijarde USD"
+   },
+   {
+    "title": "GE Aerospace defense unit chief Amy Gowder to step down",
+    "link": "https://www.reuters.com/business/autos-transportation/ge-aerospace-defense-unit-chief-amy-gowder-step-down-2026-11-23/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QFTC5AFONZNEVM5TSFYD7XOXAU.jpg",
+    "date": 1795472190000,
+    "titleSl": "Vodja obrambne enote družbe GE Aerospace Amy Gowder bo odstopila"
+   },
+   {
+    "title": "Ex-associate loses bid to subpoena Goodwin Procter in US insider trading case",
+    "link": "https://www.reuters.com/legal/government/ex-associate-loses-bid-subpoena-goodwin-procter-us-insider-trading-case-2026-11-23/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L2Y22DMQ5ZJGDFQNTHJPQ3B2KM.jpg",
+    "date": 1795472182000,
+    "titleSl": "Nekdanji sodelavec je izgubil tožbo za vročitev sodnega poziva odvetniški pisarni Goodwin Procter v ameriškem primeru trgovanja z notranjimi informacijami"
+   },
+   {
     "title": "Alleged drug lord 'El Chapo Isidro' to be tried in Mexico, official says",
     "link": "https://www.reuters.com/world/alleged-drug-lord-el-chapo-isidro-be-tried-mexico-official-says-2026-11-23/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GNUORYEMM5P6RJSMJA4X7Y2HOI.jpg",
@@ -434,27 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BPLVAZHVFVONHLVUOWDMEPDYYY.jpg",
     "date": 1795470674000,
     "titleSl": "Močan najem ameriške odvetniške družbe se je razširil v tretje četrtletje"
-   },
-   {
-    "title": "US blacklists Megaspeed chip firm linked to Nvidia scandal",
-    "link": "https://www.reuters.com/business/us-blacklist-megaspeed-chip-firm-linked-nvidia-scandal-source-says-2026-11-23/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3MARAIMLB5PDLL433TGVCASIPY.jpg",
-    "date": 1795470378000,
-    "titleSl": "ZDA so na črni seznam uvrstile podjetje za proizvodnjo čipov Megaspeed, povezano s škandalom Nvidia"
-   },
-   {
-    "title": "Coca-Cola appoints Bristol Myers executive as finance chief",
-    "link": "https://www.reuters.com/business/coca-cola-names-david-elkins-next-cfo-2026-11-23/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MYJROFO6VFOQZJF4LHP6GDMZUY.jpg",
-    "date": 1795470197000,
-    "titleSl": "Družba Coca-Cola je za finančno direktorico imenovala vodilno kadrovsko delavko družbe Bristol Myers"
-   },
-   {
-    "title": "US agency to vote to ease ownership limits on local TV, radio stations",
-    "link": "https://www.reuters.com/business/media-telecom/us-agency-vote-ease-ownership-limits-local-tv-radio-stations-2026-11-23/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GJGOIHDSSNN3XFAUVL7F565MO4.jpg",
-    "date": 1795469700000,
-    "titleSl": "Ameriška agencija bo glasovala o zmanjšanju omejitev lastništva lokalnih televizijskih in radijskih postaj"
    }
   ],
   "nyt": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T22:34:24.496Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-23T22:34:25.552Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-23T22:34:25.707Z",
+   "checkedAt": "2026-11-23T22:36:22.687Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T22:34:25.771Z",
+   "checkedAt": "2026-11-23T22:36:23.445Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-23T22:36:23.470Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-23T22:36:23.711Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T22:34:26.405Z",
+   "checkedAt": "2026-11-23T22:36:24.016Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-23T22:36:24.357Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-23T22:34:26.580Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T22:34:26.595Z",
+   "checkedAt": "2026-11-23T22:36:24.421Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T22:34:26.630Z",
+   "checkedAt": "2026-11-23T22:36:24.510Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T22:34:26.742Z",
+   "checkedAt": "2026-11-23T22:36:29.404Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T22:34:27.398Z",
+   "checkedAt": "2026-11-23T22:36:29.866Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T22:34:27.644Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-23T22:34:28.295Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-23T22:34:28.553Z",
+   "checkedAt": "2026-11-23T22:36:29.906Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T22:34:29.799Z",
+   "checkedAt": "2026-11-23T22:36:30.291Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T22:36:30.362Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-23T22:36:30.834Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T22:34:29.955Z",
+   "checkedAt": "2026-11-23T22:36:30.937Z",
    "success": true
   }
  },
