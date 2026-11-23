@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:08:32.174Z",
+ "generatedAt": "2026-11-23T19:10:41.991Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "In Iowa, Chaos and Confusion Over Planned Ammunition Explosion",
+    "link": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-IOWA-BLAST-PREP-top3-jzgm/23CLI-IOWA-BLAST-PREP-top3-jzgm-mediumSquareAt3X.jpg",
+    "date": 1795460858000,
+    "titleSl": "V Iowi kaos in zmeda zaradi načrtovane eksplozije streliva"
+   },
+   {
     "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
     "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
     "date": 1795456210000,
     "titleSl": "Zaradi »neznane snovi« so evakuirali koncert Dona Toliverja v Manchestru"
-   },
-   {
-    "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
-    "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
-    "date": 1795455898000,
-    "titleSl": "Kako lastniki stanovanj spodbujajo porast električnih koles v Vietnamu"
    }
   ],
   "bbc": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "„Ich lebe noch!“ - Behörden-Posse um für tot erklärten Salzburger",
+    "link": "https://www.krone.at/4386621",
+    "image": "https://imgl.krone.at/scaled/4386885/veab134/full.jpg",
+    "date": 1795460926000,
+    "titleSl": "»Še vedno sem živ!« – Farsa z oblastmi v zvezi s Salzburžanom, ki je bil razglašen za mrtvega"
+   },
+   {
     "title": "Hammer für 99ers - Schock! Goalie bis zu zwölf Wochen kaltgestellt",
     "link": "https://www.krone.at/4387543",
     "image": "https://imgl.krone.at/scaled/4384023/v58c699/full.jpg",
@@ -1022,13 +1029,6 @@
     "image": "https://imgl.krone.at/scaled/4387021/v071af5/full.jpg",
     "date": 1795460405000,
     "titleSl": "Vrhunski inštruktor o svojem delu – »Glasbeniki in ljubitelji sušija so dobri piloti dronov«"
-   },
-   {
-    "title": "„Ich lebe noch!“ - Behörden-Posse um für tot erklärten Salzburger",
-    "link": "https://www.krone.at/4386621",
-    "image": "https://imgl.krone.at/scaled/4386885/veab134/full.jpg",
-    "date": 1795460403000,
-    "titleSl": "»Še vedno sem živ!« – Farsa z oblastmi v zvezi s Salzburžanom, ki je bil razglašen za mrtvega"
    },
    {
     "title": "ÖFB bestätigt: - Rangnick operiert! Zwei Wochen Spital für Teamchef",
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T19:08:24.164Z",
+   "checkedAt": "2026-11-23T19:10:36.546Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T19:08:24.811Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-23T19:08:25.124Z",
+   "checkedAt": "2026-11-23T19:10:37.349Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T19:08:25.467Z",
+   "checkedAt": "2026-11-23T19:10:37.625Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T19:08:25.800Z",
+   "checkedAt": "2026-11-23T19:10:38.075Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-23T19:08:26.121Z",
+  "zurnal": {
+   "checkedAt": "2026-11-23T19:10:38.189Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-23T19:08:26.211Z",
+   "checkedAt": "2026-11-23T19:10:38.464Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-23T19:08:26.231Z",
+   "checkedAt": "2026-11-23T19:10:38.565Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T19:08:26.437Z",
+   "checkedAt": "2026-11-23T19:10:38.842Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-23T19:10:40.375Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T19:08:27.256Z",
+   "checkedAt": "2026-11-23T19:10:40.988Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T19:08:27.349Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-23T19:08:28.163Z",
+   "checkedAt": "2026-11-23T19:10:41.006Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T19:08:28.872Z",
+   "checkedAt": "2026-11-23T19:10:41.333Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T19:08:31.932Z",
+   "checkedAt": "2026-11-23T19:10:41.545Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-23T19:10:41.764Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T19:08:32.173Z",
+   "checkedAt": "2026-11-23T19:10:41.990Z",
    "success": true
   }
  },
