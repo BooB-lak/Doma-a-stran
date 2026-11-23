@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:40:44.236Z",
+ "generatedAt": "2026-11-23T23:42:28.472Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
+    "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-Trump-interview-gwmt/23nvidia-Trump-interview-gwmt-mediumSquareAt3X.jpg",
+    "date": 1795477288000,
+    "titleSl": "Poročajo, da je Trump pritiskal na ponovno imenovanje izvršnega direktorja podjetja Nvidia Jensena Huanga"
+   },
+   {
     "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
     "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-indigenous-inyt-01-thzm/25sp-women-indigenous-inyt-01-thzm-mediumSquareAt3X.jpg",
     "date": 1795468913000,
     "titleSl": "Ženska, ki je Kanado tožila zaradi genocida"
-   },
-   {
-    "title": "Phumzile Mlambo-Ngcuka, South Africa’s First Female Deputy President, Has Died",
-    "link": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23Phumzile-Mlambo-Ngcuka-vblz/23Phumzile-Mlambo-Ngcuka-vblz-mediumSquareAt3X.jpg",
-    "date": 1795468323000,
-    "titleSl": "Umrla je Phumzile Mlambo-Ngcuka, prva podpredsednica Južne Afrike"
    }
   ],
   "bbc": [
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+    "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?resize=1200%2C630&quality=80",
+    "date": 1795476376000,
+    "titleSl": "EU načrtuje prepoved športa v okviru obsežnega predloga novih sankcij proti Rusiji"
+   },
+   {
     "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
     "link": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b049efd4a19f-1795464957.jpg?resize=1920%2C1440",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PB4T3__v1__HighRes__BangladeshPoliticsTextileLabourProtest-1794907389.jpg?resize=1920%2C1440",
     "date": 1795464228000,
     "titleSl": "Protestirajoči bangladeški delavci v tekstilni industriji zavračajo ponujeno plačilo"
-   },
-   {
-    "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
-    "link": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b048a3c-1795459644.jpg?resize=1920%2C1440",
-    "date": 1795464101000,
-    "titleSl": "Trump zaradi pravnih sporov odloži detonacijo eksploziva v ameriški zvezni državi Iowa"
    }
   ],
   "guardian": [
@@ -1320,27 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T23:40:38.322Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-23T23:40:39.005Z",
+   "checkedAt": "2026-11-23T23:42:21.528Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-23T23:40:39.031Z",
+   "checkedAt": "2026-11-23T23:42:22.029Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-23T23:42:22.288Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-23T23:40:39.394Z",
+   "checkedAt": "2026-11-23T23:42:22.418Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-23T23:40:39.988Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T23:40:40.227Z",
+   "checkedAt": "2026-11-23T23:42:22.961Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-23T23:40:40.244Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-23T23:40:40.310Z",
+   "checkedAt": "2026-11-23T23:42:23.662Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T23:40:40.439Z",
+   "checkedAt": "2026-11-23T23:42:23.764Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-23T23:42:25.430Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-23T23:42:25.675Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-23T23:40:41.131Z",
+   "checkedAt": "2026-11-23T23:42:26.174Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-23T23:40:41.595Z",
+   "checkedAt": "2026-11-23T23:42:26.219Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T23:40:41.653Z",
+   "checkedAt": "2026-11-23T23:42:26.475Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T23:40:42.130Z",
+   "checkedAt": "2026-11-23T23:42:27.000Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-23T23:40:43.270Z",
+   "checkedAt": "2026-11-23T23:42:28.341Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T23:40:44.235Z",
+   "checkedAt": "2026-11-23T23:42:28.471Z",
    "success": true
   }
  },
