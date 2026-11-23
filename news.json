@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T00:42:25.462Z",
+ "generatedAt": "2026-11-23T00:44:28.007Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+    "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a9/live/a37aed60-e65f-11f1-a094-5fdc692f3e33.jpg",
+    "date": 1795394436000,
+    "titleSl": "Ali bo ta teden snežilo? Blag atlantski zrak trči s hladnim zrakom po vsej Veliki Britaniji"
+   },
+   {
     "title": "What is going on with Poundland?",
     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
@@ -620,16 +627,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ae/live/3b964520-e6bc-11f1-99a1-253766e7ad8b.jpg",
     "date": 1795381607000,
     "titleSl": "Price je osvojil Grand Slam in končal čakanje na veliko lovoriko"
-   },
-   {
-    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-    "date": 1795379289000,
-    "titleSl": "Po navedbah uradnikov je eksplozijo na ruski ladji v libijskem pristanišču domnevno povzročil napad z dronom"
    }
   ],
   "aljazeera": [
+   {
+    "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+    "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=1920%2C1440",
+    "date": 1795394391000,
+    "titleSl": "Vodja Svetovne zdravstvene organizacije poziva k miru sredi hudih spopadov v regiji DR Kongo, ki jo je prizadela ebola"
+   },
    {
     "title": "South Korea’s stock market tumbles as AI bubble fears mount",
     "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/PXL_20261122_011704265.MP-1795365771.jpg?resize=1920%2C1440",
     "date": 1795382772000,
     "titleSl": "Razočaranje v prestolnici ZDA, saj je ekipa Washington Spirit izgubila v finalu ženskega nogometa"
-   },
-   {
-    "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795379352.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795379341000,
-    "titleSl": "Na priljubljeni turistični točki na Zanzibarju je izbruhnil požar"
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-23T00:42:22.079Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-23T00:42:22.647Z",
+   "checkedAt": "2026-11-23T00:44:22.937Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-23T00:42:22.936Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-23T00:42:23.567Z",
+   "checkedAt": "2026-11-23T00:44:23.681Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-23T00:42:23.595Z",
+   "checkedAt": "2026-11-23T00:44:23.987Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-23T00:42:23.966Z",
+  "siol": {
+   "checkedAt": "2026-11-23T00:44:24.080Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-23T00:44:24.532Z",
    "success": true
   },
   "guardian": {
-   "checkedAt": "2026-11-23T00:42:23.993Z",
+   "checkedAt": "2026-11-23T00:44:24.959Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-23T00:42:24.054Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-23T00:42:24.157Z",
+   "checkedAt": "2026-11-23T00:44:24.971Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-23T00:42:24.377Z",
+   "checkedAt": "2026-11-23T00:44:25.325Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-23T00:42:24.699Z",
+  "bbc": {
+   "checkedAt": "2026-11-23T00:44:26.690Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-23T00:42:24.950Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-23T00:44:26.720Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-23T00:42:25.038Z",
+   "checkedAt": "2026-11-23T00:44:27.293Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-23T00:44:27.323Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-23T00:44:27.363Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-23T00:42:25.292Z",
+   "checkedAt": "2026-11-23T00:44:27.727Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-23T00:42:25.315Z",
+   "checkedAt": "2026-11-23T00:44:27.860Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-23T00:42:25.462Z",
+   "checkedAt": "2026-11-23T00:44:28.007Z",
    "success": true
   }
  },
