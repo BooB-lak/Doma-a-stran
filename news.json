@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:22:32.766Z",
+ "generatedAt": "2026-11-24T15:24:40.502Z",
  "sources": {
   "siol": [
    {
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Papst Leo XIV. empfängt Friedrich Merz erstmals zu Privataudienz",
+    "link": "https://www.spiegel.de/politik/papst-leo-xiv-empfaengt-friedrich-merz-erstmals-zu-privataudienz-a-54fa22ed-7995-4895-aefb-a39b044fbafc#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/a59ae7ca-c11a-4f51-be89-2bea10c36e03_w520_r2.08_fpx30_fpy53.jpg",
+    "date": 1795533660000,
+    "titleSl": "Papež Leon XIV. je prvič sprejel Friedricha Merza na zasebni avdienci"
+   },
+   {
     "title": "Afrika-Cup: Senegal erhält Titel nach Cas-Entscheid zurück",
     "link": "https://www.spiegel.de/sport/fussball/afrika-cup-senegal-erhaelt-titel-nach-cas-entscheid-zurueck-a-dd29d788-7934-4580-b7d6-72530b684136#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/288a0da7-45c4-4ec0-8d1b-05f746a86f70_w520_r2.08_fpx46.66_fpy49.99.jpg",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/678835e2-0001-0004-0000-000000941520_w520_r2.08_fpx64.67_fpy49.jpg",
     "date": 1795529340000,
     "titleSl": "ESČP: Vračanja v Belorusijo pod določenimi pogoji niso samodejno nezakonita"
-   },
-   {
-    "title": "Astronomie: Weltraumteleskop »Euklid« entdeckt Quasar aus der Frühzeit des Universums",
-    "link": "https://www.spiegel.de/wissenschaft/weltall/astronomie-weltraumteleskop-euklid-entdeckt-quasar-aus-der-fruehzeit-des-universums-a-09e0d709-52a2-45e3-959a-ee94b64ba3f9#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/2f77d288-375f-419c-865c-fc81d6585303_w520_r2.08_fpx58.5_fpy50.jpg",
-    "date": 1795528980000,
-    "titleSl": "Astronomija: Vesoljski teleskop »Evklid« je odkril kvazar iz zgodnjega obdobja vesolja"
    }
   ],
   "bild": [
@@ -975,10 +975,17 @@
   ],
   "krone": [
    {
+    "title": "Klingt kompliziert - ORF-Meteorologe Wadsak kündigt „Hydrometeore“ an",
+    "link": "https://www.krone.at/4388694",
+    "image": "https://imgl.krone.at/scaled/4388726/vab8f62/full.jpg",
+    "date": 1795533800000,
+    "titleSl": "Sliši se zapleteno – meteorolog ORF-a Wadsak napoveduje »hidrometeorje«"
+   },
+   {
     "title": "Beherzt eingegriffen - Soldaten retteten Mutter und Sohn aus Flammenhaus",
     "link": "https://www.krone.at/4388668",
     "image": "https://imgl.krone.at/scaled/4388669/v672533/full.jpg",
-    "date": 1795533639000,
+    "date": 1795533755000,
     "titleSl": "Pogumno posredovanje – vojaki so rešili mater in sina iz goreče hiše"
    },
    {
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4133206/v071dae/full.jpg",
     "date": 1795532714000,
     "titleSl": "Med njimi so tudi Nemci – hekerji razkrivajo: za Putina je umrlo več kot 600.000 ljudi"
-   },
-   {
-    "title": "Gemeindrat stimmt ab: - Startschuss für den neuen Josefsmarkt",
-    "link": "https://www.krone.at/4388196",
-    "image": "https://imgl.krone.at/scaled/4388199/v93af66/full.jpg",
-    "date": 1795532592000,
-    "titleSl": "Občinski svet glasuje: – Začetek nove tržnice Josefsmarkt"
    }
   ],
   "rainews": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T15:22:26.990Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-24T15:22:27.617Z",
+   "checkedAt": "2026-11-24T15:24:23.092Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T15:22:27.737Z",
+   "checkedAt": "2026-11-24T15:24:24.050Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T15:22:27.963Z",
+   "checkedAt": "2026-11-24T15:24:24.123Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-24T15:24:24.361Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T15:22:28.585Z",
+   "checkedAt": "2026-11-24T15:24:24.900Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-24T15:24:25.076Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-24T15:22:28.975Z",
+   "checkedAt": "2026-11-24T15:24:25.168Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-24T15:22:29.125Z",
+   "checkedAt": "2026-11-24T15:24:25.184Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T15:22:29.279Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-24T15:22:30.599Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-24T15:22:31.029Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-24T15:22:31.106Z",
+   "checkedAt": "2026-11-24T15:24:25.500Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T15:22:31.147Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-24T15:22:31.275Z",
+   "checkedAt": "2026-11-24T15:24:26.015Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T15:22:32.634Z",
+   "checkedAt": "2026-11-24T15:24:26.470Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-24T15:24:28.234Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-24T15:24:29.081Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-24T15:24:39.909Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T15:22:32.765Z",
+   "checkedAt": "2026-11-24T15:24:40.500Z",
    "success": true
   }
  },
