@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:10:42.054Z",
+ "generatedAt": "2026-11-24T18:12:35.297Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Watch: Would you let Meta's AI agent run parts of your life?",
+    "link": "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/4d05a030-e82e-11f1-99a1-253766e7ad8b.jpg",
+    "date": 1795543690000,
+    "titleSl": "Oglejte si: Ali bi dovolili, da Metin agent umetne inteligence upravlja dele vašega življenja?"
+   },
+   {
     "title": "'I miss being on court' - Sinner has 'minor surgery' on knee",
     "link": "https://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/928b/live/c16e2a00-e748-11f1-99b6-a35a62fa4264.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8509/live/e31149b0-e7f9-11f1-99a1-253766e7ad8b.png",
     "date": 1795540240000,
     "titleSl": "Preiskava »izkoriščanja« v okviru birminghamskega stanovanjskega programa po preiskavi BBC-ja"
-   },
-   {
-    "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
-    "date": 1795539860000,
-    "titleSl": "Delnice družbe Nvidia so padle, saj ameriški politiki dvomijo o Trumpovi vlogi pri vrnitvi Jensna Huanga"
    }
   ],
   "aljazeera": [
@@ -845,18 +845,18 @@
     "titleSl": "Schwerte: Osem poškodovanih po napadu na pisarno stranke Zelenih s solzivcem"
    },
    {
-    "title": "Slowakei: Parlament schafft Recht auf Briefwahl ab",
-    "link": "https://www.spiegel.de/ausland/slowakei-parlament-schafft-recht-auf-briefwahl-ab-a-2aebe440-b023-46b9-8e19-e004ccbb2768#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/53484f50-d30b-473b-aadd-7d2bc9493d89_w520_r2.08_fpx56.63_fpy44.97.jpg",
-    "date": 1795538700000,
-    "titleSl": "Slovaška: Parlament je odpravil pravico do glasovanja po pošti"
-   },
-   {
     "title": "Anthropic-Aktie fällt unter Ausgabepreis – auch Nvidia im Minus",
     "link": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/643f50f9-e7c9-4c5f-857d-f71acffd6f47_w520_r2.08_fpx61.29_fpy49.98.jpg",
     "date": 1795538700000,
     "titleSl": "Delnica družbe Anthropic pade pod ceno ob izdaji – tudi Nvidia je v minusu"
+   },
+   {
+    "title": "Slowakei: Parlament schafft Recht auf Briefwahl ab",
+    "link": "https://www.spiegel.de/ausland/slowakei-parlament-schafft-recht-auf-briefwahl-ab-a-2aebe440-b023-46b9-8e19-e004ccbb2768#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/53484f50-d30b-473b-aadd-7d2bc9493d89_w520_r2.08_fpx56.63_fpy44.97.jpg",
+    "date": 1795538700000,
+    "titleSl": "Slovaška: Parlament je odpravil pravico do glasovanja po pošti"
    },
    {
     "title": "Vanessa Emde: Berliner Linke schließt umstrittene Politikerin aus Fraktion aus",
@@ -894,6 +894,13 @@
     "image": "https://images.bild.de/6b05b3ded4a4a3142c57155a/7c36c3417c1398874db67a9c8a159ca4,a265fa67?w=1280",
     "date": 1795543726000,
     "titleSl": "Zaradi stališč do Izraela – berlinska Levica izključila Emdeja iz poslanske skupine"
+   },
+   {
+    "title": "Angriff im libyschen Bengasi - Drohnen gegen Putins Flotte! Darf die Ukraine das?",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/weltweite-drohnenangriffe-auf-russlands-schiffe-darf-die-ukraine-das-6b0546746c27b799309d00a5",
+    "image": "https://images.bild.de/6b0546746c27b799309d00a5/69a12bbac8bf661033f0bc51f05f48e4,1dc0f52d?w=1280",
+    "date": 1795543642000,
+    "titleSl": "Napad v libijskem Bengaziju – droni proti Putinovi floti! Ali sme Ukrajina to storiti?"
    },
    {
     "title": "Kommentar - Emdes Rauswurf zeigt die Feigheit von Eralp",
@@ -964,16 +971,30 @@
     "image": "https://images.bild.de/6b0544756c27b799309d0068/07393f4e24cd763db1f7ca4148315a0f,ae975701?w=1280",
     "date": 1795542713000,
     "titleSl": "Na božični večer bo še večja! – Superluna trenutno sije tako veličastno"
-   },
-   {
-    "title": "BILD-Reporter Michael Engelberg - Vanessa Emde ging, ohne etwas zu sagen",
-    "link": "https://www.bild.de/politik/bild-reporter-michael-engelberg-vanessa-emde-hat-ueberhaupt-nichts-gesagt-6b05c9bcaabf9675c80f4728",
-    "image": "https://images.bild.de/6b05c9bcaabf9675c80f4728/064a11364258bb07f75fefd8b200c062,679196b3?w=1280",
-    "date": 1795542683000,
-    "titleSl": "Novinar časopisa BILD Michael Engelberg – Vanessa Emde je odšla, ne da bi karkoli rekla"
    }
   ],
   "krone": [
+   {
+    "title": "Was für ein Chaos! - CAS-Urteil: Senegal jetzt doch Afrikameister",
+    "link": "https://www.krone.at/4388606",
+    "image": "https://imgl.krone.at/scaled/4388616/vc871ce/full.jpg",
+    "date": 1795543879000,
+    "titleSl": "Kakšen kaos! – Odločitev CAS-a: Senegal je zdaj vendarle afriški prvak"
+   },
+   {
+    "title": "Und das in der Früh - Fuhr ohne Führerschein, aber stark alkoholisiert",
+    "link": "https://www.krone.at/4388763",
+    "image": "https://imgl.krone.at/scaled/3841808/v73c33c/full.jpg",
+    "date": 1795543850000,
+    "titleSl": "In to zjutraj – vozil je brez vozniškega dovoljenja, vendar močno pod vplivom alkohola"
+   },
+   {
+    "title": "Champions League - LIVE: Bodö aktiver, aber der LASK hat Kontrolle",
+    "link": "https://www.krone.at/4387599",
+    "image": "https://imgl.krone.at/scaled/4388955/v6a066c/full.jpg",
+    "date": 1795543817000,
+    "titleSl": "Liga prvakov – V ŽIVO: Bodö je bolj aktiven, vendar ima LASK nadzor"
+   },
    {
     "title": "„Überkapazitäten“ - USA planen neue Zölle gegen die EU und China",
     "link": "https://www.krone.at/4388951",
@@ -1031,32 +1052,11 @@
     "titleSl": "Tri piva po nesreči – sodba o naknadnem pitju: »Pijani voznik« zmaga na sodišču"
    },
    {
-    "title": "Champions League - LIVE: LASK mit vorsichtigem Beginn bei Bodö/Glimt!",
-    "link": "https://www.krone.at/4387599",
-    "image": "https://imgl.krone.at/scaled/4285955/vf46aad/full.jpg",
-    "date": 1795543014000,
-    "titleSl": "Liga prvakov – V ŽIVO: LASK s previdnim začetkom pri Bodö/Glimtu!"
-   },
-   {
     "title": "Die Neuer-Trennung - „Sehr traurig, mein Herz schmerzt gerade sehr“",
     "link": "https://www.krone.at/4388518",
     "image": "https://imgl.krone.at/scaled/4144621/v23ed08/full.jpg",
     "date": 1795542894000,
     "titleSl": "Nova ločitev – »Zelo žalostno, srce me zelo boli«"
-   },
-   {
-    "title": "Festnahmen in London - Knapp 900 Kilo Kokain in Orangenkisten gefunden",
-    "link": "https://www.krone.at/4388797",
-    "image": "https://imgl.krone.at/scaled/4388941/vf5f9df/full.jpg",
-    "date": 1795542703000,
-    "titleSl": "Aretacije v Londonu – v zabojih z pomarančami so našli skoraj 900 kilogramov kokaina"
-   },
-   {
-    "title": "Zwei Senioren verletzt - Unfall am Triebener Tauern: Hubschraubereinsatz",
-    "link": "https://www.krone.at/4388937",
-    "image": "https://imgl.krone.at/scaled/3847122/v9c1435/full.jpg",
-    "date": 1795542632000,
-    "titleSl": "Dva starejša človeka sta poškodovana – nesreča na Triebener Tauernu: posredovanje helikopterja"
    }
   ],
   "rainews": [
@@ -1066,6 +1066,13 @@
     "image": "https://www.rainews.it/dl/img/2026/10/27/1793081921893_SnapInsta.ton.jpg",
     "date": 1795543020000,
     "titleSl": "Tenis, Sinner operiran na desnem kolenu: operacija je bila uspešna, zdaj sledi okrevanje"
+   },
+   {
+    "title": "Belve, Totti: \"Su di me hanno mangiato in tanti\". Favino: \"Fin da ragazzo sento delle presenze\"",
+    "link": "https://www.rainews.it/articoli/2026/11/belve-totti-su-di-me-hanno-mangiato-in-tanti-favino-fin-da-ragazzo-sento-delle-presenze-4f3aa976-7d62-4108-b4fb-ac42ed24a4aa.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/24/1795543392520_ipiccyimage.jpg",
+    "date": 1795542960000,
+    "titleSl": "Belve, Totti: »Su di me hanno mangiato in tanti«. Favino: »Že od otroštva čutim prisotnost drugih bitij.«"
    },
    {
     "title": "Fumo dai tombini in centro a Roma: l&#x27;ipotesi di un rogo di cavi interrati",
@@ -1136,16 +1143,16 @@
     "image": "https://www.rainews.it/dl/img/2026/11/24/1795536698984_DFT_.jpg",
     "date": 1795537320000,
     "titleSl": "V nedeljo predčasne volitve v Španiji: vodijo ljudovci z Voxom, Sanchez sanja o težavnem preobratu"
-   },
-   {
-    "title": "Pomeriggio 24 - Puntata del 24/11/2026",
-    "link": "https://www.rainews.it/rubriche/pomeriggio24/video/2026/11/Pomeriggio-24---Puntata-del-24112026-337061e5-1b98-4d0d-b638-03b412525b09.html",
-    "image": "https://www.rainews.it/dl/img/2025/09/30/1759222931269_2048x1152.jpg",
-    "date": 1795536474000,
-    "titleSl": "Pomeriggio 24 – Oddaja z dne 24. 11. 2026"
    }
   ],
   "lemonde": [
+   {
+    "title": "Chez SFR, les ventes continuent de chuter en pleine opération de rachat par Bouygues Telecom, Free et Orange",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/24/chez-sfr-les-ventes-continuent-de-chuter-en-pleine-operation-de-rachat-par-bouygues-telecom-free-et-orange_6814833_3234.html",
+    "image": "https://img.lemde.fr/2026/11/24/925/0/5543/2771/644/322/60/0/1f52e1f_upload-1-xcpr3pkot1jx-000-d2ta4ap.jpg",
+    "date": 1795542949000,
+    "titleSl": "Pri podjetju SFR prodaja še naprej upada sredi postopka prevzema s strani podjetij Bouygues Telecom, Free in Orange."
+   },
    {
     "title": "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au lendemain d’un attentat à la voiture piégée à Villavicencio",
     "link": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-prise-d-otages-lors-du-braquage-d-un-supermarche-a-carthagene-au-lendemain-d-un-attentat-a-la-voiture-piegee-a-villavicencio_6814815_3211.html",
@@ -1222,13 +1229,6 @@
     "image": "https://img.lemde.fr/2026/11/23/277/0/5000/2500/644/322/60/0/950de7d_ftp-1-4nenkwh1gj7l-2026-11-23t142223z-1619699420-rc2rkeajxlru-rtrmadp-3-nvidia-ceo.JPG",
     "date": 1795535398000,
     "titleSl": "Za afero Nvidia stoji obsežna mreža za preusmerjanje čipov za umetno inteligenco v korist Kitajske"
-   },
-   {
-    "title": "Midterms : une victoire démocrate historique, traduite par la conquête de lieux de pouvoir stratégiques",
-    "link": "https://www.lemonde.fr/international/article/2026/11/24/midterms-une-victoire-democrate-historique-traduite-par-la-conquete-de-lieux-de-pouvoir-strategiques_6814810_3210.html",
-    "image": "https://img.lemde.fr/2026/11/04/117/0/2560/1280/644/322/60/0/87adb77_upload-1-gslm10b4mrrk-11-3-2026-tova-katzman-austin-election-results-21.jpg",
-    "date": 1795534217000,
-    "titleSl": "Vmesne volitve: zgodovinska zmaga demokratov, ki se je odrazila v osvojitvi strateških položajev oblasti"
    }
   ],
   "elpais": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T18:10:36.115Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-24T18:10:36.701Z",
+   "checkedAt": "2026-11-24T18:12:26.058Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T18:10:37.087Z",
+   "checkedAt": "2026-11-24T18:12:26.631Z",
    "success": true
   },
-  "hop": {
-   "checkedAt": "2026-11-24T18:10:37.423Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-24T18:12:26.654Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T18:10:37.541Z",
+   "checkedAt": "2026-11-24T18:12:27.099Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-24T18:12:27.566Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-24T18:10:37.785Z",
+   "checkedAt": "2026-11-24T18:12:27.827Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-24T18:10:37.867Z",
+   "checkedAt": "2026-11-24T18:12:27.930Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-24T18:10:38.179Z",
+  "reuters": {
+   "checkedAt": "2026-11-24T18:12:28.200Z",
    "success": true
   },
-  "reuters": {
-   "checkedAt": "2026-11-24T18:10:38.232Z",
+  "bbc": {
+   "checkedAt": "2026-11-24T18:12:29.840Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T18:10:38.897Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-24T18:10:39.117Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-24T18:10:39.329Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-24T18:10:39.591Z",
+   "checkedAt": "2026-11-24T18:12:30.479Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T18:10:41.460Z",
+   "checkedAt": "2026-11-24T18:12:31.771Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-24T18:12:32.406Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-24T18:12:32.646Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-24T18:12:35.089Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T18:10:42.053Z",
+   "checkedAt": "2026-11-24T18:12:35.296Z",
    "success": true
   }
  },
