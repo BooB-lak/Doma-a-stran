@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T19:42:33.933Z",
+ "generatedAt": "2026-11-24T19:44:31.555Z",
  "sources": {
   "siol": [
    {
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Von Hamburg und weiteren Städten - Eurowings startet Direktflüge nach Syrien",
+    "link": "https://www.bild.de/politik/inland/von-hamburg-berlin-co-easyjet-bietet-ab-januar-direktfluege-nach-syrien-an-6b05b264460ead0fdbd8093b",
+    "image": "https://images.bild.de/6b05b264460ead0fdbd8093b/c5204ae19a5ccc2f7dd758dd4fad8de0,d863e410?w=1280",
+    "date": 1795549377000,
+    "titleSl": "Iz Hamburga in drugih mest – Eurowings uvaja direktne lete v Sirijo"
+   },
+   {
     "title": "40 Millionen Euro - Zoll verbrennt zwei Tonnen Drogen",
     "link": "https://www.bild.de/news/inland/40-millionen-euro-zoll-verbrennt-zwei-tonnen-drogen-6b05b6e1cd4642ba2eb16a0d",
     "image": "https://images.bild.de/6b05b6e1cd4642ba2eb16a0d/62d6fe8272d2ca26b50d33ba79a95ae6,8734a03?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6b03f1145842ff528b9e497c/50c8a39b1f7975f2fb4d9f79b977c6d9,245d4a71?w=1280",
     "date": 1795547478000,
     "titleSl": "Zvezdnik Borussie Dortmund Guirassy o prvenstvu in svoji prihodnosti v Borussii Dortmund – Ballon d'Or? »Želim biti na vrhu«"
-   },
-   {
-    "title": "Acht Verletzte, Staatsschutz ermittelt - Maskierter attackiert Grüne in Parteibüro",
-    "link": "https://www.bild.de/regional/nordrhein-westfalen/schwerte-maskierter-attackiert-gruene-in-parteibuero-drei-verletzte-6b04b1dd39a3e8110f0e95f0",
-    "image": "https://images.bild.de/6b04b1dd39a3e8110f0e95f0/3fb0a5634b0bb77965d01334def74801,3bd7794?w=1280",
-    "date": 1795547325000,
-    "titleSl": "Osem poškodovanih, preiskuje služba za zaščito ustavnega reda – Maskirani napadalec napadel Zelene v strankarskem uradu"
    }
   ],
   "krone": [
@@ -978,7 +978,7 @@
     "title": "Champions League - Bitter! Spätes Tor bringt den LASK um Punktgewinn",
     "link": "https://www.krone.at/4387599",
     "image": "https://imgl.krone.at/scaled/4388992/v8693a4/full.jpg",
-    "date": 1795549283000,
+    "date": 1795549361000,
     "titleSl": "Liga prvakov – Grenko! Pozni gol je LASK-u preprečil osvojitev točke"
    },
    {
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T19:42:25.475Z",
+   "checkedAt": "2026-11-24T19:44:25.813Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T19:42:26.520Z",
+   "checkedAt": "2026-11-24T19:44:26.658Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T19:42:26.706Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-24T19:42:27.052Z",
+   "checkedAt": "2026-11-24T19:44:26.870Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T19:42:27.374Z",
+   "checkedAt": "2026-11-24T19:44:27.148Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-24T19:44:27.217Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-24T19:44:27.544Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-24T19:42:27.680Z",
+   "checkedAt": "2026-11-24T19:44:27.636Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "reuters": {
-   "checkedAt": "2026-11-24T19:42:27.896Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-24T19:42:28.033Z",
-   "success": true
-  },
   "aljazeera": {
-   "checkedAt": "2026-11-24T19:42:29.963Z",
+   "checkedAt": "2026-11-24T19:44:27.711Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-24T19:44:27.817Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T19:42:30.752Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-24T19:42:31.785Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-24T19:42:32.834Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-24T19:42:33.672Z",
+   "checkedAt": "2026-11-24T19:44:28.577Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T19:42:33.786Z",
+   "checkedAt": "2026-11-24T19:44:29.065Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-24T19:44:29.066Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-24T19:44:30.134Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-24T19:44:30.972Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T19:42:33.932Z",
+   "checkedAt": "2026-11-24T19:44:31.554Z",
    "success": true
   }
  },
