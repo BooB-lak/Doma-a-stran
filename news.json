@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T08:02:35.677Z",
+ "generatedAt": "2026-11-24T08:04:29.942Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Redick stopil v bran Luki glede kontroverznega posnetka",
+    "link": "https://www.zurnal24.si/sport/kosarka/redick-stopil-v-bran-luki-glede-kontroverznega-posnetka-468692",
+    "image": "https://www.zurnal24.si/media/img/2f/c1/b8db8b5014e5eab0ccf7.jpeg",
+    "date": 1795507320000
+   },
+   {
     "title": "Videti je kot običajno obvestilo o paketu, a v resnici gre za prevaro",
     "link": "https://www.zurnal24.si/slovenija/videti-je-kot-obicajno-obvestilo-o-paketu-a-v-resnici-gre-za-prevaro-468690",
     "image": "https://www.zurnal24.si/media/img/e1/95/79ae7dc12f98d40a26c1.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/zdravje/bolnikom-z-rakom-ugasnili-luc-na-koncu-tunela-468649",
     "image": "https://www.zurnal24.si/media/img/df/5b/e61fee072b57a5082b31.jpeg",
     "date": 1795495260000
-   },
-   {
-    "title": "To je obljubil Dončićev šef, se bo Lakersom res pridružil ta veliki zvezdnik?",
-    "link": "https://www.zurnal24.si/sport/kosarka/to-je-obljubil-doncicev-sef-se-bo-lakersom-res-pridruzil-ta-veliki-zvezdnik-468682",
-    "image": "https://www.zurnal24.si/media/img/b9/03/1e23460db12529217cbe.jpeg",
-    "date": 1795494360000
    }
   ],
   "hop": [
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Wagner schlägt Alarm - Fitnessplan für den 96-Kapitän",
+    "link": "https://www.bild.de/sport/fussball/hannover-96-wagner-schlaegt-alarm-fitnessplan-fuer-kapitaen-thordarson-6b0445bf172877701c070165",
+    "image": "https://images.bild.de/6b0445bf172877701c070165/9f5529fa2812507269e4674e42f1764b,2b72d5f1?w=1280",
+    "date": 1795507254000,
+    "titleSl": "Wagner sproži alarm – načrt vadbe za kapitana kluba 96"
+   },
+   {
     "title": "Vom 23.11. bis 29.11.2026 - Das Wochenhoroskop für Widder",
     "link": "https://www.bild.de/leben-wissen/horoskop/horoskop-widder-vom-23-11-29-11-2026-eine-woche-voller-geheimnisse-6afd8752bb7e7a6679f92b85",
     "image": "https://images.bild.de/6afd8752bb7e7a6679f92b85/f54ad4457175c0288255231e8c0245bd,8fb57490?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6b04b1d339a3e8110f0e95eb/08b7aec911ca7e4a1fd994d0b2b52700,84b69ea4?w=1280",
     "date": 1795506461000,
     "titleSl": "Obsežna policijska operacija v Schwertu – Maskirani napadalec napade Zelene v strankarskem uradu"
-   },
-   {
-    "title": "Zeit, Geld und Nerven sparen - 100 KI-Befehle, die Ihren Alltag leichter machen",
-    "link": "https://www.bild.de/leben-wissen/digital/100-ki-prompts-so-sparen-sie-im-alltag-zeit-geld-und-nerven-sofort-6af5ee3fd2f851d14ad019f2",
-    "image": "https://images.bild.de/6af5ee3fd2f851d14ad019f2/2944fc5dfb7e0a957a43e168fe662dc8,3cfb0f2b?w=1280",
-    "date": 1795506430000,
-    "titleSl": "Prihranite čas, denar in živce – 100 ukazov umetne inteligence, ki vam bodo olajšali vsakdan"
    }
   ],
   "krone": [
@@ -1320,23 +1320,35 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T08:02:22.977Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-24T08:02:23.653Z",
+   "checkedAt": "2026-11-24T08:04:24.442Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T08:02:24.010Z",
+   "checkedAt": "2026-11-24T08:04:25.178Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-24T08:04:25.214Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T08:02:24.180Z",
+   "checkedAt": "2026-11-24T08:04:25.507Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T08:02:24.714Z",
+   "checkedAt": "2026-11-24T08:04:26.044Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-24T08:04:26.499Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-24T08:04:26.532Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-24T08:04:26.611Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1356,31 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-24T08:02:25.055Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-24T08:02:25.179Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-24T08:02:25.451Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-24T08:02:28.632Z",
+   "checkedAt": "2026-11-24T08:04:26.715Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T08:02:28.947Z",
+   "checkedAt": "2026-11-24T08:04:27.394Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T08:02:29.142Z",
+   "checkedAt": "2026-11-24T08:04:27.759Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T08:02:29.280Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-24T08:02:33.039Z",
+   "checkedAt": "2026-11-24T08:04:27.886Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T08:02:35.588Z",
+   "checkedAt": "2026-11-24T08:04:27.971Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-24T08:04:29.718Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T08:02:35.677Z",
+   "checkedAt": "2026-11-24T08:04:29.941Z",
    "success": true
   }
  },
