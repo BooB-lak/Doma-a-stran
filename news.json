@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:54:34.048Z",
+ "generatedAt": "2026-11-24T22:56:33.202Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Ministers ask public for views on changing age of consent",
+    "link": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec8/live/48a72fa0-e850-11f1-aa88-031e8213533d.jpg",
+    "date": 1795560738000,
+    "titleSl": "Ministri prosijo javnost za mnenja o spremembi starosti za privolitev"
+   },
+   {
     "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
     "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b89/live/65e5de70-e82a-11f1-8d9d-c156c75bcdb5.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
     "date": 1795547431000,
     "titleSl": "Nigerijski monarh, star 92 let, je bil suspendiran zaradi domnevnega spolnega napada na poljsko turistko"
-   },
-   {
-    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-    "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
-    "date": 1795544503000,
-    "titleSl": "Faisal Islam: Strahovi zaradi razmaha umetne inteligence niso izginili"
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T22:54:24.222Z",
+   "checkedAt": "2026-11-24T22:56:26.775Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T22:54:25.172Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-24T22:54:25.180Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-24T22:54:26.120Z",
+   "checkedAt": "2026-11-24T22:56:27.796Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T22:54:26.415Z",
+   "checkedAt": "2026-11-24T22:56:27.853Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-24T22:56:27.906Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-24T22:56:28.331Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-24T22:54:26.611Z",
+   "checkedAt": "2026-11-24T22:56:28.405Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-24T22:54:26.723Z",
-   "success": true
-  },
   "aljazeera": {
-   "checkedAt": "2026-11-24T22:54:26.817Z",
+   "checkedAt": "2026-11-24T22:56:28.540Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T22:54:26.919Z",
+   "checkedAt": "2026-11-24T22:56:28.784Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-24T22:54:27.143Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-24T22:54:27.549Z",
+  "bbc": {
+   "checkedAt": "2026-11-24T22:56:30.355Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T22:54:27.688Z",
+   "checkedAt": "2026-11-24T22:56:30.488Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T22:54:27.945Z",
+   "checkedAt": "2026-11-24T22:56:30.757Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-24T22:56:30.813Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-24T22:56:30.860Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T22:54:28.376Z",
+   "checkedAt": "2026-11-24T22:56:33.081Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T22:54:34.047Z",
+   "checkedAt": "2026-11-24T22:56:33.201Z",
    "success": true
   }
  },
