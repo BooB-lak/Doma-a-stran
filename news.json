@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T05:42:28.911Z",
+ "generatedAt": "2026-11-24T05:44:30.655Z",
  "sources": {
   "siol": [
    {
@@ -27,7 +27,7 @@
     "date": 1795497120000
    },
    {
-    "title": "O polnoči so se spremenile cene goriv",
+    "title": "Opolnoči so se spremenile cene goriv",
     "link": "https://siol.net/novice/svet/o-polnoci-so-se-spremenile-cene-goriv-707015",
     "image": "https://siol.net/media/img/d7/5a/75dd1c5c3e5776f30849.jpeg",
     "date": 1795496820000
@@ -1061,6 +1061,13 @@
   ],
   "rainews": [
    {
+    "title": "Almeno quattro mesi di stop per Sinner: ecco perché il recupero sarà così lungo",
+    "link": "https://www.rainews.it/articoli/2026/11/almeno-quattro-mesi-di-stop-per-sinner-ecco-perche-il-recupero-sara-cosi-lungo-59379143-9e01-44eb-b569-37466cbad9af.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/23/1795438311963_large.jpg",
+    "date": 1795498440000,
+    "titleSl": "Sinner bo moral počivati vsaj štiri mesece: zato bo okrevanje trajalo tako dolgo"
+   },
+   {
     "title": "Il Giappone si riarma: e coinvolge i fornitori dell&#x27;industria automobilistica",
     "link": "https://www.rainews.it/video/2026/11/il-giappone-si-riarma-e-coinvolge-i-fornitori-dellindustria-automobilistica-la-conversione-militare-d7d8b049-f4c5-4962-8321-4e9ea33af8eb.html",
     "image": "https://www.rainews.it/dl/img/2026/11/24/1795497435365_Cattura.PNG",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/24/1795478210891_ranframe.jpeg",
     "date": 1795478100000,
     "titleSl": "Satelit z jedrsko konico, Kremelj zanika: »Neresne govorice«"
-   },
-   {
-    "title": "Manovra, la maggioranza discute di superbonus, condono edilizio e sanità",
-    "link": "https://www.rainews.it/video/2026/11/manovra-la-maggioranza-discute-di-superbonus-condono-edilizio-e-sanita-cappuccio-3f48c332-1dd0-4042-a51e-43d0e14b626c.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/24/1795478145369_ranframe.jpeg",
-    "date": 1795478040000,
-    "titleSl": "Proračunski zakon, večina razpravlja o superbonusu, gradbeni amnestiji in zdravstvu"
    }
   ],
   "lemonde": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T05:42:25.028Z",
+   "checkedAt": "2026-11-24T05:44:23.647Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T05:42:25.653Z",
+   "checkedAt": "2026-11-24T05:44:24.512Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T05:42:25.828Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-24T05:42:26.114Z",
+   "checkedAt": "2026-11-24T05:44:24.901Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T05:42:26.760Z",
+   "checkedAt": "2026-11-24T05:44:25.349Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-24T05:44:25.757Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-24T05:44:26.057Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-24T05:42:27.083Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-24T05:42:27.094Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-24T05:42:27.205Z",
+   "checkedAt": "2026-11-24T05:44:26.186Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T05:42:27.424Z",
+   "checkedAt": "2026-11-24T05:44:26.220Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-24T05:44:26.309Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T05:42:27.993Z",
+   "checkedAt": "2026-11-24T05:44:26.694Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T05:42:28.101Z",
+   "checkedAt": "2026-11-24T05:44:27.241Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T05:42:28.428Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-24T05:42:28.536Z",
+   "checkedAt": "2026-11-24T05:44:27.504Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T05:42:28.816Z",
+   "checkedAt": "2026-11-24T05:44:27.945Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-24T05:44:29.685Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T05:42:28.910Z",
+   "checkedAt": "2026-11-24T05:44:30.654Z",
    "success": true
   }
  },
