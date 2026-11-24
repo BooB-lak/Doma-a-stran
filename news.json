@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T19:10:42.440Z",
+ "generatedAt": "2026-11-24T19:12:33.770Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,18 @@
   ],
   "24ur": [
    {
+    "title": "Kaj prinaša letošnja zima? Artični mraz in več snega?",
+    "link": "https://www.24ur.com/novice/slovenija/kaj-prinasa-letosnja-zima-articni-mraz-in-vec-snega.html",
+    "image": "https://images.24ur.com/media/images/213xX/Dec2021/b4c8a6abd23073ba5854_62659047.jpg?v=ec1a&fop=fp:0.58:0.37",
+    "date": 1795547288000
+   },
+   {
+    "title": "V soboto se bodo v Mariboru borilni športi povezali z dobrodelnostjo",
+    "link": "https://www.24ur.com/sport/borilni-sporti/v-soboto-se-bodo-v-mariboru-borilni-sporti-povezali-z-dobrodelnostjo.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/3940fb9ba1a8bb98d394_63684630.jpg?v=455e&fop=fp:0.46:0.42",
+    "date": 1795546828000
+   },
+   {
     "title": "Začenja se finale 12. sezone MasterChef Slovenija!",
     "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/zacenja-se-finale-12-sezone-masterchef-slovenija.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/901948b5a799a9902e43_63681907.jpg?v=3feb&fop=fp:0.38:0.42",
@@ -135,18 +147,6 @@
     "link": "https://www.24ur.com/popin/zanimivosti/na-drazbi-bodo-ponudili-rokopise-boba-dylana.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/58a70412f210915dad73_63684213.jpg?v=5a3a&fop=fp:0.45:0.43",
     "date": 1795541997000
-   },
-   {
-    "title": "Štrukelj bo na čelu Sviza tudi v naslednjih štirih letih",
-    "link": "https://www.24ur.com/novice/slovenija/strukelj-bo-na-celu-sviza-tudi-v-naslednjih-stirih-letih.html",
-    "image": "https://images.24ur.com/media/images/213xX/Oct2023/a35cdd409ce58bc99557_63136592.jpg?v=5f61&fop=fp:0.50:0.32",
-    "date": 1795541500000
-   },
-   {
-    "title": "'Čutimo, da gre za tekmo sezone'",
-    "link": "https://www.24ur.com/sport/odbojka/cutimo-da-gre-za-tekmo-sezone.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/3f4129040338b5bbcd65_63678651.jpg?v=dea6&fop=fp:0.49:0.18",
-    "date": 1795541085000
    }
   ],
   "rtvslo": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Es werden immer mehr - Jensen Huang gab vor Comeback weitere Affären zu",
+    "link": "https://www.krone.at/4388963",
+    "image": "https://imgl.krone.at/scaled/4378404/vbfb053/full.jpg",
+    "date": 1795547504000,
+    "titleSl": "Vedno jih je več – Jensen Huang je pred vrnitvijo priznal še več afer"
+   },
+   {
     "title": "Champions League - LIVE: Der LASK wird gegen Bodö/Glimt mutiger",
     "link": "https://www.krone.at/4387599",
     "image": "https://imgl.krone.at/scaled/4388992/v8693a4/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4388954/ve6c239/full.jpg",
     "date": 1795544041000,
     "titleSl": "»Presežne zmogljivosti« – ZDA načrtujejo nove carine proti EU in Kitajski"
-   },
-   {
-    "title": "Was für ein Chaos! - CAS-Urteil: Senegal jetzt doch Afrikameister",
-    "link": "https://www.krone.at/4388606",
-    "image": "https://imgl.krone.at/scaled/4388616/vc871ce/full.jpg",
-    "date": 1795543879000,
-    "titleSl": "Kakšen kaos! – Odločitev CAS-a: Senegal je zdaj vendarle afriški prvak"
    }
   ],
   "rainews": [
@@ -1320,27 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T19:10:35.626Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-24T19:10:36.539Z",
+   "checkedAt": "2026-11-24T19:12:26.399Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T19:10:36.602Z",
+   "checkedAt": "2026-11-24T19:12:27.617Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-24T19:12:27.649Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T19:10:36.835Z",
+   "checkedAt": "2026-11-24T19:12:28.043Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T19:10:37.948Z",
+   "checkedAt": "2026-11-24T19:12:28.719Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-24T19:10:38.252Z",
+   "checkedAt": "2026-11-24T19:12:29.044Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-24T19:12:29.150Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1352,35 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-24T19:10:38.337Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-24T19:10:38.397Z",
+   "checkedAt": "2026-11-24T19:12:29.239Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T19:10:38.708Z",
+   "checkedAt": "2026-11-24T19:12:29.365Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T19:10:39.148Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-24T19:10:40.902Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-24T19:10:41.110Z",
+   "checkedAt": "2026-11-24T19:12:29.942Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T19:10:42.091Z",
+   "checkedAt": "2026-11-24T19:12:30.069Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-24T19:12:30.928Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T19:10:42.304Z",
+   "checkedAt": "2026-11-24T19:12:31.351Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-24T19:12:33.529Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T19:10:42.439Z",
+   "checkedAt": "2026-11-24T19:12:33.769Z",
    "success": true
   }
  },
