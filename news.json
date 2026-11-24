@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:56:33.202Z",
+ "generatedAt": "2026-11-24T22:58:33.332Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,20 @@
   ],
   "nyt": [
    {
+    "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
+    "link": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
+    "date": 1795560577000,
+    "titleSl": "Iz e-sporočila je razvidno, da je tožilec pozval ministrstvo za pravosodje, naj ponovno preuči obtožbe zoper ubežnika."
+   },
+   {
+    "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
+    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
+    "date": 1795560297000,
+    "titleSl": "Abrego Garcia bo prostovoljno zapustila ZDA in tako končala 20-mesečno pravno preizkušnjo"
+   },
+   {
     "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
     "link": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
@@ -527,20 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg",
     "date": 1795554802000,
     "titleSl": "Oddaja »Saturday Night Live« prihaja v Francijo"
-   },
-   {
-    "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
-    "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg",
-    "date": 1795554800000,
-    "titleSl": "Eksplozija v vojaški tovarni streliva v Iowi je predvidena za sredo zjutraj"
-   },
-   {
-    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-    "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-    "date": 1795554773000,
-    "titleSl": "Delniški trgi so padli, saj so delnice družbe Nvidia in delnice, povezane z umetno inteligenco, izgubile del rasti, ki so jo zabeležile v ponedeljek"
    }
   ],
   "bbc": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T22:56:26.775Z",
+   "checkedAt": "2026-11-24T22:58:23.972Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T22:56:27.796Z",
+   "checkedAt": "2026-11-24T22:58:24.694Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T22:56:27.853Z",
+   "checkedAt": "2026-11-24T22:58:24.989Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T22:56:27.906Z",
+   "checkedAt": "2026-11-24T22:58:25.233Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T22:56:28.331Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-24T22:56:28.405Z",
+   "checkedAt": "2026-11-24T22:58:25.944Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "bbc": {
+   "checkedAt": "2026-11-24T22:58:26.366Z",
+   "success": true
+  },
   "aljazeera": {
-   "checkedAt": "2026-11-24T22:56:28.540Z",
+   "checkedAt": "2026-11-24T22:58:26.410Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T22:56:28.784Z",
+   "checkedAt": "2026-11-24T22:58:26.729Z",
    "success": true
   },
-  "bbc": {
-   "checkedAt": "2026-11-24T22:56:30.355Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-24T22:56:30.488Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-24T22:56:30.757Z",
+  "nyt": {
+   "checkedAt": "2026-11-24T22:58:29.586Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T22:56:30.813Z",
+   "checkedAt": "2026-11-24T22:58:30.125Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T22:56:30.860Z",
+   "checkedAt": "2026-11-24T22:58:30.165Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-24T22:58:30.656Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-24T22:58:30.890Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T22:56:33.081Z",
+   "checkedAt": "2026-11-24T22:58:33.232Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T22:56:33.201Z",
+   "checkedAt": "2026-11-24T22:58:33.331Z",
    "success": true
   }
  },
