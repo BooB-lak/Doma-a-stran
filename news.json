@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T04:40:39.265Z",
+ "generatedAt": "2026-11-24T04:42:30.664Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Bolnikom z rakom ugasnili luč na koncu tunela",
+    "link": "https://www.zurnal24.si/zdravje/bolnikom-z-rakom-ugasnili-luc-na-koncu-tunela-468649",
+    "image": "https://www.zurnal24.si/media/img/df/5b/e61fee072b57a5082b31.jpeg",
+    "date": 1795495260000
+   },
+   {
     "title": "To je obljubil Dončićev šef, se bo Lakersom res pridružil ta veliki zvezdnik?",
     "link": "https://www.zurnal24.si/sport/kosarka/to-je-obljubil-doncicev-sef-se-bo-lakersom-res-pridruzil-ta-veliki-zvezdnik-468682",
     "image": "https://www.zurnal24.si/media/img/b9/03/1e23460db12529217cbe.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/sport/kosarka/joksimovic-ne-sme-igrati-za-slovenijo-doncic-udaril-sramota-za-evropsko-kosarko-468675",
     "image": "https://www.zurnal24.si/media/img/c4/9e/c13c786d14b04c656329.jpeg",
     "date": 1795457880000
-   },
-   {
-    "title": "Kontroverzni novinec po sporu z Dončićem prisiljen v drastično potezo",
-    "link": "https://www.zurnal24.si/sport/kosarka/kontroverzni-novinec-po-sporu-z-doncicem-prisiljen-v-drasticno-potezo-468674",
-    "image": "https://www.zurnal24.si/media/img/7d/b9/4e76110f1b64018f3636.jpeg",
-    "date": 1795455840000
    }
   ],
   "hop": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T04:40:35.853Z",
+   "checkedAt": "2026-11-24T04:42:25.732Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T04:40:36.728Z",
+   "checkedAt": "2026-11-24T04:42:26.492Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T04:40:36.944Z",
+   "checkedAt": "2026-11-24T04:42:26.525Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T04:40:37.218Z",
+   "checkedAt": "2026-11-24T04:42:27.027Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T04:40:37.516Z",
+   "checkedAt": "2026-11-24T04:42:27.495Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-24T04:42:27.912Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-24T04:40:37.958Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-24T04:40:38.016Z",
+   "checkedAt": "2026-11-24T04:42:27.961Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-24T04:40:38.064Z",
+   "checkedAt": "2026-11-24T04:42:27.988Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T04:40:38.154Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-24T04:40:38.584Z",
+   "checkedAt": "2026-11-24T04:42:28.041Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T04:40:38.624Z",
+   "checkedAt": "2026-11-24T04:42:28.763Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-24T04:40:38.721Z",
+  "bild": {
+   "checkedAt": "2026-11-24T04:42:28.775Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T04:40:38.941Z",
+   "checkedAt": "2026-11-24T04:42:29.126Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T04:40:39.080Z",
+   "checkedAt": "2026-11-24T04:42:29.186Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-24T04:42:29.627Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T04:40:39.264Z",
+   "checkedAt": "2026-11-24T04:42:30.663Z",
    "success": true
   }
  },
