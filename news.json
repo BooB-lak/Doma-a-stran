@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T23:54:29.805Z",
+ "generatedAt": "2026-11-24T23:56:27.969Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,20 @@
   ],
   "nyt": [
    {
+    "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
+    "link": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
+    "date": 1795564500000,
+    "titleSl": "Iz e-sporočila je razvidno, da je tožilec pozval ministrstvo za pravosodje, naj ponovno preuči obtožbe zoper ubežnika."
+   },
+   {
+    "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
+    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
+    "date": 1795564355000,
+    "titleSl": "Abrego Garcia bo prostovoljno zapustila ZDA in tako končala 20-mesečno pravno preizkušnjo"
+   },
+   {
     "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
     "link": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
@@ -473,25 +487,11 @@
     "titleSl": "Blanche zmanjšuje pomen vprašanj v zvezi z družbo Nvidia, medtem ko preiskovalci preučujejo njene stranke"
    },
    {
-    "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
-    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
-    "date": 1795562622000,
-    "titleSl": "Abrego Garcia bo prostovoljno zapustila ZDA in tako končala 20-mesečno pravno preizkušnjo"
-   },
-   {
     "title": "Why Jensen Huang Was Reinstated at Nvidia",
     "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
     "date": 1795561694000,
     "titleSl": "Zakaj je bil Jensen Huang ponovno imenovan v podjetju Nvidia"
-   },
-   {
-    "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
-    "link": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
-    "date": 1795561649000,
-    "titleSl": "Iz e-sporočila je razvidno, da je tožilec pozval ministrstvo za pravosodje, naj ponovno preuči obtožbe zoper ubežnika."
    },
    {
     "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
@@ -547,8 +547,8 @@
    {
     "title": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
     "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-    "date": 1795564370000,
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+    "date": 1795564501000,
     "titleSl": "Zvezna velika porota v ZDA je Thomasa Markla obtožila posedovanja slik spolne zlorabe otrok"
    },
    {
@@ -1320,27 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T23:54:22.513Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-24T23:54:23.309Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-24T23:54:23.520Z",
+   "checkedAt": "2026-11-24T23:56:23.255Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T23:54:23.695Z",
+   "checkedAt": "2026-11-24T23:56:24.393Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-24T23:56:24.438Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-24T23:56:24.560Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T23:54:24.319Z",
+   "checkedAt": "2026-11-24T23:56:25.492Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-24T23:54:24.653Z",
+   "checkedAt": "2026-11-24T23:56:25.807Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-24T23:54:24.781Z",
+   "checkedAt": "2026-11-24T23:56:25.849Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-24T23:54:24.863Z",
+   "checkedAt": "2026-11-24T23:56:25.856Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T23:54:28.069Z",
+   "checkedAt": "2026-11-24T23:56:25.977Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T23:54:28.820Z",
+   "checkedAt": "2026-11-24T23:56:26.830Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T23:54:28.828Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-24T23:54:29.168Z",
+   "checkedAt": "2026-11-24T23:56:27.012Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T23:54:29.284Z",
+   "checkedAt": "2026-11-24T23:56:27.373Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-24T23:56:27.450Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T23:54:29.608Z",
+   "checkedAt": "2026-11-24T23:56:27.819Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T23:54:29.804Z",
+   "checkedAt": "2026-11-24T23:56:27.968Z",
    "success": true
   }
  },
