@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T05:18:35.912Z",
+ "generatedAt": "2026-11-24T05:20:42.109Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
+    "link": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c15/live/dc162f50-e799-11f1-99b6-a35a62fa4264.jpg",
+    "date": 1795497577000,
+    "titleSl": "Britanski časopisi: »Huang se vrača na vroči stolček v podjetju Nvidia« in »Burnham odpira vrata drugemu referendumu«"
+   },
+   {
     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
     "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg",
@@ -557,13 +564,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg",
     "date": 1795483301000,
     "titleSl": "Kako se Nvidia odziva na vrnitev Jensena Huanga na mesto generalnega direktorja"
-   },
-   {
-    "title": "UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
-    "link": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c15/live/dc162f50-e799-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1795482512000,
-    "titleSl": "Britanski časopisi: »Huang se vrača na vroči stolček v podjetju Nvidia« in »Burnham odpira vrata drugemu referendumu«"
    },
    {
     "title": "Benefits review to suggest quicker payment for some disabled people",
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T05:18:23.826Z",
+   "checkedAt": "2026-11-24T05:20:38.587Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T05:18:24.690Z",
+   "checkedAt": "2026-11-24T05:20:39.406Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T05:18:25.065Z",
+   "checkedAt": "2026-11-24T05:20:39.417Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T05:18:25.072Z",
+   "checkedAt": "2026-11-24T05:20:39.728Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T05:18:25.922Z",
+   "checkedAt": "2026-11-24T05:20:40.197Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-24T05:20:40.571Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-24T05:18:26.160Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-24T05:18:26.177Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-24T05:18:26.251Z",
+   "checkedAt": "2026-11-24T05:20:40.737Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T05:18:32.510Z",
+   "checkedAt": "2026-11-24T05:20:40.793Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-24T05:18:33.134Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-24T05:18:33.317Z",
+  "nyt": {
+   "checkedAt": "2026-11-24T05:20:40.894Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T05:18:33.363Z",
+   "checkedAt": "2026-11-24T05:20:41.377Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-24T05:20:41.483Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T05:18:33.643Z",
+   "checkedAt": "2026-11-24T05:20:41.706Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T05:18:35.791Z",
+   "checkedAt": "2026-11-24T05:20:41.832Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-24T05:20:41.910Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T05:18:35.911Z",
+   "checkedAt": "2026-11-24T05:20:42.108Z",
    "success": true
   }
  },
