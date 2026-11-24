@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-24T07:42:30.243Z",
+ "generatedAt": "2026-11-24T07:44:31.134Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zbudili smo se v mrzlo jutro: kje so izmerili -190 stopinj Celzija?",
+    "link": "https://siol.net/novice/svet/zbudili-smo-se-v-mrzlo-jutro-kje-so-izmerili-190-stopinj-celzija-707026",
+    "image": "https://siol.net/media/img/db/d8/7ef1c80f34192bbd1c1f.jpeg",
+    "date": 1795505880000
+   },
    {
     "title": "Barcaffè predstavlja kavi iz zrn, staranih v sodih gina in viskija",
     "link": "https://siol.net/trendi/kulinarika/barcaffe-predstavlja-kavi-iz-zrn-staranih-v-sodih-gina-in-viskija-705873",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/svet/o-polnoci-so-se-spremenile-cene-goriv-707015",
     "image": "https://siol.net/media/img/d7/5a/75dd1c5c3e5776f30849.jpeg",
     "date": 1795496820000
-   },
-   {
-    "title": "Zimski regres oziroma božičnico vam mora izplačati tudi nekdanji delodajalec",
-    "link": "https://siol.net/novice/slovenija/zimski-regres-oziroma-bozicnico-vam-mora-izplacati-tudi-nekdanji-delodajalec-706943",
-    "image": "https://siol.net/media/img/e3/16/8234ff4617d10956632a.jpeg",
-    "date": 1795489200000
    }
   ],
   "24ur": [
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "First Children's Booker prize reveals shortlist - and its child judges",
+    "link": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/693c/live/38716690-e74d-11f1-88dc-f746e0cde621.jpg",
+    "date": 1795505377000,
+    "titleSl": "Razglašeni so finalisti prve otroške nagrade Booker in njeni otroški sodniki"
+   },
+   {
     "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
     "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9d7/live/6977f830-e4f0-11f1-8781-bf15c9202663.jpg",
     "date": 1795500043000,
     "titleSl": "Raketa iz obdobja hladne vojne, skrita na polju, skriva ljubezensko zgodbo o pokojni ženi nekega moškega"
-   },
-   {
-    "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
-    "date": 1795498387000,
-    "titleSl": "Vodja indijske stranke »ščurkov« pravi, da mu je bil preprečen let v Združeno kraljestvo"
    }
   ],
   "aljazeera": [
@@ -803,11 +803,11 @@
   ],
   "spiegel": [
    {
-    "title": "Nvidia mit Jensen Huang: „Game of Thrones“ mit Donald Trump",
+    "title": "Nvidia mit Jensen Huang: Game of Thrones mit Donald Trump",
     "link": "https://www.manager-magazin.de/unternehmen/tech/nvidia-mit-jensen-huang-game-of-thrones-mit-donald-trump-a-378aa31a-17a2-4f4f-836a-3e4251d65079#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/faff7892-33be-479d-9f39-4daf037b4df4_w520_r2.08_fpx47.32_fpy54.98.jpg",
     "date": 1795504920000,
-    "titleSl": "Nvidia z Jensenom Huangom: »Igra prestolov« z Donaldom Trumpom"
+    "titleSl": "Nvidia z Jensenom Huangom: Igra prestolov z Donaldom Trumpom"
    },
    {
     "title": "Schach-WM: Das müssen Sie vor dem Duell zwischen Dommaraju Gukesh und Javokhir Sindarov wissen",
@@ -860,7 +860,7 @@
    },
    {
     "title": "Schadet E10 dem Motor? Ein Experte klärt auf",
-    "link": "https://www.spiegel.de/mobilitaet/schadet-e10-dem-motor-ein-experte-klaert-auf-a-e9b7b04d-5947-4f78-917b-a990cd01edcf#ref=rss",
+    "link": "https://www.spiegel.de/wissenschaft/mensch/schadet-e10-dem-motor-ein-experte-klaert-auf-a-e9b7b04d-5947-4f78-917b-a990cd01edcf#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/ed95d621-7ced-4004-a0c0-756096777d16_w520_r2.08_fpx35.34_fpy44.98.jpg",
     "date": 1795497000000,
     "titleSl": "Ali gorivo E10 škoduje motorju? Strokovnjak pojasnjuje"
@@ -892,7 +892,7 @@
     "title": "Kanzler rügt Alt-Kanzlerin - Merz rechnet mit Merkels Nato-Politik ab",
     "link": "https://www.bild.de/politik/merz-nennt-ukraine-entscheidung-der-nato-von-2008-fehler-6b0535255842ff528b9e6904",
     "image": "https://images.bild.de/6b0535255842ff528b9e6904/e89c312662c0a29b94bc649185e21f63,766e26d1?w=1280",
-    "date": 1795506046000,
+    "date": 1795506124000,
     "titleSl": "Kancler kritizira nekdanjo kanclerko – Merz obračuna z Merklovo politiko glede Nata"
    },
    {
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T07:42:24.001Z",
+   "checkedAt": "2026-11-24T07:44:23.969Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T07:42:24.551Z",
+   "checkedAt": "2026-11-24T07:44:24.722Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T07:42:24.605Z",
+   "checkedAt": "2026-11-24T07:44:24.743Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T07:42:25.033Z",
+   "checkedAt": "2026-11-24T07:44:25.043Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T07:42:25.407Z",
+   "checkedAt": "2026-11-24T07:44:25.479Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-24T07:42:25.788Z",
-   "success": true
-  },
   "aljazeera": {
-   "checkedAt": "2026-11-24T07:42:25.831Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-24T07:42:25.971Z",
+   "checkedAt": "2026-11-24T07:44:25.927Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T07:42:25.996Z",
+   "checkedAt": "2026-11-24T07:44:26.015Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-24T07:44:26.138Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-24T07:44:27.834Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T07:42:26.544Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-24T07:42:26.874Z",
+   "checkedAt": "2026-11-24T07:44:28.544Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T07:42:26.929Z",
+   "checkedAt": "2026-11-24T07:44:29.136Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-24T07:42:28.558Z",
+  "lemonde": {
+   "checkedAt": "2026-11-24T07:44:29.164Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T07:42:30.073Z",
+   "checkedAt": "2026-11-24T07:44:29.466Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-24T07:44:30.020Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T07:42:30.242Z",
+   "checkedAt": "2026-11-24T07:44:31.133Z",
    "success": true
   }
  },
