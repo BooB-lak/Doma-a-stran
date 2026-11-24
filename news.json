@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:56:31.243Z",
+ "generatedAt": "2026-11-24T18:58:34.367Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,12 @@
   ],
   "24ur": [
    {
+    "title": "Interventni zakon: kaj predvideva za samostojne podjetnike?",
+    "link": "https://www.24ur.com/novice/slovenija/interventni-zakon-kaj-predvideva-za-samostojne-podjetnike.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/4f63790ae87d40eedfef_63655478.jpg?v=a6b1&fop=fp:0.46:0.47",
+    "date": 1795546508000
+   },
+   {
     "title": "Z novim zakonom bankomat v vsako vas?",
     "link": "https://www.24ur.com/novice/slovenija/z-novim-zakonom-bankomat-v-vsako-vas.html",
     "image": "https://images.24ur.com/media/images/213xX/Apr2026/5d6d4c9841995ebf2852_63573269.jpg?v=4d53&fop=fp:0.48:0.29",
@@ -141,12 +147,6 @@
     "link": "https://www.24ur.com/novice/tujina/bruselj-bi-lahko-zaradi-neupostevanja-fiskalnih-pravil-sprozil-postopek-proti-sloveniji.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2024/5034def71ccf73016b73_63206017.jpg?v=2fbd&fop=fp:0.38:0.28",
     "date": 1795541005000
-   },
-   {
-    "title": "Minister za nov onkološki inštitut, pozivi tudi k iskanju nove lokacije",
-    "link": "https://www.24ur.com/novice/slovenija/siritve-onkoloskega-instituta-ne-bo-ministrstvo-zdaj-isce-novo-resitev.html",
-    "image": "https://images.24ur.com/media/images/213xX/Feb2024/7f3944f44cfa0dbcb3e0_63192931.jpg?v=44ec&fop=fp:0.46:0.49",
-    "date": 1795540152000
    }
   ],
   "rtvslo": [
@@ -462,7 +462,7 @@
     "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
     "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg",
-    "date": 1795545917000,
+    "date": 1795546661000,
     "titleSl": "Eksplozija v vojaški tovarni streliva v Iowi je predvidena za sredo zjutraj"
    },
    {
@@ -631,6 +631,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+    "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260106__89E89GD__v1__HighRes__BangladeshMyanmarConflictLandmine-1768285414.jpg?resize=1920%2C1440",
+    "date": 1795546025000,
+    "titleSl": "Število žrtev min po vsem svetu je doseglo najvišjo raven v zadnjih petih letih, kar je posledica razmer v Mjanmaru in Siriji."
+   },
+   {
+    "title": "Is Libya a new front in the Ukraine war?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b044cea4a73-1795443946.jpg?resize=1920%2C1440",
+    "date": 1795545529000,
+    "titleSl": "Ali je Libija nova fronta v vojni v Ukrajini?"
+   },
+   {
     "title": "Senior Hamas security official killed in Israeli drone strikes",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795544391.jpg?resize=1920%2C1080&quality=80",
@@ -699,20 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-07-04T194015Z_1493492967_UP1EM741HWTOE_RTRMADP_3_SOCCER-WORLDCUP-CAN-MAR-1794732740.jpg?resize=1920%2C1440",
     "date": 1795537908000,
     "titleSl": "Afriški tekmeci so zaskrbljeni zaradi naraščajoče prevlade Maroka v nogometu"
-   },
-   {
-    "title": "Jerusalem Daily: Clash in Israeli parliament",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795537050.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795537091000,
-    "titleSl": "Jerusalem Daily: Spopad v izraelskem parlamentu"
-   },
-   {
-    "title": "Qatar urges restraint and dialogue amid US-Iran tensions",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795536659.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795536714000,
-    "titleSl": "Katar poziva k zadržanosti in dialogu sredi napetosti med ZDA in Iranom"
    }
   ],
   "guardian": [
@@ -889,6 +889,20 @@
   ],
   "bild": [
    {
+    "title": "Exklusive KI - Deshalb schlägt Instinct ChatGPT und Co.",
+    "link": "https://www.bild.de/leben-wissen/digital/exklusive-ki-instinct-schlaegt-chatgpt-und-co-6b04042c39a3e8110f0e79ae",
+    "image": "https://images.bild.de/6b04042c39a3e8110f0e79ae/c60e38745516a0740c371cf672edecc5,f1accccb?w=1280",
+    "date": 1795546635000,
+    "titleSl": "Ekskluzivna umetna inteligenca – zato Instinct premaga ChatGPT in podobne sisteme."
+   },
+   {
+    "title": "Gefährliche Irrtümer - Diese 10 Winter-Fehler können für Autofahrer teuer werden",
+    "link": "https://www.bild.de/leben-wissen/auto/10-fehler-die-autofahrer-im-winter-teuer-zu-stehen-kommen-6b04165039a3e8110f0e827e",
+    "image": "https://images.bild.de/6b04165039a3e8110f0e827e/1a1080c04cb8442a5d55222366dff59c,2a4d1ba2?w=1280",
+    "date": 1795546563000,
+    "titleSl": "Nevarne napake – Teh 10 zimskih napak je lahko za voznike dragih"
+   },
+   {
     "title": "Sie war mit ihm nach Brasilien - Neuers unbekannte Begleiterin ist 23 Jahre alt",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/manuel-neuer-seine-unbekannte-begleiterin-ist-23-jahre-alt-neue-details-kommen-jetzt-ans-licht-6b05223e5842ff528b9e67f5",
     "image": "https://images.bild.de/6b05223e5842ff528b9e67f5/15dda3034d3e291d54f1ee4c2b16bdb3,da297f31?w=1280",
@@ -957,20 +971,6 @@
     "image": "https://images.bild.de/6b05733a6c27b799309d0679/ee8672803705fc688ebb833998d38a71,5ec201a3?w=1280",
     "date": 1795544512000,
     "titleSl": "Športni direktor Duisburga Preetz z jasnim sporočilom – Zahod soglasno za reformo regionalne lige"
-   },
-   {
-    "title": "Geheime Tagebücher veröffentlicht - Papst Franziskus sah dreimal den Teufel",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/papst-franziskus-sah-dreimal-den-teufel-6b05b19f460ead0fdbd8092b",
-    "image": "https://images.bild.de/6b05b19f460ead0fdbd8092b/197375061b535a8afd823ce63bcf879f,1a073d6d?w=1280",
-    "date": 1795544150000,
-    "titleSl": "Objavljeni so bili skrivni dnevniki – papež Frančišek je trikrat videl hudiča"
-   },
-   {
-    "title": "Wegen Positionen zu Israel - Berliner Linke wirft Emde aus Fraktion",
-    "link": "https://www.bild.de/politik/eilmeldung-berliner-linke-wirft-emde-aus-fraktion-6b05b3ded4a4a3142c57155a",
-    "image": "https://images.bild.de/6b05b3ded4a4a3142c57155a/7c36c3417c1398874db67a9c8a159ca4,a265fa67?w=1280",
-    "date": 1795543966000,
-    "titleSl": "Zaradi stališč do Izraela – berlinska Levica izključila Emdeja iz poslanske skupine"
    }
   ],
   "krone": [
@@ -1068,6 +1068,13 @@
     "titleSl": "Skupščina združenja ANCI, »napad 5 000 županov« v Veroni"
    },
    {
+    "title": "Il rebus delle Procure: chi indaga sul caso De Gennaro",
+    "link": "https://www.rainews.it/articoli/2026/11/il-rebus-delle-procure-chi-indaga-sul-caso-de-gennaro-97c681da-9b08-4722-86ec-b8f10e9e13af.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/21/1795296579646_rainewscffdedfcad.jpg",
+    "date": 1795545240000,
+    "titleSl": "Uganka tožilstev: kdo preiskuje primer De Gennara?"
+   },
+   {
     "title": "Tennis, Sinner operato al ginocchio destro: intervento riuscito, ora i tempi di recupero",
     "link": "https://www.rainews.it/articoli/2026/11/tennis-sinner-operato-al-ginocchio-destro-intervento-riuscito-ora-i-tempi-di-recupero-d6d5ef44-1a32-443e-b0e1-3d6a7bd1385c.html",
     "image": "https://www.rainews.it/dl/img/2026/10/27/1793081921893_SnapInsta.ton.jpg",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/24/1795521057808_rainewsdebbbebffa.jpg",
     "date": 1795537920000,
     "titleSl": "Boj proti nasilju nad ženskami, ne samo en dan: podatki, pobude, glasovi, shodi"
-   },
-   {
-    "title": "Domenica il voto anticipato in Spagna: avanti Popolari con Vox, Sanchez sogna una difficile rimonta",
-    "link": "https://www.rainews.it/articoli/2026/11/domenica-il-voto-anticipato-in-spagna-avanti-popolari-con-vox-sanchez-sogna-una-difficile-rimonta-db411959-fd02-4782-b497-044d1ade7a4c.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/24/1795536698984_DFT_.jpg",
-    "date": 1795537320000,
-    "titleSl": "V nedeljo predčasne volitve v Španiji: vodijo ljudovci z Voxom, Sanchez sanja o težavnem preobratu"
    }
   ],
   "lemonde": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T18:56:25.371Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-24T18:56:26.437Z",
+   "checkedAt": "2026-11-24T18:58:24.637Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T18:56:26.686Z",
+   "checkedAt": "2026-11-24T18:58:25.544Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T18:56:26.868Z",
+   "checkedAt": "2026-11-24T18:58:25.713Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-24T18:58:25.769Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T18:56:27.403Z",
+   "checkedAt": "2026-11-24T18:58:26.306Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-24T18:56:27.580Z",
+   "checkedAt": "2026-11-24T18:58:26.513Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-24T18:56:27.676Z",
+  "bbc": {
+   "checkedAt": "2026-11-24T18:58:26.638Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T18:56:27.777Z",
+   "checkedAt": "2026-11-24T18:58:26.970Z",
    "success": true
   },
-  "bbc": {
-   "checkedAt": "2026-11-24T18:56:29.772Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-24T18:58:30.385Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T18:56:30.023Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-24T18:56:30.282Z",
+   "checkedAt": "2026-11-24T18:58:30.963Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-24T18:56:30.353Z",
+   "checkedAt": "2026-11-24T18:58:31.026Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-24T18:56:30.667Z",
+   "checkedAt": "2026-11-24T18:58:31.286Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-24T18:58:33.266Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-24T18:56:31.099Z",
+   "checkedAt": "2026-11-24T18:58:34.135Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T18:56:31.242Z",
+   "checkedAt": "2026-11-24T18:58:34.365Z",
    "success": true
   }
  },
