@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T23:42:30.798Z",
+ "generatedAt": "2026-11-24T23:44:28.122Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+    "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg",
+    "date": 1795563519000,
+    "titleSl": "Tretjina mladih Britancev še nikoli ni imela spolnih odnosov, vendar pa veliko med njimi pošilja spolna sporočila in gleda pornografijo."
+   },
+   {
     "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
     "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
     "date": 1795555182000,
     "titleSl": "Ameriški generalni državni tožilec se izogiba vprašanjem o preiskavi družbe Nvidia"
-   },
-   {
-    "title": "Bellingham stunner helps Real Madrid see off PSV",
-    "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb3/live/8cf665c0-e84d-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1795553326000,
-    "titleSl": "Bellinghamov izjemen zadetek je pomagal Real Madridu premagati PSV"
    }
   ],
   "aljazeera": [
@@ -1320,35 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T23:42:26.258Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-24T23:42:27.055Z",
+   "checkedAt": "2026-11-24T23:44:23.064Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T23:42:27.124Z",
+   "checkedAt": "2026-11-24T23:44:23.605Z",
    "success": true
   },
-  "zurnal": {
-   "checkedAt": "2026-11-24T23:42:28.072Z",
+  "siol": {
+   "checkedAt": "2026-11-24T23:44:24.131Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T23:42:28.379Z",
+   "checkedAt": "2026-11-24T23:44:24.512Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-24T23:44:24.586Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-24T23:42:28.657Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-24T23:42:28.686Z",
+   "checkedAt": "2026-11-24T23:44:24.958Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-24T23:42:28.767Z",
+   "checkedAt": "2026-11-24T23:44:24.968Z",
    "success": true
   },
   "guardian": {
@@ -1356,31 +1352,35 @@
    "success": false
   },
   "reuters": {
-   "checkedAt": "2026-11-24T23:42:28.862Z",
+   "checkedAt": "2026-11-24T23:44:25.429Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-24T23:42:29.686Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-24T23:42:29.969Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-24T23:42:30.039Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-24T23:42:30.088Z",
+  "bbc": {
+   "checkedAt": "2026-11-24T23:44:27.160Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T23:42:30.625Z",
+   "checkedAt": "2026-11-24T23:44:27.566Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-24T23:44:27.597Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-24T23:44:27.609Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-24T23:44:27.891Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-24T23:44:27.977Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T23:42:30.797Z",
+   "checkedAt": "2026-11-24T23:44:28.122Z",
    "success": true
   }
  },
