@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-24T14:36:37.579Z",
+ "generatedAt": "2026-11-24T14:38:33.634Z",
  "sources": {
   "siol": [
+   {
+    "title": "Za silvestrovo v Ljubljani tudi letos ognjemet",
+    "link": "https://siol.net/novice/slovenija/za-silvestrovo-v-ljubljani-tudi-letos-ognjemet-707081",
+    "image": "https://siol.net/media/img/40/4b/3013bd6091da9fb76ccb.jpeg",
+    "date": 1795531020000
+   },
    {
     "title": "Pozor: Prihaja zima, to sledi že v prihodnjih dneh",
     "link": "https://siol.net/novice/slovenija/pozor-prihaja-zima-to-sledi-ze-v-prihodnjih-dneh-707082",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/slovenija/pedro-opeka-nagovoril-poslance-srecal-se-je-tudi-s-stevanovic-707064",
     "image": "https://siol.net/media/img/31/69/e7cee010ecb1a83a1c9c.jpeg",
     "date": 1795525200000
-   },
-   {
-    "title": "Streljanje na šoli v Kragujevcu: 17-letnik s puško ranil dve ženski",
-    "link": "https://siol.net/novice/svet/streljanje-na-soli-v-kragujevcu-17-letnik-s-pusko-ranil-dve-zenski-707036",
-    "image": "https://siol.net/media/img/4c/df/24f89bf5123c7896c64e.jpeg",
-    "date": 1795524720000
    }
   ],
   "24ur": [
@@ -552,11 +552,11 @@
     "titleSl": "Zaradi suma vloma v dom princa in princese Walesa v Norfolku sta bili aretirani dve osebi"
    },
    {
-    "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
+    "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
     "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
     "date": 1795530615000,
-    "titleSl": "Senegal je bil 10 mesecev po turnirju ponovno razglašen za zmagovalca Afcona 2025"
+    "titleSl": "Senegal je bil po uspešni pritožbi ponovno razglašen za zmagovalca Afriškega pokala narodov 2025"
    },
    {
     "title": "Millwall face partial stadium closure over chants",
@@ -1147,6 +1147,13 @@
   ],
   "lemonde": [
    {
+    "title": "CAN 2025 : le Tribunal arbitral du sport déclare le Sénégal champion d’Afrique de football, au détriment du Maroc",
+    "link": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html",
+    "image": "https://img.lemde.fr/2026/11/24/685/0/4105/2052/644/322/60/0/07ef447_ftp-1-mapns33avgeg-afp-d8ce8zq.jpg",
+    "date": 1795530896000,
+    "titleSl": "CAN 2025: Športno arbitražno sodišče je za afriškega nogometnega prvaka razglasilo Senegal, v škodo Maroka"
+   },
+   {
     "title": "La CEDH autorise le refoulement des migrants arrivés d’un pays « instrumentalisant » les flux migratoires",
     "link": "https://www.lemonde.fr/international/article/2026/11/24/la-cedh-autorise-le-refoulement-des-migrants-arrives-d-un-pays-instrumentalisant-les-flux-migratoires_6814777_3210.html",
     "image": "https://img.lemde.fr/2026/11/24/606/0/7104/3552/644/322/60/0/236ebc3_upload-1-wkt7p6t5yijj-000-32c48nu.jpg",
@@ -1222,13 +1229,6 @@
     "image": "https://img.lemde.fr/2026/10/30/253/0/5780/2890/644/322/60/0/db30735_ftp-1-xncmwwdmq6aa-2026-10-30t083714z-1620095933-rc2tzla88ql8-rtrmadp-3-sanofi-results.JPG",
     "date": 1795522113000,
     "titleSl": "Družba Sanofi s prevzemom ameriške družbe Insmed izvaja največjo akvizicijo v svoji zgodovini od leta 2004"
-   },
-   {
-    "title": "Mayotte : 80 gendarmes et 20 policiers supplémentaires face à la recrudescence des violences",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/24/mayotte-80-gendarmes-et-20-policiers-supplementaires-face-a-la-recrudescence-des-violences_6814757_3224.html",
-    "image": "https://img.lemde.fr/2026/11/24/688/0/8256/4128/644/322/60/0/3c6a515_upload-1-jycurip51ygz-000-34jm4qy.jpg",
-    "date": 1795521715000,
-    "titleSl": "Mayotte: 80 dodatnih žandarmov in 20 dodatnih policistov zaradi povečanega nasilja"
    }
   ],
   "elpais": [
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-24T14:36:25.472Z",
+   "checkedAt": "2026-11-24T14:38:26.081Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-24T14:36:26.212Z",
+   "checkedAt": "2026-11-24T14:38:26.455Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-24T14:36:26.238Z",
+   "checkedAt": "2026-11-24T14:38:26.510Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-24T14:36:26.483Z",
+   "checkedAt": "2026-11-24T14:38:26.776Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-24T14:36:27.010Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-24T14:36:27.263Z",
+   "checkedAt": "2026-11-24T14:38:27.453Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-24T14:36:27.303Z",
+   "checkedAt": "2026-11-24T14:38:27.677Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-24T14:36:27.450Z",
+   "checkedAt": "2026-11-24T14:38:27.841Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-24T14:36:33.694Z",
+   "checkedAt": "2026-11-24T14:38:27.970Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-24T14:36:34.489Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-24T14:36:34.617Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-24T14:36:34.821Z",
+  "bbc": {
+   "checkedAt": "2026-11-24T14:38:29.783Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-24T14:36:35.563Z",
+   "checkedAt": "2026-11-24T14:38:30.470Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-24T14:38:30.756Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-24T14:36:37.414Z",
+   "checkedAt": "2026-11-24T14:38:30.997Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-24T14:38:31.047Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-24T14:38:32.226Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-24T14:36:37.578Z",
+   "checkedAt": "2026-11-24T14:38:33.634Z",
    "success": true
   }
  },
