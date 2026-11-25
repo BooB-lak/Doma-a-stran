@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T23:02:32.770Z",
+ "generatedAt": "2026-11-25T23:04:27.950Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’",
+    "link": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25wea-CATIDES-vmlh/25wea-CATIDES-vmlh-mediumSquareAt3X.jpg",
+    "date": 1795647692000,
+    "titleSl": "Del pomola se je zrušil, ko so kalifornijske plime vstopile na »neznano ozemlje«"
+   },
+   {
     "title": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
     "link": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25met-rent-freeze-cthq/25met-rent-freeze-cthq-mediumSquareAt3X.jpg",
@@ -506,13 +513,6 @@
     "image": "https://static01.nyt.com/images/2026/11/25/weather/2026-11-25-outlooks-index-promo/2026-11-25-outlooks-index-promo-mediumSquareAt3X-v25.jpg",
     "date": 1795643625000,
     "titleSl": "Pričakuje se, da bo neurje na zahvalni dan prizadelo vzhodno obalo z močnim deževjem in poplavami"
-   },
-   {
-    "title": "California’s Tides Are in ‘Uncharted Territory’ as Water Surges Higher",
-    "link": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25wea-CATIDES-vmlh/25wea-CATIDES-vmlh-mediumSquareAt3X.jpg",
-    "date": 1795642740000,
-    "titleSl": "Kalifornijske plime so v »nepoznanem območju«, saj voda narašča"
    },
    {
     "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T23:02:28.907Z",
+   "checkedAt": "2026-11-25T23:04:23.091Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T23:02:29.566Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T23:02:29.590Z",
+   "checkedAt": "2026-11-25T23:04:23.839Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T23:02:29.615Z",
+   "checkedAt": "2026-11-25T23:04:24.030Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T23:04:24.095Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T23:02:30.250Z",
+   "checkedAt": "2026-11-25T23:04:24.716Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-25T23:02:30.308Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T23:02:30.311Z",
+   "checkedAt": "2026-11-25T23:04:24.964Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "nyt": {
-   "checkedAt": "2026-11-25T23:02:30.345Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-25T23:04:25.015Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T23:02:31.016Z",
+   "checkedAt": "2026-11-25T23:04:25.471Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-25T23:02:31.173Z",
+  "nyt": {
+   "checkedAt": "2026-11-25T23:04:26.779Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T23:02:31.282Z",
+   "checkedAt": "2026-11-25T23:04:27.234Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-25T23:02:31.313Z",
+  "bild": {
+   "checkedAt": "2026-11-25T23:04:27.381Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-25T23:02:31.442Z",
+   "checkedAt": "2026-11-25T23:04:27.552Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T23:04:27.625Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-25T23:02:32.687Z",
+   "checkedAt": "2026-11-25T23:04:27.796Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T23:02:32.770Z",
+   "checkedAt": "2026-11-25T23:04:27.949Z",
    "success": true
   }
  },
