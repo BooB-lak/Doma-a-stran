@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T07:50:41.644Z",
+ "generatedAt": "2026-11-25T07:52:26.764Z",
  "sources": {
   "siol": [
    {
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T07:50:37.405Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T07:50:38.261Z",
+   "checkedAt": "2026-11-25T07:52:23.725Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T07:50:38.618Z",
+   "checkedAt": "2026-11-25T07:52:24.270Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-25T07:52:24.300Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T07:50:38.848Z",
+   "checkedAt": "2026-11-25T07:52:24.732Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T07:50:38.911Z",
+   "checkedAt": "2026-11-25T07:52:24.975Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T07:52:25.250Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-25T07:50:39.319Z",
+   "checkedAt": "2026-11-25T07:52:25.310Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T07:50:39.403Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T07:50:39.423Z",
+   "checkedAt": "2026-11-25T07:52:25.364Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T07:50:39.630Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T07:50:39.988Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T07:50:40.091Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T07:50:40.212Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T07:50:41.570Z",
+   "checkedAt": "2026-11-25T07:52:25.709Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T07:50:41.575Z",
+   "checkedAt": "2026-11-25T07:52:25.979Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T07:52:26.146Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T07:52:26.212Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T07:52:26.309Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T07:52:26.683Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T07:50:41.643Z",
+   "checkedAt": "2026-11-25T07:52:26.763Z",
    "success": true
   }
  },
