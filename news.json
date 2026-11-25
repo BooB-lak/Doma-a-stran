@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:54:30.810Z",
+ "generatedAt": "2026-11-25T11:56:33.340Z",
  "sources": {
   "siol": [
    {
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Wiggensbach im Allgäu: Das Wasser kommt jetzt per Milchtransporter",
+    "link": "https://www.spiegel.de/panorama/wiggensbach-im-allgaeu-das-wasser-kommt-jetzt-per-milchtransporter-a-616c65f0-b14f-48d1-bebe-8387d9f2f284#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/323a829e-55f0-406f-9644-a11cba77dfa9_w520_r2.08_fpx43.5_fpy50.jpg",
+    "date": 1795607520000,
+    "titleSl": "Wiggensbach v Allgäuju: Voda zdaj prihaja z mlečnim transporterjem"
+   },
+   {
     "title": "Befragung der EZB: Kartenzahlung überholt erstmals Bargeld in Geschäften",
     "link": "https://www.spiegel.de/wirtschaft/service/befragung-der-ezb-kartenzahlung-ueberholt-erstmals-bargeld-in-geschaeften-a-c4d64b3b-ca8d-4c98-a329-8564cf224ba7#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/8ac8cdaa-1713-43ab-b5ac-5367a96386f5_w520_r2.08_fpx49.99_fpy55.jpg",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/c359d6a3-1aab-4b49-b548-29745cc2380e_w520_r2.08_fpx65.17_fpy49.94.jpg",
     "date": 1795597200000,
     "titleSl": "»Teror 18«: Nemško zvezno državno tožilstvo ukrepa proti domnevnim desničarskim teroristom"
-   },
-   {
-    "title": "Nvidia: Chuck Schumer sieht im Fall Jensen Huang Parallele zum Kalten Krieg",
-    "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-chuck-schumer-sieht-im-fall-jensen-huang-parallele-zum-kalten-krieg-a-dfac792c-c53a-467e-a831-dc90ad777985#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c8b4a420-cb67-4ea8-b65b-470a2894e3f8_w520_r2.08_fpx49.25_fpy49.87.jpg",
-    "date": 1795597140000,
-    "titleSl": "Nvidia: Chuck Schumer vidi vzporednice s hladno vojno v primeru Jensena Huanga"
    }
   ],
   "bild": [
@@ -1061,6 +1061,13 @@
   ],
   "rainews": [
    {
+    "title": "TG3 Fuori TG del 25/11/2026",
+    "link": "https://www.rainews.it/rubriche/tg3fuoritg/video/2026/11/TG3-Fuori-TG-del-25112026-982a240e-31a3-4be9-b3c9-22263a3989bc.html",
+    "image": "https://www.rainews.it/dl/img/2026/09/29/1790697517275_TG3FuoriTG_2048x1152_logo.png",
+    "date": 1795607669000,
+    "titleSl": "TG3 Fuori TG z dne 25. 11. 2026"
+   },
+   {
     "title": "Inside 24 - Puntata del 25/11/2026",
     "link": "https://www.rainews.it/rubriche/inside24/video/2026/11/Inside-24---Puntata-del-25112026-9f3f1c9b-c04a-4562-bc9c-0c019ab31136.html",
     "image": "https://www.rainews.it/dl/img/2026/11/30926752_1.jpg",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/25/1795601918537_large.jpg",
     "date": 1795601460000,
     "titleSl": "Letalska nesreča ob obali Mississippija, 6 mrtvih: med njimi tudi dva otroka"
-   },
-   {
-    "title": "TG2 Italia Europa del 25/11/2026",
-    "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-25112026-6bfead6b-6cd5-4743-acaa-0f27a4083864.html",
-    "image": "https://www.rainews.it/dl/img/2021/03/19/1616174617825_2048x1152.jpg",
-    "date": 1795601136000,
-    "titleSl": "TG2 Italia Europa z dne 25. 11. 2026"
    }
   ],
   "lemonde": [
@@ -1320,27 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T11:54:22.274Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T11:54:22.905Z",
+   "checkedAt": "2026-11-25T11:56:27.631Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T11:54:23.068Z",
+   "checkedAt": "2026-11-25T11:56:28.288Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T11:54:23.298Z",
+   "checkedAt": "2026-11-25T11:56:28.606Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T11:56:28.689Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T11:54:23.972Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T11:54:24.278Z",
+   "checkedAt": "2026-11-25T11:56:28.918Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1344,43 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-25T11:54:24.455Z",
+   "checkedAt": "2026-11-25T11:56:29.075Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T11:54:24.510Z",
+   "checkedAt": "2026-11-25T11:56:29.301Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T11:56:29.799Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-25T11:54:26.184Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T11:54:26.875Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T11:54:27.144Z",
+   "checkedAt": "2026-11-25T11:56:30.886Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T11:54:27.227Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T11:54:27.632Z",
+   "checkedAt": "2026-11-25T11:56:31.005Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T11:54:30.584Z",
+   "checkedAt": "2026-11-25T11:56:31.354Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T11:56:32.159Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T11:56:33.141Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T11:56:33.242Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T11:54:30.809Z",
+   "checkedAt": "2026-11-25T11:56:33.339Z",
    "success": true
   }
  },
