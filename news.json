@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T01:36:38.562Z",
+ "generatedAt": "2026-11-25T01:38:26.923Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "UK papers: PIP benefits 'not fit for purpose' and Royal 'security scare'",
+    "link": "https://www.bbc.co.uk/news/articles/crq5v3g5jq13o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec96/live/c579b590-e858-11f1-9b85-e50d1e9de678.png",
+    "date": 1795570493000,
+    "titleSl": "Britanski časopisi: Prejemki PIP »niso primerni za predvideni namen« in kraljeva »varnostna grožnja«"
+   },
+   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
@@ -620,16 +627,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
     "date": 1795566598000,
     "titleSl": "Gospodinjstva se pripravljajo na visoke račune za energijo, saj bo kmalu objavljena nova zgornja meja cen"
-   },
-   {
-    "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-    "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
-    "date": 1795565499000,
-    "titleSl": "Thomas Markle je bil v ZDA obtožen posedovanja slik spolnih zlorab otrok"
    }
   ],
   "aljazeera": [
+   {
+    "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+    "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1920%2C1440",
+    "date": 1795570244000,
+    "titleSl": "Izraelski Eisenkot si je v prizadevanjih za oblikovanje vlade zagotovil prvega koalicijskega partnerja"
+   },
    {
     "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05c84d4491-1795541069.jpg?resize=1920%2C1440",
     "date": 1795556742000,
     "titleSl": "Kolumbijski predsednik za eksplozijo avtomobilske bombe krivi nekdanje upornike FARC"
-   },
-   {
-    "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-    "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=1920%2C1440",
-    "date": 1795556614000,
-    "titleSl": "Kitajski Huawei je bil na ameriškem sodišču spoznan za krivega zarote v zvezi s poslovnimi skrivnostmi in goljufije"
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T01:36:24.683Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T01:36:25.678Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-25T01:36:26.022Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T01:36:26.250Z",
+   "checkedAt": "2026-11-25T01:38:21.899Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T01:36:26.510Z",
+   "checkedAt": "2026-11-25T01:38:22.571Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-25T01:38:22.610Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T01:38:22.957Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-25T01:38:23.519Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-25T01:38:23.995Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-25T01:36:26.681Z",
+  "reuters": {
+   "checkedAt": "2026-11-25T01:38:24.468Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-25T01:36:26.705Z",
+   "checkedAt": "2026-11-25T01:38:25.652Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-25T01:36:26.893Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-25T01:36:37.325Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T01:36:37.575Z",
+  "bbc": {
+   "checkedAt": "2026-11-25T01:38:25.820Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-25T01:36:37.650Z",
+   "checkedAt": "2026-11-25T01:38:26.300Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T01:36:37.821Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-25T01:36:38.004Z",
+   "checkedAt": "2026-11-25T01:38:26.347Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-25T01:36:38.345Z",
+   "checkedAt": "2026-11-25T01:38:26.549Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-25T01:38:26.660Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T01:38:26.678Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T01:36:38.562Z",
+   "checkedAt": "2026-11-25T01:38:26.922Z",
    "success": true
   }
  },
