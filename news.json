@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:34:29.082Z",
+ "generatedAt": "2026-11-25T14:36:43.193Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Šircelj na kongresu davčnih svetovalcev za višjo splošno davčno olajšavo",
+    "link": "https://www.rtvslo.si/slovenija/sircelj-na-kongresu-davcnih-svetovalcev-za-visjo-splosno-davcno-olajsavo/801257",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124787.jpg",
+    "date": 1795617252000
+   },
+   {
     "title": "Pianistični robot TeoTronico s 53 prsti: \"Interpretacija je le drug izraz za nedoslednost.\"",
     "link": "https://www.rtvslo.si/kultura/glasba/pianisticni-robot-teotronico-s-53-prsti-interpretacija-je-le-drug-izraz-za-nedoslednost/801256",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124783.jpg",
@@ -215,15 +221,15 @@
     "link": "https://www.rtvslo.si/kultura/razstave/v-galerijo-photon-prihaja-razstava-ene-od-pionirk-performativne-umetnosti-vlaste-delimar/801233",
     "image": "https://img.rtvcdn.si/_up/upload/2020/07/03/65684117.jpg",
     "date": 1795612585000
-   },
-   {
-    "title": "Kdo se bo še uvrstil v četrtfinale Pokala Slovenije?",
-    "link": "https://www.rtvslo.si/sport/nogomet/kdo-se-bo-se-uvrstil-v-cetrtfinale-pokala-slovenije/801228",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/09/12/67103320.jpg",
-    "date": 1795611928000
    }
   ],
   "zurnal": [
+   {
+    "title": "Štajerska avtocesta odprta, kolaps ostaja: Zaradi varnosti zapirajo predore",
+    "link": "https://www.zurnal24.si/slovenija/stajerska-avtocesta-odprta-kolaps-ostaja-zaradi-varnosti-zapirajo-predore-468764",
+    "image": "https://www.zurnal24.si/media/img/80/78/c3fd99763f3af0fbd2f0.png",
+    "date": 1795617240000
+   },
    {
     "title": "Na avtocesti zopet počilo, zaprta dva pasova",
     "link": "https://www.zurnal24.si/slovenija/na-avtocesti-zopet-pocilo-zaprta-dva-pasova-468763",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/sport/zimski-sporti/se-je-ze-zacelo-fis-potrdil-prve-odpovedi-v-sezoni-468745",
     "image": "https://www.zurnal24.si/media/img/88/fe/7ca8586c4822b99b0415.jpeg",
     "date": 1795599480000
-   },
-   {
-    "title": "Nesojeni NHL-ovec umrl po strelu policista, star je bil 37 let",
-    "link": "https://www.zurnal24.si/sport/nekdanji-hokejski-talent-umrl-po-strelu-policista-star-je-bil-37-let-468742",
-    "image": "https://www.zurnal24.si/media/img/57/4a/cea2695e34dd504db720.jpeg",
-    "date": 1795596960000
    }
   ],
   "hop": [
@@ -373,6 +373,76 @@
   ],
   "reuters": [
    {
+    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+    "link": "https://www.reuters.com/world/india/us-cap-india-tariff-17-if-trade-deal-is-reached-ustr-says-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YRMRTOCEXRNU7NSHY7ZWQFVY5I.jpg",
+    "date": 1795616970000,
+    "titleSl": "Urad ZDA za trgovinske predstavnike (USTR) pravi, da bodo ZDA omejile carine za Indijo na 17 %, če bo dosežen trgovinski sporazum"
+   },
+   {
+    "title": "Poland's Orlen dismisses CFO, deputy CEO, shares fall",
+    "link": "https://www.reuters.com/business/energy/polands-orlen-dismisses-cfo-deputy-ceo-shares-fall-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VHOUNR3DPNIB7CSUOMTN3Q6ABM.jpg",
+    "date": 1795616955000,
+    "titleSl": "Poljski Orlen je odpustil finančnega direktorja in namestnika generalnega direktorja, delnice so padle"
+   },
+   {
+    "title": "EU antitrust regulators fine 3 global fragrance makers $516.5 million for taking part in cartel",
+    "link": "https://www.reuters.com/world/eu-antitrust-regulators-fine-3-global-fragrance-makers-5165-million-taking-part-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HLK3KFKMCZP2JKR3F272DXFAFM.jpg",
+    "date": 1795616870000,
+    "titleSl": "Protimonopolni regulatorji EU so trem svetovnim proizvajalcem dišav naložili globo v višini 516,5 milijona USD zaradi sodelovanja v kartelu"
+   },
+   {
+    "title": "US third-quarter GDP growth revised sharply higher",
+    "link": "https://www.reuters.com/business/finance/us-third-quarter-gdp-growth-revised-sharply-higher-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FAD56GJTBFOG3CNHVVSCTDI2GU.jpg",
+    "date": 1795616756000,
+    "titleSl": "Rast BDP v ZDA v tretjem četrtletju je bila precej višja od prvotnih ocen"
+   },
+   {
+    "title": "Tardy batter bowled out without facing a ball",
+    "link": "https://www.reuters.com/sports/cricket/tardy-batter-bowled-out-without-facing-ball-2026-11-25/",
+    "image": "",
+    "date": 1795616748000,
+    "titleSl": "Počasni odbijalec je bil izločen, ne da bi se soočil z žogo"
+   },
+   {
+    "title": "After close wins, VCU and Washington set to meet in Maui fifth-place game",
+    "link": "https://www.reuters.com/sports/basketball/after-close-wins-vcu-washington-set-meet-maui-fifth-place-game--flm-2026-11-25/",
+    "image": "",
+    "date": 1795616633000,
+    "titleSl": "Po tesnih zmagah se bosta VCU in Washington pomerila v tekmi za peto mesto na turnirju Maui"
+   },
+   {
+    "title": "UK PM Burnham defends influencer engagement after criticism of Downing Street videos",
+    "link": "https://www.reuters.com/world/uk/uk-pm-burnham-defends-influencer-engagement-after-criticism-downing-street-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SK64TYD67BKYXH4CBKHTSI722Y.jpg",
+    "date": 1795616622000,
+    "titleSl": "Britanski premier Burnham brani sodelovanje z vplivneži po kritiki videoposnetkov z Downing Streeta"
+   },
+   {
+    "title": "UK retailer Poundland preparing for administration, Sky News says",
+    "link": "https://www.reuters.com/business/retail-consumer/uk-retailer-poundland-preparing-administration-sky-news-says-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CPEPUPV5N5M67LUB4U3R53OUYA.jpg",
+    "date": 1795616397000,
+    "titleSl": "Britanski trgovec na drobno Poundland se pripravlja na postopek prisilne poravnave, poroča Sky News"
+   },
+   {
+    "title": "Africa can borrow its way to lower debt burden, OECD and AU say",
+    "link": "https://www.reuters.com/world/africa/africa-can-borrow-its-way-lower-debt-burden-oecd-au-say-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZVCJ6QP4TJJFZGMPGAXMEB35JU.jpg",
+    "date": 1795616274000,
+    "titleSl": "OECD in AU pravita, da si lahko Afrika s pomočjo zadolževanja zmanjša breme dolga"
+   },
+   {
+    "title": "China's Hansoh Pharma strikes drug deal with Bayer unit worth nearly $3.3 billion",
+    "link": "https://www.reuters.com/legal/litigation/chinas-hansoh-pharma-strikes-drug-deal-with-bayer-unit-worth-nearly-33-billion-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/43JDARLQE5JNFICXBYYRVGBQEA.jpg",
+    "date": 1795616181000,
+    "titleSl": "Kitajsko podjetje Hansoh Pharma je sklenilo pogodbo o prodaji zdravil s podružnico družbe Bayer v vrednosti skoraj 3,3 milijarde USD"
+   },
+   {
     "title": "Nvidia agrees to settle 2018 US investor class action for $290 million",
     "link": "https://www.reuters.com/legal/government/nvidia-agrees-settle-2018-us-investor-class-action-for-290-million-2026-11-25/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DTEC4C57JNKVTKG5WPSGLOOXJE.jpg",
@@ -385,76 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4U37G5ZLLVNIJD634S45RTJPTY.jpg",
     "date": 1795615738000,
     "titleSl": "VIEW US predlaga nove tarife, namenjene presežnim zmogljivostim tovarn"
-   },
-   {
-    "title": "Back to tariffs",
-    "link": "https://www.reuters.com/podcasts/reuters-morning-bid/back-tariffs-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DVBQZ5KOW5BPZDOEOVB54MP2TE.jpg",
-    "date": 1795615715000,
-    "titleSl": "Nazaj na cene"
-   },
-   {
-    "title": "Nio says AI use could lift gross margin by 10 percentage points",
-    "link": "https://www.reuters.com/technology/nio-says-ai-use-could-lift-gross-margin-by-10-percentage-points-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/F52NLZQ6QJNQZBD5ZZEUMRID3U.jpg",
-    "date": 1795615590000,
-    "titleSl": "Nio pravi, da bi lahko uporaba umetne inteligence povečala bruto maržo za 10 odstotnih točk"
-   },
-   {
-    "title": "Trump announces new tariffs, undeterred by midterms defeat",
-    "link": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MJMUWAFFKZONREBFEUOJATC5HE.jpg",
-    "date": 1795615575000,
-    "titleSl": "Trump napoveduje nove carine, ne da bi ga odvrnila poraz na vmesnih volitvah"
-   },
-   {
-    "title": "Colorado rides late rally into clash vs. Grand Canyon in Palm Desert title game",
-    "link": "https://www.reuters.com/sports/basketball/colorado-rides-late-rally-into-clash-vs-grand-canyon-palm-desert-title-game--flm-2026-11-25/",
-    "image": "",
-    "date": 1795615516000,
-    "titleSl": "Colorado se je v zadnjem trenutku prebil v tekmo za naslov proti Grand Canyonu v Palm Desertu"
-   },
-   {
-    "title": "First generic HIV drug shipments arrive in Africa, Global Fund says",
-    "link": "https://www.reuters.com/legal/litigation/first-generic-hiv-drug-shipments-arrive-africa-global-fund-says-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5USZ5KO4PRJV7PADEK36TQOZH4.jpg",
-    "date": 1795615338000,
-    "titleSl": "Po navedbah Globalnega sklada so v Afriko prispele prve pošiljke generičnih zdravil proti virusu HIV"
-   },
-   {
-    "title": "Polish defence official calls for regional border no-fly zones",
-    "link": "https://www.reuters.com/business/aerospace-defense/polish-defence-official-calls-regional-border-no-fly-zones-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KLT4VIJXUNPIFD5TXKXUEODIHY.jpg",
-    "date": 1795615261000,
-    "titleSl": "Poljski obrambni uradnik poziva k vzpostavitvi območij prepovedi letenja ob regionalnih mejah"
-   },
-   {
-    "title": "UK advances plans for BBC iPlayer expansion to allow advertising and rival content",
-    "link": "https://www.reuters.com/business/media-telecom/uk-advances-plans-bbc-iplayer-expansion-allow-advertising-rival-content-sources-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OGZTST5LPRNIZPEQFMMUU556SA.jpg",
-    "date": 1795615237000,
-    "titleSl": "Združeno kraljestvo napreduje z načrti za razširitev storitve BBC iPlayer, da bi omogočilo oglaševanje in vsebine konkurentov"
-   },
-   {
-    "title": "US core capital goods orders beat expectations in October",
-    "link": "https://www.reuters.com/business/aerospace-defense/us-core-capital-goods-orders-beat-expectations-october-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FHK7W3OW3ZNVLMZRW3PVHD4RT4.jpg",
-    "date": 1795615019000,
-    "titleSl": "Ameriška naročila osnovnih kapitalskih dobrin so oktobra presegla pričakovanja"
-   },
-   {
-    "title": "More Ukrainian children are reunited with their families, White House and Russia say",
-    "link": "https://www.reuters.com/world/europe/more-ukrainian-children-are-reunited-with-their-families-white-house-russia-say-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K6MB2SEJGZKY5KPCYEPXNDR2FQ.jpg",
-    "date": 1795614957000,
-    "titleSl": "Bela hiša in Rusija sporočata, da se je več ukrajinskih otrok ponovno združilo s svojimi družinami."
-   },
-   {
-    "title": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal",
-    "link": "https://www.reuters.com/world/americas/salvadoran-migrant-kilmar-abrego-garcia-lands-spain-after-us-departure-deal-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JMJVB6KD2VKTDNFTC2ADVWLGGA.jpg",
-    "date": 1795614852000,
-    "titleSl": "Salvadorski migrant Kilmar Abrego Garcia je prispel v Španijo po dogovoru o odhodu iz ZDA"
    }
   ],
   "nyt": [
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "An Grenze zur Ukraine - Polen richtet Flugverbotszone ein",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/an-grenze-zur-ukraine-polen-richtet-flugverbotszone-ein-6b06ed2cc75e09cb88d15b29",
+    "image": "https://images.bild.de/6b06ed2cc75e09cb88d15b29/3649be45a72d368b21f0dcdb45761f4f,ba112d1f?w=1280",
+    "date": 1795617267000,
+    "titleSl": "Na meji z Ukrajino – Poljska vzpostavlja območje prepovedi letenja"
+   },
+   {
     "title": "Nach 12 Jahren - Serien-Comeback von Charlie Sheen",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/charlie-sheen-serien-comeback-nach-12-jahren-6b06babfc75e09cb88d15407",
     "image": "https://images.bild.de/6b06babfc75e09cb88d15407/594c1b60a1caacaa601444076ab1b541,f602f48d?w=1280",
@@ -908,13 +915,6 @@
     "image": "https://images.bild.de/6b06df95d4a4a3142c573334/655df2b9158488c173475cae01408963-landscape,68efa0d3?w=1280",
     "date": 1795616840000,
     "titleSl": "Ugriz lahko uniči tkivo – Ta zelo strupena pajkova vrsta živi tudi v Nemčiji"
-   },
-   {
-    "title": "An Grenze zur Ukraine - Polen richtet Flugverbotszone ein",
-    "link": "https://www.bild.de/politik/ausland-und-internationales/an-grenze-zur-ukraine-polen-richtet-flugverbotszone-ein-6b06ed2cc75e09cb88d15b29",
-    "image": "https://images.bild.de/6b06ed2cc75e09cb88d15b29/cf4af2c368dea708b9ba166ee819ee61,10a8885?w=1280",
-    "date": 1795616798000,
-    "titleSl": "Na meji z Ukrajino – Poljska vzpostavlja območje prepovedi letenja"
    },
    {
     "title": "Cheyenne Ochsenknecht - „Er schickt seinen Penis. Und ich muss zum Anwalt“",
@@ -1147,6 +1147,20 @@
   ],
   "lemonde": [
    {
+    "title": "Le Haut-Commissariat des Nations unies aux droits de l’homme alerte sur le risque de nouveaux « crimes atroces » commis par Israël contre les Palestiniens",
+    "link": "https://www.lemonde.fr/international/article/2026/11/25/le-haut-commissariat-des-nations-unies-aux-droits-de-l-homme-alerte-sur-le-risque-de-nouveaux-crimes-atroces-commis-par-israel-contre-les-palestiniens_6815114_3210.html",
+    "image": "https://img.lemde.fr/2025/10/31/53/0/5687/2843/644/322/60/0/2e56c08_ftp-import-images-1-kmiqlciko7vy-fffb79f3388c4de397aa72fb9b154082-0-e427e48f71ff48c5bff0bb000bb67960.jpg",
+    "date": 1795617249000,
+    "titleSl": "Urad visokega komisarja Združenih narodov za človekove pravice opozarja na nevarnost novih »grozovitih zločinov«, ki jih Izrael zagreši nad Palestinci"
+   },
+   {
+    "title": "En Ukraine, face à la multiplication des frappes russes sur les ponts, Kiev songe à se doter d’un tunnel sous le Dniepr",
+    "link": "https://www.lemonde.fr/international/article/2026/11/25/en-ukraine-face-a-la-multiplication-des-frappes-russes-sur-les-ponts-kiev-songe-a-se-doter-d-un-tunnel-sous-le-dniepr_6815113_3210.html",
+    "image": "https://img.lemde.fr/2026/11/24/335/0/4000/2000/644/322/60/0/8828df4_upload-1-fs1htbedr8cl-sujet-ponts-kiev-2.jpg",
+    "date": 1795617014000,
+    "titleSl": "V Ukrajini, kjer se število ruskih napadov na mostove povečuje, Kijev razmišlja o izgradnji predora pod reko Dneper."
+   },
+   {
     "title": "Donald Trump persiste avec une nouvelle salve de droits de douane, notamment contre l’UE et la Chine, malgré la claque électorale",
     "link": "https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html",
     "image": "https://img.lemde.fr/2026/11/24/685/0/8225/4112/644/322/60/0/3dac54a_ftp-1-5hapjx1d3y1y-f6c999cf0f7b4c7daded4d5d29e15f89-0-b1859d1fb08648d3bcf4638b6964951a.jpg",
@@ -1215,20 +1229,6 @@
     "image": "https://img.lemde.fr/2026/11/25/168/0/2048/1024/644/322/60/0/a49f48d_upload-1-sfzvbh1n8bhm-l1004235.jpg",
     "date": 1795610642000,
     "titleSl": "David Lisnard, kandidat za predsedniške volitve, ponovno izvoljen za predsednika Združenja županov Francije"
-   },
-   {
-    "title": "L’Union européenne veut créer un fonds souverain de 50 milliards d’euros pour investir dans l’informatique quantique et l’intelligence artificielle",
-    "link": "https://www.lemonde.fr/international/article/2026/11/25/l-union-europeenne-veut-creer-un-fonds-souverain-de-50-milliards-d-euros-pour-investir-dans-l-informatique-quantique-et-l-intelligence-artificielle_6815093_3210.html",
-    "image": "https://img.lemde.fr/2026/10/30/460/0/4601/2300/644/322/60/0/a1ba8d9_ftp-1-ytpt2s6nxior-843dd8777d4a4831a290a40792c7aff2-0-43e2594b99e8435b8d3086b97d7ab341.jpg",
-    "date": 1795609766000,
-    "titleSl": "Evropska unija želi ustanoviti državni sklad v višini 50 milijard evrov za naložbe v kvantno računalništvo in umetno inteligenco"
-   },
-   {
-    "title": "Les aides à l’apprentissage font l’objet de nombreux abus et fraudes, selon la Cour des comptes",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/25/les-aides-a-l-apprentissage-font-l-objet-de-nombreux-abus-et-fraudes-selon-la-cour-des-comptes_6815092_823448.html",
-    "image": "https://img.lemde.fr/2026/11/25/928/0/5568/2784/644/322/60/0/b9dee09_upload-1-toj6cpl7t7ko-000-322r36m.jpg",
-    "date": 1795608337000,
-    "titleSl": "Po podatkih Računskega sodišča so pomoči za izobraževanje predmet številnih zlorab in goljufij."
    }
   ],
   "elpais": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T14:34:23.874Z",
+   "checkedAt": "2026-11-25T14:36:22.349Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T14:34:24.521Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T14:34:24.768Z",
+   "checkedAt": "2026-11-25T14:36:22.961Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T14:34:25.022Z",
+   "checkedAt": "2026-11-25T14:36:23.410Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T14:34:25.270Z",
+   "checkedAt": "2026-11-25T14:36:24.172Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T14:34:25.553Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-25T14:36:24.460Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T14:36:24.645Z",
+   "success": true
+  },
   "bbc": {
-   "checkedAt": "2026-11-25T14:34:25.630Z",
+   "checkedAt": "2026-11-25T14:36:24.726Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T14:34:25.682Z",
+   "checkedAt": "2026-11-25T14:36:24.730Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T14:34:25.907Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T14:34:26.595Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T14:34:26.771Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T14:34:26.802Z",
+   "checkedAt": "2026-11-25T14:36:39.360Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T14:34:28.416Z",
+   "checkedAt": "2026-11-25T14:36:39.507Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-25T14:34:28.970Z",
+   "checkedAt": "2026-11-25T14:36:39.789Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T14:36:39.792Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T14:36:40.031Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T14:36:43.109Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T14:34:29.081Z",
+   "checkedAt": "2026-11-25T14:36:43.192Z",
    "success": true
   }
  },
