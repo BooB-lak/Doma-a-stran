@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T00:28:26.514Z",
+ "generatedAt": "2026-11-25T00:30:51.359Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Trump Administration Pauses Joint Operations With Ecuador",
+    "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
+    "date": 1795566465000,
+    "titleSl": "Trumpova administracija je začasno ustavila skupne operacije z Ekvadorjem"
+   },
+   {
     "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
     "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
@@ -534,29 +541,22 @@
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg",
     "date": 1795557290000,
     "titleSl": "Se bodo ponudbe za črni petek letos začele prej? To ni samo v vaši glavi."
-   },
-   {
-    "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
-    "link": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
-    "date": 1795556771000,
-    "titleSl": "Jensen Huang se je opravičil zaposlenim v podjetju Nvidia in povedal, da hodi na terapijo"
    }
   ],
   "bbc": [
+   {
+    "title": "Households braced for soaring energy bills with new price cap to be announced",
+    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
+    "date": 1795566598000,
+    "titleSl": "Gospodinjstva se pripravljajo na visoke račune za energijo, saj bo kmalu objavljena nova zgornja meja cen"
+   },
    {
     "title": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
     "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
     "date": 1795565499000,
     "titleSl": "Zvezna velika porota v ZDA je Thomasa Markla obtožila posedovanja slik spolne zlorabe otrok"
-   },
-   {
-    "title": "Households braced for soaring energy bills with new price cap to be announced",
-    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
-    "date": 1795565017000,
-    "titleSl": "Gospodinjstva se pripravljajo na visoke račune za energijo, saj bo kmalu objavljena nova zgornja meja cen"
    },
    {
     "title": "Bellingham plays down Zidane comparison after wonder goal",
@@ -1320,35 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T00:28:22.752Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T00:28:23.388Z",
+   "checkedAt": "2026-11-25T00:30:45.645Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T00:28:23.906Z",
+   "checkedAt": "2026-11-25T00:30:46.297Z",
    "success": true
   },
-  "hop": {
-   "checkedAt": "2026-11-25T00:28:24.159Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-25T00:30:46.572Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T00:28:24.381Z",
+   "checkedAt": "2026-11-25T00:30:46.840Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-25T00:28:24.694Z",
+  "hop": {
+   "checkedAt": "2026-11-25T00:30:47.578Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-25T00:28:24.785Z",
+   "checkedAt": "2026-11-25T00:30:48.015Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-25T00:28:24.806Z",
+   "checkedAt": "2026-11-25T00:30:48.050Z",
    "success": true
   },
   "guardian": {
@@ -1356,31 +1352,35 @@
    "success": false
   },
   "reuters": {
-   "checkedAt": "2026-11-25T00:28:24.979Z",
+   "checkedAt": "2026-11-25T00:30:48.194Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-25T00:30:49.735Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T00:28:25.433Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-25T00:28:25.547Z",
+   "checkedAt": "2026-11-25T00:30:50.317Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T00:28:25.835Z",
+   "checkedAt": "2026-11-25T00:30:50.814Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-25T00:28:25.997Z",
+   "checkedAt": "2026-11-25T00:30:50.900Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-25T00:30:50.934Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-25T00:28:26.215Z",
+   "checkedAt": "2026-11-25T00:30:51.092Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T00:28:26.513Z",
+   "checkedAt": "2026-11-25T00:30:51.358Z",
    "success": true
   }
  },
