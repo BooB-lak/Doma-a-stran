@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-25T18:48:37.320Z",
+ "generatedAt": "2026-11-25T18:50:45.910Z",
  "sources": {
   "siol": [
+   {
+    "title": "Poljska napoveduje prepoved letenja ob ukrajinski meji #vŽivo",
+    "link": "https://siol.net/novice/svet/razkritje-ruskih-podatkov-v-ukrajini-umrlo-ze-skoraj-pol-milijona-ruskih-vojakov-vzivo-707129",
+    "image": "https://siol.net/media/img/9e/1f/b25cd12af82ca521a1b6.jpeg",
+    "date": 1795632480000
+   },
    {
     "title": "Olimpija gosti prvake #vŽivo",
     "link": "https://siol.net/sportal/hokej/liga-ice-25-november-2026-707137",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/slovenija/na-jesenicah-iz-save-potegnili-preminulo-osebo-707210",
     "image": "https://siol.net/media/img/80/df/75b7d30e5ab204de980d.jpeg",
     "date": 1795627560000
-   },
-   {
-    "title": "V Avstriji se glede vinjet obetajo velike spremembe",
-    "link": "https://siol.net/novice/svet/v-avstriji-se-glede-vinjet-obetajo-velike-spremembe-707207",
-    "image": "https://siol.net/media/img/ea/9e/eef7e48c814c227328ae.jpeg",
-    "date": 1795626420000
    }
   ],
   "24ur": [
@@ -163,6 +163,12 @@
     "date": 1795631714000
    },
    {
+    "title": "Olimpija - Gradec",
+    "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/olimpija-gradec/801297",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/22/67124167.jpg",
+    "date": 1795631496000
+   },
+   {
     "title": "Olimpija gosti Gradec",
     "link": "https://www.rtvslo.si/sport/hokej/liga-icehl/olimpija-gosti-gradec/801297",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/22/67124167.jpg",
@@ -213,12 +219,6 @@
    {
     "title": "Sabah - Barcelona 0:0 (1. polčas)",
     "link": "https://www.rtvslo.si/sport/nogomet/liga-prvakov-v-nogometu/sabah-barcelona-0-0-1-polcas/801287",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124862.jpg",
-    "date": 1795624664000
-   },
-   {
-    "title": "PSG gosti Romo, Barcelona igra v Bakuju, ponovitev finala 1978 v Bruggeju",
-    "link": "https://www.rtvslo.si/sport/nogomet/liga-prvakov-v-nogometu/psg-gosti-romo-barcelona-igra-v-bakuju-ponovitev-finala-1978-v-bruggeju/801287",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124862.jpg",
     "date": 1795624664000
    }
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Erster Blick nach Inferno im Kehlsteinhaus - Hitlers goldener Aufzug überstand das Feuer",
+    "link": "https://www.bild.de/regional/bayern/erster-blick-nach-inferno-im-kehlsteinhaus-hitlers-goldener-aufzug-ueberstand-feuer-6b03037c39a3e8110f0e6bff",
+    "image": "https://images.bild.de/6b03037c39a3e8110f0e6bff/fa519ea235a3d5959faff0358318772e,f15a9035?w=1280",
+    "date": 1795632507000,
+    "titleSl": "Prvi pogled na požar v Kehlsteinhausu – Hitlerjevo zlato dvigalo je preživelo požar"
+   },
+   {
     "title": "Sie plant ein letztes Abschiedsrennen - Olympia-Heldin macht Schluss!",
     "link": "https://www.bild.de/sport/mehr-sport/ski-alpin-olympia-heldin-brignone-macht-schluss-6b070fb2c75e09cb88d15f78",
     "image": "https://images.bild.de/6b070fb2c75e09cb88d15f78/8545e216236ecbd735e47901e8e175ad,75075045?w=1280",
@@ -964,16 +971,23 @@
     "image": "https://images.bild.de/6afd70994e6cd4bac15cedd0/e12b3b466804c9491d9a73bb9155a030,ab8a61da?w=1280",
     "date": 1795630162000,
     "titleSl": "Tamaro S. so iskali dva tedna – pogrešana mati! V gozdu so našli truplo ženske"
-   },
-   {
-    "title": "In 30 Sekunden einsatzbereit - Münchner Polizei geht mit Drohnen auf Verbrecherjagd",
-    "link": "https://www.bild.de/regional/muenchen/polizei-revolution-in-muenchen-drohnen-fliegen-automatisch-zum-tatort-6b06c6a4d4a4a3142c573022",
-    "image": "https://images.bild.de/6b06c6a4d4a4a3142c573022/f98aa4da39f0c7139e895bfabe4f2c2a,459bc669?w=1280",
-    "date": 1795630156000,
-    "titleSl": "Pripravljeni za uporabo v 30 sekundah – münchenska policija lovi zločince z droni"
    }
   ],
   "krone": [
+   {
+    "title": "„Schon sehr hart“ - Umstrittene CL-Aktion! VAR schreitet nach Rot ein",
+    "link": "https://www.krone.at/4390245",
+    "image": "https://imgl.krone.at/scaled/4390248/v10c0c7/full.jpg",
+    "date": 1795632583000,
+    "titleSl": "»Schon sehr hart« – Sporna poteza v Ligi prvakov! Sistem VAR posreduje zaradi rdečega kartona"
+   },
+   {
+    "title": "15-Jähriger angeklagt - Diversion für Sohn, der Mutter verleumdet hatte",
+    "link": "https://www.krone.at/4390083",
+    "image": "https://imgl.krone.at/scaled/4044487/v6c9e20/full.jpg",
+    "date": 1795632520000,
+    "titleSl": "15-letnik obtožen – preusmeritev za sina, ki je obrekoval mater"
+   },
    {
     "title": "Zeugen gesucht - Unfall, weil Frau wegen E-Scooter stark bremste",
     "link": "https://www.krone.at/4390173",
@@ -1043,20 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4390227/v014c9f/full.jpg",
     "date": 1795630425000,
     "titleSl": "Zastoj v predoru – zapora na avtocesti S1 po nesreči s tremi tovornjaki in osebnim avtomobilom"
-   },
-   {
-    "title": "„Kaufkraft sichern“ - Einigung bei Telekom-KV: Mehr Gehalt und Prämie",
-    "link": "https://www.krone.at/4390225",
-    "image": "https://imgl.krone.at/scaled/4390233/vac3517/full.jpg",
-    "date": 1795630328000,
-    "titleSl": "»Zagotoviti kupno moč« – dogovor v kolektivni pogodbi pri podjetju Telekom: višje plače in dodatek"
-   },
-   {
-    "title": "Trick mit Zahlen - Wie sich SPÖ mit ihrer eigenen Umfrage blamierte",
-    "link": "https://www.krone.at/4390130",
-    "image": "https://imgl.krone.at/scaled/4320965/v38ba34/full.jpg",
-    "date": 1795629977000,
-    "titleSl": "Igra s številkami – Kako se je Socialdemokratska stranka Avstrije (SPÖ) osmešila s svojo lastno anketo"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T18:48:23.075Z",
+   "checkedAt": "2026-11-25T18:50:37.160Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T18:48:23.650Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T18:48:24.056Z",
+   "checkedAt": "2026-11-25T18:50:37.905Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T18:48:24.191Z",
+   "checkedAt": "2026-11-25T18:50:38.236Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T18:48:24.848Z",
+   "checkedAt": "2026-11-25T18:50:39.166Z",
    "success": true
   },
-  "bbc": {
-   "checkedAt": "2026-11-25T18:48:25.139Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-25T18:50:40.007Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-25T18:50:40.269Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T18:50:40.343Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T18:48:25.259Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-25T18:48:27.169Z",
+  "bbc": {
+   "checkedAt": "2026-11-25T18:50:40.405Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T18:48:35.445Z",
+   "checkedAt": "2026-11-25T18:50:40.635Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T18:48:35.878Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-25T18:48:36.084Z",
+   "checkedAt": "2026-11-25T18:50:41.384Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T18:48:36.257Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T18:48:36.574Z",
+   "checkedAt": "2026-11-25T18:50:41.573Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-25T18:48:37.119Z",
+   "checkedAt": "2026-11-25T18:50:41.931Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-25T18:50:43.312Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T18:50:45.692Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T18:48:37.319Z",
+   "checkedAt": "2026-11-25T18:50:45.909Z",
    "success": true
   }
  },
