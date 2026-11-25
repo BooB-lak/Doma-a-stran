@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T16:04:38.136Z",
+ "generatedAt": "2026-11-25T16:10:58.162Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,12 @@
   ],
   "24ur": [
    {
+    "title": "Štajerska avtocesta več ur zaprta: tovornjak trčil v ograjo",
+    "link": "https://www.24ur.com/novice/crna-kronika/zaradi-nesrece-zaprta-stajerska-avtocesta-v-obe-smeri_2.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/23895d0ff81def60d35c_63684880.jpg?v=66e5&fop=fp:0.61:0.33",
+    "date": 1795622984000
+   },
+   {
     "title": "Enrique ne želi slišati izgovorov: 'Naj začnemo jokati? Niti pod razno'",
     "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/enrique-si-ne-zeli-slisati-izgovorov-naj-zacnemo-jokati-niti-pod-razno.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/de5ab876a6dd7172150d_63685060.jpg?v=eca0&fop=fp:0.48:0.37",
@@ -141,15 +147,15 @@
     "link": "https://www.24ur.com/novice/gospodarstvo/cena-zlata-na-borzah-padla-na-najnizjo-raven-v-letu-dni.html",
     "image": "https://images.24ur.com/media/images/213xX/Mar2026/84a0161626b0426c9689_63551862.jpg?v=361b&fop=fp:0.53:0.45",
     "date": 1795616716000
-   },
-   {
-    "title": "Kljub dvema oskarjema ostaja brez vlog: Hollywood in rasne ovire",
-    "link": "https://www.24ur.com/popin/tuja-scena/oskarjevec-razocaran-zame-ni-vlog.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/483b43c44d65d5ad7af1_63684574.jpg?v=4573&fop=fp:0.42:0.22",
-    "date": 1795615214000
    }
   ],
   "rtvslo": [
+   {
+    "title": "Olimpijska zmagovalka Brignone napovedala konec kariere",
+    "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/olimpijska-zmagovalka-brignone-napovedala-konec-kariere/801279",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/02/15/67019364.jpg",
+    "date": 1795622838000
+   },
    {
     "title": "Koroški podjetnik naj bi se zanimal za nakup Krvavca",
     "link": "https://www.rtvslo.si/gospodarstvo/koroski-podjetnik-naj-bi-se-zanimal-za-nakup-krvavca/801276",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/kultura/glasba/pianisticni-robot-teotronico-s-53-prsti-interpretacija-je-le-drug-izraz-za-nedoslednost/801256",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124783.jpg",
     "date": 1795616862000
-   },
-   {
-    "title": "Zaradi neudeležbe večine delodajalcev skupščina ZZZS-ja nesklepčna",
-    "link": "https://www.rtvslo.si/zdravje/zaradi-neudelezbe-vecine-delodajalcev-skupscina-zzzs-ja-nesklepcna/801251",
-    "image": "https://img.rtvcdn.si/_up/upload/2025/10/02/66974911.jpg",
-    "date": 1795616242000
    }
   ],
   "zurnal": [
@@ -373,11 +373,32 @@
   ],
   "reuters": [
    {
+    "title": "DR Congo-born Tshituka ready for chance of a lifetime with Springboks",
+    "link": "https://www.reuters.com/world/africa/dr-congo-born-tshituka-ready-chance-lifetime-with-springboks-2026-11-25/",
+    "image": "",
+    "date": 1795622292000,
+    "titleSl": "Tshituka, rojen v DR Kongu, je pripravljen na življenjsko priložnost s Springboksi"
+   },
+   {
+    "title": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead",
+    "link": "https://www.reuters.com/world/americas/venezuela-data-deluge-cheers-investors-237-billion-debt-test-lies-ahead-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CD75LJF3U5MZLHOLD6PZCOZAJA.jpg",
+    "date": 1795621610000,
+    "titleSl": "Poplava podatkov o Venezueli razveseljuje vlagatelje, vendar jih čaka preizkus v obliki 237 milijard USD dolga"
+   },
+   {
     "title": "US new home sales surge to 10-month high in October",
     "link": "https://www.reuters.com/business/us-new-home-sales-surge-10-month-high-october-2026-11-25/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UONBZG4GZNM3LFKNTFYJML6GLY.jpg",
     "date": 1795621023000,
     "titleSl": "Prodaja novih stanovanj v ZDA je oktobra narasla na najvišjo raven v 10 mesecih"
+   },
+   {
+    "title": "US proposes higher tariffs on Brazil imports, including 10% duty on aircraft",
+    "link": "https://www.reuters.com/business/aerospace-defense/us-proposes-higher-tariffs-brazil-imports-including-10-duty-aircraft-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WXZCMQSHUBLHVJMW5VK2RJIYQI.jpg",
+    "date": 1795620971000,
+    "titleSl": "ZDA predlagajo višje carine na uvoz iz Brazilije, vključno z 10-odstotno carino na letala"
    },
    {
     "title": "Glencore appoints former CEO's nephew to run coal business, Bloomberg News reports",
@@ -401,6 +422,20 @@
     "titleSl": "Po besedah podpredsednika skupine bodo delnice rafinerije nafte Dangote v torek začele kotirati na borzi v Nigeriji"
    },
    {
+    "title": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St",
+    "link": "https://www.reuters.com/business/nasdaq-futures-slide-over-2-fresh-us-tariff-concerns-inflation-data-focus-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PDYGSVEBZ5PMXFOK2HUVT2CEQE.jpg",
+    "date": 1795620497000,
+    "titleSl": "Indeks Nasdaq je zaradi razprodaje delnic podjetij, ki se ukvarjajo z umetno inteligenco, in predlogov glede carin padel za 4 %"
+   },
+   {
+    "title": "Global fragrance makers hit with nearly $517 million EU fine for taking part in cartel",
+    "link": "https://www.reuters.com/world/eu-antitrust-regulators-fine-3-global-fragrance-makers-5165-million-taking-part-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7AIGJL6BGRLWRFTI3GUQJ2YAMM.jpg",
+    "date": 1795620464000,
+    "titleSl": "Proizvajalci dišav po vsem svetu so prejeli skoraj 517 milijonov USD globe EU zaradi sodelovanja v kartelu"
+   },
+   {
     "title": "India's Bharti Airtel signs $130 million data centre pact with northeastern state of Assam",
     "link": "https://www.reuters.com/world/india/indias-bharti-airtel-signs-130-million-data-centre-pact-with-northeastern-state-2026-11-25/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z4ZUY5M4SJIVZH2T53MQLZOEOU.jpg",
@@ -420,41 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CWJPXTRVMVJMVP2IX3ILGYJUQ4.jpg",
     "date": 1795620153000,
     "titleSl": "NatWest si prizadeva, da bi do leta 2030 njegov oddelek za upravljanje premoženja postal področje poslovanja z največjim donosom"
-   },
-   {
-    "title": "Dsm-firmenich settles EU, UK antitrust probes, agrees fines",
-    "link": "https://www.reuters.com/legal/litigation/dsm-firmenich-settles-eu-uk-antitrust-probes-agrees-fines-2026-11-25/",
-    "image": "",
-    "date": 1795620027000,
-    "titleSl": "Družba DSM-Firmenich je poravnala protimonopolne preiskave EU in Združenega kraljestva ter privolila v plačilo glob"
-   },
-   {
-    "title": "Eni, Repsol pledge to invest $2 billion in Venezuela JVs",
-    "link": "https://www.reuters.com/business/energy/eni-repsol-pledge-invest-2-billion-venezuela-jvs-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FAY5ZVGNJZLB5LUBF6KGXJDXDA.jpg",
-    "date": 1795619847000,
-    "titleSl": "Eni in Repsol se zavezujeta, da bosta v skupna podjetja v Venezueli vložila 2 milijardi USD"
-   },
-   {
-    "title": "Fiji ring changes for Nations Championship playoff against Italy",
-    "link": "https://www.reuters.com/sports/fiji-ring-changes-nations-championship-playoff-against-italy-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HAF72RIVT5PJNIJATO6VLXF7DA.jpg",
-    "date": 1795619817000,
-    "titleSl": "Fidži spreminjajo ekipo za tekmo končnice prvenstva narodov proti Italiji"
-   },
-   {
-    "title": "Russian government official warns of Ukrainian drone attacks on utility infrastructure this winter",
-    "link": "https://www.reuters.com/world/russian-government-official-warns-ukrainian-drone-attacks-utility-infrastructure-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K2HHOHMGYRJD5KAVSAQX5NM5UY.jpg",
-    "date": 1795619809000,
-    "titleSl": "Ruski vladni uradnik opozarja na napade ukrajinskih brezpilotnih letal na komunalno infrastrukturo to zimo"
-   },
-   {
-    "title": "AI stocks slide on fears over infrastructure buildout costs",
-    "link": "https://www.reuters.com/business/ai-stocks-slide-fears-over-infrastructure-buildout-costs-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DAJK6EP5SJJLTN72EVJL6VOHOI.jpg",
-    "date": 1795619718000,
-    "titleSl": "Delnice, povezane z umetno inteligenco, so padle zaradi strahov glede stroškov izgradnje infrastrukture"
    }
   ],
   "nyt": [
@@ -478,6 +478,13 @@
     "image": "",
     "date": 1795622024000,
     "titleSl": "Kako praznovati zahvalni dan kot izseljenec"
+   },
+   {
+    "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+    "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg",
+    "date": 1795621435000,
+    "titleSl": "Prvi vstop delnic podjetja Anthropic na borzo bi lahko škodoval tehnološkim zagonskim podjetjem"
    },
    {
     "title": "Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding",
@@ -534,16 +541,16 @@
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-inflation-gvjc/25dc-inflation-gvjc-mediumSquareAt3X.jpg",
     "date": 1795616516000,
     "titleSl": "Še en visok podatek o inflaciji kaže, da bo FED ponovno zvišal obrestne mere"
-   },
-   {
-    "title": "Army’s Maps of Iowa Explosion May Underestimate Impact",
-    "link": "https://www.nytimes.com/2026/11/25/us/army-detonation-emissions-maps-risk-underestimated.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25iowa-detonation-plume-estimates-mfvb/25iowa-detonation-plume-estimates-mfvb-mediumSquareAt3X.jpg",
-    "date": 1795615341000,
-    "titleSl": "Vojaški zemljevidi eksplozije v Iowi morda podcenjujejo njen učinek"
    }
   ],
   "bbc": [
+   {
+    "title": "US stocks fall further as fears over AI intensify",
+    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+    "date": 1795622846000,
+    "titleSl": "Ameriške delnice še naprej padajo zaradi vse večjih strahov glede umetne inteligence"
+   },
    {
     "title": "Poundland collapses putting 11,000 jobs at risk",
     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
@@ -552,11 +559,11 @@
     "titleSl": "Padec podjetja Poundland ogroža 11.000 delovnih mest"
    },
    {
-    "title": "US stocks fall further as fears over AI intensify",
-    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
-    "date": 1795621978000,
-    "titleSl": "Ameriške delnice še naprej padajo zaradi vse večjih strahov glede umetne inteligence"
+    "title": "Fisilau starts as England change five for All Blacks rematch",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de97/live/fb0404b0-e8e7-11f1-8808-1d4222955d7e.jpg",
+    "date": 1795622450000,
+    "titleSl": "Fisilau bo začel tekmo, Anglija pa je naredila pet sprememb za povratno tekmo proti All Blacksom"
    },
    {
     "title": "Man and daughter who dumped murdered woman in canal jailed",
@@ -573,11 +580,11 @@
     "titleSl": "Dva moška sta obtožena poskusa kraje manšetnih gumbov in ure iz kraljeve rezidence"
    },
    {
-    "title": "The Iran war is being blamed for raising UK energy bills - here's why",
+    "title": "Why the Iran war is being blamed for raising UK energy bills",
     "link": "https://www.bbc.co.uk/news/articles/cv1j6wk020p8o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/446b/live/4adec320-e8df-11f1-a094-5fdc692f3e33.jpg",
     "date": 1795618731000,
-    "titleSl": "Vojno v Iranu krivijo za zvišanje računov za energijo v Združenem kraljestvu – tukaj je razlog za to"
+    "titleSl": "Zakaj se za zvišanje računov za energijo v Združenem kraljestvu krivi vojna v Iranu"
    },
    {
     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg",
     "date": 1795614128000,
     "titleSl": "Računi za energijo se bodo januarja zaradi zvišanja cen plina povišali za 26 %"
-   },
-   {
-    "title": "All Blacks great Beauden Barrett close to Bristol move",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2ex1v0vzo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd3/live/5914d630-e8d2-11f1-bc7e-81f081e11daa.jpg",
-    "date": 1795613350000,
-    "titleSl": "Veliki igralec All Blacksov Beauden Barrett blizu prehoda v Bristol"
    }
   ],
   "aljazeera": [
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Sven Hannawald: Warum der Skisprungstar trotz aller Erfolge nichts mehr spürte – und in ein tiefes Loch fiel",
+    "link": "https://www.spiegel.de/sport/wintersport/sven-hannawald-warum-der-skisprungstar-trotz-aller-erfolge-nichts-mehr-spuerte-und-in-ein-tiefes-loch-fiel-a-0078523d-2998-4e78-bb7c-0f4fd2ba3ce6#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/8da56298-e49f-42fb-9df8-5d8b4078d09b_w520_r2.08_fpx56.67_fpy50.jpg",
+    "date": 1795622460000,
+    "titleSl": "Sven Hannawald: Zakaj smučarski skakalec kljub vsem uspehom ni več čutil ničesar – in je padel v globoko luknjo"
+   },
+   {
     "title": "Formel 1: Max Verstappen spielte während Rennwochenende in Las Vegas stundenlang »GTA 6«",
     "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-spielte-waehrend-rennwochenende-in-las-vegas-stundenlang-gta-6-a-37719fbe-2f93-4793-b436-2854627e4915#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/a6cf475e-9be8-4503-95d7-cd08bb0cd6b1_w520_r2.08_fpx38.53_fpy49.99.jpg",
@@ -878,16 +885,72 @@
     "image": "https://cdn.prod.www.spiegel.de/images/2024e505-ea72-44d4-bdd8-1fe64d58926a_w520_r2.08_fpx36.68_fpy46.94.jpg",
     "date": 1795614900000,
     "titleSl": "Raheem Sterling obsojen na pogojno kazen"
-   },
-   {
-    "title": "»Orange Day« – Tag zur Beseitigung von Gewalt gegen Frauen – Wie viel bringen die neuen Gesetze?",
-    "link": "https://www.spiegel.de/panorama/justiz/internationaler-tag-zur-beseitigung-von-gewalt-gegen-frauen-wie-viel-bringen-die-neuen-gesetze-von-bundesjustizministerin-stefanie-hubig-a-607a296c-dbcb-4af1-8f85-da63f9c6d7f1#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/1cf032b9-21de-4242-831f-0db4c25a95ca_w520_r2.08_fpx50_fpy50.jpg",
-    "date": 1795614720000,
-    "titleSl": "»Oranžni dan« – dan boja proti nasilju nad ženskami – Kako učinkoviti so novi zakoni?"
    }
   ],
   "bild": [
+   {
+    "title": "Unfall alarmierte Bosse! DFB-Szene schockte! - Alle Details zum Musiala-Drama",
+    "link": "https://www.bild.de/sport/fussball/jamal-musiala-alle-details-zum-drama-des-superstars-vom-fc-bayern-6b057a1f6a4309d5f179c5f8",
+    "image": "https://images.bild.de/6b057a1f6a4309d5f179c5f8/ebc676ffb6df6a31d51eb78234d0a260,a6a9d42f?w=1280",
+    "date": 1795622955000,
+    "titleSl": "Nesreča je prestrašila vodstvo! Nogometna scena je v šoku! – Vse podrobnosti o drami z Musialo"
+   },
+   {
+    "title": "Gäste und Themen vom 25. November 2026 - Wer ist heute Abend bei Markus Lanz zu Gast?",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/markus-lanz-heute-das-sind-die-gaeste-und-themen-am-mittwoch-6b06ff2ac75e09cb88d15d7b",
+    "image": "https://images.bild.de/6b06ff2ac75e09cb88d15d7b/43902f07560bf727ca4aa5621b785685,10364410?w=1280",
+    "date": 1795622729000,
+    "titleSl": "Gostje in teme z dne 25. novembra 2026 – Kdo bo nocoj gost pri Markusu Lanzu?"
+   },
+   {
+    "title": "Gehalt-Tipps - Darf mein Chef das Weihnachtsgeld kürzen?",
+    "link": "https://www.bild.de/leben-wissen/job-karriere/weihnachtsgeld-wer-hat-anspruch-und-wann-darf-gekuerzt-werden-68dba8531b9f01e5174789d0",
+    "image": "https://images.bild.de/68dba8531b9f01e5174789d0/bec4d700b115aca09c05e161a857ab36,65f77e31?w=1280",
+    "date": 1795622708000,
+    "titleSl": "Nasveti glede plače – Ali lahko moj nadrejeni zmanjša božičnico?"
+   },
+   {
+    "title": "Schachzug gegen Schwester Caroline - Albert macht Charlène zur mächtigsten Frau Monacos",
+    "link": "https://www.bild.de/unterhaltung/royals-adel/albert-macht-charlene-zur-maechtigsten-frau-monacos-6b069fb6d4a4a3142c5729e4",
+    "image": "https://images.bild.de/6b069fb6d4a4a3142c5729e4/e6870a30b2e691e3813e8ab56e18fa71,2eb9508d?w=1280",
+    "date": 1795622697000,
+    "titleSl": "Šahovska poteza proti sestri Caroline – Albert je Charlène naredil za najvplivnejšo žensko v Monaku"
+   },
+   {
+    "title": "Erster Vorstoß - Werder startet Vertrags-Poker um Weiser",
+    "link": "https://www.bild.de/sport/fussball/werder-bremen-erster-vorstoss-vertrags-poker-um-mitchell-weiser-gestartet-6b06e14bd4a4a3142c57335f",
+    "image": "https://images.bild.de/6b06e14bd4a4a3142c57335f/96bc4100039b3944e7c5e031f85964fc,48640fe7?w=1280",
+    "date": 1795622682000,
+    "titleSl": "Prvi poskus – Werder začenja pogajanja o pogodbi z Weiserjem"
+   },
+   {
+    "title": "Mit 95 forscht Captain Kirk weiter - William Shatner (95) kehrt ins TV-Universum zurück",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/william-shatner-welchen-sinn-haben-traeume-neue-unxplained-folgen-6b06cbd1c75e09cb88d15673",
+    "image": "https://images.bild.de/6b06cbd1c75e09cb88d15673/8a394f616db7b519379cdf390ef423f2,cc0a8a81?w=1280",
+    "date": 1795622676000,
+    "titleSl": "Pri 95 letih kapitan Kirk nadaljuje z raziskovanjem – William Shatner (95) se vrača v televizijsko vesolje"
+   },
+   {
+    "title": "Ein Bier mit Beelzebub - GTA 6 lässt Sie den Teufel persönlich treffen",
+    "link": "https://www.bild.de/unterhaltung/bildgg/gta-6-versteckte-mission-laesst-spieler-gegen-den-teufel-persoenlich-kaempfen-6b0410ed39a3e8110f0e8164",
+    "image": "https://images.bild.de/6b0410ed39a3e8110f0e8164/f940671ff7dae2bfb1b92e3356d4fe64,ce046410?w=1280",
+    "date": 1795622669000,
+    "titleSl": "Pivo z Belzebubom – GTA 6 vam omogoča osebno srečanje s hudičem"
+   },
+   {
+    "title": "Trauer um Unternehmer-Legende Otto F. Graf - Aus kostenlosem Wasser machte er Millionen",
+    "link": "https://www.bild.de/regional/baden-wuerttemberg/trauer-um-unternehmer-legende-otto-f-graf-aus-kostenlosem-wasser-machte-er-millionen-6b06a689d4a4a3142c572ab4",
+    "image": "https://images.bild.de/6b06a689d4a4a3142c572ab4/603d4b3852984bc1b28e23f96fc03197,a1487e04?w=1280",
+    "date": 1795622630000,
+    "titleSl": "Žalovanje za legendo med podjetniki Ottom F. Grafom – Iz brezplačne vode je ustvaril milijone"
+   },
+   {
+    "title": "Torwart-Gigant verlässt Kiel - Handball-Kracher um Wolff offiziell",
+    "link": "https://www.bild.de/sport/mehr-sport/handball-andreas-wolff-wechselt-von-kiel-nach-gummersbach-6b070258bb5effe8198cd4f1",
+    "image": "https://images.bild.de/6b070258bb5effe8198cd4f1/d6a11c90005445b53749097a7942459a,decb7ce4?w=1280",
+    "date": 1795622588000,
+    "titleSl": "Vratarski velikan zapušča Kiel – uradna novica o prestopu Wolffa"
+   },
    {
     "title": "„Bares für Rares“ am 25. November 2026 - Teures Cartier-Set weit unter Wert versteigert",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/bares-fuer-rares-heute-begehrter-cartier-liebling-wird-viel-zu-guenstig-verkauft-6b06bfc0d4a4a3142c572f48",
@@ -908,69 +971,6 @@
     "image": "https://images.bild.de/6b06f2965b0e340c047acb45/2dce934467579c3e736b836098f97776,1c950550?w=1280",
     "date": 1795622133000,
     "titleSl": "Usposabljanje na Finskem – francosko bojno letalo pristane na podeželski cesti"
-   },
-   {
-    "title": "Fakt oder Fake? - Hat dieser Russenfrachter Waffen geladen?",
-    "link": "https://www.bild.de/politik/nach-drohnentreffer-in-der-ostsee-hatte-dieser-russen-frachter-waffen-an-bord-6b05a71aaabf9675c80f38dd",
-    "image": "https://images.bild.de/6b05a71aaabf9675c80f38dd/e1a7d5c44afaaf49b46698221e433f14,6ddc32ac?w=1280",
-    "date": 1795621968000,
-    "titleSl": "Dejstvo ali laž? – Ali je ta ruska tovorna ladja naložena z orožjem?"
-   },
-   {
-    "title": "Neue Liga soll schon 2027 starten - NBA verkündet Milliarden-Angriff auf Europa",
-    "link": "https://www.bild.de/sport/mehr-sport/nba-verkuendet-milliarden-angriff-auf-europa-neue-liga-soll-2027-starten-6b07025abb5effe8198cd4f7",
-    "image": "https://images.bild.de/6b07025abb5effe8198cd4f7/c5023317874d8b59b948546f3de81f01,c11327dc?w=1280",
-    "date": 1795621960000,
-    "titleSl": "Nova liga naj bi se začela že leta 2027 – NBA napoveduje milijardni napad na Evropo"
-   },
-   {
-    "title": "Sie soll im Stadion stehen - Verrückt! Fußball-Fans wollen Dampflok kaufen",
-    "link": "https://www.bild.de/sport/fussball/voellig-verrueckt-fans-von-traditionsklub-wollen-dampflok-kaufen-6b06b8b6cd4642ba2eb1830a",
-    "image": "https://images.bild.de/6b06b8b6cd4642ba2eb1830a/95f986503e41d8686370a86eab3180b1,40ba8087?w=1280",
-    "date": 1795621914000,
-    "titleSl": "Naj stoji na stadionu – noro! Nogometni navijači želijo kupiti parno lokomotivo"
-   },
-   {
-    "title": "Handwerker fordert Kanzler Merz heraus - „Wir ziehen den Karren aus dem Dreck!“",
-    "link": "https://www.bild.de/politik/handwerker-fordert-merz-kanzler-merz-heraus-wir-ziehen-den-karren-aus-dem-dreck-6b06ac50c75e09cb88d15156",
-    "image": "https://images.bild.de/6b06ac50c75e09cb88d15156/6a325df1ebc4c39eaa3ecceda7b59ae0,12610c1b?w=1280",
-    "date": 1795621877000,
-    "titleSl": "Handwerker izziva kanclerja Merza – »Potegnili bomo voz iz blata!«"
-   },
-   {
-    "title": "Schachzug gegen Schwester Caroline - Albert macht Charlène zur mächtigsten Frau Monacos",
-    "link": "https://www.bild.de/unterhaltung/royals-adel/albert-macht-charlene-zur-maechtigsten-frau-monacos-6b069fb6d4a4a3142c5729e4",
-    "image": "https://images.bild.de/6b069fb6d4a4a3142c5729e4/e6870a30b2e691e3813e8ab56e18fa71,2eb9508d?w=1280",
-    "date": 1795621751000,
-    "titleSl": "Šahovska poteza proti sestri Caroline – Albert je Charlène naredil za najvplivnejšo žensko v Monaku"
-   },
-   {
-    "title": "Knallhartes Urteil - 49 Jahre Haft für 82 Eintracht-Chaoten",
-    "link": "https://www.bild.de/sport/fussball/49-jahre-haft-fuer-82-chaoten-von-eintracht-frankfurt-6b06a973d4a4a3142c572b18",
-    "image": "https://images.bild.de/6b06a973d4a4a3142c572b18/c6de8eeef351d47e568d5c56b57d9e6c,e508af86?w=1280",
-    "date": 1795621470000,
-    "titleSl": "Stroga kazen – 49 let zapora za 82 huliganov kluba Eintracht"
-   },
-   {
-    "title": "Kinder wussten es vor ihr - Edith reagiert auf Baby-News von Ex Eric Stehfest",
-    "link": "https://www.bild.de/unterhaltung/eric-stehfest-wird-wieder-papa-noch-ehefrau-edith-erfuhr-es-ueber-tiktok-6b06ee095b0e340c047acaae",
-    "image": "https://images.bild.de/6b06ee095b0e340c047acaae/e7839089ad04d5b00ea661eb13155f30,24badb9e?w=1280",
-    "date": 1795621231000,
-    "titleSl": "Otroci so vedeli pred njo – Edith se odziva na novico o otroku svojega nekdanjega partnerja Erica Stehfesta"
-   },
-   {
-    "title": "Drogenfahrt im Lamborghini - Ex-England-Star verurteilt",
-    "link": "https://www.bild.de/sport/fussball/raheem-sterling-nach-drogenfahrt-in-england-verurteilt-6b06f6667fa00ffe65bf33df",
-    "image": "https://images.bild.de/6b06f6667fa00ffe65bf33df/47539543af5c9194bc50cdba40ef488d,3caea02?w=1280",
-    "date": 1795620842000,
-    "titleSl": "Vožnja pod vplivom drog z Lamborghinijem – obsojen nekdanji angleški zvezdnik"
-   },
-   {
-    "title": "„Eigentlich entscheide ich allein“ - Ehefrau riet Eintracht-Star von Wechsel ab",
-    "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt-ehefrau-riet-bundesliga-star-von-wechsel-ab-6b06b859cd4642ba2eb182fa",
-    "image": "https://images.bild.de/6b06b859cd4642ba2eb182fa/571dcf55f116d883ab5be24b3f6cb871,c1ee8109?w=1280",
-    "date": 1795620814000,
-    "titleSl": "»Pravzaprav se odločam sam« – Žena je zvezdniku Eintrachta odsvetovala prestop"
    }
   ],
   "krone": [
@@ -1061,6 +1061,13 @@
   ],
   "rainews": [
    {
+    "title": "Pomeriggio 24 - Puntata del 25/11/2026",
+    "link": "https://www.rainews.it/rubriche/pomeriggio24/video/2026/11/Pomeriggio-24---Puntata-del-25112026-b1ab36fd-a701-48b4-b0b0-9cc856ac904e.html",
+    "image": "https://www.rainews.it/dl/img/2025/09/30/1759222931269_2048x1152.jpg",
+    "date": 1795622966000,
+    "titleSl": "Pomeriggio 24 – Oddaja z dne 25. 11. 2026"
+   },
+   {
     "title": "Afghanistan, l&#x27;ultimo affronto dei Talebani alle donne: cancellati i nomi dai documenti",
     "link": "https://www.rainews.it/articoli/2026/11/afghanistan-lultimo-affronto-dei-talebani-alle-donne-cancellati-i-nomi-dai-documenti-570ab864-d894-45af-847e-9db6f8baf45e.html",
     "image": "https://www.rainews.it/dl/img/2022/01/16/1642344284189_GettyImages.jpg",
@@ -1136,16 +1143,16 @@
     "image": "https://www.rainews.it/dl/img/2026/11/25/1795612802367_WhatsApp_Image__at_...jpeg",
     "date": 1795617000000,
     "titleSl": "Ženska si strga burko, novo delo Laike za 25. november"
-   },
-   {
-    "title": "Donald Trump grazia 2 tacchini, ma durante la tradizionale cerimonia uno dei due animali sparisce",
-    "link": "https://www.rainews.it/video/2026/11/donald-trump-grazia-2-tacchini-ma-durante-la-tradizionale-cerimonia-uno-dei-due-animali-sparisce--312510b3-e15a-46c3-bb35-482b50af540e.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/25/1795616418875_Schermata__alle_...png",
-    "date": 1795616220000,
-    "titleSl": "Donald Trump je pomilostil dva purana, vendar je med tradicionalno slovesnostjo ena od živali izginila."
    }
   ],
   "lemonde": [
+   {
+    "title": "Espagne : quelque 2 000 migrants sont arrivés d’Afrique sur une île des Canaries",
+    "link": "https://www.lemonde.fr/international/article/2026/11/25/espagne-quelque-2-000-migrants-sont-arrives-d-afrique-sur-une-ile-des-canaries_6815135_3210.html",
+    "image": "https://img.lemde.fr/2026/11/25/448/0/5382/2691/644/322/60/0/23b9218_ftp-1-qinkor7uqiiv-afp-d8k37q7.jpg",
+    "date": 1795622486000,
+    "titleSl": "Španija: Na Kanarske otoke je iz Afrike prispelo približno 2000 migrantov"
+   },
    {
     "title": "EN DIRECT, congrès des maires 2026 : « Je ne ressens pas la population très intéressée par l’échéance présidentielle »",
     "link": "https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-au-quotidien-on-constate-de-plus-en-plus-une-solitude-des-communes_6815062_823448.html",
@@ -1222,16 +1229,16 @@
     "image": "https://img.lemde.fr/2026/11/25/500/0/6000/3000/644/322/60/0/bfbb1cf_ftp-1-g3g5k9v9ogeu-afp-d8jr3xg.jpg",
     "date": 1795617990000,
     "titleSl": "V Parizu so izpraznili zadnje veliko migrantsko naselje pod nadzemno progo podzemne železnice št. 2"
-   },
-   {
-    "title": "« De rencontre en rencontre, le pas de Donald Trump se règle de plus en plus sur celui de Xi Jinping »",
-    "link": "https://www.lemonde.fr/idees/article/2026/11/25/de-rencontre-en-rencontre-le-pas-de-donald-trump-se-regle-de-plus-en-plus-sur-celui-de-xi-jinping_6815115_3232.html",
-    "image": "https://img.lemde.fr/2026/11/19/114/0/3000/1500/644/322/60/0/b1522df_ftp-1-n6c3sjytr5kf-02b1110b9d764a22beee36ccec3fa40c-0-b81b6a8df22e40c98cb1941e131468ce.jpg",
-    "date": 1795617855000,
-    "titleSl": "«De rencontre en rencontre, le pas de Donald Trump se règle de plus en plus sur celui de Xi Jinping»"
    }
   ],
   "elpais": [
+   {
+    "title": "Manifestaciones 25-N contra la violencia de género, en directo | Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia”",
+    "link": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/M54YKCQUTZFAHAVDIQ2LQ3OZ24.jpg?auth=41fe66fbe6ab02723547f1da62b8675abeb3e677825212f5166b47792c3578f6",
+    "date": 1795622739000,
+    "titleSl": "Protesti 25. novembra proti nasilju na podlagi spola, v živo | Ana Redondo zagovarja stališče, da je treba stati ob strani ženskam, ki so žrtve »zasebnega terorizma« v obliki nasilja s strani moških: »Ni prostora za nevtralnost.«"
+   },
    {
     "title": "Dos policías de Benidorm, condenados a prisión por “humillar y menospreciar” a una mujer trans",
     "link": "https://elpais.com/espana/comunidad-valenciana/2026-11-25/dos-policias-de-benidorm-condenados-a-nueve-meses-y-ano-y-medio-de-prision-por-humillar-y-grabar-a-una-persona-trans.html",
@@ -1245,13 +1252,6 @@
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261125/1242209_152806_video_1800.mp4",
     "date": 1795622409000,
     "titleSl": "Žrtev nasilja s strani moških na dogodku Mestnega sveta v Madridu: »Vaše politike me ne zastopajo, vaši zavezniki pa še toliko manj.«"
-   },
-   {
-    "title": "Manifestaciones 25-N contra la violencia de género, en directo | Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia”",
-    "link": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/M54YKCQUTZFAHAVDIQ2LQ3OZ24.jpg?auth=41fe66fbe6ab02723547f1da62b8675abeb3e677825212f5166b47792c3578f6",
-    "date": 1795622379000,
-    "titleSl": "Protesti 25. novembra proti nasilju na podlagi spola, v živo | Ana Redondo zagovarja stališče, da je treba stati ob strani ženskam, ki so žrtve »zasebnega terorizma« v obliki nasilja s strani moških: »Ni prostora za nevtralnost.«"
    },
    {
     "title": "El Santander renueva la cúpula de su banca de inversión y coloca al frente de Europa a Felipe Portillo",
@@ -1320,27 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T16:04:24.901Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T16:04:25.639Z",
+   "checkedAt": "2026-11-25T16:10:37.000Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T16:04:25.645Z",
+   "checkedAt": "2026-11-25T16:10:37.760Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-25T16:10:38.073Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T16:04:26.412Z",
+   "checkedAt": "2026-11-25T16:10:38.199Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T16:04:26.452Z",
+   "checkedAt": "2026-11-25T16:10:38.751Z",
    "success": true
   },
-  "bbc": {
-   "checkedAt": "2026-11-25T16:04:26.648Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-25T16:10:39.133Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1348,39 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-25T16:04:26.776Z",
+   "checkedAt": "2026-11-25T16:10:41.141Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-25T16:10:42.813Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T16:04:27.099Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T16:04:30.242Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-25T16:04:30.960Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T16:04:31.227Z",
+   "checkedAt": "2026-11-25T16:10:47.053Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-25T16:04:31.707Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T16:04:33.359Z",
+   "checkedAt": "2026-11-25T16:10:47.762Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T16:04:34.215Z",
+   "checkedAt": "2026-11-25T16:10:49.462Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T16:10:49.807Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T16:10:49.903Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-25T16:10:57.969Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T16:04:38.135Z",
+   "checkedAt": "2026-11-25T16:10:58.162Z",
    "success": true
   }
  },
