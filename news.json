@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T23:01:08.949Z",
+ "generatedAt": "2026-11-25T23:02:32.770Z",
  "sources": {
   "siol": [
    {
@@ -459,18 +459,18 @@
   ],
   "nyt": [
    {
+    "title": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
+    "link": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25met-rent-freeze-cthq/25met-rent-freeze-cthq-mediumSquareAt3X.jpg",
+    "date": 1795647439000,
+    "titleSl": "Mamdani je v tožbi zaradi zamrznitve najemnin zmagal proti najemodajalcem"
+   },
+   {
     "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
     "link": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
     "image": "https://static01.nyt.com/images/2026/11/24/business/00thanksgiving-doom-white/00thanksgiving-doom-white-mediumSquareAt3X.jpg",
     "date": 1795646695000,
     "titleSl": "Kako na zahvalni dan s svojo družino govoriti o tem, da bo umetna inteligenca uničila svet"
-   },
-   {
-    "title": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
-    "link": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25met-rent-freeze-cthq/25met-rent-freeze-cthq-mediumSquareAt3X.jpg",
-    "date": 1795646648000,
-    "titleSl": "Mamdani je v tožbi zaradi zamrznitve najemnin zmagal proti najemodajalcem"
    },
    {
     "title": "Setting Up the Macy’s Thanksgiving Day Parade is Quite a Process. So Is Undoing it.",
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Werbung - Exklusive Suite, Skiurlaub & Top-Preise gewinnen",
+    "link": "https://www.krone.at/4382754",
+    "image": "https://imgl.krone.at/scaled/4386676/ve1c006/full.jpg",
+    "date": 1795647674000,
+    "titleSl": "Oglaševanje – osvojite ekskluzivni apartma, smučarske počitnice in vrhunske nagrade"
+   },
+   {
     "title": "Bitterer CL-Abend - Nach Slapstick-Eigentor: Lille besiegt die Bayern!",
     "link": "https://www.krone.at/4387985",
     "image": "https://imgl.krone.at/scaled/4390491/veb0574/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4390351/v7eee48/full.jpg",
     "date": 1795641627000,
     "titleSl": "Salzburg je izgubil z 1:5 – Biki so ponovno podlegli volkovom"
-   },
-   {
-    "title": "Winter klopft an - „15 Zentimeter könnten sich mancherorts ausgehen“",
-    "link": "https://www.krone.at/4389918",
-    "image": "https://imgl.krone.at/scaled/4389924/v5f00c1/full.jpg",
-    "date": 1795641194000,
-    "titleSl": "Zima trka na vrata – »Na nekaterih krajih bi lahko zapadlo 15 centimetrov snega«"
    }
   ],
   "rainews": [
@@ -1320,23 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T23:01:02.872Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T23:01:03.452Z",
+   "checkedAt": "2026-11-25T23:02:28.907Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T23:01:03.501Z",
+   "checkedAt": "2026-11-25T23:02:29.566Z",
    "success": true
   },
-  "hop": {
-   "checkedAt": "2026-11-25T23:01:04.043Z",
+  "siol": {
+   "checkedAt": "2026-11-25T23:02:29.590Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T23:01:04.410Z",
+   "checkedAt": "2026-11-25T23:02:29.615Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-25T23:02:30.250Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-25T23:02:30.308Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T23:02:30.311Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1352,35 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-25T23:01:04.741Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-25T23:01:04.773Z",
+   "checkedAt": "2026-11-25T23:02:30.345Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T23:01:05.065Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T23:01:06.510Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T23:01:07.024Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T23:01:07.082Z",
+   "checkedAt": "2026-11-25T23:02:31.016Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T23:01:08.239Z",
+   "checkedAt": "2026-11-25T23:02:31.173Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T23:02:31.282Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T23:01:08.255Z",
+   "checkedAt": "2026-11-25T23:02:31.313Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-25T23:01:08.784Z",
+   "checkedAt": "2026-11-25T23:02:31.442Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T23:02:32.687Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T23:01:08.948Z",
+   "checkedAt": "2026-11-25T23:02:32.770Z",
    "success": true
   }
  },
