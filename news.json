@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T17:56:27.630Z",
+ "generatedAt": "2026-11-25T17:58:29.503Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,12 @@
   ],
   "24ur": [
    {
+    "title": "Gajšek in Širec o prihodnosti Ptuja: od razvojnih projektov do zadolževanja",
+    "link": "https://www.24ur.com/novice/slovenija-odloca/gajsek-in-sirec-o-prihodnosti-ptuja-od-razvojnih-projektov-do-zadolzevanja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/4414b31403270940129d_63685092.jpg?v=eb62&fop=fp:0.47:0.39",
+    "date": 1795629343000
+   },
+   {
     "title": "Kje je 57-letna Dragica?",
     "link": "https://www.24ur.com/novice/crna-kronika/kje-je-57-letna-dragica.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/37348e24d30c34f3fb44_63685105.jpg?v=913d&fop=fp:0.46:0.39",
@@ -87,12 +93,6 @@
     "link": "https://www.24ur.com/popin/tuja-scena/igralka-hayden-panettiere-hcerki-zapustila-ogromno-bogastvo.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/b9a9ab843a2a98b77ab4_63684921.jpg?v=51c9&fop=fp:0.46:0.24",
     "date": 1795628690000
-   },
-   {
-    "title": "Gajšek in Širec o prihodnosti Ptuja: od razvojnih projektov do zadolževanja",
-    "link": "https://www.24ur.com/novice/slovenija-odloca/gajsek-in-sirec-o-prihodnosti-ptuja-od-razvojnih-projektov-do-zadolzevanja.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/fc3fe68a2a1e0f4fa16b_63685095.jpg?v=2b59&fop=fp:0.43:0.41",
-    "date": 1795627442000
    },
    {
     "title": "Zaradi napovedanih 15 centimetrov snega v Avstriji rdeč alarm",
@@ -1233,18 +1233,18 @@
   ],
   "elpais": [
    {
-    "title": "Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo|Comienza el partido",
-    "link": "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZPWP3VWHQFC65B7YUXNEJVFXBU.JPG?auth=240a84e057418707606324e29346afc84daf873ccca8484b2e00ee9135010538",
-    "date": 1795629161000,
-    "titleSl": "Sabah – FC Barcelona, v živo, tekma Lige prvakov v živo|Tekma se začenja"
-   },
-   {
     "title": "Manifestaciones 25-N contra la violencia de género, en directo | Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia”",
     "link": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
     "image": "https://imagenes.elpais.com/resizer/v2/M54YKCQUTZFAHAVDIQ2LQ3OZ24.jpg?auth=41fe66fbe6ab02723547f1da62b8675abeb3e677825212f5166b47792c3578f6",
-    "date": 1795629088000,
+    "date": 1795629353000,
     "titleSl": "Protesti 25. novembra proti nasilju na podlagi spola, v živo | Ana Redondo zagovarja stališče, da je treba stati ob strani ženskam, ki so žrtve »zasebnega terorizma« v obliki nasilja s strani moških: »Ni prostora za nevtralnost.«"
+   },
+   {
+    "title": "Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Inicio de partido bastante equilibrado",
+    "link": "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZPWP3VWHQFC65B7YUXNEJVFXBU.JPG?auth=240a84e057418707606324e29346afc84daf873ccca8484b2e00ee9135010538",
+    "date": 1795629345000,
+    "titleSl": "Sabah – FC Barcelona, v živo, tekma Lige prvakov v živo | Precej izenačen začetek tekme"
    },
    {
     "title": "El Ejército de Estados Unidos detona sus reservas de un compuesto explosivo en Iowa",
@@ -1270,7 +1270,7 @@
    {
     "title": "Canarias declara la emergencia en El Hierro y pide el despliegue de la UME",
     "link": "https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/C2WHAGWOPJJDJFU3X2XSQACXD4.jpg?auth=f219898fa789d57b82fbf72ad36b89caad2152e43800816dc674ccd2321f3b28",
+    "image": "https://imagenes.elpais.com/resizer/v2/YWJIK47M7RFV7OK3FMJ6O2G3JM.jpg?auth=cc1d6f3043cbf2af604a2311a66f29c18b9f06b0ad21352f45582e08fc774214",
     "date": 1795625985000,
     "titleSl": "Kanarski otoki razglasijo izredne razmere na otoku El Hierro in zahtevajo napotitev enote UME"
    },
@@ -1320,27 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T17:56:22.335Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T17:56:22.863Z",
+   "checkedAt": "2026-11-25T17:58:23.522Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T17:56:23.134Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-25T17:56:23.794Z",
+   "checkedAt": "2026-11-25T17:58:24.310Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T17:56:24.006Z",
+   "checkedAt": "2026-11-25T17:58:24.804Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T17:58:24.809Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-25T17:58:25.165Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T17:56:24.242Z",
+   "checkedAt": "2026-11-25T17:58:25.481Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T17:58:25.546Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1352,35 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-25T17:56:24.329Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T17:56:24.330Z",
+   "checkedAt": "2026-11-25T17:58:25.731Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T17:56:24.721Z",
+   "checkedAt": "2026-11-25T17:58:25.775Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T17:56:25.187Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T17:56:25.620Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T17:56:25.650Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T17:56:25.863Z",
+   "checkedAt": "2026-11-25T17:58:26.390Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T17:56:27.485Z",
+   "checkedAt": "2026-11-25T17:58:26.504Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T17:58:26.779Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T17:58:27.173Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T17:58:27.223Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T17:56:27.629Z",
+   "checkedAt": "2026-11-25T17:58:29.502Z",
    "success": true
   }
  },
