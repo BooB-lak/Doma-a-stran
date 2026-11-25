@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:12:28.667Z",
+ "generatedAt": "2026-11-25T11:14:30.831Z",
  "sources": {
   "siol": [
    {
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Nach über 400 Tagen - Leidenszeit endet: Comeback im rot-weiß-roten Team",
+    "link": "https://www.krone.at/4389505",
+    "image": "https://imgl.krone.at/scaled/4361988/v69501c/full.jpg",
+    "date": 1795605152000,
+    "titleSl": "Po več kot 400 dneh – konec obdobja trpljenja: vrnitev v avstrijsko reprezentanco"
+   },
+   {
     "title": "Fehlt im Aufgebot - Nächster Rückschlag! ÖSV-Dame verletzt sich erneut",
     "link": "https://www.krone.at/4389532",
     "image": "https://imgl.krone.at/scaled/4389547/v438c2c/full.jpg",
@@ -1029,13 +1036,6 @@
     "image": "https://imgl.krone.at/scaled/4276612/v234b13/full.jpg",
     "date": 1795604024000,
     "titleSl": "Insolventnost – Steirisches Sägewerk Schaffer bo nadaljeval poslovanje"
-   },
-   {
-    "title": "Leidenszeit zu Ende - Nach über 400 Tagen! ÖSV-Star feiert Comeback",
-    "link": "https://www.krone.at/4389505",
-    "image": "https://imgl.krone.at/scaled/4361988/v69501c/full.jpg",
-    "date": 1795603831000,
-    "titleSl": "Konec obdobja trpljenja – po več kot 400 dneh! Zvezdnik avstrijske smučarske zveze (ÖSV) praznuje vrnitev"
    },
    {
     "title": "Bereits buchbar - Ryanair lockt ab Linz mit neuem Urlaubsziel",
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T11:12:23.624Z",
+   "checkedAt": "2026-11-25T11:14:24.912Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T11:12:24.267Z",
+   "checkedAt": "2026-11-25T11:14:25.315Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T11:12:24.278Z",
+   "checkedAt": "2026-11-25T11:14:25.328Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T11:12:24.474Z",
+   "checkedAt": "2026-11-25T11:14:25.589Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T11:12:25.069Z",
+   "checkedAt": "2026-11-25T11:14:26.273Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T11:12:25.301Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-25T11:12:25.327Z",
+   "checkedAt": "2026-11-25T11:14:26.553Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-25T11:12:25.536Z",
+   "checkedAt": "2026-11-25T11:14:26.617Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-25T11:14:26.722Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T11:12:25.720Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T11:12:26.324Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T11:12:26.668Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T11:12:26.762Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T11:12:26.977Z",
+   "checkedAt": "2026-11-25T11:14:27.100Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T11:12:28.440Z",
+   "checkedAt": "2026-11-25T11:14:27.856Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T11:14:27.920Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T11:14:28.401Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T11:14:28.442Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T11:14:30.659Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T11:12:28.666Z",
+   "checkedAt": "2026-11-25T11:14:30.830Z",
    "success": true
   }
  },
