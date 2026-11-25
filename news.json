@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T15:16:32.822Z",
+ "generatedAt": "2026-11-25T15:18:41.045Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,12 @@
   ],
   "24ur": [
    {
+    "title": "Sodniki predlagali opustitev dveh postopkov zoper Netanjahuja",
+    "link": "https://www.24ur.com/novice/tujina/sodniki-predlagali-opustitev-dveh-postopkov-zoper-netanjahuja.html",
+    "image": "https://images.24ur.com/media/images/213xX/Apr2024/2ea69223590786c2463c_63221435.jpg?v=cb5d&fop=fp:0.48:0.43",
+    "date": 1795619601000
+   },
+   {
     "title": "Hajdinjak napovedal krepitev vojske in boljše pogoje za rezerviste",
     "link": "https://www.24ur.com/novice/slovenija/hajdinjak-napovedal-krepitev-vojske-in-boljse-pogoje-za-rezerviste.html",
     "image": "https://images.24ur.com/media/images/213xX/Jun2026/295dda71a93b6462bc37_63595472.jpg?v=72b7&fop=fp:0.45:0.30",
@@ -141,12 +147,6 @@
     "link": "https://www.24ur.com/sport/kosarka/spanci-odgovarjajo-doncicu-stefan-potrebuje-pocitek.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2026/c31d8a84eec93c118e45_63613354.jpg?v=1184&fop=fp:0.42:0.39",
     "date": 1795609123000
-   },
-   {
-    "title": "Plačilne kartice prvič prehitele gotovino, Slovenija ostaja med izjemami",
-    "link": "https://www.24ur.com/novice/tujina/placilne-kartice-prvic-prehitele-gotovino-slovenija-ostaja-med-izjemami.html",
-    "image": "https://images.24ur.com/media/images/213xX/Jun2023/d4a1363142b1d72bceba_62968344.jpg?v=8754&fop=fp:0.47:0.43",
-    "date": 1795609078000
    }
   ],
   "rtvslo": [
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Najhuje bo prav med jutranjo konico, Arso opozarja še pred eno nevarnostjo",
+    "link": "https://www.zurnal24.si/slovenija/najhuje-bo-prav-med-jutranjo-konico-arso-opozarja-se-pred-eno-nevarnostjo-468770",
+    "image": "https://www.zurnal24.si/media/img/fa/43/d6efd93b41cf9d8801f4.jpeg",
+    "date": 1795619760000
+   },
+   {
     "title": "Štajerska avtocesta odprta, kolaps ostaja: Zaradi varnosti zapirajo predore",
     "link": "https://www.zurnal24.si/slovenija/stajerska-avtocesta-odprta-kolaps-ostaja-zaradi-varnosti-zapirajo-predore-468764",
     "image": "https://www.zurnal24.si/media/img/80/78/c3fd99763f3af0fbd2f0.png",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/po-bolecem-finalnem-porazu-se-je-oglasil-dominik-masterchef-468747",
     "image": "https://www.zurnal24.si/media/img/b1/9c/37b1bdcde8a37a758a09.jpeg",
     "date": 1795600680000
-   },
-   {
-    "title": "Se je že začelo: Fis potrdil prve odpovedi v sezoni",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/se-je-ze-zacelo-fis-potrdil-prve-odpovedi-v-sezoni-468745",
-    "image": "https://www.zurnal24.si/media/img/88/fe/7ca8586c4822b99b0415.jpeg",
-    "date": 1795599480000
    }
   ],
   "hop": [
@@ -373,6 +373,48 @@
   ],
   "reuters": [
    {
+    "title": "Barcelona's Fermin to miss Atletico match due to suspension",
+    "link": "https://www.reuters.com/sports/soccer/barcelonas-fermin-miss-atletico-match-due-suspension-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PA44OJLZIFNLNKT2KPYD5PYYYE.jpg",
+    "date": 1795619460000,
+    "titleSl": "Barcelonin Fermin bo zaradi suspenza zamudil tekmo proti Atleticu"
+   },
+   {
+    "title": "Colorado State, Clemson eager to overcome tough losses in Hawaii",
+    "link": "https://www.reuters.com/sports/basketball/colorado-state-clemson-eager-overcome-tough-losses-hawaii--flm-2026-11-25/",
+    "image": "",
+    "date": 1795619297000,
+    "titleSl": "Zvezna država Kolorado, Clemson si želita preboleti težke poraze na Havajih"
+   },
+   {
+    "title": "Nigeria's Tinubu vows to bring peace to insurgency-hit region",
+    "link": "https://www.reuters.com/business/media-telecom/nigerias-tinubu-vows-bring-peace-insurgency-hit-region-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QURGLEJYCNOETADFM6M3JK32WY.jpg",
+    "date": 1795619252000,
+    "titleSl": "Nigerijski predsednik Tinubu obljublja, da bo v regijo, ki jo je prizadela uporniška dejavnost, prinesel mir"
+   },
+   {
+    "title": "Indra sees up to €15 billion in extra orders if Spain meets NATO defence goal",
+    "link": "https://www.reuters.com/business/aerospace-defense/indra-sees-up-15-bln-extra-orders-if-spain-meets-nato-defence-goal-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/R6WWXEKWXJJ5BGGW2LINFBQB7Y.jpg",
+    "date": 1795619249000,
+    "titleSl": "Družba Indra pričakuje do 15 milijard EUR dodatnih naročil, če bo Španija izpolnila obrambni cilj zveze NATO"
+   },
+   {
+    "title": "BoE's Bailey sees lower inflation peak if energy prices stabilise",
+    "link": "https://www.reuters.com/world/uk/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6JGP5EANI5L4FP47RBPG2GNQUA.jpg",
+    "date": 1795619108000,
+    "titleSl": "Bailey iz Banke Anglije pričakuje nižji vrh inflacije, če se bodo cene energije stabilizirale"
+   },
+   {
+    "title": "Families say they cannot locate bodies of relatives in Ebola-hit Congo city",
+    "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/families-say-they-cannot-locate-bodies-relatives-ebola-hit-congo-city-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YJCGOYTESRK4JH3M5WYP62V2EA.jpg",
+    "date": 1795619032000,
+    "titleSl": "Družine pravijo, da ne morejo najti trupel sorodnikov v kongovskem mestu, ki ga je prizadela ebola"
+   },
+   {
     "title": "Ecuador minister says talks with US focused on reviewing operations in the country",
     "link": "https://www.reuters.com/world/americas/ecuador-minister-says-talks-with-us-focused-reviewing-operations-country-2026-11-25/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NUHPLNEWGVMXHOYBL25G6TY474.jpg",
@@ -380,18 +422,18 @@
     "titleSl": "Ekvadorski minister pravi, da so bila pogajanja z ZDA osredotočena na pregled dejavnosti v državi"
    },
    {
-    "title": "Italian alpine skier Brignone announces her retirement",
+    "title": "World stocks fall as new US tariffs loom, AI rebound fizzles",
+    "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-25/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OJOIHHRYOZIJXIHHRAOBODTGKY.jpg",
+    "date": 1795618578000,
+    "titleSl": "Svetovne delnice so padle zaradi možnosti uvedbe novih ameriških carin, okrevanje umetne inteligence pa je spodletelo"
+   },
+   {
+    "title": "Italian double Olympic champion Brignone announces retirement",
     "link": "https://www.reuters.com/sports/italian-alpine-skier-brignone-announces-her-retirement-2026-11-25/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C37MESRF3JMRDE4RC4LAGY2ZR4.jpg",
     "date": 1795618308000,
-    "titleSl": "Italijanska alpska smučarka Brignone je napovedala svojo upokojitev"
-   },
-   {
-    "title": "BoE's Bailey sees lower inflation peak if energy prices stabilise",
-    "link": "https://www.reuters.com/world/uk/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6JGP5EANI5L4FP47RBPG2GNQUA.jpg",
-    "date": 1795618230000,
-    "titleSl": "Bailey iz Banke Anglije pričakuje nižji vrh inflacije, če se bodo cene energije stabilizirale"
+    "titleSl": "Italijanska dvakratna olimpijska prvakinja Brignone napoveduje upokojitev"
    },
    {
     "title": "Liberia signs $5.6 billion infrastructure deal with Bea Mountain",
@@ -413,48 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FYM634R3F5NU7MEATRSPZLUFQQ.jpg",
     "date": 1795617779000,
     "titleSl": "Ameriški urad FinCEN je po kibernetskem incidentu nekatere sisteme izklopil, pravi uradnik"
-   },
-   {
-    "title": "Indra sees up to €15 bln in extra orders if Spain meets NATO defence goal",
-    "link": "https://www.reuters.com/business/aerospace-defense/indra-sees-up-15-bln-extra-orders-if-spain-meets-nato-defence-goal-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/R6WWXEKWXJJ5BGGW2LINFBQB7Y.jpg",
-    "date": 1795617741000,
-    "titleSl": "Družba Indra pričakuje do 15 milijard EUR dodatnih naročil, če bo Španija izpolnila obrambni cilj zveze NATO"
-   },
-   {
-    "title": "Italy has jailed 57 priests for child sex abuse in 2001-2021, church report says",
-    "link": "https://www.reuters.com/world/italy-has-jailed-57-priests-child-sex-abuse-2001-2021-church-report-says-2026-11-25/",
-    "image": "",
-    "date": 1795617586000,
-    "titleSl": "Po podatkih cerkvenega poročila je Italija v obdobju 2001–2021 zaradi spolnih zlorab otrok zaprla 57 duhovnikov"
-   },
-   {
-    "title": "Israeli opposition advances October 7 attack probe opposed by Netanyahu",
-    "link": "https://www.reuters.com/world/middle-east/israeli-opposition-advances-october-7-attack-probe-opposed-by-netanyahu-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KTEK6NKZ6NJUDBSLKI4G2XERSU.jpg",
-    "date": 1795617532000,
-    "titleSl": "Izraelska opozicija nadaljuje preiskavo napada 7. oktobra, ki ji Netanjahu nasprotuje"
-   },
-   {
-    "title": "India central bank raises share of domestically held gold reserves, data shows",
-    "link": "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KZBJ5WD7WVMDJFUQYPPNHY2CZM.jpg",
-    "date": 1795617306000,
-    "titleSl": "Podatki kažejo, da je indijska centralna banka povečala delež domačih rezerv zlata"
-   },
-   {
-    "title": "India says 'cockroach' movement leader Das was told not to use passport",
-    "link": "https://www.reuters.com/world/india/india-says-cockroach-movement-leader-das-was-told-not-use-passport-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KAJABA3BWFNSTKJ5TH52ALQE6U.jpg",
-    "date": 1795617146000,
-    "titleSl": "Indija pravi, da je bilo voditeljici gibanja »ščurkov« Dasovi naročeno, naj ne uporablja potnega lista"
-   },
-   {
-    "title": "New Zealander Williamson appointed Durban Super Giants coach for SA20",
-    "link": "https://www.reuters.com/sports/cricket/new-zealander-williamson-appointed-durban-super-giants-coach-sa20-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OIYKTY6AZJL3DC6NL54L47GZOA.jpg",
-    "date": 1795617137000,
-    "titleSl": "Novozelandec Williamson imenovan za trenerja ekipe Durban Super Giants za SA20"
    }
   ],
   "nyt": [
@@ -803,11 +803,11 @@
   ],
   "spiegel": [
    {
-    "title": "Bundestag: Tumulte rund um Besuch von Ex-Mossad Chef David Barnea",
+    "title": "Bundestag: Tumulte rund um Besuch von Ex-Mossad-Chef David Barnea",
     "link": "https://www.spiegel.de/politik/deutschland/bundestag-tumulte-rund-um-besuch-von-ex-mossad-chef-david-barnea-a-a900cae3-9de2-469f-a225-d3a5e2b6cd73#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/d0381917-1e68-4d5c-ad0e-fa5340777f99_w520_r2.08_fpx33.33_fpy49.99.jpg",
     "date": 1795619340000,
-    "titleSl": "Nemški zvezni parlament: Prepiri zaradi obiska nekdanjega vodje Mosada Davida Barneeja"
+    "titleSl": "Nemški zvezni parlament: Prepiri ob obisku nekdanjega vodje Mosada Davida Barneeja"
    },
    {
     "title": "Polen plant Flugverbotszone an Grenze zur Ukraine",
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T15:16:24.898Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T15:16:25.501Z",
+   "checkedAt": "2026-11-25T15:18:25.408Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T15:16:25.505Z",
+   "checkedAt": "2026-11-25T15:18:26.380Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T15:18:26.871Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T15:16:25.823Z",
+   "checkedAt": "2026-11-25T15:18:26.934Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T15:16:26.391Z",
+   "checkedAt": "2026-11-25T15:18:28.236Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-25T15:16:26.887Z",
+   "checkedAt": "2026-11-25T15:18:28.597Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-25T15:16:26.944Z",
+   "checkedAt": "2026-11-25T15:18:28.655Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T15:16:27.045Z",
+   "checkedAt": "2026-11-25T15:18:28.842Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T15:16:27.123Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T15:16:27.521Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T15:16:27.980Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T15:16:28.242Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T15:16:28.296Z",
+   "checkedAt": "2026-11-25T15:18:38.849Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T15:16:32.701Z",
+   "checkedAt": "2026-11-25T15:18:39.530Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T15:18:39.837Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T15:18:40.064Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T15:18:40.814Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T15:18:40.891Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T15:16:32.821Z",
+   "checkedAt": "2026-11-25T15:18:41.045Z",
    "success": true
   }
  },
