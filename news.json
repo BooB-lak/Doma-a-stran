@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-25T12:56:27.747Z",
+ "generatedAt": "2026-11-25T12:58:27.012Z",
  "sources": {
   "siol": [
+   {
+    "title": "Zapora štajerske avtoceste v obe smeri zaradi prometne nesreče #video #foto",
+    "link": "https://siol.net/novice/slovenija/zapora-stajerske-avtoceste-v-obe-smeri-zaradi-prometne-nesrece-video-foto-707152",
+    "image": "https://siol.net/media/img/31/42/ac11b6e74af3240bff15.jpeg",
+    "date": 1795611360000
+   },
    {
     "title": "Evropski parlament dokončno potrdil proračun EU za leto 2027",
     "link": "https://siol.net/novice/svet/evropski-parlament-dokoncno-potrdil-proracun-eu-za-leto-2027-707176",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/kosarka/besede-doncica-glede-joksimovica-odmevajo-spanci-poslali-jasen-odgovor-707161",
     "image": "https://siol.net/media/img/ae/93/a6f850f2adb9b97ae4df.jpeg",
     "date": 1795603860000
-   },
-   {
-    "title": "Mariborčanke v pričakovanju evropske tekme",
-    "link": "https://siol.net/sportal/odbojka/pokal-cev-odbojka-prvi-krog-prva-tekma-707156",
-    "image": "https://siol.net/media/img/66/29/17e09d3417f863d96823.jpeg",
-    "date": 1795603140000
    }
   ],
   "24ur": [
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Pinkelnig se po dolgi kalvariji vrača v svetovni pokal",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/pinkelnig-se-po-dolgi-kalvariji-vraca-v-svetovni-pokal-468758",
+    "image": "https://www.zurnal24.si/media/img/d2/00/0d28656a72e3317ca955.jpeg",
+    "date": 1795611420000
+   },
+   {
     "title": "Smith na udaru zaradi izjave o Dončiću in Co.: Ljudje so mi hvaležni",
     "link": "https://www.zurnal24.si/sport/kosarka/smith-na-udaru-zaradi-izjave-o-doncicu-in-co-ljudje-so-mi-hvalezni-468755",
     "image": "https://www.zurnal24.si/media/img/39/19/8c16a4e7399be1ce33a8.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/sport/zimski-sporti/vodilna-skakalka-presenetila-grozi-ji-izguba-rumene-majice-468740",
     "image": "https://www.zurnal24.si/media/img/16/b5/a1f4c73e788adf481abe.jpeg",
     "date": 1795594320000
-   },
-   {
-    "title": "Dončićeva bivša ekipa po velikem skalpu le še korak od četrtfinala",
-    "link": "https://www.zurnal24.si/sport/kosarka/donciceva-bivsa-ekipa-po-velikem-skalpu-le-se-korak-od-cetrtfinala-468739",
-    "image": "https://www.zurnal24.si/media/img/c1/6e/6f71b3f0094ca53d95b1.jpeg",
-    "date": 1795590420000
    }
   ],
   "hop": [
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Neue ARD-Expertin macht den Saison-Check - Wierer: Das ist den deutschen Biathleten zuzutrauen",
+    "link": "https://www.bild.de/sport/mehr-sport/biathlon-was-ist-dem-deutschen-team-zuzutrauen-wierer-macht-den-saison-check-6b02cf865842ff528b9e3bd5",
+    "image": "https://images.bild.de/6b02cf865842ff528b9e3bd5/860d7005ad03b67a10d8f0f25d6fa5d3,4c584928?w=1280",
+    "date": 1795611179000,
+    "titleSl": "Nova strokovnjakinja ARD-ja opravi pregled sezone – Wiererjeva: Nemškim biatloncem lahko to zaupamo"
+   },
+   {
     "title": "Kein Aufbruch, aber immerhin ehrlich - Merz schwört Bevölkerung auf harte Zeiten ein",
     "link": "https://www.bild.de/politik/inland/friedrich-merz-zum-schulden-haushalt-kein-aufbruch-aber-immerhin-ehrlich-6b069637d4a4a3142c5728f7",
     "image": "https://images.bild.de/6b069637d4a4a3142c5728f7/e3e78d4d3f8c47bb74498bf444917699,249db6d?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6afede2139a3e8110f0e20eb/7e9cf17b542a1b08f75525d743cd8bd8,32bee6e3?w=1280",
     "date": 1795610005000,
     "titleSl": "56 vrtcev spreminja jedilnike – brez mesa in rib za 5000 otrokovrtcev!"
-   },
-   {
-    "title": "Luxus-Hochzeit in Mexiko - Deutsche Prinzessin hat geheiratet",
-    "link": "https://www.bild.de/unterhaltung/luxus-hochzeit-in-mexiko-deutsche-prinzessin-hat-geheiratet-6b06c8ecc75e09cb88d1561e",
-    "image": "https://images.bild.de/6b06c8ecc75e09cb88d1561e/b8a8606fea965697302ea1b64b7ef000,118110f1?w=1280",
-    "date": 1795610001000,
-    "titleSl": "Luksuzna poroka v Mehiki – nemška princesa se je poročila"
    }
   ],
   "krone": [
@@ -1320,31 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T12:56:22.564Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T12:56:23.147Z",
+   "checkedAt": "2026-11-25T12:58:22.303Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T12:56:23.633Z",
+   "checkedAt": "2026-11-25T12:58:22.760Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-25T12:58:22.794Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T12:56:23.693Z",
+   "checkedAt": "2026-11-25T12:58:23.100Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T12:56:23.902Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T12:56:24.275Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-25T12:56:24.296Z",
+   "checkedAt": "2026-11-25T12:58:23.407Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1344,43 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-25T12:56:24.395Z",
+   "checkedAt": "2026-11-25T12:58:23.681Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-25T12:58:23.731Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T12:58:23.843Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T12:56:24.485Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-25T12:56:24.982Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-25T12:56:25.113Z",
+   "checkedAt": "2026-11-25T12:58:24.192Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T12:56:25.456Z",
+   "checkedAt": "2026-11-25T12:58:24.478Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-25T12:56:27.538Z",
+  "spiegel": {
+   "checkedAt": "2026-11-25T12:58:24.602Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-25T12:56:27.561Z",
+   "checkedAt": "2026-11-25T12:58:24.636Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T12:58:25.292Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-25T12:58:26.884Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T12:56:27.746Z",
+   "checkedAt": "2026-11-25T12:58:27.012Z",
    "success": true
   }
  },
