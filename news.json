@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T01:22:27.906Z",
+ "generatedAt": "2026-11-25T01:24:27.618Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Why Jensen Huang Was Reinstated at Nvidia",
+    "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
+    "date": 1795569694000,
+    "titleSl": "Zakaj je bil Jensen Huang ponovno imenovan v podjetju Nvidia"
+   },
+   {
     "title": "Trump Administration Pauses Joint Operations With Ecuador",
     "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
     "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
@@ -513,13 +520,6 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
     "date": 1795562857000,
     "titleSl": "Blanche zmanjšuje pomen vprašanj v zvezi z družbo Nvidia, medtem ko preiskovalci preučujejo njene stranke"
-   },
-   {
-    "title": "Why Jensen Huang Was Reinstated at Nvidia",
-    "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
-    "date": 1795561694000,
-    "titleSl": "Zakaj je bil Jensen Huang ponovno imenovan v podjetju Nvidia"
    },
    {
     "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
@@ -1320,27 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T01:22:22.205Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-25T01:22:22.837Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-25T01:22:22.964Z",
+   "checkedAt": "2026-11-25T01:24:23.250Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T01:22:23.310Z",
+   "checkedAt": "2026-11-25T01:24:23.956Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-25T01:24:24.255Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T01:22:23.634Z",
+   "checkedAt": "2026-11-25T01:24:24.933Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-25T01:24:25.085Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T01:22:23.895Z",
+   "checkedAt": "2026-11-25T01:24:25.431Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-25T01:24:25.459Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1352,35 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-25T01:22:24.056Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-25T01:22:24.372Z",
+   "checkedAt": "2026-11-25T01:24:25.541Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T01:22:24.380Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T01:22:24.551Z",
+   "checkedAt": "2026-11-25T01:24:25.580Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T01:22:24.698Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T01:22:25.155Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-25T01:22:26.815Z",
+   "checkedAt": "2026-11-25T01:24:26.577Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T01:22:26.873Z",
+   "checkedAt": "2026-11-25T01:24:26.963Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-25T01:24:27.116Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T01:24:27.163Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T01:24:27.488Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T01:22:27.904Z",
+   "checkedAt": "2026-11-25T01:24:27.618Z",
    "success": true
   }
  },
