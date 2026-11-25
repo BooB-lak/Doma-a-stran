@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T09:44:30.721Z",
+ "generatedAt": "2026-11-25T09:46:31.003Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Kibernetski napad prizadel Cio in še dve ameriški obveščevalni agenciji",
+    "link": "https://www.rtvslo.si/svet/s-in-j-amerika/kibernetski-napad-prizadel-cio-in-se-dve-ameriski-obvescevalni-agenciji/801183",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124673.jpg",
+    "date": 1795599318000
+   },
+   {
     "title": "Zala Kralj (ZalaGasper) premagala raka: \"Bolezen je zdaj v popolni remisiji\"",
     "link": "https://www.rtvslo.si/zabava-in-slog/znani/zala-kralj-zalagasper-premagala-raka-bolezen-je-zdaj-v-popolni-remisiji/801177",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124660.jpg",
@@ -161,6 +167,12 @@
     "link": "https://www.rtvslo.si/kultura/dediscina/atenski-stari-muzej-akropole-po-dveh-desetletjih-prenove-znova-odpira-vrata/801182",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124671.jpg",
     "date": 1795599005000
+   },
+   {
+    "title": "Lokalne volitve 2026: soočenje kandidatov za župana Kranja",
+    "link": "https://www.rtvslo.si/enostavno/lokalne-volitve-2026/lokalne-volitve-2026-soocenje-kandidatov-za-zupana-kranja/801184",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/24/67124611.jpg",
+    "date": 1795599000000
    },
    {
     "title": "Horak po odhodu iz Olimpije podpisal za praško Slavio",
@@ -209,18 +221,6 @@
     "link": "https://www.rtvslo.si/kultura/beremo/evald-flisar-praznik-norcev/801169",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/25/67124659.jpg",
     "date": 1795596349000
-   },
-   {
-    "title": "Obsojeni za pokol v oporišču Fort Hood zaprosil za odložitev usmrtitve",
-    "link": "https://www.rtvslo.si/svet/s-in-j-amerika/obsojeni-za-pokol-v-oporiscu-fort-hood-zaprosil-za-odlozitev-usmrtitve/801170",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/10/09/67111241.jpg",
-    "date": 1795596184000
-   },
-   {
-    "title": "Nov poskus reforme kolesarstva, ki pa nima glavnih dveh adutov: Toura in Pogačarja",
-    "link": "https://www.rtvslo.si/sport/kolesarstvo/nov-poskus-reforme-kolesarstva-ki-pa-nima-glavnih-dveh-adutov-toura-in-pogacarja/800633",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/07/26/67063954.jpg",
-    "date": 1795594471000
    }
   ],
   "zurnal": [
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Men charged with trespass at Prince and Princess of Wales's home",
+    "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "date": 1795599795000,
+    "titleSl": "Moška sta bila obtožena vdora v dom princa in princese Walesa"
+   },
+   {
     "title": "Energy bills to rise by 26% from January",
     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9855/live/6f788a40-e8a3-11f1-99b6-a35a62fa4264.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b2/live/e454de40-e89e-11f1-a094-5fdc692f3e33.jpg",
     "date": 1795586445000,
     "titleSl": "Združeno kraljestvo je v okviru tajnega dogovora v afriško državo poslalo begunca, ki je storil spolno kaznivo dejanje"
-   },
-   {
-    "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg",
-    "date": 1795586436000,
-    "titleSl": "Štiri leta po trčenju velikanskega asteroida se je vesoljsko plovilo zdaj vrnilo, da bi ocenilo škodo."
    }
   ],
   "aljazeera": [
@@ -889,18 +889,32 @@
   ],
   "bild": [
    {
+    "title": "Nach Gipfel mit seinen Beratern - Bayern veröffentlicht offizielles Musiala-Statement",
+    "link": "https://www.bild.de/sport/fussball/nach-gipfel-mit-seinen-beratern-bayern-veroeffentlicht-offizielles-musiala-statement-6b06a961cd4642ba2eb18031",
+    "image": "https://images.bild.de/6b06a961cd4642ba2eb18031/c1fbc23904c7da149fd023c045314a7b,cabf5056?w=1280",
+    "date": 1795599884000,
+    "titleSl": "Po sestanku z njegovimi svetovalci – Bayern je objavil uradno izjavo o Musiali"
+   },
+   {
+    "title": "Königstransfer bisher der Mega-Flop - Exklusiv! Konoplia über seine Statistenrolle",
+    "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-gladbach-flop-konoplia-redet-klartext-6b0635c6cd4642ba2eb17a26",
+    "image": "https://images.bild.de/6b0635c6cd4642ba2eb17a26/8206a476122962ed4d672884bf686d64,40e9b474?w=1280",
+    "date": 1795599822000,
+    "titleSl": "Königstransfer je bil doslej velik polom – ekskluzivno! Konoplja o svoji vlogi statista"
+   },
+   {
+    "title": "Sängerin von Frida Gold über Hirnblutung - „Mein Körper hatte sich auf Sterben eingestellt“",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/alina-sueggeler-mein-koerper-hatte-sich-auf-sterben-eingestellt-6b0693a3366061b7ba3e4a13",
+    "image": "https://images.bild.de/6b0693a3366061b7ba3e4a13/078dcf813bb6891372564239046b75fd,f5f5e3e4?w=1280",
+    "date": 1795599816000,
+    "titleSl": "Pevka skupine Frida Gold o možganski krvavitvi – »Moje telo se je pripravljalo na smrt«"
+   },
+   {
     "title": "Razzien in mehreren Städten - Neonazi-Gruppe „Terror 18“ zerschlagen",
     "link": "https://www.bild.de/news/razzien-in-mehreren-staedten-drei-festnahmen-neonazi-gruppe-terror-18-zerschlagen-6b06a531d4a4a3142c572a93",
     "image": "https://images.bild.de/6b06a531d4a4a3142c572a93/e13a986b4094e8929a150989b8c34e67,a70e9bf8?w=1280",
     "date": 1795599762000,
     "titleSl": "Racije v več mestih – razbita neonacistična skupina »Terror 18«"
-   },
-   {
-    "title": "Nach Gipfel mit seinen Beratern - Bayern veröffentlicht offizielles Musiala-Statement",
-    "link": "https://www.bild.de/sport/fussball/nach-gipfel-mit-seinen-beratern-bayern-veroeffentlicht-offizielles-musiala-statement-6b06a961cd4642ba2eb18031",
-    "image": "https://images.bild.de/6b06a961cd4642ba2eb18031/c1fbc23904c7da149fd023c045314a7b,cabf5056?w=1280",
-    "date": 1795599737000,
-    "titleSl": "Po sestanku z njegovimi svetovalci – Bayern je objavil uradno izjavo o Musiali"
    },
    {
     "title": "Sie war sogar schon auf der „Vogue“ - Windhündin modelt in 120.000-Euro-Klamotten",
@@ -957,20 +971,6 @@
     "image": "https://images.bild.de/6aec4e980ed738572938c4ff/57f2d7f8dc32e077b38f0be857e5e5a8,6f740?w=1280",
     "date": 1795599217000,
     "titleSl": "Črni petek 2026 – Kaj se skriva za imenom »Črni petek«?"
-   },
-   {
-    "title": "Kein Baum! Rostock spart Weihnachten klein - Tanne zu teuer, jetzt übernimmt eine Projektion",
-    "link": "https://www.bild.de/regional/mecklenburg-vorpommern/rostock-weihnachtsmarkt-ersetzt-riesenbaum-durch-led-projektion-nun-6b0695d2c75e09cb88d14f12",
-    "image": "https://images.bild.de/6b0695d2c75e09cb88d14f12/8765039bbe1ad1b34b5519002aed9f18,2b7ad93f?w=1280",
-    "date": 1795599160000,
-    "titleSl": "Brez drevesca! Rostock bo imel skromen božič – jelka je predraga, zato bo nadomeščena s projekcijo"
-   },
-   {
-    "title": "400-Millionen-Irrtum - Banaszak blamiert sich bei Maischberger",
-    "link": "https://www.bild.de/politik/inland/400-millionen-irrtum-banaszak-blamiert-sich-bei-maischberger-6b068822cd4642ba2eb17d29",
-    "image": "https://images.bild.de/6b068822cd4642ba2eb17d29/aaaec440bd6b37a8709fda9e7f238ac6,a37c21b9?w=1280",
-    "date": 1795599133000,
-    "titleSl": "400-milijonska napaka – Banaszak se je osmešil pri Maischbergerjevi"
    }
   ],
   "krone": [
@@ -978,7 +978,7 @@
     "title": "Schockierende Zahlen! - Jeder zehnte Arbeiter stirbt noch vor der Pension",
     "link": "https://www.krone.at/4389183",
     "image": "https://imgl.krone.at/scaled/4389425/v95cac5/full.jpg",
-    "date": 1795599834000,
+    "date": 1795599931000,
     "titleSl": "Šokantne številke! – Vsak deseti delavec umre še pred upokojitvijo"
    },
    {
@@ -1320,31 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T09:44:22.978Z",
+   "checkedAt": "2026-11-25T09:46:23.564Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-25T09:44:23.646Z",
+   "checkedAt": "2026-11-25T09:46:24.321Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T09:44:23.911Z",
+   "checkedAt": "2026-11-25T09:46:24.347Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T09:44:23.938Z",
+   "checkedAt": "2026-11-25T09:46:24.679Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T09:44:24.264Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-25T09:44:24.610Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T09:44:24.633Z",
+   "checkedAt": "2026-11-25T09:46:25.020Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1344,43 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-25T09:44:24.783Z",
+   "checkedAt": "2026-11-25T09:46:25.586Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T09:46:25.600Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T09:44:24.914Z",
+   "checkedAt": "2026-11-25T09:46:25.755Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-25T09:46:27.439Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T09:44:25.546Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T09:44:25.925Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-25T09:44:27.577Z",
+   "checkedAt": "2026-11-25T09:46:28.091Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T09:44:27.631Z",
+   "checkedAt": "2026-11-25T09:46:28.517Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T09:46:28.640Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-25T09:44:29.225Z",
+   "checkedAt": "2026-11-25T09:46:28.696Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-25T09:46:30.818Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T09:44:30.720Z",
+   "checkedAt": "2026-11-25T09:46:31.002Z",
    "success": true
   }
  },
