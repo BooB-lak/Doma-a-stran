@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T04:22:28.173Z",
+ "generatedAt": "2026-11-25T04:24:28.853Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,18 @@
   ],
   "nyt": [
    {
+    "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
+    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
+    "date": 1795580566000
+   },
+   {
+    "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+    "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Oz-Solomons-01-gzjw/25int-Oz-Solomons-01-gzjw-mediumSquareAt3X.jpg",
+    "date": 1795580538000
+   },
+   {
     "title": "Why Jensen Huang Was Reinstated at Nvidia",
     "link": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
@@ -471,13 +483,6 @@
     "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/merlin_184116561_86296d93-61d7-42f1-a351-868f49df8338-mediumSquareAt3X.jpg",
     "date": 1795578728000,
     "titleSl": "Martha Firestone Ford, lastnica ekipe Detroit Lions, je umrla v starosti 101 leta"
-   },
-   {
-    "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
-    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
-    "date": 1795578715000,
-    "titleSl": "Abrego Garcia bo prostovoljno zapustila ZDA in tako končala 20-mesečno pravno preizkušnjo"
    },
    {
     "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
@@ -534,13 +539,6 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24pol-alaska-concession-bpvz/24pol-alaska-concession-bpvz-mediumSquareAt3X.jpg",
     "date": 1795564698000,
     "titleSl": "Sullivan je priznal poraz v tekmi za senat Aljaske proti Peltoli"
-   },
-   {
-    "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
-    "link": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
-    "date": 1795564500000,
-    "titleSl": "Iz e-sporočila je razvidno, da je tožilec pozval ministrstvo za pravosodje, naj ponovno preuči obtožbe zoper ubežnika."
    }
   ],
   "bbc": [
@@ -1320,35 +1318,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T04:22:23.163Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T04:22:23.763Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-25T04:22:24.097Z",
+   "checkedAt": "2026-11-25T04:24:25.386Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T04:22:24.216Z",
+   "checkedAt": "2026-11-25T04:24:26.016Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T04:24:26.475Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-25T04:24:26.717Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T04:22:24.617Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-25T04:22:24.900Z",
+   "checkedAt": "2026-11-25T04:24:26.817Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-25T04:22:24.937Z",
+   "checkedAt": "2026-11-25T04:24:26.859Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-25T04:22:24.973Z",
+   "checkedAt": "2026-11-25T04:24:26.865Z",
    "success": true
   },
   "guardian": {
@@ -1356,31 +1350,35 @@
    "success": false
   },
   "reuters": {
-   "checkedAt": "2026-11-25T04:22:25.236Z",
+   "checkedAt": "2026-11-25T04:24:27.550Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-25T04:22:25.795Z",
+  "nyt": {
+   "checkedAt": "2026-11-25T04:24:28.395Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T04:22:26.025Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T04:22:26.213Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T04:22:26.412Z",
+   "checkedAt": "2026-11-25T04:24:28.482Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-25T04:22:27.924Z",
+   "checkedAt": "2026-11-25T04:24:28.555Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T04:24:28.603Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-25T04:24:28.635Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T04:24:28.766Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T04:22:28.172Z",
+   "checkedAt": "2026-11-25T04:24:28.852Z",
    "success": true
   }
  },
