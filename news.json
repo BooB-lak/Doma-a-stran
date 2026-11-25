@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T01:54:27.813Z",
+ "generatedAt": "2026-11-25T01:56:28.600Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,20 @@
   ],
   "bbc": [
    {
+    "title": "Lies, disguises and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+    "link": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ff/live/1284fd50-e871-11f1-99a1-253766e7ad8b.jpg",
+    "date": 1795571503000,
+    "titleSl": "Laži, preobleke in torbe za deske za surfanje: kako je ljubosumni policist iz Sydneya poskušal prikriti dvojni umor"
+   },
+   {
+    "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
+    "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+    "date": 1795571479000,
+    "titleSl": "Kilmar Ábrego García zapušča ZDA in odhaja v Španijo, s čimer se končuje boj proti deportaciji"
+   },
+   {
     "title": "Thomas Markle indicted in US for possessing child sex abuse images",
     "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
@@ -613,20 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
     "date": 1795568211000,
     "titleSl": "Ruski podatki kažejo skoraj 500.000 smrtnih žrtev v vojni v Ukrajini"
-   },
-   {
-    "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-    "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg",
-    "date": 1795568053000,
-    "titleSl": "Moja družina je umrla v Ukrajini. Moja mama je krivila Zelenskijeve vojake – resnica je zapletena"
-   },
-   {
-    "title": "US preparing to unveil new tariffs on global trading partners",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-    "date": 1795567081000,
-    "titleSl": "ZDA se pripravljajo na uvedbo novih carin za svoje svetovne trgovinske partnerje"
    }
   ],
   "aljazeera": [
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T01:54:22.649Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T01:54:23.245Z",
+   "checkedAt": "2026-11-25T01:56:21.942Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T01:54:23.450Z",
+   "checkedAt": "2026-11-25T01:56:22.573Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T01:54:23.594Z",
+   "checkedAt": "2026-11-25T01:56:22.840Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T01:56:22.974Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T01:54:24.186Z",
+   "checkedAt": "2026-11-25T01:56:23.375Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T01:54:24.316Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-25T01:54:24.367Z",
+   "checkedAt": "2026-11-25T01:56:23.655Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-25T01:54:24.483Z",
+   "checkedAt": "2026-11-25T01:56:23.830Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-25T01:54:26.815Z",
+   "checkedAt": "2026-11-25T01:56:24.130Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-25T01:54:27.156Z",
+  "bbc": {
+   "checkedAt": "2026-11-25T01:56:27.046Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T01:54:27.217Z",
+   "checkedAt": "2026-11-25T01:56:27.552Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-25T01:54:27.540Z",
+   "checkedAt": "2026-11-25T01:56:27.920Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T01:54:27.600Z",
+   "checkedAt": "2026-11-25T01:56:28.032Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-25T01:54:27.656Z",
+   "checkedAt": "2026-11-25T01:56:28.050Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T01:56:28.413Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T01:54:27.812Z",
+   "checkedAt": "2026-11-25T01:56:28.599Z",
    "success": true
   }
  },
