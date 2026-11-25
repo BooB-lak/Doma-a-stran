@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:54:31.656Z",
+ "generatedAt": "2026-11-25T21:56:28.730Z",
  "sources": {
   "siol": [
    {
@@ -77,16 +77,16 @@
   ],
   "24ur": [
    {
+    "title": "Štirje goli in delitev točk na Parku princev",
+    "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/enrique-si-ne-zeli-slisati-izgovorov-naj-zacnemo-jokati-niti-pod-razno.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/8565ab1d7857fc94aece_63685192.jpg?v=84ca&fop=fp:0.48:0.41",
+    "date": 1795643696000
+   },
+   {
     "title": "Frangež: 'Imam jasno vizijo.' Greiner: 'Razlikujeva se predvsem v vrednotah'",
     "link": "https://www.24ur.com/novice/slovenija/frangez-imam-jasno-vizijo-greiner-razlikujeva-se-predvsem-v-vrednotah.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/2f9139747deea20ac48c_63685189.jpg?v=e494&fop=fp:0.51:0.23",
     "date": 1795643193000
-   },
-   {
-    "title": "Malen za novo izenačenje na Parku princev (2:2*)",
-    "link": "https://www.24ur.com/sport/nogomet/ligaprvakov/enrique-si-ne-zeli-slisati-izgovorov-naj-zacnemo-jokati-niti-pod-razno.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/8565ab1d7857fc94aece_63685192.jpg?v=84ca&fop=fp:0.48:0.41",
-    "date": 1795642967000
    },
    {
     "title": "RTVS še vedno čaka na milijone, ogroženo tudi izplačilo božičnic",
@@ -889,18 +889,18 @@
   ],
   "bild": [
    {
-    "title": "Schlacht um EU-Milliarden - Der doppelte Kanzler",
-    "link": "https://www.bild.de/politik/inland/friedrich-merz-zu-hause-schulden-in-bruessel-harte-sparforderungen-6b06d5ffd4a4a3142c5731d5",
-    "image": "https://images.bild.de/6b06d5ffd4a4a3142c5731d5/4be232e72257660bce6fa1ef12f3c31d,3cc192fd?w=1280",
-    "date": 1795643581000,
-    "titleSl": "Bitka za milijarde EU – Dvojni kancler"
-   },
-   {
     "title": "Überraschende Niederlage gegen Lille - Eigentor! Zoff! Bayern-Pleite!",
     "link": "https://www.bild.de/sport/fussball/fc-bayern-eigentor-zoff-pleite-gegen-lille-6b072421d4a4a3142c573b8f",
     "image": "https://images.bild.de/6b072421d4a4a3142c573b8f/3209e1ffecad302373ee1197f62bcdba,35ad694a?w=1280",
-    "date": 1795643558000,
+    "date": 1795643655000,
     "titleSl": "Presenetljiv poraz proti Lilleu – avtogol! Prepir! Bayern je izgubil!"
+   },
+   {
+    "title": "Schlacht um EU-Milliarden - Der doppelte Kanzler",
+    "link": "https://www.bild.de/politik/inland/friedrich-merz-zu-hause-schulden-in-bruessel-harte-sparforderungen-6b06d5ffd4a4a3142c5731d5",
+    "image": "https://images.bild.de/6b06d5ffd4a4a3142c5731d5/4be232e72257660bce6fa1ef12f3c31d,3cc192fd?w=1280",
+    "date": 1795643630000,
+    "titleSl": "Bitka za milijarde EU – Dvojni kancler"
    },
    {
     "title": "Diese Kartoffel auf keinen Fall essen! - Jetzt warnt auch Edeka vor den roten Knollen",
@@ -978,7 +978,7 @@
     "title": "Bitterer CL-Abend - Nach Slapstick-Eigentor: Lille besiegt die Bayern!",
     "link": "https://www.krone.at/4387985",
     "image": "https://imgl.krone.at/scaled/4390460/vd0f485/full.jpg",
-    "date": 1795643547000,
+    "date": 1795643680000,
     "titleSl": "Grenak večer Lige prvakov – Po avtogolu v slogu slapstika: Lille je premagal Bayern!"
    },
    {
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-25T21:54:23.914Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-25T21:54:24.401Z",
+   "checkedAt": "2026-11-25T21:56:24.987Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-25T21:54:24.589Z",
+   "checkedAt": "2026-11-25T21:56:25.753Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-25T21:54:24.724Z",
+   "checkedAt": "2026-11-25T21:56:25.891Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-25T21:56:26.219Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-25T21:54:25.399Z",
+   "checkedAt": "2026-11-25T21:56:26.244Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-25T21:56:26.628Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-25T21:54:25.810Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-25T21:54:25.906Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-25T21:54:26.138Z",
+   "checkedAt": "2026-11-25T21:56:26.643Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-25T21:54:28.513Z",
+   "checkedAt": "2026-11-25T21:56:26.704Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-25T21:56:26.888Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-25T21:54:28.990Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-25T21:54:29.212Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-25T21:54:29.371Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-25T21:54:30.891Z",
+   "checkedAt": "2026-11-25T21:56:27.516Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-25T21:54:31.511Z",
+   "checkedAt": "2026-11-25T21:56:27.616Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-25T21:56:27.945Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-25T21:56:28.035Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-25T21:56:28.566Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-25T21:54:31.656Z",
+   "checkedAt": "2026-11-25T21:56:28.729Z",
    "success": true
   }
  },
