@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T22:14:27.281Z",
+ "generatedAt": "2026-11-26T22:16:31.553Z",
  "sources": {
   "siol": [
    {
@@ -545,11 +545,25 @@
   ],
   "bbc": [
    {
+    "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/1c6edae0-e9dc-11f1-9361-cd8ed0157587.jpg",
+    "date": 1795730784000,
+    "titleSl": "Vodja britanskega nacionalnega zdravstvenega sistema (NHS) opozarja na »grozljivo povečanje« števila primerov gripe, saj se število sprejemov v bolnišnice povečuje."
+   },
+   {
     "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
     "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
     "date": 1795730780000,
     "titleSl": "Zelenski je v intervjuju za BBC izrazil dvome o »čudnem« prijateljstvu med Trumpom in Putinom"
+   },
+   {
+    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+    "date": 1795730482000,
+    "titleSl": "Cisterna za dizelsko gorivo s tovorom do 7.000 ton se je prevrnila v bližini Ibize, pri čemer je umrla ena oseba"
    },
    {
     "title": "Fury 'never received' schizophrenia diagnosis",
@@ -613,20 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/08114490-e99e-11f1-b880-15b494ba858d.jpg",
     "date": 1795716858000,
     "titleSl": "Škotski glavni zdravnik Gregor Smith je odstopil zaradi težav z duševnim zdravjem"
-   },
-   {
-    "title": "Calvert-Lewin signs new Leeds deal until 2029",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg",
-    "date": 1795716031000,
-    "titleSl": "Calvert-Lewin je podpisal novo pogodbo z Leedsom do leta 2029"
-   },
-   {
-    "title": "When will Poundland shops close? Five key questions answered",
-    "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg",
-    "date": 1795713681000,
-    "titleSl": "Kdaj bodo trgovine Poundland zaprte? Odgovori na pet ključnih vprašanj"
    }
   ],
   "aljazeera": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Verletzt ausgewechselt - So steht es um Salzburgs Offensiv-Star Lindström",
+    "link": "https://www.krone.at/4392019",
+    "image": "https://imgl.krone.at/scaled/4392077/v83531f/full.jpg",
+    "date": 1795731338000,
+    "titleSl": "Zamenjan zaradi poškodbe – Takšno je stanje zvezdnika napada Salzburga Lindströma"
+   },
+   {
     "title": "Stocker: „Gescheitert“ - EU-Sondergipfel zum Haushalt vorzeitig abgebrochen",
     "link": "https://www.krone.at/4392137",
     "image": "https://imgl.krone.at/scaled/4392162/ve7f674/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4391305/v11ccf1/full.jpg",
     "date": 1795726680000,
     "titleSl": "Koroška neuradno – Koroški deželni voditelj naj bi visel v vsaki šoli"
-   },
-   {
-    "title": "Mit Herausforderungen - Schnee- und PS-starke Liedpremiere von DJ Ötzi",
-    "link": "https://www.krone.at/4391964",
-    "image": "https://imgl.krone.at/scaled/4392073/v8ed360/full.jpg",
-    "date": 1795726225000,
-    "titleSl": "Z izzivi – Premiera pesmi DJ-ja Ötzija z veliko snega in konjskih moči"
    }
   ],
   "rainews": [
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T22:14:22.736Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-26T22:14:23.603Z",
+   "checkedAt": "2026-11-26T22:16:23.358Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T22:14:23.802Z",
+   "checkedAt": "2026-11-26T22:16:23.998Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T22:14:23.978Z",
+   "checkedAt": "2026-11-26T22:16:24.368Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-26T22:16:24.370Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T22:14:24.077Z",
+   "checkedAt": "2026-11-26T22:16:24.824Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T22:14:24.282Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T22:14:24.328Z",
+   "checkedAt": "2026-11-26T22:16:25.196Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-26T22:14:24.501Z",
+   "checkedAt": "2026-11-26T22:16:25.403Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T22:14:24.776Z",
+   "checkedAt": "2026-11-26T22:16:25.438Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-26T22:16:28.648Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T22:14:25.238Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T22:14:25.609Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T22:14:25.697Z",
+   "checkedAt": "2026-11-26T22:16:29.330Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T22:14:27.180Z",
+   "checkedAt": "2026-11-26T22:16:29.414Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T22:16:29.837Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T22:16:29.971Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T22:14:27.205Z",
+   "checkedAt": "2026-11-26T22:16:31.330Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T22:14:27.281Z",
+   "checkedAt": "2026-11-26T22:16:31.553Z",
    "success": true
   }
  },
