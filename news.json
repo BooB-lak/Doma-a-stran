@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-26T21:56:32.401Z",
+ "generatedAt": "2026-11-26T21:58:29.704Z",
  "sources": {
   "siol": [
    {
     "title": "Premagali so Milan in Celtic, ne pa tudi izjemnega Lebana in Celje",
     "link": "https://siol.net/sportal/nogomet/liga-europa-ligaski-del-5-krog-ferencvaros-celje-remi-dinamo-zajc-poraz-707226",
     "image": "https://siol.net/media/img/3f/4b/3587f63028c65e563fb9.jpeg",
-    "date": 1795729920000
+    "date": 1795730100000
    },
    {
     "title": "Vlah blestel ob visoki zmagi Kielc, Janc zabijal ob zmagi Barcelone",
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Celje proti močnemu tekmecu do pomembne točke",
+    "link": "https://www.zurnal24.si/sport/nogomet/celje-proti-mocnemu-tekmecu-do-pomembne-tocke-468847",
+    "image": "https://www.zurnal24.si/media/img/ag/9b/abe41ba5a919ef40f4eb.jpeg",
+    "date": 1795730220000
+   },
+   {
     "title": "ACH Volley potrdil premoč, zdaj ga čaka evropska elita",
     "link": "https://www.zurnal24.si/sport/ach-volley-potrdil-premoc-zdaj-ga-caka-evropska-elita-468846",
     "image": "https://www.zurnal24.si/media/img/e2/f5/046c5509547f7d84e470.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/slovenija/pomozni-policisti-468836",
     "image": "https://www.zurnal24.si/media/img/f3/13/efb3e54d21ec271b9433.jpeg",
     "date": 1795705680000
-   },
-   {
-    "title": "Roglič vrnil ženi: Bilo bi lažje, če bi to povedala meni",
-    "link": "https://www.zurnal24.si/sport/kolesarstvo/roglic-vrnil-zeni-bilo-bi-lazje-ce-bi-to-povedala-meni-468834",
-    "image": "https://www.zurnal24.si/media/img/04/31/6a06e2db2b20d22c635e.jpeg",
-    "date": 1795704720000
    }
   ],
   "hop": [
@@ -978,8 +978,15 @@
     "title": "Europa League - Sturm Graz führte, aber Ilzers Joker drehten Spiel",
     "link": "https://www.krone.at/4389757",
     "image": "https://imgl.krone.at/scaled/4392136/v3c639c/full.jpg",
-    "date": 1795730047000,
+    "date": 1795730264000,
     "titleSl": "Evropska liga – Sturm Graz je vodil, toda Ilzerjevi jokerji so obrnili tekmo"
+   },
+   {
+    "title": "Stocker: „Gescheitert“ - EU-Sondergipfel zum Haushalt vorzeitig abgebrochen",
+    "link": "https://www.krone.at/4392137",
+    "image": "https://imgl.krone.at/scaled/4392162/ve7f674/full.jpg",
+    "date": 1795730253000,
+    "titleSl": "Stocker: »Neuspešno« – Izredno zasedanje Evropskega sveta o proračunu predčasno prekinjeno"
    },
    {
     "title": "ÖFB-Sportchef Janko? - „Passt nicht, dass du dann den Schwanz einziehst!“",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4391965/v87c2f9/full.jpg",
     "date": 1795725826000,
     "titleSl": "Več poškodovanih – izgredi! Tekma Evropske lige je bila prekinjena"
-   },
-   {
-    "title": "So geht es weiter - Historischer Schneetag mit Einsätzen und Toten",
-    "link": "https://www.krone.at/4389403",
-    "image": "https://imgl.krone.at/scaled/4391394/v4256af/full.jpg",
-    "date": 1795724788000,
-    "titleSl": "Tako se nadaljuje – zgodovinski snežni dan z intervencijami in smrtnimi žrtvami"
    }
   ],
   "rainews": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T21:56:26.265Z",
+   "checkedAt": "2026-11-26T21:58:24.310Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T21:56:27.115Z",
+   "checkedAt": "2026-11-26T21:58:24.946Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T21:56:27.370Z",
+   "checkedAt": "2026-11-26T21:58:25.222Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T21:56:27.567Z",
+   "checkedAt": "2026-11-26T21:58:25.331Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T21:56:28.354Z",
+   "checkedAt": "2026-11-26T21:58:25.701Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-26T21:58:25.862Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-26T21:56:28.752Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-26T21:56:28.790Z",
+   "checkedAt": "2026-11-26T21:58:25.980Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T21:56:28.840Z",
+   "checkedAt": "2026-11-26T21:58:26.076Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T21:56:28.850Z",
+   "checkedAt": "2026-11-26T21:58:26.458Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T21:56:29.602Z",
+   "checkedAt": "2026-11-26T21:58:26.813Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T21:56:29.681Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T21:56:29.853Z",
+   "checkedAt": "2026-11-26T21:58:26.823Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-26T21:56:31.622Z",
+   "checkedAt": "2026-11-26T21:58:26.922Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T21:58:27.067Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T21:56:32.218Z",
+   "checkedAt": "2026-11-26T21:58:29.577Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T21:56:32.400Z",
+   "checkedAt": "2026-11-26T21:58:29.703Z",
    "success": true
   }
  },
