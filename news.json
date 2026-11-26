@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-26T06:08:44.824Z",
+ "generatedAt": "2026-11-26T06:10:44.520Z",
  "sources": {
   "siol": [
    {
-    "title": "Kijev znova tarča ruskega napada, rakete zadele trgovski center #vŽivo",
+    "title": "Kijev znova tarča ruskega napada, rakete zadele trgovsko središče #vŽivo",
     "link": "https://siol.net/novice/svet/kijev-znova-tarca-ruskega-napada-rakete-zadele-trgovski-center-vzivo-707232",
     "image": "https://siol.net/media/img/a0/a2/acce24e8d190f36dbff5.jpeg",
     "date": 1795672440000
@@ -77,6 +77,18 @@
   ],
   "24ur": [
    {
+    "title": "Nekoč prvi strelec Celja, danes veliki rival Ferencvaroša",
+    "link": "https://www.24ur.com/sport/nogomet/aljosa-matko-budimpesta.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/3d37b8493c7e7cf6869a_63685117.png?v=2925&fop=fp:0.60:0.29",
+    "date": 1795672818000
+   },
+   {
+    "title": "Formula 1: Kaj se skriva za legendama McLarna in Ferrarija?",
+    "link": "https://www.24ur.com/tv-oddaje/formula-1-kaj-se-skriva-za-legendama-mclarna-in-ferrarija.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/bd04f939ade456c92e48_63684962.jpg?v=4170&fop=fp:0.46:0.33",
+    "date": 1795672818000
+   },
+   {
     "title": "Še zadnji dan predčasnega glasovanja pred drugim krogom",
     "link": "https://www.24ur.com/novice/slovenija-odloca/se-zadnji-dan-predcasnega-glasovanja-pred-drugim-krogom.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/a586cccb67be5efa193e_63679743.jpg?v=d89e&fop=fp:0.68:0.55",
@@ -135,18 +147,6 @@
     "link": "https://www.24ur.com/novice/slovenija/financna-kriza-na-rtvs-zavod-poziva-vlado-na-izredno-sejo.html",
     "image": "https://images.24ur.com/media/images/213xX/Aug2024/2c8205156834854c5c3f_63277371.jpg?v=832f&fop=fp:0.58:0.14",
     "date": 1795638791000
-   },
-   {
-    "title": "Tadej Oblak bo glavno nagrado namenil za gradnjo hiše",
-    "link": "https://www.24ur.com/tadej-oblak-bo-nagrado-namenil-za-gradnjo-hise.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/ed4c26e3d4cf971f8288_63685170.jpg?v=f3bf&fop=fp:0.55:0.28",
-    "date": 1795636700000
-   },
-   {
-    "title": "Razvojna kapica ali managerski pokrov?",
-    "link": "https://www.24ur.com/novice/slovenija/razvojna-kapica-ali-managerski-pokrov.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2025/f422811c63c85684a888_63499868.jpg?v=ccbc&fop=fp:0.53:0.40",
-    "date": 1795635424000
    }
   ],
   "rtvslo": [
@@ -225,7 +225,7 @@
   ],
   "zurnal": [
    {
-    "title": "Zaradi snega že kaotično: Dve nesreči, okvare vozil in prepoved vožnje",
+    "title": "Napovedi so se uresničile: Kaos na cesti, dve nesreči, prepoved vožnje",
     "link": "https://www.zurnal24.si/slovenija/zaradi-snega-ze-kaoticno-dve-nesreci-okvare-vozil-in-prepoved-voznje-468790",
     "image": "https://www.zurnal24.si/media/img/03/f3/a282ac794c23b55ec2fb.jpeg",
     "date": 1795673100000
@@ -673,11 +673,11 @@
     "titleSl": "Kolumbijski predsednik se norčuje iz aretiranih ugrabiteljev talcev v supermarketu"
    },
    {
-    "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+    "title": "Anthropic CEO denies supporting AI control as superintelligence looms",
     "link": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D7ZG87L__v1__MidRes__UsEconomyMarketsTechnologyAiAnthropic-1795654200_6aabb5-1795660770.jpg?resize=1200%2C630&quality=80",
     "date": 1795663223000,
-    "titleSl": "Generalni direktor podjetja Anthropic Amodei zanika, da bi želel, da človeštvo »preda« svobodno voljo umetni inteligenci"
+    "titleSl": "Generalni direktor podjetja Anthropic zanika, da podpira nadzor nad umetno inteligenco, medtem ko se obeta superinteligenca"
    },
    {
     "title": "FIFA turns to influencers to promote U17 World Cup",
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Bundestag: Julia Klöckner prüft Sanktionen nach Blockade von David Barnea",
+    "link": "https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-prueft-sanktionen-nach-blockade-von-david-barnea-a-c51e85d0-19f5-4fc9-8e09-1e10a697679e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/1042a951-c1d5-421e-89b5-54b3f25bc5ae_w520_r2.08_fpx59.99_fpy49.99.jpg",
+    "date": 1795673280000,
+    "titleSl": "Nemški zvezni parlament: Julia Klöckner preučuje sankcije po blokadi Davida Barneeja"
+   },
+   {
     "title": "Kretschmer kritisiert 35-Stunden-Woche als »riesigen Irrweg«",
     "link": "https://www.spiegel.de/wirtschaft/soziales/kretschmer-kritisiert-35-stunden-woche-als-riesigen-irrweg-a-d4577e94-5f05-401a-b644-bdec48855699#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/e48034bc-fb52-4270-aa9f-5b4495c9db33_w520_r2.08_fpx43.28_fpy54.96.jpg",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/f4b91a7f-eccf-43d2-8e41-af8d0b13e2aa_w520_r2.08_fpx34_fpy61.jpg",
     "date": 1795666080000,
     "titleSl": "Boris Pistorius: Ministrstvo ne črpa 14 milijard evrov iz mega proračuna"
-   },
-   {
-    "title": "Brad Pitt und Angelina Jolie beenden Streit um Weingut in Frankreich",
-    "link": "https://www.spiegel.de/panorama/leute/brad-pitt-und-angelina-jolie-beenden-streit-um-weingut-in-frankreich-a-adb359c7-72a9-43e0-9a3a-fd95e8c3f861#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/157854dc-0001-0004-0000-000001055116_w520_r2.08_fpx51_fpy43.jpg",
-    "date": 1795665960000,
-    "titleSl": "Brad Pitt in Angelina Jolie sta končala spor glede vinograda v Franciji"
    }
   ],
   "bild": [
@@ -1319,23 +1319,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T06:08:22.269Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-26T06:08:22.809Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-26T06:08:23.124Z",
+   "checkedAt": "2026-11-26T06:10:38.005Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T06:08:23.265Z",
+   "checkedAt": "2026-11-26T06:10:38.937Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-26T06:10:39.109Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-26T06:10:39.708Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T06:08:23.692Z",
+   "checkedAt": "2026-11-26T06:10:39.861Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-26T06:10:40.023Z",
    "success": true
   },
   "guardian": {
@@ -1343,43 +1347,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-26T06:08:25.757Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-26T06:08:25.837Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-26T06:08:25.910Z",
+   "checkedAt": "2026-11-26T06:10:40.041Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T06:08:37.715Z",
+   "checkedAt": "2026-11-26T06:10:40.199Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-26T06:10:41.938Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T06:08:38.179Z",
+   "checkedAt": "2026-11-26T06:10:42.466Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-26T06:08:38.487Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-26T06:08:39.549Z",
+   "checkedAt": "2026-11-26T06:10:42.795Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T06:08:40.331Z",
+   "checkedAt": "2026-11-26T06:10:43.425Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-26T06:08:40.836Z",
+   "checkedAt": "2026-11-26T06:10:43.771Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-26T06:10:44.370Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T06:08:44.823Z",
+   "checkedAt": "2026-11-26T06:10:44.519Z",
    "success": true
   }
  },
