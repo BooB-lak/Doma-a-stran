@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T01:04:33.883Z",
+ "generatedAt": "2026-11-26T01:06:33.776Z",
  "sources": {
   "siol": [
    {
@@ -373,6 +373,20 @@
   ],
   "reuters": [
    {
+    "title": "BOK raises base rate by 25 bps to 3.25% as expected",
+    "link": "https://www.reuters.com/world/bok-raises-base-rate-by-25-bps-325-expected-2026-11-26/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H3DGXYDSENO2XACPTTL3OHORWM.jpg",
+    "date": 1795654684000,
+    "titleSl": "BOK je, kot je bilo pričakovati, zvišala osnovno obrestno mero za 25 bazičnih točk na 3,25 %"
+   },
+   {
+    "title": "No. 18 USC rallies, then holds on to edge South Carolina",
+    "link": "https://www.reuters.com/sports/basketball/no-18-usc-rallies-then-holds-edge-south-carolina--flm-2026-11-26/",
+    "image": "",
+    "date": 1795654396000,
+    "titleSl": "Ekipa USC, uvrščena na 18. mesto, se je prebila v vodstvo in nato premagala ekipo Južne Karoline."
+   },
+   {
     "title": "Reports: Padres sign World Series-winning reliever JoJo Romero",
     "link": "https://www.reuters.com/sports/reports-padres-sign-world-series-winning-reliever-jojo-romero--flm-2026-11-26/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ISAUVU7ZAJJCJMC42ACWV2YNQU.jpg",
@@ -441,20 +455,6 @@
     "image": "",
     "date": 1795650226000,
     "titleSl": "Avstralsko podjetje Flight Centre preiskuje kršitev varnosti podatkov v sistemu tretje osebe"
-   },
-   {
-    "title": "New Trump tariffs would likely increase sugar prices in the US",
-    "link": "https://www.reuters.com/business/new-trump-tariffs-would-likely-increase-sugar-prices-us-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TS2RUIVFHNNL7AR3AZVXTAMNRY.jpg",
-    "date": 1795650103000,
-    "titleSl": "Nove Trumpove carine bodo verjetno zvišale cene sladkorja v ZDA"
-   },
-   {
-    "title": "For Trump, doubling down on tariffs is about power, not popularity",
-    "link": "https://www.reuters.com/world/us/trump-doubling-down-tariffs-is-about-power-not-popularity-2026-11-25/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DC34N4PCH5IXPEU2CSRB4UIXGI.jpg",
-    "date": 1795650092000,
-    "titleSl": "Za Trumpa je zvišanje carin povezano z močjo, ne pa s priljubljenostjo."
    }
   ],
   "nyt": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T01:04:28.142Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-26T01:04:29.072Z",
+   "checkedAt": "2026-11-26T01:06:25.374Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T01:04:29.127Z",
+   "checkedAt": "2026-11-26T01:06:25.924Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T01:04:29.378Z",
+   "checkedAt": "2026-11-26T01:06:26.433Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-26T01:06:26.571Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T01:04:29.797Z",
+   "checkedAt": "2026-11-26T01:06:27.039Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-26T01:06:27.391Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T01:04:29.999Z",
+   "checkedAt": "2026-11-26T01:06:27.483Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T01:04:30.191Z",
+   "checkedAt": "2026-11-26T01:06:27.561Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T01:04:30.247Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T01:04:32.002Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T01:04:32.162Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-26T01:04:32.259Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T01:04:32.382Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-26T01:04:32.496Z",
+   "checkedAt": "2026-11-26T01:06:31.096Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T01:04:32.969Z",
+   "checkedAt": "2026-11-26T01:06:31.843Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-26T01:06:32.109Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T01:06:32.489Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T01:06:32.533Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-26T01:06:32.877Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T01:04:33.882Z",
+   "checkedAt": "2026-11-26T01:06:33.775Z",
    "success": true
   }
  },
