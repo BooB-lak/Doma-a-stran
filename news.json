@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T09:24:29.580Z",
+ "generatedAt": "2026-11-26T09:26:28.404Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Na Hrvaškem zaradi dežja, snega in močnega vetra težave v prometu",
+    "link": "https://www.rtvslo.si/svet/evropa/na-hrvaskem-zaradi-dezja-snega-in-mocnega-vetra-tezave-v-prometu/801332",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/03/26/67030305.jpg",
+    "date": 1795684563000
+   },
+   {
     "title": "Slovito newyorško parado ob zahvalnem dnevu prvič preložili zaradi vremena",
     "link": "https://www.rtvslo.si/zabava-in-slog/zanimivosti/slovito-newyorsko-parado-ob-zahvalnem-dnevu-prvic-prelozili-zaradi-vremena/801321",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/26/67125094.jpg",
@@ -214,12 +220,6 @@
     "title": "Sneg se oprijema vozišča, zgodilo se je več nesreč. Težave tudi zaradi zdrsov tovornih vozil.",
     "link": "https://www.rtvslo.si/okolje/vreme/sneg-se-oprijema-vozisca-zgodilo-se-je-vec-nesrec-tezave-tudi-zaradi-zdrsov-tovornih-vozil/801312",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/26/67125075.jpg",
-    "date": 1795674418000
-   },
-   {
-    "title": "Sneg se oprijema vozišča, zgodilo se je več nesreč. Zaprti primorska in dolenjska avtocesta.",
-    "link": "https://www.rtvslo.si/okolje/vreme/sneg-se-oprijema-vozisca-zgodilo-se-je-vec-nesrec-zaprti-primorska-in-dolenjska-avtocesta/801312",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/26/67125040.jpg",
     "date": 1795674418000
    }
   ],
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T09:24:23.926Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-26T09:24:24.443Z",
+   "checkedAt": "2026-11-26T09:26:24.879Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T09:24:24.539Z",
+   "checkedAt": "2026-11-26T09:26:25.616Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-26T09:26:25.997Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T09:24:24.841Z",
+   "checkedAt": "2026-11-26T09:26:26.313Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T09:24:25.136Z",
+   "checkedAt": "2026-11-26T09:26:26.390Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "bbc": {
+   "checkedAt": "2026-11-26T09:26:26.729Z",
+   "success": true
+  },
   "aljazeera": {
-   "checkedAt": "2026-11-26T09:24:25.429Z",
+   "checkedAt": "2026-11-26T09:26:26.789Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T09:24:25.495Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T09:24:25.606Z",
+   "checkedAt": "2026-11-26T09:26:26.874Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T09:24:25.831Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-26T09:24:26.352Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T09:24:26.413Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-26T09:24:26.892Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T09:24:28.419Z",
+   "checkedAt": "2026-11-26T09:26:27.015Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T09:24:29.509Z",
+   "checkedAt": "2026-11-26T09:26:27.605Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T09:26:28.049Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-26T09:26:28.080Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T09:26:28.097Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-26T09:26:28.203Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T09:24:29.579Z",
+   "checkedAt": "2026-11-26T09:26:28.403Z",
    "success": true
   }
  },
