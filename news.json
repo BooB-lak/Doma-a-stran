@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:50:46.486Z",
+ "generatedAt": "2026-11-26T10:52:30.829Z",
  "sources": {
   "siol": [
    {
@@ -975,6 +975,20 @@
   ],
   "krone": [
    {
+    "title": "Plan für 2027 steht - So teilen sich der ORF und ServusTV F1-Rennen auf",
+    "link": "https://www.krone.at/4391073",
+    "image": "https://imgl.krone.at/scaled/2186924/vc7526c/full.jpg",
+    "date": 1795690300000,
+    "titleSl": "Načrt za leto 2027 je pripravljen – tako si bosta ORF in ServusTV razdelila dirke F1"
+   },
+   {
+    "title": "Täter unbekannt - Melderegister von Dänemark erneut gehackt",
+    "link": "https://www.krone.at/4391083",
+    "image": "https://imgl.krone.at/scaled/4262467/v67f9ef/full.jpg",
+    "date": 1795690247000,
+    "titleSl": "Storilec neznan – ponovno vdori v danski register prebivalstva"
+   },
+   {
     "title": "Die Situation in Tirol - Winterchaos: Sperren und Unfälle, Flüge umgeleitet",
     "link": "https://www.krone.at/4390627",
     "image": "https://imgl.krone.at/scaled/4390981/v4f3f66/full.jpg",
@@ -1043,20 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4389854/v5e7b32/full.jpg",
     "date": 1795689210000,
     "titleSl": "Popusti v ospredju – kako je črni petek spremenil božično nakupovanje"
-   },
-   {
-    "title": "Haas legt sich fest - Entscheidung um letztes Formel-1-Cockpit gefallen",
-    "link": "https://www.krone.at/4390894",
-    "image": "https://imgl.krone.at/scaled/4390901/v9f9845/full.jpg",
-    "date": 1795689141000,
-    "titleSl": "Haas se je odločil – padla je odločitev o zadnjem sedežu v Formuli 1"
-   },
-   {
-    "title": "Finanzprobleme - Italien versteigert rund 32.000 Käselaibe",
-    "link": "https://www.krone.at/4390803",
-    "image": "https://imgl.krone.at/scaled/4390853/vf4a6f6/full.jpg",
-    "date": 1795689057000,
-    "titleSl": "Finančne težave – Italija draži približno 32.000 hlebov sira"
    }
   ],
   "rainews": [
@@ -1320,31 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T10:50:38.030Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-26T10:50:38.614Z",
+   "checkedAt": "2026-11-26T10:52:22.710Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T10:50:38.648Z",
+   "checkedAt": "2026-11-26T10:52:23.517Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T10:50:39.017Z",
+   "checkedAt": "2026-11-26T10:52:23.679Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-26T10:52:23.917Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T10:50:39.448Z",
+   "checkedAt": "2026-11-26T10:52:24.271Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T10:50:39.725Z",
+   "checkedAt": "2026-11-26T10:52:24.743Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-26T10:50:39.754Z",
+   "checkedAt": "2026-11-26T10:52:24.751Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1352,35 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-26T10:50:39.835Z",
+   "checkedAt": "2026-11-26T10:52:24.891Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T10:50:40.212Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-26T10:50:40.518Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T10:50:40.814Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T10:50:40.833Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-26T10:50:42.427Z",
+   "checkedAt": "2026-11-26T10:52:24.977Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T10:50:45.193Z",
+   "checkedAt": "2026-11-26T10:52:25.535Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-26T10:52:25.599Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T10:52:25.941Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T10:52:26.143Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-26T10:52:30.659Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T10:50:46.485Z",
+   "checkedAt": "2026-11-26T10:52:30.829Z",
    "success": true
   }
  },
