@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T06:14:27.338Z",
+ "generatedAt": "2026-11-26T06:16:30.034Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,12 @@
   ],
   "24ur": [
    {
+    "title": "Padavine se krepijo, v večjem delu države sneži",
+    "link": "https://www.24ur.com/novice/slovenija/padavine-se-krepijo-dez-bo-prehajal-v-sneg.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/316ccb48c714549a1846_63685239.jpg?v=8652&fop=fp:0.48:0.32",
+    "date": 1795673750000
+   },
+   {
     "title": "Nekoč prvi strelec Celja, danes veliki rival Ferencvaroša",
     "link": "https://www.24ur.com/sport/nogomet/aljosa-matko-budimpesta.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/3d37b8493c7e7cf6869a_63685117.png?v=2925&fop=fp:0.60:0.29",
@@ -93,12 +99,6 @@
     "link": "https://www.24ur.com/novice/slovenija-odloca/se-zadnji-dan-predcasnega-glasovanja-pred-drugim-krogom.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/a586cccb67be5efa193e_63679743.jpg?v=d89e&fop=fp:0.68:0.55",
     "date": 1795671637000
-   },
-   {
-    "title": "Padavine se krepijo, dež ponekod prehaja v sneg",
-    "link": "https://www.24ur.com/novice/slovenija/padavine-se-krepijo-dez-bo-prehajal-v-sneg.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/316ccb48c714549a1846_63685239.jpg?v=8652&fop=fp:0.48:0.32",
-    "date": 1795671197000
    },
    {
     "title": "Interventni zakon: kdo govori resnico in kdo zavaja?",
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "35-Jähriger verletzt - Arbeiter erlitt Stromschlag an einer Holzpresse",
+    "link": "https://www.krone.at/4390522",
+    "image": "https://imgl.krone.at/scaled/4382573/v753bc2/full.jpg",
+    "date": 1795673705000,
+    "titleSl": "35-letnik poškodovan – delavca je na lesni stiskalnici यूजil električni udar"
+   },
+   {
     "title": "Schumacher überzeugt: - „Lewis Hamilton will Leclerc mental kaputtmachen“",
     "link": "https://www.krone.at/4390553",
     "image": "https://imgl.krone.at/scaled/4364409/v519c3a/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4390547/v6bf770/full.jpg",
     "date": 1795671808000,
     "titleSl": "Srečanje v Mar-a-Lagu – Trump in Rutte: Kremelj naj ne »razširi« vojne"
-   },
-   {
-    "title": "Causa Musiala - „Absolutes No-Go“: Kimmich rechnet mit Bayern ab",
-    "link": "https://www.krone.at/4390533",
-    "image": "https://imgl.krone.at/scaled/4370069/v65412f/full.jpg",
-    "date": 1795671619000,
-    "titleSl": "Primer Musiala – »Popolnoma nesprejemljivo«: Kimmich obračuna z Bayernom"
    }
   ],
   "rainews": [
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T06:14:22.098Z",
+   "checkedAt": "2026-11-26T06:16:22.807Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T06:14:22.684Z",
+   "checkedAt": "2026-11-26T06:16:23.692Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T06:14:23.057Z",
+   "checkedAt": "2026-11-26T06:16:24.198Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T06:14:23.423Z",
+   "checkedAt": "2026-11-26T06:16:24.451Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T06:14:23.879Z",
+   "checkedAt": "2026-11-26T06:16:24.801Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T06:14:24.120Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T06:14:24.155Z",
+   "checkedAt": "2026-11-26T06:16:25.036Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T06:14:24.186Z",
+   "checkedAt": "2026-11-26T06:16:25.157Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-26T06:16:25.164Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T06:14:24.485Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-26T06:14:24.826Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T06:14:25.418Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T06:14:25.419Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-26T06:14:25.614Z",
+   "checkedAt": "2026-11-26T06:16:25.280Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T06:14:27.175Z",
+   "checkedAt": "2026-11-26T06:16:26.156Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T06:16:26.193Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-26T06:16:26.318Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T06:16:26.446Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-26T06:16:29.825Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T06:14:27.337Z",
+   "checkedAt": "2026-11-26T06:16:30.033Z",
    "success": true
   }
  },
