@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:56:29.492Z",
+ "generatedAt": "2026-11-26T10:58:31.079Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+    "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+    "date": 1795690454000,
+    "titleSl": "Neto migracije v Združeno kraljestvo so padle na najnižjo raven po letu 1997, če ne upoštevamo obdobja pandemije."
+   },
+   {
     "title": "‘Pumpkin Pie Is Disgusting’ and Other Unpopular Opinions",
     "link": "https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html",
     "image": "",
@@ -534,13 +541,6 @@
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-andy-taylor/25xp-andy-taylor-mediumSquareAt3X.jpg",
     "date": 1795683193000,
     "titleSl": "Andy Taylor, »električni« kitarist skupine Duran Duran, je umrl v starosti 65 let"
-   },
-   {
-    "title": "The Unbearable Heat of Delhi’s Summer Nights",
-    "link": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/INDIA-WARM-NIGHTS-01-hqfc/INDIA-WARM-NIGHTS-01-hqfc-mediumSquareAt3X.jpg",
-    "date": 1795682853000,
-    "titleSl": "Nevzdržna vročina delhijskih poletnih noči"
    }
   ],
   "bbc": [
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Radio-Krieg gegen Putins Soldaten - Schlechte-Laune-Sender soll Russen brechen",
+    "link": "https://www.bild.de/politik/ausland-und-internationales/ukraine-radio-fuer-russische-soldaten-verbreitet-gezielt-schlechte-laune-6b07f1011d0c4f9ebad702f4",
+    "image": "https://images.bild.de/6b07f1011d0c4f9ebad702f4/2fd0c74b5e134e1e4f01f1954253f3c7,ec67f4d9?w=1280",
+    "date": 1795690542000,
+    "titleSl": "Radio proti Putinovim vojakom – Postaja s slabim razpoloženjem naj bi zlomila Ruse"
+   },
+   {
     "title": "Sitzblockade bei Ex-Mossad-Chef im Bundestag - Klöckner will linke Krawall-Abgeordnete bestrafen",
     "link": "https://www.bild.de/politik/ausland-und-internationales/sitzblockade-im-bundestag-kloeckner-will-linke-krawall-abgeordnete-bestrafen-6b07f2e27af5dee5d20ac46f",
     "image": "https://images.bild.de/6b07f2e27af5dee5d20ac46f/e5b7a325d0fe329b6a6635dbeb4d1e36,36c634e6?w=1280",
@@ -964,16 +971,30 @@
     "image": "https://images.bild.de/6b0733980d5af5eba2d36716/c8902c3aa1414a17338f1c40790b3b1b,27236e8?w=1280",
     "date": 1795689984000,
     "titleSl": "Po zgodbi na Instagramu v plesni obleki – govorice o oddaji »Let's Dance«? Zdaj spregovori Katze"
-   },
-   {
-    "title": "Ihr „Winterwunder“ ist da - Deutscher Snowboard-Star im Baby-Glück",
-    "link": "https://www.bild.de/sport/mehr-sport/snowboarderin-im-baby-glueck-ramona-hofmeister-ist-mutter-geworden-6b08039c0307d967a6b52b8d",
-    "image": "https://images.bild.de/6b08039c0307d967a6b52b8d/53c1ec7c292c5a060cda82fcd553ca28,a8408166?w=1280",
-    "date": 1795689888000,
-    "titleSl": "Prišel je njen »zimski čudež« – nemška zvezdnica deskanja na snegu je srečna mamica"
    }
   ],
   "krone": [
+   {
+    "title": "Altkanzler geladen - Nehammer zu „Pilnacek-Tape“: „Fand es pietätlos“",
+    "link": "https://www.krone.at/4390856",
+    "image": "https://imgl.krone.at/scaled/4390857/v47451d/full.jpg",
+    "date": 1795690667000,
+    "titleSl": "Nekdanji kancler je bil povabljen – Nehammer o »posnetku Pilnacek«: »Zdelo se mi je nespoštljivo.«"
+   },
+   {
+    "title": "Großer Wintereinbruch - Jubel in Tirols Skigebieten, Chaos auf den Straßen",
+    "link": "https://www.krone.at/4390627",
+    "image": "https://imgl.krone.at/scaled/4390981/v4f3f66/full.jpg",
+    "date": 1795690662000,
+    "titleSl": "Velik vdor zime – veselje na tirolskih smučiščih, kaos na cestah"
+   },
+   {
+    "title": "Plan für 2027 steht - So teilen sich der ORF und ServusTV F1-Rennen auf",
+    "link": "https://www.krone.at/4391073",
+    "image": "https://imgl.krone.at/scaled/2186924/vc7526c/full.jpg",
+    "date": 1795690653000,
+    "titleSl": "Načrt za leto 2027 je pripravljen – tako si bosta ORF in ServusTV razdelila dirke F1"
+   },
    {
     "title": "Das ist der Grund - Der insolvente VSV beschäftigt jetzt die Justiz",
     "link": "https://www.krone.at/4389991",
@@ -996,25 +1017,11 @@
     "titleSl": "Nesreče in zastoji – sneženje na Koroškem povzroča prometne težave"
    },
    {
-    "title": "Plan für 2027 steht - So teilen sich der ORF und ServusTV F1-Rennen auf",
-    "link": "https://www.krone.at/4391073",
-    "image": "https://imgl.krone.at/scaled/2186924/vc7526c/full.jpg",
-    "date": 1795690300000,
-    "titleSl": "Načrt za leto 2027 je pripravljen – tako si bosta ORF in ServusTV razdelila dirke F1"
-   },
-   {
     "title": "Täter unbekannt - Melderegister von Dänemark erneut gehackt",
     "link": "https://www.krone.at/4391083",
     "image": "https://imgl.krone.at/scaled/4262467/v67f9ef/full.jpg",
     "date": 1795690247000,
     "titleSl": "Storilec neznan – ponovno vdori v danski register prebivalstva"
-   },
-   {
-    "title": "Die Situation in Tirol - Winterchaos: Sperren und Unfälle, Flüge umgeleitet",
-    "link": "https://www.krone.at/4390627",
-    "image": "https://imgl.krone.at/scaled/4390981/v4f3f66/full.jpg",
-    "date": 1795690140000,
-    "titleSl": "Razmere na Tirolskem – zimski kaos: zapore in nesreče, preusmerjeni leti"
    },
    {
     "title": "Coup mit Folgen - Huang-Comeback könnte für Trump zum Problem werden",
@@ -1043,13 +1050,6 @@
     "image": "https://imgl.krone.at/scaled/2852611/v8141d7/full.jpg",
     "date": 1795689858000,
     "titleSl": "Kibernetski napad – hekerji so pridobili dostop do podatkov Fife"
-   },
-   {
-    "title": "Altkanzler geladen - Nehammer zu „Pilnacek-Tape“: „Fand es pietätlos“",
-    "link": "https://www.krone.at/4390856",
-    "image": "https://imgl.krone.at/scaled/4390857/v47451d/full.jpg",
-    "date": 1795689670000,
-    "titleSl": "Nekdanji kancler je bil povabljen – Nehammer o »posnetku Pilnacek«: »Zdelo se mi je nespoštljivo.«"
    },
    {
     "title": "Schreck für Fußballer - „Alle hatten Angst!“ Flugzeug musste notlanden",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T10:56:24.294Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-26T10:56:25.229Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-26T10:56:25.457Z",
+   "checkedAt": "2026-11-26T10:58:23.231Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T10:56:25.571Z",
+   "checkedAt": "2026-11-26T10:58:24.158Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-26T10:58:24.356Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-26T10:58:24.415Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T10:56:26.209Z",
+   "checkedAt": "2026-11-26T10:58:24.958Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-26T10:56:26.292Z",
-   "success": true
-  },
   "aljazeera": {
-   "checkedAt": "2026-11-26T10:56:26.308Z",
+   "checkedAt": "2026-11-26T10:58:25.288Z",
    "success": true
   },
-  "nyt": {
-   "checkedAt": "2026-11-26T10:56:26.408Z",
+  "bbc": {
+   "checkedAt": "2026-11-26T10:58:25.411Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T10:56:26.544Z",
+   "checkedAt": "2026-11-26T10:58:25.563Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-26T10:56:27.262Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T10:56:27.506Z",
+  "nyt": {
+   "checkedAt": "2026-11-26T10:58:27.504Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T10:56:27.562Z",
+   "checkedAt": "2026-11-26T10:58:28.049Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T10:58:28.377Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-26T10:56:27.650Z",
+   "checkedAt": "2026-11-26T10:58:28.427Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-26T10:58:29.431Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T10:56:29.381Z",
+   "checkedAt": "2026-11-26T10:58:30.850Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T10:56:29.491Z",
+   "checkedAt": "2026-11-26T10:58:31.078Z",
    "success": true
   }
  },
