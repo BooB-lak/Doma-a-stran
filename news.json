@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T06:28:34.227Z",
+ "generatedAt": "2026-11-26T06:31:00.550Z",
  "sources": {
   "siol": [
    {
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "14 Wehren im Einsatz - Vier Verletzte bei Großbrand in Mehrparteienhaus",
+    "link": "https://www.krone.at/4390535",
+    "image": "https://imgl.krone.at/scaled/4390536/v89f3a3/full.jpg",
+    "date": 1795674544000,
+    "titleSl": "14 Gasilci na delu – Štirje poškodovani v velikem požaru v večstanovanjski hiši"
+   },
+   {
     "title": "Unfälle und Staus - Schneefall in Kärnten sorgt für Verkehrsprobleme",
     "link": "https://www.krone.at/4390558",
     "image": "https://imgl.krone.at/scaled/4390571/v016785/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4390035/v2396be/full.jpg",
     "date": 1795672852000,
     "titleSl": "Od decembra – spremembe v zdravstvenem varstvu"
-   },
-   {
-    "title": "Andere Schulen sauer - Nach Ausbaustopp: 35 Millionen für Grazer Schule",
-    "link": "https://www.krone.at/4388265",
-    "image": "https://imgl.krone.at/scaled/4109672/v8878d5/full.jpg",
-    "date": 1795672838000,
-    "titleSl": "Druge šole v Gradcu – Po prekinitvi gradnje: 35 milijonov za graško šolo"
    }
   ],
   "rainews": [
@@ -1320,27 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T06:28:23.516Z",
+   "checkedAt": "2026-11-26T06:30:54.454Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T06:28:24.276Z",
+   "checkedAt": "2026-11-26T06:30:54.934Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T06:28:24.966Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-26T06:28:25.000Z",
+   "checkedAt": "2026-11-26T06:30:55.422Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T06:28:25.209Z",
+   "checkedAt": "2026-11-26T06:30:55.539Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-26T06:30:55.754Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T06:28:25.475Z",
+   "checkedAt": "2026-11-26T06:30:56.062Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-26T06:30:56.141Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1352,35 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-26T06:28:25.547Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-26T06:28:25.609Z",
+   "checkedAt": "2026-11-26T06:30:56.275Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T06:28:25.876Z",
+   "checkedAt": "2026-11-26T06:30:56.291Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T06:28:26.465Z",
+   "checkedAt": "2026-11-26T06:30:56.923Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T06:28:26.495Z",
+   "checkedAt": "2026-11-26T06:30:57.166Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-26T06:28:26.700Z",
+   "checkedAt": "2026-11-26T06:30:57.480Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-26T06:28:28.758Z",
+   "checkedAt": "2026-11-26T06:30:57.587Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T06:28:34.107Z",
+   "checkedAt": "2026-11-26T06:31:00.326Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T06:28:34.226Z",
+   "checkedAt": "2026-11-26T06:31:00.549Z",
    "success": true
   }
  },
