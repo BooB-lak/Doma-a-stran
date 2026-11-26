@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T01:02:30.024Z",
+ "generatedAt": "2026-11-26T01:04:33.883Z",
  "sources": {
   "siol": [
    {
@@ -459,18 +459,18 @@
   ],
   "nyt": [
    {
+    "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
+    "link": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-andy-taylor/25xp-andy-taylor-mediumSquareAt3X.jpg",
+    "date": 1795654825000,
+    "titleSl": "Andy Taylor, »električni« kitarist skupine Duran Duran, je umrl v starosti 65 let"
+   },
+   {
     "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
     "link": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-trump-econ-zmgl/25dc-trump-econ-zmgl-mediumSquareAt3X.jpg",
     "date": 1795653337000,
     "titleSl": "Trump se je veselil zaradi rasti delnic družbe Nvidia na trgu. Veselje ni trajalo dolgo."
-   },
-   {
-    "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
-    "link": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-andy-taylor/25xp-andy-taylor-mediumSquareAt3X.jpg",
-    "date": 1795653156000,
-    "titleSl": "Andy Taylor, »električni« kitarist skupine Duran Duran, je umrl v starosti 65 let"
    },
    {
     "title": "Setting Up the Macy’s Thanksgiving Day Parade is Quite a Process. So Is Undoing it.",
@@ -544,6 +544,13 @@
    }
   ],
   "bbc": [
+   {
+    "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+    "link": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf9/live/612032a0-e933-11f1-9bc3-811961023815.png",
+    "date": 1795654891000,
+    "titleSl": "Britanski časopisi: Šestdnevni niz je »podrl« svetovni temperaturni rekord in »Gordovo hitrost«"
+   },
    {
     "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
     "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg",
     "date": 1795649130000,
     "titleSl": "»Vse se sklada« – Isak vrača zaupanje Liverpoolu"
-   },
-   {
-    "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/dffcada0-e920-11f1-99a1-253766e7ad8b.jpg",
-    "date": 1795645971000,
-    "titleSl": "Lammensova napaka je Manchester Unitedu preprečila zmago proti Sportingu v tekmi, polni incidentov"
    }
   ],
   "aljazeera": [
@@ -892,7 +892,7 @@
     "title": "Nach fast fünf Jahren - Brangelina beenden Zoff ums Weingut",
     "link": "https://www.bild.de/unterhaltung/brad-pitt-und-angelina-jolie-einigen-sich-im-weingut-streit-6b077b70c75e09cb88d164b7",
     "image": "https://images.bild.de/6b077b70c75e09cb88d164b7/0d25514900889b6acfe1a5439b1818ee,68c7290e?w=1280",
-    "date": 1795654527000,
+    "date": 1795654903000,
     "titleSl": "Po skoraj petih letih – Brangelina končata spor glede vinograda"
    },
    {
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T01:02:26.415Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-26T01:02:26.947Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-26T01:02:27.065Z",
+   "checkedAt": "2026-11-26T01:04:28.142Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T01:02:27.867Z",
+   "checkedAt": "2026-11-26T01:04:29.072Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-26T01:04:29.127Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-26T01:04:29.378Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T01:02:28.128Z",
+   "checkedAt": "2026-11-26T01:04:29.797Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T01:02:28.464Z",
+   "checkedAt": "2026-11-26T01:04:29.999Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T01:02:28.508Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T01:02:28.553Z",
+   "checkedAt": "2026-11-26T01:04:30.191Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T01:02:28.857Z",
+   "checkedAt": "2026-11-26T01:04:30.247Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-26T01:02:29.239Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-26T01:02:29.387Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-26T01:02:29.437Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T01:02:29.731Z",
+  "bbc": {
+   "checkedAt": "2026-11-26T01:04:32.002Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-26T01:02:29.854Z",
+   "checkedAt": "2026-11-26T01:04:32.162Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-26T01:04:32.259Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T01:04:32.382Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-26T01:04:32.496Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-26T01:04:32.969Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T01:02:30.023Z",
+   "checkedAt": "2026-11-26T01:04:33.882Z",
    "success": true
   }
  },
