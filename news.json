@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:40:48.332Z",
+ "generatedAt": "2026-11-26T10:42:30.295Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Lažni napad v Črnomlju: Prste naj bi imela vmes tudi Rončevićeva desna roka iz SDS",
+    "link": "https://www.zurnal24.si/slovenija/lazni-napad-v-crnomlju-prste-naj-bi-imela-vmes-tudi-ronceviceva-desna-roka-iz-sds-468813",
+    "image": "https://www.zurnal24.si/media/img/62/a9/7963a1dc58df13de3937.png",
+    "date": 1795689600000
+   },
+   {
     "title": "Superzvezdnik zakuhal veliko afero in šokantno dobil odpoved",
     "link": "https://www.zurnal24.si/sport/superzvezdnik-aaron-rodgers-zakuhal-veliko-afero-in-sokantno-dobil-odpoved-mike-mccarthy-pittsburgh-steelers-nfl-468812",
     "image": "https://www.zurnal24.si/media/img/e1/45/a10fb90c38ec76666277.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/po-10-letih-koncno-konec-ene-najvecjih-locitvenih-vojn-468796",
     "image": "https://www.zurnal24.si/media/img/04/6f/b2c37a13f580b9804b17.jpeg",
     "date": 1795678560000
-   },
-   {
-    "title": "Zaradi snega prometni kolaps: Nesreče in zdrsi ovirajo promet",
-    "link": "https://www.zurnal24.si/slovenija/prometni-kolaps-zaprta-primorska-avtocesta-nesrece-na-drugih-468795",
-    "image": "https://www.zurnal24.si/media/img/df/41/f0aa38fe4f2916688ad0.jpeg",
-    "date": 1795677900000
    }
   ],
   "hop": [
@@ -975,10 +975,17 @@
   ],
   "krone": [
    {
+    "title": "Altkanzler geladen - Nehammer zu „Pilnacek-Tape“: „Fand es pietätlos“",
+    "link": "https://www.krone.at/4390856",
+    "image": "https://imgl.krone.at/scaled/4390857/v47451d/full.jpg",
+    "date": 1795689670000,
+    "titleSl": "Nekdanji kancler je bil povabljen – Nehammer o »posnetku Pilnacek«: »Zdelo se mi je nespoštljivo.«"
+   },
+   {
     "title": "Coup mit Folgen - Huang-Comeback könnte für Trump zum Problem werden",
     "link": "https://www.krone.at/4390816",
     "image": "https://imgl.krone.at/scaled/4388754/vaabf5b/full.jpg",
-    "date": 1795689581000,
+    "date": 1795689613000,
     "titleSl": "Državni udar s posledicami – Huangova vrnitev bi lahko postala težava za Trumpa"
    },
    {
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4386656/v2c6e1d/full.jpg",
     "date": 1795688806000,
     "titleSl": "Veselje do obdarovanja – inflacija zavira željo po nakupovanju božičnih daril"
-   },
-   {
-    "title": "Schnee ist schon da - Noch 100 Tage! Vorfreude auf Montafon-WM ist groß",
-    "link": "https://www.krone.at/4390817",
-    "image": "https://imgl.krone.at/scaled/3732830/v5aba52/full.jpg",
-    "date": 1795688759000,
-    "titleSl": "Sneg je že tu – še 100 dni! Veselje pred svetovnim prvenstvom v Montafonu je veliko"
    }
   ],
   "rainews": [
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T10:40:38.694Z",
+   "checkedAt": "2026-11-26T10:42:25.644Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T10:40:39.739Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-26T10:40:39.773Z",
+   "checkedAt": "2026-11-26T10:42:26.213Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T10:40:39.861Z",
+   "checkedAt": "2026-11-26T10:42:26.332Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-26T10:42:26.527Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T10:40:40.549Z",
+   "checkedAt": "2026-11-26T10:42:27.020Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T10:40:40.963Z",
+   "checkedAt": "2026-11-26T10:42:27.395Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-26T10:40:41.130Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-26T10:40:41.145Z",
+   "checkedAt": "2026-11-26T10:42:27.402Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T10:40:41.169Z",
+   "checkedAt": "2026-11-26T10:42:27.416Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-26T10:40:41.678Z",
+  "reuters": {
+   "checkedAt": "2026-11-26T10:42:27.708Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T10:40:41.882Z",
+   "checkedAt": "2026-11-26T10:42:28.137Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-26T10:42:28.170Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-26T10:40:42.022Z",
+   "checkedAt": "2026-11-26T10:42:28.188Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-26T10:40:42.174Z",
+   "checkedAt": "2026-11-26T10:42:28.371Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T10:40:45.748Z",
+   "checkedAt": "2026-11-26T10:42:30.208Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T10:40:48.331Z",
+   "checkedAt": "2026-11-26T10:42:30.294Z",
    "success": true
   }
  },
