@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-26T09:56:32.853Z",
+ "generatedAt": "2026-11-26T09:58:28.084Z",
  "sources": {
   "siol": [
+   {
+    "title": "Poplavni alarm v slovenski Istri: panika v Piranu, na terenu 60 gasilcev",
+    "link": "https://siol.net/novice/slovenija/poplavni-alarm-v-slovenski-istri-panika-v-piranu-na-terenu-60-gasilcev-707258",
+    "image": "https://siol.net/media/img/89/90/deb2edf7f9d21dec0eeb.jpeg",
+    "date": 1795687020000
+   },
    {
     "title": "Trgovci napovedujejo dosleden prenos nižjega DDV v cene osnovnih živil",
     "link": "https://siol.net/novice/slovenija/trgovci-napovedujejo-dosleden-prenos-nizjega-ddv-v-cene-osnovnih-zivil-707255",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/tenis/konec-upanja-za-drugega-tenisaca-sveta-707242",
     "image": "https://siol.net/media/img/f6/a1/081817d767ffa63c70b9.jpeg",
     "date": 1795681440000
-   },
-   {
-    "title": "Zala in Domen sta se po 13 letih zveze udeležila tečaja poročnega plesa",
-    "link": "https://siol.net/trendi/kulinarika/zala-in-domen-sta-se-po-13-letih-zveze-udelezila-tecaja-porocnega-plesa-706986",
-    "image": "https://siol.net/media/img/19/68/ddc8ceb6e89effcf38c5.jpeg",
-    "date": 1795680960000
    }
   ],
   "24ur": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Wir suchen Bilder! - Dichter Schneefall! Kinder jubeln, viele Einsätze",
+    "link": "https://www.krone.at/4389883",
+    "image": "https://imgl.krone.at/scaled/4390751/vfa45cb/full.jpg",
+    "date": 1795687049000,
+    "titleSl": "Iščemo fotografije! – Močno sneženje! Otroci navdušeno vzklikajo, veliko intervencij"
+   },
+   {
     "title": "Red Wings jubeln - Kasper gewinnt Österreicher-Duell gegen Rossi",
     "link": "https://www.krone.at/4390960",
     "image": "https://imgl.krone.at/scaled/4390965/v55fb73/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4390857/v47451d/full.jpg",
     "date": 1795686431000,
     "titleSl": "Nekdanji kancler je bil povabljen – Nehammer o »posnetku Pilnacek«: »Zdelo se mi je nespoštljivo.«"
-   },
-   {
-    "title": "Festwochen Gmunden - Jubiläum: Drei Nächte am See mit großen Open-Airs",
-    "link": "https://www.krone.at/4389427",
-    "image": "https://imgl.krone.at/scaled/4389441/v5dc0fb/full.jpg",
-    "date": 1795686330000,
-    "titleSl": "Festival Festwochen Gmunden – obletnica: tri noči ob jezeru z velikimi prireditvami na prostem"
    }
   ],
   "rainews": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T09:56:23.543Z",
+   "checkedAt": "2026-11-26T09:58:22.877Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T09:56:24.387Z",
+   "checkedAt": "2026-11-26T09:58:23.725Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T09:56:24.676Z",
+   "checkedAt": "2026-11-26T09:58:23.878Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T09:56:24.855Z",
+   "checkedAt": "2026-11-26T09:58:24.143Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T09:56:25.111Z",
+   "checkedAt": "2026-11-26T09:58:24.490Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-26T09:58:24.891Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-26T09:56:25.537Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-26T09:56:25.548Z",
+   "checkedAt": "2026-11-26T09:58:24.986Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T09:56:25.667Z",
+   "checkedAt": "2026-11-26T09:58:25.031Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T09:56:25.697Z",
+   "checkedAt": "2026-11-26T09:58:25.081Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T09:56:26.523Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T09:56:26.789Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T09:56:28.648Z",
+   "checkedAt": "2026-11-26T09:58:25.637Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T09:56:29.747Z",
+   "checkedAt": "2026-11-26T09:58:25.684Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T09:58:25.991Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T09:58:26.091Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T09:56:31.309Z",
+   "checkedAt": "2026-11-26T09:58:27.883Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T09:56:32.852Z",
+   "checkedAt": "2026-11-26T09:58:28.084Z",
    "success": true
   }
  },
