@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T02:34:34.199Z",
+ "generatedAt": "2026-11-26T02:36:31.156Z",
  "sources": {
   "siol": [
    {
@@ -373,6 +373,20 @@
   ],
   "reuters": [
    {
+    "title": "Jayden Reid scores 32 as No. 24 Memphis downs Penn State",
+    "link": "https://www.reuters.com/sports/basketball/jayden-reid-scores-32-no-24-memphis-downs-penn-state--flm-2026-11-26/",
+    "image": "",
+    "date": 1795660148000,
+    "titleSl": "Jayden Reid je dosegel 32 točk, ko je ekipa No. 24 Memphis premagala ekipo Penn State"
+   },
+   {
+    "title": "Situational Awareness lost 65% after fees in third quarter, WSJ reports",
+    "link": "https://www.reuters.com/legal/transactional/situational-awareness-lost-65-after-fees-third-quarter-wsj-reports-2026-11-26/",
+    "image": "",
+    "date": 1795659522000,
+    "titleSl": "Po poročanju WSJ je družba Situational Awareness v tretjem četrtletju izgubila 65 % po odbitku provizij."
+   },
+   {
     "title": "Wisconsin rolls past Northeastern behind balanced attack",
     "link": "https://www.reuters.com/sports/basketball/wisconsin-rolls-past-northeastern-behind-balanced-attack--flm-2026-11-26/",
     "image": "",
@@ -441,20 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XRDUKX2ZG5JH7BAHMJ33SQVCBE.jpg",
     "date": 1795655995000,
     "titleSl": "Poročila: Tigers so z desnim metalcem Kevinom Gausmanom podpisali enoletno pogodbo v vrednosti 25 milijonov USD"
-   },
-   {
-    "title": "No. 19 BYU edges Providence to claim third at Maui",
-    "link": "https://www.reuters.com/sports/basketball/no-19-byu-edges-providence-claim-third-maui--flm-2026-11-26/",
-    "image": "",
-    "date": 1795655843000,
-    "titleSl": "Št. 19 BYU premaga Providence in osvoji tretje mesto na turnirju Maui"
-   },
-   {
-    "title": "Indian farmers sell paddy stubble to biomass firms, reduce burning",
-    "link": "https://www.reuters.com/business/environment/indian-farmers-sell-paddy-stubble-biomass-firms-reduce-burning-2026-11-26/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LW3QF3D3B5LOZADKWMUCTFO6KM.jpg",
-    "date": 1795655100000,
-    "titleSl": "Indijski kmetje prodajajo slamo riža podjetjem za proizvodnjo biomase in tako zmanjšujejo požiganje"
    }
   ],
   "nyt": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T02:34:28.797Z",
+   "checkedAt": "2026-11-26T02:36:23.780Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T02:34:29.639Z",
+   "checkedAt": "2026-11-26T02:36:24.659Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T02:34:29.657Z",
+   "checkedAt": "2026-11-26T02:36:24.688Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T02:34:30.073Z",
+   "checkedAt": "2026-11-26T02:36:25.384Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T02:34:30.172Z",
+   "checkedAt": "2026-11-26T02:36:25.855Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-26T02:36:26.203Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T02:34:30.312Z",
+   "checkedAt": "2026-11-26T02:36:26.273Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T02:34:30.416Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T02:34:30.502Z",
+   "checkedAt": "2026-11-26T02:36:26.405Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T02:34:30.592Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-26T02:34:30.699Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T02:34:30.809Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T02:34:30.909Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-26T02:34:31.082Z",
+   "checkedAt": "2026-11-26T02:36:29.736Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T02:34:31.752Z",
+   "checkedAt": "2026-11-26T02:36:30.182Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-26T02:36:30.268Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-26T02:36:30.388Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T02:36:30.686Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T02:36:30.747Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T02:34:34.198Z",
+   "checkedAt": "2026-11-26T02:36:31.155Z",
    "success": true
   }
  },
