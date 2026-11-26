@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-26T09:52:28.228Z",
+ "generatedAt": "2026-11-26T09:54:35.084Z",
  "sources": {
   "siol": [
+   {
+    "title": "Trgovci napovedujejo dosleden prenos nižjega DDV v cene osnovnih živil",
+    "link": "https://siol.net/novice/slovenija/trgovci-napovedujejo-dosleden-prenos-nizjega-ddv-v-cene-osnovnih-zivil-707255",
+    "image": "https://siol.net/media/img/69/8e/525d23d6ea6de8b74eb2.jpeg",
+    "date": 1795686780000
+   },
    {
     "title": "Umrla je Veruschka, ena prvih supermanekenk na svetu",
     "link": "https://siol.net/trendi/moda-in-lepota/umrla-je-veruschka-ena-prvih-supermanekenk-na-svetu-707251",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/trendi/kulinarika/zala-in-domen-sta-se-po-13-letih-zveze-udelezila-tecaja-porocnega-plesa-706986",
     "image": "https://siol.net/media/img/19/68/ddc8ceb6e89effcf38c5.jpeg",
     "date": 1795680960000
-   },
-   {
-    "title": "Pogrešajo devetnajstletnico iz Grosuplja",
-    "link": "https://siol.net/novice/slovenija/pogresajo-devetnajstletnico-iz-grosuplja-707240",
-    "image": "https://siol.net/media/img/8a/2d/91dfeab5dd82cab0fd22.jpeg",
-    "date": 1795680420000
    }
   ],
   "24ur": [
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
+    "link": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T025517Z_1582279526_RC2NUOADQ0AE_RTRMADP_3_SPACE-EXPLORATION-CHINA-PAKISTAN-1795680433.jpg?resize=1920%2C1440",
+    "date": 1795686059000,
+    "titleSl": "Iqbal v vesolju: Verzi urdujskega pesnika združujejo Indijo in Pakistan onkraj Zemlje"
+   },
+   {
     "title": "Explosion rocks Bangkok oil depot",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-09.27.25-1795685334.png?resize=1200%2C675",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-07.11.22-1795677182.png?resize=1200%2C675",
     "date": 1795677339000,
     "titleSl": "Francoska mornarica je prestregla polpotopno plovilo, osumljeno tihotapljenja drog"
-   },
-   {
-    "title": "War and drought threaten livelihoods of Sudan’s farmers",
-    "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A9026-1795643333.jpg?resize=1920%2C1440",
-    "date": 1795676194000,
-    "titleSl": "Vojna in suša ogrožata preživetje sudanskih kmetov"
    }
   ],
   "guardian": [
@@ -889,10 +889,24 @@
   ],
   "bild": [
    {
+    "title": "Frau (70) verletzt - Mann rast bei Flucht vor Polizei in Bushaltestelle",
+    "link": "https://www.bild.de/news/hamburg-mann-rast-bei-flucht-vor-polizei-in-bushaltestelle-6b07e4fcc75e09cb88d16883",
+    "image": "https://images.bild.de/6b07e4fcc75e09cb88d16883/e3ac0f81498a2df52f1b189d2785f879,a7205721?w=1280",
+    "date": 1795686717000,
+    "titleSl": "Poškodovana ženska (70) – moški je med begom pred policijo zapeljal na avtobusno postajališče"
+   },
+   {
+    "title": "Zwei Brüder übernehmen - Mattuschka-Klub feuert Trainer",
+    "link": "https://www.bild.de/sport/fussball/regionalliga-vsg-altglienicke-twardzik-geht-zwei-brueder-uebernehmen-6b07febc1d0c4f9ebad704c4",
+    "image": "https://images.bild.de/6b07febc1d0c4f9ebad704c4/96ee5d56e47c0adea4f696120837cbe2,1332e9fe?w=1280",
+    "date": 1795686699000,
+    "titleSl": "Dva brata prevzameta vodenje – klub Mattuschka odpusti trenerja"
+   },
+   {
     "title": "Sitzblockade bei Ex-Mossad-Chef im Bundestag - Klöckner will linke Krawall-Abgeordnete bestrafen",
     "link": "https://www.bild.de/politik/ausland-und-internationales/sitzblockade-im-bundestag-kloeckner-will-linke-krawall-abgeordnete-bestrafen-6b07f2e27af5dee5d20ac46f",
     "image": "https://images.bild.de/6b07f2e27af5dee5d20ac46f/e5b7a325d0fe329b6a6635dbeb4d1e36,36c634e6?w=1280",
-    "date": 1795686511000,
+    "date": 1795686626000,
     "titleSl": "Sedeča blokada pri nekdanjem vodji Mosada v nemškem zveznem parlamentu – Klöcknerjeva želi kaznovati levičarske poslance, ki so povzročili izgrede"
    },
    {
@@ -957,23 +971,51 @@
     "image": "https://images.bild.de/6b07cf36c75e09cb88d166c0/20d018ac5e3d7841c2d6b087f1853b18-landscape,6ba661f5?w=1280",
     "date": 1795685738000,
     "titleSl": "Po kritiki Kimmicha ponoči – največja nevarnost za Bayern v zadnjih letih!"
-   },
-   {
-    "title": "Bis zu 10.000 Euro weniger für Sanierungen - Regierung kürzt Förderung für Hausbesitzer",
-    "link": "https://www.bild.de/politik/inland/foerderung-fuer-hausbesitzer-bis-zu-10-000-euro-weniger-fuer-sanierungen-6b06f9645b0e340c047acc86",
-    "image": "https://images.bild.de/6b06f9645b0e340c047acc86/08018ab42db9315dc3afaf31fc37c2f5,20ff7960?w=1280",
-    "date": 1795685705000,
-    "titleSl": "Do 10.000 EUR manj za obnove – vlada zmanjšuje subvencije za lastnike stanovanj"
-   },
-   {
-    "title": "Endlich geplante Nachrichten - WhatsApp erfüllt einen Nutzerwunsch",
-    "link": "https://www.bild.de/leben-wissen/digital/nachrichten-automatisch-versenden-whatsapp-arbeitet-an-neuem-feature-6ace04bd8776d79fbd9cb48c",
-    "image": "https://images.bild.de/6ace04bd8776d79fbd9cb48c/a3d7f7836ee7bf183fe4873701529474,8c1e7ca?w=1280",
-    "date": 1795685515000,
-    "titleSl": "Končno načrtovana sporočila – WhatsApp uresničuje želje uporabnikov"
    }
   ],
   "krone": [
+   {
+    "title": "Widrige Verhältnisse - Wiener Linienbus rutscht in Graben: Vier Verletzte",
+    "link": "https://www.krone.at/4390926",
+    "image": "https://imgl.krone.at/scaled/4390959/v8b5672/full.jpg",
+    "date": 1795686840000,
+    "titleSl": "Neugodne razmere – avtobus dunajskega prevoznika Wiener Linien je zdrsnil v jarek: štirje poškodovani"
+   },
+   {
+    "title": "A21 komplett gesperrt - Wintereinbruch: Lage „schlimmer als befürchtet“",
+    "link": "https://www.krone.at/4389403",
+    "image": "https://imgl.krone.at/scaled/4390808/v31e10f/full.jpg",
+    "date": 1795686832000,
+    "titleSl": "Avtocesta A21 je popolnoma zaprta – nenadni prihod zime: razmere so »slabše od pričakovanih«"
+   },
+   {
+    "title": "Keine Fortführung - Grazer „Cafe Mitte“ muss Konkurs anmelden",
+    "link": "https://www.krone.at/4390840",
+    "image": "https://imgl.krone.at/scaled/4390860/v35b5e9/full.jpg",
+    "date": 1795686829000,
+    "titleSl": "Brez nadaljevanja poslovanja – graška kavarna »Cafe Mitte« mora prijaviti stečaj"
+   },
+   {
+    "title": "Kindesmissbrauch - Heikle Ermittlungen: Top-Polizist suspendiert",
+    "link": "https://www.krone.at/4389763",
+    "image": "https://imgl.krone.at/scaled/4389628/v9e27ff/full.jpg",
+    "date": 1795686777000,
+    "titleSl": "Zloraba otrok – Občutljive preiskave: Vrhunski policist je suspendiran"
+   },
+   {
+    "title": "Geschäftsjahr 2025/26 - 2,4 Mio.: Mega-Verlust für Zweitligist St. Pölten!",
+    "link": "https://www.krone.at/4390949",
+    "image": "https://imgl.krone.at/scaled/4304419/va18c39/full.jpg",
+    "date": 1795686773000,
+    "titleSl": "Poslovno leto 2025/26 – 2,4 milijona: Ogromna izguba za drugoligaša St. Pölten!"
+   },
+   {
+    "title": "Die Situation in Tirol - Winterchaos: Sperren und Unfälle, Flüge umgeleitet",
+    "link": "https://www.krone.at/4390627",
+    "image": "https://imgl.krone.at/scaled/4390950/v2c95cb/full.jpg",
+    "date": 1795686627000,
+    "titleSl": "Razmere na Tirolskem – zimski kaos: zapore in nesreče, preusmerjeni leti"
+   },
    {
     "title": "Herausfordernde Kälte - Großbrand: „Mussten Leute von Straße wegbekommen“",
     "link": "https://www.krone.at/4390535",
@@ -1015,51 +1057,16 @@
     "image": "https://imgl.krone.at/scaled/4390901/v9f9845/full.jpg",
     "date": 1795686155000,
     "titleSl": "Ekipa Haas se je odločila – padla je odločitev o zadnjem sedežu v Formuli 1"
-   },
-   {
-    "title": "Rodgers muss gehen - Zoff eskaliert! Steelers feuern Star-Quarterback",
-    "link": "https://www.krone.at/4390519",
-    "image": "https://imgl.krone.at/scaled/4390520/v366480/full.jpg",
-    "date": 1795686086000,
-    "titleSl": "Rodgers mora oditi – prepir je prerasel v konflikt! Steelersi odpustijo zvezdniškega podajalca"
-   },
-   {
-    "title": "Jede Sekunde zählte - 60-Jähriger nach Herzstillstand wiederbelebt",
-    "link": "https://www.krone.at/4390886",
-    "image": "https://imgl.krone.at/scaled/4390908/v42c59d/full.jpg",
-    "date": 1795686042000,
-    "titleSl": "Vsaka sekunda je bila pomembna – 60-letnik je bil oživljen po srčnem zastoju"
-   },
-   {
-    "title": "Lob nach harter Kritik - CL-Gala: „Alles an seinem Tor war beeindruckend!“",
-    "link": "https://www.krone.at/4390892",
-    "image": "https://imgl.krone.at/scaled/4390903/v78967b/full.jpg",
-    "date": 1795685836000,
-    "titleSl": "Pohvala po ostrih kritikah – Gala večer Lige prvakov: »Vse pri njegovem golu je bilo impresivno!«"
-   },
-   {
-    "title": "Wir suchen Bilder! - Der erste Schnee! Die Steiermark im weißen Kleid",
-    "link": "https://www.krone.at/4389883",
-    "image": "https://imgl.krone.at/scaled/4390751/vfa45cb/full.jpg",
-    "date": 1795685834000,
-    "titleSl": "Iščemo fotografije! – Prvi sneg! Štajerska v beli obleki"
-   },
-   {
-    "title": "Zahlreiche Vorwürfe - Terrorpläne im Kinderzimmer: Teenie (15) angeklagt",
-    "link": "https://www.krone.at/4390832",
-    "image": "https://imgl.krone.at/scaled/4377989/vdf1010/full.jpg",
-    "date": 1795685578000,
-    "titleSl": "Številne obtožbe – Načrti za teroristične napade v otroški sobi: Najstnik (15 let) je obtožen"
-   },
-   {
-    "title": "Finanzprobleme - Italien versteigert rund 32.000 Laibe Parmesan",
-    "link": "https://www.krone.at/4390803",
-    "image": "https://imgl.krone.at/scaled/4390853/vf4a6f6/full.jpg",
-    "date": 1795685535000,
-    "titleSl": "Finančne težave – Italija draži približno 32.000 hlebov parmezana"
    }
   ],
   "rainews": [
+   {
+    "title": "Uccide la compagna, poi si dà fuoco e si getta dal viadotto: lo stesso cavalcavia di Lorena Isceri",
+    "link": "https://www.rainews.it/articoli/2026/11/uccide-compagna-poi-si-getta-da-viadotto-lo-stesso-cavalcavia-di-lorena-isceri-viadotto-toscana-femminicidio-e61edcf9-be1c-4c7e-a3d9-801896d7f5e3.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/26/1795686531952_bccddecdbba.jpg",
+    "date": 1795685940000,
+    "titleSl": "Ubil je partnerko, nato pa se je polil z bencinom in se vrgel z nadvoza: gre za isti nadvoz, s katerega je skočila Lorena Isceri."
+   },
    {
     "title": "Europa League.Alle 18,45 Olympiakos-Milan. La Juventus alle 21.00 in campo contro l&#x27;Omonia Nicosia",
     "link": "https://www.rainews.it/maratona/2026/11/calcio-europa-league-2026-2027-fase-campionato-giornata-5-milan-olympiacos-omonia-nicosia-juventus-news-aggiornamenti-diretta-radio-sport-1-cronaca-testuale-08e10efe-549e-4963-ad1b-778324052559.html",
@@ -1136,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/26/1795679669225_neve.PNG",
     "date": 1795679520000,
     "titleSl": "San Vito di Cadore, kraj, prekrit s debelo plastjo snega: videoposnetek z drona"
-   },
-   {
-    "title": "Caso Orlandi, una cassetta con la voce del telefonista ritrovata a casa dello zio di Emanuela",
-    "link": "https://www.rainews.it/articoli/2026/11/caso-orlandi-spunta-cassetta-con-la-voce-del-telefonista-nastro-ritrovato-nella-cantina-dello-zio-7d81283e-78ed-40b7-9667-5156dbbdc8e0.html",
-    "image": "https://www.rainews.it/dl/img/2025/01/27/1737994459909_rainewsfdbadcaffc.jpg",
-    "date": 1795678200000,
-    "titleSl": "Primer Orlandi: v hiši Emanuelinega strica so našli kaseto z glasom telefonskega operaterja"
    }
   ],
   "lemonde": [
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T09:52:24.159Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-26T09:52:24.866Z",
+   "checkedAt": "2026-11-26T09:54:22.818Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-26T09:52:25.130Z",
+   "checkedAt": "2026-11-26T09:54:23.286Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T09:52:25.170Z",
+   "checkedAt": "2026-11-26T09:54:23.541Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-26T09:54:23.683Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T09:52:25.454Z",
+   "checkedAt": "2026-11-26T09:54:24.034Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-26T09:52:25.533Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-26T09:52:25.540Z",
+   "checkedAt": "2026-11-26T09:54:24.335Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T09:52:25.619Z",
+   "checkedAt": "2026-11-26T09:54:24.347Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T09:52:25.849Z",
+   "checkedAt": "2026-11-26T09:54:24.724Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-26T09:52:25.968Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T09:52:25.990Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-26T09:52:26.285Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-26T09:54:26.038Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T09:52:26.354Z",
+   "checkedAt": "2026-11-26T09:54:26.504Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T09:54:26.655Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-26T09:52:28.133Z",
+   "checkedAt": "2026-11-26T09:54:28.425Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-26T09:54:29.029Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-26T09:54:34.971Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T09:52:28.228Z",
+   "checkedAt": "2026-11-26T09:54:35.083Z",
    "success": true
   }
  },
