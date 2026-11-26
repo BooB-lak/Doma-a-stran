@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:12:28.770Z",
+ "generatedAt": "2026-11-26T00:14:33.220Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "BBC launches partnership with Met Office for weather coverage",
+    "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b663/live/9be181d0-e90d-11f1-99a1-253766e7ad8b.jpg",
+    "date": 1795651957000,
+    "titleSl": "BBC začenja sodelovanje z meteorološkim uradom Met Office pri poročanju o vremenu"
+   },
+   {
     "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
     "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a2/live/0f7bb370-e749-11f1-88dc-f746e0cde621.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd6/live/0a4713c0-e903-11f1-a094-5fdc692f3e33.jpg",
     "date": 1795644422000,
     "titleSl": "Gordon je zablestel v udobni zmagi Barce nad Sabahom"
-   },
-   {
-    "title": "Poundland collapses putting 11,000 jobs at risk",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/1c109380-e906-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1795642270000,
-    "titleSl": "Padec podjetja Poundland ogroža 11.000 delovnih mest"
    }
   ],
   "aljazeera": [
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T00:12:22.339Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-26T00:12:22.987Z",
+   "checkedAt": "2026-11-26T00:14:25.685Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-26T00:12:23.016Z",
+   "checkedAt": "2026-11-26T00:14:26.488Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-26T00:12:23.312Z",
+   "checkedAt": "2026-11-26T00:14:26.766Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-26T00:14:26.857Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T00:12:23.825Z",
+   "checkedAt": "2026-11-26T00:14:27.500Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-26T00:12:24.170Z",
+   "checkedAt": "2026-11-26T00:14:27.818Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T00:12:24.188Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T00:12:24.350Z",
+   "checkedAt": "2026-11-26T00:14:27.932Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-26T00:12:24.549Z",
+   "checkedAt": "2026-11-26T00:14:28.048Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-26T00:12:25.067Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-26T00:12:25.069Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-26T00:12:25.354Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-26T00:12:25.540Z",
+  "bbc": {
+   "checkedAt": "2026-11-26T00:14:29.999Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-26T00:12:28.476Z",
+   "checkedAt": "2026-11-26T00:14:30.543Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-26T00:14:30.826Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T00:14:31.083Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T00:14:31.526Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-26T00:14:32.354Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T00:12:28.769Z",
+   "checkedAt": "2026-11-26T00:14:33.219Z",
    "success": true
   }
  },
