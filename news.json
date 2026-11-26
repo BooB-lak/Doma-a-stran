@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-26T08:01:14.723Z",
+ "generatedAt": "2026-11-26T08:02:35.032Z",
  "sources": {
   "siol": [
+   {
+    "title": "Replay s 30-odstotnim popustom tudi na že znižane izdelke",
+    "link": "https://siol.net/trendi/moda-in-lepota/replay-s-30-odstotnim-popustom-tudi-na-ze-znizane-izdelke-707194",
+    "image": "https://siol.net/media/img/bd/17/2a0bd1707e2238e5ac89.jpg",
+    "date": 1795680060000
+   },
    {
     "title": "Black Friday brez izjem: vse modne znamke 30 odstotkov ceneje, tudi že znižani izdelki",
     "link": "https://siol.net/trendi/moda-in-lepota/black-friday-brez-izjem-vse-modne-znamke-30-odstotkov-ceneje-tudi-ze-znizani-izdelki-707200",
@@ -66,12 +72,6 @@
     "title": "Po nesreči na avtocesti našli avtomobil, lastnika pa nikjer",
     "link": "https://siol.net/novice/slovenija/po-nesreci-na-avtocesti-nasli-avtomobil-lastnika-pa-nikjer-707231",
     "image": "https://siol.net/media/img/5c/8e/44ca0d682c89cb8e7a27.jpeg",
-    "date": 1795670340000
-   },
-   {
-    "title": "Zelena luč tudi v Italiji, Evropa bo o Teslinem sistemu glasovala šele decembra",
-    "link": "https://siol.net/avtomoto/novice/zelena-luc-tudi-v-italiji-evropa-bo-o-teslinem-sistemu-glasovala-sele-decembra-707230",
-    "image": "https://siol.net/media/img/04/98/c3b4fc4a9de21527253b.png",
     "date": 1795670340000
    }
   ],
@@ -631,6 +631,20 @@
   ],
   "aljazeera": [
    {
+    "title": "Photos: Rallies around the world denounce violence against women",
+    "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T195947Z_1495710070_RC23VOAABGEL_RTRMADP_3_BOLIVIA-WOMEN-PROTEST-1795671449.jpg?resize=1920%2C1440",
+    "date": 1795678994000,
+    "titleSl": "Fotografije: Shodi po vsem svetu obsojajo nasilje nad ženskami"
+   },
+   {
+    "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+    "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07cf6f-1795673967.jpg?resize=1920%2C1440",
+    "date": 1795678890000,
+    "titleSl": "Število primerov ebole v Demokratični republiki Kongo presega 12.000, saj spopadi ovirajo odziv na vzhodu države"
+   },
+   {
     "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
     "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KX2JG__v1__HighRes__IndonesiaMiningAccident-1795670340.jpg?resize=1920%2C1440",
@@ -699,20 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_4406-1795613384.jpg?resize=1920%2C1440",
     "date": 1795673255000,
     "titleSl": "Sodnica Mednarodnega kazenskega sodišča Kimberly Prost sodi v zadevah vojnih zločinov. Je tarča ameriških sankcij"
-   },
-   {
-    "title": "South Korea’s central bank hikes interest rates amid AI chip boom",
-    "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26330120352635-1795665787.jpg?resize=1920%2C1440",
-    "date": 1795672180000,
-    "titleSl": "Centralna banka Južne Koreje zvišuje obrestne mere zaradi razcveta čipov za umetno inteligenco"
-   },
-   {
-    "title": "Puerto Rico’s Supreme Court cancels major power contract",
-    "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-04-17T033321Z_1916242618_RC2BZDAI9Z0U_RTRMADP_3_PUERTO-RICO-POWER-1795665479.jpg?resize=1920%2C1440",
-    "date": 1795669795000,
-    "titleSl": "Vrhovno sodišče Portorika je razveljavilo pomembno pogodbo o oskrbi z električno energijo"
    }
   ],
   "guardian": [
@@ -840,7 +840,7 @@
    {
     "title": "Pentagon soll erwogen haben, Nvidia zu Huangs Rückkehr zu drängen – per Kriegsgesetz",
     "link": "https://www.spiegel.de/ausland/pentagon-soll-erwogen-haben-nvidia-zu-huangs-rueckkehr-zu-draengen-per-kriegsgesetz-a-7eab9879-1219-4257-b3f7-72d8ed8af9ca#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/1bf23bba-648a-4774-baa9-fe999525ce00_w520_r2.08_fpx39.31_fpy44.99.jpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/1f58d08f-612a-412d-ad4d-cbbfeaafa5bb_w520_r2.08_fpx52_fpy47.jpg",
     "date": 1795677360000,
     "titleSl": "Pentagon naj bi razmišljal o tem, da bi Nvidio spodbudil k vrnitvi Huanga – s pomočjo vojnega zakona"
    },
@@ -888,6 +888,20 @@
    }
   ],
   "bild": [
+   {
+    "title": "Nach Kimmichs Ansage - So müssen die Bayern-Bosse jetzt im Fall Musiala reagieren",
+    "link": "https://www.bild.de/sport/fussball/nach-kimmichs-ansage-so-muessen-die-bayern-bosse-jetzt-im-fall-musiala-reagieren-6b07d5f6c75e09cb88d16732",
+    "image": "https://images.bild.de/6b07d5f6c75e09cb88d16732/5e5a3c6edc2342a7e53cca41f839fa98-landscape,79639f86?w=1280",
+    "date": 1795680062000,
+    "titleSl": "Po Kimmichovi izjavi – tako se morajo zdaj vodilni v Bayernu odzvati v primeru Musiale"
+   },
+   {
+    "title": "Hobby-Fotograf tötete Mariana († 38) - Vater blickt Mörder seiner Tochter in die Augen",
+    "link": "https://www.bild.de/regional/muenchen/vater-trifft-auf-den-moerder-seiner-tochter-fotograf-toetete-mariana-38-6b06dd60cd4642ba2eb18776",
+    "image": "https://images.bild.de/6b06dd60cd4642ba2eb18776/2921a74838435035412400344fef5e46,e07eafc4?w=1280",
+    "date": 1795679987000,
+    "titleSl": "Amaterski fotograf je ubil Mariano († 38) – oče pogleda morilcu svoje hčerke v oči"
+   },
    {
     "title": "Reif über Kimmich-Klartext - „Eine der besten Leistungen, an die ich mich erinnere“",
     "link": "https://www.bild.de/sport/fussball/musiala-statement-vom-kapitaen-eine-der-besten-kimmich-leistungen-an-die-ich-mich-erinnere-6b07d5d3c75e09cb88d1672d",
@@ -957,23 +971,37 @@
     "image": "https://images.bild.de/6b06db14366061b7ba3e5399/2a7622a6fb0aac28330ff73d5f5befb9,4cb607b6?w=1280",
     "date": 1795679464000,
     "titleSl": "Pregled druge lige – To je razlog, da je Hertha favorit za napredovanje"
-   },
-   {
-    "title": "Nass bis auf die Sohle - Mit Papier und Luft gegen feuchte Schuhe",
-    "link": "https://www.bild.de/leben-wissen/wohnen-living/schuhe-richtig-trocknen-papier-und-luft-statt-foehn-und-hitze-6afc5c03cdc4b5009f0a8e07",
-    "image": "https://images.bild.de/6afc5c03cdc4b5009f0a8e07/9d124f60608d84d2474e24e42651e3cd,30667090?w=1280",
-    "date": 1795679456000,
-    "titleSl": "Mokri do podplata – S papirjem in zrakom proti vlažnim čevljem"
-   },
-   {
-    "title": "„Selbstverständnis weg“ - Was ist bloß mit Bayern los?",
-    "link": "https://www.bild.de/sport/fussball/selbstverstaendnis-weg-was-ist-bloss-mit-bayern-los-6b07d58ec75e09cb88d16725",
-    "image": "https://images.bild.de/6b07d58ec75e09cb88d16725/d854e85222ea30528301af1a2bcc2a2d-landscape,c186a218?w=1280",
-    "date": 1795679419000,
-    "titleSl": "»Izgubili so samozavest« – Kaj za vraga je narobe z Bayernom?"
    }
   ],
   "krone": [
+   {
+    "title": "Unfälle und Sperren - Dicke Probleme: Österreich versinkt im Schnee",
+    "link": "https://www.krone.at/4389403",
+    "image": "https://imgl.krone.at/scaled/4390682/v892954/full.jpg",
+    "date": 1795680127000,
+    "titleSl": "Nesreče in zapore – velike težave: Avstrija je zasuta s snegom"
+   },
+   {
+    "title": "Offenes Geheimnis - An welchem Tisch Sven Hergovich gern sitzen würde",
+    "link": "https://www.krone.at/4389778",
+    "image": "https://imgl.krone.at/scaled/4389860/va871ee/full.jpg",
+    "date": 1795680052000,
+    "titleSl": "Odprta skrivnost – Za katero mizo bi Sven Hergovich rad sedel"
+   },
+   {
+    "title": "Die Situation in Tirol - Wintereinbruch: Unfälle, Sperren, Kettenpflicht",
+    "link": "https://www.krone.at/4390627",
+    "image": "https://imgl.krone.at/scaled/4390672/v192058/full.jpg",
+    "date": 1795680021000,
+    "titleSl": "Razmere na Tirolskem – nenadna zima: nesreče, zapore, obvezna uporaba snežnih verig"
+   },
+   {
+    "title": "Nickelsdorf - Drei Jahre, drei Millionen Kilowattstunden Strom",
+    "link": "https://www.krone.at/4390019",
+    "image": "https://imgl.krone.at/scaled/4390025/v4664a9/full.jpg",
+    "date": 1795680009000,
+    "titleSl": "Nickelsdorf – Tri leta, tri milijone kilovatnih ur električne energije"
+   },
    {
     "title": "Koks in Tirol vertickt - Kurze Drogenkarriere endete für Dealer vor Gericht",
     "link": "https://www.krone.at/4389926",
@@ -982,25 +1010,11 @@
     "titleSl": "Prodaja kokaina na Tirolskem – Kratek čas preprodajanja drog se je za preprodajalca končal na sodišču"
    },
    {
-    "title": "Die Situation in Tirol - Wintereinbruch: Unfälle, Sperren, Kettenpflicht",
-    "link": "https://www.krone.at/4390627",
-    "image": "https://imgl.krone.at/scaled/4390672/v192058/full.jpg",
-    "date": 1795679944000,
-    "titleSl": "Razmere na Tirolskem – nenadna zima: nesreče, zapore, obvezna uporaba snežnih verig"
-   },
-   {
     "title": "Kerze vergessen - Hausbewohner bei Brand in Hohenems verletzt",
     "link": "https://www.krone.at/4390706",
     "image": "https://imgl.krone.at/scaled/4390707/v798f1d/full.jpg",
     "date": 1795679939000,
     "titleSl": "Pozabljena sveča – stanovalec hiše v Hohenemsu poškodovan v požaru"
-   },
-   {
-    "title": "Ärger im Verkehr - Dicke Probleme: Österreich versinkt im Schnee",
-    "link": "https://www.krone.at/4389403",
-    "image": "https://imgl.krone.at/scaled/4390682/v892954/full.jpg",
-    "date": 1795679427000,
-    "titleSl": "Težave v prometu – velike težave: Avstrija je zasuta s snegom"
    },
    {
     "title": "Exklusiver Presale - Wien zeigt Zähne: Der erste Ball der Vampire kommt",
@@ -1043,20 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/3997733/vbd6677/full.jpg",
     "date": 1795678788000,
     "titleSl": "Gospa Holle je na delu – pošljite nam svoje najlepše fotografije snega!"
-   },
-   {
-    "title": "Gefahr durch Drohnen - Kiew gibt Deutscher Bahn Tipps zur Drohnenabwehr",
-    "link": "https://www.krone.at/4390669",
-    "image": "https://imgl.krone.at/scaled/4327022/v337dc3/full.jpg",
-    "date": 1795678600000,
-    "titleSl": "Nevarnost zaradi dronov – Kijev daje nemškim železnicam nasvete za obrambo pred droni"
-   },
-   {
-    "title": "Rodgers muss gehen - Zoff eskaliert! Steelers feuern Star-Quarterback",
-    "link": "https://www.krone.at/4390519",
-    "image": "https://imgl.krone.at/scaled/4390520/v366480/full.jpg",
-    "date": 1795678213000,
-    "titleSl": "Rodgers mora oditi – prepir je prerasel v konflikt! Steelersi odpustijo zvezdniškega podajalca"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-26T08:01:09.250Z",
+   "checkedAt": "2026-11-26T08:02:23.840Z",
    "success": true
   },
-  "zurnal": {
-   "checkedAt": "2026-11-26T08:01:10.219Z",
+  "siol": {
+   "checkedAt": "2026-11-26T08:02:24.643Z",
    "success": true
   },
   "rtvslo": {
    "checkedAt": "2026-11-26T08:01:10.249Z",
+   "success": false
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-26T08:02:25.067Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-26T08:01:10.823Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-26T08:01:11.107Z",
+   "checkedAt": "2026-11-26T08:02:25.458Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-26T08:01:11.196Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-26T08:01:11.204Z",
+   "checkedAt": "2026-11-26T08:02:25.734Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-26T08:01:11.303Z",
-   "success": true
-  },
   "reuters": {
-   "checkedAt": "2026-11-26T08:01:11.519Z",
+   "checkedAt": "2026-11-26T08:02:26.047Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-26T08:01:11.627Z",
+  "bbc": {
+   "checkedAt": "2026-11-26T08:02:26.055Z",
    "success": true
   },
-  "rainews": {
-   "checkedAt": "2026-11-26T08:01:11.857Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-26T08:01:11.956Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-26T08:02:29.967Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-26T08:01:13.664Z",
+   "checkedAt": "2026-11-26T08:02:30.615Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-26T08:02:30.913Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-26T08:02:30.976Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-26T08:02:33.302Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-26T08:01:14.636Z",
+   "checkedAt": "2026-11-26T08:02:34.838Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-26T08:01:14.723Z",
+   "checkedAt": "2026-11-26T08:02:35.032Z",
    "success": true
   }
  },
