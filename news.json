@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T13:42:38.237Z",
+ "generatedAt": "2026-11-27T13:44:32.428Z",
  "sources": {
   "siol": [
    {
@@ -80,7 +80,7 @@
     "title": "Nova obljuba za onkološki inštitut: postopki bodo stekli januarja",
     "link": "https://www.24ur.com/novice/slovenija/onkologija-poka-po-sivih-ministrstvo-o-nadaljnjih-korakih.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/ef8bc8076e2f089e2dbc_63685916.jpg?v=3517&fop=fp:0.43:0.49",
-    "date": 1795786622000
+    "date": 1795786878000
    },
    {
     "title": "Kostarika zavrnila vstop Francesci Albanese",
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "CoFestival tokrat o erotiki v kontekstu širšega družbenega razmisleka",
+    "link": "https://www.rtvslo.si/kultura/oder/cofestival-tokrat-o-erotiki-v-kontekstu-sirsega-druzbenega-razmisleka/801506",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/27/67125477.jpg",
+    "date": 1795786998000
+   },
+   {
     "title": "Na prvi tekmi prevlada švedskih tekačic in norveških tekačev",
     "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-nordijskem-smucanju/na-prvi-tekmi-prevlada-svedskih-tekacic-in-norveskih-tekacev/801505",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/27/67125483.jpg",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/slovenija/grzs-in-planinska-zveza-opozarjata-na-pomanjkljivosti-predloga-uredbe-o-placljivem-resevanju/801495",
     "image": "https://img.rtvcdn.si/_up/upload/2024/01/12/66148906.jpg",
     "date": 1795781900000
-   },
-   {
-    "title": "Rusi Gogoljeve Mrtve duše \"dokončali\" z umetno inteligenco; literarni puristi ogorčeni",
-    "link": "https://www.rtvslo.si/kultura/knjige/rusi-gogoljeve-mrtve-duse-dokoncali-z-umetno-inteligenco-literarni-puristi-ogorceni/801480",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/27/67125373.jpg",
-    "date": 1795780574000
    }
   ],
   "zurnal": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Freeski am Bergisel - Matej Svancer als Quali-Dritter im Big-Air-Finale",
+    "link": "https://www.krone.at/4392951",
+    "image": "https://imgl.krone.at/scaled/4392955/vdcc2a2/full.jpg",
+    "date": 1795787018000,
+    "titleSl": "Freeski na Bergislu – Matej Švancer kot tretjeuvrščeni v kvalifikacijah v finalu Big Airja"
+   },
+   {
     "title": "Soll sich „wohfühlen“ - Dicker Leopard muss keine Diät mehr machen",
     "link": "https://www.krone.at/4392869",
     "image": "https://imgl.krone.at/scaled/4392870/ve3f987/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4392624/vdd7e81/full.jpg",
     "date": 1795786251000,
     "titleSl": "Filmi tedna – Otroške čarovnice, Rocky in Ben Stiller v kinu"
-   },
-   {
-    "title": "Formel 1 in Katar - LIVE: 1. Training am Lusail International Circuit",
-    "link": "https://www.krone.at/4391413",
-    "image": "https://imgl.krone.at/scaled/4329678/ve97742/full.jpg",
-    "date": 1795786204000,
-    "titleSl": "Formula 1 v Katarju – V ŽIVO: 1. Trening na mednarodnem dirkališču Lusail"
    }
   ],
   "rainews": [
@@ -1320,27 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T13:42:26.982Z",
+   "checkedAt": "2026-11-27T13:44:25.840Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T13:42:27.726Z",
+   "checkedAt": "2026-11-27T13:44:26.865Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T13:42:27.746Z",
+   "checkedAt": "2026-11-27T13:44:27.093Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T13:42:27.954Z",
+   "checkedAt": "2026-11-27T13:44:27.260Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T13:42:28.569Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T13:42:28.951Z",
+   "checkedAt": "2026-11-27T13:44:27.775Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-27T13:42:29.010Z",
+   "checkedAt": "2026-11-27T13:44:28.118Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T13:42:29.148Z",
+   "checkedAt": "2026-11-27T13:44:28.188Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-27T13:44:28.191Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T13:42:29.171Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-27T13:42:30.237Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T13:42:30.452Z",
+   "checkedAt": "2026-11-27T13:44:28.260Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-27T13:42:33.571Z",
+   "checkedAt": "2026-11-27T13:44:28.837Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T13:42:36.216Z",
+   "checkedAt": "2026-11-27T13:44:28.859Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-27T13:44:29.110Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T13:44:29.284Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T13:42:38.051Z",
+   "checkedAt": "2026-11-27T13:44:31.544Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T13:42:38.236Z",
+   "checkedAt": "2026-11-27T13:44:32.427Z",
    "success": true
   }
  },
