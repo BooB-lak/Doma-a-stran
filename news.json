@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:40:42.284Z",
+ "generatedAt": "2026-11-27T22:42:33.307Z",
  "sources": {
   "siol": [
    {
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
+    "link": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/f07ca9b0-f427-43a3-8286-abba96f39760_w520_r2.08_fpx33.35_fpy50.jpg",
+    "date": 1795819200000,
+    "titleSl": "Pokojnine: Tvegano samostojno ukrepanje ministra za delo Alexandra Schweitzerja"
+   },
+   {
     "title": "OpenAI: KI-Entwickler wirft Apple Diebstahl von Geschäftsgeheimnissen vor",
     "link": "https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/09340773-5a12-43ea-90a9-198ce93f8604_w520_r2.08_fpx55.98_fpy49.98.jpg",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/d6854250-0259-4f41-a461-34cad1dfb520_w520_r2.08_fpx52.02_fpy50.jpg",
     "date": 1795797540000,
     "titleSl": "Witten: Sin zaboden s kuhinjskim nožem – dosmrtna zaporna kazen za moškega"
-   },
-   {
-    "title": "News des Tages: Haushalt, SAP, Johann Wadephul, gendern",
-    "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/48903b9b-8b90-4960-942a-b54f2905f83b_w520_r2.08_fpx64.09_fpy50.jpg",
-    "date": 1795796640000,
-    "titleSl": "Novice dneva: proračun, SAP, Johann Wadephul, vprašanje spola"
    }
   ],
   "bild": [
@@ -1320,31 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T22:40:38.753Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-27T22:40:39.761Z",
+   "checkedAt": "2026-11-27T22:42:26.188Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T22:40:39.809Z",
+   "checkedAt": "2026-11-27T22:42:26.840Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-27T22:42:27.084Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T22:40:39.883Z",
+   "checkedAt": "2026-11-27T22:42:27.188Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T22:40:40.544Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-27T22:40:40.798Z",
+   "checkedAt": "2026-11-27T22:42:28.061Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T22:40:40.834Z",
+   "checkedAt": "2026-11-27T22:42:28.371Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1348,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-27T22:40:40.953Z",
+   "checkedAt": "2026-11-27T22:42:28.507Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-27T22:42:28.593Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T22:40:41.309Z",
+   "checkedAt": "2026-11-27T22:42:30.055Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T22:40:41.649Z",
+   "checkedAt": "2026-11-27T22:42:30.766Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T22:40:41.699Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T22:40:41.739Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T22:40:42.052Z",
+   "checkedAt": "2026-11-27T22:42:30.896Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T22:40:42.153Z",
+   "checkedAt": "2026-11-27T22:42:31.212Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T22:42:31.477Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T22:42:33.079Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T22:40:42.283Z",
+   "checkedAt": "2026-11-27T22:42:33.306Z",
    "success": true
   }
  },
