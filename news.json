@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T17:54:32.500Z",
+ "generatedAt": "2026-11-27T17:56:30.048Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,18 @@
   ],
   "24ur": [
    {
+    "title": "Policija ga je iskala, po treh mesecih pa je sam stopil pred sodišče",
+    "link": "https://www.24ur.com/novice/crna-kronika/policija-ga-je-iskala-po-treh-mesecih-pa-je-sam-stopil-pred-sodisce-ostaja-na-prostosti.html",
+    "image": "https://images.24ur.com/media/images/213xX/Sep2026/91ffce1d42be99380a95_63640777.jpg?v=2be0&fop=fp:0.40:0.50",
+    "date": 1795801996000
+   },
+   {
+    "title": "Zvezdnica filmov za odrasle bo kandidirala za županjo Rima",
+    "link": "https://www.24ur.com/popin/tuja-scena/zvezdnica-filmov-za-odrasle-bo-kandidirala-za-zupanjo-rima.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/b54e0ea0d0d9ec9a1f76_63686107.jpg?v=48fc&fop=fp:0.47:0.34",
+    "date": 1795801511000
+   },
+   {
     "title": "V Ljubljani zažareli Zvonka, ulice in trgi",
     "link": "https://www.24ur.com/novice/slovenija/v-ljubljani-prizig-praznicnih-luci.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/4b891963f6d558767f62_63686168.jpg?v=d1f6&fop=fp:0.50:0.77",
@@ -135,18 +147,6 @@
     "link": "https://www.24ur.com/sport/motogp/vn-valencie-poslednje-dejanje-motociklisticne-sezone-odpira-prosti-trening.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/569ad05a3ff41d3f7f06_63686137.jpg?v=142a&fop=fp:0.35:0.30",
     "date": 1795793880000
-   },
-   {
-    "title": "Zaposlenemu v bolnišnici pripada nadomestilo plače za dneve praznikov",
-    "link": "https://www.24ur.com/novice/slovenija/zaposlenemu-v-bolnisnici-pripada-nadomestilo-place-za-dneve-praznikov.html",
-    "image": "https://images.24ur.com/media/images/213xX/Dec2022/5c4a304743bab90bff6e_62867325.jpg?v=2692&fop=fp:0.41:0.56",
-    "date": 1795793846000
-   },
-   {
-    "title": "Marc Marquez ob koncu kariere: Začel sem čutiti strah",
-    "link": "https://www.24ur.com/sport/motogp/marc-marquez-ob-koncu-kariere-zacel-sem-cutiti-strah.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/3de938b031564f4bbd01_63683461.jpg?v=b80e&fop=fp:0.45:0.47",
-    "date": 1795793793000
    }
   ],
   "rtvslo": [
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Sorgen bei FC Bayern - Musiala im Pech! DFB-Star fällt wieder lange aus",
+    "link": "https://www.krone.at/4393318",
+    "image": "https://imgl.krone.at/scaled/4393320/v933ebd/full.jpg",
+    "date": 1795802153000,
+    "titleSl": "Skrbi v FC Bayernu – Musiala ima smolo! Zvezdnik nemške reprezentance bo spet dolgo odsoten"
+   },
+   {
     "title": "Biathlon - ÖSV-Damen beim Weltcupauftakt nicht in Top 15",
     "link": "https://www.krone.at/4393311",
     "image": "https://imgl.krone.at/scaled/4393313/v7df636/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4387072/vcabb71/full.jpg",
     "date": 1795799334000,
     "titleSl": "Vadba z utežmi je v razmahu – Evo Fitness načrtuje odprtje studiev v drugih glavnih mestih"
-   },
-   {
-    "title": "Räumung musste warten - Schneepflüge auf Weisung abgezogen: Unmut in Traun",
-    "link": "https://www.krone.at/4393131",
-    "image": "https://imgl.krone.at/scaled/4393133/va31358/full.jpg",
-    "date": 1795798848000,
-    "titleSl": "S čiščenjem je bilo treba počakati – snežne pluge so po navodilih umaknili: nezadovoljstvo v Traunu"
    }
   ],
   "rainews": [
@@ -1099,7 +1099,8 @@
     "title": "ITS Academy, la sfida del dopo PNRR: «Ora servono risorse stabili»",
     "link": "https://www.rainews.it/video/2026/11/its-academy-la-sfida-del-dopo-pnrr-ora-servono-risorse-stabili-656f83e4-92b0-49f8-8276-1d3267ba3dcf.html",
     "image": "https://www.rainews.it/dl/img/2026/11/27/1795795880297_videoframe.png",
-    "date": 1795795620000
+    "date": 1795795620000,
+    "titleSl": "Akademija ITS, izziv po načrtu za okrevanje in odpornost: »Zdaj potrebujemo stabilna sredstva«"
    },
    {
     "title": "Trump si sente padrino: pubblica un meme su \"Veto Corleone\"",
@@ -1319,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T17:54:28.676Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T17:54:29.259Z",
+   "checkedAt": "2026-11-27T17:56:24.712Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T17:54:29.298Z",
+   "checkedAt": "2026-11-27T17:56:25.216Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T17:56:25.474Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T17:54:29.751Z",
+   "checkedAt": "2026-11-27T17:56:25.549Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T17:54:30.036Z",
+   "checkedAt": "2026-11-27T17:56:25.742Z",
    "success": true
   },
   "guardian": {
@@ -1343,43 +1344,43 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-27T17:54:30.116Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-27T17:54:30.155Z",
+   "checkedAt": "2026-11-27T17:56:26.107Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T17:54:30.164Z",
+   "checkedAt": "2026-11-27T17:56:26.233Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-27T17:56:26.294Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T17:54:30.779Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-27T17:54:30.884Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T17:54:31.022Z",
+   "checkedAt": "2026-11-27T17:56:26.545Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T17:54:31.078Z",
+   "checkedAt": "2026-11-27T17:56:26.907Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T17:56:26.927Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-27T17:56:27.238Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T17:54:31.620Z",
+   "checkedAt": "2026-11-27T17:56:29.307Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T17:54:31.976Z",
+   "checkedAt": "2026-11-27T17:56:29.915Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T17:54:32.499Z",
+   "checkedAt": "2026-11-27T17:56:30.047Z",
    "success": true
   }
  },
