@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T01:30:57.661Z",
+ "generatedAt": "2026-11-27T01:32:30.290Z",
  "sources": {
   "siol": [
    {
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+    "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=1920%2C1440",
+    "date": 1795741664000,
+    "titleSl": "Svetovna tiskovna agencija AFP poroča o kibernetskem napadu in zapre svojo platformo za vsebine"
+   },
+   {
     "title": "Inside Ukraine’s power crisis amid its war with Russia",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b088d6e8cd57-1795722606.jpg?resize=1920%2C1440",
     "date": 1795725274000,
     "titleSl": "V napadu na savdsko rafinerijo Jazan je umrla ena oseba, delovanje rafinerije pa je bilo prekinjeno"
-   },
-   {
-    "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795725156.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795725163000,
-    "titleSl": "Indijski politik, ki mu grozi obtožba zaradi umora, je priredil poroko s 400.000 gostov"
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T01:30:49.463Z",
+   "checkedAt": "2026-11-27T01:32:24.806Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T01:30:50.804Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T01:30:50.850Z",
+   "checkedAt": "2026-11-27T01:32:25.686Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T01:30:50.872Z",
+   "checkedAt": "2026-11-27T01:32:25.746Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T01:32:26.520Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T01:30:51.332Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-27T01:30:51.738Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T01:30:51.796Z",
+   "checkedAt": "2026-11-27T01:32:26.559Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "bbc": {
+   "checkedAt": "2026-11-27T01:32:26.712Z",
+   "success": true
+  },
   "nyt": {
-   "checkedAt": "2026-11-27T01:30:51.965Z",
+   "checkedAt": "2026-11-27T01:32:26.782Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T01:30:55.552Z",
+   "checkedAt": "2026-11-27T01:32:26.943Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-27T01:30:56.187Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-27T01:32:28.565Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T01:30:56.270Z",
+   "checkedAt": "2026-11-27T01:32:28.938Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T01:30:56.539Z",
+   "checkedAt": "2026-11-27T01:32:28.948Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T01:30:56.688Z",
+   "checkedAt": "2026-11-27T01:32:29.215Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T01:32:29.262Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T01:30:57.131Z",
+   "checkedAt": "2026-11-27T01:32:30.099Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T01:30:57.488Z",
+   "checkedAt": "2026-11-27T01:32:30.230Z",
    "success": true
   }
  },
