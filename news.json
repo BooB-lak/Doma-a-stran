@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-27T16:22:32.197Z",
+ "generatedAt": "2026-11-27T16:24:32.646Z",
  "sources": {
   "siol": [
    {
-    "title": "Ljubljana je zasijala v praznični podobi #foto",
+    "title": "Ljubljana je zasijala v praznični podobi #video",
     "link": "https://siol.net/novice/slovenija/ljubljana-bo-zasijala-v-praznicni-podobi-707330",
     "image": "https://siol.net/media/img/8f/44/c25dc936c15a8873baf8.jpeg",
     "date": 1795796400000
@@ -80,7 +80,7 @@
     "title": "PRENOS V ŽIVO: 3, 2, 1 ... v Ljubljani prižgali praznične luči",
     "link": "https://www.24ur.com/novice/slovenija/v-ljubljani-prizig-praznicnih-luci.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/e2e56da8a87979907b61_63686148.jpg?v=a12d&fop=fp:0.56:0.42",
-    "date": 1795796473000
+    "date": 1795796571000
    },
    {
     "title": "Obeta se nam nova pocenitev goriv",
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+    "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a50c-1795794188.jpg?resize=1920%2C1440",
+    "date": 1795795987000,
+    "titleSl": "Trump podpira ostre ukrepe iraškega premierja proti tihotapljenju nafte"
+   },
+   {
     "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795795296.jpg?resize=1920%2C1080&quality=80",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09798a92-1795783050.jpg?resize=1920%2C1440",
     "date": 1795785388000,
     "titleSl": "ZN opozarja, da se bo zaradi globalnih konfliktov in pojava El Niño pričakovano povečala lakota"
-   },
-   {
-    "title": "Sentence served, still detained: Palestinian families waiting for reunions",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795785181.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795785292000,
-    "titleSl": "Kazen prestajana, vendar še vedno v priporu: palestinske družine čakajo na ponovno združitev"
    }
   ],
   "guardian": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T16:22:22.254Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-27T16:22:22.727Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T16:22:22.904Z",
+   "checkedAt": "2026-11-27T16:24:26.310Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T16:22:23.223Z",
+   "checkedAt": "2026-11-27T16:24:26.971Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-27T16:24:27.096Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T16:24:27.365Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T16:22:23.418Z",
+   "checkedAt": "2026-11-27T16:24:27.833Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T16:22:23.627Z",
+   "checkedAt": "2026-11-27T16:24:28.616Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T16:22:23.752Z",
+  "reuters": {
+   "checkedAt": "2026-11-27T16:24:28.775Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-27T16:22:23.769Z",
+   "checkedAt": "2026-11-27T16:24:28.804Z",
    "success": true
   },
-  "reuters": {
-   "checkedAt": "2026-11-27T16:22:24.229Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T16:22:24.688Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-27T16:22:24.959Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T16:22:25.064Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-27T16:22:25.363Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-27T16:24:30.777Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T16:22:30.815Z",
+   "checkedAt": "2026-11-27T16:24:31.274Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T16:24:31.307Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-27T16:24:31.536Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T16:24:31.548Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T16:24:32.137Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T16:22:32.196Z",
+   "checkedAt": "2026-11-27T16:24:32.645Z",
    "success": true
   }
  },
