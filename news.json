@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T06:22:27.299Z",
+ "generatedAt": "2026-11-27T06:24:30.264Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Chris Mason: Immigration stats are down but will that be the end of the issue?",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg23ql63ypo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57c/live/e2217ad0-ea0f-11f1-8868-df2967876f4c.jpg",
+    "date": 1795759939000,
+    "titleSl": "Chris Mason: Število priseljencev se je zmanjšalo, vendar ali bo to pomenilo konec problema?"
+   },
+   {
     "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
     "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg",
     "date": 1795740754000,
     "titleSl": "Mladi pohodniki, ki so našli prijateljstvo in svež zrak brez spletne povezave"
-   },
-   {
-    "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1795740731000,
-    "titleSl": "Velika nevihta ob zahvalnem dnevu je povzročila poplave in zamude letov po vseh ZDA"
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T06:22:22.824Z",
+   "checkedAt": "2026-11-27T06:24:24.761Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T06:22:23.312Z",
+   "checkedAt": "2026-11-27T06:24:25.394Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T06:22:23.588Z",
+   "checkedAt": "2026-11-27T06:24:25.408Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T06:22:23.971Z",
+   "checkedAt": "2026-11-27T06:24:25.789Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T06:22:24.142Z",
+   "checkedAt": "2026-11-27T06:24:26.325Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-27T06:24:26.738Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T06:22:24.425Z",
-   "success": true
-  },
   "nyt": {
-   "checkedAt": "2026-11-27T06:22:24.447Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-27T06:22:24.486Z",
+   "checkedAt": "2026-11-27T06:24:27.005Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T06:22:24.905Z",
+   "checkedAt": "2026-11-27T06:24:27.043Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-27T06:22:25.138Z",
+  "bbc": {
+   "checkedAt": "2026-11-27T06:24:28.904Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-27T06:22:25.252Z",
+   "checkedAt": "2026-11-27T06:24:29.681Z",
    "success": true
   },
-  "lemonde": {
-   "checkedAt": "2026-11-27T06:22:25.547Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T06:22:25.871Z",
+  "bild": {
+   "checkedAt": "2026-11-27T06:24:29.704Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T06:22:27.188Z",
+   "checkedAt": "2026-11-27T06:24:29.769Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T06:24:30.094Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-27T06:24:30.106Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T06:22:27.298Z",
+   "checkedAt": "2026-11-27T06:24:30.263Z",
    "success": true
   }
  },
