@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T21:10:44.906Z",
+ "generatedAt": "2026-11-27T21:12:30.128Z",
  "sources": {
   "siol": [
    {
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Deutsche Bundesliga - LIVE: Gladbach trifft schon wieder gegen Bremen",
+    "link": "https://www.krone.at/4391433",
+    "image": "https://imgl.krone.at/scaled/4393477/v40cd3c/full.jpg",
+    "date": 1795813866000,
+    "titleSl": "Nemška Bundesliga – V ŽIVO: Gladbach se ponovno pomeri z Bremenom"
+   },
+   {
     "title": "Premier-League-Ticker - LIVE: Elfmetertor! Nottingham erhöht gegen Chelsea",
     "link": "https://www.krone.at/4392276",
     "image": "https://imgl.krone.at/scaled/4393449/ve9448f/full.jpg",
@@ -1015,13 +1022,6 @@
     "image": "https://imgl.krone.at/scaled/4393467/v0a7fce/full.jpg",
     "date": 1795812488000,
     "titleSl": "Njihovo sporočilo je jasno – teh osem navijačev je Altach spodbudilo do zmage v gosteh"
-   },
-   {
-    "title": "Deutsche Bundesliga - LIVE: Tor! Gladbach trifft kurz nach der Pause",
-    "link": "https://www.krone.at/4391433",
-    "image": "https://imgl.krone.at/scaled/4393477/v40cd3c/full.jpg",
-    "date": 1795812042000,
-    "titleSl": "Nemška Bundesliga – V ŽIVO: Gol! Gladbach doseže gol kmalu po odmoru"
    },
    {
     "title": "Die lieben Mitbewohner - Hilfe unter einem Motto: Wie du mir, so ich Tier",
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T21:10:39.373Z",
+   "checkedAt": "2026-11-27T21:12:24.400Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T21:10:40.073Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-27T21:10:40.093Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-27T21:10:40.811Z",
+   "checkedAt": "2026-11-27T21:12:24.939Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T21:10:40.999Z",
+   "checkedAt": "2026-11-27T21:12:25.246Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-27T21:12:25.254Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-27T21:12:25.990Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T21:10:41.243Z",
+   "checkedAt": "2026-11-27T21:12:26.280Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "bbc": {
+   "checkedAt": "2026-11-27T21:12:26.337Z",
+   "success": true
+  },
   "aljazeera": {
-   "checkedAt": "2026-11-27T21:10:41.433Z",
+   "checkedAt": "2026-11-27T21:12:26.452Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T21:10:41.646Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-27T21:10:41.774Z",
+   "checkedAt": "2026-11-27T21:12:27.520Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T21:10:42.432Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-27T21:10:42.623Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T21:10:43.052Z",
+   "checkedAt": "2026-11-27T21:12:27.936Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-27T21:10:44.318Z",
+   "checkedAt": "2026-11-27T21:12:28.020Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-27T21:12:28.143Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T21:12:28.343Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T21:10:44.765Z",
+   "checkedAt": "2026-11-27T21:12:29.933Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T21:10:44.905Z",
+   "checkedAt": "2026-11-27T21:12:30.127Z",
    "success": true
   }
  },
