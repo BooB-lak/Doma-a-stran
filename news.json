@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:02:43.610Z",
+ "generatedAt": "2026-11-27T16:04:31.222Z",
  "sources": {
   "siol": [
    {
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "Costa Rica verweigert Francesca Albanese die Einreise",
+    "link": "https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/30c6deb8-9e80-45ae-9450-f4166dfc208f_w520_r2.08_fpx61.3_fpy49.99.jpg",
+    "date": 1795795260000,
+    "titleSl": "Kostarika je Francesci Albanese zavrnila vstop v državo"
+   },
+   {
     "title": "Schmetterling des Jahres 2027: Gelbwürfeliger Dickkopffalter",
     "link": "https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/3f18575b-6a35-456a-abd5-7d47e35ae0c7_w520_r2.08_fpx51.33_fpy44.98.jpg",
@@ -878,13 +885,6 @@
     "image": "https://cdn.prod.www.spiegel.de/images/d13d4e05-3ff7-4062-bdf6-71d8bd9d941c_w520_r2.08_fpx29.98_fpy44.98.jpg",
     "date": 1795790940000,
     "titleSl": "Jamal Musiala: Ofenzivna zvezda FC Bayern bo odsotna do konca leta"
-   },
-   {
-    "title": "Handgepäck: Oberlandesgericht Frankfurt am Main erlaubt nur eine Tasche",
-    "link": "https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/3fc5cf69-cb90-4766-8daf-af5851f363a0_w520_r2.08_fpx42.66_fpy50.jpg",
-    "date": 1795790040000,
-    "titleSl": "Ročna prtljaga: Višje deželno sodišče v Frankfurtu na Majni dovoljuje samo eno torbo"
    }
   ],
   "bild": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T16:02:25.548Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-27T16:02:26.536Z",
+   "checkedAt": "2026-11-27T16:04:24.942Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T16:02:26.680Z",
+   "checkedAt": "2026-11-27T16:04:26.306Z",
    "success": true
   },
-  "zurnal": {
-   "checkedAt": "2026-11-27T16:02:26.848Z",
+  "siol": {
+   "checkedAt": "2026-11-27T16:04:26.698Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T16:02:27.288Z",
+   "checkedAt": "2026-11-27T16:04:26.772Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T16:04:27.126Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-27T16:04:27.229Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-27T16:02:27.486Z",
+   "checkedAt": "2026-11-27T16:04:27.352Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-27T16:02:27.644Z",
+   "checkedAt": "2026-11-27T16:04:27.377Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T16:02:27.697Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-27T16:02:33.603Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T16:02:34.283Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T16:02:36.430Z",
+   "checkedAt": "2026-11-27T16:04:27.510Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T16:02:38.548Z",
+   "checkedAt": "2026-11-27T16:04:28.188Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T16:02:40.475Z",
+   "checkedAt": "2026-11-27T16:04:28.566Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T16:04:28.752Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T16:02:43.501Z",
+   "checkedAt": "2026-11-27T16:04:29.046Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T16:04:30.244Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T16:02:43.609Z",
+   "checkedAt": "2026-11-27T16:04:31.221Z",
    "success": true
   }
  },
