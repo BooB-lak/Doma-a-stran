@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T04:18:29.342Z",
+ "generatedAt": "2026-11-27T04:20:40.720Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Passat ima novega tekmeca: preizkusili smo kitajski karavan, ki preseneča",
+    "link": "https://www.zurnal24.si/avto/testi/passat-ima-novega-tekmeca-preizkusili-smo-kitajski-karavan-ki-preseneca-468472",
+    "image": "https://www.zurnal24.si/media/img/d4/a8/bfb8c514bc39ee66b63c.jpeg",
+    "date": 1795753200000
+   },
+   {
     "title": "Celje proti močnemu tekmecu do pomembne točke",
     "link": "https://www.zurnal24.si/sport/nogomet/celje-proti-mocnemu-tekmecu-do-pomembne-tocke-468847",
     "image": "https://www.zurnal24.si/media/img/ag/9b/abe41ba5a919ef40f4eb.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/slovenija/migracije-prosilci-azil-vlada-468838",
     "image": "https://www.zurnal24.si/media/img/dd/75/7cdafc407ed3e76eea36.jpeg",
     "date": 1795706520000
-   },
-   {
-    "title": "Policisti vabijo v svoje vrste: Sprejmejo tudi upokojence",
-    "link": "https://www.zurnal24.si/slovenija/pomozni-policisti-468836",
-    "image": "https://www.zurnal24.si/media/img/f3/13/efb3e54d21ec271b9433.jpeg",
-    "date": 1795705680000
    }
   ],
   "hop": [
@@ -1189,6 +1189,13 @@
     "titleSl": "Emmanuel Macron je kritiziral Marine Le Pen in njeno »čudno aroganco«"
    },
    {
+    "title": "Le défilé des candidats au Salon des maires, rendez-vous incontournable de la campagne présidentielle",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/26/le-defile-des-candidats-au-salon-des-maires-rendez-vous-incontournable-de-la-campagne-presidentielle_6815600_823448.html",
+    "image": "https://img.lemde.fr/2026/11/25/146/0/8000/4000/644/322/60/0/5e346a2_upload-1-gs7wkn6gqnxx-jmug261125050.jpg",
+    "date": 1795725729000,
+    "titleSl": "Parada kandidatov na Salonu županov, nepogrešljivem dogodku predsedniške kampanje"
+   },
+   {
     "title": "EN DIRECT, présidentielle 2027 | Emmanuel Macron à propos de Marine Le Pen : « C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
     "link": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html",
     "image": "https://img.lemde.fr/2026/11/26/363/0/5392/2696/644/322/60/0/7c8363f_ftp-1-2kjml2c4oitq-afp-d8qy4g3.jpg",
@@ -1222,13 +1229,6 @@
     "image": "https://img.lemde.fr/2026/11/26/641/0/4608/2304/644/322/60/0/211cde6_ftp-1-i3ioxkt0gjrb-32f74f6064104dc39b54fd8034ecca0c-0-b47973a79f4f46e4b814e5658b3e279b.jpg",
     "date": 1795721107000,
     "titleSl": "V ŽIVO, vojna v Ukrajini: ukrajinske vojaške obveščevalne službe so prevzele odgovornost za napad na rusko rafinerijo v Slavjansku-na-Kubanu"
-   },
-   {
-    "title": "A Paris, des lycéens et étudiants toujours mobilisés qui récusent tout « retour à la normale »",
-    "link": "https://www.lemonde.fr/campus/article/2026/11/26/a-paris-des-lyceens-et-etudiants-toujours-mobilises-qui-recusent-tout-retour-a-la-normale_6815594_4401467.html",
-    "image": "https://img.lemde.fr/2026/11/26/1000/0/6000/3000/644/322/60/0/e54db55_ftp-1-dvl3hphhrc61-2026-11-26t141443z-1297016986-rc2pvoanonp5-rtrmadp-3-france-protest.JPG",
-    "date": 1795720153000,
-    "titleSl": "V Parizu so srednješolci in študentje še vedno mobilizirani in zavračajo vsakršno »vrnitev v normalnost«"
    }
   ],
   "elpais": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T04:18:22.671Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-27T04:18:23.424Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T04:18:23.713Z",
+   "checkedAt": "2026-11-27T04:20:36.122Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T04:18:23.753Z",
+   "checkedAt": "2026-11-27T04:20:36.828Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T04:20:36.883Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-27T04:20:37.101Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T04:18:24.272Z",
+   "checkedAt": "2026-11-27T04:20:37.572Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-27T04:20:37.929Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-27T04:18:25.189Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-27T04:18:25.244Z",
+   "checkedAt": "2026-11-27T04:20:38.109Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-27T04:18:25.284Z",
+   "checkedAt": "2026-11-27T04:20:38.319Z",
    "success": true
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T04:18:26.777Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T04:18:27.480Z",
+  "reuters": {
+   "checkedAt": "2026-11-27T04:20:38.339Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T04:18:27.593Z",
+   "checkedAt": "2026-11-27T04:20:38.902Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-27T04:18:27.709Z",
+  "spiegel": {
+   "checkedAt": "2026-11-27T04:20:39.042Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T04:18:28.210Z",
+   "checkedAt": "2026-11-27T04:20:39.397Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T04:20:39.558Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T04:18:29.148Z",
+   "checkedAt": "2026-11-27T04:20:40.631Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T04:18:29.341Z",
+   "checkedAt": "2026-11-27T04:20:40.719Z",
    "success": true
   }
  },
