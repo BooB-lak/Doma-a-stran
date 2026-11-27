@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T17:08:28.642Z",
+ "generatedAt": "2026-11-27T17:10:47.015Z",
  "sources": {
   "siol": [
    {
@@ -80,7 +80,13 @@
     "title": "3, 2, 1 ... v Ljubljani prižgali praznične luči",
     "link": "https://www.24ur.com/novice/slovenija/v-ljubljani-prizig-praznicnih-luci.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/4b891963f6d558767f62_63686168.jpg?v=d1f6&fop=fp:0.50:0.77",
-    "date": 1795799041000
+    "date": 1795799286000
+   },
+   {
+    "title": "Lukašenko: Po Putinovi logiki bi bilo treba Rusijo vrniti Mongoliji",
+    "link": "https://www.24ur.com/novice/tujina/lukasnko-po-putinovi-logiki-bi-bilo-treba-rusijo-vrniti-mongoliji.html",
+    "image": "https://images.24ur.com/media/images/213xX/Jun2023/2b60590a7c55786869a2_62970854.jpg?v=1a07&fop=fp:0.39:0.26",
+    "date": 1795799188000
    },
    {
     "title": "Antonelli najboljši na prvem, kdo bo na drugem?",
@@ -141,12 +147,6 @@
     "link": "https://www.24ur.com/novice/tujina/obtoznica-proti-udelezencu-tabora-pri-persmanu-zaradi-upiranja-policistom.html",
     "image": "https://images.24ur.com/media/images/213xX/Jul2025/c720b0ff29409ac61d98_63447966.jpg?v=b260&fop=fp:0.52:0.43",
     "date": 1795793779000
-   },
-   {
-    "title": "Med polom pogoltnil čebelo in umrl: družina zdaj v bitki za njegove milijarde",
-    "link": "https://www.24ur.com/novice/tujina/med-polom-pogoltnil-cebelo-in-umrl-druzina-zdaj-v-bitki-za-njegove-milijarde.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/ac96afe476c5138df182_63686132.jpg?v=f94a&fop=fp:0.38:0.29",
-    "date": 1795793248000
    }
   ],
   "rtvslo": [
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Schweitzer legt Gesetz vor - Rentenreform da! Wer jetzt länger arbeiten muss",
+    "link": "https://www.bild.de/politik/inland/minister-schweitzer-legt-gesetzentwurf-vor-rentenreform-da-wer-jetzt-laenger-arbeiten-muss-6b0979bb6a4ea151d91c2638",
+    "image": "https://images.bild.de/6b0979bb6a4ea151d91c2638/80252f17a96e175da1c7abbcb9666531,935073be?w=1280",
+    "date": 1795799294000,
+    "titleSl": "Schweitzer predlaga zakon – pokojninska reforma je tu! Kdo mora zdaj delati dlje"
+   },
+   {
     "title": "Generalleutnant Heico Hübner (58) - Dieser Mann soll Putins Panzer stoppen",
     "link": "https://www.bild.de/politik/inland/generalleutnant-heico-huebner-58-dieser-mann-soll-putins-panzer-stoppen-6b096b83741a4ef947849baa",
     "image": "https://images.bild.de/6b096b83741a4ef947849baa/85469350e4a3f893cb245a8014a73f55,7ba24529?w=1280",
@@ -964,16 +971,16 @@
     "image": "https://images.bild.de/6b0023febe487c5437746eb5/c2a32327869de99088666d0094c6e482,38f018f6?w=1280",
     "date": 1795798083000,
     "titleSl": "Leva roka je zaenkrat v ledu – influencerka si pred kamero zlomi roko"
-   },
-   {
-    "title": "Längster, höchster, ältester ... - Deutschlands Weihnachtsmärkte der Superlative",
-    "link": "https://www.bild.de/leben-wissen/reisen/deutschlands-weihnachtsmaerkte-der-superlative-6b04599566a00c9ca1fe135d",
-    "image": "https://images.bild.de/6b04599566a00c9ca1fe135d/e2ab162c3248010f99dbc54310972cd4,75409cea?w=1280",
-    "date": 1795798069000,
-    "titleSl": "Najdaljši, najvišji, najstarejši ... – Nemški božični sejmi v presežnikih"
    }
   ],
   "krone": [
+   {
+    "title": "Pumpen boomt - Evo Fitness plant Studios in weiteren Hauptstädten",
+    "link": "https://www.krone.at/4387071",
+    "image": "https://imgl.krone.at/scaled/4387072/vcabb71/full.jpg",
+    "date": 1795799334000,
+    "titleSl": "Vadba z utežmi je v razmahu – Evo Fitness načrtuje odprtje studiev v drugih glavnih mestih"
+   },
    {
     "title": "Neue Kosten rollen an - Autofahren wird teurer: Das kommt auf Lenker zu",
     "link": "https://www.krone.at/4356233",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4393185/v92abfb/full.jpg",
     "date": 1795797671000,
     "titleSl": "Visoka stopnja ogroženosti – Moški s sekiro je povzročil grozo na božičnem sejmu"
-   },
-   {
-    "title": "In der Vorarlbergliga - Fußach ist mit viel Profierfahrung auf Meisterkurs",
-    "link": "https://www.krone.at/4393229",
-    "image": "https://imgl.krone.at/scaled/4393230/vf2b180/full.jpg",
-    "date": 1795797605000,
-    "titleSl": "V ligi Vorarlbergliga – Fußach je z veliko profesionalnimi izkušnjami na poti do naslova prvaka"
    }
   ],
   "rainews": [
@@ -1320,31 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T17:08:22.771Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-27T17:08:23.534Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T17:08:23.824Z",
+   "checkedAt": "2026-11-27T17:10:41.723Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T17:08:24.111Z",
+   "checkedAt": "2026-11-27T17:10:42.610Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T17:10:42.772Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-27T17:10:42.776Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T17:08:24.496Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-27T17:08:25.079Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T17:08:25.082Z",
+   "checkedAt": "2026-11-27T17:10:43.707Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1344,43 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-27T17:08:25.343Z",
+   "checkedAt": "2026-11-27T17:10:44.082Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-27T17:10:44.135Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-27T17:08:25.838Z",
+   "checkedAt": "2026-11-27T17:10:44.169Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-27T17:08:26.542Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T17:08:26.566Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T17:08:26.861Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-27T17:10:44.209Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T17:08:28.320Z",
+   "checkedAt": "2026-11-27T17:10:44.506Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T17:10:44.841Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T17:10:44.899Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T17:08:28.420Z",
+   "checkedAt": "2026-11-27T17:10:46.826Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T17:10:46.907Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T17:08:28.641Z",
+   "checkedAt": "2026-11-27T17:10:47.014Z",
    "success": true
   }
  },
