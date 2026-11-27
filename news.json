@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T08:16:29.007Z",
+ "generatedAt": "2026-11-27T08:18:39.932Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/sportal/avtomotosport/formula-1-nedalec-od-vojnega-obmocja-katar-verstappen-raje-bi-ostal-doma-707309",
     "image": "https://siol.net/media/img/55/df/e1e4e1b94b6f6aac05d4.jpeg",
     "date": 1795765200000
+   },
+   {
+    "title": "Matoz zaradi izrečene kazni zahteva izredni nadzor: \"To je v posmeh policistom\" #video",
+    "link": "https://siol.net/novice/slovenija/matoz-zaradi-izrecene-kazni-zahteva-izredni-nadzor-to-je-v-posmeh-policistom-video-707335",
+    "image": "https://siol.net/media/img/f4/40/cdc083d026113e59daf9.jpeg",
+    "date": 1795764720000
    },
    {
     "title": "Matoz zaradi izrečene kazni zahteva izredni nadzor: \"To je v posmeh policistom\"",
@@ -65,12 +71,6 @@
    {
     "title": "Zimske razmere na cestah: na delu plužne in posipne skupine, ostaja več omejitev",
     "link": "https://siol.net/novice/slovenija/zimske-razmere-na-cestah-na-delu-pluzne-in-posipne-skupinec-ostaja-vec-omejitev-707328",
-    "image": "https://siol.net/media/img/16/de/6e13ac95f9053ca6f36c.jpeg",
-    "date": 1795757760000
-   },
-   {
-    "title": "Zimske razmere na cestah: na delu plužne in posipne skupinec, ostaja več omejitev. Kako bo konec tedna?",
-    "link": "https://siol.net/novice/slovenija/zimske-razmere-na-cestah-na-delu-pluzne-in-posipne-skupinec-ostaja-vec-omejitev-kako-bo-konec-tedna-707328",
     "image": "https://siol.net/media/img/16/de/6e13ac95f9053ca6f36c.jpeg",
     "date": 1795757760000
    }
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Bivši reprezentant in član Vučićeve stranke na begu pred policijo",
+    "link": "https://www.zurnal24.si/sport/bivsi-reprezentant-in-clan-vuciceve-stranke-na-begu-pred-policijo-468861",
+    "image": "https://www.zurnal24.si/media/img/5f/04/9ebecaf97e84d6021770.jpeg",
+    "date": 1795766820000
+   },
+   {
     "title": "S soigralci postal junak nacije, zdaj umrl pri 37-ih",
     "link": "https://www.zurnal24.si/sport/nogomet/s-soigralci-postal-junak-nacije-zdaj-umrl-pri-37-ih-468860",
     "image": "https://www.zurnal24.si/media/img/9c/1f/cb60b07c4acc78ea5167.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/bi-sklenili-zavarovanje-za-nesmrtnost-stevilni-ga-ze-imajo-tako-poceni-je-468831",
     "image": "https://www.zurnal24.si/media/img/ba/5b/bfce81f0bd33ea884039.jpeg",
     "date": 1795754760000
-   },
-   {
-    "title": "To je razlog, da je Ian iz Masterchefa izgubil vse posle",
-    "link": "https://www.zurnal24.si/magazin/vip/to-je-razlog-da-je-ian-iz-masterchefa-izgubil-vse-posle-468814",
-    "image": "https://www.zurnal24.si/media/img/31/9d/d79a3b115601ff51cadf.jpeg",
-    "date": 1795754700000
    }
   ],
   "hop": [
@@ -373,11 +373,39 @@
   ],
   "reuters": [
    {
+    "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
+    "link": "https://www.reuters.com/business/aerospace-defense/vietnamese-partners-trump-organization-plan-trump-tower-hanoi-sources-say-2026-11-27/",
+    "image": "",
+    "date": 1795767149000,
+    "titleSl": "Viri pravijo, da vietnamski partnerji organizacije Trump Organization načrtujejo Trumpov stolp v Hanoju"
+   },
+   {
+    "title": "Spain's Vox party leader Abascal nears power as election kingmaker",
+    "link": "https://www.reuters.com/world/spains-vox-party-leader-abascal-nears-power-election-kingmaker-2026-11-27/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PSIDPCUD7ZJVVIEYWHNPUWDNTY.jpg",
+    "date": 1795766539000,
+    "titleSl": "Vodja španske stranke Vox Abascal se približuje oblasti kot odločevalec na volitvah"
+   },
+   {
+    "title": "Centre-right leader Feijoo pitches himself as the manager Spain needs",
+    "link": "https://www.reuters.com/markets/europe/centre-right-leader-feijoo-pitches-himself-manager-spain-needs-2026-11-27/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IJ6YAVRX65NKHIVO3R4G2W5HCQ.jpg",
+    "date": 1795766471000,
+    "titleSl": "Vodja desnosredinske stranke Feijoo se predstavlja kot vodja, ki ga Španija potrebuje"
+   },
+   {
     "title": "French minister pitches Franco-Italian air defence system to Swiss",
     "link": "https://www.reuters.com/business/aerospace-defense/french-minister-pitches-franco-italian-air-defence-system-swiss-2026-11-27/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ANBJUBPB45NHNAGRTSUFMCXRZY.jpg",
-    "date": 1795766072000,
+    "date": 1795766143000,
     "titleSl": "Francoski minister Švicarjem predlaga francosko-italijanski sistem zračne obrambe"
+   },
+   {
+    "title": "French preliminary inflation at 3.2% in November",
+    "link": "https://www.reuters.com/markets/us/french-preliminary-inflation-32-november-2026-11-27/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TUEHT7VYCRJBVDNTNL7PD6U46M.jpg",
+    "date": 1795765903000,
+    "titleSl": "Francoska predhodna inflacija novembra znaša 3,2 %"
    },
    {
     "title": "French and Bulgarian leaders condemn fan violence in Marseille",
@@ -387,6 +415,20 @@
     "titleSl": "Francoski in bolgarski voditelji obsojajo nasilje navijačev v Marseillu"
    },
    {
+    "title": "Turkey's capital markets catch cold from funds crisis",
+    "link": "https://www.reuters.com/world/middle-east/turkeys-capital-markets-catch-cold-funds-crisis-2026-11-26/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JKTQEX3A2ZPWNA2BC5BUIIPWSQ.jpg",
+    "date": 1795765558000,
+    "titleSl": "Turške kapitalske trge je prizadela kriza skladov"
+   },
+   {
+    "title": "UK's Entain unit agrees to pay $123 million for breaching Australian anti-money laundering laws",
+    "link": "https://www.reuters.com/legal/government/uks-entain-unit-agrees-pay-123-million-for-breaching-australian-anti-money-2026-11-27/",
+    "image": "",
+    "date": 1795765400000,
+    "titleSl": "Britanska družba Entain se strinja s plačilom 123 milijonov USD zaradi kršitve avstralske zakonodaje o preprečevanju pranja denarja"
+   },
+   {
     "title": "South African rand strengthens on precious metals rally",
     "link": "https://www.reuters.com/world/africa/south-african-rand-strengthens-precious-metals-rally-2026-11-27/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WGVFZ7ODTVOFZIPL4I7XGFIJNQ.jpg",
@@ -394,11 +436,11 @@
     "titleSl": "Južnoafriški rand se krepi zaradi rasti cen plemenitih kovin"
    },
    {
-    "title": "UK's Entain unit agrees to pay $123 million for breaching Australian anti-money laundering laws",
-    "link": "https://www.reuters.com/legal/government/uks-entain-unit-agrees-pay-123-million-for-breaching-australian-anti-money-2026-11-27/",
-    "image": "",
-    "date": 1795765314000,
-    "titleSl": "Britanska družba Entain se strinja s plačilom 123 milijonov USD zaradi kršitve avstralske zakonodaje o preprečevanju pranja denarja"
+    "title": "Gold rebounds from one-year low as AI jitters ease",
+    "link": "https://www.reuters.com/world/india/gold-rebounds-one-year-low-ai-jitters-ease-2026-11-27/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CAZBVLXA5BJEDAERFCCBQR3RS4.jpg",
+    "date": 1795765329000,
+    "titleSl": "Zlato se je po umiritvi skrbi glede umetne inteligence pobralo z najnižje ravni v enem letu"
    },
    {
     "title": "Australian mushroom murderer Erin Patterson files High Court appeal bid",
@@ -413,48 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UZRPWMQELFMLNKK7TC2XG2V4H4.jpg",
     "date": 1795765208000,
     "titleSl": "Novi Trumpovi carinski ukrepi so namenjeni temu, da se svetovna trgovina iztrga iz primeža Kitajske"
-   },
-   {
-    "title": "Norse Atlantic says lessors terminate aircraft agreements",
-    "link": "https://www.reuters.com/business/aerospace-defense/norse-atlantic-says-lessors-terminate-aircraft-agreements-2026-11-27/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SXB57P7WFNO4ZIY4SLUSJMSGJQ.jpg",
-    "date": 1795765156000,
-    "titleSl": "Družba Norse Atlantic pravi, da so najemodajalci prekinili pogodbe o najemu letal"
-   },
-   {
-    "title": "Wall St futures surge as investors return from holiday",
-    "link": "https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5HSZYWBYWFIYLIRBQJPHTGFOAI.jpg",
-    "date": 1795764943000,
-    "titleSl": "Terminske pogodbe na Wall Streetu so poskočile, ko so se vlagatelji vrnili z dopusta"
-   },
-   {
-    "title": "China's industrial profit growth fastest in five months",
-    "link": "https://www.reuters.com/markets/asia/chinese-industrial-profit-rises-16-january-october-2026-11-27/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6VFYAWRZPBOM3M6TKDOL5IXOL4.jpg",
-    "date": 1795763977000,
-    "titleSl": "Najhitrejša rast dobička v kitajski industriji v zadnjih petih mesecih"
-   },
-   {
-    "title": "Indian firms utilising only 20%-30% of free trade agreement benefits, RBI governor says",
-    "link": "https://www.reuters.com/world/india/indian-firms-utilising-only-20-30-free-trade-agreement-benefits-rbi-governor-2026-11-27/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BHO5F5KM2VMILDK65FQT76A6JA.jpg",
-    "date": 1795763891000,
-    "titleSl": "Guverner RBI pravi, da indijska podjetja izkoriščajo le 20–30 % ugodnosti sporazumov o prosti trgovini"
-   },
-   {
-    "title": "With LeBron's help, banged-up 76ers persevere; face road test in Pacers",
-    "link": "https://www.reuters.com/sports/with-lebrons-help-banged-up-76ers-persevere-face-road-test-pacers--flm-2026-11-27/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/45JTNWCO6VKYDOX4MJN6IYR5SY.jpg",
-    "date": 1795763843000,
-    "titleSl": "S pomočjo LeBrona so poškodovani igralci ekipe 76ers vztrajali; pred njimi je gostujoča tekma proti ekipi Pacers"
-   },
-   {
-    "title": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy",
-    "link": "https://www.reuters.com/technology/russian-ai-model-fills-void-unfinished-gogol-novel-not-everyone-is-happy-2026-11-27/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NWGFC67RJBOV5IQREQGE7QTJME.jpg",
-    "date": 1795763626000,
-    "titleSl": "Ruski model umetne inteligence zapolni praznino v Gogoljevem nedokončanem romanu. Niso vsi zadovoljni"
    }
   ],
   "nyt": [
@@ -631,6 +631,20 @@
   ],
   "aljazeera": [
    {
+    "title": "New Zealand election results set up tricky talks for conservative incumbent",
+    "link": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T032401Z_831668121_RC22WOAN8LR8_RTRMADP_3_NEW-ZEALAND-POLITICS-1795762066.jpg?resize=1920%2C1440",
+    "date": 1795766132000,
+    "titleSl": "Rezultati novozelandskih volitev napovedujejo zahtevne pogovore za konservativno stranko na oblasti"
+   },
+   {
+    "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
+    "link": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09233e37-1795760958_2ee403-1795761015.jpg?resize=1200%2C630&quality=80",
+    "date": 1795766039000,
+    "titleSl": "»Zadolževanje, da bi preživeli«: naraščajoči življenjski stroški v Evropi"
+   },
+   {
     "title": "Brazilian footballer arrested in drug trafficking investigation",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795764686.jpg?resize=1920%2C1080&quality=80",
@@ -699,20 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Artboard-1-1795025459.png?resize=1200%2C630",
     "date": 1795759057000,
     "titleSl": "Pojasnilo volitev v Španiji leta 2026 z zemljevidi in grafikoni"
-   },
-   {
-    "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
-    "link": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/AP23325306075928-1700570728.jpg?resize=1920%2C1440",
-    "date": 1795757238000,
-    "titleSl": "Izrael uporablja krščanske vasi v južnem Libanonu, da bi poskušal razdeliti in osvojiti"
-   },
-   {
-    "title": "New Zealand’s Opportunity Party poised to become election kingmaker",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795755587.jpg?resize=1920%2C1080&quality=80",
-    "date": 1795755593000,
-    "titleSl": "Novozelandska Stranka priložnosti je pripravljena postati odločilni dejavnik na volitvah"
    }
   ],
   "guardian": [
@@ -889,6 +889,20 @@
   ],
   "bild": [
    {
+    "title": "5,5 Prozent statt null - Falsches Alkoholfrei‑Etikett! Bier zurückgerufen",
+    "link": "https://www.bild.de/news/inland/brauerei-in-bayern-ruft-bier-wegen-falscher-etiketten-zurueck-6b0890ae1c4d5a00bfba0a33",
+    "image": "https://images.bild.de/6b0890ae1c4d5a00bfba0a33/201a859494837bd58908098ad5ce3391,b4050021?w=1280",
+    "date": 1795767391000,
+    "titleSl": "5,5 odstotka namesto nič – napačna oznaka brezalkoholnega piva! Pivo je bilo odpoklicano"
+   },
+   {
+    "title": "10. Sieg in Folge - Deutscher Trainer auf Rekordkurs",
+    "link": "https://www.bild.de/sport/fussball/marco-rose-deutscher-trainer-mit-bournemouth-auf-rekordkurs-6b09367b3902428a0b4291f2",
+    "image": "https://images.bild.de/6b09367b3902428a0b4291f2/d9c762e83a25066c2b5a2b5cfe3d26a0-landscape,28a5853f?w=1280",
+    "date": 1795767234000,
+    "titleSl": "10. Sieg in Folge – Deutscher Trainer auf Rekordkurs"
+   },
+   {
     "title": "Imame laufen Sturm - Briten wollen „Homo-Heilungen“ verbieten",
     "link": "https://www.bild.de/politik/ausland-und-internationales/imame-laufen-sturm-briten-wollen-homo-heilungen-verbieten-6b0922e646039c5f0be5bbef",
     "image": "https://images.bild.de/6b0922e646039c5f0be5bbef/ada4b45ae55175f6b7722fb07055ec3f,93bbf5?w=1280",
@@ -957,20 +971,6 @@
     "image": "https://images.bild.de/6b09377a4f5d4fcd0acd2b87/56bfbdfbb08c73f10c45bb1544d54e07,d6572556?w=1280",
     "date": 1795766443000,
     "titleSl": "»Sumljive dejavnosti« – opozorilo o hekerjih pri nemškem softverskem velikanu SAP"
-   },
-   {
-    "title": "„SmackDown“ exklusiv ab 2 Uhr - Die letzte Schlacht vor der „Survivor Series“",
-    "link": "https://www.bild.de/bild-plus/sport/mehr-sport/wrestling/hier-gibt-es-wwe-smackdown-live-bei-bild-86891982.bild.html",
-    "image": "https://images.bild.de/65b114693f11df421f3df0bd/57994707dc80b293bf63c1fe1326594b,a0491444?w=1280",
-    "date": 1795766434000,
-    "titleSl": "»SmackDown« ekskluzivno od 2. ure – Zadnja bitka pred »Survivor Series«"
-   },
-   {
-    "title": "Ausgerechnet am Black Friday - ver.di bestreikt elf Amazon-Standorte",
-    "link": "https://www.bild.de/news/inland/ausgerechnet-am-black-friday-ver-di-bestreikt-elf-amazon-standorte-6b092e5646039c5f0be5bcc0",
-    "image": "https://images.bild.de/6b092e5646039c5f0be5bcc0/cda9c750d4178d861d95f34180df92fb,7f4c5661?w=1280",
-    "date": 1795766420000,
-    "titleSl": "Ravno na črni petek – sindikat ver.di stavka v enajstih Amazonovih lokacijah"
    }
   ],
   "krone": [
@@ -1268,13 +1268,6 @@
     "titleSl": "Ena razprava, dva bloka in različne strategije: levica deluje skupaj, desnica pa se ne upošteva medsebojno"
    },
    {
-    "title": "Voto útil con todas las encuestas: Las opciones de izquierda y derecha en cada provincia",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/CO5KXM5NKJB7BOB2QQVO7LKVH4.png?auth=2d0a5b8ab309b5bcd84890ed0e238a8dcfda1b32ac1885bbd89c8104ef4ba217&width=1200",
-    "date": 1795753801000,
-    "titleSl": "Uporabni glasovi glede na vse ankete: možnosti levice in desnice v vsaki provinci"
-   },
-   {
     "title": "Ethan Hawke: “Cuando conoces a un hombre en su punto más bajo, sabes que hay una buena historia”",
     "link": "https://elpais.com/cultura/cine/2026-11-27/ethan-hawke-cuando-conoces-a-un-hombre-en-su-punto-mas-bajo-sabes-que-hay-una-buena-historia.html",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261125/1242157_135407_video_1800.mp4",
@@ -1315,72 +1308,79 @@
     "image": "https://imagenes.elpais.com/resizer/v2/C5G2URE3QVAQJDLBX4OALOHYB4.png?auth=04cf4605925c55f1762d1c53e7abd0cbfafceb763253b9f2d1875d3fd7ad6336&width=1200",
     "date": 1795753801000,
     "titleSl": "Katera gibanja bodo odločila volitve 29. novembra? Odcepitve od levice, vzdržani volivci in novi volivci"
+   },
+   {
+    "title": "De Extremoduro a Lady Gaga: ¿hasta dónde pueden los políticos apropiarse de las canciones en campaña?",
+    "link": "https://elpais.com/cultura/2026-11-27/de-extremoduro-a-lady-gaga-hasta-donde-pueden-los-politicos-apropiarse-de-las-canciones-en-campana.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/WLYJKDPY3FCBTPMOOWOIZRAX2E.jpg?auth=d2a2874afea92898351ca4e76ab63efd65d95144728ef1bb863491510094fe4e",
+    "date": 1795753801000,
+    "titleSl": "Od skupine Extremoduro do Lady Gaga: Do katere mere si lahko politiki v volilni kampanji prisvajajo pesmi?"
    }
   ]
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T08:16:23.666Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-27T08:16:24.462Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T08:16:24.713Z",
+   "checkedAt": "2026-11-27T08:18:23.867Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T08:16:24.823Z",
+   "checkedAt": "2026-11-27T08:18:24.592Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T08:18:24.970Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-27T08:18:25.166Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T08:16:25.375Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-27T08:16:25.828Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T08:16:25.854Z",
+   "checkedAt": "2026-11-27T08:18:26.169Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "bbc": {
+   "checkedAt": "2026-11-27T08:18:26.579Z",
+   "success": true
+  },
   "nyt": {
-   "checkedAt": "2026-11-27T08:16:26.003Z",
+   "checkedAt": "2026-11-27T08:18:26.689Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-27T08:18:30.024Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T08:16:26.019Z",
+   "checkedAt": "2026-11-27T08:18:35.692Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-27T08:16:26.574Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T08:16:26.971Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-27T08:16:27.135Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-27T08:16:28.725Z",
+   "checkedAt": "2026-11-27T08:18:36.300Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T08:16:28.805Z",
+   "checkedAt": "2026-11-27T08:18:36.375Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T08:18:36.541Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T08:18:37.024Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-27T08:18:38.509Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T08:16:29.006Z",
+   "checkedAt": "2026-11-27T08:18:39.931Z",
    "success": true
   }
  },
