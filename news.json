@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:56:30.556Z",
+ "generatedAt": "2026-11-27T09:58:35.276Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/83ef8790-ea37-11f1-a094-5fdc692f3e33.jpg",
+    "date": 1795773457000,
+    "titleSl": "Vodja britanskega nacionalnega zdravstvenega sistema (NHS) opozarja na »grozljivo povečanje« števila primerov gripe, saj se število sprejemov v bolnišnice povečuje"
+   },
+   {
     "title": "Is it a cold, flu or Covid? How to tell the difference",
     "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg",
@@ -585,13 +592,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6d/live/390ab730-e9fc-11f1-a094-5fdc692f3e33.jpg",
     "date": 1795765620000,
     "titleSl": "Avstralska preiskava afere z brusnim papirjem bo vključevala tudi serijo Ashes 2017–18 proti Angliji"
-   },
-   {
-    "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/83ef8790-ea37-11f1-a094-5fdc692f3e33.jpg",
-    "date": 1795765225000,
-    "titleSl": "Vodja britanskega nacionalnega zdravstvenega sistema (NHS) opozarja na »grozljivo povečanje« števila primerov gripe, saj se število sprejemov v bolnišnice povečuje"
    },
    {
     "title": "What happens now for Bayern Munich and Musiala?",
@@ -889,6 +889,12 @@
   ],
   "bild": [
    {
+    "title": "Platz vergangen - Warum Katzen immer auf unserem Stuhl liegen",
+    "link": "https://www.bild.de/leben-wissen/haustiere/wieso-liegen-katzen-immer-auf-unserem-stuhl-6967617369dcb7a3b21e9906",
+    "image": "https://images.bild.de/6967617369dcb7a3b21e9906/202b240a90bc047729313ef1b0ed3963,c894602c?w=1280",
+    "date": 1795773327000
+   },
+   {
     "title": "Affen-Invasion in Agra - Hunderte Tiere belagern das Taj Mahal",
     "link": "https://www.bild.de/news/ausland/taj-mahal-affen-greifen-touristen-an-behoerden-warnen-vor-selfies-6b0949f346039c5f0be5bf74",
     "image": "https://images.bild.de/6b0949f346039c5f0be5bf74/381034c5c8c3379e40451fc000b19814,1e46dad7?w=1280",
@@ -961,13 +967,6 @@
     "image": "https://images.bild.de/6b093b3546039c5f0be5bdbb/239405a071dfa79db49c981215e7450b,2f04d7e4?w=1280",
     "date": 1795772700000,
     "titleSl": "Kljub grozečemu mučenju – AfD zavrača ukrajinske begunce"
-   },
-   {
-    "title": "Versteckspiel im Sauerland - Russischer Agent fürchtet Putins Rache",
-    "link": "https://www.bild.de/news/inland/ukrainer-54-soll-fuer-russland-spioniert-haben-prozess-in-duesseldorf-6b084ca31c4d5a00bfba0461",
-    "image": "https://images.bild.de/6b084ca31c4d5a00bfba0461/f39ef3a47204ff4d070c788b80d90228,52f580b3?w=1280",
-    "date": 1795772627000,
-    "titleSl": "Skrivalnice v Sauerlandu – ruski agent se boji Putinovega maščevanja"
    }
   ],
   "krone": [
@@ -1316,23 +1315,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T09:56:26.178Z",
+   "checkedAt": "2026-11-27T09:58:29.642Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T09:56:26.659Z",
+   "checkedAt": "2026-11-27T09:58:30.572Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T09:56:26.751Z",
+   "checkedAt": "2026-11-27T09:58:30.594Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T09:56:26.929Z",
+   "checkedAt": "2026-11-27T09:58:30.648Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T09:56:27.376Z",
+   "checkedAt": "2026-11-27T09:58:31.106Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-27T09:58:31.201Z",
    "success": true
   },
   "guardian": {
@@ -1340,43 +1343,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-27T09:56:27.415Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T09:56:27.422Z",
+   "checkedAt": "2026-11-27T09:58:31.230Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T09:56:27.450Z",
+   "checkedAt": "2026-11-27T09:58:31.258Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T09:56:28.130Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T09:56:28.346Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T09:56:28.361Z",
+   "checkedAt": "2026-11-27T09:58:31.566Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T09:56:28.798Z",
+   "checkedAt": "2026-11-27T09:58:31.676Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T09:58:31.880Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T09:58:32.238Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T09:56:29.151Z",
+   "checkedAt": "2026-11-27T09:58:32.889Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T09:56:30.497Z",
+   "checkedAt": "2026-11-27T09:58:35.169Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T09:56:30.555Z",
+   "checkedAt": "2026-11-27T09:58:35.275Z",
    "success": true
   }
  },
