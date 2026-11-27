@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T19:06:40.015Z",
+ "generatedAt": "2026-11-27T19:08:30.093Z",
  "sources": {
   "siol": [
    {
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Ob 3.30: San Antonio - Los Angeles Lakers",
+    "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/ob-3-30-san-antonio-los-angeles-lakers/801426",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/15/67122001.jpg",
+    "date": 1795806365000
+   },
+   {
     "title": "Zaradi neurja v ZDA več kot 600.000 odjemalcev brez elektrike, motnje v prometu",
     "link": "https://www.rtvslo.si/svet/s-in-j-amerika/zaradi-neurja-v-zda-vec-kot-600-000-odjemalcev-brez-elektrike-motnje-v-prometu/801550",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/27/67125593.jpg",
@@ -213,12 +219,6 @@
    {
     "title": "Onkološki inštitut: Razočarani smo nad opustitvijo širitve, pri odločitvi nismo sodelovali",
     "link": "https://www.rtvslo.si/zdravje/onkoloski-institut-razocarani-smo-nad-opustitvijo-siritve-pri-odlocitvi-nismo-sodelovali/801544",
-    "image": "https://img.rtvcdn.si/_up/upload/2024/02/16/66158770.jpg",
-    "date": 1795801937000
-   },
-   {
-    "title": "Več nevladnih organizacij nasprotuje ustavitvi širitve Onkološkega inštituta",
-    "link": "https://www.rtvslo.si/zdravje/vec-nevladnih-organizacij-nasprotuje-ustavitvi-siritve-onkoloskega-instituta/801544",
     "image": "https://img.rtvcdn.si/_up/upload/2024/02/16/66158770.jpg",
     "date": 1795801937000
    }
@@ -645,11 +645,11 @@
     "titleSl": "Španski reševalci oskrbujejo migrante, saj jih na Kanarske otoke prispe na stotine"
    },
    {
-    "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+    "title": "Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy",
     "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09af2d-1795796781.jpg?resize=1920%2C1440",
     "date": 1795801473000,
-    "titleSl": "Kijev ponuja prekinitev ognja v Črnem morju za zaščito izvoza žita"
+    "titleSl": "Kijev ponuja prekinitev ognja v Črnem morju, medtem ko Putin krepi rusko mornarico"
    },
    {
     "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
@@ -1061,6 +1061,13 @@
   ],
   "rainews": [
    {
+    "title": "DIRETTA - Davis, in palio la finale: Musetti batte Mensik, Italia-Cechia 1-1. Lehecka supera Cobolli",
+    "link": "https://www.rainews.it/maratona/2026/11/tennis-coppa-davis-final-eight-bologna-italia-corea-del-sud-cechia-canada-gran-bretagna-germania-austria-spagna-volandri-cobolli-musetti-darderi-berretini-vavassori-diretta-aggiornamenti-8ebaf8e1-f5cc-4a8f-9024-d17d567bbf34.html",
+    "image": "https://www.rainews.it/dl/img/2026/11/27/1795794640429_large.jpg",
+    "date": 1795806420000,
+    "titleSl": "V ŽIVO – Davisov pokal, na kocki je finale: Musetti je premagal Mensika, Italija – Češka 1:1. Lehečka je premagal Cobollija."
+   },
+   {
     "title": "JOB&Orienta, il futuro passa da formazione e nuove competenze",
     "link": "https://www.rainews.it/maratona/2026/11/joborienta-il-futuro-passa-da-formazione-e-nuove-competenze-dbdbccdb-2832-4736-8f28-6d1c65ce5f2b.html",
     "image": "https://www.rainews.it/dl/img/2026/11/27/1795768146420_JobOrientaVeronafiereEnneviFoto_ok_.jpg",
@@ -1073,13 +1080,6 @@
     "image": "https://www.rainews.it/dl/img/2025/09/30/1759222983291_2048x1152.jpg",
     "date": 1795805986000,
     "titleSl": "Sera 24 – Oddaja z dne 27. 11. 2026"
-   },
-   {
-    "title": "DIRETTA - Davis, in palio la finale: Musetti batte Mensik, Italia-Cechia 1-1. Lehecka supera Cobolli",
-    "link": "https://www.rainews.it/maratona/2026/11/tennis-coppa-davis-final-eight-bologna-italia-corea-del-sud-cechia-canada-gran-bretagna-germania-austria-spagna-volandri-cobolli-musetti-darderi-berretini-vavassori-diretta-aggiornamenti-8ebaf8e1-f5cc-4a8f-9024-d17d567bbf34.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/27/1795794640429_large.jpg",
-    "date": 1795805640000,
-    "titleSl": "V ŽIVO – Davisov pokal, na kocki je finale: Musetti je premagal Mensika, Italija – Češka 1:1. Lehečka je premagal Cobollija."
    },
    {
     "title": "Il monito del Papa a Sant&#x27;Andrea delle Fratte: \"L&#x27;umanità è ferita da guerre e ingiustizie\"",
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T19:06:24.949Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-27T19:06:25.985Z",
+   "checkedAt": "2026-11-27T19:08:24.314Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T19:06:26.025Z",
+   "checkedAt": "2026-11-27T19:08:25.306Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-27T19:08:25.808Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T19:06:26.306Z",
+   "checkedAt": "2026-11-27T19:08:25.979Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T19:06:26.741Z",
+   "checkedAt": "2026-11-27T19:08:26.241Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-27T19:06:27.149Z",
+   "checkedAt": "2026-11-27T19:08:26.668Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-27T19:06:27.159Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T19:06:28.783Z",
+   "checkedAt": "2026-11-27T19:08:26.702Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T19:06:36.020Z",
+   "checkedAt": "2026-11-27T19:08:26.929Z",
    "success": true
   },
-  "krone": {
-   "checkedAt": "2026-11-27T19:06:36.328Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-27T19:06:36.728Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-27T19:08:28.553Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-27T19:06:38.232Z",
+   "checkedAt": "2026-11-27T19:08:29.106Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-27T19:08:29.196Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T19:06:39.841Z",
+   "checkedAt": "2026-11-27T19:08:29.271Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T19:06:39.875Z",
+   "checkedAt": "2026-11-27T19:08:29.364Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T19:08:29.971Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T19:06:40.014Z",
+   "checkedAt": "2026-11-27T19:08:30.092Z",
    "success": true
   }
  },
