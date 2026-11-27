@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T23:28:28.039Z",
+ "generatedAt": "2026-11-27T23:30:58.165Z",
  "sources": {
   "siol": [
    {
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+    "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09705fad-1795780703.jpg?resize=1920%2C1440",
+    "date": 1795820944000,
+    "titleSl": "Ali bo Tajvan glasoval za oživitev jedrske energije – in zakaj je to pomembno za umetno inteligenco?"
+   },
+   {
     "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
     "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09d72e1273-1795807022.jpg?resize=1920%2C1440",
     "date": 1795809205000,
     "titleSl": "Izrael je v Gazi ubil štiri ljudi, sin vodje Hamasa al-Hayye pa je napad preživel"
-   },
-   {
-    "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
-    "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09bc8a-1795800202.jpg?resize=1920%2C1440",
-    "date": 1795802316000,
-    "titleSl": "Mehika je vložila pritožbo proti ZDA zaradi telefonske linije Uprave za boj proti drogam (DEA) za prijavo domnevnih preprodajalcev drog"
    }
   ],
   "guardian": [
@@ -1320,35 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T23:28:24.025Z",
+   "checkedAt": "2026-11-27T23:30:52.468Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T23:28:24.661Z",
+   "checkedAt": "2026-11-27T23:30:53.017Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T23:28:24.821Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T23:28:24.887Z",
+   "checkedAt": "2026-11-27T23:30:53.123Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T23:28:25.869Z",
+   "checkedAt": "2026-11-27T23:30:53.877Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T23:30:53.950Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T23:28:26.162Z",
+   "checkedAt": "2026-11-27T23:30:54.134Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-27T23:28:26.182Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T23:28:26.184Z",
+   "checkedAt": "2026-11-27T23:30:54.284Z",
    "success": true
   },
   "guardian": {
@@ -1356,31 +1352,35 @@
    "success": false
   },
   "reuters": {
-   "checkedAt": "2026-11-27T23:28:26.591Z",
+   "checkedAt": "2026-11-27T23:30:54.746Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-27T23:28:27.197Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-27T23:30:56.324Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T23:28:27.211Z",
+   "checkedAt": "2026-11-27T23:30:56.756Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T23:30:56.769Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T23:28:27.614Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-27T23:28:27.872Z",
+   "checkedAt": "2026-11-27T23:30:57.080Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T23:28:27.902Z",
+   "checkedAt": "2026-11-27T23:30:57.665Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T23:30:58.021Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T23:28:28.038Z",
+   "checkedAt": "2026-11-27T23:30:58.164Z",
    "success": true
   }
  },
