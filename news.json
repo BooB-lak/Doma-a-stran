@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:48:42.136Z",
+ "generatedAt": "2026-11-27T09:50:52.059Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Is it a cold, flu or Covid? How to tell the difference",
+    "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg",
+    "date": 1795772618000,
+    "titleSl": "Je to prehlad, gripa ali covid? Kako razlikovati med njimi"
+   },
+   {
     "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
     "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0041/live/4371efb0-ea36-11f1-9fc4-ef897a334b75.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d81/live/f49f31c0-ea46-11f1-b220-b9f21129b546.jpg",
     "date": 1795759939000,
     "titleSl": "Chris Mason: Število priseljencev se je zmanjšalo, vendar ali bo to pomenilo konec problema?"
-   },
-   {
-    "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
-    "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1795759771000,
-    "titleSl": "»To je nemogoče«: Mladi v Španiji o stanovanjski problematiki pred nedeljskimi volitvami"
    }
   ],
   "aljazeera": [
@@ -889,11 +889,18 @@
   ],
   "bild": [
    {
-    "title": "Keine Diät mehr für China-Leopard - Pan Baobao darf seine Pfunde behalten",
+    "title": "Diät-Aus für Pummel-Leopard - Pan Baobao darf seine Pfunde behalten",
     "link": "https://www.bild.de/news/ausland/pan-baobao-zoo-beendet-diaet-fuer-betagten-leoparden-6b0949a94f5d4fcd0acd2d58",
     "image": "https://images.bild.de/6b0949a94f5d4fcd0acd2d58/0aa0d36d0a3cd2338ed5c54de39af51b,43f18206?w=1280",
-    "date": 1795772748000,
-    "titleSl": "Nič več diete za kitajskega leoparda – Pan Baobao lahko obdrži svoje kilograme"
+    "date": 1795772875000,
+    "titleSl": "Konec diete za okroglega leoparda – Pan Baobao lahko obdrži svoje kilograme"
+   },
+   {
+    "title": "Prügel, Tritte, Reizgas! - Bande schlägt in Drogerie zu",
+    "link": "https://www.bild.de/news/pruegel-tritte-reizgas-bande-schlaegt-in-drogerie-zu-6b085a6d78855274ac4abb62",
+    "image": "https://images.bild.de/6b085a6d78855274ac4abb62/5fe255a6a082d32b169119dc6629dd60-landscape,f2d8d63a?w=1280",
+    "date": 1795772816000,
+    "titleSl": "Pretepanje, brce, solzivec! – Tolpa je napadla drogerijo"
    },
    {
     "title": "Trotz drohender Folter - AfD-Absage an Ukraine-Flüchtlinge",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6b0557c16c27b799309d0246/388ef8fe535ebeec6101c705039331bb,c2d1ad44?w=1280",
     "date": 1795771765000,
     "titleSl": "Že dolgo jih nismo slišali, vendar vsaka beseda drži – 15 največjih ušesnih črvov iz devetdesetih let"
-   },
-   {
-    "title": "Alice Weidel - „Ich finde Frauen UND Männer attraktiv“",
-    "link": "https://www.bild.de/politik/inland/alice-weidel-ich-finde-frauen-und-maenner-attraktiv-6b09330b4f5d4fcd0acd2b56",
-    "image": "https://images.bild.de/6b09330b4f5d4fcd0acd2b56/090e378bd969776b11ae395a4dc49dd9,db882e88?w=1280",
-    "date": 1795771529000,
-    "titleSl": "Alice Weidel – »Privlačne se mi zdijo ženske IN moški.«"
    }
   ],
   "krone": [
@@ -978,7 +978,7 @@
     "title": "Drama in Wien - Unfall mit Schneeräumtraktor: Kind schwer verletzt",
     "link": "https://www.krone.at/4392507",
     "image": "https://imgl.krone.at/scaled/4348914/va1725b/full.jpg",
-    "date": 1795772865000,
+    "date": 1795772906000,
     "titleSl": "Drama na Dunaju – Nesreča s traktorjem za čiščenje snega: Otrok hudo poškodovan"
    },
    {
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T09:48:24.900Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-27T09:48:25.611Z",
+   "checkedAt": "2026-11-27T09:50:45.153Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T09:48:25.887Z",
+   "checkedAt": "2026-11-27T09:50:45.818Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-27T09:50:46.073Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T09:48:25.948Z",
+   "checkedAt": "2026-11-27T09:50:46.094Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T09:48:26.650Z",
+   "checkedAt": "2026-11-27T09:50:46.659Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-27T09:50:46.763Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T09:48:26.965Z",
-   "success": true
-  },
   "nyt": {
-   "checkedAt": "2026-11-27T09:48:27.143Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-27T09:48:28.882Z",
+   "checkedAt": "2026-11-27T09:50:46.844Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T09:48:37.905Z",
+   "checkedAt": "2026-11-27T09:50:47.126Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-27T09:48:38.508Z",
+  "bbc": {
+   "checkedAt": "2026-11-27T09:50:48.609Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T09:48:38.885Z",
+   "checkedAt": "2026-11-27T09:50:48.730Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T09:50:49.108Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T09:48:38.961Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-27T09:48:41.093Z",
+   "checkedAt": "2026-11-27T09:50:49.344Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-27T09:48:41.941Z",
+   "checkedAt": "2026-11-27T09:50:49.802Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-27T09:50:51.954Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T09:48:42.135Z",
+   "checkedAt": "2026-11-27T09:50:52.058Z",
    "success": true
   }
  },
