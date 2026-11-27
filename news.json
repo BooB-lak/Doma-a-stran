@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:06:38.521Z",
+ "generatedAt": "2026-11-27T16:08:29.522Z",
  "sources": {
   "siol": [
    {
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Body found in woodland confirmed as missing Kelsey Hunter",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2e315rz00o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "date": 1795795257000,
+    "titleSl": "Potrjeno je bilo, da je truplo, najdeno v gozdu, pogrešana Kelsey Hunter."
+   },
+   {
     "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
     "link": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f39f/live/f13ad370-ea7a-11f1-9888-1b7e4a7a7390.png",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90cf/live/ea63a4e0-ea53-11f1-b220-b9f21129b546.jpg",
     "date": 1795788380000,
     "titleSl": "Dec Donnelly pravi, da so napetosti v oddaji »I'm a Celebrity« »prerasle v veliko večji problem, kot bi smele«."
-   },
-   {
-    "title": "Cricket Australia may not like sandpaper forum findings - Vaughan",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abf3/live/e7861ae0-ea68-11f1-a828-d384c0290f6b.jpg",
-    "date": 1795788357000,
-    "titleSl": "Cricket Australia morda ne bo všeč ugotovitve foruma o brusnem papirju – Vaughan"
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T16:06:25.324Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-27T16:06:25.913Z",
+   "checkedAt": "2026-11-27T16:08:24.133Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T16:06:25.934Z",
+   "checkedAt": "2026-11-27T16:08:24.855Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T16:06:26.108Z",
+   "checkedAt": "2026-11-27T16:08:24.931Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-27T16:08:25.136Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T16:06:26.723Z",
+   "checkedAt": "2026-11-27T16:08:25.654Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T16:06:26.868Z",
+   "checkedAt": "2026-11-27T16:08:25.900Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-27T16:06:27.076Z",
-   "success": true
-  },
   "aljazeera": {
-   "checkedAt": "2026-11-27T16:06:27.373Z",
+   "checkedAt": "2026-11-27T16:08:26.045Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T16:06:35.895Z",
+   "checkedAt": "2026-11-27T16:08:26.410Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-27T16:06:36.505Z",
+  "bbc": {
+   "checkedAt": "2026-11-27T16:08:27.936Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T16:06:36.638Z",
+   "checkedAt": "2026-11-27T16:08:28.443Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T16:08:28.462Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T16:06:36.810Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-27T16:06:37.442Z",
+   "checkedAt": "2026-11-27T16:08:28.540Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T16:06:38.405Z",
+   "checkedAt": "2026-11-27T16:08:28.655Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T16:08:29.192Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T16:06:38.521Z",
+   "checkedAt": "2026-11-27T16:08:29.520Z",
    "success": true
   }
  },
