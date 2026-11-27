@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T07:50:46.048Z",
+ "generatedAt": "2026-11-27T07:52:34.788Z",
  "sources": {
   "siol": [
    {
@@ -9,7 +9,7 @@
     "date": 1795765200000
    },
    {
-    "title": "Matoz zaradi izrečene kazni zahteva izredni nadzor: To je v posmeh policistom",
+    "title": "Matoz zaradi izrečene kazni zahteva izredni nadzor: \"To je v posmeh policistom\"",
     "link": "https://siol.net/novice/slovenija/matoz-zaradi-izrecene-kazni-zahteva-izredni-nadzor-to-je-v-posmeh-policistom-707335",
     "image": "https://siol.net/media/img/f4/40/cdc083d026113e59daf9.jpeg",
     "date": 1795764720000
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "S soigralci postal junak nacije, zdaj umrl pri 37-ih",
+    "link": "https://www.zurnal24.si/sport/nogomet/s-soigralci-postal-junak-nacije-zdaj-umrl-pri-37-ih-468860",
+    "image": "https://www.zurnal24.si/media/img/9c/1f/cb60b07c4acc78ea5167.jpeg",
+    "date": 1795764180000
+   },
+   {
     "title": "\"Če so interesi močni, lahko človeka pljuvaš v obraz, pa bo šel naprej kot tank\"",
     "link": "https://www.zurnal24.si/slovenija/brecelj-ostro-nad-ostrca-ce-so-interesi-mocni-lahko-cloveka-pljuvas-v-obraz-pa-bo-sel-naprej-kot-tank-468858",
     "image": "https://www.zurnal24.si/media/img/71/47/ea0a72c9c7fe3c81d983.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/to-je-razlog-da-je-ian-iz-masterchefa-izgubil-vse-posle-468814",
     "image": "https://www.zurnal24.si/media/img/31/9d/d79a3b115601ff51cadf.jpeg",
     "date": 1795754700000
-   },
-   {
-    "title": "Znani komentator skokov spregovoril po hudi diagnozi",
-    "link": "https://www.zurnal24.si/sport/zimski-sporti/znani-komentator-skokov-spregovoril-po-hudi-diagnozi-468848",
-    "image": "https://www.zurnal24.si/media/img/8e/a6/6fa7c84cbcaaad1d1acc.jpeg",
-    "date": 1795754400000
    }
   ],
   "hop": [
@@ -376,31 +376,36 @@
     "title": "South African rand strengthens on precious metals rally",
     "link": "https://www.reuters.com/world/africa/south-african-rand-strengthens-precious-metals-rally-2026-11-27/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WGVFZ7ODTVOFZIPL4I7XGFIJNQ.jpg",
-    "date": 1795765389000
+    "date": 1795765389000,
+    "titleSl": "Južnoafriški rand se krepi zaradi rasti cen plemenitih kovin"
    },
    {
     "title": "UK's Entain unit agrees to pay $123 million for breaching Australian anti-money laundering laws",
     "link": "https://www.reuters.com/legal/government/uks-entain-unit-agrees-pay-123-million-for-breaching-australian-anti-money-2026-11-27/",
     "image": "",
-    "date": 1795765314000
+    "date": 1795765314000,
+    "titleSl": "Britanska družba Entain se strinja s plačilom 123 milijonov USD zaradi kršitve avstralske zakonodaje o preprečevanju pranja denarja"
    },
    {
     "title": "Australian mushroom murderer Erin Patterson files High Court appeal bid",
     "link": "https://www.reuters.com/legal/litigation/australian-mushroom-murderer-erin-patterson-files-high-court-appeal-bid-2026-11-27/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UXYQ2JDQKVPV7KIG6WJ6VVFQRU.jpg",
-    "date": 1795765299000
+    "date": 1795765299000,
+    "titleSl": "Avstralska morilka z gobami Erin Patterson je vložila pritožbo na vrhovno sodišče"
    },
    {
     "title": "Norse Atlantic says lessors terminate aircraft agreements",
     "link": "https://www.reuters.com/business/aerospace-defense/norse-atlantic-says-lessors-terminate-aircraft-agreements-2026-11-27/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SXB57P7WFNO4ZIY4SLUSJMSGJQ.jpg",
-    "date": 1795765156000
+    "date": 1795765156000,
+    "titleSl": "Družba Norse Atlantic pravi, da so najemodajalci prekinili pogodbe o najemu letal"
    },
    {
     "title": "Wall St futures surge as investors return from holiday",
     "link": "https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5HSZYWBYWFIYLIRBQJPHTGFOAI.jpg",
-    "date": 1795764856000
+    "date": 1795764856000,
+    "titleSl": "Terminske pogodbe na Wall Streetu so poskočile, ko so se vlagatelji vrnili z dopusta"
    },
    {
     "title": "Indian firms utilising only 20%-30% of free trade agreement benefits, RBI governor says",
@@ -457,7 +462,7 @@
     "title": "Tonight’s Forecast Is Rain, Wind — and Leftover Turkey",
     "link": "https://www.nytimes.com/2026/11/27/nyregion/national-weather-service-thanksgiving-storm.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-meteorologists2/27xp-meteorologists2-mediumSquareAt3X.jpg",
-    "date": 1795762313000,
+    "date": 1795765848000,
     "titleSl": "Vremenska napoved za nocoj: dež, veter – in ostanki purana"
    },
    {
@@ -543,7 +548,8 @@
     "title": "Australia's sandpapergate probe to also include 2017-18 Ashes against England",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6d/live/390ab730-e9fc-11f1-a094-5fdc692f3e33.jpg",
-    "date": 1795765620000
+    "date": 1795765620000,
+    "titleSl": "Avstralska preiskava afere z brusnim papirjem bo vključevala tudi serijo Ashes 2017–18 proti Angliji"
    },
    {
     "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
@@ -969,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "NextGen EuroLeague: - Auf den Spuren der NBA-Stars: Supertalente in Wien",
+    "link": "https://www.krone.at/4392018",
+    "image": "https://imgl.krone.at/scaled/4392050/va6d78b/full.jpg",
+    "date": 1795765806000,
+    "titleSl": "NextGen EuroLeague: – Po stopinjah zvezdnikov lige NBA: supertalentirani igralci na Dunaju"
+   },
+   {
     "title": "WERBUNG - Geschenkideen & Gutscheine aus dem Grünen Herz",
     "link": "https://www.krone.at/4386652",
     "image": "https://imgl.krone.at/scaled/4386653/vd95f1c/full.jpg",
@@ -1044,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4389762/vfbf00c/full.jpg",
     "date": 1795763706000,
     "titleSl": "Divji lov – Prebežniki v begu, prebijanje skozi zapore"
-   },
-   {
-    "title": "Chefs greifen durch - Knalleffekt beim Roten Kreuz: Führungskräfte weg",
-    "link": "https://www.krone.at/4391918",
-    "image": "https://imgl.krone.at/scaled/4391979/v8d03af/full.jpg",
-    "date": 1795763042000,
-    "titleSl": "Vodstvo ukrepa – šok pri Rdečem križu: vodilni kadri odhajajo"
    }
   ],
   "rainews": [
@@ -1314,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T07:50:40.114Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-27T07:50:40.726Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-27T07:50:40.746Z",
+   "checkedAt": "2026-11-27T07:52:23.701Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T07:50:40.763Z",
+   "checkedAt": "2026-11-27T07:52:24.374Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-27T07:52:24.649Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-27T07:52:24.664Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T07:50:41.405Z",
+   "checkedAt": "2026-11-27T07:52:24.887Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-27T07:52:25.272Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-27T07:50:41.475Z",
-   "success": true
-  },
   "nyt": {
-   "checkedAt": "2026-11-27T07:50:41.516Z",
+   "checkedAt": "2026-11-27T07:52:25.403Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-27T07:50:42.440Z",
+   "checkedAt": "2026-11-27T07:52:27.130Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T07:50:45.709Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-27T07:50:45.776Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-27T07:50:45.790Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-27T07:50:45.932Z",
+   "checkedAt": "2026-11-27T07:52:32.800Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T07:50:45.952Z",
+   "checkedAt": "2026-11-27T07:52:33.353Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-27T07:52:33.422Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-27T07:52:33.487Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T07:50:45.988Z",
+   "checkedAt": "2026-11-27T07:52:33.566Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T07:52:34.663Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T07:50:46.047Z",
+   "checkedAt": "2026-11-27T07:52:34.787Z",
    "success": true
   }
  },
