@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T12:46:31.514Z",
+ "generatedAt": "2026-11-27T12:48:35.869Z",
  "sources": {
   "siol": [
    {
@@ -13,6 +13,12 @@
     "link": "https://siol.net/novice/slovenija/gorska-resevalna-zveza-in-planinska-zveza-opozarjata-na-pomanjkljivosti-predloga-uredbe-o-placljivem-resevanju-707379",
     "image": "https://siol.net/media/img/83/80/735a3dadb553209dbf0b.jpeg",
     "date": 1795782600000
+   },
+   {
+    "title": "Iz ZOO Ljubljana pobegnila mačja panda. Kje so našli pobeglo živalico našli?",
+    "link": "https://siol.net/novice/slovenija/iz-zoo-ljubljana-pobegnila-macja-panda-kje-so-nasli-pobeglo-zivalico-nasli-707374",
+    "image": "https://siol.net/media/img/4a/a2/832f1af4746345640948.jpeg",
+    "date": 1795782540000
    },
    {
     "title": "Zimske razmere: na Kaninu skoraj meter snega, na delu plužne in posipne skupine #foto",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/kosarka/kvalifikacije-sp-2027-drugi-del-3-krog-707342",
     "image": "https://siol.net/media/img/30/42/0b6dbf137f39066779c7.jpeg",
     "date": 1795776300000
-   },
-   {
-    "title": "Celjski junaki navdušili Evropo in v en glas zavpili: Zmoremo!",
-    "link": "https://siol.net/sportal/nogomet/odzivi-celjskih-nogometasev-po-remiju-na-madzarskem-707346",
-    "image": "https://siol.net/media/img/7a/b2/6705e7229c78fe4c80bb.jpeg",
-    "date": 1795775340000
    }
   ],
   "24ur": [
@@ -373,6 +373,13 @@
   ],
   "reuters": [
    {
+    "title": "Polish president vetoes changes to tax system",
+    "link": "https://www.reuters.com/legal/transactional/polish-president-vetoes-changes-tax-system-2026-11-27/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ED5ICY64NNO4DAQVEZZ5O3LPAY.jpg",
+    "date": 1795783364000,
+    "titleSl": "Poljski predsednik je vložil veto na spremembe davčnega sistema"
+   },
+   {
     "title": "Foreign investors to gain wider access to Indian commodity markets from June 2027",
     "link": "https://www.reuters.com/world/india/foreign-investors-gain-wider-access-indian-commodity-markets-june-2027-2026-11-27/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YKQZ7OY6AZMATFHULCN2S3QEII.jpg",
@@ -448,13 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PB75W6BDWFPTRNYV6TBUX2FFWU.jpg",
     "date": 1795781023000,
     "titleSl": "Družba BAE Systems pravi, da naročilo evropskih bojnih vozil znaša 6 milijard USD"
-   },
-   {
-    "title": "Tata Sons' shareholder charities seek to halt board meeting in fight over chairman's reelection",
-    "link": "https://www.reuters.com/legal/transactional/tata-sons-shareholder-charities-seek-halt-board-meeting-fight-over-chairmans-2026-11-27/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LCGC5QG2L5PNVLXR77LEHLGM2A.jpg",
-    "date": 1795781018000,
-    "titleSl": "Dobrodelne organizacije, ki so delničarke družbe Tata Sons, želijo preprečiti sejo upravnega odbora v sporu glede ponovne izvolitve predsednika"
    }
   ],
   "nyt": [
@@ -889,10 +889,32 @@
   ],
   "bild": [
    {
+    "title": "Vorschau für den 27. November 2026 - Ein Deepfake schockiert Easy",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/unter-uns-heute-auf-rtl-dieses-fake-video-wird-fuer-easy-zum-albtraum-6b00084f5842ff528b9e131f",
+    "image": "https://images.bild.de/6b00084f5842ff528b9e131f/0e8af20311312943f369b228ca34df16,6433ed01?w=1280",
+    "date": 1795783660000,
+    "titleSl": "Predogled za 27. november 2026 – Deepfake šokira Easyja"
+   },
+   {
+    "title": "Hier kommt die Enten-Polizei - 800 Laufenten schützen Weingut in Südafrika",
+    "link": "https://www.bild.de/news/ausland/hier-kommt-die-enten-polizei-800-laufenten-schuetzen-weingut-in-suedafrika-6b068e35c75e09cb88d14e53",
+    "image": "https://images.bild.de/6b068e35c75e09cb88d14e53/83876f254c41b082b50f55a15aca9eee,50b89d33?w=1280",
+    "date": 1795783630000,
+    "titleSl": "Prihaja račja policija – 800 tekačic varuje vinograd v Južni Afriki"
+   },
+   {
+    "title": "Bei Rückkehr aus dem Ruhestand - Darts-Debakel für Legende Taylor",
+    "link": "https://www.bild.de/sport/mehr-sport/darts-debakel-fuer-legende-phil-taylor-bei-rueckkehr-aus-ruhestand-6b0966c998adb43a8b36843e",
+    "image": "https://images.bild.de/6b0966c998adb43a8b36843e/6e44dda31cce1c09f7b61c6cda6f9db6-landscape,f99386c2?w=1280",
+    "date": 1795783565000,
+    "titleSl": "Po vrnitvi iz upokojitve – katastrofa legende Taylorja pri pikadu"
+   },
+   {
     "title": "Es wäre ein 96-Rekord in der 2. Liga - Traut sich Wagner dieses Top-Talent?",
     "link": "https://www.bild.de/sport/fussball/hannover-96-es-waere-ein-rekord-traut-sich-wagner-dieses-top-talent-6b093fe43902428a0b4292b6",
     "image": "https://images.bild.de/6b093fe43902428a0b4292b6/18857e99a4c364c646dd7a530b520284,668ca0d4?w=1280",
-    "date": 1795783421000
+    "date": 1795783421000,
+    "titleSl": "To bi bil rekord kluba 96 v 2. ligi – Si bo Wagner upal dati priložnost temu izjemnemu talentu?"
    },
    {
     "title": "Generalleutnant Heico Hübner (58) - Dieser Mann soll Putins Panzer stoppen",
@@ -949,27 +971,6 @@
     "image": "https://images.bild.de/6b055a7339a3e8110f0e9d76/694328bde6b31199d81e782b4c54c4b1,c1e43f19?w=1280",
     "date": 1795782450000,
     "titleSl": "300 delovnih mest na kocki – papirnica je prijavila insolventnost"
-   },
-   {
-    "title": "Seit 20. November gelten neue Regeln - Warum ich jetzt meinen Dispo kündige",
-    "link": "https://www.bild.de/leben-wissen/sparfochs/seit-20-november-gelten-neue-regeln-warum-ich-jetzt-meinen-dispo-kuendige-6b07f6bc1d0c4f9ebad7038e",
-    "image": "https://images.bild.de/6b07f6bc1d0c4f9ebad7038e/968be7d4750d94adc4b7c484e2830b2e,bc677576?w=1280",
-    "date": 1795782415000,
-    "titleSl": "Od 20. novembra veljajo nova pravila – zakaj zdaj prekinjam svojo prekoračitev stanja na računu"
-   },
-   {
-    "title": "Black Friday - Diese Rechte haben Sie bei Paket-Pannen",
-    "link": "https://www.bild.de/leben-wissen/schnaeppchen-stress-diese-rechte-haben-sie-bei-paket-pannen-am-black-friday-6b094c113902428a0b42943a",
-    "image": "https://images.bild.de/6b094c113902428a0b42943a/6b853a025cccfd2eb4c8186b9b834587,6467b1fe?w=1280",
-    "date": 1795782325000,
-    "titleSl": "Črni petek – Te pravice imate v primeru težav s pošiljkami"
-   },
-   {
-    "title": "KI-Offensive bei SAP - Software-Riese könnte 10.000 Jobs streichen",
-    "link": "https://www.bild.de/news/inland/deutscher-software-riese-koennte-10-000-jobs-streichen-6b094fbc3902428a0b4294aa",
-    "image": "https://images.bild.de/6b094fbc3902428a0b4294aa/1a7b0a1a8af689f0be3d9ecac5af1311,f2d4de5f?w=1280",
-    "date": 1795782122000,
-    "titleSl": "Ofenziva umetne inteligence pri SAP-u – softverski velikan bi lahko ukinil 10.000 delovnih mest"
    }
   ],
   "krone": [
@@ -1063,7 +1064,15 @@
     "title": "Diplopia, quando si vede doppio. Cos&#x27;è il disturbo di cui soffre Marc Marquez",
     "link": "https://www.rainews.it/articoli/2026/11/diplopia-quando-si-vede-doppio-cose-il-disturbo-di-cui-soffre-marc-marquez-f0fd9f5a-198e-4dd6-92d5-44111a6feb56.html",
     "image": "https://www.rainews.it/dl/img/2026/11/27/1795782025355_Diplopiahjke.jpg",
-    "date": 1795783440000
+    "date": 1795783440000,
+    "titleSl": "Diplopija, ko vidite dvojno. Kaj je motnja, zaradi katere trpi Marc Márquez?"
+   },
+   {
+    "title": "Famiglia nel bosco, sospesa per 70 giorni l&#x27;assistente sociale Veruska D&#x27;Angelo",
+    "link": "https://www.rainews.it/articoli/2026/11/famiglia-nel-bosco-sospesa-per-70-giorni-assistente-sociale-veruska-angelo-8198e352-d273-4246-a9fb-05b7141ebacd.html",
+    "image": "https://www.rainews.it/dl/img/2025/11/20/1763672471471_bosco.jpg",
+    "date": 1795782420000,
+    "titleSl": "Družina v gozdu: socialna delavka Veruska D'Angelo je bila suspendirana za 70 dni"
    },
    {
     "title": "Marc Marquez, clamoroso addio da campione del mondo di MotoGp: \"Ho cominciato a sentire la paura\"",
@@ -1134,13 +1143,6 @@
     "image": "https://www.rainews.it/dl/img/2026/11/27/1795776349592_rainewscacfeedbf.jpg",
     "date": 1795776540000,
     "titleSl": "Tuttifrutti: John Travolta v Torinu in »Club Kid«, med New Yorkom in družinskimi vezmi"
-   },
-   {
-    "title": "Da &#x27;Love Actually&#x27; alla MotoGP: Márquez annuncia l’addio con i cartelli",
-    "link": "https://www.rainews.it/video/2026/11/moto-gp-marc-marquez-annuncia-il-ritiro-addio-con-i-cartelli-613720ea-bdb3-4590-a971-6af44de3a23b.html",
-    "image": "https://www.rainews.it/dl/img/2026/11/27/1795775098329_videoframe.png",
-    "date": 1795775400000,
-    "titleSl": "Od filma »Pravzaprav ljubezen« do MotoGP-ja: Márquez se poslovi s tablicami"
    }
   ],
   "lemonde": [
@@ -1155,7 +1157,8 @@
     "title": "Christian de Rocquigny, le procureur surpris au siège du RN pendant une perquisition, a admis qu’il avait connaissance de l’affaire des fuites",
     "link": "https://www.lemonde.fr/politique/article/2026/11/27/christian-de-rocquigny-le-procureur-surpris-au-siege-du-rn-pendant-une-perquisition-a-admis-qu-il-avait-connaissance-de-l-affaire-des-fuites_6815857_823448.html",
     "image": "https://img.lemde.fr/2026/11/27/445/0/5337/2668/644/322/60/0/a340856_upload-1-xn3xfuf2grjl-maxnewsspecialtwo652578.jpg",
-    "date": 1795782084000
+    "date": 1795782084000,
+    "titleSl": "Christian de Rocquigny, tožilec, ki je bil presenečen v sedežu stranke Nacionalno zvezništvo med hišno preiskavo, je priznal, da je bil seznanjen z zadevo v zvezi z razkritji."
    },
    {
     "title": "Manifestations du 28 novembre : Laurent Nuñez pointe « une vulnérabilité supplémentaire » avec l’ouverture des marchés de Noël ; la suspension de l’usage des grenades assourdissantes est « étendue jusqu’à nouvel ordre »",
@@ -1317,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T12:46:28.284Z",
+   "checkedAt": "2026-11-27T12:48:25.149Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-27T12:46:28.818Z",
+   "checkedAt": "2026-11-27T12:48:25.914Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T12:46:28.834Z",
+   "checkedAt": "2026-11-27T12:48:25.940Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T12:46:29.059Z",
+   "checkedAt": "2026-11-27T12:48:26.284Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T12:46:29.358Z",
+   "checkedAt": "2026-11-27T12:48:26.728Z",
    "success": true
   },
   "guardian": {
@@ -1341,43 +1344,43 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-27T12:46:29.426Z",
+   "checkedAt": "2026-11-27T12:48:27.079Z",
    "success": true
   },
   "bbc": {
-   "checkedAt": "2026-11-27T12:46:29.447Z",
+   "checkedAt": "2026-11-27T12:48:27.089Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T12:46:29.479Z",
+   "checkedAt": "2026-11-27T12:48:27.127Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-27T12:46:30.117Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-27T12:46:30.223Z",
+   "checkedAt": "2026-11-27T12:48:29.323Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-27T12:46:30.376Z",
+   "checkedAt": "2026-11-27T12:48:29.783Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T12:48:30.533Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-27T12:46:31.195Z",
+   "checkedAt": "2026-11-27T12:48:31.912Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-27T12:46:31.335Z",
+   "checkedAt": "2026-11-27T12:48:33.689Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T12:46:31.457Z",
+   "checkedAt": "2026-11-27T12:48:35.692Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T12:46:31.514Z",
+   "checkedAt": "2026-11-27T12:48:35.868Z",
    "success": true
   }
  },
