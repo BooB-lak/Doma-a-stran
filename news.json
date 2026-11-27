@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:44:34.272Z",
+ "generatedAt": "2026-11-27T16:46:32.924Z",
  "sources": {
   "siol": [
    {
@@ -80,7 +80,7 @@
     "title": "3, 2, 1 ... v Ljubljani prižgali praznične luči",
     "link": "https://www.24ur.com/novice/slovenija/v-ljubljani-prizig-praznicnih-luci.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/e2e56da8a87979907b61_63686148.jpg?v=a12d&fop=fp:0.56:0.42",
-    "date": 1795797800000
+    "date": 1795797847000
    },
    {
     "title": "Na odru se bosta pomerili Siddharta in Big Foot Mama",
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Zum letzten Mal - Österreichische Blauhelme reisten in den Libanon",
+    "link": "https://www.krone.at/4393217",
+    "image": "https://imgl.krone.at/scaled/4393251/v2cd6ca/full.jpg",
+    "date": 1795797959000,
+    "titleSl": "Zadnjič – avstrijske modre čelade so odpotovale v Libanon"
+   },
+   {
     "title": "Hohe Bedrohungslage - Auf Weihnachtsmarkt sorgte Axt-Mann für Schrecken",
     "link": "https://www.krone.at/4393186",
     "image": "https://imgl.krone.at/scaled/4393185/v92abfb/full.jpg",
@@ -1050,13 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4040827/v9b10dd/full.jpg",
     "date": 1795795231000,
     "titleSl": "Smučarska sezona se začenja – kljub sneženju: umetni sneg ostaja pomemben"
-   },
-   {
-    "title": "Grazer Theater Quadrat - Kafkaesker Ritt durch russischen Schneesturm",
-    "link": "https://www.krone.at/4392950",
-    "image": "https://imgl.krone.at/scaled/4392957/v7a1c31/full.jpg",
-    "date": 1795795224000,
-    "titleSl": "Gledališče Quadrat v Gradcu – Kafkaesker Ritt durch russischen Schneesturm"
    }
   ],
   "rainews": [
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-27T16:44:26.291Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-27T16:44:26.937Z",
+   "checkedAt": "2026-11-27T16:46:28.139Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-27T16:44:27.136Z",
+   "checkedAt": "2026-11-27T16:46:28.664Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-27T16:44:27.881Z",
+   "checkedAt": "2026-11-27T16:46:28.902Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-27T16:46:29.023Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-27T16:44:28.193Z",
+   "checkedAt": "2026-11-27T16:46:29.438Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-27T16:44:28.567Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-27T16:44:28.838Z",
+   "checkedAt": "2026-11-27T16:46:29.760Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-27T16:44:30.502Z",
+   "checkedAt": "2026-11-27T16:46:29.798Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-27T16:44:31.983Z",
+   "checkedAt": "2026-11-27T16:46:29.830Z",
+   "success": true
+  },
+  "reuters": {
+   "checkedAt": "2026-11-27T16:46:30.124Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-27T16:44:32.496Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-27T16:44:33.042Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-27T16:44:33.303Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-27T16:44:33.344Z",
+   "checkedAt": "2026-11-27T16:46:30.553Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-27T16:44:34.080Z",
+   "checkedAt": "2026-11-27T16:46:30.733Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-27T16:46:30.981Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-27T16:46:31.033Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-27T16:46:32.789Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-27T16:44:34.272Z",
+   "checkedAt": "2026-11-27T16:46:32.923Z",
    "success": true
   }
  },
