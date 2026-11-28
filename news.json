@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T09:32:36.080Z",
+ "generatedAt": "2026-11-28T09:34:33.222Z",
  "sources": {
   "siol": [
    {
@@ -7,6 +7,12 @@
     "link": "https://siol.net/sportal/nogomet/1-snl-17-krog-707394",
     "image": "https://siol.net/media/img/e5/e3/1e3b7b9a640dbfe15e5d.jpeg",
     "date": 1795858020000
+   },
+   {
+    "title": "Po napadu na policista v Kočevju ministrstvo predlagalo nadzor nad ravnanjem tožilstva",
+    "link": "https://siol.net/novice/slovenija/po-napadu-na-policista-v-kocevju-ministrstvo-predlagalo-nadzor-nad-ravnanjem-tozilstva-707419",
+    "image": "https://siol.net/media/img/aa/03/4478f30dd18dd880c0eb.jpeg",
+    "date": 1795857720000
    },
    {
     "title": "Senzacija v ZDA, Messi doživel hud udarec z Miamijem",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/sportal/hokej/alpska-liga-28-november-2026-707385",
     "image": "https://siol.net/media/img/59/8b/9f86eea571efa60f089a.jpeg",
     "date": 1795849380000
-   },
-   {
-    "title": "Kamničanke po zmagi na derbiju gostijo zadnjeuvrščeno ekipo",
-    "link": "https://siol.net/sportal/odbojka/odbojka-superliga-sesti-krog-z-2026-707373",
-    "image": "https://siol.net/media/img/8f/ec/9487e385d744b2f887b9.jpeg",
-    "date": 1795847220000
    }
   ],
   "24ur": [
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Nesreča na sloviti skakalnici, tekmovalca sprejeli na urgenco",
+    "link": "https://www.zurnal24.si/sport/zimski-sporti/nesreca-na-sloviti-skakalnici-tekmovalca-sprejeli-na-urgenco-468911",
+    "image": "https://www.zurnal24.si/media/img/10/9f/e0ebb29b7950c7b03c0a.jpeg",
+    "date": 1795858320000
+   },
+   {
     "title": "Wemby po zmagi nad Dončićem: Največje zadoščenje v sezoni",
     "link": "https://www.zurnal24.si/sport/kosarka/wemby-po-zmagi-nad-doncicem-najvecje-zadoscenje-v-sezoni-468909",
     "image": "https://www.zurnal24.si/media/img/3b/f7/e8698b935c00b6775776.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/moj-sanjski-siht/brez-cv-ja-do-laponske-iscejo-direktorja-bozica-468876",
     "image": "https://www.zurnal24.si/media/img/aa/cc/81867065e482533be47e.jpeg",
     "date": 1795843708000
-   },
-   {
-    "title": "Zabodel jo je najmanj 15-krat: Izgubila je dva litra in pol krvi",
-    "link": "https://www.zurnal24.si/slovenija/crna-kronika/zabodel-jo-je-najmanj-15-krat-izgubila-je-dva-litra-in-pol-krvi-468895",
-    "image": "https://www.zurnal24.si/media/img/0e/f9/4681e87264bdd082152c.jpeg",
-    "date": 1795843600000
    }
   ],
   "hop": [
@@ -866,18 +866,18 @@
     "titleSl": "Washington, D.C.: Letalo je na letališču oplazilo krilo drugega letala"
    },
    {
-    "title": "Schlaf von Babys: Wie Sie Ihrem Kind helfen, gut zu schlafen",
-    "link": "https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/b16d5ab0-80bf-4d74-bfef-6a6d7e507ffa_w520_r2.08_fpx43.37_fpy44.99.jpg",
-    "date": 1795840200000,
-    "titleSl": "Spanje dojenčkov: Kako svojemu otroku pomagati do dobrega spanca"
-   },
-   {
     "title": "ADHS: Wie Sascha Lobo mit vier Kindern seinen Alltag meistert",
     "link": "https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert-a-b72d0d53-4084-4794-81a1-f87bd377dd07#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/69670c5c-d591-4cc0-8735-b0e59f5e635c_w520_r2.08_fpx49_fpy41.jpg",
     "date": 1795840200000,
     "titleSl": "ADHD: Kako Sascha Lobo obvladuje svoj vsakdan s štirimi otroki"
+   },
+   {
+    "title": "Schlaf von Babys: Wie Sie Ihrem Kind helfen, gut zu schlafen",
+    "link": "https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/b16d5ab0-80bf-4d74-bfef-6a6d7e507ffa_w520_r2.08_fpx43.37_fpy44.99.jpg",
+    "date": 1795840200000,
+    "titleSl": "Spanje dojenčkov: Kako svojemu otroku pomagati do dobrega spanca"
    },
    {
     "title": "Wie Sie Ihrem Baby helfen, gut zu schlafen",
@@ -888,6 +888,20 @@
    }
   ],
   "bild": [
+   {
+    "title": "Agit Kabayel gegen Nelson Hysa - Hier die Box-Schlacht des Jahres im Liveticker verfolgen",
+    "link": "https://www.bild.de/sport/mehr-sport/agit-kabayel-gegen-nelson-hysa-hier-im-liveticker-verfolgen-6b0a962c7df78695bac9686d",
+    "image": "https://images.bild.de/6b0a962c7df78695bac9686d/faa81ac017c3d8a7a5d254d33306c5b6-landscape,ddcea8d8?w=1280",
+    "date": 1795858349000,
+    "titleSl": "Agit Kabayel proti Nelsonu Hysi – tukaj lahko spremljate boksarski obračun leta v živo"
+   },
+   {
+    "title": "Kader-Comeback gegen den HSV - Neue Sturm-Option für Bayern-Trainer Kompany!",
+    "link": "https://www.bild.de/sport/fussball/fc-bayern-neue-sturm-option-fuer-vincent-kompany-6b09b9243d0d9d6539f908a0",
+    "image": "https://images.bild.de/6b09b9243d0d9d6539f908a0/bbfd431cbebc750035c9328548cff2c1,7466e686?w=1280",
+    "date": 1795858285000,
+    "titleSl": "Vračilo v ekipo proti HSV-ju – nova možnost za napad za trenerja Bayerna Kompanyja!"
+   },
    {
     "title": "Fahrerflucht nach tödlichem Unfall - Autofahrer rammt Fußgänger auf Reeperbahn",
     "link": "https://www.bild.de/regional/hamburg/hamburg-fussgaenger-auf-reeperbahn-von-auto-erfasst-und-gestorben-6b0a9446bb441f538faece86",
@@ -957,20 +971,6 @@
     "image": "https://images.bild.de/6b09a72083a96bc174605838/2b3549efecb147fdf977e901c9c7ed70,24001bd7?w=1280",
     "date": 1795856364000,
     "titleSl": "Visoke odpravnine za zaposlene – 422.000 evrov! Mercedes nagrajuje odhod"
-   },
-   {
-    "title": "Ziehung vom 27. November 2026 - Das sind die Gewinnzahlen des Eurojackpots",
-    "link": "https://www.bild.de/news/inland/eurojackpot-am-freitag-27-11-2026-die-gewinnzahlen-von-heute-6b06acee366061b7ba3e4cf5",
-    "image": "https://images.bild.de/6b06acee366061b7ba3e4cf5/f2327b9325792e1291286771f600587b,c391f8c7?w=1280",
-    "date": 1795856318000,
-    "titleSl": "Žrebanje z dne 27. novembra 2026 – To so zmagovalne številke igre Eurojackpot"
-   },
-   {
-    "title": "Müller in US-Playoffs weiter - Debakel-Aus für Messi!",
-    "link": "https://www.bild.de/sport/fussball/mls-debakel-aus-fuer-lionel-messi-und-miami-6b0a881a741a4ef94784b104",
-    "image": "https://images.bild.de/6b0a881a741a4ef94784b104/9e89540fa17e7e4be97a9a6f9fcbe539,b8db79b3?w=1280",
-    "date": 1795856272000,
-    "titleSl": "Müller se je uvrstil v končnico v ZDA – Messi je doživel polom in izpadel!"
    }
   ],
   "krone": [
@@ -1320,27 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T09:32:30.261Z",
+   "checkedAt": "2026-11-28T09:34:25.312Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T09:32:31.224Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-28T09:32:31.276Z",
+   "checkedAt": "2026-11-28T09:34:26.299Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T09:32:31.365Z",
+   "checkedAt": "2026-11-28T09:34:26.854Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-28T09:34:27.228Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T09:32:31.818Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T09:32:31.967Z",
+   "checkedAt": "2026-11-28T09:34:27.455Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-28T09:32:31.973Z",
+   "checkedAt": "2026-11-28T09:34:27.677Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-28T09:34:27.734Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T09:32:32.037Z",
+   "checkedAt": "2026-11-28T09:34:27.797Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T09:32:32.329Z",
+   "checkedAt": "2026-11-28T09:34:27.967Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T09:32:32.463Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T09:32:32.711Z",
+   "checkedAt": "2026-11-28T09:34:28.617Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-28T09:32:32.824Z",
+   "checkedAt": "2026-11-28T09:34:28.733Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-28T09:32:34.435Z",
+  "rainews": {
+   "checkedAt": "2026-11-28T09:34:28.739Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T09:32:35.984Z",
+   "checkedAt": "2026-11-28T09:34:29.533Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-28T09:34:32.335Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T09:32:36.079Z",
+   "checkedAt": "2026-11-28T09:34:33.221Z",
    "success": true
   }
  },
