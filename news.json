@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T03:34:31.563Z",
+ "generatedAt": "2026-11-28T03:36:33.192Z",
  "sources": {
   "siol": [
    {
@@ -373,6 +373,27 @@
   ],
   "reuters": [
    {
+    "title": "Isaiah Joe powers Pistons past Bucks, into NBA Cup knockout stage",
+    "link": "https://www.reuters.com/sports/basketball/isaiah-joe-powers-pistons-past-bucks-into-nba-cup-knockout-stage--flm-2026-11-28/",
+    "image": "",
+    "date": 1795836444000,
+    "titleSl": "Isaiah Joe je pripeljal Pistons do zmage nad Bucks in v izločilno fazo pokala NBA"
+   },
+   {
+    "title": "Penn St. erases 16-point second-half deficit; gets by Mississippi St.",
+    "link": "https://www.reuters.com/sports/basketball/penn-st-erases-16-point-second-half-deficit-gets-by-mississippi-st--flm-2026-11-28/",
+    "image": "",
+    "date": 1795836315000,
+    "titleSl": "Penn State je v drugem polčasu nadoknadil 16 točk zaostanka in premagal Mississippi State."
+   },
+   {
+    "title": "Bam Adebayo helps lift Heat to win over Knicks",
+    "link": "https://www.reuters.com/sports/basketball/bam-adebayo-helps-lift-heat-win-over-knicks--flm-2026-11-28/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B3IPRVLBP5IX7FP25VJWLAKEEE.jpg",
+    "date": 1795836108000,
+    "titleSl": "Bam Adebayo je pomagal ekipi Heat do zmage nad ekipo Knicks"
+   },
+   {
     "title": "India 59 for three in reply to New Zealand's 356 at tea in second test",
     "link": "https://www.reuters.com/sports/cricket/india-59-three-reply-new-zealands-356-tea-second-test-2026-11-28/",
     "image": "",
@@ -382,7 +403,7 @@
    {
     "title": "LeBron James, 76ers handle Pacers to clinch NBA Cup East Group B",
     "link": "https://www.reuters.com/sports/basketball/lebron-james-76ers-handle-pacers-clinch-nba-cup-east-group-b--flm-2026-11-28/",
-    "image": "",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TPLAXM3CLJLBBMUVROOPZV5SFI.jpg",
     "date": 1795835570000,
     "titleSl": "LeBron James, 76ers so premagali Pacerse in si zagotovili prvo mesto v skupini B vzhodne konference NBA Cupa"
    },
@@ -434,27 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GL3RRDNWLVKMRJPYET7KJQQBV4.jpg",
     "date": 1795830107000,
     "titleSl": "Justin Herbert iz ekipe Chargers ne bo igral, DJ Uiagalelei bo prvič začel tekmo v prvi postavi"
-   },
-   {
-    "title": "New Zealand bowled out for 356 in second test v India",
-    "link": "https://www.reuters.com/sports/cricket/new-zealand-bowled-out-356-second-test-v-india-2026-11-28/",
-    "image": "",
-    "date": 1795829508000,
-    "titleSl": "Nova Zelandija je v drugi tekmi proti Indiji dosegla 356 točk"
-   },
-   {
-    "title": "No. 4 Illinois eclipses 100-point mark again in Western Kentucky rout",
-    "link": "https://www.reuters.com/sports/basketball/no-4-illinois-eclipses-100-point-mark-again-western-kentucky-rout--flm-2026-11-28/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WA6BS7YS7BP5DCDAUGC2F2LHBA.jpg",
-    "date": 1795829403000,
-    "titleSl": "Ekipa št. 4 Illinois je ponovno presegla mejo 100 točk v prepričljivi zmagi nad ekipo Western Kentucky."
-   },
-   {
-    "title": "No. 23 Indiana overwhelms Bowling Green to remain perfect",
-    "link": "https://www.reuters.com/sports/basketball/no-23-indiana-overwhelms-bowling-green-remain-perfect--flm-2026-11-28/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HBDPOZ5WRBNMJGP72I6EOHFIXU.jpg",
-    "date": 1795829277000,
-    "titleSl": "Indiana, uvrščena na 23. mesto, je premagala Bowling Green in ostaja neporažena"
    }
   ],
   "nyt": [
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T03:34:27.496Z",
+   "checkedAt": "2026-11-28T03:36:24.666Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T03:34:28.506Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-28T03:34:28.508Z",
-   "success": true
-  },
-  "hop": {
-   "checkedAt": "2026-11-28T03:34:29.041Z",
+   "checkedAt": "2026-11-28T03:36:25.321Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T03:34:29.100Z",
+   "checkedAt": "2026-11-28T03:36:25.648Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-28T03:36:25.743Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-28T03:36:26.545Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-28T03:36:27.005Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-28T03:34:29.389Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T03:34:29.404Z",
+   "checkedAt": "2026-11-28T03:36:27.133Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T03:34:29.479Z",
+   "checkedAt": "2026-11-28T03:36:27.213Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T03:34:29.550Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-28T03:34:29.680Z",
+   "checkedAt": "2026-11-28T03:36:31.409Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T03:34:29.915Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T03:34:29.998Z",
+   "checkedAt": "2026-11-28T03:36:32.275Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-28T03:34:30.039Z",
+   "checkedAt": "2026-11-28T03:36:32.292Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-28T03:36:32.603Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-28T03:36:32.823Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T03:34:30.661Z",
+   "checkedAt": "2026-11-28T03:36:32.983Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T03:34:31.563Z",
+   "checkedAt": "2026-11-28T03:36:33.191Z",
    "success": true
   }
  },
