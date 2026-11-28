@@ -1,7 +1,13 @@
 {
- "generatedAt": "2026-11-28T08:31:01.164Z",
+ "generatedAt": "2026-11-28T08:32:31.452Z",
  "sources": {
   "siol": [
+   {
+    "title": "Tridnevno zalogo hrane in pijače ima doma približno tri četrtine prebivalcev Slovenije",
+    "link": "https://siol.net/novice/slovenija/tridnevno-zalogo-hrane-in-pijace-ima-doma-priblizno-tri-cetrtine-prebivalcev-slovenije-707414",
+    "image": "https://siol.net/media/img/90/8d/9dfae0989dca476cc648.jpeg",
+    "date": 1795854360000
+   },
    {
     "title": "Grozljiv padec na Bergislu, Američana odpeljali v bolnišnico #video",
     "link": "https://siol.net/sportal/kolesarstvo/grozljiv-padec-na-bergislu-americana-odpeljali-v-bolnisnico-707415",
@@ -67,12 +73,6 @@
     "link": "https://siol.net/novice/slovenija/zasavje-v-najvecjem-razvojnem-preobratu-zadnjih-desetletij-706971",
     "image": "https://siol.net/media/img/aa/37/1ae29fd2f3cdd702a900.jpeg",
     "date": 1795843200000
-   },
-   {
-    "title": "Drama v San Antoniu, Luka Dončić igra tekmo leta! #vŽivo",
-    "link": "https://siol.net/sportal/kosarka/liga-nba-27-november-lakers-spurs-707390",
-    "image": "https://siol.net/media/img/49/1b/830460ca88057ff8a22f.jpeg",
-    "date": 1795842120000
    }
   ],
   "24ur": [
@@ -975,6 +975,20 @@
   ],
   "krone": [
    {
+    "title": "Serie von Attacken - Cyberangriff auf US-Luftwaffe: Pentagon reagiert",
+    "link": "https://www.krone.at/4393650",
+    "image": "https://imgl.krone.at/scaled/4162638/v430389/full.jpg",
+    "date": 1795854726000,
+    "titleSl": "Serija napadov – Kibernetski napad na ameriške letalske sile: Pentagon se odziva"
+   },
+   {
+    "title": "Lindt beruhigt - Schmuckes Baujuwel durch Umbau verschandelt",
+    "link": "https://www.krone.at/4392571",
+    "image": "https://imgl.krone.at/scaled/4392584/v909df4/full.jpg",
+    "date": 1795854626000,
+    "titleSl": "Lindt beruhigt – Schmuckes Baujuwel durch Umbau verschandelt"
+   },
+   {
     "title": "Und wir weinen mit! - Botschaften ihrer Kinder rühren Kate zu Tränen",
     "link": "https://www.krone.at/4393604",
     "image": "https://imgl.krone.at/scaled/4393619/v47e074/full.jpg",
@@ -1043,20 +1057,6 @@
     "image": "https://imgl.krone.at/scaled/4393169/v7d4d31/full.jpg",
     "date": 1795852848000,
     "titleSl": "Im Clinch se bori z deželo in občino za nadomestilo za odstranjeno železniško prehodnico"
-   },
-   {
-    "title": "Hinterlehen Gut - DDR-Bauer bleibt weiter Fall für das Gericht",
-    "link": "https://www.krone.at/4392970",
-    "image": "https://imgl.krone.at/scaled/3924407/v99c84d/full.jpg",
-    "date": 1795852812000,
-    "titleSl": "Hinterlehen Gut – Kmet iz NDR ostaja primer za sodišče"
-   },
-   {
-    "title": "Konzerte und Theater - Herzögliche Altstadt wird zum Weihnachtsmärchen",
-    "link": "https://www.krone.at/4392999",
-    "image": "https://imgl.krone.at/scaled/4393002/vb28c70/full.jpg",
-    "date": 1795852802000,
-    "titleSl": "Koncerti in gledališče – Vojvodsko staro mestno jedro se spremeni v božično pravljico"
    }
   ],
   "rainews": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T08:30:52.580Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-28T08:30:53.366Z",
+   "checkedAt": "2026-11-28T08:32:25.193Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T08:30:53.635Z",
+   "checkedAt": "2026-11-28T08:32:25.592Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T08:30:53.737Z",
+   "checkedAt": "2026-11-28T08:32:25.857Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-28T08:32:26.216Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T08:30:54.156Z",
+   "checkedAt": "2026-11-28T08:32:26.399Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-28T08:32:26.704Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-28T08:30:54.631Z",
+   "checkedAt": "2026-11-28T08:32:26.736Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-28T08:30:54.700Z",
-   "success": true
-  },
   "nyt": {
-   "checkedAt": "2026-11-28T08:30:54.794Z",
+   "checkedAt": "2026-11-28T08:32:26.931Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T08:30:58.246Z",
+   "checkedAt": "2026-11-28T08:32:26.998Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T08:30:58.881Z",
+   "checkedAt": "2026-11-28T08:32:27.623Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-28T08:30:58.950Z",
+   "checkedAt": "2026-11-28T08:32:27.870Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T08:30:59.386Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-28T08:31:00.417Z",
+   "checkedAt": "2026-11-28T08:32:28.247Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-28T08:31:00.997Z",
+   "checkedAt": "2026-11-28T08:32:28.396Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-28T08:32:31.270Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T08:31:01.163Z",
+   "checkedAt": "2026-11-28T08:32:31.451Z",
    "success": true
   }
  },
