@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T07:50:46.092Z",
+ "generatedAt": "2026-11-28T07:52:29.347Z",
  "sources": {
   "siol": [
    {
@@ -889,6 +889,13 @@
   ],
   "bild": [
    {
+    "title": "Schnee-Chaos bei Radrennen - Plötzlicher Wintereinbruch sorgt für Massencrash",
+    "link": "https://www.bild.de/sport/schnee-chaos-bei-radrennen-ploetzlicher-wintereinbruch-sorgt-fuer-massencrash-6b0968916a4ea151d91c2457",
+    "image": "https://images.bild.de/6b0968916a4ea151d91c2457/22f3fe62aeaacb60fcbb76365c52c626-landscape,768bf6da?w=1280",
+    "date": 1795852193000,
+    "titleSl": "Snežni kaos na kolesarski dirki – Nenadna zima povzroči množično nesrečo"
+   },
+   {
     "title": "Vater Errol überzeug - Harte Erziehung machte Elon Musk zum Milliardär",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/elon-musk-harte-erziehung-machte-ihn-zum-milliardaer-6b0a7d2d741a4ef94784b07f",
     "image": "https://images.bild.de/6b0a7d2d741a4ef94784b07f/c92d5623bd820c5e4cb95ba4b3af4d81,e15a8589?w=1280",
@@ -964,13 +971,6 @@
     "image": "https://images.bild.de/6b0a6c697df78695bac965e8/0201adc0d0276122a56ecff69e0c3bac,d8c6868e?w=1280",
     "date": 1795848309000,
     "titleSl": "Drobec upanja – učinek Kleindienst se je izjalovil"
-   },
-   {
-    "title": "Nach Mega-Sperre - So will Erfurt das Hajrulla-Urteil kippen",
-    "link": "https://www.bild.de/sport/fussball/nach-mega-sperre-so-will-erfurt-das-hajrulla-urteil-kippen-6b0961df6a4ea151d91c2347",
-    "image": "https://images.bild.de/6b0961df6a4ea151d91c2347/615d1d7b89116d0ab537241fd51f84d2,4b0b86aa?w=1280",
-    "date": 1795848298000,
-    "titleSl": "Po izreku prepovedi vstopa za daljše obdobje – Tako želi Erfurt razveljaviti sodbo v zadevi Hajrulla"
    }
   ],
   "krone": [
@@ -1320,23 +1320,31 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T07:50:38.882Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-28T07:50:39.520Z",
+   "checkedAt": "2026-11-28T07:52:24.531Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T07:50:40.056Z",
+   "checkedAt": "2026-11-28T07:52:25.232Z",
    "success": true
   },
-  "hop": {
-   "checkedAt": "2026-11-28T07:50:40.200Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-28T07:52:25.262Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T07:50:40.333Z",
+   "checkedAt": "2026-11-28T07:52:25.436Z",
+   "success": true
+  },
+  "hop": {
+   "checkedAt": "2026-11-28T07:52:25.952Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-28T07:52:26.227Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-28T07:52:26.269Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1352,35 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-28T07:50:40.695Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-28T07:50:40.729Z",
+   "checkedAt": "2026-11-28T07:52:26.418Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T07:50:41.035Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T07:50:42.588Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-28T07:50:43.004Z",
+   "checkedAt": "2026-11-28T07:52:26.633Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-28T07:50:43.044Z",
+   "checkedAt": "2026-11-28T07:52:27.185Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T07:50:43.335Z",
+   "checkedAt": "2026-11-28T07:52:27.547Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-28T07:50:43.496Z",
+   "checkedAt": "2026-11-28T07:52:27.674Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-28T07:52:27.717Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T07:50:46.018Z",
+   "checkedAt": "2026-11-28T07:52:29.235Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T07:50:46.091Z",
+   "checkedAt": "2026-11-28T07:52:29.346Z",
    "success": true
   }
  },
