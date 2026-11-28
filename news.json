@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:04:28.071Z",
+ "generatedAt": "2026-11-28T01:06:27.871Z",
  "sources": {
   "siol": [
    {
@@ -375,7 +375,7 @@
    {
     "title": "Virginia Tech clamps down late to defeat Old Dominion",
     "link": "https://www.reuters.com/sports/basketball/virginia-tech-clamps-down-late-defeat-old-dominion--flm-2026-11-28/",
-    "image": "",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/346AWCPVXBIWDHMB7SSJ43XPB4.jpg",
     "date": 1795826642000,
     "titleSl": "Virginia Tech je z zamudo premagala Old Dominion"
    },
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Should I get a flu vaccine now?",
+    "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267a/live/e3b37190-ea74-11f1-a828-d384c0290f6b.jpg",
+    "date": 1795827791000,
+    "titleSl": "Ali naj se zdaj cepim proti gripi?"
+   },
+   {
     "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
     "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ee/live/355b1d70-ea90-11f1-a739-457c2295eaba.jpg",
     "date": 1795809006000,
     "titleSl": "Mercedes je postavil tempo na razburljivem drugem treningu v Katarju"
-   },
-   {
-    "title": "New satellite data shows how fast some African cities are sinking",
-    "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg",
-    "date": 1795806198000,
-    "titleSl": "Novi satelitski podatki kažejo, kako hitro se nekatera afriška mesta pogrezajo"
    }
   ],
   "aljazeera": [
@@ -1320,27 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T01:04:23.456Z",
+   "checkedAt": "2026-11-28T01:06:22.963Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T01:04:24.072Z",
+   "checkedAt": "2026-11-28T01:06:23.560Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T01:04:24.196Z",
+   "checkedAt": "2026-11-28T01:06:23.760Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T01:04:24.504Z",
+   "checkedAt": "2026-11-28T01:06:24.028Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T01:04:24.929Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-28T01:04:25.240Z",
+   "checkedAt": "2026-11-28T01:06:24.382Z",
    "success": true
   },
   "guardian": {
@@ -1348,39 +1344,43 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-28T01:04:25.287Z",
+   "checkedAt": "2026-11-28T01:06:24.733Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T01:04:25.317Z",
+   "checkedAt": "2026-11-28T01:06:24.751Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T01:04:25.689Z",
+   "checkedAt": "2026-11-28T01:06:25.120Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-28T01:04:26.035Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-28T01:04:26.339Z",
+  "bbc": {
+   "checkedAt": "2026-11-28T01:06:26.284Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T01:04:27.701Z",
+   "checkedAt": "2026-11-28T01:06:26.607Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T01:04:27.778Z",
+   "checkedAt": "2026-11-28T01:06:26.636Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-28T01:06:26.769Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-28T01:04:27.977Z",
+   "checkedAt": "2026-11-28T01:06:26.922Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-28T01:06:26.929Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T01:04:28.070Z",
+   "checkedAt": "2026-11-28T01:06:27.870Z",
    "success": true
   }
  },
