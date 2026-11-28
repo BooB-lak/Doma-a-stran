@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T10:24:32.919Z",
+ "generatedAt": "2026-11-28T10:26:30.466Z",
  "sources": {
   "siol": [
    {
@@ -80,7 +80,7 @@
     "title": "Zaradi burje zaprta primorska avtocesta proti Ljubljani",
     "link": "https://www.24ur.com/novice/slovenija/zaradi-burje-zaprta-primorska-avtocesta-proti-ljubljani.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/4071699d7f1820b12e83_63686382.png?v=680a&fop=fp:0.40:0.26",
-    "date": 1795860679000
+    "date": 1795861503000
    },
    {
     "title": "Grozljivi prizori na svetovnem prvenstvu: 17-letnika po silovitem trku odnesli na nosilih",
@@ -151,6 +151,12 @@
   ],
   "rtvslo": [
    {
+    "title": "Domen Prevc komaj skozi kvalifikacije: Treba se bo umiriti",
+    "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-nordijskem-smucanju/domen-prevc-komaj-skozi-kvalifikacije-treba-se-bo-umiriti/801573",
+    "image": "https://img.rtvcdn.si/_up/upload/2026/11/21/67123548.jpg",
+    "date": 1795861055000
+   },
+   {
     "title": "LIMBO: Jaša raziskuje vsem poznani občutek, ko se zdi, da ne gremo nikamor",
     "link": "https://www.rtvslo.si/kultura/vizualna-umetnost/limbo-jasa-raziskuje-vsem-poznani-obcutek-ko-se-zdi-da-ne-gremo-nikamor/801569",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/28/67125680.jpg",
@@ -215,12 +221,6 @@
     "link": "https://www.rtvslo.si/gospodarstvo/pri-dveh-operaterjih-z-decembrom-visje-cene-telekomunikacijskih-storitev/801563",
     "image": "https://img.rtvcdn.si/_up/upload/2026/11/28/67125632.jpg",
     "date": 1795854820000
-   },
-   {
-    "title": "Slovenci preprosto preslabi, da bi bili v igri za zmago: \"Velika sramota za nas\"",
-    "link": "https://www.rtvslo.si/sport/kosarka/svetovno-prvenstvo-v-kosarki/slovenci-preprosto-preslabi-da-bi-bili-v-igri-za-zmago-velika-sramota-za-nas/801535",
-    "image": "https://img.rtvcdn.si/_up/upload/2026/11/28/67125626.jpg",
-    "date": 1795852776000
    }
   ],
   "zurnal": [
@@ -1319,27 +1319,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T10:24:29.267Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-28T10:24:29.973Z",
+   "checkedAt": "2026-11-28T10:26:25.267Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T10:24:30.105Z",
+   "checkedAt": "2026-11-28T10:26:26.053Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-28T10:26:26.138Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T10:24:30.473Z",
+   "checkedAt": "2026-11-28T10:26:26.255Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T10:24:30.962Z",
+   "checkedAt": "2026-11-28T10:26:27.187Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T10:24:31.054Z",
+   "checkedAt": "2026-11-28T10:26:27.365Z",
    "success": true
   },
   "guardian": {
@@ -1347,39 +1347,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-28T10:24:31.091Z",
+   "checkedAt": "2026-11-28T10:26:27.421Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-28T10:24:31.133Z",
+   "checkedAt": "2026-11-28T10:26:27.563Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T10:24:31.421Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T10:24:31.745Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-28T10:24:31.919Z",
+   "checkedAt": "2026-11-28T10:26:27.984Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T10:24:32.065Z",
+   "checkedAt": "2026-11-28T10:26:28.158Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-28T10:26:28.300Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T10:24:32.639Z",
+   "checkedAt": "2026-11-28T10:26:28.359Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-28T10:26:28.799Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T10:24:32.824Z",
+   "checkedAt": "2026-11-28T10:26:30.353Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T10:24:32.918Z",
+   "checkedAt": "2026-11-28T10:26:30.465Z",
    "success": true
   }
  },
