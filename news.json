@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T11:18:31.363Z",
+ "generatedAt": "2026-11-28T11:20:48.471Z",
  "sources": {
   "siol": [
    {
@@ -225,6 +225,12 @@
   ],
   "zurnal": [
    {
+    "title": "Primorska avtocesta zaradi burje zaprta",
+    "link": "https://www.zurnal24.si/slovenija/burja-zaprla-primorsko-avtocesto-obvoz-468916",
+    "image": "https://www.zurnal24.si/media/img/08/d6/b542c6454d22386694cc.jpeg",
+    "date": 1795864380000
+   },
+   {
     "title": "Nevaren spodrsljaj Red Bulla, Hadjar povozil mehanika",
     "link": "https://www.zurnal24.si/sport/moto-sporti/nevaren-spodrsljaj-red-bulla-hadjar-povozil-mehanika-468914",
     "image": "https://www.zurnal24.si/media/img/f8/15/480b8e9f04691077b9f7.jpeg",
@@ -289,12 +295,6 @@
     "link": "https://www.zurnal24.si/magazin/vip/ena-najbolj-znanih-starlet-pretresla-s-shirano-pojavo-468806",
     "image": "https://www.zurnal24.si/media/img/fc/83/81edbbb918402fbef196.png",
     "date": 1795843894000
-   },
-   {
-    "title": "Se Kate tako smeji, ker bi lahko že prihodnje leto postala kraljica?",
-    "link": "https://www.zurnal24.si/magazin/vip/se-kate-tako-smeji-ker-bi-lahko-ze-prihodnje-leto-postala-kraljica-468859",
-    "image": "https://www.zurnal24.si/media/img/66/c3/9920673ebd93690ee6cf.jpeg",
-    "date": 1795843865000
    }
   ],
   "hop": [
@@ -545,6 +545,13 @@
   ],
   "bbc": [
    {
+    "title": "Ten students killed and over 100 injured in explosion in Afghanistan, official says",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg",
+    "date": 1795864717000,
+    "titleSl": "Po besedah uradnika je bilo v eksploziji v Afganistanu ubitih deset študentov, več kot 100 pa jih je bilo ranjenih"
+   },
+   {
     "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
     "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
@@ -557,13 +564,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b7/live/11b79e90-eb0b-11f1-a094-5fdc692f3e33.jpg",
     "date": 1795861021000,
     "titleSl": "Igralec in komik PJ Gallagher je umrl v starosti 51 let"
-   },
-   {
-    "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2da/live/46909920-eb18-11f1-90b9-a9d17de9c0bd.jpg",
-    "date": 1795860877000,
-    "titleSl": "Po besedah uradnika je bilo v eksploziji v Afganistanu ubitih sedem študentov, skoraj 100 pa jih je bilo ranjenih."
    },
    {
     "title": "'I was trying to be someone I wasn't' – Steward on All Blacks shot",
@@ -803,6 +803,13 @@
   ],
   "spiegel": [
    {
+    "title": "»ADHS ist für mich keine Krankheit, aber es kann verdammt krank machen« – Podcast",
+    "link": "https://www.spiegel.de/gesundheit/adhs-ist-fuer-mich-keine-krankheit-aber-es-kann-verdammt-krank-machen-podcast-a-a2070bab-b6c5-4021-8365-19ddb25a3eac#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/cadea7c1-d1f3-41ee-9042-15c5564b280e_w520_r2.08_fpx51_fpy38.jpg",
+    "date": 1795864560000,
+    "titleSl": "»ADHD zame ni bolezen, lahko pa te hudo spravi v slabo počutje« – Podcast"
+   },
+   {
     "title": "Duisburg: Warum ein Vater die Stadt wegen der Kita Schließtage verklagt",
     "link": "https://www.spiegel.de/panorama/gesellschaft/duisburg-warum-ein-vater-die-stadt-wegen-der-kita-schliesstage-verklagt-a-96fa309c-af28-442b-824a-27c00e14e1a1#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/0601abc6-4013-4f7c-b6ab-b4f28ebc47bd_w520_r2.08_fpx33.34_fpy50.jpg",
@@ -878,22 +885,29 @@
     "image": "https://cdn.prod.www.spiegel.de/images/2793c8fc-d52b-4c6b-8cde-f20b054ffe6d_w520_r2.08_fpx76_fpy40.jpg",
     "date": 1795858740000,
     "titleSl": "Parkinsonova bolezen: Emma Cornthwaite prevozi 1.700 kilometrov po Veliki Britaniji in Franciji na triciklu"
-   },
-   {
-    "title": "BSW berät auf Parteitag über Umgang mit AfD – Mitgründer Ernst droht erneut mit Austritt",
-    "link": "https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/0bbd504d-ac57-447d-9dd2-969b4961e9d7_w520_r2.08_fpx61.34_fpy50.jpg",
-    "date": 1795858440000,
-    "titleSl": "Stranka BSW na kongresu razpravlja o odnosu do AfD – soustanovitelj Ernst ponovno grozi z izstopom"
    }
   ],
   "bild": [
    {
+    "title": "Rührende Performance bei „The Voice“ - Singender Busfahrer bringt Fanta 4 zum Weinen",
+    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/the-voice-of-germany-singender-busfahrer-bringt-fanta-4-zum-weinen-6b095f7c4f5d4fcd0acd307b",
+    "image": "https://images.bild.de/6b095f7c4f5d4fcd0acd307b/c6c879a4f4f3766dd1e5ba2ba15a661c,2aaf2c8?w=1280",
+    "date": 1795864693000,
+    "titleSl": "Ganljiv nastop v oddaji »The Voice« – Pojoči voznik avtobusa je spravil skupino Fanta 4 v jok"
+   },
+   {
     "title": "„Besoffen unterm Weihnachtsbaum“ - Nino de Angelo bereut seine Festtagsabstürze",
     "link": "https://www.bild.de/unterhaltung/stars-und-leute/nino-de-angelos-bereut-festtagsabstuerze-ich-lag-oft-besoffen-unterm-weihnachtsbaum-6b0807fd0307d967a6b52c92",
     "image": "https://images.bild.de/6b0807fd0307d967a6b52c92/5e3cf64bebfd620a76e5f322a89bf128,6d0c702c?w=1280",
-    "date": 1795864418000,
+    "date": 1795864681000,
     "titleSl": "»Besoffen unterm Weihnachtsbaum« – Nino de Angelo obžaluje svoje praznične izpade"
+   },
+   {
+    "title": "Seit 20. November - Die neuen Regeln für Ihren Dispo",
+    "link": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/neue-dispo-regeln-was-sich-fuer-verbraucher-seit-20-november-aendert-6b0a83def0cfb7f6d845f4c5",
+    "image": "https://images.bild.de/6b0a83def0cfb7f6d845f4c5/1a58717171c3e5d5c21b0a0ab80579ed,9b51c125?w=1280",
+    "date": 1795864563000,
+    "titleSl": "Od 20. novembra – Nova pravila za vašo prekoračitev dovoljenega limita"
    },
    {
     "title": "„Ich war mal bei Bewusstsein, mal nicht“ - Was Prinzessin Kate im Krankenbett durchmachte",
@@ -957,20 +971,6 @@
     "image": "https://images.bild.de/6b06f7027fa00ffe65bf3401/050f035261f6a2e371f151e38729ccd1,65c738c3?w=1280",
     "date": 1795861599000,
     "titleSl": "Vrhunska prijateljska tekma na Majorki – Legatova Germania proti nemškemu šestoligašu"
-   },
-   {
-    "title": "Andere Frau, andere RTL-Sendung - Fame Fighter setzt Sex-Marathon fort",
-    "link": "https://www.bild.de/unterhaltung/stars-und-leute/laurenz-pesch-setzt-sex-marathon-bei-rtl-mit-anderer-frau-in-neuer-sendung-fort-6acca3652b0d25ef1edd2784",
-    "image": "https://images.bild.de/6acca3652b0d25ef1edd2784/8dafe462fa27d2e0b8c66b13a2d638b8,c99ed832?w=1280",
-    "date": 1795860923000,
-    "titleSl": "Druga ženska, druga oddaja na RTL-u – Fame Fighter nadaljuje spolni maraton"
-   },
-   {
-    "title": "Rührende Performance bei „The Voice“ - Singender Busfahrer bringt Fanta zum 4 Weinen",
-    "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/the-voice-of-germany-singender-busfahrer-bringt-fanta-4-zum-weinen-6b095f7c4f5d4fcd0acd307b",
-    "image": "https://images.bild.de/6b095f7c4f5d4fcd0acd307b/c6c879a4f4f3766dd1e5ba2ba15a661c,2aaf2c8?w=1280",
-    "date": 1795860773000,
-    "titleSl": "Ganljiva izvedba v oddaji »The Voice« – pojoči voznik avtobusa spravi žirijo do solz"
    }
   ],
   "krone": [
@@ -1319,31 +1319,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T11:18:24.692Z",
+   "checkedAt": "2026-11-28T11:20:40.807Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T11:18:25.409Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-28T11:18:25.627Z",
+   "checkedAt": "2026-11-28T11:20:41.641Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T11:18:26.071Z",
+   "checkedAt": "2026-11-28T11:20:41.799Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-28T11:20:42.330Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T11:18:26.229Z",
+   "checkedAt": "2026-11-28T11:20:42.518Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T11:18:26.464Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-28T11:18:26.580Z",
+   "checkedAt": "2026-11-28T11:20:42.788Z",
    "success": true
   },
   "guardian": {
@@ -1351,35 +1347,39 @@
    "success": false
   },
   "aljazeera": {
-   "checkedAt": "2026-11-28T11:18:26.831Z",
+   "checkedAt": "2026-11-28T11:20:42.940Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T11:18:26.890Z",
+   "checkedAt": "2026-11-28T11:20:43.252Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-28T11:18:27.449Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T11:18:28.237Z",
+  "bbc": {
+   "checkedAt": "2026-11-28T11:20:44.578Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T11:18:28.302Z",
+   "checkedAt": "2026-11-28T11:20:45.253Z",
    "success": true
   },
-  "bild": {
-   "checkedAt": "2026-11-28T11:18:29.589Z",
+  "rainews": {
+   "checkedAt": "2026-11-28T11:20:45.477Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-28T11:20:46.420Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T11:18:29.623Z",
+   "checkedAt": "2026-11-28T11:20:46.987Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-28T11:20:48.372Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T11:18:31.362Z",
+   "checkedAt": "2026-11-28T11:20:48.470Z",
    "success": true
   }
  },
