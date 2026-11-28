@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:42:26.939Z",
+ "generatedAt": "2026-11-28T00:44:34.503Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
+    "link": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/00DC-BACKLASH-01-vzhc/00DC-BACKLASH-01-vzhc-mediumSquareAt3X-v2.jpg",
+    "date": 1795826605000,
+    "titleSl": "Odločitve vrhovnega sodišča, ki so jih republikanci pozdravili, so jim na koncu škodovale"
+   },
+   {
     "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
     "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
@@ -534,16 +541,16 @@
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
     "date": 1795815672000,
     "titleSl": "Ruske velike ambicije na področju umetne inteligence ovirajo omejitve, ki jih prinaša vojna"
-   },
-   {
-    "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
-    "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-    "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
-    "date": 1795814231000,
-    "titleSl": "Vrhovno sodišče Kanade je odločilo, da lahko Quebec ohrani prepoved verskih simbolov"
    }
   ],
   "bbc": [
+   {
+    "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
+    "link": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71d1/live/110ecd50-eabc-11f1-a094-5fdc692f3e33.jpg",
+    "date": 1795826335000,
+    "titleSl": "Časopisi: »Catherine o boju proti raku« in »Kajenje in upokojitveni kaos«"
+   },
    {
     "title": "Five-try Ireland beat Australia in autumn finale",
     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
@@ -620,13 +627,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg",
     "date": 1795806198000,
     "titleSl": "Novi satelitski podatki kažejo, kako hitro se nekatera afriška mesta pogrezajo"
-   },
-   {
-    "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
-    "date": 1795804970000,
-    "titleSl": "Kijev, ki je utrujen od vojne, vendar brez znakov umika, se sooča z novo hudo zimo."
    }
   ],
   "aljazeera": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T00:42:23.414Z",
+   "checkedAt": "2026-11-28T00:44:26.328Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T00:42:23.974Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-28T00:42:24.232Z",
+   "checkedAt": "2026-11-28T00:44:27.440Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T00:42:24.300Z",
+   "checkedAt": "2026-11-28T00:44:27.674Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T00:42:24.871Z",
+   "checkedAt": "2026-11-28T00:44:28.386Z",
+   "success": true
+  },
+  "rtvslo": {
+   "checkedAt": "2026-11-28T00:44:29.898Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-28T00:44:30.346Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T00:42:25.363Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-28T00:42:25.367Z",
+  "reuters": {
+   "checkedAt": "2026-11-28T00:44:30.730Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T00:42:25.412Z",
+   "checkedAt": "2026-11-28T00:44:32.336Z",
    "success": true
   },
-  "reuters": {
-   "checkedAt": "2026-11-28T00:42:25.636Z",
+  "bbc": {
+   "checkedAt": "2026-11-28T00:44:32.441Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-28T00:42:26.056Z",
+   "checkedAt": "2026-11-28T00:44:33.376Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T00:42:26.096Z",
+   "checkedAt": "2026-11-28T00:44:33.426Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T00:42:26.366Z",
+   "checkedAt": "2026-11-28T00:44:33.773Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-28T00:42:26.415Z",
+   "checkedAt": "2026-11-28T00:44:33.998Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T00:42:26.763Z",
+   "checkedAt": "2026-11-28T00:44:34.249Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T00:42:26.938Z",
+   "checkedAt": "2026-11-28T00:44:34.502Z",
    "success": true
   }
  },
