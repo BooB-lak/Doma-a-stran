@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T05:34:33.247Z",
+ "generatedAt": "2026-11-28T05:36:35.303Z",
  "sources": {
   "siol": [
    {
@@ -373,6 +373,27 @@
   ],
   "reuters": [
    {
+    "title": "Pelicans edge Clippers to end NBA Cup losing streak",
+    "link": "https://www.reuters.com/sports/basketball/pelicans-edge-clippers-end-nba-cup-losing-streak--flm-2026-11-28/",
+    "image": "",
+    "date": 1795843704000,
+    "titleSl": "Pelicansi so premagali Clipperse in prekinili niz porazov v pokalu lige NBA"
+   },
+   {
+    "title": "Jamal Murray heats up in fourth quarter as Nuggets pull away from Jazz",
+    "link": "https://www.reuters.com/sports/basketball/jamal-murray-heats-up-fourth-quarter-nuggets-pull-away-jazz--flm-2026-11-28/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DF7JX5VERRIPVLXQLJFZQBKCJQ.jpg",
+    "date": 1795843269000,
+    "titleSl": "Jamal Murray se je razvnel v četrti četrtini, ko so se Nuggetsi odlepili od Jazzov"
+   },
+   {
+    "title": "US military repelled drones at RAF base, FT reports",
+    "link": "https://www.reuters.com/world/us-military-repelled-drones-raf-base-ft-reports-2026-11-28/",
+    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5O3F5TMIPBNTXMJTZFNCL7RVTQ.jpg",
+    "date": 1795843124000,
+    "titleSl": "Ameriška vojska je odbila napad dronov na oporišče RAF, poroča FT"
+   },
+   {
     "title": "India finds bacteria in second unsafe Bisleri water sample, document shows",
     "link": "https://www.reuters.com/world/india-finds-bacteria-second-unsafe-bisleri-water-sample-document-shows-2026-11-28/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HDIFHA6XJVPYBDIRYOXJNOYK5E.jpg",
@@ -434,27 +455,6 @@
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MYCARDDVTRMB7PRY33N5QGMVJU.jpg",
     "date": 1795838816000,
     "titleSl": "Zaradi izjemne igre Kaapa Kakka v tretji tretjini je Kraken premagal Oilers, ki so bili v krizi"
-   },
-   {
-    "title": "Immanuel Quickley registers triple-double as Raptors blitz Nets",
-    "link": "https://www.reuters.com/sports/basketball/immanuel-quickley-registers-triple-double-raptors-blitz-nets--flm-2026-11-28/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QOZKKWU4VZJ73IEG3EESROAXLU.jpg",
-    "date": 1795838773000,
-    "titleSl": "Immanuel Quickley je dosegel trojni dvojček, Raptorsi pa so premagali Netse"
-   },
-   {
-    "title": "United Fidelity Bank shut in biggest US bank failure in 2 years, First Citizens buys assets",
-    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/united-fidelity-bank-shut-biggest-us-bank-failure-2-years-first-citizens-buys-2026-11-28/",
-    "image": "",
-    "date": 1795838468000,
-    "titleSl": "Banka United Fidelity je zaprla svoja vrata zaradi največjega propada banke v ZDA v zadnjih dveh letih, banka First Citizens pa je kupila njena sredstva."
-   },
-   {
-    "title": "Hawks edge Celtics to claim East Group C in NBA Cup",
-    "link": "https://www.reuters.com/sports/basketball/hawks-edge-celtics-claim-east-group-c-nba-cup--flm-2026-11-28/",
-    "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OBEGADW6NVN2DCITABKQBBBUHI.jpg",
-    "date": 1795838136000,
-    "titleSl": "Hawksi so premagali Celticse in osvojili prvo mesto v skupini C vzhodne konference v pokalu lige NBA"
    }
   ],
   "nyt": [
@@ -1320,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T05:34:23.806Z",
-   "success": true
-  },
-  "rtvslo": {
-   "checkedAt": "2026-11-28T05:34:24.460Z",
+   "checkedAt": "2026-11-28T05:36:26.525Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T05:34:24.464Z",
+   "checkedAt": "2026-11-28T05:36:27.147Z",
    "success": true
   },
-  "zurnal": {
-   "checkedAt": "2026-11-28T05:34:25.062Z",
+  "rtvslo": {
+   "checkedAt": "2026-11-28T05:36:27.158Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T05:34:25.250Z",
+   "checkedAt": "2026-11-28T05:36:28.085Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-28T05:36:28.119Z",
    "success": true
   },
   "aljazeera": {
-   "checkedAt": "2026-11-28T05:34:25.655Z",
+   "checkedAt": "2026-11-28T05:36:28.491Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-28T05:36:28.529Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-28T05:34:25.806Z",
+  "nyt": {
+   "checkedAt": "2026-11-28T05:36:28.798Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T05:34:25.892Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-28T05:34:25.898Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-28T05:34:26.549Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T05:34:27.248Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-28T05:34:28.851Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-28T05:34:30.558Z",
+   "checkedAt": "2026-11-28T05:36:34.011Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T05:34:31.388Z",
+   "checkedAt": "2026-11-28T05:36:34.518Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-28T05:36:34.555Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-28T05:36:34.683Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-28T05:36:34.971Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-28T05:36:35.144Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T05:34:33.246Z",
+   "checkedAt": "2026-11-28T05:36:35.302Z",
    "success": true
   }
  },
