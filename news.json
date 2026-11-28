@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T10:14:29.093Z",
+ "generatedAt": "2026-11-28T10:16:33.846Z",
  "sources": {
   "siol": [
    {
@@ -77,6 +77,18 @@
   ],
   "24ur": [
    {
+    "title": "Zaradi burje zaprta primorska avtocesta proti Ljubljani",
+    "link": "https://www.24ur.com/novice/slovenija/zaradi-burje-zaprta-primorska-avtocesta-proti-ljubljani.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/4071699d7f1820b12e83_63686382.png?v=680a&fop=fp:0.40:0.26",
+    "date": 1795860679000
+   },
+   {
+    "title": "Grozljivi prizori na svetovnem prvenstvu: 17-letnika po silovitem trku odnesli na nosilih",
+    "link": "https://www.24ur.com/sport/nogomet/grozljivi-prizori-na-svetovnem-prvenstvu-17-letnika-po-silovitem-trku-odnesli-z-igrisca-na-nosilih.html",
+    "image": "https://images.24ur.com/media/images/213xX/Nov2026/c7e44baff8e9cde3a6d4_63686379.jpg?v=27da&fop=fp:0.53:0.32",
+    "date": 1795860358000
+   },
+   {
     "title": "Prehranska dopolnila: 'Čudežnih bližnjic ni'",
     "link": "https://www.24ur.com/popkast/prehranska-dopolnila-kaj-zares-deluje-in-kaj-je-samo-dobra-reklama.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/0419d361e943ef133d3a_63683742.jpg?v=9c9a&fop=fp:0.56:0.28",
@@ -135,18 +147,6 @@
     "link": "https://www.24ur.com/novice/tujina/aretirali-juriha-grehova.html",
     "image": "https://images.24ur.com/media/images/213xX/Nov2026/1f3c4ca2f783be68802d_63686339.jpg?v=6089&fop=fp:0.59:0.45",
     "date": 1795855108000
-   },
-   {
-    "title": "Nekdanja soproga pokojnega Kurta Cobaina navdušila z mladostnim videzom",
-    "link": "https://www.24ur.com/popin/tuja-scena/nekdanja-soproga-pokojnega-kurta-cobaina-navdusila-z-mladostnim-videzom.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/504cb78b318dad75b029_63686126.png?v=7bec&fop=fp:0.55:0.50",
-    "date": 1795854603000
-   },
-   {
-    "title": "Moja Slovenija: Cerkno nudi vedno več razlogov za obisk, tudi ko ni snega",
-    "link": "https://www.24ur.com/novice/slovenija/moja-slovenija-cerkno-nudi-vedno-vec-razlogov-za-obisk-tudi-ko-ni-snega.html",
-    "image": "https://images.24ur.com/media/images/213xX/Nov2026/b7049851dab5cfe09dab_63686332.jpg?v=193b&fop=fp:0.46:0.29",
-    "date": 1795854503000
    }
   ],
   "rtvslo": [
@@ -461,7 +461,7 @@
    {
     "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
     "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
-    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v2.jpg",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
     "date": 1795860135000,
     "titleSl": "Ukrajinski globinski napadi se povečujejo po obsegu in razsežnosti po vsej Rusiji in zunaj nje"
    },
@@ -806,13 +806,15 @@
     "title": "El Niño: Dutzende Tote bei Überschwemmungen in Peru und Ecuador",
     "link": "https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/000f2c1f-96b1-4d53-9a99-315299b55378_w520_r2.08_fpx33.34_fpy50.jpg",
-    "date": 1795860600000
+    "date": 1795860600000,
+    "titleSl": "El Niño: Desetine mrtvih zaradi poplav v Peruju in Ekvadorju"
    },
    {
     "title": "Toxische Pommes: Wie lustig ist Österreich? – Podcast",
     "link": "https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast-a-bae722f1-a9fd-47fc-909b-e63d23d30936#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/c9cc203e-774a-4949-8c83-4cb87eaba3e3_w520_r2.08_fpx45.95_fpy44.99.jpg",
-    "date": 1795860540000
+    "date": 1795860540000,
+    "titleSl": "Strupeni krompirček: Kako zabavna je Avstrija? – Podcast"
    },
    {
     "title": "Parkinson: Emma Cornthwaite fährt auf Trike 1700 Kilometer durch Großbritannien und Frankreich",
@@ -887,10 +889,25 @@
   ],
   "bild": [
    {
+    "title": "Andere Frau, andere RTL-Sendung - Fame Fighter setzt Sex-Marathon fort",
+    "link": "https://www.bild.de/unterhaltung/stars-und-leute/laurenz-pesch-setzt-sex-marathon-bei-rtl-mit-anderer-frau-in-neuer-sendung-fort-6acca3652b0d25ef1edd2784",
+    "image": "https://images.bild.de/6acca3652b0d25ef1edd2784/8dafe462fa27d2e0b8c66b13a2d638b8,c99ed832?w=1280",
+    "date": 1795860923000,
+    "titleSl": "Druga ženska, druga oddaja na RTL-u – Fame Fighter nadaljuje spolni maraton"
+   },
+   {
+    "title": "Monsterwellen vor Malibu - Surfer trotzen den El-Niño-Brechern",
+    "link": "https://www.bild.de/news/ausland/malibu-surfer-trotzen-el-nino-und-gewaltigen-rekordwellen-6b0a9e7ed6d8a1d6fd2eb336",
+    "image": "https://images.bild.de/6b0a9e7ed6d8a1d6fd2eb336/3af7be787672ed8efe3a30a7776bc6a6,3cf6d8a4?w=1280",
+    "date": 1795860878000,
+    "titleSl": "Orjaški valovi pred Malibujem – deskarji kljubujejo valovom El Niña"
+   },
+   {
     "title": "Rührende Performance bei „The Voice“ - Singender Busfahrer bringt Fanta zum 4 Weinen",
     "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/the-voice-of-germany-singender-busfahrer-bringt-fanta-4-zum-weinen-6b095f7c4f5d4fcd0acd307b",
     "image": "https://images.bild.de/6b095f7c4f5d4fcd0acd307b/c6c879a4f4f3766dd1e5ba2ba15a661c,2aaf2c8?w=1280",
-    "date": 1795860773000
+    "date": 1795860773000,
+    "titleSl": "Ganljiva izvedba v oddaji »The Voice« – pojoči voznik avtobusa spravi žirijo do solz"
    },
    {
     "title": "Weiterfahren oder neu kaufen? - Ab wann lohnt sich ein neues Auto?",
@@ -954,20 +971,6 @@
     "image": "https://images.bild.de/6b0a9b8e741a4ef94784b24b/0c4c05a83afbab1dfe8d3aa6dd750f7e,c0d45909?w=1280",
     "date": 1795859830000,
     "titleSl": "Obsežna policijska akcija na železniški postaji Senden – dve osebi sta bili hudo poškodovani v pretepu z noži na vlaku"
-   },
-   {
-    "title": "Millionen Haushalte betroffen - 85 Prozent! Für viele Kunden wird’s ganz bitter",
-    "link": "https://www.bild.de/politik/inland/strompreise-2027-millionen-haushalten-drohen-hoehere-kosten-6b098e5a3d0d9d6539f8fe4f",
-    "image": "https://images.bild.de/6b098e5a3d0d9d6539f8fe4f/d42775d337f53b7cc8172aa191502c88,60c114ab?w=1280",
-    "date": 1795859598000,
-    "titleSl": "Prizadetih je več milijonov gospodinjstev – 85 odstotkov! Za številne stranke bo to zelo neprijetno"
-   },
-   {
-    "title": "Erster Arena-Kampf seit Klitschko - Das große deutsche Box-Comeback",
-    "link": "https://www.bild.de/sport/mehr-sport/agit-kabayel-weltmeister-kaempft-vor-50-000-fans-das-grosse-deutsche-box-comeback-6b0931633902428a0b42918e",
-    "image": "https://images.bild.de/6b0931633902428a0b42918e/8b5c2dd1940c3e053681b70306b339a1,c68631ab?w=1280",
-    "date": 1795859554000,
-    "titleSl": "Prvi dvoboj v dvorani Arena po Klitschku – veliki nemški boksarski povratek"
    }
   ],
   "krone": [
@@ -1195,7 +1198,8 @@
     "title": "« “GTA VI” joue un rôle de déclencheur » : pourquoi la PlayStation 5 est en rupture de stock",
     "link": "https://www.lemonde.fr/pixels/article/2026/11/28/gta-vi-joue-un-role-de-declencheur-pourquoi-la-playstation-5-est-en-rupture-de-stock_6816081_4408996.html",
     "image": "https://img.lemde.fr/2026/11/18/688/0/8256/4128/644/322/60/0/7a78b93_ftp-1-yl5bvabkw6yf-c579a288736e43e8bc9c97f9f35392d9-0-201ba822bd3146c696c3bbca2fd80435.jpg",
-    "date": 1795849216000
+    "date": 1795849216000,
+    "titleSl": "»Igra »GTA VI« ima vlogo sprožilca«: zakaj je konzola PlayStation 5 razprodana"
    },
    {
     "title": "Marquée par la guerre au Proche-Orient, l’écrivaine Elisa Shua Dusapin raconte comment elle a renoncé au roman pour « Sauf la frontière »",
@@ -1315,67 +1319,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T10:14:25.140Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-28T10:14:25.756Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-28T10:14:25.759Z",
+   "checkedAt": "2026-11-28T10:16:25.871Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T10:14:25.907Z",
+   "checkedAt": "2026-11-28T10:16:26.615Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-28T10:16:26.906Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-28T10:16:27.113Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T10:14:26.504Z",
+   "checkedAt": "2026-11-28T10:16:27.423Z",
+   "success": true
+  },
+  "nyt": {
+   "checkedAt": "2026-11-28T10:16:27.752Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
-  "bbc": {
-   "checkedAt": "2026-11-28T10:14:26.550Z",
-   "success": true
-  },
-  "nyt": {
-   "checkedAt": "2026-11-28T10:14:26.554Z",
-   "success": true
-  },
   "aljazeera": {
-   "checkedAt": "2026-11-28T10:14:26.558Z",
+   "checkedAt": "2026-11-28T10:16:27.895Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-28T10:16:28.017Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T10:14:27.243Z",
+   "checkedAt": "2026-11-28T10:16:28.247Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-28T10:14:27.459Z",
+   "checkedAt": "2026-11-28T10:16:29.365Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T10:14:27.682Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-28T10:14:28.239Z",
+   "checkedAt": "2026-11-28T10:16:29.819Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-28T10:14:28.979Z",
+   "checkedAt": "2026-11-28T10:16:32.184Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T10:14:29.036Z",
+   "checkedAt": "2026-11-28T10:16:32.213Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-28T10:16:33.655Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T10:14:29.092Z",
+   "checkedAt": "2026-11-28T10:16:33.845Z",
    "success": true
   }
  },
