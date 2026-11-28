@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T05:50:43.815Z",
+ "generatedAt": "2026-11-28T05:52:27.362Z",
  "sources": {
   "siol": [
    {
@@ -975,6 +975,13 @@
   ],
   "krone": [
    {
+    "title": "Lkw blieben liegen - Schneechaos: Kommandant vermisst „Hausverstand“",
+    "link": "https://www.krone.at/4393279",
+    "image": "https://imgl.krone.at/scaled/4393284/v6fa316/full.jpg",
+    "date": 1795845094000,
+    "titleSl": "Tovornjaki so obtičali – snežni kaos: poveljnik pogreša »zdravo pamet«"
+   },
+   {
     "title": "Nach zähen Tagen - „Besonderes Gefühl“ selbst für den Ski-Routinier",
     "link": "https://www.krone.at/4386531",
     "image": "https://imgl.krone.at/scaled/4386620/v173964/full.jpg",
@@ -1015,13 +1022,6 @@
     "image": "https://imgl.krone.at/scaled/1777182/vfa2de1/full.jpg",
     "date": 1795842054000,
     "titleSl": "Dunaj, Spodnja Avstrija in Gradiščanska – Živali, ki iščejo dom"
-   },
-   {
-    "title": "Lkw blieben liegen - Schneechaos: Kommandant vermisst „Hausverstand“",
-    "link": "https://www.krone.at/4393279",
-    "image": "https://imgl.krone.at/scaled/4393284/v6fa316/full.jpg",
-    "date": 1795842045000,
-    "titleSl": "Tovornjaki so obtičali – snežni kaos: poveljnik pogreša »zdravo pamet«"
    },
    {
     "title": "Maskierter Angriff - Mordversuch mit Nudelholz: Salzburger angeklagt",
@@ -1320,23 +1320,27 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T05:50:39.308Z",
+   "checkedAt": "2026-11-28T05:52:24.452Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T05:50:40.619Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-28T05:50:40.626Z",
+   "checkedAt": "2026-11-28T05:52:25.082Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T05:50:40.694Z",
+   "checkedAt": "2026-11-28T05:52:25.186Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-28T05:52:25.335Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T05:50:41.546Z",
+   "checkedAt": "2026-11-28T05:52:25.952Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-28T05:52:26.189Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1348,39 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-28T05:50:42.014Z",
-   "success": true
-  },
-  "reuters": {
-   "checkedAt": "2026-11-28T05:50:42.034Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T05:50:42.057Z",
+   "checkedAt": "2026-11-28T05:52:26.276Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T05:50:42.135Z",
+   "checkedAt": "2026-11-28T05:52:26.341Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-28T05:50:42.827Z",
+  "reuters": {
+   "checkedAt": "2026-11-28T05:52:26.642Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T05:50:42.906Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-28T05:50:43.092Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T05:50:43.265Z",
+   "checkedAt": "2026-11-28T05:52:26.965Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T05:50:43.620Z",
+   "checkedAt": "2026-11-28T05:52:26.997Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-28T05:52:27.038Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-28T05:52:27.265Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-28T05:52:27.281Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T05:50:43.815Z",
+   "checkedAt": "2026-11-28T05:52:27.360Z",
    "success": true
   }
  },
