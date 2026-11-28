@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:36:33.351Z",
+ "generatedAt": "2026-11-28T01:38:32.655Z",
  "sources": {
   "siol": [
    {
@@ -376,13 +376,15 @@
     "title": "No. 23 Indiana overwhelms Bowling Green to remain perfect",
     "link": "https://www.reuters.com/sports/basketball/no-23-indiana-overwhelms-bowling-green-remain-perfect--flm-2026-11-28/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HBDPOZ5WRBNMJGP72I6EOHFIXU.jpg",
-    "date": 1795829277000
+    "date": 1795829277000,
+    "titleSl": "Indiana, uvrščena na 23. mesto, je premagala Bowling Green in ostaja neporažena"
    },
    {
     "title": "Andrew Mangiapane, Spencer Knight lead Blackhawks past Rangers",
     "link": "https://www.reuters.com/sports/nhl/andrew-mangiapane-spencer-knight-lead-blackhawks-past-rangers--flm-2026-11-28/",
     "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6RUJXOLWSZPDZBIT2MZVVUMCCY.jpg",
-    "date": 1795829020000
+    "date": 1795829020000,
+    "titleSl": "Andrew Mangiapane in Spencer Knight sta vodila ekipo Blackhawks do zmage nad ekipo Rangers"
    },
    {
     "title": "No. 7 Texas rallies to edge Saint Mary's for Rady Children's title",
@@ -457,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
+    "link": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-uk-royals-catherine-cancer--pkgv/27int-uk-royals-catherine-cancer--pkgv-mediumSquareAt3X.jpg",
+    "date": 1795829700000,
+    "titleSl": "Dokumentarni film o raku princese Kate z naslovom »Heal«: 3 ključne ugotovitve"
+   },
+   {
     "title": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
     "link": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/00DC-BACKLASH-01-vzhc/00DC-BACKLASH-01-vzhc-mediumSquareAt3X-v2.jpg",
@@ -518,13 +527,6 @@
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27met-cousins-death-kpcz/27met-cousins-death-kpcz-mediumSquareAt3X.jpg",
     "date": 1795820689000,
     "titleSl": "Umrla je Andrea Stewart-Cousins, prva predsednica večine v senatu zvezne države New York"
-   },
-   {
-    "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
-    "link": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
-    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-uk-royals-catherine-cancer--pkgv/27int-uk-royals-catherine-cancer--pkgv-mediumSquareAt3X.jpg",
-    "date": 1795819615000,
-    "titleSl": "Dokumentarni film o raku princese Kate z naslovom »Heal«: 3 ključne ugotovitve"
    },
    {
     "title": "What to Know About the (Rescheduled) Macy’s Thanksgiving Parade",
@@ -1318,67 +1320,67 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T01:36:29.062Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-28T01:36:29.718Z",
+   "checkedAt": "2026-11-28T01:38:24.205Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T01:36:29.824Z",
+   "checkedAt": "2026-11-28T01:38:25.363Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-28T01:38:25.643Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T01:36:29.844Z",
+   "checkedAt": "2026-11-28T01:38:25.758Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T01:36:30.413Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T01:36:30.472Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-28T01:36:30.483Z",
+   "checkedAt": "2026-11-28T01:38:26.427Z",
    "success": true
   },
   "guardian": {
    "checkedAt": "2026-11-23T16:48:27.351Z",
    "success": false
   },
+  "bbc": {
+   "checkedAt": "2026-11-28T01:38:26.971Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-28T01:38:27.017Z",
+   "success": true
+  },
   "nyt": {
-   "checkedAt": "2026-11-28T01:36:30.530Z",
+   "checkedAt": "2026-11-28T01:38:27.078Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T01:36:32.626Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-28T01:36:32.657Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-28T01:36:32.743Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T01:36:32.821Z",
+   "checkedAt": "2026-11-28T01:38:30.483Z",
    "success": true
   },
   "spiegel": {
-   "checkedAt": "2026-11-28T01:36:32.859Z",
+   "checkedAt": "2026-11-28T01:38:31.476Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-28T01:38:31.503Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-28T01:38:31.894Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-28T01:38:32.048Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T01:36:33.136Z",
+   "checkedAt": "2026-11-28T01:38:32.315Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T01:36:33.350Z",
+   "checkedAt": "2026-11-28T01:38:32.654Z",
    "success": true
   }
  },
