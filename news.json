@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:36:30.820Z",
+ "generatedAt": "2026-11-28T00:38:29.787Z",
  "sources": {
   "siol": [
    {
@@ -459,6 +459,13 @@
   ],
   "nyt": [
    {
+    "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
+    "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
+    "date": 1795826152000,
+    "titleSl": "Zaradi neurja na zahvalni dan je na vzhodni obali več kot 400.000 ljudi ostalo brez električne energije"
+   },
+   {
     "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
     "link": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-Eygpt-journalist-vfzk/27int-Eygpt-journalist-vfzk-mediumSquareAt3X.jpg",
@@ -471,13 +478,6 @@
     "image": "",
     "date": 1795824449000,
     "titleSl": "Anita DeFrantz, ki se je z veslanjem zapisala v zgodovino olimpijskih iger, je umrla v starosti 74 let"
-   },
-   {
-    "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
-    "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
-    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
-    "date": 1795824338000,
-    "titleSl": "Zaradi neurja na zahvalni dan je na vzhodni obali več kot 400.000 ljudi ostalo brez električne energije"
    },
    {
     "title": "Five Big Questions for the 2028 Presidential Race",
@@ -1320,31 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T00:36:22.133Z",
-   "success": true
-  },
-  "siol": {
-   "checkedAt": "2026-11-28T00:36:22.705Z",
+   "checkedAt": "2026-11-28T00:38:25.722Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T00:36:22.999Z",
+   "checkedAt": "2026-11-28T00:38:26.664Z",
+   "success": true
+  },
+  "siol": {
+   "checkedAt": "2026-11-28T00:38:26.767Z",
    "success": true
   },
   "zurnal": {
-   "checkedAt": "2026-11-28T00:36:23.099Z",
+   "checkedAt": "2026-11-28T00:38:27.460Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T00:36:24.005Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T00:36:24.377Z",
-   "success": true
-  },
-  "bbc": {
-   "checkedAt": "2026-11-28T00:36:24.460Z",
+   "checkedAt": "2026-11-28T00:38:27.781Z",
    "success": true
   },
   "guardian": {
@@ -1352,35 +1344,43 @@
    "success": false
   },
   "nyt": {
-   "checkedAt": "2026-11-28T00:36:24.553Z",
+   "checkedAt": "2026-11-28T00:38:27.956Z",
+   "success": true
+  },
+  "bbc": {
+   "checkedAt": "2026-11-28T00:38:28.045Z",
+   "success": true
+  },
+  "aljazeera": {
+   "checkedAt": "2026-11-28T00:38:28.059Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T00:36:29.486Z",
-   "success": true
-  },
-  "krone": {
-   "checkedAt": "2026-11-28T00:36:30.029Z",
-   "success": true
-  },
-  "spiegel": {
-   "checkedAt": "2026-11-28T00:36:30.042Z",
-   "success": true
-  },
-  "bild": {
-   "checkedAt": "2026-11-28T00:36:30.063Z",
+   "checkedAt": "2026-11-28T00:38:28.245Z",
    "success": true
   },
   "lemonde": {
-   "checkedAt": "2026-11-28T00:36:30.324Z",
+   "checkedAt": "2026-11-28T00:38:28.404Z",
+   "success": true
+  },
+  "bild": {
+   "checkedAt": "2026-11-28T00:38:28.682Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-28T00:38:28.779Z",
    "success": true
   },
   "rainews": {
-   "checkedAt": "2026-11-28T00:36:30.479Z",
+   "checkedAt": "2026-11-28T00:38:28.947Z",
+   "success": true
+  },
+  "krone": {
+   "checkedAt": "2026-11-28T00:38:29.619Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T00:36:30.820Z",
+   "checkedAt": "2026-11-28T00:38:29.786Z",
    "success": true
   }
  },
