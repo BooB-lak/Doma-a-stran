@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:08:29.813Z",
+ "generatedAt": "2026-11-28T01:10:44.816Z",
  "sources": {
   "siol": [
    {
@@ -631,6 +631,13 @@
   ],
   "aljazeera": [
    {
+    "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+    "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
+    "date": 1795827600000,
+    "titleSl": "Na protestu »Dan narodnega ogorčenja« se je udeležilo na tisoče Portoričanov"
+   },
+   {
     "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-francesca-1795824697.png?resize=1920%2C1080&quality=80",
@@ -706,13 +713,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/openai-1787794171_757e43-1787807919.jpeg?resize=1200%2C630&quality=80",
     "date": 1795812051000,
     "titleSl": "OpenAI je vložil nasprotno tožbo proti Applu zaradi poslovnih skrivnosti, saj se tekma na področju umetne inteligence zaostruje"
-   },
-   {
-    "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
-    "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e278cdc4-1795809913.jpg?resize=1920%2C1440",
-    "date": 1795811997000,
-    "titleSl": "Putin je predstavil novo rusko jedrsko podmornico s hipersoničnim orožjem"
    }
   ],
   "guardian": [
@@ -1320,23 +1320,23 @@
  },
  "sourceStatus": {
   "24ur": {
-   "checkedAt": "2026-11-28T01:08:23.403Z",
+   "checkedAt": "2026-11-28T01:10:39.017Z",
    "success": true
   },
   "rtvslo": {
-   "checkedAt": "2026-11-28T01:08:24.381Z",
+   "checkedAt": "2026-11-28T01:10:40.106Z",
    "success": true
   },
   "siol": {
-   "checkedAt": "2026-11-28T01:08:24.857Z",
-   "success": true
-  },
-  "zurnal": {
-   "checkedAt": "2026-11-28T01:08:25.292Z",
+   "checkedAt": "2026-11-28T01:10:40.216Z",
    "success": true
   },
   "hop": {
-   "checkedAt": "2026-11-28T01:08:25.399Z",
+   "checkedAt": "2026-11-28T01:10:40.968Z",
+   "success": true
+  },
+  "zurnal": {
+   "checkedAt": "2026-11-28T01:10:40.989Z",
    "success": true
   },
   "guardian": {
@@ -1344,43 +1344,43 @@
    "success": false
   },
   "bbc": {
-   "checkedAt": "2026-11-28T01:08:25.808Z",
+   "checkedAt": "2026-11-28T01:10:41.106Z",
    "success": true
   },
   "nyt": {
-   "checkedAt": "2026-11-28T01:08:25.875Z",
-   "success": true
-  },
-  "aljazeera": {
-   "checkedAt": "2026-11-28T01:08:25.894Z",
+   "checkedAt": "2026-11-28T01:10:41.279Z",
    "success": true
   },
   "reuters": {
-   "checkedAt": "2026-11-28T01:08:25.909Z",
+   "checkedAt": "2026-11-28T01:10:41.737Z",
    "success": true
   },
-  "spiegel": {
-   "checkedAt": "2026-11-28T01:08:26.849Z",
-   "success": true
-  },
-  "lemonde": {
-   "checkedAt": "2026-11-28T01:08:26.955Z",
-   "success": true
-  },
-  "rainews": {
-   "checkedAt": "2026-11-28T01:08:27.255Z",
+  "aljazeera": {
+   "checkedAt": "2026-11-28T01:10:43.287Z",
    "success": true
   },
   "bild": {
-   "checkedAt": "2026-11-28T01:08:28.866Z",
+   "checkedAt": "2026-11-28T01:10:43.606Z",
+   "success": true
+  },
+  "spiegel": {
+   "checkedAt": "2026-11-28T01:10:43.802Z",
+   "success": true
+  },
+  "lemonde": {
+   "checkedAt": "2026-11-28T01:10:44.129Z",
+   "success": true
+  },
+  "rainews": {
+   "checkedAt": "2026-11-28T01:10:44.453Z",
    "success": true
   },
   "krone": {
-   "checkedAt": "2026-11-28T01:08:29.359Z",
+   "checkedAt": "2026-11-28T01:10:44.521Z",
    "success": true
   },
   "elpais": {
-   "checkedAt": "2026-11-28T01:08:29.812Z",
+   "checkedAt": "2026-11-28T01:10:44.815Z",
    "success": true
   }
  },
